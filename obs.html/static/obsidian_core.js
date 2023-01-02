@@ -11,7 +11,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/taelgarverse";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '42152501350160373646258473742635753318'                       // used to check whether the localStorage data is stale
+var gzip_hash = '801965169304650906552732104360086028'                       // used to check whether the localStorage data is stale
 
 
 // Onloads
