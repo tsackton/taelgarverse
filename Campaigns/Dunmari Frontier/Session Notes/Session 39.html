@@ -7,7 +7,7 @@
                 <meta charset="UTF-8" />
                 <meta name="node_id" content="session 39">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-                <link rel="shortcut icon" href="/favicon.ico" />
+                <link rel="shortcut icon" href="/taelgarverse/favicon.ico" />
 
                 <!-- Set title -->
                 <title>TaelgarVerse</title>
@@ -106,15 +106,15 @@
 
         <div id="page_holder" class="flex_col">
                 <div id="header" class="header">
-                        <div id="header_flex" class="flex_row">
-                                <a href="/taelgarverse/index.html" id="homelink" title="Clear screen and go to homepage">TaelgarVerse</a>
-                                <div id="menu_toggle_button" class="navbar-button requires_js" onclick="toggle_menu()">
-                                        ≡
-                                </div>
-                                <div id="navbar" class="navbar requires_js">
-                                        
-                                        <div class="icon-tray">
-                                                <div id="theme-button" class="theme-button requires_js" title="Change theme" onclick="toggle_theme_popup(this)">
+    <div id="header_flex" class="flex_row">
+            <a href="/taelgarverse/index.html" id="homelink" title="Clear screen and go to homepage">TaelgarVerse</a>
+            <div id="menu_toggle_button" class="navbar-button requires_js" onclick="toggle_menu()">
+                    ≡
+            </div>
+            <div id="navbar" class="navbar requires_js">
+                    
+                    <div class="icon-tray">
+                            <div id="theme-button" class="theme-button requires_js" title="Change theme" onclick="toggle_theme_popup(this)">
     T
 </div>
 <script>
@@ -145,7 +145,7 @@
         }
     }
 </script>
-                                                        <div onclick="openSearch()" class="theme-button requires_js">
+                                    <div onclick="openSearch()" class="theme-button requires_js">
                 <img src = "/taelgarverse/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
         </div>
         <script>
@@ -160,30 +160,30 @@
                         }
                 }
         </script>
-                                                        <div class="graph_header_div requires_js">
+                                    <div class="graph_header_div requires_js">
             <a id="graph_link" class="system-link" href="/taelgarverse/obs.html/graph/index.html?node=session 39" title="Open fullpage Graph">
                     <img class="graph_header_div_svg" src = "/taelgarverse/obs.html/static/graph.svg" alt="Open fullpage Graph" style="margin: 2px; width: 17px;"/>
             </a>
         </div>
-                                                        <div >
+                                    <div >
             <a id="dirtree_link" class="system-link" href="/taelgarverse/obs.html/dir_index.html" title="View directory tree">
                     <img src = "/taelgarverse/obs.html/static/dirtree.svg" style="width: 12px; padding: 4px;" alt="Directory tree link"/>
             </a>
         </div>
-                                                <div>
+                            <div>
     <a href="/taelgarverse/obs.html/tags/index.html" title="Open tag view">
             <img src = "/taelgarverse/obs.html/static/hashtag.svg" alt="RSS Feed link" style="width: 24px; margin-left: -2px; margin-top: -2px;"/>
     </a>
 </div>
-                                                
-                                        </div>
-                                        <div style="display: flex; flex-direction:column">
-                                                <div id="left_pane_toggle_nav" class="left_pane_toggle_nav">Toggle Directory Tree Pane</div>
-                                                <div id="right_pane_toggle_nav" class="right_pane_toggle_nav">Toggle Table of Contents Pane</div>
-                                        </div>
-                                </div>
-                        </div>
-                        <div class="popup" id="theme-popup">
+                            
+                    </div>
+                    <div style="display: flex; flex-direction:column">
+                        <div id="left_pane_toggle_nav" class="left_pane_toggle_nav">Toggle Directory Tree Pane</div>
+                        <div id="right_pane_toggle_nav" class="right_pane_toggle_nav">Toggle Table of Contents Pane</div>
+                    </div>
+            </div>
+    </div>
+    <div class="popup" id="theme-popup">
     <label for="cars">Theme </label>
 
     <select name="theme" id="theme" onchange="set_theme(this.value)">
@@ -192,12 +192,12 @@
       <option value="obs-dark">obsidian-dark</option>
     </select> 
 </div>
-                </div>
+</div>
                 <div class="flex_row">
                         <div id="left_pane" class="left_pane active">
-                                <div id="left_pane_fold_header" class="left_pane_fold_header fold_header">x</div>
-                                <div id="left_pane_content" class="left_pane_content">
-                                        <button id="folder-1" class="dir-button" onclick="toggle_dir(this.id)">Campaigns</button>
+    <div id="left_pane_fold_header" class="left_pane_fold_header fold_header">x</div>
+    <div id="left_pane_content" class="left_pane_content">
+            <div class="dirtree"><button id="folder-1" class="dir-button" onclick="toggle_dir(this.id)">Campaigns</button>
 <div id="folder-container-1" class="dir-container requires_js active" path="/taelgarverse/Campaigns">
 	<button id="folder-2" class="dir-button" onclick="toggle_dir(this.id)">Dunmari Frontier</button>
 	<div id="folder-container-2" class="dir-container requires_js active" path="/taelgarverse/Campaigns/Dunmari Frontier">
@@ -770,6 +770,8 @@
 		<button id="folder-61" class="dir-button folder_note " href="/taelgarverse/Multiverse/Echo Realms/Shadowfell/Shadowfell.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Shadowfell</button>
 		<div id="folder-container-61" class="dir-container requires_js " path="/taelgarverse/Multiverse/Echo Realms/Shadowfell">
 			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Multiverse/Echo Realms/Shadowfell/Bleakhold.html"  >Bleakhold</a></li>
+				<li><a class="" href="/taelgarverse/Multiverse/Echo Realms/Shadowfell/Morkalan.html"  >Morkalan</a></li>
 			</ul>
 		</div>
 		<ul class="dir-list">
@@ -926,6 +928,7 @@
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Dag Hardstone.html"  >Dag Hardstone</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Dain Goldhammer.html"  >Dain Goldhammer</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Delig Hardstone.html"  >Delig Hardstone</a></li>
+			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Dworic.html"  >Dworic</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Eberk Brawnanvil.html"  >Eberk Brawnanvil</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Fallthra Hardstone.html"  >Fallthra Hardstone</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Finellen Silverstone.html"  >Finellen Silverstone</a></li>
@@ -933,6 +936,9 @@
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Hagrim.html"  >Hagrim</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Magran Boulderbeard.html"  >Magran Boulderbeard</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Morkral Hardstone.html"  >Morkral Hardstone</a></li>
+			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Nora Silverspark.html"  >Nora Silverspark</a></li>
+			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Rurik.html"  >Rurik</a></li>
+			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Tak.html"  >Tak</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Torgga Redpeak.html"  >Torgga Redpeak</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Travok Redpeak.html"  >Travok Redpeak</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Dwarves/Ulfgar Frostbeard.html"  >Ulfgar Frostbeard</a></li>
@@ -1005,6 +1011,7 @@
 			<li><a class="" href="/taelgarverse/NPCs/Other Nonhumans/Melusine.html"  >Melusine</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Other Nonhumans/Motua.html"  >Motua</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Other Nonhumans/Nahto.html"  >Nahto</a></li>
+			<li><a class="" href="/taelgarverse/NPCs/Other Nonhumans/Odim Mavdyrson.html"  >Odim Mavdyrson</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Other Nonhumans/Orc in the Mirror.html"  >Orc in the Mirror</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Other Nonhumans/Revaka.html"  >Revaka</a></li>
 			<li><a class="" href="/taelgarverse/NPCs/Other Nonhumans/Skoda.html"  >Skoda</a></li>
@@ -1066,13 +1073,16 @@
 		<li><a class="" href="/taelgarverse/PCs/Iascaire.html"  >Iascaire</a></li>
 		<li><a class="" href="/taelgarverse/PCs/Izzarak.html"  >Izzarak</a></li>
 		<li><a class="" href="/taelgarverse/PCs/Kenzo.html"  >Kenzo</a></li>
+		<li><a class="" href="/taelgarverse/PCs/Merash.html"  >Merash</a></li>
 		<li><a class="" href="/taelgarverse/PCs/Mikasa.html"  >Mikasa</a></li>
 		<li><a class="" href="/taelgarverse/PCs/Raven.html"  >Raven</a></li>
 		<li><a class="" href="/taelgarverse/PCs/Riswynn.html"  >Riswynn</a></li>
+		<li><a class="" href="/taelgarverse/PCs/Rothfis.html"  >Rothfis</a></li>
 		<li><a class="" href="/taelgarverse/PCs/Rufus.html"  >Rufus</a></li>
 		<li><a class="" href="/taelgarverse/PCs/Seeker.html"  >Seeker</a></li>
 		<li><a class="" href="/taelgarverse/PCs/Shoal.html"  >Shoal</a></li>
 		<li><a class="" href="/taelgarverse/PCs/Spirala.html"  >Spirala</a></li>
+		<li><a class="" href="/taelgarverse/PCs/Thror.html"  >Thror</a></li>
 		<li><a class="" href="/taelgarverse/PCs/Wellby.html"  >Wellby</a></li>
 	</ul>
 </div>
@@ -1130,42 +1140,15 @@
 		<li><a class="" href="/taelgarverse/Vehicles/Wave Dancer.html"  >Wave Dancer</a></li>
 	</ul>
 </div>
-<button id="folder-86" class="dir-button" onclick="toggle_dir(this.id)">_media</button>
-<div id="folder-container-86" class="dir-container requires_js " path="/taelgarverse/_media">
-	<ul class="dir-list">
-		<li><a class="" href="/taelgarverse/_media/amberglow.png"  class="external-link">amberglow</a></li>
-		<li><a class="" href="/taelgarverse/_media/antonia-v1-restored.png"  class="external-link">antonia-v1-restored</a></li>
-		<li><a class="" href="/taelgarverse/_media/baxter.jpg"  class="external-link">baxter</a></li>
-		<li><a class="" href="/taelgarverse/_media/cassian-final.png"  class="external-link">cassian-final</a></li>
-		<li><a class="" href="/taelgarverse/_media/chalice-of-the-runepriest-final.png"  class="external-link">chalice-of-the-runepriest-final</a></li>
-		<li><a class="" href="/taelgarverse/_media/delwath-full.jpg"  class="external-link">delwath-full</a></li>
-		<li><a class="" href="/taelgarverse/_media/dwarven-hall-of-gems.png"  class="external-link">dwarven-hall-of-gems</a></li>
-		<li><a class="" href="/taelgarverse/_media/dwarven-unnamed-fortress.png"  class="external-link">dwarven-unnamed-fortress</a></li>
-		<li><a class="" href="/taelgarverse/_media/five-siblings-family-tree.png"  class="external-link">five-siblings-family-tree</a></li>
-		<li><a class="" href="/taelgarverse/_media/heart-of-the-mountain.png"  class="external-link">heart-of-the-mountain</a></li>
-		<li><a class="" href="/taelgarverse/_media/hektor-final.png"  class="external-link">hektor-final</a></li>
-		<li><a class="" href="/taelgarverse/_media/kadmos-final.png"  class="external-link">kadmos-final</a></li>
-		<li><a class="" href="/taelgarverse/_media/marcella.png"  class="external-link">marcella</a></li>
-		<li><a class="" href="/taelgarverse/_media/zarkandur-city-full.png"  class="external-link">zarkandur-city-full</a></li>
-	</ul>
-</div>
 <ul class="dir-list">
-	<li><a class="" href="/taelgarverse/Dworic.html"  >Dworic</a></li>
-	<li><a class="" href="/taelgarverse/Merash.html"  >Merash</a></li>
-	<li><a class="" href="/taelgarverse/Morkalan.html"  >Morkalan</a></li>
-	<li><a class="" href="/taelgarverse/Nora Silverspark.html"  >Nora Silverspark</a></li>
-	<li><a class="" href="/taelgarverse/Odim Mavdyrson.html"  >Odim Mavdyrson</a></li>
-	<li><a class="" href="/taelgarverse/Rothfis.html"  >Rothfis</a></li>
-	<li><a class="" href="/taelgarverse/Rurik.html"  >Rurik</a></li>
-	<li><a class="" href="/taelgarverse/Tak.html"  >Tak</a></li>
-	<li><a class="" href="/taelgarverse/Thror.html"  >Thror</a></li>
+	<li><a class="" href="/taelgarverse/.gitignore"  class="external-link">.gitignore</a></li>
 	<li><a class="" href="/taelgarverse/index.html"  >index</a></li>
 </ul>
-
-                                </div>
-                        </div>
+</div>
+    </div>
+</div>
                         <div class="container">
-                                <div class="toc">
+                                <div class="content"><div class="toc">
 <ul>
 <li><a href="#session-39" class="anchor-link">Session 39</a><ul>
 <li><a href="#the-werewolves-tale" class="anchor-link">The Werewolves’ Tale</a></li>
@@ -1185,7 +1168,7 @@
 <h5 id="the-werewolves-tale">The Werewolves’ Tale</h5>
 <p>The <a href="/taelgarverse/NPCs/Other%20Nonhumans/Werewolf%20Prisoner.html">man</a> is less cooperative. He was one of the members of the cult that traveled from the east, and is not willing to speak, until <a href="/taelgarverse/PCs/Seeker.html">Seeker</a>’s magic turns his mind and he opens up. He was apparently part of a pack of werewolves living in the desert near <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Ruins%20and%20Lairs/Kharsan.html">Kharsan</a>, until maybe a decade ago a charismatic leader showed up – the leader of the <a href="/taelgarverse/Organizations/Fraternity%20of%20the%20Empty%20Moon.html">Fraternity of the Empty Moon</a>, now dead – and began preaching of a return of <a href="/taelgarverse/Gods/High%20Gods/Jinnik.html">Jinnik</a>’s curse, of power and freedom. His pack was quickly swayed, and joined the mission, which started with a way to get into <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Dunmar/Dunmar.html">Dunmar</a>, to avoid <a href="/taelgarverse/Gods/Dunmari/Shakun.html">Shakun</a>’s maze. The leader knew of an <a href="/taelgarverse/NPCs/Enemies/Agata.html">old witch</a> who could help, but he needed powerful magic to trade to her. Until a few years later, his brother came home with a <a href="/taelgarverse/Items/Artifacts%20of%20Power/Scepter%20of%20Command.html">silver scepter</a> that seemed to be quite powerful, and the leader knew this was what he needed. So the plan was set in motion. The leader left with the scepter and came back a few months later, telling them events were in motion. This was maybe two years ago. Then, a few months back he came and told us that all was ready. There was one thing he had to do first, create a distraction, but soon it would be time. We moved towards the border, and found great hordes of refugees fleeing west. It was easy to join them, and disappear in the throngs of strangers in <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Dunmar/Central%20Dunmar/Tokra/Tokra.html">Tokra</a>, where we set up a base and waited for the proper alignment of the planes. But there was a problem. <a href="/taelgarverse/Gods/High%20Gods/Jinnik.html">Jinnik</a>’s curse was too strong, we couldn’t penetrate the madness of the mists, but we needed to get in for the greatest effect of the ritual. We were stumped by this, until we heard a Dunmari man talking about a map, a clue and a secret. So we hunted him down. But the map was no good, or there was a secret we didn’t understand, but the hope was the Dunmari scholar we turned would solve it. That was a week ago.    </p>
 <p>As the party finishes interrogating the captives, the story of the past few months becomes clear. The leader of the <a href="/taelgarverse/Organizations/Fraternity%20of%20the%20Empty%20Moon.html">Fraternity of the Empty Moon</a> found the <a href="/taelgarverse/Items/Artifacts%20of%20Power/Scepter%20of%20Command.html">scepter</a>, somewhere near or in <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Ruins%20and%20Lairs/Kharsan.html">Kharsan</a>, and traded it to <a href="/taelgarverse/NPCs/Enemies/Agata.html">Agata</a> in exchange for her help getting them unnoticed into <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Dunmar/Central%20Dunmar/Tokra/Tokra.html">Tokra</a>. This required two things: a way to create a refugee crises, and a way past <a href="/taelgarverse/Gods/Dunmari/Shakun.html">Shakun</a>’s maze. <a href="/taelgarverse/NPCs/Enemies/Agata.html">Agata</a> gave the werewolf cult leader a scroll to summon a demon in order to provoke a border crises, and implemented her plan to lure <a href="/taelgarverse/NPCs/Dunmari/Cintra.html">Cintra</a> out of <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Dunmar/Eastern%20Dunmar/Karawa.html">Karawa</a> with <a href="/taelgarverse/Items/Artifacts%20of%20Power/The%20Heart%20of%20Shakun.html">The Heart of Shakun</a> in order to lower <a href="/taelgarverse/Gods/Dunmari/Shakun.html">Shakun</a>’s defenses and allow the werewolves, and the gnolls created by the demon, into <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Dunmar/Dunmar.html">Dunmar</a>. While the prisoner did not know all the details, you recall that <a href="/taelgarverse/NPCs/Enemies/Agata.html">Agata</a> had a deal with the <a href="/taelgarverse/not_created.html" class="nonexistent-link">Centaurs</a> to not travel or interfere in the north, and probably wanted to meet the letter, if not the spirit, of that agreement by putting as much distance between her and the gnolls as possible (although she also obviously twisted some for her own purposes, such as guarding the entrance to <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Dunmar/Eastern%20Dunmar/Shakun%E2%80%99s%20Wellspring.html">Shakun’s Wellspring</a>.   </p>
-<p>With the sun climbing towards noon, the party escorted the prisoners back to <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Dunmar/Central%20Dunmar/Tokra/Tokra.html">Tokra</a>. We end as the party splits up, <a href="/taelgarverse/PCs/Riswynn.html">Riswynn</a> staying in <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Dunmar/Central%20Dunmar/Tokra/Tokra.html">Tokra</a> in charge of the prisoners, while <a href="/taelgarverse/PCs/Delwath.html">Delwath</a>, <a href="/taelgarverse/PCs/Kenzo.html">Kenzo</a>, <a href="/taelgarverse/PCs/Wellby.html">Wellby</a>, and <a href="/taelgarverse/PCs/Seeker.html">Seeker</a> get their gear and mounts and head north in search of <a href="/taelgarverse/NPCs/Dunmari/Saka.html">Saka</a>.</p>
+<p>With the sun climbing towards noon, the party escorted the prisoners back to <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Dunmar/Central%20Dunmar/Tokra/Tokra.html">Tokra</a>. We end as the party splits up, <a href="/taelgarverse/PCs/Riswynn.html">Riswynn</a> staying in <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Dunmar/Central%20Dunmar/Tokra/Tokra.html">Tokra</a> in charge of the prisoners, while <a href="/taelgarverse/PCs/Delwath.html">Delwath</a>, <a href="/taelgarverse/PCs/Kenzo.html">Kenzo</a>, <a href="/taelgarverse/PCs/Wellby.html">Wellby</a>, and <a href="/taelgarverse/PCs/Seeker.html">Seeker</a> get their gear and mounts and head north in search of <a href="/taelgarverse/NPCs/Dunmari/Saka.html">Saka</a>.</p></div>
 <div class="note-footer">
 <div class="backlinks">
 <h2>Backlinks</h2>
@@ -1201,13 +1184,13 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A285353181669908545918082249250585071972{level}" class="graph_div"></div>
+    <div id="A148521997206545784106891544689230660613{level}" class="graph_div"></div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B285353181669908545918082249250585071972{level}" level="{level}" note_temp_id="285353181669908545918082249250585071972" onclick="window.ObsHtmlGraph.run(this, '285353181669908545918082249250585071972', 'session 39');">
+        <button class="graph_button graph_show_button" id="B148521997206545784106891544689230660613{level}" level="{level}" note_temp_id="148521997206545784106891544689230660613" onclick="window.ObsHtmlGraph.run(this, '148521997206545784106891544689230660613', 'session 39');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C285353181669908545918082249250585071972{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C148521997206545784106891544689230660613{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
@@ -1230,11 +1213,11 @@
                         <div class="container_filler">
                         </div>
                         <div id="right_pane" class="right_pane active">
-                                <div id="right_pane_fold_header" class="right_pane_fold_header fold_header">x</div>
-                                <div id="right_pane_content" class="right_pane_content">
-                                        
-                                </div>
-                        </div>
+    <div id="right_pane_fold_header" class="right_pane_fold_header fold_header">x</div>
+    <div id="right_pane_content" class="right_pane_content">
+            
+    </div>
+</div>
                 </div>
         </div>
 
@@ -1304,10 +1287,10 @@
                         return ['left', 'right'][Number(header.classList.contains('right_pane_fold_header'))]
                 }
                 function save_panel_folding_state(header, active){
-                        localStorage.setItem('pane_folding_state_'+panel_folding_get_panel_name(header), Number(active));
+                        ls_set('pane_folding_state_'+panel_folding_get_panel_name(header), Number(active));
                 }
                 function load_panel_folding_state(panel_name){
-                        val = localStorage.getItem('pane_folding_state_'+panel_name)
+                        val = ls_get('pane_folding_state_'+panel_name)
                         if (!val){ return {'exists': false, 'value': null}}
                         return {'exists': true, 'value': Boolean(Number(val))}
                 }
