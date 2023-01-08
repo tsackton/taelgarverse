@@ -1,0 +1,1510 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+        <head>
+                <!-- Page information -->
+                <meta charset="UTF-8" />
+                <meta name="node_id" content="on the lost people of the forests">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                <link rel="shortcut icon" href="/taelgarverse/favicon.ico" />
+
+                <!-- Set title -->
+                <title>TaelgarVerse</title>
+
+                <!-- Includes -->
+                
+<script src="/taelgarverse/obs.html/static/obsidian_core.js"></script>
+<script src="/taelgarverse/obs.html/static/encoding.js"></script>
+<link rel="stylesheet" href="/taelgarverse/obs.html/static/master.css" />
+<script src="/taelgarverse/obs.html/static/mermaid.9.0.1.min.js"></script>
+<script>
+  MathJax = {
+    loader: {
+      load: [
+        '[tex]/action',
+        'output/chtml',
+        '[tex]/centernot'
+      ]
+    },
+    tex: {
+      inlineMath: [ ["\\(","\\)"] ],
+      displayMath: [ ["\\[","\\]"] ],
+      processEscapes: true,
+      processEnvironments: true,
+      packages: {'[+]': ['centernot']}
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script src="/taelgarverse/obs.html/static/flexsearch.bundle.js"></script>
+<script src="/taelgarverse/obs.html/static/pako.js"></script>
+<script src="/taelgarverse/obs.html/static/search.js"></script>
+<script src="/taelgarverse/obs.html/static/dirtree.js"></script>
+
+
+                <!-- Onload tweaks -->
+                <script>
+                        const CURRENT_NODE = 'on the lost people of the forests';
+                        const HTML_URL_PREFIX = '/taelgarverse';
+                        const PAGE_DEPTH = 2;
+                </script>
+        </head>
+
+<body class="theme-obs-light">
+        <div id="antiflash" style="display: none;"></div>
+        <script>
+                document.getElementById('antiflash').style.display = 'block';
+        </script>
+        <div id="search-master-div">
+    <div id="search-slab" king_ramses="return the slaaab">
+            <div id="search-controls">
+                    <input id="search_string" placeholder="Type to search notes" type="text" />
+                    <div class="tooltip" style="display: none;">
+                        <input type="checkbox" id="hard_search" name="hard" />
+                        <span class="tooltiptext">Hard search (require exact match)</span>
+                    </div>
+                    <div id="search-results-box">
+                        <div id="search-results"></div>
+                    </div>
+                    <div id="search-instructions">
+                        <div class="prompt-instruction">
+                                <b>esc</b> to dismiss
+                        </div>
+                    </div>
+            </div>
+    </div>
+</div>
+
+<script>
+    document.getElementById("search-master-div").addEventListener('click', e => {
+            if(e.target !== e.currentTarget){
+                    return
+            }
+            toggle_id('search-master-div');
+    })
+    document.getElementById("search_string").addEventListener("input", function(event) {
+            setTimeout( () =>run_search('search_string', 'hard_search'), 100 );
+    }); 
+    document.getElementById("hard_search").addEventListener("click", function(event) {
+            setTimeout( () =>run_search('search_string', 'hard_search'), 100 );
+    });
+
+    window.addEventListener('keydown', e => {
+        if((e.key=='Escape'||e.key=='Esc'||e.keyCode==27)){
+            toggle_id('search-master-div');
+            return false;
+        } 
+    }, true);
+
+    function click_list_link(element){
+        element.parentElement.getElementsByTagName('a')[0].click()
+    }
+</script>
+
+        <div id="page_holder" class="flex_col">
+                <div id="header" class="header">
+    <div id="header_flex" class="flex_row">
+            <a href="/taelgarverse/index.html" id="homelink" title="Clear screen and go to homepage">TaelgarVerse</a>
+            <div id="menu_toggle_button" class="navbar-button requires_js" onclick="toggle_menu()">
+                    ≡
+            </div>
+            <div id="navbar" class="navbar requires_js">
+                    
+                    <div class="icon-tray">
+                            <div id="theme-button" class="theme-button requires_js" title="Change theme" onclick="toggle_theme_popup(this)">
+    T
+</div>
+<script>
+    function toggle_theme_popup(el){
+        // make theme button show that it's active by adding the .active class
+        toggle(el);
+
+        // show the theme selector
+        toggle_id('theme-popup')
+
+        let h2 = document.getElementById('header2')
+        if (h2){
+            let pu = document.getElementById('header2').getElementsByClassName('popup')[0];
+            toggle(pu);
+        }
+    }
+
+    function disable_theme_popup(){
+        disable_id('theme-button');
+
+        // show the theme selector
+        disable_id('theme-popup')
+
+        let h2 = document.getElementById('header2')
+        if (h2){
+            let pu = document.getElementById('header2').getElementsByClassName('popup')[0];
+            disable(pu);
+        }
+    }
+</script>
+                                    <div onclick="openSearch()" class="theme-button requires_js">
+                <img src = "/taelgarverse/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
+        </div>
+        <script>
+                function openSearch(){
+                        // toggle search popup and continue with extra code if it is enabled this time
+                        if (toggle_id('search-master-div')){
+                                // clear input and put focus on it so that we can start typing immediately
+                                let ss = document.getElementById('search_string');
+                                ss.value = '';
+                                ss.focus()
+                                ss.select()
+                        }
+                }
+        </script>
+                                    <div class="graph_header_div requires_js">
+            <a id="graph_link" class="system-link" href="/taelgarverse/obs.html/graph/index.html?node=on the lost people of the forests" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/taelgarverse/obs.html/static/graph.svg" alt="Open fullpage Graph" style="margin: 2px; width: 17px;"/>
+            </a>
+        </div>
+                                    <div >
+            <a id="dirtree_link" class="system-link" href="/taelgarverse/obs.html/dir_index.html" title="View directory tree">
+                    <img src = "/taelgarverse/obs.html/static/dirtree.svg" style="width: 12px; padding: 4px;" alt="Directory tree link"/>
+            </a>
+        </div>
+                            <div>
+    <a href="/taelgarverse/obs.html/tags/index.html" title="Open tag view">
+            <img src = "/taelgarverse/obs.html/static/hashtag.svg" alt="RSS Feed link" style="width: 24px; margin-left: -2px; margin-top: -2px;"/>
+    </a>
+</div>
+                            
+                    </div>
+                    <div style="display: flex; flex-direction:column">
+                        <div id="left_pane_toggle_nav" class="left_pane_toggle_nav">Toggle Directory Tree Pane</div>
+                        <div id="right_pane_toggle_nav" class="right_pane_toggle_nav">Toggle Table of Contents Pane</div>
+                    </div>
+            </div>
+    </div>
+    <div class="popup" id="theme-popup">
+    <label for="cars">Theme </label>
+
+    <select name="theme" id="theme" onchange="set_theme(this.value)">
+      <option value="light">light</option>
+      <option value="obs-light" selected="selected">obsidian-light</option>
+      <option value="obs-dark">obsidian-dark</option>
+    </select> 
+</div>
+</div>
+                <div class="flex_row">
+                        <div id="left_pane" class="left_pane active">
+    <div id="left_pane_fold_header" class="left_pane_fold_header fold_header">x</div>
+    <div id="left_pane_content" class="left_pane_content">
+            <div class="dirtree"><button id="folder-1" class="dir-button" onclick="toggle_dir(this.id)">Campaigns</button>
+<div id="folder-container-1" class="dir-container requires_js " path="/taelgarverse/Campaigns">
+	<button id="folder-2" class="dir-button" onclick="toggle_dir(this.id)">Dunmari Frontier</button>
+	<div id="folder-container-2" class="dir-container requires_js " path="/taelgarverse/Campaigns/Dunmari Frontier">
+		<button id="folder-3" class="dir-button" onclick="toggle_dir(this.id)">Collected Stories</button>
+		<div id="folder-container-3" class="dir-container requires_js " path="/taelgarverse/Campaigns/Dunmari Frontier/Collected Stories">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Collected Stories/Amar's Story.html"  >Amar's Story</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Collected Stories/Caulaus' Story.html"  >Caulaus' Story</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Collected Stories/Justan's Story.html"  >Justan's Story</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Collected Stories/Kirian's Story.html"  >Kirian's Story</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Collected Stories/Nameless Chardonian Warrior's Story.html"  >Nameless Chardonian Warrior's Story</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Collected Stories/Tree’s story.html"  >Tree’s story</a></li>
+			</ul>
+		</div>
+		<button id="folder-4" class="dir-button" onclick="toggle_dir(this.id)">Dreams</button>
+		<div id="folder-container-4" class="dir-container requires_js " path="/taelgarverse/Campaigns/Dunmari Frontier/Dreams">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Dreams/First Dream of Rai.html"  >First Dream of Rai</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Dreams/Kenzo Spirit Journey in Bedez.html"  >Kenzo Spirit Journey in Bedez</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Dreams/Kenzo's Dream of Monks.html"  >Kenzo's Dream of Monks</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Dreams/Second Dream of Rai.html"  >Second Dream of Rai</a></li>
+			</ul>
+		</div>
+		<button id="folder-5" class="dir-button" onclick="toggle_dir(this.id)">Letters and Notes</button>
+		<div id="folder-container-5" class="dir-container requires_js " path="/taelgarverse/Campaigns/Dunmari Frontier/Letters and Notes">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Letters and Notes/Archives Letter.html"  >Archives Letter</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Letters and Notes/Letter from Dee WIldcloak.html"  >Letter from Dee WIldcloak</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Letters and Notes/Letter from Govir.html"  >Letter from Govir</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Letters and Notes/Letter from Speaker Lara.html"  >Letter from Speaker Lara</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Letters and Notes/Research from Kassi.html"  >Research from Kassi</a></li>
+			</ul>
+		</div>
+		<button id="folder-6" class="dir-button" onclick="toggle_dir(this.id)">Mirror Visions</button>
+		<div id="folder-container-6" class="dir-container requires_js " path="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Chardon Fan Vision.html"  >Chardon Fan Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Dried Scorpion Vision.html"  >Dried Scorpion Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Extravagant Diamond Vision.html"  >Extravagant Diamond Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Floating Disc Coin Vision.html"  >Floating Disc Coin Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/God Tree Vision.html"  >God Tree Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Ivory Scroll Cap Vision.html"  >Ivory Scroll Cap Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Kenzo's Jade Vision.html"  >Kenzo's Jade Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Kharsan Broken Glassware Vision.html"  >Kharsan Broken Glassware Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Mirror of Soul Trapping Vision.html"  >Mirror of Soul Trapping Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Pandemonium Scroll Vision.html"  >Pandemonium Scroll Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Raven Whistle Vision.html"  >Raven Whistle Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Ring of Displacement Vision.html"  >Ring of Displacement Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Scepter of Command Vision.html"  >Scepter of Command Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Shadow Hunter's Mask Vision.html"  >Shadow Hunter's Mask Vision</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Mirror Visions/Soul Lantern Vision.html"  >Soul Lantern Vision</a></li>
+			</ul>
+		</div>
+		<button id="folder-7" class="dir-button" onclick="toggle_dir(this.id)">Scrying and Spying</button>
+		<div id="folder-container-7" class="dir-container requires_js " path="/taelgarverse/Campaigns/Dunmari Frontier/Scrying and Spying">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Scrying and Spying/Grash May 13th.html"  >Grash May 13th</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Scrying and Spying/Scrying Delwath Nov 15.html"  >Scrying Delwath Nov 15</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Scrying and Spying/Scrying Delwath Oct 21.html"  >Scrying Delwath Oct 21</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Scrying and Spying/Scrying Delwath Oct 26.html"  >Scrying Delwath Oct 26</a></li>
+			</ul>
+		</div>
+		<button id="folder-8" class="dir-button" onclick="toggle_dir(this.id)">Session Notes</button>
+		<div id="folder-container-8" class="dir-container requires_js " path="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 1.html"  >Session 1</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 10.html"  >Session 10</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 11.html"  >Session 11</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 12.html"  >Session 12</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 13.html"  >Session 13</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 14.html"  >Session 14</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 15.html"  >Session 15</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 16.html"  >Session 16</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 17.html"  >Session 17</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 18.html"  >Session 18</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 19.html"  >Session 19</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 2.html"  >Session 2</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 20.html"  >Session 20</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 21.html"  >Session 21</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 22.html"  >Session 22</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 23.html"  >Session 23</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 24.html"  >Session 24</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 25.html"  >Session 25</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 26.html"  >Session 26</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 27.html"  >Session 27</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 28.html"  >Session 28</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 29.html"  >Session 29</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 3.html"  >Session 3</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 30.html"  >Session 30</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 31.html"  >Session 31</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 32.html"  >Session 32</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 33.html"  >Session 33</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 34.html"  >Session 34</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 35.html"  >Session 35</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 36.html"  >Session 36</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 37.html"  >Session 37</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 38.html"  >Session 38</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 39.html"  >Session 39</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 4.html"  >Session 4</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 40.html"  >Session 40</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 41.html"  >Session 41</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 42.html"  >Session 42</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 43.html"  >Session 43</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 44.html"  >Session 44</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 45.html"  >Session 45</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 46.html"  >Session 46</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 47.html"  >Session 47</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 48.html"  >Session 48</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 49.html"  >Session 49</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 5.html"  >Session 5</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 50.html"  >Session 50</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 51-52.html"  >Session 51-52</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 53-54.html"  >Session 53-54</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 55-56.html"  >Session 55-56</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 57-58.html"  >Session 57-58</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 59-60.html"  >Session 59-60</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 6.html"  >Session 6</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 61.html"  >Session 61</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 62.html"  >Session 62</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 7.html"  >Session 7</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 8.html"  >Session 8</a></li>
+				<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 9.html"  >Session 9</a></li>
+			</ul>
+		</div>
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Major NPCs.html"  >Major NPCs</a></li>
+			<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Party Treasure.html"  >Party Treasure</a></li>
+			<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes Index.html"  >Session Notes Index</a></li>
+		</ul>
+	</div>
+	<ul class="dir-list">
+		<li><a class="" href="/taelgarverse/Campaigns/Dunmari Frontier Campaign.html"  >Dunmari Frontier Campaign</a></li>
+	</ul>
+</div>
+<button id="folder-9" class="dir-button" onclick="toggle_dir(this.id)">Cosmology</button>
+<div id="folder-container-9" class="dir-container requires_js " path="/taelgarverse/Cosmology">
+	<button id="folder-10" class="dir-button" onclick="toggle_dir(this.id)">Gods</button>
+	<div id="folder-container-10" class="dir-container requires_js " path="/taelgarverse/Cosmology/Gods">
+		<button id="folder-11" class="dir-button" onclick="toggle_dir(this.id)">Demigods</button>
+		<div id="folder-container-11" class="dir-container requires_js " path="/taelgarverse/Cosmology/Gods/Demigods">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Demigods/Fox and Hunter.html"  >Fox and Hunter</a></li>
+			</ul>
+		</div>
+		<button id="folder-12" class="dir-button" onclick="toggle_dir(this.id)">Dunmari</button>
+		<div id="folder-container-12" class="dir-container requires_js " path="/taelgarverse/Cosmology/Gods/Dunmari">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Dunmari/Aagir.html"  >Aagir</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Dunmari/Bhishma.html"  >Bhishma</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Dunmari/Chidya.html"  >Chidya</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Dunmari/Jeevali.html"  >Jeevali</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Dunmari/Laka.html"  >Laka</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Dunmari/Shakun.html"  >Shakun</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Dunmari/Sonkar.html"  >Sonkar</a></li>
+			</ul>
+		</div>
+		<button id="folder-13" class="dir-button" onclick="toggle_dir(this.id)">Embodied Gods</button>
+		<div id="folder-container-13" class="dir-container requires_js " path="/taelgarverse/Cosmology/Gods/Embodied Gods">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Embodied Gods/Bahrazel.html"  >Bahrazel</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Embodied Gods/Mad One.html"  >Mad One</a></li>
+			</ul>
+		</div>
+		<button id="folder-14" class="dir-button" onclick="toggle_dir(this.id)">High Gods</button>
+		<div id="folder-container-14" class="dir-container requires_js " path="/taelgarverse/Cosmology/Gods/High Gods">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/High Gods/Anida.html"  >Anida</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/High Gods/Arha.html"  >Arha</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/High Gods/Jinnik.html"  >Jinnik</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/High Gods/Malik.html"  >Malik</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/High Gods/Sampa.html"  >Sampa</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/High Gods/Shurat.html"  >Shurat</a></li>
+			</ul>
+		</div>
+		<button id="folder-15" class="dir-button" onclick="toggle_dir(this.id)">Kestavo</button>
+		<div id="folder-container-15" class="dir-container requires_js " path="/taelgarverse/Cosmology/Gods/Kestavo">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Kestavo/Besla.html"  >Besla</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Kestavo/Kamak.html"  >Kamak</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Kestavo/Romil.html"  >Romil</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Kestavo/Vacla.html"  >Vacla</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Kestavo/Ziva.html"  >Ziva</a></li>
+			</ul>
+		</div>
+		<button id="folder-16" class="dir-button" onclick="toggle_dir(this.id)">Mos Numena</button>
+		<div id="folder-container-16" class="dir-container requires_js " path="/taelgarverse/Cosmology/Gods/Mos Numena">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Mos Numena/The Sibyl.html"  >The Sibyl</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Mos Numena/The Wanderer.html"  >The Wanderer</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Mos Numena/The Wildling.html"  >The Wildling</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Mos Numena/The Wyrdling.html"  >The Wyrdling</a></li>
+			</ul>
+		</div>
+		<button id="folder-17" class="dir-button" onclick="toggle_dir(this.id)">Tanshi</button>
+		<div id="folder-container-17" class="dir-container requires_js " path="/taelgarverse/Cosmology/Gods/Tanshi">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Tanshi/A'gaza.html"  >A'gaza</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Tanshi/Aasimti.html"  >Aasimti</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Tanshi/Bita.html"  >Bita</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Tanshi/Istari.html"  >Istari</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Tanshi/K'onisati.html"  >K'onisati</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Tanshi/Midri.html"  >Midri</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Tanshi/Nisir.html"  >Nisir</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Tanshi/Taraka.html"  >Taraka</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Tanshi/Washi.html"  >Washi</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Tanshi/Yalik'i.html"  >Yalik'i</a></li>
+				<li><a class="" href="/taelgarverse/Cosmology/Gods/Tanshi/Yezali.html"  >Yezali</a></li>
+			</ul>
+		</div>
+		<ul class="dir-list">
+		</ul>
+	</div>
+	<button id="folder-18" class="dir-button" onclick="toggle_dir(this.id)">Multiverse</button>
+	<div id="folder-container-18" class="dir-container requires_js " path="/taelgarverse/Cosmology/Multiverse">
+		<button id="folder-19" class="dir-button" onclick="toggle_dir(this.id)">Echo Realms</button>
+		<div id="folder-container-19" class="dir-container requires_js " path="/taelgarverse/Cosmology/Multiverse/Echo Realms">
+			<button id="folder-20" class="dir-button folder_note " href="/taelgarverse/Cosmology/Multiverse/Echo Realms/Feywild/Feywild.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Feywild</button>
+			<div id="folder-container-20" class="dir-container requires_js " path="/taelgarverse/Cosmology/Multiverse/Echo Realms/Feywild">
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Echo Realms/Feywild/Amberglow.html"  >Amberglow</a></li>
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Echo Realms/Feywild/Fortune's Rest.html"  >Fortune's Rest</a></li>
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Echo Realms/Feywild/Shimmersong.html"  >Shimmersong</a></li>
+				</ul>
+			</div>
+			<button id="folder-21" class="dir-button folder_note " href="/taelgarverse/Cosmology/Multiverse/Echo Realms/Shadowfell/Shadowfell.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Shadowfell</button>
+			<div id="folder-container-21" class="dir-container requires_js " path="/taelgarverse/Cosmology/Multiverse/Echo Realms/Shadowfell">
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Echo Realms/Shadowfell/Bleakhold.html"  >Bleakhold</a></li>
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Echo Realms/Shadowfell/Morkalan.html"  >Morkalan</a></li>
+				</ul>
+			</div>
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Echo Realms/Mirror Realm.html"  >Mirror Realm</a></li>
+			</ul>
+		</div>
+		<button id="folder-22" class="dir-button" onclick="toggle_dir(this.id)">Energy Realms</button>
+		<div id="folder-container-22" class="dir-container requires_js " path="/taelgarverse/Cosmology/Multiverse/Energy Realms">
+			<button id="folder-23" class="dir-button" onclick="toggle_dir(this.id)">Elemental Realms</button>
+			<div id="folder-container-23" class="dir-container requires_js " path="/taelgarverse/Cosmology/Multiverse/Energy Realms/Elemental Realms">
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Energy Realms/Elemental Realms/Plane of Fire.html"  >Plane of Fire</a></li>
+				</ul>
+			</div>
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Energy Realms/Plane of Magic.html"  >Plane of Magic</a></li>
+			</ul>
+		</div>
+		<button id="folder-24" class="dir-button" onclick="toggle_dir(this.id)">Spiritual Realms</button>
+		<div id="folder-container-24" class="dir-container requires_js " path="/taelgarverse/Cosmology/Multiverse/Spiritual Realms">
+			<button id="folder-25" class="dir-button" onclick="toggle_dir(this.id)">Divine Realms</button>
+			<div id="folder-container-25" class="dir-container requires_js " path="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Divine Realms">
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Divine Realms/Shakun's Realm.html"  >Shakun's Realm</a></li>
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Divine Realms/The Heart of the Mountain.html"  >The Heart of the Mountain</a></li>
+				</ul>
+			</div>
+			<button id="folder-26" class="dir-button" onclick="toggle_dir(this.id)">Primal Realms</button>
+			<div id="folder-container-26" class="dir-container requires_js " path="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Primal Realms">
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Primal Realms/Abyss.html"  >Abyss</a></li>
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Primal Realms/Arborea.html"  >Arborea</a></li>
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Primal Realms/Pandemonium.html"  >Pandemonium</a></li>
+				</ul>
+			</div>
+			<button id="folder-27" class="dir-button" onclick="toggle_dir(this.id)">Proximate Realms</button>
+			<div id="folder-container-27" class="dir-container requires_js " path="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Proximate Realms">
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Proximate Realms/Dreamworld.html"  >Dreamworld</a></li>
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Proximate Realms/Land of the Dead.html"  >Land of the Dead</a></li>
+					<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Proximate Realms/Nightmare Realm.html"  >Nightmare Realm</a></li>
+				</ul>
+			</div>
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Cosmology/Multiverse/Spiritual Realms/Plane of Souls.html"  >Plane of Souls</a></li>
+			</ul>
+		</div>
+		<ul class="dir-list">
+		</ul>
+	</div>
+	<button id="folder-28" class="dir-button" onclick="toggle_dir(this.id)">Religions</button>
+	<div id="folder-container-28" class="dir-container requires_js " path="/taelgarverse/Cosmology/Religions">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Cosmology/Religions/Kestavo.html"  >Kestavo</a></li>
+			<li><a class="" href="/taelgarverse/Cosmology/Religions/Mos Numena.html"  >Mos Numena</a></li>
+			<li><a class="" href="/taelgarverse/Cosmology/Religions/The Five Siblings of the Dunmari.html"  >The Five Siblings of the Dunmari</a></li>
+		</ul>
+	</div>
+	<ul class="dir-list">
+	</ul>
+</div>
+<button id="folder-29" class="dir-button" onclick="toggle_dir(this.id)">Gazetteer</button>
+<div id="folder-container-29" class="dir-container requires_js " path="/taelgarverse/Gazetteer">
+	<button id="folder-30" class="dir-button" onclick="toggle_dir(this.id)">The Central Highlands Region</button>
+	<div id="folder-container-30" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Highlands Region">
+		<button id="folder-31" class="dir-button" onclick="toggle_dir(this.id)">Forests</button>
+		<div id="folder-container-31" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Highlands Region/Forests">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Highlands Region/Forests/Ainumarya.html"  >Ainumarya</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Highlands Region/Forests/Crimson Forest.html"  >Crimson Forest</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Highlands Region/Forests/Elderwood.html"  >Elderwood</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Highlands Region/Forests/Forest of Dreams.html"  >Forest of Dreams</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Highlands Region/Forests/Forest of Nightmares.html"  >Forest of Nightmares</a></li>
+			</ul>
+		</div>
+		<button id="folder-32" class="dir-button" onclick="toggle_dir(this.id)">Rivers</button>
+		<div id="folder-container-32" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Highlands Region/Rivers">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Highlands Region/Rivers/K'eye.html"  >K'eye</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Highlands Region/Rivers/Kayan.html"  >Kayan</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Highlands Region/Rivers/Yemo'te.html"  >Yemo'te</a></li>
+			</ul>
+		</div>
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Gazetteer/The Central Highlands Region/Khatridun.html"  >Khatridun</a></li>
+			<li><a class="" href="/taelgarverse/Gazetteer/The Central Highlands Region/Zarkandur.html"  >Zarkandur</a></li>
+			<li><a class="" href="/taelgarverse/Gazetteer/The Central Highlands Region/~CentralMountains~.html"  >~CentralMountains~</a></li>
+		</ul>
+	</div>
+	<button id="folder-33" class="dir-button" onclick="toggle_dir(this.id)">The Central Lowlands Region</button>
+	<div id="folder-container-33" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Lowlands Region">
+		<button id="folder-34" class="dir-button folder_note " href="/taelgarverse/Gazetteer/The Central Lowlands Region/Drankorian Empire/Drankorian Empire.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Drankorian Empire</button>
+		<div id="folder-container-34" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Lowlands Region/Drankorian Empire">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Drankorian Empire/Drankor.html"  >Drankor</a></li>
+			</ul>
+		</div>
+		<button id="folder-35" class="dir-button folder_note " href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Dunmar.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Dunmar</button>
+		<div id="folder-container-35" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar">
+			<button id="folder-36" class="dir-button" onclick="toggle_dir(this.id)">Central Dunmar</button>
+			<div id="folder-container-36" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar">
+				<button id="folder-37" class="dir-button folder_note " href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar/Tokra/Tokra.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Tokra</button>
+				<div id="folder-container-37" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar/Tokra">
+					<ul class="dir-list">
+						<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar/Tokra/Archives.html"  >Archives</a></li>
+						<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar/Tokra/Darshana’s caravanserai.html"  >Darshana’s caravanserai</a></li>
+						<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar/Tokra/Kirian’s.html"  >Kirian’s</a></li>
+						<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar/Tokra/Lakan Monastery.html"  >Lakan Monastery</a></li>
+						<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar/Tokra/The Iron Swan.html"  >The Iron Swan</a></li>
+						<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar/Tokra/The Red Lily Inn.html"  >The Red Lily Inn</a></li>
+					</ul>
+				</div>
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar/Akela Inn.html"  >Akela Inn</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar/Copper Hills.html"  >Copper Hills</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Central Dunmar/Songara.html"  >Songara</a></li>
+				</ul>
+			</div>
+			<button id="folder-38" class="dir-button" onclick="toggle_dir(this.id)">Eastern Dunmar</button>
+			<div id="folder-container-38" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar">
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Askandi.html"  >Askandi</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Bas Udda.html"  >Bas Udda</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Gomat.html"  >Gomat</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Ikram’s.html"  >Ikram’s</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Karawa.html"  >Karawa</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Pava and Avaras' House.html"  >Pava and Avaras' House</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Red Mesa.html"  >Red Mesa</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Shakun’s Wellspring.html"  >Shakun’s Wellspring</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Temple of Shakun.html"  >Temple of Shakun</a></li>
+				</ul>
+			</div>
+			<button id="folder-39" class="dir-button" onclick="toggle_dir(this.id)">Western Dunmar</button>
+			<div id="folder-container-39" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Western Dunmar">
+				<button id="folder-40" class="dir-button folder_note " href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Western Dunmar/Darba/Darba.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Darba</button>
+				<div id="folder-container-40" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Western Dunmar/Darba">
+					<ul class="dir-list">
+						<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Western Dunmar/Darba/The Green Leaf.html"  >The Green Leaf</a></li>
+					</ul>
+				</div>
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Dunmar/Western Dunmar/Nayahar.html"  >Nayahar</a></li>
+				</ul>
+			</div>
+			<ul class="dir-list">
+			</ul>
+		</div>
+		<button id="folder-41" class="dir-button folder_note " href="/taelgarverse/Gazetteer/The Central Lowlands Region/Nardith/Nardith.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Nardith</button>
+		<div id="folder-container-41" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Lowlands Region/Nardith">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Nardith/Tharn Todor.html"  >Tharn Todor</a></li>
+			</ul>
+		</div>
+		<button id="folder-42" class="dir-button" onclick="toggle_dir(this.id)">Rivers</button>
+		<div id="folder-container-42" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Lowlands Region/Rivers">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Rivers/Hara.html"  >Hara</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Rivers/Kharja.html"  >Kharja</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Rivers/Shrev.html"  >Shrev</a></li>
+			</ul>
+		</div>
+		<button id="folder-43" class="dir-button" onclick="toggle_dir(this.id)">Ruins and Lairs</button>
+		<div id="folder-container-43" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Central Lowlands Region/Ruins and Lairs">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Ruins and Lairs/Agata's lair.html"  >Agata's lair</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Ruins and Lairs/Dwarven outpost.html"  >Dwarven outpost</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Ruins and Lairs/Eudomes' Tower.html"  >Eudomes' Tower</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Ruins and Lairs/Hall of Stories.html"  >Hall of Stories</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Ruins and Lairs/Kharsan.html"  >Kharsan</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Ruins and Lairs/Monastery of Bhishma.html"  >Monastery of Bhishma</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Ruins and Lairs/Raven’s Hold.html"  >Raven’s Hold</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Ruins and Lairs/Stoneborn Statue Dungeon.html"  >Stoneborn Statue Dungeon</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Ruins and Lairs/Vandar.html"  >Vandar</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Ruins and Lairs/ancient elven ruins.html"  >ancient elven ruins</a></li>
+			</ul>
+		</div>
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Garamjala Desert.html"  >Garamjala Desert</a></li>
+			<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Myraeni Gap.html"  >Myraeni Gap</a></li>
+			<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Nashtkar.html"  >Nashtkar</a></li>
+			<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Sea of Storms.html"  >Sea of Storms</a></li>
+			<li><a class="" href="/taelgarverse/Gazetteer/The Central Lowlands Region/Yuvanti Mountains.html"  >Yuvanti Mountains</a></li>
+		</ul>
+	</div>
+	<button id="folder-44" class="dir-button" onclick="toggle_dir(this.id)">The Green Sea Region</button>
+	<div id="folder-container-44" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region">
+		<button id="folder-45" class="dir-button" onclick="toggle_dir(this.id)">Eastern Green Sea</button>
+		<div id="folder-container-45" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Eastern Green Sea">
+			<button id="folder-46" class="dir-button" onclick="toggle_dir(this.id)">Ruins and Lairs</button>
+			<div id="folder-container-46" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Eastern Green Sea/Ruins and Lairs">
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Eastern Green Sea/Ruins and Lairs/Arryn’s Tower.html"  >Arryn’s Tower</a></li>
+				</ul>
+			</div>
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Eastern Green Sea/Dolphin’s Rest Inn.html"  >Dolphin’s Rest Inn</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Eastern Green Sea/Medju.html"  >Medju</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Eastern Green Sea/Praznitsky.html"  >Praznitsky</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Eastern Green Sea/Quanyi.html"  >Quanyi</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Eastern Green Sea/Ursk.html"  >Ursk</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Eastern Green Sea/Vermillion Isles.html"  >Vermillion Isles</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Eastern Green Sea/Wahacha.html"  >Wahacha</a></li>
+			</ul>
+		</div>
+		<button id="folder-47" class="dir-button" onclick="toggle_dir(this.id)">Western Green Sea</button>
+		<div id="folder-container-47" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea">
+			<button id="folder-48" class="dir-button" onclick="toggle_dir(this.id)">Greater Sembara</button>
+			<div id="folder-container-48" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara">
+				<button id="folder-49" class="dir-button" onclick="toggle_dir(this.id)">Aurbez and the Ardonne</button>
+				<div id="folder-container-49" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Aurbez and the Ardonne">
+					<button id="folder-50" class="dir-button folder_note " href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Aurbez and the Ardonne/Duchy of Maseau/Duchy of Maseau.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Duchy of Maseau</button>
+					<div id="folder-container-50" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Aurbez and the Ardonne/Duchy of Maseau">
+						<ul class="dir-list">
+							<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Aurbez and the Ardonne/Duchy of Maseau/Valarin.html"  >Valarin</a></li>
+						</ul>
+					</div>
+					<ul class="dir-list">
+						<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Aurbez and the Ardonne/Ausson's Crossing.html"  >Ausson's Crossing</a></li>
+					</ul>
+				</div>
+				<button id="folder-51" class="dir-button" onclick="toggle_dir(this.id)">Highland Kingdoms</button>
+				<div id="folder-container-51" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Highland Kingdoms">
+					<ul class="dir-list">
+						<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Highland Kingdoms/Zovcka.html"  >Zovcka</a></li>
+					</ul>
+				</div>
+				<button id="folder-52" class="dir-button folder_note " href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Sembara/Sembara.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Sembara</button>
+				<div id="folder-container-52" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Sembara">
+					<button id="folder-53" class="dir-button folder_note " href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Sembara/The Highlands/The Highlands.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>The Highlands</button>
+					<div id="folder-container-53" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Sembara/The Highlands">
+						<ul class="dir-list">
+						</ul>
+					</div>
+					<button id="folder-54" class="dir-button" onclick="toggle_dir(this.id)">The Northlands</button>
+					<div id="folder-container-54" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Sembara/The Northlands">
+						<ul class="dir-list">
+							<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Sembara/The Northlands/Duchy of Telham.html"  >Duchy of Telham</a></li>
+						</ul>
+					</div>
+					<ul class="dir-list">
+					</ul>
+				</div>
+				<button id="folder-55" class="dir-button folder_note " href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Tyrwingha/Tyrwingha.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Tyrwingha</button>
+				<div id="folder-container-55" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Tyrwingha">
+					<ul class="dir-list">
+						<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Tyrwingha/Oracle of the Riven.html"  >Oracle of the Riven</a></li>
+					</ul>
+				</div>
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Aine Hills.html"  >Aine Hills</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Dominion of Atavus.html"  >Dominion of Atavus</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Free City of Tollen.html"  >Free City of Tollen</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Mostreve Hills.html"  >Mostreve Hills</a></li>
+				</ul>
+			</div>
+			<button id="folder-56" class="dir-button" onclick="toggle_dir(this.id)">Rivers</button>
+			<div id="folder-container-56" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Rivers">
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Rivers/Lake Kamchak.html"  >Lake Kamchak</a></li>
+				</ul>
+			</div>
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Istabor Alliance.html"  >Istabor Alliance</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Plaguelands.html"  >Plaguelands</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/Western Green Sea/Vostok.html"  >Vostok</a></li>
+			</ul>
+		</div>
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Gazetteer/The Green Sea Region/The Green Sea.html"  >The Green Sea</a></li>
+		</ul>
+	</div>
+	<button id="folder-57" class="dir-button" onclick="toggle_dir(this.id)">The South Region</button>
+	<div id="folder-container-57" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The South Region">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Gazetteer/The South Region/Azta Lekua.html"  >Azta Lekua</a></li>
+			<li><a class="" href="/taelgarverse/Gazetteer/The South Region/Bedez.html"  >Bedez</a></li>
+			<li><a class="" href="/taelgarverse/Gazetteer/The South Region/Orekatu.html"  >Orekatu</a></li>
+		</ul>
+	</div>
+	<button id="folder-58" class="dir-button" onclick="toggle_dir(this.id)">The West Coast Region</button>
+	<div id="folder-container-58" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The West Coast Region">
+		<button id="folder-59" class="dir-button folder_note " href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chardonian Empire.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Chardonian Empire</button>
+		<div id="folder-container-59" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire">
+			<button id="folder-60" class="dir-button folder_note " href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chardon/Chardon.html" onclick="open_folder_note(this)"><div class="fn_pf"></div>Chardon</button>
+			<div id="folder-container-60" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chardon">
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chardon/Great Library.html"  >Great Library</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chardon/The Chapterhouse.html"  >The Chapterhouse</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chardon/The Salty Squid.html"  >The Salty Squid</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chardon/The Thirsty Scholar.html"  >The Thirsty Scholar</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chardon/University of Chardon.html"  >University of Chardon</a></li>
+				</ul>
+			</div>
+			<button id="folder-61" class="dir-button" onclick="toggle_dir(this.id)">Chasa River Valley</button>
+			<div id="folder-container-61" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chasa River Valley">
+				<ul class="dir-list">
+					<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chasa River Valley/Arendum.html"  >Arendum</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chasa River Valley/Erlona.html"  >Erlona</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chasa River Valley/Laughing Wolf Inn.html"  >Laughing Wolf Inn</a></li>
+					<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Chasa River Valley/Metium.html"  >Metium</a></li>
+				</ul>
+			</div>
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Chardonian Empire/Old Chardon Canal.html"  >Old Chardon Canal</a></li>
+			</ul>
+		</div>
+		<button id="folder-62" class="dir-button" onclick="toggle_dir(this.id)">Rivers</button>
+		<div id="folder-container-62" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The West Coast Region/Rivers">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Rivers/Chasa.html"  >Chasa</a></li>
+				<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Rivers/Yeraad.html"  >Yeraad</a></li>
+			</ul>
+		</div>
+		<button id="folder-63" class="dir-button" onclick="toggle_dir(this.id)">Ruins and Lairs</button>
+		<div id="folder-container-63" class="dir-container requires_js " path="/taelgarverse/Gazetteer/The West Coast Region/Ruins and Lairs">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Ruins and Lairs/Kin-Aska.html"  >Kin-Aska</a></li>
+			</ul>
+		</div>
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Illoria.html"  >Illoria</a></li>
+			<li><a class="" href="/taelgarverse/Gazetteer/The West Coast Region/Nevos Sea.html"  >Nevos Sea</a></li>
+		</ul>
+	</div>
+	<ul class="dir-list">
+	</ul>
+</div>
+<button id="folder-64" class="dir-button" onclick="toggle_dir(this.id)">History</button>
+<div id="folder-container-64" class="dir-container requires_js " path="/taelgarverse/History">
+	<button id="folder-65" class="dir-button" onclick="toggle_dir(this.id)">Historical Events</button>
+	<div id="folder-container-65" class="dir-container requires_js " path="/taelgarverse/History/Historical Events">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/History/Historical Events/Battle of Kin-Aska.html"  >Battle of Kin-Aska</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/Battle of Metium.html"  >Battle of Metium</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/Battle of Shadowfire.html"  >Battle of Shadowfire</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/Blood Years.html"  >Blood Years</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/Defeat of the Plague Trees.html"  >Defeat of the Plague Trees</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/Fire War.html"  >Fire War</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/Great War.html"  >Great War</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/Second Hobgoblin War.html"  >Second Hobgoblin War</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/Summer of Red Storms.html"  >Summer of Red Storms</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/The Battle of Shrevandurg.html"  >The Battle of Shrevandurg</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/The Downfall.html"  >The Downfall</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/The Exile of Fraternity of the Empty Moon.html"  >The Exile of Fraternity of the Empty Moon</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/The Founding of Dunmar.html"  >The Founding of Dunmar</a></li>
+			<li><a class="" href="/taelgarverse/History/Historical Events/The Riving.html"  >The Riving</a></li>
+		</ul>
+	</div>
+	<ul class="dir-list">
+	</ul>
+</div>
+<button id="folder-66" class="dir-button" onclick="toggle_dir(this.id)">Organizations</button>
+<div id="folder-container-66" class="dir-container requires_js " path="/taelgarverse/Organizations">
+	<button id="folder-67" class="dir-button" onclick="toggle_dir(this.id)">Deno'qai Tribes</button>
+	<div id="folder-container-67" class="dir-container requires_js " path="/taelgarverse/Organizations/Deno'qai Tribes">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Organizations/Deno'qai Tribes/Baz'aku.html"  >Baz'aku</a></li>
+			<li><a class="" href="/taelgarverse/Organizations/Deno'qai Tribes/Bek'eni.html"  >Bek'eni</a></li>
+			<li><a class="" href="/taelgarverse/Organizations/Deno'qai Tribes/Ko'zula.html"  >Ko'zula</a></li>
+			<li><a class="" href="/taelgarverse/Organizations/Deno'qai Tribes/Shu'anra.html"  >Shu'anra</a></li>
+			<li><a class="" href="/taelgarverse/Organizations/Deno'qai Tribes/Te'kula.html"  >Te'kula</a></li>
+		</ul>
+	</div>
+	<button id="folder-68" class="dir-button" onclick="toggle_dir(this.id)">Drankorian</button>
+	<div id="folder-container-68" class="dir-container requires_js " path="/taelgarverse/Organizations/Drankorian">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Organizations/Drankorian/Occulta Ludum.html"  >Occulta Ludum</a></li>
+			<li><a class="" href="/taelgarverse/Organizations/Drankorian/Omnis Pura.html"  >Omnis Pura</a></li>
+		</ul>
+	</div>
+	<button id="folder-69" class="dir-button" onclick="toggle_dir(this.id)">Dunmari Mystery Cults</button>
+	<div id="folder-container-69" class="dir-container requires_js " path="/taelgarverse/Organizations/Dunmari Mystery Cults">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Organizations/Dunmari Mystery Cults/Lakan mystai.html"  >Lakan mystai</a></li>
+			<li><a class="" href="/taelgarverse/Organizations/Dunmari Mystery Cults/Order of the Awakened Soul.html"  >Order of the Awakened Soul</a></li>
+			<li><a class="" href="/taelgarverse/Organizations/Dunmari Mystery Cults/Shakun Mystai.html"  >Shakun Mystai</a></li>
+			<li><a class="" href="/taelgarverse/Organizations/Dunmari Mystery Cults/mystai of Aagir.html"  >mystai of Aagir</a></li>
+		</ul>
+	</div>
+	<ul class="dir-list">
+		<li><a class="" href="/taelgarverse/Organizations/Blackened Claw.html"  >Blackened Claw</a></li>
+		<li><a class="" href="/taelgarverse/Organizations/Fraternity of the Empty Moon.html"  >Fraternity of the Empty Moon</a></li>
+		<li><a class="" href="/taelgarverse/Organizations/Society of the Open Scroll.html"  >Society of the Open Scroll</a></li>
+		<li><a class="" href="/taelgarverse/Organizations/The Cleansed.html"  >The Cleansed</a></li>
+		<li><a class="" href="/taelgarverse/Organizations/The Rangers.html"  >The Rangers</a></li>
+	</ul>
+</div>
+<button id="folder-70" class="dir-button" onclick="toggle_dir(this.id)">People</button>
+<div id="folder-container-70" class="dir-container requires_js " path="/taelgarverse/People">
+	<button id="folder-71" class="dir-button" onclick="toggle_dir(this.id)">Chardonians</button>
+	<div id="folder-container-71" class="dir-container requires_js " path="/taelgarverse/People/Chardonians">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Chardonians/Agon.html"  >Agon</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Alban.html"  >Alban</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Albus.html"  >Albus</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Antonia.html"  >Antonia</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Arcus.html"  >Arcus</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Casian.html"  >Casian</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Crispus.html"  >Crispus</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Drusa.html"  >Drusa</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Fausto.html"  >Fausto</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Galen.html"  >Galen</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Gnaeus.html"  >Gnaeus</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Hektor.html"  >Hektor</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Kadmos.html"  >Kadmos</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Kaeso.html"  >Kaeso</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Lyra.html"  >Lyra</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Marcella.html"  >Marcella</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Roscelia.html"  >Roscelia</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Servius.html"  >Servius</a></li>
+			<li><a class="" href="/taelgarverse/People/Chardonians/Vola.html"  >Vola</a></li>
+		</ul>
+	</div>
+	<button id="folder-72" class="dir-button" onclick="toggle_dir(this.id)">Deno'qai</button>
+	<div id="folder-container-72" class="dir-container requires_js " path="/taelgarverse/People/Deno'qai">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Alayah.html"  >Alayah</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Ariel.html"  >Ariel</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Enon.html"  >Enon</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Itar.html"  >Itar</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Jordo.html"  >Jordo</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Jothai.html"  >Jothai</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Kaslan.html"  >Kaslan</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Ninu.html"  >Ninu</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Obel.html"  >Obel</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Safri.html"  >Safri</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Theba.html"  >Theba</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Yota.html"  >Yota</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Zaro.html"  >Zaro</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Zevi.html"  >Zevi</a></li>
+			<li><a class="" href="/taelgarverse/People/Deno'qai/Zevi of the Ko'zula.html"  >Zevi of the Ko'zula</a></li>
+		</ul>
+	</div>
+	<button id="folder-73" class="dir-button" onclick="toggle_dir(this.id)">Dunmari</button>
+	<div id="folder-container-73" class="dir-container requires_js " path="/taelgarverse/People/Dunmari">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Dunmari/Akan.html"  >Akan</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Alesh.html"  >Alesh</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Amar.html"  >Amar</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Amay.html"  >Amay</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Amil.html"  >Amil</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Aram.html"  >Aram</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Ardan.html"  >Ardan</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Ashar.html"  >Ashar</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Avaras.html"  >Avaras</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Badya.html"  >Badya</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Basu.html"  >Basu</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Camana.html"  >Camana</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Candrosa.html"  >Candrosa</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Cintra.html"  >Cintra</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Darshana.html"  >Darshana</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Devana.html"  >Devana</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Dunmari werewolf woman.html"  >Dunmari werewolf woman</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Govir.html"  >Govir</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Hada.html"  >Hada</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Havdar.html"  >Havdar</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Ikram.html"  >Ikram</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Illyan.html"  >Illyan</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Isha.html"  >Isha</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Jasu.html"  >Jasu</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Jayden.html"  >Jayden</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Johar.html"  >Johar</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Jumi.html"  >Jumi</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Justan.html"  >Justan</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Kaleha.html"  >Kaleha</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Karmana.html"  >Karmana</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Kassi.html"  >Kassi</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Kaya.html"  >Kaya</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Kiran.html"  >Kiran</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Kirian.html"  >Kirian</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Kisa.html"  >Kisa</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Lara.html"  >Lara</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Nayan Karnas.html"  >Nayan Karnas</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Padma.html"  >Padma</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Pava.html"  >Pava</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Rishi.html"  >Rishi</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Sajan.html"  >Sajan</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Saka.html"  >Saka</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Saka’s niece.html"  >Saka’s niece</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Selkan.html"  >Selkan</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Shandar.html"  >Shandar</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Shani.html"  >Shani</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Suma.html"  >Suma</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Sura.html"  >Sura</a></li>
+			<li><a class="" href="/taelgarverse/People/Dunmari/Umber.html"  >Umber</a></li>
+		</ul>
+	</div>
+	<button id="folder-74" class="dir-button" onclick="toggle_dir(this.id)">Dwarves</button>
+	<div id="folder-container-74" class="dir-container requires_js " path="/taelgarverse/People/Dwarves">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Dwarves/Dag Hardstone.html"  >Dag Hardstone</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Dain Goldhammer.html"  >Dain Goldhammer</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Delg Firebrand.html"  >Delg Firebrand</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Delig Hardstone.html"  >Delig Hardstone</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Dworic.html"  >Dworic</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Eberk Brawnanvil.html"  >Eberk Brawnanvil</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Fallthra Hardstone.html"  >Fallthra Hardstone</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Finellen Silverstone.html"  >Finellen Silverstone</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Frankar.html"  >Frankar</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Hagrim.html"  >Hagrim</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Magran Boulderbeard.html"  >Magran Boulderbeard</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Morkral Hardstone.html"  >Morkral Hardstone</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Nora Silverspark.html"  >Nora Silverspark</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Rurik.html"  >Rurik</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Tak.html"  >Tak</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Torgga Redpeak.html"  >Torgga Redpeak</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Travok Redpeak.html"  >Travok Redpeak</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Ulfgar Frostbeard.html"  >Ulfgar Frostbeard</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Vistra Fireforge.html"  >Vistra Fireforge</a></li>
+			<li><a class="" href="/taelgarverse/People/Dwarves/Vondal Redpeak.html"  >Vondal Redpeak</a></li>
+		</ul>
+	</div>
+	<button id="folder-75" class="dir-button" onclick="toggle_dir(this.id)">Elves</button>
+	<div id="folder-container-75" class="dir-container requires_js " path="/taelgarverse/People/Elves">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Elves/Belegor.html"  >Belegor</a></li>
+		</ul>
+	</div>
+	<button id="folder-76" class="dir-button" onclick="toggle_dir(this.id)">Extraplanar Powers</button>
+	<div id="folder-container-76" class="dir-container requires_js " path="/taelgarverse/People/Extraplanar Powers">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Extraplanar Powers/Archfey Ethlenn.html"  >Archfey Ethlenn</a></li>
+			<li><a class="" href="/taelgarverse/People/Extraplanar Powers/Cha'mutte.html"  >Cha'mutte</a></li>
+			<li><a class="" href="/taelgarverse/People/Extraplanar Powers/Cloudspinner.html"  >Cloudspinner</a></li>
+			<li><a class="" href="/taelgarverse/People/Extraplanar Powers/Lightdancer.html"  >Lightdancer</a></li>
+			<li><a class="" href="/taelgarverse/People/Extraplanar Powers/Motua.html"  >Motua</a></li>
+			<li><a class="" href="/taelgarverse/People/Extraplanar Powers/Prince of Luck.html"  >Prince of Luck</a></li>
+		</ul>
+	</div>
+	<button id="folder-77" class="dir-button" onclick="toggle_dir(this.id)">Fey</button>
+	<div id="folder-container-77" class="dir-container requires_js " path="/taelgarverse/People/Fey">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Fey/Agata.html"  >Agata</a></li>
+			<li><a class="" href="/taelgarverse/People/Fey/Eleuha.html"  >Eleuha</a></li>
+			<li><a class="" href="/taelgarverse/People/Fey/Illaran.html"  >Illaran</a></li>
+			<li><a class="" href="/taelgarverse/People/Fey/Lady Eventide.html"  >Lady Eventide</a></li>
+			<li><a class="" href="/taelgarverse/People/Fey/Melusine.html"  >Melusine</a></li>
+			<li><a class="" href="/taelgarverse/People/Fey/Somi-nai.html"  >Somi-nai</a></li>
+			<li><a class="" href="/taelgarverse/People/Fey/Typhina.html"  >Typhina</a></li>
+		</ul>
+	</div>
+	<button id="folder-78" class="dir-button" onclick="toggle_dir(this.id)">Giants</button>
+	<div id="folder-container-78" class="dir-container requires_js " path="/taelgarverse/People/Giants">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Giants/Hralgar.html"  >Hralgar</a></li>
+			<li><a class="" href="/taelgarverse/People/Giants/Vondar.html"  >Vondar</a></li>
+		</ul>
+	</div>
+	<button id="folder-79" class="dir-button" onclick="toggle_dir(this.id)">Halflings</button>
+	<div id="folder-container-79" class="dir-container requires_js " path="/taelgarverse/People/Halflings">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Halflings/Alton Greenleaf.html"  >Alton Greenleaf</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Ander Charmheart.html"  >Ander Charmheart</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Bree Charmheart.html"  >Bree Charmheart</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Cade Strongbones.html"  >Cade Strongbones</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Callie Charmheart.html"  >Callie Charmheart</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Corrin Wildheart.html"  >Corrin Wildheart</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Dani Silversong.html"  >Dani Silversong</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Dee Wildcloak.html"  >Dee Wildcloak</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Ewen Silversong.html"  >Ewen Silversong</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Garret Tealeaf.html"  >Garret Tealeaf</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Harol Silversong.html"  >Harol Silversong</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Jasmine Sunmeadow.html"  >Jasmine Sunmeadow</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Lerry Wildheart.html"  >Lerry Wildheart</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Lyle Greenleaf.html"  >Lyle Greenleaf</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Lyle Honeyhill.html"  >Lyle Honeyhill</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Oswalt Tealeaf.html"  >Oswalt Tealeaf</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Pearl Brightmoon.html"  >Pearl Brightmoon</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Pearl Copperharp.html"  >Pearl Copperharp</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Rose Brightmoon.html"  >Rose Brightmoon</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Tye Strongbones.html"  >Tye Strongbones</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Wella Brightmoon.html"  >Wella Brightmoon</a></li>
+			<li><a class="" href="/taelgarverse/People/Halflings/Wes Strongbones.html"  >Wes Strongbones</a></li>
+		</ul>
+	</div>
+	<button id="folder-80" class="dir-button" onclick="toggle_dir(this.id)">Historical Figures</button>
+	<div id="folder-container-80" class="dir-container requires_js " path="/taelgarverse/People/Historical Figures">
+		<button id="folder-81" class="dir-button" onclick="toggle_dir(this.id)">Drankorian Emperors</button>
+		<div id="folder-container-81" class="dir-container requires_js " path="/taelgarverse/People/Historical Figures/Drankorian Emperors">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Drankorian Emperors/Emperor Apollyon.html"  >Emperor Apollyon</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Drankorian Emperors/Emperor Helena.html"  >Emperor Helena</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Drankorian Emperors/Emperor Vestian.html"  >Emperor Vestian</a></li>
+			</ul>
+		</div>
+		<button id="folder-82" class="dir-button" onclick="toggle_dir(this.id)">Dunmari Rulers</button>
+		<div id="folder-container-82" class="dir-container requires_js " path="/taelgarverse/People/Historical Figures/Dunmari Rulers">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Dunmari Rulers/Aatmaji dynasty.html"  >Aatmaji dynasty</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Dunmari Rulers/Dasa.html"  >Dasa</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Dunmari Rulers/Jita.html"  >Jita</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Dunmari Rulers/Kotana.html"  >Kotana</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Dunmari Rulers/Samraat Nayan Yarad.html"  >Samraat Nayan Yarad</a></li>
+			</ul>
+		</div>
+		<button id="folder-83" class="dir-button" onclick="toggle_dir(this.id)">Sembaran Royalty</button>
+		<div id="folder-container-83" class="dir-container requires_js " path="/taelgarverse/People/Historical Figures/Sembaran Royalty">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Anne.html"  >Anne</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Arryn I.html"  >Arryn I</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Arryn II.html"  >Arryn II</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Arryn III.html"  >Arryn III</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Bertram I.html"  >Bertram I</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Bertram II.html"  >Bertram II</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Blanche I.html"  >Blanche I</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Blanche II.html"  >Blanche II</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Cece I.html"  >Cece I</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Charlotte I.html"  >Charlotte I</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Charlotte II.html"  >Charlotte II</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Cynan.html"  >Cynan</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Derik I.html"  >Derik I</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Derik II.html"  >Derik II</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Derik III.html"  >Derik III</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Derik of Lils.html"  >Derik of Lils</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Elaine I.html"  >Elaine I</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Elaine II.html"  >Elaine II</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Eloise.html"  >Eloise</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Gyles of Teckberg.html"  >Gyles of Teckberg</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/House of Lils.html"  >House of Lils</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/House of Sewick.html"  >House of Sewick</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Hugh of Wisenfold.html"  >Hugh of Wisenfold</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Jane of Tollen.html"  >Jane of Tollen</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Morgaine.html"  >Morgaine</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Reginald.html"  >Reginald</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Robert I.html"  >Robert I</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Sarabet.html"  >Sarabet</a></li>
+				<li><a class="" href="/taelgarverse/People/Historical Figures/Sembaran Royalty/Wisym I.html"  >Wisym I</a></li>
+			</ul>
+		</div>
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Historical Figures/Asuddha.html"  >Asuddha</a></li>
+			<li><a class="" href="/taelgarverse/People/Historical Figures/Balati.html"  >Balati</a></li>
+			<li><a class="" href="/taelgarverse/People/Historical Figures/Commander Ila.html"  >Commander Ila</a></li>
+			<li><a class="" href="/taelgarverse/People/Historical Figures/Daruk.html"  >Daruk</a></li>
+			<li><a class="" href="/taelgarverse/People/Historical Figures/Dimitaur.html"  >Dimitaur</a></li>
+			<li><a class="" href="/taelgarverse/People/Historical Figures/Emperor Avatus.html"  >Emperor Avatus</a></li>
+			<li><a class="" href="/taelgarverse/People/Historical Figures/Eudomes.html"  >Eudomes</a></li>
+			<li><a class="" href="/taelgarverse/People/Historical Figures/Mavdyr.html"  >Mavdyr</a></li>
+			<li><a class="" href="/taelgarverse/People/Historical Figures/Odim Mavdyrson.html"  >Odim Mavdyrson</a></li>
+			<li><a class="" href="/taelgarverse/People/Historical Figures/Zegron.html"  >Zegron</a></li>
+		</ul>
+	</div>
+	<button id="folder-84" class="dir-button" onclick="toggle_dir(this.id)">Kenku</button>
+	<div id="folder-container-84" class="dir-container requires_js " path="/taelgarverse/People/Kenku">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Kenku/Makha.html"  >Makha</a></li>
+			<li><a class="" href="/taelgarverse/People/Kenku/Nahto.html"  >Nahto</a></li>
+			<li><a class="" href="/taelgarverse/People/Kenku/Skoda.html"  >Skoda</a></li>
+		</ul>
+	</div>
+	<button id="folder-85" class="dir-button" onclick="toggle_dir(this.id)">Lizardfolk</button>
+	<div id="folder-container-85" class="dir-container requires_js " path="/taelgarverse/People/Lizardfolk">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Lizardfolk/Arrosa.html"  >Arrosa</a></li>
+			<li><a class="" href="/taelgarverse/People/Lizardfolk/Elazar.html"  >Elazar</a></li>
+			<li><a class="" href="/taelgarverse/People/Lizardfolk/Enari.html"  >Enari</a></li>
+		</ul>
+	</div>
+	<button id="folder-86" class="dir-button" onclick="toggle_dir(this.id)">Orcs</button>
+	<div id="folder-container-86" class="dir-container requires_js " path="/taelgarverse/People/Orcs">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Orcs/Gorkil.html"  >Gorkil</a></li>
+			<li><a class="" href="/taelgarverse/People/Orcs/Orc in the Mirror.html"  >Orc in the Mirror</a></li>
+			<li><a class="" href="/taelgarverse/People/Orcs/Uzgash.html"  >Uzgash</a></li>
+		</ul>
+	</div>
+	<button id="folder-87" class="dir-button" onclick="toggle_dir(this.id)">Other Humans</button>
+	<div id="folder-container-87" class="dir-container requires_js " path="/taelgarverse/People/Other Humans">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Other Humans/Arryn.html"  >Arryn</a></li>
+			<li><a class="" href="/taelgarverse/People/Other Humans/Gyles.html"  >Gyles</a></li>
+			<li><a class="" href="/taelgarverse/People/Other Humans/Radomir.html"  >Radomir</a></li>
+			<li><a class="" href="/taelgarverse/People/Other Humans/Resenna.html"  >Resenna</a></li>
+		</ul>
+	</div>
+	<button id="folder-88" class="dir-button" onclick="toggle_dir(this.id)">Other Nonhumans</button>
+	<div id="folder-container-88" class="dir-container requires_js " path="/taelgarverse/People/Other Nonhumans">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/Other Nonhumans/Grash.html"  >Grash</a></li>
+			<li><a class="" href="/taelgarverse/People/Other Nonhumans/Inakara.html"  >Inakara</a></li>
+			<li><a class="" href="/taelgarverse/People/Other Nonhumans/Lengau.html"  >Lengau</a></li>
+			<li><a class="" href="/taelgarverse/People/Other Nonhumans/Mezzar.html"  >Mezzar</a></li>
+			<li><a class="" href="/taelgarverse/People/Other Nonhumans/Revaka.html"  >Revaka</a></li>
+			<li><a class="" href="/taelgarverse/People/Other Nonhumans/Samerki.html"  >Samerki</a></li>
+			<li><a class="" href="/taelgarverse/People/Other Nonhumans/Tharandros.html"  >Tharandros</a></li>
+			<li><a class="" href="/taelgarverse/People/Other Nonhumans/Werewolf Prisoner.html"  >Werewolf Prisoner</a></li>
+		</ul>
+	</div>
+	<button id="folder-89" class="dir-button" onclick="toggle_dir(this.id)">PCs</button>
+	<div id="folder-container-89" class="dir-container requires_js " path="/taelgarverse/People/PCs">
+		<button id="folder-90" class="dir-button" onclick="toggle_dir(this.id)">Companions</button>
+		<div id="folder-container-90" class="dir-container requires_js " path="/taelgarverse/People/PCs/Companions">
+			<ul class="dir-list">
+				<li><a class="" href="/taelgarverse/People/PCs/Companions/Baxter.html"  >Baxter</a></li>
+				<li><a class="" href="/taelgarverse/People/PCs/Companions/Ladder.html"  >Ladder</a></li>
+				<li><a class="" href="/taelgarverse/People/PCs/Companions/Taster.html"  >Taster</a></li>
+			</ul>
+		</div>
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/People/PCs/Alimash.html"  >Alimash</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Aristaea.html"  >Aristaea</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Artem Novolozek.html"  >Artem Novolozek</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Beryl.html"  >Beryl</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Caulaus.html"  >Caulaus</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Delwath.html"  >Delwath</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Drikod.html"  >Drikod</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Iascaire.html"  >Iascaire</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Izzarak.html"  >Izzarak</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Kenzo.html"  >Kenzo</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Kyr.html"  >Kyr</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Merash.html"  >Merash</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Mikasa.html"  >Mikasa</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Rai.html"  >Rai</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Raven.html"  >Raven</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Riswynn.html"  >Riswynn</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Rothfis.html"  >Rothfis</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Rufus.html"  >Rufus</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Seeker.html"  >Seeker</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Shoal.html"  >Shoal</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Spirala.html"  >Spirala</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Thror.html"  >Thror</a></li>
+			<li><a class="" href="/taelgarverse/People/PCs/Wellby.html"  >Wellby</a></li>
+		</ul>
+	</div>
+	<ul class="dir-list">
+	</ul>
+</div>
+<button id="folder-91" class="dir-button" onclick="toggle_dir(this.id)">Species</button>
+<div id="folder-container-91" class="dir-container requires_js " path="/taelgarverse/Species">
+	<ul class="dir-list">
+		<li><a class="" href="/taelgarverse/Species/Dwarves.html"  >Dwarves</a></li>
+		<li><a class="" href="/taelgarverse/Species/Elf.html"  >Elf</a></li>
+		<li><a class="" href="/taelgarverse/Species/Hobgoblins.html"  >Hobgoblins</a></li>
+		<li><a class="" href="/taelgarverse/Species/Orcs.html"  >Orcs</a></li>
+	</ul>
+</div>
+<button id="folder-92" class="dir-button" onclick="toggle_dir(this.id)">Things</button>
+<div id="folder-container-92" class="dir-container requires_js active" path="/taelgarverse/Things">
+	<button id="folder-93" class="dir-button" onclick="toggle_dir(this.id)">Artifacts of Power</button>
+	<div id="folder-container-93" class="dir-container requires_js " path="/taelgarverse/Things/Artifacts of Power">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Things/Artifacts of Power/Chalice of the Runepriest.html"  >Chalice of the Runepriest</a></li>
+			<li><a class="" href="/taelgarverse/Things/Artifacts of Power/Circlet of Foreknowledge.html"  >Circlet of Foreknowledge</a></li>
+			<li><a class="" href="/taelgarverse/Things/Artifacts of Power/Dreamweaver Staff.html"  >Dreamweaver Staff</a></li>
+			<li><a class="" href="/taelgarverse/Things/Artifacts of Power/Mantle of Protection.html"  >Mantle of Protection</a></li>
+			<li><a class="" href="/taelgarverse/Things/Artifacts of Power/Ring of Undying.html"  >Ring of Undying</a></li>
+			<li><a class="" href="/taelgarverse/Things/Artifacts of Power/Scepter of Command.html"  >Scepter of Command</a></li>
+			<li><a class="" href="/taelgarverse/Things/Artifacts of Power/The Heart of Shakun.html"  >The Heart of Shakun</a></li>
+		</ul>
+	</div>
+	<button id="folder-94" class="dir-button" onclick="toggle_dir(this.id)">Books</button>
+	<div id="folder-container-94" class="dir-container requires_js active" path="/taelgarverse/Things/Books">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Things/Books/On the Lost People of the Forests.html"  >On the Lost People of the Forests</a></li>
+			<li><a class="" href="/taelgarverse/Things/Books/The Lore of the Feywild.html"  >The Lore of the Feywild</a></li>
+			<li><a class="" href="/taelgarverse/Things/Books/The Runes of Creation.html"  >The Runes of Creation</a></li>
+		</ul>
+	</div>
+	<button id="folder-95" class="dir-button" onclick="toggle_dir(this.id)">Gifts and Heirlooms</button>
+	<div id="folder-container-95" class="dir-container requires_js " path="/taelgarverse/Things/Gifts and Heirlooms">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Things/Gifts and Heirlooms/Elven Shadow Breastplate.html"  >Elven Shadow Breastplate</a></li>
+			<li><a class="" href="/taelgarverse/Things/Gifts and Heirlooms/Flaming Bowstring.html"  >Flaming Bowstring</a></li>
+			<li><a class="" href="/taelgarverse/Things/Gifts and Heirlooms/Jade.html"  >Jade</a></li>
+			<li><a class="" href="/taelgarverse/Things/Gifts and Heirlooms/Staff of the Forest Soul.html"  >Staff of the Forest Soul</a></li>
+		</ul>
+	</div>
+	<button id="folder-96" class="dir-button" onclick="toggle_dir(this.id)">Treasure from Agata</button>
+	<div id="folder-container-96" class="dir-container requires_js " path="/taelgarverse/Things/Treasure from Agata">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Things/Treasure from Agata/Black Light Candle.html"  >Black Light Candle</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Agata/Boots of False Tracks.html"  >Boots of False Tracks</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Agata/Chardon Fan.html"  >Chardon Fan</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Agata/Ever Spinning Top.html"  >Ever Spinning Top</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Agata/Mirror of Soul Trapping.html"  >Mirror of Soul Trapping</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Agata/Obsidian Fly.html"  >Obsidian Fly</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Agata/Raven Whistle.html"  >Raven Whistle</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Agata/Ring of Displacement.html"  >Ring of Displacement</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Agata/Ring of the Warded Mind.html"  >Ring of the Warded Mind</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Agata/Soul Lantern.html"  >Soul Lantern</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Agata/Thorn Seed Bag.html"  >Thorn Seed Bag</a></li>
+		</ul>
+	</div>
+	<button id="folder-97" class="dir-button" onclick="toggle_dir(this.id)">Treasure from Dunmari Ruins</button>
+	<div id="folder-container-97" class="dir-container requires_js " path="/taelgarverse/Things/Treasure from Dunmari Ruins">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Things/Treasure from Dunmari Ruins/Aagir's Everlight.html"  >Aagir's Everlight</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Dunmari Ruins/Black Iron Staff.html"  >Black Iron Staff</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Dunmari Ruins/Floating Disc Coin.html"  >Floating Disc Coin</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Dunmari Ruins/Horn of Silent Alarm.html"  >Horn of Silent Alarm</a></li>
+		</ul>
+	</div>
+	<button id="folder-98" class="dir-button" onclick="toggle_dir(this.id)">Treasure from Eudomes' Tower</button>
+	<div id="folder-container-98" class="dir-container requires_js " path="/taelgarverse/Things/Treasure from Eudomes' Tower">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Things/Treasure from Eudomes' Tower/Binding Stones.html"  >Binding Stones</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Eudomes' Tower/Eudomes’ Mirror.html"  >Eudomes’ Mirror</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Eudomes' Tower/Goggles of Object Reading.html"  >Goggles of Object Reading</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Eudomes' Tower/Hralgar's Eyes.html"  >Hralgar's Eyes</a></li>
+		</ul>
+	</div>
+	<button id="folder-99" class="dir-button" onclick="toggle_dir(this.id)">Treasure from Grimbaskal</button>
+	<div id="folder-container-99" class="dir-container requires_js " path="/taelgarverse/Things/Treasure from Grimbaskal">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Things/Treasure from Grimbaskal/Magic Kenku Armor.html"  >Magic Kenku Armor</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Grimbaskal/Narengril.html"  >Narengril</a></li>
+		</ul>
+	</div>
+	<button id="folder-100" class="dir-button" onclick="toggle_dir(this.id)">Treasure from Raven's Hold</button>
+	<div id="folder-container-100" class="dir-container requires_js " path="/taelgarverse/Things/Treasure from Raven's Hold">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Things/Treasure from Raven's Hold/Driftglobe.html"  >Driftglobe</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Raven's Hold/Elemental Gem.html"  >Elemental Gem</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Raven's Hold/Helm of Iron Will.html"  >Helm of Iron Will</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Raven's Hold/Hobgoblin Battle Standard.html"  >Hobgoblin Battle Standard</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Raven's Hold/Ivory Scroll Cap.html"  >Ivory Scroll Cap</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Raven's Hold/Pearl of Power.html"  >Pearl of Power</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Raven's Hold/Shatterstorm.html"  >Shatterstorm</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Raven's Hold/Shield of the Brawnanvil Clan.html"  >Shield of the Brawnanvil Clan</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Raven's Hold/Spear of the War Leader.html"  >Spear of the War Leader</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Raven's Hold/Vial of Acid (Gnoll Leader).html"  >Vial of Acid (Gnoll Leader)</a></li>
+		</ul>
+	</div>
+	<button id="folder-101" class="dir-button" onclick="toggle_dir(this.id)">Treasure from Solo Adventures</button>
+	<div id="folder-container-101" class="dir-container requires_js " path="/taelgarverse/Things/Treasure from Solo Adventures">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Things/Treasure from Solo Adventures/Cha'mutte’s Shadow Armband.html"  >Cha'mutte’s Shadow Armband</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Solo Adventures/Chanceweaver’s Dice.html"  >Chanceweaver’s Dice</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Solo Adventures/Deno'qai Lynx Shield.html"  >Deno'qai Lynx Shield</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Solo Adventures/Deno'qai Scale Mail.html"  >Deno'qai Scale Mail</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Solo Adventures/Glove of Crystalized Magic.html"  >Glove of Crystalized Magic</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Solo Adventures/Moon Necklace.html"  >Moon Necklace</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Solo Adventures/Silverspark Gauntlets.html"  >Silverspark Gauntlets</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Solo Adventures/Sunset Thread.html"  >Sunset Thread</a></li>
+		</ul>
+	</div>
+	<button id="folder-102" class="dir-button" onclick="toggle_dir(this.id)">Treasure from Tokra</button>
+	<div id="folder-container-102" class="dir-container requires_js " path="/taelgarverse/Things/Treasure from Tokra">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Things/Treasure from Tokra/Dunmari map of Pandemonium ruins.html"  >Dunmari map of Pandemonium ruins</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Tokra/Pandemonium Scroll.html"  >Pandemonium Scroll</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Tokra/Portable Hole.html"  >Portable Hole</a></li>
+			<li><a class="" href="/taelgarverse/Things/Treasure from Tokra/Vicious Shortsword.html"  >Vicious Shortsword</a></li>
+		</ul>
+	</div>
+	<button id="folder-103" class="dir-button" onclick="toggle_dir(this.id)">Vehicles</button>
+	<div id="folder-container-103" class="dir-container requires_js " path="/taelgarverse/Things/Vehicles">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Things/Vehicles/Emerald Song.html"  >Emerald Song</a></li>
+			<li><a class="" href="/taelgarverse/Things/Vehicles/Wave Dancer.html"  >Wave Dancer</a></li>
+		</ul>
+	</div>
+	<ul class="dir-list">
+	</ul>
+</div>
+<button id="folder-104" class="dir-button" onclick="toggle_dir(this.id)">Time</button>
+<div id="folder-container-104" class="dir-container requires_js " path="/taelgarverse/Time">
+	<button id="folder-105" class="dir-button" onclick="toggle_dir(this.id)">Holidays and Festivals</button>
+	<div id="folder-container-105" class="dir-container requires_js " path="/taelgarverse/Time/Holidays and Festivals">
+		<ul class="dir-list">
+			<li><a class="" href="/taelgarverse/Time/Holidays and Festivals/Aagirvala.html"  >Aagirvala</a></li>
+			<li><a class="" href="/taelgarverse/Time/Holidays and Festivals/Day of Renewal.html"  >Day of Renewal</a></li>
+			<li><a class="" href="/taelgarverse/Time/Holidays and Festivals/Feast of Bhishma.html"  >Feast of Bhishma</a></li>
+			<li><a class="" href="/taelgarverse/Time/Holidays and Festivals/Festival of Rebirth.html"  >Festival of Rebirth</a></li>
+			<li><a class="" href="/taelgarverse/Time/Holidays and Festivals/Jaankar.html"  >Jaankar</a></li>
+		</ul>
+	</div>
+	<ul class="dir-list">
+	</ul>
+</div>
+<ul class="dir-list">
+	<li><a class="" href="/taelgarverse/index.html"  >index</a></li>
+</ul>
+</div>
+    </div>
+</div>
+                        <div class="container">
+                                <div class="content"><div class="toc">
+<ul>
+<li><a href="#on-the-lost-people-of-the-forests" class="anchor-link">On the Lost People of the Forests</a></li>
+</ul>
+</div>
+<h3 id="on-the-lost-people-of-the-forests">On the Lost People of the Forests</h3>
+<p>Written by the scholar <a href="/taelgarverse/People/Chardonians/Gnaeus.html">Gnaeus</a>, of <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Chardonian%20Empire/Chardon/Chardon.html">Chardon</a>, disgraced for using enchanment magic in his research.    </p>
+<p>"In a book by Chardonian scholar, <a href="/taelgarverse/People/Chardonians/Gnaeus.html">Gnaeus</a>, written about a generation ago (maybe 20ish years), recently acquired from a book trader, <a href="/taelgarverse/People/Dunmari/Kassi.html">Kassi</a> finds a mention of <a href="/taelgarverse/People/PCs/Rai.html">Rai</a>. The book is a record/catalog of surviving people of the forests of <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Chardonian%20Empire/Chardon/Chardon.html">Chardon</a>. He describes a story of a group of people, northerners, who live upriver from <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Chardonian%20Empire/Chardon/Chardon.html">Chardon</a> in the great forest, mysterious, few tales of them. But he found a way in, he used magic to convince one to speak of their secret religion, and learned it was a cult dedicated to the Demigod of Magic <a href="/taelgarverse/People/PCs/Rai.html">Rai</a>, who speaks through the dreams of the high priest."   </p>
+<p>This book records the details of <a href="/taelgarverse/People/Chardonians/Gnaeus.html">Gnaeus</a>' journey to the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Elderwood.html">Elderwood</a>:    </p>
+<p>"25 years ago, as a young student, <a href="/taelgarverse/People/Chardonians/Gnaeus.html">Gnaeus</a> was intrigued by the stories and mysteries of the great forest, known as variously <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Ainumarya.html">Ainumarya</a> (from the original elvish name, meaning the home of the first gods, referring to the whole stretch) and more recently the surviving pieces are named the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Elderwood.html">Elderwood</a>, the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Crimson%20Forest.html">Crimson Forest</a> (after the rumors that the trees ran red with the blood of the elves), and the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Forest%20of%20Dreams.html">Forest of Dreams</a>, from south to north.   </p>
+<p>Few tales came to <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Chardonian%20Empire/Chardon/Chardon.html">Chardon</a> of what happened in these woods after the <a href="/taelgarverse/History/Historical%20Events/Great%20War.html">Great War</a>; in 1555 a great host of hobgoblins, trolls, cursed beasts of shadow, and other monsters, led by a conclave of dragons, defeated the Chardonians in two battles, the <a href="/taelgarverse/History/Historical%20Events/Battle%20of%20Kin-Aska.html">Battle of Kin-Aska</a> on the banks of the <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Rivers/Chasa.html">Chasa</a> River, and the <a href="/taelgarverse/History/Historical%20Events/Battle%20of%20Shadowfire.html">Battle of Shadowfire</a>, only 250 miles northeast of <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Chardonian%20Empire/Chardon/Chardon.html">Chardon</a>. After a hasty retreat, and much sacrifice to slow the advance, this host was defeated in a great battle only 55 miles east of <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Chardonian%20Empire/Chardon/Chardon.html">Chardon</a>, the <a href="/taelgarverse/History/Historical%20Events/Battle%20of%20Metium.html">Battle of Metium</a>. Rumors that, at great cost to themselves, many elves at fought a year's long delaying battle to weaken this host before it reached <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Chardonian%20Empire/Chardon/Chardon.html">Chardon</a> persist, although few know the truth.   </p>
+<p>Since then, the <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Chardonian%20Empire/Chardonian%20Empire.html">Chardonian Empire</a> has grown as it has rebuilt, but never beyond the confluence of the <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Rivers/Chasa.html">Chasa</a> and the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Rivers/Kayan.html">Kayan</a>, and many stories and rumors persist as to what happened to <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Ainumarya.html">Ainumarya</a> and what has been rebuilt and resettled in the past 200 years.   </p>
+<p><a href="/taelgarverse/People/Chardonians/Gnaeus.html">Gnaeus</a> grew up in <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Chardonian%20Empire/Chasa%20River%20Valley/Arendum.html">Arendum</a> and thus was draw to exploring the people of the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Crimson%20Forest.html">Crimson Forest</a> and the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Elderwood.html">Elderwood</a>. He knew, as a child, of the <a href="/taelgarverse/Organizations/Deno%27qai%20Tribes/Baz%27aku.html">Baz'aku</a>, a group of the Deno'qai who traded occasionally with <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Chardonian%20Empire/Chasa%20River%20Valley/Arendum.html">Arendum</a> and lived on the eaves of the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Elderwood.html">Elderwood</a>.   </p>
+<p>As a student, then, he sought out these people, hired guides, and set off into the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Elderwood.html">Elderwood</a> to learn what was there.   </p>
+<p>He spent 6 months with the <a href="/taelgarverse/Organizations/Deno%27qai%20Tribes/Baz%27aku.html">Baz'aku</a> earning their trust, learning about their way of life on the eaves of the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Elderwood.html">Elderwood</a>. From them he learned of the shared myths of the Deno'qai, the People of the Gods in their tongue, who trace their ancestry to the first humans to leave Hkar, long before <a href="/taelgarverse/History/Historical%20Events/The%20Downfall.html">The Downfall</a>, the wars, and the founding of <a href="/taelgarverse/Gazetteer/The%20Central%20Lowlands%20Region/Drankorian%20Empire/Drankor.html">Drankor</a>. They claim they once lived in vast forests that stretched from the mountains to the sea, from the <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Rivers/Yeraad.html">Yeraad</a> to the south, and as far north as the land of fire and ice, where the midnight sun lights the summer sky and the long night of winter lasts for weeks. Now few of their people survive, and even fewer who hold to the old ways, the worship of the tanshi, the spirits of the forest that bring their prayers to <a href="/taelgarverse/Cosmology/Gods/High%20Gods/Anida.html">Anida</a>, the creator, the first and the last.   </p>
+<p>The <a href="/taelgarverse/Organizations/Deno%27qai%20Tribes/Baz%27aku.html">Baz'aku</a> claim the land between the <a href="/taelgarverse/Gazetteer/The%20West%20Coast%20Region/Rivers/Chasa.html">Chasa</a> and the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Rivers/Kayan.html">Kayan</a>, but spoke of other tribes, and stranger things, deeper in the woods.   </p>
+<p><a href="/taelgarverse/People/Chardonians/Gnaeus.html">Gnaeus</a> convinced a guide to take him south, across the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Rivers/Kayan.html">Kayan</a>, to the territory of <a href="/taelgarverse/Organizations/Deno%27qai%20Tribes/Bek%27eni.html">Bek'eni</a>. He spent two years living with them, learning about the tanshi and their way of life. They spoke of rumors of lost tribes to the east, in the depths of the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Elderwood.html">Elderwood</a>, the oldest part of the forest. They also spoke of ruins of elven cities hidden in the trees; of scars across the land cut by some evil where trees would no longer grow; of haunted battlefields where the restless spirits of Deno'qai, Chardonians, and elves dwelt.   </p>
+<p>But none would guide him, out of fear or caution or distrust of outsiders he was not sure. Finally, he resorted to magic, using a powerful chalyte enchantment to compel cooperation of a guide for 30 days. With the guide's help, and with some additional enchantments, he was able to find the <a href="/taelgarverse/Organizations/Deno%27qai%20Tribes/Te%27kula.html">Te'kula</a> in the heart of the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Elderwood.html">Elderwood</a>, near the source of the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Rivers/Kayan.html">Kayan</a>, and get them to allow him to stay for some time and learn their ways.   </p>
+<p>Unlike the other tribes of the Deno'qai he had met, the <a href="/taelgarverse/Organizations/Deno%27qai%20Tribes/Te%27kula.html">Te'kula</a> only worshipped one god: <a href="/taelgarverse/People/PCs/Rai.html">Rai</a>. They made sacrifices to him, and he spoke to <a href="/taelgarverse/People/Deno%27qai/Jordo.html">Jordo</a>, the Godcaller (the chief priest of the tribe) in dreams. The <a href="/taelgarverse/Organizations/Deno%27qai%20Tribes/Te%27kula.html">Te'kula</a> believe that <a href="/taelgarverse/People/PCs/Rai.html">Rai</a> is an old god of their tradition, called <a href="/taelgarverse/Cosmology/Gods/Tanshi/Aasimti.html">Aasimti</a>, a god that was associated with the <a href="/taelgarverse/Gazetteer/The%20Central%20Highlands%20Region/Forests/Elderwood.html">Elderwood</a>, with the ancient spirits of the great trees, who was thought to be lost when their ancestors were driven from their homelands during the <a href="/taelgarverse/History/Historical%20Events/Blood%20Years.html">Blood Years</a>.   </p>
+<p>Four generations ago they returned to these woods, but it wasn't until 30 years ago that <a href="/taelgarverse/People/Deno%27qai/Jordo.html">Jordo</a>, the Godcaller at the time, found <a href="/taelgarverse/People/PCs/Rai.html">Rai</a>'s spirit, trapped in the heart of a great tree that had fallen in the deepest part of the woods, and revived <a href="/taelgarverse/Cosmology/Gods/Tanshi/Aasimti.html">Aasimti</a>, now calling himself <a href="/taelgarverse/People/PCs/Rai.html">Rai</a>.   </p>
+<p><a href="/taelgarverse/People/Chardonians/Gnaeus.html">Gnaeus</a> never learned or saw what <a href="/taelgarverse/People/PCs/Rai.html">Rai</a>'s spirit was, but from the way they spoke of him, it sounded like a physical thing, something the Godcaller possessed that allowed <a href="/taelgarverse/People/PCs/Rai.html">Rai</a>, or <a href="/taelgarverse/Cosmology/Gods/Tanshi/Aasimti.html">Aasimti</a>, to speak in their dreams.   </p>
+<p>Since then, <a href="/taelgarverse/People/Chardonians/Gnaeus.html">Gnaeus</a> learned, <a href="/taelgarverse/Cosmology/Gods/Tanshi/Aasimti.html">Aasimti</a> has kept the <a href="/taelgarverse/Organizations/Deno%27qai%20Tribes/Te%27kula.html">Te'kula</a> hidden and safe. They would not speak of what they must be kept safe from, saying that speaking its name summoned it, and then even <a href="/taelgarverse/Cosmology/Gods/Tanshi/Aasimti.html">Aasimti</a> could not keep them safe. But it dwelt in the east, and first came to their lands, in disguise, soon after <a href="/taelgarverse/Cosmology/Gods/Tanshi/Aasimti.html">Aasimti</a> was found, speaking with a honeyed tongue and asking for <a href="/taelgarverse/People/PCs/Rai.html">Rai</a>'s spirit, then threatening utter destruction when <a href="/taelgarverse/People/Deno%27qai/Jordo.html">Jordo</a> refused. It was only a desperate prayer to <a href="/taelgarverse/People/PCs/Rai.html">Rai</a> to hide them that kept <a href="/taelgarverse/Organizations/Deno%27qai%20Tribes/Te%27kula.html">Te'kula</a> alive.   </p>
+<p>After 30 days, when his guide's enchantment ceased, the guide turned on him, and the <a href="/taelgarverse/Organizations/Deno%27qai%20Tribes/Te%27kula.html">Te'kula</a> followed. <a href="/taelgarverse/People/Chardonians/Gnaeus.html">Gnaeus</a> fled downriver, barely escaping with his life."</p></div>
+<div class="note-footer">
+<div class="backlinks">
+<h2>Backlinks</h2>
+<ul>
+	<li><a class="backlink" href="/taelgarverse/People/Chardonians/Gnaeus.html">gnaeus</a></li>
+	<li><a class="backlink" href="/taelgarverse/People/Deno'qai/Jordo.html">jordo</a></li>
+	<li><a class="backlink" href="/taelgarverse/Campaigns/Dunmari Frontier/Session Notes/Session 48.html">session 48</a></li>
+	<li><a class="backlink" href="/taelgarverse/Campaigns/Dunmari Frontier/Party Treasure.html">party treasure</a></li>
+</ul>
+</div>
+
+<div class="tags">
+
+</div>
+
+</div>
+<div class="graph requires_js ">
+    <div id="A209354481117785398261152456975208392027{level}" class="graph_div"></div>
+    
+    <div class="graph-button-row" style="display:flex;">
+        <button class="graph_button graph_show_button" id="B209354481117785398261152456975208392027{level}" level="{level}" note_temp_id="209354481117785398261152456975208392027" onclick="window.ObsHtmlGraph.run(this, '209354481117785398261152456975208392027', 'on the lost people of the forests');">
+            Show Graph
+        </button>
+        <button class="graph_button graph_type_button" id="C209354481117785398261152456975208392027{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+            2D
+        </button>
+    </div>
+</div>
+
+<script type="module">
+    if (window.ObsHtmlGraph == undefined){
+        import('/taelgarverse/obs.html/static/graph.js').then((Module) => {
+            window.ObsHtmlGraph = Module;
+            window.ObsHtmlGraph.arm_page(document.getElementById('page_holder'))
+        })
+    }
+</script>
+
+
+
+
+                                <!-- end content -->
+                        </div>
+                        <div class="container_filler">
+                        </div>
+                        <div id="right_pane" class="right_pane active">
+    <div id="right_pane_fold_header" class="right_pane_fold_header fold_header">x</div>
+    <div id="right_pane_content" class="right_pane_content">
+            
+    </div>
+</div>
+                </div>
+        </div>
+
+        <script>
+                function handle_toggle_side_bar(e){
+                        let header;
+                        let pane; 
+                        let target = e.target
+
+                        // switch out the navbar button click for a header click
+                        if (target.id == 'left_pane_toggle_nav'){
+                                target = document.getElementById('left_pane_fold_header')
+                        }
+                        else if (target.id == 'right_pane_toggle_nav'){
+                                target = document.getElementById('right_pane_fold_header')
+                        }
+
+                        // get header and pane
+                        if (target.classList.contains('fold_header')) {
+                                header = target;
+                                pane = target.parentElement;
+                        }
+                        else {
+                                pane = target;
+                                header = target.getElementsByClassName('fold_header')[0];
+                        }
+                        toggle_side_bar(pane, header, true)
+                        e.stopPropagation();
+                }
+                function handle_toggle_side_bar_button(e){
+                        document.getElementById('menu_toggle_button').click()
+                        handle_toggle_side_bar(e);
+                }
+
+                function toggle_side_bar(pane, header, save) {
+                        let active = (pane.classList.contains('active'))
+                        if (active){
+                                disable_side_bar(pane, header, save);
+                        }
+                        else {
+                                enable_side_bar(pane, header, save);
+                        }
+                }
+                function enable_side_bar(pane, header, save){
+                        pane.classList.add('active');
+                        pane.removeEventListener('click', handle_toggle_side_bar);
+                        header.addEventListener('click', handle_toggle_side_bar);
+                        set_correct_header_symbol(header);
+                        if (save){ save_panel_folding_state(header, true) }
+                }
+                function disable_side_bar(pane, header, save){
+                        pane.classList.remove('active');
+                        pane.addEventListener('click', handle_toggle_side_bar);
+                        header.removeEventListener('click', handle_toggle_side_bar);
+                        set_correct_header_symbol(header);
+                        if (save){ save_panel_folding_state(header, false) }
+                }
+                function set_correct_header_symbol(header){
+                        let pane = header.parentElement;
+                        let symbol = [['>', '<'],['<', '>']]
+                        symbol = symbol[Number(header.classList.contains('right_pane_fold_header'))][Number(pane.classList.contains('active'))];
+                        console.log(symbol);
+                        header.innerHTML = symbol
+                        return header;
+                }
+                function panel_folding_get_panel_name(header){
+                        return ['left', 'right'][Number(header.classList.contains('right_pane_fold_header'))]
+                }
+                function save_panel_folding_state(header, active){
+                        ls_set('pane_folding_state_'+panel_folding_get_panel_name(header), Number(active));
+                }
+                function load_panel_folding_state(panel_name){
+                        val = ls_get('pane_folding_state_'+panel_name)
+                        if (!val){ return {'exists': false, 'value': null}}
+                        return {'exists': true, 'value': Boolean(Number(val))}
+                }
+                function set_pane_folding_start(left_header, right_header){
+                        // small screen = closed
+                        let right_pane_enabled = true;
+                        let left_pane_enabled = true;
+                        let w = window.visualViewport.width
+                        if (w < 1000){
+                                left_pane_enabled = false
+                        }
+                        if (w < 800){
+                                right_pane_enabled = false
+                        }
+
+                        // get saved values if present
+                        let rval = load_panel_folding_state('right')
+                        if (rval['exists']){
+                                right_pane_enabled = rval['value']
+                        }
+                        let lval = load_panel_folding_state('left')
+                        if (lval['exists']){
+                                left_pane_enabled = lval['value']
+                        }
+
+                        // default = enabled, so we only need to disable
+                        if (!left_pane_enabled){
+                                disable_side_bar(document.getElementById('left_pane'), document.getElementById('left_pane_fold_header'))
+                        }
+                        if (!right_pane_enabled){
+                                disable_side_bar(document.getElementById('right_pane'), document.getElementById('right_pane_fold_header'))
+                        }
+                }
+
+                function init_pane_folding(header){
+                        set_correct_header_symbol(header);
+                        header.addEventListener('click', handle_toggle_side_bar);
+                }
+                
+                
+                set_pane_folding_start()
+                init_pane_folding(document.getElementById('left_pane_fold_header'));
+                init_pane_folding(document.getElementById('right_pane_fold_header'));
+
+                document.getElementById('left_pane_toggle_nav').addEventListener('click', handle_toggle_side_bar_button);
+                document.getElementById('right_pane_toggle_nav').addEventListener('click', handle_toggle_side_bar_button);
+        </script>
+
+        <script src="/taelgarverse/obs.html/static/load_dirtree_footer.js" type="text/javascript"></script>
+
+        
+
+
+
+
+</body>
+</html>
