@@ -35,7 +35,7 @@ plugins:
   - glightbox
   - callouts
   - mkdocs-backlinks:
-      ignored_pages: [ 'Toc', 'Gazetteer' ]
+      ignored_pages: [ 'Toc', 'Gazetteer', 'Home' ]
   - literate-nav:
       nav_file: toc.md
   - section-index
