@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, location: Wahacha}
 - {type: away, start: 1748-10-14, prefix: sea elf village in, location: Quanyi}
 title: Skoda
-hide: [toc]
+hide_toc: true
 ---
 
 # Skoda
@@ -23,14 +23,14 @@ hide: [toc]
     Born DR 1700 (49 years old)  
     { .bio }
 
-    Based in Wahacha, the Vermillion Isles, ~Eastern Islands~
+    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), [~Eastern Islands~](<../../gazetteer/eastern-green-sea/eastern-islands.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of October 14th, 1748): Quanyi, ~Eastern Islands~
+:octicons-location-24:{ .lg .middle } Last known location (as of October 14th, 1748): [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), [~Eastern Islands~](<../../gazetteer/eastern-green-sea/eastern-islands.md>)
 
 
-A kenku woman in late middle age, who travels the islands of the Eastern Green Sea with her partner [Nahto](<./nahto.md>). She is fey-touched and has a hint of magic about her. 
+A kenku woman in late middle age, who travels the islands of the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>) with her partner [Nahto](<./nahto.md>). She is fey-touched and has a hint of magic about her. 
 
-In early October 1748, she was captured by a recently awakened aboleth and dragged to its undersea lair with [Nahto](<./nahto.md>). She was rescued, along with other captives, by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) and his companions on October 14, 1748. However, she suffered from the aboleth's curse, and could no longer survive without frequently being immersed in water. After telling [Wellby](<../pcs/dunmar-fellowship/wellby.md>) of her friend [Arryn the Wanderer](<../other-humans/arryn.md>), a wizard living in the northern part of the islands who could aid him with magic to make his way to the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), she traveled with other victims of the aboleth to the sea [Elves](<../../species/children-of-the-embodied-gods/elves/elves.md>) village off the coast of Quanyi, where she remains a guest until a cure for the aboleth's curse can be found. 
+In early October 1748, she was captured by a recently awakened aboleth and dragged to its undersea lair with [Nahto](<./nahto.md>). She was rescued, along with other captives, by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) and his companions on October 14, 1748. However, she suffered from the aboleth's curse, and could no longer survive without frequently being immersed in water. After telling [Wellby](<../pcs/dunmar-fellowship/wellby.md>) of her friend [Arryn the Wanderer](<../other-humans/arryn.md>), a wizard living in the northern part of the islands who could aid him with magic to make his way to the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), she traveled with other victims of the aboleth to the sea [Elves](<../../species/children-of-the-embodied-gods/elves/elves.md>) village off the coast of [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), where she remains a guest until a cure for the aboleth's curse can be found. 
 
 ![Skoda](../../assets/skoda.png){width="400"}

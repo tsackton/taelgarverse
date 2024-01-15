@@ -9,7 +9,7 @@ species: human
 ancestry: Dunmari
 gender: male
 title: Selkan
-hide: [toc]
+hide_toc: true
 ---
 
 # Selkan
@@ -22,6 +22,6 @@ hide: [toc]
 </div>
 
 
-A Dunmari man freed from the Mirror of Soul Trapping. 
+A Dunmari man freed from the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/mirror-of-soul-trapping.md>). 
 
 He is prematurely aged, bald, weary eyes full of pain. His thumbs are cut off, he looks in rough shape. 

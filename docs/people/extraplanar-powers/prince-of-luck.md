@@ -9,7 +9,7 @@ subspecies: archfey
 gender: male
 aliases: [Chanceweaver]
 title: Prince of Luck
-hide: [toc]
+hide_toc: true
 ---
 
 # Prince of Luck

@@ -14,24 +14,24 @@ whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, location: Army Garrison of Cleenseau}
 title: Ancer Benthey
-hide: [toc]
+hide_toc: true
 ---
 
 # Ancer Benthey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Sembaran [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1689 (60 years old)  
-    Sergeant of the Bridge Patrol, and the Army Garrison of Cleenseau (since November 20th, 1719)  
+    Sergeant of the Bridge Patrol, and the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) (since November 20th, 1719)  
     { .bio }
 
-    Based in Cleenseau, the Manor of Cleenseau, the Barony of Aveil
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently with the Army Garrison of Cleenseau, in Dunfry, the Barony of Dunfry
+:octicons-location-24:{ .lg .middle } Currently with the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), in [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>), the [Barony of Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/barony-of-dunfry.md>)
 
 
-The nephew of [Ames Benthey](<./ames-benthey.md>), recently appointed sergeant of the Bridge Patrol after Odo Cordwaner was dismissed. He is untested and rumored to be somewhat stern, and not very close to his uncle. 
+The nephew of [Ames Benthey](<./ames-benthey.md>), recently appointed sergeant of the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) after [Odo Cordwaner](<./odo-cordwaner.md>) was dismissed. He is untested and rumored to be somewhat stern, and not very close to his uncle. 
 
 ![Ancer Benthey Portrait](../../assets/ancer-benthey-portrait.png){width="500"}

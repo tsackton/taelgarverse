@@ -10,7 +10,7 @@ I remember the vast forests. I remember the elven kingdom, Alcarenque, stretchin
 
 I was young man, just recently come into my power, after the [elves](<../../../species/children-of-the-embodied-gods/elves/elves.md>) fell. I grew bored of the land, of watching the little people scurrying across the plains, their cities growing and shrinking. Sometimes armies marching, but little did I care. And why should I?
 
-Stone born? Maybe, yes, they had tales to tell. The [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) of Ardith, far below here, traveling their long roads in the deep? They also had stories. And some would come, ask me questions about magic, the future. There was little good in those visions: destruction, chaos, blood!
+Stone born? Maybe, yes, they had tales to tell. The [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) of [Ardith](<../../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>), far below here, traveling their long roads in the deep? They also had stories. And some would come, ask me questions about magic, the future. There was little good in those visions: destruction, chaos, blood!
 
 The [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) stopped coming. They didn't want to hear about the fall of their kingdom. I know not now whether that is yet to come, or has already been.
 

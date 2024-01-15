@@ -11,7 +11,7 @@ whereabouts:
 - {type: home, location: Uzgukhar}
 - {type: away, location: Vindristjarna, end: 9999}
 title: Aygul
-hide: [toc]
+hide_toc: true
 ---
 
 # Aygul
@@ -24,7 +24,7 @@ hide: [toc]
     { .bio }
 
     Originally from: Gorzum
-    Based in Uzgukhar, Xurkhaz, the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
+    Based in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)

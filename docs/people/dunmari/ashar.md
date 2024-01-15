@@ -8,13 +8,13 @@ ancestry: Dunmari
 gender: male
 whereabouts: Tokra
 title: Ashar
-hide: [toc]
+hide_toc: true
 ---
 
 # Ashar
 >[!info]+ Biographical Info
 > [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>), he/him
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> 
+>> 
 
-An old Dunmari solider from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), who fought in the Summer of Red Storms, lost an eye, and retired to drink and reminisce with his war buddies. Spends a lot of time at [Darshana's Caravanserai](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/darshana-s-caravanserai.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+An old Dunmari solider from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), who fought in the [Summer of Red Storms](<../../events/1700s/1709/summer-of-red-storms.md>), lost an eye, and retired to drink and reminisce with his war buddies. Spends a lot of time at [Darshana's Caravanserai](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/darshana-s-caravanserai.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).

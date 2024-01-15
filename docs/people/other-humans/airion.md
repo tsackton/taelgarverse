@@ -9,7 +9,7 @@ ancestry:
 gender: male
 died: 1545
 title: Airion
-hide: [toc]
+hide_toc: true
 ---
 
 # Airion

@@ -14,14 +14,14 @@ affiliations:
 whereabouts:
 - {type: home, location: The Red Lily Inn}
 title: Tye Strongbones
-hide: [toc]
+hide_toc: true
 ---
 
 # Tye Strongbones
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Strongbones  
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Strongbones](<../../groups/halfling-families/strongbones.md>)  
     Born DR 1731 (18 years old)  
     Cook of [The Red Lily Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-red-lily-inn.md>)  
     { .bio }
@@ -36,12 +36,5 @@ hide: [toc]
 
 ## Relationships
 - [Wes Strongbones](<./wes-strongbones.md>), father
-- Cade Strongbones, twin brother
-
-```dataview
-TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
-FROM #person OR #organization 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-SORT choice(species, species, typeof)
-```
+- [Cade Strongbones](<./cade-strongbones.md>), twin brother
 

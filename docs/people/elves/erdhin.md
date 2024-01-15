@@ -8,7 +8,7 @@ ka:
 whereabouts: Erelion
 gender: male
 pronunciation: erd-HEEN
-hide: [toc]
+hide_toc: true
 ---
 
 # Caretaker Erdhin
@@ -19,6 +19,6 @@ hide: [toc]
     An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) unknown)  
     { .bio }
 
-    Based in Erelion, Orenlas
+    Based in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>), [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
 </div>
 

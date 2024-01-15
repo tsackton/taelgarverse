@@ -10,7 +10,7 @@ gender: female
 whereabouts:
 - {type: home, location: Te'kula village}
 title: Alayah
-hide: [toc]
+hide_toc: true
 ---
 
 # Alayah
@@ -21,7 +21,7 @@ hide: [toc]
     Born DR 1725 (24 years old)  
     { .bio }
 
-    Based in Te'kula village, the Elderwood, Ainumarya
+    Based in [Te'kula village](<../../gazetteer/chasa-nahadi-watershed/te-kula-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
 
 

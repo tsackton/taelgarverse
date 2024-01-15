@@ -10,7 +10,7 @@ gender:
 player: David Schwartz
 affiliations:
 title: Ander
-hide: [toc]
+hide_toc: true
 ---
 
 # Ander

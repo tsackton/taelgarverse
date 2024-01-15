@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, start: 1731, location: Pava and Avaras' House}
 - {type: away, start: 1749, end: 9999, location: Vindristjarna}
 title: Amil
-hide: [toc]
+hide_toc: true
 ---
 
 # Amil
@@ -21,7 +21,7 @@ hide: [toc]
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1731 (18 years old)  
-    Member of the Order of the Awakened Soul  
+    Member of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)  
     { .bio }
 
     Based in [Pava and Avaras' House](<../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
@@ -32,13 +32,13 @@ hide: [toc]
 
 
 
-A young monk, in training as an apprentice of the Order of the Awakened Soul. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [Pava](<./pava.md>) and [Avaras](<./avaras.md>), on the edge of the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) in the blasted plains. 
+A young monk, in training as an apprentice of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [Pava](<./pava.md>) and [Avaras](<./avaras.md>), on the edge of the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) in the blasted plains. 
 
 
 ## Events
-- (DR:: 1748-04-27) *(Amil)*: Arrives in Bas Udda to tend the unburied dead from the gnoll attacks
-- (DR:: 1748-04-29) *(Amil)*: Meets [Havdar](<./havdar.md>) and [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), who aid him in his task. 
-- (DR:: 1748-04-30) *(Amil)*: Leaves Bas Udda with The Dunmar Fellowship, traveling to his masters' house in the desert
-- (DR:: 1748-05-02) *(Amil)*: Arrives at Pava and Avaras' House with The Dunmar Fellowship. 
-- (DR:: 1748-05-17) *(Amil)*: At Pava and Avaras' House when [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) spend the night
+- Apr 27, 1748 DR *(Amil)*: Arrives in Bas Udda to tend the unburied dead from the gnoll attacks
+- Apr 29, 1748 DR *(Amil)*: Meets [Havdar](<./havdar.md>) and [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), who aid him in his task. 
+- Apr 30, 1748 DR *(Amil)*: Leaves Bas Udda with The Dunmar Fellowship, traveling to his masters' house in the desert
+- May 02, 1748 DR *(Amil)*: Arrives at Pava and Avaras' House with The Dunmar Fellowship. 
+- May 17, 1748 DR *(Amil)*: At Pava and Avaras' House when [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) spend the night
 

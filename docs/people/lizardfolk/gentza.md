@@ -11,7 +11,7 @@ died: 1719-10-27
 whereabouts:
 - {type: home, location: Ganboa}
 title: Gentza
-hide: [toc]
+hide_toc: true
 ---
 
 # Gentza
@@ -22,7 +22,7 @@ hide: [toc]
     b. DR 1681 - d. October 27th, 1719, murdered by bandits at age 38 years  
     { .bio }
 
-    Lived in Ganboa, the Barony of Aveil, Sembara
+    Lived in [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 

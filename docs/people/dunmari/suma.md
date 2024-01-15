@@ -9,7 +9,7 @@ ancestry: Dunmari
 gender: female
 whereabouts: Karawa
 title: Suma
-hide: [toc]
+hide_toc: true
 ---
 
 # Suma

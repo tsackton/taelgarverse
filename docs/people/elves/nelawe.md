@@ -5,7 +5,7 @@ species: elf
 ka: 31
 gender: female
 title: Nelawe
-hide: [toc]
+hide_toc: true
 ---
 
 # Nelawe

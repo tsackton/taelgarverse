@@ -9,7 +9,7 @@ whereabouts:
 - {type: home, location: Seeker}
 - {type: home, location: Caelynn}
 title: Legendary Gates of Kenzo
-hide: [toc]
+hide_toc: true
 ---
 
 # The Legendary Gates of Kenzo

@@ -10,7 +10,7 @@ speciesAlias: fire giant
 gender: male
 died: 1545
 title: Zegron
-hide: [toc]
+hide_toc: true
 ---
 
 # Zegron
@@ -24,4 +24,4 @@ hide: [toc]
 </div>
 
 
-A fire giant lieutenant in Cha'mutte's army during the Great War, killed by Deno'qai warriors in the Battle of Endless Dark, and bound as a ghost to bring revenge on the [Hobgoblins](<../../species/goblinoids/hobgoblins.md>) who would not fight. 
+A fire giant lieutenant in [Cha'mutte](<../extraplanar-powers/cha-mutte.md>)'s army during the [Great War](<../../events/1500s/great-war.md>), killed by Deno'qai warriors in the Battle of Endless Dark, and bound as a ghost to bring revenge on the [Hobgoblins](<../../species/goblinoids/hobgoblins.md>) who would not fight. 

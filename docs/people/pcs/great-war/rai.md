@@ -9,10 +9,10 @@ ancestry:
 gender: male
 player: David Kong
 title: Rai
-hide: [toc]
+hide_toc: true
 ---
 
 ### Rai
 
-Hero of the Great War. 
+Hero of the [Great War](<../../../events/1500s/great-war.md>). 
 

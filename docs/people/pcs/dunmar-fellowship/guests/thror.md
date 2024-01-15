@@ -10,7 +10,7 @@ ancestry:
 gender:
 player:
 title: Thror
-hide: [toc]
+hide_toc: true
 ---
 
 # Thror

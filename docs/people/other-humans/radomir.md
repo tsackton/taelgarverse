@@ -10,18 +10,18 @@ gender: male
 whereabouts:
 - {type: home, location: Ursk}
 title: Radomir
-hide: [toc]
+hide_toc: true
 ---
 
 # Radomir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An Urskan [human](<../../species/humans/humans.md>) (he/him)  
+    An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1710 (39 years old)  
     { .bio }
 
-    Based in Ursk, the Northern Green Sea
+    Based in [Ursk](<../../gazetteer/northern-green-sea/ursk.md>), the Northern Green Sea
 </div>
 
 

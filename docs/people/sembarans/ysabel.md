@@ -14,34 +14,23 @@ affiliations:
 whereabouts:
 - {type: home, location: Cleenseau}
 title: Ysabel
-hide: [toc]
+hide_toc: true
 ---
 
 # Ysabel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Sembaran [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
     b. DR 1688 - d. January 6th, 1720, died at age 32 years  
-    Sheriff of the Lord's Guard of Cleenseau (until January 6th, 1720)  
+    Sheriff of the [Lord's Guard of Cleenseau](<../../groups/sembaran-political-units/lord-s-guard-of-cleenseau.md>) (until January 6th, 1720)  
     { .bio }
 
-    Lived in Cleenseau, the Manor of Cleenseau, the Barony of Aveil
+    Lived in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
 
-A striking and comely woman with a rough scar running from her eye to her neck. She is the sheriff of Cleenseau and leads a part of the Lord's Guard. She has many opinions about her employers, in particular Rinault Essford, and does not always successfully keep them to herself.
+A striking and comely woman with a rough scar running from her eye to her neck. She is the sheriff of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and leads a part of the [Lord's Guard](<../../groups/sembaran-political-units/lord-s-guard-of-cleenseau.md>). She has many opinions about her employers, in particular [Rinault Essford](<./rinault-essford.md>), and does not always successfully keep them to herself.
 
 ![[ysabel.png|420]]
-
-
-### Relationships
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Alive"], 
-			dv.pages("#person or #organization or #item")
-				.where(f => util.isLinkedToPerson(f.file, dv.current().file))
-				.sort(f => util.s("<maintype:n>", f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
-```
 

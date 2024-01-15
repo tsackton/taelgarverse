@@ -9,7 +9,7 @@ ancestry:
 gender:
 player:
 title: Rothfis
-hide: [toc]
+hide_toc: true
 ---
 
 ## Rothfis

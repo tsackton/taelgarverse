@@ -13,7 +13,7 @@ whereabouts:
 - {type: away, start: 1748-07-18, end: '', location: Myraeni Gap}
 pronunciation: tha-RAN-dros
 title: Tharandros
-hide: [toc]
+hide_toc: true
 ---
 
 # Tharandros

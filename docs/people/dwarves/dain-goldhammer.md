@@ -12,7 +12,7 @@ whereabouts:
 - {type: away, start: 1748-10-23, end: '', location: Illoria}
 - {type: home, start: '', end: '', location: Chardon}
 title: Dain Goldhammer
-hide: [toc]
+hide_toc: true
 ---
 
 # Dain Goldhammer
@@ -23,16 +23,16 @@ hide: [toc]
     Born DR 1704 (45 years old)  
     { .bio }
 
-    Based in Chardon, the Chardonian Empire
+    Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of October 23rd, 1748): Illoria, the Nevos Sea
+:octicons-location-24:{ .lg .middle } Last known location (as of October 23rd, 1748): [Illoria](<../../gazetteer/west-coast/illoria.md>), the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on October 23rd, 1748 in Illoria, the Nevos Sea  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on October 23rd, 1748 in [Illoria](<../../gazetteer/west-coast/illoria.md>), the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)  
 
 
-An adventurer, working for the Society of the Open Scroll, funded by Fausto. Often travels with Dee Wildcloak. 
+An adventurer, working for the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), funded by [Fausto](<../chardonians/fausto.md>). Often travels with [Dee Wildcloak](<../halflings/dee-wildcloak.md>). 
 
-Part of the group that explored [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) and brought Hralgar's Eyes and the Binding Stones back to Chardon.
+Part of the group that explored [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) and brought [Hralgar's Eyes](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>) and the [Binding Stones](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/binding-stones.md>) back to [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>).

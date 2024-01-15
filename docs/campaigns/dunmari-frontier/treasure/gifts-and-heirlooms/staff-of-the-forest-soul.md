@@ -4,17 +4,17 @@ typeOf: staff
 whereabouts: Kenzo
 rarity: unique
 title: Staff of the Forest Soul
-hide: [toc]
+hide_toc: true
 ---
 
 # The Staff of the Forest Soul
 >[!info]+ Information
 > (unique magical staff)
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> 
 
 ## Staff of the Forest Soul
 
-This staff was constructed by [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>) from a branch of the ancient elven tree in [Tokra](<../../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), a relative of the massive trees called God trees by the Deno’qai of the Elderwood. This staff is a +1 magic quarterstaff. While attuned, this staff has the following additional functions:
+This staff was constructed by [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>) from a branch of the ancient elven tree in [Tokra](<../../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), a relative of the massive trees called God trees by the Deno’qai of the [Elderwood](<../../../../gazetteer/chasa-nahadi-watershed/elderwood.md>). This staff is a +1 magic quarterstaff. While attuned, this staff has the following additional functions:
 
 -  Forest Ki: Your connection to the soul of the forest allows you to draw on the forest for extra ki. The staff contains a ki reservoir equal to your Wisdome modifier, which you can use interchangeably with your normal ki pool. This ki is restored whenever you take a short rest. 
 -  Commune with Nature: Once per day, you can connect yourself to the natural world around you, entering a trance to commune with nature. This has the effect of the  Commune with Nature spell, but may reveal additional information at the DM’s discretion. If you have already used this ability, you can use it again by spending 6 ki. 
@@ -23,7 +23,7 @@ This staff was constructed by [Kenzo](<../../../../people/pcs/dunmar-fellowship/
 - Death Blessing: You have advantage on Death saving throws. 
 - Time Manipulation: When you score a critical hit against a creature with your staff, the creature must make a Wisdom saving throw against your ki save DC. Succeed or fail, the target takes an extra **1d6**![](chrome-extension://gnblbpbepfbfmoobegdogkglpbhcjofh/images/icons/badges/custom20.png) necrotic damage. On a fail, they are also under the effects of the slow spell; they can repeat the save at the end of each turn to end the effect.
 
-The spiritual beings of the Footprint of the Gods carved four tokens on [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>)’s staff, each representing a different spiritual ki. 
+The spiritual beings of the [Footprint of the Gods](<../../../../gazetteer/far-south/azta-lekua.md>) carved four tokens on [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>)’s staff, each representing a different spiritual ki. 
 
 - Amezza ki: You can spend 3 ki to cast Augury; you can only do this once per day. You also have a pool of Amezza ki, which does not regenerate. You can drain the Amezza ki to enter a trance that allows you to visit the [Dreamworld](<../../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>).
 - Hutsu ki: You have advantage on death saving throws. You also have a pool of Hutsu ki, which does not regenerate. You can drain this pool to grasp one departing spirit and, if they are willing, return them to the material plane. Choose one creature that has been dead for no more than 24 hours; if the body is intact, you restore them to life.

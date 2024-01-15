@@ -10,7 +10,7 @@ gender:
 player:
 affiliations:
 title: Ladder
-hide: [toc]
+hide_toc: true
 ---
 
 # Ladder

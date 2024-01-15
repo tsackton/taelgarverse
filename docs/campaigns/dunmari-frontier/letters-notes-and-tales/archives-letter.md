@@ -3,7 +3,7 @@ tags: [status/unknown]
 title: Archives Letter
 ---
 
-(originally found by Servius; copy given to party in [Session 38 (DuFr)](<../session-notes/session-38-dufr.md>))
+(originally found by [Servius](<../../../people/chardonians/servius.md>); copy given to party in [Session 38 (DuFr)](<../session-notes/session-38-dufr.md>))
 
 To Captain Avani, commander of the [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) guard, dedicat of [Aagir](<../../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>), and noble warrior, greetings and the bond of friendship.
 
@@ -13,7 +13,7 @@ The wisdom of [Laka](<../../../cosmology/gods/incorporeal-gods/dunmari/laka.md>)
 
 I write to warn you that riders are coming, soon I hope, with those most valuable and ancient treasures that cannot aid us in the battles to come. Our hope now is in speed and the quiet shadows of Adra's grace. I ask that you provide what aid and support available at [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), fresh horses and trail rations, for I have asked my riders to travel swiftly and quietly to the coast, somewhere out of the way and unlikely to matter in the wars to come. [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) comes to mind, although I trust your judgment of the distant west more than my own.
 
-Should war sweep across all of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), to even the distant western borders of our land, at least there they may flee, to Chardon, or Illoria, or wherever the gods take them. But I pray daily it will not come to this, and after the war we may safely recover what we now send away from some hidden sea cave or secret cellar.
+Should war sweep across all of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), to even the distant western borders of our land, at least there they may flee, to [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), or [Illoria](<../../../gazetteer/west-coast/illoria.md>), or wherever the gods take them. But I pray daily it will not come to this, and after the war we may safely recover what we now send away from some hidden sea cave or secret cellar.
 
 I trust the gods will guide your will and grant you wisdom and foresight in this matter, as in all things. Keep us in your prayers, for war is coming for us all.
 

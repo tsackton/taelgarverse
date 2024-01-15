@@ -9,7 +9,7 @@ species: merfolk
 ancestry:
 gender: nonbinary
 title: Illius
-hide: [toc]
+hide_toc: true
 ---
 
 # Illius

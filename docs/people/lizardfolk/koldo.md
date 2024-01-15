@@ -8,7 +8,7 @@ ancestry:
 gender: male
 whereabouts: Ganboa
 title: Koldo
-hide: [toc]
+hide_toc: true
 ---
 
 # Koldo
@@ -19,7 +19,7 @@ hide: [toc]
     Born DR 1512 (237 years old)  
     { .bio }
 
-    Based in Ganboa, the Barony of Aveil, Sembara
+    Based in [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 

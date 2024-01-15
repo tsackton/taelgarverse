@@ -11,7 +11,7 @@ gender: female
 whereabouts:
 - {type: home, start: '', end: '', location: Bedez}
 title: Arrosa
-hide: [toc]
+hide_toc: true
 ---
 
 # Arrosa
@@ -21,8 +21,8 @@ hide: [toc]
     A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (she/her)  
     { .bio }
 
-    Based in Bedez, Orekatu, the South Region
+    Based in [Bedez](<../../gazetteer/far-south/bedez.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
 </div>
 
 
-A lizardfolk elder, the matriarch of the village of Bedez, in the Kingdom of Orekatu. 
+A lizardfolk elder, the matriarch of the village of [Bedez](<../../gazetteer/far-south/bedez.md>), in the Kingdom of [Orekatu](<../../gazetteer/far-south/orekatu.md>). 

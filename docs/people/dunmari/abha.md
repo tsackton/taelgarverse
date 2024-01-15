@@ -7,7 +7,7 @@ ancestry: Dunmari
 name: Abha
 affiliations: [Sonkar Mystai]
 title: Abha
-hide: [toc]
+hide_toc: true
 ---
 
 # Abha
@@ -15,7 +15,7 @@ hide: [toc]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Member of the Sonkar Mystai  
+    Member of the [Sonkar Mystai](<../../groups/dunmari-mystery-cults/sonkar-mystai.md>)  
     { .bio }
 
 </div>

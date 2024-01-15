@@ -112,11 +112,11 @@ Used space: 204 squares
 The lower deck consists of, from stern to prow:
 
 * [Seeker's](<../../people/pcs/dunmar-fellowship/seeker.md>) game room
-* Faldrak's workshop
+* [Faldrak's](<../../people/dwarves/faldrak-bronzehammer.md>) workshop
 * the archives and research library, tended by [Nuzkar](<../../people/orcs/nuzkar.md>)
 * a sparing and exercise room, tended by [Aygul](<../../people/orcs/aygul.md>)
 * a shrine to the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel.md>), tended by [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>)
-* the smithy, tended by Kethra
+* the smithy, tended by [Kethra](<../../people/dwarves/kethra.md>)
 
 > [!info]+ Game Room
 > >Tended by: [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>)
@@ -135,7 +135,7 @@ The lower deck consists of, from stern to prow:
 
 
 > [!info]+ Workshop
-> >Tended by: Faldrak
+> >Tended by: [Faldrak](<../../people/dwarves/faldrak-bronzehammer.md>)
 > >Game Effect: Workshop
 > >Size: 16 squares (Roomy)
 >> Order: Craft (1d4 BP) 
@@ -177,7 +177,7 @@ The lower deck consists of, from stern to prow:
 
 
 > [!info]+ Smithy
-> > Tended by: Kethra Silverspark
+> > Tended by: [Kethra Silverspark](<../../people/dwarves/kethra.md>)
 > >Game Effect: Smithy
 > >Size: 16 squares (Roomy)
 > > Order: Craft (1d4 BP)
@@ -211,7 +211,7 @@ Used space: 36 squares
 The storage deck is currently unfinished and is primarily used as an actual storage hold.
 
 > [!info]+ Storage Hold
-> > Tended by: [Adam Gower](<../../people/tollenders/adam-gower.md>), from Tollen
+> > Tended by: [Adam Gower](<../../people/tollenders/adam-gower.md>), from [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 > >Game Effect: Storehouse
 > >Size: 36 squares (Vast)
 > > Order: Trade (1d4 BP)
@@ -222,20 +222,6 @@ The storage deck is currently unfinished and is primarily used as an actual stor
 # People
 
 ## On Vindristjarna
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Home"], 
-			dv.pages("#person")
-				.where(f => util.inOrHomeLocation("Vindristjarna", f.file.frontmatter, dv.current().pageTargetDate))
-				.where(f => !util.inOrHomeLocation("Mirror of Soul Trapping", f.file.frontmatter, dv.current().pageTargetDate))				
-				.map(b => [util.s("<name> <pronunciation> (<pronouns>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
-```
+
 
 ## In the Mirror
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Home"], 
-			dv.pages("#person")
-				.where(f => util.inOrHomeLocation("Mirror of Soul Trapping", f.file.frontmatter, dv.current().pageTargetDate))				
-				.map(b => [util.s("<name> <pronunciation> (<pronouns>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
-```

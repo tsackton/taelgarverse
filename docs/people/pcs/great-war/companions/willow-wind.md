@@ -6,7 +6,7 @@ ancestry: spirit
 gender: male
 player: Mike Sackton
 title: Willow Wind
-hide: [toc]
+hide_toc: true
 ---
 
 ### Willow Wind

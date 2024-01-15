@@ -6,7 +6,7 @@ species: kenku
 gender: male
 name: Kecha
 title: Kecha
-hide: [toc]
+hide_toc: true
 ---
 
 # Kecha
@@ -16,7 +16,7 @@ hide: [toc]
     A [kenku](<../../species/unusual-species/kenku/kenku.md>) (he/him)  
     { .bio }
 
-    Based in the Free City of Tollen
+    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 </div>
 
 

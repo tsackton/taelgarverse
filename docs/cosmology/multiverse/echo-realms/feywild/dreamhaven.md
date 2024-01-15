@@ -27,7 +27,7 @@ The people of Dreamhaven live in small enclaves, usually hidden out of sight. Th
 
 Dreamhaven is north of [Fortune's Rest](<./fortune-s-rest.md>), south of [Whispervale](<./whispervale.md>), and east of [Splendor's Gleam](<./splendor-s-gleam.md>), to the extent that geography can be straightforwardly described in the Feywild. 
 
-Dreamhaven is roughly congruent with the  ancient elven kingdom of Ainumarya and the northern reaches of the Chasa River Valley on the Material Plane. 
+Dreamhaven is roughly congruent with the  ancient elven kingdom of [Ainumarya](<../../../../gazetteer/chasa-nahadi-watershed/ainumarya.md>) and the northern reaches of the [Chasa River Valley](<../../../../gazetteer/west-coast/chardonian-empire/chasa-river-valley/chasa-river-valley.md>) on the Material Plane. 
 
 ## Visual Inspiration
 

@@ -9,7 +9,7 @@ ancestry:
 gender: male
 whereabouts: Tokra
 title: Delig Hardstone
-hide: [toc]
+hide_toc: true
 ---
 
 # Delig Hardstone

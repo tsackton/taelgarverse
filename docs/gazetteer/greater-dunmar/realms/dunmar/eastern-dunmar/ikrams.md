@@ -31,6 +31,6 @@ Popular menu items include:
 
 ## Events
 
-- (DR:: 1748-04-12)*([Karawa](<./karawa.md>)):* [Ikram's caravanseri](<./ikrams.md>) is destroyed when gnolls set fire to much of the village. 
-- (DR:: 1748-06-02) *([Karawa](<./karawa.md>)):* [Ikram](<../../../../../people/dunmari/ikram.md>) begins rebuilding a new, better fortified [caravanserai](<./ikrams.md>)
-- (DR:: 1749-01-11) *([Karawa](<./karawa.md>)):* The new [Ikram’s](<./ikrams.md>) is completed
+- Apr 12)*([Karawa](<./karawa.md>), 1748 DR:* [Ikram's caravanseri](<./ikrams.md>) is destroyed when gnolls set fire to much of the village. 
+- Jun 02, 1748 DR *([Karawa](<./karawa.md>)):* [Ikram](<../../../../../people/dunmari/ikram.md>) begins rebuilding a new, better fortified [caravanserai](<./ikrams.md>)
+- Jan 11, 1749 DR *([Karawa](<./karawa.md>)):* The new [Ikram’s](<./ikrams.md>) is completed

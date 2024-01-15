@@ -19,7 +19,7 @@ typeOfAlias: skyship
 aliases: [Star on the Wind]
 subTypeOf: magical
 title: Vindristjarna
-hide: [toc]
+hide_toc: true
 ---
 
 # Vindristjarna
@@ -71,18 +71,18 @@ Rules are [here](<../../campaigns/mechanics/bastion-rules.md>).
 
 You have attracted a considerable retinue of followers on Vindristjarna, as well as some traveling companions. These include:
 
-Faldrak Bronzehammer (he/him). A dwarven an artificer, former adventurer, creator of magic items, and aspiring skyship captain. Runs the workshop when Seeker is not around, and wants to learn to drive the ship.
+[Faldrak Bronzehammer](<../../people/dwarves/faldrak-bronzehammer.md>) (he/him). A dwarven an artificer, former adventurer, creator of magic items, and aspiring skyship captain. Runs the workshop when Seeker is not around, and wants to learn to drive the ship.
 
 [Amil](<../../people/dunmari/amil.md>) (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
 
-Kethra Silverspark (unknown). A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from Morkalan. 
+[Kethra Silverspark](<../../people/dwarves/kethra.md>) (unknown). A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from Morkalan. 
 
 [Nuzkar](<../../people/orcs/nuzkar.md>) and [Aygul](<../../people/orcs/aygul.md>), orcs and twin sisters. 
 
 (not yet introduced)
 [Égnir](<../../people/elves/egnir.md>) (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
 
-Jotha (she/her, yo-TAG). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
+[Jotha](<../../people/deno-qai/jotha.md>) (she/her, yo-TAG). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
 
 UNNAMED (unknown). Mapmaker
 

@@ -12,30 +12,30 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Pyhlla}
 title: Tulvak
-hide: [toc]
+hide_toc: true
 ---
 
 # Tulvak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Skaer [human](<../../species/humans/humans.md>) (he/him)  
+    A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1719 (30 years old)  
     { .bio }
 
-    Based in Pyhlla, Skaerhem
+    Based in [Pyhlla](<../../gazetteer/western-green-sea/skaerhem/pyhlla.md>), [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 25th, 1748 in Pyhlla, Skaerhem  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 25th, 1748 in [Pyhlla](<../../gazetteer/western-green-sea/skaerhem/pyhlla.md>), [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)  
 
 
-Tulvak is a skilled sailor hailing from the island of Pyhlla in Skaerhem, in the Western Green Sea. He has for many years served as the ferry captain guiding pilgrims to Vetta, and knows the coast of Vetta like the back of his hand. 
+Tulvak is a skilled sailor hailing from the island of [Pyhlla](<../../gazetteer/western-green-sea/skaerhem/pyhlla.md>) in Skaerhem, in the Western [Green Sea](<../../gazetteer/green-sea.md>). He has for many years served as the ferry captain guiding pilgrims to [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), and knows the coast of [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>) like the back of his hand. 
 ## Description
 
 ![Tulvak](../../assets/tulvak.png)
 
 ## Events
 
-Tulvak was on Vetta when [Urgall the Black](<./urgall-the-black.md>) attacked in DR 1748. He was the only survivor of that assault, and still questions whether it was fate, or luck, that he was outside pissing when the fireballs began to fly. He fled watching the longhouse burn with all the pilgrims inside, and still carries the trauma of that night. 
+Tulvak was on [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>) when [Urgall the Black](<./urgall-the-black.md>) attacked in DR 1748. He was the only survivor of that assault, and still questions whether it was fate, or luck, that he was outside pissing when the fireballs began to fly. He fled watching the longhouse burn with all the pilgrims inside, and still carries the trauma of that night. 

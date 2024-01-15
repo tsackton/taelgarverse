@@ -11,7 +11,7 @@ gender: female
 whereabouts:
 - {type: home, location: Amberglow}
 title: Typhina
-hide: [toc]
+hide_toc: true
 ---
 
 # Typhina
@@ -26,4 +26,4 @@ hide: [toc]
 </div>
 
 
-A member of the court of the Cloudspinner and guardian of the Heartwood Grove. She was killed by [Agata](<./agata.md>), who later stole her identity while hiding in the Ring of the Warded Mind.
+A member of the court of the [Cloudspinner](<../extraplanar-powers/cloudspinner.md>) and guardian of the Heartwood Grove. She was killed by [Agata](<./agata.md>), who later stole her identity while hiding in the [Ring of the Warded Mind](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/ring-of-the-warded-mind.md>).

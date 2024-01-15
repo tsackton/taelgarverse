@@ -10,7 +10,7 @@ gender: male
 player: Eric Rosenbaum
 affiliations:
 title: Trok
-hide: [toc]
+hide_toc: true
 ---
 
 

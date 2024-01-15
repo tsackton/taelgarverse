@@ -1,7 +1,7 @@
 ---
 tags: [person, status/unknown, historical]
 title: Adèle Laurent
-hide: [toc]
+hide_toc: true
 ---
 
 

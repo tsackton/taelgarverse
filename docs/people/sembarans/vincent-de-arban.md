@@ -14,25 +14,22 @@ whereabouts:
 - {type: home, location: Embry}
 - {type: away, start: 1719-11-07, end: 1719-11-22, location: Cleenseau}
 title: Vincent de Arban
-hide: [toc]
+hide_toc: true
 ---
 
 # Vincent de Arban
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Sembaran [human](<../../species/humans/humans.md>) (he/him), of the Garay Family  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the [Garay Family](<../../groups/garay-family.md>)  
     Born May 18th, 1677 (71 years old)  
     { .bio }
 
-    Based in Embry, Sembara
+    Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the Heroes of Cleenseau on November 7th, 1719 in Cleenseau, the Manor of Cleenseau, the Barony of Aveil  
-
-
-Vincent de Arban is an agent of Susanne Garay. He visited Cleenseau to investigate Viepuck (when he was masquerading as Najeer Garay). 
+Vincent de Arban is an agent of [Susanne Garay](<./susanne-garay.md>). He visited [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) to investigate [Viepuck](<../pcs/cleenseau/viepuck.md>) (when he was masquerading as [Najeer Garay](<../pcs/cleenseau/viepuck.md>)). 
 
 He was extremely interested in Viepuck's spider silk scheme, and may return to see how it is faring. 

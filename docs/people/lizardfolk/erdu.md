@@ -10,7 +10,7 @@ ancestry:
 gender: male
 whereabouts: Ganboa
 title: Erdu
-hide: [toc]
+hide_toc: true
 ---
 
 # Erdu
@@ -21,14 +21,11 @@ hide: [toc]
     Born DR 1517 (232 years old)  
     { .bio }
 
-    Based in Ganboa, the Barony of Aveil, Sembara
+    Based in [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the Heroes of Cleenseau on October 28th, 1719 in Ganboa, the Barony of Aveil, Sembara  
-
-
-The spokesperson for the village of Ganboa when dealing with humans. Older, with graying scales.
+The spokesperson for the village of [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>) when dealing with humans. Older, with graying scales.
 
 ![Lizardfolk Erdu](../../assets/lizardfolk-erdu.png)

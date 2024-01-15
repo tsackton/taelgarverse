@@ -10,7 +10,7 @@ ancestry:
 gender: male
 whereabouts: Hamri
 title: Benat
-hide: [toc]
+hide_toc: true
 ---
 
 # Benat
@@ -20,7 +20,7 @@ hide: [toc]
     A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (he/him)  
     { .bio }
 
-    Based in Hamri, the Mawar Confederacy
+    Based in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 

@@ -11,7 +11,7 @@ gender: female
 player: Kate Sackton
 affiliations:
 title: Nerissa
-hide: [toc]
+hide_toc: true
 ---
 
 # Nerissa

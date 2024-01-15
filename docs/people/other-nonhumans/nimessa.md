@@ -8,7 +8,7 @@ species: elemental
 ancestry: marid
 gender: female
 title: Nimessa
-hide: [toc]
+hide_toc: true
 ---
 
 

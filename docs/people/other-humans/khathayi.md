@@ -8,7 +8,7 @@ species:
 ancestry:
 gender:
 title: Khathayi the Flametongue
-hide: [toc]
+hide_toc: true
 ---
 
 # Khathayi the Flametongue

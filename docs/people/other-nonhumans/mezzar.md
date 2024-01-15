@@ -14,7 +14,7 @@ died: 1748-09-15
 whereabouts:
 - {type: home, location: Elderwood}
 title: Grimbaskal
-hide: [toc]
+hide_toc: true
 ---
 
 # Grimbaskal
@@ -25,12 +25,12 @@ hide: [toc]
     Killed September 15th, 1748  
     { .bio }
 
-    Lived in the Elderwood, Ainumarya, the Chasa-Nahadi Watershed
+    Lived in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Killed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 15th, 1748 in the Elderwood, Ainumarya, the Chasa-Nahadi Watershed  
+:octicons-location-24:{ .lg .middle } Killed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 15th, 1748 in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed  
 
 
 Also known as Mezzar. A green dragon who made his lair in the Elderwood, and traveled widely in the guise of an elf, using the name Mezzar and poisoning the minds of the Deno'qai of the Elderwood. 

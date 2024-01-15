@@ -11,7 +11,7 @@ gender: male
 whereabouts:
 - {type: home, location: plains north of Tokra}
 title: Kiran
-hide: [toc]
+hide_toc: true
 ---
 
 # Kiran

@@ -9,7 +9,7 @@ ancestry: elven
 whereabouts:
 - {type: away}
 title: Circlet of Foreknowledge
-hide: [toc]
+hide_toc: true
 ---
 
 # The Circlet of Foreknowledge

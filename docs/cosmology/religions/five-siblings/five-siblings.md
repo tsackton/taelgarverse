@@ -25,7 +25,7 @@ The Dunmari also acknowledge the power of the creator gods, [Shurat](<../../gods
 **Demigods and Heroes**
 - [Shakun](<../../gods/incorporeal-gods/dunmari/shakun.md>)
 - [Bhishma](<../../gods/incorporeal-gods/dunmari/bhishma.md>)
-- Kotana
+- [Kotana](<../../../people/historical-figures/dunmari-rulers/kotana.md>)
 
 ### Relationships among the Divine
 

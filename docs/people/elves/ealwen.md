@@ -12,7 +12,7 @@ ancestry:
 gender: female
 whereabouts: Erelion
 title: Ealwen
-hide: [toc]
+hide_toc: true
 ---
 
 # Ealwen
@@ -24,12 +24,12 @@ hide: [toc]
     Born DR 1712 (37 years old)  
     { .bio }
 
-    Based in Erelion, Orenlas
+    Based in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>), [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1748 in Erelion, Orenlas  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1748 in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>), [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)  
 
 
 A gardener, herbalist, and caretaker of [Arheste](<./arheste.md>). 

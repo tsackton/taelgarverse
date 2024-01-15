@@ -7,7 +7,7 @@ rarity: unique
 destroyed: 1749-01-20
 whereabouts: Grash
 title: Ring of Undying
-hide: [toc]
+hide_toc: true
 ---
 
 # The Ring of Undying

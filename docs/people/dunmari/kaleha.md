@@ -10,7 +10,7 @@ ancestry: Dunmari
 gender: female
 whereabouts: Tokra
 title: Kaleha
-hide: [toc]
+hide_toc: true
 ---
 
 # Kaleha

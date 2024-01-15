@@ -11,7 +11,7 @@ gender: male
 whereabouts:
 - {type: home, location: Eskorola}
 title: Itzal
-hide: [toc]
+hide_toc: true
 ---
 
 # Itzal
@@ -22,7 +22,7 @@ hide: [toc]
     Born DR 1531 (218 years old)  
     { .bio }
 
-    Based in Eskorola, the Mawar Confederacy
+    Based in [Eskorola](<../../gazetteer/west-coast/mawar-confederacy/eskorola.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 

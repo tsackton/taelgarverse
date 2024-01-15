@@ -10,7 +10,7 @@ ancestry:
 gender: male
 affiliations: [The People of the Rainbow]
 title: Uzgash
-hide: [toc]
+hide_toc: true
 ---
 
 # Uzgash
@@ -24,4 +24,4 @@ hide: [toc]
 </div>
 
 
-A revered leader of the People of the Rainbow, who recovered the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>) and founded the kingdom of Xurkhaz.
+A revered leader of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>), who recovered the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>) and founded the kingdom of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>).

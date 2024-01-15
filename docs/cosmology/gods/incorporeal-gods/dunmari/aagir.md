@@ -14,5 +14,5 @@ Aagir is god of war, fire, and death. He is the protector of warriors, the fierc
 
 His feast day is [Aagirvala](<../../../../time/holidays-and-festivals/dunmari-festivals/aagirvala.md>), the Festival of Aagir's Spear. 
 
-His mystery cult, the Aagir Mystai, have no permanent base but function as traveling guardians of the safety of [Dunmar](<../../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
+His mystery cult, the [Aagir Mystai](<../../../../groups/dunmari-mystery-cults/aagir-mystai.md>), have no permanent base but function as traveling guardians of the safety of [Dunmar](<../../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 

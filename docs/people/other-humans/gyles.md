@@ -8,7 +8,7 @@ species: human
 ancestry:
 gender: male
 title: Gyles
-hide: [toc]
+hide_toc: true
 ---
 
 ## Gyles

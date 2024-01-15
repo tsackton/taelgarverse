@@ -13,7 +13,7 @@ whereabouts:
 - {type: away, start: 1575-09-19, end: '', location: Bleakhold}
 - {type: home, start: 1748-08-25, end: '', location: Nardith}
 title: Dworic
-hide: [toc]
+hide_toc: true
 ---
 
 # Dworic
@@ -24,12 +24,12 @@ hide: [toc]
     Born DR 1502 (247 years old)  
     { .bio }
 
-    Originally from: Ardith, Labkhan
+    Originally from: [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
     Based in [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
 </div>
 
 
-A dwarven smith, born in Ardith before the Great War. He was trapped there after the war, but rescued by an expedition sent from [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) in DR 1575, led by Nora Silverspark and Hagrim Firebrand. Trapped in the shadowfell realm of [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfell/bleakhold.md>) after the rescue mission failed. 
+A dwarven smith, born in [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>) before the [Great War](<../../events/1500s/great-war.md>). He was trapped there after the war, but rescued by an expedition sent from [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) in DR 1575, led by [Nora](<./nora-silverspark.md>) Silverspark and [Hagrim](<./hagrim.md>) Firebrand. Trapped in the shadowfell realm of [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfell/bleakhold.md>) after the rescue mission failed. 
 
 In DR 1748, he was freed from [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfell/bleakhold.md>) by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) and her companions, after the [Chalice of the Runepriest](<../../things/artifacts-of-power/chalice-of-the-runepriest.md>) was recovered. Joined the [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfell/bleakhold.md>) refugees who traveled with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) to [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), and is now settled there. While time passes differently in the [Shadowfell](<../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>), the years were hard on those trapped there, and he looks his chronological age. 
 

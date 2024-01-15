@@ -9,7 +9,7 @@ gender: female
 whereabouts:
 - {type: home, start: '', end: '', location: plains north of Tokra}
 title: Jita
-hide: [toc]
+hide_toc: true
 ---
 
 # Jita

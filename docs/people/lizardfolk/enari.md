@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, location: Orekatu}
 - {type: away, start: 1748-11-01, end: 1749-12-01, location: Bedez}
 title: Enari
-hide: [toc]
+hide_toc: true
 ---
 
 # Enari
@@ -22,12 +22,12 @@ hide: [toc]
     A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (he/him)  
     { .bio }
 
-    Based in Orekatu, the South Region
+    Based in [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in Bedez, Orekatu, the South Region
+:octicons-location-24:{ .lg .middle } Currently in [Bedez](<../../gazetteer/far-south/bedez.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
 
 
-A well-muscled lizardfolk hunter and wanderer, who earned a reputation and honor traveling among the villages of the kingdom of Orekatu. Guided [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) and [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>) to the Azta Lekua, the Footprint of the Gods, and returned to Bedez after they succeeded in their quest, to report to the elders of the kingdom. 
+A well-muscled lizardfolk hunter and wanderer, who earned a reputation and honor traveling among the villages of the kingdom of [Orekatu](<../../gazetteer/far-south/orekatu.md>). Guided [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) and [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>) to the [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>), the [Footprint of the Gods](<../../gazetteer/far-south/azta-lekua.md>), and returned to [Bedez](<../../gazetteer/far-south/bedez.md>) after they succeeded in their quest, to report to the elders of the kingdom. 
 
 ![Enari Portrait](../../assets/enari-portrait.png){width="400"}

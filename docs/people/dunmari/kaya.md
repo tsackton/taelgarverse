@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: female
 title: Kaya
-hide: [toc]
+hide_toc: true
 ---
 
 # Kaya

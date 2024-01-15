@@ -9,7 +9,7 @@ gender: female
 whereabouts:
 - {type: home, location: plains north of Tokra}
 title: Saka
-hide: [toc]
+hide_toc: true
 ---
 
 # Saka

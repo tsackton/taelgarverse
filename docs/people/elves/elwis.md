@@ -16,7 +16,7 @@ whereabouts:
 - {type: away, start: 1748-08-29, end: 9999, location: Tollen}
 pronunciation: EL-wiss
 title: Elwis
-hide: [toc]
+hide_toc: true
 ---
 
 # Elwis
@@ -28,18 +28,18 @@ hide: [toc]
     Born DR 1634 (115 years old)  
     { .bio }
 
-    Based in Orenlas
+    Based in [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in the Free City of Tollen
+:octicons-location-24:{ .lg .middle } Currently in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 2nd, 1749 in the Free City of Tollen  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 2nd, 1749 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
-Elwis is a female elf and painter from Orenlas. She is spending her wandering years traveling around the Green Sea, trying to make new art that hasn't been dreamed before in the history of her people. 
+Elwis is a female elf and painter from [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>). She is spending her wandering years traveling around the [Green Sea](<../../gazetteer/green-sea.md>), trying to make new art that hasn't been dreamed before in the history of her people. 
  
-She has recently come to Tollen, fascinated by the magical inks of the Dyer's Guild and seeking to use them in painting. 
+She has recently come to [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), fascinated by the magical inks of the Dyer's Guild and seeking to use them in painting. 
 
 

@@ -12,24 +12,24 @@ whereabouts:
 - {type: home, location: Lavila}
 - {type: home, location: Tollen}
 title: Escobar Garavito
-hide: [toc]
+hide_toc: true
 ---
 
 # Escobar Garavito
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Cymean [human](<../../species/humans/humans.md>) (he/him)  
+    A [Cymean](<../../gazetteer/western-green-sea/cymea/cymea.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1727 (22 years old)  
-    Member of the University of Tollen, and the Dyer's Guild  
+    Member of the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>), and the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>)  
     { .bio }
 
-    Originally from: Lavila, Cymea
-    Based in the Free City of Tollen
+    Originally from: [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>), [Cymea](<../../gazetteer/western-green-sea/cymea/cymea.md>)
+    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 </div>
 
 
-A young and charismatic student at the University of Tollen, Escobar's journey from the humble village of Lavila in Cymea to the bustling streets of Tollen showcases his adaptability and determination.
+A young and charismatic student at the University of [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), Escobar's journey from the humble village of [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>) in [Cymea](<../../gazetteer/western-green-sea/cymea/cymea.md>) to the bustling streets of [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) showcases his adaptability and determination.
 
 
 

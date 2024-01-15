@@ -8,7 +8,7 @@ gender: male
 whereabouts:
 - {type: away, location: Voltara Plains, prefix: southern}
 title: Herasto
-hide: [toc]
+hide_toc: true
 ---
 
 # Herasto
@@ -21,6 +21,6 @@ hide: [toc]
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in the Voltara Plains, the Chardonian Empire
+:octicons-location-24:{ .lg .middle } Currently in the [Voltara Plains](<../../gazetteer/west-coast/chardonian-empire/northern-frontier/voltara-plains.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 
 

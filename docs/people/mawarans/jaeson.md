@@ -9,7 +9,7 @@ species: human
 ancestry: Mawaran
 gender: male
 title: Jaeson
-hide: [toc]
+hide_toc: true
 ---
 
 # Jaeson

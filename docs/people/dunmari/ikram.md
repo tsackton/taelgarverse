@@ -9,7 +9,7 @@ ancestry: Dunmari
 gender: male
 whereabouts: Karawa
 title: Ikram
-hide: [toc]
+hide_toc: true
 ---
 
 # Ikram

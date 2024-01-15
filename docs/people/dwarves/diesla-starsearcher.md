@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, location: Ardith}
 - {type: home, location: Taviose}
 title: Diesla Starsearcher
-hide: [toc]
+hide_toc: true
 ---
 
 # Diesla Starsearcher
@@ -23,9 +23,9 @@ hide: [toc]
     Born DR 1512 (237 years old)  
     { .bio }
 
-    Originally from: Ardith, Labkhan
-    Based in Taviose, the Manor of Cleenseau, the Barony of Aveil
+    Originally from: [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
+    Based in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
 
-[Brot Starsearcher](<./brot-starsearcher.md>)'s wife, a respected metalsmith in Taviose. A patient and loving companion to her somewhat scatterbrained spouse.
+[Brot Starsearcher](<./brot-starsearcher.md>)'s wife, a respected metalsmith in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). A patient and loving companion to her somewhat scatterbrained spouse.

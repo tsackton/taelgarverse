@@ -10,7 +10,7 @@ gender: female
 whereabouts:
 - {type: home, prefix: northern, location: plains of Karawa}
 title: Shani
-hide: [toc]
+hide_toc: true
 ---
 
 # Shani

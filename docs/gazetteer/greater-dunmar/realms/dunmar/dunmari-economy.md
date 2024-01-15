@@ -13,7 +13,7 @@ Historically, Dunmar grew rich in large part off the profits of trade, given tha
 In the current day, Dunmar is largely known for horses; animal products, including fine leather and raw wool; tropical hardwoods from the Shrev river valley and beyond; and agricultural products of the Nayan Floodplains.
 ## Trade
 
-Dunmar is not completely isolated from its neighbors. Although not a significant maritime power, a considerable amount of trade passes through Darba, the richest city in Dunmar. In addition to agricultural products, considerable dwarven trade passes through Dunmar between the [Yuvanti Mountains](<../../yuvanti-mountains.md>) and the Chardonian Empire. 
+Dunmar is not completely isolated from its neighbors. Although not a significant maritime power, a considerable amount of trade passes through Darba, the richest city in Dunmar. In addition to agricultural products, considerable dwarven trade passes through Dunmar between the [Yuvanti Mountains](<../../yuvanti-mountains.md>) and the [Chardonian Empire](<../../../west-coast/chardonian-empire/chardonian-empire.md>). 
 
 Trade from the Green Sea to the east usually comes via halfling caravans out of Sembara, that cross the passes of the Sentinels in season. 
 

@@ -11,7 +11,7 @@ gender: male
 player: John Leeker
 affiliations:
 title: Kaleho
-hide: [toc]
+hide_toc: true
 ---
 
 # Kaleho

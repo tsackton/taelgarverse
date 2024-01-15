@@ -18,7 +18,7 @@ In other places, especially where it passes through the edge of Twilight’s Gra
 
 Since [Amberglow](<./amberglow.md>) fell it has been odder, and less controlled. The colors shift unexpectedly at times, and the time effects are less predictable, and even the safe passages shift time in strange ways. And sometimes dark clouds race along the colors, blotting them out and bringing an unexpected darkness to the land.
 
-Where the Sunset Gate crosses through Duskmire, near the Darkwood, it has been chiseled and worked by Lord Umbraeth to try to tear it down, but it has instead grown back as a tangled maze of angry reds and oranges, like sharp glass. This part of the Sunset Gate is especially difficult to pass.
+Where the Sunset Gate crosses through Duskmire, near the Darkwood, it has been chiseled and worked by [Lord Umbraeth](<../../../../people/extraplanar-powers/lord-umbraeth.md>) to try to tear it down, but it has instead grown back as a tangled maze of angry reds and oranges, like sharp glass. This part of the Sunset Gate is especially difficult to pass.
 
-The northern parts of the Sunset Gate, north of the ~Evensong Spire~ is outside any particular fey domain, althoug the sunward side is inhabited by a number of allies of [Archfey Ethlenn](<../../../../people/extraplanar-powers/archfey-ethlenn.md>) who are charged, among other things, to watch for mischief from the Gloomshaper.
+The northern parts of the Sunset Gate, north of the ~Evensong Spire~ is outside any particular fey domain, althoug the sunward side is inhabited by a number of allies of [Archfey Ethlenn](<../../../../people/extraplanar-powers/archfey-ethlenn.md>) who are charged, among other things, to watch for mischief from the [Gloomshaper](<../../../../people/extraplanar-powers/lord-umbraeth.md>).
 

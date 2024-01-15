@@ -13,7 +13,7 @@ whereabouts:
 - {type: home, location: Eastern Dunmar, format: ''}
 - {type: away, start: 1748-05-01, prefix: western part of, location: Garamjala Desert}
 title: Camana
-hide: [toc]
+hide_toc: true
 ---
 
 # Camana
@@ -22,7 +22,7 @@ hide: [toc]
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
     b. DR 1721 - d. May 1st, 1748, died at age 27 years  
-    Member of Havdar's Warband (until May 1st, 1748)  
+    Member of [Havdar's Warband](<../../groups/havdar-s-warband.md>) (until May 1st, 1748)  
     { .bio }
 
     Lived , in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

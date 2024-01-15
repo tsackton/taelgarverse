@@ -1,7 +1,7 @@
 ---
 tags: [status/stub, item/book]
 title: A Fool's Fortune
-hide: [toc]
+hide_toc: true
 ---
 
 

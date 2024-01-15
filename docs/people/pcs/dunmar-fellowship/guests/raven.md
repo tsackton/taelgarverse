@@ -10,7 +10,7 @@ ancestry:
 gender: enby
 player:
 title: Raven
-hide: [toc]
+hide_toc: true
 ---
 
 # Raven
@@ -23,4 +23,4 @@ hide: [toc]
 </div>
 
 
-A fae warrior and martial arts fighter, from the Fey realm of [Shimmersong](<../../../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>), one of the Winter Knights who protects the realm during the cold days of the Winter Court, when the Lightdancer hibernates. Returned to [Shimmersong](<../../../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>) after helping [Seeker](<../seeker.md>) stop the wild magic storm and travel through [Amberglow](<../../../../cosmology/multiverse/echo-realms/feywild/amberglow.md>) to the fey crossing at Lastlight Falls. 
+A fae warrior and martial arts fighter, from the Fey realm of [Shimmersong](<../../../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>), one of the Winter Knights who protects the realm during the cold days of the Winter Court, when the [Lightdancer](<../../../extraplanar-powers/lightdancer.md>) hibernates. Returned to [Shimmersong](<../../../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>) after helping [Seeker](<../seeker.md>) stop the wild magic storm and travel through [Amberglow](<../../../../cosmology/multiverse/echo-realms/feywild/amberglow.md>) to the fey crossing at Lastlight Falls. 

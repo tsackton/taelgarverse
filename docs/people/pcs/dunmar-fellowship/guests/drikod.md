@@ -12,7 +12,7 @@ player: John Leeker
 affiliations:
 whereabouts: Kunda
 title: Drikod
-hide: [toc]
+hide_toc: true
 ---
 
 # Drikod
@@ -22,7 +22,7 @@ hide: [toc]
     A [stoneborn](<../../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) (he/him)  
     { .bio }
 
-    Based in Kunda, Indalas
+    Based in [Kunda](<../../../../gazetteer/sentinel-range/kunda.md>), [Indalas](<../../../../gazetteer/sentinel-range/sentinel-range.md>)
 </div>
 
 

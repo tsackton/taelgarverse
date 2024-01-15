@@ -10,7 +10,7 @@ whereabouts:
 - {type: home, location: Chardonian Empire}
 - {type: home, location: Hamri}
 title: Abelard
-hide: [toc]
+hide_toc: true
 ---
 
 # Abelard
@@ -20,8 +20,8 @@ hide: [toc]
     A Mawaran [human](<../../species/humans/humans.md>) (he/him)  
     { .bio }
 
-    Originally from: the Chardonian Empire
-    Based in Hamri, the Mawar Confederacy
+    Originally from: the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+    Based in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 

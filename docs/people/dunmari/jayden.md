@@ -10,7 +10,7 @@ gender: female
 whereabouts:
 - {type: home, location: Karawa}
 title: Jayden
-hide: [toc]
+hide_toc: true
 ---
 
 # Jayden

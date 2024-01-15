@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, location: !!null ''}
 - {type: home, start: 1700, location: Amberglow}
 title: Vondar
-hide: [toc]
+hide_toc: true
 ---
 
 # Vondar

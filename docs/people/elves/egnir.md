@@ -5,7 +5,7 @@ aliases: [Égnir]
 name: Égnir
 species: elf
 title: Égnir
-hide: [toc]
+hide_toc: true
 ---
 
 # Égnir

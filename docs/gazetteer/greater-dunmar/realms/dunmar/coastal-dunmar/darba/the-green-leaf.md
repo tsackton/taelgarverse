@@ -16,4 +16,4 @@ title: The Green Leaf
 </div>
 
 
-A harbor inn in Darba, run by the Sunmeadows for generations. Known among halfling travelers as a reliable place to get a night's rest and ship's passage in Darba. 
+A harbor inn in Darba, run by the [Sunmeadows](<../../../../../../groups/halfling-families/sunmeadows.md>) for generations. Known among halfling travelers as a reliable place to get a night's rest and ship's passage in Darba. 

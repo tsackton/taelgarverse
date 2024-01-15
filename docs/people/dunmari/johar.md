@@ -14,7 +14,7 @@ whereabouts:
 - {type: away, start: 1748-08-08, end: '', location: Darba}
 - {type: away, start: 1748-08-27, end: '', location: Nayahar}
 title: Johar
-hide: [toc]
+hide_toc: true
 ---
 
 # Johar

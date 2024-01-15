@@ -10,23 +10,20 @@ ancestry: Sembaran
 gender: male
 whereabouts: Asineau
 title: Arnold the Miller
-hide: [toc]
+hide_toc: true
 ---
 
 # Arnold the Miller
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Sembaran [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1669 (80 years old)  
     { .bio }
 
-    Based in Asineau, the Barony of Aveil, Sembara
+    Based in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the Heroes of Cleenseau on October 29th, 1719 in Asineau, the Barony of Aveil, Sembara  
-
-
-The miller in Asineau. Overweight, and with a disagreeable personality and slovenly appearance. Hates lizardfolk. 
+The miller in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>). Overweight, and with a disagreeable personality and slovenly appearance. Hates lizardfolk. 

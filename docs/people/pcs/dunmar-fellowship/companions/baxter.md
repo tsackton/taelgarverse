@@ -8,7 +8,7 @@ gender:
 player: Dave Schwartz
 affiliations:
 title: Baxter
-hide: [toc]
+hide_toc: true
 ---
 
 ### Baxter the Axebeak

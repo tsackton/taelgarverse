@@ -10,7 +10,7 @@ gender:
 player:
 affiliations:
 title: Dimitaur
-hide: [toc]
+hide_toc: true
 ---
 
 

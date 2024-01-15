@@ -10,7 +10,7 @@ subspecies: dryad
 gender: female
 whereabouts: Azta Lekua
 title: Eleuha
-hide: [toc]
+hide_toc: true
 ---
 
 # Eleuha
@@ -20,7 +20,7 @@ hide: [toc]
     A dryad ([fey](<../../species/children-of-the-divine/fey/fey.md>)), she/her  
     { .bio }
 
-    Based in Azta Lekua, Orekatu, the South Region
+    Based in [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
 </div>
 
 

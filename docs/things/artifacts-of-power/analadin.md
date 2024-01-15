@@ -7,7 +7,7 @@ typeOf: staff
 rarity: unique
 whereabouts: Beryl
 title: Analadin
-hide: [toc]
+hide_toc: true
 ---
 
 # Analadin

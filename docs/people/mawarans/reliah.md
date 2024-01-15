@@ -6,7 +6,7 @@ born:
 species: human
 gender: female
 title: Reliah
-hide: [toc]
+hide_toc: true
 ---
 
 # Reliah

@@ -10,7 +10,7 @@ gender:
 player: David Schwartz
 affiliations:
 title: Aerin
-hide: [toc]
+hide_toc: true
 ---
 
 

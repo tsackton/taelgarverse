@@ -8,7 +8,7 @@ species: human
 ancestry:
 gender: male
 title: Yaz
-hide: [toc]
+hide_toc: true
 ---
 
 # Yaz

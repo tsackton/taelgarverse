@@ -21,4 +21,4 @@ She would not share the full details of what happened that night, only saying it
 
 When she returned to Pikkua two days later, bearing the mark of Kaikkea, everyone could see she was blessed. The divine touch was plain on her face. Filled with divine purpose but not knowing what she was meant to do, she left, this time with the community's blessing, and traveled. For four years she sailed from island to island, learning the voices of the ocean, confident in Kaikkea's power and trusting that Kaikkea would eventually reveal her purpose. 
 
-Two years ago, the priesthood of the temple in Tollen became empty, and she was asked to take a turn serving, which she agreed to do, with Kaikkea's guidance. Now, she is waiting patiently for Kaikkea's purpose to reveal itself. 
+Two years ago, the priesthood of the temple in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>) became empty, and she was asked to take a turn serving, which she agreed to do, with Kaikkea's guidance. Now, she is waiting patiently for Kaikkea's purpose to reveal itself. 

@@ -10,7 +10,7 @@ gender: male
 player: David Kong
 affiliations:
 title: Ryu
-hide: [toc]
+hide_toc: true
 ---
 
 # Ryu

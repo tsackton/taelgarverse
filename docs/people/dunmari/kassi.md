@@ -9,7 +9,7 @@ ancestry: Dunmari
 gender: female
 whereabouts: Lakan Monastery
 title: Kassi
-hide: [toc]
+hide_toc: true
 ---
 
 # Kassi

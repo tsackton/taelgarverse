@@ -16,7 +16,7 @@ whereabouts:
 - {type: away, start: 1748-08-09, end: 1748-08-21, location: Emerald Song}
 - {type: away, start: 1748-08-22, location: Chardon}
 title: Oswalt Tealeaf
-hide: [toc]
+hide_toc: true
 ---
 
 # Oswalt Tealeaf
@@ -24,13 +24,13 @@ hide: [toc]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him)  
-    Member of the Tealeafs  
+    Member of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)  
     { .bio }
 
     Originally from: [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of August 22nd, 1748): Chardon, the Chardonian Empire
+:octicons-location-24:{ .lg .middle } Last known location (as of August 22nd, 1748): [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 
 
 
@@ -38,20 +38,20 @@ hide: [toc]
 
 
 
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21st, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), Chardon, the Chardonian Empire  
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21st, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)  
 
 
 Oswalt Tealeaf is a halfling adventurer, archer, and scout. He grew up traveling the roads of Dunmar with the Tealeaf clan. 
 
 After the Tealeaf clan encountered trouble with Agata Dustmother, and lost Garret Tealeaf, Oswalt decided to learn to defend himself, and picked up the shortbow. After spending several years traveling with his family on safe roads far from the frontier, he met and fell in love with Jasmine Sunmeadow in Darba, who also wanted to adventure, and they left together for the north on the [Emerald Song](<../../things/ships/emerald-song.md>). 
 ## Relationships
-- Garret Tealeaf, cousin
-- Jasmine Sunmeadow, wife
+- [Garret Tealeaf](<./garret-tealeaf.md>), cousin
+- [Jasmine Sunmeadow](<./jasmine-sunmeadow.md>), wife
 ## Events
-- (DR:: 1737): Tealeaf clan fights off Dustthorn Horde orcs, but are then ambushed by [Agata](<../fey/agata.md>). Garret Tealeaf is captured.
-- (DR:: 1747): Oswalt meets and falls in love with Jasmine Sunmeadow in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)
-- (DR:: 1748): Jasmine and Oswalt are married
-- (DR:: 1748-08-09): Jasmine and Oswalt leave Darba together on the Emerald Song, heading for adventure
+- 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.
+- 1747 DR: Oswalt meets and falls in love with [Jasmine Sunmeadow](<./jasmine-sunmeadow.md>) in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)
+- 1748 DR: Jasmine and Oswalt are married
+- Aug 09, 1748 DR: Jasmine and Oswalt leave Darba together on the Emerald Song, heading for adventure
 
 
 

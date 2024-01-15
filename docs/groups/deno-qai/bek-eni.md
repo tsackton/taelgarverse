@@ -6,4 +6,4 @@ title: Bek'eni
 ---
 
 
-A Deno'qai tribe living in the Elderwood. Ruled for more than 20 years by the green dragon [Grimbaskal](<../../people/other-nonhumans/mezzar.md>), posing as an elf under the name [Mezzar](<../../people/other-nonhumans/mezzar.md>). 
+A Deno'qai tribe living in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>). Ruled for more than 20 years by the green dragon [Grimbaskal](<../../people/other-nonhumans/mezzar.md>), posing as an elf under the name [Mezzar](<../../people/other-nonhumans/mezzar.md>). 

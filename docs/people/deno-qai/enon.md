@@ -11,7 +11,7 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
 title: Enon
-hide: [toc]
+hide_toc: true
 ---
 
 # Enon
@@ -22,10 +22,10 @@ hide: [toc]
     Born DR 1688 (61 years old)  
     { .bio }
 
-    Based in Ko'zula village
+    Based in [Ko'zula village](<../../gazetteer/chasa-nahadi-watershed/ko-zula-village.md>)
 </div>
 
 
-Godcaller of the Ko’zula Deno’qai; gifted [Delwath](<../pcs/dunmar-fellowship/delwath.md>) his Deno'qai Scale Mail and Deno'qai Lynx Shield prior to [Delwath's solo adventure to free the Meswati.](<../../campaigns/dunmari-frontier/session-notes/session-51-52-dufr.md>)
+Godcaller of the Ko’zula Deno’qai; gifted [Delwath](<../pcs/dunmar-fellowship/delwath.md>) his [Deno'qai Scale Mail](<../../campaigns/dunmari-frontier/treasure/treasure-from-solo-adventures/deno-qai-scale-mail.md>) and [Deno'qai Lynx Shield](<../../campaigns/dunmari-frontier/treasure/treasure-from-solo-adventures/deno-qai-lynx-shield.md>) prior to [Delwath's solo adventure to free the Meswati.](<../../campaigns/dunmari-frontier/session-notes/session-51-52-dufr.md>)
 
 

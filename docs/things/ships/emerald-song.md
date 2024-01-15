@@ -13,16 +13,16 @@ whereabouts:
 - {type: away, start: 1748-08-18, end: 1748-08-20, prefix: traveling in, location: ~Chardon Bay~}
 - {type: away, start: 1748-08-21, location: Chardon}
 title: Emerald Song
-hide: [toc]
+hide_toc: true
 ---
 
 # The Emerald Song
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __[Halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) Boat__  
-   Home area: the Nevos Sea  
+   Home area: the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)  
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of August 21st, 1748): Chardon, the Chardonian Empire
+:octicons-location-24:{ .lg .middle } Last known location (as of August 21st, 1748): [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 
 
 The halfling ship Emerald Song is a fast, lanteen-rigged, three-masted trading ship owned by the Silversong clan, rigged with a single square mast and two fore-and-aft masts, at least typically. It typically sails between Chardon and points on the Nevos Sea with a crew of 22 and room for up to 12 passengers, more if they are halflings.
@@ -36,20 +36,12 @@ With a following wind and good conditions, can achieve speeds approaching 8 knot
 In addition to the hold and storage, the lower decks have a galley, mess, crew quarters. There are two larger cabins usually reserved for paying passengers and older halflings. Big folk have little choice but to sleep in hammocks on the top deck, which is the only one sized for big folk. Not super comfortable, and no privacy, but manageable.
 ## Crew
 
-As is typical for halfling ships, the Emerald Song is crewed in large part by members of the extended family that owns the ship (the Silversongs, in this case). 
+As is typical for halfling ships, the Emerald Song is crewed in large part by members of the extended family that owns the ship (the [Silversongs](<../../groups/halfling-families/silversongs.md>), in this case). 
 
-- Harol Silversong, captain
-- Dani Silversong, quartermaster and trade master
-- Ewen Silversong, singer and storyteller
+- [Harol Silversong](<../../people/halflings/harol-silversong.md>), captain
+- [Dani Silversong](<../../people/halflings/dani-silversong.md>), quartermaster and trade master
+- [Ewen Silversong](<../../people/halflings/ewen-silversong.md>), singer and storyteller
 - [Pearl Copperharp](<../../people/halflings/pearl-copperharp.md>), cook
-- Lyle Honeyhill, navigator
+- [Lyle Honeyhill](<../../people/halflings/lyle-honeyhill.md>), navigator
 
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Current", "Known to DuFr"], 
-			dv.pages("#person")
-				.where(f => util.inOrHomeLocation("Wave Dancer", f.file.frontmatter, false))
-				.map(b => [util.getName(b.file.name), util.getLoc(b.file.frontmatter), util.isKnownToParty(b.file.name, b.file.frontmatter, "dufr", true, true)]))
-```
 

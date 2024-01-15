@@ -14,12 +14,12 @@ There are many different ways of counting years in use across the world of Taelg
 The system of dates and years developed by the world-spanning [Drankorian Empire](<../history/drankorian-era/drankorian-empire.md>), dating years from the founding of the city of [Drankor](<../history/drankorian-era/drankor.md>). The new year in Drankorian Reckoning begins on January 1st (or, March 17th of the Dwarven Count of Years). Usually abbreviated DR. 
 
 ## Dwarven Count of Years
-The system of dates and years used by Dwarven historians, who count each year since the material plane was created and time began to flow in a predictable way, at the end of The Riving. The new year in Dwarven Reckoning begins on March 17th of the Drankorian calendar. Usually abbreviated CY. 
+The system of dates and years used by Dwarven historians, who count each year since the material plane was created and time began to flow in a predictable way, at the end of [The Riving](<../events/ancient/the-riving.md>). The new year in Dwarven Reckoning begins on March 17th of the Drankorian calendar. Usually abbreviated CY. 
 
 ## Other Calendar Eras
 
 However, other calendar eras may occasionally be used, including:
-- Dunmari reckoning, which counts dynastic years, and counts the new year from the [Festival of the New Dawn](<holidays-and-festivals/dunmari-festivals/festival-of-the-new-dawn.md>), on January 23rd. The current dynasty, the Nayan dynasty, began in 1557 DR, so the 1st year of the Nayan dynasty started on January 23rd, 1558 DR. 
+- Dunmari reckoning, which counts dynastic years, and counts the new year from the [Festival of the New Dawn](<holidays-and-festivals/dunmari-festivals/festival-of-the-new-dawn.md>), on January 23rd. The current dynasty, the [Nayan dynasty](<../groups/dunmari-dynasties/nayan-dynasty.md>), began in 1557 DR, so the 1st year of the Nayan dynasty started on January 23rd, 1558 DR. 
 - Sembaran reckoning, which counts regnal years, and counts each year from the monarch's coronation. Years are styled *year* *monarch*, i.e. 7 Robert I, is the 7th year of Robert I's reign.
 
 [Halflings](<../species/children-of-the-embodied-gods/halflings/halflings.md>) remember their history via the tale of years; each year has its own song and its own name. Typically halflings count the beginning of a new year from the day following the winter solstice, when the days begin to lengthen again. Halflings often tell their stories, but when writing, will simply write out the year, i.e. by dating a letter "in the Year of Honeyed Sun". 

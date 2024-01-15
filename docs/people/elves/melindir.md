@@ -14,7 +14,7 @@ whereabouts:
 - {type: home, start: '', end: '', location: Tollen}
 pronunciation: meh-LIN-deer
 title: Melindir
-hide: [toc]
+hide_toc: true
 ---
 
 # Melindir
@@ -25,15 +25,15 @@ hide: [toc]
     An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 35)  
     { .bio }
 
-    Originally from: Orenlas
-    Based in the Free City of Tollen
+    Originally from: [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
+    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 2nd, 1749 in the Free City of Tollen  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 2nd, 1749 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
-Melindr is the Ambassador to Tollen for the elven lands of Orenlas.
+Melindr is the Ambassador to [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) for the elven lands of [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>).
 
 ![Melindir](../../assets/melindir.png)

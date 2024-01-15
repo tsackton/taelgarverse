@@ -8,7 +8,7 @@ species: human
 ancestry: Mawaran
 gender: female
 title: Hiyasa
-hide: [toc]
+hide_toc: true
 ---
 
 # Hiyasa

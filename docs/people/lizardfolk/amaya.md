@@ -9,7 +9,7 @@ ancestry: salt
 gender: female
 whereabouts: Eskorola
 title: Amaya
-hide: [toc]
+hide_toc: true
 ---
 
 # Amaya
@@ -19,7 +19,7 @@ hide: [toc]
     A salt [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (she/her)  
     { .bio }
 
-    Based in Eskorola, the Mawar Confederacy
+    Based in [Eskorola](<../../gazetteer/west-coast/mawar-confederacy/eskorola.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 

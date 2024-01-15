@@ -11,7 +11,7 @@ gender: female
 player: Kate Sackton
 affiliations:
 title: Riswynn
-hide: [toc]
+hide_toc: true
 ---
 
 ### Riswynn

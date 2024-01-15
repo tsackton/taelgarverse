@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: male
 title: Shandar
-hide: [toc]
+hide_toc: true
 ---
 
 # Shandar

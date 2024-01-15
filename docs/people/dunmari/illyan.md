@@ -9,7 +9,7 @@ gender: male
 whereabouts:
 - {type: away, start: 1748-11-23, location: Tokra}
 title: Illyan
-hide: [toc]
+hide_toc: true
 ---
 
 # Illyan

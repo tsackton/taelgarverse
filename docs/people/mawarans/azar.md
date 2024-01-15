@@ -8,7 +8,7 @@ species: human
 ancestry:
 gender: male
 title: Azar
-hide: [toc]
+hide_toc: true
 ---
 
 # Azar

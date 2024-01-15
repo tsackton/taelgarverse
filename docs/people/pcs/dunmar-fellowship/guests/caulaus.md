@@ -9,7 +9,7 @@ gender: male
 player: Mike Sackton
 affiliations:
 title: Caulaus
-hide: [toc]
+hide_toc: true
 ---
 
 # Caulaus

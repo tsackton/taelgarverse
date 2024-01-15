@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: male
 title: Karmana
-hide: [toc]
+hide_toc: true
 ---
 
 # Karmana
@@ -21,4 +21,4 @@ hide: [toc]
 </div>
 
 
-The last master of the Order of the Awakened Soul at the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>), now a ghost. 
+The last master of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) at the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>), now a ghost. 

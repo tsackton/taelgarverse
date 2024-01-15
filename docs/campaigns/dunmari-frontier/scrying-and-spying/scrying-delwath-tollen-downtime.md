@@ -5,13 +5,13 @@
 
 ## Apollyon
 
-Delwath attempts to scry on Apollyon a number of times. The first three attempts fail. 
+Delwath attempts to scry on [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) a number of times. The first three attempts fail. 
 
 The fourth attempt, in February, succeeds, revealing a dark chamber, maybe 20 feet by 40 feet, with stone walls. A skeletal creature – Apollyon – is sitting, seemingly in meditation, at the center of the chamber. There is no furniture here, but the walls are covered in paintings and murals of scenes from the life of Apollyon: Apollyon in battle against the elves of Rostare; Apollyon taking the cloak from the orcs; Apollyon raising and commanding an army of Drankorians. 
 
-Apollyon looks up - straight at the scrying sensor - as it appears. You catch a glimpse of his face – gaunt, but not entirely skeletal – before his appearance shifts and you see sitting in this chamber the Emperor Apollyon of old, whom you have seen in the Mirror of the Past. 
+[Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) looks up - straight at the scrying sensor - as it appears. You catch a glimpse of his face – gaunt, but not entirely skeletal – before his appearance shifts and you see sitting in this chamber the Emperor Apollyon of old, whom you have seen in the Mirror of the Past. 
 
-He stands, and walks to one of the chamber walls. With a flick of his hand, the wall shifts, revealing a corridor. He walks down the corridor, and steps into a larger chamber, a circular room with a high ceiling through which light illuminates the floor, which is covered in runes. As Apollyon enters the runes light up, and at that moment five tombs raise from the ground. Each has a plain lid, and Apollyon lifts his hand the lids slide off.
+He stands, and walks to one of the chamber walls. With a flick of his hand, the wall shifts, revealing a corridor. He walks down the corridor, and steps into a larger chamber, a circular room with a high ceiling through which light illuminates the floor, which is covered in runes. As [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) enters the runes light up, and at that moment five tombs raise from the ground. Each has a plain lid, and Apollyon lifts his hand the lids slide off.
 
 Emerging from the tombs are what appear to be Riswynn, Delwath, Seeker, Wellby, and Kenzo. 
 
@@ -21,17 +21,17 @@ And then the sensor is dispelled. 
 
 ## Chardon
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) spends a significant amount of time scrying Chardon, both people and especially a number of places, to get a sense of the city. 
+[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) spends a significant amount of time scrying [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), both people and especially a number of places, to get a sense of the city. 
 
-For the most part, the events in Dunmar don’t seem to have had a dramatic impact on Chardon. You catch the occasional discussion of news from the east, a variety of garbled rumors about hags and civil war. In many of them, you feature as allies of the hag and instigators of chaos - you seem to have some notoriety in Chardon. However, no one in Chardon seems too concerned with Dunmar and there does not seem to be a drumbeat for war.
+For the most part, [the events in Dunmar](<../../../events/1700s/siblings-war.md>) don’t seem to have had a dramatic impact on Chardon. You catch the occasional discussion of news from the east, a variety of garbled rumors about hags and civil war. In many of them, you feature as allies of the hag and instigators of chaos - you seem to have some notoriety in Chardon. However, no one in Chardon seems too concerned with Dunmar and there does not seem to be a drumbeat for war.
 
-You gather that, if anything, there is something of a conflict between the young Magistros, Mitus Verina Auratan, and some of the notable wizards of the Hetaeri Magica (a somewhat mysterious organization of wizards associated with the Great Library and the University of Chardon, who manage rules about magic and magical training; Fausto is a prominent member). The Magistros, according to the rumors, sees no profit in war with Dunmar, and apparently the mages lost in the Battle of Tokra were largely not official Chardonian Legion wizards but mostly freelancers from the ranks of the University. Even the Hetaeri Magica, rumors report, is divided between those who wish war and those who council caution and peace. 
+You gather that, if anything, there is something of a conflict between the young Magistros, [Mitus Verina Auratan](<../../../people/chardonians/mitus-verina-auratan.md>), and some of the notable wizards of the [Hetaeri Magica](<../../../groups/hetaeri-magica.md>) (a somewhat mysterious organization of wizards associated with the [Great Library](<../../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>) and the [University of Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>), who manage rules about magic and magical training; Fausto is a prominent member). The Magistros, according to the rumors, sees no profit in war with Dunmar, and apparently the mages lost in the [Battle of Tokra](<../../../events/1700s/1748/12/battle-of-tokra.md>) were largely not official [Chardonian Legion](<../../../groups/chardonian-legion.md>) wizards but mostly freelancers from the ranks of the University. Even the Hetaeri Magica, rumors report, is divided between those who wish war and those who council caution and peace. 
 
-Nonetheless, there does seem to be a growing undercurrent of distrust of the Dunmari on the streets of Chardon, especially around Precinct IV, the University area. Outside The Thirsty Scholar, you see a group of students angrily turn away a Dunmari couple, taunting them, and these sights are not rare, although once when watching the port area, you do also see a soldier break up a fight between several Chardonians and a Dunmari man.
+Nonetheless, there does seem to be a growing undercurrent of distrust of the Dunmari on the streets of Chardon, especially around [Precinct IV](<../../../gazetteer/west-coast/chardonian-empire/chardon/precinct-iv.md>), the University area. Outside [The Thirsty Scholar](<../../../gazetteer/west-coast/chardonian-empire/chardon/the-thirsty-scholar.md>), you see a group of students angrily turn away a Dunmari couple, taunting them, and these sights are not rare, although once when watching the port area, you do also see a soldier break up a fight between several Chardonians and a Dunmari man.
 
 ## Marcella
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) scries on Marcella three times: once, the scry fails, but the other two succeed. 
+[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) scries on [Marcella](<../../../people/chardonians/marcella.md>) three times: once, the scry fails, but the other two succeed. 
 
 In mid-February, he sees her traveling with three other people, moving quietly and quickly in single file along a barren, ashy plain. All are dressed in cloaks and breastplates, and carry swords and bows - these are clearly not mere commoners. They seem to be following the footprints of something, for they often stop to search the ground. Marcella goes last: her footsteps leave the footprints of the metal boots of a hobgoblin solider. 
 
@@ -39,11 +39,11 @@ Two weeks later, in early March, Marcella is camped near a marshy river. She is 
 
 ## Kaeso
 
-Delwath scries on Kaeso twice. 
+Delwath scries on [Kaeso](<../../../people/chardonians/kaeso.md>) twice. 
 
 In early February, he is sitting quietly with [an old man](<../../../people/mawarans/yaz.md>) on the top of a tower overlooking the ocean, watching a storm crash against the cliffs. The man he is with is older than him, with white hair pulled back into a topknot, wrinkled laugh lines on his expressive face. You don’t recognize the person or the location, but Kaeso seems at peace.
 
-A few weeks later, at the end of February, Kaeso is sitting in a small room, drinking tea. The room is cozy - a bed piled with warm furs, a small table, a wardrobe, a warm fire burning in the hearth. Morning sunlight shines from the small window. Kaeso seems to be settled into this place. 
+A few weeks later, at the end of February, [Kaeso](<../../../people/chardonians/kaeso.md>) is sitting in a small room, drinking tea. The room is cozy - a bed piled with warm furs, a small table, a wardrobe, a warm fire burning in the hearth. Morning sunlight shines from the small window. Kaeso seems to be settled into this place. 
 
 ## Johar
 
@@ -51,7 +51,7 @@ A few weeks later, at the end of February, Kaeso is sitting in a small room, dri
 
 Around the middle of February, a week or so after you left the camp, most of Sura’s army departs, heading north. You see [Johar](<../../../people/dunmari/johar.md>), standing with [Sura](<../../../people/dunmari/sura.md>), watching many soldiers on horseback riding north in a long train. From the way they are standing together, you have the impression that there is someone else here, but you cannot see them, for some reason. 
 
-Later, you see Johar clearly in a meeting with the Sonkar Mystai [Abha](<../../../people/dunmari/abha.md>), but strangely you cannot see or hear her - you only see and hear Johar’s side of the conversation. From what you can piece together, [Abha](<../../../people/dunmari/abha.md>) has been meeting regularly with [Sura](<../../../people/dunmari/sura.md>), and is acting as something of a go-between, but Johar mostly seems to be listening to a report or update, which you cannot hear, so it is hard to tell exactly how it is going. (meta: Delwath would know enough about magic at this point to realize this is probably the result of some kind of non-detection effect on Abha, which hides the target from all divination magic). 
+Later, you see Johar clearly in a meeting with the [Sonkar Mystai](<../../../groups/dunmari-mystery-cults/sonkar-mystai.md>) [Abha](<../../../people/dunmari/abha.md>), but strangely you cannot see or hear her - you only see and hear Johar’s side of the conversation. From what you can piece together, [Abha](<../../../people/dunmari/abha.md>) has been meeting regularly with [Sura](<../../../people/dunmari/sura.md>), and is acting as something of a go-between, but Johar mostly seems to be listening to a report or update, which you cannot hear, so it is hard to tell exactly how it is going. (meta: Delwath would know enough about magic at this point to realize this is probably the result of some kind of non-detection effect on Abha, which hides the target from all divination magic). 
 
 By early March, [Johar](<../../../people/dunmari/johar.md>) is traveling northeast, probably heading for [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), traveling with a small guard but not with Sura. From brief snatches of conversation, it seems he is returning at last to the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), bringing messages and letters to Speaker [Lara](<../../../people/dunmari/lara.md>) and a request for her to bring together the temple authorities and heads of the mystai from across [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) to Tokra for a conclave. 
 
@@ -74,7 +74,7 @@ Once, you see another person. A woman, wearing white furs, gloves, with elegant 
   
 She walks up to him purposefully, and speaks quietly in a strange language (which Delwath quickly casts Tongues to decipher). 
 
-“The Rodnya Voknaz are not careless of your plight. You should have come to us right away, when you found the thing, for it has proved to be extremely interesting. But no matter, the past is the past and you have paid for your poor judgment.” 
+“The [Rodnya Voknaz](<../../../groups/rodnya-voknaz.md>) are not careless of your plight. You should have come to us right away, when you found the thing, for it has proved to be extremely interesting. But no matter, the past is the past and you have paid for your poor judgment.” 
 
 She takes a small vial from a pouch, and hands it to Radomir. 
 

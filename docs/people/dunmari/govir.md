@@ -9,7 +9,7 @@ gender: male
 whereabouts:
 - {type: home, location: Tokra}
 title: Govir
-hide: [toc]
+hide_toc: true
 ---
 
 # Govir

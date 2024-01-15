@@ -15,16 +15,16 @@ title: Morkalan
 # Morkalan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :octicons-location-24:{ .lg .middle } A [Shadowfell](<./shadowfell.md>) domain, brought into being on DR 1570 in Hagrim  
+   :octicons-location-24:{ .lg .middle } A [Shadowfell](<./shadowfell.md>) domain, brought into being on DR 1570 in [Hagrim](<../../../../people/dwarves/hagrim.md>)  
     :octicons-location-24:{ .lg .middle } Destroyed on August 26th, 1748 by [Riswynn](<../../../../people/pcs/dunmar-fellowship/riswynn.md>) and companions  
 </div>
 
 
-Morkalan was created by the dwarf Hagrim in death, as he turned from the gods. Known as the Land of the Dishonored Dead. A small domain, one that can be crossed in a day. A place where the sky is always dim and shadowed, the horizon bounded by endless mists.
+Morkalan was created by the dwarf [Hagrim](<../../../../people/dwarves/hagrim.md>) in death, as he turned from the gods. Known as the Land of the Dishonored Dead. A small domain, one that can be crossed in a day. A place where the sky is always dim and shadowed, the horizon bounded by endless mists.
 
 Largely inhabited by dwarves trapped at the creation of this domain, and the occasional other poor soul who was drawn in and could not escape. 
 
-Also the name that Hagrim took as he grew to identify with the domain, and forgot his past. 
+Also the name that [Hagrim](<../../../../people/dwarves/hagrim.md>) took as he grew to identify with the domain, and forgot his past. 
 
 The muddy river:
 ![Morkalan Muddy River](../../../../assets/morkalan-muddy-river.png){width="500"}

@@ -11,7 +11,7 @@ player: Mike Sackton
 affiliations:
 - {place: Leviathan Inn, title: Owner}
 title: Wazir
-hide: [toc]
+hide_toc: true
 ---
 
 # Wazir
@@ -19,7 +19,7 @@ hide: [toc]
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [human](<../../../species/humans/humans.md>) (he/him)  
-    Owner of the Leviathan Inn  
+    Owner of the [Leviathan Inn](<../../../gazetteer/west-coast/mawar-confederacy/leviathan-inn.md>)  
     { .bio }
 
 </div>

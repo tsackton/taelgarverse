@@ -12,7 +12,7 @@ affiliations:
 whereabouts:
 - {type: away, location: missing and presumed dead}
 title: Taster
-hide: [toc]
+hide_toc: true
 ---
 
 # Taster

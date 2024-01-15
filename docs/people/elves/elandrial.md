@@ -14,7 +14,7 @@ whereabouts:
 affiliations: [Fides Lucaris]
 pronunciation: eh-LAN-dree-ahl
 title: Elandrial
-hide: [toc]
+hide_toc: true
 ---
 
 # Elandrial
@@ -24,7 +24,7 @@ hide: [toc]
 
     An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) unknown)  
     Died  
-    Member of the Fides Lucaris  
+    Member of the [Fides Lucaris](<../../groups/drankorian-societies/fides-lucaris.md>)  
     { .bio }
 
     Originally from: Unknown

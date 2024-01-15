@@ -10,7 +10,7 @@ ancestry:
 gender: male
 whereabouts: Crystal Peak
 title: Illaran
-hide: [toc]
+hide_toc: true
 ---
 
 # Illaran

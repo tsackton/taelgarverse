@@ -9,7 +9,7 @@ species: human
 ancestry:
 gender: female
 title: Samar
-hide: [toc]
+hide_toc: true
 ---
 
 # Samar

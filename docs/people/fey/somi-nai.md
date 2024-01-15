@@ -11,7 +11,7 @@ aliases: [Ember, Sugarra]
 whereabouts:
 - {type: home, start: '', end: '', location: Azta Lekua}
 title: Somi-nai
-hide: [toc]
+hide_toc: true
 ---
 
 # Somi-nai
@@ -21,7 +21,7 @@ hide: [toc]
     An [elemental](<../../species/children-of-the-divine/elementals.md>) ([fire elemental](<../../species/children-of-the-divine/elementals.md>)) (he/him)  
     { .bio }
 
-    Based in Azta Lekua, Orekatu, the South Region
+    Based in [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
 </div>
 
 
@@ -38,7 +38,7 @@ Somi-nai manifests as a fiery spirit, pulsating with intense heat and radiating 
 
 A fire spirit, the essence of the volcano, also called Ember, or Sugarra in the [Lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) tongue. A spirit of the jungle itself and of the destructive power and renewing energy of fire and lava and fertile volcanic ash. Powerful with Ohana ki. Fleeing an invasion of his home by the  [Elemental Plane of Fire](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-fire.md>), which was eventually healed by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), [Enari](<../lizardfolk/enari.md>), and [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>).
 
-- In DR 1748, Azta Lekua was thrown out of balance by the presence of [Motua](<../extraplanar-powers/motua.md>), a wounded [Gidari](<../../species/children-of-belief/gidari.md>). Somi-nai fled his home as invaders from the [Elemental Plane of Fire](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-fire.md>) threatened to overwhelm the volcano. The crisis was eventually averted thanks to the intervention of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), [Enari](<../lizardfolk/enari.md>), and [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>).
+- In DR 1748, [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>) was thrown out of balance by the presence of [Motua](<../extraplanar-powers/motua.md>), a wounded [Gidari](<../../species/children-of-belief/gidari.md>). Somi-nai fled his home as invaders from the [Elemental Plane of Fire](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-fire.md>) threatened to overwhelm the volcano. The crisis was eventually averted thanks to the intervention of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), [Enari](<../lizardfolk/enari.md>), and [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>).
 
 
 

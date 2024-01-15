@@ -10,13 +10,13 @@ title: Greater Dunmar
 
 # Greater Dunmar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region Taelgar  
+-    :octicons-location-24:{ .lg .middle } A region [Taelgar](<../gazetteer.md>)  
 </div>
 
 
-This region of Taelgar includes the land south of the Sentinel Range, from the [Myraeni Gap](<./myraeni-gap.md>) and the Dunmari coast in the west, past the [Garamjala Desert](<garamjala-plateau/garamjala-desert.md>) and the [Nashtkar](<dunmari-basin/nashtkar.md>) in the east to the unknown lands beyond the wastes. To the south, this region extends to the ruins of [Drankor](<../../history/drankorian-era/drankor.md>), and beyond to the [Sea of Storms](<./sea-of-storms.md>). 
+This region of Taelgar includes the land south of the [Sentinel Range](<../sentinel-range/sentinel-range.md>), from the [Myraeni Gap](<./myraeni-gap.md>) and the Dunmari coast in the west, past the [Garamjala Desert](<garamjala-plateau/garamjala-desert.md>) and the [Nashtkar](<dunmari-basin/nashtkar.md>) in the east to the unknown lands beyond the wastes. To the south, this region extends to the ruins of [Drankor](<../../history/drankorian-era/drankor.md>), and beyond to the [Sea of Storms](<./sea-of-storms.md>). 
 
-This region experienced considerable upheaval after the Great War, as the [Yuvanti Mountains](<./yuvanti-mountains.md>) rose from the sea, creating the new land of [Western Dunmar](<realms/dunmar/western-dunmar/western-dunmar.md>), and turning the former fertile plains of the interior to desert. 
+This region experienced considerable upheaval after the [Great War](<../../events/1500s/great-war.md>), as the [Yuvanti Mountains](<./yuvanti-mountains.md>) rose from the sea, creating the new land of [Western Dunmar](<realms/dunmar/western-dunmar/western-dunmar.md>), and turning the former fertile plains of the interior to desert. 
 
 ## Topography
 
@@ -35,4 +35,4 @@ The Central Lowlands region is dominated by four major topographical features.
 
 ## Climate
 
-While historically the climate in this region was very different, in the current day this region is split between [hot arid desert and semi-arid scrub](https://geodiode.com/climate/hot-deserts), in the interior east of the [Yuvanti Mountains](<./yuvanti-mountains.md>),  and both [tropical](https://geodiode.com/climate/tropical-monsoon-and-tropical-savannah) and [subtropical](https://geodiode.com/climate/humid-subtropical) humid monsoon climates on the coast, especially in [Western Dunmar](<realms/dunmar/western-dunmar/western-dunmar.md>) between the [Yuvanti Mountains](<./yuvanti-mountains.md>) and the Nevos Sea. 
+While historically the climate in this region was very different, in the current day this region is split between [hot arid desert and semi-arid scrub](https://geodiode.com/climate/hot-deserts), in the interior east of the [Yuvanti Mountains](<./yuvanti-mountains.md>),  and both [tropical](https://geodiode.com/climate/tropical-monsoon-and-tropical-savannah) and [subtropical](https://geodiode.com/climate/humid-subtropical) humid monsoon climates on the coast, especially in [Western Dunmar](<realms/dunmar/western-dunmar/western-dunmar.md>) between the [Yuvanti Mountains](<./yuvanti-mountains.md>) and the [Nevos Sea](<../west-coast/nevos-sea.md>). 

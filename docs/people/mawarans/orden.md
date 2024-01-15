@@ -9,7 +9,7 @@ species: human
 ancestry: Mawaran
 gender: male
 title: Orden
-hide: [toc]
+hide_toc: true
 ---
 
 # Orden

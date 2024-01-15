@@ -3,13 +3,13 @@ tags: [item/magical, status/unknown]
 typeOf: weapon
 whereabouts: Wellby
 title: Flaming Bowstring
-hide: [toc]
+hide_toc: true
 ---
 
 # The Flaming Bowstring
 >[!info]+ Information
 > (magical weapon)
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> 
 
 
 # Flaming Bowstring

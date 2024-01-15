@@ -9,7 +9,7 @@ ancestry:
 gender:
 player:
 title: Iascaire
-hide: [toc]
+hide_toc: true
 ---
 
 # Iascaire

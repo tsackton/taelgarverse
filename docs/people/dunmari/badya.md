@@ -8,7 +8,7 @@ ancestry: Dunmari
 gender: female
 whereabouts: Karawa
 title: Badya
-hide: [toc]
+hide_toc: true
 ---
 
 # Badya

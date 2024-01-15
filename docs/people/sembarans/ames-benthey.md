@@ -16,40 +16,27 @@ whereabouts:
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry}
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
 title: Ames Benthey
-hide: [toc]
+hide_toc: true
 ---
 
 # Ames Benthey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Sembaran [human](<../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1675 (74 years old)  
-    Captain of the Lord's Guard of Cleenseau  
-    Guard Captain of the Essfords  
+    Captain of the [Lord's Guard of Cleenseau](<../../groups/sembaran-political-units/lord-s-guard-of-cleenseau.md>)  
+    Guard Captain of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)  
     { .bio }
 
-    Based in Cleenseau, the Manor of Cleenseau, the Barony of Aveil
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in Embry, Sembara
+:octicons-location-24:{ .lg .middle } Currently in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Seen by the Heroes of Cleenseau on January 3rd, 1720 in Cleenseau, the Manor of Cleenseau, the Barony of Aveil  
+The captain of the household guard of [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>), part of the [Lord's Guard](<../../groups/sembaran-political-units/lord-s-guard-of-cleenseau.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). Likes to play dice with [Celyn](<../pcs/cleenseau/celyn.md>). Better at delegating than doing any actual work and enjoys his food. However, when push comes to shove, he is a competent fighter and captain. 
 
-
-The captain of the household guard of Essford Manor, part of the Lord's Guard in Cleenseau. Likes to play dice with Celyn. Better at delegating than doing any actual work and enjoys his food. However, when push comes to shove, he is a competent fighter and captain. 
-
-
-### Relationships
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location", "Alive"], 
-			dv.pages("#person or #organization or #item")
-				.where(f => util.isLinkedToPerson(f.file, dv.current().file))
-				.sort(f => util.s("<maintype:n>", f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
-```
 
 

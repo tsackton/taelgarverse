@@ -1,7 +1,7 @@
 ---
 tags: [item/magical, status/needswork]
 title: Universal Solvent
-hide: [toc]
+hide_toc: true
 ---
 
 

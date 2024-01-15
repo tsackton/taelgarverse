@@ -11,7 +11,7 @@ gender: male
 family: Hardstone
 whereabouts: Tokra
 title: Dag Hardstone
-hide: [toc]
+hide_toc: true
 ---
 
 # Dag Hardstone

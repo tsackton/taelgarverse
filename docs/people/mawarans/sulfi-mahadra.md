@@ -9,7 +9,7 @@ species: human
 ancestry:
 gender: female
 title: Sulfi Mahadra
-hide: [toc]
+hide_toc: true
 ---
 
 # Sulfi Mahadra

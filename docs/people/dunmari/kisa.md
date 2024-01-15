@@ -10,7 +10,7 @@ ancestry: Dunmari
 gender: female
 whereabouts: Karawa
 title: Kisa
-hide: [toc]
+hide_toc: true
 ---
 
 # Kisa

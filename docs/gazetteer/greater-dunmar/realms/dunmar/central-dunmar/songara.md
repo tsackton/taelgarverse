@@ -14,5 +14,5 @@ title: Songara
 </div>
 
 
-The westernmost city in [Dunmar](<../dunmar.md>), a major horse market and trading post. Along the ancient Drankorian road to Chardon. 
+The westernmost city in [Dunmar](<../dunmar.md>), a major horse market and trading post. Along the ancient Drankorian road to [Chardon](<../../../../west-coast/chardonian-empire/chardon/chardon.md>). 
 

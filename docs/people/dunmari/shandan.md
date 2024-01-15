@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, location: plains of Songara}
 pronunciation: Shun-dhun
 title: Shandan
-hide: [toc]
+hide_toc: true
 ---
 
 # Shandan

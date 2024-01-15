@@ -9,7 +9,7 @@ ancestry: Dunmari
 title: Head Archivist Ardan
 gender: male
 whereabouts: Tokra
-hide: [toc]
+hide_toc: true
 ---
 
 # Head Archivist Ardan

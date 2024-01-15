@@ -11,7 +11,7 @@ gender: male
 whereabouts:
 - {type: away, start: 1748-11-23, end: '', location: Tharn Todor}
 title: Delig Firebrand
-hide: [toc]
+hide_toc: true
 ---
 
 # Delig Firebrand
@@ -27,4 +27,4 @@ hide: [toc]
 :octicons-location-24:{ .lg .middle } Last known location (as of November 23rd, 1748): [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
 
 
-The cousin of Hagrim, trapped in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) for many years. During that time lost much of his memory and mind. Known as the Mad Priest.
+The cousin of [Hagrim](<./hagrim.md>), trapped in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) for many years. During that time lost much of his memory and mind. Known as the Mad Priest.

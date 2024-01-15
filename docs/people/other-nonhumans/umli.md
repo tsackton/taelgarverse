@@ -14,7 +14,7 @@ whereabouts:
 - {type: home, end: 1731, location: ~VostokMountains~}
 - {type: home, start: 1732, location: Tollen}
 title: Umli the Exile
-hide: [toc]
+hide_toc: true
 ---
 
 # Umli the Exile
@@ -26,19 +26,19 @@ hide: [toc]
     { .bio }
 
     Originally from: ~VostokMountains~
-    Based in the Free City of Tollen
+    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in the Free City of Tollen  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
-Umli is a stoneborn exile living in Tollen, a master metalworker, and a teacher. 
+Umli is a stoneborn exile living in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), a master metalworker, and a teacher. 
 
 ## Overview
 
-Umli is a stoneborn smith and metalworker, known for her unparalleled mastery of metallury and her knowledge of the elemental plane of fire. Though loosely affiliated with the University of Tollen, she  does not teach open lectures. She only takes private students who are the most skilled and dedicated at working with rare metals. Born in the Vostok mountains, she was exiled from her Stoneborn community for reasons she keeps private, and has lived in Tollen for the past 15 years. 
+Umli is a stoneborn smith and metalworker, known for her unparalleled mastery of metallury and her knowledge of the elemental plane of fire. Though loosely affiliated with the University of [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), she  does not teach open lectures. She only takes private students who are the most skilled and dedicated at working with rare metals. Born in the Vostok mountains, she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) for the past 15 years. 
 ## Description
 
 Umli stands tall and imposing, typical of stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork. Her obsidian-like eyes reflect her intense focus.

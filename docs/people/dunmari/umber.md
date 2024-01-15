@@ -10,7 +10,7 @@ ancestry: Dunmari
 gender: male
 died: 1748
 title: Umber
-hide: [toc]
+hide_toc: true
 ---
 
 # Umber
@@ -24,4 +24,4 @@ hide: [toc]
 </div>
 
 
-A Dunmari suffering under the curse of lycanthropy caused by the Fraternity of the Empty Moon, killed by the party in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
+A Dunmari suffering under the curse of lycanthropy caused by the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>), killed by the party in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 

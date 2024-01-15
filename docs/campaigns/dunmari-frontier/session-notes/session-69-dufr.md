@@ -16,16 +16,16 @@ Start: night, Nov 29th 1748
 End: early morning, Dec 4th
 ## Timeline
 
-- (DR:: 1748-11-29): *(midnight)* Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocked [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) unconscious and attempts to flee with him.
-- (DR:: 1748-11-30): [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) spends the day learning to control and fly [Vindristjarna](<../../../things/ships/vindristjarna.md>), while the rest of the party prepares for the journey east.
-- (DR:: 1748-12-1): [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) attunes to the phasing stone and spends the day learning to control and fly [Vindristjarna](<../../../things/ships/vindristjarna.md>); speak with [Sura](<../../../people/dunmari/sura.md>) via Sending Stone
-- (DR:: 1748-12-2): [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) asks the Baharazel about their chosen course of action; [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s lynx spirit leaves to take letters to Lakan monks; take off flying east, with [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) alternating piloting; fly 22 hours
-- (DR:: 1748-12-3): Continue flying east, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) alternating over 22 hours
-- (DR:: 1748-12-4): See at the edge of the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) territory from the air, maybe 40-50 miles distant, in the early morning light.
+- Nov 29, 1748 DR: *(midnight)* Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocked [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) unconscious and attempts to flee with him.
+- Nov 30, 1748 DR: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) spends the day learning to control and fly [Vindristjarna](<../../../things/ships/vindristjarna.md>), while the rest of the party prepares for the journey east.
+- Dec 1, 1748 DR: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) attunes to the phasing stone and spends the day learning to control and fly [Vindristjarna](<../../../things/ships/vindristjarna.md>); speak with [Sura](<../../../people/dunmari/sura.md>) via Sending Stone
+- Dec 2, 1748 DR: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) asks the Baharazel about their chosen course of action; [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s lynx spirit leaves to take letters to Lakan monks; take off flying east, with [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) alternating piloting; fly 22 hours
+- Dec 3, 1748 DR: Continue flying east, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) alternating over 22 hours
+- Dec 4, 1748 DR: See at the edge of the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) territory from the air, maybe 40-50 miles distant, in the early morning light.
 
 ## Narrative
 
-The session begins as the party is awakened by the howls of shadow dogs, the same chalyte zombie assassins created by Fausto that chased [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) down on the flight from Chardon. 
+The session begins as the party is awakened by the howls of shadow dogs, the same chalyte zombie assassins created by [Fausto](<../../../people/chardonians/fausto.md>) that chased [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) down on the flight from [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>). 
 
 ![Shadow Hunter Portrait](../../../assets/shadow-hunter-portrait.png){width="300"}![Shadow Hunter Wolf](../../../assets/shadow-hunter-wolf.png){width="300"}
 

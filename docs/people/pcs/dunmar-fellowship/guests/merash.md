@@ -10,7 +10,7 @@ ancestry:
 gender:
 player: Sara Smith
 title: Merash
-hide: [toc]
+hide_toc: true
 ---
 
 # Merash

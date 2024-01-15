@@ -10,7 +10,7 @@ subspecies: nymph
 gender: female
 whereabouts: Amberglow
 title: Melusine
-hide: [toc]
+hide_toc: true
 ---
 
 # Melusine

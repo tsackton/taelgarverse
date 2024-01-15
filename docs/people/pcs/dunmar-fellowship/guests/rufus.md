@@ -9,7 +9,7 @@ ancestry:
 gender: male
 player: Eric Rosenbaum
 title: Rufus
-hide: [toc]
+hide_toc: true
 ---
 
 # Rufus
@@ -22,5 +22,5 @@ hide: [toc]
 </div>
 
 
-![Rufus](../../../../assets/rufus.png){align="right"; width="320"}Kenku monster hunter and unofficial protector of Wahacha. Excellent with bow and arrow. Helped kill the aboleth. Now returned to Wahacha, continuing to guard against monsters of the deeps. Hates crabs. 
+![Rufus](../../../../assets/rufus.png){align="right"; width="320"}Kenku monster hunter and unofficial protector of [Wahacha](<../../../../gazetteer/eastern-green-sea/wahacha.md>). Excellent with bow and arrow. Helped kill the aboleth. Now returned to [Wahacha](<../../../../gazetteer/eastern-green-sea/wahacha.md>), continuing to guard against monsters of the deeps. Hates crabs. 
 

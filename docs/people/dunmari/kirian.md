@@ -12,7 +12,7 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Tokra}
 title: Kirian
-hide: [toc]
+hide_toc: true
 ---
 
 # Kirian
@@ -31,5 +31,5 @@ A retired Dunmari solider who spent his early twenties riding in the warband of 
 
 Now runs an inn, [Kirian’s](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirians.md>), near the Trader's Market in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 
-[Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) listened to his story and collected it for the Order of the Awakened Soul: [Kirian's Story](<../../campaigns/dunmari-frontier/collected-stories/kirian-s-story.md>)
+[Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) listened to his story and collected it for the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>): [Kirian's Story](<../../campaigns/dunmari-frontier/collected-stories/kirian-s-story.md>)
 

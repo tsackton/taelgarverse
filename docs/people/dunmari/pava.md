@@ -13,7 +13,7 @@ whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Pava and Avaras' House}
 title: Pava
-hide: [toc]
+hide_toc: true
 ---
 
 # Pava
@@ -22,7 +22,7 @@ hide: [toc]
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1673 (76 years old)  
-    Member of the Order of the Awakened Soul  
+    Member of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)  
     { .bio }
 
     Originally from: the [plains of Songara](<../../gazetteer/greater-dunmar/dunmari-basin/songara-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

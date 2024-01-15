@@ -28,10 +28,10 @@ The north bank is less marshy than the south, and there are several weirs and wa
 
 ## History
 
-- (DR:: 377): A Drankorian fort, to provide naval defenses for the western frontier of the Empire, is constructed at the mouth of the Rudhan river, in the location that will eventually grow to become the city of Darba. 
-- (DR:: 1552): An Illorian captain, Chirce, claims sovreignity over Darba and the surrouding coastal plain
-- (DR:: 1558): The Samraat Nayan Kundar drives the Illorian from Darba and reclaims the city 
-- (DR:: 1644): A massive new public market is constructed in Darba by dwarven craftsfolk, commissioned by the Samraat to reflect the growing importance of Darba as a center of trade
+- 377 DR: A Drankorian fort, to provide naval defenses for the western frontier of the Empire, is constructed at the mouth of the Rudhan river, in the location that will eventually grow to become the city of Darba. 
+- 1552 DR: An Illorian captain, Chirce, claims sovreignity over Darba and the surrouding coastal plain
+- 1558 DR: The Samraat Nayan Kundar drives the Illorian from Darba and reclaims the city 
+- 1644 DR: A massive new public market is constructed in Darba by dwarven craftsfolk, commissioned by the Samraat to reflect the growing importance of Darba as a center of trade
 
 
 

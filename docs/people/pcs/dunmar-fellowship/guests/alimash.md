@@ -11,7 +11,7 @@ gender: male
 player:
 affiliations:
 title: Alimash
-hide: [toc]
+hide_toc: true
 ---
 
 # Alimash

@@ -9,7 +9,7 @@ ancestry:
 gender:
 player:
 title: Mikasa
-hide: [toc]
+hide_toc: true
 ---
 
 <% tp.user.generateHeader(tp) %>

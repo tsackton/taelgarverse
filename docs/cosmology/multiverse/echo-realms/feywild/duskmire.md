@@ -8,7 +8,7 @@ title: Duskmire
 
 # Duskmire
 
-A fey realm, the domain of  Lord Umbraeth, often known as the Gloomshaper. Duskmire is a bleak place, a land of endings and cruelty. The sky is often full of clouds, often blotting out the weak sun, constantly hovering on the horizon. Storms race across the realm with some frequency bringing thunder and cold rain. 
+A fey realm, the domain of  [Lord Umbraeth](<../../../../people/extraplanar-powers/lord-umbraeth.md>), often known as the Gloomshaper. Duskmire is a bleak place, a land of endings and cruelty. The sky is often full of clouds, often blotting out the weak sun, constantly hovering on the horizon. Storms race across the realm with some frequency bringing thunder and cold rain. 
 
 The scenery is mixed, with a central core of several very tall mountains,  surrounded by a dense and overgrown forest. Four rivers of brown water flow from the mountains to the east, west, north, and south and beyond the forest the realm is craggy hills and cold moors. 
 

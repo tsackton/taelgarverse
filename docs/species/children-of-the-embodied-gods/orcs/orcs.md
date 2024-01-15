@@ -9,7 +9,7 @@ title: Orcs
 # Orcs
 
 *Thark, Master of Unbreakable Chains, in your fire we temper this soul. Bind it to your will, so it may never know peace, only the insatiable hunger for strife and turmoil.*
-`--` The Blood Binding, excerpt
+ The Blood Binding, excerpt
 
 Scattered across the world of Taelgar small orc bands roam, raiding and pillaging in the name of [Thark](<../../../cosmology/gods/embodied-gods/thark.md>), the god of war without end. Although most orcs live in small groups, but when a leader blessed by [Thark](<../../../cosmology/gods/embodied-gods/thark.md>) arises, they can bind many orcs together into a fearsome battle horde. 
 ## Imposing and Violent
@@ -29,7 +29,7 @@ Orcish religion, the manifestation of [Thark](<../../../cosmology/gods/embodied-
 ## Unchained Orcs
 Rumors circulate throughout Taelgar of unchained orcs, free orcs that have broken the bounds of [Thark](<../../../cosmology/gods/embodied-gods/thark.md>)'s curse, and live without the burning fire of [Thark](<../../../cosmology/gods/embodied-gods/thark.md>)'s divine will driving them to ceaseless violence.
 
-The most famous of these orcs are the People of the Rainbow, living in the deserts east of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
+The most famous of these orcs are the [People of the Rainbow](<../../../groups/orc-hordes/people-of-the-rainbow.md>), living in the deserts east of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 
 Free orcs live in the constant shadow of [Thark](<../../../cosmology/gods/embodied-gods/thark.md>)'s hunters. [Thark](<../../../cosmology/gods/embodied-gods/thark.md>) watches over his orcs, driving them to fight each other, bringing strength to the victors. But none are more hated by [Thark](<../../../cosmology/gods/embodied-gods/thark.md>)'s orcs than those who have broken free: any tribe that tries to turn from [Thark](<../../../cosmology/gods/embodied-gods/thark.md>)'s way is quickly subject to unceasing attacks until they are defeated and subjugated, unless they can find a way to hide from [Thark](<../../../cosmology/gods/embodied-gods/thark.md>)'s probing eyes. 
 

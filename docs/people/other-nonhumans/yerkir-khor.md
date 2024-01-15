@@ -8,7 +8,7 @@ species:
 ancestry:
 gender:
 title: Yerkir-khor
-hide: [toc]
+hide_toc: true
 ---
 
 

@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: female
 title: Sajan
-hide: [toc]
+hide_toc: true
 ---
 
 # Sajan

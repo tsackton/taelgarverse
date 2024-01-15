@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, location: Karawa}
 - {type: away, start: 1748-12-26, location: Central Dunmar}
 title: Alesh
-hide: [toc]
+hide_toc: true
 ---
 
 # Alesh
@@ -38,7 +38,7 @@ A short, quick-footed woman, with a nondescript face, short, black hair and ligh
 ![Alesh Portrait](../../assets/alesh-portrait.png){width="400"}
 
 ## Relationships
-- Friendly with most people of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), but fairly independent and not particularly associated with either [Havdar](<./havdar.md>)'s warriors or [Candrosa](<./candrosa.md>) and the Shakun Mystai. Finds [Havdar](<./havdar.md>) a bit brash. 
+- Friendly with most people of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), but fairly independent and not particularly associated with either [Havdar](<./havdar.md>)'s warriors or [Candrosa](<./candrosa.md>) and the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>). Finds [Havdar](<./havdar.md>) a bit brash. 
 - Knows by sight and name, if not well, many of the families that travel across the eastern plains of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 - Her extended family are traditional goat herders who travel mostly to the north and west of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
 

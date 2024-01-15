@@ -12,6 +12,4 @@ This is a work in progress. More information, images, and details will be added 
 
 *Timeline of Events Since the Formation of the Dunmar Fellowship*
 
-```dataviewjs
-await dv.view("_scripts/view/get_EventsTable", { yearStart: 1748, yearEnd: 1749, pageFilter: "-\"_DM_/timelines/unified-timeline\"",includeBirth: true, includeDeath: true, includeRegnal: true } )
-```
+

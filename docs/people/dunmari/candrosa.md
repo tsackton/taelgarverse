@@ -11,7 +11,7 @@ affiliations:
 whereabouts:
 - {type: home, location: Karawa}
 title: Candrosa
-hide: [toc]
+hide_toc: true
 ---
 
 # Candrosa
@@ -20,7 +20,7 @@ hide: [toc]
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1715 (34 years old)  
-    Mystai of the Shakun Mystai  
+    Mystai of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>)  
     { .bio }
 
     Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
