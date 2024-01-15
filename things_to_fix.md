@@ -22,10 +22,6 @@ special handling of images:
 
 ## Bugs
 
-leaflet requires absolute path, need to add taelgarverse to paths? which will break on local builds, but oh well
-for testing leaflet locally could set absolute path variable to ""
-probably should do this via config, e.g. set a "abs path root" which defaults to "/" but could be set to "/taelgarverse/" or whatever
-
 backlinks nav weird spacing bug
 
 prep for export bug that generates blank grid gards (marcella is an example)
