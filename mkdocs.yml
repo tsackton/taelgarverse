@@ -44,6 +44,8 @@ plugins:
       nav_file: toc.md
   - section-index
 
+## Base path for backlinks ##
+base_path: /taelgarverse/
 
 ### The following configures the buttons and image on the home page ###
 ### Modified from https://github.com/tylerdotrar/mkdocs-coverpage ###
