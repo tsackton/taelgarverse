@@ -14,9 +14,17 @@ title: Safri
 hide_toc: true
 ---
 # Safri
->[!info]+ Biographical Info  
-> A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of October 25th, 1748): the [Sentinel Range](<../../gazetteer/sentinel-range/sentinel-range.md>)
+
 
 ![Safri](../../assets/safri.png){align="right"; width="500"}An old Deno'qai druid with many stories and rumors to her name.
 

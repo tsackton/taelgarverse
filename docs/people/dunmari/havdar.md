@@ -19,12 +19,22 @@ title: Havdar
 hide_toc: true
 ---
 # Havdar
->[!info]+ Biographical Info
-> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)
-> 
-> 
->> 
->>  Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), on December 27th, 1748 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    Born DR 1724 (25 years old)  
+    Commander of Havdar's Warband  
+    { .bio }
+
+    Originally from: [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), on December 27th, 1748  
+
 
 
 

@@ -7,7 +7,7 @@
 The upper deck consists of, from stern to prow:
 
 * the shrine to the tanshi, tended by [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>)   
-* the elven garden and greenhouse, tended by Egnir 
+* the elven garden and greenhouse, tended by [Egnir](<../../people/elves/egnir.md>) 
 * the elven tree, grown from seed by [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>)
 * the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>), [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>), and the map room, tended by [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) ()
 * On a sky deck built above the map room, [Seeker's](<../../people/pcs/dunmar-fellowship/seeker.md>) observatory
@@ -28,7 +28,7 @@ Used space: 364 squares
 
 
 > [!info]+ Garden and Greenhouse
-> >Tended by: Egnir
+> >Tended by: [Egnir](<../../people/elves/egnir.md>)
 > >Game Effect: Enlarged Garden (Decorative and Food) and Greenhouse
 > >Size: 72 squares (Vast Garden, Vast Greenhouse)
 > >Order: Harvest (1d4 BP)

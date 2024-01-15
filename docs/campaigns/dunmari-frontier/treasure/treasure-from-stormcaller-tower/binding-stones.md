@@ -10,10 +10,11 @@ title: Binding Stones of Amloch
 hide_toc: true
 ---
 # The Binding Stones of Amloch
->[!info]+ Information
-> (legendary wonderous item)
-> 
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Legendary Wonderous Item__  
+   Owned by [Seeker](<../../../../people/pcs/dunmar-fellowship/seeker.md>)  
+</div>
+
 
 A set of five crystals, each a different color, originally located on the crown carved into the stone head of [Hralgar](<../../../../people/giants/hralgar.md>) in [Stormcaller Tower](<../../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). [Seeker](<../../../../people/pcs/dunmar-fellowship/seeker.md>)’s study reveals these are part of a complex mechanism to imprison, incapacitate, and then draw magical power from a creature, but exactly how to combined them to create magical effects is not yet clear. 
 

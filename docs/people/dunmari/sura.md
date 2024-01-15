@@ -24,12 +24,23 @@ title: Nayan Sura
 hide_toc: true
 ---
 # Nayan Sura
->[!info]+ Biographical Info
-> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)
-> 
-> 
->> 
->>  Scryed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 26th, 1748 on the [plains south of Tokra](<../../gazetteer/greater-dunmar/dunmari-basin/southern-tokra-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)  
+    Born DR 1720 (29 years old)  
+    Samraat of [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>) (since July 22nd, 1748)  
+    { .bio }
+
+    Originally from: [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of December 26th, 1748): the [plains south of Tokra](<../../gazetteer/greater-dunmar/dunmari-basin/southern-tokra-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Scryed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 26th, 1748 on the [plains south of Tokra](<../../gazetteer/greater-dunmar/dunmari-basin/southern-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
 
 Nayan Sura is the younger sister of Samraat [Nayan Karnas](<./nayan-karnas.md>). Once seen as a future Samraat and a unifier of [eastern](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>) and [Western Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/western-dunmar.md>), she vanished eight years ago, trapped by [Agata](<../fey/agata.md>) Dustmother in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/mirror-of-soul-trapping.md>). In her absence, her brother, [Nayan Karnas](<./nayan-karnas.md>), claimed the throne of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). In DR 1748, Nayan Sura was freed from [Agata](<../fey/agata.md>)'s imprisonment, and now seeks to reclaim her destiny. 
 ## Overview

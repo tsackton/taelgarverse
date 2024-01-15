@@ -14,9 +14,15 @@ title: Zevi
 hide_toc: true
 ---
 # Zevi
->[!info]+ Biographical Info  
-> A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
+    Born DR 1734 (15 years old)  
+    { .bio }
+
+    Based in Ko'zula village
+</div>
+
 
 Guide who brought [Delwath](<../pcs/dunmar-fellowship/delwath.md>) to the Ko’zula village and later to meet [Aristaea](<../pcs/dunmar-fellowship/guests/aristaea.md>) and [Iascaire](<../pcs/dunmar-fellowship/guests/iascaire.md>).

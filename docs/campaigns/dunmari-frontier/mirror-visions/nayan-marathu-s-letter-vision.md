@@ -8,8 +8,6 @@ timelineDescriptor: Dunmari Frontier Campaign
 title: Nayan Marathu's Letter Vision
 ---
 # The Nayan Marathu's Letter Vision
->[!info]+ Information
-> 
 
 The mirror goes blank, and then you see an image form. Looking up, at Agata's hands as she rolls a piece of paper out on a desk. The view is of the inside of a hut, probably [Agata's lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>). [Agata](<../../../people/fey/agata.md>) stands, and from her pouch she removes a severed hand, wearing a signet ring. She then removes some kind of wooden putty, and beings to shape slowly a bit of an arm. 
 

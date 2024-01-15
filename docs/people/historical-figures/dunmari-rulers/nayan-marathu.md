@@ -11,7 +11,13 @@ affiliations: [Nayan Dynasty]
 hide_toc: true
 ---
 # Samraat Nayan Marathu
->[!info]+ Biographical Info
-> A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (he/him)
-> 
-> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (he/him)  
+    Died DR 1740  
+    Member of the [Nayan dynasty](<../../../groups/dunmari-dynasties/nayan-dynasty.md>) (until DR 1740)  
+    { .bio }
+
+</div>
+

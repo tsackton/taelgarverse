@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 displayDefaults: {linkText: at}
 tags: [place/inn, status/needswork/notes]
 typeOf: inn
@@ -8,7 +8,9 @@ unlisted: true
 title: ~Crossroads Caravanserai~
 ---
 # The ~Crossroads Caravanserai~
->[!info]+ Information
-> An inn on the [~AncientWestRoad~](<../../../roads/ancientwestroad.md>), [Dunmar](<../dunmar.md>), the [Greater Dunmar](<../../../greater-dunmar.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } An inn on the [~AncientWestRoad~](<../../../roads/ancientwestroad.md>), in [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
+</div>
+
 
 

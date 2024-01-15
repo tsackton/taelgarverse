@@ -13,10 +13,16 @@ title: Alayah
 hide_toc: true
 ---
 # Alayah
->[!info]+ Biographical Info  
-> A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
->   
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
+    Born DR 1725 (24 years old)  
+    { .bio }
+
+    Based in [Te'kula village](<../../gazetteer/chasa-nahadi-watershed/te-kula-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+</div>
+
 
 The young Godcaller of the [Te'kula](<../../groups/deno-qai/te-kula.md>) tribe in the Elderwood. Dreamed of [Rai](<../pcs/great-war/rai.md>) and [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>). 
 

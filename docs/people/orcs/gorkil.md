@@ -16,12 +16,21 @@ title: Gorkil
 hide_toc: true
 ---
 # Gorkil
->[!info]+ Biographical Info
-> An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (he/him), of [Grash's Horde](<../../groups/orc-hordes/grash-s-horde.md>)
-> 
-> 
->> 
->>  Killed by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) on May 5th, 1748 in [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (he/him), of [Grash's Horde](<../../groups/orc-hordes/grash-s-horde.md>)  
+    b. DR 1729 - d. May 5th, 1748, died at age 19 years  
+    { .bio }
+
+    Originally from: Unknown
+    Lived in [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Killed by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) on May 5th, 1748 in [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)  
+
 
 An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) cleric in [Grash's army](<../../groups/orc-hordes/grash-s-horde.md>). 
 

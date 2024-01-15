@@ -16,10 +16,20 @@ title: Caelynn the Seer
 hide_toc: true
 ---
 # Caelynn the Seer
->[!info]+ Biographical Info  
-> A [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
->>   
->>  Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 17th, 1748 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
+    { .bio }
+
+    Originally from: [Dreamhaven](<../../cosmology/multiverse/echo-realms/feywild/dreamhaven.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
+    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 17th, 1748 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
+
 
 A fey woman from across the mountains, from the fey realm of [Dreamhaven](<../../cosmology/multiverse/echo-realms/feywild/dreamhaven.md>), who has been living in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) for many years, although whether a hundred or a thousand is the matter of much debate. 
 ## Overview

@@ -9,8 +9,14 @@ title: Nicole of Tavoise
 hide_toc: true
 ---
 # Nicole of Tavoise
->[!info]+ Biographical Info  
-> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
-> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    Died October 21st, 1719  
+    { .bio }
+
+</div>
+
 
 
