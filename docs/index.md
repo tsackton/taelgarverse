@@ -1,8 +1,8 @@
 ---
 rooted: true
 hide: [navigation]
-title: Home
 template: home.html
+title: Index
 ---
 
 
