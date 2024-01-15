@@ -24,11 +24,8 @@ double-check toc and other setup; maybe want nav to be shorter/cleaner? maybe wa
 
 need a landing page for history
 
-come up with a way to delist or delete stubs, and add option to:
-  - delist stubs
-  - delete stubs
-  - delist unnamed
-  - delete unnamed
-(this might require fiddling with the nav generator, since right now it will fail with an error if there are sections without content)
-
 backlinks nav weird spacing bug
+
+prep for export bug that generates blank grid gards (marcella is an example)
+
+possible issue with nav generation: if you unlist a bunch of files, you can end up with nav entries that have a top level directory with no content, which causes literate nav to throw an error in the mkdocs build. probably solution is to manually correct
