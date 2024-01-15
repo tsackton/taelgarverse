@@ -728,9 +728,9 @@
         - Tollen Guilds
             - [Ancient and Honorable Guild of Philosophers](groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md)
             - [Dyer's Guild](groups/tollen-guilds/dyer-s-guild.md)
+- [World Map](gazetteer/gazetteer.md)
 - [Gazetteer](campaigns/player-s-guide.md)
     - [World of Taelgar](gazetteer/geography-of-taelgar.md)
-        - [World Map](gazetteer/gazetteer.md)
         - Chasa Nahadi Watershed
             - [Ainumarya](gazetteer/chasa-nahadi-watershed/ainumarya.md)
             - [Blackwater Fens](gazetteer/chasa-nahadi-watershed/blackwater-fens.md)
