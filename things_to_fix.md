@@ -1,8 +1,11 @@
-Things to fix:
+## Display issues
 
-leaflet requires absolute path, need to add taelgarverse to paths? which will break on local builds, but oh well
-for testing leaflet locally could set absolute path variable to ""
-probably should do this via config, e.g. set a "abs path root" which defaults to "/" but could be set to "/taelgarverse/" or whatever
+color scheme - think about?
+  - add dark mode?
+
+double-check toc and other setup; maybe want nav to be shorter/cleaner? maybe want to include other species pages?
+
+## Improvements
 
 leaflet improvements:
   - add measure tool
@@ -16,16 +19,29 @@ special handling of images:
   - only copy files that don't exist, and only copy files that are linked from a page
 
 (should probably go through manually and delete images that aren't linked, as a start, and compress some images that are badly too large for need)
-  
-color scheme - think about?
-  - add dark mode?
 
-double-check toc and other setup; maybe want nav to be shorter/cleaner? maybe want to include other species pages?
+## Bugs
 
-need a landing page for history
+leaflet requires absolute path, need to add taelgarverse to paths? which will break on local builds, but oh well
+for testing leaflet locally could set absolute path variable to ""
+probably should do this via config, e.g. set a "abs path root" which defaults to "/" but could be set to "/taelgarverse/" or whatever
 
 backlinks nav weird spacing bug
 
 prep for export bug that generates blank grid gards (marcella is an example)
 
+## Things that might be issues but probably not worth fixing in code:
+
 possible issue with nav generation: if you unlist a bunch of files, you can end up with nav entries that have a top level directory with no content, which causes literate nav to throw an error in the mkdocs build. probably solution is to manually correct
+
+## Content
+
+need a landing page for history
+
+WARNING -  Doc file 'toc.md' contains a relative link 'cosmology/multiverse/spiritual-realms/spiritual-realms.md', but the target is not found among documentation files.
+WARNING -  Doc file 'toc.md' contains a relative link 'cosmology/multiverse/energy-realms/energy-realms.md', but the target is not found among documentation files.
+WARNING -  Doc file 'toc.md' contains a relative link 'time/holidays-and-festivals/mos-numena-feast-days.md', but the target is not found among documentation files.
+WARNING -  Doc file 'toc.md' contains a relative link 'time/holidays-and-festivals/viatela.md', but the target is not found among documentation files.
+WARNING -  Doc file 'toc.md' contains a relative link 'cosmology/religions/tanshi.md', but the target is not found among documentation files.
+WARNING -  Doc file 'toc.md' contains a relative link 'cosmology/gods/high-gods/high-gods.md', but the target is not found among documentation files.
+WARNING -  Doc file 'toc.md' contains a relative link 'people/pcs/great-war/heroes-of-the-great-war.md', but the target is not found among documentation files.
