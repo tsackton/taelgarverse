@@ -14,16 +14,10 @@ title: Inakara
 hide_toc: true
 ---
 # Inakara
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [derro](<../../species/unusual-species/creatures-of-the-far-realms/derro.md>) (she/her)  
-    b. DR 1702 - d. July 1748, killed by [Magran Boulderbeard](<../dwarves/magran-boulderbeard.md>) at age 46 years  
-    { .bio }
-
-    Lived in [Dwarven Outpost (Raven's Hold)](<../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>), the [Sentinel Range](<../../gazetteer/sentinel-range/sentinel-range.md>)
-</div>
-
+>[!info]+ Biographical Info  
+> A [derro](<../../species/unusual-species/creatures-of-the-far-realms/derro.md>) (she/her)  
+>   
+>> 
 
 A mad twisted creature and sorcerer living in the old [dwarven outpost](<../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>) near Raven's Hold. 
 

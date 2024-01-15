@@ -19,18 +19,12 @@ title: Scepter of Command
 hide_toc: true
 ---
 # The Scepter of Command
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Scepter__  
-   existed DR 1053 - December 25th, 1748, destroyed after 695 years  
-   Created by [Emperor Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>)  
-</div>
-
-:octicons-location-24:{ .lg .middle } Destroyed in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
-
-
-
-:octicons-location-24:{ .lg .middle } Destroyed owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 25th, 1748 in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)  
-
+>[!info]+ Information
+> (unique scepter)
+> 
+> 
+>> 
+>>  Destroyed by [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 25th, 1748 in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) 
 
 This scepter is about a foot long and is constructed in silver, with five loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 
 

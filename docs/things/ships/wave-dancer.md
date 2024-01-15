@@ -13,13 +13,10 @@ title: Wave Dancer
 hide_toc: true
 ---
 # The Wave Dancer
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) Boat__  
-   Home area: the Eastern Green Sea  
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of October 14th, 1748): the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)
-
+>[!info]+ Information
+> ([halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) boat)
+> 
+>> 
 
 A halfling ship plying the trade routes of the eastern Green Sea, regularly visiting [Praznitsky](<../../gazetteer/northern-green-sea/praznitsky.md>), [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), and [Medju](<../../gazetteer/eastern-green-sea/medju.md>).  
 ## Crew

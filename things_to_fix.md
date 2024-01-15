@@ -21,11 +21,11 @@ special handling of images:
 
 figure out if it is possible to hide the right hand nav entirely on pages where both toc and backlinks are empty
 
+separate out requirements for website build and requirements for export_vault.py
+
 ## Bugs
 
 backlinks nav weird spacing bug
-
-prep for export bug that generates blank grid gards (marcella is an example)
 
 ## Things that might be issues but probably not worth fixing in code:
 

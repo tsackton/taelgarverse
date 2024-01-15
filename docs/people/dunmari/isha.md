@@ -15,21 +15,10 @@ title: Isha
 hide_toc: true
 ---
 # Isha
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of June 9th, 1748): [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-
-
-
-:octicons-location-24:{ .lg .middle } Freed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 8th, 1748 from the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/mirror-of-soul-trapping.md>), [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)  
-
+>[!info]+ Biographical Info
+> A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)
+>> 
+>>  Freed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 8th, 1748 from the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/mirror-of-soul-trapping.md>), [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) 
 
 A Dunmari man trapped for many years in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/mirror-of-soul-trapping.md>) by [Agata](<../fey/agata.md>). Missing one eye, with gray hair, incoherent. Most recently under the care of [Cintra](<./cintra.md>) after his ordeal. 
 

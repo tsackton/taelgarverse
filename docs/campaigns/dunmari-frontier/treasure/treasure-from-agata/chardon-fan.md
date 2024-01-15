@@ -9,11 +9,9 @@ title: Chardon Fan
 hide_toc: true
 ---
 # The Chardon Fan
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Object de Art__  
-   Owned by [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>)  
-</div>
-
+>[!info]+ Information
+> (mundate object de art)
+>> 
 
 A cotton and bamboo hand fan depicting the towers of [Chardon](<../../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the intricate design painted onto the fan by a very skilled artist. The fan is held shut by an ingenious bamboo clasp, carved to resemble a mounted knight dipping his lance to a lady; their clasped hands form the 'lock'. 
 

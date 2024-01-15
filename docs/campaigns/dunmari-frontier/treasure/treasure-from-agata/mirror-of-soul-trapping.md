@@ -15,14 +15,10 @@ title: Mirror of Soul Trapping
 hide_toc: true
 ---
 # The Mirror of Soul Trapping
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Mirror__  
-   Created unknown hobgoblin wizard  
-   Owned owned by the [Dunmar Fellowship](<../../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
-</div>
-
-:octicons-location-24:{ .lg .middle } Currently stored on [Vindristjarna](<../../../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)
-
+>[!info]+ Information
+> (mirror)
+> 
+>> 
 
 This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [Delwath](<../../../../people/pcs/dunmar-fellowship/delwath.md>) understood to be incantations binding twelve extradimensional cells to the mirror.
 

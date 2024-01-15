@@ -14,20 +14,12 @@ title: Lyrics of a New Age
 hide_toc: true
 ---
 # The Lyrics of a New Age
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Mundane Book__  
-   Created in [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-   Owned by [Albus](<../../people/chardonians/albus.md>)  
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Found owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) on April 15th, 1748 in [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Sold owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 9th, 1748 by [Albus](<../../people/chardonians/albus.md>), in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
+>[!info]+ Information
+> (mundane book)
+> 
+>> 
+>>  Found owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) on April 15th, 1748 in [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) 
+>>  Sold owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 9th, 1748 by [Albus](<../../people/chardonians/albus.md>), in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) 
 
 This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [Nelawe](<../../people/elves/nelawe.md>). This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the tradition poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days during the Age of Creation. 
 

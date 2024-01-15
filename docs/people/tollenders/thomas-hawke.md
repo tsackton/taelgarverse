@@ -15,21 +15,12 @@ title: Thomas Hawke
 hide_toc: true
 ---
 # Thomas Hawke
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Tollender](<../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1716 (33 years old)  
-    Member of the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>)  
-    { .bio }
-
-    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
-
+>[!info]+ Biographical Info  
+> A [Tollender](<../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../species/humans/humans.md>) (he/him)  
+>   
+>   
+>>   
+>>  Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) 
 
 Thomas Hawke is Professor of Rhetoric, a playwright, and a rising star at the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>), recognized more for his dramatic flair than his academic pursuits.
 ## Overview

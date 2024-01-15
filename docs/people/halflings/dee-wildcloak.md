@@ -27,30 +27,13 @@ title: Dee Wildcloak
 hide_toc: true
 ---
 # Dee Wildcloak
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Wildcloaks  
-    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
-    { .bio }
-
-    
-</div>
-
-:octicons-location-24:{ .lg .middle } 
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 22nd, 1748 [The Thirsty Scholar](<../../gazetteer/west-coast/chardonian-empire/chardon/the-thirsty-scholar.md>), [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 21st, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Received a [Letter from Dee WIldcloak](<../../campaigns/dunmari-frontier/letters-notes-and-tales/letter-from-dee-wildcloak.md>) on November 15th, 1748  
-
+>[!info]+ Biographical Info
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Wildcloaks
+> 
+>> 
+>>  Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 22nd, 1748 in [The Thirsty Scholar](<../../gazetteer/west-coast/chardonian-empire/chardon/the-thirsty-scholar.md>), [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) 
+>>  Scryed [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 21st, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) 
+>>  Received a [Letter from Dee WIldcloak](<../../campaigns/dunmari-frontier/letters-notes-and-tales/letter-from-dee-wildcloak.md>) on November 15th, 1748 
 
 Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon. 
 ## Relationships

@@ -16,21 +16,10 @@ title: Hralgar
 hide_toc: true
 ---
 # Hralgar
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [giant](<../../species/children-of-the-divine/giants.md>) ([storm giant](<../../species/children-of-the-divine/giants.md>)) (he/him)  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of November 23rd, 1748): [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-
-
-
-:octicons-location-24:{ .lg .middle } Freed from [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), November 23rd, 1748  
-
+>[!info]+ Biographical Info
+> A [giant](<../../species/children-of-the-divine/giants.md>) (the [storm giant](<../../species/children-of-the-divine/giants.md>)) (he/him)
+>> 
+>>  Freed from [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), November 23rd, 1748 
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.
 

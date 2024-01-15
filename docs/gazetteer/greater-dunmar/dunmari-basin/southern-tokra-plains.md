@@ -9,10 +9,9 @@ unlisted: true
 title: ~Southern Tokra Plains~
 ---
 # The ~Southern Tokra Plains~
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
-</div>
-
+>[!info]+ Information
+> 
+>> 
 
 South of the city of [Tokra](<../realms/dunmar/central-dunmar/tokra/tokra.md>), the land grows increasingly arid, with little rain even during the monsoon season. The [Hara](<../rivers/hara-watershed/hara.md>) is the lifeblood of this land. 
 

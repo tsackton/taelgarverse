@@ -10,7 +10,7 @@ title: Session 84 (DuFr)
 ## Summary
 
 - Travel to the Copper Hills and facilitate negotiations between Sura and Karnas to end the Siblings War
-- Travel to Orenlas and meet [Egnir](<../../../people/elves/egnir.md>), now a gardener on [Vindristjarna](<../../../things/ships/vindristjarna.md>)
+- Travel to Orenlas and meet Egnir, now a gardener on [Vindristjarna](<../../../things/ships/vindristjarna.md>)
 - Travel to Tollen, for upgrades to Vindristjarna and information gathering in preparation for the journey to Ursk
 ## Session Events
 #### Timeline 
@@ -27,7 +27,7 @@ title: Session 84 (DuFr)
 - Feb 08, 1749 DR: Travel towards Orenlas, crossing the [Istaros](<../../../gazetteer/istaros-watershed/rivers/istaros.md>) north of the ruins of [Isingue](<../../../gazetteer/istaros-watershed/isingue.md>). 
 - Feb 09, 1749 DR: Travel towards Orenlas, crossing the eastern [Plaguelands](<../../../gazetteer/istaros-watershed/plaguelands.md>). 
 - Feb 10, 1749 DR: Travel towards Orenlas, arriving late at night. 
-- Feb 11, 1749 DR: Spend the day in Orenlas, speaking with [Egnir](<../../../people/elves/egnir.md>). 
+- Feb 11, 1749 DR: Spend the day in Orenlas, speaking with Egnir. 
 - Feb 12, 1749 DR: Depart Orenlas in the afternoon, crossing the ~Cymea Border Mountains~ in the night. 
 - Feb 13, 1749 DR: Travel across [Latazaro](<../../../gazetteer/western-green-sea/cymea/latazaro.md>) swamp and the [Western Gulf](<../../../gazetteer/western-green-sea/western-gulf.md>) towards [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>).
 - Feb 14, 1749 DR: Cross the [Western Gulf](<../../../gazetteer/western-green-sea/western-gulf.md>) and the ~Gulf of Tollen~, traveling towards [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>).

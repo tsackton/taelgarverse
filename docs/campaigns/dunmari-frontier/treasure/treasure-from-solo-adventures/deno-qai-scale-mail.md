@@ -14,13 +14,11 @@ title: Deno'qai Scale Mail
 hide_toc: true
 ---
 # Deno'qai Scale Mail
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Uncommon Magical Armor__  
-   Created unknown the Deno'qai smith  
-   Owner: [Delwath](<../../../../people/pcs/dunmar-fellowship/delwath.md>)  
-    :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail) 
-</div>
-
+>[!info]+ Information
+> (uncommon magical armor)
+> [Mechanics](https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail)
+> 
+>> 
 
 A suit of scale mail armor, subtly designed with tanshi motifs, and lightweight enough to be worn under winter gear. It has green and blue highlights, but is otherwise muted brown.
 

@@ -19,25 +19,12 @@ title: Jasmine Sunmeadow
 hide_toc: true
 ---
 # Jasmine Sunmeadow
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Sunmeadows  
-    { .bio }
-
-    Originally from: [The Green Leaf](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/the-green-leaf.md>), [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of August 22nd, 1748): [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 9th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21st, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)  
-
+>[!info]+ Biographical Info  
+> A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Sunmeadows  
+>   
+>>   
+>>  Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 9th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)   
+>>  Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21st, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) 
 
 Jasmine Sunmeadow is a halfling adventurer with a strong connection to the natural world. She grew up in Darba, the daughter of the innkeepers of The Green Leaf, but always longed for adventure, and even as a child she could sense the weather and make flowers bloom.
 

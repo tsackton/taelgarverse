@@ -8,6 +8,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 title: Broken Dunmari Sword Vision
 ---
 # The Broken Dunmari Sword Vision
+>[!info]+ Information
+> 
 
 The mirror fades, and you see an image of what you would guess was the palace at Kharsan, but in its glory days, intact and full of people and life. A man is at the center of the image, a Dunmari man, perhaps in his forties, who is preparing for war. He is strapping on armor, tightening his belt, putting on a helmet, finding his shield, and then, the sword, sitting on the table. He leans over the sword, whispering a prayer in Dunmari. 
 

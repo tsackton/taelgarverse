@@ -495,7 +495,6 @@
             - [Airion](people/other-humans/airion.md)
             - [Arryn](people/other-humans/arryn.md)
             - [Gyles](people/other-humans/gyles.md)
-            - [Khathayi the Flametongue](people/other-humans/khathayi.md)
             - [Radomir](people/other-humans/radomir.md)
             - [Resenna](people/other-humans/resenna.md)
     - [Elves](species/children-of-the-embodied-gods/elves/elves.md)
@@ -509,7 +508,6 @@
         - [Melindir](people/elves/melindir.md)
         - [Nelawe](people/elves/nelawe.md)
         - [Vahaiya](people/elves/vahaiya.md)
-        - [Égnir](people/elves/egnir.md)
     - [Dwarves](species/children-of-the-embodied-gods/dwarves/dwarves.md)
         - [Brot Starsearcher](people/dwarves/brot-starsearcher.md)
         - [Dag Hardstone](people/dwarves/dag-hardstone.md)
@@ -643,6 +641,7 @@
         - Clans
             - [Gemcrafters](groups/clans/gemcrafters.md)
         - Deno Qai
+            - [Baz'aku](groups/deno-qai/baz-aku.md)
             - [Bek'eni](groups/deno-qai/bek-eni.md)
             - [Te'kula](groups/deno-qai/te-kula.md)
             - [Northern Tribes](groups/deno-qai/northern-tribes/northern-tribes.md)
@@ -661,6 +660,9 @@
             - [Shakun Mystai](groups/dunmari-mystery-cults/shakun-mystai.md)
         - Halfling Families
             - [Charmhearts](groups/halfling-families/charmhearts.md)
+            - [Copperharps](groups/halfling-families/copperharps.md)
+            - [Greenleafs](groups/halfling-families/greenleafs.md)
+            - [Honeyhills](groups/halfling-families/honeyhills.md)
             - [Stonebridges](groups/halfling-families/stonebridges.md)
         - Hobgoblin Clans
             - [Blackened Claw](groups/hobgoblin-clans/blackened-claw.md)
@@ -676,7 +678,10 @@
             - [Army of the North](groups/sembaran-army/army-of-the-north.md)
             - [Army of the South](groups/sembaran-army/army-of-the-south.md)
             - [Army of the West](groups/sembaran-army/army-of-the-west.md)
+            - [Dunfry Regiment](groups/sembaran-army/dunfry-regiment.md)
         - Sembaran Noble Houses
+            - [Bybets](groups/sembaran-noble-houses/bybets.md)
+            - [Essfords](groups/sembaran-noble-houses/essfords.md)
             - [House of Lils](groups/sembaran-noble-houses/house-of-lils.md)
             - [House of Sewick](groups/sembaran-noble-houses/house-of-sewick.md)
         - Sembaran Political Units
@@ -1201,6 +1206,7 @@
         - [Battle of Shadowfire](events/1500s/battle-of-shadowfire.md)
         - [Battle of Shrevandurg](events/1600s/battle-of-shrevandurg.md)
         - [Battle of Tokra](events/1700s/1748/12/battle-of-tokra.md)
+        - [Battle of Urlich Pass](events/1500s/1545/battle-of-urlich-pass.md)
         - [Bitter Knife War](events/1500s/bitter-knife-war.md)
         - [Blood Years](events/1500s/blood-years.md)
         - [Cleenseau Spider Attacks](events/1700s/1719/10/cleenseau-spider-attacks.md)

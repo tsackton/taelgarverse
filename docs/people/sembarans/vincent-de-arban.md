@@ -17,17 +17,12 @@ title: Vincent de Arban
 hide_toc: true
 ---
 # Vincent de Arban
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the Garay Family  
-    Born May 18th, 1677 (71 years old)  
-    { .bio }
-
-    Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
+>[!info]+ Biographical Info  
+> A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the Garay Family  
+>   
+>   
+>>   
+>> 
 
 Vincent de Arban is an agent of [Susanne Garay](<./susanne-garay.md>). He visited [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) to investigate [Viepuck](<../pcs/cleenseau/viepuck.md>) (when he was masquerading as [Najeer Garay](<../pcs/cleenseau/viepuck.md>)). 
 
