@@ -17,8 +17,9 @@ special handling of images:
   - keep the web versions in taelgarverse repo
   - start export script by copying web-images to assets
   - only copy files that don't exist, and only copy files that are linked from a page
-
 (should probably go through manually and delete images that aren't linked, as a start, and compress some images that are badly too large for need)
+
+figure out if it is possible to hide the right hand nav entirely on pages where both toc and backlinks are empty
 
 ## Bugs
 
