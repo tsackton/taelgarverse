@@ -42,3 +42,29 @@ plugins:
   - literate-nav:
       nav_file: toc.md
   - section-index
+
+
+### The following configures the buttons and image on the home page ###
+### Modified from https://github.com/tylerdotrar/mkdocs-coverpage ###
+### The icon and blurb parameters were used for the bottom buttons on the home page which we omit ###
+
+# Custom Homepage Elements
+home_cover_image: assets/site-img/banner-map.png # This path starts at your root mkdocs directory.
+home_tagline: TaelgarVerse
+home_description: The home of the world of Taelgar on the internet
+
+# Custom Homepage Button(s)
+home_button1_name: Campaign&nbsp;Info                 # Comment this parameter out to remove the button.
+home_button1_url: campaigns/dunmari-frontier/dunmari-frontier-campaign/    # This path starts at your root mkdocs directory.
+home_button1_theme: md-button # Options: "md-button", "md-button md-button--primary"
+home_button1_title: Information about the Dunmari Frontier campaign
+
+home_button2_name: Gazetteer   # Comment this parameter out to remove the button.
+home_button2_url: campaigns/player-s-guide/    # This path starts at your root mkdocs directory.
+home_button2_theme: md-button # Options: "md-button", "md-button md-button--primary"
+home_button2_title: Learn about the world of Taelgar
+
+home_button3_name: People   # Comment this parameter out to remove the button.
+home_button3_url: species/species/    # This path starts at your root mkdocs directory.
+home_button3_theme: md-button # Options: "md-button", "md-button md-button--primary"
+home_button3_title: People of Taelgar
