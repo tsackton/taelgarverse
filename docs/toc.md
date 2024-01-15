@@ -729,8 +729,8 @@
             - [Ancient and Honorable Guild of Philosophers](groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md)
             - [Dyer's Guild](groups/tollen-guilds/dyer-s-guild.md)
 - [Gazetteer](campaigns/player-s-guide.md)
-    - [World of Taelgar](gazetteer/gazetteer.md)
-        - [Geography of Taelgar](gazetteer/geography-of-taelgar.md)
+    - [World of Taelgar](gazetteer/geography-of-taelgar.md)
+        - [World Map](gazetteer/gazetteer.md)
         - Chasa Nahadi Watershed
             - [Ainumarya](gazetteer/chasa-nahadi-watershed/ainumarya.md)
             - [Blackwater Fens](gazetteer/chasa-nahadi-watershed/blackwater-fens.md)
@@ -1363,3 +1363,15 @@
             - [Azar's Tale](campaigns/mawar-confederacy/notes/azar-s-tale.md)
             - [Hiyasa's Treasure Map](campaigns/mawar-confederacy/notes/hiyasa-s-treasure-map.md)
             - [The Ciphered Scroll](campaigns/mawar-confederacy/notes/the-ciphered-scroll.md)
+    - Great War
+        - [Characters](people/pcs/great-war/heroes-of-the-great-war.md)
+            - [Aerin](people/pcs/great-war/aerin.md)
+            - [Beryl](people/pcs/great-war/beryl.md)
+            - [Kyr](people/pcs/great-war/kyr.md)
+            - [Rai](people/pcs/great-war/rai.md)
+            - Companions
+                - [Dimitaur](people/pcs/great-war/companions/dimitaur.md)
+                - [Willow Wind](people/pcs/great-war/companions/willow-wind.md)
+    - [Labyrinths of the Lost](campaigns/labyrinths-of-the-lost/labyrinths-of-the-lost.md)
+        - [LL Session 1](campaigns/labyrinths-of-the-lost/ll-session-1.md)
+        - [LL Session 2](campaigns/labyrinths-of-the-lost/ll-session-2.md)

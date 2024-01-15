@@ -18,14 +18,14 @@ The Drankorian Empire grew out of the city of Drankor, founded near the mouth of
 - 1 DR: The city of [Drankor](<./drankor.md>) is founded by refugees from [Hkar](<../pre-downfall/hkar.md>) fleeing the wars of [The Downfall](<../../events/ancient/the-downfall.md>)
 - 169 DR: Celadir is proclaimed the first Emperor of [Drankor](<./drankor.md>), laying claim to the coastal plains and the rich Crescara river valley.
 - 402 DR: The [Treaty of Marhavn](<../../events/400s/402/treaty-of-marhavn.md>) is signed by Emperor Goristo, and establishes the Volta as the northern border of the Drankorian Empire; the Skaer and other descendants of the ancient mariner cultures living in what is now Sembara and Cymea are imperial subjects.
-- 525 DR - DR_end 528: The Demonfire Wars, fought against a severe abyssal incursion. Emperor Ingwelir, a renowned wizard and warrior, died at the gates of Drankor defending the city against a demon lord. 
-- 528 DR - DR_end 595: The Peace of Drankor, a time of peace and prosperity in the aftermath of the Demonfire Wars. Ended by the fratricide of Oros the Cruel. Later known as the First Peace or the First Golden Age. 
+- 525 DR - 528 DR: The Demonfire Wars, fought against a severe abyssal incursion. Emperor Ingwelir, a renowned wizard and warrior, died at the gates of Drankor defending the city against a demon lord. 
+- 528 DR - 595 DR: The Peace of Drankor, a time of peace and prosperity in the aftermath of the Demonfire Wars. Ended by the fratricide of Oros the Cruel. Later known as the First Peace or the First Golden Age. 
 - 597 DR: The Battle of Yaroket ("Yah-roh-keht"), won by Drankor in the Myraeni Gap, begins the Western Wars and the conquest of the western coast by Drankor
 - 634 DR: The Battle of Tawir Forest ends the Drankorian conquest of the west on the northern shores of Lake Valandros. 
 - 647 DR: The beginning of the Great Peace, sometimes called the Golden Age of Drankor, a period of 300 years of sustained peace and prosperity across the empire.  
 - 688 DR: The Sibyline Archives, which will eventually become the Great Library, is founded in the developing city of Chardon
 - 965 DR: The Drankorian Civil War begins with the assassination of Emperor Helea by allies of the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>), and is won by Emperor Vestian, associated with [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>)
-- 1001 DR - DR_end 1013: The Dominion Wars, a series of attempted conquests to the east
+- 1001 DR - 1013 DR: The Dominion Wars, a series of attempted conquests to the east
 - 1059 DR: The destruction of [Drankor](<./drankor.md>) by the Plague Mist
 
 Cavarrio's Chronicles of Drankor also records the line of emperors of Drankor, as follows: 

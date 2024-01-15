@@ -20,21 +20,6 @@
 .md-typeset a {
   color: #EF5552 !important;
 }
-
-.md-typeset .ext-one-column {
-  background: lightgray;
-  grid-template-columns: 1fr;
-}
-
-.md-typeset .ext-narrow-margin {
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
-}
-
-.md-typeset h1 {
-  margin-bottom: 0.15rem;
-}
-
 /* Site-wide link color */
 
 /* Grid */
@@ -203,9 +188,3 @@
 /* Responsive styles */
 
 /*------------------------------------------------------*/
-
-.ext-map-container {
-  height: 600px;
-  max-width: 100%;
-  max-height: 100%;
-}

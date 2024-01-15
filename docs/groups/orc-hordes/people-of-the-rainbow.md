@@ -31,7 +31,7 @@ For the next five hundred years, the People of the Rainbow lived a hunted existe
 Now, the People of the Rainbow are thriving in [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), and perhaps in other hidden pockets of the world. 
 ### Events
 - 917 DR: [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>) is gifted to the People of the Rainbow by Cloudspinner
-- 930 DR-DR_end 950: People of the Rainbow begin to drift out of the feywild, seeking to free their chained brethren
+- 930 DR-950 DR: People of the Rainbow begin to drift out of the feywild, seeking to free their chained brethren
 - 1050 DR: [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>) attacked the People of the Rainbow and the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>) was lost.
 - 1582 DR: [Uzgash](<../../people/orcs/uzgash.md>) finds the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>) in a Dunmari fort in the [Nashtkar](<../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>)
 - 1583 DR: [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>) is founded as the new homeland of the People of the Rainbow. 

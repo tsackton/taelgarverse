@@ -9,7 +9,7 @@ title: Climate Map
 integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" ></script>
 
 
-<div id="climate-map-taelgar" class="ext-map-container" style="z-index: -1;"></div>
+<div id="climate-map-taelgar" class="ext-map-container"></div>
 
 <script type="text/javascript">
     document.addEventListener("DOMContentLoaded", function () {
