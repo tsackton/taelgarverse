@@ -13,7 +13,6 @@ affiliations:
 title: Riswynn
 hide_toc: true
 ---
-
 ### Riswynn
 
 ![Riswynn](../../../assets/riswynn.png){width="400"}

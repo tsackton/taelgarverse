@@ -2,7 +2,6 @@
 tags: [session-note]
 title: Session 83 (DuFr)
 ---
-
 # Session 83
 *in which the party gathers followers and explores Kharsan
 

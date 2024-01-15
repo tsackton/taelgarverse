@@ -15,7 +15,6 @@ whereabouts:
 pronunciation: CRIS-pus
 hide_toc: true
 ---
-
 # Crispus
 :speaker:{ .middle } *(CRIS-pus)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

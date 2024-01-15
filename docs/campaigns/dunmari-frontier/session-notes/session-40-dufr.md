@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 40 (DuFr)
 ---
 
-
 **(Thursday, Feb 17th, 2022; in Taelgar, July 3rd - July 6th )
 
 We begin as the party leaves [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) just before lunchtime, finally heading north to look for [Saka](<../../../people/dunmari/saka.md>) on the plains, after seemingly vanquishing the last remnants of the [Fraternity of the Empty Moon](<../../../groups/fraternity-of-the-empty-moon.md>). Heading north along the river, the first afternoon of travel is hot, but uneventful, the first night notable only for [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s recurrent dreams of being underground, near what sounds like a metal forge, the sound of hammers seemingly keeping him safe from some nameless danger of bloodlust and fear. 

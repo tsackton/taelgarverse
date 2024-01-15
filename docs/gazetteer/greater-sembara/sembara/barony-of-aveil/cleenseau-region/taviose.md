@@ -11,7 +11,6 @@ population: 30
 pronunciation: Ta-vi-ose
 title: Taviose
 ---
-
 # Taviose
 :speaker:{ .middle } *(Ta-vi-ose)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

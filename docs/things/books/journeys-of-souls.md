@@ -6,7 +6,6 @@ name: Journey of the Souls
 title: Journey of the Souls
 hide_toc: true
 ---
-
 # The Journey of the Souls
 :octicons-info-24:{ .lg .middle } **Book**  
 

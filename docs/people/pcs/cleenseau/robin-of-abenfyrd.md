@@ -18,7 +18,6 @@ whereabouts:
 title: Robin of Abenfyrd
 hide_toc: true
 ---
-
 # Robin of Abenfyrd
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

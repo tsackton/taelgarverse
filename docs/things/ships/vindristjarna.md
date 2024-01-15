@@ -21,7 +21,6 @@ subTypeOf: magical
 title: Vindristjarna
 hide_toc: true
 ---
-
 # Vindristjarna
 :speaker:{ .middle } *(vin-dree-SHAR-na)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

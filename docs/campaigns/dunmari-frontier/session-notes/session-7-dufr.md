@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 7 (DuFr)
 ---
 
-
 **(Sunday, August 16th, 2020; in Taelgar, dawn April 7th to mid-morning April 12th)
 
 The session begins in the pre-dawn light, as the people of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) prepare to flee west and the party, joined by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) Brawnanvil, gather their gear and plan their journey north to [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). Amidst the bustle and chaos of hundreds of people packing food, supplies, and what belongings they can carry, the party says their goodbyes and heads north, following the tracks of the gnolls and maw creatures that attacked the night before. 

@@ -8,7 +8,6 @@ died: 1
 title: Drusilia
 hide_toc: true
 ---
-
 # Drusilia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

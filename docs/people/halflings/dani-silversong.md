@@ -16,7 +16,6 @@ whereabouts: Emerald Song
 title: Dani Silversong
 hide_toc: true
 ---
-
 # Dani Silversong
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -24,7 +23,7 @@ hide_toc: true
     A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
     Born DR 1712 (37 years old)  
     Quartermaster of the [Emerald Song](<../../things/ships/emerald-song.md>)  
-    Member of the [Silversongs](<../../groups/halfling-families/silversongs.md>)  
+    Member of the Silversongs  
     { .bio }
 
     Based in the [Emerald Song](<../../things/ships/emerald-song.md>)

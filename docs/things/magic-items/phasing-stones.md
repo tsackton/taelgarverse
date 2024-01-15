@@ -6,7 +6,6 @@ typeOf: stone
 title: Phasing Stones
 hide_toc: true
 ---
-
 # Phasing Stones
 >[!info]+ Information
 > (magical stone)

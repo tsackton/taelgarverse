@@ -14,7 +14,6 @@ affiliations: [People of the Rainbow]
 whereabouts: Uzgukhar
 hide_toc: true
 ---
-
 # Chief Lubash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

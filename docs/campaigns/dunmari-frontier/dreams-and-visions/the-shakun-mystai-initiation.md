@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: The Shakun Mystai Initiation
 ---
 
-
 The abbreviated initiation ritual experienced by Kenzo, Wellby, Drikod, Seeker, and Delwath is described [here](<../session-notes/session-26-dufr.md#the-initiation-ritual-of-the-shakun-mystai>).
 
 

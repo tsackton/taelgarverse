@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 38 (DuFr)
 ---
 
-
 **(Sunday, Jan 23rd, 2022; in Taelgar, July 2nd)
 
 Our session begins with [Govir](<../../../people/dunmari/govir.md>), hiding in the basement of the werewolves’ lair, dwelling on the past month. 

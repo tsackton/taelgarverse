@@ -13,7 +13,6 @@ affiliations:
 title: Seeker
 hide_toc: true
 ---
-
 ### Seeker
 
 ![Seeker](../../../assets/seeker.jpg){width="400"}

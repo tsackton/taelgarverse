@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Scrying Delwath Oct 26
 ---
-
 **(Oct 21 - Oct 26)**
 
 #### [Havdar](<../../../people/dunmari/havdar.md>)

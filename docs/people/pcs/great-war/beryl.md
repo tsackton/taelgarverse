@@ -12,7 +12,6 @@ affiliations: [The Rangers]
 title: Beryl
 hide_toc: true
 ---
-
 # Beryl
 >[!info]+ Biographical Info
 > [Isinguer](<../../../history/istabor-alliance.md>) [human](<../../../species/humans/humans.md>), he/him

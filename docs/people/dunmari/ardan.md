@@ -11,7 +11,6 @@ gender: male
 whereabouts: Tokra
 hide_toc: true
 ---
-
 # Head Archivist Ardan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

@@ -2,7 +2,6 @@
 tags: [background, status/tim]
 title: Construction Time Notes
 ---
-
 # Adobe construction
 
 Most relevant so far for rebuilding of Karawa. 

@@ -18,13 +18,12 @@ whereabouts:
 title: Oswalt Tealeaf
 hide_toc: true
 ---
-
 # Oswalt Tealeaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him)  
-    Member of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)  
+    Member of the Tealeafs  
     { .bio }
 
     Originally from: [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

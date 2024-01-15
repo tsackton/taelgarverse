@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 19 (DuFr)
 ---
 
-
 **(Saturday, Feb 13th, 2021; in Taelgar, afternoon of April 24th to afternoon of May 2nd)**
 
 Having decided to leave [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) for the deserts and the blasted plain to the east, traveling with [Havdar](<../../../people/dunmari/havdar.md>) and his band, the party spends a few days taking care of business in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). You find a place to store the loot you are not planning on taking into the desert; [Candrosa](<../../../people/dunmari/candrosa.md>) offers space in the outbuildings of the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), where it will hopefully remain safe. Each time you see him he seems as if he is wrestling with a decision, but with the preparations for the expedition you don’t have time to speak in more depth with him.

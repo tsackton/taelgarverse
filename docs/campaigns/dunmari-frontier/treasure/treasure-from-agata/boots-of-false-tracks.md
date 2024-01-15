@@ -7,7 +7,6 @@ ddbLink: https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks
 title: Boots of False Tracks
 hide_toc: true
 ---
-
 # Boots of False Tracks
 >[!info]+ Item Info
 > [(magical boots)](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)

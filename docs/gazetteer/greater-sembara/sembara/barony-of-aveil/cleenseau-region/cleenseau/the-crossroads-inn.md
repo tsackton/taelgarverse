@@ -11,7 +11,6 @@ whereabouts: Cleenseau
 created: 1392
 title: The Crossroads Inn
 ---
-
 # The Crossroads Inn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

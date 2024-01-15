@@ -8,7 +8,6 @@ pronunciation: PLAH-tah-kah
 partOf: Western Cymea
 title: Plataca Hills
 ---
-
 # The Plataca Hills
 :speaker:{ .middle } *(PLAH-tah-kah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

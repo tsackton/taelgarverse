@@ -18,7 +18,6 @@ affiliations:
 - {org: House of Sewick, type: primary}
 hide_toc: true
 ---
-
 # King Bertram I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -26,7 +25,7 @@ hide_toc: true
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
     b. DR 1538 - d. DR 1552, died at age 14 years  
     High King of [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (DR 1549 - DR 1551)  
-    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkovia/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkovia/lavnoch.md>), [Breva](<../../../gazetteer/greater-sembara/zimkovia/breva.md>), and [Zovcka](<../../../gazetteer/greater-sembara/zimkovia/zovcka.md>) (DR 1549 - DR 1552)  
+    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkovia/ardlas.md>), Lavnoch, [Breva](<../../../gazetteer/greater-sembara/zimkovia/breva.md>), and Zovcka (DR 1549 - DR 1552)  
     { .bio }
 
 </div>

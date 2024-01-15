@@ -13,7 +13,6 @@ campaignInfo:
 title: Cirdore
 hide_toc: true
 ---
-
 # Cirdore
 :speaker:{ .middle } *(KEER-doh-reh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -15,7 +15,6 @@ pronunciation: moh-TOO-ah
 title: Motua
 hide_toc: true
 ---
-
 # Motua
 :speaker:{ .middle } *(moh-TOO-ah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,7 +23,7 @@ hide_toc: true
     a [gidari](<../../species/children-of-belief/gidari.md>) ([celestial](<../../species/children-of-belief/celestials.md>)), they/them  
     { .bio }
 
-    Originally from: the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), the [Spiritual Realms](<../../cosmology/multiverse/spiritual-realms/spiritual-realms.md>)
+    Originally from: the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), the Spiritual Realms
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of December 1748): [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region

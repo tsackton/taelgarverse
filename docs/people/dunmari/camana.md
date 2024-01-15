@@ -15,14 +15,13 @@ whereabouts:
 title: Camana
 hide_toc: true
 ---
-
 # Camana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
     b. DR 1721 - d. May 1st, 1748, died at age 27 years  
-    Member of [Havdar's Warband](<../../groups/havdar-s-warband.md>) (until May 1st, 1748)  
+    Member of Havdar's Warband (until May 1st, 1748)  
     { .bio }
 
     Lived , in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

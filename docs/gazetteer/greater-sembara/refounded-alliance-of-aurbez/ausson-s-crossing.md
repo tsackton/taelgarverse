@@ -8,7 +8,6 @@ created: 1652
 partOf: Laicon
 title: Ausson's Crossing
 ---
-
 # Ausson's Crossing
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

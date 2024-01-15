@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 21 (DuFr)
 ---
 
-
 **(Saturday, March 13th, 2021; in Taelgar, evening of May 5th to May 11th)
 
 We begin as the battle with the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) ends, the party collecting themselves after a tough fight, and deciding to deal with their captive, one of the [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) clerics named [Gorkil](<../../../people/orcs/gorkil.md>). There is little to note among the wreckage of the battle, although the party does take note of the symbol that seems to be painted on these [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) faces and gear: a rising sun, below a screaming face. 

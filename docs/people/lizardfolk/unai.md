@@ -12,7 +12,6 @@ whereabouts: Ganboa
 title: Unai
 hide_toc: true
 ---
-
 # Unai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

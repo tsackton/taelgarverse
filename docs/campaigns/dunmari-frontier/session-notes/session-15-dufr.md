@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 15 (DuFr)
 ---
 
-
 **(Saturday, Dec 26th, 2020; in Taelgar, evening April 15th)
 
 Huddled by the side of a prominence of blue granite jutting out of the plains of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), surrounded by a small calm spot in the howling storm, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) contemplate the stars. Specifically, the fact that one of the most prominent constellations in the sky, the [Fox and Hunter](<../../../cosmology/gods/demigods/fox-and-hunter.md>), is missing, although the rest of the sky does not look much different from what you would expect.

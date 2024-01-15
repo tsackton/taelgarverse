@@ -10,7 +10,6 @@ died: 1699
 title: Celine Essford
 hide_toc: true
 ---
-
 # Celine Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

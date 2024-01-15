@@ -12,7 +12,6 @@ whereabouts: Ganboa
 title: Erdu
 hide_toc: true
 ---
-
 # Erdu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

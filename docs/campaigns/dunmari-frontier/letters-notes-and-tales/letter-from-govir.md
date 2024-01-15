@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Letter from Govir
 ---
-
   
 Dear friends,
 

@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Mawar Adventures
 ---
 
-
 Information about adventures set in the [Mawakel Peninsula](<../../gazetteer/west-coast/mawar-confederacy/mawakel-peninsula.md>), a sparsely populated land of rocky coasts and dense forests, north of Chardon. 
 
 The Mawar Adventures have largely taken place around the port town of [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), on the western coast of the peninsula, and a significant port within the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)

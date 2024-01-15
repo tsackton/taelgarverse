@@ -8,7 +8,6 @@ whereabouts: Barony of Aveil
 population: 399
 title: Veltor
 ---
-
 # Veltor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

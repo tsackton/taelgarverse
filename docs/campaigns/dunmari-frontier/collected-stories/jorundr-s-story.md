@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Jorundr's Story
 ---
-
 (as told to Kenzo in Session 65, by Hraglar)
 
 Jorundr's story starts east and north of here, in the [Green Sea](<../../../gazetteer/green-sea.md>). He was born to some of my kind of who live underwater there -- while many of our kind dwell in the high mountains among the clouds, others dwell deep below the sea. 

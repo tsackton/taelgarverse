@@ -5,7 +5,6 @@ whereabouts: Wellby
 title: Flaming Bowstring
 hide_toc: true
 ---
-
 # The Flaming Bowstring
 >[!info]+ Information
 > (magical weapon)

@@ -97,7 +97,7 @@ Major items:
 - [Shatterstorm](<treasure/treasure-from-raven-s-hold/shatterstorm.md>) (rare major item)
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>) in exchange for her aid.
 - [Silverspark Gauntlets](<treasure/treasure-from-solo-adventures/silverspark-gauntlets.md>) (uncommon major item)
-- Masterwork shield, constructed of 7.5 lb of [Skaer steel](<../../things/materials/skaer-steel.md>) by [Umli](<../../people/other-nonhumans/umli.md>). Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. 
+- Masterwork shield, constructed of 7.5 lb of Skaer steel by [Umli](<../../people/other-nonhumans/umli.md>). Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. 
 
 Minor items:
 - Coin of Delving (common minor item)
@@ -120,7 +120,7 @@ Minor items:
 - [Chime of Opening](<treasure/treasure-from-kadmos-and-company/chime-of-opening.md>) (rare minor item, party)
 - [Ever Spinning Top](<treasure/treasure-from-agata/ever-spinning-top.md>) (common minor item, party, recovered from [Kadmos](<../../people/chardonians/kadmos.md>))
 - A enchanted oyster shell that allows the Divination spell to be cast once, acquired from the Skaer as thanks for defeating the demon of Vetta.
-- A [Fides Lucaris](<../../groups/drankorian-societies/fides-lucaris.md>) Sending Stone. Found in a hidden lead box, and once possessed by the woman whose skeleton remains in the elemental forge. [Lucius](<../../people/chardonians/lucius.md>), a boy in a small village in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) has its pair, and thinks it is his imaginary friend Benji talking. 
+- A Fides Lucaris Sending Stone. Found in a hidden lead box, and once possessed by the woman whose skeleton remains in the elemental forge. [Lucius](<../../people/chardonians/lucius.md>), a boy in a small village in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) has its pair, and thinks it is his imaginary friend Benji talking. 
 
 Not in use:
 - Spell gem from [Kadmos](<../../people/chardonians/kadmos.md>) containing the Summon Greater Demon spell.
@@ -208,8 +208,8 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 - A treatise about alchemy carved on metal cylinders, author unknown, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s hoard.  
 - The [Enchiridion of the Occulta Ludum](<../../things/books/enchiridion-of-the-occulta-ludum.md>), a small pamphlet titled in Drankorian, faintly magical and empty inside. Found in Eudomes' tower. 
 - A second copy of “The [Enchiridion of the Occulta Ludum](<../../things/books/enchiridion-of-the-occulta-ludum.md>)”, also blank and slightly magical. Found in the bedroom of the Elemental Forge workshop.
-- [Tales Before the Fall](<../../things/books/tales-before-the-fall.md>), a huge book written in Giant, with tales of giants, from Eudomes' tower. 
-- [On the Ordering of Giants](<../../things/books/on-the-ordering-of-giants.md>), ancient, written in a strange language presumed to be the first tongue of humans, on giants, from Eudomes' tower. 
+- Tales Before the Fall, a huge book written in Giant, with tales of giants, from Eudomes' tower. 
+- On the Ordering of Giants, ancient, written in a strange language presumed to be the first tongue of humans, on giants, from Eudomes' tower. 
 - [Journeys of Souls](<../../things/books/journeys-of-souls.md>), ancient, written in a strange language presumed to be the first tongue of humans, on the afterlife, from Eudomes' tower. 
 - Four books from [Hralgar](<../../people/giants/hralgar.md>)'s library: 
 	- Notes on the construction of skyship controls, copied from a pillar 
@@ -261,7 +261,7 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 - A 15’ rope [Ladder](<../../people/pcs/dunmar-fellowship/companions/ladder.md>), originally from lair of the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>). Fought valiantly against many enemies, distinguishing themselves in combat against werewolves and others, until bravely dying in battle against [Grimbaskal](<../../people/other-nonhumans/mezzar.md>) the green dragon to allow the rest of the party to escape in [Session 50 (DuFr)](<session-notes/session-50-dufr.md>).
 - The Boulder-Ladder, the hero of the[Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>), who died while smashing a massive trebuchet to pieces. 
 ### Destroyed or Used
-- A small crystal vial containing three doses of [universal solvent](<../../things/magic-items/universal-solvent.md>). Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
+- A small crystal vial containing three doses of universal solvent. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
 - [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([Havdar](<../../people/dunmari/havdar.md>)). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [Agata](<../../people/fey/agata.md>)’s hut. Cursed, and responsible for turning [Havdar](<../../people/dunmari/havdar.md>) to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel.md>) in answer to [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>)'s prayers, freeing Havdar of the curse, in [Session 63 (DuFr)](<session-notes/session-63-dufr.md>).  
 - A shard of [Inkaye](<../../things/materials/inkaye.md>) ready to be infused with explanar magic, created by [Umli](<../../people/other-nonhumans/umli.md>) from Delwath's [Elven Shadow Breastplate](<treasure/gifts-and-heirlooms/elven-shadow-breastplate.md>). Used to create the rainbow prism for [Vindristjarna](<../../things/ships/vindristjarna.md>), created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:
@@ -302,8 +302,8 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 
 #### In Tollen
 - A collection of Tollender goods, that survived water damage: 20 bolts of brilliantly dyed red cloth; 4 crates of fine linen shits; 2 crates of red Tollender cloaks (one of which [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>) takes); 6 small crates of beaver fur hats in a variety of styles. Left with [Adam Gower](<../../people/tollenders/adam-gower.md>) to sell / trade.
-- 8 swords and 4 spears of [Skaer steel](<../../things/materials/skaer-steel.md>) (used by Skaer warriors killed on [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>); gifted to party in their honor by Vaalinen). Given to [Umli](<../../people/other-nonhumans/umli.md>) to reuse. 
-- 5 pounds [Skaer steel](<../../things/materials/skaer-steel.md>), gifted by the Skaer. Given to [Umli](<../../people/other-nonhumans/umli.md>) to reuse.
+- 8 swords and 4 spears of Skaer steel (used by Skaer warriors killed on [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>); gifted to party in their honor by Vaalinen). Given to [Umli](<../../people/other-nonhumans/umli.md>) to reuse. 
+- 5 pounds Skaer steel, gifted by the Skaer. Given to [Umli](<../../people/other-nonhumans/umli.md>) to reuse.
 - The [Flaming Tempest](<../../things/ships/flaming-tempest.md>), once [Urgall](<../../people/skaer/urgall-the-black.md>)'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in it's current state. Being dismantled and converted to usable timber in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 #### In Chardon
 
@@ -339,7 +339,7 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 - A malachite carving of a stalking cat, designed as a pendant. from [Agata](<../../people/fey/agata.md>)’s hut.
 - A black pearl and silver twisted flame amulet, reminiscent of one of [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>)'s symbols. Taken from the undead creature in the fort east of [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>).  
 - Two small and uncut pieces of amber from [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>)
-- Silver goblet with small red gems. Found in [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), in the [hobgoblin](<../../species/goblinoids/hobgoblins.md>) chief’s bedroom.
+- Silver goblet with small red gems. Found in [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), in the hobgoblin chief’s bedroom.
 
 ### Given Away
 

@@ -9,7 +9,6 @@ typeOf: village
 partOf: Eastern Dunmar
 title: Bas Udda
 ---
-
 # Bas Udda
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

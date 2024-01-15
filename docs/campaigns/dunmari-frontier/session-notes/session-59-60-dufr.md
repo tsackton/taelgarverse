@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 59 60 (DuFr)
 ---
 
-
 ## Timeline
 
 **Sept 30**: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) arrives in the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>) realm of Fortune’s Rest

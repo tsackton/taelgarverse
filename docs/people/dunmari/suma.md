@@ -11,7 +11,6 @@ whereabouts: Karawa
 title: Suma
 hide_toc: true
 ---
-
 # Suma
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

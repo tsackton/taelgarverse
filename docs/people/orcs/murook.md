@@ -15,7 +15,6 @@ whereabouts:
 - {type: home, start: 1724, location: Xurkhaz}
 hide_toc: true
 ---
-
 # General Murook
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

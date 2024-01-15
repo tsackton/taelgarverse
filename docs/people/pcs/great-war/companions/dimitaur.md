@@ -13,7 +13,6 @@ title: Dimitaur
 hide_toc: true
 ---
 
-
 ### Dimitaur
 
 A small flying lizard, companion to [Rai](<../rai.md>).

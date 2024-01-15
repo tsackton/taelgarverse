@@ -14,7 +14,6 @@ whereabouts:
 - {type: home, start: 1583, location: Xurkhaz}
 title: People of the Rainbow
 ---
-
 # The People of the Rainbow
 
 The name for the orcs of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>) who have lived free from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s curse for many generations.

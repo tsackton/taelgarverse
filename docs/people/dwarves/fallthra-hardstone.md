@@ -17,7 +17,6 @@ pronunciation: FAHL-thrah
 title: Fallthra Hardstone
 hide_toc: true
 ---
-
 # Fallthra Hardstone
 :speaker:{ .middle } *(FAHL-thrah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

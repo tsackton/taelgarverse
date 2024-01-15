@@ -20,5 +20,6 @@
     "hide_toc_tags": ["person", "item"],
     "hide_backlinks_tags": [],
     "unnamed_files": "unlist",
-    "stub_files": "skip"
+    "stub_files": "skip",
+    "ignore_file": "ignore_spec.txt"
 }

@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Kenzo's Memories of Hraglar
 ---
 
-
 ### Kenzo's Tale to Tell: Please Don't Read Until He Shares In Game
 
 > [!warning]- Kenzo's Memories of Hralgar

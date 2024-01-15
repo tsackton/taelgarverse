@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Session 70 (DuFr)
 ---
-
 *in which the party meets the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) of [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>)*
 
 **In the real world:** Sunday, May 7, 2023

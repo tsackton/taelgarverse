@@ -6,7 +6,6 @@ created: 1651
 whereabouts: Barony of Aveil
 title: Manor of Asineau
 ---
-
 # The Manor of Asineau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

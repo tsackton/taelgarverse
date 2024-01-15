@@ -13,16 +13,15 @@ whereabouts:
 title: Enon
 hide_toc: true
 ---
-
 # Enon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1688 (61 years old)  
     { .bio }
 
-    Based in [Ko'zula village](<../../gazetteer/chasa-nahadi-watershed/ko-zula-village.md>)
+    Based in Ko'zula village
 </div>
 
 

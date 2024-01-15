@@ -18,7 +18,6 @@ pronunciation: EL-wiss
 title: Elwis
 hide_toc: true
 ---
-
 # Elwis
 :speaker:{ .middle } *(EL-wiss)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

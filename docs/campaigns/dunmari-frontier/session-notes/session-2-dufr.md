@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 2 (DuFr)
 ---
 
-
 **(Friday June 12, 2020; in Taeglar, evening March 22 to mid-morning March 25)**
 
 [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) of Highkeep, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) Goodbarrel, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), arriving at the [Gomat](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) Oasis past sunset, tired and weary from a long journey in the desert sun, find the oasis beset by three giant lizards, feasting on dead sheep. Deciding to attack, the party made relatively quick work of the beasts. Exhausted, and unable to determine much in the dark, the party camped for the night.

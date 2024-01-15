@@ -13,12 +13,11 @@ affiliations:
 title: Daruk
 hide_toc: true
 ---
-
 # Daruk
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the [Runecrafter Thuhr](<../../groups/dwarven-thuhr/runecrafter-thuhr.md>)  
+    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the Runecrafter Thuhr  
     b. DR 1323 - d. DR 1533, died at age 210 years  
     { .bio }
 

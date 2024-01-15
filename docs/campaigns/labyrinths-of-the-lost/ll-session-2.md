@@ -6,7 +6,6 @@ sessionNumber: 2
 players: [Acescale, Gaudin, Loria, Dilion]
 title: LL Session 2
 ---
-
 # Labyrinths of the Lost - Session 2
 >*in Taelgar: October 17th-18th, 1748*
 >*on Earth: November 25th, 2023*

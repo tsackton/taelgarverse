@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, location: Ursk, startFilter: f}
 title: Praznitsky
 ---
-
 # Praznitsky
 :speaker:{ .middle } *(PRAZ-niht-skee)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -19,7 +18,7 @@ title: Praznitsky
 </div>
 
 
-Praznitsky is a mysterious city on the north coast of the [Eastern Green Sea](<../eastern-green-sea/eastern-green-sea.md>), and one of the few ports where foreigners are allowed to trade in the country of [Ursk](<./ursk.md>). 
+Praznitsky is a mysterious city on the north coast of the Eastern Green Sea, and one of the few ports where foreigners are allowed to trade in the country of [Ursk](<./ursk.md>). 
 
 The city itself is a walled coastal settlement, where foreigners are prohibited. The trading port, with a harbor for foreign ships, is on an island a short distance off the coast, connected to the mainland by a stone bridge, a single span with no obvious supports. The bridge is patrolled by masked wizards. 
 

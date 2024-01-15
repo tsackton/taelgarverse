@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Kenzo's Jade Vision
 ---
 
-
 As you hold the [Jade Piece of Rai's Hand](<../treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) up to the mirror, images flash before your eyes.  
 
 - A tower, that you’ve seen before in your dreams, a flash of a room of people.

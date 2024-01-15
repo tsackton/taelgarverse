@@ -7,7 +7,6 @@ partOf: Western Green Sea Region
 aliases: [Ozabal Swamp]
 title: Ozabal
 ---
-
 # Ozabal
 >[!info]+ Information
 > A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) swamp in the [Western Green Sea Region](<../western-green-sea/western-green-sea-region.md>)

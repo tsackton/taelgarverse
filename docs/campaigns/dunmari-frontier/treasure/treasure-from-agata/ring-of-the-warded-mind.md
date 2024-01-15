@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Ring of the Warded Mind
 ---
 
-
 [Mechanics](https://www.dndbeyond.com/magic-items/3710482-ring-of-the-warded-mind). 
 
 A dull silver ring that radiates abjuration magic, that seems hard to focus on. Dwarven in origin according to [Seeker](<../../../../people/pcs/dunmar-fellowship/seeker.md>). Taken from [Agata](<../../../../people/fey/agata.md>)’s person. 

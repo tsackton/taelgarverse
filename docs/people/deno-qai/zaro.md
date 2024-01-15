@@ -13,12 +13,11 @@ whereabouts:
 title: Zaro
 hide_toc: true
 ---
-
 # Zaro
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
     { .bio }
 
     Based in [Bek'eni village](<../../gazetteer/chasa-nahadi-watershed/bek-eni-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)

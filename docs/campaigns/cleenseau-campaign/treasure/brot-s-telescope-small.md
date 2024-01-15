@@ -12,7 +12,6 @@ whereabouts:
 title: Brot's Telescope (Small)
 hide_toc: true
 ---
-
 # The Brot's Telescope (small)
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Mundane Telescope__  

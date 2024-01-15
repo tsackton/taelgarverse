@@ -10,7 +10,6 @@ whereabouts: Robin of Abenfyrd
 title: Lantern of the Bright Hearth
 hide_toc: true
 ---
-
 # The Lantern of the Bright Hearth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Lantern__  

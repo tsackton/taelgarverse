@@ -16,7 +16,6 @@ whereabouts:
 title: Hugo Dupont
 hide_toc: true
 ---
-
 # Hugo Dupont
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

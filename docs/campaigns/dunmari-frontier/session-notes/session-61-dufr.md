@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 61 (DuFr)
 ---
 
-
 **(Sunday, Dec 4th, 2022; in the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>), evening; in Taelgar, Nov 15th)**
 
 Our session begins at Lastlight Falls in the fey realm of [Amberglow](<../../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), where [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) has come with the aid of [Caulaus](<../../../people/pcs/dunmar-fellowship/guests/caulaus.md>), [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), and [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), though [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>) and [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>) have returned to [Shimmersong](<../../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>).  [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is waiting, and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) arrives shortly afterward. Lastlight Falls is a place close to the [Cloudspinner](<../../../people/extraplanar-powers/cloudspinner.md>)'s attention, and the session begins with her [memories](<../../../people/extraplanar-powers/cloudspinner.md#97cec2>). 

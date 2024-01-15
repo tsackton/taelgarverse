@@ -3,7 +3,6 @@ excludeRooted: [Clee]
 tags: [status/unknown]
 title: Session 71 (DuFr)
 ---
-
 *in which the party plans for [Kadmos](<../../../people/chardonians/kadmos.md>)' attack
 
 **In the real world:** Sunday, May 21, 2023

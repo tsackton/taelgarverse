@@ -3,7 +3,6 @@ tags: [background, status/unknown]
 title: Dunmari Festivals
 ---
 
-
 # Festivals
 
 Festivals play a major role in Dunmari culture. They are not just religious celebrations, but moments when the normally widely dispersed community comes together. There are usually markets, games, and other community events around the religious rituals. A few major festivals are celebrated by communal gatherings, including sometimes the return of wandering communities to fixed temples, but many others are celebrated in smaller groups or marked by private household rituals and prayers. The cycle of Dunmari festivals and feast days runs from January to January, with the new year marked on January 22nd. 
@@ -26,6 +25,6 @@ The major festivals of the religious cycle are:
 
 - Feast of the Harvest Veil, celebrated 35 days before the Day of Atonement, on November 16th. Celebrates the harvest, associated with special food and when animals are slaughtered before the dry seasons / winter, associated with feasting, including nighttime celebrations of light and dancing. Begins the period of preparation for the Day of Atonement: each week following the Feast of the Harvest Moon is marked by one of the five siblings, in order of Chidya, Aagir, Jeevali, Laka, and finally Sonkar. 
 
-- [Day of Atonement](<./day-of-atonement.md>), or the Feast of Sonkar's Blessing, celebrated on Dec 21st, the day of the winter solstice. A day of prayer, atonement, and judgment before Sonkar, which starts the last month of the year which is seen as particularly holy and a time when many gather when food is plentiful after the bounty of the rainy season. The month of the winter solstice, from Dec 21 - Jan 22, is known as Pralakar and is associated with prayers of forgiveness and reflection, as well as community and family. It is a holy month. 
+- Day of Atonement, or the Feast of Sonkar's Blessing, celebrated on Dec 21st, the day of the winter solstice. A day of prayer, atonement, and judgment before Sonkar, which starts the last month of the year which is seen as particularly holy and a time when many gather when food is plentiful after the bounty of the rainy season. The month of the winter solstice, from Dec 21 - Jan 22, is known as Pralakar and is associated with prayers of forgiveness and reflection, as well as community and family. It is a holy month. 
 
 

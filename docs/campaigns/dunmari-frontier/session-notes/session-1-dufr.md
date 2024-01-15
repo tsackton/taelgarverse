@@ -8,7 +8,6 @@ DR: 1748-03-22
 DR_end: 1748-03-23
 title: Session 1 (DuFr)
 ---
-
 # Session 1
 
 

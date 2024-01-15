@@ -22,7 +22,6 @@ whereabouts:
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
 hide_toc: true
 ---
-
 # Lady Rosalind Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

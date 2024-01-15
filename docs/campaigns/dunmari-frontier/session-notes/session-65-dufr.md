@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Session 65 (DuFr)
 ---
-
 *in which the party frees [Hralgar](<../../../people/giants/hralgar.md>) from his imprisonment*
 
 **In the real world:** Thursday, Feb 21st, 2023
@@ -21,8 +20,8 @@ End: 23 Nov 1748, evening, outside the destroyed remains of the tower
 #### New Treasure
 - [Cleaning Stone](https://www.dndbeyond.com/magic-items/cleansing-stone), from [Eudomes](<../../../people/historical-figures/eudomes.md>)' bedroom
 - The [Enchiridion of the Occulta Ludum](<../../../things/books/enchiridion-of-the-occulta-ludum.md>), a small pamphlet titled in Drankorian, faintly magical and empty inside
-- [Tales Before the Fall](<../../../things/books/tales-before-the-fall.md>), a huge book written in Giant, with tales of giants
-- [On the Ordering of Giants](<../../../things/books/on-the-ordering-of-giants.md>), ancient, written in a strange language, on giants
+- Tales Before the Fall, a huge book written in Giant, with tales of giants
+- On the Ordering of Giants, ancient, written in a strange language, on giants
 - [Journeys of Souls](<../../../things/books/journeys-of-souls.md>), ancient, written in a strange language, on the afterlife
 - [Hralgar](<../../../people/giants/hralgar.md>) gives his blessing for the party to restore and take [Vindristjarna](<../../../things/ships/vindristjarna.md>), The Star on the Wind, the ruined airship that requires a new phasing stone to fly
 
@@ -38,7 +37,7 @@ His mind now clear, he recognizes the party and tells them he can hold off the m
 
 The iron chains, however, seem a tougher nut to crack, until [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) recalls his memory of the binding from when he was possessed, recalling that the the first words of the elven poem A Lament for Lost Thunder can break the chains and end the enchantment. Unfortunately, the party sold the book containing this poem in [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), and can't quite recall the words correctly. However, a quick Sending to [Govir](<../../../people/dunmari/govir.md>) has him promising to find a copy in the next couple of hours, when [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) will scry him to see the writing and translate the words. 
 
-At this point, the party takes a breather, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) cooking some food while [Hralgar](<../../../people/giants/hralgar.md>) talks about [Drankor](<../../../history/drankorian-era/drankorian-empire.md>). He tells them about the end of the golden age of [Drankor](<../../../history/drankorian-era/drankorian-empire.md>), when the [Helea](<../../../people/historical-figures/drankorian-emperors/helea.md>) was assassinated by the [Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>), a group that believed in [human](<../../../species/humans/humans.md>) supremacy, and especially supremacy of those who inhabited [Hkar](<../../../history/pre-downfall/hkar.md>), the land where [Humans](<../../../species/humans/humans.md>) were created, the longest. [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>), [Hralgar](<../../../people/giants/hralgar.md>) says, was connected to this group, but he was captured during [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>)'s reign and doesn't know how it ended, not really. 
+At this point, the party takes a breather, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) cooking some food while [Hralgar](<../../../people/giants/hralgar.md>) talks about [Drankor](<../../../history/drankorian-era/drankorian-empire.md>). He tells them about the end of the golden age of [Drankor](<../../../history/drankorian-era/drankorian-empire.md>), when the [Helea](<../../../people/historical-figures/drankorian-emperors/helea.md>) was assassinated by the [Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>), a group that believed in [human](<../../../species/humans/humans.md>) supremacy, and especially supremacy of those who inhabited Hkar, the land where [Humans](<../../../species/humans/humans.md>) were created, the longest. [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>), [Hralgar](<../../../people/giants/hralgar.md>) says, was connected to this group, but he was captured during [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>)'s reign and doesn't know how it ended, not really. 
 
 [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) then listens to [Jorundr's Story](<../collected-stories/jorundr-s-story.md>), recording it for the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>).
 

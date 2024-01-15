@@ -5,7 +5,6 @@ ddbLink: https://www.dndbeyond.com/magic-items/5346832-augury-mirrors
 title: Augury Mirrors
 hide_toc: true
 ---
-
 # Augury Mirrors
 >[!info]+ Item Info
 > [(magical mirror)](https://www.dndbeyond.com/magic-items/5346832-augury-mirrors)

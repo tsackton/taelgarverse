@@ -10,7 +10,6 @@ whereabouts: Tokra
 title: Ashar
 hide_toc: true
 ---
-
 # Ashar
 >[!info]+ Biographical Info
 > [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>), he/him

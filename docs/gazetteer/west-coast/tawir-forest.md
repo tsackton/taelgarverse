@@ -5,7 +5,6 @@ typeOf: forest
 whereabouts: West Coast Region
 title: Tawir Forest
 ---
-
 # The Tawir Forest
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A forest [West Coast Region](<./west-coast-region.md>)  

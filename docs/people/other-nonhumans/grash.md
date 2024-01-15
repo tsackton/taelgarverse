@@ -19,12 +19,11 @@ whereabouts:
 title: Grash
 hide_toc: true
 ---
-
 # Grash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A skeletal [undead](<../../species/children-of-the-embodied-gods/undead.md>) (he/him)  
+    A skeletal undead (he/him)  
     Killed January 20th, 1749  
     { .bio }
 

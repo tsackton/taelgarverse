@@ -7,7 +7,6 @@ partOf: Western Green Sea Region
 pronunciation: LAH-tah-zah-roh
 title: Latazaro
 ---
-
 # Latazaro
 *(LAH-tah-zah-roh)*
 >[!info]+ Information

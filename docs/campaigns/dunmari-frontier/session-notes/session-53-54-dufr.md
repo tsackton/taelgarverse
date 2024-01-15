@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 53 54 (DuFr)
 ---
 
-
 ## Timeline
 
 **Aug 24**: Vanish from [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) after using the [Chalice of the Runepriest](<../../../things/artifacts-of-power/chalice-of-the-runepriest.md>); appear in [Heart of the Mountain](<../../../cosmology/multiverse/spiritual-realms/divine-realms/heart-of-the-mountain.md>); speak with the [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel.md>); rest.

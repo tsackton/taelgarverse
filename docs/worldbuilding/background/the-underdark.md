@@ -3,7 +3,6 @@ tags: [background, status/tim]
 title: The Underdark
 ---
 
-
 A collection of canonical facts about the Underdark, here defined as the extensive underground area beneath the [Sentinel Range](<../../gazetteer/sentinel-range/sentinel-range.md>).
 
 

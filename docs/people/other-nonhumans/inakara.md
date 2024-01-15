@@ -13,7 +13,6 @@ whereabouts: Dwarven Outpost (Raven's Hold)
 title: Inakara
 hide_toc: true
 ---
-
 # Inakara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

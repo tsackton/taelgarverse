@@ -6,7 +6,6 @@ created: 1550
 whereabouts: Barony of Aveil
 title: Manor of Valit
 ---
-
 # The Manor of Valit
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

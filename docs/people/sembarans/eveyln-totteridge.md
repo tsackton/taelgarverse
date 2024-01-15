@@ -16,7 +16,6 @@ whereabouts:
 - {type: away, start: 1719-11-27, end: 1720-01-18, location: Dunfry}
 hide_toc: true
 ---
-
 # Sergeant Eveyln Totteridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

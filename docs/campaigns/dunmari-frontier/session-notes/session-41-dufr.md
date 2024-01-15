@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 41 (DuFr)
 ---
 
-
 **(Thursday, March 3rd, 2022; in Taelgar, July 6th - July 13th)
 
 We begin as the party finishes their conversation with [Saka](<../../../people/dunmari/saka.md>), and prepares to return to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) after sharing a meal with [Saka](<../../../people/dunmari/saka.md>) and her family. As they depart, [Saka](<../../../people/dunmari/saka.md>) pulls [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) aside, reminding him not to neglect his duties as a Mystai of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>). She gives him 10 scrolls that can be used to collect the stories of the people of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), to be stored in the [Hall of Stories](<../../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>) at some point in the future. 

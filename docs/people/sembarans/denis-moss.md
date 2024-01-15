@@ -11,7 +11,6 @@ died: 1719-10-21
 title: Denis Moss
 hide_toc: true
 ---
-
 # Denis Moss
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 39 (DuFr)
 ---
 
-
 **(Sunday, Feb 6th, 2022; in Taelgar, July 3rd)
 
 We begin as the party wakes in the pre-dawn light to search for signs of werewolves. Heading back to the lair of the [Fraternity of the Empty Moon](<../../../groups/fraternity-of-the-empty-moon.md>), the guards there report no disturbances. While all seems quiet, the party decides to exit through the secret tunnel, and perhaps investigate the ruins of the Drankorian fort near the weak point to [Pandemonium](<../../../cosmology/multiverse/spiritual-realms/primal-realms/pandemonium.md>) on their way north. 

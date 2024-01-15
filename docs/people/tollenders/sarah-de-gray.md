@@ -16,7 +16,6 @@ whereabouts:
 title: Sarah de Grey
 hide_toc: true
 ---
-
 # Sarah de Grey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

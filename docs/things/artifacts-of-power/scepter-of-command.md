@@ -18,7 +18,6 @@ whereabouts:
 title: Scepter of Command
 hide_toc: true
 ---
-
 # The Scepter of Command
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Scepter__  

@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 22 (DuFr)
 ---
 
-
 **(Thursday, April 8th, 2021; in Taelgar, May 11th)**
 
 We begin around noon at camp, about 5 miles south of the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>), as [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) returns from scouting as a desert hawk. The party is just finishing their usual midday rest, in the shade of the canyon walls along the dry river, and deciding what to do next. First, though, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) tells them about [Rai](<../../../people/pcs/great-war/rai.md>), the Great Heroes, and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s possible connection, via the [Jade Piece of Rai's Hand](<../treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) he carries, to [Rai](<../../../people/pcs/great-war/rai.md>), and the fact that the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>), who [Rai](<../../../people/pcs/great-war/rai.md>) told [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) to seek, is also the [Mysteries of Bhishma](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). The discussion turns to more recent history, and pondering again what could have happened thirty years ago that nearly destroyed the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) and left their monastery abandoned. 

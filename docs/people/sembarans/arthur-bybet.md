@@ -19,14 +19,13 @@ whereabouts:
 title: Arthur Bybet
 hide_toc: true
 ---
-
 # Arthur Bybet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the [Bybets](<../../groups/sembaran-noble-houses/bybets.md>)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the Bybets  
     Born DR 1682 (67 years old)  
-    Lord Consort of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>) (since DR 1706)  
+    Lord Consort of the Essfords (since DR 1706)  
     { .bio }
 
     Originally from: [Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/ainwick.md>), the [Barony of Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/barony-of-ainwick.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

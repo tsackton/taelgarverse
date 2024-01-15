@@ -12,7 +12,6 @@ affiliations:
 title: Ladder
 hide_toc: true
 ---
-
 # Ladder
 
 One of several animated ladders created by [Seeker](<../seeker.md>)'s magic, usually the best warrior in the party. 

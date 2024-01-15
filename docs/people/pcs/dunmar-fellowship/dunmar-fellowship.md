@@ -8,7 +8,6 @@ typeOf: adventuring party
 excludeRooted: [Clee]
 title: Dunmar Fellowship
 ---
-
 # The Dunmar Fellowship
 
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 

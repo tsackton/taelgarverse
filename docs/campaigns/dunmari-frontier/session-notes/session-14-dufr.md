@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 14 (DuFr)
 ---
 
-
 ****(Sunday, Dec 6th, 2020; in Taelgar, evening April 13th to evening April 15th)
 
 We begin with the party camped a few miles west of [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), near the trade road over the mountains, listening to the recovering wildlife of open plains as the campfire crackles, and [Vola](<../../../people/chardonians/vola.md>) brings in a brace of birds to roast for dinner.

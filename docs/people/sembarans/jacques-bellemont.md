@@ -7,7 +7,6 @@ affiliations:
 - {type: leader, org: Duchy of Wisford, start: 1700}
 hide_toc: true
 ---
-
 # Jacques Bellemont
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

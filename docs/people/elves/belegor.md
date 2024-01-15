@@ -19,7 +19,6 @@ timelineDescriptor: Belegor
 title: Belegor
 hide_toc: true
 ---
-
 # Belegor
 :speaker:{ .middle } *(beh-leh-GOR)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

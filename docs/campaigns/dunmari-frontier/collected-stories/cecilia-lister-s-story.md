@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Cecilia Lister's Story
 ---
-
 (as told to [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) in [Session 75 (DuFr)](<../session-notes/session-75-dufr.md>))
 
 As she works on [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)'s tattoo, Cecilia tells her story. 

@@ -9,7 +9,6 @@ partOf: Cleenseau
 aliases: [The Fox’s Flagon]
 title: The Fox’s Flagon
 ---
-
 # The Fox’s Flagon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

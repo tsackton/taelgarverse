@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, location: Shadowfell}
 title: Morkalan
 ---
-
 # Morkalan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

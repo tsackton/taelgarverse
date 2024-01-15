@@ -8,7 +8,6 @@ rarity: common
 title: Horn of Silent Alarm
 hide_toc: true
 ---
-
 # Horn of Silent Alarm
 >[!info]+ Item Info
 > [(common magical horn)](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)

@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 29 (DuFr)
 ---
 
-
 **(Wednesday, July 28th, 2021; in Taelgar, May 29th to June 1st)
 
 Our session begins at dusk, as the party silent, tired, stands before the dead bodies of [Agata](<../../../people/fey/agata.md>) Dustmother and her oni servant, [Samerki](<../../../people/other-nonhumans/samerki.md>). As [Cintra](<../../../people/dunmari/cintra.md>) rushes to comfort her daughter, [Jumi](<../../../people/dunmari/jumi.md>), in relief and also terror at what [Agata](<../../../people/fey/agata.md>) has turned her into, the party takes stock.

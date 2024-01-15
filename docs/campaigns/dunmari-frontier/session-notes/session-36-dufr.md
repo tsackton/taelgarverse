@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 36 (DuFr)
 ---
 
-
 **(Wednesday, Dec 22nd, 2021; in Taelgar, July 1st - July 2nd)
 
 Our session begins as the party crosses [Jita](<../../../people/historical-figures/dunmari-rulers/jita.md>)’s Square, leaving [Kirian’s](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirians.md>) after dinner and heading for the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), to keep watch of signs of werewolves in the night, as the full moon rises. At the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), the party debates what to do, while [Ardan](<../../../people/dunmari/ardan.md>) summons extra guards. During the debate, the party hears a piercing howl, cut short. After initially splitting up to cover more ground, the party reconvenes in the basement of the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), where the Hardstone clan quarters are and the howls are coming from. 

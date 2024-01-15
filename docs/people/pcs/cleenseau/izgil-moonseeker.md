@@ -18,7 +18,6 @@ whereabouts:
 title: Izgil Moonseeker
 hide_toc: true
 ---
-
 # Izgil Moonseeker
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -42,7 +41,7 @@ Izgil was born in the year 5586 by the ancient count of the dwarves, or 1453 in 
 >
 His travels were welcome as they gave him much time to think and he often found himself staring up  at the stars and thinking of the world beyond the dwarven halls he was supposed to be missing. Far from being comfortable when he returned from a trip he tended to itch to get back out on the road but never really able to articulate why.  
 >
-His life might have continued this way, but the [Great War](<../../../events/1500s/great-war.md>) intervened. His last merchant trip, in 5672, ended as the rumors of war turned to fighting. [Hobgoblins](<../../../species/goblinoids/hobgoblins.md>), [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>), mind flayers and worse turned their eyes on the [Dwarven Kingdoms](<../../../gazetteer/sentinel-range/dwarven-kingdoms/dwarven-kingdoms.md>). Durgil helped as he could, bringing supplies to the front lines, but was thankful that Nizdzahar was spared the destruction of [Ardith](<../../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>) to the south. The 5670s and 5680s were a time of war, and then rebuilding. Durgil’s family fared better than most, not a single member of his extended clan died in the war.
+His life might have continued this way, but the [Great War](<../../../events/1500s/great-war.md>) intervened. His last merchant trip, in 5672, ended as the rumors of war turned to fighting. Hobgoblins, [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>), mind flayers and worse turned their eyes on the [Dwarven Kingdoms](<../../../gazetteer/sentinel-range/dwarven-kingdoms/dwarven-kingdoms.md>). Durgil helped as he could, bringing supplies to the front lines, but was thankful that Nizdzahar was spared the destruction of [Ardith](<../../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>) to the south. The 5670s and 5680s were a time of war, and then rebuilding. Durgil’s family fared better than most, not a single member of his extended clan died in the war.
 >
 By 5690, Durgil was back on the road, still looking for something more. His family grew prosperous, but in his increasingly limited time at home he started to hear whispers from his elder relatives: of a bargain made during the [Great War](<../../../events/1500s/great-war.md>) and a price to be paid to the Bahrâzel amongst the future generations.
 >

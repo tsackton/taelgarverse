@@ -13,7 +13,6 @@ whereabouts:
 - {type: home, prefix: somewhere in, location: Central Dunmar, formatSpecifier: ''}
 hide_toc: true
 ---
-
 # Commander Ila
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

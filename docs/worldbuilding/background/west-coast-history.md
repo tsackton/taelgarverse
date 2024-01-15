@@ -3,7 +3,6 @@ tags: [status/unknown, background]
 title: West Coast History
 ---
 
-
 Some notes on the West Coast history
 
 ## Before the Great War

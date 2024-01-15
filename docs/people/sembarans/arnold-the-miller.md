@@ -12,7 +12,6 @@ whereabouts: Asineau
 title: Arnold the Miller
 hide_toc: true
 ---
-
 # Arnold the Miller
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

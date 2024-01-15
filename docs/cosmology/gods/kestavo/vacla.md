@@ -2,7 +2,6 @@
 tags: [deity, religion/kestavo, status/unknown]
 title: Vacla
 ---
-
 ### Vacla
 *he/him*
 

@@ -12,7 +12,6 @@ whereabouts:
 title: Lucius
 hide_toc: true
 ---
-
 # Lucius
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Portable Hole
 ---
 
-
 A gift from [Basu](<../../../../people/dunmari/basu.md>), in exchange for helping clear the excess extraplanar energy from the [Elven Arborea Workshop](<../../../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the [Lakan Monastery](<../../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), permeated with the essence of [Arborea](<../../../../cosmology/multiverse/spiritual-realms/primal-realms/arborea.md>). 
 
 Received in [Session 42 (DuFr)](<../../session-notes/session-42-dufr.md>), from [Basu](<../../../../people/dunmari/basu.md>), with four rules:

@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 28 (DuFr)
 ---
 
-
 **(Monday, July 19th, 2021; in Taelgar, May 27th to May 29th)
 
 The session begins with the party still scattered across various hiding places, as the vaguely human creature known as [Samerki](<../../../people/other-nonhumans/samerki.md>) seemingly disappears. However, [Cintra](<../../../people/dunmari/cintra.md>) warns the party to stay put, as this creature has, in the past, disappeared for some time to lull interlopers into complacency and then descended again with a blast of cold to freeze and kill them. Sure enough, after some time passes the creature returns, invisible, chasing [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)’s shadow and seemingly not noticing anyone else. After a blast of cold air damages but does not kill the shadow, [Samerki](<../../../people/other-nonhumans/samerki.md>) grapples it, and flies above the canyon floor to drop it to its death, and then continues to circle, invisible but audible to [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)’s sharp ears. As he circles, he taunts [Cintra](<../../../people/dunmari/cintra.md>), and makes it clear that he is a servant of [Agata](<../../../people/fey/agata.md>) Dustmother.

@@ -14,7 +14,6 @@ pronunciation: Shun-dhun
 title: Shandan
 hide_toc: true
 ---
-
 # Shandan
 :speaker:{ .middle } *(Shun-dhun)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,7 +24,7 @@ hide_toc: true
     Leader of the Shandan's Warband  
     { .bio }
 
-    Based in the [plains of Songara](<../../gazetteer/greater-dunmar/dunmari-basin/songara-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in the plains of Songara, [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

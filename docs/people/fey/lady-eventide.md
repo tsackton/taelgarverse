@@ -11,7 +11,6 @@ whereabouts: Amberglow
 title: Lady Eventide
 hide_toc: true
 ---
-
 # Lady Eventide
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

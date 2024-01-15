@@ -9,7 +9,6 @@ typeOf: guild
 whereabouts: Skepwalk
 title: Ancient and Honorable Guild of Philosophers
 ---
-
 # The Ancient and Honorable Guild of Philosophers
 
 

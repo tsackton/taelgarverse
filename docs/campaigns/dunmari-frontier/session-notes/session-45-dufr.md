@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 45 (DuFr)
 ---
 
-
 **(Thursday, May 5th, 2022; in Taelgar, July 23rd - Aug 8th)
 
 We begin as [Kadmos](<../../../people/chardonians/kadmos.md>), [Casian](<../../../people/chardonians/casian.md>), and [Marcella](<../../../people/chardonians/marcella.md>) flee, leaving behind the party – near death – and a fire starting in the ruins of the temple, caused by the fireballs slung by [Casian](<../../../people/chardonians/casian.md>) in the fight. In desperation, the party scrambles to flee to safety, finding shelter near the abandoned mines about a half mile away from the city. Here, they spend the night, getting a much needed rest after the difficulties of the evening. 

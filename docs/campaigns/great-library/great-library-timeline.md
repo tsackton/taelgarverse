@@ -3,7 +3,6 @@ tags: [timeline, status/unknown]
 timelineDescriptor: Great Library Campaign
 title: Great Library Timeline
 ---
-
 - Feb 16, 1747 DR *(Great Library)*: Samso and Adrik meet on the road south of Chardon and retrieve a lost messenger bag from a messenger killed by bullywugs. 
 - Apr 04, 1747 DR *(Great Library)*: Samso, Brelith, Adrik, and Alton are attacked by goblins on the road to Voltara, and then meet Archivist Lyra at her camp. 
 - Apr 05, 1747 DR *(Great Library)*: Samso, Brelith, Adrik, and Alton find the Forge of Fire and recover the Flamekeeper Scroll from a kobold tribe.  

@@ -6,7 +6,6 @@ whereabouts: Kenzo
 title: Ring of Jumping
 hide_toc: true
 ---
-
 # The Ring of Jumping
 >[!info]+ Information
 > ([Drankorian](<../../../../history/drankorian-era/drankorian-empire.md>) magical ring)

@@ -12,16 +12,15 @@ whereabouts:
 title: Ninu
 hide_toc: true
 ---
-
 # Ninu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
     Born DR 1703 (46 years old)  
     { .bio }
 
-    Based in [Ko'zula village](<../../gazetteer/chasa-nahadi-watershed/ko-zula-village.md>)
+    Based in Ko'zula village
 </div>
 
 

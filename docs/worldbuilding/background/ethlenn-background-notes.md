@@ -3,7 +3,6 @@ tags: [background, status/needswork/notes]
 title: Ethlenn Background Notes
 ---
 
-
 ### Ethlenn and Umbraeth
 
 Umbraeth was originally a powerful courtier in Ethlenn's court - probably an archfey, but a weaker one. His nature is chaotic and deceitful, but he loved the glimmer and elegance of Twilight's Grace.

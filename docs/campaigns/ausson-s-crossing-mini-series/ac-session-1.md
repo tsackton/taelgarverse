@@ -6,7 +6,6 @@ fc-date: 05-16-1688
 title: AC - Session 1
 ---
 
-
 ### Session 1
 *in Taelgar, May 16th - May 17th 1688 (on Earth, September 11th, 2022)*
 

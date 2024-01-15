@@ -6,7 +6,6 @@ subTypeOf: boat
 title: Flaming Tempest
 hide_toc: true
 ---
-
 # The Flaming Tempest
 :octicons-info-24:{ .lg .middle } **Boat Vehicle**  
 

@@ -8,7 +8,6 @@ aliases: [Vosland]
 pronunciation: VOS-tok
 title: Vostok
 ---
-
 # Vostok
 :speaker:{ .middle } *(VOS-tok)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

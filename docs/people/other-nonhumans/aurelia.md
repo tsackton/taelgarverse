@@ -13,7 +13,6 @@ whereabouts:
 title: Aurelia
 hide_toc: true
 ---
-
 # Aurelia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

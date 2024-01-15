@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 57 (GL)
 ---
 
-
 March 8th - sell treasure to Quintus and Inectos
 March 9th - sell treasure 
 March 10th - cast Hallow with Fear effect, targeting anyone without permission to be in the manor; Adrik and rest get extradimensional vault

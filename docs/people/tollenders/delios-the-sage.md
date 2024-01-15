@@ -14,7 +14,6 @@ whereabouts: Tollen
 title: Delios the Sage
 hide_toc: true
 ---
-
 # Delios the Sage
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

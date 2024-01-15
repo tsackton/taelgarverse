@@ -6,7 +6,6 @@ created: 1651
 whereabouts: Barony of Aveil
 title: Manor of Cleenseau
 ---
-
 # The Manor of Cleenseau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

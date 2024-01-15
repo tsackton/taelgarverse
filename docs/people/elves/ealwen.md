@@ -14,7 +14,6 @@ whereabouts: Erelion
 title: Ealwen
 hide_toc: true
 ---
-
 # Ealwen
 :speaker:{ .middle } *(EY-ahl-wen)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -5,7 +5,6 @@ typeOf: material
 title: Inkaye
 hide_toc: true
 ---
-
 # Inkaye
 :octicons-info-24:{ .lg .middle } **Material**  
 

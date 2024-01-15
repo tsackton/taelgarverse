@@ -6,7 +6,6 @@ rarity: unique
 title: Staff of the Forest Soul
 hide_toc: true
 ---
-
 # The Staff of the Forest Soul
 >[!info]+ Information
 > (unique magical staff)

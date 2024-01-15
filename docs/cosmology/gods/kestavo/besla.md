@@ -2,7 +2,6 @@
 tags: [deity, religion/kestavo, status/unknown]
 title: Besla
 ---
-
 ### Besla
 *she/her*
 

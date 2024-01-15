@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 37 (DuFr)
 ---
 
-
 **(Monday, Jan 3rd, 2022; in Taelgar, July 2nd)
 
 Our session begins as the party opens the door at the end of the long tunnel, stepping into a room with four grotesque animal statues, all bizarre hybrids: a crab on a lion’s body, a goat head on a snake body, a snake head on a rearing wolf, and a bear-like creature with bat wings and axebeak legs. Although the initial strategy of total darkness fails as the statues can sense intruders in the dark, eventually they are defeated and the party begins to explore the lair.

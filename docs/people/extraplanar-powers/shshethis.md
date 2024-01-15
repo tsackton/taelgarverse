@@ -14,7 +14,6 @@ whereabouts:
 title: Sh’shethis
 hide_toc: true
 ---
-
 # Sh’shethis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -22,7 +21,7 @@ hide_toc: true
     An [elemental](<../../species/children-of-the-divine/elementals.md>)  
     { .bio }
 
-    Based in the [Elemental Plane of Air](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-air.md>), the [Energy Realms](<../../cosmology/multiverse/energy-realms/energy-realms.md>)
+    Based in the [Elemental Plane of Air](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-air.md>), the Energy Realms
 </div>
 
 

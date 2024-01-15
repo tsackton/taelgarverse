@@ -18,7 +18,6 @@ whereabouts:
 - {type: home, start: 1741-01-01, end: '', location: Khumarz}
 hide_toc: true
 ---
-
 # Commander Vorgaz
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

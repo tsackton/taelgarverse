@@ -13,7 +13,6 @@ died: 1719-11-05
 title: François the Bandit
 hide_toc: true
 ---
-
 # François the Bandit
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

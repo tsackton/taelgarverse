@@ -3,7 +3,6 @@ tags: [DuFr, status/unknown]
 title: Session 62 (DuFr)
 ---
 
-
 # Session 62
 
 **(Thursday, Jan 5th, 2023;  in Taelgar, Nov 15th 1748)**

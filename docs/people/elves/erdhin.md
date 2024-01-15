@@ -10,7 +10,6 @@ gender: male
 pronunciation: erd-HEEN
 hide_toc: true
 ---
-
 # Caretaker Erdhin
 :speaker:{ .middle } *(erd-HEEN)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -3,7 +3,6 @@ tags: [status/unknown, background]
 title: The Divine Order Notes
 ---
 
-
 **# The Nature of the Divine
 
 Gods in Taelgar are real, and many have an active presence in the world around them, although others are long faded, or unable to influence the world directly for various reasons. However, the metaphysical and magical nature of the Divine is complex. This document summarizes the creation of the world and the gods, the distinctions between various types of gods that exist in Taelgar, and briefly outlines major religions and creation stories of various races, although these are described in more detail in other places. The other planes are described elsewhere, as is the nature of magic in the material plane. 

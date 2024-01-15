@@ -14,7 +14,6 @@ whereabouts:
 title: Diesla Starsearcher
 hide_toc: true
 ---
-
 # Diesla Starsearcher
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

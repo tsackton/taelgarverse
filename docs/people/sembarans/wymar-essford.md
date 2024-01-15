@@ -16,7 +16,6 @@ affiliations:
 whereabouts: Cleenseau
 hide_toc: true
 ---
-
 # Lord Wymar Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

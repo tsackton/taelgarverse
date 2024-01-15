@@ -17,7 +17,6 @@ whereabouts:
 title: Nika Hyne
 hide_toc: true
 ---
-
 # Nika Hyne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

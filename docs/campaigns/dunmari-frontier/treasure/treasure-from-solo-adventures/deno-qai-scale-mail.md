@@ -13,7 +13,6 @@ whereabouts:
 title: Deno'qai Scale Mail
 hide_toc: true
 ---
-
 # Deno'qai Scale Mail
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Uncommon Magical Armor__  
@@ -23,7 +22,7 @@ hide_toc: true
 </div>
 
 
-A suit of scale mail armor, subtly designed with [tanshi](<../../../../cosmology/religions/tanshi.md>) motifs, and lightweight enough to be worn under winter gear. It has green and blue highlights, but is otherwise muted brown.
+A suit of scale mail armor, subtly designed with tanshi motifs, and lightweight enough to be worn under winter gear. It has green and blue highlights, but is otherwise muted brown.
 
 This armor was created during the [Great War](<../../../../events/1500s/great-war.md>) for the Deno'qai hero [Balati](<../../../../people/historical-figures/balati.md>), and later gifted to [Delwath](<../../../../people/pcs/dunmar-fellowship/delwath.md>) of the [Dunmar Fellowship](<../../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) while he was on a quest to free lost tanshi who had been trapped during the [Great War](<../../../../events/1500s/great-war.md>). 
 

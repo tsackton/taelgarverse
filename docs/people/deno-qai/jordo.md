@@ -14,12 +14,11 @@ whereabouts:
 title: Jordo
 hide_toc: true
 ---
-
 # Jordo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
     b. DR 1672 - d. DR 1744, died at age 72 years  
     { .bio }
 

@@ -18,7 +18,6 @@ whereabouts:
 title: Ames Benthey
 hide_toc: true
 ---
-
 # Ames Benthey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -26,7 +25,7 @@ hide_toc: true
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1675 (74 years old)  
     Captain of the [Lord's Guard of Cleenseau](<../../groups/sembaran-political-units/lord-s-guard-of-cleenseau.md>)  
-    Guard Captain of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)  
+    Guard Captain of the Essfords  
     { .bio }
 
     Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)

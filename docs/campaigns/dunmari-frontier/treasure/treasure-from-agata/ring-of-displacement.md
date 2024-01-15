@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Ring of Displacement
 ---
 
-
 [Mechanics](https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement)
 
 An unadorned ring of made of three entwined golden braids, that radiates illusion magic. Probably of Drankorian make. 

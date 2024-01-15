@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Guy de Varan's Story
 ---
 
-
 His story continues in this vain for some time, but you are able to decipher it as follows:
 
 This past summer, in July and August, there were some rumors of [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) raiders coming out of the foothills to the west and raiding along [Bandit's Way](<../../../gazetteer/greater-sembara/roads/bandit-s-way.md>), but this is the type of thing that happens now and then and usually the Duke of [Maseau](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), or the [Army of the West](<../../../groups/sembaran-army/army-of-the-west.md>) in Sembara will raise a expeditionary force and go hunt them down before it becomes a real problem. Guy has no idea why this didn't happen, but by early September, the rumors stopped and things seemed to have quieted down. So Guy didn't think much of it. 

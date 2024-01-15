@@ -3,7 +3,6 @@ tags: [status/unknown, session-note]
 title: Session 6 (DuFr)
 ---
 
-
 **(Thursday, August 6th, 2020; in Taelgar, afternoon April 4, to dawn April 7th, )
 
 As the session opens, the party has just left the council meeting, and rumors are starting to circulate around [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) that evil is afoot in the wilds. [Havdar](<../../../people/dunmari/havdar.md>) has started to circulate among the people, recruiting those who can ride and fight; the celebratory atmosphere of the fair and games is fading as news and rumor spreads. 

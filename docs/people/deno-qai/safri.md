@@ -13,12 +13,11 @@ whereabouts:
 title: Safri
 hide_toc: true
 ---
-
 # Safri
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Deno'qai](<../../groups/deno-qai/deno-qai.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
     { .bio }
 
     Originally from: Unknown

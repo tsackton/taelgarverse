@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Session 66 (DuFr)
 ---
-
 *in which the party journeys into the mountains to find a phasing stone*
 
 **In the real world:** Thursday, March 2nd, 2023

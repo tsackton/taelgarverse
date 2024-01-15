@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 43 (DuFr)
 ---
 
-
 **(Friday, March 25th, 2022; in Taelgar, July 19th - July 23rd)
 
 We begin as the party departs the caravanserai and small settlement at the crossroads where the [Tokra-Darba Road](<../../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>) branches west and south from the [~AncientWestRoad~](<../../../gazetteer/greater-dunmar/roads/ancientwestroad.md>). The first day of travel passes uneventfully, despite the mud and rain, more noticeable now off the ancient Drankorian roads that seem impervious to bad weather.

@@ -11,7 +11,6 @@ whereabouts:
 title: Legendary Gates of Kenzo
 hide_toc: true
 ---
-
 # The Legendary Gates of Kenzo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Book__  

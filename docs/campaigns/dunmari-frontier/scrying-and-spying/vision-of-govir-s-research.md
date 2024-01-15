@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Vision of Govir's Research
 ---
-
 Govir is sitting in the Archives, reading. He has written a letter, and has spread it out over four pages of text on his desk, clearly visible and easy to read. 
 
 In the letter:

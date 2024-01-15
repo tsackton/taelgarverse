@@ -6,7 +6,6 @@ name: Session 42 (DuFr)
 title: Session 42 (DuFr)
 ---
 
-
 # Session 42
 
 **In the real world:** March 13, 2022

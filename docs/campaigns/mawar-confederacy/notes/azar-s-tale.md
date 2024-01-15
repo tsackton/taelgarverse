@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Azar's Tale
 ---
 
-
 Some time later, he learned of Airion. He doesn't remember exactly how, or from who. But he took the knife and went into the mountains, hoping to learn more and maybe find answers. The time in the mountains is mostly a blank; he remembers the dreams more clearly than his waking moments, and the strength of Gazankoa flowing through him, saving him many times. 
 
 A few months ago, he emerged in Medin, carrying with him several items of Airion's treasure. Three books of notes and lore; a ring that could bind a genie and command a service of it; and a brass bowl that could be used to control water and water elementals, somehow. He poured over the notes and books, and learned of Yi'weti, a substance Airion claimed was sentient, living water. Realizing that this could make the resurrection ritual work, he sought more information, but kept coming to dead ends, until eventually he screwed up his resolve to try the ring. It worked better than he could have hoped. With a need for speed and secrecy, he asked Gazankoa for aid, and was promised a boat that would be hard to see and could pass through dangers on the water with ease. He won't speak of the sacrifices he made to Gazankoa to get the boat, but says that it is tainted with blood and should be destroyed.

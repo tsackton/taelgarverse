@@ -10,7 +10,6 @@ partOf: Labkhan
 destroyed: 1545
 title: Ardith
 ---
-
 # Ardith
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

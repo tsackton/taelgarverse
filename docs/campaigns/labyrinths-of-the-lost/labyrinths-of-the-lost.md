@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Labyrinths of the Lost
 ---
 
-
 The *Labyrinths of the Lost* is a 3-4 session, D&D 5e adventure set in the world of Taelgar, my homebrew setting. 
 
 [Western Cymea](<../../gazetteer/western-green-sea/cymea/western-cymea.md>) is a frontier these days, a place of small strongholds, fortified market towns, and ancient ruins recalling a richer past. This part of the world is a land of rushing, rocky rivers between the [Plataca Hills](<../../gazetteer/western-green-sea/cymea/plataca-hills.md>) and the [Western Gulf](<../../gazetteer/western-green-sea/western-gulf.md>), of mild winters and warm summers, of cattle and wine. Historically, it was a place where piracy and banditry thrived, but over the past few generations, a series of campaigns by the powerful Tollender navy stamped out the worst of the piracy. Now, [Western Cymea](<../../gazetteer/western-green-sea/cymea/western-cymea.md>) is functionally a protectorate of [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), sending aimless youth to work the Tollender ships that ply [the Green Sea](<../../gazetteer/green-sea.md>). 

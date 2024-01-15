@@ -7,7 +7,6 @@ aliases: [Charmheart]
 typeOf: family
 title: Charmhearts
 ---
-
 # The Charmhearts
 
 The Charmhearts are a prominent family of [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) overland traders. They trace their history to [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), but for the past several generations they have made their living on long distance trade, bringing spices, furs, and dyed cloth from [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) to [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), as well as sometimes apple brandy from [Adderfell](<../../gazetteer/greater-sembara/addermarch/adderfell.md>). 

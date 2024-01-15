@@ -7,8 +7,7 @@ summary: An agreement between the Emperor Goristo and the Archfey Ethlenn to est
 DR: 423
 title: Treaty of Tyrwingha
 ---
-
 # The Treaty of Tyrwingha
 
-An agreement between the [Goristo](<../../../people/historical-figures/drankorian-emperors/goristo.md>) and the [Archfey Ethlenn](<../../../people/extraplanar-powers/archfey-ethlenn.md>) signed in DR 423.
+An agreement between the Goristo and the [Archfey Ethlenn](<../../../people/extraplanar-powers/archfey-ethlenn.md>) signed in DR 423.
 

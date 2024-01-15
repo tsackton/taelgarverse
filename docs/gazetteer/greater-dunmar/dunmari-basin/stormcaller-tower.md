@@ -9,7 +9,6 @@ typeOf: tower
 partOf: Eastern Dunmar
 title: Stormcaller Tower
 ---
-
 # Stormcaller Tower
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  

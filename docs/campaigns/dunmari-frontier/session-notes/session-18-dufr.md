@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 18 (DuFr)
 ---
 
-
 **(Friday, Feb 5th, 2021; in Taelgar, afternoon of April 24th)
 
 We open in a bare room, the party, [Candrosa](<../../../people/dunmari/candrosa.md>), and [Alesh](<../../../people/dunmari/alesh.md>) clustered around a map, discussing the gnolls, what [Alesh](<../../../people/dunmari/alesh.md>) found in the south, the events at [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), and [Agata](<../../../people/fey/agata.md>) Dustmother. The conversation is wide-ranging, touching on many subjects.

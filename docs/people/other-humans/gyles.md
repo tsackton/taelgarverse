@@ -10,7 +10,6 @@ gender: male
 title: Gyles
 hide_toc: true
 ---
-
 ## Gyles
 
 Older man, Arryn’s steward. 

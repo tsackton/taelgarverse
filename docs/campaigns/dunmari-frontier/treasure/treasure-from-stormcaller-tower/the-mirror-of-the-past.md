@@ -10,7 +10,6 @@ ddbLink: https://www.dndbeyond.com/magic-items/2739459-eudomes-mirror
 aliases: [Eudomes' Mirror]
 hide_toc: true
 ---
-
 # Eudomes' Mirror of the Past
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Very Rare Mirror__  

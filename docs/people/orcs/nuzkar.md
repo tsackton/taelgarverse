@@ -13,7 +13,6 @@ whereabouts:
 title: Nuzkar
 hide_toc: true
 ---
-
 # Nuzkar
 :speaker:{ .middle } *(NUZ-car)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

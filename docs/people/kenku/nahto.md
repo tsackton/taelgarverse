@@ -12,19 +12,18 @@ whereabouts:
 title: Nahto
 hide_toc: true
 ---
-
 # Nahto
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An Islander [kenku](<../../species/unusual-species/kenku/kenku.md>) (he/him)  
+    An Islander kenku (he/him)  
     Born DR 1700 (49 years old)  
     { .bio }
 
-    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), [~Eastern Islands~](<../../gazetteer/eastern-green-sea/eastern-islands.md>)
+    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), ~Eastern Islands~
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of October 14th, 1748): [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), [~Eastern Islands~](<../../gazetteer/eastern-green-sea/eastern-islands.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of October 14th, 1748): [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), ~Eastern Islands~
 
 
 Kenku man in late middle age. Tinkerer, traveler, explorer; Nahto wanders over the islands of the Eastern [Green Sea](<../../gazetteer/green-sea.md>) with his partner, Skoda. 

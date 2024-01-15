@@ -6,7 +6,6 @@ timelineDescriptor: Dunmari Frontier Campaign
 title: Dunmari Frontier Timeline
 ---
 
-
 - Aug 02, 1747 DR *(Dunmari Frontier)*: Wellby leaves Semabara, heading south. Spends some time wandering.
 - Aug 17, 1747 DR *(Dunmari Frontier)*: Delwath teleports from the shadow realm, arriving near Kharsan, witless and wild.
 - Aug 19, 1747 DR *(Dunmari Frontier)*: Delwath found wandering by Pava and Avaras west of Kharsan, taken in.

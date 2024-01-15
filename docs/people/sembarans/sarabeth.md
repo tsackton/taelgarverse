@@ -17,7 +17,6 @@ whereabouts:
 title: Sarabeth
 hide_toc: true
 ---
-
 # Sarabeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -25,7 +24,7 @@ hide_toc: true
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
     Born DR 1686 (63 years old)  
     Guardswoman of the [Lord's Guard of Cleenseau](<../../groups/sembaran-political-units/lord-s-guard-of-cleenseau.md>) (since DR 1717)  
-    Soldier of the [Dunfry Regiment](<../../groups/sembaran-army/dunfry-regiment.md>) (until DR 1716)  
+    Soldier of the Dunfry Regiment (until DR 1716)  
     { .bio }
 
     Originally from: [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>), the [Barony of Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/barony-of-dunfry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

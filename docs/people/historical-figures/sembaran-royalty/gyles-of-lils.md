@@ -13,7 +13,6 @@ affiliations:
 title: Gyles
 hide_toc: true
 ---
-
 # Gyles
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

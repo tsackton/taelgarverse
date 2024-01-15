@@ -14,7 +14,6 @@ affiliations:
 - {org: House of Sewick, type: primary}
 hide_toc: true
 ---
-
 # Queen Charlotte II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

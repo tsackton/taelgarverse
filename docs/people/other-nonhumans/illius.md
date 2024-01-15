@@ -11,12 +11,11 @@ gender: nonbinary
 title: Illius
 hide_toc: true
 ---
-
 # Illius
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [merfolk](<../../species/unusual-species/merfolk/merfolk.md>) (they/them)  
+    A merfolk (they/them)  
     { .bio }
 
 </div>

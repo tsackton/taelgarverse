@@ -17,12 +17,11 @@ whereabouts:
 title: Harol Silversong
 hide_toc: true
 ---
-
 # Harol Silversong
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Silversongs](<../../groups/halfling-families/silversongs.md>)  
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Silversongs  
     Captain of the [Emerald Song](<../../things/ships/emerald-song.md>)  
     { .bio }
 

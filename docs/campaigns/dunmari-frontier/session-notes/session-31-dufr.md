@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 31 (DuFr)
 ---
 
-
 **(Friday, Sept 24th, 2021; in Taelgar, June 4th to June 8th)
 
 Our session begins at dusk, as the party establishes camp in a small canyon about 1 ½ miles north of [Agata's lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>). After an evening discussing the freed prisoners, the mirror, and what to do with [Agata](<../../../people/fey/agata.md>)’s loot and lair, the party drifts off to rest, with [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) on watch. [Garret Tealeaf](<../../../people/halflings/garret-tealeaf.md>), the elderly halfling, wanders over to talk for a bit, reiterating his fear of the magic from [Agata](<../../../people/fey/agata.md>)’s house, and starting to open up about his experiences as [Agata](<../../../people/fey/agata.md>)’s servant, especially the terrible screams he would hear from the hut at times, when a band of [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) attacks by surprise.

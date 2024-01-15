@@ -17,12 +17,11 @@ whereabouts:
 title: Lerry Wildheart
 hide_toc: true
 ---
-
 # Lerry Wildheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Wildhearts](<../../groups/halfling-families/wildhearts.md>)  
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Wildhearts  
     Quartermaster of the [Wave Dancer](<../../things/ships/wave-dancer.md>) (since DR 1746)  
     { .bio }
 

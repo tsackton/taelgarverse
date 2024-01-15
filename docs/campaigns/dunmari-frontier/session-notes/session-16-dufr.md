@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 16 (DuFr)
 ---
 
-
 **(Friday, Jan 8th, 2021; in Taelgar, evening April 15th through morning April 16th)
 
 Standing in a shattered room at the top of an [ancient tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), we begin with our heroes confronting a massive storm giant, laying chained and manacled to the ground in front of them. Clothed in tattered robes, with long, shaggy hair and weathered features, the most notable fact about this storm giant, [Hralgar](<../../../people/giants/hralgar.md>), is that he is missing his [eyes](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>). 

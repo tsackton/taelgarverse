@@ -7,7 +7,6 @@ mundane: true
 title: Ivory Scroll Cap
 hide_toc: true
 ---
-
 # Ivory Scroll Cap
 >[!info]+ Item Info
 >(mundane scroll case)

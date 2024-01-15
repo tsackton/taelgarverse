@@ -10,7 +10,6 @@ whereabouts:
 title: Enchiridion of the Occulta Ludum
 hide_toc: true
 ---
-
 # The Enchiridion of the Occulta Ludum
 >[!info]+ Information
 > (magical book)

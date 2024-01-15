@@ -6,7 +6,6 @@ typeOf: forest
 partOf: Ainumarya
 title: Forest of Dreams
 ---
-
 # The Forest of Dreams
 >[!info]+ Information
 > A  place in [Ainumarya](<./ainumarya.md>), [Central Highlands Region](<../sentinel-range/central-highlands-region.md>)

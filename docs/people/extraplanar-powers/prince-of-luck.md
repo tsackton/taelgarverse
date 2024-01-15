@@ -11,7 +11,6 @@ aliases: [Chanceweaver]
 title: Prince of Luck
 hide_toc: true
 ---
-
 # Prince of Luck
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

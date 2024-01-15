@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 26 (DuFr)
 ---
 
-
 **(Tuesday, June 1st, 2021; in Taelgar, May 23rd to May 24th)
 
 We begin as [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) approach [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from the south road as the sun begins to sink in the sky, after five days of travel across the desert from [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>) to the east. As they approach [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), a patrol of [Centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>) and Dunmari intercept them, glad to see the party return safe from the desert. [Candrosa](<../../../people/dunmari/candrosa.md>) would urgently like to speak with them, and so the party follows into [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 

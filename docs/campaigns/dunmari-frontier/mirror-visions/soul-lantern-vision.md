@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Soul Lantern Vision
 ---
 
-
 The mirror fades to black, and then clears, showing the inside of [Agata](<../../../people/fey/agata.md>)’s hut. Kneeling on the ground are two [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>), bruised and battered and stripped to rags. [Agata](<../../../people/fey/agata.md>) is speaking, probably yelling, at them, and then [Samerki](<../../../people/other-nonhumans/samerki.md>) steps in, his giant spiked club over his shoulder, and swings and bashes their heads in. As the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) die, [Agata](<../../../people/fey/agata.md>) chants briefly.
 
 The scene flickers, and a new scene appears. The scene is the same -- [Agata's lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>) -- but this time, there is a human standing in front of [Agata](<../../../people/fey/agata.md>), hands tied. [Agata](<../../../people/fey/agata.md>) is berating him, and then reaches to her belt, draws a knife, and slits his throat. Again, [Agata](<../../../people/fey/agata.md>) chants and makes a symbol with her hands. 

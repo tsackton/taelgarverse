@@ -15,7 +15,6 @@ whereabouts:
 title: Mermin Stonebridge
 hide_toc: true
 ---
-
 # Mermin Stonebridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

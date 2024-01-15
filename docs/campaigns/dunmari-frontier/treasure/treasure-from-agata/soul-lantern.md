@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Soul Lantern
 ---
 
-
 This hooded lantern seems to constantly murmur and moan in a strange language just faint enough to not be clearly heard, and radiates necromancy magic. 
 
 Seen in [The Mirror of the Past](<../treasure-from-stormcaller-tower/the-mirror-of-the-past.md>): [Soul Lantern Vision](<../../mirror-visions/soul-lantern-vision.md>)

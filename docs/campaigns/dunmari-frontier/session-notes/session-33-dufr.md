@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 33 (DuFr)
 ---
 
-
 **(Sunday, Oct 24th, 2021; in Taelgar, June 20th to June 30th)
 
 The session starts as the party leaves [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), heading west for [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), traveling with [Garret Tealeaf](<../../../people/halflings/garret-tealeaf.md>), a horse-drawn cart laden with food and water and a false bottom hiding their magical mirrors, plus their horses and gear. The first day passes uneventfully along the open terrain, heading to connect with the ancient Drankorian trade road that runs east and west across northern [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). There is light traffic passing through the desert, everybody eager to return to their normal lives. By the evening of the second day of travel, [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>) had recharged enough to be used, and the party used it to look at the [Floating Disc Coin](<../treasure/treasure-from-dunmari-ruins/floating-disc-coin.md>) found near the petrified form of [Arcus](<../../../people/chardonians/arcus.md>) in the fort east of [Gomat](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>), seeing a [vision of its history](<../mirror-visions/floating-disc-coin-vision.md>).

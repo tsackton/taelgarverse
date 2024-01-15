@@ -10,7 +10,6 @@ whereabouts:
 title: Herasto
 hide_toc: true
 ---
-
 # Herasto
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
@@ -21,6 +20,6 @@ hide_toc: true
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in the [Voltara Plains](<../../gazetteer/west-coast/chardonian-empire/northern-frontier/voltara-plains.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+:octicons-location-24:{ .lg .middle } Currently in the Voltara Plains, the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 
 

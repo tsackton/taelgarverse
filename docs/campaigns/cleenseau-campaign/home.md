@@ -4,7 +4,6 @@ hide: [toc, navigation]
 title: Home
 ---
 
-
 This website is the campaign bible for the Cleenseau Campaign, a set in the world of Taelgar, a magical shared world developed by my brother and I. 
 
 Please note that some information here is intended to be for certain players only. That information will be in a spoiler warning block, like so:

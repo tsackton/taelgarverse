@@ -6,7 +6,6 @@ name: Destruction of the Werewolf Cult
 DR: 1748-07-03
 title: Destruction of the Werewolf Cult
 ---
-
 # Destruction of the Werewolf Culf
 
 (stub)

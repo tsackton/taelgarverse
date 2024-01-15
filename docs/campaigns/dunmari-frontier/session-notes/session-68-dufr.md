@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Session 68 (DuFr)
 ---
-
 *in which the party repairs the skyship [Vindristjarna](<../../../things/ships/vindristjarna.md>)
 
 **In the real world:** Thursday, March 30th, 2023

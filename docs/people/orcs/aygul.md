@@ -13,7 +13,6 @@ whereabouts:
 title: Aygul
 hide_toc: true
 ---
-
 # Aygul
 :speaker:{ .middle } *(EYE-gool)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

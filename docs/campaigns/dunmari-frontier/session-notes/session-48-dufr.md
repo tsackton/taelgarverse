@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 48 (DuFr)
 ---
 
-
 **(Thursday, June 22nd, 2022; in Taelgar, Aug 21st - Aug 22nd)**
 
 We begin as the [Emerald Song](<../../../things/ships/emerald-song.md>) arrives at [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), and the party recalls the two items they looked at in the mirror during the voyage, first the [vision](<../mirror-visions/raven-whistle-vision.md>) of the [Raven Whistle](<../treasure/treasure-from-agata/raven-whistle.md>), next the [vision](<../mirror-visions/chardon-fan-vision.md>) of [Agata](<../../../people/fey/agata.md>)'s [Chardon Fan](<../treasure/treasure-from-agata/chardon-fan.md>). 

@@ -19,7 +19,6 @@ whereabouts:
 title: Antonia
 hide_toc: true
 ---
-
 # Antonia
 :speaker:{ .middle } *(An-ton-ia)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

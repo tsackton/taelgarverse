@@ -8,7 +8,6 @@ player: Mike Sackton
 title: Willow Wind
 hide_toc: true
 ---
-
 ### Willow Wind
 
 A mystical fox spirit, the companion of [Beryl](<../beryl.md>)

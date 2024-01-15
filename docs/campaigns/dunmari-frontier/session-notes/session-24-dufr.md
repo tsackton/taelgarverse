@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 24 (DuFr)
 ---
 
-
 **(Thursday, May 6th, 2021; in Taelgar, May 11th to May 13th)**
 
 We begin as the party leaves the tower attached to the [Hall of Stories](<../../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>) in the evening, as the long shadows begin to stretch across the desert, heading to investigate the Temple of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) at the [monastery](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>). As they approach, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) sees a warning that no one else can sense, but despite the warning the party cautiously enters the temple. 

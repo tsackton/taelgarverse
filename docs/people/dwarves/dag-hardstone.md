@@ -13,7 +13,6 @@ whereabouts: Tokra
 title: Dag Hardstone
 hide_toc: true
 ---
-
 # Dag Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

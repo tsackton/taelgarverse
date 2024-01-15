@@ -18,7 +18,6 @@ whereabouts:
 - {type: home, start: 1738, end: '', location: Nayahar}
 hide_toc: true
 ---
-
 # Samraat Nayan Karnas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

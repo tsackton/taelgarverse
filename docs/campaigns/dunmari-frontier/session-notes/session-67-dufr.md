@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Session 67 (DuFr)
 ---
-
 *in which the party retrieves the phasing stone from the Dreamworld*
 
 **In the real world:** Friday, March 17th, 2023

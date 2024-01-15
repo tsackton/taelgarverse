@@ -11,7 +11,6 @@ player:
 title: Mikasa
 hide_toc: true
 ---
-
 <% tp.user.generateHeader(tp) %>
 ## Mikasa
 (she/her)

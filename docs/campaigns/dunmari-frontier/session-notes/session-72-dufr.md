@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Session 72 (DuFr)
 ---
-
 *in which Kadmos is defeated*
 
 **In the real world:** Thursday, June 1st, 2023

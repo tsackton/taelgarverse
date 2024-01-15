@@ -16,7 +16,6 @@ whereabouts:
 - {type: home, start: 1743, location: Tollen}
 hide_toc: true
 ---
-
 # Laivan Iskra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

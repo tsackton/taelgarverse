@@ -15,7 +15,6 @@ whereabouts:
 - {type: home, start: 1719-11-16, location: Taviose}
 hide_toc: true
 ---
-
 # Sergeant Odo Cordwaner
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

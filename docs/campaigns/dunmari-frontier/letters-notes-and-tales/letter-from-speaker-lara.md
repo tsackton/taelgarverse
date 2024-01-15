@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Letter from Speaker Lara
 ---
 
-
 Dear [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>),
 
 The blessings of [Laka](<../../../cosmology/gods/incorporeal-gods/dunmari/laka.md>) be with you, and may his divine grace guide my words to your hand. Your long silence has weighed heavily on my mind, and when I heard that [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) was in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), and was assured of your continued presence among the living, I was grateful, taking the opportunity to pass on what news I can.

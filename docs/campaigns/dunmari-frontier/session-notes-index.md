@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session Notes Index
 ---
 
-
 - [Session 1 (DuFr)](<session-notes/session-1-dufr.md>)
 - [Session 2 (DuFr)](<session-notes/session-2-dufr.md>)
 - [Session 3 (DuFr)](<session-notes/session-3-dufr.md>)

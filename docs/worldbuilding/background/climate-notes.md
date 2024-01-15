@@ -3,7 +3,6 @@ tags: [background]
 title: Climate Notes
 ---
 
-
 It makes heavy use of the [Köppen Climate Classification](https://www.mindat.org/climate.php)
 
 Some classifications of common places:

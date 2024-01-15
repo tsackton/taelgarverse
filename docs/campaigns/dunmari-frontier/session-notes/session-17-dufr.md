@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 17 (DuFr)
 ---
 
-
 **(Friday, Jan 22nd, 2021; in Taelgar, April 16th through April 24th)**
 
 Bone tired from a night of stumbling through the mists, fog, rain, and thunder of [Hralgar](<../../../people/giants/hralgar.md>)’s storm, we open on the party, resting over a late breakfast, [telling stories of their childhood](https://www.youtube.com/watch?v=j6k6EcUUBuQ). [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), about his brother who vanished after an accident with a strange divination machine of his invention; [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), about cooking for his elders as rumors of darkness spread in the world outside; [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), about the hard life of poor street kids growing up in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>); and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), about being at home on the road and the stories his great-grandfather told. As these stories finish, the conversation turns to the events of the past month, as the party starts to puzzle over the mysteries they have experienced, and speculate on answers. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) records much of the conversation in his journal, and a few answers perhaps emerge.

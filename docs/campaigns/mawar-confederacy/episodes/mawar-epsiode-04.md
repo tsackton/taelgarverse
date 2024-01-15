@@ -8,7 +8,6 @@ DR_end: 1747-11-09
 players: [Ryu, Nerissa, Ander]
 title: Mawar Epsiode 04
 ---
-
 # Episode 4: The Chained Beast
 *In which [Ander](<../../../people/pcs/mawar-confederacy/ander.md>), [Nerissa](<../../../people/pcs/mawar-confederacy/nerissa.md>), and [Ryu](<../../../people/pcs/mawar-confederacy/ryu.md>) battle steam creatures and fire cultists to save a captive dragon turtle.*
 

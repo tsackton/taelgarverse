@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 50 (DuFr)
 ---
 
-
 #### Part 1 
 **(Thursday, July 21st, 2022; in Taelgar, Aug 24th - Aug 29th)**
 

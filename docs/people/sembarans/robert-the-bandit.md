@@ -11,7 +11,6 @@ died: 1719
 title: Robert
 hide_toc: true
 ---
-
 # Robert
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

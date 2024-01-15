@@ -15,7 +15,6 @@ whereabouts:
 title: Raoul Bûcheron
 hide_toc: true
 ---
-
 # Raoul Bûcheron
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

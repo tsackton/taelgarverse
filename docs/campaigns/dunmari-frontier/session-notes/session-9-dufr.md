@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 9 (DuFr)
 ---
 
-
 **(Friday, September 18th, 2020; in Taelgar, afternoon on April 12th)**
 
 As our session begins underneath the mountains, across the dusty plains and deserts of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), people are moving. In the west, a tired mass of refugees flees [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), hopefully now nearing the River [Hara](<../../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>) and the outskirts of [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). To the south, [Alesh](<../../../people/dunmari/alesh.md>) and her small group of companions ride quickly and quietly through the deserts, hopefully avoiding danger along the way as they try to learn what lurks in the ruins of [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) and beyond. In [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), the acolytes and initiates of the [Shakun Mystai](<../../../groups/dunmari-mystery-cults/shakun-mystai.md>) remain holed up in the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), as [Centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>) ride fast towards them, bringing news, and perhaps aid in battle, should it be needed, and not too late already.

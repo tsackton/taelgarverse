@@ -10,7 +10,6 @@ whereabouts:
 - {type: home, location: Central Dunmar}
 title: Askandi
 ---
-
 # Askandi
 :speaker:{ .middle } *(uh-SKUN-dee)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

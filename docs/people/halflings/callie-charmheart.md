@@ -20,7 +20,6 @@ whereabouts:
 title: Callie Charmheart
 hide_toc: true
 ---
-
 # Callie Charmheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

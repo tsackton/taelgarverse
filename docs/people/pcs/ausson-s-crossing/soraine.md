@@ -11,7 +11,6 @@ player: Matt Rand
 title: Soraine
 hide_toc: true
 ---
-
 # Soraine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

@@ -9,7 +9,6 @@ whereabouts:
 title: Crown of Purity
 hide_toc: true
 ---
-
 # The Crown of Purity
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Crown__  

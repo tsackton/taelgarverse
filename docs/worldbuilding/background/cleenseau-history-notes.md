@@ -3,7 +3,6 @@ tags: [status/unknown, background]
 title: Cleenseau History Notes
 ---
 
-
 ### Before Drankor
 The town of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) is chiefly famous for an enormous stone bridge crossing the [Enst](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst.md>). This bridge is wide enough for 4 carts and runs straight and smooth and high over the river, and even in the worst storms and floods it has never been damaged.
 

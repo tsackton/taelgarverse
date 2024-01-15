@@ -2,7 +2,6 @@
 tags: [status/unknown]
 title: Caulaus' Story
 ---
-
 (as told to [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Session 61 (DuFr)](<../session-notes/session-61-dufr.md>))
 
 I was the only child, much to my parents disappointment. I don't remember much of my childhood schooling, military training.

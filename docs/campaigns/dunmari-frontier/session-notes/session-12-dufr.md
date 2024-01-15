@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 12 (DuFr)
 ---
 
-
 **(Sunday, Nov 8th, 2020; in Taelgar, morning April 13th)
 
 We begin as the morning sun rises over [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). As the party awakens and prepares for the day, they are interrupted as [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) note the approach of a band of gnolls, heading towards the closed gate. They are traveling with a small bat-like demon, and moving quickly across the courtyard, past pools of fetid black water, avoiding the low hanging mists lingering in the air. As they approach the gate, they bang on it a few times, and there seems to be a brief discussion as the leader reaches for a spear, when [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)’s arrow flies out of the windows on the tower, striking the demon-beast dead.
@@ -18,7 +17,7 @@ In the ruins of the stables, many dozens of animals are penned in, probably clos
 
 In the ruins of the outbuildings of [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) glance about without doing a careful search, but still note some important clues. Between the courtyard with the dark pools of water and the parade grounds / plaza, are two large buildings, seemingly once barracks, storerooms, and mess halls for troops. Both are in somewhat poor condition. The building to the east, against the cliffs of the mountains, seems to have been burned at one point, as the second floor is largely in ruins, scorch marks blasted across the stone walls and the roof collapsed. The first floor of this building, though, may have been used as sleeping quarters by the gnolls. 
 
-The building to the west, against the outer walls, is more intact, and retains signs of former hobgoblin occupation. The second floor has a large open mess hall, probably used as a training and council room by [Hobgoblins](<../../../species/goblinoids/hobgoblins.md>). In this room, a number of crates are piled up, seemingly full of weapons and armor. On the lower floor, a number of empty storerooms are found, along with one room with a chain and lock blocking entry.
+The building to the west, against the outer walls, is more intact, and retains signs of former hobgoblin occupation. The second floor has a large open mess hall, probably used as a training and council room by Hobgoblins. In this room, a number of crates are piled up, seemingly full of weapons and armor. On the lower floor, a number of empty storerooms are found, along with one room with a chain and lock blocking entry.
 
 The leader of the gnolls, dead in the outer courtyard, is carrying a few items of note. First, his [spear](<../treasure/treasure-from-raven-s-hold/spear-of-the-war-leader.md>), while filthy and covered in blood, seems to be well made and of Dunmari origin, as beneath the grime the running horse design can be seen. Also, around his neck is a chain with a [small metal vial](<../treasure/treasure-from-raven-s-hold/vial-of-acid-gnoll-leader.md>), which seems to be full of some acrid, hissing liquid. 
 

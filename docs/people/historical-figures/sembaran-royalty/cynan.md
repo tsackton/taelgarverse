@@ -13,7 +13,6 @@ reignStart: 1571
 died: 1589
 hide_toc: true
 ---
-
 # King Cynan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

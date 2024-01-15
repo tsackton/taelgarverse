@@ -14,7 +14,6 @@ rarity:
 title: Mirror of Soul Trapping
 hide_toc: true
 ---
-
 # The Mirror of Soul Trapping
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Mirror__  

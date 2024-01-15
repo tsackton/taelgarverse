@@ -2,7 +2,6 @@
 tags: ['#event-source', status/unknown]
 title: Flaming Tempest Log Books
 ---
-
 # Flaming Tempest Logs
 
 The log books of the Flaming Tempest. Wellby, using his experience in navigation, was able to reconstruct the path of the Flaming Tempest based on these logs, to roughly the following:

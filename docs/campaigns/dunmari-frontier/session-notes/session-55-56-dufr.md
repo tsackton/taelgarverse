@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 55 56 (DuFr)
 ---
 
-
 ## Timeline
 **Sept 30**: Arrive in the jungles far to the east; meet [Elazar](<../../../people/lizardfolk/elazar.md>); travels to lizardfolk village of [Bedez](<../../../gazetteer/far-south/bedez.md>)
 **Oct 1 - Oct 25**: Spend time with [Elazar](<../../../people/lizardfolk/elazar.md>) in the village, learning the language and about the spirit realms

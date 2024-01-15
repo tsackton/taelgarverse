@@ -2,7 +2,6 @@
 tags: [deity, religion/kestavo, status/unknown]
 title: Kamak
 ---
-
 # Kamak
 *he/him*
 

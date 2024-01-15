@@ -4,7 +4,6 @@ tags: [status/unknown]
 title: Session 44 (DuFr)
 ---
 
-
 **(Thursday, April 14th, 2022; in Taelgar, July 23rd)
 
 We begin as the party faces off against [Kadmos](<../../../people/chardonians/kadmos.md>) and his companions, with [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) charmed by [Kadmos](<../../../people/chardonians/kadmos.md>)’ magic. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), enraged by [Kadmos](<../../../people/chardonians/kadmos.md>)’ actions, rushes forward, avoiding [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)’s attempt to defuse the situation by turning him into a bunny rabbit, but running straight into [Hektor](<../../../people/chardonians/hektor.md>)’s halberd before he can launch a flurry of blows at [Kadmos](<../../../people/chardonians/kadmos.md>). Despite the slashing attack from [Hektor](<../../../people/chardonians/hektor.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s staff and fists land true and he nearly knocks [Kadmos](<../../../people/chardonians/kadmos.md>) unconscious. Unfortunately, though, [Hektor](<../../../people/chardonians/hektor.md>) returns the favor, and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is taken down by two quick blows with the halberd.

@@ -13,7 +13,6 @@ whereabouts:
 title: Lyrics of a New Age
 hide_toc: true
 ---
-
 # The Lyrics of a New Age
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Mundane Book__  

@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Session 8 (DuFr)
 ---
 
-
 **(Thursday, September 3rd, 2020; in Taelgar, mid-morning April 12th to mid-afternoon April 12th)**
 
 The session begins on the road, at the edge of the mountains, with the party contemplating their next move. After some discussion of the relative merits of trying the front door, or searching in the mountains for a back door, either over the cliffs or via the hidden exit from the [dwarven outpost](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>) marked on [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)’s maps, the party decides to try the mountain route. Heading east, the party aims for a mountain valley just to the west of [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), hoping to find a route through or over and thus avoid the plains of cursed insanity vines encountered by [Ander Charmheart](<../../../people/halflings/ander-charmheart.md>) to ill effect.

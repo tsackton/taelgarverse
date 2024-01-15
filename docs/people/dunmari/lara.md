@@ -12,7 +12,6 @@ affiliations:
 whereabouts: Lakan Monastery
 hide_toc: true
 ---
-
 # Speaker Lara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__

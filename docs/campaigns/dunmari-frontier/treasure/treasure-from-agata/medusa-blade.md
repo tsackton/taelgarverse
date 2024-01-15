@@ -6,7 +6,6 @@ whereabouts: Havdar
 title: Medusa Blade
 hide_toc: true
 ---
-
 # The Medusa Blade
 >[!info]+ Information
 > (magical sword)

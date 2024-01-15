@@ -4,7 +4,6 @@ title: Language Mappings
 ---
 
 
-
 This document tracks real-world language inspiration that we have tended to use for inventing names in Taelgar. 
 
 # General Notes

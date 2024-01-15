@@ -18,12 +18,11 @@ whereabouts:
 title: Wendel Quickstep
 hide_toc: true
 ---
-
 # Wendel Quickstep
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Quicksteps](<../../groups/halfling-families/quicksteps.md>)  
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Quicksteps  
     Born DR 1671 (78 years old)  
     Proprietor of [The Windward Sail](<../../gazetteer/western-green-sea/tollen/the-windward-sail.md>) (since DR 1718)  
     { .bio }

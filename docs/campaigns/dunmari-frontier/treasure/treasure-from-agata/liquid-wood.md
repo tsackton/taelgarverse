@@ -3,7 +3,6 @@ tags: [status/unknown]
 title: Liquid Wood
 ---
 
-
 (destroyed)
 
 The exact mechanics would require further study to understand, but there are a few pieces you glean.
