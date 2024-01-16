@@ -19,7 +19,7 @@ The known world of Taelgar stretches 2,500 miles from the great city of [Chardon
 
 - In the west, the vast [Chardonian Empire](<../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) extends north, east, and south from the imperial capital of [Chardon](<../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), growing rich and powerful on its magical scholarship and the might of its armies. 
 - On the outskirts of the [Chardonian Empire](<../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) dwell various scattered northerners, the descendants of the earliest [humans](<../species/humans/humans.md>) to settle Taelgar. 
-	- In the forests and foothills on the eastern borders of [Chardon](<../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the Deno'qai live in hidden villages, raising pigs and worshipping the tanshi, the small gods of the land. 
+	- In the forests and foothills on the eastern borders of [Chardon](<../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the Deno'qai live in hidden villages, raising pigs and worshipping the [tanshi](<../cosmology/religions/tanshi.md>), the small gods of the land. 
 	- On the coast of the [Mawakel Peninsula](<../gazetteer/west-coast/mawar-confederacy/mawakel-peninsula.md>), the seafaring Mawar people have lived symbiotically with the ocean for generations uncounted.
 	- Further north, and on the various scattered coastal islands, other people may dwell, but little news reaches even educated commoners to the south and east of these lands. 
 - The vast forests between the [Chardonian Empire](<../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) and the [Sentinel Range](<../gazetteer/sentinel-range/sentinel-range.md>) once were the home of the elven kingdom of [Ainumarya](<../gazetteer/chasa-nahadi-watershed/ainumarya.md>), but since the [Great War](<../events/1500s/great-war.md>) the once vibrant cities of the [elves](<../species/children-of-the-embodied-gods/elves/elves.md>) have largely fallen silent. 
@@ -99,5 +99,5 @@ These gods are sustained by the belief of their [human](<../species/humans/human
 	* [Aagir](<../cosmology/gods/incorporeal-gods/dunmari/aagir.md>), the god of war, fire, and death; protector of soldiers 
 	* [Sonkar](<../cosmology/gods/incorporeal-gods/dunmari/sonkar.md>), the goddess of beauty, truth, artisans, and justice;
 	* [Chidya](<../cosmology/gods/incorporeal-gods/dunmari/chidya.md>), the goddess of nature, the land, animals, and weather; worshiped especially by herders and shepherds and those who live a nomadic life
-- The tanshi, the small gods of the Deno'qai, who accept small sacrifices from their worshippers in exchange for carrying prayers
+- The [tanshi](<../cosmology/religions/tanshi.md>), the small gods of the Deno'qai, who accept small sacrifices from their worshippers in exchange for carrying prayers
 - [Kaikkea](<../cosmology/gods/incorporeal-gods/kaikkea.md>), the ancient ocean mother, worshipped by the monotheistic mariner people of [Skaerhem](<../gazetteer/western-green-sea/skaerhem/skaerhem.md>). 

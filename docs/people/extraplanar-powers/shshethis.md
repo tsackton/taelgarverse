@@ -21,7 +21,7 @@ hide_toc: true
     An [elemental](<../../species/children-of-the-divine/elementals.md>)  
     { .bio }
 
-    Based in the [Elemental Plane of Air](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-air.md>), the Energy Realms
+    Based in the [Elemental Plane of Air](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-air.md>), the [Energy Realms](<../../cosmology/multiverse/energy-realms/energy-realms.md>)
 </div>
 
 

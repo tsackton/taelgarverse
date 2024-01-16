@@ -25,11 +25,11 @@ hide_toc: true
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of October 23rd, 1748): [Illoria](<../../gazetteer/west-coast/illoria.md>), the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of October 23th, 1748): [Illoria](<../../gazetteer/west-coast/illoria.md>), the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on October 23rd, 1748 in [Illoria](<../../gazetteer/west-coast/illoria.md>), the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on October 23th, 1748 in [Illoria](<../../gazetteer/west-coast/illoria.md>), the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)  
 
 
 An adventurer, working for the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), funded by [Fausto](<../chardonians/fausto.md>). Often travels with [Dee Wildcloak](<../halflings/dee-wildcloak.md>). 

@@ -18,7 +18,7 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [lizardfolk](<../../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (he/him)  
-    Member of the Heroes of the Great War  
+    Member of the [Heroes of the Great War](<./heroes-of-the-great-war.md>)  
     { .bio }
 
 </div>

@@ -1,5 +1,7 @@
-  Worldbuilding/Brainstorming
-  Worldbuilding/Tentative
-  Worldbuilding/High School Notes
-  Worldbuilding/Worldbuilding.md
-  Worldbuilding/Background/Background.md
+Campaigns/*
+!Campaigns/Dunmar*
+!Campaigns/Mechanics
+!Campaigns/Player*
+!Campaigns/Labyrinths*
+!Campaigns/Mawar*
+Worldbuilding/*

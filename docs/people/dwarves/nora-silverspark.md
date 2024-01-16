@@ -20,7 +20,7 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her)  
-    Passed on November 23rd, 1748  
+    Passed on November 23th, 1748  
     { .bio }
 
     Originally from: Unknown

@@ -22,5 +22,6 @@
     "unnamed_files": "unlist",
     "stub_files": "skip",
     "ignore_file": "ignore_spec.txt",
-    "abs_path_root": "/taelgarverse/"
+    "abs_path_root": "/taelgarverse/",
+    "resize_images": true
 }

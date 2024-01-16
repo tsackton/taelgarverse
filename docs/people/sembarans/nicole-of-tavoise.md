@@ -13,7 +13,7 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Died October 21st, 1719  
+    Died October 21th, 1719  
     { .bio }
 
 </div>

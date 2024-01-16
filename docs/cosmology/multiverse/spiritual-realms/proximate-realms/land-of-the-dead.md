@@ -11,7 +11,7 @@ title: Land of the Dead
 ---
 # The Land of the Dead
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } One of the Spiritual Realms  
+-    :octicons-location-24:{ .lg .middle } One of the [Spiritual Realms](<../spiritual-realms.md>)  
 </div>
 
 
