@@ -38,6 +38,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
   - stylesheets/leaflet.css
+  - stylesheets/homepage.css
 markdown_extensions:
   - md_in_html
   - footnotes
