@@ -1,0 +1,6 @@
+{
+    "obs_json_path": "obsidian-template-config.json",
+    "vault_id": "b6856018c61bb0e4",
+    "vault_root_path": "taelgar",
+    "export_script": "taelgarverse-site-generator/scripts/export_vault.py"
+}
