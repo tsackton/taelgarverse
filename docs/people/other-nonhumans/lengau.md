@@ -16,6 +16,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [celestial](<../../species/children-of-belief/celestials.md>) (he/him or she/her (as they desire))  
     { .bio }
 
 </div>

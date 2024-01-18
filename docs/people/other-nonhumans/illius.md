@@ -18,9 +18,13 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A merfolk (they/them)  
     { .bio }
 
+    Originally from: Unknown
 </div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of July 23th, 1747): [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 
 
 

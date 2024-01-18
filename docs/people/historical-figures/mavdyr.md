@@ -15,6 +15,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [giant](<../../species/children-of-the-divine/giants.md>) ([fire giant](<../../species/children-of-the-divine/giants.md>)) (he/him)  
     { .bio }
 
 </div>

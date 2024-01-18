@@ -10,6 +10,7 @@ title: Jade Piece of Rai's Hand
 hide_toc: true
 ---
 # A Jade Piece of Rai's Hand
+:octicons-info-24:{ .lg .middle } **Unique Magical Gemstone**  
 
 Five fragments of jade, each originally a piece of [Rai](<../../../../people/pcs/great-war/rai.md>)'s hand.
 ## History

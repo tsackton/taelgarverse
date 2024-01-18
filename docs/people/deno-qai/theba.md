@@ -20,13 +20,16 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
+    Born DR 1717 (32 years old)  
     { .bio }
 
+    Based in [Bek'eni village](<../../gazetteer/chasa-nahadi-watershed/bek-eni-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle }   
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22th, 1748 in [Bek'eni village](<../../gazetteer/chasa-nahadi-watershed/bek-eni-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)  
 
 
 

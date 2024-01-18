@@ -13,7 +13,8 @@ title: Ardith
 # Ardith
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-    :octicons-location-24:{ .lg .middle }   
+   :material-calendar: Overrun in DR 1545  
+    :octicons-location-24:{ .lg .middle } overrun in [dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) realm in [Labkhan](<../sentinel-range.md>)  
 </div>
 
 

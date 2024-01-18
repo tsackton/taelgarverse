@@ -10,7 +10,8 @@ title: Dunmar
 # Dunmar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-    :octicons-location-24:{ .lg .middle }   
+   :material-calendar: Founded DR 1173 (576 years ago)  
+    :octicons-location-24:{ .lg .middle } A realm in [Greater Dunmar](<../../greater-dunmar.md>)  
 </div>
 
 

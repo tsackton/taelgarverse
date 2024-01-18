@@ -11,7 +11,7 @@ hide_toc: true
 # The Runes of Creation
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Book__  
-     
+   Owned by [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>)  
 </div>
 
 

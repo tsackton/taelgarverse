@@ -14,10 +14,13 @@ affiliations:
 - {place: Tyrwingha, start: 1745}
 hide_toc: true
 ---
-# The King Arryn III
+# King Arryn III
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
+    Born DR 1702 (47 years old)  
+    King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), and [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (since DR 1745)  
     { .bio }
 
 </div>

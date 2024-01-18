@@ -12,10 +12,13 @@ affiliations:
 - {org: Dunfry Regiment, type: leader}
 hide_toc: true
 ---
-# The Major Symone Barbet
+# Major Symone Barbet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    Born November 15th, 1683 (65 years old)  
+    Major of the Dunfry Regiment  
     { .bio }
 
 </div>

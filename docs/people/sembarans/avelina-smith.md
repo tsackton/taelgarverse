@@ -10,10 +10,12 @@ gender: female
 title: Avelina Smith
 hide_toc: true
 ---
-# The Avelina Smith
+# Avelina Smith
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A Highlander [human](<../../species/humans/humans.md>) (she/her)  
+    Born DR 1673 (76 years old)  
     { .bio }
 
 </div>

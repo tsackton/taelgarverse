@@ -15,8 +15,11 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A mysterious abberation (it/they/him/her)  
+    Hatched from an egg on November 5th, 1719 (29 years old)  
     { .bio }
 
+    :simple-dungeonsanddragons:{ .middle} [Character Sheet](https://www.dndbeyond.com/monsters/3502311-es-tiasilos) 
 </div>
 
 

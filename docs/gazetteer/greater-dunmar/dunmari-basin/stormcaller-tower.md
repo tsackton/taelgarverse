@@ -13,7 +13,8 @@ title: Stormcaller Tower
 # Stormcaller Tower
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-    :octicons-location-24:{ .lg .middle } Ruined tower [Samtal](<./samtal.md>), [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>)  
+   :material-calendar: Destroyed November 23th, 1748  
+    :octicons-location-24:{ .lg .middle } Ruined tower in [Samtal](<./samtal.md>), [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>)  
 </div>
 
 

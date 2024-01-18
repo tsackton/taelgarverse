@@ -10,7 +10,7 @@ gender:
 title: Khathayi the Flametongue
 hide_toc: true
 ---
-# The Khathayi the Flametongue
+# Khathayi the Flametongue
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

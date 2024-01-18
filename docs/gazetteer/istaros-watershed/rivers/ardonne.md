@@ -9,7 +9,7 @@ whereabouts: Greater Sembara
 ---
 # The River Ardonne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
+-    :octicons-location-24:{ .lg .middle } A river in [Greater Sembara](<../../greater-sembara/greater-sembara.md>)  
 </div>
 
 

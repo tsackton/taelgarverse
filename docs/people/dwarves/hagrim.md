@@ -15,12 +15,16 @@ whereabouts:
 title: Hagrim of Morkalan
 hide_toc: true
 ---
-# The Hagrim of Morkalan
+# Hagrim of Morkalan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
+    Died DR 1748  
     { .bio }
 
+    Originally from: [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
+    Lived in [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>), the [Shadowfell](<../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>)
 </div>
 
 

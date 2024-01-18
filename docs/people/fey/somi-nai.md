@@ -17,8 +17,10 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    An [elemental](<../../species/children-of-the-divine/elementals.md>) ([fire elemental](<../../species/children-of-the-divine/elementals.md>)) (he/him)  
     { .bio }
 
+    Based in [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
 </div>
 
 

@@ -14,10 +14,13 @@ affiliations:
 - {org: Dunmar, start: 1603, end: 1630, type: leader}
 hide_toc: true
 ---
-# The Samraat Nayan Yarad
+# Samraat Nayan Yarad
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [Nayan dynasty](<../../../groups/dunmari-dynasties/nayan-dynasty.md>)  
+    Died DR 1630  
+    Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1603 - DR 1630)  
     { .bio }
 
 </div>

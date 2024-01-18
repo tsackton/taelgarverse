@@ -17,9 +17,14 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
+    Born DR 1714 (35 years old)  
     { .bio }
 
+    Originally from: [Darakan](<../../gazetteer/sentinel-range/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
 </div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of DR 1730): [Darakan](<../../gazetteer/sentinel-range/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
 
 
 A dwarf from the city of Darakan, in the kingdom of [Khatridun](<../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>), fascinated with mechanical devices and runic magic. 

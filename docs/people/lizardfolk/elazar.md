@@ -18,17 +18,20 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (he/him)  
+    Born DR 1665 (84 years old)  
     { .bio }
 
+    Based in [Bedez](<../../gazetteer/far-south/bedez.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle }   
+:octicons-location-24:{ .lg .middle } Met by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on September 30th, 1748 in [Bedez](<../../gazetteer/far-south/bedez.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region  
 
 
 
-:octicons-location-24:{ .lg .middle }   
+:octicons-location-24:{ .lg .middle } Last seen by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on November 4th, 1748 in [Bedez](<../../gazetteer/far-south/bedez.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region  
 
 
 ![Elazar Portrait](../../assets/elazar-portrait.png){align="right"; width="400"}A lizardfolk man in the prime of his life, a prophet, seer, and spirit guide who has deeply felt visions and exceptional perception into the spirit realms. A bit of an outcast in his village, seen as someone who sees trouble in everything.

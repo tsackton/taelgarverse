@@ -18,10 +18,16 @@ affiliations:
 - {org: House of Sewick, type: primary}
 hide_toc: true
 ---
-# The Queen Charlotte I
+# Queen Charlotte I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
+    b. DR 1460 - d. DR 1519, died at age 59 years  
+    Queen of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), and [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) (DR 1496 - DR 1519)  
+    Queen of [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>) (DR 1499 - DR 1519)  
+    Queen of Lavnoch (DR 1501 - DR 1519)  
+    Queen of [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1506 - DR 1519)  
     { .bio }
 
 </div>

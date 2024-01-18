@@ -20,13 +20,20 @@ whereabouts:
 title: Robin of Abenfyrd
 hide_toc: true
 ---
-# The Robin of Abenfyrd
+# Robin of Abenfyrd
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/humans/humans.md>) (he/him)  
+    Born DR 1700 (49 years old)  
+    Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Acting Captain of the [Lord's Guard of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since January 3rd, 1720)  
     { .bio }
 
+    Originally from: [Abenfyrd](<../../../gazetteer/greater-sembara/tyrwingha/abenfyrd.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
 </div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of January 12th, 1720): [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 
 
 Robin of Abenfyrd is a young man of about twenty, a paladin of [The Wanderer](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>), and hails from [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>). He has a friendly, if shy, demeanor and at times seems embarrassed by his own talents. His armor looks weathered and well used (he was probably not the first owner) but well maintained. His clothing looks a bit more appropriate to a bard than a traveling warrior, and while again not the fanciest, tends to be rather colorful and a bit flamboyant even. He keeps a small lantern on him that sheds a perpetual warm glow that reminds one of home and pleasant things. His other most prized possession is a lute (not the fanciest instrument ever, but it is clearly well cared for) for that he plays with the skill of a well practiced musician. Often appearing a bit awkward when first interacting with others, he seems far more relaxed while he plays

@@ -14,12 +14,17 @@ whereabouts:
 title: Escobar Garavito
 hide_toc: true
 ---
-# The Escobar Garavito
+# Escobar Garavito
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [Cymean](<../../gazetteer/western-green-sea/cymea/cymea.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    Born DR 1727 (22 years old)  
+    Member of the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>), and the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>)  
     { .bio }
 
+    Originally from: [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>), [Cymea](<../../gazetteer/western-green-sea/cymea/cymea.md>)
+    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 </div>
 
 

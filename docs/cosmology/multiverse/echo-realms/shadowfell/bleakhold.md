@@ -10,7 +10,8 @@ title: Bleakhold
 # Bleakhold
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-    :octicons-location-24:{ .lg .middle }   
+   :material-calendar: Destroyed DR 1748  
+    :octicons-location-24:{ .lg .middle } destroyed village in [Morkalan](<./morkalan.md>), the [Shadowfell](<./shadowfell.md>), the Echo Realms  
 </div>
 
 

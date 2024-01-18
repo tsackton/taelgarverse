@@ -16,17 +16,21 @@ whereabouts:
 title: Lyle Greenleaf
 hide_toc: true
 ---
-# The Lyle Greenleaf
+# Lyle Greenleaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Greenleafs  
     { .bio }
 
+    Originally from: Unknown
 </div>
 
+:octicons-location-24:{ .lg .middle } Last known location (as of July 19th, 1748): traveling east to [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 
 
-:octicons-location-24:{ .lg .middle }   
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 18th, 1748 at the [~Crossroads Caravanserai~](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/crossroads-caravanserai.md>), on the [~AncientWestRoad~](<../../gazetteer/greater-dunmar/roads/ancientwestroad.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 A halfling wanderer, traveling with only his brother. 

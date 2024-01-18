@@ -8,7 +8,7 @@ title: Western Gulf
 ---
 # The Western Gulf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
+-    :octicons-location-24:{ .lg .middle } A gulf in the [Western Green Sea](<./western-green-sea.md>), the [Green Sea](<../green-sea.md>)  
 </div>
 
 

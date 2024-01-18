@@ -14,12 +14,16 @@ whereabouts:
 title: Lord Umbraeth
 hide_toc: true
 ---
-# The Lord Umbraeth
+# Lord Umbraeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [fey](<../../species/children-of-the-divine/fey/fey.md>) (he/him)  
+    Master of [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>)  
     { .bio }
 
+    Originally from: [Twilight's Grace](<../../cosmology/multiverse/echo-realms/feywild/twilight-s-grace.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
+    Based in [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
 </div>
 
 

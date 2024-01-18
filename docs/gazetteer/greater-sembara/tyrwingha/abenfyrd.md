@@ -11,6 +11,8 @@ title: Abenfyrd
 ---
 # Abenfyrd
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
+-  
+    :octicons-people-24: pop. 450  
+    :octicons-location-24:{ .lg .middle } A village in [Tyrwingha](<./tyrwingha.md>), the [Western Green Sea Region](<../../western-green-sea/western-green-sea-region.md>)  
 </div>
 

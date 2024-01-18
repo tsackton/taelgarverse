@@ -23,7 +23,10 @@ hide_toc: true
     a [gidari](<../../species/children-of-belief/gidari.md>) ([celestial](<../../species/children-of-belief/celestials.md>)), they/them  
     { .bio }
 
+    Originally from: the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), the [Spiritual Realms](<../../cosmology/multiverse/spiritual-realms/spiritual-realms.md>)
 </div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of December 1748): [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
 
 
 ![Motua](../../assets/motua.png){align="right"; width="400"}One of the guardians of the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), a [Gidari](<../../species/children-of-belief/gidari.md>), who is native to the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>) and serves as a guide and protector of souls on their journey beyond the veil. 

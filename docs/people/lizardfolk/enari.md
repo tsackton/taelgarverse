@@ -22,17 +22,21 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (he/him)  
     { .bio }
 
+    Based in [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
 </div>
 
-
-
-:octicons-location-24:{ .lg .middle }   
+:octicons-location-24:{ .lg .middle } Last known location (as of November 15th, 1748): [Bedez](<../../gazetteer/far-south/bedez.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
 
 
 
-:octicons-location-24:{ .lg .middle }   
+:octicons-location-24:{ .lg .middle } Met by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on November 3rd, 1748 in [Bedez](<../../gazetteer/far-south/bedez.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region  
+
+
+
+:octicons-location-24:{ .lg .middle } Last seen by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on November 13th, 1748 in [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region  
 
 
 ![Enari Portrait](../../assets/enari-portrait.png){align="right"; width="400"}A well-muscled lizardfolk hunter and wanderer, who earned a reputation and honor traveling among the villages of the kingdom of [Orekatu](<../../gazetteer/far-south/orekatu.md>). 

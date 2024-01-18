@@ -18,12 +18,17 @@ whereabouts:
 - {type: home, location: Tokra}
 hide_toc: true
 ---
-# The Samraat Dharajun Jita
+# Samraat Dharajun Jita
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (she/her), of the Dharajun dynasty  
+    b. DR 1386 - d. DR 1460, died at age 74 years  
+    Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1402 - DR 1460)  
     { .bio }
 
+    Originally from: the plains of Songara, [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Lived in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

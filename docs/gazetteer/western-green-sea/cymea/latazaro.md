@@ -11,7 +11,7 @@ title: Latazaro
 # Latazaro
 :speaker:{ .middle } *(LAH-tah-zah-roh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
+-    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) swamp in the [Western Green Sea Region](<../western-green-sea-region.md>)  
 </div>
 
 

@@ -64,7 +64,7 @@ Items recovered from the workshop shelves:
 - Spectral prism (used for rainbow bridge)
 - Four silver bars (used for cloud generator)
 - Four vials of mercury (used for rainbow bridge and cloud generator)
-- Piece of inkaye (used for rainbow bridge)
+- Piece of [inkaye](<../../../things/materials/inkaye.md>) (used for rainbow bridge)
 
 [Faldrak](<../../../people/dwarves/faldrak-bronzehammer.md>) requests the phoenix feather, the brooch of warmth, one silver bar, one-half a gold bar, and the jeweler's tools as his 1/16 share.
 ## Narrative

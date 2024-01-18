@@ -12,7 +12,8 @@ title: Xurkhaz
 :speaker:{ .middle } *(ZURK-kaz)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-    :octicons-location-24:{ .lg .middle }   
+   :material-calendar: Founded DR 1583 (166 years ago)  
+    :octicons-location-24:{ .lg .middle } A realm in the [Garamjala Desert](<../../greater-dunmar/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../desolation-of-cha-mutte.md>)  
 </div>
 
 

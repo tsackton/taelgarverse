@@ -16,10 +16,12 @@ whereabouts:
 title: Umli the Exile
 hide_toc: true
 ---
-# The Umli the Exile
+# Umli the Exile
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [stoneborn](<../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) (she/her)  
+    Born DR 1666 (83 years old)  
     { .bio }
 
     Exiled from the [Sivnjo Mountains](<../../gazetteer/northern-green-sea/sivnjo-mountains.md>) in DR 1731
@@ -28,7 +30,7 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle }   
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
 ![Umli The Exile Portrait](../../assets/umli-the-exile-portrait.png){align="right"; width="320"}Umli is tall, imposing stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork and intense obsidian-like eyes. She is a master metalworker and smith, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire. 

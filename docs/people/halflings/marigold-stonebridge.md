@@ -18,12 +18,17 @@ whereabouts:
 title: Marigold Stonebridge
 hide_toc: true
 ---
-# The Marigold Stonebridge
+# Marigold Stonebridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>)  
+    Born DR 1624 (125 years old)  
+    Proprietor of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>)  
+    Member of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  
     { .bio }
 
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
 

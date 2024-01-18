@@ -22,13 +22,17 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    b. DR 1720 - d. DR 1748, died at age 28 years  
     { .bio }
 
+    Originally from: [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
+    Lived in the [Western Green Sea](<../../gazetteer/western-green-sea/western-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle }   
+:octicons-location-24:{ .lg .middle } Fought and killed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 22th, 1748 in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)  
 
 
 Urgall, known as Urgall the Black, was a Skaer outcast and exile, who turned to a life of piracy. Sometime during his pirate days, he made a pact with a demon known as Mashtu the Corruptor. 

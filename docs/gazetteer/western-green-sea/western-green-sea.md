@@ -8,7 +8,7 @@ title: Western Green Sea
 ---
 # The Western Green Sea
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
+-    :octicons-location-24:{ .lg .middle } A sea in the [Green Sea](<../green-sea.md>)  
 </div>
 
 

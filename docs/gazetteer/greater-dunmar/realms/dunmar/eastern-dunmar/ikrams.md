@@ -11,7 +11,7 @@ title: Ikram's
 ---
 # Ikram's
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
+-    :octicons-location-24:{ .lg .middle } A [Dunmari](<../dunmar.md>) caravanserai [Karawa](<./karawa.md>)  
 </div>
 
 

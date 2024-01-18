@@ -18,25 +18,30 @@ whereabouts:
 title: Wendel Quickstep
 hide_toc: true
 ---
-# The Wendel Quickstep
+# Wendel Quickstep
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Quicksteps  
+    Born DR 1671 (78 years old)  
+    Proprietor of [The Windward Sail](<../../gazetteer/western-green-sea/tollen/the-windward-sail.md>) (since DR 1718)  
     { .bio }
 
+    Originally from: Unknown
+    Based in [The Windward Sail](<../../gazetteer/western-green-sea/tollen/the-windward-sail.md>), [Fiskurth](<../../gazetteer/western-green-sea/tollen/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle }   
+:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on DR 1738 in [The Windward Sail](<../../gazetteer/western-green-sea/tollen/the-windward-sail.md>), [Fiskurth](<../../gazetteer/western-green-sea/tollen/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
 
-:octicons-location-24:{ .lg .middle }   
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 16th, 1748 in [The Windward Sail](<../../gazetteer/western-green-sea/tollen/the-windward-sail.md>), [Fiskurth](<../../gazetteer/western-green-sea/tollen/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
 
-:octicons-location-24:{ .lg .middle }   
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 28th, 1748 in [The Windward Sail](<../../gazetteer/western-green-sea/tollen/the-windward-sail.md>), [Fiskurth](<../../gazetteer/western-green-sea/tollen/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
 Wendel is the long-time proprietor of *The Windward Sail*, a busy sailor's tavern in Fiskurth. Known as a place for tales and stories - some true, many not - and a place for gossip, as well as a place to find a crew. Has a few dirty, cramped rooms stacked with "human sized" bunks, and some slightly more comfortable halfling rooms. 

@@ -18,8 +18,11 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A Deno'qai [human](<../../species/humans/humans.md>) (he/him)  
+    Killed by [Grimbaskal](<../other-nonhumans/mezzar.md>) on September 6th, 1748  
     { .bio }
 
+    Lived in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
 
 

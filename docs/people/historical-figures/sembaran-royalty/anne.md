@@ -14,10 +14,13 @@ affiliations:
 title: Anne of Sewick
 hide_toc: true
 ---
-# The Anne of Sewick
+# Anne of Sewick
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
+    b. DR 1539 - d. February 14th, 1583, died at age 44 years  
+    Queen of [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1568 - February 14th, 1583)  
     { .bio }
 
 </div>

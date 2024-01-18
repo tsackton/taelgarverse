@@ -21,9 +21,14 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    An [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 36)  
+    Born DR 1472 (277 years old)  
     { .bio }
 
+    Originally from: [Ainumarya](<../../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of DR 1538): [Ainumarya](<../../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 
 
 ![Delwath Portrait](../../../assets/delwath-portrait.jpg)

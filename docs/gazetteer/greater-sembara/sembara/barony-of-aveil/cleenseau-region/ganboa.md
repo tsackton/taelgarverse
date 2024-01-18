@@ -13,7 +13,9 @@ title: Ganboa
 # Ganboa
 :speaker:{ .middle } *(Gan-bo-a)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle }   
+-  
+    :octicons-people-24: pop. 62  
+    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) village in the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), the [Western Green Sea Region](<../../../../western-green-sea/western-green-sea-region.md>)  
 </div>
 
 

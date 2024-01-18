@@ -14,8 +14,8 @@ title: Kharsan
 # Kharsan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :octicons-location-24:{ .lg .middle } Originally part of [Dunmar](<../realms/dunmar/dunmar.md>) in DR 1544  
-    :octicons-location-24:{ .lg .middle } Ruined Dunmari city the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>)  
+   :octicons-location-24:{ .lg .middle } Originally part of [Dunmar](<../realms/dunmar/dunmar.md>), destroyed in DR 1544  
+    :octicons-location-24:{ .lg .middle } Ruined [Dunmari](<../realms/dunmar/dunmar.md>) city in the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>)  
 </div>
 
 
