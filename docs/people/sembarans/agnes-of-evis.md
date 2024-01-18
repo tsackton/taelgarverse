@@ -3,21 +3,21 @@ headerVersion: 2023.11.25
 tags: [person, status/unknown]
 campaignInfo:
 - {campaign: Clee, date: 1719-12-07, type: met}
-name: Agnés of Cleenseau
+name: Agnés of Evis
 born: 1690-04-03
 species: human
 ancestry: Maseaun
-aliases: [Agnés of Cleenseau]
+aliases: [Agnés of Evis]
 gender: female
 whereabouts:
 - {type: home, location: Evis}
 - {type: away, start: 1719-12-05, end: 1719-12-07, location: ~SouthCleenseauScrublands~}
 - {type: away, start: 1719-12-07, end: 1719-12-12, location: Cleenseau}
 - {type: away, start: 1719-12-12, end: 1719-12-22, location: traveling home to Evis}
-title: Agnés of Cleenseau
+title: Agnés of Evis
 hide_toc: true
 ---
-# The Agnés of Cleenseau
+# The Agnés of Evis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

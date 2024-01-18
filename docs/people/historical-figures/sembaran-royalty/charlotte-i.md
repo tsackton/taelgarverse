@@ -27,7 +27,7 @@ hide_toc: true
 </div>
 
 
-An early ruler of Sembara, of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>). She ruled from the death of her father, [Derik II](<./derik-ii.md>),  in DR 1496 until her passing in DR 1519. Her reign is most famous for the heroism of second son, [Derik III](<./derik-iii.md>), who succeeded her to the throne, and for the [Highland Kingdoms](<../../../gazetteer/greater-sembara/zimkovia/zimkovia.md>) accepting her overlordship.
+An early ruler of Sembara, of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>). She ruled from the death of her father, [Derik II](<./derik-ii.md>),  in DR 1496 until her passing in DR 1519. Her reign is most famous for the heroism of second son, [Derik III](<./derik-iii.md>), who succeeded her to the throne, and for the [Highland Kingdoms](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>) accepting her overlordship.
 
 Her eldest son, [Hugh of Sewick](<./hugh-of-sewick.md>), predeceased her in the chaos of the times, but her youngest, [Eloise](<./eloise.md>) lived a long life.
 

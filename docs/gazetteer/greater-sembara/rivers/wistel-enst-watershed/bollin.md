@@ -15,4 +15,4 @@ title: Bollin
 </div>
 
 
-A major river in [Ardlas](<../../zimkovia/ardlas.md>) and [Sembara](<../../sembara/sembara.md>) that joins the [Wistel](<./wistel.md>) near the town of [Ainwick](<../../sembara/barony-of-ainwick/ainwick.md>).
+A major river in [Ardlas](<../../zimkova/ardlas.md>) and [Sembara](<../../sembara/sembara.md>) that joins the [Wistel](<./wistel.md>) near the town of [Ainwick](<../../sembara/barony-of-ainwick/ainwick.md>).

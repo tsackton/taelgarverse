@@ -413,7 +413,7 @@
             - [Abigail Moss](people/sembarans/abigail-moss.md)
             - [Adam](people/sembarans/adam-of-cleenseau.md)
             - [Adèle Laurent](people/sembarans/adele-laurent.md)
-            - [Agnés of Cleenseau](people/sembarans/agnes-of-cleenseau.md)
+            - [Agnés of Evis](people/sembarans/agnes-of-evis.md)
             - [Aldric Tannen](people/sembarans/aldric-tannen.md)
             - [Ames Benthey](people/sembarans/ames-benthey.md)
             - [Ancer Benthey](people/sembarans/ancer-benthey.md)
@@ -470,6 +470,7 @@
             - [Tal](people/sembarans/tal.md)
             - [Terry the Bandit](people/sembarans/terry-the-bandit.md)
             - [Vincent de Arban](people/sembarans/vincent-de-arban.md)
+            - [Walter of Cleenseau](people/sembarans/walter-of-cleenseau.md)
             - [Warin the Woodsman](people/sembarans/warin-the-woodsman.md)
             - [Ysabel](people/sembarans/ysabel.md)
         - Skaer
@@ -696,7 +697,7 @@
             - Rivers
                 - [Chasa](gazetteer/chasa-nahadi-watershed/rivers/chasa.md)
                 - [Kayan](gazetteer/chasa-nahadi-watershed/rivers/kayan.md)
-        - Eastern Green Sea
+        - [Eastern Green Sea](gazetteer/eastern-green-sea/eastern-green-sea.md)
             - [Arryn’s Tower](gazetteer/eastern-green-sea/arryns-tower.md)
             - [Dolphin’s Rest Inn](gazetteer/eastern-green-sea/dolphins-rest-inn.md)
             - [Eastern Green Sea Region](gazetteer/eastern-green-sea/eastern-green-sea-region.md)
@@ -898,9 +899,9 @@
                 - [Abenfyrd](gazetteer/greater-sembara/tyrwingha/abenfyrd.md)
                 - [Clawyn](gazetteer/greater-sembara/tyrwingha/clawyn.md)
                 - [Tafolwern](gazetteer/greater-sembara/tyrwingha/tafolwern.md)
-            - [Zimkovia](gazetteer/greater-sembara/zimkovia/zimkovia.md)
-                - [Ardlas](gazetteer/greater-sembara/zimkovia/ardlas.md)
-                - [Breva](gazetteer/greater-sembara/zimkovia/breva.md)
+            - [Zimkova](gazetteer/greater-sembara/zimkova/zimkova.md)
+                - [Ardlas](gazetteer/greater-sembara/zimkova/ardlas.md)
+                - [Breva](gazetteer/greater-sembara/zimkova/breva.md)
         - [Istaros Watershed](gazetteer/istaros-watershed/istaros-watershed.md)
             - [Aurbez and the Ardonne](gazetteer/istaros-watershed/aurbez-and-the-ardonne.md)
             - [Aurbez Plateau](gazetteer/istaros-watershed/aurbez-plateau.md)
@@ -1148,6 +1149,7 @@
         - [Alcarinquë](history/pre-downfall/alcarinque.md)
         - [Hkar](history/pre-downfall/hkar.md)
     - People
+        - [Adèle Laurent](people/historical-figures/adele-laurent.md)
         - [Asuddha](people/historical-figures/asuddha.md)
         - [Balati](people/historical-figures/balati.md)
         - [Cedric Cyfenwid](people/historical-figures/cedric-cyfenwid.md)

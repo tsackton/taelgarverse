@@ -29,5 +29,5 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Rescued [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 14th, 1748 from the aboleth lair east of the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the ~Eastern Islands~  
 
 
-![Skoda](../../assets/skoda.png){align="right"; width="400"}A kenku woman in late middle age, who travels the islands of the Eastern Green Sea with her partner [Nahto](<./nahto.md>). She is fey-touched and has a hint of magic about her. 
+![Skoda](../../assets/skoda.png){align="right"; width="400"}A kenku woman in late middle age, who travels the islands of the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>) with her partner [Nahto](<./nahto.md>). She is fey-touched and has a hint of magic about her. 
 

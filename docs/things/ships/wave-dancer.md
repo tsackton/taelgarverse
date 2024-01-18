@@ -15,7 +15,7 @@ hide_toc: true
 # The Wave Dancer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __[Halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) Boat__  
-   Home area: the Eastern Green Sea  
+   Home area: the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)  
 </div>
 
 

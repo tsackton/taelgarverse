@@ -25,6 +25,4 @@ hide_toc: true
 </div>
 
 
-The nephew of [Ames Benthey](<./ames-benthey.md>), recently appointed sergeant of the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) after [Odo Cordwaner](<./odo-cordwaner.md>) was dismissed. He is untested and rumored to be somewhat stern, and not very close to his uncle. 
-
-![Ancer Benthey Portrait](../../assets/ancer-benthey-portrait.png){width="500"}
+![Ancer Benthey Portrait](../../assets/ancer-benthey-portrait.png){align="right"; width="320"}The nephew of [Ames Benthey](<./ames-benthey.md>), recently appointed sergeant of the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) after [Odo Cordwaner](<./odo-cordwaner.md>) was dismissed. He is untested and rumored to be somewhat stern, and not very close to his uncle. 
