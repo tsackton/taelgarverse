@@ -14,16 +14,12 @@ whereabouts:
 title: Vistra Fireforge
 hide_toc: true
 ---
-# Vistra Fireforge
+# The Vistra Fireforge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her)  
-    Born DR 1589 (160 years old)  
     { .bio }
 
-    Originally from: [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
-    Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

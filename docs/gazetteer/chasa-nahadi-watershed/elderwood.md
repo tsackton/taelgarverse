@@ -11,7 +11,7 @@ title: Elderwood
 ---
 # The Elderwood
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A forest in [Ainumarya](<./ainumarya.md>), the Chasa-Nahadi Watershed  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

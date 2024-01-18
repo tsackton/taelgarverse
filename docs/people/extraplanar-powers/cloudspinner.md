@@ -18,18 +18,16 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) ([archfey](<../../species/children-of-the-divine/fey/fey.md>)) (she/her)  
     { .bio }
 
-    Originally from: [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
 </div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of DR 1002): imprisoned
 
 
 The Queen of Sunset was once the ruler of [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  
 
-Her memories opened [Session 61 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-61-dufr.md>): ^97cec2
+
+
+Her memories opened [Session 61 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-61-dufr.md>):
 
 *As a group of travelers gathers here, some reunited after a long separation, others newly met, the Cloudspinner feels their presence even from her prison, far away, and she drifts in thought.
 
@@ -44,4 +42,5 @@ Her memories opened [Session 61 (DuFr)](<../../campaigns/dunmari-frontier/sessio
 *So she watches, and she waits, and she hopes, for the day when she will be free, and when [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>) will once again be a realm of beauty and wonder. Until then, she will continue to fight, and to dream, and to hold onto the memory of what once was, and what could be again.
 
 *And our story fades from the Cloudspinner, and turns now to the travelers at Lastlight Falls, who may yet have a small role to play in the story of [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>).
+
 

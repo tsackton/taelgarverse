@@ -20,17 +20,13 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (she/her), ([ka](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>) 31)  
-    Born DR 747 (1002 years old)  
     { .bio }
 
-    Originally from: [Rostaurë](<../../history/drankorian-era/rostaure.md>), the Central Lowlands Region
-    Based in [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Visited by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1749 in [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)  
+:octicons-location-24:{ .lg .middle }   
 
 
 Arheste is an ancient [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>), with silver hair and piercing eyes, originally born during the days of the Drankorian Empire. He right arm is withered, cramped, and useless, usually worn in a sling, and she looks worn in a way that is very unusual for [elves](<../../species/children-of-the-embodied-gods/elves/elves.md>). She spent much of the first several hundred years of her life in Drankor first as an ally of the emperors, and then, during Apollyon's reign, as a prisoner. After the [First Plague](<../../events/1000s/1059/first-plague.md>), which she survived, albeit damaged and sick, she fled north and eventually settled in [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>). 
@@ -45,7 +41,7 @@ It was a good time. There was peace. The land was healthy. Yes, there were battl
 
 It was then, during the 32nd [leya](<../../species/children-of-the-embodied-gods/elves/the-cycle-of-generations.md>), that things started to go wrong. The Emperor [Helea](<../historical-figures/drankorian-emperors/helea.md>) was assassinated, at the height of her power, by a mysterious group calling themselves the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>), which started a civil war. My son was killed in the fighting in [Drankor](<../../history/drankorian-era/drankor.md>). My daughter fled, hiding with a small group of those she could keep safe in the hills west of the city, keeping a guerrilla resistance alive in Helea's name, calling themselves the Fides Lucaris. She, too, was killed by the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>), in a later battle. 
 
-I protected as many as I could in the Rostaurë, especially the peronar, the [elves](<../../species/children-of-the-embodied-gods/elves/elves.md>) who had lived with [humans](<../../species/humans/humans.md>) since the days of Hkar, and who were seen as particularly insidious and vile by the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>). 
+I protected as many as I could in the Rostaurë, especially the peronar, the [elves](<../../species/children-of-the-embodied-gods/elves/elves.md>) who had lived with [humans](<../../species/humans/humans.md>) since the days of [Hkar](<../../history/pre-downfall/hkar.md>), and who were seen as particularly insidious and vile by the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>). 
 
 That is when things started to go from bad to worse. During the 33rd meya, when the next generation was singing and dreaming in the great trees of Estemar, the Emperor of [Drankor](<../../history/drankorian-era/drankorian-empire.md>) launched the Dominion Wars, fighting and claiming as much land to the east they could. We defended Rostaurë as best we could through deception and trickery, working with other groups of rebels and dissidents, our allies the Fides Lucaris, who my daughter had fought and died for. We were always protected by [Aldanor](<../../cosmology/gods/embodied-gods/aldanor.md>)'s grace, by the power of his magic that ran through my arm and my blade. 
 

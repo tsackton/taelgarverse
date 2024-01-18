@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/minor, person, dufr/aware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, historical, status/unknown]
 campaignInfo: []
 name: Uzgash
 born:
 species: orc
 ancestry:
 gender: male
-affiliations: [The People of the Rainbow]
+affiliations:
+- {org: People of the Rainbow, type: primary}
 title: Uzgash
 hide_toc: true
 ---
@@ -16,8 +16,6 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (he/him)  
-    Member of the The People of the Rainbow  
     { .bio }
 
 </div>

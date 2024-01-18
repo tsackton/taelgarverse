@@ -12,8 +12,7 @@ hide_toc: true
 # Analadin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Staff__  
-   Destroyed DR 1545  
-   Was owned by [Beryl](<../../people/pcs/great-war/beryl.md>)  
+     
 </div>
 
 

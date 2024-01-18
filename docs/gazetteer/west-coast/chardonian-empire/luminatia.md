@@ -9,7 +9,7 @@ title: Luminatia
 ---
 # Luminatia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A village [Chardonian Empire](<./chardonian-empire.md>)  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

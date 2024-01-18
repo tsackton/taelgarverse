@@ -4,12 +4,12 @@ tags: [place, event-source, status/unknown]
 campaignInfo:
 name: Darba
 typeOf: city
-partOf: Coastal Dunmar
+whereabouts: Coastal Dunmar
 title: Darba
 ---
 # Darba
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A city in [Coastal Dunmar](<../coastal-dunmar.md>), [Dunmar](<../../dunmar.md>), [Greater Dunmar](<../../../../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

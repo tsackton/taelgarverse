@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/draft]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 typeOf: region
 whereabouts: Taelgar
@@ -9,7 +8,7 @@ title: Far North
 ---
 # The Far North
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region [Taelgar](<../gazetteer.md>)  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

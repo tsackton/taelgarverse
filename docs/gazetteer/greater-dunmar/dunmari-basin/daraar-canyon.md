@@ -1,16 +1,15 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Daraar Canyon
 typeOf: canyon
-partOf: Nashtkar
+whereabouts: Nashtkar
 title: Daraar Canyon
 ---
 # The Daraar Canyon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A canyon in [Nashtkar](<./nashtkar.md>), the [Desolation of Cha'mutte](<../../istaros-watershed/desolation-of-cha-mutte.md>)  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

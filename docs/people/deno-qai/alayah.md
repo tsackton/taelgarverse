@@ -16,11 +16,8 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1725 (24 years old)  
     { .bio }
 
-    Based in [Te'kula village](<../../gazetteer/chasa-nahadi-watershed/te-kula-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
 
 

@@ -5,11 +5,13 @@ displayDefaults: {defArt: the}
 campaignInfo: []
 name: Bollin
 typeOf: river
-partOf:
+whereabouts: Greater Sembara
 aliases: [Bollin River, River Bollin]
 title: Bollin
 ---
 # The Bollin
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

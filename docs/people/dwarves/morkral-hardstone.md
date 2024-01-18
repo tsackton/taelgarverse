@@ -9,11 +9,10 @@ gender: male
 title: Morkral Hardstone
 hide_toc: true
 ---
-# Morkral Hardstone
+# The Morkral Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
     { .bio }
 
 </div>

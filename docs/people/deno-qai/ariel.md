@@ -18,17 +18,13 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1674 (75 years old)  
     { .bio }
 
-    Originally from: the [Shu'anra village in the Forest of Dreams](<../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>), the Chasa-Nahadi Watershed
-    Based in [Te'kula village](<../../gazetteer/chasa-nahadi-watershed/te-kula-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 11th, 1748 in [Te'kula village](<../../gazetteer/chasa-nahadi-watershed/te-kula-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)  
+:octicons-location-24:{ .lg .middle }   
 
 
 An elderly woman with stark white hair pulled back in a loose pony tail and wrinkled skin. While she is arthritic and slow, her mind is sharp and she has a clear memory of the stories of her youth, the tales of the Meswati and the [Great War](<../../events/1500s/great-war.md>)

@@ -18,13 +18,8 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1714 (35 years old)  
-    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), and [The Cleansed](<../../groups/the-cleansed.md>)  
     { .bio }
 
-    Originally from: Unknown
-    Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
 
 

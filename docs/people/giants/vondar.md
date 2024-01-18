@@ -18,11 +18,8 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../species/children-of-the-divine/giants.md>) (cursed) (he/him)  
     { .bio }
 
-    Originally from: Unknown
-    Based in [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
 </div>
 
 

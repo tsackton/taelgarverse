@@ -9,8 +9,7 @@ title: Manor of Asineau
 # The Manor of Asineau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: Founded DR 1651 (98 years ago)  
-    :octicons-location-24:{ .lg .middle } A manor in the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), the [Western Green Sea Region](<../../../../western-green-sea/western-green-sea-region.md>)  
+    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

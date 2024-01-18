@@ -12,12 +12,11 @@ title: Nayahar
 # Nayahar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: Founded DR 1557 (192 years ago)  
-    :octicons-location-24:{ .lg .middle } A [Dunmari](<../dunmar.md>) city [Western Dunmar](<./western-dunmar.md>)  
+    :octicons-location-24:{ .lg .middle }   
 </div>
 
 
-A Dunmari city located close to the head of navigation of the Nayan river. The administrative center of the [Nayan Dynasty](<../../../../../groups/dunmari-dynasties/nayan-dynasty.md>), home of the Samraat court. 
+A Dunmari city located close to the head of navigation of the [Nayan](<../../../rivers/nayan.md>) river. The administrative center of the [Nayan Dynasty](<../../../../../groups/dunmari-dynasties/nayan-dynasty.md>), home of the Samraat court. 
 
 
 

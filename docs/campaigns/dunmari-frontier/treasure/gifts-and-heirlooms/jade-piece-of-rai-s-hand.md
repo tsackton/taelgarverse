@@ -1,11 +1,15 @@
 ---
-excludeRooted: [Clee]
-tags: [item]
+headerVersion: 2023.11.25
+displayDefaults: {defArt: a}
+tags: [item/magical]
 name: Jade Piece of Rai's Hand
+rarity: unique
+typeOf: gemstone
+subTypeOf: magical
 title: Jade Piece of Rai's Hand
 hide_toc: true
 ---
-# The Jade Pieces of Rai
+# A Jade Piece of Rai's Hand
 
 Five fragments of jade, each originally a piece of [Rai](<../../../../people/pcs/great-war/rai.md>)'s hand.
 ## History
@@ -21,11 +25,14 @@ Until apparently Rai left Drankor, on a mission with the monks of the [Order of 
 
 One piece fell in the Dunmari desert, and was given to [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>) by his parents before they died. Kenzo saw [a vision of this piece in Eudomes' Mirror](<../../mirror-visions/kenzo-s-jade-vision.md>).
 
-One piece fell in the [Elderwood](<../../../../gazetteer/chasa-nahadi-watershed/elderwood.md>), was found by the Godcaller [Jordo](<../../../../people/deno-qai/jordo.md>), became part of the protection of the [Te'kula](<../../../../groups/deno-qai/te-kula.md>), and was eventually gifted to [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>) by [Alayah](<../../../../people/deno-qai/alayah.md>), [Jordo](<../../../../people/deno-qai/jordo.md>)'s successor, after [the Dunmar Fellowship killed the green dragon Grimbaskal](<../../session-notes/session-50-dufr.md>) that had threatened the Te'kula. 
+One piece fell in the [Elderwood](<../../../../gazetteer/chasa-nahadi-watershed/elderwood.md>), was found by the Godcaller [Jordo](<../../../../people/deno-qai/jordo.md>), became part of the protection of the [Te'kula](<../../../../groups/deno-qai/te-kula.md>), and was eventually gifted to [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>) by [Alayah](<../../../../people/deno-qai/alayah.md>), [Jordo](<../../../../people/deno-qai/jordo.md>)'s successor, after [the Dunmar Fellowship killed the green dragon Grimbaskal](<../../session-notes/session-50-dufr.md>) that had threatened the [Te'kula](<../../../../groups/deno-qai/te-kula.md>). 
 
-One piece was [seen](<../../dreams-and-visions/second-dream-of-rai.md>) to fall into a crevasse in an icy glacier. Later, [Delwath](<../../../../people/pcs/dunmar-fellowship/delwath.md>) learned from the Deno'qai druid [Safri](<../../../../people/deno-qai/safri.md>) that this piece was found by a man named [Radomir](<../../../../people/other-humans/radomir.md>) from a strange land to the east known as [Ursk](<../../../../gazetteer/northern-green-sea/ursk.md>), who had fled his homeland looking for a way to destroy it, but apparently returned, unsuccessful. Later [scrying revealed](<../../scrying-and-spying/scrying-delwath-nov-15.md#radomir>) that apparently this piece was later taken a mysterious group known as the Rodnya Voknaz. 
+One piece was [seen](<../../dreams-and-visions/second-dream-of-rai.md>) to fall into a crevasse in an icy glacier. Later, [Delwath](<../../../../people/pcs/dunmar-fellowship/delwath.md>) learned from the Deno'qai druid [Safri](<../../../../people/deno-qai/safri.md>) that this piece was found by a man named [Radomir](<../../../../people/other-humans/radomir.md>) from a strange land to the east known as [Ursk](<../../../../gazetteer/northern-green-sea/ursk.md>), who had fled his homeland looking for a way to destroy it, but apparently returned, unsuccessful. Later [scrying revealed](<../../scrying-and-spying/scrying-delwath-nov-15.md#radomir>) that apparently this piece was later taken a mysterious group known as the Rodnya Voknaz, who [may](<../../session-notes/session-84-85-interlude-dufr.md#questions>) still have it.
 
 One piece was [seen](<../../dreams-and-visions/second-dream-of-rai.md>) to sink beneath the ocean. The only clue to its resting place comes from [Thomas Hawke](<../../../../people/tollenders/thomas-hawke.md>), who [told the story](<../../session-notes/session-76-dufr.md>) of a magical undersea garden of jade where merfolk grow names, which was the inspiration for his play, Luminastra's Gift. The jade garden, supposedly, was located 100 miles off the coast of the ~Emerald Bay Peninsula~. 
 
 One piece was [seen](<../../dreams-and-visions/second-dream-of-rai.md>) to fall into a dense, lush rainforest. No further clues to its location have been recovered. 
+## Other Clues
+
+The [Ancient and Honorable Guild of Philosophers](<../../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) provided information about these fragments: [Philosopher's Information Concerning Rai's Hand](<../../letters-notes-and-tales/philosopher-s-information-concerning-rai-s-hand.md>)
 

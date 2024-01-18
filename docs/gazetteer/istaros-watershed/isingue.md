@@ -17,7 +17,7 @@ title: Isingue
 # Isingue
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :octicons-location-24:{ .lg .middle } A ruined [Isinguer](<../../history/istabor-alliance.md>) city in the [Plaguelands](<./plaguelands.md>), once part of the [Istabor Alliance](<../../history/istabor-alliance.md>)  
+   :octicons-location-24:{ .lg .middle } A ruined Isinguer city the [Plaguelands](<./plaguelands.md>), once part of the [Istabor Alliance](<../../history/istabor-alliance.md>)  
     :octicons-location-24:{ .lg .middle } Consumed by Cha'mutte's plague in DR 1545  
 </div>
 

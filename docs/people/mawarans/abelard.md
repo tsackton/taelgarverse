@@ -16,11 +16,8 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Mawaran [human](<../../species/humans/humans.md>) (he/him)  
     { .bio }
 
-    Originally from: the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
-    Based in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 

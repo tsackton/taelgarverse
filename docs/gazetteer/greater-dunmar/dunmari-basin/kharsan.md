@@ -1,15 +1,21 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/notes]
+displayDefaults: {dPast: ''}
+destroyed: 1545
+ancestry: Dunmari
 name: Kharsan
 typeOf: city
-subTypeOf: ruined
-partOf: Garamjala Desert
+whereabouts:
+- {type: home, end: 1544, location: Dunmar, wOrigin: 'Originally part of <origin:1><(, )endstatus> <(in )enddate>'}
+- {type: home, start: 1545, location: Garamjala Desert, wPastHome: 'Ruined <ancestry> <typeOf> <home:2qr>'}
 title: Kharsan
 ---
 # Kharsan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A ruined city in the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../istaros-watershed/desolation-of-cha-mutte.md>)  
+-  
+   :octicons-location-24:{ .lg .middle } Originally part of [Dunmar](<../realms/dunmar/dunmar.md>) in DR 1544  
+    :octicons-location-24:{ .lg .middle } Ruined Dunmari city the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>)  
 </div>
 
 

@@ -19,20 +19,13 @@ whereabouts:
 title: Arthur Bybet
 hide_toc: true
 ---
-# Arthur Bybet
+# The Arthur Bybet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him), of the Bybets  
-    Born DR 1682 (67 years old)  
-    Lord Consort of the Essfords (since DR 1706)  
     { .bio }
 
-    Originally from: [Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/ainwick.md>), the [Barony of Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/barony-of-ainwick.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
-
-:octicons-location-24:{ .lg .middle } Currently in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
 

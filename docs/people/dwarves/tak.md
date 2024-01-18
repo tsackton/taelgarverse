@@ -17,11 +17,8 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
     { .bio }
 
-    Originally from: [Bleakhold](<../../cosmology/multiverse/echo-realms/shadowfell/bleakhold.md>), [Morkalan](<../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>), the [Shadowfell](<../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>)
-    Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
 </div>
 
 

@@ -1,8 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/companion, status/unknown]
+tags: [person, pc/companion, status/needswork/notes]
 name: Es\*tiasilos
+displayDefaults: {startStatus: hatched from an egg on}
 aliases: [Es*tiasilos]
+born: 1719-11-05
+species: mysterious abberation
+pronouns: it/they/him/her
+ddbLink: https://www.dndbeyond.com/monsters/3502311-es-tiasilos
 title: Es\*tiasilos
 hide_toc: true
 ---
@@ -15,4 +20,4 @@ hide_toc: true
 </div>
 
 
-https://www.dndbeyond.com/monsters/3502311-es-tiasilos
+A strange egg hatched by [Viepuck](<./viepuck.md>) into a mysterious flying octopus creature. 

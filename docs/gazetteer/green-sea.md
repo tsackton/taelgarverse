@@ -4,12 +4,13 @@ tags: [place, status/unknown]
 campaignInfo:
 name: Green Sea
 typeOf: sea
-partOf: Taelgar
+whereabouts:
+- {type: home, location: Taelgar, linkText: in}
 title: Green Sea
 ---
 # The Green Sea
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A sea [Taelgar](<./gazetteer.md>)  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

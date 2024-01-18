@@ -1,34 +1,32 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/refactor, person, dufr/met, dufr/major, person/ruler, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-10, type: met}
 name: Lubash
 born: 1691
+activeYear: 1735
 species: orc
 ancestry:
 gender: male
 title: Chief Lubash
-affiliations: [People of the Rainbow]
+affiliations:
+- People of the Rainbow
+- {org: Xurkhaz, type: leader, start: 1745}
 whereabouts: Uzgukhar
 hide_toc: true
 ---
-# Chief Lubash
+# The Chief Lubash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) (he/him)  
-    Born DR 1691 (58 years old)  
-    Member of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
     { .bio }
 
-    Based in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 10th, 1748 in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)  
+:octicons-location-24:{ .lg .middle }   
 
 
 Chief Lubash is the stern and protective ruler of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), and by extension the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>). He is also the bearer of the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>).  Lubash holds immense pride for his kingdom, [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), and resides in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>).

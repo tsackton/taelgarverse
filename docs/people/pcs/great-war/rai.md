@@ -1,7 +1,6 @@
 ---
-tags: [pc/greatwar, pc, person, status/needswork]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [pc/greatwar, person, status/needswork]
 name: Rai
 born:
 species:
@@ -11,7 +10,14 @@ player: David Kong
 title: Rai
 hide_toc: true
 ---
-### Rai
+# Rai
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    { .bio }
+
+</div>
+
 
 Hero of the [Great War](<../../../events/1500s/great-war.md>). 
 

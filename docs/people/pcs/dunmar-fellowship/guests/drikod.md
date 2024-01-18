@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/notes, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [pc, person, pc/guest, status/needswork/notes]
 campaignInfo:
 name: Drikod
 born:
@@ -11,6 +10,7 @@ gender: male
 player: John Leeker
 affiliations:
 whereabouts: Kunda
+excludePublish: [clee]
 title: Drikod
 hide_toc: true
 ---
@@ -18,10 +18,8 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [stoneborn](<../../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) (he/him)  
     { .bio }
 
-    Based in [Kunda](<../../../../gazetteer/sentinel-range/kunda.md>), [Indalas](<../../../../gazetteer/sentinel-range/sentinel-range.md>)
 </div>
 
 

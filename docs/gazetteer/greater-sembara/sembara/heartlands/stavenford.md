@@ -11,9 +11,7 @@ title: Stavenford
 # Stavenford
 :speaker:{ .middle } *(Staven-ford)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--  
-    :octicons-people-24: pop. 652  
-    :octicons-location-24:{ .lg .middle } A river town in the [Duchy of Wisford](<./duchy-of-wisford.md>), [Sembara](<../sembara.md>)  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

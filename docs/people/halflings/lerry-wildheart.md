@@ -17,24 +17,22 @@ whereabouts:
 title: Lerry Wildheart
 hide_toc: true
 ---
-# Lerry Wildheart
+# The Lerry Wildheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Wildhearts  
-    Quartermaster of the [Wave Dancer](<../../things/ships/wave-dancer.md>) (since DR 1746)  
     { .bio }
 
-    Sails in the [Wave Dancer](<../../things/ships/wave-dancer.md>)
+    Sails the [Wave Dancer](<../../things/ships/wave-dancer.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on September 30th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), sailing to [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
+:octicons-location-24:{ .lg .middle }   
 
 
 
-:octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), in the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
+:octicons-location-24:{ .lg .middle }   
 
 
 Lerry Wildheart is the quartermaster of the halfling trading ship the [Wave Dancer](<../../things/ships/wave-dancer.md>), promoted to the role a few years ago. 

@@ -7,7 +7,7 @@ title: Heart of the Mountain
 ---
 # The Heart of the Mountain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A plane in the Divine Realms, the [Spiritual Realms](<../spiritual-realms.md>)  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 
@@ -17,5 +17,5 @@ Described in various ways, but often as a vast cavern hundreds and hundreds of f
 
 Tunnels leave the cave in all directions, many wide and brightly lit by crystal lanterns, others narrow, some nearly vanished into the shadows.
 
-![Heart Of The Mountain](../../../../assets/heart-of-the-mountain.png)
+![Heart Of The Mountain](../../../../assets/heart-of-the-mountain.png){width="800"}
 

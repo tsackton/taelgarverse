@@ -20,14 +20,10 @@ title: King Derik III
 died: 1549
 hide_toc: true
 ---
-# King Derik III
+# The King Derik III
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him)  
-    b. DR 1484 - d. DR 1549, died at age 65 years  
-    Prince of the North of [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>), and Zovcka (DR 1508 - DR 1519)  
-    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkovia/ardlas.md>), Lavnoch, [Breva](<../../../gazetteer/greater-sembara/zimkovia/breva.md>), [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>), and Zovcka (DR 1519 - DR 1549)  
     { .bio }
 
 </div>

@@ -23,5 +23,5 @@ cd $SOURCE_PATH
 git reset --hard
 
 cd $BUILD_PATH
-git submodule update --remote --rebase
+git submodule update --remote --ff-only
 python run.py

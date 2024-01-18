@@ -7,7 +7,7 @@ title: Laicon
 ---
 # Laicon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A village in the Refounded Alliance of Aurbez  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

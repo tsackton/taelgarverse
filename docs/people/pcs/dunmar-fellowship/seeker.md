@@ -1,7 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc, person, pc/dunmarfrontier, status/needswork]
-excludeRooted: [Clee]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 name: Seeker
 born:
@@ -9,13 +8,20 @@ species: dwarf
 ancestry:
 gender: male
 player: Eric Rosenbaum
-affiliations:
+affiliations: [The Dunmar Fellowship]
 title: Seeker
 hide_toc: true
 ---
-### Seeker
+# Seeker
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-![Seeker](../../../assets/seeker.jpg){width="400"}
+    { .bio }
+
+</div>
+
+
+![Seeker](../../../assets/seeker.jpg){align="right"; width="400"}
 
 > [!warning]- Seeker's Backstory
 > 

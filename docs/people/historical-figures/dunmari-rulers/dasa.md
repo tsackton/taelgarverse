@@ -14,13 +14,10 @@ affiliations:
 aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
 hide_toc: true
 ---
-# Samraat Aatmaj Dasa
+# The Samraat Aatmaj Dasa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [Aatmaji dynasty](<../../../groups/dunmari-dynasties/aatmaji-dynasty.md>)  
-    Died DR 1395  
-    Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1385 - DR 1395)  
     { .bio }
 
 </div>

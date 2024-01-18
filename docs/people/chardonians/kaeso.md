@@ -24,17 +24,13 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Born DR 1691 (58 years old)  
-    Member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>)  
     { .bio }
 
-    Originally from: [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 12th, 1748 in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)  
+:octicons-location-24:{ .lg .middle }   
 
 
 [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s mentor and friend. A Chardonian, but widely traveled. Former student of [Roscelia](<./roscelia.md>) and member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), but expelled for keeping secrets, specifically about Dunmari magic. 

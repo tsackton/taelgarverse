@@ -1,6 +1,5 @@
 ---
 headerVersion: 2023.11.25
-excludeRooted: [Clee]
 tags: [dufr/met_one, person, dufr/minor, status/unknown]
 campaignInfo: []
 name: Frankar
@@ -18,19 +17,12 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
-    Born DR 1714 (35 years old)  
     { .bio }
 
-    Originally from: [Darakan](<../../gazetteer/sentinel-range/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
 </div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of DR 1730): [Darakan](<../../gazetteer/sentinel-range/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
 
 
 A dwarf from the city of Darakan, in the kingdom of [Khatridun](<../../gazetteer/sentinel-range/dwarven-kingdoms/khatridun.md>), fascinated with mechanical devices and runic magic. 
-
-Mysteriously vanished in a storm in DR 1730.  
 
 
 [Seeker](<../pcs/dunmar-fellowship/seeker.md>)'s brother. [Seeker](<../pcs/dunmar-fellowship/seeker.md>) told his story on [April 16, 1748](<../../campaigns/dunmari-frontier/session-notes/session-17-dufr.md>), after surviving the storms caused by Hralgar around Eudomes' Tower.

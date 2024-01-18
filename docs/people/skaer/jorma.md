@@ -18,12 +18,8 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    b. DR 1716 - d. DR 1748, died at age 32 years  
     { .bio }
 
-    Originally from: [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
-    Lived in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
 </div>
 
 

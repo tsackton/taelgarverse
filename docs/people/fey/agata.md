@@ -19,21 +19,18 @@ whereabouts:
 title: Agata Dustmother
 hide_toc: true
 ---
-# Agata Dustmother
+# The Agata Dustmother
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     hag ([fey](<../../species/children-of-the-divine/fey/fey.md>)), she/her  
     { .bio }
 
-    Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in the [Heartwood Grove](<../../cosmology/multiverse/echo-realms/feywild/heartwood-grove.md>), [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
 
 
-
-:octicons-location-24:{ .lg .middle } Imprisoned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 15th, 1748 in the [Heartwood Grove](<../../cosmology/multiverse/echo-realms/feywild/heartwood-grove.md>), [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)  
+:octicons-location-24:{ .lg .middle }   
 
 
 Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>), near [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). 

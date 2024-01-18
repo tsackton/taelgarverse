@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-08-26, type: met}
 - {campaign: GL, date: 1747-09-01, type: met}
@@ -23,20 +22,13 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1705 (44 years old)  
-    Archivist of the [Great Library](<../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>)  
     { .bio }
 
-    Originally from: [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-    Based in [Voltara](<../../gazetteer/west-coast/chardonian-empire/northern-frontier/voltara.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of August 26th, 1748): [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 
 
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 26th, 1748 in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)  
+:octicons-location-24:{ .lg .middle }   
 
 
 

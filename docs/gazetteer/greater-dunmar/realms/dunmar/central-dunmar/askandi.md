@@ -13,7 +13,7 @@ title: Askandi
 # Askandi
 :speaker:{ .middle } *(uh-SKUN-dee)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Dunmari](<../dunmar.md>) city [Central Dunmar](<./central-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

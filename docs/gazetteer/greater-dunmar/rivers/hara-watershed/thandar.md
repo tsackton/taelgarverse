@@ -10,7 +10,7 @@ title: Thandar
 # Thandar
 :speaker:{ .middle } *(t-HAHN-dur)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A river in the Hara Watershed, the [Dunmari Basin](<../../dunmari-basin/dunmari-basin.md>), [Greater Dunmar](<../../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

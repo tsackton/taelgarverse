@@ -2,7 +2,8 @@
 headerVersion: 2023.11.25
 tags: [place, status/needswork/notes]
 displayDefaults: {defArt: the, wHome: One of <current>}
-partOf: Echo Realms
+excludePublish: [clee]
+whereabouts: Echo Realms
 typeOf: plane
 title: Feywild
 ---

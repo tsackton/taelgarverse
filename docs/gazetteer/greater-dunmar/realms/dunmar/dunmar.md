@@ -10,8 +10,7 @@ title: Dunmar
 # Dunmar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: Founded DR 1173 (576 years ago)  
-    :octicons-location-24:{ .lg .middle } A realm in [Greater Dunmar](<../../greater-dunmar.md>)  
+    :octicons-location-24:{ .lg .middle }   
 </div>
 
 
@@ -58,7 +57,7 @@ The southern and eastern borders of Dunmar are dangerous wildlands. To the south
 
 To the west, Dunmar is bordered by the [Nevos Sea](<../../../west-coast/nevos-sea.md>), the ~Darba Coastal Mountains~, and the [Myraeni Gap](<../../myraeni-gap.md>), beyond which lie the islands of [Illoria](<../../../west-coast/illoria.md>), and the [Chardonian Empire](<../../../west-coast/chardonian-empire/chardonian-empire.md>). 
 
-To the north, the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) forms the northern, and largely impassible, border of Dunmar, though several passes through the mountains made overland connections with the  Greater Sembara region and the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>).
+To the north, the [Sentinel Range](<../../../sentinel-range/sentinel-range.md>) forms the northern, and largely impassible, border of Dunmar, though several passes through the mountains made overland connections with the  [Greater Sembara](<../../../greater-sembara/greater-sembara.md>) region and the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>).
 
 ## History
 
@@ -83,7 +82,7 @@ DR 1557 -
 
 *See also: Timeline of the Nayan Dynasty*
 
-The [Great War](<../../../../events/1500s/great-war.md>) left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [Yuvanti Mountains](<../../yuvanti-mountains.md>) rising to the west, and the new lands of the Nayan Floodplains emerging from the [Nevos Sea](<../../../west-coast/nevos-sea.md>). The [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was founded in the west, establishing a new administrative center, [Nayahar](<western-dunmar/nayahar.md>), on the Nayan River, and slowly reclaims land as far east as the ~Karawa Desert~. 
+The [Great War](<../../../../events/1500s/great-war.md>) left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [Yuvanti Mountains](<../../yuvanti-mountains.md>) rising to the west, and the new lands of the Nayan Floodplains emerging from the [Nevos Sea](<../../../west-coast/nevos-sea.md>). The [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was founded in the west, establishing a new administrative center, [Nayahar](<western-dunmar/nayahar.md>), on the [Nayan](<../../rivers/nayan.md>) River, and slowly reclaims land as far east as the ~Karawa Desert~. 
 
 The first 50 years of the [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was marked by a series of wars: 
 - The [Fire War](<../../../../events/1500s/fire-war.md>), against the fire giant [Mavdyr](<../../../../people/historical-figures/mavdyr.md>) and his allies

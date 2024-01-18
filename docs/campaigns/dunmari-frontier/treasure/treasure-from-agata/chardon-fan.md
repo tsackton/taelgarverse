@@ -11,7 +11,7 @@ hide_toc: true
 # The Chardon Fan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Object de Art__  
-   Owned by [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>)  
+     
 </div>
 
 

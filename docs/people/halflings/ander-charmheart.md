@@ -22,26 +22,21 @@ whereabouts:
 title: Ander Charmheart
 hide_toc: true
 ---
-# Ander Charmheart
+# The Ander Charmheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
-    Born DR 1728 (21 years old)  
     { .bio }
 
-    Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of August 13th, 1748): [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+
+
+:octicons-location-24:{ .lg .middle }   
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 29th, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 9th, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle }   
 
 
 A young, rambunctious and excessively curious halfling, traveling with the Charmheart trading caravan as a scout and general hand. 
@@ -49,8 +44,6 @@ A young, rambunctious and excessively curious halfling, traveling with the Charm
 ## Relationships
 - [Callie Charmheart](<./callie-charmheart.md>), older sister and traveling companion
 - [Bree Charmheart](<./bree-charmheart.md>), grandmother and traveling companion
-
-- [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion 
 
 
 

@@ -1,5 +1,6 @@
 ---
 tags: [status/unknown]
+excludePublish: [clee]
 title: Level 1 Feats
 ---
 FEAT DESCRIPTIONS

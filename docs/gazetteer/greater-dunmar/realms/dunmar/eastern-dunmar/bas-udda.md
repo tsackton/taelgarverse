@@ -12,8 +12,7 @@ title: Bas Udda
 # Bas Udda
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: Destroyed April 1748  
-    :octicons-location-24:{ .lg .middle } destroyed village [Eastern Dunmar](<./eastern-dunmar.md>)  
+    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

@@ -1,5 +1,6 @@
 ---
-tags: [pc/companion, person, status/notes, status/unknown]
+headerVersion: 2023.11.25
+tags: [pc/companion, person, status/needswork/notes]
 name: Baxter
 born:
 species: axebeak
@@ -7,9 +8,17 @@ ancestry:
 gender:
 player: Dave Schwartz
 affiliations:
+excludePublish: [clee]
 title: Baxter
 hide_toc: true
 ---
-### Baxter the Axebeak
+# Baxter
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-[Wellby](<../wellby.md>)'s reliable mount, now well-trained in battle and exploration. ![Baxter Portrait](../../../../assets/baxter-portrait.jpg)
+    { .bio }
+
+</div>
+
+
+![Baxter Portrait](../../../../assets/baxter-portrait.jpg){align="right"; width="320"} [Wellby](<../wellby.md>)'s reliable mount, now well-trained in battle and exploration. 

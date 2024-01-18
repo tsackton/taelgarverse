@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 campaignInfo: []
 name: Pyhlla
@@ -8,9 +9,10 @@ population: 800
 title: Pyhlla
 ---
 # Pyhlla
->[!info]+ Information
-> pop. 800
-> A town in [Skaerhem](<./skaerhem.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle }   
+</div>
+
 
 Pyhlla a port town, on a volcanic rocky island, less than a day's sail from [Vetta](<./vetta.md>), the island of the sacred waters. 
 

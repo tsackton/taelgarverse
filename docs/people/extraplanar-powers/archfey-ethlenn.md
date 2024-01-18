@@ -11,14 +11,12 @@ whereabouts: Twilight's Grace
 title: Archfey Ethlenn
 hide_toc: true
 ---
-# Archfey Ethlenn
+# The Archfey Ethlenn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [archfey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
     { .bio }
 
-    Based in [Twilight's Grace](<../../cosmology/multiverse/echo-realms/feywild/twilight-s-grace.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
 </div>
 
 

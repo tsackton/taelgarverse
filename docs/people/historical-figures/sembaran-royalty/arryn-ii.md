@@ -14,13 +14,10 @@ affiliations:
 - {place: Tyrwingha, start: 1602}
 hide_toc: true
 ---
-# King Arryn II
+# The King Arryn II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
-    b. DR 1601 - d. October 1648, died at age 47 years  
-    King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), and [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (DR 1602 - October 1648)  
     { .bio }
 
 </div>

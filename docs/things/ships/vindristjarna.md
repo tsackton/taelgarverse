@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-excludeRooted: [Clee]
+excludePublish: [clee]
 tags: [item]
 pronunciation: vin-dree-SHAR-na
 displayDefaults: {linkText: true, ltItem: stored on}
@@ -25,8 +25,8 @@ hide_toc: true
 :speaker:{ .middle } *(vin-dree-SHAR-na)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Magical Skyship__  
-   Created unknown storm giant  
-   Owned owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
+     
+     
 </div>
 
 
@@ -87,7 +87,7 @@ UNNAMED (unknown). Mapmaker
 
 UNNAMED (unknown). A halfling storyteller. 
 
-[Kecha](<../../people/other-nonhumans/kecha.md>) (unknown). A kenku scout. 
+[Kecha](<../../people/kenku/kecha.md>) (unknown). A kenku scout. 
 ## Magic
 
 In addition to the phasing stone, Vindristjarna is equipped with the following magic.
@@ -98,7 +98,7 @@ A polished stone sphere, 1 foot in diameter, embedded on top of short marble ped
 ### Cold Chest
 A 3 foot deep by 4 foot wide stone chest, [recovered](<../../campaigns/dunmari-frontier/session-notes/session-80-dufr.md>) from an ancient Drankorian workshop and laboratory hidden along an underground portion of the Freccila River in south-central Cymea, historically known as the Elemental Forge, and more recently as the Edge of Echoes. The chest is enchanted. Any food or drink that is placed within the chest will not spoil. Drankorian make. 
 ### Planar Prism
-A fine hollow sphere made of wires of [Inkaye](<../materials/inkaye.md>), in which a shimmering crystal prism is mounted. This item is magically linked to the [phasing stone](<../magic-items/phasing-stones.md>) on [Vindristjarna](<./vindristjarna.md>): if you are attuned to the phasing stone, you are considered attuned to the rainbow prism, and vice versa. 
+A fine hollow sphere made of wires of Inkaye, in which a shimmering crystal prism is mounted. This item is magically linked to the [phasing stone](<../magic-items/phasing-stones.md>) on [Vindristjarna](<./vindristjarna.md>): if you are attuned to the phasing stone, you are considered attuned to the rainbow prism, and vice versa. 
 
 While attuned to the rainbow prism, you can use an action to separate resonant extraplanar energy via the spectral prism, creating a bridge of rainbow light and magical energy. This bridge can connect to one of the following locations:
 - Using the inherent resonance of the plane of Taelgar, you can create a bridge to a point you can see. 

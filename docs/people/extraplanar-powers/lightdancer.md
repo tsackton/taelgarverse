@@ -18,10 +18,8 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) ([archfey](<../../species/children-of-the-divine/fey/fey.md>)) (they/them)  
     { .bio }
 
-    Based in [Shimmersong](<../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
 </div>
 
 

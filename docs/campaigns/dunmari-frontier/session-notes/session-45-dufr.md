@@ -1,5 +1,4 @@
 ---
-excludeRooted: [Clee]
 tags: [status/unknown]
 title: Session 45 (DuFr)
 ---

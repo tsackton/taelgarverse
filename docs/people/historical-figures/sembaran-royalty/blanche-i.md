@@ -17,14 +17,10 @@ affiliations:
 - {org: House of Sewick, type: primary}
 hide_toc: true
 ---
-# Queen Blanche I
+# The Queen Blanche I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
-    b. DR 1538 - d. DR 1567, died at age 29 years  
-    High Queen of Zovcka (February 13th, 1561 - DR 1563)  
-    High Queen of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkovia/ardlas.md>), Lavnoch, and [Breva](<../../../gazetteer/greater-sembara/zimkovia/breva.md>) (February 13th, 1561 - DR 1567)  
     { .bio }
 
 </div>

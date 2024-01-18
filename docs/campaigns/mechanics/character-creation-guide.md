@@ -1,5 +1,6 @@
 ---
 tags: [status/unknown]
+excludePublish: [clee]
 title: Character Creation Guide
 ---
 

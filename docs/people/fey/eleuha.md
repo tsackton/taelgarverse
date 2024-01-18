@@ -19,7 +19,6 @@ hide_toc: true
     A dryad ([fey](<../../species/children-of-the-divine/fey/fey.md>)), she/her  
     { .bio }
 
-    Based in [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
 </div>
 
 

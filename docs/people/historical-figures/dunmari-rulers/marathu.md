@@ -5,18 +5,18 @@ ancestry: Dunmari
 species: human
 title: Samraat Nayan Marathu
 gender: male
+born: 1676
 died: 1740
 name: Nayan Marathu
-affiliations: [Nayan Dynasty]
+affiliations:
+- {org: Nayan Dynasty, type: primary}
+- {org: Dunmar, start: 1736, end: 1740, type: leader}
 hide_toc: true
 ---
-# Samraat Nayan Marathu
+# The Samraat Nayan Marathu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans/humans.md>) (he/him)  
-    Died DR 1740  
-    Member of the [Nayan dynasty](<../../../groups/dunmari-dynasties/nayan-dynasty.md>) (until DR 1740)  
     { .bio }
 
 </div>

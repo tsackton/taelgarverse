@@ -1,5 +1,4 @@
 ---
-excludeRooted: [Clee]
 tags: [session-note]
 title: Session 82 (DuFr)
 ---

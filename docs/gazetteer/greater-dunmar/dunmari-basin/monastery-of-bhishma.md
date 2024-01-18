@@ -12,7 +12,7 @@ title: Monastery of Bhishma
 ---
 # The Monastery of Bhishma
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Dunmari](<../realms/dunmar/dunmar.md>) monastery of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) in the [Garamjala Desert](<../garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../istaros-watershed/desolation-of-cha-mutte.md>)  
+-    :octicons-location-24:{ .lg .middle }   
 </div>
 
 

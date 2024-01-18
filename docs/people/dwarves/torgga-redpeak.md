@@ -12,11 +12,10 @@ gender: female
 title: Torgga Redpeak
 hide_toc: true
 ---
-# Torgga Redpeak
+# The Torgga Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her), of the Redpeaks  
     { .bio }
 
 </div>
