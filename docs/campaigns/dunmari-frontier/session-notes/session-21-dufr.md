@@ -1,11 +1,15 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 21
+realWorldDate: 2021-03-13
+DR: 1748-05-05
+DR_end: 1748-05-11
+players: [Kenzo, Wellby, Delwath, Seeker]
 title: Session 21 (DuFr)
 ---
 
-**(Saturday, March 13th, 2021; in Taelgar, evening of May 5th to May 11th)
-
-We begin as the battle with the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) ends, the party collecting themselves after a tough fight, and deciding to deal with their captive, one of the [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) clerics named [Gorkil](<../../../people/orcs/gorkil.md>). There is little to note among the wreckage of the battle, although the party does take note of the symbol that seems to be painted on these [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) faces and gear: a rising sun, below a screaming face. 
+We begin as the battle with the [orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) ends, the party collecting themselves after a tough fight, and deciding to deal with their captive, one of the [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) clerics named [Gorkil](<../../../people/orcs/gorkil.md>). There is little to note among the wreckage of the battle, although the party does take note of the symbol that seems to be painted on these orc faces and gear: a rising sun, below a screaming face. 
 
 Heading into [Havdar](<../../../people/dunmari/havdar.md>)’s camp, they speak briefly with [Havdar](<../../../people/dunmari/havdar.md>), and [Aram](<../../../people/dunmari/aram.md>), a holy warrior and healer of [Aagir](<../../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>). [Havdar](<../../../people/dunmari/havdar.md>) lost four of his warriors in the fight, which was tougher and more deadly than expected, both because of the sophistication of the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) battle plan and their magic. 
 
@@ -17,4 +21,4 @@ The next day, after hearing from [Havdar](<../../../people/dunmari/havdar.md>)�
 
 Five days after leaving [Havdar](<../../../people/dunmari/havdar.md>)’s troops, the party arrives at the [Kharja](<../../../gazetteer/istaros-watershed/rivers/kharja.md>) river, briefly considering scouting what appears to be a stand of trees far to the south, but instead turns north to their destination. The river bed is dry, with cliffs on the western edge and a floodplain on the eastern edge, and after a hot journey the party arrives within sight of [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>) in the late afternoon of May 11th. 
 
-The city of [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>) stretches out on the floodplains, a walled city at least a mile across, once a place of great monumental architecture, but now partially in ruins. A huge temple, a stadium, and a palace in the center of the city are notable surviving landmarks, as are the bridge over the river and the main gates to the city, a pair of horses rearing to form an archway. On the cliffs above the city and across the river, twelve tombs stand, all sharing a pentagonal step pyramid design, but otherwise different in form and scale. These are the tombs of the rulers of the first Dunmari dynasty, starting with the tomb of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) (marked by a large -- 40’ tall -- statue of her). South of the city, an [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) fort is under construction, a warren and maze of walls and enclosed spaces. Further south beyond that is the monastery, seemingly untouched. 
+The city of [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>) stretches out on the floodplains, a walled city at least a mile across, once a place of great monumental architecture, but now partially in ruins. A huge temple, a stadium, and a palace in the center of the city are notable surviving landmarks, as are the bridge over the river and the main gates to the city, a pair of horses rearing to form an archway. On the cliffs above the city and across the river, twelve tombs stand, all sharing a pentagonal step pyramid design, but otherwise different in form and scale. These are the tombs of the rulers of the [first Dunmari dynasty](<../../../groups/dunmari-dynasties/aatmaji-dynasty.md>), starting with the tomb of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) (marked by a large -- 40’ tall -- statue of her). South of the city, an [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) fort is under construction, a warren and maze of walls and enclosed spaces. Further south beyond that is the monastery, seemingly untouched. 

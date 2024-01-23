@@ -1,9 +1,13 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 12
+realWorldDate: 2020-11-08
+DR: 1748-04-13
+DR_end: 1748-04-13
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 title: Session 12 (DuFr)
 ---
-
-**(Sunday, Nov 8th, 2020; in Taelgar, morning April 13th)
 
 We begin as the morning sun rises over [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). As the party awakens and prepares for the day, they are interrupted as [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) note the approach of a band of gnolls, heading towards the closed gate. They are traveling with a small bat-like demon, and moving quickly across the courtyard, past pools of fetid black water, avoiding the low hanging mists lingering in the air. As they approach the gate, they bang on it a few times, and there seems to be a brief discussion as the leader reaches for a spear, when [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)’s arrow flies out of the windows on the tower, striking the demon-beast dead.
 

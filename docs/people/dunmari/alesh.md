@@ -41,13 +41,13 @@ A short, quick-footed woman, with a nondescript face, short, black hair and ligh
 - Her extended family are traditional goat herders who travel mostly to the north and west of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
 
 ## Chronology
-- 21 Mar 1748: Spends the night at the [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) oasis with [Akan](<./akan.md>) and his family
-- 22 Mar 1748: Meets [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on the road, while returning to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>).
-- 23 Mar 1748: Arrives in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
-- 28 Mar 1748: Leaves to collect news and rumors from the herders to the north and east. 
-- 2 Apr 1748: Returns to Karawa with news from the north and east. 
-- 4 Apr 1748: Leaves [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to scout the [Nashtkar](<../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>) and edges of the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
-- 18 Apr 1748: Returns to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
+- Mar 21, 1748 DR: Spends the night at the [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) oasis with [Akan](<./akan.md>) and his family
+- Mar 22, 1748 DR: Meets [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on the road, while returning to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>).
+- Mar 23, 1748 DR: Arrives in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
+- Mar 28, 1748 DR: Leaves to collect news and rumors from the herders to the north and east. 
+- Apr 02, 1748 DR: Returns to Karawa with news from the north and east. 
+- Apr 04, 1748 DR Leaves [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to scout the [Nashtkar](<../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>) and edges of the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
+- Apr 18, 1748 DR: Returns to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
 - 26 Apr 1748 - 18 May 1748: Travel between [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) and [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) and back to bring messages, check on refugees. 
 - 18 May 1748 - 31 May 1748: In [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) waiting for news. 
 - 1 June 1748: Rides for [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) to inform refugees it is safe to return

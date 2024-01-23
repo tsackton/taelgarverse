@@ -1,9 +1,13 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 41
+realWorldDate: 2022-03-03
+DR: 1748-07-06
+DR_end: 1748-07-13
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 title: Session 41 (DuFr)
 ---
-
-**(Thursday, March 3rd, 2022; in Taelgar, July 6th - July 13th)
 
 We begin as the party finishes their conversation with [Saka](<../../../people/dunmari/saka.md>), and prepares to return to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) after sharing a meal with [Saka](<../../../people/dunmari/saka.md>) and her family. As they depart, [Saka](<../../../people/dunmari/saka.md>) pulls [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) aside, reminding him not to neglect his duties as a Mystai of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>). She gives him 10 scrolls that can be used to collect the stories of the people of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), to be stored in the [Hall of Stories](<../../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>) at some point in the future. 
 
@@ -19,7 +23,7 @@ Leaving the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-
 
 That afternoon, the party moves to the monastery to wait for their [Portable Hole](<../treasure/treasure-from-tokra/portable-hole.md>) before leaving for [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>). The next day is the [Day of Renewal](<../../../time/holidays-and-festivals/dunmari-festivals/day-of-renewal.md>), a quiet day in the Dunmari festival cycle, celebrating the first rains of the monsoon each year, and giving thanks to [Jeevali](<../../../cosmology/gods/incorporeal-gods/dunmari/jeevali.md>) for her sacrifice. 
 
-Over the next few days, the party speaks with [Kassi](<../../../people/dunmari/kassi.md>) (details on what she reports are described in [Research from Kassi](<../letters-notes-and-tales/research-from-kassi.md>)), and then speaks with Speaker [Lara](<../../../people/dunmari/lara.md>), when she returns from her trip to the east.
+Over the next few days, the party speaks with [Kassi](<../../../people/dunmari/kassi.md>) (details on what she reports are described in [Research from Kassi](<../letters-and-notes/research-from-kassi.md>)), and then speaks with Speaker [Lara](<../../../people/dunmari/lara.md>), when she returns from her trip to the east.
 
 Speaker [Lara](<../../../people/dunmari/lara.md>) has traveled east, and spoken with Nayan [Sura](<../../../people/dunmari/sura.md>), drawn, she thinks, by the gods to help make sense of the current moment. But [Lara](<../../../people/dunmari/lara.md>) fears this is a moment that [Laka](<../../../cosmology/gods/incorporeal-gods/dunmari/laka.md>) did not foresee, and does not know exactly what to do. She sees the will of [Aagir](<../../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) in [Sura](<../../../people/dunmari/sura.md>); [Aagir](<../../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) has always been the force in [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) pushing for war, pushing to drive east and exterminate the evil forces that threaten [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). But whether this is impulse will lead to safety, or just needless death, [Lara](<../../../people/dunmari/lara.md>) does not know and cannot see. In the past, riding east in force has led to much death, but whether needless is hard to say, and if [Sura](<../../../people/dunmari/sura.md>) summoned the might of [Aagir](<../../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) and rode forth, [Lara](<../../../people/dunmari/lara.md>) fears that [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) may meet a glorious end. [Nayan Karnas](<../../../people/dunmari/nayan-karnas.md>) is a servant of [Sonkar](<../../../cosmology/gods/incorporeal-gods/dunmari/sonkar.md>) – a goddess many think cold, perhaps even heartless, for she is the one that sits in judgment of the dead. And yet she is also the one that mourns life cut short the most, the lost potential of the prematurely dead to create art and beauty in the world. 
 

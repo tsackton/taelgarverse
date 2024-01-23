@@ -24,7 +24,7 @@ hide_toc: true
     Born DR 1666 (83 years old)  
     { .bio }
 
-    Exiled from the [Sivnjo Mountains](<../../gazetteer/northern-green-sea/sivnjo-mountains.md>) in DR 1731
+    Exiled from the [Sivnjo Mountains](<../../gazetteer/northern-green-sea/sivnjo-mountains.md>), the Northern Green Sea in DR 1731
     Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) (for 17 years)
 </div>
 

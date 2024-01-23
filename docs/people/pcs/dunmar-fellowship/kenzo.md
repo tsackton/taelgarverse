@@ -197,7 +197,7 @@ hide_toc: true
 
 > [!WARNING]- Jungle Ki Lore
 > 
-> ### Jungle Ki Lore, [Session 55-56 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-55-56-dufr.md>)
+> ### Jungle Ki Lore, [Session 57 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-57-dufr.md>)
 > 
 > In the lizardfolk kingdom of [Orekatu](<../../../gazetteer/far-south/orekatu.md>), Kenzo learned about other kinds of ki that draw energy from different parts of the spirit realms and collect in plants that grow in the right places, from a lizardfolk wanderer / prophet / spirit guide named [Elazar](<../../lizardfolk/elazar.md>). 
 > 
@@ -228,7 +228,7 @@ hide_toc: true
 
 > [!warning]- Letter from Kaeso to Kenzo, Session 61
 > 
-> #### Letter from [Kaeso](<../../chardonians/kaeso.md>) to Kenzo, [Session 61 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-61-dufr.md>)
+> #### Letter from [Kaeso](<../../chardonians/kaeso.md>) to Kenzo, [Session 67 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-67-dufr.md>)
 > 
 > this is a letter that [Riswynn](<./riswynn.md>) got from [Rishi](<../../dunmari/rishi.md>), in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), still sealed, addressed to Kenzo, and written in Dunmari
 > 

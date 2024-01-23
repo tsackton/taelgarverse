@@ -46,13 +46,13 @@ You sense there may be other command words, but further study or research on the
 Current occupants of the mirror are:
 
 1. [Revaka](<../../../../people/other-nonhumans/revaka.md>), a hobgoblin, trapped by [Agata](<../../../../people/fey/agata.md>).
-2. Hektor, trapped in [Session 72 (DuFr)](<../../session-notes/session-72-dufr.md>) 
+2. Hektor, trapped in [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>) 
 3. A wyvern, trapped in [Session 43 (DuFr)](<../../session-notes/session-43-dufr.md>). 
 4. A poison troll, trapped in [Session 45 (DuFr)](<../../session-notes/session-45-dufr.md>).
-5. Valius/Vargus, trapped in  [Session 72 (DuFr)](<../../session-notes/session-72-dufr.md>). Cells merged into one in [Session 73 (DuFr)](<../../session-notes/session-73-dufr.md>).
+5. Valius/Vargus, trapped in  [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>). Cells merged into one in [Session 79 (DuFr)](<../../session-notes/session-79-dufr.md>).
 6. empty
-7. Antonia, trapped in [Session 72 (DuFr)](<../../session-notes/session-72-dufr.md>)
-8. Vola, trapped in [Session 72 (DuFr)](<../../session-notes/session-72-dufr.md>)
+7. Antonia, trapped in [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>)
+8. Vola, trapped in [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>)
 9. empty
 10. empty
 11. empty

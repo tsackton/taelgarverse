@@ -1,9 +1,13 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 49
+realWorldDate: 2022-06-30
+DR: 1748-08-22
+DR_end: 1748-08-24
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 title: Session 49 (DuFr)
 ---
-
-**(Thursday, June 30th, 2022; in Taelgar, Aug 22nd - Aug 24th)**
 
 We start as the party makes their way through the [University of Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>) area, to find the scholar [Gnaeus](<../../../people/chardonians/gnaeus.md>), who wrote a book about the people of the [Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>) that mentioned [Rai](<../../../people/pcs/great-war/rai.md>). Interrupting his meager class, they buy him lunch and offer a recommendation about his skill, and he tells his story. Although he has been disgraced for using enchantment magic to learn about the Deno’qai in the forest, he claims what he tells is the truth. From [Gnaeus](<../../../people/chardonians/gnaeus.md>), the party learns about the tribes of the Deno’qai, including the Baz'aku, who trade with the Chardonians in the [Chasa](<../../../gazetteer/chasa-nahadi-watershed/rivers/chasa.md>) River Valley; the reclusive hunters of the [Bek'eni](<../../../groups/deno-qai/bek-eni.md>), and the [Te'kula](<../../../groups/deno-qai/te-kula.md>), who have hidden themselves away to avoid some great evil they will not mention. 
 

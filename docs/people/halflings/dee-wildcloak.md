@@ -46,7 +46,7 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Received a [Letter from Dee WIldcloak](<../../campaigns/dunmari-frontier/letters-notes-and-tales/letter-from-dee-wildcloak.md>) on November 15th, 1748  
+:octicons-location-24:{ .lg .middle } Received a [Letter from Dee WIldcloak](<../../campaigns/dunmari-frontier/letters-and-notes/letter-from-dee-wildcloak.md>) on November 15th, 1748  
 
 
 Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon. 

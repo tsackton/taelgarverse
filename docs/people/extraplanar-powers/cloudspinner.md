@@ -31,7 +31,7 @@ The Queen of Sunset was once the ruler of [Amberglow](<../../cosmology/multivers
 
 
 
-Her memories opened [Session 61 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-61-dufr.md>):
+Her memories opened [Session 67 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-67-dufr.md>):
 
 *As a group of travelers gathers here, some reunited after a long separation, others newly met, the Cloudspinner feels their presence even from her prison, far away, and she drifts in thought.
 

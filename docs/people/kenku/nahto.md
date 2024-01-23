@@ -24,14 +24,14 @@ hide_toc: true
     Born DR 1700 (49 years old)  
     { .bio }
 
-    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), ~Eastern Islands~
+    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the ~Eastern Islands~
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of October 16th, 1748): the [sea elf village in Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), ~Eastern Islands~
+:octicons-location-24:{ .lg .middle } Last known location (as of October 16th, 1748): the [sea elf village in Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), the ~Eastern Islands~, the [Green Sea](<../../gazetteer/green-sea.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Rescued by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 14th, 1748 from the aboleth lair east of the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), ~Eastern Islands~  
+:octicons-location-24:{ .lg .middle } Rescued by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 14th, 1748 from the aboleth lair east of the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), in the ~Eastern Islands~, the [Green Sea](<../../gazetteer/green-sea.md>)  
 
 
 ![Nahto](../../assets/nahto.png){align="right"; width="400"}Kenku man in late middle age. Tinkerer, traveler, explorer; Nahto wanders over the islands of the Eastern [Green Sea](<../../gazetteer/green-sea.md>) with his partner, Skoda. 

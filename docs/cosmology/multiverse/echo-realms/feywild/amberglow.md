@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/notes]
-partOf: Feywild
+whereabouts: Feywild
 excludePublish: [clee]
 ancestry: fey
 typeOf: realm
@@ -9,7 +9,7 @@ title: Amberglow
 ---
 # Amberglow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Fey](<../../../../species/children-of-the-divine/fey/fey.md>) realm [Feywild](<./feywild.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Fey](<../../../../species/children-of-the-divine/fey/fey.md>) realm in the [Feywild](<./feywild.md>), the Echo Realms  
 </div>
 
 

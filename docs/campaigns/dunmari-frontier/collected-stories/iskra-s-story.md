@@ -2,7 +2,7 @@
 tags: [status/unknown]
 title: Iskra's Story
 ---
-(as told to Kenzo in [Session 75 (DuFr)](<../session-notes/session-75-dufr.md>))
+(as told to Kenzo in [Session 81 (DuFr)](<../session-notes/session-81-dufr.md>))
 
 As Kenzo spends an afternoon with Iskra, he hears her story.
 

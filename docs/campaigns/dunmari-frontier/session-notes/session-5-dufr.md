@@ -1,11 +1,18 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 5
+realWorldDate: 2020-07-24
+DR: 1748-03-30
+DR_end: 1748-04-04
+players: [Kenzo, Wellby, Delwath, Seeker]
 title: Session 5 (DuFr)
 ---
+## Timeline
 
-**(Friday, July 24th, 2020; in Taelgar, morning March 30, to early afternoon, April 4)**
 
-The session begins with everybody but [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) meeting for breakfast at [Ikram’s](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/ikrams.md>) caravanserai. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) shares a message and [letter](<../letters-notes-and-tales/letter-from-candrosa.md>) from [Candrosa](<../../../people/dunmari/candrosa.md>), informing the party that scouts are investigating rumors of attacks to the south and east, and that a council in a few days time will meet to decide what to do. The presence of the Heroes of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) is requested at this council. After being informed that [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is meditating at the summit of the [Red Mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>) on the southern border of town, the party heads up to meet him; on the way [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) is reminded of the geological oddity that the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), carved into the cliff wall of the mesa, seems to be older than the mesa itself. 
+## Narrative
+The session begins with everybody but [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) meeting for breakfast at [Ikram’s](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/ikrams.md>) caravanserai. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) shares a message and [letter](<../letters-and-notes/letter-from-candrosa.md>) from [Candrosa](<../../../people/dunmari/candrosa.md>), informing the party that scouts are investigating rumors of attacks to the south and east, and that a council in a few days time will meet to decide what to do. The presence of the Heroes of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) is requested at this council. After being informed that [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is meditating at the summit of the [Red Mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>) on the southern border of town, the party heads up to meet him; on the way [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) is reminded of the geological oddity that the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), carved into the cliff wall of the mesa, seems to be older than the mesa itself. 
 
 Here, some discussion ensues of various pre-dawn encounters. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) tells the party about [Candrosa's staff](<../../../things/artifacts-of-power/dreamweaver-staff.md>), which sent him to a starry void filled with flickering lights of all colors and shapes (reminding [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) of his coming of age vision), and then to the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), a mirror realm that is like and very unlike Taelgar. Here, he saw a robed man with a staff, who told him to seek the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). While no one in the party knows much about this order, there are legends of mystics that roam the desert and go by this name. After some discussion of magic, planes, and the gods, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) begins to tell his story.
 

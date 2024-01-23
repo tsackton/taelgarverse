@@ -23,9 +23,9 @@ hide_toc: true
     Born DR 1652 (97 years old)  
     { .bio }
 
-    Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), ~Eastern Islands~
+    Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), the ~Eastern Islands~, the [Green Sea](<../../../../gazetteer/green-sea.md>)
 </div>
 
 
-Young sea elf warrior, from the [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), to the south. Adventuring to win renown and the attention of a lady. After [helping kill the aboleth and rescue Arryn](<../../../../campaigns/dunmari-frontier/session-notes/session-57-58-dufr.md>), returned south. 
+Young sea elf warrior, from the [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), to the south. Adventuring to win renown and the attention of a lady. After [helping kill the aboleth and rescue Arryn](<../../../../campaigns/dunmari-frontier/session-notes/session-60-dufr.md>), returned south. 
 

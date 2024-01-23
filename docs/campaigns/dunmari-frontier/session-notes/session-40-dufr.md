@@ -1,9 +1,13 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 40
+realWorldDate: 2022-02-17
+DR: 1748-07-03
+DR_end: 1748-07-06
+players: [Kenzo, Wellby, Delwath, Seeker]
 title: Session 40 (DuFr)
 ---
-
-**(Thursday, Feb 17th, 2022; in Taelgar, July 3rd - July 6th )
 
 We begin as the party leaves [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) just before lunchtime, finally heading north to look for [Saka](<../../../people/dunmari/saka.md>) on the plains, after seemingly vanquishing the last remnants of the [Fraternity of the Empty Moon](<../../../groups/fraternity-of-the-empty-moon.md>). Heading north along the river, the first afternoon of travel is hot, but uneventful, the first night notable only for [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s recurrent dreams of being underground, near what sounds like a metal forge, the sound of hammers seemingly keeping him safe from some nameless danger of bloodlust and fear. 
 
@@ -13,7 +17,7 @@ After departing [Kiran](<../../../people/dunmari/kiran.md>)’s camp, the party 
 
 The next day passes quickly in travel, the party realizing around dusk that they were perhaps heading a bit too west, for [Saka](<../../../people/dunmari/saka.md>)’s camp is visible due east. After another evening’s rest on the arid plains of north [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), the party approaches [Saka](<../../../people/dunmari/saka.md>)’s camp the next morning, asking to speak with her.
 
-After briefly speaking with [Jita](<../../../people/dunmari/jita-of-tokra.md>), Saka's niece and helper, the party is led into her dark, smoky tent, where she has been waiting. After introducing themselves, the party explains that they are here looking for answers about the fate of the Mystai of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) on the blasted plains thirty years ago, and the connection to [Rai](<../../../people/pcs/great-war/rai.md>). [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) gifts [Saka](<../../../people/dunmari/saka.md>) a copy of “Infinite Gates of [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>): a book in which one selects one’s own adventure.”
+After briefly speaking with [Jita](<../../../people/dunmari/jita-of-tokra.md>), Saka's niece and helper, the party is led into her dark, smoky tent, where she has been waiting. After introducing themselves, the party explains that they are here looking for answers about the fate of the Mystai of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) on the blasted plains thirty years ago, and the connection to [Rai](<../../../people/pcs/great-war/rai.md>). [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) gifts [Saka](<../../../people/dunmari/saka.md>) a copy of "[Legendary Gates of Kenzo](<../../../things/books/legendary-gates-of-kenzo.md>), a book in which one selects one’s own adventure.”
 
 [Saka](<../../../people/dunmari/saka.md>) is skeptical, wondering how many stories [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) has collected for the [Hall of Stories](<../../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>), and dubious of heroes in general, for her compatriots saw themselves as heroes and all died. She sees [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) as a defense against the darkness, not a great conquering force to cleanse the land of evil, and she mourns the loss of the Mystai, the loss of their stories. After some back and forth, she relents, and tells her story.
 
@@ -25,6 +29,6 @@ The travelers and the faction arguing for action had found, in [Drankor](<../../
 
 As part of their failure, [Rai](<../../../people/pcs/great-war/rai.md>)’s power was also broken or diminished somehow, and some hold that he had had on the land faded. A protection he had cast over the [Nashtkar](<../../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>), the blasted plains, was lost, and since then dark things have grown in power. 
 
-With the failure, [Saka](<../../../people/dunmari/saka.md>) fled west, and now trains who she can to keep some remnant of the Mystai alive. She ends her story with a word of advice and warning: there are many people and powers whose lives have been touched by the party, from the trapped god that clings to [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and grants him power, to the giant [Hralgar](<../../../people/giants/hralgar.md>), to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)’s [brother](<../../../people/dwarves/frankar.md>). She tells the party to tend to these wounds and not go chasing heroics, as the gods have not seen fit to reveal what could possibly separate the planes again and remove the seeds of chaos, and perhaps only [Shurat](<../../../cosmology/gods/high-gods/shurat.md>) and [Sampa](<../../../cosmology/gods/high-gods/sampa.md>) can do this, as they did once before. And they do not grant or hear prayers. 
+With the failure, [Saka](<../../../people/dunmari/saka.md>) fled west, and now trains who she can to keep some remnant of the Mystai alive. She ends her story with a word of advice and warning: there are many people and powers whose lives have been touched by the party, from the trapped god that clings to [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and grants him power, to the [giant](<../../../species/children-of-the-divine/giants.md>) [Hralgar](<../../../people/giants/hralgar.md>), to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)’s [brother](<../../../people/dwarves/frankar.md>). She tells the party to tend to these wounds and not go chasing heroics, as the gods have not seen fit to reveal what could possibly separate the planes again and remove the seeds of chaos, and perhaps only [Shurat](<../../../cosmology/gods/high-gods/shurat.md>) and [Sampa](<../../../cosmology/gods/high-gods/sampa.md>) can do this, as they did once before. And they do not grant or hear prayers. 
 
 The session ends as [Saka](<../../../people/dunmari/saka.md>) answers the party’s questions, and they then turn to discuss amongst themselves the next steps.

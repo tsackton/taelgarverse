@@ -1,10 +1,40 @@
 ---
-tags: [status/unknown]
-title: Session 4 (DuFr)
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 4
+realWorldDate: 2020-07-09
+DR: 1748-03-26
+DR_end: 1748-03-29
+players: [Kenzo, Wellby, Delwath, Seeker]
+tagline: in which the Dunmar Fellowship uncovers dire truths
+descTitle: Shakun's Wane
+title: Dunmari Frontier - Session 4 Session 4 (DuFr)
+complete: true
 ---
+# Dunmari Frontier - Session 4
 
-**(Thursday, July 9th, 2020; in Taelgar, morning March 26, to late evening March 29)**
+>[!info] Shakun's Wane: in which the Dunmar Fellowship uncovers dire truths
+> *In Taelgar: Mar 26, 1748 DR to Mar 29, 1748 DR*
+> *On Earth: Thursday Jul 09, 2020*
+> *Karawa*
 
+The Dunmar Fellowship arrives in Karawa and discovers that the magical protections of Shakun are failing, leading to increased dangers and a plea for their aid.
+## Session Info
+### Summary
+- The Dunmar Fellowship departs the fort with various artifacts and heads to Karawa.
+- In Karawa, they learn from Elder Kisa about past disturbances and the Summer of Red Storms.
+- The party learns more about Arcus, attacked herders, and the upcoming Festival activities from Ikram, Jasu, and Alesh.
+- The Charmhearts, a group of halflings, provide an unsettling encounter with a disheveled halfling speaking of a 'master'.
+- Candrosa of the Shakun temple reveals the weakening of magical protections and seeks the party's help.
+### Timeline
+- Mar 26, 1748 DR, morning: Wake in temple at the [Dunmari fort](<../../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>), set out west for [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
+- Mar 26, 1748 DR, afternoon: Travel west across the [Daraar Canyon](<../../../gazetteer/greater-dunmar/dunmari-basin/daraar-canyon.md>), heading for [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
+- Mar 27, 1748 DR: Travel west towards Karawa
+- Mar 28, 1748 DR: Travel west towards Karawa
+- Mar 29, 1748 DR, early afternoon: Arrive in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Speak with Elder [Kisa](<../../../people/dunmari/kisa.md>), who tells them about the [Summer of Red Storms](<../../../events/1700s/1709/summer-of-red-storms.md>). Meet [Ikram](<../../../people/dunmari/ikram.md>), who tells them about [Arcus](<../../../people/chardonians/arcus.md>). Meet the smith, [Jasu](<../../../people/dunmari/jasu.md>). Meet the [Charmhearts](<../../../groups/halfling-families/charmhearts.md>).
+- Mar 29, 1748 DR, evening: Speak with [Candrosa](<../../../people/dunmari/candrosa.md>), who is nervous and seems to be hiding something. Learn about [Shakun's Protection](<../../../cosmology/religions/five-siblings/shakun-s-protection.md>) from Candrosa. Learn rumors of permanent lightning storm on the plains, and half-human, half-hyena beasts known as gnolls raiding.
+
+## Narrative
 The session began with the party waking up in the intact temple of the ruined fort, a sense of calm and peace permeating the area after the defeat of the zombie hobgoblin and the destruction of the cursed obsidian focus. After a little while spent in further exploration, as well as sketching the face of the [petrified explorer](<../../../people/chardonians/arcus.md>) and briefly debating heading back in the tunnels to try to tame a cockatrice, the party set off for [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Before leaving, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) studies the tunnel a bit and learns that it is relatively old, at least a few months and maybe more, and created by a creature. Taking the relics found in the temple (including the small [spearpoint statue](<../treasure/treasure-from-dunmari-ruins/aagir-s-everlight.md>) enchanted with continual light), the [Black Iron Staff](<../treasure/treasure-from-dunmari-ruins/black-iron-staff.md>) inscribed with the words: "I bind you to the black wind, I bind you to my flame, I bind you in my power until the sun fails and the moon is dead" in Draconic, what looks like a holy symbol relating to Cha’mutte (made of black pearl and polished silver in a twisted flame design), as well as the [golden floating coin](<../treasure/treasure-from-dunmari-ruins/floating-disc-coin.md>) and a [horn engraved with a running horse design](<../treasure/treasure-from-dunmari-ruins/horn-of-silent-alarm.md>), the party leaves. 
 
 Traveling back to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) took about 3 days at a fast, but not exhausting, pace. Arriving in the early afternoon on March 29th, the town has changed. Lots of people -- not just Dunmari -- have arrived for the Festival, and the markets and games that accompany it, and a large tent city has grown up on the outskirts of town. The caravanserai is bustling, and there is more activity and trade happening in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) than any of you had seen since arriving in what was a sleepy town. 
@@ -20,4 +50,3 @@ Leaving [Jasu](<../../../people/dunmari/jasu.md>) to his dinner, they head to sa
 At this point, the party splits up before bed. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) head to the oasis to meditate and try to get insight from [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>), while [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) continues to talk and drink with [Ikram](<../../../people/dunmari/ikram.md>). About 10:30 or 11 at night, [Candrosa](<../../../people/dunmari/candrosa.md>) walks out of the temple of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>), sees most of the party, and sends [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) to get [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) at the inn, where [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) proceeds to attempt an ancient halfling trick to sober you up quick involving three eggs and a stick.
 
 Eventually the party gathered at the oasis and the temple, seeing a man on a horse in warrior gear ride past leaving the temple as they are assembling (this is [Havdar](<../../../people/dunmari/havdar.md>), a warrior who reported the rumors of hyena-humanoids attacking to the south to [Candrosa](<../../../people/dunmari/candrosa.md>)). [Candrosa](<../../../people/dunmari/candrosa.md>) ushered them into a small room to the side of the entryway of the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>). As the party began to talk with [Candrosa](<../../../people/dunmari/candrosa.md>), it became clear he was nervous and hiding something. When asked directly, he seemed almost relieved, but also uncertain as to whether he could trust the party, and almost struggling with himself as to how much to reveal. After hearing the stories of why the party is there, and casting Zone of Truth and asking them if they are here to aid or hinder [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), he begins to talk, telling the party about the magic of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>) that protects the borders of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), creating illusions and misdirection preventing enemies from finding their way in the desert. He talks about how this magic has kept [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) safe for many generations, and then about how [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>) seems to have abandoned the Dunmari. He is terrified and asks for their aid, saying “If [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>) cannot protect us, we will have to rely on more mundane forces.” During the conversation, he also passes along two additional rumors, one about a never-ending lightning storm, and one about rampaging hyena-humanoids, but says there will be time to talk more in the morning. 
-

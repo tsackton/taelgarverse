@@ -1,9 +1,13 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 11
+realWorldDate: 2020-10-23
+DR: 1748-04-12
+DR_end: 1748-04-13
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 title: Session 11 (DuFr)
 ---
-
-**(Friday, Oct 23rd, 2020; in Taelgar, evening April 12th to morning April 13th)**
 
 We begin as the sun begins to set, as the party, holed up in an empty guard tower protecting the inner keep of [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), tends to their wounds and sits down for a quick meal with [Vola](<../../../people/chardonians/vola.md>) Forena, an adventurer from [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) just rescued by the party. [Vola](<../../../people/chardonians/vola.md>), a member of the [Society of the Open Scroll](<../../../groups/society-of-the-open-scroll.md>), has been a prisoner for about 10 days. During her captivity, she noticed that the noise of the animals - now a loud cacophony of howls - started a few days after she was captured, and has been growing every since. 
 
