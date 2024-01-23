@@ -8,7 +8,6 @@ created: 1748
 whereabouts:
 - {type: home, end: 1748-07-03, location: Seeker}
 title: Legendary Gates of Kenzo
-hide_toc: true
 ---
 # The Legendary Gates of Kenzo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

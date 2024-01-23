@@ -8,6 +8,16 @@ DR_end: 1748-04-24
 players: [Kenzo, Wellby, Delwath, Seeker]
 title: Session 17 (DuFr)
 ---
+## Timeline
+
+
+
+
+- Apr 16, 1748 DR, late morning: Leave [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) heading towards Karawa. Kill a group of emaciated and nearly undead gnolls on the plains.
+- Apr 17, 1748 DR - Apr 21, 1748 DR: Travel south towards Karawa
+- Apr 22, 1748 DR: Party uses Eudomes' Mirror to examine the scroll cap found at Raven's Hold.
+- Apr 23, 1748 DR: Party spends night outside Karawa
+## Narrative
 
 Bone tired from a night of stumbling through the mists, fog, rain, and thunder of [Hralgar](<../../../people/giants/hralgar.md>)’s storm, we open on the party, resting over a late breakfast, [telling stories of their childhood](https://www.youtube.com/watch?v=j6k6EcUUBuQ). [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), about his brother [Frankar](<../../../people/dwarves/frankar.md>) who vanished after an accident with a strange divination machine of his invention; [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), about cooking for his elders as rumors of darkness spread in the world outside; [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), about the hard life of poor street kids growing up in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>); and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), about being at home on the road and the stories his great-grandfather told. As these stories finish, the conversation turns to the events of the past month, as the party starts to puzzle over the mysteries they have experienced, and speculate on answers. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) records much of the conversation in his journal, and a few answers perhaps emerge.
 
@@ -26,4 +36,3 @@ The next day, the party arrives at [Karawa](<../../../gazetteer/greater-dunmar/r
 Finally, before the party begins to report on the events of the north, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) asks about [Agata](<../../../people/fey/agata.md>) Dustmother. Neither [Candrosa](<../../../people/dunmari/candrosa.md>) or [Alesh](<../../../people/dunmari/alesh.md>) has heard that name, but [Candrosa](<../../../people/dunmari/candrosa.md>) mentions the [Old Woman of the Dusts](<../../../people/fey/agata.md>), an old woman who lives in the desert, and who has some kind of magic. But not a pleasant kind of magic, rather it is the [sort of magic that comes at a price](<../../../primary-sources/story-about-hags.md>), often a large one, and that you only turn to when you are desperate and willing to give up everything. 
 
 The session ends with [Candrosa](<../../../people/dunmari/candrosa.md>) finishing this story, and everyone wondering if this is indeed [Agata](<../../../people/fey/agata.md>) Dustmother.
-

@@ -9,6 +9,16 @@ players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 title: Session 14 (DuFr)
 ---
 
+## Timeline
+
+- Apr 13, 1748 DR, night: Discussion and dinner. Plans are made to travel west to the strange permanent storm on the plains. 
+- Apr 14, 1748 DR: Travel across the plains towards the lightning storm.
+- Apr 15, 1748 DR, morning: Travel across the plains towards the lightning storm.
+- Apr 15, 1748 DR, late afternoon: Arrive at the lightning storm. Vola remains outside at camp with the horses and heavy gear. 
+- Apr 15, 1748 DR, early evening: Party pushes through the storm, arriving at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). Find remains of a Chardonian adventuring party camp, before night begins to fall and party realizes stars are changed. 
+
+## Narrative
+
 We begin with the party camped a few miles west of [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), near the trade road over the mountains, listening to the recovering wildlife of open plains as the campfire crackles, and [Vola](<../../../people/chardonians/vola.md>) brings in a brace of birds to roast for dinner.
 
 At camp, while [Vola](<../../../people/chardonians/vola.md>) is cooking, the party spends some time trying to sort out the events of the past two days: the demon, rumors of [Agata](<../../../people/fey/agata.md>) Dustmother, [Vola](<../../../people/chardonians/vola.md>)’s rescue, the demonically possessed vine beast and the now-broken summoning circle, gnolls and rituals involving ritually slaughtered antelope, and the many packs of wild beasts kept and freed, some now audible on the plains. After discussion of [Vola](<../../../people/chardonians/vola.md>) and whether to trust her ([Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>): definitely no; [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>): maybe we should talk to her), and what to do next (travel to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), or investigate the storm), dinner is ready.

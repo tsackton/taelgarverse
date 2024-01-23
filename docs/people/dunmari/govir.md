@@ -9,7 +9,6 @@ gender: male
 whereabouts:
 - {type: home, location: Tokra}
 title: Govir
-hide_toc: true
 ---
 # Govir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -10,7 +10,6 @@ gender:
 player: David Schwartz
 affiliations:
 title: Ander
-hide_toc: true
 ---
 # Ander
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

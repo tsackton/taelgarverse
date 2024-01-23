@@ -6,19 +6,36 @@ realWorldDate: 2023-08-23
 DR: 1748-12-30
 DR_end: 1749-01-01
 players: [Seeker, Delwath, Kenzo, Wellby]
-title: Session 83 (DuFr)
+tagline: in which the party gains knowledge and hosts a party
+descTitle: Pyravela on Vindristjarna
+title: Dunmari Frontier - Session 83 Session 83 (DuFr)
 ---
-## Notes and Information
-*in which the party hosts a party*
-Start: mid-morning, Dec 25th
-End: morning, Jan 1st, 1749
-## Timeline 
-- Dec 30, 1748 DR: *(afternoon)* Attend [Dyer's Guild](<../../../groups/tollen-guilds/dyer-s-guild.md>) party
-- Dec 30, 1748 DR: *(evening)* Host [Pyravela](<../../../time/holidays-and-festivals/pyravela.md>) party on [Vindristjarna](<../../../things/ships/vindristjarna.md>)
-- Dec 31, 1748 DR: Everyone experiences the final day of [Pyravela](<../../../time/holidays-and-festivals/pyravela.md>) in their own way
-- Jan 01, 1749 DR: *(early morning)* The sun rises on a new year in Tollen
-## Narrative
+# Dunmari Frontier - Session 83
 
+>[!info] Pyravela on Vindristjarna: in which the party gains knowledge and hosts a party
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+> *In Taelgar: Dec 30, 1748 DR to Jan 01, 1749 DR*
+> *On Earth: Wednesday Aug 23, 2023*
+> *[Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>)*
+
+During the [Pyravela](<../../../time/holidays-and-festivals/pyravela.md>) festival, the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) attends celebrations, hosts a party, and acquires information.
+
+## Session Info
+### Summary
+- The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) attends the [Dyer's Guild](<../../../groups/tollen-guilds/dyer-s-guild.md>) [Pyravela](<../../../time/holidays-and-festivals/pyravela.md>) feast, filled with religious significance.
+- They meet [Delios the Sage](<../../../people/tollenders/delios-the-sage.md>), who reveals insights about [Grimbaskal](<../../../people/other-nonhumans/mezzar.md>) being a dragon born from [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>), [Agata](<../../../people/fey/agata.md>)'s revenge-driven actions, and the ambiguity surrounding Mashtu the Corruptor. 
+- The party learns about [Ursk](<../../../gazetteer/northern-green-sea/ursk.md>)'s exclusivity and the potential approach through northern wastes from Captain [Jane Chapman](<../../../people/tollenders/jane-chapman.md>).
+- [Vindristjarna](<../../../things/ships/vindristjarna.md>)'s party draws a diverse crowd, where stories are exchanged and connections made.
+- [Faldrak Bronzehammer](<../../../people/dwarves/faldrak-bronzehammer.md>), a tinker, plans to travel with the party to the [Edge of Echoes](<../../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>) to complete his stone bird project.
+- The final day of [Pyravela](<../../../time/holidays-and-festivals/pyravela.md>) is spent in personal reflection, with each member of the party observing the holiday in their own way.
+
+### Timeline
+- Dec 30, 1748 DR, afternoon: Attend [Dyer's Guild](<../../../groups/tollen-guilds/dyer-s-guild.md>) party
+- Dec 30, 1748 DR, evening: Host [Pyravela](<../../../time/holidays-and-festivals/pyravela.md>) party on [Vindristjarna](<../../../things/ships/vindristjarna.md>)
+- Dec 31, 1748 DR: Everyone experiences the final day of [Pyravela](<../../../time/holidays-and-festivals/pyravela.md>) in their own way
+- Jan 01, 1749 DR, early morning: The sun rises on a new year in Tollen
+
+## Narrative
 We begin on Dec 30th, the second day of the [Pyravela](<../../../time/holidays-and-festivals/pyravela.md>) festival, as the party heads to the [Dyer's Guild](<../../../groups/tollen-guilds/dyer-s-guild.md>) guildhall, where the guild is hosting an elaborate [Pyravela](<../../../time/holidays-and-festivals/pyravela.md>) party. It is crowded, and much more explicitly religious than the [parties yesterday](<./session-82-dufr.md>), with priests of [the wyrdling](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wyrdling.md>) wandering around, giving blessings and asking for donations to various charitable causes. Several familiar faces are at the party, including the tattoo artist [Cecilia Lister](<../../../people/tollenders/cecilia-lister.md>) and [Escobar Garavito](<../../../people/tollenders/escobar-garavito.md>), the student on a [Dyer's Guild](<../../../groups/tollen-guilds/dyer-s-guild.md>) scholarship. 
 
 [Cecilia Lister](<../../../people/tollenders/cecilia-lister.md>) introduces the party to [Delios the Sage](<../../../people/tollenders/delios-the-sage.md>), an old man wearing plain white robes, not in costume like most other people, who is a member of the [Ancient and Honorable Guild of Philosophers](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>). He seems fascinated by the amount of magic the party is carrying around, and asks where they got so many magic items, which leads to a discussion of [Grimbaskal](<../../../people/other-nonhumans/mezzar.md>). Delios reveals -- apparently gleaning information from a scroll he carries -- that [Grimbaskal](<../../../people/other-nonhumans/mezzar.md>) is one of the seven dragons that hatched from eggs that grew from [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>)'s destroyed body. They discuss [Frankar](<../../../people/dwarves/frankar.md>), and [Rai](<../../../people/pcs/great-war/rai.md>) (who Delios says flew over [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>) in a flying castle before the [Great War](<../../../events/1500s/great-war.md>)), and the fey. Delios and the [Ancient and Honorable Guild of Philosophers](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) do not particularly get along with [Caelynn](<../../../people/fey/caelynn.md>), it seems. Delios also speaks of [Agata](<../../../people/fey/agata.md>), finally making the connection that the party is the group that killed her, and reveals that she has always wanted revenge on [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) for their role in the [Great War](<../../../events/1500s/great-war.md>) and the defeat of [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>). [Agata](<../../../people/fey/agata.md>), according to Delios, wished to see [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) destroyed from within, leading the party to relieze that nobody hired her to kidnap [Sura](<../../../people/dunmari/sura.md>), it was her goal all along to sow discord for her own reasons (as [Hralgar](<../../../people/giants/hralgar.md>) said [long ago](<./session-14-dufr.md>), she was motived by revenge). Finally, they discuss Mashtu the Corruptor, a demon, but it is hard to know if what the party killed on [Vetta](<../../../gazetteer/western-green-sea/skaerhem/vetta.md>) was, indeed Mashtu or simply Mashtu's servant. At this point, Delios does not answer more questions, saying he must circulate, but does tell the party the [Ancient and Honorable Guild of Philosophers](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) is always interested in trading information, especially the lost and hidden kind, for magic items, if they wish to visit after [Pyravela](<../../../time/holidays-and-festivals/pyravela.md>). 
@@ -38,4 +55,3 @@ While [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) has been talki
 The next day is the most spiritual day of [Pyravela](<../../../time/holidays-and-festivals/pyravela.md>), when [the Wyrdling](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wyrdling.md>) grants prayers and visions to those who pray to them, and the festival ends with bonfires. The party each handle this day in their own way. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) spends the day with [Iskra](<../../../people/skaer/iskra.md>), talking to her about [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>), and about [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>), and walking with her, together but apart from the worship of [the Wyrdling](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wyrdling.md>), as neither [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) nor [Iskra](<../../../people/skaer/iskra.md>) are part of the [Mos Numena](<../../../cosmology/religions/mos-numena.md>) faith. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) spends the day as [halflings](<../../../species/children-of-the-embodied-gods/halflings/halflings.md>) normally do, gathering and telling stories and being together with family, not concerned with the gods of [humans](<../../../species/humans/humans.md>), but relishing the quiet space to create [halfling](<../../../species/children-of-the-embodied-gods/halflings/halflings.md>) traditions. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) wanders, listening to the [tanshi](<../../../cosmology/religions/tanshi.md>), and hearing their perspective on the festival; for the tanshi this all seems too big, too grand, too impersonal and distant. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) also wanders a bit, just observing.
 
 We end as the sun rises on the new year, 1749, and the party gathers to plan their last days in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>), before heading south to speak with the [elves](<../../../species/children-of-the-embodied-gods/elves/elves.md>) of [Orenlas](<../../../gazetteer/istaros-watershed/orenlas/orenlas.md>), and eventually return to [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) of [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), defending [Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>) from [Grash](<../../../people/other-nonhumans/grash.md>) and his undead army. 
-

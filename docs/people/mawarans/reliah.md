@@ -6,7 +6,6 @@ born:
 species: human
 gender: female
 title: Reliah
-hide_toc: true
 ---
 # Reliah
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

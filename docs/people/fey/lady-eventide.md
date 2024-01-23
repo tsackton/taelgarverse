@@ -9,7 +9,6 @@ species: fey
 gender: female
 whereabouts: Amberglow
 title: Lady Eventide
-hide_toc: true
 ---
 # Lady Eventide
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -13,14 +13,13 @@ whereabouts:
 - {type: home, location: Evis}
 - {type: home, start: 1719-12-06, location: Cleenseau}
 title: Balthazar
-hide_toc: true
 ---
 # Balthazar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [human](<../../species/humans/humans.md>) (he/him)  
-    Born March 15th, 1705 (43 years old)  
+    Born March 15th, 1705 (44 years old)  
     { .bio }
 
     Originally from: [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>), the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)

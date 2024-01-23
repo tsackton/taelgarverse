@@ -11,7 +11,6 @@ aliases: [Chanceweaver]
 affiliations:
 - {org: Fortune's Rest, type: leader, title: Master}
 title: Prince of Luck
-hide_toc: true
 ---
 # Prince of Luck
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,4 +23,4 @@ hide_toc: true
 </div>
 
 
-![The Prince Of Luck](../../assets/the-prince-of-luck.png){align="right"; width="400"}The Prince of Luck, known as the Chanceweaver, is the ruler of the domain of Fortune’s Rest, and a charming gambler ruling over an endless casino court. 
+![The Prince of Luck](../../assets/the-prince-of-luck.png){align="right"; width="400"}The Prince of Luck, known as the Chanceweaver, is the ruler of the domain of Fortune’s Rest, and a charming gambler ruling over an endless casino court. 

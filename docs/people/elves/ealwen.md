@@ -12,7 +12,6 @@ ancestry:
 gender: female
 whereabouts: Erelion
 title: Ealwen
-hide_toc: true
 ---
 # Ealwen
 :speaker:{ .middle } *(EY-ahl-wen)*  

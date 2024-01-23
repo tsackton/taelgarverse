@@ -10,7 +10,6 @@ affiliations:
 - {org: Valit, title: Castellan}
 whereabouts: Valit
 title: Sabine de Brune
-hide_toc: true
 ---
 # Sabine de Brune
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,4 +26,4 @@ hide_toc: true
 
 The aging castellan of [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), a vassal of the Baron of Aveil. Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth.
 
-![Sabine De Brune Valit](../../assets/sabine-de-brune-valit.png)
+![Sabine de Brune Valit](../../assets/sabine-de-brune-valit.png)

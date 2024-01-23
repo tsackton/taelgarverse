@@ -11,7 +11,6 @@ gender: male
 affiliations: [Faculty of Metaphysics, University of Chardon, Society of the Open Scroll]
 whereabouts: Chardon
 title: Ulfgar Frostbeard
-hide_toc: true
 ---
 # Ulfgar Frostbeard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

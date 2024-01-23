@@ -6,7 +6,6 @@ whereabouts: Cintra
 typeOf: wonderous item
 subTypeOf: ' '
 title: Heart of Shakun
-hide_toc: true
 ---
 # The Heart of Shakun
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

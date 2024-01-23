@@ -15,7 +15,6 @@ whereabouts:
 - {type: home, location: Garamjala Desert}
 - {type: away, start: 1748-02-08, end: 1748-05-29, location: Shakun’s Wellspring}
 title: Samerki
-hide_toc: true
 ---
 # Samerki
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

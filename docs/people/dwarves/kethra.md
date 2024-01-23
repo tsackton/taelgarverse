@@ -13,7 +13,6 @@ affiliations:
 gender: female
 born: 1701
 title: Kethra Silverspark
-hide_toc: true
 ---
 # Kethra Silverspark
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -11,7 +11,6 @@ aliases: [Adèle Laurent]
 ancestry: Isinguer
 gender: female
 title: Adèle Laurent
-hide_toc: true
 ---
 # Adèle Laurent
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -10,7 +10,6 @@ player: Dave Schwartz
 affiliations:
 excludePublish: [clee]
 title: Baxter
-hide_toc: true
 ---
 # Baxter
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

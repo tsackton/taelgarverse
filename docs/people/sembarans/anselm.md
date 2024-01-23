@@ -12,7 +12,6 @@ whereabouts: Cleenseau
 affiliations:
 - {org: Lord's Council of Cleenseau}
 title: Anselm
-hide_toc: true
 ---
 # Anselm
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

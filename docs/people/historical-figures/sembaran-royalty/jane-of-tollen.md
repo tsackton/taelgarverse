@@ -16,7 +16,6 @@ leaderOf:
 - {place: Zovcka, title: Queen Regent, end: 1555}
 died: 1559
 title: Jane of Tollen
-hide_toc: true
 ---
 # Jane of Tollen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

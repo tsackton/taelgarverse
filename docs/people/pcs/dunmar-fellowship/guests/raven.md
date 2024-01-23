@@ -11,7 +11,6 @@ gender: enby
 player: Isaac Sackton
 excludePublish: [clee]
 title: Raven
-hide_toc: true
 ---
 # Raven
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

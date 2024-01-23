@@ -9,7 +9,6 @@ ancestry: elven
 whereabouts:
 - {type: away}
 title: Circlet of Foreknowledge
-hide_toc: true
 ---
 # The Circlet of Foreknowledge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -13,7 +13,6 @@ affiliations:
 - {org: People of the Rainbow, type: primary}
 whereabouts: Uzgukhar
 excludePublish: [clee]
-hide_toc: true
 ---
 # Loremaster Azogar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

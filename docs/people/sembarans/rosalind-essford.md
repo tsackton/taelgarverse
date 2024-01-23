@@ -20,7 +20,6 @@ whereabouts:
 - {type: away, start: 1720-01-06, location: Rinburg}
 - {type: away, start: 1720-01-08, location: Fellburn}
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
-hide_toc: true
 ---
 # Lady Rosalind Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

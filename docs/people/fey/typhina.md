@@ -11,7 +11,6 @@ gender: female
 whereabouts:
 - {type: home, location: Amberglow}
 title: Typhina
-hide_toc: true
 ---
 # Typhina
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -9,7 +9,6 @@ ancestry: Maseaun
 gender: male
 player: Matt Rand
 title: Soraine
-hide_toc: true
 ---
 # Soraine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

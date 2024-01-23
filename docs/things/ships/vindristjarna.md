@@ -19,7 +19,6 @@ typeOfAlias: skyship
 aliases: [Star on the Wind]
 subTypeOf: magical
 title: Vindristjarna
-hide_toc: true
 ---
 # Vindristjarna
 :speaker:{ .middle } *(vin-dree-SHAR-na)*  

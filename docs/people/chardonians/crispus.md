@@ -13,7 +13,6 @@ affiliations:
 whereabouts:
 - {type: home, location: Chardon}
 pronunciation: CRIS-pus
-hide_toc: true
 ---
 # Crispus
 :speaker:{ .middle } *(CRIS-pus)*  

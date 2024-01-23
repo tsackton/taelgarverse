@@ -6,38 +6,47 @@ realWorldDate: 2023-01-05
 DR: 1748-11-15
 DR_end: 1748-11-15
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-title: Session 68 (DuFr)
+tagline: in which the party reunites and shares tales
+descTitle: Reunion
+title: Dunmari Frontier - Session 68 Session 68 (DuFr)
 ---
-## Meta Information
+# Dunmari Frontier - Session 68
 
-Start: 15 Nov 1748, sunset, camped outside the fey crossing at Lastlight Falls
-End: 15 Nov 1748, late evening, camped outside the fey crossing at Lastlight Falls
+>[!info] Reunion: in which the party reunites and shares tales
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Nov 15, 1748 DR*
+> *On Earth: Thursday Jan 05, 2023*
+> *Lastlight Falls*
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) meet again after a long absence, and discuss their journeys and plans. 
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) reunites, shares their extraordinary experiences, and plans their next moves amidst looming threats. 
+## Session Info
 
-Letters received:
+### Summary
+- The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) reunites after a lengthy separation, sharing their separate adventures.
+- [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), with allies, sought to restore the lost and trapped [tanshi](<../../../cosmology/religions/tanshi.md>) in the Forest of Nightmares.
+- [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and her dwarven allies uncovered the history of the [Chalice of the Runepriest](<../../../things/artifacts-of-power/chalice-of-the-runepriest.md>) in the [Shadowfell](<../../../cosmology/multiverse/echo-realms/shadowfell/shadowfell.md>) realm of [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>).
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) restored balance in [Orekatu](<../../../gazetteer/far-south/orekatu.md>) by healing the spirit creature [Motua](<../../../people/extraplanar-powers/motua.md>) at the [Footprint of the Gods](<../../../gazetteer/far-south/azta-lekua.md>)
+- [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), after fleeing pirates, solved kidnappings in the[Vermillion Isles](<../../../gazetteer/eastern-green-sea/vermillion-isles.md>) and sought to rescue a wizard.
+- [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) entered the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>), calmed a wild magic storm, and was guided to the fey crossing at Lastlight Falls.
+- The party discusses impending threats, including Dunmar's potential civil war and Grash's march east, and decide to restore Hralgar and then pursue the Cloak of Rainbows to prevent Grash's acquisition.
+
+### Timeline
+- Nov 15, 1748 DR: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) exit the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>) at sunset, and are reunited with  [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>).
+
+### Letters Received
 - [Letter from Speaker Lara](<../letters-and-notes/letter-from-speaker-lara.md>)
 - [Letter from Govir](<../letters-and-notes/letter-from-govir.md>)
 - [Letter from Dee WIldcloak](<../letters-and-notes/letter-from-dee-wildcloak.md>)
 - [Wellby's Letter](<../../../people/pcs/dunmar-fellowship/wellby.md#3c01eb>) **(personal)**
 - [Kenzo's Letter](<../../../people/pcs/dunmar-fellowship/kenzo.md#21d014>) **(personal)**
 
-Scrying Reports:
+### Scrying and Scouting
 - [Scrying Delwath Oct 26](<../scrying-and-spying/scrying-delwath-oct-26.md>)
 - [Scrying Delwath Oct 21](<../scrying-and-spying/scrying-delwath-oct-21.md>)
 - [Scrying Delwath Nov 15](<../scrying-and-spying/scrying-delwath-nov-15.md>)
-
-Delwath's Rumor Gathering:
 - [Rumors from the Dunmari](<./interlude-delwath-postscript.md#dunmar-rumors>)
 
-[Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) failed attempt at divine intervention. 
-
-## Timeline
-
-- Nov 15, 1748 DR: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) exit the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>) at sunset, and are reunited with  [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>).
-
 ## Narrative
-
 We begin as the party meets again, all together after a long absence. Everyone returns from their adventures changed, more or less, and eager to be reunited. Over the campfire, the party tells their stories. 
 
 ![Lastlight Falls Dunmar Side](../../../assets/lastlight-falls-dunmar-side.png){width="600"}
@@ -53,6 +62,7 @@ We begin as the party meets again, all together after a long absence. Everyone r
 [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) [found himself](<./session-61-dufr.md>) in the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>), in the [domain of the Chanceweaver](<../../../cosmology/multiverse/echo-realms/feywild/fortune-s-rest.md>), the [Prince of Luck](<../../../people/extraplanar-powers/prince-of-luck.md>). At the [Chanceweaver](<../../../people/extraplanar-powers/prince-of-luck.md>)’s court, he learned of a wild magic storm on the border of Fortune’s Rest and [Shimmersong](<../../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>), and travels with [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), a fae monk of the Winter Knights of [Shimmersong](<../../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>); [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>) Hollytwist a fairy cleric of the light, also of [Shimmersong](<../../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>); and [Mikasa](<../../../people/pcs/dunmar-fellowship/guests/mikasa.md>), a fae samurai to [calm the wild magic](<./session-63-dufr.md>). After doing so, [Mikasa](<../../../people/pcs/dunmar-fellowship/guests/mikasa.md>) departs for her home, while [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) meet the human warrior [Caulaus](<../../../people/pcs/dunmar-fellowship/guests/caulaus.md>) Aportino who [guides them to the fey crossing](<./session-65-dufr.md>) at Lastlight Falls in the ruined abandoned fey realm of Amberglow.
 
 During the conversation, the party reads letters from [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) and elsewhere, and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) reports on the information he has learned from scrying in [mid October](<../scrying-and-spying/scrying-delwath-oct-21.md>), [late October](<../scrying-and-spying/scrying-delwath-oct-26.md>), and [mid November](<../scrying-and-spying/scrying-delwath-nov-15.md>), and from a [week spent on the plains of Dunmar](<./interlude-delwath-postscript.md#dunmar-rumors>). The key facts include:
+
 - [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) is on the bring of civil war: [Nayan Karnas](<../../../people/dunmari/nayan-karnas.md>) has seemingly not spoken to [Johar](<../../../people/dunmari/johar.md>); [Havdar](<../../../people/dunmari/havdar.md>) is turning bloodthirsty under the sway of a cursed sword; and the Lakan monks have not done anything yet.
 - [Kadmos](<../../../people/chardonians/kadmos.md>) and company, now traveling with a subdued [Vola](<../../../people/chardonians/vola.md>) (whether due to mundane or magical coercion is not entirely clear), are crossing [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>).
 - [Grash](<../../../people/other-nonhumans/grash.md>) is preparing to march east, and soon, with a large army of [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) and undead, presumably to recover the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>) which was, according to [Govir](<../../../people/dunmari/govir.md>)'s research, lost in a fortification of the [Aagir Mystai](<../../../groups/dunmari-mystery-cults/aagir-mystai.md>) to the east during the [Great War](<../../../events/1500s/great-war.md>). 

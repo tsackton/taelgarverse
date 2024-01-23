@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, location: Lavila}
 - {type: home, location: Tollen}
 title: Escobar Garavito
-hide_toc: true
 ---
 # Escobar Garavito
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

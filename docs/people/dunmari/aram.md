@@ -11,7 +11,6 @@ affiliations: [Havdar's Warband]
 whereabouts:
 - {type: home, location: Havdar's Warband}
 title: Aram
-hide_toc: true
 ---
 # Aram
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

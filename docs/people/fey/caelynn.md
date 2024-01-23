@@ -13,7 +13,6 @@ whereabouts:
 - {type: home, location: Dreamhaven}
 - {type: home, location: Tollen}
 title: Caelynn the Seer
-hide_toc: true
 ---
 # Caelynn the Seer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

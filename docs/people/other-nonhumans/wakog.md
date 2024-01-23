@@ -5,7 +5,6 @@ species: ogre
 gender: male
 died: 1719-12-06
 title: Wakog
-hide_toc: true
 ---
 # Wakog
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

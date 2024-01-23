@@ -10,7 +10,6 @@ ancestry: Sembaran
 gender: male
 whereabouts: Cleenseau
 title: Conrad
-hide_toc: true
 ---
 # Conrad
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

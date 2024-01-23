@@ -7,7 +7,6 @@ whereabouts:
 - {type: home, location: Apollyon}
 - {type: home, location: Fausto}
 title: Crown of Purity
-hide_toc: true
 ---
 # The Crown of Purity
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

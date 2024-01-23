@@ -11,7 +11,6 @@ gender: female
 whereabouts:
 - {type: home, location: Cleenseau}
 title: Margaret Ashford
-hide_toc: true
 ---
 # Margaret Ashford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

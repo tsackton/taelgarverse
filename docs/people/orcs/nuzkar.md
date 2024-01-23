@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, location: Uzgukhar}
 - {type: away, location: Vindristjarna, end: 9999}
 title: Nuzkar
-hide_toc: true
 ---
 # Nuzkar
 :speaker:{ .middle } *(NUZ-car)*  
@@ -34,5 +33,7 @@ hide_toc: true
 
 She has a twin sister, [Aygul](<./aygul.md>), as well as a husband and large family in Uzgukhar. 
 
+
+Inspired by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) and the [Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>) to rededicate herself to her childhood dream of doing more for all orcs who suffer, unfree, in Thark's control. 
 
 

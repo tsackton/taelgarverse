@@ -14,7 +14,6 @@ affiliations:
 whereabouts:
 - {type: home, location: Cleenseau}
 title: Ysabel
-hide_toc: true
 ---
 # Ysabel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

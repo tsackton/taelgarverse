@@ -9,7 +9,6 @@ species: mysterious abberation
 pronouns: it/they/him/her
 ddbLink: https://www.dndbeyond.com/monsters/3502311-es-tiasilos
 title: Es\*tiasilos
-hide_toc: true
 ---
 # Es\*tiasilos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

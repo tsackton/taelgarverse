@@ -14,7 +14,6 @@ whereabouts:
 - {type: home, location: Tollen}
 - {type: awak, start: '1748-12-29', end: '1748-12-29', location: Magnus Street}
 title: Hugo Dupont
-hide_toc: true
 ---
 # Hugo Dupont
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

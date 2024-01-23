@@ -9,7 +9,6 @@ subspecies: fairy
 gender: female
 player: Kate Sackton
 title: Spirala
-hide_toc: true
 ---
 # Spirala
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

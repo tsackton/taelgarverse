@@ -4,11 +4,35 @@ campaign: Dunmari Frontier
 sessionNumber: 6
 realWorldDate: 2020-08-06
 DR: 1748-04-04
-DR_end: 1748-04-07
+DR_end: 1748-04-06
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-title: Session 6 (DuFr)
+tagline: in which the Festival of Rebirth is marred by a gnoll attack
+descTitle: Festival Ambush
+title: Dunmari Frontier - Session 6 Session 6 (DuFr)
 ---
+# Dunmari Frontier - Session 6
 
+>[!info] Festival Ambush: in which the Festival of Rebirth is marred by a gnoll attack
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Apr 04, 1748 DR to Apr 06, 1748 DR*
+> *On Earth: Thursday Aug 06, 2020*
+> *[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) prepares for their journey, gains a new [ally](<../../../people/pcs/dunmar-fellowship/riswynn.md>), and defends [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from a gnoll attack during the [Festival of Rebirth](<../../../time/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>).
+## Session Info
+### Summary
+- The party splits to run errands and gather information in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) as rumors of evil spread and refugees arrive.
+- [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) helps fortify the temple and learns about the mystical [Red Mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>).
+- [Riswynn Brawnanvil](<../../../people/pcs/dunmar-fellowship/riswynn.md>) joins the party to recover a [dwarven heirloom](<../treasure/treasure-from-raven-s-hold/shield-of-the-brawnanvil-clan.md>) from [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>).
+- A gnoll attack disrupts the [Festival of Rebirth](<../../../time/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>), leading to a fierce battle where the party prevails but [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is seriously injured.
+- The party plans to depart [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) the following morning, as the town prepares to flee westward.
+### Timeline
+- Apr 04, 1748 DR, afternoon: Errands and preparations for travel in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Refugees from[Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) fleeing gnoll attacks begin arriving in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Say farewell to [Alesh](<../../../people/dunmari/alesh.md>), who is leaving to scout.
+- Apr 05, 1748 DR, late afternoon: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) arrives in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>).
+- Apr 05, 1748 DR, evening: [Festival of Rebirth](<../../../time/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>) begins at sundown with announcement of plan to flee west at first light in two days time.  Burning shrine of [Jeevali](<../../../cosmology/gods/incorporeal-gods/dunmari/jeevali.md>) casts embers to the winds, despite still air, which is interpreted as a sign supporting the decision to flee.
+- Apr 06, 1748 DR: Day of fasting, prayer, and preparation. [Festival of Rebirth](<../../../time/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>) concludes with a solemn procession, which is interrupted by a gnoll attack on the outskirts of town. Party prepares to leave [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) at first light.
+
+## Narrative
 As the session opens, the party has just left the council meeting, and rumors are starting to circulate around [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) that evil is afoot in the wilds. [Havdar](<../../../people/dunmari/havdar.md>) has started to circulate among the people, recruiting those who can ride and fight; the celebratory atmosphere of the fair and games is fading as news and rumor spreads. 
 
 In the afternoon, the party splits up to take care of errands and preparation. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) checks in with people he knows from living in town for several months, and spends some time trading coin for gear and potions. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) speaks with [Candrosa](<../../../people/dunmari/candrosa.md>) briefly, who does not have much knowledge about [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>) in particular. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) goes to talk to the [Charmhearts](<../../../groups/halfling-families/charmhearts.md>) again, learning that they had a hard time at the market, as [Ander](<../../../people/pcs/mawar-confederacy/ander.md>) is not improving, and disrupted some of their selling days. [Callie](<../../../people/halflings/callie-charmheart.md>) tells [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) a bit more about [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>): it is set in a river valley a few miles east of the road, near where a small river flows out from the mountains. [Ander](<../../../people/halflings/ander-charmheart.md>) approached by walking in the river past the gatehouse of the outer walls, and then across the drier plains towards the inner fortress when he was attacked. 

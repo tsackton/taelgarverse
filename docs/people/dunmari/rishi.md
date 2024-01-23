@@ -9,7 +9,6 @@ ancestry: Dunmari
 gender: male
 whereabouts: Lakan Monastery
 title: Rishi
-hide_toc: true
 ---
 # Rishi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

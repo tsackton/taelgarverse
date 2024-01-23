@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, start: 1731, location: Pava and Avaras' House}
 - {type: away, start: 1749, end: 9999, location: Vindristjarna}
 title: Amil
-hide_toc: true
 ---
 # Amil
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

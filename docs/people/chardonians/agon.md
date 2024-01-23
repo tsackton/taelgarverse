@@ -11,7 +11,6 @@ affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
 title: Agon
-hide_toc: true
 ---
 # Agon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -11,7 +11,6 @@ aliases: [Ember, Sugarra]
 whereabouts:
 - {type: home, start: '', end: '', location: Azta Lekua}
 title: Somi-nai
-hide_toc: true
 ---
 # Somi-nai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

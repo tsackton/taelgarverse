@@ -11,7 +11,6 @@ gender: male
 whereabouts:
 - {type: home, location: Ganboa}
 title: Izoko
-hide_toc: true
 ---
 # Izoko
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -13,7 +13,6 @@ whereabouts:
 - {type: away, start: 1748-08-18, end: 1748-08-20, prefix: traveling in, location: ~Chardon Bay~}
 - {type: away, start: 1748-08-21, location: Chardon}
 title: Emerald Song
-hide_toc: true
 ---
 # The Emerald Song
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

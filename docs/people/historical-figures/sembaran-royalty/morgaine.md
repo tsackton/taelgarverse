@@ -13,7 +13,6 @@ affiliations:
 - {org: House of Lils, type: primary}
 - {org: Oracle of the Riven, title: the Oracle of the Red, start: 1633}
 title: Morgaine
-hide_toc: true
 ---
 # Morgaine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

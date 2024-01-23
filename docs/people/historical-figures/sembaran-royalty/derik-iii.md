@@ -18,7 +18,6 @@ leaderOf:
 - {place: Zovcka, title: High King, start: 1519}
 title: King Derik III
 died: 1549
-hide_toc: true
 ---
 # King Derik III
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

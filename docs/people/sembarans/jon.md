@@ -11,7 +11,6 @@ affiliations:
 - {org: Lord's Guard of Cleenseau, type: Gateguard}
 whereabouts: Cleenseau
 title: Jon
-hide_toc: true
 ---
 # Jon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

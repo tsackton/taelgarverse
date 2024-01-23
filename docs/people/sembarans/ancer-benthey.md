@@ -14,7 +14,6 @@ whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, location: Army Garrison of Cleenseau}
 title: Ancer Benthey
-hide_toc: true
 ---
 # Ancer Benthey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

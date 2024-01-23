@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, location: Arendum}
 - {type: home, location: Chardon}
 title: Gnaeus
-hide_toc: true
 ---
 # Gnaeus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

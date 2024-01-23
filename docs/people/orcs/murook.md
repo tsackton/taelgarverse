@@ -14,7 +14,6 @@ affiliations: [Hezguli, People of the Rainbow]
 whereabouts:
 - {type: home, location: Nashtkar}
 - {type: home, start: 1724, location: Xurkhaz}
-hide_toc: true
 ---
 # General Murook
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -4,7 +4,6 @@ ancestry: Drankorian
 tags: [item/magical, status/unknown]
 whereabouts: Kenzo
 title: Ring of Jumping
-hide_toc: true
 ---
 # The Ring of Jumping
 >[!info]+ Information

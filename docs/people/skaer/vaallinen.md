@@ -12,7 +12,6 @@ gender: male
 pronunciation: va-lin-en
 title: Hakeasa Vaallinen
 whereabouts: Pyhlla
-hide_toc: true
 ---
 # Hakeasa Vaallinen
 :speaker:{ .middle } *(va-lin-en)*  

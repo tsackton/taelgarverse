@@ -3,7 +3,6 @@ headerVersion: 2023.11.25
 tags: [person]
 gender: male
 title: Jon Thorne
-hide_toc: true
 ---
 # Jon Thorne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

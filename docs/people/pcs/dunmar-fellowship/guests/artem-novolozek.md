@@ -13,7 +13,6 @@ whereabouts:
 - {type: home, end: 1748-10-06, location: Ursk}
 - {type: away, start: 1748-10-06, location: ''}
 title: Artem Novolozek
-hide_toc: true
 ---
 # Artem Novolozek
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

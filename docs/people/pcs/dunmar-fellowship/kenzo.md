@@ -9,7 +9,6 @@ ancestry: Dunmari
 gender: male
 player: David Kong
 title: Kenzo
-hide_toc: true
 ---
 # Kenzo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

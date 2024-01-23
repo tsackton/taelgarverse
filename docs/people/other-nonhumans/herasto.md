@@ -9,7 +9,6 @@ gender: male
 whereabouts:
 - {type: away, location: Voltara Plains, alias: southern Voltara Plains}
 title: Herasto
-hide_toc: true
 ---
 # Herasto
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

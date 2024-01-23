@@ -23,7 +23,6 @@ whereabouts:
 - {type: away, start: 1749-02-01, end: 1749-03-02, location: Copper Hills}
 - {type: away, start: 1749-03-02, location: traveling to Tokra}
 title: Johar
-hide_toc: true
 ---
 # Johar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

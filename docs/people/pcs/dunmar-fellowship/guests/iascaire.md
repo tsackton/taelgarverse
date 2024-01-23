@@ -10,7 +10,6 @@ gender: male
 player: Phil Grayson
 excludePublish: [clee]
 title: Iascaire
-hide_toc: true
 ---
 # Iascaire
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

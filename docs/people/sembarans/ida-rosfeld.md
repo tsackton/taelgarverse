@@ -14,7 +14,6 @@ affiliations:
 whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: Dunfry}
-hide_toc: true
 ---
 # Captain Ida Rosfeld
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

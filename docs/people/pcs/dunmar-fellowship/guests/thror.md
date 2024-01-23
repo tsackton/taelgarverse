@@ -10,7 +10,6 @@ ancestry:
 gender:
 player:
 title: Thror
-hide_toc: true
 ---
 # Thror
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

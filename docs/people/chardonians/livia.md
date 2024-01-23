@@ -7,7 +7,6 @@ whereabouts: Luminatia
 gender: female
 ancestry: Chardonian
 title: Livia
-hide_toc: true
 ---
 # Livia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

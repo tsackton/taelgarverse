@@ -20,7 +20,6 @@ whereabouts:
 - {type: away, start: 1748-07-18, end: 1748-08-12, location: Tokra-Darba Road}
 - {type: away, start: 1748-08-13, location: Darba}
 title: Garret Tealeaf
-hide_toc: true
 ---
 # Garret Tealeaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

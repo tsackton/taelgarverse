@@ -10,7 +10,6 @@ gender: female
 whereabouts: Eskorola
 activeYear: 1747
 title: Amaya
-hide_toc: true
 ---
 # Amaya
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

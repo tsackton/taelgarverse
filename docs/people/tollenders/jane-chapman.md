@@ -16,7 +16,6 @@ affiliations:
 whereabouts:
 - {type: home, location: Tollen}
 - {type: away, start: '1748-12-30', end: '1748-12-30', location: Dyer's Guildhall}
-hide_toc: true
 ---
 # Captain Jane Chapman
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

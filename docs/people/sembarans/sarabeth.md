@@ -15,7 +15,6 @@ whereabouts:
 - {type: home, location: Dunfry}
 - {type: home, location: Cleenseau}
 title: Sarabeth
-hide_toc: true
 ---
 # Sarabeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -15,7 +15,6 @@ whereabouts:
 - {type: home, location: Fiskurth}
 - {type: away, start: 1748-12-17, end: 1748-12-17, location: The Windward Sail}
 title: Nika Hyne
-hide_toc: true
 ---
 # Nika Hyne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

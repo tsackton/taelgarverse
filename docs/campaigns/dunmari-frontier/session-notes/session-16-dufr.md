@@ -8,6 +8,11 @@ DR_end: 1748-04-16
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 title: Session 16 (DuFr)
 ---
+## Timeline
+
+- Apr 15, 1748 DR, night: Continue exploring [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). Fight a water guardian, dislodge a strange iron orrery, and find treasure and information. Flee as Hralgar's mind slips back into madness and the storm intensifies. Stagger through the storm through the night. 
+- Apr 16, 1748 DR, early morning: Stumble out of the permanent storm around [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). Vola and Riswynn depart for Chardon and Tharn Todor, respectively. 
+## Narrative
 
 Standing in a shattered room at the top of an [ancient tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), we begin with our heroes confronting a massive [storm giant](<../../../species/children-of-the-divine/giants.md>), laying chained and manacled to the ground in front of them. Clothed in tattered robes, with long, shaggy hair and weathered features, the most notable fact about this storm giant, [Hralgar](<../../../people/giants/hralgar.md>), is that he is missing his [eyes](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>). 
 

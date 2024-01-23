@@ -10,7 +10,6 @@ died: 1633
 affiliations:
 - {org: House of Lils, type: primary}
 title: Derik
-hide_toc: true
 ---
 # Derik
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

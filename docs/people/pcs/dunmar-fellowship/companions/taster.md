@@ -13,7 +13,6 @@ affiliations:
 whereabouts:
 - {type: away, location: missing and presumed dead}
 title: Taster
-hide_toc: true
 ---
 # Taster
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

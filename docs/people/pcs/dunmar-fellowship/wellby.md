@@ -12,7 +12,6 @@ affiliations:
 - {org: Dunmar Fellowship}
 - {org: Goodbarrels, type: primary}
 title: Wellby
-hide_toc: true
 ---
 # Wellby
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

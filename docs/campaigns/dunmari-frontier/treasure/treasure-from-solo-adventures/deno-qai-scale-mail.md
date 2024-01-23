@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, start: 1543, end: 1545, location: Balati}
 - {type: home, start: 1748-10-04, end: 9999, location: Delwath}
 title: Deno'qai Scale Mail
-hide_toc: true
 ---
 # Deno'qai Scale Mail
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

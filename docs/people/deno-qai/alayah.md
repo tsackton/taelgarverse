@@ -10,7 +10,6 @@ gender: female
 whereabouts:
 - {type: home, location: Te'kula village}
 title: Alayah
-hide_toc: true
 ---
 # Alayah
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

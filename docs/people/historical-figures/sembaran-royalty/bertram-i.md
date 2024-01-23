@@ -16,7 +16,6 @@ affiliations:
 - {place: Breva, title: High King, start: 1549}
 - {place: Zovcka, title: High King, start: 1549}
 - {org: House of Sewick, type: primary}
-hide_toc: true
 ---
 # King Bertram I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

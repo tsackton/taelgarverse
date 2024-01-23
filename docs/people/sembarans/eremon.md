@@ -13,7 +13,6 @@ whereabouts:
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry}
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
 title: Eremon
-hide_toc: true
 ---
 # Eremon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

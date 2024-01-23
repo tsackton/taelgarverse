@@ -13,7 +13,6 @@ aliases: [Nora]
 whereabouts:
 - {type: away}
 title: Nora Silverspark
-hide_toc: true
 ---
 # Nora Silverspark
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

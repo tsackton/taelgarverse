@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, location: Uzgukhar}
 - {type: away, location: Vindristjarna, end: 9999}
 title: Aygul
-hide_toc: true
 ---
 # Aygul
 :speaker:{ .middle } *(EYE-gool)*  

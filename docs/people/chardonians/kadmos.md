@@ -19,7 +19,6 @@ whereabouts:
 - {type: away, start: 1748-11-19, end: '', location: Garamjala Desert}
 - {type: away, start: 1748-12-08, end: 1748-12-08, location: Uzgukhar}
 title: Kadmos
-hide_toc: true
 ---
 # Kadmos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

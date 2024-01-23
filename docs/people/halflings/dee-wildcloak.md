@@ -24,7 +24,6 @@ whereabouts:
 - {type: away, start: 1748-08-22, end: 1748-08-22, location: The Thirsty Scholar}
 - {type: away, start: 1748-10-18, end: 1748-10-21, location: Darba, wLastKnown: ''}
 title: Dee Wildcloak
-hide_toc: true
 ---
 # Dee Wildcloak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -54,6 +53,8 @@ Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon.
 - Dee has traveled and adventured with the dwarf [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) and the Chardonian [Alban](<../chardonians/alban.md>). 
 - Dee's adventures have largely been funded by the Chardonian wizard [Fausto](<../chardonians/fausto.md>)
 - Dee knows other adventurers associated with the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), including [Arcus](<../chardonians/arcus.md>) and  [Vola](<../chardonians/vola.md>). She is particularly friendly with Vola. 
+
+- Aug 22, 1748 DR: Dee Wildcloak has a short romantic encounter with [Wellby](<../pcs/dunmar-fellowship/wellby.md>)
 
 
 

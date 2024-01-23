@@ -15,7 +15,6 @@ whereabouts:
 - {type: home, end: 1538, location: Ainumarya}
 - {type: away}
 title: Delwath
-hide_toc: true
 ---
 # Delwath
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

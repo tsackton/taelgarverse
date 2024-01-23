@@ -10,7 +10,6 @@ gender: male
 whereabouts:
 - {type: away, start: 1748-11-23, end: '', location: Tharn Todor}
 title: Delig Firebrand
-hide_toc: true
 ---
 # Delig Firebrand
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

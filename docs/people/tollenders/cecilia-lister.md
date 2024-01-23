@@ -13,7 +13,6 @@ affiliations: [Dyer's Guild]
 whereabouts:
 - {type: home, start: '', end: '', location: Tollen}
 title: Cecilia Lister
-hide_toc: true
 ---
 # Cecilia Lister
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

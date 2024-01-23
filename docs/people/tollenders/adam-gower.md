@@ -6,7 +6,6 @@ name: Adam Gower
 gender: male
 ancestry: Tollender
 title: Adam Gower
-hide_toc: true
 ---
 # Adam Gower
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

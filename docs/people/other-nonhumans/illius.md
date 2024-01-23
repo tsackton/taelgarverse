@@ -12,7 +12,6 @@ gender: nonbinary
 whereabouts:
 - {type: away, start: 1747-07-23, location: Hamri}
 title: Illius
-hide_toc: true
 ---
 # Illius
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

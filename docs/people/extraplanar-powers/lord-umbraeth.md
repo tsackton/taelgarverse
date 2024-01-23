@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, location: Twilight's Grace}
 - {type: home, location: Duskmire}
 title: Lord Umbraeth
-hide_toc: true
 ---
 # Lord Umbraeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -9,7 +9,6 @@ species: human
 ancestry:
 gender: male
 title: Emperor Vestian
-hide_toc: true
 ---
 # Emperor Vestian
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

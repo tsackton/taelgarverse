@@ -15,7 +15,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Tokra}
 pronunciation: FAHL-thrah
 title: Fallthra Hardstone
-hide_toc: true
 ---
 # Fallthra Hardstone
 :speaker:{ .middle } *(FAHL-thrah)*  

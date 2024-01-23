@@ -12,7 +12,6 @@ affiliations:
 - {place: Sembara, start: 1648-10}
 - {place: Tyrwingha, start: 1648-10}
 - {org: House of Sewick, type: primary}
-hide_toc: true
 ---
 # Queen Charlotte II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

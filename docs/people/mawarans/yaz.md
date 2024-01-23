@@ -8,7 +8,6 @@ species: human
 ancestry:
 gender: male
 title: Yaz
-hide_toc: true
 ---
 # Yaz
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

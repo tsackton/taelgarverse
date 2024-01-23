@@ -14,7 +14,6 @@ title: Laivan Iskra
 whereabouts:
 - {type: home, location: Pikkua}
 - {type: home, start: 1743, location: Tollen}
-hide_toc: true
 ---
 # Laivan Iskra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

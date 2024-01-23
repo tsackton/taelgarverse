@@ -10,7 +10,6 @@ subspecies: dryad
 gender: female
 whereabouts: Azta Lekua
 title: Eleuha
-hide_toc: true
 ---
 # Eleuha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

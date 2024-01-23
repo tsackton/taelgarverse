@@ -13,7 +13,6 @@ whereabouts:
 - {type: home, location: Eastern Dunmar, format: ''}
 - {type: away, start: 1748-05-01, prefix: western part of, location: Garamjala Desert}
 title: Camana
-hide_toc: true
 ---
 # Camana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -10,7 +10,6 @@ gender: female
 player: David Kong
 excludePublish: [clee]
 title: Mikasa
-hide_toc: true
 ---
 # Mikasa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

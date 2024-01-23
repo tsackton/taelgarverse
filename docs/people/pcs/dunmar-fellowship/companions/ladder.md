@@ -11,7 +11,6 @@ player:
 affiliations:
 excludePublish: [clee]
 title: Ladder
-hide_toc: true
 ---
 # Ladder
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, start: '', end: 1716, location: Embry}
 - {type: away, start: 1716, end: '', prefix: somewhere on, location: Semb}
 title: Tal
-hide_toc: true
 ---
 # Tal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

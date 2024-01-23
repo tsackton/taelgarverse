@@ -10,7 +10,6 @@ gender: female
 whereabouts:
 - {type: home, location: Ko'zula village}
 title: Ninu
-hide_toc: true
 ---
 # Ninu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -14,7 +14,6 @@ affiliations:
 - People of the Rainbow
 - {org: Xurkhaz, type: leader, start: 1745}
 whereabouts: Uzgukhar
-hide_toc: true
 ---
 # Chief Lubash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -12,7 +12,6 @@ whereabouts:
 - {type: away, start: 1748-11-23, end: '', prefix: travelling in, location: Dunmar}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
 title: Vola Forena
-hide_toc: true
 ---
 # Vola Forena
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

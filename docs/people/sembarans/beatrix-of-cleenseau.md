@@ -13,7 +13,6 @@ affiliations:
 - {org: Lord's Guard of Cleenseau, start: 1719-11-23, title: Guardswoman}
 whereabouts: Cleenseau
 title: Béatrix of Cleenseau
-hide_toc: true
 ---
 # Béatrix of Cleenseau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

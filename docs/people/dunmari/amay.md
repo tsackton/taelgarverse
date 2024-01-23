@@ -10,7 +10,6 @@ gender: male
 whereabouts:
 - {type: away, start: 1748-11-15, end: '', linkText: camped near, location: Tokra, format: '<name:q>'}
 title: Amay
-hide_toc: true
 ---
 # Amay
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,5 +26,9 @@ hide_toc: true
 
 A captain in the Dunmari army, in service of [Illyan](<./illyan.md>) and ultimately the Samraat [Nayan Karnas](<./nayan-karnas.md>). 
 
+
+## Chronology
+- Jun 03, 1748 DR: Arrives in Tokra with the first wave of [Nayan Karnas](<./nayan-karnas.md>)'s army, under the command of [Illyan](<./illyan.md>). 
+- Jul 02, 1748 DR: Briefly encounters [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Tokra while escorting them to [Illyan](<./illyan.md>)'s camp. 
 
 

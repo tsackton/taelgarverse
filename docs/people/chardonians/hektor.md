@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
 title: Hektor
-hide_toc: true
 ---
 # Hektor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

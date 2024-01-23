@@ -16,7 +16,6 @@ affiliations:
 whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Tokra}
-hide_toc: true
 ---
 # Samraat Dharajun Jita
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

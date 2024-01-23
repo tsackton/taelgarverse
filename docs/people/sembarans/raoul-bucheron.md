@@ -13,7 +13,6 @@ whereabouts:
 - {type: home, location: Windlea}
 - {type: away, start: 1718, end: 9999, prefix: roaming around, location: Barony of Aveil}
 title: Raoul Bûcheron
-hide_toc: true
 ---
 # Raoul Bûcheron
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

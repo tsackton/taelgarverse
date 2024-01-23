@@ -10,7 +10,6 @@ title: Major Symone Barbet
 aliases: [Major Symone Barbet]
 affiliations:
 - {org: Dunfry Regiment, type: leader}
-hide_toc: true
 ---
 # Major Symone Barbet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

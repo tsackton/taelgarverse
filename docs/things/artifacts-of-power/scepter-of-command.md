@@ -15,7 +15,6 @@ whereabouts:
 - {type: home, location: Dunmar Fellowship, start: 1748-05-29, end: 1748-12-24}
 - {type: away, location: Vetta, start: 1748-12-24, end: 1748-12-25}
 title: Scepter of Command
-hide_toc: true
 ---
 # The Scepter of Command
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -41,5 +40,8 @@ Seen in [The Mirror of the Past](<../../campaigns/dunmari-frontier/treasure/trea
 From the mirror, you learned this is of Drankorian origin, constructed by [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>), an emperor of [Drankor](<../../history/drankorian-era/drankor.md>) in a tall black tower on a perfectly circular island, and used to enhance his command of his armies. It was carried by the fire giant who destroyed [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), you presume [Mavdyr](<../../people/historical-figures/mavdyr.md>) who led an [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) horde to attack [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) in 1552 by the Drankorian Reckoning, 7 years after the death of [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>). [Agata](<../../people/fey/agata.md>) apparently obtained it in trade with the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>), in exchange for a scroll that would summon (and presumably bind) a demon from the [Abyss](<../../cosmology/multiverse/spiritual-realms/primal-realms/abyss.md>) who had the power to create gnoll armies, as well as a [scroll](<../../campaigns/dunmari-frontier/treasure/treasure-from-tokra/pandemonium-scroll.md>) with the power to enhance the essence of [Pandemonium](<../../cosmology/multiverse/spiritual-realms/primal-realms/pandemonium.md>). 
 
 
+
+## Destruction
+The Scepter of Command was destroyed in 1748, by [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>). It was immersed in the sacred waters on the island of [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>) in the Skaer Islands for 24 hours during a full moon, and then shattered with the combined power of [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>)'s staff and the might of [Kaikkea](<../../cosmology/gods/incorporeal-gods/kaikkea.md>)'s waters. 
 
 

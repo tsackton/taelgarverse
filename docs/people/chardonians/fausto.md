@@ -12,7 +12,6 @@ whereabouts:
 - {type: away, start: 1734-01-01, end: '', prefix: adventuring in, location: West Coast Region}
 - {type: home, start: 1737-01-01, end: '', location: Chardon}
 title: Fausto
-hide_toc: true
 ---
 # Fausto
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

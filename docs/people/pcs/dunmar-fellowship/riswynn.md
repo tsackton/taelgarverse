@@ -10,7 +10,6 @@ gender: female
 player: Kate Sackton
 affiliations: [The Dunmar Fellowship]
 title: Riswynn
-hide_toc: true
 ---
 # Riswynn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

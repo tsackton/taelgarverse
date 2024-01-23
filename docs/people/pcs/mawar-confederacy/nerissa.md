@@ -11,7 +11,6 @@ gender: female
 player: Kate Sackton
 affiliations:
 title: Nerissa
-hide_toc: true
 ---
 # Nerissa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

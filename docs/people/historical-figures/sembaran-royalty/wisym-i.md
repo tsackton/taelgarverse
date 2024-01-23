@@ -14,7 +14,6 @@ affiliations:
 - {org: House of Sewick, type: primary}
 leaderOf:
 - {place: Sembara}
-hide_toc: true
 ---
 # King Wisym I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -7,7 +7,6 @@ rarity: unique
 typeOf: gemstone
 subTypeOf: magical
 title: Jade Piece of Rai's Hand
-hide_toc: true
 ---
 # A Jade Piece of Rai's Hand
 :octicons-info-24:{ .lg .middle } **Unique Magical Gemstone**  

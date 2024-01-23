@@ -11,7 +11,6 @@ player: Mike Sackton
 died: 1545
 affiliations: [The Rangers]
 title: Beryl
-hide_toc: true
 ---
 # Beryl
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

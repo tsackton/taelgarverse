@@ -7,7 +7,6 @@ species: human
 ancestry: Sembaran
 gender: male
 title: Walter of Cleenseau
-hide_toc: true
 ---
 # Walter of Cleenseau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

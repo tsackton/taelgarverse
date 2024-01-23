@@ -10,7 +10,6 @@ gender: male
 affiliations:
 - {org: People of the Rainbow, type: primary}
 title: Uzgash
-hide_toc: true
 ---
 # Uzgash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

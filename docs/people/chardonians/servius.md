@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, start: 1689-01-02, end: '', location: Chardon}
 - {type: away, start: 1748-11-23, end: '', location: Illoria}
 title: Servius
-hide_toc: true
 ---
 # Servius
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

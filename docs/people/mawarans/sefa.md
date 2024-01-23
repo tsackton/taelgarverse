@@ -10,7 +10,6 @@ ancestry: Mawaran
 gender: female
 died: 1747
 title: Sefa
-hide_toc: true
 ---
 # Sefa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

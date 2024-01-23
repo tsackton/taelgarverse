@@ -13,7 +13,6 @@ whereabouts:
 - {type: away, start: 1747, end: 1748-12, location: Azta Lekua}
 pronunciation: moh-TOO-ah
 title: Motua
-hide_toc: true
 ---
 # Motua
 :speaker:{ .middle } *(moh-TOO-ah)*  

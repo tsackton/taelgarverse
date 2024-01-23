@@ -14,7 +14,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Taviose}
 - {type: away, start: 1719-11-21, end: 1719-12-23, location: Dunfry}
 title: Brot Starsearcher
-hide_toc: true
 ---
 # Brot Starsearcher
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

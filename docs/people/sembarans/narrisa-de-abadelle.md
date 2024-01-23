@@ -8,7 +8,6 @@ ancestry: Sembaran
 gender: female
 affiliations: [Order of the Charitable Wanderer]
 title: Narrisa de Abadelle
-hide_toc: true
 ---
 # Narrisa de Abadelle
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

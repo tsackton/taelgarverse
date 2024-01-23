@@ -10,7 +10,6 @@ gender: female
 affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scroll]
 whereabouts: Chardon
 title: Roscelia
-hide_toc: true
 ---
 # Roscelia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

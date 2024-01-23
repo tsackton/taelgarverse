@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-05-01, location: Tokra}
 title: Drusa
-hide_toc: true
 ---
 # Drusa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -14,7 +14,6 @@ affiliations:
 whereabouts:
 - {type: home, location: The Red Lily Inn}
 title: Tye Strongbones
-hide_toc: true
 ---
 # Tye Strongbones
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

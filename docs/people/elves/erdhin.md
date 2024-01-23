@@ -8,7 +8,6 @@ ka:
 whereabouts: Erelion
 gender: male
 pronunciation: erd-HEEN
-hide_toc: true
 ---
 # Caretaker Erdhin
 :speaker:{ .middle } *(erd-HEEN)*  

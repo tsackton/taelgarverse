@@ -9,7 +9,6 @@ ancestry: Dunmari
 gender: female
 whereabouts: Karawa
 title: Jumi
-hide_toc: true
 ---
 # Jumi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -16,7 +16,6 @@ affiliations:
 whereabouts:
 - {type: home, start: 1718, location: The Windward Sail}
 title: Wendel Quickstep
-hide_toc: true
 ---
 # Wendel Quickstep
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

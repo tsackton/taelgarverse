@@ -15,7 +15,6 @@ whereabouts:
 - {type: away, start: 1719-10-21, end: 1719-10-21, location: Cleenseau Wood}
 - {type: away, start: 1719-11-27, end: 1720-01-18, location: Dunfry}
 title: Adam
-hide_toc: true
 ---
 # Adam
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

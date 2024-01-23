@@ -12,7 +12,6 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Pyhlla}
 title: Tulvak
-hide_toc: true
 ---
 # Tulvak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

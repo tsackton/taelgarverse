@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, end: 1748-07-01, location: Chardon}
 - {type: away, start: 1748-10-23, location: Ausson's Crossing, wLastKnown: ''}
 title: Marcella
-hide_toc: true
 ---
 # Marcella
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -14,7 +14,6 @@ affiliations:
 - {org: Brightmoons, type: primary}
 whereabouts: Wave Dancer
 title: Pearl Brightmoon
-hide_toc: true
 ---
 # Pearl Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

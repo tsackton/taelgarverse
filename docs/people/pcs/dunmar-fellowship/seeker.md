@@ -10,7 +10,6 @@ gender: male
 player: Eric Rosenbaum
 affiliations: [The Dunmar Fellowship]
 title: Seeker
-hide_toc: true
 ---
 # Seeker
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

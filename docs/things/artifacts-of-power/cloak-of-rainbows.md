@@ -13,7 +13,6 @@ whereabouts:
 - {type: home, end: 1059, location: People of the Rainbow}
 - {type: home, location: Lubash}
 title: Cloak of Rainbows
-hide_toc: true
 ---
 # The Cloak of Rainbows
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

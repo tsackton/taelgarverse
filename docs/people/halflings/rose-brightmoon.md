@@ -15,7 +15,6 @@ affiliations:
 whereabouts:
 - {type: home, location: Wave Dancer}
 title: Rose Brightmoon
-hide_toc: true
 ---
 # Rose Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

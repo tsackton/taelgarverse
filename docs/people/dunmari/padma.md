@@ -10,7 +10,6 @@ ancestry: Dunmari
 gender: female
 whereabouts: an unnamed caravanserai, Tokra-Darba Road
 title: Padma
-hide_toc: true
 ---
 # Padma
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

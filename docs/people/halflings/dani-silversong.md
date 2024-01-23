@@ -14,7 +14,6 @@ leaderOf:
 affiliations: [Silversongs]
 whereabouts: Emerald Song
 title: Dani Silversong
-hide_toc: true
 ---
 # Dani Silversong
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

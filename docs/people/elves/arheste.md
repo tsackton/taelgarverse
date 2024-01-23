@@ -13,7 +13,6 @@ name: Arheste
 pronunciation: AR-hes-teh
 gender: female
 title: Arheste
-hide_toc: true
 ---
 # Arheste
 :speaker:{ .middle } *(AR-hes-teh)*  

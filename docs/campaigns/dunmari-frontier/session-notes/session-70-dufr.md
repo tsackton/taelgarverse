@@ -6,25 +6,34 @@ realWorldDate: 2023-02-02
 DR: 1748-11-23
 DR_end: 1748-11-23
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-title: Session 70 (DuFr)
+tagline: in which the party confronts Hralgar's dream
+descTitle: Storm's Echo
+title: Dunmari Frontier - Session 70 Session 70 (DuFr)
 ---
-## Notes and Information
-*in which the party enters the tower and finds Hralgar*
+# Dunmari Frontier - Session 70
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) chase a possessed [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) into the storm, braving lightning and wind to reach [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). There, they meet the giant [Hralgar](<../../../people/giants/hralgar.md>) in his dreamscape, and tell tales that lead him to a clear understanding of his situation. 
+>[!info] Storm's Echo: in which the party confronts Hralgar's dream
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Nov 23, 1748 DR*
+> *On Earth: Thursday Feb 02, 2023*
+> *[Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>)*
 
-Start: 23 Nov 1748, late afternoon, camped outside the storm surrounding [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>)
-End: 23 Nov 1748, evening, in Hralgar's dreamscape
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) follows a possessed [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) into the storm around [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), and engages with [Hralgar](<../../../people/giants/hralgar.md>)'s dreams, leading to his awakening and Kenzo's release.
 
-#### Character Advancement
-- [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), struck full on by a magical lightning blast in [Hralgar](<../../../people/giants/hralgar.md>)'s storm, infused with the giant's magic, learned the Shocking Grasp cantrip while nearly being fried to death. 
+## Session Info
 
-## Timeline
+***[Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), struck full on by a magical lightning blast in [Hralgar](<../../../people/giants/hralgar.md>)'s storm, infused with the giant's magic, learned the Shocking Grasp cantrip while nearly being fried to death.***
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) chases a storm-possessed [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) into the magical storm surrounding [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>).
+- [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) receives a vision of an orc wearing the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>) in a castle.
+- The party ascends the tower, faces storm elementals, and flies to the fourth floor to find the statue of [Hralgar](<../../../people/giants/hralgar.md>).
+- In [Hralgar](<../../../people/giants/hralgar.md>)'s dream-like domain atop the tower, the party tells tales to help him realize he is trapped in a dream.
+- [Hralgar](<../../../people/giants/hralgar.md>) regains his memories, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) recovers from possession, and the party prepares to free [Hralgar](<../../../people/giants/hralgar.md>) from his dream.
 
-- Nov 23, 1748 DR: *(late afternoon)* Enter the storm around [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), chasing a possessed [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>). Dodge animated storm elementals protecting the approach. Reach [Hralgar](<../../../people/giants/hralgar.md>)'s dreamscape, bring [Hralgar](<../../../people/giants/hralgar.md>) back to himself with stories. 
+### Timeline
+- Nov 23, 1748 DR, late afternoon: Enter the storm around [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), chasing a possessed [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>). Dodge animated storm elementals protecting the approach. Reach [Hralgar](<../../../people/giants/hralgar.md>)'s dreamscape, bring [Hralgar](<../../../people/giants/hralgar.md>) back to himself with stories. 
 
 ## Narrative
-
 We begin as the party stands outside the swirling storm around [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), listening to the news the winds bring, while deciding what to do as [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) mediates and communes with the storm, trying to learn more of it. Suddenly, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is possessed, his eyes flashing lightning, and he begins to walk into the storm. Having to act quickly, [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) get the animals settled while [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) get [Hralgar's Eyes](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>) from the [Portable Hole](<../treasure/treasure-from-tokra/portable-hole.md>), hoping to convince Hraglar-as-[Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) to make the storm safe. To no avail, for [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) says that the weather is wonderful and charges ahead. Forced to chase, the party plunges into the storm. Enduring intense lightning strikes and thunderous wind that makes conversation impossible, the party  pushes through the storm, following [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>). 
 
 ![Hralgar Storm Nov 1748 2](../../../assets/hralgar-storm-nov-1748-2.png)
@@ -56,5 +65,3 @@ With [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s story, and 
 And then [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) opens his eyes, confused, shaken from the possession by [Hralgar](<../../../people/giants/hralgar.md>)'s lucidity, a [blur of memories](<../dreams-and-visions/kenzo-s-memories-of-hraglar.md>) coming back to him in a rush, recalling the words of the binding spell that ensnared [Hralgar](<../../../people/giants/hralgar.md>) and how to break it, by reciting the first lines of A Lament for Lost Thunder, an elvish poem by Nelawe. 
 
 As the party rushes down the stairs, they emerge by the statue and attempt to find a way to return the eyes while reciting the poem, but the sounds of thrashing from above quickly make it clear this is the wrong approach. We end as the party rushes back up the stairs, to the sight of the haunted, ghostly version of [Hralgar](<../../../people/giants/hralgar.md>) attempting to strangle the giant in the [dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>). 
-
-

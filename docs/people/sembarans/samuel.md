@@ -10,7 +10,6 @@ whereabouts: Cleenseau
 affiliations:
 - {org: Essfords, title: Kitchen Boy}
 title: Samuel
-hide_toc: true
 ---
 # Samuel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

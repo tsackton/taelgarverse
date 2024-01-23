@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, location: Skaerhem}
 - {type: home, start: 1737, location: Vetta}
 title: Jorma
-hide_toc: true
 ---
 # Jorma
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

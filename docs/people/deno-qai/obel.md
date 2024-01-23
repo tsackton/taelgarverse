@@ -9,7 +9,6 @@ ancestry: Deno'qai
 gender: male
 whereabouts: Te'kula village
 title: Obel
-hide_toc: true
 ---
 # Obel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -13,7 +13,6 @@ title: Chiefling Uzgul
 affiliations: [The People of the Rainbow]
 whereabouts:
 - {type: home, start: '', end: '', location: Uzgukhar}
-hide_toc: true
 ---
 # Chiefling Uzgul
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

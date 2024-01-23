@@ -6,7 +6,6 @@ name: Mitus Verina Auratan
 title: Magistros Mitus Verina Auratan
 species: human
 whereabouts: Chardon
-hide_toc: true
 ---
 # Magistros Mitus Verina Auratan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

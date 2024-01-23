@@ -4,7 +4,6 @@ rarity: unique
 typeOf: staff
 whereabouts: Candrosa
 title: Dreamweaver Staff
-hide_toc: true
 ---
 # The Dreamweaver Staff
 >[!info]+ Information

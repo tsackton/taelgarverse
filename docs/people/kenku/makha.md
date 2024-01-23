@@ -12,7 +12,6 @@ gender: male
 whereabouts: Wahacha
 pronunciation: MAH-kah
 title: Makha
-hide_toc: true
 ---
 # Makha
 :speaker:{ .middle } *(MAH-kah)*  

@@ -11,7 +11,6 @@ affiliations:
 whereabouts:
 - {type: home, start: 1719-04-15, location: Cleenseau}
 title: Nicholas Wysson
-hide_toc: true
 ---
 # Nicholas Wysson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

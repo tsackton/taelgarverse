@@ -11,7 +11,6 @@ player: Eric Rosenbaum
 affiliations:
 excludePublish: [clee]
 title: Trok
-hide_toc: true
 ---
 # Trok
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

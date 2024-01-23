@@ -15,7 +15,6 @@ affiliations:
 - {place: Wave Dancer, title: Captain, type: leader, start: 1}
 whereabouts: Wave Dancer
 title: Wella Brightmoon
-hide_toc: true
 ---
 # Wella Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -39,6 +38,8 @@ hide_toc: true
 
 
 Wella is an elderly halfling woman, and the captain of the [Wave Dancer](<../../things/ships/wave-dancer.md>). She is married to [Rose Brightmoon](<./rose-brightmoon.md>), and is the matriarch of the Brightmoon clan. 
+
+Although now getting old and stiff and sometimes slow on her feet, she has been sailing all her life, and her weather sense is deeply respected by the crew of the [Wave Dancer](<../../things/ships/wave-dancer.md>). 
 
 ## Relationships
 - [Rose Brightmoon](<./rose-brightmoon.md>), wife

@@ -11,7 +11,6 @@ gender: male
 campaignInfo:
 - {campaign: dufr, date: 1749-01-15, type: Hosted for dinner}
 title: Cirdore
-hide_toc: true
 ---
 # Cirdore
 :speaker:{ .middle } *(KEER-doh-reh)*  

@@ -16,7 +16,6 @@ whereabouts:
 - {type: away, start: 1748-11-06, end: 1748-11-13, location: Azta Lekua}
 - {type: away, start: 1748-11-15, location: Bedez}
 title: Enari
-hide_toc: true
 ---
 # Enari
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

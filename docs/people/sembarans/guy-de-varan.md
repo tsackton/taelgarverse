@@ -14,7 +14,6 @@ whereabouts:
 - {type: away, start: 1719-11-30, location: Bandit's Way}
 - {type: away, start: 1719-12-01, location: Cleenseau}
 title: Guy de Varan
-hide_toc: true
 ---
 # Guy de Varan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -33,5 +32,5 @@ hide_toc: true
 
 A traveler and caravan expediter, he is relatively well-known along [Bandit's Way](<../../gazetteer/greater-sembara/roads/bandit-s-way.md>) as a man who can help find guards and organize supplies. The de Varan family is well-known in [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) and was originally from far southern [Isingue](<../../gazetteer/istaros-watershed/isingue.md>) before the Great War. 
 
-![Guy De Varan Maseau](../../assets/guy-de-varan-maseau.png)
+![Guy de Varan Maseau](../../assets/guy-de-varan-maseau.png)
 

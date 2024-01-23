@@ -8,7 +8,6 @@ species: human
 ancestry: Dunmari
 gender: male
 title: Shandar
-hide_toc: true
 ---
 # Shandar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

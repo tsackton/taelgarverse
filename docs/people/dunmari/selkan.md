@@ -10,7 +10,6 @@ gender: male
 whereabouts:
 - {type: home, start: 1748-06-08, location: Karawa}
 title: Selkan
-hide_toc: true
 ---
 # Selkan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

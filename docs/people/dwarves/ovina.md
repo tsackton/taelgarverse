@@ -9,7 +9,6 @@ species: dwarf
 ancestry:
 gender: female
 title: Ovina
-hide_toc: true
 ---
 # Ovina
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

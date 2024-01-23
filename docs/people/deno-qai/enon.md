@@ -10,7 +10,6 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
 title: Enon
-hide_toc: true
 ---
 # Enon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -13,7 +13,6 @@ affiliations:
 - {org: Dunmar, start: 1187, end: 1250, type: leader}
 title: Samraat Aatmaji Kotana
 aliases: [Samraat Kotana]
-hide_toc: true
 ---
 # Samraat Aatmaji Kotana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

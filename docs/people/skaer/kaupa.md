@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Skaerhem}
 - {type: home, start: 1745-04-11, end: '', location: Tollen}
 title: Kaupa
-hide_toc: true
 ---
 # Kaupa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

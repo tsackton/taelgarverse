@@ -10,7 +10,6 @@ gender: male
 affiliations: [Lakan mystai]
 whereabouts: Lakan Monastery
 title: Basu
-hide_toc: true
 ---
 # Basu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -6,24 +6,38 @@ realWorldDate: 2023-04-11
 DR: 1748-11-29
 DR_end: 1748-12-04
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-title: Session 75 (DuFr)
+tagline: in which the party repels an ambush and heads east
+descTitle: Shadow Assault
+title: Dunmari Frontier - Session 75 Session 75 (DuFr)
 ---
-## Notes and Information
-*in which the party defeats the shadow hunters, and heads east
+# Dunmari Frontier - Session 75
 
-Start: night, Nov 29th 1748
-End: early morning, Dec 4th
-## Timeline
+>[!info] Shadow Assault: in which the party repels an ambush and heads east
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Nov 29, 1748 DR to Dec 04, 1748 DR*
+> *On Earth: Tuesday Apr 11, 2023*
+> *Traveling to [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>)*
 
-- Nov 29, 1748 DR: *(midnight)* Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocked [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) unconscious and attempts to flee with him.
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) successfully defends against shadow attackers, strategizes with allies, and advances eastward towards orc territory.
+
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) is attacked by shadow dogs and a shadow assassin sent by [Fausto](<../../../people/chardonians/fausto.md>), with [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) briefly captured.
+- [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) transforms into a yeti to fight off attackers while [Wellby]'s precise shot kills the fleeing shadow assassin, saving [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>).
+- After surviving the night, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) practice piloting the skyship [Vindristjarna](<../../../things/ships/vindristjarna.md>).
+- [Sura](<../../../people/dunmari/sura.md>) contacts the party via Sending Stone, discussing strategic moves against [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) and the impending Day of Atonement
+- [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) seeks divine guidance, interpreting the advice as a need to build a strong foundation; [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) sends a letter to the Lakan monks via [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s spirit messenger.
+- The party travels east, switching pilots to cover significant ground, and sights orc territory from the air.
+
+### Timeline
+- Nov 29, 1748 DR, midnight: Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocked [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) unconscious and attempts to flee with him.
 - Nov 30, 1748 DR: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) spends the day learning to control and fly [Vindristjarna](<../../../things/ships/vindristjarna.md>), while the rest of the party prepares for the journey east.
 - Dec 01, 1748 DR: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) attunes to the phasing stone and spends the day learning to control and fly [Vindristjarna](<../../../things/ships/vindristjarna.md>); speak with [Sura](<../../../people/dunmari/sura.md>) via Sending Stone
 - Dec 02, 1748 DR: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) asks the Baharazel about their chosen course of action; [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s lynx spirit leaves to take letters to Lakan monks; take off flying east, with [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) alternating piloting; fly 22 hours
 - Dec 03, 1748 DR: Continue flying east, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) alternating over 22 hours
-- Dec 04, 1748 DR: See at the edge of the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) territory from the air, maybe 40-50 miles distant, in the early morning light.
+- Dec 04, 1748 DR, dawn: See the edge of the [orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) territory from the air, maybe 40-50 miles distant, in the early morning light.
 
 ## Narrative
-
 The session begins as the party is awakened by the howls of shadow dogs, the same chalyte zombie assassins created by [Fausto](<../../../people/chardonians/fausto.md>) that chased [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) down on the flight from [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>). 
 
 ![Shadow Hunter Portrait](../../../assets/shadow-hunter-portrait.png){width="300"}![Shadow Hunter Wolf](../../../assets/shadow-hunter-wolf.png){width="300"}
@@ -42,11 +56,8 @@ Speaking to [Sura](<../../../people/dunmari/sura.md>) one final time, [Kenzo](<.
 
 Over the next two days, the party falls into a routine. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) pilots the ship for 11 hours, often taking [Vindristjarna](<../../../things/ships/vindristjarna.md>) as high as it can go, into the freezing clouds far, far above the desert, often removing his shirt to feel the cold wind on his bare skin. Then, the ship lands for an hour, for [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) to attune to the phasing stone, and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) rests while [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) flies through the night. The cycle then repeats, allowing the party to travel 220 miles per day. 
 
-![Over The Desert](../../../assets/over-the-desert.png){width="800"}
+![Over the Desert](../../../assets/over-the-desert.png){width="800"}
 
 On the morning of Dec 4th, the party spies a fertile green crescent along the edge of banks of a river, cattle grazing, and orderly wheat fields watched over by a colorful guard tower on the banks of the river. We end, in the pre-dawn light, as the party considers their course of action, maybe 50 miles from the homeland of the [orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) they have come to find.
 
 ![Orc Lands](../../../assets/orc-lands.png){width="800"}
-
-
-

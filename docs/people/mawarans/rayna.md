@@ -9,7 +9,6 @@ species: human
 ancestry: Mawaran
 gender: female
 title: Rayna
-hide_toc: true
 ---
 # Rayna
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

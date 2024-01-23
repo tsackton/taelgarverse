@@ -9,7 +9,6 @@ ancestry: Sembaran
 gender: male
 died: 1719
 title: Robert
-hide_toc: true
 ---
 # Robert
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -15,7 +15,6 @@ whereabouts:
 - {type: away, start: 1748-12-01, end: 1748-12-08, location: Uzgukhar}
 - {type: home, start: '', end: '', location: Chardon}
 title: Evelina
-hide_toc: true
 ---
 # Evelina
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

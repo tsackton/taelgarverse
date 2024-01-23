@@ -12,7 +12,7 @@ title: Pyhlla
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 800  
-    :octicons-location-24:{ .lg .middle } A town in [Skaerhem](<./skaerhem.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  
+    :octicons-location-24:{ .lg .middle } A town [Skaerhem](<./skaerhem.md>)  
 </div>
 
 

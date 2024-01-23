@@ -13,7 +13,6 @@ player: Phil Grayson
 whereabouts:
 - {type: home, location: Quanyi}
 title: Shoal
-hide_toc: true
 ---
 # Shoal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

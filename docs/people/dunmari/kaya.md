@@ -9,7 +9,6 @@ ancestry: Dunmari
 gender: female
 excludePublish: [clee]
 title: Kaya
-hide_toc: true
 ---
 # Kaya
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

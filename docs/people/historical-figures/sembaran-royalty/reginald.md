@@ -11,7 +11,6 @@ died: 1550
 affiliations:
 - {org: House of Sewick, type: primary}
 title: Reginald
-hide_toc: true
 ---
 # Reginald
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

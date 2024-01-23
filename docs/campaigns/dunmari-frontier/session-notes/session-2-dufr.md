@@ -6,25 +6,27 @@ realWorldDate: 2020-06-12
 DR: 1748-03-22
 DR_end: 1748-03-25
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which lizards besiege an oasis
-descTitle: Oasis Battle
+tagline: in which lizards are defeated and the party heads east
+descTitle: Into the Desert
 title: Dunmari Frontier - Session 2 Session 2 (DuFr)
-complete: true
 ---
 # Dunmari Frontier - Session 2
 
->[!info] Oasis Battle: in which lizards besiege an oasis
+>[!info] Into the Desert: in which lizards are defeated and the party heads east
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
 > *In Taelgar: Mar 22, 1748 DR to Mar 25, 1748 DR*
 > *On Earth: Friday Jun 12, 2020*
-> *Gomat Oasis to the abandoned Dunmari fort*
+> *[Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) to the [abandoned Dunmari fort](<../../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>)*
 
-The Dunmar Fellowship defeats giant lizards at Gomat Oasis, uncovers signs of unnatural disturbances, and battles skeletons at a ruined fort.
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeats giant lizards at [Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>), uncovers signs of unnatural disturbances, and battles skeletons at a [ruined fort](<../../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>).
 ## Session Info
+
+***Character advancement: the party reaches level 2 crossing the [Daraar Canyon](<../../../gazetteer/greater-dunmar/dunmari-basin/daraar-canyon.md>) and entering the [Nashtkar](<../../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>)***
 ### Summary
-- The Dunmar Fellowship arrives at Gomat Oasis, fights and kills three giant lizards.
-- They meet Akan, a survivor, who recounts his family's deadly encounter with the lizards during the Festival of Rebirth preparations.
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives at [Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>), fights and kills three giant lizards.
+- They meet [Akan](<../../../people/dunmari/akan.md>), a survivor, who recounts his family's deadly encounter with the lizards during the Festival of Rebirth preparations.
 - Following the lizard tracks east, the party discovers abnormal animal behavior and a canyon with unnatural features.
-- Upon reaching a ruined fort, the party is attacked by skeletons emerging from a disturbed mound, hinting at recent activity.
+- Upon reaching a [ruined fort](<../../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>), the party is attacked by skeletons emerging from a disturbed mound, hinting at recent activity.
 ### Timeline
 - Mar 22, 1748 DR, evening: Kill three giant lizards at the [Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) and camp for the night
 - Mar 23, 1748 DR, morning: Meet [Akan](<../../../people/dunmari/akan.md>) at the [Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) in the morning, a survivor of the giant lizard attack. After, turn east into the [Nashtkar](<../../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>).

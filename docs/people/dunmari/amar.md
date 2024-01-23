@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, location: Hara River Valley}
 - {type: home, location: Akela Inn}
 title: Amar
-hide_toc: true
 ---
 # Amar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

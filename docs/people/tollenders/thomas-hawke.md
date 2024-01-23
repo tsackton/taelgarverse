@@ -11,7 +11,6 @@ gender: male
 affiliations: [University of Tollen]
 whereabouts: Tollen
 title: Thomas Hawke
-hide_toc: true
 ---
 # Thomas Hawke
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

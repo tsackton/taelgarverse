@@ -3,7 +3,6 @@ tags: [item/magical, status/unknown]
 typeOf: weapon
 whereabouts: Wellby
 title: Flaming Bowstring
-hide_toc: true
 ---
 # The Flaming Bowstring
 >[!info]+ Information

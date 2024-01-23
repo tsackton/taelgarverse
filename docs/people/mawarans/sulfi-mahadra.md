@@ -9,7 +9,6 @@ species: human
 ancestry:
 gender: female
 title: Sulfi Mahadra
-hide_toc: true
 ---
 # Sulfi Mahadra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

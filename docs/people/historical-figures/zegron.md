@@ -10,7 +10,6 @@ speciesAlias: fire giant
 gender: male
 died: 1545
 title: Zegron
-hide_toc: true
 ---
 # Zegron
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

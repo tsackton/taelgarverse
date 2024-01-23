@@ -11,7 +11,6 @@ died: 1675
 affiliations:
 - {org: House of Lils, type: primary}
 title: Annabeth
-hide_toc: true
 ---
 # Annabeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

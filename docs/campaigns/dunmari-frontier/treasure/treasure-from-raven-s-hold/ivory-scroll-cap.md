@@ -5,7 +5,6 @@ name:
 typeOf: scroll case
 mundane: true
 title: Ivory Scroll Cap
-hide_toc: true
 ---
 # Ivory Scroll Cap
 >[!info]+ Item Info

@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, location: Karawa}
 - {type: away, start: 1748-12-26, location: Central Dunmar}
 title: Alesh
-hide_toc: true
 ---
 # Alesh
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

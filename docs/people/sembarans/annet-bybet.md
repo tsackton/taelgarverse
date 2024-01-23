@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, location: Ainwick}
 - {type: home, location: Cleenseau}
 title: Annet Bybet
-hide_toc: true
 ---
 # Annet Bybet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

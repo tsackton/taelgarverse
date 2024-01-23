@@ -8,7 +8,6 @@ ancestry: Dunmari
 gender: male
 whereabouts: Tokra
 title: Ashar
-hide_toc: true
 ---
 # Ashar
 >[!info]+ Biographical Info

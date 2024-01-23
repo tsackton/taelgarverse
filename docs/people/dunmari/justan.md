@@ -14,7 +14,6 @@ whereabouts:
 - {type: home, location: plains north of Tokra}
 - {type: away, start: 1748-05-01, end: 1748-07-23, location: Copper Hills}
 title: Justan
-hide_toc: true
 ---
 # Justan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

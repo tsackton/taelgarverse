@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, location: Elemental Plane of Air}
 - {type: away, start: 1000, end: 1749-01-08, location: Elemental Forge}
 title: Sh’shethis
-hide_toc: true
 ---
 # Sh’shethis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -26,7 +25,7 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Freed from the the Elemental Forge by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 8th, 1749  
+:octicons-location-24:{ .lg .middle } Freed from the the [Elemental Forge](<../../gazetteer/western-green-sea/cymea/elemental-forge.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 8th, 1749  
 
 
 A strange creature of elemental air who was bound to the Elemental Forge in the Edge of Echoes for over 1000 years. Freed in DR 1749 by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 

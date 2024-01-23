@@ -6,24 +6,36 @@ realWorldDate: 2023-03-02
 DR: 1748-11-23
 DR_end: 1748-11-24
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-title: Session 72 (DuFr)
+tagline: in which the party confronts an ice maiden
+descTitle: Ice Heart
+title: Dunmari Frontier - Session 72 Session 72 (DuFr)
 ---
-## Notes and Information
-*in which the party journeys into the mountains to find a phasing stone*
+# Dunmari Frontier - Session 72
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) talk with Hralgar, and then travel to the mountains under Hralgar's blessing of the wind, where they find Hralgar's abandoned palace and kill an ice spirt who is living there.
+>[!info] Ice Heart: in which the party confronts an ice maiden
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Nov 23, 1748 DR to Nov 24, 1748 DR*
+> *On Earth: Thursday Mar 02, 2023*
+> *Hralgar's Palace in the [Sentinels](<../../../gazetteer/sentinel-range/sentinel-range.md>)*
 
-Start: just after sunset, Nov 23rd 1748
-End: mid-morning, Nov 24th 1748
-#### [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>):
-- Nov 24, 1748 DR: [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>) used to look at the Enchiridion of the [Occulta Ludum](<../../../groups/drankorian-societies/occulta-ludum.md>). recharge mirror
-## Timeline
+The Dunmar Fellowship learns valuable information from Hralgar and defeats an ice maiden in his ancient palace.
 
-- Nov 23, 1748 DR: *(night)* Listen to Hralgar's stories into the night
+## Session Info
+### Summary
+- [Hralgar](<../../../people/giants/hralgar.md>) shares knowledge about the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>), skyships, and powerful magic.
+- He invites the party to journey to his old palace to retrieve a Phasing Stone, and offers lore on volcanoes connected to the elemental [Plane of Fire](<../../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-fire.md>)
+- [Hralgar](<../../../people/giants/hralgar.md>) parts with the party, granting them a wind blessing for swift travel.
+- The party arrives at Hralgar's ruined palace and encounters an ice maiden.
+- After failed negotiations, they battle and defeat the ice maiden and her icy crystal heart.
+
+### Timeline
+- Nov 23, 1748 DR, night: Listen to Hralgar's stories into the night
 - Nov 24, 1748 DR: The party says goodbye to [Hralgar](<../../../people/giants/hralgar.md>) and receives his wind blessing, allowing them to travel quickly as clouds to his ruined palace in the mountains. Scout, and find dark shadows boiling out of the basement, and a icy structure on the main floor. Parlay with an ice maiden, until she brags of freezing travelers on the passes and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) shoots. Defeat her ice maiden form, and then crush her heart of ice and crystal, destroying her. 
 
-## Narrative
+### The Mirror of the Past
+- Nov 24, 1748 DR: [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>) used to look at the Enchiridion of the [Occulta Ludum](<../../../groups/drankorian-societies/occulta-ludum.md>), seeing the [Enchiridion of the Occulta Ludum Viision](<../mirror-visions/enchiridion-of-the-occulta-ludum-viision.md>). recharge mirror
 
+## Narrative
 We begin at camp, as [Hralgar](<../../../people/giants/hralgar.md>) returns from hunting with a brace of antelope and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) begins to cook a late dinner. [Hralgar](<../../../people/giants/hralgar.md>) and the party talk, and [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) hears [Hralgar](<../../../people/giants/hralgar.md>)'s story and learned a little of [Drankor](<../../../history/drankorian-era/drankorian-empire.md>), about the skyship [Vindristjarna](<../../../things/ships/vindristjarna.md>), about [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) and the [Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>), and about volcanoes and how to destroy powerful magic. 
 
 [Hralgar](<../../../people/giants/hralgar.md>) spent his younger days uninterested in the doings of [Humans](<../../../species/humans/humans.md>), paying little attention to them on the plains below, during the Golden Age of [Drankor](<../../../history/drankorian-era/drankorian-empire.md>). Visitors came, and went - [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>), [Stoneborn](<../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>), [Humans](<../../../species/humans/humans.md>) - and they spoke of ancient magic, of myths and stories. When the Golden Age ended in civil war, and the [Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>) came to power, things became more difficult, and some time later he was trapped by [Eudomes](<../../../people/historical-figures/eudomes.md>), during [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>)'s reign. [Hralgar](<../../../people/giants/hralgar.md>) knew of [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) as a powerful wizard, an artificer of great skill who wielded the magic of command. His lair, on a circular island south and west of [Drankor](<../../../history/drankorian-era/drankor.md>) in the [Sea of Storms](<../../../gazetteer/greater-dunmar/sea-of-storms.md>), was shielded and could not be approached even by power storm giants traveling as the wind. 

@@ -2,7 +2,6 @@
 tags: [item/magical, status/unknown]
 typeOf: armor
 title: Elven Shadow Breastplate
-hide_toc: true
 ---
 # The Elven Shadow Breastplate
 >[!info]+ Information

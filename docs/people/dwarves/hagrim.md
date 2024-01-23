@@ -13,7 +13,6 @@ whereabouts:
 - {type: home, end: 1570, location: Nardith}
 - {type: home, start: 1571, location: Morkalan}
 title: Hagrim of Morkalan
-hide_toc: true
 ---
 # Hagrim of Morkalan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -12,7 +12,6 @@ affiliations:
 - {org: Aatmaji Dynasty, type: primary}
 - {org: Dunmar, start: 1385, type: leader}
 aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
-hide_toc: true
 ---
 # Samraat Aatmaj Dasa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

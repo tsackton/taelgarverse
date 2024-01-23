@@ -5,7 +5,6 @@ rarity: unique
 whereabouts: Riswynn
 ddbLink: https://www.dndbeyond.com/magic-items/4641-gauntlets-of-ogre-power
 title: Silverspark Gauntlets
-hide_toc: true
 ---
 # The Silverspark Gauntlets
 >[!info]+ Information

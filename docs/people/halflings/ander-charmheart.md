@@ -20,7 +20,6 @@ whereabouts:
 - {type: away, start: 1748-07-18, end: 1748-08-13, location: Tokra-Darba Road}
 - {type: away, start: 1748-08-13, location: Darba}
 title: Ander Charmheart
-hide_toc: true
 ---
 # Ander Charmheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -49,6 +48,8 @@ A young, rambunctious and excessively curious halfling, traveling with the Charm
 ## Relationships
 - [Callie Charmheart](<./callie-charmheart.md>), older sister and traveling companion
 - [Bree Charmheart](<./bree-charmheart.md>), grandmother and traveling companion
+
+- [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion 
 
 
 

@@ -9,7 +9,6 @@ gender: female
 whereabouts:
 - {type: home, start: '', end: '', location: plains north of Tokra}
 title: Jita
-hide_toc: true
 ---
 # Jita
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

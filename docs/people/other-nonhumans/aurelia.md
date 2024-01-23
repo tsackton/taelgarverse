@@ -11,7 +11,6 @@ gender: female
 whereabouts:
 - {type: home, start: 1733, location: Tollen}
 title: Aurelia
-hide_toc: true
 ---
 # Aurelia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

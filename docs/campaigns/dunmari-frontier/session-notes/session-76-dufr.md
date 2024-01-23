@@ -6,19 +6,33 @@ realWorldDate: 2023-05-07
 DR: 1748-12-04
 DR_end: 1748-12-05
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-title: Session 76 (DuFr)
+tagline: in which the party navigates orcish diplomacy in Xurkhaz
+descTitle: The People of the Rainbow
+title: Dunmari Frontier - Session 76 Session 76 (DuFr)
 ---
-## Notes and Information
-*in which the party meets the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) of [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>)*
+# Dunmari Frontier - Session 76
 
-Start: early morning, Dec 4th
-End: afternoon, Dec 5th
-## Timeline
+>[!info] The People of the Rainbow: in which the party navigates orcish diplomacy in Xurkhaz
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Dec 04, 1748 DR to Dec 05, 1748 DR*
+> *On Earth: Sunday May 07, 2023*
+> *[Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>)*
 
-- Dec 04, 1748 DR: See at the edge of the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) territory from the air, maybe 40-50 miles distant, in the early morning light. Overfly kingdom of [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), scouting. Speak with [Vorgaz](<../../../people/orcs/vorgaz.md>), commander of a fort on the western border, then fly through the night to [Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), the capital. Scry on [Govir](<../../../people/dunmari/govir.md>) and Ulfgar to gather their research on the way. 
-- Dec 05, 1748 DR:Arrive at [Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>) early in the morning. Land, leaving [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) in charge of [Vindristjarna](<../../../things/ships/vindristjarna.md>). Wait for hours for an audience with the Chief. Speak with Chief [Lubash](<../../../people/orcs/lubash.md>) and his advisors. 
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) engages in cautious diplomacy with orcish leaders in [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), discussing mutual threats and the significance of a [magical cloak](<../../../things/artifacts-of-power/cloak-of-rainbows.md>).
+
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) scouts the orcish kingdom of [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>) from their airship, observing its rural landscape and military preparations.
+- Initial contact with the orcs at a western fort is tense, with the party being shot at but eventually leading to a dialogue with Commander Vorgaz.
+- The party discusses their past and shares knowledge of Grash with Vorgaz, who agrees to send a message to Chief Lubash.
+- Upon arrival in Uzgukhar, the party is received by Chief Lubash and advisors; they discuss the threat of Apollyon and the significance of a magical cloak.
+- The party considers the risk of Chardonian spies and the theft of the cloak, but Lubash is reluctant to flee, highlighting the cloak's importance in orc society.
+
+### Timeline
+- Dec 04, 1748 DR: Overfly kingdom of [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), scouting. Speak with [Vorgaz](<../../../people/orcs/vorgaz.md>), commander of a fort on the western border, then fly through the night to [Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), the capital. Scry on [Govir](<../../../people/dunmari/govir.md>) and Ulfgar to gather their research on the way. 
+- Dec 05, 1748 DR: Arrive at [Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>) early in the morning. Land, leaving [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) in charge of [Vindristjarna](<../../../things/ships/vindristjarna.md>). Wait for hours for an audience with the Chief. Speak with Chief [Lubash](<../../../people/orcs/lubash.md>) and his advisors. 
+
 ## Narrative
-
 We begin high above the orcish kingdom of [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>) (zurk - kaz), as the party scouts and debates what to do. The territory is large - at least 150 miles across, nestled between two rivers on its eastern and western borders. From the air, it appears mostly rural, with only a few forts and towers defending the western border, and one major city near the confluence of the two border rivers. This is a dry, arid land of rolling hills, sustained by heavy irrigation that supports what appears to be mostly wheat and cattle farming. 
 
 Drifting over the landscape, the party flies towards the fortification on the western border, a small walled town and fort. As they approach, it is apparent a large army is camped here, maybe 1500 [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) spread out along the river, prepared for war. The [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) who spot [Vindristjarna](<../../../things/ships/vindristjarna.md>) are immediately on alert, and initial negotiations proceed under a hail of arrows striking the bottom of the ship. It is apparent the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) are wary of outsiders, especially because sometime in the recent past it seems a group of Chardonians infiltrated [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>) with nefarious motives. But the commander is swayed by the party's apparent dislike of Chardonians, and he invites them to descend and speak. After a brief negotiation about leaving their weapons behind, the party is led through a brightly colored courtyard to an inner chamber in the fort, where Commander [Vorgaz](<../../../people/orcs/vorgaz.md>) introduces himself. 

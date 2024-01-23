@@ -13,7 +13,6 @@ whereabouts:
 - {type: home, start: 1717-01-01, end: '', location: Pava and Avaras' House}
 - {type: away, start: 1749-01-01, end: '', location: Pava and Avaras' House}
 title: Avaras
-hide_toc: true
 ---
 # Avaras
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

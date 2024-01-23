@@ -18,7 +18,6 @@ whereabouts:
 - {type: home, end: 1719, location: Abenfyrd}
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
 title: Robin of Abenfyrd
-hide_toc: true
 ---
 # Robin of Abenfyrd
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -38,8 +37,8 @@ hide_toc: true
 
 Robin of Abenfyrd is a young man of about twenty, a paladin of [The Wanderer](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>), and hails from [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>). He has a friendly, if shy, demeanor and at times seems embarrassed by his own talents. His armor looks weathered and well used (he was probably not the first owner) but well maintained. His clothing looks a bit more appropriate to a bard than a traveling warrior, and while again not the fanciest, tends to be rather colorful and a bit flamboyant even. He keeps a small lantern on him that sheds a perpetual warm glow that reminds one of home and pleasant things. His other most prized possession is a lute (not the fanciest instrument ever, but it is clearly well cared for) for that he plays with the skill of a well practiced musician. Often appearing a bit awkward when first interacting with others, he seems far more relaxed while he plays
 
-![Robin Of Abenfyrd](../../../assets/robin-of-abenfyrd.png){width="320"}
-![Robin Of Abenfyrd No Armor](../../../assets/robin-of-abenfyrd-no-armor.png){width="320"}
+![Robin of Abenfyrd](../../../assets/robin-of-abenfyrd.png){width="320"}
+![Robin of Abenfyrd No Armor](../../../assets/robin-of-abenfyrd-no-armor.png){width="320"}
 
 > [!INFO]- Robin's Background (For Dan's Eyes Only)
 > Robin grew up in a small village, [Abenfyrd](<../../../gazetteer/greater-sembara/tyrwingha/abenfyrd.md>), a wooded backwater along the [Aben](<../../../gazetteer/greater-sembara/rivers/aben-watershed/aben.md>) in the Tyrwinghan marches. Not much happens in [Abenfyrd](<../../../gazetteer/greater-sembara/tyrwingha/abenfyrd.md>) save the yearly [Festival of the Miracle of the Mist](<../../../time/holidays-and-festivals/festival-of-the-miracle-of-the-mist.md>), each spring, a commemoration of a time when [The Wanderer](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>) (it is said) used dense mists to lead a pack of trolls from the Plaguelands into the river, to drown. Robin always felt like he had a special connection to [The Wanderer](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-wanderer.md>), and would often have vivid dreams of himself performing quiet, helpful miracles in the days around this festival.  

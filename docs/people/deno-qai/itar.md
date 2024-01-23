@@ -10,7 +10,6 @@ gender: male
 whereabouts:
 - {type: home, location: Bek'eni village, linkText: in the largest}
 title: Itar
-hide_toc: true
 ---
 # Itar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

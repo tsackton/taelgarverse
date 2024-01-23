@@ -11,7 +11,6 @@ player: Phil Grayson
 excludePublish: [clee]
 whereabouts: Chardon
 title: Rothfis
-hide_toc: true
 ---
 # Rothfis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

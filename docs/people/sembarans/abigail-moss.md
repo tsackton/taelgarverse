@@ -10,7 +10,6 @@ ancestry: Sembaran
 gender: female
 whereabouts: Taviose
 title: Abigail Moss
-hide_toc: true
 ---
 # Abigail Moss
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -10,7 +10,6 @@ gender: male
 player: Eric Rosenbaum
 excludePublish: [clee]
 title: Rufus
-hide_toc: true
 ---
 # Rufus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

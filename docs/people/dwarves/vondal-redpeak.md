@@ -9,7 +9,6 @@ gender: male
 affiliations:
 - {org: Redpeaks, type: primary}
 title: Vondal Redpeak
-hide_toc: true
 ---
 # Vondal Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

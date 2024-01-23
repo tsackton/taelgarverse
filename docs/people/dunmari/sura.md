@@ -21,7 +21,6 @@ whereabouts:
 - {type: away, start: 1748-12-14, end: 1748-12-22, location: Tokra}
 - {type: away, start: 1748-12-22, end: 1748-12-26, location: plains south of Tokra}
 title: Nayan Sura
-hide_toc: true
 ---
 # Nayan Sura
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

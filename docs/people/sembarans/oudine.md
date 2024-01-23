@@ -11,7 +11,6 @@ gender: female
 whereabouts:
 - {type: home, location: Cleenseau}
 title: Oudine
-hide_toc: true
 ---
 # Oudine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

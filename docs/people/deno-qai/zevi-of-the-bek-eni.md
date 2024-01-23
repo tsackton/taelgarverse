@@ -12,7 +12,6 @@ died: 1748-09-06
 whereabouts: Elderwood
 activeYear: 1745
 title: Zevi
-hide_toc: true
 ---
 # Zevi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -18,7 +18,6 @@ whereabouts:
 - {type: away, start: 1748-09-10, location: fleeing the Chardonian Empire}
 - {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ''}
 title: Kaeso
-hide_toc: true
 ---
 # Kaeso
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

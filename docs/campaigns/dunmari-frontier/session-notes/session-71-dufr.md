@@ -6,31 +6,37 @@ realWorldDate: 2023-02-21
 DR: 1748-11-23
 DR_end: 1748-11-23
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-title: Session 71 (DuFr)
+tagline: in which Hralgar's chains are broken and the tower falls
+descTitle: Storm's End
+title: Dunmari Frontier - Session 71 Session 71 (DuFr)
 ---
-## Notes and Information
-*in which the party frees [Hralgar](<../../../people/giants/hralgar.md>) from his imprisonment*
+# Dunmari Frontier - Session 71
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) fight [Hralgar](<../../../people/giants/hralgar.md>)'s storm-crazed ghost in the dreamscape, freeing him from his madness. Returning to [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), they free [Hralgar](<../../../people/giants/hralgar.md>) from his chains and watch as he destroys the tower.
+>[!info] Storm's End: in which Hralgar's chains are broken and the tower falls
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Nov 23, 1748 DR*
+> *On Earth: Tuesday Feb 21, 2023*
+> *[Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>)*
 
-Start: 23 Nov 1748, evening, in Hraglar's dreamscape
-End: 23 Nov 1748, evening, outside the destroyed remains of the tower
-#### Character Advancement
-- Everyone advances to level 11
-#### New Treasure
-- [Cleaning Stone](https://www.dndbeyond.com/magic-items/cleansing-stone), from [Eudomes](<../../../people/historical-figures/eudomes.md>)' bedroom
-- The [Enchiridion of the Occulta Ludum](<../../../things/books/enchiridion-of-the-occulta-ludum.md>), a small pamphlet titled in Drankorian, faintly magical and empty inside
-- Tales Before the Fall, a huge book written in Giant, with tales of giants
-- On the Ordering of Giants, ancient, written in a strange language, on giants
-- [Journeys of Souls](<../../../things/books/journeys-of-souls.md>), ancient, written in a strange language, on the afterlife
-- [Hralgar](<../../../people/giants/hralgar.md>) gives his blessing for the party to restore and take [Vindristjarna](<../../../things/ships/vindristjarna.md>), The Star on the Wind, the ruined airship that requires a new phasing stone to fly
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)battles a spectral [Hralgar](<../../../people/giants/hralgar.md>), breaks his bonds with an ancient elven poem, and watches as he liberates himself by destroying [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>).
 
-## Timeline
+## Session Info
 
-- Nov 23, 1748 DR: *(evening)* Fight Hraglar's storm-crazed ghost duplicate. Free Hraglar from his chains, watch as he destroys the tower and the statue of his bust. Sit with [Hralgar](<../../../people/giants/hralgar.md>) for the evening, talking. 
+***Character advancement: the party reaches level 11***
+***The party recovers the rest of the [Stormcaller Tower Hoard](<../treasure/stormcaller-tower-hoard.md>)***
+***Hralgar gives his blessing for the party to take Vindristjarna***
+### Summary
+- The party defeats Hralgar's ghostly duplicate, freeing him from his dreamscape.
+- [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) mends Hralgar's eyes, restoring his vision.
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) recalls the elven poem needed to break the iron chains binding Hralgar.
+- Using magic, they obtain the poem from [Govir](<../../../people/dunmari/govir.md>), and the chains shatter as the words are spoken.
+- Hralgar transforms and destroys [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), then offers the party a reward.
+- [Hralgar](<../../../people/giants/hralgar.md>) reveals the location of a phasing stone for the skyship, and assists the party with its excavation.
+
+### Timeline
+- Nov 23, 1748 DR, evening: Fight Hraglar's storm-crazed ghost duplicate. Free Hraglar from his chains, watch as he destroys the tower and the statue of his bust. Sit with [Hralgar](<../../../people/giants/hralgar.md>) for the evening, talking. 
 
 ## Narrative
-
 We begin as the party rushes into [Hralgar](<../../../people/giants/hralgar.md>)'s dreamscape upon hearing the sounds of [Hralgar](<../../../people/giants/hralgar.md>) struggling, to find a ghostly, angry version of [Hralgar](<../../../people/giants/hralgar.md>) strangling the real [Hralgar](<../../../people/giants/hralgar.md>). Launching into combat, the party attacks the ghost, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) placing two perfect arrows right through each of the ghost's eyes and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) striking hard with his elven sword. Despite a massive bolt of lightning that briefly knocks [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) down, the party prevails, and as [Hralgar](<../../../people/giants/hralgar.md>)'s ghost is destroyed the dreamscape fades. The party finds themselves in the top floor of [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), facing the bound and chained giant Hraglar.
 
 His mind now clear, he recognizes the party and tells them he can hold off the madness for a few hours, if they wish to flee again. Showing him the eyes, the party tells him they are here to save him, as promised. [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) uses her mending magic to repair the eyes, and as the damage and cracks from the years and the journey are repaired, each eye magically melds with [Hralgar](<../../../people/giants/hralgar.md>), restoring his vision. 

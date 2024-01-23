@@ -13,7 +13,6 @@ whereabouts:
 - {type: home, location: Raven's Hold}
 - {type: home, start: 1547-01-01, end: '', location: Tharn Todor}
 title: Eberk Brawnanvil
-hide_toc: true
 ---
 # Eberk Brawnanvil
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

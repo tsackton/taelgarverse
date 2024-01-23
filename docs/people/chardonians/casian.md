@@ -13,7 +13,6 @@ whereabouts:
 - {type: home, start: 1722, location: Chardon}
 - {type: away, start: 1748-11-23, end: '', prefix: somewhere in, location: Dunmar}
 title: Casian
-hide_toc: true
 ---
 # Casian
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

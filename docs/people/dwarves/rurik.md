@@ -8,7 +8,6 @@ species: dwarf
 ancestry:
 gender: male
 title: Rurik
-hide_toc: true
 ---
 ## Rurik
 

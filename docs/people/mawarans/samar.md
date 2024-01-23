@@ -9,7 +9,6 @@ species: human
 ancestry:
 gender: female
 title: Samar
-hide_toc: true
 ---
 # Samar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -18,7 +18,6 @@ whereabouts:
 - {type: away, start: 1748-03-03, end: 1748-03-05, location: Karawa}
 - {type: away, start: 1748-03-14, end: 9999, location: Dunmari Fort (Gomat)}
 title: Arcus
-hide_toc: true
 ---
 # Arcus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

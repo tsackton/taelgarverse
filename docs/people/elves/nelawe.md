@@ -5,7 +5,6 @@ species: elf
 ka: 31
 gender: female
 title: Nelawe
-hide_toc: true
 ---
 # Nelawe
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

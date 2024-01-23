@@ -9,7 +9,6 @@ ancestry: Dunmari
 gender: male
 died: 1748
 title: Umber
-hide_toc: true
 ---
 # Umber
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

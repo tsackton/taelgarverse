@@ -11,7 +11,6 @@ died: 1744
 whereabouts:
 - {type: home, location: Te'kula village}
 title: Jordo
-hide_toc: true
 ---
 # Jordo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -15,7 +15,6 @@ affiliations:
 whereabouts:
 - {type: home, start: 1744, location: Emerald Song, wHome: 'Sails <home:qr>'}
 title: Lyle Honeyhill
-hide_toc: true
 ---
 # Lyle Honeyhill
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

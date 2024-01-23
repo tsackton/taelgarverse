@@ -13,7 +13,6 @@ whereabouts:
 - {type: away, start: 1575-09-19, end: '', location: Bleakhold}
 - {type: home, start: 1748-08-25, end: '', location: Nardith}
 title: Dworic
-hide_toc: true
 ---
 # Dworic
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

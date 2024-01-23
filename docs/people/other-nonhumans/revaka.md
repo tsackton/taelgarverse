@@ -11,7 +11,6 @@ gender: female
 whereabouts:
 - {type: away, location: Mirror of Soul Trapping}
 title: Revaka
-hide_toc: true
 ---
 # Revaka
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -12,7 +12,6 @@ gender: male
 whereabouts: Bedez
 activeYear: 1735
 title: Elazar
-hide_toc: true
 ---
 # Elazar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -36,5 +35,8 @@ hide_toc: true
 
 ![Elazar Portrait](../../assets/elazar-portrait.png){align="right"; width="400"}A lizardfolk man in the prime of his life, a prophet, seer, and spirit guide who has deeply felt visions and exceptional perception into the spirit realms. A bit of an outcast in his village, seen as someone who sees trouble in everything.
 
+
+- 1748 DR. Elazar began to acquire a reputation as far-sighted and wise, after he warned of the troubles of the [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>). 
+- Sep 30, 1748 DR. Elazar met [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) when [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) appeared in [Orekatu](<../../gazetteer/far-south/orekatu.md>). Taught [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) the lizardfolk language and introduced him to lizardfolk spiritual practices over the next month.
 
 

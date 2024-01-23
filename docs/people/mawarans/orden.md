@@ -9,7 +9,6 @@ species: human
 ancestry: Mawaran
 gender: male
 title: Orden
-hide_toc: true
 ---
 # Orden
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

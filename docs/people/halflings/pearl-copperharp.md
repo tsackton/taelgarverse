@@ -14,7 +14,6 @@ affiliations:
 - {org: Emerald Song, title: Cook, start: 1726}
 whereabouts: Emerald Song
 title: Pearl Copperharp
-hide_toc: true
 ---
 # Pearl Copperharp
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

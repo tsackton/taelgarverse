@@ -7,7 +7,6 @@ title: Emperor Helea
 species: human
 ancestry:
 gender: female
-hide_toc: true
 ---
 # Emperor Helea
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

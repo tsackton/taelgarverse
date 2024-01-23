@@ -6,28 +6,45 @@ realWorldDate: 2023-03-30
 DR: 1748-11-24
 DR_end: 1748-11-29
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-title: Session 74 (DuFr)
+tagline: in which the Vindristjarna is restored
+descTitle: Skyship Repair
+title: Dunmari Frontier - Session 74 Session 74 (DuFr)
 ---
-## Notes and Information
+# Dunmari Frontier - Session 74
 
-*in which the party repairs the skyship [Vindristjarna](<../../../things/ships/vindristjarna.md>)
+>[!info] Skyship Repair: in which the Vindristjarna is restored
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Nov 24, 1748 DR to Nov 29, 1748 DR*
+> *On Earth: Thursday Mar 30, 2023*
+> *[Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>)*
 
-[Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) camp at the ruins of [Vindristjarna](<../../../things/ships/vindristjarna.md>), working to repair the control mechanisms that let it fly. 
+The Dunmar Fellowship successfully repairs the skyship Vindristjarna.
 
-Start: evening, Nov 24th 1748
-End: night, Nov 29th 1748
+## Session Info
+### Summary
 
-## Timeline
+- The Dunmar Fellowship, at the site of the crashed airship Vindristjarna, begins repairs using knowledge from Hralgar's library.
+- Seeker and Riswynn construct an adamantine harness, a stone console, and a gold and silver focus for the ship's phasing stone apparatus, while Wellby and Kenzo keep watch and Delwath scrys enemy movements.
+- Alesh brings news of Dunmar, and delivers a letter and a Sending Stone to Sura on the party's behalf.
+- Seeker attunes to the phasing stone, and begins flying practice.
 
-- Nov 24, 1748 DR: *(evening)* Return to the crash of [Vindristjarna](<../../../things/ships/vindristjarna.md>) by evening with [Hralgar](<../../../people/giants/hralgar.md>)'s wind blessing.
+### Timeline
+- Nov 24, 1748 DR, evening: Return to the crash of [Vindristjarna](<../../../things/ships/vindristjarna.md>) by evening with [Hralgar](<../../../people/giants/hralgar.md>)'s wind blessing.
 - Nov 25, 1748 DR: Work on skyship. Convert [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s shield to an adamantine harness to hold phasing stone.
 - Nov 26, 1748 DR: Work on skyship, finishing the stone helm on which the phasing stone will be mounted; scry on [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), [Kadmos](<../../../people/chardonians/kadmos.md>).
 - Nov 27, 1748 DR:  Work on skyship, converting gold and silver to wire to construct the channeling device. Meet [Alesh](<../../../people/dunmari/alesh.md>); speak with her about events in [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) and give her letter and sending stone for [Sura](<../../../people/dunmari/sura.md>). Sending with Ulfgar and [Govir](<../../../people/dunmari/govir.md>), who both agree to do research.
 - Nov 28, 1748 DR: Continue to work on the channeling device; scry [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>) and see army leaving. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) dreams of shadow hunter threatening that he is coming.
-- Nov 29, 1748 DR: Finish work on [Vindristjarna](<../../../things/ships/vindristjarna.md>). [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) attunes to the phasing stone, begins to practice flying. Shadow dogs attack at midnight.
+- Nov 29, 1748 DR: Finish work on [Vindristjarna](<../../../things/ships/vindristjarna.md>). [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) attunes to the phasing stone, and begins to practice flying. Shadow dogs attack at midnight.
+
+### Notes and Information
+*in which the party repairs the skyship [Vindristjarna](<../../../things/ships/vindristjarna.md>)
+[Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) camp at the ruins of [Vindristjarna](<../../../things/ships/vindristjarna.md>), working to repair the control mechanisms that let it fly. 
+Start: evening, Nov 24th 1748
+End: night, Nov 29th 1748
+
+
 
 ## Narrative
-
 We begin at dusk, at site of the crashed [airship](<../../../things/ships/vindristjarna.md>), as the party settles in for the night and begins to determine what is necessary to repair [Vindristjarna](<../../../things/ships/vindristjarna.md>). From the notes and information gleaned in [Hralgar](<../../../people/giants/hralgar.md>)'s library, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) are able to determine that three steps are necessary to repair the ship: the construction of an adamantine harness for the phasing stone; the construction of stone console to hold the phasing stone apparatus; and the construction of a gold and silver focus to channel the energy. 
 
 ![Vindristjarna Crash Location](../../../assets/vindristjarna-crash-location.png)

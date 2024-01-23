@@ -10,7 +10,6 @@ died: 1562
 affiliations:
 - {org: House of Wisenfold, type: primary}
 title: Hugh
-hide_toc: true
 ---
 # Hugh
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

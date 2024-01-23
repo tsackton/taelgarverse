@@ -11,7 +11,6 @@ died: 1533
 affiliations:
 - {org: Runecrafter Thuhr, type: primary}
 title: Daruk
-hide_toc: true
 ---
 # Daruk
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -8,7 +8,6 @@ species: human
 ancestry: Dunmari
 gender: male
 title: Karmana
-hide_toc: true
 ---
 # Karmana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

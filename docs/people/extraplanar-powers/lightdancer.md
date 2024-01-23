@@ -11,7 +11,6 @@ aliases: [Egon, Lord Egon]
 whereabouts:
 - {type: home, location: Shimmersong}
 title: Lightdancer
-hide_toc: true
 ---
 # Lightdancer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

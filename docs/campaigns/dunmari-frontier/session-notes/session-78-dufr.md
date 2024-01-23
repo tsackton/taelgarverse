@@ -6,20 +6,35 @@ realWorldDate: 2023-06-01
 DR: 1748-12-06
 DR_end: 1748-12-08
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-title: Session 78 (DuFr)
+tagline: in which Kadmos is defeated
+descTitle: Palace Attack
+title: Dunmari Frontier - Session 78 Session 78 (DuFr)
 ---
-## Notes and Information
-*in which Kadmos is defeated*
+# Dunmari Frontier - Session 78
 
-Start: morning, Dec 6th
-End: middle of the night, Dec 8th
-## Timeline
+>[!info] Palace Attack: in which Kadmos is defeated
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Dec 06, 1748 DR to Dec 08, 1748 DR*
+> *On Earth: Thursday Jun 01, 2023*
+> *[Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>)*
 
+The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) successfully defend the palace against [Kadmos](<../../../people/chardonians/kadmos.md>)'s attack and secure the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>).
+
+## Session Info
+### Summary
+- The party deceives potential scryers by pretending to steal the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>) and leaving in false disgrace.
+- They secretly return to the palace and endure a tense night before learning of a devastating attack on the western border.
+- Undead attack the city; [Kadmos](<../../../people/chardonians/kadmos.md>) and his followers attempt to steal the cloak from Chief [Lubash](<../../../people/orcs/lubash.md>).
+- The party engages in battle; [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s spells, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)'s bow, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)'s attacks, and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s actions are pivotal in neutralizing the enemy.
+- Antonia is stopped by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s Wall of Fire, and Delwath prevents a last-minute escape with a counterspell.
+- [Kadmos](<../../../people/chardonians/kadmos.md>) is executed and his allies are imprisoned in the [mirror](<../treasure/treasure-from-agata/mirror-of-soul-trapping.md>) after a narrow victory.
+
+### Timeline
 - Dec 06, 1748 DR: Spend the day in [Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), trying to play-act a fight with Chief [Lubash](<../../../people/orcs/lubash.md>); depart in fake disgrace; sneak back into palace under cover of darkness to wait. No attack comes during the fitful night.
 - Dec 07, 1748 DR: Pass the day hidden at the palace, waiting.
 - Dec 08, 1748 DR: [Kadmos](<../../../people/chardonians/kadmos.md>) and company attack in the early morning hours, well before dawn, and are defeated. 
-## Narrative
 
+## Narrative
 We begin as the day of deception passes, Dec 6th, during which the party tries to fool anyone scrying, convincing watchers that they have attempted to steal the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>) from Chief [Lubash](<../../../people/orcs/lubash.md>). The day passes in fits and starts, until the party departs in false disgrace in the late afternoon. Camping in the desert, the party scries [Hektor](<../../../people/chardonians/hektor.md>), seeing him on a boat on the river, an uncertain distance away. After preparing for a battle with Hero's Feast, and sneaking back into the palace, the party passes a fitful night waiting for an attack that does not come.
 
 The next morning, Dec 7th, the party stays hidden in the palace, waiting. [Lubash](<../../../people/orcs/lubash.md>) brings bad news: the western border was attacked, with huge loss of life, and the fortress at Khumarz cannot hold back another assault of undead. The day passes. Two [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) warriors from the western front arrive, to provide more support for the coming battle with [Kadmos](<../../../people/chardonians/kadmos.md>). Day turns to night, as the party waits, tense.

@@ -6,13 +6,28 @@ realWorldDate: 2023-07-27
 DR: 1748-12-10
 DR_end: 1748-12-17
 players: [Seeker, Delwath, Kenzo, Wellby]
-title: Session 80 (DuFr)
+tagline: in which the party gathers rumors and makes connections in Tollen
+descTitle: Tollen Arrivals
+title: Dunmari Frontier - Session 80 Session 80 (DuFr)
 ---
-## Notes and Information
-*in which the party travels to [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>)*
-Start: early afternoon, Dec 10th
-End: morning, Dec 17th
-## Timeline
+# Dunmari Frontier - Session 80
+
+>[!info] Tollen Arrivals: in which the party gathers rumors and makes connections in Tollen
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+> *In Taelgar: Dec 10, 1748 DR to Dec 17, 1748 DR*
+> *On Earth: Thursday Jul 27, 2023*
+> *[Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>)*
+
+The Dunmar Fellowship arrives in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>), seeking allies and information.
+## Session Info
+### Summary
+- The party departs [Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>) on [Vindristjarna](<../../../things/ships/vindristjarna.md>), flying north to destroy the [Scepter of Command](<../../../things/artifacts-of-power/scepter-of-command.md>)
+- They encounter and survive an acidic ooze attack in the ruined city [Isingue](<../../../gazetteer/istaros-watershed/isingue.md>).
+- Arriving in Tollen, they negotiate safe harbor and split up to pursue various interests across the city: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) reconnects with mapmaker [Guy Marchand](<../../../people/tollenders/guy-marchand.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) shops for skyship needs and gathers local rumors, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) seeks out a magical tattoo.
+- They end the day at [The Windward Sail](<../../../gazetteer/western-green-sea/tollen/the-windward-sail.md>), learning about local figures and rumors from [Wendel Quickstep](<../../../people/halflings/wendel-quickstep.md>) and [Nika Hyne](<../../../people/tollenders/nika-hyne.md>)
+- The party meets with the elf [Melindir](<../../../people/elves/melindir.md>) who advises caution with [Caelynn](<../../../people/fey/caelynn.md>) and speaks of a a potential quest from the [Skaer](<../../../gazetteer/western-green-sea/skaerhem/skaerhem.md>).
+
+### Timeline
 - Dec 10, 1748 DR: Leave [Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), flying north on [Vindristjarna](<../../../things/ships/vindristjarna.md>)
 - Dec 11, 1748 DR: Fly north, high over the [Plaguelands](<../../../gazetteer/istaros-watershed/plaguelands.md>)
 - Dec 12, 1748 DR: Fly over [Isingue](<../../../gazetteer/istaros-watershed/isingue.md>); descend to investigate, attacked by some kind of acidic ooze
@@ -20,9 +35,9 @@ End: morning, Dec 17th
 - Dec 14, 1748 DR: Reach [Western Gulf](<../../../gazetteer/western-green-sea/western-gulf.md>); [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) communes with the ocean life
 - Dec 15, 1748 DR: Fly across [Western Gulf](<../../../gazetteer/western-green-sea/western-gulf.md>)
 - Dec 16, 1748 DR: Arrive in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>); split up and speak with various people; spend the night at *[The Windward Sail](<../../../gazetteer/western-green-sea/tollen/the-windward-sail.md>)*
-- Dec 17, 1748 DR: *(morning)* Speak with [Melindir](<../../../people/elves/melindir.md>)
-## Narrative
+- Dec 17, 1748 DR, morning: Speak with [Melindir](<../../../people/elves/melindir.md>)
 
+## Narrative
 We begin as the party departs [Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), north to find a volcano in which to destroy the [Scepter of Command](<../../../things/artifacts-of-power/scepter-of-command.md>). Flying nearly 24 hours, the party covers more than 200 miles per day. The first three days are spend crossing the [Plaguelands](<../../../gazetteer/istaros-watershed/plaguelands.md>), including a brief flyover of [Isingue](<../../../gazetteer/istaros-watershed/isingue.md>), a ruined trading city south of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>). In [Isingue](<../../../gazetteer/istaros-watershed/isingue.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) brings the ship lower, noting that the entire ground of the city seems to be teeming with a strange black squirming mold. Which attacks, launched a black globule of acidic ooze that begins to burn through the stone of the ship, until it is burned out by [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>).
 
 Continuing north, the party crosses the [Western Gulf](<../../../gazetteer/western-green-sea/western-gulf.md>), hearing [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)'s stories of his childhood on the ocean (including the tale of seeing a giant underwater dragon when he was 9). [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) also communes with the nature of the gulf, feeling the teaming life on the surface, and the strange dark canyon depths where giant crabs scuttle beneath the reach of sunlight.

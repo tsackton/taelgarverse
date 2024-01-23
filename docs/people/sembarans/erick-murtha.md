@@ -11,7 +11,6 @@ title: Lord Erick Murtha
 affiliations:
 - {place: Beury}
 whereabouts: Beury
-hide_toc: true
 ---
 # Lord Erick Murtha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

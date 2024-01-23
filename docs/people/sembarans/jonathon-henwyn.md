@@ -12,7 +12,6 @@ whereabouts:
 affiliations:
 - {org: Essfords, title: Steward}
 title: Jonathon Henwyn
-hide_toc: true
 ---
 # Jonathon Henwyn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

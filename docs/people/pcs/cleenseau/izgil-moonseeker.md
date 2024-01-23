@@ -16,7 +16,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Nidzahar}
 - {type: away, start: 1719-10-19, end: '', location: Cleenseau}
 title: Izgil Moonseeker
-hide_toc: true
 ---
 # Izgil Moonseeker
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -6,24 +6,47 @@ realWorldDate: 2023-01-16
 DR: 1748-11-15
 DR_end: 1748-11-23
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-title: Session 69 (DuFr)
+tagline: in which curses are broken and storms grow wild
+descTitle: Rituals and Revelations
+title: Dunmari Frontier - Session 69 Session 69 (DuFr)
 ---
+# Dunmari Frontier - Session 69
 
-## Notes and Information
-*in which the party journeys across Dunmar to Stormcaller Tower.*
+>[!info] Rituals and Revelations: in which curses are broken and storms grow wild
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Nov 15, 1748 DR to Nov 23, 1748 DR*
+> *On Earth: Monday Jan 16, 2023*
+> *Lastlight Falls to [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>)*
 
-Start: 15 Nov 1748, late evening, camped outside the fey crossing at Lastlight Falls
-End: 23 Nov 1748, late afternoon, camped outside the storm surrounding [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>)
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) breaks curses afflicting [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Havdar](<../../../people/dunmari/havdar.md>), learns of allies' fates, and faces an intensified storm at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>).
+## Session Info
 
+### Summary
+- [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) successfully performs a ritual to free [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) from a cursed chain with the help of [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s prayers and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s magic, sacrificing the [Horn of Silent Alarm](<../treasure/treasure-from-dunmari-ruins/horn-of-silent-alarm.md>).
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) travels across the rain-soaked plains of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), with [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) praying daily to the [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel.md>) to free [Havdar](<../../../people/dunmari/havdar.md>) from the [Medusa Blade](<../treasure/treasure-from-agata/medusa-blade.md>)'s curse.
+- Using scrying and sending spells, the party learns of [Johar](<../../../people/dunmari/johar.md>)'s situation and [Kadmos](<../../../people/chardonians/kadmos.md>)' movements through the [Garamjala Desert](<../../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>).
+- A deserted [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>) and a nearby mass grave suggest the death of [Inakara](<../../../people/other-nonhumans/inakara.md>) and her kin at the hands of dwarves.
+- [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel.md>) answers [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s prayers, freeing [Havdar](<../../../people/dunmari/havdar.md>) from the [Medusa Blade](<../treasure/treasure-from-agata/medusa-blade.md>)'s curse, which prompts an apology from the party for gifting the cursed sword.
+- The party arrives at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) to find Hralgar's storm intensified, considering entry into the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) to calm [Hralgar](<../../../people/giants/hralgar.md>).
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) travel incognito across the plains of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) to [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), using magic to gather what information they can along the way. [Havdar](<../../../people/dunmari/havdar.md>)'s curse is lifted. They arrive at the [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) where [Hralgar](<../../../people/giants/hralgar.md>)'s storm is intense, and must make a decision.
+### Timeline
+- Nov 15, 1748 DR, evening: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) talk and catch up. 
+- Nov 16, 1748 DR: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is uncursed by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), sacrificing his [Horn of Silent Alarm](<../treasure/treasure-from-dunmari-ruins/horn-of-silent-alarm.md>) in the process; [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) speaks with [Johar](<../../../people/dunmari/johar.md>) via sending. Party travels west towards [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>).
+- Nov 17, 1748 DR: Travel west; speak with [Johar](<../../../people/dunmari/johar.md>) via Sending; scry on [Hektor](<../../../people/chardonians/hektor.md>).
+- Nov 18, 1748 DR: Travel west; learn [Johar](<../../../people/dunmari/johar.md>) is meeting with Samraat [Nayan Karnas](<../../../people/dunmari/nayan-karnas.md>); detour around some ogres.
+- Nov 19, 1748 DR: Arrive south of [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). Scout, discover it is quiet; camp early.
+- Nov 20, 1748 DR:  [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s prayers are answered and [Havdar](<../../../people/dunmari/havdar.md>)'s cursed sword is destroyed by the Baharazel, freeing him of its influence. Send a message with sending to apologize. Travel west.
+- Nov 21, 1748 DR: Travel west.
+- Nov 22, 1748 DR: Travel west.
+- Nov 23, 1748 DR, mid-afternoon: Arrive at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), spend time planning and scouting with spells. 
 
-#### Eudomes’ Mirror:
-- Nov 15, 1748 DR [Cha'mutte Armband Vision](<../mirror-visions/cha-mutte-armband-vision.md>) see in [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>) recharge mirror
+### Eudomes’ Mirror:
+- Nov 15, 1748 DR A vision of [Cha'mutte’s Shadow Armband](<../treasure/treasure-from-solo-adventures/cha-muttes-shadow-armband.md>) is seen in [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>): [Cha'mutte Armband Vision](<../mirror-visions/cha-mutte-armband-vision.md>) recharge mirror
 
-#### Divine Inspiration
+### Divine Inspiration
 - Nov 20, 1748 DR: Riswynn's prayers are granted by the Bahrazel, freeing Havdar from his cursed sword. (recharge:: "divine inspiration")
-#### Commune
+
+### Commune
 | Question | Answer | Date | 
 | :--- | :--- | :--- | 
 | Will [Kadmos](<../../../people/chardonians/kadmos.md>) help [Grash](<../../../people/other-nonhumans/grash.md>)? | **YES** | 20 Nov 1748 |  
@@ -36,20 +59,7 @@ End: 23 Nov 1748, late afternoon, camped outside the storm surrounding [Stormcal
 | Are we being hunted by enslaved monsters of [Fausto](<../../../people/chardonians/fausto.md>)'s? | **YES** | 22 Nov 1748 | 
 | Are they within a week of us? | **NO** | 22 Nov 1748 |  
 | Was [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) behind [Sura](<../../../people/dunmari/sura.md>)'s kidnapping?  | **NO** | 23 Nov 1748 
-
-## Timeline
-
-- Nov 15, 1748 DR: *(evening)* [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) talk and catch up. Use the mirror to look at [Cha'mutte’s Shadow Armband](<../treasure/treasure-from-solo-adventures/cha-muttes-shadow-armband.md>) before sleep.
-- Nov 16, 1748 DR: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is uncursed by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), sacrificing his [Horn of Silent Alarm](<../treasure/treasure-from-dunmari-ruins/horn-of-silent-alarm.md>) in the process; [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) speaks with [Johar](<../../../people/dunmari/johar.md>) via sending. Party travels west towards [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>).
-- Nov 17, 1748 DR: Travel west; speak with [Johar](<../../../people/dunmari/johar.md>) via Sending; scry on [Hektor](<../../../people/chardonians/hektor.md>).
-- Nov 18, 1748 DR: Travel west; learn [Johar](<../../../people/dunmari/johar.md>) is meeting with Samraat [Nayan Karnas](<../../../people/dunmari/nayan-karnas.md>); detour around some ogres.
-- Nov 19, 1748 DR: Arrive south of [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). Scout, discover it is quiet; camp early.
-- Nov 20, 1748 DR:  [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s prayers are answered and [Havdar](<../../../people/dunmari/havdar.md>)'s cursed sword is destroyed by the Baharazel, freeing him of its influence. Send a message with sending to apologize. Travel west.
-- Nov 21, 1748 DR: Travel west.
-- Nov 22, 1748 DR: Travel west.
-- Nov 23, 1748 DR: *(mid-afternoon)* Arrive at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), spend time planning and scouting with spells. 
 ## Narrative
-
 We begin as the party settles in for the night outside Lastlight Falls, after a long evening of talking and reconnecting. In the morning, [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) prepares the magic she needs to attempt to free [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) from the cursed chain bound to his soul from his encounter with [Motua](<../../../people/extraplanar-powers/motua.md>). The ritual succeeds, with the aid of the prayers of [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) to the tanshi and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s runic inspiration magic, and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is freed, at the cost of the [Horn of Silent Alarm](<../treasure/treasure-from-dunmari-ruins/horn-of-silent-alarm.md>) carried for many months. 
 
 Over the course of the next week, the party falls into a routine as they hurry across the plains of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), now sprung to life with the monsoon rains.

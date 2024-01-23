@@ -10,7 +10,6 @@ gender: female
 whereabouts:
 - {type: home, location: Karawa}
 title: Jayden
-hide_toc: true
 ---
 # Jayden
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

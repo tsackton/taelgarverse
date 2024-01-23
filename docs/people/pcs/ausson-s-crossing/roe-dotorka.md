@@ -8,7 +8,6 @@ ancestry: Ardikhun
 gender: male
 player: Chris Kelly
 title: Roe DoTorka
-hide_toc: true
 ---
 # Roe DoTorka
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

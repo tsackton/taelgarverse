@@ -6,40 +6,48 @@ realWorldDate: 2023-07-28
 DR: 1748-12-17
 DR_end: 1748-12-25
 players: [Seeker, Delwath, Kenzo, Wellby]
-title: Session 81 (DuFr)
+tagline: in which a cursed scepter is finally destroyed
+descTitle: Scepter's End
+title: Dunmari Frontier - Session 81 Session 81 (DuFr)
 ---
-## Notes and Information
-*in which the party defeats a demon and destroys the scepter*
+# Dunmari Frontier - Session 81
 
-Start: morning, Dec 17th
-End: mid-morning, Dec 25th
-#### [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>)
- - (DR: 1748-12-23): Use [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>) on Urgall's helm: [Urgall's Helm Vision](<../mirror-visions/urgall-s-helm-vision.md>)
+>[!info] Scepter's End: in which a cursed scepter is finally destroyed
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+> *In Taelgar: Dec 17, 1748 DR to Dec 25, 1748 DR*
+> *On Earth: Friday Jul 28, 2023*
+> *[Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>), [Antaka](<../../../gazetteer/western-green-sea/skaerhem/antaka.md>), and [Vetta](<../../../gazetteer/western-green-sea/skaerhem/vetta.md>)*
 
-## Timeline
-- Dec 17, 1748 DR: *(afternoon)* Meet [Iskra](<../../../people/skaer/iskra.md>) at the Temple of [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>). Meet Nika at [The Windward Sail](<../../../gazetteer/western-green-sea/tollen/the-windward-sail.md>), who takes party to [Umli](<../../../people/other-nonhumans/umli.md>) and then [Caelynn](<../../../people/fey/caelynn.md>). Speak with [Umli](<../../../people/other-nonhumans/umli.md>); speak with [Caelynn](<../../../people/fey/caelynn.md>). [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) returns to speak with [Iskra](<../../../people/skaer/iskra.md>) for the afternoon. 
-- Dec 18, 1748 DR: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) gets tattoo (2000 gp) and collects Cecilia's story. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) spend another 250 gp on furniture in the morning. Party leaves north on the skyship. 
+The Dunmar Fellowship defeats Urgall the Black and a demonic entity in Vetta, ultimately destroying the cursed Scepter of Command.
+
+## Session Info
+
+***[Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) gets a tattoo from [Cecilia Lister](<../../../people/tollenders/cecilia-lister.md>)***
+***The party finds the [Flaming Tempest Hoard](<../treasure/flaming-tempest-hoard.md>)***
+
+### Summary
+- The Dunmar Fellowship meets priestess Iskra and learns about the sacred waters of Vetta.
+- They gather information from Umli the Stoneborn and Caelynn the Seer on how to destroy powerful artifacts and about the Elemental Plane of Fire.
+- At Antaka, Skalme reveals the Scepter of Command's origin and how to destroy it.
+- In Pyhlla, they learn of Urgall the Black's sacrilege and demonic ties, and plan their assault.
+- The party infiltrates Vetta through lava tubes, confronts and defeats Urgall and a massive demon, purifying the sacred waters.
+- After vigilantly guarding the scepter in the sacred waters for 24 hours, they successfully destroy it at dawn.
+
+### Timeline
+- Dec 17, 1748 DR, afternoon: Meet [Iskra](<../../../people/skaer/iskra.md>) at the Temple of [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>). Meet Nika at [The Windward Sail](<../../../gazetteer/western-green-sea/tollen/the-windward-sail.md>), who takes party to [Umli](<../../../people/other-nonhumans/umli.md>) and then [Caelynn](<../../../people/fey/caelynn.md>). Speak with [Umli](<../../../people/other-nonhumans/umli.md>); speak with [Caelynn](<../../../people/fey/caelynn.md>). [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) returns to speak with [Iskra](<../../../people/skaer/iskra.md>) for the afternoon. 
+- Dec 18, 1748 DR: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) gets a tattoo and collects Cecilia's story. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) purchases furniture. Party leaves north on the skyship. 
 - Dec 19, 1748 DR: Fly north and east towards [Skaer Islands](<../../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
-- Dec 20, 1748 DR: Fly north and east towards  [Skaer Islands](<../../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
+- Dec 20, 1748 DR: Fly north and east towards [Skaer Islands](<../../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
 - Dec 21, 1748 DR: Meet [Skalme](<../../../people/skaer/skalme.md>) on [Antaka](<../../../gazetteer/western-green-sea/skaerhem/antaka.md>), learn about how to destroy the [Scepter of Command](<../../../things/artifacts-of-power/scepter-of-command.md>). Arrive at [Pyhlla](<../../../gazetteer/western-green-sea/skaerhem/pyhlla.md>), talk to [Vaallinen](<../../../people/skaer/vaallinen.md>), learn about [Urgall the Black](<../../../people/skaer/urgall-the-black.md>). Talk to [Tulvak](<../../../people/skaer/tulvak.md>) about the raid. 
 - Dec 22, 1748 DR: Blessed by [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>) at dawn. Fly to island. Scout, find lava tube. Enter under the temple complex. Surprise [Urgall](<../../../people/skaer/urgall-the-black.md>) and kill him. Attack demonic entity corrupting the waters, kill it. Rest. 
-- Dec 23, 1748 DR: Kill the undead hordes remaining. Search the island, return treasure to rightful place, clean up and lay out bodies. Loot pirate ship. Use mirror on Urgall's helm. 
+- Dec 23, 1748 DR: Kill the undead hordes remaining. Search the island, return treasure to rightful place, clean up and lay out bodies. Loot pirate ship.
 - Dec 24, 1748 DR: Place the [Scepter of Command](<../../../things/artifacts-of-power/scepter-of-command.md>) in the sacred waters. Stand guard, not sleeping, for 24 hours. 
-- Dec 25, 1748 DR: Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. 
+- Dec 25, 1748 DR, early morning: Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. 
 
-## New Treasure
-- The [Flaming Tempest](<../../../things/ships/flaming-tempest.md>), once [Urgall](<../../../people/skaer/urgall-the-black.md>)'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in it's current state
-- 2000 sp in Tollender silver coins (from [Urgall](<../../../people/skaer/urgall-the-black.md>)'s cabin)
-- 200 gp in [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) gold coins (from [Urgall](<../../../people/skaer/urgall-the-black.md>)'s cabin)
-- Captain's log and charts from The [Flaming Tempest](<../../../things/ships/flaming-tempest.md>) (allowing [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) to reconstruct the journey of the [Flaming Tempest](<../../../things/ships/flaming-tempest.md>), with time and effort)
-- A scroll written in a cipher, from the captain's cabin on the [Flaming Tempest](<../../../things/ships/flaming-tempest.md>)
-- A small silver statue of a demon with ruby eyes (tossed in the sacred waters)
-- A collection of Tollender goods, that survived water damage: 20 bolts of brilliantly dyed red cloth; 4 crates of fine linen shits; 2 crates of red Tollender cloaks (one of which [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) takes); 6 small crates of beaver fur hats in a variety of styles. 
-- 8 swords and 4 spears of Skaer steel (used by Skaer warriors killed on [Vetta](<../../../gazetteer/western-green-sea/skaerhem/vetta.md>); gifted to party in their honor by Vaalinen)
-- A slightly decayed helmet worn by [Urgall the Black](<../../../people/skaer/urgall-the-black.md>)
+### The Mirror of the Past
+ - Dec 23, 1748 DR: Use [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>) on Urgall's helm: [Urgall's Helm Vision](<../mirror-visions/urgall-s-helm-vision.md>)
 
 ## Narrative
-
 ***Part 1: [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>)***
 
 We begin as the party leaves [Melindir](<../../../people/elves/melindir.md>)'s apartments, after having made plans for dinner the following night, and walks through the rich part of [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>), full of elaborate palaces of merchants and guild leaders. They reach the [Temple of Kaikkea](<../../../gazetteer/western-green-sea/tollen/temple-of-kaikkea.md>), and ancient building of white marble on a empty plaza. Inside, they meet [Iskra](<../../../people/skaer/iskra.md>), the priestess of [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>) in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>). From her, the party learns of [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>), and also hears about the dangers on the island of [Vetta](<../../../gazetteer/western-green-sea/skaerhem/vetta.md>) that have prevented the Skaer from making pilgrimages to the sacred waters there for 10 months. [Iskra](<../../../people/skaer/iskra.md>) gives the party letters of introduction to [Skalme](<../../../people/skaer/skalme.md>), the fire priestess on the volcanic island of [Antaka](<../../../gazetteer/western-green-sea/skaerhem/antaka.md>), and [Vaallinen](<../../../people/skaer/vaallinen.md>), the priest in the town of [Pyhlla](<../../../gazetteer/western-green-sea/skaerhem/pyhlla.md>), the launching point for pilgrims to [Vetta](<../../../gazetteer/western-green-sea/skaerhem/vetta.md>). 

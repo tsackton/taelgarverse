@@ -12,7 +12,6 @@ title: Lord Rinault Essford
 whereabouts: Cleenseau
 affiliations:
 - {org: Essfords, title: Heir, type: primary}
-hide_toc: true
 ---
 # Lord Rinault Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -16,7 +16,6 @@ family: Nayan Dynasty
 whereabouts:
 - {type: home, start: '', end: 1737, location: Darba}
 - {type: home, start: 1738, end: '', location: Nayahar}
-hide_toc: true
 ---
 # Samraat Nayan Karnas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

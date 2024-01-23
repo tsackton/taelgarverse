@@ -14,7 +14,6 @@ whereabouts:
 - {type: away, start: 1748-09-10, end: 1748-09-30, location: Te'kula village}
 - {type: home, start: 1748-10-01, location: Bek'eni village}
 title: Theba
-hide_toc: true
 ---
 # Theba
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

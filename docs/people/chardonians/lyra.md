@@ -16,7 +16,6 @@ whereabouts:
 - {type: home, start: 1705-01-02, location: Voltara}
 - {type: away, start: 1748-08-26, location: Chardon, wLastKnown = "": !!null ''}
 title: Lyra
-hide_toc: true
 ---
 # Lyra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

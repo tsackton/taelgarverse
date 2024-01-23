@@ -8,7 +8,6 @@ species: human
 ancestry: Highlander
 gender: female
 title: Avelina Smith
-hide_toc: true
 ---
 # Avelina Smith
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

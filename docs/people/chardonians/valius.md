@@ -15,7 +15,6 @@ whereabouts:
 - {type: away, start: 1748-12-08, end: 1748-12-09, location: Uzgukhar}
 - {type: away, start: 1748-12-10, end: 9999, location: Mirror of Soul Trapping}
 title: Valius
-hide_toc: true
 ---
 # Valius
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

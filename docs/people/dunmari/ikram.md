@@ -9,7 +9,6 @@ ancestry: Dunmari
 gender: male
 whereabouts: Karawa
 title: Ikram
-hide_toc: true
 ---
 # Ikram
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

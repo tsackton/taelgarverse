@@ -14,7 +14,6 @@ leaderOf:
 - {place: The Red Lily Inn, title: Proprietor, start: 1}
 whereabouts: The Red Lily Inn
 title: Wes Strongbones
-hide_toc: true
 ---
 # Wes Strongbones
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

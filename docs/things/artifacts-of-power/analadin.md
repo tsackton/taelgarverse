@@ -7,7 +7,6 @@ typeOf: staff
 rarity: unique
 whereabouts: Beryl
 title: Analadin
-hide_toc: true
 ---
 # Analadin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

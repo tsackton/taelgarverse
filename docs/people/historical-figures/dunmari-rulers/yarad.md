@@ -12,7 +12,6 @@ title: Samraat Nayan Yarad
 affiliations:
 - {org: Nayan Dynasty, type: primary}
 - {org: Dunmar, start: 1603, end: 1630, type: leader}
-hide_toc: true
 ---
 # Samraat Nayan Yarad
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

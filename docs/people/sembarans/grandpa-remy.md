@@ -10,7 +10,6 @@ ancestry: Sembaran
 gender: male
 whereabouts: Taviose
 title: Grandpa Remy
-hide_toc: true
 ---
 # Grandpa Remy
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

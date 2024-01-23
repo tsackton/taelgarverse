@@ -16,7 +16,6 @@ whereabouts:
 - {type: away, start: 1748-08-09, end: 1748-08-21, location: Emerald Song}
 - {type: away, start: 1748-08-22, location: Chardon}
 title: Oswalt Tealeaf
-hide_toc: true
 ---
 # Oswalt Tealeaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

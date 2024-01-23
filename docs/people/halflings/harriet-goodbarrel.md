@@ -18,7 +18,6 @@ whereabouts:
 - {type: home, location: The Singing Fox}
 - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
 title: Harriet Goodbarrel
-hide_toc: true
 ---
 # Harriet Goodbarrel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

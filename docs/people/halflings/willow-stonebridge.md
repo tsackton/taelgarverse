@@ -11,7 +11,6 @@ ancestry: Sembaran
 gender: male
 whereabouts: Cleenseau
 title: Willow Stonebridge
-hide_toc: true
 ---
 # Willow Stonebridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

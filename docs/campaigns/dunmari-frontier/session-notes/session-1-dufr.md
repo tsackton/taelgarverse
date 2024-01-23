@@ -6,25 +6,25 @@ realWorldDate: 2020-05-29
 DR: 1748-03-22
 DR_end: 1748-03-22
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which the Dunmar Fellowship confronts chaos
+tagline: in which the party confronts chaos in Karawa
 descTitle: Hyena Rampage
 title: Dunmari Frontier - Session 1 Session 1 (DuFr)
-complete: true
 ---
 # Dunmari Frontier - Session 1
 
->[!info] Hyena Rampage: in which the Dunmar Fellowship confronts chaos
+>[!info] Hyena Rampage: in which the party confronts chaos in Karawa
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
 > *In Taelgar: Mar 22, 1748 DR*
 > *On Earth: Friday May 29, 2020*
-> *Karawa and Gomat Oasis*
+> *[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) and [Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>)*
 
-The newly formed Dunmar Fellowship rescues Karawa from hyenas and begins investigating a string of attacks, leading them to a concerning discovery at Gomat Oasis.
+The newly formed [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) rescues [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from hyenas and begins investigating a string of attacks, leading them to a concerning discovery at the [Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>)
 ## Session Info
 ### Summary
-- The Dunmar Fellowship saves the villagers of Karawa from two giant hyenas, with the aid of Beli, a woman with divine magic.
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) meet, and save the villagers of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from two giant hyenas.
 - The party agrees to investigate a series of mysterious attacks on the village after a discussion with Karawa's leaders.
-- After tracking the beasts into the desert, the Fellowship encounters Alesh, a Dunmari scout.
-- The Fellowship reaches Gomat Oasis, only to find giant lizards feasting on sheep carcasses.
+- After tracking the beasts into the desert, the party encounters [Alesh](<../../../people/dunmari/alesh.md>), a Dunmari scout.
+- The party reaches [Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>), only to find giant lizards feasting on sheep carcasses.
 ### Timeline
 - Mar 22, 1748 DR, morning: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) arrives in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Giant hyena attack. Village elders, including [Candrosa](<../../../people/dunmari/candrosa.md>) and Elder [Kisa](<../../../people/dunmari/kisa.md>), ask [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and companions to help. 
 - Mar 22, 1748 DR, afternoon: The party heads into the desert, where they meet [Alesh](<../../../people/dunmari/alesh.md>) on the road.  Turn east to the [Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>), where they find three giant lizards ripping into sheep carcasses.

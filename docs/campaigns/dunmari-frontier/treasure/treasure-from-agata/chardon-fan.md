@@ -6,7 +6,6 @@ whereabouts: Kenzo
 mundane: true
 typeOf: object de art
 title: Chardon Fan
-hide_toc: true
 ---
 # The Chardon Fan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

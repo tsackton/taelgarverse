@@ -18,7 +18,6 @@ whereabouts:
 - {type: away, start: 1748-07-18, end: 1748-08-13, location: Tokra-Darba Road}
 - {type: away, start: 1748-08-13, location: Darba}
 title: Callie Charmheart
-hide_toc: true
 ---
 # Callie Charmheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -48,5 +47,7 @@ One of the Charmhearts, a halfling family of long-distance merchants and traders
 ## Relationships
 - [Ander Charmheart](<./ander-charmheart.md>), younger brother and traveling companion
 - [Bree Charmheart](<./bree-charmheart.md>), grandmother and traveling companion
+
+- [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion 
 
 

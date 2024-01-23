@@ -12,7 +12,6 @@ affiliations:
 whereabouts:
 - {type: home, prefix: northern, location: Voltara Plains}
 title: Grumella the Vengeful
-hide_toc: true
 ---
 # Grumella the Vengeful
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

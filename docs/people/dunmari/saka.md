@@ -9,7 +9,6 @@ gender: female
 whereabouts:
 - {type: home, location: plains north of Tokra}
 title: Saka
-hide_toc: true
 ---
 # Saka
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

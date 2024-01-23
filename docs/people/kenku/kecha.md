@@ -6,7 +6,6 @@ species: kenku
 gender: male
 name: Kecha
 title: Kecha
-hide_toc: true
 ---
 # Kecha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

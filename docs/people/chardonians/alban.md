@@ -16,7 +16,6 @@ whereabouts:
 - {type: away, start: 1748-02-02, end: 1748-03-13, prefix: traveling in, location: Dunmar}
 - {type: away, start: 1748-03-13, end: 9999, location: Stormcaller Tower}
 title: Alban
-hide_toc: true
 ---
 # Alban
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

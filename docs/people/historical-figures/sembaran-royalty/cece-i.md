@@ -13,7 +13,6 @@ leaderOf:
 - {place: Sembara}
 - {place: Tyrwingha}
 affiliations: [House of Sewick]
-hide_toc: true
 ---
 # Queen Cece I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

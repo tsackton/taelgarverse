@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, location: Beury}
 - {type: away, location: Cleenseau, start: 1719-11-28, end: 1719-12-11}
 title: Jasper
-hide_toc: true
 ---
 # Jasper
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

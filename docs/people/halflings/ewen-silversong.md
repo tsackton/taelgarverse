@@ -14,7 +14,6 @@ affiliations:
 - {org: Emerald Song, title: Songmaster}
 whereabouts: Emerald Song
 title: Ewen Silversong
-hide_toc: true
 ---
 # Ewen Silversong
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

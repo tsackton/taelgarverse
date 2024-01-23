@@ -12,7 +12,6 @@ affiliations:
 - {place: Tyrwingha, start: 1462}
 - {org: House of Sewick, type: primary}
 died: 1496
-hide_toc: true
 ---
 # King Derik II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

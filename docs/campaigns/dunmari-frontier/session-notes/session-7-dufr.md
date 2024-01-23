@@ -6,9 +6,37 @@ realWorldDate: 2020-08-16
 DR: 1748-04-07
 DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-title: Session 7 (DuFr)
+tagline: in which the party heads to Raven's Hold
+descTitle: Northward Bound
+title: Dunmari Frontier - Session 7 Session 7 (DuFr)
 ---
+# Dunmari Frontier - Session 7
 
+>[!info] Northward Bound: in which the party heads to Raven's Hold
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Apr 07, 1748 DR to Apr 12, 1748 DR*
+> *On Earth: Sunday Aug 16, 2020*
+> *From [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to[Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) heads north, encountering refugees and [centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>), and survives a gnoll ambush as they approach [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>).
+
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) departs [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) with [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) Brawnanvil, tracking gnolls north towards [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>).
+- The party encounters [Shani](<../../../people/dunmari/shani.md>), a Dunmari refugee fleeing a fire and gnoll attacks.
+- An ambush by gnolls interrupts the group's rest, but they successfully defend themselves.
+- [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) speaks with a vulture, learning there is minimal movement on the plains but significant activity at [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>).
+- They meet [Tharandros](<../../../people/other-nonhumans/tharandros.md>) and his [centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>), discuss the spreading corruption, and convince them to warn [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>).
+
+### Timeline
+- Apr 07, 1748 DR: Dunmari and festival visitors leave [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) with [Havdar](<../../../people/dunmari/havdar.md>) and his band, moving as quicky as they can towards the relative safety of [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Party leaves [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) tracking gnolls. 
+- Apr 08, 1748 DR: Party travels north towards [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>).
+- Apr 09, 1748 DR: Party travels north. Crosses road, meets [Shani](<../../../people/dunmari/shani.md>) and her companions, who were trapped by a large fire started by permanent lightning storm. Fight and destroy a group of gnolls late in the evening.
+- Apr 11, 1748 DR: Party travels north across the plains.
+- Apr 12, 1748 DR, morning: Party meets [centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>) just south of [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), speaks to [Tharandros](<../../../people/other-nonhumans/tharandros.md>). Convinces him to take his band south to Karawa. Travel towards [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). 
+
+
+## Narrative
 The session begins in the pre-dawn light, as the people of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) prepare to flee west and the party, joined by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) Brawnanvil, gather their gear and plan their journey north to [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). Amidst the bustle and chaos of hundreds of people packing food, supplies, and what belongings they can carry, the party says their goodbyes and heads north, following the tracks of the gnolls and maw creatures that attacked the night before. 
 
 The tracks lead roughly north, heading overland but relatively near the well-traveled path that connects [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to the ancient trade road running across [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). As the party follows the trail, the stream of refugees leaving [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) in a long line of people, horses, sheep, and other animals can be seen at a distance. A few miles north of the trade road, the tracks converge on an area where the creatures clearly spent some time, perhaps a camp. It seems a larger group was here, and split up, with some heading west, and others heading south to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). The tracks continue north and east from here, towards [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), where it seems the larger group came from. At this point, the party decides to ride straight and fast for [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>) overland, and gets in a few more hours riding before making camp and spending some time in the evening discussing the approach to [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>) and looking over [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)’s maps from her great uncle [Eberk Brawnanvil](<../../../people/dwarves/eberk-brawnanvil.md>).

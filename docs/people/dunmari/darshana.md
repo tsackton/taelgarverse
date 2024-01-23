@@ -9,7 +9,6 @@ ancestry: Dunmari
 gender: female
 whereabouts: Tokra
 title: Darshana
-hide_toc: true
 ---
 # Darshana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

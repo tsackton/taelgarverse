@@ -9,7 +9,6 @@ species: human
 ancestry: Drankorian
 gender: male
 title: Eudomes
-hide_toc: true
 ---
 # Eudomes
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

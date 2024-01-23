@@ -9,7 +9,6 @@ ancestry: lycanthrope
 gender: male
 died: 1748
 title: Werewolf Prisoner
-hide_toc: true
 ---
 ### The Unnamed Werewolf
 

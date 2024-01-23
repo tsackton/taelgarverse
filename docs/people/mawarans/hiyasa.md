@@ -8,7 +8,6 @@ species: human
 ancestry: Mawaran
 gender: female
 title: Hiyasa
-hide_toc: true
 ---
 # Hiyasa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

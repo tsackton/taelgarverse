@@ -7,7 +7,6 @@ whereabouts: Seeker
 typeOf: wonderous item
 rarity: legendary
 title: Binding Stones of Amloch
-hide_toc: true
 ---
 # The Binding Stones of Amloch
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

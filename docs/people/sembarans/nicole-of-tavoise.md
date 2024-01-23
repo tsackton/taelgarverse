@@ -6,7 +6,6 @@ ancestry: Sembaran
 gender: female
 died: 1719-10-21
 title: Nicole of Tavoise
-hide_toc: true
 ---
 # Nicole of Tavoise
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

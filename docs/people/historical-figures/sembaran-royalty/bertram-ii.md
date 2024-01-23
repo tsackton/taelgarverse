@@ -18,7 +18,6 @@ leaderOf:
 - {place: Breva, title: High King}
 - {place: Zovcka, title: High King}
 affiliations: [House of Sewick]
-hide_toc: true
 ---
 # King Bertram II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

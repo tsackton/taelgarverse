@@ -13,7 +13,6 @@ whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-12-09, end: 9999, location: Mirror of Soul Trapping}
 title: Vargus
-hide_toc: true
 ---
 # Vargus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

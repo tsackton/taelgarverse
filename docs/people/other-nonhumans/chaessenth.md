@@ -8,7 +8,6 @@ species: dragon turtle
 ancestry:
 gender:
 title: Chaessenth
-hide_toc: true
 ---
 
 Dragon turtle

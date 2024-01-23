@@ -11,7 +11,6 @@ ancestry: Dunmari
 gender: male
 whereabouts: Tokra
 title: Kirian
-hide_toc: true
 ---
 # Kirian
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

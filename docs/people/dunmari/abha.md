@@ -7,7 +7,6 @@ ancestry: Dunmari
 name: Abha
 affiliations: [Sonkar Mystai]
 title: Abha
-hide_toc: true
 ---
 # Abha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

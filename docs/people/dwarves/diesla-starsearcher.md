@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, location: Ardith}
 - {type: home, location: Taviose}
 title: Diesla Starsearcher
-hide_toc: true
 ---
 # Diesla Starsearcher
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

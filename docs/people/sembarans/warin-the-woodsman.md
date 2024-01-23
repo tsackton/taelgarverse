@@ -9,7 +9,6 @@ ancestry: Sembaran
 gender: male
 whereabouts: Valit
 title: Warin the Woodsman
-hide_toc: true
 ---
 # Warin the Woodsman
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,4 +24,4 @@ hide_toc: true
 
 A tracker and woodsman from [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), and confidant of [Sabine de Brune](<./sabine-de-brune.md>).
 
-![Warin The Woodsman](../../assets/warin-the-woodsman.png)
+![Warin the Woodsman](../../assets/warin-the-woodsman.png)

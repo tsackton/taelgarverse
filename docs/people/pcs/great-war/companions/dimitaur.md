@@ -9,7 +9,6 @@ gender:
 player:
 affiliations:
 title: Dimitaur
-hide_toc: true
 ---
 # Dimitaur
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

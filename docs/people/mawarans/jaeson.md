@@ -9,7 +9,6 @@ species: human
 ancestry: Mawaran
 gender: male
 title: Jaeson
-hide_toc: true
 ---
 # Jaeson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

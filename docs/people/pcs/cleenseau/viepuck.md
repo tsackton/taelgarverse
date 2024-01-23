@@ -15,7 +15,6 @@ whereabouts:
 - {type: home, end: 1719, location: Embry}
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
 title: Viepuck
-hide_toc: true
 ---
 # Viepuck
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

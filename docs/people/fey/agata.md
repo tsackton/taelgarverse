@@ -17,7 +17,6 @@ whereabouts:
 - {type: away, start: 1748-05-29, end: 1748-11-15, location: Ring of the Warded Mind}
 - {type: away, start: 1748-11-15, end: 9999, location: Heartwood Grove}
 title: Agata Dustmother
-hide_toc: true
 ---
 # Agata Dustmother
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

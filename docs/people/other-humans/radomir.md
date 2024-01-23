@@ -10,7 +10,6 @@ gender: male
 whereabouts:
 - {type: home, location: Ursk}
 title: Radomir
-hide_toc: true
 ---
 # Radomir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

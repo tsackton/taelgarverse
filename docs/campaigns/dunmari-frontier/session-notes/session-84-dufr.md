@@ -6,18 +6,32 @@ realWorldDate: 2023-09-11
 DR: 1749-01-01
 DR_end: 1749-01-03
 players: [Seeker, Delwath, Kenzo, Wellby]
-title: Session 84 (DuFr)
+tagline: in which the party gathers information
+descTitle: New Beginnings
+title: Dunmari Frontier - Session 84 Session 84 (DuFr)
 ---
-## Notes and Information
-*in which the party gathering information*
-Start: morning, Jan 1st, 1749
-End: afternoon, Jan 3rd, 1749
-## Timeline 
+# Dunmari Frontier - Session 84
+
+>[!info] New Beginnings: in which the party gathers information
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+> *In Taelgar: Jan 01, 1749 DR to Jan 03, 1749 DR*
+> *On Earth: Monday Sep 11, 2023*
+> *[Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) exchanges artifacts for lore and strikes a deal to journey to the Edge of Echoes with [Faldrak Bronzehammer](<../../../people/dwarves/faldrak-bronzehammer.md>).
+## Session Info
+
+***Vindristjarna's crewmember is introduced: [Faldrak Bronzehammer](<../../../people/dwarves/faldrak-bronzehammer.md>)***
+### Summary
+- The Dunmar Fellowship spends New Year's Day on the skyship [Vindristjarna](<../../../things/ships/vindristjarna.md>), each member engaging in personal pursuits.
+- They visit the [Ancient and Honorable Guild of Philosophers](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>), trading magic items for crucial information.
+- The party agrees to explore the [Edge of Echoes](<../../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>) with [Faldrak Bronzehammer](<../../../people/dwarves/faldrak-bronzehammer.md>)in exchange for his services in constructing magic items and improvements to [Vindristjarna](<../../../things/ships/vindristjarna.md>)
+### Timeline
 - Jan 01, 1749 DR: Spend a day relaxing
 - Jan 02, 1749 DR: Visit the [Ancient and Honorable Guild of Philosophers](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) and have dinner with [Melindir](<../../../people/elves/melindir.md>) and [Elwis](<../../../people/elves/elwis.md>)
 - Jan 03, 1749 DR: *(morning)* Have breakfast with [Faldrak Bronzehammer](<../../../people/dwarves/faldrak-bronzehammer.md>) 
-## Narrative
 
+## Narrative
 We begin on Jan 1st, 1749, as the new year, by [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>) reckoning, dawns. 
 
 *On the skyship [Vindristjarna](<../../../things/ships/vindristjarna.md>), however, none of the travelers would mark this as the dawning of a new year, were they not in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>). 
@@ -46,8 +60,8 @@ Finally, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) asks after 
 
 After this conversation, the party departs the guildhall, and returns to the ship to be ready to host [Melindir](<../../../people/elves/melindir.md>) and [Elwis](<../../../people/elves/elwis.md>) for dinner. [Elwis](<../../../people/elves/elwis.md>) is a painter from [Orenlas](<../../../gazetteer/istaros-watershed/orenlas/orenlas.md>), and is in town to learn more about the magic inks used in tattoos here, after traveling around [Green Sea](<../../../gazetteer/green-sea.md>) for the past several years. She speaks with [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) about [Orenlas](<../../../gazetteer/istaros-watershed/orenlas/orenlas.md>), talking of the beauty of the forest, the grandeur of the ancient city of [Erelion](<../../../gazetteer/istaros-watershed/orenlas/erelion.md>), and the ancient feeling as if it were still the days of creation when Aldanor walked the earth. 
 
-The next morning, [Faldrak Bronzehammer](<../../../people/dwarves/faldrak-bronzehammer.md>) arrives, ready to leave. He has traded for information about the Edge of Echoes from the [Ancient and Honorable Guild of Philosophers](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>). He has learned that is in central [Cymea](<../../../gazetteer/western-green-sea/cymea/cymea.md>), on the Freccilia (FREH-chee-lah) River, just upstream from its confluence with the Ampogio (ahm-POH-joh) River. Now, it is claimed by the locals simply to be a haunted cave system, but long ago it was a Drankorian forge, where the power of the elemental planes that leaks through here was harnessed to create magic. Faldrak, armed with this information, has packed his stuff already, assuming that the party will set out immediately. 
+The next morning, [Faldrak Bronzehammer](<../../../people/dwarves/faldrak-bronzehammer.md>) arrives, ready to leave. He has traded for information about the [Edge of Echoes](<../../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>) from the [Ancient and Honorable Guild of Philosophers](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>). He has learned that is in central [Cymea](<../../../gazetteer/western-green-sea/cymea/cymea.md>), on the Freccilia (FREH-chee-lah) River, just upstream from its confluence with the Ampogio (ahm-POH-joh) River. Now, it is claimed by the locals simply to be a haunted cave system, but long ago it was a Drankorian forge, where the power of the elemental planes that leaks through here was harnessed to create magic. Faldrak, armed with this information, has packed his stuff already, assuming that the party will set out immediately. 
 
-Although the party is not quite ready to leave right away, they agree to go to the Edge of Echoes, and to share 1/16 of the treasure they find there with Faldrak, in exchange for work on [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s [Glove of Crystalized Magic](<../treasure/treasure-from-solo-adventures/glove-of-crystalized-magic.md>) and on [Vindristjarna](<../../../things/ships/vindristjarna.md>). Faldrak, for example, suggests some kind of fire-shooting cannon, and demostrates what he means by picking up his cane and releasing a blast of fire from it, saying, "like that, but bigger!"
+Although the party is not quite ready to leave right away, they agree to go to the [Edge of Echoes](<../../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>), and to share 1/16 of the treasure they find there with Faldrak, in exchange for work on [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s [Glove of Crystalized Magic](<../treasure/treasure-from-solo-adventures/glove-of-crystalized-magic.md>) and on [Vindristjarna](<../../../things/ships/vindristjarna.md>). Faldrak, for example, suggests some kind of fire-shooting cannon, and demostrates what he means by picking up his cane and releasing a blast of fire from it, saying, "like that, but bigger!"
 
 We end that afternoon, as Faldrak contacts a furniture maker friend he knows to get nice beds for [Vindristjarna](<../../../things/ships/vindristjarna.md>), and the rest of the party disperses to the final tasks in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>) before departing. 

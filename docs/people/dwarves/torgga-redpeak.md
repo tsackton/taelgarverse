@@ -10,7 +10,6 @@ affiliations:
 - {org: Redpeaks, type: primary}
 gender: female
 title: Torgga Redpeak
-hide_toc: true
 ---
 # Torgga Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

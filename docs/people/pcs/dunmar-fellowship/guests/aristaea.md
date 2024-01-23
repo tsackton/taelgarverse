@@ -11,7 +11,6 @@ affiliations:
 player: Kate Sackton
 excludePublish: [clee]
 title: Aristaea
-hide_toc: true
 ---
 # Aristaea
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -12,7 +12,6 @@ affiliations:
 gender: female
 whereabouts: Tokra
 title: Dunmari Werewolf Woman
-hide_toc: true
 ---
 # Dunmari Werewolf Woman
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

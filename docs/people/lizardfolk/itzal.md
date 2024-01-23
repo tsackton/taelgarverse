@@ -10,7 +10,6 @@ gender: male
 whereabouts:
 - {type: home, location: Eskorola}
 title: Itzal
-hide_toc: true
 ---
 # Itzal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

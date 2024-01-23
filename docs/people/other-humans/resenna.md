@@ -10,7 +10,6 @@ whereabouts:
 - {type: home, location: Medju}
 - {type: away, start: 1748-11-23, prefix: sea elf village in, location: Quanyi}
 title: Resenna
-hide_toc: true
 ---
 # Resenna
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -7,7 +7,6 @@ species: lizardfolk
 gender: enby
 player: Kiya Nicoll
 title: Izar
-hide_toc: true
 ---
 # Izar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

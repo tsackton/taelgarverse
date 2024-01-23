@@ -9,6 +9,12 @@ players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 title: Session 12 (DuFr)
 ---
 
+## Timeline
+
+- Apr 13, 1748 DR, morning: Kill many gnolls in Raven's Hold, eventually clearing the threat. Have breakfast. 
+
+## Narrative
+
 We begin as the morning sun rises over [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). As the party awakens and prepares for the day, they are interrupted as [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) note the approach of a band of gnolls, heading towards the closed gate. They are traveling with a small bat-like demon, and moving quickly across the courtyard, past pools of fetid black water, avoiding the low hanging mists lingering in the air. As they approach the gate, they bang on it a few times, and there seems to be a brief discussion as the leader reaches for a spear, when [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)’s arrow flies out of the windows on the tower, striking the demon-beast dead.
 
 With that, the battle is joined in full. The gnolls make an attempt at firing arrows at the party, but as they are in a well-defended position this has little effect, and they begin to be slowly picked off. As they start to retreat, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) leaps off the wall, landing gently on his feet as he draws on his ki to slow his fall, and opens the gate. The gnolls immediately take the bait, and turn and run forward, trying to break through the door, as [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) holds his ground, deflecting arrows and sending them back at the gnolls with a flick of his hands. However, the charge of the gnolls is hard to withstand, and eventually they are able to push through the door, leading to a pitched battle for control. While [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) manage to take down the leader in the distance, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), and [Vola](<../../../people/chardonians/vola.md>) eventually defeat the gnolls at the gates.

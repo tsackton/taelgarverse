@@ -15,7 +15,6 @@ whereabouts:
 - {type: home, location: Xurkhaz}
 - {type: away, location: Mirror of Soul Trapping, start: 1660, end: 1748-12-04}
 title: Orc in the Mirror
-hide_toc: true
 ---
 # Orc in the Mirror
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

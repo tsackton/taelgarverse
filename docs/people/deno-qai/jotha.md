@@ -11,7 +11,6 @@ pronunciation: yo-TAH
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
 title: Jotha
-hide_toc: true
 ---
 # Jotha
 :speaker:{ .middle } *(yo-TAH)*  

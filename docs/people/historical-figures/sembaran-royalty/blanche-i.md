@@ -15,7 +15,6 @@ affiliations:
 - {place: Lavnoch, title: High Queen, start: 1561-02-13}
 - {place: Breva, title: High Queen, start: 1561-02-13}
 - {org: House of Sewick, type: primary}
-hide_toc: true
 ---
 # Queen Blanche I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -11,7 +11,6 @@ affiliations:
 - {place: The Crossroads Inn, title: Proprietor, start: 1}
 whereabouts: Cleenseau
 title: Venra Stonebridge
-hide_toc: true
 ---
 # Venra Stonebridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

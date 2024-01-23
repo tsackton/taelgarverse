@@ -15,7 +15,6 @@ affiliations:
 whereabouts:
 - {type: home, location: Wave Dancer, format: '<linktext> <name>, <ancestry:a> <maintype>'}
 title: Corrin Wildheart
-hide_toc: true
 ---
 # Corrin Wildheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

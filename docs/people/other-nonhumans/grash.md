@@ -18,7 +18,6 @@ whereabouts:
 - {type: away, start: 1748-12-05, end: 1748-12-14, location: Xurkhaz}
 - {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar}
 title: Grash
-hide_toc: true
 ---
 # Grash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, start: '', end: '', location: Luminatia}
 - {type: away, start: 1748-03-11, end: '', location: ''}
 title: Claudio
-hide_toc: true
 ---
 # Claudio
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

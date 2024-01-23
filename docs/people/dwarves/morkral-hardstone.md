@@ -7,7 +7,6 @@ species: dwarf
 ancestry:
 gender: male
 title: Morkral Hardstone
-hide_toc: true
 ---
 # Morkral Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

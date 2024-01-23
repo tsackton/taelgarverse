@@ -10,7 +10,6 @@ gender: male
 whereabouts: Bek'eni village
 activeYear: 1745
 title: Zaro
-hide_toc: true
 ---
 # Zaro
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -15,7 +15,6 @@ whereabouts:
 - {type: home, location: Eastern Dunmar}
 - {type: away, location: Havdar's Warband, wCurrent: ''}
 title: Havdar
-hide_toc: true
 ---
 # Havdar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

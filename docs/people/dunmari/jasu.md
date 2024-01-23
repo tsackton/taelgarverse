@@ -8,7 +8,6 @@ ancestry: Dunmari
 gender: male
 whereabouts: Karawa
 title: Jasu
-hide_toc: true
 ---
 # Jasu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
