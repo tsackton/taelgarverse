@@ -6,9 +6,36 @@ realWorldDate: 2021-12-06
 DR: 1748-07-01
 DR_end: 1748-07-01
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 35 (DuFr)
+tagline: in which the party investigates a puzzling disappearance
+descTitle: Tokra Mysteries
+name: Dunmari Frontier - Session 35
+title: Dunmari Frontier - Session 35
 ---
+# Dunmari Frontier - Session 35
 
+>[!info] Tokra Mysteries: in which the party investigates a puzzling disappearance 
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: Jul 01, 1748 DR*
+> *On Earth: Monday Dec 06, 2021*
+> *[Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) researches mystical lore, delves into puzzling local affairs in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), and contemplates the enigma of lycanthropy as they plan their next move.
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) exits Elven ruins with [Arborea](<../../../cosmology/multiverse/spiritual-realms/primal-realms/arborea.md>) energy, commissioning a [Portable Hole](<../treasure/treasure-from-tokra/portable-hole.md>) from [Basu](<../../../people/dunmari/basu.md>).
+- They meet [Kassi](<../../../people/dunmari/kassi.md>) at the library discuss the [elves](<../../../species/children-of-the-embodied-gods/elves/elves.md>), gods, and [Pandemonium](<../../../cosmology/multiverse/spiritual-realms/primal-realms/pandemonium.md>).
+- In [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), they converse with [Kirian](<../../../people/dunmari/kirian.md>) about a Chardonian scholar [Servius](<../../../people/chardonians/servius.md>), and learn from [Kaleha](<../../../people/dunmari/kaleha.md>) about local challenges and [Saka](<../../../people/dunmari/saka.md>)'s whereabouts.
+- At the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), they uncover [Govir](<../../../people/dunmari/govir.md>)'s research on divine interventions and letters detailing a mysterious cult with lycanthropy connections.
+- The session concludes with the party considering their next move under a full moon, surrounded by the enigma of lycanthropy.
+
+### Timeline
+- Jul 01, 1748 DR, midday: Speak with [Basu](<../../../people/dunmari/basu.md>), agree to exchange magical energy from ruins for a [Portable Hole](<../treasure/treasure-from-tokra/portable-hole.md>). Speak with [Kassi](<../../../people/dunmari/kassi.md>), ask for informaiton. 
+- Jul 01, 1748 DR, noon: Leave monastery and get rooms at [Kirian’s](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirians.md>)
+- Jul 01, 1748 DR, afternoon: Speak with [Kaleha](<../../../people/dunmari/kaleha.md>), revealing [Sura](<../../../people/dunmari/sura.md>)'s story. Speak with [Ardan](<../../../people/dunmari/ardan.md>) at the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), and learn more about recent events; [Govir](<../../../people/dunmari/govir.md>), the missing archivist; and [Hada](<../../../people/dunmari/hada.md>), the head scribe. Find clues in the form of records of Govir's research.
+- Jul 01, 1748 DR, early evening: Have dinner  at [Kirian’s](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirians.md>)
+
+
+## Narrative
 The session starts as the party emerges from the [Elven ruins](<../../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), charged vials full of the energy of the plane of [Arborea](<../../../cosmology/multiverse/spiritual-realms/primal-realms/arborea.md>) in hand. [Basu](<../../../people/dunmari/basu.md>), eagerly waiting, takes the party to his workshop, where he describes various magical items he can construct with this energy, including a very fancy tent he once constructed that looked like just a small patch of canvas but could hold twenty people comfortably. The party decides they want a [Portable Hole](<../treasure/treasure-from-tokra/portable-hole.md>), and leaves with the promise that [Basu](<../../../people/dunmari/basu.md>) will have it ready in two weeks.
 
 After speaking with [Basu](<../../../people/dunmari/basu.md>), the party heads to the library where they meet [Kassi](<../../../people/dunmari/kassi.md>). She has a map for them, now a bit late to be useful in their mission, but still of interest as the Elven runes decorating the pillars in the entrance hall are translated here. After some discussion of the [elves](<../../../species/children-of-the-embodied-gods/elves/elves.md>), the conversation turns to questions. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) asks about stories of [Rai](<../../../people/pcs/great-war/rai.md>), and while [Kassi](<../../../people/dunmari/kassi.md>) knows of him she must search for more information that may be useful. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) asks about [Pandemonium](<../../../cosmology/multiverse/spiritual-realms/primal-realms/pandemonium.md>), and where the weak spot to that plane may be (“nearby, but not here,” [Kassi](<../../../people/dunmari/kassi.md>) says). [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) asks of gods who have lost their followers, and again [Kassi](<../../../people/dunmari/kassi.md>) will look into it, although the name [Anida](<../../../cosmology/gods/high-gods/anida.md>), the First and the Last, is familiar to her, as the name among people of the north before [Drankor](<../../../history/drankorian-era/drankor.md>) for the creator gods referred to as [Shurat](<../../../cosmology/gods/high-gods/shurat.md>) and [Sampa](<../../../cosmology/gods/high-gods/sampa.md>) by the [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), and [Arha](<../../../cosmology/gods/high-gods/arha.md>) and [Malik](<../../../cosmology/gods/high-gods/malik.md>) by the Drankorians. Finally, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) asks for maps. After some more conversation, the party departs for lunch and discussion, leaving [Kassi](<../../../people/dunmari/kassi.md>) to her tasks.

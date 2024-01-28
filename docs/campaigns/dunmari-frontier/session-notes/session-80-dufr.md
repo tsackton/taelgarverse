@@ -7,12 +7,13 @@ DR: 1748-12-10
 DR_end: 1748-12-17
 players: [Seeker, Delwath, Kenzo, Wellby]
 tagline: in which the party gathers rumors and makes connections in Tollen
-descTitle: Tollen Arrivals
-title: Dunmari Frontier - Session 80 Session 80 (DuFr)
+descTitle: Arrival in Tollen
+name: Dunmari Frontier - Session 80
+title: Dunmari Frontier - Session 80
 ---
 # Dunmari Frontier - Session 80
 
->[!info] Tollen Arrivals: in which the party gathers rumors and makes connections in Tollen
+>[!info] Arrival in Tollen: in which the party gathers rumors and makes connections in Tollen
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
 > *In Taelgar: Dec 10, 1748 DR to Dec 17, 1748 DR*
 > *On Earth: Thursday Jul 27, 2023*

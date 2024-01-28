@@ -6,9 +6,47 @@ realWorldDate: 2022-03-03
 DR: 1748-07-06
 DR_end: 1748-07-13
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-title: Session 41 (DuFr)
+tagline: in which the party returns to Tokra and plans their next steps
+descTitle: Monsoon's Arrival
+name: Dunmari Frontier - Session 41
+title: Dunmari Frontier - Session 41
 ---
+# Dunmari Frontier - Session 41
 
+>[!info] Monsoon's Arrival: in which the party returns to Tokra and plans their next steps
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Jul 06, 1748 DR to Jul 13, 1748 DR*
+> *On Earth: Thursday Mar 03, 2022*
+> *[Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) returns to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), assists in archiving lore, and prepares to escort [Johar](<../../../people/dunmari/johar.md>) to [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) amidst the onset of the monsoon season.
+
+## Session Info
+
+***Character advancement: the party reaches level 8 as the werewolf threat is ended and their time in Tokra comes to a close***
+### Summary
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) receives 10 scrolls from [Saka](<../../../people/dunmari/saka.md>) to collect Dunmari stories for the [Hall of Stories](<../../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>).
+- The party returns to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), receives messages, and reunites with [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>).
+- [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) reassures [Fallthra Hardstone](<../../../people/dwarves/fallthra-hardstone.md>) about Dag's dreams; [Govir](<../../../people/dunmari/govir.md>) shares findings on the [Fraternity of the Empty Moon](<../../../groups/fraternity-of-the-empty-moon.md>).
+- [Govir](<../../../people/dunmari/govir.md>) gains support from [Ardan](<../../../people/dunmari/ardan.md>) to reorganize the Archives with additional resources.
+- [Kaleha](<../../../people/dunmari/kaleha.md>) plans to execute the captured werewolf; the party prepares to leave for [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), tasked with escorting [Johar](<../../../people/dunmari/johar.md>) on Speaker [Lara](<../../../people/dunmari/lara.md>)'s request.
+
+### Timeline
+ - Jul 06, 1748 DR, early afternoon: Leave Saka's camp. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) gifted scrolls for collecting stories, and [Saka](<../../../people/dunmari/saka.md>) urges him to take his duties as a mystai of Bhishma seriously. Travel south to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
+- Jul 07, 1748 DR: Travel south to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+- Jul 08, 1748 DR: Travel south to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+- Jul 08, 1748 DR, evening: Arrive in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Reunite with [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) at [Kirian’s](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirians.md>) for dinner. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) listens to [Kirian](<../../../people/dunmari/kirian.md>)'s life [story](<../collected-stories/kirian-s-story.md>).
+- Jul 09, 1748 DR: Speak with Hardstones and with [Govir](<../../../people/dunmari/govir.md>) at the archives. Speak with [Kaleha](<../../../people/dunmari/kaleha.md>). Monsoon rains arrive in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Move to monastery.
+- Jul 10, 1748 DR: [Day of Renewal](<../../../time/holidays-and-festivals/dunmari-festivals/day-of-renewal.md>). Spend the night at the monastery.
+- Jul 11, 1748 DR: Speak with [Kassi](<../../../people/dunmari/kassi.md>) about [Rai](<../../../people/pcs/great-war/rai.md>), dead gods, and [Yezali](<../../../cosmology/gods/tanshi/yezali.md>). Rest at monastery.
+- Jul 12, 1748 DR: Rest at monastery.
+- Jul 13, 1748 DR: Speaker [Lara](<../../../people/dunmari/lara.md>) returns. Discuss situation in [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) and [Sura](<../../../people/dunmari/sura.md>). Agree to escort [Johar](<../../../people/dunmari/johar.md>) to [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>). 
+
+### Notes
+- [Research from Kassi](<../letters-and-notes/research-from-kassi.md>)
+
+
+## Narrative
 We begin as the party finishes their conversation with [Saka](<../../../people/dunmari/saka.md>), and prepares to return to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) after sharing a meal with [Saka](<../../../people/dunmari/saka.md>) and her family. As they depart, [Saka](<../../../people/dunmari/saka.md>) pulls [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) aside, reminding him not to neglect his duties as a Mystai of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>). She gives him 10 scrolls that can be used to collect the stories of the people of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), to be stored in the [Hall of Stories](<../../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>) at some point in the future. 
 
 The next two days are spent in uneventful travel south back to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), in the hot, dry, weather, arriving the evening of July 8th, and returning to [Kirian’s](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirians.md>), where they had been staying. Here, they are given messages from [Govir](<../../../people/dunmari/govir.md>) at the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), from [Fallthra Hardstone](<../../../people/dwarves/fallthra-hardstone.md>), from [Kassi](<../../../people/dunmari/kassi.md>) at the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), from [Kaleha](<../../../people/dunmari/kaleha.md>), and from [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>). After meeting up with [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) again, the party returns to [Kirian’s](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirians.md>) for dinner, as clouds form in the sky for the first time in months. After some discussion of what to do with the captured werewolf, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) listens to [Kirian](<../../../people/dunmari/kirian.md>)’s [story](<../collected-stories/kirian-s-story.md>).

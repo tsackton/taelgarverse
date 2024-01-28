@@ -6,9 +6,37 @@ realWorldDate: 2021-04-08
 DR: 1748-05-11
 DR_end: 1748-05-11
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 22 (DuFr)
+tagline: in which the party fights manticores and orcs who lurk in the Monastery of Bhishma
+descTitle: Monastery Battles
+name: Dunmari Frontier - Session 22
+title: Dunmari Frontier - Session 22
 ---
+# Dunmari Frontier - Session 22
 
+>[!info] Monastery Battles: in which the party fights manticores and orcs who lurk in the Monastery of Bhishma
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: May 11, 1748 DR*
+> *On Earth: Thursday Apr 08, 2021*
+> *[Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeats manticores and orcs at the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>) and uncovers the secrets of the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>).
+## Session Info
+
+***Character advancement: Kenzo dies for the first time, journeying to the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), where he encounters Bhishma and becomes an initiate into the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). 
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) rests then scouts the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>), discussing past events and connections to the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>).
+- They decide to explore during the day; [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), as a hawk, hears manticores and orcs nearby.
+- A battle ensues where the party kills a family of manticores and then an orc patrol, capturing one for interrogation.
+- The captured orc reveals the presence of ghosts, Grash's patrolling operations, and the strength of [Grash's armies](<../../../groups/orc-hordes/grash-s-horde.md>).
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) undergo a [ritual of initiation](<../dreams-and-visions/order-of-the-awakened-soul-initiation.md>) for the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>), with Kenzo becoming an initiate.
+
+### Timeline
+- May 11, 1748 DR, midday: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) returns to camp. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) tells party about Rai, his jade fragment, and their connection to the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) and [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>).
+- May 11, 1748 DR, early afternoon: Investigate [monastery](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>). Fight and kill a manticore family. Fight an orc patrol, killing most and capturing one. Interrogate [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>), learning that the only other things in the monastery are ghosts; that [Grash](<../../../people/other-nonhumans/grash.md>) keeps a patrol here to report anything suspicious; and that Grash's armies are strong and will defeat [Uzgash's bastards](<../../../groups/orc-hordes/people-of-the-rainbow.md>) soon. 
+- May 11, 1748 DR, mid-afternoon: Enter common hall of the monastery, find initiation chamber. Kenzo and Seeker proceed down hallway illuminating the history of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) and her miracles. Kenzo becomes initiate of the Bhishma Mystai, known as the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>), dying and being revived during the process. 
+
+
+## Narrative
 We begin around noon at camp, about 5 miles south of the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>), as [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) returns from scouting as a desert hawk. The party is just finishing their usual midday rest, in the shade of the canyon walls along the dry river, and deciding what to do next. First, though, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) tells them about [Rai](<../../../people/pcs/great-war/rai.md>), the [Heroes of the Great War](<../../../people/pcs/great-war/heroes-of-the-great-war.md>), and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s possible connection, via the [Jade Piece of Rai's Hand](<../treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) he carries, to [Rai](<../../../people/pcs/great-war/rai.md>), and the fact that the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>), who [Rai](<../../../people/pcs/great-war/rai.md>) told [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) to seek, is also the [Mysteries of Bhishma](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). The discussion turns to more recent history, and pondering again what could have happened thirty years ago that nearly destroyed the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) and left their monastery abandoned. 
 
 After some discussion of the past, the party turns to [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)’s scouting report and map. They decide that during the heat of the day, while everything is quiet, may be a better time to explore than dusk, and so head for the monastery. Making a small camp and leaving horses and gear at the foot of the cliffs, the party heads around the bend in the river to approach the monastery from the west. 

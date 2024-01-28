@@ -8,7 +8,8 @@ DR_end: 1748-03-29
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party uncovers dire truths
 descTitle: Shakun's Wane
-title: Dunmari Frontier - Session 4 Session 4 (DuFr)
+name: Dunmari Frontier - Session 4
+title: Dunmari Frontier - Session 4
 ---
 # Dunmari Frontier - Session 4
 
@@ -21,7 +22,7 @@ title: Dunmari Frontier - Session 4 Session 4 (DuFr)
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) and discovers that the [magical protections of Shakun](<../../../cosmology/religions/five-siblings/shakun-s-protection.md>) are failing, leading to increased dangers and a plea for their aid.
 ## Session Info
 
-***The party takes treasure from the fort: [Aagir's Everlight](<../treasure/treasure-from-dunmari-ruins/aagir-s-everlight.md>), a [Black Iron Staff](<../treasure/treasure-from-dunmari-ruins/black-iron-staff.md>), a [Floating Disc Coin](<../treasure/treasure-from-dunmari-ruins/floating-disc-coin.md>), and a [Horn of Silent Alarm](<../treasure/treasure-from-dunmari-ruins/horn-of-silent-alarm.md>), along with temple goods, returned to [Suma](<../../../people/dunmari/suma.md>) in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) in exchange for a scroll of Cure Wounds***
+***The party takes treasure from the fort: [Aagir's Everlight](<../treasure/treasure-from-dunmari-ruins/aagir-s-everlight.md>), a [Black Iron Staff](<../treasure/treasure-from-dunmari-ruins/black-iron-staff.md>), a [Floating Disc Coin](<../treasure/treasure-from-dunmari-ruins/floating-disc-coin.md>), and a [Horn of Silent Alarm](<../treasure/treasure-from-dunmari-ruins/horn-of-silent-alarm.md>); they also return recovered temple goods to [Suma](<../../../people/dunmari/suma.md>) in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) in exchange for a scroll of Cure Wounds***
 ### Summary
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) departs the fort with various artifacts and heads to Karawa.
 - In [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), they learn from Elder [Kisa](<../../../people/dunmari/kisa.md>) about past disturbances and the [Summer of Red Storms](<../../../events/1700s/1709/summer-of-red-storms.md>).

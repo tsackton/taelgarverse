@@ -6,9 +6,37 @@ realWorldDate: 2022-02-17
 DR: 1748-07-03
 DR_end: 1748-07-06
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 40 (DuFr)
+tagline: in which the past collides with advice for the future
+descTitle: Saka's Revelations
+name: Dunmari Frontier - Session 40
+title: Dunmari Frontier - Session 40
 ---
+# Dunmari Frontier - Session 40
 
+>[!info] Saka's Revelations: in which the past collides with advice for the future
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: Jul 03, 1748 DR to Jul 06, 1748 DR*
+> *On Earth: Thursday Feb 17, 2022*
+> *[~North Tokra Plains~](<../../../gazetteer/greater-dunmar/dunmari-basin/north-tokra-plains.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) learns of [past tragedies](<../../../events/1700s/1718/awakened-soul-disaster.md>) and receives a cautionary tale from the elusive [Saka](<../../../people/dunmari/saka.md>).
+
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) departs Tokra, traveling north uneventfully by the [Hara](<../../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>) river, hoping to find [Saka](<../../../people/dunmari/saka.md>), a master of the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) experiences recurring dreams of an underground forge, offering a sense of protection.
+- [Saka](<../../../people/dunmari/saka.md>) reveals the history of [Rai](<../../../people/pcs/great-war/rai.md>), the [seeds of chaos](<../../../cosmology/multiverse/seeds-of-chaos.md>) that rose with [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>)'s death, and the Mystai's failed attempt to eradicate them.
+- [Saka](<../../../people/dunmari/saka.md>) advises the party to focus on how they can help people now, and not pursue dangerous heroics to reshape the world without more knowledge.
+
+### Timeline
+- Jul 03, 1748 DR, noon: Depart [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Travel uneventfully north along the [Hara](<../../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>). 
+- Jul 03, 1748 DR, evening: Camp on the [~North Tokra Plains~](<../../../gazetteer/greater-dunmar/dunmari-basin/north-tokra-plains.md>). 
+- Jul 04, 1748 DR: Travel north. Meet [Kiran](<../../../people/dunmari/kiran.md>), speak of [Saka](<../../../people/dunmari/saka.md>) and the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). Continue north; spend the night on the plains.
+- Jul 05, 1748 DR: Travel north. 
+- Jul 06, 1748 DR, morning: Approach Saka's camp. Meet and speak with [Saka](<../../../people/dunmari/saka.md>), learning more about the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) and the [Awakened Soul Disaster](<../../../events/1700s/1718/awakened-soul-disaster.md>). 
+
+
+## Narrative
 We begin as the party leaves [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) just before lunchtime, finally heading north to look for [Saka](<../../../people/dunmari/saka.md>) on the plains, after seemingly vanquishing the last remnants of the [Fraternity of the Empty Moon](<../../../groups/fraternity-of-the-empty-moon.md>). Heading north along the river, the first afternoon of travel is hot, but uneventful, the first night notable only for [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s recurrent dreams of being underground, near what sounds like a metal forge, the sound of hammers seemingly keeping him safe from some nameless danger of bloodlust and fear. 
 
 Another morning and early afternoon of travel is uneventful, until in the mid-afternoon the party meets [Kiran](<../../../people/dunmari/kiran.md>) and his family, camped along the riverbank. From [Kiran](<../../../people/dunmari/kiran.md>) they learn a bit more about [Saka](<../../../people/dunmari/saka.md>), that she is wary of outsiders and that she is camped to the north. He also speaks of his sadness at the loss of the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>), for they used to travel the lands and tell and collect stories, but have not been seen of late. 

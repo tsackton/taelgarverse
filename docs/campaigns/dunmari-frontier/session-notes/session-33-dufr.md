@@ -6,9 +6,46 @@ realWorldDate: 2021-10-24
 DR: 1748-06-20
 DR_end: 1748-06-30
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 33 (DuFr)
+companions: [Garret Tealeaf]
+tagline: in which the party encounters magic and peril
+descTitle: The Road West
+name: Dunmari Frontier - Session 33
+title: Dunmari Frontier - Session 33
 ---
+# Dunmari Frontier - Session 33
 
+>[!info] The Road West: in which the party encounters magic and peril
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: Jun 20, 1748 DR to Jun 30, 1748 DR*
+> *On Earth: Sunday Oct 24, 2021*
+> *From [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)'s journey to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) is marked by a conversation with a strange fey named [Typhina](<../../../people/fey/typhina.md>), and magical encounters both wondrous and dangerous. 
+
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) travels west from [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), escorting [Garret Tealeaf](<../../../people/halflings/garret-tealeaf.md>), and with magical mirrors concealed in their cart.
+- [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) is telepathically contacted by [Typhina](<../../../people/fey/typhina.md>), a mysterious fey trapped in a magical ring. 
+- The group discovers an enchanted Drankorian aqueduct and aids local herders by creating an oasis.
+- They uncover the danger of the scorpions in Agata's pouch and destroy them before they can cause harm.
+- Upon reaching [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), they split up, with [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and Garret heading to [The Red Lily Inn](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-red-lily-inn.md>), and the others to the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>).
+
+### Timeline
+- Jun 20, 1748 DR: Travel west towards [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
+- Jun 21, 1748 DR: Travel uneventfully west towards [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Discuss the possible evils of magic items with [Garret Tealeaf](<../../../people/halflings/garret-tealeaf.md>).
+- Jun 22, 1748 DR: Travel west towards [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Seeker contacted telepathically by [Typhina](<../../../people/fey/typhina.md>), a native of the feywild trapped in the ring recovered from [Agata](<../../../people/fey/agata.md>). Much later, the party will learn this is actually Agata, playing a role. 
+- Jun 23, 1748 DR: Travel uneventfully west towards [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+- Jun 24, 1748 DR: Travel west towards [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Stop to examine the ruins of ancient Drankorian aqueduct, with a lingering enchantment to purify water, and increase it, duplicating what is already flowing. Meet a family of Dunmari goat herders camped for a few days near the aqueduct. Stay the afternoon and evening.
+- Jun 25, 1748 DR - Jun 29, 1748 DR: Continue west towards [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+- Jun 30, 1748 DR, early afternoon: Arrive at the outskirts of Tokra. Cross the bridge, pay the toll. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) takes Garrett to the halfling inn in town, [The Red Lily Inn](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-red-lily-inn.md>). Rest of party continues south to the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>),  where they are welcomed by an ancient monk, [Rishi](<../../../people/dunmari/rishi.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)'s master and teacher.
+
+### Mirror of the Past
+- Jun 21, 1748 DR: See a vision of the [Floating Disc Coin](<../treasure/treasure-from-dunmari-ruins/floating-disc-coin.md>) in the [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>): [Floating Disc Coin Vision](<../mirror-visions/floating-disc-coin-vision.md>). recharge mirror
+- Jun 28, 1748 DR: Use the Mirror of the Past to see a dried scorpion taken from [Agata](<../../../people/fey/agata.md>), and watch is begin to come alive in the magic of the mirror: [Dried Scorpion Vision](<../mirror-visions/dried-scorpion-vision.md>). Wellby shoots it before it can fully transform. recharge mirror
+
+
+
+## Narrative
 The session starts as the party leaves [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), heading west for [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), traveling with [Garret Tealeaf](<../../../people/halflings/garret-tealeaf.md>), a horse-drawn cart laden with food and water and a false bottom hiding their magical mirrors, plus their horses and gear. The first day passes uneventfully along the open terrain, heading to connect with the ancient Drankorian trade road that runs east and west across northern [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). There is light traffic passing through the desert, everybody eager to return to their normal lives. By the evening of the second day of travel, [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>) had recharged enough to be used, and the party used it to look at the [Floating Disc Coin](<../treasure/treasure-from-dunmari-ruins/floating-disc-coin.md>) found near the petrified form of [Arcus](<../../../people/chardonians/arcus.md>) in the fort east of [Gomat](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>), seeing a [vision of its history](<../mirror-visions/floating-disc-coin-vision.md>).
 
 As he watches this scene unfold, [Garret Tealeaf](<../../../people/halflings/garret-tealeaf.md>) is suspicious, afraid of the magic you have taken from the lairs of powerful creatures, worried that perhaps the owner of this mirror is watching you, somehow. 

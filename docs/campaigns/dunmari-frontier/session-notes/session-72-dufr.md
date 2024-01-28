@@ -8,7 +8,8 @@ DR_end: 1748-11-24
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party confronts an ice maiden
 descTitle: Ice Heart
-title: Dunmari Frontier - Session 72 Session 72 (DuFr)
+name: Dunmari Frontier - Session 72
+title: Dunmari Frontier - Session 72
 ---
 # Dunmari Frontier - Session 72
 
@@ -16,16 +17,16 @@ title: Dunmari Frontier - Session 72 Session 72 (DuFr)
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: Nov 23, 1748 DR to Nov 24, 1748 DR*
 > *On Earth: Thursday Mar 02, 2023*
-> *Hralgar's Palace in the [Sentinels](<../../../gazetteer/sentinel-range/sentinel-range.md>)*
+> *[Hralgar's Palace](<../../../gazetteer/sentinel-range/hralgar-s-palace.md>) in the [Sentinels](<../../../gazetteer/sentinel-range/sentinel-range.md>)*
 
-The Dunmar Fellowship learns valuable information from Hralgar and defeats an ice maiden in his ancient palace.
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) learns valuable information from [Hralgar](<../../../people/giants/hralgar.md>) and defeats an ice maiden now inhabiting his [ancient palace](<../../../gazetteer/sentinel-range/hralgar-s-palace.md>).
 
 ## Session Info
 ### Summary
 - [Hralgar](<../../../people/giants/hralgar.md>) shares knowledge about the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>), skyships, and powerful magic.
-- He invites the party to journey to his old palace to retrieve a Phasing Stone, and offers lore on volcanoes connected to the elemental [Plane of Fire](<../../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-fire.md>)
+- He invites the party to journey to his old palace to retrieve a [Phasing Stone](<../../../things/magic-items/phasing-stones.md>), and offers lore on volcanoes connected to the elemental [Plane of Fire](<../../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-fire.md>)
 - [Hralgar](<../../../people/giants/hralgar.md>) parts with the party, granting them a wind blessing for swift travel.
-- The party arrives at Hralgar's ruined palace and encounters an ice maiden.
+- The party arrives at [Hralgar's ruined palace](<../../../gazetteer/sentinel-range/hralgar-s-palace.md>) and encounters an ice maiden.
 - After failed negotiations, they battle and defeat the ice maiden and her icy crystal heart.
 
 ### Timeline

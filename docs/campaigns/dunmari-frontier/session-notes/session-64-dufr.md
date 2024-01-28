@@ -6,18 +6,36 @@ sessionNumber: 64
 realWorldDate: 2022-11-09
 DR: 1748-11-06
 DR_end: 1748-11-13
-players: [Kenzo, Enari, Izzarak]
+players: [Kenzo, Izzarak]
+companions: [Enari]
+tagline: in which Kenzo frees the jungle guardian
+descTitle: Healing Motua
 title: Dunmari Frontier - Kenzo Solo Session 3
 ---
+# Dunmari Frontier - Kenzo Solo Session 3
 
-## Timeline
+>[!info] Healing Motua: in which Kenzo frees the jungle guardian
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>)*
+> *In Taelgar: Nov 06, 1748 DR to Nov 13, 1748 DR*
+> *On Earth: Wednesday Nov 09, 2022*
+> *[Azta Lekua](<../../../gazetteer/far-south/azta-lekua.md>)*
 
+[Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) aids in healing [Motua](<../../../people/extraplanar-powers/motua.md>), freeing the jungle's spirit guardian and restoring harmony.
+## Session Info
+### Summary
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and his companions cross a lava river and commune with an ancient tree to learn about the jungle's afflictions.
+- The party discovers the troubles stem from [Motua](<../../../people/extraplanar-powers/motua.md>)'s ailment
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) heals [Motua](<../../../people/extraplanar-powers/motua.md>) by entering their spiritual wounds and addressing the sorrows of trapped souls within.
+- Victory over the wounds releases [Motua](<../../../people/extraplanar-powers/motua.md>) from necrotic chains, and [Lengau](<../../../people/other-nonhumans/lengau.md>) returns to restore the jungle.
+- [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>) chooses to stay in the jungle, and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) departs to the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>) to reunite with friends.
+
+### Timeline
 - Nov 06, 1748 DR: Speak with [Somi-nai](<../../../people/fey/somi-nai.md>). Cross the lava river, and proceed to the flooded jungle. Commune with an ancient tree; find the dryad [Eleuha](<../../../people/fey/eleuha.md>); avoid a maelstrom whirlpool dragging everything it touches into an endless watery void; confront [Motua](<../../../people/extraplanar-powers/motua.md>) and heal their wounds, freeing them of the bindings that weakened and sickened them; meet [Lengau](<../../../people/other-nonhumans/lengau.md>), the jaguar spirit guardian of the jungle.
 - Nov 07, 1748 DR - Nov 12, 1748 DR:  Spend time in the jungle with [Motua](<../../../people/extraplanar-powers/motua.md>) and [Lengau](<../../../people/other-nonhumans/lengau.md>)
-- Nov 13, 1748 DR:  [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>) decides to remain and care for the babies, whatever they will become; [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) plane-shifted to the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>), to Lastlight Falls, by the magic of [Lengau](<../../../people/other-nonhumans/lengau.md>)
+- Nov 13, 1748 DR:  [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>) decides to remain and care for the babies, whatever they will become; [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) plane-shifted to the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>), to [Lastlight Falls](<../../../cosmology/multiverse/echo-realms/feywild/lastlight-falls.md>), by the magic of [Lengau](<../../../people/other-nonhumans/lengau.md>)
+
 
 ## Narrative
-
 We begin at the edge of a river of lava in the jungle, the party considering how to cross. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) easily jumps the distance, while [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>) polymorphs into a pterodactyl to fly across with [Enari](<../../../people/lizardfolk/enari.md>). Proceeding into the jungle from the other side after a brief rest, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Enari](<../../../people/lizardfolk/enari.md>), and [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>) find themselves heading towards a large expanse of flooded jungle. 
 
 Venturing into the flooded area, with the two lizardfolk swimming comfortably and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) running across the water, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) looks for a tree to speak with, to understand more about what is happening here. Communing with one of the biggest and older trees he can find, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) speaks with Tree. Tree complains that everything has fled the jungle, the birds no longer sing in his hair and his roots are wet, and it is caused by [Motua](<../../../people/extraplanar-powers/motua.md>). Tree then tells [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), who is hoping for more information about [Motua](<../../../people/extraplanar-powers/motua.md>) and the jungle, to speak with his children, specifically his daughter-tree who is inhabited by a spirit of the jungle. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) listens to [Tree’s story](<../collected-stories/trees-story.md>), collecting it for the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>), and then reverently ends his communion with Tree. 
@@ -46,7 +64,7 @@ In the jungle, although [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/
 
 Meanwhile, in the jungle, [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>) continues his battle against these chains. The wrath of the jungle manages to destroy some of them, but the rest swarm around [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>), battering him. 
 
-In the wound, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) sees the warrior looking around in a panic. “I don’t think it matters what I do, I can feel the cage closing in on me. I’m just going to run, there is no redemption for me.” As [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) throws all his strength at the warrior, draining his own energy, he experiences the sweep of the warrior’s life. Growing up on the streets, no parents, never finding anyone to give him a helping hand. Turning to thievery, banditry, eventually robbing caravans. In middle age, a price on his head, finding his way to a Temple of the Wilding (one of the [Eight Divines](<../../../cosmology/religions/mos-numena.md>)), saying to the priest that he cannot go on like this. Rumors of monster attacks, trolls raiding villages, asking the priest if it would be enough, if he repaid what was taken from them. The priest assuring him that the Wilding will look after him. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), then, turning to him, telling him, “I know your story. I know your journey. I’ve walked the path myself. I grew up with no parents, I grew up alone, poisoned, abused. It was only by sheer luck I was taken in by someone who could teach me. Redemption is before you.” As [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) finishes speaking, the warrior runs into battle, and the wound closes. 
+In the wound, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) sees the warrior looking around in a panic. “I don’t think it matters what I do, I can feel the cage closing in on me. I’m just going to run, there is no redemption for me.” As [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) throws all his strength at the warrior, draining his own energy, he experiences the sweep of the warrior’s life. Growing up on the streets, no parents, never finding anyone to give him a helping hand. Turning to thievery, banditry, eventually robbing caravans. In middle age, a price on his head, finding his way to a Temple of the Wilding (one of the [Eight Divines](<../../../cosmology/religions/mos-numena/mos-numena.md>)), saying to the priest that he cannot go on like this. Rumors of monster attacks, trolls raiding villages, asking the priest if it would be enough, if he repaid what was taken from them. The priest assuring him that the Wilding will look after him. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), then, turning to him, telling him, “I know your story. I know your journey. I’ve walked the path myself. I grew up with no parents, I grew up alone, poisoned, abused. It was only by sheer luck I was taken in by someone who could teach me. Redemption is before you.” As [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) finishes speaking, the warrior runs into battle, and the wound closes. 
 
 And [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) sees now that it is not the warrior fighting, it is [Motua](<../../../people/extraplanar-powers/motua.md>). They are in a battle with the skeletal creature – [Grash](<../../../people/other-nonhumans/grash.md>) – and with each swing of the glaive, each strike, a gaping wound opens, and from each wound necrotic chains emerge, binding [Motua](<../../../people/extraplanar-powers/motua.md>). [Motua](<../../../people/extraplanar-powers/motua.md>) becomes weaker and weaker, moving slower and then not at all, tumbling from the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>). As they do, [Grash](<../../../people/other-nonhumans/grash.md>) staggers back, exhausted but triumphant, the ring on his hand glowing, tendrils of energy reaching out from it, grasping souls from the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), pulling them through the marks that [Grash](<../../../people/other-nonhumans/grash.md>) carved with his glaive and the magic of an ancient scroll. 
 
@@ -54,12 +72,4 @@ As [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) emerges again, batt
 
 Meanwhile, the party hears the low growl of a jaguar pacing through the jungle – [Lengau](<../../../people/other-nonhumans/lengau.md>). He approaches, greeting the babies, thanking [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>) for keeping open the door through which [Lengau](<../../../people/other-nonhumans/lengau.md>) could travel, clearly implying that it was only the presence of the babies [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>) guarded and guided to this place that allows [Lengau](<../../../people/other-nonhumans/lengau.md>) to appear here. [Lengau](<../../../people/other-nonhumans/lengau.md>) says he will restore the jungle, with [Motua](<../../../people/extraplanar-powers/motua.md>)’s help; [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>) also volunteers to remain and raise the babies here, and see how he can help bring the jungle back into balance. 
 
-We end as [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) prepares to depart to the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>), after spending some time learning from [Motua](<../../../people/extraplanar-powers/motua.md>) and [Lengau](<../../../people/other-nonhumans/lengau.md>), to be plane-shifted to Lastlight Falls, where he will meet his friends in the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>).
-
-
-
-
-
-
-
-
+We end as [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) prepares to depart to the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>), after spending some time learning from [Motua](<../../../people/extraplanar-powers/motua.md>) and [Lengau](<../../../people/other-nonhumans/lengau.md>), to be plane-shifted to [Lastlight Falls](<../../../cosmology/multiverse/echo-realms/feywild/lastlight-falls.md>), where he will meet his friends in the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>).

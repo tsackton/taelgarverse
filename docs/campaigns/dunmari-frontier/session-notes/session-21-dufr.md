@@ -6,9 +6,41 @@ realWorldDate: 2021-03-13
 DR: 1748-05-05
 DR_end: 1748-05-11
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 21 (DuFr)
+companions: [Havdar's Warband]
+tagline: in which the party uncovers orcish plots and learns of Grash
+descTitle: Rumors of the East
+name: Dunmari Frontier - Session 21
+title: Dunmari Frontier - Session 21
 ---
+# Dunmari Frontier - Session 21
 
+>[!info] Rumors of the East: in which the party uncovers orcish plots and learns of Grash
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: May 05, 1748 DR to May 11, 1748 DR*
+> *On Earth: Saturday Mar 13, 2021*
+> *[Nashtkar](<../../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>)*
+
+The Dunmar Fellowship interrogates an [orc cleric](<../../../people/orcs/gorkil.md>), attends a funeral for fallen warriors, and begins a covert journey to the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>).
+## Session Info
+
+***Kenzo and Wellby receive gifts from Havdar, the[Ring of Jumping](<../treasure/gifts-and-heirlooms/ring-of-jumping.md>) and the [Flaming Bowstring](<../treasure/gifts-and-heirlooms/flaming-bowstring.md>).*** 
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) interrogates [Gorkil](<../../../people/orcs/gorkil.md>), an orc cleric, learning of [Grash](<../../../people/other-nonhumans/grash.md>), the Blighted One, and tensions with another [orc group](<../../../groups/orc-hordes/people-of-the-rainbow.md>) of peaceful farmers.
+- During the interrogation, [Gorkil](<../../../people/orcs/gorkil.md>) compels [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) to kill him, ending the questioning abruptly.
+- [Havdar](<../../../people/dunmari/havdar.md>) honors his fallen warriors with a funeral; Wellby receives a [magical bowstring](<../treasure/gifts-and-heirlooms/flaming-bowstring.md>) from Havdar's [deceased scout](<../../../people/dunmari/camana.md>).
+- "The party journeys around [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>) to reach the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>), traversing the desert and avoiding orc activity.
+
+### Timeline
+- May 05, 1748 DR, evening: Interrogate the orc survivor [Gorkil](<../../../people/orcs/gorkil.md>) in Havdar's camp, who rants about being a servant of [Grash](<../../../people/other-nonhumans/grash.md>), the Blighted One, and that Grash's protection means he will rise stronger if he is killed. Eventually commands [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) to kill him, ending the interrogation. Funeral for members of [Havdar](<../../../people/dunmari/havdar.md>)'s band who died; [Havdar](<../../../people/dunmari/havdar.md>) passes [a magical bowstring](<../treasure/gifts-and-heirlooms/flaming-bowstring.md>) to Wellby. Meet [Aram](<../../../people/dunmari/aram.md>), a member of [Havdar](<../../../people/dunmari/havdar.md>)'s band who can heal with a touch. 
+- May 06, 1748 DR: Leave Havdar's camp, heading south, to approach the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>) while avoiding approaching Kharsan.
+- May 07, 1748 DR: Travel south through the desert.
+- May 08, 1748 DR: Travel south through the desert.
+- May 09, 1748 DR: Travel south through the desert, slowing pace to try to move unseen.
+- May 10, 1748 DR: Get slightly lost, and head further south into the [Garamjala](<../../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) than planned prior to turning east. Find dry riverbed of the [Kharja](<../../../gazetteer/istaros-watershed/rivers/kharja.md>) and a place to camp, well south of Kharsan.
+- May 11, 1748 DR, morning: Turn north to approach Kharsan via the dry [Kharja](<../../../gazetteer/istaros-watershed/rivers/kharja.md>). Rest south of the city while Wellby scouts ahead through the eyes of a desert hawk. 
+
+
+## Narrative
 We begin as the battle with the [orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) ends, the party collecting themselves after a tough fight, and deciding to deal with their captive, one of the [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) clerics named [Gorkil](<../../../people/orcs/gorkil.md>). There is little to note among the wreckage of the battle, although the party does take note of the symbol that seems to be painted on these orc faces and gear: a rising sun, below a screaming face. 
 
 Heading into [Havdar](<../../../people/dunmari/havdar.md>)’s camp, they speak briefly with [Havdar](<../../../people/dunmari/havdar.md>), and [Aram](<../../../people/dunmari/aram.md>), a holy warrior and healer of [Aagir](<../../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>). [Havdar](<../../../people/dunmari/havdar.md>) lost four of his warriors in the fight, which was tougher and more deadly than expected, both because of the sophistication of the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) battle plan and their magic. 

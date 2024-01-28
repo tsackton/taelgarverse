@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 campaignInfo: []
 name: Warin the Woodsman
 born: 1671
@@ -22,6 +22,6 @@ title: Warin the Woodsman
 </div>
 
 
-A tracker and woodsman from [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), and confidant of [Sabine de Brune](<./sabine-de-brune.md>).
+![Warin the Woodsman](../../assets/warin-the-woodsman.png){align="right"; width="320"}A tracker and woodsman from [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), and confidant of [Sabine de Brune](<./sabine-de-brune.md>).
 
-![Warin the Woodsman](../../assets/warin-the-woodsman.png)
+

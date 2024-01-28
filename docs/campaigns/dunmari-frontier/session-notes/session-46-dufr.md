@@ -6,9 +6,36 @@ realWorldDate: 2022-05-13
 DR: 1748-08-08
 DR_end: 1748-08-09
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-title: Session 46 (DuFr)
+companions: [Johar]
+tagline: in which the party tackles errands and prepares for new quests
+descTitle: Darba Days
+name: Dunmari Frontier - Session 46
+title: Dunmari Frontier - Session 46
 ---
+# Dunmari Frontier - Session 46
 
+>[!info] Darba Days: in which the party tackles errands and prepares for new quests
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Aug 08, 1748 DR to Aug 09, 1748 DR*
+> *On Earth: Friday May 13, 2022*
+> *[Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) conducts various activities in [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) before setting sail for [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), leaving behind unexplored mysteries.
+
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives in [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), splitting up to pursue individual tasks and gather information.
+- [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) meet with [Travok Redpeak](<../../../people/dwarves/travok-redpeak.md>) who recounts the Chardonian clash and the tale of the [Chalice of the Runepriest](<../../../things/artifacts-of-power/chalice-of-the-runepriest.md>).
+- Travok advises [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) to relay any findings about [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), as the dwarves consider their stance on diplomacy versus aggression.
+- [Johar](<../../../people/dunmari/johar.md>) secures a berth on a ship to [Nayahar](<../../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>), while the rest of the party arranges passage to [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) on the [Emerald Song](<../../../things/ships/emerald-song.md>).
+- [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) learns of a mysterious temple and rumors of treasure in [Illoria](<../../../gazetteer/west-coast/illoria.md>), though the party leaves these leads for another time.
+
+### Timeline
+- Aug 08, 1748 DR, early evening. Reach [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>). Split up to take care of errands. Say farewell to [Johar](<../../../people/dunmari/johar.md>). [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) meet [Travok Redpeak](<../../../people/dwarves/travok-redpeak.md>), who has news and information for Riswynn. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) book passage for [Johar](<../../../people/dunmari/johar.md>), to [Nayahar](<../../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>), and the party, to [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>).  
+- Aug 09, 1748 DR, midday: Split up to sell treasure and horses, and gather rumors in [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>). 
+- Aug 09, 1748 DR, late afternoon: Board the [Emerald Song](<../../../things/ships/emerald-song.md>), bound for [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>).
+
+## Narrative
 We begin as the party reaches [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), after the journey along the increasingly populated road. Along the way, [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) was able to contact [Marcella](<../../../people/chardonians/marcella.md>) on August 8th, the day the party arrived in [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>). [Marcella](<../../../people/chardonians/marcella.md>) said she was hoping to flee the following day, during the battle with [kobolds](<../../../species/children-of-the-divine/kobolds/kobolds.md>). As the day ends, the party splits up to enter [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) – the [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) going together to hope to connect with [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)’s contact from [Tharn Todor](<../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>); [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) heading to find a halfling inn and enquire about ships; and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Johar](<../../../people/dunmari/johar.md>), and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) going to the harbor to try to find [Johar](<../../../people/dunmari/johar.md>) a ship to [Nayahar](<../../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>). 
 
 In a tavern in the dwarven quarter of [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) meet [Travok Redpeak](<../../../people/dwarves/travok-redpeak.md>), recently arrived from [Tharn Todor](<../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). He tells them about recent events in the north - [Magran Boulderbeard](<../../../people/dwarves/magran-boulderbeard.md>)  and about twenty dwarven warriors confronted a group of Chardonian adventurers near [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), and drove them off, and then cleared the hold of the creatures dwelling there, some kind of twisted worshippers of mind flayers from the [Great War](<../../../events/1500s/great-war.md>). The Chardonians were supposedly mercenaries, four [humans](<../../../species/humans/humans.md>), a [lizardfolk](<../../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>), and a [halfling](<../../../species/children-of-the-embodied-gods/halflings/halflings.md>), with a large purse to purchase items from the [Stoneborn](<../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>); but they seemed to have not had much success. [Magran Boulderbeard](<../../../people/dwarves/magran-boulderbeard.md>) recently returned to [Tharn Todor](<../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>) ready to lead an army against [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), but the council pushed to try diplomacy first. 

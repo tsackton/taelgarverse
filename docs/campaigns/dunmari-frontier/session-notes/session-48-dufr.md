@@ -6,9 +6,36 @@ realWorldDate: 2022-06-22
 DR: 1748-08-21
 DR_end: 1748-08-22
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-title: Session 48 (DuFr)
+tagline: in which the party navigates secrets and rumors in Chardon
+descTitle: Chardonian Connections
+name: Dunmari Frontier - Session 48
+title: Dunmari Frontier - Session 48
 ---
+# Dunmari Frontier - Session 48
 
+>[!info] Chardonian Connections: in which the party navigates secrets and rumors in Chardon
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Aug 21, 1748 DR to Aug 22, 1748 DR*
+> *On Earth: Wednesday Jun 22, 2022*
+> *[Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>)*
+
+In Chardon, the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) learns about the dangers of [chalyte](<../../../things/materials/chalyte.md>), speaks with friends old and new, and hears about [Fausto](<../../../people/chardonians/fausto.md>)'s wealth and influence. 
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) and learns of the regulated magic and the dangers of [chalyte](<../../../things/materials/chalyte.md>) abuse.
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) meets with [Kaeso](<../../../people/chardonians/kaeso.md>), his mentor and a [Mystai of Shakun](<../../../groups/dunmari-mystery-cults/shakun-mystai.md>), who shares concerns about [chalyte](<../../../things/materials/chalyte.md>) and arranges a meeting with his old teacher, [Roscelia](<../../../people/chardonians/roscelia.md>).
+- The party reconnects with [Vola](<../../../people/chardonians/vola.md>), who agrees to send letters to other adventurers and provides insight into the [Society of the Open Scroll](<../../../groups/society-of-the-open-scroll.md>).
+- [Ulfgar Frostbeard](<../../../people/dwarves/ulfgar-frostbeard.md>), a metaphysics professor, informs them about [Galen](<../../../people/chardonians/galen.md>)'s new Dwarven artifact.
+- [Dee Wildcloak](<../../../people/halflings/dee-wildcloak.md>) and [Dain Goldhammer](<../../../people/dwarves/dain-goldhammer.md>) recount their harrowing experience at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), and reveal [Fausto](<../../../people/chardonians/fausto.md>) as a key expedition patron.
+
+### Timeline
+- Aug 21, 1748 DR, afternoon: Meet [Kaeso](<../../../people/chardonians/kaeso.md>). 
+- Aug 21, 1748 DR, evening: Reconnect with [Vola](<../../../people/chardonians/vola.md>) at [The Chapterhouse](<../../../gazetteer/west-coast/chardonian-empire/chardon/the-chapterhouse.md>), discuss the [Society of the Open Scroll](<../../../groups/society-of-the-open-scroll.md>). 
+- Aug 22, 1748 DR, morning: Meet [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s colleague[Ulfgar Frostbeard](<../../../people/dwarves/ulfgar-frostbeard.md>), professor on the Faculty of Metaphysics. Learn [Galen](<../../../people/chardonians/galen.md>), a professor of experimental metaphysics, has the [Chalice of the Runepriest](<../../../things/artifacts-of-power/chalice-of-the-runepriest.md>).
+- Aug 22, 1748 DR, noon: Meet [Dee Wildcloak](<../../../people/halflings/dee-wildcloak.md>) and [Dain Goldhammer](<../../../people/dwarves/dain-goldhammer.md>) for lunch. Learn that [Fausto](<../../../people/chardonians/fausto.md>), a rich scholar, has the [Eyes of Hralgar](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>). Dee flirts with [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>).
+
+
+## Narrative
 We begin as the [Emerald Song](<../../../things/ships/emerald-song.md>) arrives at [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), and the party recalls the two items they looked at in the mirror during the voyage, first the [vision](<../mirror-visions/raven-whistle-vision.md>) of the [Raven Whistle](<../treasure/treasure-from-agata/raven-whistle.md>), next the [vision](<../mirror-visions/chardon-fan-vision.md>) of [Agata](<../../../people/fey/agata.md>)'s [Chardon Fan](<../treasure/treasure-from-agata/chardon-fan.md>). 
 
 After a brief discussion about how to approach their time in the city, the party speaks with [Dani Silversong](<../../../people/halflings/dani-silversong.md>), who warns them that magic is regulated, and to be careful. Disembarking separately, the party registers with illegible signatures under the careless eye of the customs’ agent, and then finds tables at a nearby tavern, [The Salty Squid](<../../../gazetteer/west-coast/chardonian-empire/chardon/the-salty-squid.md>), while [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) goes to find [Kaeso](<../../../people/chardonians/kaeso.md>). 

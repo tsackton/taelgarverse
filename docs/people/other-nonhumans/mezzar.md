@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: killed}
 campaignInfo:
 - {campaign: DuFr, date: 1748-09-15, type: killed}
 name: Grimbaskal
@@ -20,7 +19,7 @@ title: Grimbaskal
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dragon](<../../species/children-of-the-divine/dragons.md>) ([green dragon](<../../species/children-of-the-divine/dragons.md>)) (he/him)  
-    Killed September 15th, 1748  
+    Died September 15th, 1748  
     { .bio }
 
     Lived in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)

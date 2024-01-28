@@ -8,7 +8,8 @@ DR_end: 1748-04-04
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party attends a pivotal council
 descTitle: Decisions in Karawa
-title: Dunmari Frontier - Session 5 Session 5 (DuFr)
+name: Dunmari Frontier - Session 5
+title: Dunmari Frontier - Session 5
 ---
 # Dunmari Frontier - Session 5
 

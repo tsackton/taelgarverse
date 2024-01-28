@@ -8,7 +8,8 @@ DR_end: 1748-04-06
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 tagline: in which the Festival of Rebirth is marred by a gnoll attack
 descTitle: Festival Ambush
-title: Dunmari Frontier - Session 6 Session 6 (DuFr)
+name: Dunmari Frontier - Session 6
+title: Dunmari Frontier - Session 6
 ---
 # Dunmari Frontier - Session 6
 
@@ -20,6 +21,8 @@ title: Dunmari Frontier - Session 6 Session 6 (DuFr)
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) prepares for their journey, gains a new [ally](<../../../people/pcs/dunmar-fellowship/riswynn.md>), and defends [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from a gnoll attack during the [Festival of Rebirth](<../../../time/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>).
 ## Session Info
+
+***The Dunmar Fellowship meets Riswynn for the first time.***
 ### Summary
 - The party splits to run errands and gather information in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) as rumors of evil spread and refugees arrive.
 - [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) helps fortify the temple and learns about the mystical [Red Mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>).

@@ -6,9 +6,38 @@ realWorldDate: 2021-06-01
 DR: 1748-05-23
 DR_end: 1748-05-24
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
-title: Session 26 (DuFr)
+tagline: in which secrets and shadows emerge
+descTitle: The Crumbling Mesa
+name: Dunmari Frontier - Session 26
+title: Dunmari Frontier - Session 26
 ---
+# Dunmari Frontier - Session 26
 
+>[!info] The Crumbling Mesa: in which secrets and shadows emerge
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
+> *In Taelgar: May 23, 1748 DR to May 24, 1748 DR*
+> *On Earth: Tuesday Jun 01, 2021*
+> *[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+
+The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) meets [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>), learns of the dire consequences of the missing [Heart of Shakun](<../../../things/artifacts-of-power/heart-of-shakun.md>), and battles shadows during an initiation ritual.
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) returns to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), where they meet [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>) and gather news.
+- [Candrosa](<../../../people/dunmari/candrosa.md>) admits to manipulating [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) with magic,  and reveals the existence of the [Heart of Shakun](<../../../things/artifacts-of-power/heart-of-shakun.md>) and its link to the town's failing defenses.
+- "The party learns that [Cintra](<../../../people/dunmari/cintra.md>), the Supreme Oracle of Shakun, departed with the Heart to heal [her daughter](<../../../people/dunmari/jumi.md>), weakening Karawa's protections.
+- The party prepares for a ritual to understand the Heart's magic and [Shakun's Protection](<../../../cosmology/religions/five-siblings/shakun-s-protection.md>)
+- During the [initiation ritual](<../dreams-and-visions/the-shakun-mystai-initiation.md>) under the [mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), shadowy forms attack, leading to a desperate battle and the death of two mystai.
+
+### Timeline
+- May 23, 1748 DR, evening: Reach [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Speak with centaur patrols. Meet [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>). Hear story of [Cintra](<../../../people/dunmari/cintra.md>) and Shakun's Heart from apologetic and floundering Candrosa[[.]]
+- May 24, 1748 DR: Gather supplies in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
+- May 24, 1748 DR, dusk: Ritual of Shakun's Initiation. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) notices the mesa is crumbling. Attacked by shadows at conclusion of initiation ritual.
+
+### Mirror of the Past
+ - May 23, 1748 DR: See a vision of broken glassware from Kharsan: [Kharsan Broken Glassware Vision](<../mirror-visions/kharsan-broken-glassware-vision.md>) recharge mirror
+
+
+## Narrative
 We begin as [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) approach [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from the south road as the sun begins to sink in the sky, after five days of travel across the desert from [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>) to the east. As they approach [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), a patrol of [centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>) and Dunmari intercept them, glad to see the party return safe from the desert. [Candrosa](<../../../people/dunmari/candrosa.md>) would urgently like to speak with them, and so the party follows into [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
 
 The situation in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) is grim. There have been several more attacks, from undead skeletal gnolls, from wild beasts, from ankhegs, and more [centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>) and [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) have died. What’s more, the messenger send to the Samraat court in [Nayahar](<../../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>) has finally returned with the news that the ruler of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), the Samraat [Nayan Karnas](<../../../people/dunmari/nayan-karnas.md>), will not commit imperial troops to defend [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), and will only commit to a defense of the river [Hara](<../../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>), near the city of [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). What’s more, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) notes that the mesa around the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>) seems to be crumbling. 

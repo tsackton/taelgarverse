@@ -6,9 +6,49 @@ realWorldDate: 2022-05-05
 DR: 1748-07-23
 DR_end: 1748-08-08
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-title: Session 45 (DuFr)
+companions: [Johar]
+tagline: in which the party recovers from battle, and finally reaches Darba
+descTitle: Onward to Darba
+name: Dunmari Frontier - Session 45
+title: Dunmari Frontier - Session 45
 ---
+# Dunmari Frontier - Session 45
 
+>[!info] Onward to Darba: in which the party recovers from battle, and finally reaches Darba
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Jul 23, 1748 DR to Aug 08, 1748 DR*
+> *On Earth: Thursday May 05, 2022*
+> *From [Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>) to the outskirts of [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), after a narrow escape, traps a poison troll, and journeys to the outskirts of [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).
+
+## Session Info
+
+***The party departs Vondar with some treasures from the wyvern's lair.***
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) escapes a fiery battle and seeks refuge near abandoned mines.
+- They learn of the [Society of the Open Scroll](<../../../groups/society-of-the-open-scroll.md>)'s dark influence from [Marcella](<../../../people/chardonians/marcella.md>) and gift her [Boots of False Tracks](<../treasure/treasure-from-agata/boots-of-false-tracks.md>) to help her escape.
+- They task [Johar](<../../../people/dunmari/johar.md>) with distributing blood money to bandits' families. and inspect magical items
+- The party scouts the ruins, traps a poison troll in the [Mirror of Soul Trapping](<../treasure/treasure-from-agata/mirror-of-soul-trapping.md>), and travels towards Darba.
+
+### Timeline
+- Jul 23, 1748 DR, night: Flee towards the abandoned mines in the foothills as the ruined town of [Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>) begins to burn in the aftermath of the fight with [Casian](<../../../people/chardonians/casian.md>), [Kadmos](<../../../people/chardonians/kadmos.md>), and [Marcella](<../../../people/chardonians/marcella.md>). Camp near the entrance to the old copper mines
+- Jul 24, 1748 DR, late morning: Wake after a long sleep. Discuss. 
+- Jul 24, 1748 DR, afternoon: Return to [Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>) to scout. Encounter poison troll, and trap it in the mirror. Return to camp near mines for the evening.
+- Jul 25, 1748 DR: Travel west towards the Darba side of the [Copper Hills](<../../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>).
+- Jul 26, 1748 DR: Travel west towards the Darba side of the [Copper Hills](<../../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>). 
+- Jul 26, 1748 DR, evening: Reach the waystation and safe haven of Padma's estate, spend the night. Gather rumors and tales of Darba and report on the death of the wyverns.
+- Jul 27, 1748 DR - Jul 29, 1748 DR: Travel west along the [Tokra-Darba Road](<../../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>)
+- Jul 30, 1748 DR: Reach the trade road from Songara, turn southwest towards Darba.
+- Jul 31, 1748 DR - Aug 08, 1748 DR: Travel along trade road towards Darba.
+
+### Mirror of the Past
+- Jul 24, 1748 DR: Use mirror to look at the [Ring of Displacement](<../treasure/treasure-from-agata/ring-of-displacement.md>), seeing the [Ring of Displacement Vision](<../mirror-visions/ring-of-displacement-vision.md>). recharge mirror
+- Aug 01, 1748 DR: Look at the diamond recovered from [Agata](<../../../people/fey/agata.md>) in the mirror, seeing the [Extravagant Diamond Vision](<../mirror-visions/extravagant-diamond-vision.md>). recharge mirror
+
+
+
+## Narrative
 We begin as [Kadmos](<../../../people/chardonians/kadmos.md>), [Casian](<../../../people/chardonians/casian.md>), and [Marcella](<../../../people/chardonians/marcella.md>) flee, leaving behind the party – near death – and a fire starting in the ruins of the temple, caused by the fireballs slung by [Casian](<../../../people/chardonians/casian.md>) in the fight. In desperation, the party scrambles to flee to safety, finding shelter near the abandoned mines about a half mile away from the city. Here, they spend the night, getting a much needed rest after the difficulties of the evening. 
 
 Waking near noon, the party discusses their options and the events of the night before. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) reports on his conversation with [Marcella](<../../../people/chardonians/marcella.md>): there is something dark at the heart of the [Society of the Open Scroll](<../../../groups/society-of-the-open-scroll.md>), some power that they have to control people. [Hektor](<../../../people/chardonians/hektor.md>), the barbarian, was a sweet boy once, a sailor who liked to sing, but was turned to a servant of [Kadmos](<../../../people/chardonians/kadmos.md>) through and through. [Marcella](<../../../people/chardonians/marcella.md>) was the thief, and was supposed to be the treasure finder, and is worried that if she does not succeed in a score, she will be taken away next, and come out as something not herself. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) gave her his [Boots of False Tracks](<../treasure/treasure-from-agata/boots-of-false-tracks.md>) and maps to help her get to [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), should she be able to escape.

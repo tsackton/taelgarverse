@@ -13,7 +13,6 @@ title: Legendary Gates of Kenzo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Book__  
    Written and drawn in DR 1748 by [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>)  
-     
 </div>
 
 

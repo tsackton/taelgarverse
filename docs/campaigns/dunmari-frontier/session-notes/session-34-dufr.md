@@ -6,9 +6,37 @@ realWorldDate: 2021-11-07
 DR: 1748-06-30
 DR_end: 1748-07-01
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 34 (DuFr)
+tagline: in which the party tames extraplanar chaos
+descTitle: The Essence of Arborea
+name: Dunmari Frontier - Session 34
+title: Dunmari Frontier - Session 34
 ---
+# Dunmari Frontier - Session 34
 
+>[!info] The Essence of Arborea: in which the party tames extraplanar chaos
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: Jun 30, 1748 DR to Jul 01, 1748 DR*
+> *On Earth: Sunday Nov 07, 2021*
+> *[Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) and [Elven Arborea Workshop](<../../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>)*
+
+The Dunmar Fellowship collects extraplanar energy from a connection to [Arborea](<../../../cosmology/multiverse/spiritual-realms/primal-realms/arborea.md>) beneath the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) while contending with dangerous creatures.
+
+## Session Info
+
+***Character advancement: the party reaches level 7 as they reach Tokra and begin the next stage of the campaign***
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), minus [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), meets [Rishi](<../../../people/dunmari/rishi.md>) at the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) and learns of omens disturbing the monks.
+- [Basu](<../../../people/dunmari/basu.md>), the monastery's artisan, shares concerns about unchecked energy from an [elven ruin](<../../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) below the monastery.
+- Dinner with monks reveals issues with food scarcity and the monks' preoccupation with omens; [Johar](<../../../people/dunmari/johar.md>) discusses the [Tokra Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>).
+- The party descends to the ruined [Elven Arborea Workshop](<../../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>), faces hazardous molds, oozes, and memory-stealing fungi.
+- [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) turns a giant velvet worm guarding the [extraplanar weak point](<../../../cosmology/multiverse/extraplanar-weak-point.md>) into an earthworm, allowing the collection of extraplanar energy.
+
+### Timeline
+- Jun 30, 1748 DR, evening: Speak with [Rishi](<../../../people/dunmari/rishi.md>) at the[Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>). Meet [Basu](<../../../people/dunmari/basu.md>) at dinner, who gripes about the overflowing energy of Arborea in the elven ruins below the Lakan monastery. Meet [Kassi](<../../../people/dunmari/kassi.md>), the head librarian at the monastery. Dinner discuss events in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) with [Johar](<../../../people/dunmari/johar.md>), Kenzo's old friend. Spend the night at the monastery. 
+- Jul 01, 1748 DR, morning: Enter [ancient elven ruins](<../../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>). Defeat slimes and oozes and confront massive velvet worm near the [extraplanar weak point](<../../../cosmology/multiverse/extraplanar-weak-point.md>), which is tamed by Seeker's magic. Return to surface with three vials filled with the essence of [Arborea](<../../../cosmology/multiverse/spiritual-realms/primal-realms/arborea.md>)'s extraplanar energy.
+
+
+## Narrative
 The session starts as the party (excepting [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), who is taking [Garret Tealeaf](<../../../people/halflings/garret-tealeaf.md>) to [The Red Lily Inn](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-red-lily-inn.md>)) stands in the entrance to the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), in front of the Lakan monk [Rishi](<../../../people/dunmari/rishi.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s friend and master. After introductions, the party learns from [Rishi](<../../../people/dunmari/rishi.md>) that the [Lakan Mystai](<../../../groups/dunmari-mystery-cults/lakan-mystai.md>) have had omens and dreams, and many of the monks, including Speaker [Lara](<../../../people/dunmari/lara.md>), are currently traveling to hopefully learn more of these omens. For the past three weeks, many of the mystai have had premonitions that the cycle of history was out of sync with itself, that the branching paths of the past, once pruned and gone into history, are now renewed. Speaker [Lara](<../../../people/dunmari/lara.md>) had a dream of a watchtower to the east, one of the many guard towers built before the [Great War](<../../../events/1500s/great-war.md>) to protect the northern reaches of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), and left with many companions to visit this place a few days ago. 
 
 While the party gets settled into the monastery, unloading the cart and finding secure places to store extra stuff, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) arrives, and the party decides to stay at the monastery for dinner. During dinner, they meet [Basu](<../../../people/dunmari/basu.md>), the eccentric artisan who runs the workshop of the Lakan monks and is an expert in crafting magic items with extradimensional spaces. He is grumpy and upset, because no one will pay attention to his problems, everyone being too concerned with the strange omens. He explains that, beneath this monastery, there is an old elven ruin with a weak point between the planes. He uses the energy that spills out in the construction of magic items, but if it is not harvested it is likely to accumulate in strange ways. No one has bothered to go down in weeks, given the distraction of the omens. They also are introduced to [Kassi](<../../../people/dunmari/kassi.md>), the head librarian, and [Johar](<../../../people/dunmari/johar.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s friend. There are a few other grumbles around the table, mostly about food and how it is scarce now, with the army camp and the refugees. 

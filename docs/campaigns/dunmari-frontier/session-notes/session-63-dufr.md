@@ -7,14 +7,33 @@ realWorldDate: 2022-11-05
 DR: 1748-10-03
 DR_end: 1748-10-12
 players: [Seeker, Raven, Spirala, Mikasa]
+tagline: in which a wild magic storm is quelled
+descTitle: Crystal Peak Chaos
 title: Dunmari Frontier - Seeker Solo Session 2
 ---
-## Timeline
+# Dunmari Frontier - Seeker Solo Session 2
 
+>[!info] Crystal Peak Chaos: in which a wild magic storm is quelled
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), [Mikasa](<../../../people/pcs/dunmar-fellowship/guests/mikasa.md>)*
+> *In Taelgar: Oct 03, 1748 DR to Oct 12, 1748 DR*
+> *On Earth: Saturday Nov 05, 2022*
+> *[Crystal Peak](<../../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>) in the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>)*
+
+Seeker and his companions subdue a wild magic storm at [Crystal Peak](<../../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>), receive mysterious gifts, and set off for further adventures.
+## Session Info
+### Summary
+- Seeker and companions, Raven, Spirala, and Mikasa, venture to [Crystal Peak](<../../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>) to tackle a wild magic storm.
+- The party ascends Crystal Peak, encountering a rolling stone and a crater leading to a cave with a crashed geode.
+- Seeker vanishes using a spell and discovers [Illaran](<../../../people/fey/illaran.md>), a fey master of the mountain who reveals the cause of the chaos.
+- [Illaran](<../../../people/fey/illaran.md>) leads the party to confront living spells and a petrified creature whose destruction by [Mikasa](<../../../people/pcs/dunmar-fellowship/guests/mikasa.md>) ends the wild magic storm.
+- With the storm quelled, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) receives mysterious crystalized magic from [Illaran](<../../../people/fey/illaran.md>) as the party prepares to continue their journey.
+
+### Timeline
 - **Afternoon, in the feywild**: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) meets [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), and [Mikasa](<../../../people/pcs/dunmar-fellowship/guests/mikasa.md>) who are also coming to help solve the wild magic storm. 
 - **Slightly later afternoon, in the feywild**: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), and [Mikasa](<../../../people/pcs/dunmar-fellowship/guests/mikasa.md>) travel to the Crystal Peaks, where the wild magic storm is growing; enter the mountain; meet the strange fey creature [Illaran](<../../../people/fey/illaran.md>); fight off animated spells; and stop the wild magic storm.
-## Narrative
 
+
+## Narrative
 We begin in the court of the [Chanceweaver](<../../../people/extraplanar-powers/prince-of-luck.md>), as [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) meets his companions who will venture into the wild magic storm: [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), a Winter Knight from [Shimmersong](<../../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>), also bordering the wild magic storm; [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), a light cleric from [Shimmersong](<../../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>); and [Mikasa](<../../../people/pcs/dunmar-fellowship/guests/mikasa.md>), a samurai from a distant fey realm, who is helping in exchange for passage home from the [Chanceweaver](<../../../people/extraplanar-powers/prince-of-luck.md>). [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>) and [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>) know the way, so the party sets out from the [Chanceweaver](<../../../people/extraplanar-powers/prince-of-luck.md>)’s court towards the Crystal Peak, at the center of the wild magic storm.
 
 ![Crystal Peak](../../../assets/crystal-peak.png){width="500"}

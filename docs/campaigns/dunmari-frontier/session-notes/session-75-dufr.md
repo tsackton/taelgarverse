@@ -8,7 +8,8 @@ DR_end: 1748-12-04
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party repels an ambush and heads east
 descTitle: Shadow Assault
-title: Dunmari Frontier - Session 75 Session 75 (DuFr)
+name: Dunmari Frontier - Session 75
+title: Dunmari Frontier - Session 75
 ---
 # Dunmari Frontier - Session 75
 
@@ -16,7 +17,7 @@ title: Dunmari Frontier - Session 75 Session 75 (DuFr)
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: Nov 29, 1748 DR to Dec 04, 1748 DR*
 > *On Earth: Tuesday Apr 11, 2023*
-> *Traveling to [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>)*
+> *From [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) to [Xurkhaz](<../../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) successfully defends against shadow attackers, strategizes with allies, and advances eastward towards orc territory.
 

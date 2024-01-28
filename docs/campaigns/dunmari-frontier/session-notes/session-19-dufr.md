@@ -3,12 +3,48 @@ tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 19
 realWorldDate: 2021-02-13
-DR: 1748-04-24
+DR: 1748-04-25
 DR_end: 1748-05-02
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 19 (DuFr)
+companions: [Havdar's Warband, Amil]
+tagline: in which the party aids a monk and battles desert threats
+descTitle: Desert Travels
+name: Dunmari Frontier - Session 19
+title: Dunmari Frontier - Session 19
 ---
+# Dunmari Frontier - Session 19
 
+>[!info] Desert Travels: in which the party aids a monk and battles desert threats
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: Apr 25, 1748 DR to May 02, 1748 DR*
+> *On Earth: Saturday Feb 13, 2021*
+> *From [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) and [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)assists a [monk](<../../../people/dunmari/amil.md>) with funeral rites in [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) and battles ogres en route to the [home](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>) of two desert monks.
+
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) leaves [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) after securing their treasure in the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), and travels with Havdar's band into the desert.
+- Upon arriving in [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>), they find the town in ruins and meet [Amil](<../../../people/dunmari/amil.md>), a monk laying the dead to rest.
+- After helping [Amil](<../../../people/dunmari/amil.md>) and fending off giant vultures, the party parts ways with [Havdar](<../../../people/dunmari/havdar.md>) and heads to Amil's masters' [stone house](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>).
+- On the way, they encounter and defeat three ogres before arriving at the stone house to meet [Pava](<../../../people/dunmari/pava.md>) and [Avaras](<../../../people/dunmari/avaras.md>).
+
+### Timeline
+- Apr 25, 1748 DR - Apr 26, 1748 DR: Make preparations in Karawa to head east with Havdar and his warriors
+- Apr 27, 1748 DR, morning: Depart Karawa with [Havdar](<../../../people/dunmari/havdar.md>)'s warriors
+- Apr 28, 1748 DR: Travel southeast towards [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>)
+- Apr 29, 1748 DR, mid-morning: Arrive in [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>). Meet [Amil](<../../../people/dunmari/amil.md>), an apprentice monk who is burning and giving last rites to bodies left untended after the gnoll attack. Fend of giant vultures. [Amil](<../../../people/dunmari/amil.md>) surprised to see [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and mentioned his masters [Avaras](<../../../people/dunmari/avaras.md>) and [Pava](<../../../people/dunmari/pava.md>) saved an elf in the desert some months ago.
+- Apr 29, 1748 DR, evening: Spend night in[Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>)
+- Apr 30, 1748 DR, morning: Help [Amil](<../../../people/dunmari/amil.md>) tend the dead of [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>)
+- Apr 30, 1748 DR, afternoon: Leave [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) with Amil, parting ways with [Havdar](<../../../people/dunmari/havdar.md>). 
+- May 01, 1748 DR: Travel with [Amil](<../../../people/dunmari/amil.md>) through the desert.
+- May 02, 1748 DR, midday: Fight ogres in the desert. 
+- May 02, 1748 DR, evening: Arrive at the stone house that is the home of [Avaras](<../../../people/dunmari/avaras.md>) and [Pava](<../../../people/dunmari/pava.md>)
+
+### Mirror of the Past
+- Apr 27, 1748 DR: Vision of Kenzo's [shard of jade](<../treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) seen in the [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>): [Kenzo's Jade Vision](<../mirror-visions/kenzo-s-jade-vision.md>)  recharge mirror
+
+## Narrative
 Having decided to leave [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) for the deserts and the blasted plain to the east, traveling with [Havdar](<../../../people/dunmari/havdar.md>) and his band, the party spends a few days taking care of business in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). You find a place to store the loot you are not planning on taking into the desert; [Candrosa](<../../../people/dunmari/candrosa.md>) offers space in the outbuildings of the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), where it will hopefully remain safe. Each time you see him he seems as if he is wrestling with a decision, but with the preparations for the expedition you don’t have time to speak in more depth with him.
 
 You speak with [Havdar](<../../../people/dunmari/havdar.md>), and make a plan to head south to [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) and then east to a spot he knows that can provide shelter and water, to set up a base camp for further scouting. [Havdar](<../../../people/dunmari/havdar.md>) believes as long as there are not more than 100 [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>), he and his band, with your aid, can defeat them; if there are more, flight will be the only option. 

@@ -6,10 +6,38 @@ realWorldDate: 2022-02-06
 DR: 1748-07-03
 DR_end: 1748-07-03
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-title: Session 39 (DuFr)
+tagline: in which the party ends the werewolf threat in Tokra
+descTitle: Pandemonium Confrontation
+name: Dunmari Frontier - Session 39
+title: Dunmari Frontier - Session 39
 ---
+# Dunmari Frontier - Session 39
 
-We begin as the party wakes in the pre-dawn light to search for signs of werewolves. Heading back to the lair of the [Fraternity of the Empty Moon](<../../../groups/fraternity-of-the-empty-moon.md>), the guards there report no disturbances. While all seems quiet, the party decides to exit through the secret tunnel, and perhaps investigate the ruins of the Drankorian fort near the weak point to [Pandemonium](<../../../cosmology/multiverse/spiritual-realms/primal-realms/pandemonium.md>) on their way north. 
+>[!info] Pandemonium Confrontation: in which the party ends the werewolf threat in Tokra
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Jul 03, 1748 DR*
+> *On Earth: Sunday Feb 06, 2022*
+> *[Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) and surroundings* 
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) battles werewolves at a fort ruin, uncovers cult plots, and captures prisoners for interrogation before splitting up.
+
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) investigates the werewolf lair and decides to check the Drankorian fort ruins.
+- They use clairvoyance to spy on three people at the ruins; two guards and a muttering man tied to a post.
+- They approach stealthily but are noticed, leading to a battle with the werewolves. During the battle one werewolf commits suicide, summoning a monstrous entity that fights with confusion and whispers.
+- After a disorienting battle, they defeat the creatures and rescue [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) from a mist-induced daze.
+- They interrogate the werewolf captives, learning more about the [Fraternity of the Empty Moon](<../../../groups/fraternity-of-the-empty-moon.md>) and their plans.
+- The party returns to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) with the prisoners, splitting up as some head north in search of [Saka](<../../../people/dunmari/saka.md>).
+
+### Timeline
+- Jul 03, 1748 DR, dawn: Search for remaining signs of werewolves, returning to the werewolf lair. Follow secret tunnel back to the ruined Drankorian fort. 
+- Jul 03, 1748 DR, morning: Use clairvoyance, and scout area, spotting several guards. Stealthy approach is foiled by unstealthy dwarves. Fight werewolves, forcing two to surrender; suicide of third werewolf summons a cursed avatar of some kind from [Pandemonium](<../../../cosmology/multiverse/spiritual-realms/primal-realms/pandemonium.md>). Kill it. Interrogate captives. 
+- Jul 03, 1748 DR, late morning: Return with the captives to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Leave captives with [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>); Kenzo, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) gather gear for the journey north to find [Saka](<../../../people/dunmari/saka.md>). 
+
+
+## Narrative
+We begin as the party wakes in the pre-dawn light to search for signs of werewolves. Heading back to the lair of the [Fraternity of the Empty Moon](<../../../groups/fraternity-of-the-empty-moon.md>), the guards there report no disturbances. While all seems quiet, the party decides to exit through the secret tunnel, and perhaps investigate the ruins of the Drankorian fort near the [extraplanar weak point](<../../../cosmology/multiverse/extraplanar-weak-point.md>) to [Pandemonium](<../../../cosmology/multiverse/spiritual-realms/primal-realms/pandemonium.md>) on their way north. 
 
 Traveling a few hours from the tunnel exit, with no sign of fresh tracks, they stop to magically spy on the ruins with clairvoyance before approaching any closer than a half-mile vantage point. With [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)’s magical eye, the party sees the interior of the one occupied tower, partially ruined but with intact walls, for the most part. There are three people camped here: one is sleeping on a straw mat, one is keeping watch, and one, in ragged clothes and tied to a post with a long rope, is muttering inanities to himself. 
 

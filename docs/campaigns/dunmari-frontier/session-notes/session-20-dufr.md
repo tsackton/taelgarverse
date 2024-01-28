@@ -6,9 +6,40 @@ realWorldDate: 2021-02-27
 DR: 1748-05-02
 DR_end: 1748-05-05
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 20 (DuFr)
+tagline: in which history and past disaster are discussed, and orcs defeated
+descTitle: At the Stone House
+name: Dunmari Frontier - Session 20
+title: Dunmari Frontier - Session 20
 ---
+# Dunmari Frontier - Session 20
 
+>[!info] At the Stone House: in which history and past disaster are discussed, and orcs defeated
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: May 02, 1748 DR to May 05, 1748 DR*
+> *On Earth: Saturday Feb 27, 2021*
+> *[Nashtkar](<../../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) discusses Delwath's mysterious past and learns about the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) with [Pava](<../../../people/dunmari/pava.md>) and [Avaras](<../../../people/dunmari/avaras.md>), before aiding in an orc battle at [Havdar](<../../../people/dunmari/havdar.md>)'s camp.
+
+## Session Info
+
+***Character advancement: the party reaches level 5 while training with Pava and Avaras before departing into the desert.***
+### Summary
+- [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) reunites with [Pava](<../../../people/dunmari/pava.md>) and [Avaras](<../../../people/dunmari/avaras.md>) who saved him in the desert; they share stories of the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>).
+- The party learns of the Order's [failed attempt](<../../../events/1700s/1718/awakened-soul-disaster.md>) 30 years ago to cleanse the [Plaguelands](<../../../gazetteer/istaros-watershed/plaguelands.md>). Recent changes in the desert are discussed, including orcs fighting a civil war, and worsening evil around [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>).
+- The party trains with [Pava](<../../../people/dunmari/pava.md>) and then departs for [Havdar](<../../../people/dunmari/havdar.md>)'s camp, navigating the desert terrain.
+- Teaching Havdar's camp, the party aids in repelling an orc attack, capturing one survivor.
+
+### Timeline
+- May 02, 1748 DR, afternoon: Speak with [Pava](<../../../people/dunmari/pava.md>) and [Avaras](<../../../people/dunmari/avaras.md>) about [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>), the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>), and the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>) near [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>). Delwath's [old armor](<../treasure/gifts-and-heirlooms/elven-shadow-breastplate.md>) is returned. Learn about attempt by Order some 30 years ago to heal the [Plaguelands](<../../../gazetteer/istaros-watershed/plaguelands.md>), which failed badly. Learn of [Saka](<../../../people/dunmari/saka.md>), a master that did not travel east, now rumored to live north of [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+- May 02, 1748 DR, evening: Have dinner with Avaras, Pava, and Amil. Spend the night at [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>).
+- May 03, 1748 DR, morning: Train with [Avaras](<../../../people/dunmari/avaras.md>) and [Pava](<../../../people/dunmari/pava.md>). 
+- May 03, 1748 DR, afternoon: Leave the [stone house](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>) for Havdar's camp in the desert to the east. 
+- May 04, 1748 DR: Travel across the [Nashtkar](<../../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>) towards Havdar's camp
+- May 05, 1748 DR, early evening: Arrive at [Havdar](<../../../people/dunmari/havdar.md>)'s camp. Help fight off [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) attack. 
+
+
+## Narrative
 We begin at the entrance to [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>) in the desert, with these two old monks greeting the party, and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) especially with recognition and a note of caution. They welcome the group into their home, and over cool mint tea tell the story of how they found [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), wandering, delirious in the desert, dying of thirst, perhaps 30 miles east of their home. He was muttering in a language they did not know, and looked wild, but not willing to leave him to die they brought him to their home. 
 
 Over the course of the afternoon and early evening, while their student [Amil](<../../../people/dunmari/amil.md>) brings tea, [Pava](<../../../people/dunmari/pava.md>) and [Avaras](<../../../people/dunmari/avaras.md>) tell their story, and listen to the party. They have lived here for nearly 30 years, and were wanderers for some time before that, and once the desert was, if not exactly safe, much more empty than it is now. They tell of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>), the founder and first Samraat ruler of the Dunmari, whose prayers brought [Jeevali](<../../../cosmology/gods/incorporeal-gods/dunmari/jeevali.md>) back to life (the event celebrated by the [Festival of Rebirth](<../../../time/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>)). Their order is dedicated to her -- she is now deified, as a demigod in the pantheon of the Dunmari -- and has a mission to care for the lost dead and tell the stories of the people of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). But they are cautious and not very forthcoming, and ask to hear the party’s story.

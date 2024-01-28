@@ -8,7 +8,8 @@ DR_end: 1748-11-24
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party braves the dreamworld to acquire the phasing stone
 descTitle: Dreamworld Quest
-title: Dunmari Frontier - Session 73 Session 73 (DuFr)
+name: Dunmari Frontier - Session 73
+title: Dunmari Frontier - Session 73
 ---
 # Dunmari Frontier - Session 73
 
@@ -16,9 +17,9 @@ title: Dunmari Frontier - Session 73 Session 73 (DuFr)
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: Nov 24, 1748 DR*
 > *On Earth: Friday Mar 17, 2023*
-> *Hralgar's Palace in the [Sentinels](<../../../gazetteer/sentinel-range/sentinel-range.md>)*
+> *[Hralgar's Palace](<../../../gazetteer/sentinel-range/hralgar-s-palace.md>) in the [Sentinels](<../../../gazetteer/sentinel-range/sentinel-range.md>)*
 
-The Dunmar Fellowship navigates the dreamworld, captures the elusive phasing stone, and narrowly avoids freezing to death before returning to their airship.
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) navigates the dreamworld, captures the elusive [phasing stone](<../../../things/magic-items/phasing-stones.md>), and narrowly avoids freezing to death before returning to their [airship](<../../../things/ships/vindristjarna.md>).
 
 ## Session Info
 
@@ -28,7 +29,7 @@ The Dunmar Fellowship navigates the dreamworld, captures the elusive phasing sto
 - [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) eats remnants of magical ice; the party enters a mysterious, shifting library
 - The party finds a shifting doorway leading to an endless corridor and an empty throne room.
 - They manipulate the dreamworld with their thoughts, encounter a clockwork cat, and follow a giant hand, before using collective dreaming to capture the [phasing stone](<../../../things/magic-items/phasing-stones.md>) in the [Portable Hole](<../treasure/treasure-from-tokra/portable-hole.md>).
-- Having defeated the dream creature Kurome, the party seems to awaken in Hralgar's library
+- Having defeated the dream creature [Kurome](<../../../people/other-nonhumans/kurome.md>), the party seems to awaken in [Hralgar's library](<../../../gazetteer/sentinel-range/hralgar-s-palace.md>).
 - Realizing they're still dreaming and slowly freezing to death, they wake up for real and warm themselves before gathering information at Hralgar's library and departing.
 
 ### Timeline
@@ -61,6 +62,6 @@ The party dives through the floor into an empty space, in which the phasing ston
 
 ![Nightmare Empty](../../../assets/nightmare-empty.png)
 
-After a few failed attempts to capture it, the party realizes that working together is the only way to outdream Kurome. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) dreams a storm of hail and snow pelting the stone, which bursts into flame; [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) dreams a giant hunting bird of water, dowsing the stone, which turns to ice; [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) then dreams a wall of fire scorching the ice, and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) adds a lightning storm with flying boulders crushing it. The stone turns to solid volcanic rock, and falls through the water bird, into [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)'s dreaming: the [Portable Hole](<../treasure/treasure-from-tokra/portable-hole.md>). 
+After a few failed attempts to capture it, the party realizes that working together is the only way to outdream [Kurome](<../../../people/other-nonhumans/kurome.md>). [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) dreams a storm of hail and snow pelting the stone, which bursts into flame; [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) dreams a giant hunting bird of water, dowsing the stone, which turns to ice; [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) then dreams a wall of fire scorching the ice, and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) adds a lightning storm with flying boulders crushing it. The stone turns to solid volcanic rock, and falls through the water bird, into [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)'s dreaming: the [Portable Hole](<../treasure/treasure-from-tokra/portable-hole.md>). 
 
 With that, the party seems to be awake in the library. Using the [Dream Mirror](<../treasure/treasure-from-agata/dream-mirror.md>), they realize that they are still dreaming, but quickly find their freezing bodies at the campsite, and wake themselves up. After another round of warming drinks, the party spends the last few hours of the afternoon copying notes and finding books in [Hralgar](<../../../people/giants/hralgar.md>)'s library before returning to the crashed airship via cloud travel at dusk.

@@ -18,12 +18,12 @@ title: Illaran
     A korred (he/him)  
     { .bio }
 
-    Based the Crystal Peak
+    Based in the [Crystal Peak](<../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 1st, 1748 the Crystal Peak  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 1st, 1748 in the [Crystal Peak](<../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)  
 
 
 Illaran, the guardian of Crystal Peak in the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), is a whimsical fey who wields power over the very stones of his domain.

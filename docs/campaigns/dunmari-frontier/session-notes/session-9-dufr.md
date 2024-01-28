@@ -6,15 +6,35 @@ realWorldDate: 2020-09-18
 DR: 1748-04-12
 DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-title: Session 9 (DuFr)
+tagline: in which Riswynn recovers her family's heirloom
+descTitle: Dwarven Vault
+name: Dunmari Frontier - Session 9
+title: Dunmari Frontier - Session 9
 ---
+# Dunmari Frontier - Session 9
 
-## Timeline
+>[!info] Dwarven Vault: in which Riswynn recovers her family's heirloom
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Apr 12, 1748 DR*
+> *On Earth: Friday Sep 18, 2020*
+> *[Ruined Dwarven Outpost](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>)*
 
-- Apr 12, 1748 DR, mid-afternoon: Find Brawnanvil Shield and Shatterstorm in abandoned dwarven treasury. Find signs of mind flayer incursions from centuries ago. Find tunnel to [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>).
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) uncovers a trove of dwarven treasures and signs of an ancient [mind flayer](<../../../species/unusual-species/creatures-of-the-far-realms/ithilids.md>) encounter in a long-abandoned dwarven vault.
+
+## Session Info
+
+***The party recovers treasure from the ruined Dwarven trading post, including a pearl of power, Shatterstorm, driftglobes, and the Shield of the Brawnanvil Clan.***
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) investigates a [ruined dwarven trading post](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>), finding a magical [Pearl of Power](<../treasure/treasure-from-raven-s-hold/pearl-of-power.md>) and hobgoblin graffiti.
+- They negotiate with [Inakara](<../../../people/other-nonhumans/inakara.md>), a creature guarding the tunnels, to gain access to a vault.
+- Inside the vault, they discover treasure including the [Shield of the Brawnanvil Clan](<../treasure/treasure-from-raven-s-hold/shield-of-the-brawnanvil-clan.md>), a [magical warhammer](<../treasure/treasure-from-raven-s-hold/shatterstorm.md>), potions, [driftglobes](<../treasure/treasure-from-raven-s-hold/driftglobe.md>), and trade bars.
+- The scene of an ancient battle with a [mind flayer](<../../../species/unusual-species/creatures-of-the-far-realms/ithilids.md>) raises concerns about the return of these creatures.
+- The party negotiates for access to a tunnel leading to [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>) with [Inakara](<../../../people/other-nonhumans/inakara.md>).
+
+### Timeline
+- Apr 12, 1748 DR, mid-afternoon: Find [Brawnanvil Shield](<../treasure/treasure-from-raven-s-hold/shield-of-the-brawnanvil-clan.md>) and [Shatterstorm](<../treasure/treasure-from-raven-s-hold/shatterstorm.md>) in abandoned dwarven treasury. Find signs of mind flayer incursions from centuries ago. Find tunnel to [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>).
 
 ## Narrative
-
 As our session begins underneath the mountains, across the dusty plains and deserts of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), people are moving. In the west, a tired mass of refugees flees [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), hopefully now nearing the River [Hara](<../../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>) and the outskirts of [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). To the south, [Alesh](<../../../people/dunmari/alesh.md>) and her small group of companions ride quickly and quietly through the deserts, hopefully avoiding danger along the way as they try to learn what lurks in the ruins of [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) and beyond. In [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), the acolytes and initiates of the [Shakun Mystai](<../../../groups/dunmari-mystery-cults/shakun-mystai.md>) remain holed up in the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), as [Centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>) ride fast towards them, bringing news, and perhaps aid in battle, should it be needed, and not too late already.
 
 The party stands in the center of a large, open cavern, a former marketplace and center of trade when this outpost was full of dwarven life. The party spends some time investigating the dead body of the roper, and the remains of the tavern or inn in the cavern. Untouched by the strong acid of the roper’s stomach, they discover a [small pearl](<../treasure/treasure-from-raven-s-hold/pearl-of-power.md>), magical, and able to restore some spellcasting energy. In the tavern, they find graffiti -- a three-fingered, clawed hand, with the three fingers burned to the bone -- which [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) recognizes as a hobgoblin banner, something his people have fled from before. 

@@ -6,19 +6,41 @@ realWorldDate: 2020-12-06
 DR: 1748-04-13
 DR_end: 1748-04-15
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-title: Session 14 (DuFr)
+companions: [Vola]
+tagline: in which the party braves the unending storm and discovers a mysterious tower
+descTitle: Into the Storm
+name: Dunmari Frontier - Session 14
+title: Dunmari Frontier - Session 14
 ---
+# Dunmari Frontier - Session 14
 
-## Timeline
+>[!info] Into the Storm: in which the party braves the unending storm and discovers a mysterious tower
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *Companions: [Vola](<../../../people/chardonians/vola.md>)*
+> *In Taelgar: Apr 13, 1748 DR to Apr 15, 1748 DR*
+> *On Earth: Sunday Dec 06, 2020*
+> *[Samtal](<../../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>) and [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>)*
 
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) braves a magical storm to uncover secrets at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), discovering ominous changes in the night sky.
+
+## Session Info
+
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) debates whether to trust [Vola](<../../../people/chardonians/vola.md>) and the [Society of the Open Scroll](<../../../groups/society-of-the-open-scroll.md>) over dinner, while Vola argues for an alliance against [Agata Dustmother](<../../../people/fey/agata.md>) and suggests returning to [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>).
+- The party travels towards a permanent storm, encountering a wildfire-scorched landscape.
+- Inside the storm, runes compel [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) to attack [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), but the party manages to move past.
+- They find [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) surrounded by a calm circle, with a Chardonian grave nearby.
+- [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) investigates the tower, finding destruction and an aggressive arcane construct.
+- At dusk, they notice that [familiar constellations](<../../../cosmology/gods/demigods/fox-and-hunter.md>) are missing from the night sky.
+
+### Timeline
 - Apr 13, 1748 DR, night: Discussion and dinner. Plans are made to travel west to the strange permanent storm on the plains. 
-- Apr 14, 1748 DR: Travel across the plains towards the lightning storm.
-- Apr 15, 1748 DR, morning: Travel across the plains towards the lightning storm.
-- Apr 15, 1748 DR, late afternoon: Arrive at the lightning storm. Vola remains outside at camp with the horses and heavy gear. 
+- Apr 14, 1748 DR: Travel across the [plains](<../../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>) towards the lightning storm.
+- Apr 15, 1748 DR, morning: Travel across the [plains](<../../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>) towards the lightning storm.
+- Apr 15, 1748 DR, late afternoon: Arrive at the lightning storm. [Vola](<../../../people/chardonians/vola.md>) remains outside at camp with the horses and heavy gear. 
 - Apr 15, 1748 DR, early evening: Party pushes through the storm, arriving at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). Find remains of a Chardonian adventuring party camp, before night begins to fall and party realizes stars are changed. 
 
 ## Narrative
-
 We begin with the party camped a few miles west of [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), near the trade road over the mountains, listening to the recovering wildlife of open plains as the campfire crackles, and [Vola](<../../../people/chardonians/vola.md>) brings in a brace of birds to roast for dinner.
 
 At camp, while [Vola](<../../../people/chardonians/vola.md>) is cooking, the party spends some time trying to sort out the events of the past two days: the demon, rumors of [Agata](<../../../people/fey/agata.md>) Dustmother, [Vola](<../../../people/chardonians/vola.md>)’s rescue, the demonically possessed vine beast and the now-broken summoning circle, gnolls and rituals involving ritually slaughtered antelope, and the many packs of wild beasts kept and freed, some now audible on the plains. After discussion of [Vola](<../../../people/chardonians/vola.md>) and whether to trust her ([Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>): definitely no; [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>): maybe we should talk to her), and what to do next (travel to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), or investigate the storm), dinner is ready.
@@ -35,7 +57,7 @@ Pressing forward, the storm grows more intense, as visibility drops and the rain
 
 Some time later -- distance and time being hard to judge in the endless storm -- the weather gets darker and wetter, lightning flashes more frequently, and eventually the party reaches what seems to be a wall of wind. [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)’s horse cannot take any more, and bolts. The sound is deafening, and as the party attempts to push through the wind, [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) are blown off their feet, eventually rescued by [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)’s telepathy, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s [Driftglobe](<../treasure/treasure-from-raven-s-hold/driftglobe.md>), and a rope. 
 
-Inside the storm, there is a circle of dead calm stretching several hundred feet across. In the middle of this calm area, a jagged piece of blue granite juts out of the ground, almost as if it were the prow of a boat, tilted at an angle rising out of the land. Rising from the granite is a [tall white marble tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), 4 or 5 stories high, with a platform stretching out across the land below from the top. All seems silent and still, with no lights or movement coming from the tower. However, in the shelter of the granite rock, a small campsite and grave marker can be found, carved crudely with the symbol of the [The Sibyl](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-sibyl.md>), the goddess of knowledge and magic, one of the [Eight Divines](<../../../cosmology/religions/mos-numena.md>) worshipped in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) and many other places influenced by the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>). These are weeks, but not months old. 
+Inside the storm, there is a circle of dead calm stretching several hundred feet across. In the middle of this calm area, a jagged piece of blue granite juts out of the ground, almost as if it were the prow of a boat, tilted at an angle rising out of the land. Rising from the granite is a [tall white marble tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), 4 or 5 stories high, with a platform stretching out across the land below from the top. All seems silent and still, with no lights or movement coming from the tower. However, in the shelter of the granite rock, a small campsite and grave marker can be found, carved crudely with the symbol of the [The Sibyl](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-sibyl.md>), the goddess of knowledge and magic, one of the [Eight Divines](<../../../cosmology/religions/mos-numena/mos-numena.md>) worshipped in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) and many other places influenced by the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>). These are weeks, but not months old. 
 
 [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) itself seems to be of considerable interest. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) notes valuable metal (gold and silver) near the top, as well as something hard to describe or place running through the walls, and another unusual mineral inside the granite rock. There is also a substantial ley line node directly under the tower. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) decides to turn invisible and go investigate the tower. There are old, worn stairs switchbacking up the side of the granite rock to the tower entrance. The doors have been blasted apart, leaving only twisted remains of a door frame intact, little bits of wrought iron and silverwork. Inside, it looks like a tornado struck the first floor. Perhaps once a main hall, there is a fireplace but otherwise little survives but tangled rubble and a curving staircase leading up. While this destruction is recent, [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) itself seems very, very old. As [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) investigates, every now and then little sparks run up and down the walls, seeming to concentrate wherever [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) is poking around the rubble. 
 

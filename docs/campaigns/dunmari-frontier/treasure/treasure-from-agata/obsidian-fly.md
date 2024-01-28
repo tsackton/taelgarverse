@@ -7,5 +7,5 @@ A small black obsidian fly. Can speak a command word to summon the fly, and whom
 
 It is not clear the origin of this item. Taken from [Agata](<../../../../people/fey/agata.md>)’s person. Fed to a giant worm under a monastery, but recovered. Kind of an asshole. 
 
-Learned from [Arryn](<../../../../people/other-humans/arryn.md>), the mirror wizard at the edge of the ~Eastern Ocean~ 1 that it cannot serve a new master until its old master is dead.
+Learned from [Arryn](<../../../../people/other-humans/arryn.md>), the mirror wizard at the edge of the ~Eastern Ocean~ that it cannot serve a new master until its old master is dead.
 

@@ -6,9 +6,38 @@ realWorldDate: 2021-12-22
 DR: 1748-07-01
 DR_end: 1748-07-02
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 36 (DuFr)
+tagline: in which a werewolf is subdued and hidden lair discovered
+descTitle: Night of the Howl
+name: Dunmari Frontier - Session 36
+title: Dunmari Frontier - Session 36
 ---
+# Dunmari Frontier - Session 36
 
+>[!info] Night of the Howl: in which a werewolf is subdued and hidden lair discovered
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: Jul 01, 1748 DR to Jul 02, 1748 DR*
+> *On Earth: Wednesday Dec 22, 2021*
+> *[Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) subdues a cursed werewolf, learns of cursed ruins, negotiates between Dunmari factions, and encounters animated statues in a hidden tunnel.
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) stands guard at the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) and subdues a werewolf, , who is revealed to be [Dag Hardstone](<../../../people/dwarves/dag-hardstone.md>), cursed with lycanthropy.
+- [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), with divine aid, cures Dag of his lycanthropy, while the rest of the party remains vigilant through the night.
+- The party learns from veteran [Ashar](<../../../people/dunmari/ashar.md>) about [Govir](<../../../people/dunmari/govir.md>) seeking out a cursed fort and decide to investigate the fort themselves.
+- Summoned by Commander [Illyan](<../../../people/dunmari/illyan.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) admits to the party's clairvoyance spying, and [Illyan](<../../../people/dunmari/illyan.md>) tasks them with delivering a truce message to [Sura](<../../../people/dunmari/sura.md>).
+- Using a scroll, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) sends the truce message to [Sura](<../../../people/dunmari/sura.md>), who agrees to a non-aggression pact while seeking the gods' will.
+- The party heads north, discovers tracks leading to a hidden tunnel, and upon opening a door inside, they find statues that come to life.
+
+### Timeline
+- Jul 01, 1748 DR, late evening: Return to [archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>). Stand guard as the full moon rises. Hear a howl from below. Investigate, meeting the Hardstones, including [Dag Hardstone](<../../../people/dwarves/dag-hardstone.md>), who has been cursed with lycanthropy. After subduing Dag, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) restores him with a ritual
+- Jul 01, 1748 DR, night: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) sleep at the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>); [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) returns to the monastery to ensure the [Lakan mystai](<../../../groups/dunmari-mystery-cults/lakan-mystai.md>) are safe.
+- Jul 02, 1748 DR, morning: Meet at [Darshana's Caravanserai](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/darshana-s-caravanserai.md>) after breakfast; speak with [Darshana](<../../../people/dunmari/darshana.md>). Learn that [Govir](<../../../people/dunmari/govir.md>) may have vanished searching near an abandoned fort guarding a place of strange, cursed magic of madness from [Ashar](<../../../people/dunmari/ashar.md>), a Dunmari veteran. 
+- Jul 02, 1748 DR, noon: Return to [Kirian’s](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirians.md>). Asked to visit Dunmari army camp and speak with the commander. Attempt to spy with clarivoyance, but are detected. Narrowly avoid severe punishment after [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) admits to the spying; conscripted to get a message to [Sura](<../../../people/dunmari/sura.md>) to try to prevent war. Use scroll of Sending. 
+- Jul 02, 1748 DR, early afternoon: Leave north to look for [Saka](<../../../people/dunmari/saka.md>), but decide to investigate the abandoned Drankorian fort first. Discover tracks, leading to a hidden tunnel, enter, follow tunnel to a door. Delwath's looks through the door with his newfound powers, and see hideous statues. Open door, as the statues come alive. 
+
+
+## Narrative
 Our session begins as the party crosses [Jita](<../../../people/historical-figures/dunmari-rulers/jita.md>)’s Square, leaving [Kirian’s](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirians.md>) after dinner and heading for the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), to keep watch of signs of werewolves in the night, as the full moon rises. At the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), the party debates what to do, while [Ardan](<../../../people/dunmari/ardan.md>) summons extra guards. During the debate, the party hears a piercing howl, cut short. After initially splitting up to cover more ground, the party reconvenes in the basement of the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), where the Hardstone clan quarters are and the howls are coming from. 
 
 A werewolf has broken loose from some chains, and despite the [dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) telling the party to go, they stay and subdue it without damage. [Fallthra Hardstone](<../../../people/dwarves/fallthra-hardstone.md>) runs sobbing to the dwarven boy that the stunned werewolf shifts into – her son [Dag Hardstone](<../../../people/dwarves/dag-hardstone.md>), cursed with lycanthropy in the attack on the archive some weeks ago. He started feeling the effects a few nights ago as the moon waxed towards full, but Fallthra, her husband [Delig Hardstone](<../../../people/dwarves/delig-hardstone.md>), and her brother [Morkral Hardstone](<../../../people/dwarves/morkral-hardstone.md>) thought they could handle it somehow. After Dag is subdued, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) communes with his patron, who still has some divine connection, and is able to restore Dag to himself. At this point, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) returns to check on the monastery, while the rest of the party sleeps in the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), keeping watch through the night. 

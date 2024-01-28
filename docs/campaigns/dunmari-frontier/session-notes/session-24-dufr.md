@@ -6,9 +6,39 @@ realWorldDate: 2021-05-06
 DR: 1748-05-11
 DR_end: 1748-05-13
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 24 (DuFr)
+tagline: in which the party spies on Grash and flees from orcs
+descTitle: Flight from Kharsan
+name: Dunmari Frontier - Session 24
+title: Dunmari Frontier - Session 24
 ---
+# Dunmari Frontier - Session 24
 
+>[!info] Flight from Kharsan: in which the party spies on Grash and flees from orcs
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: May 11, 1748 DR to May 13, 1748 DR*
+> *On Earth: Thursday May 06, 2021*
+> *[Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>) and [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>)*
+
+The Dunmar Fellowship explores a desecrated temple, evades revived orc enemies, and scouts the ruins of [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>) with magic and stealth.
+
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) investigates the Temple of Bhishma, encountering desecration and sensing undead.
+- The party encounters shadowy figures in the temple and retreats to camp as night falls.
+- Orc prisoners and bodies previously thought dead have revived and escaped, disrupting the party's plans.
+- The group decides to head south, then circle back to Kharsan via rocky terrain, evading orc pursuers.
+- [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) scouts the ruins of Kharsan while [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) uses clairvoyance to spy on [Grash](<../../../people/other-nonhumans/grash.md>) in the palace.
+
+### Timeline
+- May 11, 1748 DR, evening: Depart [Hall of Stories](<../../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>), explore the Temple of Bhishma. Find shadows lurking, and retreat to camp for the evening.
+- May 12, 1748 DR, morning: Awake to realization that the [orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) killed and imprisoned the day before have revived and escaped, bringing news to Grash. 
+- May 12, 1748 DR, mid-morning: Flee south, hoping confuse anyone tracking them in the desert.
+- May 12, 1748 DR, afternoon: Turn west. Camp for the night. 
+- May 13, 1748 DR, morning: Depart camp heading north and east, back towards Kharsan.
+- May 13, 1748 DR, late morning: Arrive at road and canyon of the Samraat Tombs. Hide horses and gear. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) scouts [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>) while invisible; [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) spies with clairvoyance on [Grash](<../../../people/other-nonhumans/grash.md>).
+
+
+## Narrative
 We begin as the party leaves the tower attached to the [Hall of Stories](<../../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>) in the evening, as the long shadows begin to stretch across the desert, heading to investigate the Temple of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) at the [monastery](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>). As they approach, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) sees a warning that no one else can sense, but despite the warning the party cautiously enters the temple. 
 
 The entry chapel, dedicated to [Five Siblings](<../../../cosmology/religions/five-siblings/five-siblings.md>), has been desecrated and looted, with little left to see or find. Uncertain of the situation, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) reaches out his senses to detect the presence of good or evil, and notes that something undead is lurking about 20 feet below this room, but nothing ahead or in the side rooms. Continuing on to the main temple, the party finds it more intact, the high windows, now devoid of glass, letting in the evening sun and illuminating a large statue of [Bhishma](<../../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>), standing with her hands palm up in supplication. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) senses more undead in a hallway to the left, and he and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) go to investigate, carefully. Catching only the barest flicker of shadowy movement as a patch of darker shadow detaches itself from the wall, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) proceed with extreme caution, and eventually illuminate the hallway with [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s [Driftglobe](<../treasure/treasure-from-raven-s-hold/driftglobe.md>), revealing three humanoid-looking shadows that retreat from the light. Deciding to retreat in the face of the coming night, the party leaves the temple and the shadows, and heads past the dead [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) bodies back to camp.

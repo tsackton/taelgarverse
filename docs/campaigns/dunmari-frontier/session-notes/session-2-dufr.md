@@ -8,7 +8,8 @@ DR_end: 1748-03-25
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which lizards are defeated and the party heads east
 descTitle: Into the Desert
-title: Dunmari Frontier - Session 2 Session 2 (DuFr)
+name: Dunmari Frontier - Session 2
+title: Dunmari Frontier - Session 2
 ---
 # Dunmari Frontier - Session 2
 
@@ -16,7 +17,7 @@ title: Dunmari Frontier - Session 2 Session 2 (DuFr)
 > *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
 > *In Taelgar: Mar 22, 1748 DR to Mar 25, 1748 DR*
 > *On Earth: Friday Jun 12, 2020*
-> *[Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) to the [abandoned Dunmari fort](<../../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>)*
+> *From [Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) to the [abandoned Dunmari fort](<../../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeats giant lizards at [Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>), uncovers signs of unnatural disturbances, and battles skeletons at a [ruined fort](<../../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>).
 ## Session Info

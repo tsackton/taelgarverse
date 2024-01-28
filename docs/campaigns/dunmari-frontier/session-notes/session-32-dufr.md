@@ -3,12 +3,53 @@ tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 32
 realWorldDate: 2021-10-07
-DR: 1748-06-08
+DR: 1748-06-09
 DR_end: 1748-06-20
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
-title: Session 32 (DuFr)
+tagline: in which the party uncovers truths and forges new paths
+descTitle: The Feast of Bhishma
+name: Dunmari Frontier - Session 32
+title: Dunmari Frontier - Session 32
 ---
+# Dunmari Frontier - Session 32
 
+>[!info] The Feast of Bhishma: in which the party uncovers truths and forges new paths
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
+> *In Taelgar: Jun 09, 1748 DR to Jun 20, 1748 DR*
+> *On Earth: Thursday Oct 07, 2021*
+> *[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) spends time in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), where they prepare for rituals, unlock ancient secrets, experience otherworldly visions, and form strategic alliances before departing for [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) after the [Feast of Bhishma](<../../../time/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>).
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) spends over a week in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) engaging in various personal endeavors and group activities.
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>) prepare and undergo the [Shakun Mystai initiation](<../dreams-and-visions/the-shakun-mystai-initiation.md>), while [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) improves his map and recovers treasure with Havdar's band.
+- [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) discover new information about the [Mirror of Soul Trapping](<../treasure/treasure-from-agata/mirror-of-soul-trapping.md>) and interrogate the hobgoblin leader, [Revaka](<../../../people/other-nonhumans/revaka.md>).
+- The party experiences profound visions in the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>), revealing insights into their personal quests and the world's mystical layers.
+- Reunited before the [Feast of Bhishma](<../../../time/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) learns about his patron deity, and the party shares insights from their dream visions.
+- At the [Feast of Bhishma](<../../../time/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>), [Sura](<../../../people/dunmari/sura.md>) rallies support among the Dunmari, seeking to gather an army and gauge alliances.
+- The party departs from [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), with [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>) heading north and the rest west towards [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+
+### Timeline
+- Jun 09, 1748 DR - Jun 10, 1748 DR: In [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) gathers rumors and closes his affairs in town; [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>) prepare for Shakun’s initiation; [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) trains [Baxter](<../../../people/pcs/dunmar-fellowship/companions/baxter.md>); [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) studies treasure.
+- Jun 11, 1748 DR: In Karawa, Delwath gathers rumors and closes his affairs in town; Kenzo and Drikod prepare for Shakun’s initiation; Seeker studies treasure. Wellby town with Havdar's Warband for Bas Udda to recover treasure left there.
+- Jun 12, 1748 DR:  In Karawa, Kenzo and Drikod prepare for Shakun’s initiation while Seeker and Delwath unlock more secrets of the mirror of soul trapping. Wellby travels with Havdar's Warband towards Bas Udda.
+- Jun 13, 1748 DR: In Karawa, Delwath gathers rumors and closes his affairs in town; Kenzo and Drikod prepare for Shakun’s initiation; Seeker tours the [Red Mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>) and the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>) with Candrosa. Wellby arrives in Bas Udda with Havdar's Warband. 
+- Jun 14, 1748 DR: In Karawa, Delwath gathers rumors and closes his affairs in town; Kenzo and Drikod prepare for Shakun’s initiation; Seeker studies treasure. Wellby leaves Bas Udda with Havdar's Warband, returning to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
+- Jun 15, 1748 DR: In Karawa, Delwath gathers rumors and closes his affairs in town; Kenzo and Drikod prepare for Shakun’s initiation; Seeker studies treasure. 
+- Jun 15, 1748 DR, afternoon: Wellby returns to Karawa. [Revaka](<../../../people/other-nonhumans/revaka.md>) interrogated in the Mirror of Soul Trapping.
+- Jun 16, 1748 DR: In Karawa, Delwath gathers supplies and speaks with the party in the evening; Kenzo and Drikod prepare for Shakun’s initiation; Seeker studies treasure; Wellby trains with Baxter and works on his map.
+- Jun 17, 1748 DR: Delwath travels into the desert at first light. Kenzo and Drikod are initiated into the Shakun Mystai. Seeker studies treasure. Wellby trains with Baxter and works on his map. 
+- Jun 18, 1748 DR: [Feast of Bhishma](<../../../time/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>) begins in Karawa. Delwath returns from the desert at first light. Soul Lantern destroyed by Cintra during the remembrance prayers. Living Wood destroyed. 
+- Jun 19, 1748 DR: Feast of Bhishma continues with a day of rest and celebration. [Nayan Sura](<../../../people/dunmari/sura.md>) announces herself to the Dunmari of Karawa. 
+- Jun 20, 1748 DR, morning: Drikod leaves Karawa, heading north towards his home village of [Kunda](<../../../gazetteer/sentinel-range/kunda.md>). Kenzo, Seeker, Wellby, and Delwath, traveling with Garrett Tealeaf, leave Karawa heading west for Tokra.
+
+### Mirror of History
+- Jun 15, 1748 DR: Agata's [Soul Lantern](<../treasure/treasure-from-agata/soul-lantern.md>) viewed in the [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>): [Soul Lantern Vision](<../mirror-visions/soul-lantern-vision.md>). recharge mirror.
+
+
+
+## Narrative
 The party spends a little more than a week in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), taking care of various activities around town. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>) spend the time preparing for the ritual of initiation into the [Shakun Mystai](<../../../groups/dunmari-mystery-cults/shakun-mystai.md>), culminating in the [initiation ritual](https://docs.google.com/document/d/18pWViOdRUlZYB022HiltIWsfXaoxcB7bN1cUSGpOrbY/edit) on the evening before the [Feast of Bhishma](<../../../time/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>). [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) spends the time working on his map, training with [Baxter](<../../../people/pcs/dunmar-fellowship/companions/baxter.md>), and traveling to [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) with [Havdar](<../../../people/dunmari/havdar.md>) and members of his band, to recover the treasure the party left there. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) spent his time studying the artifacts recovered from [Agata](<../../../people/fey/agata.md>), especially the [Mirror of Soul Trapping](<../treasure/treasure-from-agata/mirror-of-soul-trapping.md>), as well as visiting the mesa with [Candrosa](<../../../people/dunmari/candrosa.md>) for a tour of the living gardens of stone. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) spent his time closing his affairs in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) and gathering rumors, as well as spending a day and a night in the desert learning more about his patron and source of power. 
 
 During the week of downtime, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) discover more about the [Mirror of Soul Trapping](<../treasure/treasure-from-agata/mirror-of-soul-trapping.md>), including new command words. Using these and a lucky guess as to the hobgoblin’s name, the party also interrogates [Revaka](<../../../people/other-nonhumans/revaka.md>), the hobgoblin leader they once saw in the mirror. She is distanful and haughty, and initially refuses to speak with [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) (“the [Elves](<../../../species/children-of-the-embodied-gods/elves/elves.md>)”), but eventually the party learns from her a few key pieces of information. She was trapped in the mirror hundreds of years ago, in the 2nd year of the reign of [Derik III](<../../../people/historical-figures/sembaran-royalty/derik-iii.md>) of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) (DR 1521), by [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>). The hobgoblin tribes on the fringes of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) were being recruited into [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>)’s armies, but [Revaka](<../../../people/other-nonhumans/revaka.md>) did not want the risk and war of world domination, preferring to maintain her small empire on the fringes of the human world. The mirror itself was made by her grandfather, a wizard in service to the [Avatus](<../../../people/historical-figures/avatus.md>), now a footnote in history as the foil for the rise of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>) of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>). 

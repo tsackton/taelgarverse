@@ -36,7 +36,7 @@ title: Garret Tealeaf
 
 
 
-:octicons-location-24:{ .lg .middle } Freed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 2nd, 1748 in [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>), [Garamjala](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)  
+:octicons-location-24:{ .lg .middle } Freed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 2nd, 1748 in [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)  
 
 
 
@@ -60,4 +60,15 @@ Garret spent the next 11 years in servitude, as a wooden scarecrow, until he was
 
  - 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.
   - Jun 02, 1748 DR:  [Garret Tealeaf](<./garret-tealeaf.md>) is freed from his imprisonment as a wooden scarecrow by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 
+
+                                                                                                                                                                                                                                                                                          |
+| [Bree Charmheart](<./bree-charmheart.md>)                             | [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion
+
+
+                                                                                                                                                                                                                                                                        |
+| [Session 33 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-33-dufr.md>) | The [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) travels west from [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), escorting [Garret Tealeaf](<./garret-tealeaf.md>), and with magical mirrors concealed in their cart.                                                                                                                                                                                                 |
+| [Session 30 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-30-dufr.md>) | At the lair,Seeker dispels a scarecrow's enchantment, revealing it to be a trapped halfling named [Garret Tealeaf](<./garret-tealeaf.md>).                                                                                                                                                                                                                                |
+| [Party Treasure](<../../campaigns/dunmari-frontier/party-treasure.md>)                     | An older halfling man, easily into his 80s or 90s, with a wrinkled face, stained traveling clothes, blue eyes and curly graying hair. Tentatively identified as one of the Tealeaf family, a large merchant clan that once traded between [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) and eastern [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). Freed; name is [Garret Tealeaf](<./garret-tealeaf.md>), captured by [Agata](<../fey/agata.md>) 11 years ago. |
+| [Sessions](<../../campaigns/dunmari-frontier/sessions.md>)                                 | **Agata's Enchanted Lair** ([Dunmari Frontier - Session 30](<../../campaigns/dunmari-frontier/session-notes/session-30-dufr.md>), Jun 01, 1748 DR - Jun 04), 1748 DR: in which the party outsmarts magical traps (*Featuring Delwath, Kenzo, Seeker, Wellby, and Drikod, joined by Garret Tealeaf*)                                                                                          |
+| [Garret Tealeaf](<./garret-tealeaf.md>)                               | Jun 02, 1748 DR:  [Garret Tealeaf](<./garret-tealeaf.md>) is freed from his imprisonment as a wooden scarecrow by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>).
 

@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [dufr/background, dufr/met_one, person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Eberk Brawnanvil
 born: 1502
@@ -23,7 +22,7 @@ title: Eberk Brawnanvil
     Member of Brawnanvils  
     { .bio }
 
-    Originally from: [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), [Ardith](<../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)
+    Originally from: [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
     Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
 </div>
 

@@ -6,9 +6,38 @@ realWorldDate: 2021-07-19
 DR: 1748-05-27
 DR_end: 1748-05-29
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
-title: Session 28 (DuFr)
+companions: [Cintra]
+tagline: in which the party defeats Agata and Samerki
+descTitle: The Wellspring Trap
+name: Dunmari Frontier - Session 28
+title: Dunmari Frontier - Session 28
 ---
+# Dunmari Frontier - Session 28
 
+>[!info] The Wellspring Trap: in which the party defeats Agata and Samerki
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
+> *In Taelgar: May 27, 1748 DR to May 29, 1748 DR*
+> *On Earth: Monday Jul 19, 2021*
+> *[Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) successfully ambushes and defeats [Agata Dustmother](<../../../people/fey/agata.md>) and her servant [Samerki](<../../../people/other-nonhumans/samerki.md>) by setting a trap at [Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>).
+
+## Session Info
+
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) remains hidden as [Samerki](<../../../people/other-nonhumans/samerki.md>), a servant of [Agata Dustmother](<../../../people/fey/agata.md>), patrols the area.
+- [Cintra](<../../../people/dunmari/cintra.md>) uses the [Heart of Shakun](<../../../things/artifacts-of-power/heart-of-shakun.md>) to create an vast illusion, hiding the party further.
+- [Cintra](<../../../people/dunmari/cintra.md>) reveals her backstory with [Agata](<../../../people/fey/agata.md>), who charmed her and kidnapped her daughter, [Jumi](<../../../people/dunmari/jumi.md>), for her powers.
+- [Agata](<../../../people/fey/agata.md>) seeks a [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>), an artifact to silence the gods, and aims to exploit [Jumi](<../../../people/dunmari/jumi.md>)'s powers.
+- The party sets a trap for [Agata](<../../../people/fey/agata.md>), using [Jumi](<../../../people/dunmari/jumi.md>) as bait, and successfully lures her into an ambush.
+- After a tough fight, the party defeats [Agata](<../../../people/fey/agata.md>) and [Samerki](<../../../people/other-nonhumans/samerki.md>) with a combination of strategy and combat prowess
+### Timeline
+- May 27, 1748 DR, evening: Finally safely reach the canyon floor, with the aid of Cintra's magic and the power of the [Heart of Shakun](<../../../things/artifacts-of-power/heart-of-shakun.md>). Speak with [Cintra](<../../../people/dunmari/cintra.md>). Make plans.
+- May 28, 1748 DR: Hide in [Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>). [Cintra](<../../../people/dunmari/cintra.md>) tells [Samerki](<../../../people/other-nonhumans/samerki.md>) that [Agata](<../../../people/fey/agata.md>) must bring [Jumi](<../../../people/dunmari/jumi.md>) here.
+- May 29, 1748 DR: Hide in [Shakun's Realm](<../../../cosmology/multiverse/spiritual-realms/divine-realms/shakun-s-realm.md>), entered via [Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>). 
+- May 29, 1748 DR, dusk: Emerge from [Shakun's Realm](<../../../cosmology/multiverse/spiritual-realms/divine-realms/shakun-s-realm.md>), alerted by [Jumi](<../../../people/dunmari/jumi.md>). Fight and kill [Agata](<../../../people/fey/agata.md>) Dustmother and [Samerki](<../../../people/other-nonhumans/samerki.md>). 
+
+## Narrative
 The session begins with the party still scattered across various hiding places, as the vaguely human creature known as [Samerki](<../../../people/other-nonhumans/samerki.md>) seemingly disappears. However, [Cintra](<../../../people/dunmari/cintra.md>) warns the party to stay put, as this creature has, in the past, disappeared for some time to lull interlopers into complacency and then descended again with a blast of cold to freeze and kill them. Sure enough, after some time passes the creature returns, invisible, chasing [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)’s shadow and seemingly not noticing anyone else. After a blast of cold air damages but does not kill the shadow, [Samerki](<../../../people/other-nonhumans/samerki.md>) grapples it, and flies above the canyon floor to drop it to its death, and then continues to circle, invisible but audible to [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)’s sharp ears. As he circles, he taunts [Cintra](<../../../people/dunmari/cintra.md>), and makes it clear that he is a servant of [Agata](<../../../people/fey/agata.md>) Dustmother.
 
 While [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>) remains hidden in stone, and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) plot a way to get across the 15 feet of bare rock to the canyon edge, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) watch as [Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>) fills with water, and [Cintra](<../../../people/dunmari/cintra.md>) retrieves the Heart of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>) from its resting place within. Using the Heart, she begins to spin a web of illusion that expands to fill the canyon, creating an impenetrable mess of jumbled rocks and tangled rubble. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), drawn in by [Heart of Shakun](<../../../things/artifacts-of-power/heart-of-shakun.md>), lets it reach out and connect with him, and the added energy of his will contributing to [Cintra](<../../../people/dunmari/cintra.md>)’s allows the illusion to expand to encompass [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) hiding at the canyon’s edge. 

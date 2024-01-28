@@ -8,7 +8,8 @@ DR_end: 1748-11-23
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party confronts Hralgar's dream
 descTitle: Storm's Echo
-title: Dunmari Frontier - Session 70 Session 70 (DuFr)
+name: Dunmari Frontier - Session 70
+title: Dunmari Frontier - Session 70
 ---
 # Dunmari Frontier - Session 70
 

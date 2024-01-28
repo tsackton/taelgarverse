@@ -6,13 +6,34 @@ realWorldDate: 2020-12-26
 DR: 1748-04-15
 DR_end: 1748-04-15
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-title: Session 15 (DuFr)
+tagline: in which stars disappear and a giant speaks
+descTitle: Hralgar's Dreamscape
+name: Dunmari Frontier - Session 15
+title: Dunmari Frontier - Session 15
 ---
-## Timeline
-- Apr 15, 1748 DR, late evening: Investigate [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). Meet Hralgar, the trapped storm giant, missing his eyes, and speak with him in his dreamscape.
+# Dunmari Frontier - Session 15
+
+>[!info] Hralgar's Dreamscape: in which stars disappear and a giant speaks
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Apr 15, 1748 DR*
+> *On Earth: Saturday Dec 26, 2020*
+> *[Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) discovers the trapped storm giant [Hralgar](<../../../people/giants/hralgar.md>) and a statue with missing eyes inside [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>).
+
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) observes the missing 'Fox and Hunter' constellation and contemplates time and space, wondering if they have been transported into the past.
+- Communicating with [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) yields a vision of a storm, a robed man, light, and pain.
+- Ascending the tower, they encounter a magical globe guarded by a protective water creature, and find a giant's stone bust missing its [eyes](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>), with empty sockets for [binding stones](<../treasure/treasure-from-stormcaller-tower/binding-stones.md>).
+- They meet [Hralgar](<../../../people/giants/hralgar.md>), the storm giant, who perceives their tales as future events and believes the year is 5031 in the Dwarven reckoning, more than 800 years ago.
+- [Hralgar](<../../../people/giants/hralgar.md>) mentions the wizard [Eudomes](<../../../people/historical-figures/eudomes.md>) and becomes agitated, leading to the revelation that the party never left the tower, where [Hralgar](<../../../people/giants/hralgar.md>) is physically chained.
+
+### Timeline
+- Apr 15, 1748 DR, late evening: Investigate [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). Meet [Hralgar](<../../../people/giants/hralgar.md>), the trapped storm giant, missing his eyes, and speak with him in his dreamscape.
+
 
 ## Narrative
-
 Huddled by the side of a prominence of blue granite jutting out of the plains of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), surrounded by a small calm spot in the howling storm, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) contemplate the stars. Specifically, the fact that one of the most prominent constellations in the sky, the [Fox and Hunter](<../../../cosmology/gods/demigods/fox-and-hunter.md>), is missing, although the rest of the sky does not look much different from what you would expect.
 
 After some puzzled conversation about the nature of time and the stars, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) recalls that he has read several studies of Dwarven scholars that, in other planes, and in particular the mirror realms, the echo realms that reflect and are like and yet unlike the world of Taelgar, time often runs differently. But whether this is such a place is not clear. 
@@ -28,6 +49,7 @@ Caught in blowing gusts of wind, the party begins to explore. Trying to examine 
 Deciding to avoid trying to fight the water snake for now, as lightning crackles along the walls of the tower, and still unsure who or what [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) has been telepathically communicating with, the party ventures into [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). The room they enter is a large, white marble room, taking up nearly half the space in this floor, decorated only with five white marble pillars topped by empty silver sockets. Stairs to either side lead up and down. Through an archway into another room, there is a eight foot tall bust of a [giant](<../../../people/giants/hralgar.md>), just the shoulders and head, carved in stone. The features are somewhat indistinct, with a flat nose, no hair, a long stretched out face, and elaborately decorated in gold and silver. Where the [eyes](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>) should be are instead empty sockets, looking like something was removed; similarly, there is a five-pointed stone crown on its head, each point topped with a silver setting, [empty](<../treasure/treasure-from-stormcaller-tower/binding-stones.md>). 
 
 ![Hralgar Statue](../../../assets/hralgar-statue.png){width="400"}
+
 As the crackle of lightning increases, the party decides to head up the stairs, climbing through mist and fog, until they emerge, exiting the tower, onto the side of a rocky, barren mountain. Clouds obscure the land below, but ahead an enormous hall, many times human-sized, stands on the flattened top of the mountain. Large, booming footfalls are coming towards the party from within.
 
 Everyone except [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) hides as a giant emerges from the hall. Maybe 25 feet tall, dark gray skin, purple-ish hair tied in a topknot behind his head, dressed in fine silk robes, his appearance only marred by the fact that he is missing both his eyes. He stops on the enormous steps to sit in the sun when [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) calls out to him. The giant in turn asks if he is here for omens and stories, and offers information in trade. In the ensuing conversation is becomes apparent that the giant, who’s name is [Hralgar](<../../../people/giants/hralgar.md>), perceives [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)’s tales of [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>) and its history to be in the future, not the past. During the conversation, [Hralgar](<../../../people/giants/hralgar.md>) informs them it is the year 5031 by the true reckoning of time, which would be towards the end of the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) if this matches Dwarven reckoning of time. 

@@ -6,9 +6,40 @@ realWorldDate: 2021-09-10
 DR: 1748-06-01
 DR_end: 1748-06-04
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
-title: Session 30 (DuFr)
+companions: [Garret Tealeaf]
+tagline: in which the party outsmarts magical traps
+descTitle: Agata's Enchanted Lair
+name: Dunmari Frontier - Session 30
+title: Dunmari Frontier - Session 30
 ---
+# Dunmari Frontier - Session 30
 
+>[!info] Agata's Enchanted Lair: in which the party outsmarts magical traps
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
+> *In Taelgar: Jun 01, 1748 DR to Jun 04, 1748 DR*
+> *On Earth: Friday Sep 10, 2021*
+> *[Agata's lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) navigates magical defenses and loots [Agata's lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>), rescuing enchanted victims and retreating to plan their next move.
+
+## Session Info
+
+***The party recovers the rest of Agata's Treasures from her lair, including the [Mirror of Soul Trapping](<../treasure/treasure-from-agata/mirror-of-soul-trapping.md>)***
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) leaves [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), caches supplies in [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>), and heads south.
+- They avoid a battle and fly over deadly trees to reach Agata's lair.
+- At the lair,Seeker dispels a scarecrow's enchantment, revealing it to be a trapped halfling named [Garret Tealeaf](<../../../people/halflings/garret-tealeaf.md>). 
+- They overcome a [Mirror of Soul Trapping](<../treasure/treasure-from-agata/mirror-of-soul-trapping.md>), freeing trapped members, and then looting treasures from the lair. 
+- The party retreats to a nearby canyon with their loot, planning to return after preparing.
+### Timeline
+- Jun 02, 1748 DR: Travel from Karawa towards Bas Udda.
+- Jun 03, 1748 DR: Arrive in Bas Udda. Spend the night.
+- Jun 04, 1748 DR, morning: Leave Bas Udda heading south, looking for [Agata's lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>). 
+- Jun 04, 1748 DR, midday: Loot [Agata's lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>).
+- Jun 04, 1748 DR, evening: Retreat mile or so north for the night. Camp. 
+
+
+## Narrative
 Our session begins at dawn, as the party leaves [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) in search of [Agata's lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>). Armed with rumors from [Candrosa](<../../../people/dunmari/candrosa.md>) that the lair was only approachable from the north, but marked by a path lined with dead trees, the party headed south towards [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>). Here, they spent the night and cached some supplies, before turning south the next morning.
 
 Scouting by [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>) and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) identified the line of trees. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) sent his shadow to investigate, which did not return, but [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) caught the sounds of battle on the wind. Deciding that there must be a better way to approach, and pooling their resources, the party managed to fly across the line of trees, using a boulder animated by [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)’s magic, plus [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)’s fly spell, and [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)’s ability to turn into a small animal to ride along. But not before attempting to use [Agata](<../../../people/fey/agata.md>)’s [Obsidian Fly](<../treasure/treasure-from-agata/obsidian-fly.md>), which turned out to attack them, and apparently was enchanted somehow by [Agata](<../../../people/fey/agata.md>) to attack anyone besides her that summoned it. After a brief melee, during which the fly is whacked by [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and grappled by [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)’s earthen hand, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) succeeds in using the fly’s command word to turn it back into an obsidian sculpture.

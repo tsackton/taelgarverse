@@ -8,7 +8,8 @@ DR_end: 1748-12-25
 players: [Seeker, Delwath, Kenzo, Wellby]
 tagline: in which a cursed scepter is finally destroyed
 descTitle: Scepter's End
-title: Dunmari Frontier - Session 81 Session 81 (DuFr)
+name: Dunmari Frontier - Session 81
+title: Dunmari Frontier - Session 81
 ---
 # Dunmari Frontier - Session 81
 
@@ -45,7 +46,7 @@ The Dunmar Fellowship defeats Urgall the Black and a demonic entity in Vetta, ul
 - Dec 25, 1748 DR, early morning: Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. 
 
 ### The Mirror of the Past
- - Dec 23, 1748 DR: Use [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>) on Urgall's helm: [Urgall's Helm Vision](<../mirror-visions/urgall-s-helm-vision.md>)
+ - Dec 23, 1748 DR: Use [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>) on Urgall's helm: [Urgall's Helm Vision](<../mirror-visions/urgall-s-helm-vision.md>) recharge mirror
 
 ## Narrative
 ***Part 1: [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>)***

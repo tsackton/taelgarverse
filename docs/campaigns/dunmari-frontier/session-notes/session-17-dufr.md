@@ -6,19 +6,42 @@ realWorldDate: 2021-01-22
 DR: 1748-04-16
 DR_end: 1748-04-24
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 17 (DuFr)
+tagline: in which the party returns to Karawa amid the aftermath of gnoll attacks
+descTitle: Karawa's Plight
+name: Dunmari Frontier - Session 17
+title: Dunmari Frontier - Session 17
 ---
-## Timeline
+# Dunmari Frontier - Session 17
+
+>[!info] Karawa's Plight: in which the party returns to Karawa amid the aftermath of gnoll attacks
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: Apr 16, 1748 DR to Apr 24, 1748 DR*
+> *On Earth: Friday Jan 22, 2021*
+> *From [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) combats gnolls, arrives in a devastated [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), and uncovers ominous signs, including an enigmatic figure known as [Agata](<../../../people/fey/agata.md>) Dustmother.
+
+## Session Info
+
+***The Dunmar Fellowship escapes Stormcaller Tower with a [number of treasures](<../treasure/stormcaller-tower-hoard.md>).***
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) shares personal stories and contemplates recent mysteries over breakfast.
+- They fend off a desperate gnoll attack while traveling south towards Karawa.
+- Arriving in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), they find it ravaged, learn of a gnoll siege, and gather intelligence from allies.
+- They discuss the possibility that '[Agata Dustmother](<../../../people/fey/agata.md>)' might be the ominous '[Old Woman of the Dusts](<../../../people/fey/agata.md>)'.
+
+### Timeline
+- Apr 16, 1748 DR, late morning: Leave [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) heading towards Karawa. 
+- Apr 16, 1748 DR, afternoon: Kill a group of emaciated and nearly undead gnolls on the plains.
+- Apr 17, 1748 DR - Apr 23, 1748 DR: Travel south towards [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
+- Apr 24, 1748 DR, afternoon: Arrive at [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>).  Here news of gnoll attack from an exhausted [Candrosa](<../../../people/dunmari/candrosa.md>). Learns news of the south from [Alesh](<../../../people/dunmari/alesh.md>), including an [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) scouting party, a mysterious empty stone house, and another band of emaciated gnolls heading south and west into the [Garamjala Desert](<../../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>).
+
+### Mirror of the Past
+- Apr 22, 1748 DR: See a vision of the [Ivory Scroll Cap](<../treasure/treasure-from-raven-s-hold/ivory-scroll-cap.md>) found at [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>) in the [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>): [Ivory Scroll Cap Vision](<../mirror-visions/ivory-scroll-cap-vision.md>) recharge mirror
 
 
 
-
-- Apr 16, 1748 DR, late morning: Leave [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) heading towards Karawa. Kill a group of emaciated and nearly undead gnolls on the plains.
-- Apr 17, 1748 DR - Apr 21, 1748 DR: Travel south towards Karawa
-- Apr 22, 1748 DR: Party uses Eudomes' Mirror to examine the scroll cap found at Raven's Hold.
-- Apr 23, 1748 DR: Party spends night outside Karawa
 ## Narrative
-
 Bone tired from a night of stumbling through the mists, fog, rain, and thunder of [Hralgar](<../../../people/giants/hralgar.md>)’s storm, we open on the party, resting over a late breakfast, [telling stories of their childhood](https://www.youtube.com/watch?v=j6k6EcUUBuQ). [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), about his brother [Frankar](<../../../people/dwarves/frankar.md>) who vanished after an accident with a strange divination machine of his invention; [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), about cooking for his elders as rumors of darkness spread in the world outside; [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), about the hard life of poor street kids growing up in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>); and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), about being at home on the road and the stories his great-grandfather told. As these stories finish, the conversation turns to the events of the past month, as the party starts to puzzle over the mysteries they have experienced, and speculate on answers. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) records much of the conversation in his journal, and a few answers perhaps emerge.
 
 Turning south to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), an exhausted party decides to get a few hours walking in before breaking to rest. This first leg of the trip is briefly interrupted by an emaciated band of gnolls, many of whom seem to have begun consuming themselves out of lack of suitable prey. They are quickly dispatched, as the party holds their ground and rains arrows and magic down on the gnolls, charging across the plains at them.
@@ -27,7 +50,7 @@ The next seven days are relatively uneventful, as the party journeys south acros
 
 The next day, the party arrives at [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) by mid-afternoon. From a distance, it is clear that the town has suffered greatly. [Ikram’s](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/ikrams.md>) the popular caravanserai and site of many early meetings, is mostly destroyed and burned, as are the small shops nearby, including [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)’s apartment. The shade trees around the oasis square have been chopped down and some burned, and many houses are smashed and now open to the elements. As the party approaches, the [centaur](<../../../species/children-of-the-divine/centaurs/centaurs.md>) [Tharandros](<../../../people/other-nonhumans/tharandros.md>) and the Dunmari warrior [Havdar](<../../../people/dunmari/havdar.md>) ride up, and greet them with pleasure. [Alesh](<../../../people/dunmari/alesh.md>) and [Candrosa](<../../../people/dunmari/candrosa.md>) are waiting in the outbuildings of the Temple, with news to share and receive.
 
-[Candrosa](<../../../people/dunmari/candrosa.md>) is surprised and happy to see the party -- the [Centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>) have not informed him that it was [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) who convinced them to go south. [Candrosa](<../../../people/dunmari/candrosa.md>) looks exhausted and worn out, and gives a brief update on what has happened. Many days ago, a large band of gnolls attacked, burned the town, and lay siege to the Temple. The siege was broken by the arrival of the [Centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>) a little more than a week ago, who crushed the gnoll lines, albeit not without casualties, and freed the [Shakun Mystai](<../../../groups/dunmari-mystery-cults/shakun-mystai.md>) sheltering in the temple. Some days later, [Alesh](<../../../people/dunmari/alesh.md>) returned, as did [Havdar](<../../../people/dunmari/havdar.md>) with some of his troops from [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
+[Candrosa](<../../../people/dunmari/candrosa.md>) is surprised and happy to see the party -- the [centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>) have not informed him that it was [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) who convinced them to go south. [Candrosa](<../../../people/dunmari/candrosa.md>) looks exhausted and worn out, and gives a brief update on what has happened. Many days ago, a large band of gnolls attacked, burned the town, and lay siege to the Temple. The siege was broken by the arrival of the [centaurs](<../../../species/children-of-the-divine/centaurs/centaurs.md>) a little more than a week ago, who crushed the gnoll lines, albeit not without casualties, and freed the [Shakun Mystai](<../../../groups/dunmari-mystery-cults/shakun-mystai.md>) sheltering in the temple. Some days later, [Alesh](<../../../people/dunmari/alesh.md>) returned, as did [Havdar](<../../../people/dunmari/havdar.md>) with some of his troops from [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 
 [Alesh](<../../../people/dunmari/alesh.md>) then reports on her scouting journey into the blasted plains. They passed by [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), which seemed haunted but also deserted, at least by day, and full of nightmares of a choking red mist at night. South of [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), they encountered an emaciated gnoll band, about half of which seemed more undead than alive, heading south and west into the [Garamjala Desert](<../../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>). They did not follow them far into the desert, as they were not adequately supplied for such a journey, but they noted that a raven also seemed to be following the gnolls. 
 

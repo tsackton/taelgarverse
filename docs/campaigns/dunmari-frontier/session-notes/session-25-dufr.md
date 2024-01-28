@@ -6,9 +6,41 @@ realWorldDate: 2021-05-17
 DR: 1748-05-13
 DR_end: 1748-05-23
 players: [Kenzo, Wellby, Delwath, Seeker]
-title: Session 25 (DuFr)
+tagline: in which the party evades orcs and shadows
+descTitle: Desert Pursuits
+name: Dunmari Frontier - Session 25
+title: Dunmari Frontier - Session 25
 ---
+# Dunmari Frontier - Session 25
 
+>[!info] Desert Pursuits: in which the party evades orcs and shadows
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+> *In Taelgar: May 13, 1748 DR to May 23, 1748 DR*
+> *On Earth: Monday May 17, 2021*
+> *From [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>) to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) via [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>)*
+
+The Dunmar Fellowship escapes orcs, battles night shadows, consults allies, and safely returns to Karawa.
+
+## Session Info
+### Summary
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), spotted by orcs, flees across the desert to Havdar's camp.
+- The party evades the orc pursuers but are attacked by shadowy figures at night.
+- [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s magical flare and sunlight from two driftglobes help the party survive the ambush, though two horses perish.
+- The party finds Havdar's camp deserted, but are able to restock on water, and then seek counsel at [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>)
+- They discuss the [Heart of Shakun](<../../../things/artifacts-of-power/heart-of-shakun.md>)and events at the monastery with [Pava](<../../../people/dunmari/pava.md>) and [Avaras](<../../../people/dunmari/avaras.md>) before returning to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>).
+### Timeline
+- May 13, 1748 DR, noon: Spotted by [orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) while trying to sneak back to shelter of the Samraat Tombs canyon. Orcs give chase. Ride fast for [Havdar](<../../../people/dunmari/havdar.md>)'s camp.
+- May 14, 1748 DR: Travel all day towards [Havdar](<../../../people/dunmari/havdar.md>)'s camp. 
+- May 14, 1748 DR, night: Attacked by shadow trackers, presumably sent by Grash. 
+- May 15, 1748 DR: Travel towards Havdar's camp
+- May 15, 1748 DR, evening: Arrive at Havdar's camp, find it empty. Resupply and spend the night. 
+- May 16, 1748 DR: Travel from Havdar's camp towards [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>)
+- May 17, 1748 DR: Travel towards [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>)
+- May 17, 1748 DR, evening: Arrive at [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>). Spend night with [Pava](<../../../people/dunmari/pava.md>), [Avaras](<../../../people/dunmari/avaras.md>), and [Amil](<../../../people/dunmari/amil.md>)
+- May 18, 1748 DR, morning: Depart [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>), heading for Karawa.
+- May 19, 1748 DR  - May 23, 1748 DR: Travel towards Karawa. 
+
+## Narrative
 We begin outside [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), just before noon, as the party is huddled beneath the arches of an old Dunmari bridge over the now-dry [Kharja](<../../../gazetteer/istaros-watershed/rivers/kharja.md>) river, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) having just returned from scouting invisibly in [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>). Pinned down a hundred yards from the shelter of the cliffs on the west side of the riverbank, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) turns himself and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) invisible, while [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) attempt to dash, but the [orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) are alerted during the attempt, and horns go up from the orc fort just south of [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>). With horns blowing and an [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) party leaving to investigate, the party forgoes stealth and dashes for their horses, riding hard to put as much ground between them and the following [orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) as possible. 
 
 Pushing hard and fast across the desert, and heading directly for [Havdar](<../../../people/dunmari/havdar.md>)’s camp to restock their water supplies, the party outdistances the [orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>). Taking precautions at night to have light available -- more worried about the shadows [Grash](<../../../people/other-nonhumans/grash.md>) sent than the [orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) -- the party makes it a day, a night and another day across the desert without incident. 

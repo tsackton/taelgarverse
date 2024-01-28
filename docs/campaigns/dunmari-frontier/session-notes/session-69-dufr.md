@@ -8,7 +8,8 @@ DR_end: 1748-11-23
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which curses are broken and storms grow wild
 descTitle: Rituals and Revelations
-title: Dunmari Frontier - Session 69 Session 69 (DuFr)
+name: Dunmari Frontier - Session 69
+title: Dunmari Frontier - Session 69
 ---
 # Dunmari Frontier - Session 69
 
@@ -16,7 +17,7 @@ title: Dunmari Frontier - Session 69 Session 69 (DuFr)
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: Nov 15, 1748 DR to Nov 23, 1748 DR*
 > *On Earth: Monday Jan 16, 2023*
-> *Lastlight Falls to [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>)*
+> *[Lastlight Falls](<../../../cosmology/multiverse/echo-realms/feywild/lastlight-falls.md>) to [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) breaks curses afflicting [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Havdar](<../../../people/dunmari/havdar.md>), learns of allies' fates, and faces an intensified storm at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>).
 ## Session Info
@@ -40,7 +41,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - Nov 22, 1748 DR: Travel west.
 - Nov 23, 1748 DR, mid-afternoon: Arrive at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), spend time planning and scouting with spells. 
 
-### Eudomes’ Mirror:
+### The Mirror of the Past
 - Nov 15, 1748 DR A vision of [Cha'mutte’s Shadow Armband](<../treasure/treasure-from-solo-adventures/cha-muttes-shadow-armband.md>) is seen in [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>): [Cha'mutte Armband Vision](<../mirror-visions/cha-mutte-armband-vision.md>) recharge mirror
 
 ### Divine Inspiration
@@ -60,7 +61,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 | Are they within a week of us? | **NO** | 22 Nov 1748 |  
 | Was [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) behind [Sura](<../../../people/dunmari/sura.md>)'s kidnapping?  | **NO** | 23 Nov 1748 
 ## Narrative
-We begin as the party settles in for the night outside Lastlight Falls, after a long evening of talking and reconnecting. In the morning, [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) prepares the magic she needs to attempt to free [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) from the cursed chain bound to his soul from his encounter with [Motua](<../../../people/extraplanar-powers/motua.md>). The ritual succeeds, with the aid of the prayers of [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) to the tanshi and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s runic inspiration magic, and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is freed, at the cost of the [Horn of Silent Alarm](<../treasure/treasure-from-dunmari-ruins/horn-of-silent-alarm.md>) carried for many months. 
+We begin as the party settles in for the night outside [Lastlight Falls](<../../../cosmology/multiverse/echo-realms/feywild/lastlight-falls.md>), after a long evening of talking and reconnecting. In the morning, [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) prepares the magic she needs to attempt to free [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) from the cursed chain bound to his soul from his encounter with [Motua](<../../../people/extraplanar-powers/motua.md>). The ritual succeeds, with the aid of the prayers of [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) to the tanshi and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s runic inspiration magic, and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is freed, at the cost of the [Horn of Silent Alarm](<../treasure/treasure-from-dunmari-ruins/horn-of-silent-alarm.md>) carried for many months. 
 
 Over the course of the next week, the party falls into a routine as they hurry across the plains of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), now sprung to life with the monsoon rains.
 
@@ -74,7 +75,7 @@ Half way through the journey, the party arrives south of [Raven's Hold](<../../.
 
 The next day, the [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel.md>) answer [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s prayers. In her morning prayers, she is briefly transported, seeing a vision of [Havdar](<../../../people/dunmari/havdar.md>) in camp, waking and immediately reaching for his sword, when his hands are grasped by those of an old [dwarf](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>), and a voice in Dwarven echos, saying, "No. You are free," as the sword turns to a snake and begins to slither away, before shattering to dust. Scrying over the course of the day reveals [Havdar](<../../../people/dunmari/havdar.md>) unsettled and deep in thought, and then blaming [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) for the curse, advocating for immediate war. This prompts the party to reach out via Sending, apologizing for the party's mistake in gifting him the sword, saying they had no knowledge of its curse, to which [Havdar](<../../../people/dunmari/havdar.md>) can only reply: "Shit. Really?" The [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel.md>) also, during the course of the journey, answer some of the parties questions. 
 
-A week after leaving the camp at Lastlight Falls, the party arrives outside the [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), where [Hralgar](<../../../people/giants/hralgar.md>)'s storm has grown in strength and size, now stretching several miles across the plains. The rain has turned the ground to mud and water pools everywhere. 
+A week after leaving the camp at [Lastlight Falls](<../../../cosmology/multiverse/echo-realms/feywild/lastlight-falls.md>), the party arrives outside the [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), where [Hralgar](<../../../people/giants/hralgar.md>)'s storm has grown in strength and size, now stretching several miles across the plains. The rain has turned the ground to mud and water pools everywhere. 
 
 ![Hralgar Storm Nov 1748](../../../assets/hralgar-storm-nov-1748.png)
 

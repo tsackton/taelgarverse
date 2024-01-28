@@ -6,9 +6,40 @@ realWorldDate: 2022-06-30
 DR: 1748-08-22
 DR_end: 1748-08-24
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-title: Session 49 (DuFr)
+tagline: in which deals are struck and betrayals unfold
+descTitle: The Chalice and the Eyes
+name: Dunmari Frontier - Session 49
+title: Dunmari Frontier - Session 49
 ---
+# Dunmari Frontier - Session 49
 
+>[!info] The Chalice and the Eyes: in which deals are struck and betrayals unfold
+> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In Taelgar: Aug 22, 1748 DR to Aug 24, 1748 DR*
+> *On Earth: Thursday Jun 30, 2022*
+> *[Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>)*
+
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) engages in treacherous negotiations for powerful artifacts and narrowly escapes a deadly ambush.
+
+## Session Info
+
+***The party levels Fausto's tower with the [Mace of Terror](<../treasure/treasure-from-chardonians/mace-of-terror.md>), [Hralgar's Eyes](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>), and the [Binding Stones](<../treasure/treasure-from-stormcaller-tower/binding-stones.md>). 
+
+***Character advancement: the party reaches level 9 as they flee Chardon, having recovered Hralgar's Eyes and survived Fausto's ambush.***
+### Summary
+- The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) visits scholar [Gnaeus](<../../../people/chardonians/gnaeus.md>) to learn about the [Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>)'s Deno'qai tribes.
+- They discuss artifacts and adventurers with [Roscelia](<../../../people/chardonians/roscelia.md>) and her archivist friend, [Lyra](<../../../people/chardonians/lyra.md>), who distrust [Fausto](<../../../people/chardonians/fausto.md>).
+- [Galen](<../../../people/chardonians/galen.md>) agrees to sell the [Chalice of the Runepriest](<../../../things/artifacts-of-power/chalice-of-the-runepriest.md>) to [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>).
+- Fausto betrays the party after trading the [Pandemonium Scroll](<../treasure/treasure-from-tokra/pandemonium-scroll.md>) for [Hralgar's Eyes](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>), leading to a dangerous escape, with [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) disappearing via the [chalice](<../../../things/artifacts-of-power/chalice-of-the-runepriest.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) teleporting the rest to safety.
+
+### Timeline
+- Aug 22, 1748 DR, afternoon: Speak with [Gnaeus](<../../../people/chardonians/gnaeus.md>), learn about the [Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>) and the Deno'qai. Have tea with [Roscelia](<../../../people/chardonians/roscelia.md>) and [Lyra](<../../../people/chardonians/lyra.md>).
+- Aug 23, 1748 DR: Split up and deal with errands and personal tasks. 
+- Aug 23, 1748 DR, late afternoon: Take in [Galen](<../../../people/chardonians/galen.md>)'s lecture in the afternoon. Negotiate for the [Chalice of the Runepriest](<../../../things/artifacts-of-power/chalice-of-the-runepriest.md>). Meet [Fausto](<../../../people/chardonians/fausto.md>). Negotiate for [Hralgar's Eyes](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>). 
+- Aug 24, 1748 DR, morning: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) goes to purchase the [Chalice of the Runepriest](<../../../things/artifacts-of-power/chalice-of-the-runepriest.md>) from Galen. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) go to Fausto's tower to make exchange for [Hralgar's Eyes](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>), giving [Fausto](<../../../people/chardonians/fausto.md>) the [Pandemonium Scroll](<../treasure/treasure-from-tokra/pandemonium-scroll.md>) in trade. Walk into an ambush. Flee, nearly dying in the process, with [Hralgar's Eyes](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>), as [Fausto](<../../../people/chardonians/fausto.md>) rants about [The Cleansed](<../../../groups/the-cleansed.md>). Race through [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) in chaos. [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) vanishes. Escape the city via [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s magic. 
+
+
+## Narrative
 We start as the party makes their way through the [University of Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/university-of-chardon.md>) area, to find the scholar [Gnaeus](<../../../people/chardonians/gnaeus.md>), who wrote a book about the people of the [Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>) that mentioned [Rai](<../../../people/pcs/great-war/rai.md>). Interrupting his meager class, they buy him lunch and offer a recommendation about his skill, and he tells his story. Although he has been disgraced for using enchantment magic to learn about the Deno’qai in the forest, he claims what he tells is the truth. From [Gnaeus](<../../../people/chardonians/gnaeus.md>), the party learns about the tribes of the Deno’qai, including the Baz'aku, who trade with the Chardonians in the [Chasa](<../../../gazetteer/chasa-nahadi-watershed/rivers/chasa.md>) River Valley; the reclusive hunters of the [Bek'eni](<../../../groups/deno-qai/bek-eni.md>), and the [Te'kula](<../../../groups/deno-qai/te-kula.md>), who have hidden themselves away to avoid some great evil they will not mention. 
 
 After lunch, the party goes to speak with [Roscelia](<../../../people/chardonians/roscelia.md>), meeting her for tea at her estate. She introduces them to a friend, [Lyra](<../../../people/chardonians/lyra.md>), an archivist at the [Great Library](<../../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>), who is interested in stories of adventurers. After introductions and some small talk, they speak about the [Chalice of the Runepriest](<../../../things/artifacts-of-power/chalice-of-the-runepriest.md>) and the [Giant’s Eyes](<../treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>), and adventures. [Roscelia](<../../../people/chardonians/roscelia.md>) and [Lyra](<../../../people/chardonians/lyra.md>) are not particularly fond of [Fausto](<../../../people/chardonians/fausto.md>), and give the impression that he spends money freely to buy favor and influence. He is, for example, always outbidding the [Great Library](<../../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>) to acquire the services of adventurers. [Lyra](<../../../people/chardonians/lyra.md>), in particular, is annoyed with him because she sees the [Society of the Open Scroll](<../../../groups/society-of-the-open-scroll.md>) as an amateur explorer’s club that encourages careless adventuring, not a careful and serious academic endeavor like the [Great Library](<../../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>). But according to [Lyra](<../../../people/chardonians/lyra.md>) and [Roscelia](<../../../people/chardonians/roscelia.md>), probably both [Galen](<../../../people/chardonians/galen.md>), who has the chalice, and [Fausto](<../../../people/chardonians/fausto.md>), who has the eyes, can be bargained with. 

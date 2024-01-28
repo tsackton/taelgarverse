@@ -25,3 +25,8 @@ title: Drikod
 
 
 ![Drikod Portrait](../../../../assets/drikod-portrait.jpg){width="400"}
+
+## Pre-Campaign Events
+
+- Apr 29, 1748 DR: Drikod leaves [Kunda](<../../../../gazetteer/sentinel-range/kunda.md>), his village in the mountains.
+- May 12, 1748 DR: Drikod arrives in Karawa.

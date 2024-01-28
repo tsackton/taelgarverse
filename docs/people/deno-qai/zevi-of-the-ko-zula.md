@@ -19,7 +19,7 @@ title: Zevi
     Born DR 1734 (15 years old)  
     { .bio }
 
-    Based in Ko'zula village
+    Based in the [Ko'zula village](<../../gazetteer/far-north/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
 </div>
 
 

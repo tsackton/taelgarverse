@@ -6,32 +6,33 @@ realWorldDate: 2020-09-03
 DR: 1748-04-12
 DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-tagline: in which the party discovers a hidden entrance and faces a cavern creature
-descTitle: Mountain Entry
-title: Dunmari Frontier - Session 8 Session 8 (DuFr)
+tagline: in which the party discovers a hidden entrance and faces a roper
+descTitle: Under the Mountains
+name: Dunmari Frontier - Session 8
+title: Dunmari Frontier - Session 8
 ---
 # Dunmari Frontier - Session 8
 
->[!info] Mountain Entry: in which the party discovers a hidden entrance and faces a cavern creature
+>[!info] Under the Mountains: in which the party discovers a hidden entrance and faces a roper
 > *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: Apr 12, 1748 DR*
 > *On Earth: Thursday Sep 03, 2020*
-> *Dwarven Outpost (Raven's Hold)*
+> *[Ruined Dwarven Outpost](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>)*
 
-The Dunmar Fellowship uncovers a secret mountain passage and combats a roper to gain passage through the Dwarven Outpost.
+The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) uncovers a secret mountain passage and combats a roper to gain passage through the [ruined Dwarven trading post](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>).
 
 ## Session Info
 ### Summary
-- The Dunmar Fellowship decides to find a hidden mountain route to bypass cursed insanity vines, using Riswynn's maps.
-- Seeker and Wellby locate a series of stones with Dwarven runes, leading to a gorge entrance with an 'enter' inscription.
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) decides to find a hidden mountain route to bypass cursed insanity vines, using [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s maps.
+- [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) locate a series of stones with Dwarven runes, leading to a gorge entrance with an 'enter' inscription.
 - The party braves the gorge waters, leaving supplies and horses behind, and finds a tunnel blocked by a metal plate.
-- Riswynn triggers a chain mechanism, revealing further passages, a guard room, and illusionary rubble.
-- A secret door opens to a cavern where Inakara and her kind propose an exchange: passage for defeating a cavern creature.
+- [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) triggers a chain mechanism, revealing further passages, a guard room, and illusionary rubble.
+- A secret door opens to a cavern where [Inakara](<../../../people/other-nonhumans/inakara.md>) and her kind propose an exchange: passage for defeating a cavern creature.
 - The party engages in combat with a roper, struggling initially but ultimately triumphing by exploiting its limited mobility.
 
 ### Timeline
 - Apr 12, 1748 DR, noon: Find Dwarven back door to the [Dwarven Outpost (Raven's Hold)](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>), and enter via tunnel. 
-- Apr 12, 1748 DR, early afternoon: Meet Inakara and the twisted creatures that now make the dwarven output here home. Fight and kill a roper.
+- Apr 12, 1748 DR, early afternoon: Meet [Inakara](<../../../people/other-nonhumans/inakara.md>) and the twisted creatures that now make the [ruined Dwarven trading post](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>) here home. Fight and kill a roper.
 
 
 ## Narrative

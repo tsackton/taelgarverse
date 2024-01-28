@@ -22,5 +22,3 @@ affiliations:
 
 </div>
 
-
-

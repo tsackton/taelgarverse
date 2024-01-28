@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: Clee, date: 1719-12-04, type: met}
 name: Balthazar
@@ -11,6 +10,7 @@ ancestry:
 gender: male
 whereabouts:
 - {type: home, location: Evis}
+- {type: away, location: Wakog's Camp, start: 1719-10-14, end: 1719-12-05}
 - {type: home, start: 1719-12-06, location: Cleenseau}
 title: Balthazar
 ---
@@ -28,4 +28,6 @@ title: Balthazar
 
 
 
-Balthazar is a young boy, born on March 15th, 1705, hailing from Evis in the Duchy of Maseau. He possesses a bright intellect but appears malnourished, bearing the marks of recent captivity by orcs. He has been in Cleenseau since December 6th, 1719.
+He possesses a bright intellect but appears malnourished, bearing the marks of recent captivity by orcs. He is often shy, and seems to prefer to avoid crowds or a lot of people, but is keenly interested in learning and gaining knowledge. He is somewhat prideful, and hates to be given answers, and is often quite reluctant to accept help. He currently lives in Underhill with a number of other refugees from [Wakog's Camp](<../../gazetteer/greater-sembara/duchy-of-maseau/wakog-s-camp.md>), and has mostly been eking out a living on charity. 
+
+

@@ -8,7 +8,8 @@ DR_end: 1748-03-22
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party confronts chaos in Karawa
 descTitle: Hyena Rampage
-title: Dunmari Frontier - Session 1 Session 1 (DuFr)
+name: Dunmari Frontier - Session 1
+title: Dunmari Frontier - Session 1
 ---
 # Dunmari Frontier - Session 1
 
@@ -20,6 +21,8 @@ title: Dunmari Frontier - Session 1 Session 1 (DuFr)
 
 The newly formed [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) rescues [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from hyenas and begins investigating a string of attacks, leading them to a concerning discovery at the [Gomat Oasis](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>)
 ## Session Info
+
+***Kenzo, Seeker, Wellby, and Delwath meet, and our campaign begins.***
 ### Summary
 - [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) meet, and save the villagers of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from two giant hyenas.
 - The party agrees to investigate a series of mysterious attacks on the village after a discussion with Karawa's leaders.
