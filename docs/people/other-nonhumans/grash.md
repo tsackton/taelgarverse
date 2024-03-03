@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 displayDefaults: {endStatus: killed}
 campaignInfo:
 - {campaign: DuFr, type: scryed, date: 1748-12-28}

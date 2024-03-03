@@ -6,15 +6,19 @@ born:
 species: dwarf
 ancestry:
 gender: male
+whereabouts: Tokra
+affiliations:
+- {org: Hardstones, type: primary}
 title: Morkral Hardstone
 ---
 # Morkral Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
+    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the Hardstones  
     { .bio }
 
+    Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

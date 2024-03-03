@@ -12,6 +12,9 @@ affiliations:
 - {org: House of Lils, type: primary}
 - {place: Sembara, start: 1745}
 - {place: Tyrwingha, start: 1745}
+whereabouts:
+- {type: home, location: Tafolwern, end: 1721-08}
+- {type: home, location: Embry, start: 1721-09}
 ---
 # King Arryn III
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,6 +25,8 @@ affiliations:
     King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), and [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (since DR 1745)  
     { .bio }
 
+    Originally from: [Tafolwern](<../../../gazetteer/greater-sembara/tyrwingha/tafolwern.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
+    Based in [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 

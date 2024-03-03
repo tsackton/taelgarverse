@@ -2,9 +2,9 @@
 headerVersion: 2023.11.25
 tags: [person]
 campaignInfo:
-- {campaign: clee, type: Fought against, date: 1719-11-03, format: '<met:u> <person> <current:2q> on <target>'}
+- {campaign: clee, type: Fought against, date: 1719-11-03, format: '<met:ux> <person> <current:2q> on <target>'}
 name: Terry the Bandit
-born:
+born: 1690
 species: human
 ancestry: Sembaran
 gender: male
@@ -19,10 +19,10 @@ title: Terry the Bandit
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    Died November 3rd, 1719  
+    b. DR 1690 - d. November 3rd, 1719, died at age 29 years  
     { .bio }
 
-    Lived on Beggar's Way, in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>)
+    Lived the Beggar's Way
 </div>
 
 :octicons-location-24:{ .lg .middle } Died at the [bandit lair upriver of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), in the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)

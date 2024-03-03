@@ -6,7 +6,7 @@ campaignInfo: []
 name: Viepuck
 born: 1706-10-01
 species: human
-ancestry:
+ancestry: Sembaran
 gender: male
 player:
 aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer, Najeer Garay]
@@ -20,7 +20,7 @@ title: Viepuck
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him)  
     Born October 1st, 1706 (42 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     { .bio }

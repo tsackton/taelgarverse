@@ -5,6 +5,7 @@ species: human
 name: Adam Gower
 gender: male
 ancestry: Tollender
+whereabouts: Tollen
 title: Adam Gower
 ---
 # Adam Gower
@@ -14,6 +15,7 @@ title: Adam Gower
     A [Tollender](<../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../species/humans/humans.md>) (he/him)  
     { .bio }
 
+    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 </div>
 
 

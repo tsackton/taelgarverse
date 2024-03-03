@@ -10,6 +10,7 @@ gender: male
 aliases: [Chanceweaver]
 affiliations:
 - {org: Fortune's Rest, type: leader, title: Master}
+whereabouts: Fortune's Rest
 title: Prince of Luck
 ---
 # Prince of Luck
@@ -20,6 +21,7 @@ title: Prince of Luck
     Master of [Fortune's Rest](<../../cosmology/multiverse/echo-realms/feywild/fortune-s-rest.md>)  
     { .bio }
 
+    Based in [Fortune's Rest](<../../cosmology/multiverse/echo-realms/feywild/fortune-s-rest.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
 </div>
 
 

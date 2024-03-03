@@ -8,6 +8,7 @@ species: human
 ancestry: Dunmari
 gender: male
 died: 1748
+whereabouts: Tokra
 title: Umber
 ---
 # Umber
@@ -18,6 +19,7 @@ title: Umber
     Died DR 1748  
     { .bio }
 
+    Lived in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

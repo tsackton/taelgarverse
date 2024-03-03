@@ -7,7 +7,7 @@ timelineDescriptor: Sembaran History
 title: Timeline of Sembaran History
 ---
 
-# The Drankorian Conquest
+## The Drankorian Conquest
 DR 300 - DR 431
 
 ### Overview
@@ -21,7 +21,7 @@ Over a series of start-and-start campaigns over 60 years, the Drankorian armies 
 * 423 DR: Goristo signs the [Treaty of Tyrwingha](<../events/400s/423/treaty-of-tyrwingha.md>) with [Ethlenn](<../people/extraplanar-powers/archfey-ethlenn.md>)
 * 468 DR: The Drankorian [Highland Conquest Wars](<../events/400s/highland-conquest-wars.md>) end with a tactical retreat by Drankor
 
-# The Drankorian Age
+## The Drankorian Age
 DR 431 - DR 1059
 ### Overview
 By DR 431, when the Drankorian army retreated from [Zimkova](<../gazetteer/greater-sembara/zimkova/zimkova.md>), the borders of Drankor in the east were established, and would not change for many generations. Drankor ruled all the lands between the [Sentinel Range](<../gazetteer/sentinel-range/sentinel-range.md>) and the [Western Gulf](<../gazetteer/western-green-sea/western-gulf.md>) south of the [Semb](<../gazetteer/greater-sembara/rivers/semb-watershed/semb.md>), as well as the lowlands east of the [Braebein](<../gazetteer/greater-sembara/sembara/braebein.md>) and the lowland valleys of the [Teft](<../gazetteer/greater-sembara/rivers/teft.md>) and [Volta](<../gazetteer/greater-sembara/rivers/volta-watershed/volta.md>). The borders of the modern duchies of Telham and Arnsbury still trace to the farthest extent of the Drankorian conquest, as does the borders of Ardlas. 
@@ -30,14 +30,14 @@ The Drankorians brought modern roads, improved agricultural techniques, and a ne
 
 In the highlands, the [Zimka](<../gazetteer/greater-sembara/zimkova/zimkova.md>) kept the old ways, although along the borders with Drankor Mos Numena and Drankorian culture spread. 
 
-# The Plague Years
+## The Plague Years
 DR 1059 - DR 1250
 ### Overview
 In DR 1059, the Great Plague came and the Drankorian Empire collapsed. Little information survives from these years, and it was a time of much hardship, especially amongst the more populous lowland regions, where famine struck repeatedly. This was a dark time.
 ###
 * 1142 DR: Adrian establishes himself in [Embry](<../gazetteer/greater-sembara/sembara/heartlands/embry.md>) as the first [Duke of Sembara](<../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>)
 
-# The Six Duchies
+## The Six Duchies
 DR 1250 - DR 1400
 ### Overview
 By DR 1250, a number of lords, mostly calling themselves dukes, had established themselves across the lands once ruled by Drankor. In the lowland coastal regions, the six duchies that later would form the heartlands of Sembara had been established: [Sembara](<../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Cheimen](<../gazetteer/greater-sembara/sembara/heartlands/duchy-of-cheimen.md>), [Wisford](<../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>), [Seham](<../gazetteer/greater-sembara/sembara/heartlands/duchy-of-seham.md>), [Telham](<../gazetteer/greater-sembara/sembara/northlands/duchy-of-telham.md>), and [Arnsbury](<../gazetteer/greater-sembara/sembara/heartlands/duchy-of-arnsbury.md>). Further east and south, [Tyrwingha](<../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) had emerged from the chaos under the leadership of the [Oracle of the Riven](<../groups/oracle-of-the-riven.md>) and [Archfey Ethlenn](<../people/extraplanar-powers/archfey-ethlenn.md>). And to the west, two border duchies had emerged: [Brovna](<../gazetteer/greater-sembara/sembara/western-marches/marches-of-brovna.md>), at the headwaters of the [Wistel](<../gazetteer/greater-sembara/rivers/wistel-enst-watershed/wistel.md>) around [Urlich Pass](<../gazetteer/sentinel-range/urlich-pass.md>), and [Ardlas](<../gazetteer/greater-sembara/zimkova/ardlas.md>), along the south banks of the [Semb](<../gazetteer/greater-sembara/rivers/semb-watershed/semb.md>), centered around ~LakeDerwentCity~,  the great trading city on Lake Derwent. 
@@ -52,7 +52,7 @@ By the end of the 1300s, the Duke of Sembara was broadly acknowledged as feudal 
 
 
 
-# The Unification
+## The Unification
 DR 1400 - DR 1462, 7 Dominick IV - 34 Derik I
 ### Overview
 By the 1400s, a number of regional powers had started to emerge on the borders of [Sembara](<../gazetteer/greater-sembara/sembara/sembara.md>). In the northwest, from the broad lands of [Zimkova](<../gazetteer/greater-sembara/zimkova/zimkova.md>), the realm of Lavnoch has emerged from the collapse of the short lived [Unifed Crown of Zimkova](<../gazetteer/greater-sembara/zimkova/zimkova.md>). 
@@ -87,7 +87,7 @@ By 1462, on [Derik I's](<../people/historical-figures/sembaran-royalty/derik-i.m
 
 
 
-# The Great War
+## The Great War
 DR 1462 - DR 1545; 1 Derik II - 26 Derik III
 
 The reign of [Derik II](<../people/historical-figures/sembaran-royalty/derik-ii.md>) is relatively uneventful, and the traditions and formalities of the realm are established and propagated in this time. The borders to the south, with the [Istabor Alliance](<./istabor-alliance.md>), and the north, with the fractured fiefdoms of [Vostok](<../gazetteer/western-green-sea/vostok/vostok.md>), are uneventful, and trading relationships with [Cymea](<../gazetteer/western-green-sea/cymea/cymea.md>), [Tollen](<../gazetteer/western-green-sea/tollen/tollen.md>), and the rest of the eastern [Green Sea](<../gazetteer/green-sea.md>) grow during this time. 
@@ -111,7 +111,7 @@ Derik III, 19 years old in 1508 DR, is sent to the north. Vostok at this point i
 By DR 1525, Derik III is at least nominally acknowledged as the overlord and high king of all the land from the southern highlands to the northern wall, from [Sentinel Range](<../gazetteer/sentinel-range/sentinel-range.md>) to the [Western Gulf](<../gazetteer/western-green-sea/western-gulf.md>).  In DR 1533, now several years a widower, Derik III marries Jane, the young daughter of an important merchant family in Tollen. 
 
 Over the next 20 years, Sembara remains a strong and united kingdom as various conflicts spread along its borders, culminating in the [Great War](<../events/1500s/great-war.md>).
-# The Blood Years
+## The Blood Years
 DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 
 ### Overview
@@ -141,7 +141,7 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 - 1565 DR: [Blanche I](<../people/historical-figures/sembaran-royalty/blanche-i.md>) departs on her Grand Ambassadorship of Blanche I to the [Green Sea](<../gazetteer/green-sea.md>)
 - 1566 DR: [Blanche I](<../people/historical-figures/sembaran-royalty/blanche-i.md>) returns from her grand tour, and starts to show significant favoritism to her sister [Elaine I](<../people/historical-figures/sembaran-royalty/elaine-i.md>)
 - 1568 DR: The Interregum of 1568. [Wisym I](<../people/historical-figures/sembaran-royalty/wisym-i.md>) appointed King.
-# The Hobgoblin Wars
+## The Hobgoblin Wars
 DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 
 - 1574 DR: The First Hobgoblin War begins. 
@@ -152,7 +152,7 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - 1590 DR, fall: [Elaine I](<../people/historical-figures/sembaran-royalty/elaine-i.md>) sends the [Army of Mostreve](<../groups/sembaran-army/army-of-mostreve.md>) and the [Army of the South](<../groups/sembaran-army/army-of-the-south.md>) to aid [Maseau](<../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>). The Second Hobgoblin War begins
 - 1602 DR: [Blanche II](<../people/historical-figures/sembaran-royalty/blanche-ii.md>) dies in childbirth, and her great uncle, Percival Wynthrope, becomes regent for her young son
 - 1602 DR: The Second Hobgoblin War ends with the Treaty of Châteauclair between the regent, Percival Wynthrope and the [Shattered Ice Clan](<../groups/hobgoblin-clans/shattered-ice-clan.md>). The lands south of the Enst and west of the Aure are ceded to the hobgoblins. 
-- 1644 DR, spring: A new leader amongst the [Shattered Ice Clan](<../groups/hobgoblin-clans/shattered-ice-clan.md>) starts a war of ethnic cleansing against [Maseau](<../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), starting the Third Hobgoblin War
+- 1644 DR, spring: A new leader amongst the [Shattered Ice Clan](<../groups/hobgoblin-clans/shattered-ice-clan.md>) starts a war of ethnic cleansing against [Maseau](<../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), starting the [Third Hobgoblin War](<./third-hobgoblin-war-sembara.md>)
 - 1644 DR, late spring: [Arryn II](<../people/historical-figures/sembaran-royalty/arryn-ii.md>), at the urging of his daughter [Charlotte II](<../people/historical-figures/sembaran-royalty/charlotte-ii.md>) and her husband Lionel Falconhurst, the grandson of the Duke of Maseau, and a prominent [Isinguen](<../gazetteer/istaros-watershed/isingue.md>), launches a rapid assault on the [Shattered Ice Clan](<../groups/hobgoblin-clans/shattered-ice-clan.md>)
 - 1644 DR, fall: After several early successes, the Sembaran [Army of the South](<../groups/sembaran-army/army-of-the-south.md>) is fought to a stalemate at the Battle of Lysandale in the western reaches of Maseau
 - 1644 DR, fall: The [Shattered Ice Clan](<../groups/hobgoblin-clans/shattered-ice-clan.md>) abandons the campaign in [Maseau](<../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) and redirects their armies to [Sembara](<../gazetteer/greater-sembara/sembara/sembara.md>)
@@ -171,14 +171,14 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - 1648 DR, summer:  [The Enst Campaign](<../events/1600s/1648/the-enst-campaign.md>) pushes the [Shattered Ice Clan](<../groups/hobgoblin-clans/shattered-ice-clan.md>) west of [Vaubonne](<../gazetteer/greater-sembara/sembara/borderlands/barony-of-vaubonne.md>) and south of the [Enst](<../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst.md>)
 - 1649 DR, summer: The Maseau Campaign pushes the [Shattered Ice Clan](<../groups/hobgoblin-clans/shattered-ice-clan.md>) west of [Maseau](<../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), into the foothills of the [Sentinel Range](<../gazetteer/sentinel-range/sentinel-range.md>) and the [Marches of Enford](<../gazetteer/greater-sembara/sembara/western-marches/marches-of-enford.md>)
 - 1650 DR, summer: The Enford Campaign pushes the [Shattered Ice Clan](<../groups/hobgoblin-clans/shattered-ice-clan.md>) out of the headwaters of the [Enst](<../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst.md>) and establishes a strong garrison at [Enford](<../gazetteer/greater-sembara/sembara/western-marches/enford.md>)
-- 1653 DR: The Third Hobgoblin War ends
-# The Peace of Cece
+- 1653 DR: The [Third Hobgoblin War](<./third-hobgoblin-war-sembara.md>) ends
+## The Peace of Cece
 DR 1650 - DR 1713; 2 Cece I - 65 Cece 1
 ### Overview
 In the autumn of 1650, after three summers of campaigning, the [Shattered Ice Clan](<../groups/hobgoblin-clans/shattered-ice-clan.md>) has been cleansed from the land. Three years prior, a hobgoblin dominion stretched in the Enst valley, from the [Sentinel Range](<../gazetteer/sentinel-range/sentinel-range.md>) to the headwaters of the Aure in Addermarch, and even northwards into the Barony of Varbonne. It is now gone, although people have only slowly started returning to the war-torn lands.
 
 The reign of [Cece I](<../people/historical-figures/sembaran-royalty/cece-i.md>) is a time of peace and prosperity. The borders are secure, trade is growing, and Sembara's relations with its neighbors are friendly, and the hobgoblin threat, although not entirely gone, is isolated to [the Western Marches](<../gazetteer/greater-sembara/sembara/western-marches/western-marches.md>). 
-# Recent Events
+## Recent Events
 Since DR 1713 (1 Robert I)
 
 - 1713 DR: [Cece I](<../people/historical-figures/sembaran-royalty/cece-i.md>) dies. In Sembara, Robert I is crowned king, but the [Oracle of the Riven](<../groups/oracle-of-the-riven.md>) [elects](<../events/1700s/1713/the-election-of-elaine-ii.md>) his cousin, [Elaine II](<../people/historical-figures/sembaran-royalty/elaine-ii.md>) the Queen of [Tyrwingha](<../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)

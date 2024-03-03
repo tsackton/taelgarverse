@@ -24,7 +24,7 @@ title: Conrad
 
 
 
-[Anselm's](<./anselm.md>) assistant at the [Temple of the Warlord](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/temple-of-the-warlord-in-cleenseau.md>). A young, rather shy man, who looks up to Anselm but has become fascinated by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>). He is the main organizer of the [temple's](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/temple-of-the-warlord-in-cleenseau.md>) charity, and knows the people of Beggar's Way relatively well. 
+![Conrard Cleenseau](../../assets/conrard-cleenseau.png){align="right"; width="320"}[Anselm's](<./anselm.md>) assistant at the Temple of the Warlord. A young, rather shy man, who looks up to Anselm but has become fascinated by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>). He is the main organizer of the temple's charity, and knows the people of Beggar's Way relatively well. 
 
 
 

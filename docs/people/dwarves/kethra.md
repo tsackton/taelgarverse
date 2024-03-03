@@ -12,6 +12,7 @@ affiliations:
 - {org: Silversparks, type: primary}
 gender: female
 born: 1701
+image: kethra-small.png
 title: Kethra Silverspark
 ---
 # Kethra Silverspark
@@ -28,3 +29,6 @@ title: Kethra Silverspark
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
 
 
+![Kethra Final Option1](../../assets/kethra-final-option1.png){align="right"; width="400"}Kethra Silverspark, great-grandaughter of [Nora Silverspark](<./nora-silverspark.md>), is a proud dwarven smith and novice adventurer from [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). 
+
+Inspired by the tales of [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>)'s heroic adventures in returning the [Chalice of the Runepriest](<../../things/artifacts-of-power/chalice-of-the-runepriest.md>) and putting to rest the ghosts of [Nora Silverspark](<./nora-silverspark.md>) and [Hagrim](<./hagrim.md>), among others, she decided to leave home and put herself in Riswynn's service. 

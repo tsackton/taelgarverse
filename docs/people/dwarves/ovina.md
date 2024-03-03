@@ -7,6 +7,7 @@ born:
 species: dwarf
 ancestry:
 gender: female
+whereabouts: Hamri
 title: Ovina
 ---
 # Ovina
@@ -16,7 +17,8 @@ title: Ovina
     A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her)  
     { .bio }
 
+    Based in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 
-A somewhat disreputable dwarven woman, a smith with a shop near the Shark's Dock. Somewhat isolated from Hamri community. But makes a decent living in trade with ships at dock, especially those who need to get rid of treasure of dubious origin, which she smelts down and resells to the next ship. Friends with Kaleho.
+A somewhat disreputable dwarven woman, a smith with a shop near the Shark's Dock. Somewhat isolated from Hamri community. But makes a decent living in trade with ships at dock, especially those who need to get rid of treasure of dubious origin, which she smelts down and resells to the next ship. Friends with [Kaleho](<../pcs/mawar-confederacy/kaleho.md>).

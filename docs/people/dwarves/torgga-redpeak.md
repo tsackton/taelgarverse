@@ -9,6 +9,7 @@ ancestry:
 affiliations:
 - {org: Redpeaks, type: primary}
 gender: female
+whereabouts: Darba
 title: Torgga Redpeak
 ---
 # Torgga Redpeak
@@ -18,6 +19,7 @@ title: Torgga Redpeak
     A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her), of the Redpeaks  
     { .bio }
 
+    Based in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

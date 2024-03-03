@@ -26,4 +26,4 @@ title: Duncan Rivers
 
 
 
-
+![Duncan Rivers](../../assets/duncan-rivers.png){align="right"; width="320"}A jovial barkeep and innkeeper, he is very fond of his inn and a little full of himself. He does not like asking for help very much, and rarely admits he needs it. He is suspicious of magic and speaks often of the "good old days" of Cece's reign.

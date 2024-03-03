@@ -11,6 +11,7 @@ gender: male
 affiliations:
 - {org: Lord's Guard of Cleenseau, title: Captain, type: leader}
 - {org: Essfords, title: Guard Captain}
+- {org: Lord's Council of Cleenseau}
 whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry}
@@ -25,6 +26,7 @@ title: Ames Benthey
     Born DR 1675 (74 years old)  
     Captain of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>)  
     Guard Captain of the Essfords  
+    Member of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  
     { .bio }
 
     Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
@@ -34,7 +36,12 @@ title: Ames Benthey
 
 
 
-The captain of the household guard of [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>), part of the [Lord's Guard](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). Likes to play dice with [Celyn](<../pcs/cleenseau/celyn.md>). Better at delegating than doing any actual work and enjoys his food. However, when push comes to shove, he is a competent fighter and captain. 
+![Ames Benthey](../../assets/ames-benthey.png){align="right"; width="320"}The captain of the household guard of [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>), part of the [Lord's Guard](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). Likes to play dice with [Celyn](<../pcs/cleenseau/celyn.md>). Better at delegating than doing any actual work and enjoys his food. However, when push comes to shove, he is a competent fighter and captain. 
+
+
+
+
+
 
 
 

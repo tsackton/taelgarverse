@@ -5,6 +5,7 @@ whereabouts: Tollen
 species: kenku
 gender: male
 name: Kecha
+image: kecha-small.png
 title: Kecha
 ---
 # Kecha
@@ -18,6 +19,6 @@ title: Kecha
 </div>
 
 
-A young kenku scout. 
+A young kenku scout. ![Kecha Portrait Final](../../assets/kecha-portrait-final.png){align="right"; width="400"}
 
 

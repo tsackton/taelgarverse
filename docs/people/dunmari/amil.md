@@ -11,6 +11,7 @@ affiliations: [Order of the Awakened Soul]
 whereabouts:
 - {type: home, start: 1731, location: Pava and Avaras' House}
 - {type: away, start: 1749, end: 9999, location: Vindristjarna}
+image: amil-small.png
 title: Amil
 ---
 # Amil
@@ -29,8 +30,7 @@ title: Amil
 
 
 
-
-A young monk, in training as an apprentice of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [Pava](<./pava.md>) and [Avaras](<./avaras.md>), on the edge of the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) in the blasted plains. 
+![Amil Final](../../assets/amil-final.png){align="right"; width="400"}A young monk, in training as an apprentice of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [Pava](<./pava.md>) and [Avaras](<./avaras.md>), on the edge of the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) in the blasted plains. 
 
 
 ## Events

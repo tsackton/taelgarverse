@@ -8,6 +8,7 @@ species: human
 ancestry: Mawaran
 gender: female
 died: 1747
+whereabouts: Mawar Confederacy
 title: Sefa
 ---
 # Sefa
@@ -18,6 +19,7 @@ title: Sefa
     Died DR 1747  
     { .bio }
 
+    Lived in the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 

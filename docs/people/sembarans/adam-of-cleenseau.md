@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person]
 campaignInfo:
-- {campaign: Clee, type: Fought alongside, date: 1719-10-21, format: '<met> <person> on <target> <current:3rq>'}
+- {campaign: Clee, type: Fought alongside, date: 1719-10-21, format: '<met:x> <person> on <target> <current:3rq>'}
 name: Adam
 born: 1691
 species: human
@@ -13,7 +13,7 @@ gender: male
 whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-10-21, end: 1719-10-21, location: Cleenseau Wood}
-- {type: away, start: 1719-11-27, end: 1720-01-18, location: Dunfry}
+- {type: away, start: 1719-11-27, end: 1720-01-10, location: Dunfry}
 title: Adam
 ---
 # Adam

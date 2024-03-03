@@ -7,6 +7,7 @@ born:
 species: human
 ancestry:
 gender: male
+whereabouts: Hamri
 title: Yaz
 ---
 # Yaz
@@ -16,6 +17,7 @@ title: Yaz
     A [human](<../../species/humans/humans.md>) (he/him)  
     { .bio }
 
+    Based in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
 
 

@@ -194,7 +194,6 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 - A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard) 
 - Carved bone statuette of an eagle (80 - 130 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard) 
 - The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard) 
-- A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard) 
 - A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
 - A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
 - A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard) 
@@ -223,6 +222,8 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 	- Sheaf of receipts from [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>).  Not a complete ledger, but a part of what seems to be a record of payments / receipts of wine, oil, salt, spices, written in Drankorian. Just a fragment with no dates remains. No obvious value.
 
 ### Unusual Materials or Components
+- Material harvested from an ice worm: teeth, sensory patches, skin, and stomach acid
+- Material harvested from a white dragon: cold breath venom sack, scales, resistance organ, teeth, and claws
 - Two tuning forks. One is attuned to the elemental plane of air; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic. Taken from the Elemental Forge. 
 - Eight red dragon scales, from the Elemental Forge. 
 - Eternal ice, from the Elemental Forge
@@ -342,6 +343,7 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 
 ### Given Away
 
+- A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard), given to [Brimskarda](<../../people/giants/brimskarda.md>) as a gift   
 - Spell gem from [Kadmos](<../../people/chardonians/kadmos.md>) containing the Summon Greater Demon spell, given to the [Ancient and Honorable Guild of Philosophers](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) in exchange for [Philosopher's Information Concerning Ursk](<letters-and-notes/philosopher-s-information-concerning-ursk.md>)
 - A silver wand that functions as an arcane focus, found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [Fides Lucaris spy](<../../people/historical-figures/fides-lucaris-spy.md>) who attempted to free [Sh’shethis](<../../people/extraplanar-powers/shshethis.md>). If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. Given to the [Ancient and Honorable Guild of Philosophers](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) in exchange for [Philosopher's Information Concerning Rodnya Voknaz](<letters-and-notes/philosopher-s-information-concerning-rodnya-voknaz.md>). 
 - Brooch of Warmth. Constructed by [Faldrak](<../../people/dwarves/faldrak-bronzehammer.md>) and [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>) from the detailed brooch enameled with brilliant reds, missing a central crystal, and an enchanted ruby found in the chest of gems, clearly meant to fit into the brooch (from the Elemental Forge). While attuned to this item, the wearer gains resistance to cold damage, and is unaffected by temperatures as low as -50 degrees. Given to Faldrak as partial payment for magic item construction. 

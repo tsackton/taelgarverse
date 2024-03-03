@@ -4,7 +4,7 @@ tags: [person]
 campaignInfo:
 - {campaign: clee, type: met}
 name: Marion
-born: 1698
+born: 1694
 species: human
 ancestry: Sembaran
 gender: female
@@ -19,7 +19,7 @@ title: Marion
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
-    Born DR 1698 (51 years old)  
+    Born DR 1694 (55 years old)  
     Solider of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)  
     { .bio }
 
@@ -31,5 +31,4 @@ A solider of the Bridge Patrol.
 
 
 She was badly wounded during the events of the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>) and did not travel to [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) with the rest of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>). 
-
 

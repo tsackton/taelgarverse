@@ -7,6 +7,7 @@ species: human
 ancestry: lycanthrope
 gender: male
 died: 1748
+whereabouts: Tokra
 title: Werewolf Prisoner
 ---
 ### The Unnamed Werewolf

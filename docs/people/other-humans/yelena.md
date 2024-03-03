@@ -5,6 +5,7 @@ species: human
 ancestry: Urskan
 gender: female
 affiliations: [Rodyna Voknaz]
+whereabouts: Ursk
 title: Yelena
 ---
 # Yelena
@@ -15,6 +16,7 @@ title: Yelena
     Member of the Rodyna Voknaz  
     { .bio }
 
+    Based in [Ursk](<../../gazetteer/northern-green-sea/ursk.md>), the Northern Green Sea
 </div>
 
 

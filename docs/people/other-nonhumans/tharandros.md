@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 campaignInfo:
-- {campaign: DuFr, type: met, date: 1748-06-01}
+- {campaign: DuFr, type: met, date: 1748-04-12}
+- {campaign: DuFr, type: last seen, date: 1748-06-01}
 name: Tharandros
 born:
 species: centaur
 ancestry:
 gender: male
 whereabouts:
+- {type: away, start: 1748-04-12, end: 1748-04-12, location: Samtal}
 - {type: away, start: 1748-04-23, end: 1748-06-01, location: Karawa}
 - {type: away, start: 1748-07-18, location: Myraeni Gap}
 pronunciation: tha-RAN-dros
@@ -29,12 +31,18 @@ title: Tharandros
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 1st, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on April 12th, 1748 in [Samtal](<../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-![Tharandros](../../assets/tharandros.png){align="right"; width="500"}A centaur, the leader of a herd who the party met traveling across the northern plains of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). Convinced to aid [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), and proved crucial in driving off gnoll attacks. 
 
-Left to travel north in [Session 29 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-29-dufr.md>), around 1 June 1748. 
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 1st, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
+
+![Tharandros](../../assets/tharandros.png){align="right"; width="500"}A centaur, the leader of a wandering herd. Wise and knowledgable.
+
+
+The Dunmar Fellowship met this herd traveling across the [Samtal](<../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>), the northern plains of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), and convinced them to aid [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), which proved crucial in driving off gnoll attacks. 
+
+Tharandros stayed in Karawa for a time, but left to travel north with his herd in June, 1748.
 
 

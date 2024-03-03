@@ -62,7 +62,16 @@ Sura is a tall, striking Dunmari woman, with high cheekbones, light brown skin, 
 
 
 
+- Jun 08, 1748 DR, late afternoon: Arrive in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Speak with [Cintra](<./cintra.md>). Free prisoners from the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/mirror-of-soul-trapping.md>), including [Nayan Sura](<./sura.md>), the sister of the current ruler of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>).
+- Jun 19, 1748 DR: Feast of Bhishma continues with a day of rest and celebration. [Nayan Sura](<./sura.md>) announces herself to the Dunmari of Karawa.
+- Jul 01, 1748 DR, afternoon: Speak with [Kaleha](<./kaleha.md>), revealing [Sura](<./sura.md>)'s story. Speak with [Ardan](<./ardan.md>) at the [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), and learn more about recent events; [Govir](<./govir.md>), the missing archivist; and [Hada](<./hada.md>), the head scribe. Find clues in the form of records of Govir's research.
+- Jul 02, 1748 DR, noon: Return to [Kirian’s](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirians.md>). Asked to visit Dunmari army camp and speak with the commander. Attempt to spy with clarivoyance, but are detected. Narrowly avoid severe punishment after [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) admits to the spying; conscripted to get a message to [Sura](<./sura.md>) to try to prevent war. Use scroll of Sending.
+- Jul 13, 1748 DR: Speaker [Lara](<./lara.md>) returns. Discuss situation in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) and [Sura](<./sura.md>). Agree to escort [Johar](<./johar.md>) to [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).
+- Nov 27, 1748 DR:  Work on skyship, converting gold and silver to wire to construct the channeling device. Meet [Alesh](<./alesh.md>); speak with her about events in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) and give her letter and sending stone for [Sura](<./sura.md>). Sending with Ulfgar and [Govir](<./govir.md>), who both agree to do research.
+- Dec 01, 1748 DR: [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) attunes to the phasing stone and spends the day learning to control and fly [Vindristjarna](<../../things/ships/vindristjarna.md>); speak with [Sura](<./sura.md>) via Sending Stone
 - Dec 14, 1748 DR: The [Battle of Tokra](<../../events/1700s/1748/12/battle-of-tokra.md>). Sura's armies defeat the Karnas and his Chardonian allies outside of Tokra, and drive Karnas's troops south, towards Darba.
 - Dec 24, 1748 DR: Sura's confidant and captain, [Havdar](<./havdar.md>), arrives in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>) to fortify border defenses for an expected retaliation by the Chardonian legions
+- Feb 01, 1749 DR:  Reach the outskirts of the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>) in the morning. Speak with [Sura](<./sura.md>) on [Vindristjarna](<../../things/ships/vindristjarna.md>), then [Johar](<./johar.md>). Send messages to the Sonkar Mystai [Abha](<./abha.md>). Meditate with Sura in the evening.
+- Feb 03, 1749 DR: Tie up loose ends in Sura's camp.
 
 

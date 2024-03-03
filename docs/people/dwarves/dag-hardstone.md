@@ -9,13 +9,15 @@ ancestry:
 gender: male
 family: Hardstone
 whereabouts: Tokra
+affiliations:
+- {type: primary, org: Hardstones}
 title: Dag Hardstone
 ---
 # Dag Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
+    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the Hardstones  
     Born DR 1729 (20 years old)  
     { .bio }
 

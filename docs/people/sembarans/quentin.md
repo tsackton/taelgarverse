@@ -27,4 +27,4 @@ title: Quetin
 
 
 
-
+Quetin is a messenger and a member of the Army of the West.
