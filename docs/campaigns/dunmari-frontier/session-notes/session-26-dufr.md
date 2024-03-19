@@ -24,12 +24,12 @@ The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.
 ### Summary
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) returns to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), where they meet [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>) and gather news.
 - [Candrosa](<../../../people/dunmari/candrosa.md>) admits to manipulating [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) with magic,  and reveals the existence of the [Heart of Shakun](<../../../things/artifacts-of-power/heart-of-shakun.md>) and its link to the town's failing defenses.
-- "The party learns that [Cintra](<../../../people/dunmari/cintra.md>), the Supreme Oracle of Shakun, departed with the Heart to heal [her daughter](<../../../people/dunmari/jumi.md>), weakening Karawa's protections.
+- The party learns that [Cintra](<../../../people/dunmari/cintra.md>), the Supreme Oracle of Shakun, departed with the Heart to heal [her daughter](<../../../people/dunmari/jumi.md>), weakening Karawa's protections.
 - The party prepares for a ritual to understand the Heart's magic and [Shakun's Protection](<../../../cosmology/religions/five-siblings/shakun-s-protection.md>)
 - During the [initiation ritual](<../dreams-and-visions/the-shakun-mystai-initiation.md>) under the [mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), shadowy forms attack, leading to a desperate battle and the death of two mystai.
 
 ### Timeline
-- May 23, 1748 DR, evening: Reach [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Speak with centaur patrols. Meet [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>). Hear story of [Cintra](<../../../people/dunmari/cintra.md>) and Shakun's Heart from apologetic and floundering Candrosa[[.]]
+- May 23, 1748 DR, evening: Reach [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Speak with centaur patrols. Meet [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>). Hear story of [Cintra](<../../../people/dunmari/cintra.md>) and Shakun's Heart from apologetic and floundering [Candrosa](<../../../people/dunmari/candrosa.md>).
 - May 24, 1748 DR: Gather supplies in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
 - May 24, 1748 DR, dusk: Ritual of Shakun's Initiation. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) notices the mesa is crumbling. Attacked by shadows at conclusion of initiation ritual.
 
@@ -56,7 +56,7 @@ After that, the party returns to the temple in the evening, where [Candrosa](<..
 
 He leads the party through the temple to a chamber underneath the mesa, lit by torches that burn with blue fire. A pool of water sits in the middle of the cavern, which bursts into blue flame as a mystai plunges a torch into it. The party are given sips of some thick potion, and then pushed underwater, where they find that breathing is no issue and the fire does not burn as their eyes close. 
 
-They experience [The Shakun Mystai Initiation](<../dreams-and-visions/the-shakun-mystai-initiation.md>)
+They experience [The Shakun Mystai Initiation](<../dreams-and-visions/the-shakun-mystai-initiation.md>).
 
 As the initiation ritual ends, the party snaps awake to shouts in the darkness, screams, as through a veil of blue flames shadowy forms are detaching from the wall to attack. The shadows from [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>) have tracked the party, and taken this moment of vulnerability to launch and attack. Despite the difficulties of being caught without gear, the party fights off the shadows, although not before two mystai are killed, drained of energy and turned to withered husks by the shadow creatures. 
 

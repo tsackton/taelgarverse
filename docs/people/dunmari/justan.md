@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {endStatus: killed by Casian}
+tags: [person]
+displayDefaults: {endStatus: 'killed by [[Casian]]'}
 campaignInfo:
 - {campaign: dufr, date: 1748-07-21, type: met}
 name: Justan
@@ -11,7 +11,7 @@ ancestry: Dunmari
 gender: male
 died: 1748-07-23
 whereabouts:
-- {type: home, location: plains north of Tokra}
+- {type: home, location: ~North Tokra Plains~}
 - {type: away, start: 1748-05-01, end: 1748-07-23, location: Copper Hills}
 title: Justan
 ---
@@ -20,13 +20,13 @@ title: Justan
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
-    b. DR 1723 - d. July 23th, 1748, killed by Casian at age 25 years  
+    b. DR 1723 - d. July 23th, 1748, killed by [Casian](<../chardonians/casian.md>) at age 25 years  
     { .bio }
 
-    Lived in the [plains north of Tokra](<../../gazetteer/greater-dunmar/dunmari-basin/north-tokra-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Lived on the [~North Tokra Plains~](<../../gazetteer/greater-dunmar/dunmari-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Killed by Casian in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+:octicons-location-24:{ .lg .middle } Killed by [Casian](<../chardonians/casian.md>) in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 
 
 

@@ -22,7 +22,7 @@ title: Grumella the Vengeful
     Leader of the [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>) (until DR 1747)  
     { .bio }
 
-    Lived in the Voltara Plains, the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+    Lived the Voltara Plains
 </div>
 
 

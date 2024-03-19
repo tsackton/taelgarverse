@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/notes, status/refactor]
+tags: [status/needswork, status/cleanup/reformat]
 title: Message Stone
 ---
 

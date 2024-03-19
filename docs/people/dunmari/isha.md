@@ -10,7 +10,7 @@ ancestry: Dunmari
 gender: male
 whereabouts:
 - {type: away, location: Mirror of Soul Trapping, end: 1748-06-08}
-- {type: away, location: Karawa, start: 1748-06-09}
+- {type: home, location: Karawa, start: 1748-06-09}
 title: Isha
 ---
 # Isha
@@ -21,9 +21,8 @@ title: Isha
     { .bio }
 
     Originally from: Unknown
+    Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of June 9th, 1748): [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 
 
 

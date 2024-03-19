@@ -26,4 +26,4 @@ title: Yota
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 10th, 1748 in [Te'kula village](<../../gazetteer/chasa-nahadi-watershed/te-kula-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)  
 
 
-The chief of the [Te'kula](<../../groups/deno-qai/te-kula.md>) village.
+The chief of the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) village.

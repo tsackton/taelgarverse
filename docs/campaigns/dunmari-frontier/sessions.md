@@ -96,3 +96,4 @@
 - **Into the Cold** ([Dunmari Frontier - Session 91](<session-notes/session-91-dufr.md>), Mar 09, 1749 DR - Mar 18), 1749 DR: in which the party negotiates with frost giants (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
 - **Giants, Ice Worms, and Shapeshifers** ([Dunmari Frontier - Session 92](<session-notes/session-92-dufr.md>), Mar 18, 1749 DR - Mar 21), 1749 DR: in which a battle forges a new alliance (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
 - **Dragon's Defeat** ([Dunmari Frontier - Session 93](<session-notes/session-93-dufr.md>), Mar 21), 1749 DR: in which a dragon threat to the Vargaldi is vanquished (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
+- **The Monster Hunters** ([Dunmari Frontier - Session 94](<session-notes/session-94-dufr.md>), Mar 22, 1749 DR - Apr 15), 1749 DR: in which the party makes connections and contacts in Zvervinka (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)

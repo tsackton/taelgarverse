@@ -12,7 +12,7 @@ species: halfling
 ancestry:
 gender: female
 affiliations:
-- Society of the Open Scroll
+- {org: Society of the Open Scroll, end: 1748-09-12}
 - {org: Wildcloaks, type: primary}
 whereabouts:
 - {type: home, location: ''}
@@ -30,7 +30,7 @@ title: Dee Wildcloak
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Wildcloaks  
-    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
+    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) (until September 12th, 1748)  
     { .bio }
 
 </div>
@@ -52,7 +52,7 @@ Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon.
 ## Relationships
 - Dee has traveled and adventured with the dwarf [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) and the Chardonian [Alban](<../chardonians/alban.md>). 
 - Dee's adventures have largely been funded by the Chardonian wizard [Fausto](<../chardonians/fausto.md>)
-- Dee knows other adventurers associated with the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), including [Arcus](<../chardonians/arcus.md>) and  [Vola](<../chardonians/vola.md>). She is particularly friendly with Vola. 
+- Dee knows other adventurers associated with the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), including [Arcus](<../chardonians/arcus.md>) and  [Vola](<../chardonians/vola.md>). She is particularly friendly with Vola. 
 
 - Aug 22, 1748 DR: Dee Wildcloak has a short romantic encounter with [Wellby](<../pcs/dunmar-fellowship/wellby.md>)
 
@@ -75,15 +75,14 @@ Dee was part of a party of adventurers (herself, [Dain Goldhammer](<../dwarves/d
 After the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) acquired [Hralgar's Eyes](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>) from [Fausto](<../chardonians/fausto.md>) and caused a stir in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), Dee decided to flee south and get out of [Fausto](<../chardonians/fausto.md>)'s control, first traveling to [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) and then booking passage south, past the [Sea of Storms](<../../gazetteer/greater-dunmar/sea-of-storms.md>). 
 
 - Sep 12, 1748 DR: Dee Wildcloak leaves Chardon quietly, heading for Darba, hoping to escape Fausto's influence
-- Oct 19, 1748 DR: Dee Wildcloak writes to the Dunmar Fellowship and Wellby from the Green Leaf Inn, Darba. 
+- Oct 19, 1748 DR: Dee Wildcloak writes to the Dunmar Fellowship and Wellby from [the Green Leaf](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/the-green-leaf.md>) Inn, Darba. 
 - Oct 21, 1748 DR: Dee Wildcloak boards a ship heading south across the Sea of Storms in Darba
 
-| File                                                                                   | Event                                                                                                                                                                                              |
-| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Session 48 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-48-dufr.md>)   | [Dee Wildcloak](<./dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) recount their harrowing experience at [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), and reveal [Fausto](<../chardonians/fausto.md>) as a key expedition patron.                                           |
-| [Vola](<../chardonians/vola.md>)                                                   | Friendly with other adventurers for the Society of the Open Scroll, in particular [Dee Wildcloak](<./dee-wildcloak.md>), [Dain Goldhammer](<../dwarves/dain-goldhammer.md>), and [Alban](<../chardonians/alban.md>)                                                            |
-| [Vola](<../chardonians/vola.md>)                                                   | 21 Aug 1748: Meets [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Chardon at [The Thirsty Scholar](<../../gazetteer/west-coast/chardonian-empire/chardon/the-thirsty-scholar.md>); reports on news and makes introductions to [Dee Wildcloak](<./dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>).
+| File                                                                                 | Event                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Vola](<../chardonians/vola.md>)                                                 | Friendly with other adventurers for the Society of the Open Scroll, in particular [Dee Wildcloak](<./dee-wildcloak.md>), [Dain Goldhammer](<../dwarves/dain-goldhammer.md>), and [Alban](<../chardonians/alban.md>)                                                            |
+| [Vola](<../chardonians/vola.md>)                                                 | 21 Aug 1748: Meets [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Chardon at [The Thirsty Scholar](<../../gazetteer/west-coast/chardonian-empire/chardon/the-thirsty-scholar.md>); reports on news and makes introductions to [Dee Wildcloak](<./dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>).
                 |
-| [Session 48 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-48-dufr.md>)   | Aug 22, 1748 DR, noon: Meet [Dee Wildcloak](<./dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) for lunch. Learn that [Fausto](<../chardonians/fausto.md>), a rich scholar, has the [Eyes of Hralgar](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>). Dee flirts with [Wellby](<../pcs/dunmar-fellowship/wellby.md>). |
-| [Dunmari Frontier Timeline](<../../campaigns/dunmari-frontier/dunmari-frontier-timeline.md>) | Aug 22, 1748 DR, noon: Meet [Dee Wildcloak](<./dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) for lunch. Learn that [Fausto](<../chardonians/fausto.md>), a rich scholar, has the [Eyes of Hralgar](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>). Dee flirts with [Wellby](<../pcs/dunmar-fellowship/wellby.md>). |
+| [Session 48 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-48-dufr.md>) | [Dee Wildcloak](<./dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) recount their harrowing experience at [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), and reveal [Fausto](<../chardonians/fausto.md>) as a key expedition patron.                                           |
+| [Session 48 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-48-dufr.md>) | Aug 22, 1748 DR, noon: Meet [Dee Wildcloak](<./dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) for lunch. Learn that [Fausto](<../chardonians/fausto.md>), a rich scholar, has the [Eyes of Hralgar](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>). Dee flirts with [Wellby](<../pcs/dunmar-fellowship/wellby.md>). |
 `

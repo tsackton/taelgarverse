@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/unknown]
+tags: [person, status/cleanup/refactor, status/cleanup/header]
 campaignInfo: []
 name: Karmana
 born:
@@ -17,6 +17,9 @@ title: Karmana
     { .bio }
 
 </div>
+
+
+
 
 
 The last master of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) at the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>), now a ghost. 

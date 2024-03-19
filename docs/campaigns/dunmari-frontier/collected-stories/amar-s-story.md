@@ -1,6 +1,5 @@
 ---
-tags: [status/unknown]
-title: Amar's Story
+{title: Amar's Story}
 ---
 (as told to [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) in [Session 43 (DuFr)](<../session-notes/session-43-dufr.md>))
 

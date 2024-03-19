@@ -22,7 +22,7 @@ title: Dunmari Frontier - Session 90
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) engages in intricate diplomacy to reconcile siblings [Sura](<../../../people/dunmari/sura.md>) and [Nayan Karnas](<../../../people/dunmari/nayan-karnas.md>), uncovering and dispelling suspicions manipulated by [Agata](<../../../people/fey/agata.md>).
 ## Session Info
 
-***Delwath, Wellby, and Riswynn acquire Skaer steel weapons and shields from [Umli](<../../../people/other-nonhumans/umli.md>) in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>)***
+***Delwath, Wellby, and Riswynn acquire [Skaer steel](<../../../things/materials/skaer-steel.md>) weapons and shields from [Umli](<../../../people/other-nonhumans/umli.md>) in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>)***
 ### Summary
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) departs to Sura's camp in the [Copper Hills](<../../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>) to mediate a conflict between her and [Nayan Karnas](<../../../people/dunmari/nayan-karnas.md>).
 - They share news of the [War of the Cloak](<../../../events/1700s/war-of-the-cloak.md>) and the [Battle for Uzgukhar](<../../../events/1700s/1749/battle-for-uzgukhar.md>), and learn of Karnas' distrust towards Sura due to Agata's alleged influence.
@@ -43,9 +43,9 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - Feb 09, 1749 DR: Travel towards [Orenlas](<../../../gazetteer/istaros-watershed/orenlas/orenlas.md>), crossing the eastern [Plaguelands](<../../../gazetteer/istaros-watershed/plaguelands.md>). 
 - Feb 10, 1749 DR: Travel towards [Orenlas](<../../../gazetteer/istaros-watershed/orenlas/orenlas.md>), arriving late at night. 
 - Feb 11, 1749 DR: Spend the day in [Orenlas](<../../../gazetteer/istaros-watershed/orenlas/orenlas.md>), speaking with [Egnir](<../../../people/elves/egnir.md>). 
-- Feb 12, 1749 DR: Depart [Orenlas](<../../../gazetteer/istaros-watershed/orenlas/orenlas.md>) in the afternoon, crossing the ~Cymea Border Mountains~ in the night. 
+- Feb 12, 1749 DR: Depart [Orenlas](<../../../gazetteer/istaros-watershed/orenlas/orenlas.md>) in the afternoon, crossing the [~Cymea Border Mountains~](<../../../gazetteer/western-green-sea/cymea-border-mountains.md>) in the night. 
 - Feb 13, 1749 DR: Travel across [Latazaro](<../../../gazetteer/western-green-sea/cymea/latazaro.md>) swamp and the [Western Gulf](<../../../gazetteer/western-green-sea/western-gulf.md>) towards [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>).
-- Feb 14, 1749 DR: Cross the [Western Gulf](<../../../gazetteer/western-green-sea/western-gulf.md>) and the ~Gulf of Tollen~, traveling towards [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>).
+- Feb 14, 1749 DR: Cross the [Western Gulf](<../../../gazetteer/western-green-sea/western-gulf.md>) and the [~Gulf of Tollen~](<../../../gazetteer/western-green-sea/gulf-of-tollen.md>), traveling towards [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>).
 - Feb 15, 1749 DR: Arrive outside [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>) in the morning. Contact [Adam Gower](<../../../people/tollenders/adam-gower.md>) and others, and dock [Vindristjarna](<../../../things/ships/vindristjarna.md>) for construction.
 - Feb 16, 1749 DR - Mar 08, 1749 DR: [Downtime in Tollen](<./interlude-tollen-downtime.md>).
 - Mar 09, 1749 DR: Meet the kenku scout [Kecha](<../../../people/kenku/kecha.md>) on [Vindristjarna](<../../../things/ships/vindristjarna.md>). Shadow hunter attack well after midnight. 

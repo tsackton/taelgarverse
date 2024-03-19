@@ -23,7 +23,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 ## Session Info
 
-***The Dunmar Fellowship escapes Stormcaller Tower with a [number of treasures](<../treasure/stormcaller-tower-hoard.md>).***
+***The Dunmar Fellowship escapes [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) with a [number of treasures](<../treasure/stormcaller-tower-hoard.md>).***
 ### Summary
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) shares personal stories and contemplates recent mysteries over breakfast.
 - They fend off a desperate gnoll attack while traveling south towards Karawa.

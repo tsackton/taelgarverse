@@ -20,7 +20,7 @@ The war began when [Grash](<../../people/other-nonhumans/grash.md>) marched east
 
 - Nov 27, 1748 DR: Grash departs Kharsan with an army of orcs and undead
 - Dec 05, 1748 DR: Grash arrives on the outskirts of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>)
-- Dec 06, 1748 DR: [Khumarz](<../../gazetteer/istaros-watershed/xurkhaz/khumarz.md>) is attacked after nightfall by Grash's army. The orc garrison at [Khumarz](<../../gazetteer/istaros-watershed/xurkhaz/khumarz.md>) manages to repel Grash's forces, keeping them from crossing the Kulthul
+- Dec 06, 1748 DR: [Khumarz](<../../gazetteer/istaros-watershed/xurkhaz/khumarz.md>) is attacked after nightfall by Grash's army. The orc garrison at [Khumarz](<../../gazetteer/istaros-watershed/xurkhaz/khumarz.md>) manages to repel Grash's forces, keeping them from crossing the [Kulthul](<../../gazetteer/istaros-watershed/rivers/kulthul.md>)
 - Dec 08, 1748 DR: A small company of elite adventurers attacks [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>) in the early morning hours, hoping to acquire the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>) and vanish. They are defeated and killed or captured by [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>). 
 - Dec 11, 1748 DR:  Battle of the Kulthul. The orc army is overrun at [Khumarz](<../../gazetteer/istaros-watershed/xurkhaz/khumarz.md>), and Grash's forces cross the Kulthul into [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>). Grash's army now consists entirely of undead. 
 - Dec 15, 1748 DR: Grash's army reaches [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>)

@@ -27,16 +27,16 @@ title: Dunmari Frontier - Delwath Solo Session 3
 - After a fierce battle, the hobgoblins and their wizard leader are defeated; the party retrieves the Shadow Armband from the wizard's severed arm.
 - In the shadow realm, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) banishes himself and the tanshi [Taraka](<../../../cosmology/gods/tanshi/taraka.md>) back to the material plane while leaving the hobgoblin army trapped.
 - At the site of the Battle of Ye'mote, the party defeats an undead hobgoblin warlock and his minions, releasing the last of the trapped [Meswati](<../../../cosmology/gods/tanshi/meswati.md>) with the destruction of another armband.
-- The party returns to the Ko'zula village to celebrate, and Delwath parts ways with [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) and [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>).
+- The party returns to the [Ko'zula village](<../../../gazetteer/far-north/ko-zula-village.md>) to celebrate, and Delwath parts ways with [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) and [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>).
 
 ### Timeline
-- Oct 09, 1748 DR, afternoon: Arrive in [Ko'zula](<../../../groups/deno-qai/northern-tribes/ko-zula.md>) land. Rest.
+- Oct 09, 1748 DR, afternoon: Arrive in [Ko'zula](<../../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>) land. Rest.
 - Oct 06, 1748 DR:  Walk all day and night back into the [Forest of Nightmares](<../../../gazetteer/far-north/forest-of-nightmares.md>), towards the site of the Battle of Endless Dark
 - Oct 06, 1748 DR, midday: Arrive at the site of the Battle of Endless Dark. Meet the ghost of a betrayed giant, slain by Deno'qai. Learn that the tanshi and a hobgoblin army are trapped through a portal to a shadow realm. Kill Hobgoblins guarding the portal on the shadow side. Rest, and return to banish the tanshi [Taraka](<../../../cosmology/gods/tanshi/taraka.md>) from the shadow realm back to their home plane. Flee, closing the portal with the Hobgoblins trapped inside. 
 - Oct 06, 1748 DR, afternoon: Rest briefly, then leave for the site of the Battle of the [Yemo'te](<../../../gazetteer/far-north/yemo-te.md>). 
 - Oct 06, 1748 DR, midday: Arrive at the battlefield on the banks of the [Yemo'te](<../../../gazetteer/far-north/yemo-te.md>). Fight cursed undead hobgoblin wizard and skeletal minions. Destroy armband, freeing the tanshi [Midri](<../../../cosmology/gods/tanshi/midri.md>) and [K'onisati](<../../../cosmology/gods/tanshi/k-onisati.md>)
-- Oct 06, 1748 DR: Travel back to [Ko'zula](<../../../groups/deno-qai/northern-tribes/ko-zula.md>) village. Rest in the woods on the way.
-- Oct 06, 1748 DR: Arrive back at the [Ko'zula](<../../../groups/deno-qai/northern-tribes/ko-zula.md>) village; celebrate. Part ways with [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) and [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>). 
+- Oct 06, 1748 DR: Travel back to [Ko'zula](<../../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>) village. Rest in the woods on the way.
+- Oct 06, 1748 DR: Arrive back at the [Ko'zula](<../../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>) village; celebrate. Part ways with [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) and [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>). 
 
 
 ## Narrative
@@ -50,4 +50,4 @@ After a brief rest, the group then heads for the final battlefield, the Battle o
 
 Across the river the party can see the rotted body of a hobgoblin warlock, with a shadow armband. As they move to approach, hoards of undead attack. The relentless swarms of undead fall easily in battle, but they seem to be endless, until [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>) strikes the warlock down with a critical strike of divine energy. As the undead fall away, [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) destroys the last armband, freeing [Midri](<../../../cosmology/gods/tanshi/midri.md>) and [K'onisati](<../../../cosmology/gods/tanshi/k-onisati.md>). 
 
-We end as the party returns to the [Ko'zula](<../../../groups/deno-qai/northern-tribes/ko-zula.md>) village to celebrate, and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) bids farewell to [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) and [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>). 
+We end as the party returns to the [Ko'zula](<../../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>) village to celebrate, and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) bids farewell to [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) and [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>). 

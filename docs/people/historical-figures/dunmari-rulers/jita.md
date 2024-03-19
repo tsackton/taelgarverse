@@ -26,7 +26,7 @@ whereabouts:
     Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1402 - DR 1460)  
     { .bio }
 
-    Originally from: the plains of Songara, [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Originally from: the [plains of Songara](<../../../gazetteer/greater-dunmar/dunmari-basin/songara-plains.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
     Lived in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 

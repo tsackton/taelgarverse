@@ -26,7 +26,7 @@ title: Kadmos
 
     A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
     b. DR 1711 - d. December 8th, 1748, killed at age 37 years  
-    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>) (until December 8th, 1748)  
+    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) (until December 8th, 1748)  
     Cultist of [The Cleansed](<../../groups/the-cleansed.md>) (until December 8th, 1748)  
     { .bio }
 

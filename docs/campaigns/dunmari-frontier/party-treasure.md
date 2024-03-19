@@ -13,7 +13,7 @@ Major items:
 - [Rod of the Pact Keeper](<treasure/treasure-from-kadmos-and-company/rod-of-the-pact-keeper.md>) (uncommon major item)
 
 Minor items:
-- [Magic Cooking Pouch](<treasure/treasure-from-the-elderwood/magic-cooking-pouch.md>) (uncommon minor item, acquired from the [Te'kula](<../../groups/deno-qai/te-kula.md>) village in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
+- [Magic Cooking Pouch](<treasure/treasure-from-the-elderwood/magic-cooking-pouch.md>) (uncommon minor item, acquired from the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) village in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
 - [Horn of Silent Alarm](<treasure/treasure-from-dunmari-ruins/horn-of-silent-alarm.md>) (common minor item)
 - Ring of Sharp Mind (rare minor item). Constructed by [Faldrak](<../../people/dwarves/faldrak-bronzehammer.md>) and [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>) at the Elemental Forge from the plain gold ring with an empty setting for a small gem, and an enchanted diamond found in the chest of gems, clearly meant to fit into the ring. If you fail a Constitution saving throw to maintain concentration on a spell while wearing this ring, you can choose to succeed instead. Once you do this, a facet of the diamond turns cloudy. The diamond has six facets. When all facets are cloudy, the ring becomes non-magical. 
 ### Wellby 
@@ -29,8 +29,8 @@ Minor items:
 - [Driftglobe](<treasure/treasure-from-raven-s-hold/driftglobe.md>) (uncommon minor item)
 - [Moon Necklace](<treasure/treasure-from-solo-adventures/moon-necklace.md>) (common minor item)
 - [Message Stone](<treasure/treasure-from-agata/message-stone.md>)(uncommon minor item; [Sura](<../../people/dunmari/sura.md>) has the paired stone)
-- Hat of Vermin (common minor item, acquired from the [Te'kula](<../../groups/deno-qai/te-kula.md>) village in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
-- Clockwork Amulet (common minor item, acquired from the [Te'kula](<../../groups/deno-qai/te-kula.md>) village in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
+- Hat of Vermin (common minor item, acquired from the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) village in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
+- Clockwork Amulet (common minor item, acquired from the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) village in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
 - Tattoo of Darkvision (uncommon minor item, acquired from [Cecilia Lister](<../../people/tollenders/cecilia-lister.md>) in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>))
 - 9 quivers of Skaer arrows, constructed by [Umli](<../../people/other-nonhumans/umli.md>)
 
@@ -51,7 +51,7 @@ Minor items:
 - [Message Stone](<treasure/treasure-from-agata/message-stone.md>) (uncommon minor item) (given to [Sura](<../../people/dunmari/sura.md>))
 - [Dream Mirror](<treasure/treasure-from-agata/dream-mirror.md>) (common minor item)
 - [Aagir's Everlight](<treasure/treasure-from-dunmari-ruins/aagir-s-everlight.md>) (common minor item)
-- Cloak of the mantra ray (uncommon minor item, acquired from the [Te'kula](<../../groups/deno-qai/te-kula.md>) village in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
+- Cloak of the mantra ray (uncommon minor item, acquired from the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) village in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
 
 Other:
 - Scrolls of Storykeeping, from [Saka](<../../people/dunmari/saka.md>) ([Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>)). 10 total, 9 used:
@@ -78,7 +78,7 @@ Minor items:
 - [Wand of Detect Magic](<treasure/treasure-from-the-elderwood/wand-of-detect-magic.md>) (uncommon minor item)
 - [Sunset Thread](<treasure/treasure-from-solo-adventures/sunset-thread.md>) (common minor item)
 - [Charlatan's Dice](<treasure/treasure-from-agata/charlatan-s-dice.md>) (common minor item)
-- Immovable rod (uncommon minor item, acquired from the [Te'kula](<../../groups/deno-qai/te-kula.md>) village in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
+- Immovable rod (uncommon minor item, acquired from the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) village in [the Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
 
 Not in use:
 - [Cha'mutte’s Shadow Armband](<treasure/treasure-from-solo-adventures/cha-muttes-shadow-armband.md>) (legendary major item)
@@ -97,7 +97,7 @@ Major items:
 - [Shatterstorm](<treasure/treasure-from-raven-s-hold/shatterstorm.md>) (rare major item)
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>) in exchange for her aid.
 - [Silverspark Gauntlets](<treasure/treasure-from-solo-adventures/silverspark-gauntlets.md>) (uncommon major item)
-- Masterwork shield, constructed of 7.5 lb of Skaer steel by [Umli](<../../people/other-nonhumans/umli.md>). Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. 
+- Masterwork shield, constructed of 7.5 lb of [Skaer steel](<../../things/materials/skaer-steel.md>) by [Umli](<../../people/other-nonhumans/umli.md>). Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. 
 
 Minor items:
 - Coin of Delving (common minor item)
@@ -205,7 +205,7 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 - A treatise about alchemy carved on metal cylinders, author unknown, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s hoard.  
 - The [Enchiridion of the Occulta Ludum](<../../things/books/enchiridion-of-the-occulta-ludum.md>), a small pamphlet titled in Drankorian, faintly magical and empty inside. Found in Eudomes' tower. 
 - A second copy of “The [Enchiridion of the Occulta Ludum](<../../things/books/enchiridion-of-the-occulta-ludum.md>)”, also blank and slightly magical. Found in the bedroom of the Elemental Forge workshop.
-- Tales Before the Fall, a huge book written in Giant, with tales of giants, from Eudomes' tower. 
+- [Tales Before the Fall](<../../things/books/tales-before-the-fall.md>), a huge book written in Giant, with tales of giants, from Eudomes' tower. 
 - On the Ordering of Giants, ancient, written in a strange language presumed to be the first tongue of humans, on giants, from Eudomes' tower. 
 - [Journeys of Souls](<../../things/books/journeys-of-souls.md>), ancient, written in a strange language presumed to be the first tongue of humans, on the afterlife, from Eudomes' tower. 
 - Four books from [Hralgar](<../../people/giants/hralgar.md>)'s library: 
@@ -302,8 +302,8 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 
 #### In Tollen
 - A collection of Tollender goods, that survived water damage: 20 bolts of brilliantly dyed red cloth; 4 crates of fine linen shits; 2 crates of red Tollender cloaks (one of which [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>) takes); 6 small crates of beaver fur hats in a variety of styles. Left with [Adam Gower](<../../people/tollenders/adam-gower.md>) to sell / trade.
-- 8 swords and 4 spears of Skaer steel (used by Skaer warriors killed on [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>); gifted to party in their honor by Vaalinen). Given to [Umli](<../../people/other-nonhumans/umli.md>) to reuse. 
-- 5 pounds Skaer steel, gifted by the Skaer. Given to [Umli](<../../people/other-nonhumans/umli.md>) to reuse.
+- 8 swords and 4 spears of [Skaer steel](<../../things/materials/skaer-steel.md>) (used by Skaer warriors killed on [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>); gifted to party in their honor by Vaalinen). Given to [Umli](<../../people/other-nonhumans/umli.md>) to reuse. 
+- 5 pounds [Skaer steel](<../../things/materials/skaer-steel.md>), gifted by the Skaer. Given to [Umli](<../../people/other-nonhumans/umli.md>) to reuse.
 - The [Flaming Tempest](<../../things/ships/flaming-tempest.md>), once [Urgall](<../../people/skaer/urgall-the-black.md>)'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in it's current state. Being dismantled and converted to usable timber in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 #### In Chardon
 
@@ -316,7 +316,7 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 
 (All sold in [Session 46 (DuFr)](<session-notes/session-46-dufr.md>))
 
-- [Lyrics of a New Age](<../../things/books/lyrics-of-a-new-age.md>). A book of elvish poetry by Nelawe. Found in [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). Could sell to an interested party for 50-200 gp. Sold for 220 gp. 
+- [Lyrics of a New Age](<../../things/books/lyrics-of-a-new-age.md>). A book of elvish poetry by [Nelawe](<../../people/elves/nelawe.md>). Found in [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). Could sell to an interested party for 50-200 gp. Sold for 220 gp. 
 - Tarot Cards. Finely painted on thin ivory; Moon Tarot Card found separately on the trap keeper’s person. From the werewolf lair in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Probably worth 20-360gp. Sold for 250 gp. 
 - Iron dial used to track moon phases from werewolves in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Probably worth 5-30gp. Sold for 6 gp. 
 - A single small turquoise stone, found in wvyern lair. Sold for 70 gp.

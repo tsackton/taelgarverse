@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/notes, status/unknown]
+tags: [person, dufr/met, dufr/minor, status/needswork/notes, status/unknown]
 campaignInfo: []
 name: Alayah
 born: 1725
@@ -23,7 +23,7 @@ title: Alayah
 </div>
 
 
-The young Godcaller of the [Te'kula](<../../groups/deno-qai/te-kula.md>) tribe in the Elderwood. Dreamed of [Rai](<../pcs/great-war/rai.md>) and [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>). 
+The young Godcaller of the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) tribe in the Elderwood. Dreamed of [Rai](<../pcs/great-war/rai.md>) and [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>). 
 
 Gave her [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) to [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) after [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) defeated the green dragon [Grimbaskal](<../other-nonhumans/mezzar.md>). 
 

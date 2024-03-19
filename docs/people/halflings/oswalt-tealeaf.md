@@ -9,7 +9,8 @@ born:
 species: halfling
 ancestry:
 gender: male
-affiliations: [Tealeafs]
+affiliations:
+- {org: Tealeafs, type: primary}
 whereabouts:
 - {type: home, end: 1747, prefix: roads of, location: Dunmar}
 - {type: away, start: 1748, end: 1748-08-08, location: The Green Leaf}
@@ -21,8 +22,7 @@ title: Oswalt Tealeaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him)  
-    Member of the Tealeafs  
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the Tealeafs  
     { .bio }
 
     Originally from: [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

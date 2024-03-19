@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, dufr/met, dufr/minor, status/unknown]
+tags: [event-source, person, status/cleanup/header]
 campaignInfo: []
 name: Amil
 born: 1731
@@ -9,8 +9,8 @@ ancestry: Dunmari
 gender: male
 affiliations: [Order of the Awakened Soul]
 whereabouts:
-- {type: home, start: 1731, location: Pava and Avaras' House}
-- {type: away, start: 1749, end: 9999, location: Vindristjarna}
+- {type: home, start: 1747, end: 1749-01-30, location: Pava and Avaras' House}
+- {type: away, start: 1749-01-30, end: 9999, location: Vindristjarna}
 image: amil-small.png
 title: Amil
 ---
@@ -23,10 +23,11 @@ title: Amil
     Member of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)  
     { .bio }
 
-    Based in [Pava and Avaras' House](<../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
+    Originally from: Unknown
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+
 
 
 
@@ -40,3 +41,9 @@ title: Amil
 - May 02, 1748 DR *(Amil)*: Arrives at Pava and Avaras' House with The Dunmar Fellowship. 
 - May 17, 1748 DR *(Amil)*: At Pava and Avaras' House when [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) spend the night
 
+## Gallery
+![Amil Martial Arts](../../assets/amil-martial-arts.png){width="400"}
+
+![Amil Snow Forest](../../assets/amil-snow-forest.png){width="400"}
+
+![Amil Skyship Garden](../../assets/amil-skyship-garden.png){width="400"}

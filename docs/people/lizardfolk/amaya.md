@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [mc/background, person, status/stub, status/unknown]
+tags: [person, status/cleanup/header]
 campaignInfo: []
 name: Amaya
 born:
@@ -20,6 +20,8 @@ title: Amaya
 
     Based in [Eskorola](<../../gazetteer/west-coast/mawar-confederacy/eskorola.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 </div>
+
+
 
 
 A lizardfolk scout and hunter.

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person]
 campaignInfo:
-- {campaign: DuFr, date: '1748-12-30', type: met}
+- {campaign: DuFr, date: 1748-12-30, type: met}
 name: Jane Chapman
 born: 1715
 activeYear: 1740
@@ -34,7 +34,5 @@ whereabouts:
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Dyer's Guildhall](<../../gazetteer/western-green-sea/tollen/dyer-s-guildhall.md>), the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
-A Tollender-born woman in her early 30s, from the well-off and well-established Chapman merchant family, Jane became a Dyer's Guild captain known for her skill and her luck at sea.  
-
-![Jane Chapman Portrait](../../assets/jane-chapman-portrait.png){align="right"; width="320"}
+![Jane Chapman Portrait](../../assets/jane-chapman-portrait.png){align="right"; width="320"}A Tollender-born woman in her early 30s, from the well-off and well-established Chapman merchant family, Jane became a Dyer's Guild captain known for her skill and her luck at sea.  
 

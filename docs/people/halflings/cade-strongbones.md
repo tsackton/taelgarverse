@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person]
+tags: [person]
 campaignInfo:
 - {campaign: dufr, date: 1748-06-30, type: met}
 name: Cade Strongbones
@@ -31,3 +31,5 @@ title: Cade Strongbones
 
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 30th, 1748 in [The Red Lily Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-red-lily-inn.md>), [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
+
+One of the twin sons of [Wes Strongbones](<./wes-strongbones.md>); Cade helps run [The Red Lily Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-red-lily-inn.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).

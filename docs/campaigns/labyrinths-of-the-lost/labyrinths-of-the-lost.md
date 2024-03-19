@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [meta]
 title: Labyrinths of the Lost
 ---
 

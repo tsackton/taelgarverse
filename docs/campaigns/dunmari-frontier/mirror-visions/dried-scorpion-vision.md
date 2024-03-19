@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork, status/unknown]
+tags: [status/needswork, status/cleanup/header]
 title: Dried Scorpion Vision
 ---
 

@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
+tags: [person]
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-07-06}
 name: Jita
 born: 1713
 species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: plains north of Tokra}
+- {type: home, location: ~North Tokra Plains~}
 title: Jita
 ---
 # Jita
@@ -18,8 +20,13 @@ title: Jita
     Born DR 1713 (36 years old)  
     { .bio }
 
-    Based in the [plains north of Tokra](<../../gazetteer/greater-dunmar/dunmari-basin/north-tokra-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based on the [~North Tokra Plains~](<../../gazetteer/greater-dunmar/dunmari-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 6th, 1748 on the [~North Tokra Plains~](<../../gazetteer/greater-dunmar/dunmari-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
 A Dunmari herder living on the northern plains, north of Tokra. Niece of [Saka](<./saka.md>), and has generally taken charge of helping Saka around camp. 
+

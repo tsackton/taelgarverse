@@ -41,5 +41,3 @@ As is typical for halfling ships, the Emerald Song is crewed in large part by me
 - [Ewen Silversong](<../../people/halflings/ewen-silversong.md>), singer and storyteller
 - [Pearl Copperharp](<../../people/halflings/pearl-copperharp.md>), cook
 - [Lyle Honeyhill](<../../people/halflings/lyle-honeyhill.md>), navigator
-
-

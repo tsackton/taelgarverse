@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/cleanup/header]
 campaignInfo: []
 name: Aram
 born: 1717
@@ -25,4 +25,6 @@ title: Aram
 </div>
 
 
-A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) in [Havdar](<./havdar.md>)'s service, and unofficial spiritual leader of Havdar's Warband
+
+
+A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>) in [Havdar](<./havdar.md>)'s service, and unofficial spiritual leader of Havdar's Warband.

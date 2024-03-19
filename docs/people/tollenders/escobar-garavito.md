@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/needswork/internal]
+tags: [person, status/cleanup/header]
 campaignInfo: []
 name: Escobar Garavito
 born: 1727
@@ -27,8 +27,12 @@ title: Escobar Garavito
 </div>
 
 
-A young and charismatic student at the University of [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), Escobar's journey from the humble village of [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>) in [Cymea](<../../gazetteer/western-green-sea/cymea/cymea.md>) to the bustling streets of [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) showcases his adaptability and determination.
 
 
+![Escobar Garavito](../../assets/escobar-garavito.png){align="right"; width="400"}A young and charismatic student at the University of [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), Escobar's journey from the humble village of [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>) in [Cymea](<../../gazetteer/western-green-sea/cymea/cymea.md>) to the bustling streets of [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) showcases his adaptability and determination.
 
-![Escobar Garavito](../../assets/escobar-garavito.png)
+He is supported by a scholarship from the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>), sponsored by [Cecilia Lister](<./cecilia-lister.md>), and often does favors and errands for her and other senior [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>) leaders. 
+
+Escobar is outgoing and gregarious, and often at the center of student activities and student life at the [University of Tollen](<../../gazetteer/western-green-sea/tollen/university-of-tollen.md>).
+
+

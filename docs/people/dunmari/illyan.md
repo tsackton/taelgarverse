@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/notes, status/unknown]
+tags: [person]
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-07-02}
 name: Illyan
 born: 1708
 species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: away, start: 1748-11-23, location: Tokra}
+- {type: away, start: 1748-06-03, end: 1748-12-14, linkText: camped near, location: Tokra, format: '<name:q>'}
 title: Illyan
 ---
 # Illyan
@@ -21,5 +23,11 @@ title: Illyan
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of November 23th, 1748): [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of December 14th, 1748): camped near [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 2nd, 1748 camped near [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
+A commander in the army of [Nayan Karnas](<./nayan-karnas.md>). Stationed outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) during the Summer Gnoll Raids of 1748 and the [Siblings War](<../../events/1700s/siblings-war.md>). Fought in the [Battle of Tokra](<../../events/1700s/1748/12/battle-of-tokra.md>). 

@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
-campaignInfo: []
+tags: [person]
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-06-30}
+- {campaign: dufr, type: Constructed portable hole for, date: 1748-07-15}
 name: Basu
 born: 1705
 species: human
@@ -24,8 +26,17 @@ title: Basu
 </div>
 
 
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 30th, 1748 in the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } The Constructed portable hole for by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 15th, 1748 in the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
 The grumpy craftsman of the Lakan monks, known for creating magic items that channel extradimensional space, like bags of holding and portable holes. 
 
-With [Kassi](<./kassi.md>), although not formally married. 
+Romantically involved with [Kassi](<./kassi.md>), although not formally married. 
 
-Made the [Portable Hole](<../../campaigns/dunmari-frontier/treasure/treasure-from-tokra/portable-hole.md>) for the party after they helped him gather extraplanar energy of [Arborea](<../../cosmology/multiverse/spiritual-realms/primal-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the monastery. 
+
+Constructed a the [Portable Hole](<../../campaigns/dunmari-frontier/treasure/treasure-from-tokra/portable-hole.md>) for the Dunmar Fellowship, after they helped him gather extraplanar energy of [Arborea](<../../cosmology/multiverse/spiritual-realms/primal-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the monastery. 

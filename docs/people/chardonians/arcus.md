@@ -25,7 +25,7 @@ title: Arcus
 
     A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
     b. DR 1723 - d. March 15th, 1748, petrified at age 25 years  
-    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>) (until March 15th, 1748)  
+    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) (until March 15th, 1748)  
     { .bio }
 
     Lived in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
@@ -38,11 +38,9 @@ title: Arcus
 :octicons-location-24:{ .lg .middle } Discovered as a statue by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 25th, 1748 in the [Dunmari Fort (Gomat)](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>)  
 
 
-An adventurer and treasure hunter from the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), found petrified in the fort east of [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>). 
+An adventurer and treasure hunter from the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), found petrified in the fort east of [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>). 
 
 Left [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) with [Servius](<./servius.md>), [Dee Wildcloak](<../halflings/dee-wildcloak.md>), [Dain Goldhammer](<../dwarves/dain-goldhammer.md>), and [Alban](<./alban.md>). Argued constantly with [Servius](<./servius.md>), acording to [Dee Wildcloak](<../halflings/dee-wildcloak.md>). Parted ways with other travelers in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), presumably to press ahead. 
 
 Passed through [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) alone in late February or early March, according to [Jasu](<../dunmari/jasu.md>) and [Ikram](<../dunmari/ikram.md>).
 
-- Mar 25, 1748 DR, afternoon: Explore [the ruined fort](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>) and the caves below. Find a petrified explorer (later revealed to be [Arcus](<./arcus.md>)). Find and defeat an undead creature carrying a symbol of [Cha'mutte](<../extraplanar-powers/cha-mutte.md>). Destroy cursed obsidian stone on its staff that seems to be causing beasts to rampage.
-- Mar 29, 1748 DR, early afternoon: Arrive in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Speak with Elder [Kisa](<../dunmari/kisa.md>), who tells them about the [Summer of Red Storms](<../../events/1700s/1709/summer-of-red-storms.md>). Meet [Ikram](<../dunmari/ikram.md>), who tells them about [Arcus](<./arcus.md>). Meet the smith, [Jasu](<../dunmari/jasu.md>). Meet the [Charmhearts](<../../groups/halfling-families/charmhearts.md>).

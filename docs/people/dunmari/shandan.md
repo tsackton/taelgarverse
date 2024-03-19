@@ -23,7 +23,7 @@ title: Shandan
     Leader of the Shandan's Warband  
     { .bio }
 
-    Based in the plains of Songara, [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in the [plains of Songara](<../../gazetteer/greater-dunmar/dunmari-basin/songara-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

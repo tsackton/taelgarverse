@@ -16,4 +16,4 @@ title: Clawyn
 </div>
 
 
-A small village a few days ride south of [Tafolwern](<./tafolwern.md>), known for its vineyards. 
+A small village a few days ride south of [Tafolwern](<./tafolwern.md>), in the gentle northern slopes of the [Mostreve Hills](<../mostreve-hills.md>), known for its vineyards and wine. There is little here other than a small temple to the Mother 

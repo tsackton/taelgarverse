@@ -14,7 +14,7 @@ During the journey from the [Copper Hills](<../../../gazetteer/greater-dunmar/da
 ## Questions
 
 - Is there a kingdom ruled by a vampire on the north coast of the Green Sea? **YES**
-- Does [Rodnya Voknaz](<../../../groups/rodnya-voknaz.md>) currently have a jade piece of Rai’s hand? **UNKNOWN**
+- Does [Rodnya Voknaz](<../../../groups/urskan-magical-organizations/rodnya-voknaz.md>) currently have a jade piece of Rai’s hand? **UNKNOWN**
 - Is [Radomir](<../../../people/other-humans/radomir.md>)’s sister [Yelena](<../../../people/other-humans/yelena.md>) a member of the Rodnya Voknaz? **YES**
 - Is Lord [Rhodar von Glauer](<../../../people/other-nonhumans/rhodar-von-glauer.md>) a vampire? **YES**
 - Are the [Vargaldi](<../../../groups/vargaldi.md>) human? **UNCERTAIN**
@@ -46,7 +46,7 @@ Reported here: [Scrying Delwath Tollen Downtime](<../scrying-and-spying/scrying-
 
 ## Philosopher's Guild Information
 
-- Letter about the [Rodnya Voknaz](<../../../groups/rodnya-voknaz.md>), received in trade for the silver wand from the Elemental Forge: [Philosopher's Information Concerning Rodnya Voknaz](<../letters-and-notes/philosopher-s-information-concerning-rodnya-voknaz.md>)
+- Letter about the [Rodnya Voknaz](<../../../groups/urskan-magical-organizations/rodnya-voknaz.md>), received in trade for the silver wand from the Elemental Forge: [Philosopher's Information Concerning Rodnya Voknaz](<../letters-and-notes/philosopher-s-information-concerning-rodnya-voknaz.md>)
 - Letter about Ursk and its cities and ways to access them, received in trade for the gem of demon summoning taking from Kadmos: [Philosopher's Information Concerning Ursk](<../letters-and-notes/philosopher-s-information-concerning-ursk.md>)
 
 ## Mirror Visions

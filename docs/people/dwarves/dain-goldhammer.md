@@ -31,6 +31,6 @@ title: Dain Goldhammer
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on October 23th, 1748 in [Illoria](<../../gazetteer/west-coast/illoria.md>), the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)  
 
 
-An adventurer, working for the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), funded by [Fausto](<../chardonians/fausto.md>). Often travels with [Dee Wildcloak](<../halflings/dee-wildcloak.md>). 
+An adventurer, working for the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), funded by [Fausto](<../chardonians/fausto.md>). Often travels with [Dee Wildcloak](<../halflings/dee-wildcloak.md>). 
 
 Part of the group that explored [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) and brought [Hralgar's Eyes](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/hralgar-s-eyes.md>) and the [Binding Stones](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/binding-stones.md>) back to [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>).

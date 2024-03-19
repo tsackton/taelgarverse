@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/cleanup/header, status/needswork/internal]
 campaignInfo: []
 name: Alesh
 born: 1727
@@ -10,6 +10,7 @@ gender: female
 whereabouts:
 - {type: home, location: Karawa}
 - {type: away, start: 1748-12-26, location: Central Dunmar}
+image: alesh-portrait.png
 title: Alesh
 ---
 # Alesh
@@ -26,18 +27,17 @@ title: Alesh
 :octicons-location-24:{ .lg .middle } Last known location (as of December 26th, 1748): [Central Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 
 
-## Overview
-
-A short, quick-footed woman, with a nondescript face, short, black hair and light brown/tan skin. An extremely skilled rider, often serving as a scout or messenger for the people of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Bubbly, cheerful person, endlessly fascinated by Dunmari history. She collects rumors of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) of old and collects arrowheads and other artifacts she can find in her travels. She is especially interested in ancient battle sites.
 
 
+![Alesh Portrait](../../assets/alesh-portrait.png){align="right"; width="400"}A short, quick-footed woman, with a nondescript face, short, black hair and light brown/tan skin. An extremely skilled rider, often serving as a scout or messenger for the people of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Bubbly, cheerful person, endlessly fascinated by Dunmari history. She collects rumors of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) of old and collects arrowheads and other artifacts she can find in her travels. She is especially interested in ancient battle sites.
 
-![Alesh Portrait](../../assets/alesh-portrait.png){width="400"}
+
 
 ## Relationships
 - Friendly with most people of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), but fairly independent and not particularly associated with either [Havdar](<./havdar.md>)'s warriors or [Candrosa](<./candrosa.md>) and the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>). Finds [Havdar](<./havdar.md>) a bit brash. 
 - Knows by sight and name, if not well, many of the families that travel across the eastern plains of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 - Her extended family are traditional goat herders who travel mostly to the north and west of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
+- Served as a scout and messenger for [Sura](<./sura.md>) during the lead up to the [Siblings War](<../../events/1700s/siblings-war.md>), although she did not fight in the conflict. 
 
 ## Chronology
 - Mar 21, 1748 DR: Spends the night at the [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) oasis with [Akan](<./akan.md>) and his family

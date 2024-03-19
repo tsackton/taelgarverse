@@ -19,7 +19,7 @@ title: Vola Forena
 
     A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (she/her)  
     Born DR 1721 (28 years old)  
-    Member of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>)  
+    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
@@ -32,9 +32,9 @@ title: Vola Forena
 
 A Chardonian adventurer, treasure hunter, and sellsword.
 
-Vola was born on the streets of [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), living a life of squalor, disease, and poverty. Grew up in the Riverside slurms, near the chalyte refineries.  Eventually discovered by [Agon](<./agon.md>), who helped her grow into her power and fulfill her potential.  She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [Agon](<./agon.md>) and the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>). 
+Vola was born on the streets of [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), living a life of squalor, disease, and poverty. Grew up in the Riverside slurms, near the chalyte refineries.  Eventually discovered by [Agon](<./agon.md>), who helped her grow into her power and fulfill her potential.  She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [Agon](<./agon.md>) and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 
 
-She is dedicated to the cause of the [Society of the Open Scroll](<../../groups/society-of-the-open-scroll.md>), believing in their mission to secure dangerous knowledge from those who would use it for harm, and to preserve magic for future generations.
+She is dedicated to the cause of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), believing in their mission to secure dangerous knowledge from those who would use it for harm, and to preserve magic for future generations.
 
 
 

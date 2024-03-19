@@ -7,7 +7,7 @@ title: Crystal Peak
 ---
 # The Crystal Peak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A mountain in the [Feywild](<./feywild.md>), the Echo Realms  
+-    :octicons-location-24:{ .lg .middle } A mountain [Feywild](<./feywild.md>)  
 </div>
 
 

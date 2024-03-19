@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/image, status/cleanup/header]
 campaignInfo: []
 name: Jumi
 born: 1746
@@ -22,4 +22,9 @@ title: Jumi
 </div>
 
 
-[Cintra](<./cintra.md>)'s daughter. Kidnapped by [Agata](<../fey/agata.md>) and partially turned to wood, but freed by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) in [Session 29 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-29-dufr.md>). 
+
+
+[Cintra](<./cintra.md>)'s young daughter, and a magical prodigy, blessed by the spirit of [Shakun](<../../cosmology/gods/incorporeal-gods/dunmari/shakun.md>). 
+
+
+In the spring of 1748, Jumi was kidnapped by the hag [Agata](<../fey/agata.md>), and partially turned to wood. She was [freed](<../../campaigns/dunmari-frontier/session-notes/session-29-dufr.md>) by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) after the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) [defeated Agata](<../../campaigns/dunmari-frontier/session-notes/session-28-dufr.md>).

@@ -9,7 +9,8 @@ born: 1722
 species: halfling
 ancestry:
 gender: female
-affiliations: [Charmhearts]
+affiliations:
+- {org: Charmhearts, type: primary}
 whereabouts:
 - {type: away, start: 1748-03-19, end: 1748-03-19, location: Raven's Hold}
 - {type: away, start: 1748-03-28, end: 1748-04-07, location: Karawa}
@@ -23,9 +24,8 @@ title: Callie Charmheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her)  
+    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
     Born DR 1722 (27 years old)  
-    Member of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
     { .bio }
 
     Originally from: Unknown

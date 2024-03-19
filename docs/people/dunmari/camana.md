@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/aware, status/unknown]
-campaignInfo:
+tags: [person, status/cleanup/refactor]
 name: Camana
 born: 1721
 species: human
@@ -29,6 +28,9 @@ title: Camana
 :octicons-location-24:{ .lg .middle } Died in [Nashtkar](<../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>)
 
 
+
+
 A Dunmari warrior, archer, and scout. She is associated with [Havdar](<./havdar.md>) and his warrior band, and functions as the leader of his scouting group. 
+
 
 In May 1748, she died in battle fighting [Orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) affiliated with [Grash](<../other-nonhumans/grash.md>) in the desert west of [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>). [Havdar](<./havdar.md>) gifted her [Flaming Bowstring](<../../campaigns/dunmari-frontier/treasure/gifts-and-heirlooms/flaming-bowstring.md>) to [Wellby](<../pcs/dunmar-fellowship/wellby.md>) in thanks for the aid of [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in battle. 

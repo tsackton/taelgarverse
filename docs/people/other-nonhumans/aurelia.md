@@ -29,4 +29,4 @@ title: Aurelia
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
 
 
-Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who has lived in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) for the past 20 years or so. 
+Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who settled in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) in the 1730s. 

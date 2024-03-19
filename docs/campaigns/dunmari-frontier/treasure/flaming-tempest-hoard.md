@@ -8,5 +8,5 @@
 - A scroll written in a cipher, from the captain's cabin on the [Flaming Tempest](<../../../things/ships/flaming-tempest.md>), eventually [deciphered](<treasure-from-green-sea-travels/urgall-s-scroll.md>)
 - A small silver statue of a demon with ruby eyes (tossed in the sacred waters)
 - A collection of Tollender goods, that survived water damage: 20 bolts of brilliantly dyed red cloth; 4 crates of fine linen shits; 2 crates of red Tollender cloaks (one of which [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) takes); 6 small crates of beaver fur hats in a variety of styles. 
-- 8 swords and 4 spears of Skaer steel (used by Skaer warriors killed on [Vetta](<../../../gazetteer/western-green-sea/skaerhem/vetta.md>); gifted to party in their honor by [Vaallinen](<../../../people/skaer/vaallinen.md>))
+- 8 swords and 4 spears of [Skaer steel](<../../../things/materials/skaer-steel.md>) (used by Skaer warriors killed on [Vetta](<../../../gazetteer/western-green-sea/skaerhem/vetta.md>); gifted to party in their honor by [Vaallinen](<../../../people/skaer/vaallinen.md>))
 - A slightly decayed helmet worn by [Urgall the Black](<../../../people/skaer/urgall-the-black.md>)

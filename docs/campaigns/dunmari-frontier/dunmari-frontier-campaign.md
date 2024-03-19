@@ -20,6 +20,7 @@ You can also explore the most recent session, [Session 91 (DuFr)](<session-notes
 
 | Link                                                                   | Folder                                |
 | ---------------------------------------------------------------------- | ------------------------------------- |
+| [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>)                 | Gazetteer/Northern Green Sea          |
 | [Sivnjo Mountains](<../../gazetteer/northern-green-sea/sivnjo-mountains.md>) | Gazetteer/Northern Green Sea          |
 | [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) | Gazetteer/West Coast                  |
 | [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)               | Gazetteer/Western Green Sea           |

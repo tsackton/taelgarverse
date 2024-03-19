@@ -36,7 +36,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - Mar 15, 1749 DR, evening: Reach [Sivnjo Mountains](<../../../gazetteer/northern-green-sea/sivnjo-mountains.md>) amid gathering clouds and a threatened storm 
 - Mar 16, 1749 DR: Wait out snowstorm on the ground
 - Mar 17, 1749 DR, morning: Cross [Sivnjo Mountains](<../../../gazetteer/northern-green-sea/sivnjo-mountains.md>) mountains
-- Mar 17, 1749 DR, afternoon: See frost giants watching over dwarven miners. Speak to giants, and dwarves. Learn about [Brimskarda](<../../../people/giants/brimskarda.md>), King of the Frost Giants. Send lynx messenger with letter of introduction ahead. Travel to Brimskarda's steading.
+- Mar 17, 1749 DR, afternoon: See frost giants watching over dwarven miners. Speak to giants, and dwarves. Learn about [Brimskarda](<../../../people/giants/brimskarda.md>), King of the Frost Giants. Send lynx messenger with letter of introduction ahead. Travel to [Brimskarda](<../../../people/giants/brimskarda.md>)'s steading, [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>).
 - Mar 18, 1749 DR, afternoon: Arrive at [Brimskarda](<../../../people/giants/brimskarda.md>)'s steading
 
 ## Narrative

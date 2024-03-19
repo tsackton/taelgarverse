@@ -20,6 +20,6 @@ title: Herasto
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in the southern Voltara Plains, the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+:octicons-location-24:{ .lg .middle } Currently the southern Voltara Plains
 
 
