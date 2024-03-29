@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/cleanup/header, status/cleanup/reformat]
 campaignInfo: []
 name: Drusa
 born: 1711
@@ -26,6 +26,9 @@ title: Drusa
 :octicons-location-24:{ .lg .middle } Last known location (as of May 1st, 1748): [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 
 
+
+
 A Chardonian wizard on loan to the Dunmari army of [Nayan Karnas](<../dunmari/nayan-karnas.md>), commanded by [Illyan](<../dunmari/illyan.md>), in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 
 Does not particularly like the party given their attempt to scry on [Illyan](<../dunmari/illyan.md>), which Drusa detected, and their refusal to agree to simple magic protocols. 
+

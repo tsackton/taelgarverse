@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, testcase, status/unknown]
+tags: [person, testcase, status/needswork/internal, status/cleanup/header]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: killed}
 name: Evelina
@@ -33,6 +33,8 @@ title: Evelina
 
 
 :octicons-location-24:{ .lg .middle } Killed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 8th, 1748 in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)  
+
+
 
 
 A sorcerer and a member of [The Cleansed](<../../groups/the-cleansed.md>).  

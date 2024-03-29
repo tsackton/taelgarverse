@@ -1,7 +1,10 @@
 ---
-tags: [status/unknown]
+headerVersion: 2023.11.25
+tags: [source]
 title: Papers from the Fraternity of the Empty Moon
 ---
+# Papers from the Fraternity of the Empty Moon
+
 
 (written in a strange language, a variant of Abyssal)
 

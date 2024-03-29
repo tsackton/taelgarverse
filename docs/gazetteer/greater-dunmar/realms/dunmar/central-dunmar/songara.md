@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/wip]
 campaignInfo: []
 name: Songara
 typeOf: city
-partOf: Central Dunmar
+whereabouts: Central Dunmar
 title: Songara
 ---
 # Songara

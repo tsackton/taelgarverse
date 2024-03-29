@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 typeOf: mirror
-tags: [item, item/magical, status/unknown]
+tags: [item, item/magical, status/cleanup/refactor]
 whereabouts:
 - {type: home, location: unknown hobgoblin wizard, prefix: by an}
 - {type: home, location: dufr}
@@ -22,7 +22,9 @@ title: Mirror of Soul Trapping
 :octicons-location-24:{ .lg .middle } Currently stored on [Vindristjarna](<../../../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)
 
 
-This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [Delwath](<../../../../people/pcs/dunmar-fellowship/delwath.md>) understood to be incantations binding twelve extradimensional cells to the mirror.
+
+
+![Mirror of Soul Trapping V1](../../../../assets/mirror-of-soul-trapping-v1.png){align="right"; width="400"}This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [Delwath](<../../../../people/pcs/dunmar-fellowship/delwath.md>) understood to be incantations binding twelve extradimensional cells to the mirror.
 
 Seen in [The Mirror of the Past](<../treasure-from-stormcaller-tower/the-mirror-of-the-past.md>): [Mirror of Soul Trapping Vision](<../../mirror-visions/mirror-of-soul-trapping-vision.md>)
 
@@ -40,7 +42,6 @@ The mirror can be controlled by command words, which must be spoken within 60 fe
 5) When spoken in combination with two cell numbers, allows you to open a portal between the two cells indicated by number. You currently do not know a way to close this portal. Learned in [Session 49 (DuFr)](<../../session-notes/session-49-dufr.md>). 
 
 You sense there may be other command words, but further study or research on the item would be required to learn them.
-
 #### Occupants
 Current occupants of the mirror are:
 

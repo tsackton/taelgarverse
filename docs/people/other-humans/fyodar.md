@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/image]
+tags: [person]
 gender: male
 species: human
 ancestry: Urskan
@@ -18,6 +18,6 @@ title: Fyodar
 </div>
 
 
-Fyodar is a large, burly man with a thick beard and a ready smile. He is a member of the Zvervinkan Guard, tasked with guarding the city gates and approving the entry of visitors and travelers coming to trade in Zvervinka's markets. 
+![Fyodar Portrait](../../assets/fyodar-portrait.png){align="right"; width="400"}Fyodar is a large, burly man with a thick beard and a ready smile. He is a member of the Zvervinkan Guard, tasked with guarding the city gates and approving the entry of visitors and travelers coming to trade in Zvervinka's markets. 
 
 He is well-connected among the city merchants and often has useful tips on where and what to buy, or sell. 

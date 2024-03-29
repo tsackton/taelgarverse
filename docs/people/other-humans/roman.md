@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/image]
+tags: [person]
 species: human
 gender: male
 whereabouts: Zvervinka
@@ -21,4 +21,4 @@ title: Roman
 </div>
 
 
-Roman is a dapper, silver-haired gentleman who runs [The Silver Wolf](<../../gazetteer/northern-green-sea/the-silver-wolf.md>), a high-end inn and restaurant frequented by merchants in town for the famous markets of [Zvervinka](<../../gazetteer/northern-green-sea/zvervinka.md>). His impeccable manners mask his self-centered perspective; Roman is always on the lookout for an angle to improve things for himself. Nonetheless, he knows how to run a high-end inn, and his establishment is a hub for gossip and intrigue. 
+![Roman Portrait](../../assets/roman-portrait.png){align="right"; width="400"}Roman is a dapper, silver-haired gentleman who runs [The Silver Wolf](<../../gazetteer/northern-green-sea/the-silver-wolf.md>), a high-end inn and restaurant frequented by merchants in town for the famous markets of [Zvervinka](<../../gazetteer/northern-green-sea/zvervinka.md>). His impeccable manners mask his self-centered perspective; Roman is always on the lookout for an angle to improve things for himself. Nonetheless, he knows how to run a high-end inn, and his establishment is a hub for gossip and intrigue. 

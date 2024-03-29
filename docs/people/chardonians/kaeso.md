@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/needswork/internal, status/image, status/cleanup/header]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
 name: Kaeso
@@ -34,6 +34,8 @@ title: Kaeso
 
 
 :octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 12th, 1748 in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)  
+
+
 
 
 [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s mentor and friend. A Chardonian, but widely traveled. Former student of [Roscelia](<./roscelia.md>) and member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), but expelled for keeping secrets, specifically about Dunmari magic. 

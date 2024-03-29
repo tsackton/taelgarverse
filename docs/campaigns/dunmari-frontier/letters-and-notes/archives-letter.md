@@ -1,8 +1,9 @@
 ---
-tags: [status/unknown]
+headerVersion: 2023.11.25
+tags: [source]
 title: Archives Letter
 ---
-(originally found by [Servius](<../../../people/chardonians/servius.md>); copy given to party in [Session 38 (DuFr)](<../session-notes/session-38-dufr.md>))
+# Archives Letter
 
 To Captain Avani, commander of the [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) guard, dedicat of [Aagir](<../../../cosmology/gods/incorporeal-gods/dunmari/aagir.md>), and noble warrior, greetings and the bond of friendship.
 

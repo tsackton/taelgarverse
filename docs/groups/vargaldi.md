@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/needswork/notes]
+tags: [organization, status/needswork/internal]
 title: Vargaldi
 ---
 

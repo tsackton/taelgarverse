@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/needswork/notes, status/unknown]
+tags: [person, status/needswork/external, status/cleanup/header, status/image]
 name: Saka
 born: 1664
 species: human
@@ -20,4 +20,5 @@ title: Saka
 
     Based on the [plains north of Tokra](<../../gazetteer/greater-dunmar/dunmari-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
+
 

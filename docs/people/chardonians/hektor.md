@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/cleanup/header, status/cleanup/reformat, status/needswork/external]
 campaignInfo: []
 name: Hektor
 born: 1726

@@ -15,5 +15,4 @@ title: Magnus Street
 
 
 ### Places 
-- [University of Tollen](<./university-of-tollen.md>)
 - [The Fire and Stone](<./the-fire-and-stone.md>)

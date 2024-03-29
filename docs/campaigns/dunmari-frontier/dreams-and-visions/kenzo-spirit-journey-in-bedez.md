@@ -1,9 +1,7 @@
 ---
-tags: [status/unknown]
-title: Kenzo Spirit Journey in Bedez
+{title: Kenzo Spirit Journey in Bedez}
 ---
-
-### Kenzo's Tale to Tell: Please Don't Read Until He Shares In Game
+# Kenzo Spirit Journey in Bedez
 
 ![Plane of Consciousness](../../../assets/plane-of-consciousness.png){width="500"}
 

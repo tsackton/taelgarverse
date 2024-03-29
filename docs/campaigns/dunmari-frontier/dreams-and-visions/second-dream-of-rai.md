@@ -1,7 +1,8 @@
 ---
-tags: [status/unknown]
-title: Second Dream of Rai
+{title: Second Dream of Rai}
 ---
+# Second Dream of Rai
+
 (shared by [Alayah](<../../../people/deno-qai/alayah.md>) and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) in [Session 52 (DuFr)](<../session-notes/session-52-dufr.md>))
 
 You are standing on a flat, dry, dusty plain. As far as you can see, there is just ash and dust stretching to the horizon, the only feature a dark shadow in front of you that stains the landscape, lingering despite the sun high in the sky.

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/needswork/wip, place]
-typeOf: kingdom
+typeOf: realm
 ancestry: frost giant
 whereabouts: Hrimthur
 pronunciation: KAHL-hal-lah
@@ -10,7 +10,7 @@ title: Kaldhalla
 # Kaldhalla
 :speaker:{ .middle } *(KAHL-hal-lah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A frost giant kingdom in [Hrimthur](<./sivnjo-mountains.md>), the Northern Green Sea  
+-    :octicons-location-24:{ .lg .middle } A frost giant realm in [Hrimthur](<./sivnjo-mountains.md>), the Northern Green Sea  
 </div>
 
 

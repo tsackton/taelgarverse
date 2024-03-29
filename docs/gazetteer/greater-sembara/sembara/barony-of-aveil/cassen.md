@@ -15,6 +15,6 @@ title: Cassen
 </div>
 
 
-A small village on the [Great South Road](<../../roads/great-south-road.md>) between [Dallet](<./dallet.md>) and Champimont. It was recently decimated by the Undead Attacks in Sembara and much of the popluation killed, including most of the lord's guard.
+A small village on the [Great South Road](<../../roads/great-south-road.md>) between [Dallet](<./dallet.md>) and [Champimont](<./champimont.md>). It was recently decimated by the Undead Attacks in Sembara and much of the popluation killed, including most of the lord's guard.
 
 The zombies apparently wandered north towards [Cleenseau Wood](<cleenseau-region/cleenseau-wood.md>), and the village is terrified to leave their houses.

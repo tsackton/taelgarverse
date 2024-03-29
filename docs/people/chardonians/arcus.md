@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/aware, person, dufr/minor, status/unknown]
+tags: [person]
 displayDefaults: {endStatus: petrified}
 campaignInfo:
 - {campaign: dufr, date: 1748-03-25, type: discovered as a statue}
@@ -38,7 +38,7 @@ title: Arcus
 :octicons-location-24:{ .lg .middle } Discovered as a statue by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 25th, 1748 in the [Dunmari Fort (Gomat)](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>)  
 
 
-An adventurer and treasure hunter from the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), found petrified in the fort east of [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>). 
+An adventurer and treasure hunter from the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), now petrified in the fort east of [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>). 
 
 Left [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) with [Servius](<./servius.md>), [Dee Wildcloak](<../halflings/dee-wildcloak.md>), [Dain Goldhammer](<../dwarves/dain-goldhammer.md>), and [Alban](<./alban.md>). Argued constantly with [Servius](<./servius.md>), acording to [Dee Wildcloak](<../halflings/dee-wildcloak.md>). Parted ways with other travelers in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), presumably to press ahead. 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/namecheck, status/tim]
+tags: [place, status/namecheck]
 aliases: [Sembaran Borderlands]
 displayDefaults: {defArt: the}
 whereabouts: Sembara
@@ -16,7 +16,7 @@ title: Borderlands
 The Sembaran Borderlands is a name for the baronies between the Aure in the east, the Enst in the north, and the Mostreve Hills in the south. These baronies are mostly newly established since the [hobgoblin wars](<../../../../history/third-hobgoblin-war-sembara.md>), and are traditionally quite loyal to the crown. 
 
 They run, from west to east: 
-* [Barony of Estrive](<./barony-of-estrive.md>), near Lake Rin
+* [Barony of Estrive](<./barony-of-estrive.md>), near [Lake Rin](<../barony-of-aveil/lake-rin.md>)
 * [Barony of Montsé](<./barony-of-montse.md>), near [Fellburn](<../heartlands/fellburn.md>), to the west
 * [Barony of Vauclaire](<./barony-of-vauclaire.md>), near [Fellburn](<../heartlands/fellburn.md>), to the east
 * Barony of Serest,  bordered on the east by the Clavert River

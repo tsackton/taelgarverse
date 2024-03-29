@@ -1,7 +1,16 @@
 ---
-tags: [status/unknown, place/village]
+headerVersion: 2023.11.25
+tags: [status/needswork/internal, place]
+typeOf: settlement
+typeOfAlias: village
+ancestry: Deno'qai
+whereabouts: West Coast Region
 title: Raha
 ---
+# Raha
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A Deno'qai village in the [West Coast Region](<../west-coast/west-coast-region.md>)  
+</div>
 
 
 

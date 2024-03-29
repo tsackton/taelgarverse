@@ -1,8 +1,6 @@
 ---
-tags: [status/unknown]
-title: Extravagant Diamond Vision
+{title: Extravagant Diamond Vision}
 ---
-
 You hold the beautifully cut diamond up to the mirror, and the scene turns black for a moment and then you see a dwarf, sitting in a workshop, looking at the diamond through a lens, a gemcutter probably. They seem to be paying an inordinate amount of attention crafting and shaping this diamond and occasionally like holding it up and examining it. The scene is underground, in a Dwarven city none of you recognize, and probably some time ago. 
 
 Then, a flash of images pass by. Being traded, first to other [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>), underground, and then the flash of the sun and traveling along a road, through a forest of massive trees, like redwoods stretching to the sky. The road follows the course of a river down from the mountains, but you just catch glimpses of the passing scene. 

@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes, status/unknown]
+tags: [place, status/needswork]
 campaignInfo:
 name: Embry
 typeOf: city
-partOf: Sembara
+whereabouts: Sembara
 title: Embry
 ---
 # Embry

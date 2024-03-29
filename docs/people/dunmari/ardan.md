@@ -8,16 +8,19 @@ name: Ardan
 born: 1695
 species: human
 ancestry: Dunmari
-title: Head Archivist Ardan
+title: Chief Archivist Ardan
 gender: male
 whereabouts: Tokra
+affiliations:
+- {type: leader, place: Archives, start: 1737}
 ---
-# Head Archivist Ardan
+# Chief Archivist Ardan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (he/him)  
     Born DR 1695 (54 years old)  
+    Chief Archivist of the [Archives of Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) (since DR 1737)  
     { .bio }
 
     Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

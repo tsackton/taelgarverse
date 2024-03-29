@@ -1,8 +1,6 @@
 ---
-tags: [status/unknown]
-title: Alchemical Teakettle
+{title: Alchemical Teakettle}
 ---
-
 A black iron teakettle that appears to be able to hold about a gallon of liquid, and weighs 12 pounds. Probably a dwarven creation. Found in [Agata's lair](<../../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>). 
 
 ## Mechanics

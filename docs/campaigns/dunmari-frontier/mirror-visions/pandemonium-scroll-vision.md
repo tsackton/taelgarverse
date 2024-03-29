@@ -1,13 +1,12 @@
 ---
-tags: [event-source, status/unknown]
-campaignInfo:
+headerVersion: 2023.11.25
+tags: [event-source]
 name: Pandemonium Scroll Vision
 DR: 1748-07-13
 timelineDescriptor: Dunmari Frontier Campaign
 title: Pandemonium Scroll Vision
 ---
-
-# Pandemonium Scroll Vision
+# The Pandemonium Scroll Vision
 
 Vision of a [scroll associated with Pandemonium](<../treasure/treasure-from-tokra/pandemonium-scroll.md>) in [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>). 
 

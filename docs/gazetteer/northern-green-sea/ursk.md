@@ -5,7 +5,7 @@ campaignInfo: []
 aliases: [Urskan]
 name: Ursk
 typeOf: realm
-partOf: Northern Green Sea
+whereabouts: Northern Green Sea
 title: Ursk
 ---
 # Ursk
@@ -30,6 +30,8 @@ The northern coasts between Skaegenland and Ursk are inhospitable, with few or n
 - The kingdom of giant eagles
 - A dense cold forest of talking trees who attack and kill any wooden ship that attempts to anchor
 - The secret kingdom of a vampire who snacks on unwary sailors
+
+
 
 
 

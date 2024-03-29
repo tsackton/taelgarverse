@@ -1,8 +1,6 @@
 ---
-tags: [status/unknown]
-title: Hralgar's Story
+{title: Hralgar's Story}
 ---
-
 I have roamed these planes for centuries, traveling as the storm, bringing tales on the wind to those who would listen.
 
 I remember the vast forests. I remember the elven kingdom, Alcarenque, stretching as far as the eye could see, the great trees reaching the sky, listening to the news I brought.

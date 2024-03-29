@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/aware, person, dufr/minor, status/unknown]
+tags: [person, status/needswork/refactor]
 name: Agon
 born: 1694
 activeYear: 1745
@@ -23,6 +23,8 @@ title: Agon
 
     Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
+
+
 
 
 [Vola](<./vola.md>)'s mentor, a member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) and scholar in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>). 

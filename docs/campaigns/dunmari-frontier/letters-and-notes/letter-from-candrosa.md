@@ -1,7 +1,10 @@
 ---
-tags: [status/unknown]
+headerVersion: 2023.11.25
+tags: [source]
 title: Letter from Candrosa
 ---
+# Letter from Candrosa
+
 
 Dear friends,
 

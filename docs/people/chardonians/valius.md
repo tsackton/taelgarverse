@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/needswork/notes, status/unknown]
+tags: [person, status/needswork/interal, status/cleanup/header]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Valius
@@ -33,6 +33,8 @@ title: Valius
 
 
 :octicons-location-24:{ .lg .middle } Captured by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 9th, 1748 in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)  
+
+
 
 
 A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [Fausto](<./fausto.md>) and trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/mirror-of-soul-trapping.md>). Alongside his twin, [Vargus](<./vargus.md>), he once sought treasures and wealth, but now seeks only to free his brother from [Fausto](<./fausto.md>)'s curse.

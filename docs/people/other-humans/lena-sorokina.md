@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/image]
+tags: [person]
 aliases: [Lena]
 species: human
 gender: female
@@ -19,4 +19,5 @@ title: Lena Sorokina
 </div>
 
 
-Lena is a member of the magical [Watchers](<../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>), known for her striking white hair and piercing blue eyes. She has political connection among several of the [rodnye](<../../groups/urskan-magical-organizations/rodnya.md>), and is well-connected among the elite of [Zvervinka](<../../gazetteer/northern-green-sea/zvervinka.md>), though what her actual title and position in the [Watchers](<../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>) is is not clear.
+![Lena Portrait V5](../../assets/lena-portrait-v5.png){align="right"; width="400"}Lena is a member of the magical [Watchers](<../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>), known for her political connection among several of the [rodnye](<../../groups/urskan-magical-organizations/rodnya.md>). She is also well-connected among the elite of [Zvervinka](<../../gazetteer/northern-green-sea/zvervinka.md>), though what her actual title and position in the [Watchers](<../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>) is is not clear.
+

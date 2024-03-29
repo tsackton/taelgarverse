@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/cleanup/header, status/needswork/internal]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Vargus

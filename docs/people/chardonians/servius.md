@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/major, person, dufr/aware, status/unknown]
+tags: [person, status/tim]
 name: Servius
 born: 1689
 species: human
@@ -8,8 +8,8 @@ ancestry: Chardonian
 gender: male
 affiliations: [Society of the Open Scroll]
 whereabouts:
-- {type: home, start: 1689-01-02, end: '', location: Chardon}
-- {type: away, start: 1748-11-23, end: '', location: Illoria}
+- {type: home, start: 1689-01-02, location: Chardon}
+- {type: away, start: 1748-11-23, location: Illoria}
 title: Servius
 ---
 # Servius
@@ -28,4 +28,5 @@ title: Servius
 :octicons-location-24:{ .lg .middle } Last known location (as of November 23th, 1748): [Illoria](<../../gazetteer/west-coast/illoria.md>), the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)
 
 
-A wandering scholar and historian, funded by [Fausto](<./fausto.md>) to find rumors of treasure. Currently hunting rumors of treasure in Illoria. 
+A wandering scholar and historian, funded by [Fausto](<./fausto.md>) to find rumors of treasure. 
+

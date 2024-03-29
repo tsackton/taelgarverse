@@ -1,6 +1,5 @@
 ---
-tags: [status/unknown]
-title: Scrying Delwath Oct 26
+{title: Scrying Delwath Oct 26}
 ---
 **(Oct 21 - Oct 26)**
 
