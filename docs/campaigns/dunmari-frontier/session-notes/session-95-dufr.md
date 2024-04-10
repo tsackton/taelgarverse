@@ -25,7 +25,10 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 ## Media
 
 A popular Urskan folk song, sung at the campfire while traveling with [Karel](<../../../people/other-humans/karel.md>)
-![Ursk Sings of Spring.mp3](<../../../assets/audio/ursk-sings-of-spring.mp3>)
+<audio controls="controls">
+  <source type="audio/mp3" src="/assets/audio/ursk-sings-of-spring.mp3"></source>
+</audio>
+
 ### Summary
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) prepares for departure in [Zvervinka](<../../../gazetteer/northern-green-sea/zvervinka.md>), gathering supplies and purchasing magic items.
 - They learn of the [Rodnya](<../../../groups/urskan-magical-organizations/rodnya.md>) factions and tensions, specifically the low status of [Rodnya Voknaz](<../../../groups/urskan-magical-organizations/rodnya-voknaz.md>) after mismanaged dragon attacks.
