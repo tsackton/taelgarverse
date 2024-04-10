@@ -34,7 +34,7 @@ title: Abha
 
 ![Abha V2](../../assets/abha-v2.png){align="right"; width="400"}Abha is a mystai of Sonkar, a truthspeaker who has the divine ability to see the true nature of the world. She is a powerful spellcaster and is often called to resolve difficult or complicated requests for judgement and justice. 
 
-Abha, like [Sonkar](<../../cosmology/gods/incorporeal-gods/dunmari/sonkar.md>), sometimes appears cold and distant, but her isolating demeanor masks a deep concern for the world and for [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
+Abha, like [Sonkar](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/sonkar.md>), sometimes appears cold and distant, but her isolating demeanor masks a deep concern for the world and for [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 
 
 During the [Siblings War](<../../events/1700s/siblings-war.md>), Abha served as an ally and advisor to [Nayan Karnas](<./nayan-karnas.md>), using her divine powers to attempt to disentangle the truth, or lies, of rumors of [Agata](<../fey/agata.md>)'s influence on [Sura](<./sura.md>). She was increasingly discredited by [Nayan Karnas](<./nayan-karnas.md>) as he descended into paranoia, until the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) was able to at least partially get through to him. In the aftermath, she helped negotiate the end of the [Siblings War](<../../events/1700s/siblings-war.md>) between [Nayan Sura](<./sura.md>) and [Nayan Karnas](<./nayan-karnas.md>). 

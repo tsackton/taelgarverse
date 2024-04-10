@@ -16,21 +16,36 @@ You might start with:
 
 You can also explore the skyship [Vindristjarna](<../../things/ships/vindristjarna.md>) and the [special facilities](<./vindristjarna-room-planning.md>) constructed on it.
 
-You can also explore the most recent session, [Session 91 (DuFr)](<session-notes/session-91-dufr.md>), or browse pages mentioned in the most recent session note:
+You can also explore the most recent session, [Session 95 (DuFr)](<session-notes/session-95-dufr.md>), or browse pages mentioned in the most recent session note:
 
-| Link                                                                   | Folder                                |
-| ---------------------------------------------------------------------- | ------------------------------------- |
-| [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>)                 | Gazetteer/Northern Green Sea          |
-| [Sivnjo Mountains](<../../gazetteer/northern-green-sea/sivnjo-mountains.md>) | Gazetteer/Northern Green Sea          |
-| [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) | Gazetteer/West Coast                  |
-| [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)               | Gazetteer/Western Green Sea           |
-| [Vostok](<../../gazetteer/western-green-sea/vostok/vostok.md>)               | Gazetteer/Western Green Sea           |
-| [Brimskarda](<../../people/giants/brimskarda.md>)                            | People/Giants                         |
-| [Kecha](<../../people/kenku/kecha.md>)                                       | People/Kenku                          |
-| [frost giant](<../../species/children-of-the-divine/giants.md>)              | Species/Children of the Divine        |
-| [dwarven](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>)  | Species/Children of the Embodied Gods |
-| [kenku](<../../Species/Unusual Species/Kenku/Kenku.md/>)                      | Species/Unusual Species               |
-| [Vindristjarna](<../../things/ships/vindristjarna.md>)                       | Things/Ships                          |
+| Link                                                                                                              | Folder                                |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [Jade Piece of Rai's Hand](<treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) | Campaigns/Dunmari Frontier            |
+| [Frostfell](<../../cosmology/multiverse/energy-realms/frostfell.md>)                                                    | Cosmology/Multiverse                  |
+| [White River](<../../gazetteer/northern-green-sea/beyil.md>)                                                            | Gazetteer/Northern Green Sea          |
+| [Dalinka](<../../gazetteer/northern-green-sea/dalinka.md>)                                                              | Gazetteer/Northern Green Sea          |
+| [Leis](<../../gazetteer/northern-green-sea/leis.md>)                                                                    | Gazetteer/Northern Green Sea          |
+| [The Silver Wolf](<../../gazetteer/northern-green-sea/the-silver-wolf.md>)                                              | Gazetteer/Northern Green Sea          |
+| [Ursk](<../../gazetteer/northern-green-sea/ursk.md>)                                                                    | Gazetteer/Northern Green Sea          |
+| [Vedmakov](<../../gazetteer/northern-green-sea/vedmakov.md>)                                                            | Gazetteer/Northern Green Sea          |
+| [Voknaz Manor](<../../Gazetteer/Northern Green Sea/Voknaz Manor.md/>)                                                    | Gazetteer/Northern Green Sea          |
+| [Volya](<../../gazetteer/northern-green-sea/volya.md>)                                                                  | Gazetteer/Northern Green Sea          |
+| [Yamgov](<../../gazetteer/northern-green-sea/yamgov.md>)                                                                | Gazetteer/Northern Green Sea          |
+| [Zvervinka](<../../gazetteer/northern-green-sea/zvervinka.md>)                                                          | Gazetteer/Northern Green Sea          |
+| [Watcher](<../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>)                                              | Groups/Urskan Magical Organizations   |
+| [Rodnya Kinzal](<../../Groups/Urskan Magical Organizations/Rodnya Kinzal.md/>)                                           | Groups/Urskan Magical Organizations   |
+| [Rodnya Nivik](<../../groups/urskan-magical-organizations/rodnya-nivik.md>)                                             | Groups/Urskan Magical Organizations   |
+| [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>)                                           | Groups/Urskan Magical Organizations   |
+| [Rodnya](<../../groups/urskan-magical-organizations/rodnya.md>)                                                         | Groups/Urskan Magical Organizations   |
+| [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>)                                           | People/Historical Figures             |
+| [Branek Mirov](<../../people/other-humans/branek-mirov.md>)                                                             | People/Other Humans                   |
+| [Jela Drask](<../../people/other-humans/jela-drask.md>)                                                                 | People/Other Humans                   |
+| [Karel](<../../people/other-humans/karel.md>)                                                                           | People/Other Humans                   |
+| [Lena](<../../people/other-humans/lena-sorokina.md>)                                                                    | People/Other Humans                   |
+| [Olen Vrask](<../../people/other-humans/olen-vrask.md>)                                                                 | People/Other Humans                   |
+| [Roman](<../../people/other-humans/roman.md>)                                                                           | People/Other Humans                   |
+| [Rhodar von Glauer](<../../people/other-nonhumans/rhodar-von-glauer.md>)                                                | People/Other Nonhumans                |
+| [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>)                                                     | Species/Children of the Embodied Gods |
 
 
 

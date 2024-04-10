@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
-campaignInfo: []
+tags: [person]
 name: Rinault Essford
 born: 1688
 species: human
@@ -26,7 +25,6 @@ affiliations:
 
 
 ![Lord Rinault Essford](../../assets/lord-rinault-essford.png){align="right"; width="320"}The younger brother of [Rosalind](<./rosalind-essford.md>) he is considered rash and impulse. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
-
 
 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 campaignInfo:
 - {campaign: Clee, date: 1720-01-04, type: met}
 name: Margaret Ashford
@@ -25,5 +25,4 @@ title: Margaret Ashford
 
 
 
-A midwife.
-
+A midwife, who was tending to [Béatrix Thorne](<./beatrix-thorne.md>) when the Zombie Plague in Cleenseau broke out.

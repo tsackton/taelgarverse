@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
+tags: [person, status/cleanup/header]
 name: Kiran
 campaignInfo:
 - {campaign: DuFr}
@@ -21,6 +21,8 @@ title: Kiran
 
     Based on the [plains north of Tokra](<../../gazetteer/greater-dunmar/dunmari-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
+
+
 
 
 A member of a family of goat herders that wander across the upper reaches of the [Hara](<../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>) river, north of Tokra. 

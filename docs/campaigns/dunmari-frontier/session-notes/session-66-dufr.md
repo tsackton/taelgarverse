@@ -26,7 +26,7 @@ title: Dunmari Frontier - Wellby Solo Session 3
 - The freed Kenku prisoners inform [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) of the wizard [Arryn](<../../../people/other-humans/arryn.md>), who could help reach the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>); his apprentice, [Resenna](<../../../people/other-humans/resenna.md>), mentions Arryn's disappearance.
 - The adventurers sail north to find [Arryn](<../../../people/other-humans/arryn.md>), passing strange islands.
 - Upon arrival, they battle animated mirror shards and meet Arryn's steward, learning [Arryn](<../../../people/other-humans/arryn.md>) is trapped in the [Mirror Realm](<../../../cosmology/multiverse/echo-realms/mirror-realm.md>).
-- The party formulates a plan to enter the Mirror Realm, leading to a confrontation with their mirror duplicates.
+- The party formulates a plan to enter the [Mirror Realm](<../../../cosmology/multiverse/echo-realms/mirror-realm.md>), leading to a confrontation with their mirror duplicates.
 - The real [Arryn](<../../../people/other-humans/arryn.md>) is rescued by identifying and destroying his mirror duplicate, closing the portal to the[Mirror Realm](<../../../cosmology/multiverse/echo-realms/mirror-realm.md>).
 - Arryn thanks the party, and helps Wellby reach the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>).
 

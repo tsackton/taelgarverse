@@ -40,7 +40,7 @@ title: Jasmine Sunmeadow
 
 Jasmine Sunmeadow is a halfling adventurer with a strong connection to the natural world. She grew up in Darba, the daughter of the innkeepers of [The Green Leaf](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/the-green-leaf.md>), but always longed for adventure, and even as a child she could sense the weather and make flowers bloom.
 
-Recently, she married [Oswalt Tealeaf](<./oswalt-tealeaf.md>), and they booked passage on the [Emerald Song](<../../things/ships/emerald-song.md>) together, to travel north and explore the world. Jasmine has always felt a close connection to Jemghari, and a stewardship over the natural places where she feels the presence of the ancestors most strongly, so now, with her new husband is journeying to go out in the world and find these places and tell their stories.
+Recently, she married [Oswalt Tealeaf](<./oswalt-tealeaf.md>), and they booked passage on the [Emerald Song](<../../things/ships/emerald-song.md>) together, to travel north and explore the world. Jasmine has always felt a close connection to [Jemghari](<../../cosmology/gods/embodied-gods/first-ones/jemghari.md>), and a stewardship over the natural places where she feels the presence of the ancestors most strongly, so now, with her new husband is journeying to go out in the world and find these places and tell their stories.
 ## Relationships
 - [Oswalt Tealeaf](<./oswalt-tealeaf.md>), husband
 ## Events

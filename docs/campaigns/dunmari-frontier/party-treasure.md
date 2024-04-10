@@ -23,6 +23,7 @@ Major items:
 - [Vicious Shortsword](<treasure/treasure-from-tokra/vicious-shortsword.md>) (rare major item)
 - [Boots of Speed](<treasure/treasure-from-kadmos-and-company/boots-of-speed.md>) (rare major item)
 - [Flaming Bowstring](<treasure/gifts-and-heirlooms/flaming-bowstring.md>) (uncommon major item)
+- Frostshard Shortbow (uncommon major item). Purchased in Zvervinka. 
 
 Minor items:
 - [Saddle of the Bonded Companion](<treasure/treasure-from-the-elderwood/saddle-of-the-bonded-companion.md>) (rare minor item)
@@ -45,6 +46,7 @@ Major items:
 - [Soul Tattoo](<treasure/treasure-from-green-sea-travels/soul-tattoo.md>) (rare major item)
 - [Ring of Jumping](<treasure/gifts-and-heirlooms/ring-of-jumping.md>) (uncommon major item)
 - [Wand of Caustic Arrows](<treasure/treasure-from-agata/wand-of-caustic-arrows.md>)(uncommon major item)
+- Dragonscale cloak (rare major item). Purchased in Zvervinka; made of the scales and claws of a white dragon. 
 
 Minor items:
 - [Driftglobe](<treasure/treasure-from-raven-s-hold/driftglobe.md>) (uncommon minor item)
@@ -70,6 +72,7 @@ Major items:
 - [Glove of Crystalized Magic](<treasure/treasure-from-solo-adventures/glove-of-crystalized-magic.md>) (very rare major item)
 - [Ring of the Warded Mind](<treasure/treasure-from-agata/ring-of-the-warded-mind.md>) (uncommon major item)
 - [Pearl of Power](<treasure/treasure-from-raven-s-hold/pearl-of-power.md>) (uncommon major item)
+- Dragonhide Studded Leather (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
 
 Minor items:
 - [Chanceweaver’s Dice](<treasure/treasure-from-solo-adventures/chanceweavers-dice.md>) (rare minor item)
@@ -97,6 +100,7 @@ Major items:
 - [Shatterstorm](<treasure/treasure-from-raven-s-hold/shatterstorm.md>) (rare major item)
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>) in exchange for her aid.
 - [Silverspark Gauntlets](<treasure/treasure-from-solo-adventures/silverspark-gauntlets.md>) (uncommon major item)
+- Dragonhide Cloak (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
 - Masterwork shield, constructed of 7.5 lb of [Skaer steel](<../../things/materials/skaer-steel.md>) by [Umli](<../../people/other-nonhumans/umli.md>). Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. 
 
 Minor items:
@@ -145,11 +149,11 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 - 66 copper disks stamped with the [Blackened Claw](<../../groups/hobgoblin-clans/blackened-claw.md>) mark ([Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>))
 - 7,000 Dwarven gold coins (7,000 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
 - 4,113 Chardonian gold coins (4,113 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
-- 2000 Tollender silver goins (200 gp, from The [Flaming Tempest](<../../things/ships/flaming-tempest.md>))
+- 2000 Tollender silver coins (200 gp, from The [Flaming Tempest](<../../things/ships/flaming-tempest.md>))
 - 200 Sembaran gold coins (200 gp, from The [Flaming Tempest](<../../things/ships/flaming-tempest.md>))
 - 115,000 Chardonian silver coins (11,500 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
 - 60,000 Chardonian copper coins (600 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
-- 25,000 ancient Elven silver coins (5,000 gp; 5 elven silver = 1 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
+- 11,500 ancient Elven silver coins (2,300 gp; 5 elven silver = 1 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
 - 30,000 mixed Drankorian coins (5,000 gp, could be more to the right collector, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
 - 200,000 mixed coins from the Kin-Asa city state (6,000 gp, could be more to the right collector, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
 - 7 1/2 heavy gold bars, each weighing 10 pounds and worth 500 gp (total value 3750 gp), recovered from the Elemental Forge
@@ -217,7 +221,7 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 	- A [scroll written in a cipher](<treasure/treasure-from-green-sea-travels/urgall-s-scroll.md>), from the [Flaming Tempest](<../../things/ships/flaming-tempest.md>), locked in chest in Urgall's cabin. 
 	- The [Flaming Tempest log books](<treasure/treasure-from-green-sea-travels/flaming-tempest-log-books.md>), recovered from the [Flaming Tempest](<../../things/ships/flaming-tempest.md>)
 	- [Papers from the Fraternity of the Empty Moon](<letters-and-notes/papers-from-the-fraternity-of-the-empty-moon.md>). Translations left at the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) with [Govir](<../../people/dunmari/govir.md>). No obvious value. 
-	- Monk's journal from the [Great War](<../../events/1500s/great-war.md>) era ([Monastery of Bhishma](<../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>), [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>)). A small diary, written in Dunmari, of an unnamed monk, who seemed to have lived here just before the [Great War](<../../events/1500s/great-war.md>). The entries describe life in the monastery, the joy of the craft of parchment making and especially skill required to turn it into something that could take enchantments. Then,  increasing danger and the growing militarization of [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), several attacks, news of distant heroes and great councils, then no news, which was worse. Then, people running scared of the red death, everyone fleeing east. Last entry: choosing to stay with the elders, contribute how I can to protecting our great work. [Bhishma](<../../cosmology/gods/incorporeal-gods/dunmari/bhishma.md>) watch over my soul. No obvious value although to the right person could be worth 5-30 gp.
+	- Monk's journal from the [Great War](<../../events/1500s/great-war.md>) era ([Monastery of Bhishma](<../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>), [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>)). A small diary, written in Dunmari, of an unnamed monk, who seemed to have lived here just before the [Great War](<../../events/1500s/great-war.md>). The entries describe life in the monastery, the joy of the craft of parchment making and especially skill required to turn it into something that could take enchantments. Then,  increasing danger and the growing militarization of [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>), several attacks, news of distant heroes and great councils, then no news, which was worse. Then, people running scared of the red death, everyone fleeing east. Last entry: choosing to stay with the elders, contribute how I can to protecting our great work. [Bhishma](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>) watch over my soul. No obvious value although to the right person could be worth 5-30 gp.
 	- Captain's log and charts from The Flaming Tempest (allowing [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) to reconstruct the journey of the [Flaming Tempest](<../../things/ships/flaming-tempest.md>), with time and effort)
 	- Sheaf of receipts from [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>).  Not a complete ledger, but a part of what seems to be a record of payments / receipts of wine, oil, salt, spices, written in Drankorian. Just a fragment with no dates remains. No obvious value.
 
@@ -262,7 +266,7 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 - The Boulder-Ladder, the hero of the [Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>), who died while smashing a massive trebuchet to pieces. 
 ### Destroyed or Used
 - A small crystal vial containing three doses of universal solvent. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
-- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([Havdar](<../../people/dunmari/havdar.md>)). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [Agata](<../../people/fey/agata.md>)’s hut. Cursed, and responsible for turning [Havdar](<../../people/dunmari/havdar.md>) to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel.md>) in answer to [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>)'s prayers, freeing Havdar of the curse, in [Session 69 (DuFr)](<session-notes/session-69-dufr.md>).  
+- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([Havdar](<../../people/dunmari/havdar.md>)). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [Agata](<../../people/fey/agata.md>)’s hut. Cursed, and responsible for turning [Havdar](<../../people/dunmari/havdar.md>) to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>) in answer to [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>)'s prayers, freeing Havdar of the curse, in [Session 69 (DuFr)](<session-notes/session-69-dufr.md>).  
 - A shard of [Inkaye](<../../things/materials/inkaye.md>) ready to be infused with explanar magic, created by [Umli](<../../people/other-nonhumans/umli.md>) from Delwath's [Elven Shadow Breastplate](<treasure/gifts-and-heirlooms/elven-shadow-breastplate.md>). Used to create the rainbow prism for [Vindristjarna](<../../things/ships/vindristjarna.md>), created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:
 	- Phoenix feather, used to allow [Faldrak](<../../people/dwarves/faldrak-bronzehammer.md>)'s stone bird to fly, among other things. 
@@ -359,7 +363,7 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 - 175 gp wereguild for bandits, given to [Johar](<../../people/dunmari/johar.md>) to get to families 
 - Locket from [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) killed by chimera. A silver locket with a faded painted portrait of a [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) inside. Found in [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). Given to [Bree Charmheart](<../../people/halflings/bree-charmheart.md>) and family in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
 - Gold ring from [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) killed by chimera. A golden ring set with bloodstones. Found in [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). Given to [Bree Charmheart](<../../people/halflings/bree-charmheart.md>) and family in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
--  [Govir](<../../people/dunmari/govir.md>)’s two holy symbols of [Laka](<../../cosmology/gods/incorporeal-gods/dunmari/laka.md>), returned to [Govir](<../../people/dunmari/govir.md>)
+-  [Govir](<../../people/dunmari/govir.md>)’s two holy symbols of [Laka](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/laka.md>), returned to [Govir](<../../people/dunmari/govir.md>)
 - Two small garnets from [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), 10 gp each. Given to [Charmhearts](<../../groups/halfling-families/charmhearts.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
 - [Looseleaf Hobgoblin Journal and log book](<letters-and-notes/hobgoblin-notes-from-raven-s-hold.md>). A leather satchel holding unbound pages that include notes and sketches that might portray troop movements, as well as a log book. Old. Given to [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)
 - [Two letters from Stormcaller Tower](<letters-and-notes/two-letters-from-stormcaller-tower.md>), from [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>). Given to [Marcella](<../../people/chardonians/marcella.md>), Chardonian adventurer, in exchange for information.

@@ -19,21 +19,21 @@ title: Dunmari Frontier - Delwath Solo Session 1 (Prequel)
 > *On Earth: Sunday Jul 31, 2022*
 > *[Ko'zula village](<../../../gazetteer/far-north/ko-zula-village.md>) in the [Forest of Dreams](<../../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>)*
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) discovers that Cha'mutte's shadow armbands are key to freeing the trapped [Meswati](<../../../cosmology/gods/tanshi/meswati.md>) and prepares to seek allies for his quest.
+[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) discovers that Cha'mutte's shadow armbands are key to freeing the trapped [Meswati](<../../../cosmology/gods/tanshi/meswati/meswati.md>) and prepares to seek allies for his quest.
 ## Session Info
 
 ***Delwath receives his Deno'qai [armor](<../treasure/treasure-from-solo-adventures/deno-qai-scale-mail.md>) and  [shield](<../treasure/treasure-from-solo-adventures/deno-qai-lynx-shield.md>), and learns to speak Deno'qai.***
 ### Summary
 - Delwath arrives at a Deno'qai camp and is taken to meet Chief [Ninu](<../../../people/deno-qai/ninu.md>) in the [Ko'zula village](<../../../gazetteer/far-north/ko-zula-village.md>).
 - [Ninu](<../../../people/deno-qai/ninu.md>) shares the village's encounter with a deathless warlock and the story of [Jotha](<../../../people/deno-qai/jotha.md>)'s disappearance.
-- Delwath connects the armbands to the entrapment of the [Meswati](<../../../cosmology/gods/tanshi/meswati.md>) and his own journey.
+- Delwath connects the armbands to the entrapment of the [Meswati](<../../../cosmology/gods/tanshi/meswati/meswati.md>) and his own journey.
 - [Ninu](<../../../people/deno-qai/ninu.md>) advises seeking [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>) and [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) at a hunting camp for help.
 - Godcaller [Enon](<../../../people/deno-qai/enon.md>) equips Delwath with heroic Deno'qai [armor](<../treasure/treasure-from-solo-adventures/deno-qai-scale-mail.md>) and a [shield](<../treasure/treasure-from-solo-adventures/deno-qai-lynx-shield.md>) for his quest.
 
 ### Timeline
 - Sep 30, 1748 DR, afternoon: Arrive in northern forests. Meet hunting party of Deno'qai of the [Ko'zula](<../../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>) tribe. Spend the night in their camp. 
 - Oct 01, 1748 DR:  Leave camp, travel with a guide named [Zevi](<../../../people/deno-qai/zevi-of-the-ko-zula.md>) back to the main village of the [Ko'zula](<../../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>)
-- Oct 02, 1748 DR: Travel through the forest with [Zevi](<../../../people/deno-qai/zevi-of-the-ko-zula.md>), arrive in village, meet the village leader [Ninu](<../../../people/deno-qai/ninu.md>), learn story of the [Meswati](<../../../cosmology/gods/tanshi/meswati.md>), the silent tanshi
+- Oct 02, 1748 DR: Travel through the forest with [Zevi](<../../../people/deno-qai/zevi-of-the-ko-zula.md>), arrive in village, meet the village leader [Ninu](<../../../people/deno-qai/ninu.md>), learn story of the [Meswati](<../../../cosmology/gods/tanshi/meswati/meswati.md>), the silent tanshi
 - Oct 03, 1748 DR:  Spend the day in the village
 - Oct 04, 1748 DR:  Spend the day in the village
 - Oct 05, 1748 DR:  Leave for hunting camp near the [Forest of Nightmares](<../../../gazetteer/far-north/forest-of-nightmares.md>), travel 
@@ -48,7 +48,7 @@ In the village, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) is
 
 This was the exact moment that [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) fell from the sky outside [Kharsan](<../../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>).
 
-As [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) mentions this, [Ninu](<../../../people/deno-qai/ninu.md>) tells [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) that the Deno'qai have long though the Meswati were trapped, somehow, by the evil magic of [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>), for most believe that cannot truly be killed as long as they are not forgotten. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) suggests that it is likely these armbands that have trapped the Meswati, for one, [Yezali](<../../../cosmology/gods/tanshi/yezali.md>), was trapped with him. Destroying the armbands that captured each tanshi, then, may be the key to freeing them. 
+As [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) mentions this, [Ninu](<../../../people/deno-qai/ninu.md>) tells [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) that the Deno'qai have long though the Meswati were trapped, somehow, by the evil magic of [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>), for most believe that cannot truly be killed as long as they are not forgotten. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) suggests that it is likely these armbands that have trapped the Meswati, for one, [Yezali](<../../../cosmology/gods/tanshi/meswati/yezali.md>), was trapped with him. Destroying the armbands that captured each tanshi, then, may be the key to freeing them. 
 
 Asking where the other armbands may be found, [Ninu](<../../../people/deno-qai/ninu.md>) tells [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) that a stoneborn, [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>), knows the [Forest of Nightmares](<../../../gazetteer/far-north/forest-of-nightmares.md>) well, and is at a hunting camp with [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>), the druid. [Ninu](<../../../people/deno-qai/ninu.md>) suggests they would help [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) with his quest. 
 

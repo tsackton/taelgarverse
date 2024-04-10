@@ -1,9 +1,9 @@
 ---
-tags: [deity, religion/kestavo, status/unknown]
+tags: [deity, religion/kestavo, status/tim, status/mike]
 title: Romil
 ---
 ### Romil
 *he/him*
 
-An powerful *[kestavo](<../../religions/kestavo/kestavo.md>)* known as the glacier king, whose shrine still occasionally attracts pilgrims from [Zimkova](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>).
+An powerful *[kestavo](<../../religions/northern-folk-religions/kestavo.md>)* known as the glacier king, whose shrine still occasionally attracts pilgrims from [Zimkova](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>).
 

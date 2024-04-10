@@ -39,7 +39,7 @@ _In [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.m
 
 [Dain Goldhammer](<../../../people/dwarves/dain-goldhammer.md>), the dwarf, is on a ship, looking uncomfortable, sailing in warm blue waters, off the coast of a small island. The ship is not large, but big enough for maybe 10 people; [Dain Goldhammer](<../../../people/dwarves/dain-goldhammer.md>) seems to be speaking with a scholarly man in late middle age.
 
-_In [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>):_ You see [Johar](<../../../people/dunmari/johar.md>) several times, always either pacing in a small bare room or reading a small prayer book to [Laka](<../../../cosmology/gods/incorporeal-gods/dunmari/laka.md>) in Dunmari. You never see anyone else in the room after a few scries.
+_In [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>):_ You see [Johar](<../../../people/dunmari/johar.md>) several times, always either pacing in a small bare room or reading a small prayer book to [Laka](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/laka.md>) in Dunmari. You never see anyone else in the room after a few scries.
 
 You see [Havdar](<../../../people/dunmari/havdar.md>) in front of a not-small army of Dunmari, brandishing his sword high, beating it on his shield. He speaks of the evil rot in the heart of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), the curse that was laid upon him, and the need burn out the corruption with the cleansing power of steel.
 

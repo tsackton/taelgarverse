@@ -39,7 +39,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - Jul 26, 1748 DR: Travel west towards the Darba side of the [Copper Hills](<../../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>). 
 - Jul 26, 1748 DR, evening: Reach the waystation and safe haven of Padma's estate, spend the night. Gather rumors and tales of Darba and report on the death of the wyverns.
 - Jul 27, 1748 DR - Jul 29, 1748 DR: Travel west along the [Tokra-Darba Road](<../../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>)
-- Jul 30, 1748 DR: Reach the trade road from Songara, turn southwest towards Darba.
+- Jul 30, 1748 DR: Reach the trade road from [Songara](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), turn southwest towards Darba.
 - Jul 31, 1748 DR - Aug 08, 1748 DR: Travel along trade road towards Darba.
 
 ### Mirror of the Past

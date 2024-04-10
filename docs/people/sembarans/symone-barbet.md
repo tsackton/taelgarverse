@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person, status/needswork/external]
 name: Symone Barbet
 born: 1683-11-15
 species: human
@@ -23,4 +23,5 @@ whereabouts: Barony of Dunfry
 
     Based in the [Barony of Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/barony-of-dunfry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
+
 

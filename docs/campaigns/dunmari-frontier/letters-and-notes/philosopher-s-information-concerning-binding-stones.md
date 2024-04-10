@@ -3,7 +3,7 @@
 ---
 Dear Seeker of Highkeep, and companions,
 
-Your gift was of much interest. It is unusual to recover powerful weapons blessed by [The Warlord](<../../../cosmology/gods/incorporeal-gods/mos-numena/the-warlord.md>). The magic of the Divine is the most challenging to unravel, and the most mysterious to us. We have endeavored to provide a worthwhile value for such a gift.
+Your gift was of much interest. It is unusual to recover powerful weapons blessed by [The Warlord](<../../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>). The magic of the Divine is the most challenging to unravel, and the most mysterious to us. We have endeavored to provide a worthwhile value for such a gift.
 
 The stones you speak of, known as the [Binding Stones](<../treasure/treasure-from-stormcaller-tower/binding-stones.md>) of Amloch, are a unique item. From what we have been able to learn, they are also an ancient item, created more than 3000 years ago, before the Downfall, in the land of Hkar. How did they come to be in the possession of a wizard of [Drankor](<../../../history/drankorian-era/drankorian-empire.md>) in the later days of the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>)? We know not, at least not yet, not without another gift to entice our curiosity. 
 
