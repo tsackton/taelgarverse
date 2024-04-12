@@ -21,7 +21,7 @@ You can also explore the most recent session, [Session 95 (DuFr)](<session-notes
 | Link                                                                                                              | Folder                                |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | [Jade Piece of Rai's Hand](<treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) | Campaigns/Dunmari Frontier            |
-| [Frostfell](<../../cosmology/multiverse/energy-realms/frostfell.md>)                                                    | Cosmology/Multiverse                  |
+| [Frostfell](<../../cosmology/multiverse/energy-realms/elemental-realms/frostfell.md>)                                   | Cosmology/Multiverse                  |
 | [White River](<../../gazetteer/northern-green-sea/beyil.md>)                                                            | Gazetteer/Northern Green Sea          |
 | [Dalinka](<../../gazetteer/northern-green-sea/dalinka.md>)                                                              | Gazetteer/Northern Green Sea          |
 | [Leis](<../../gazetteer/northern-green-sea/leis.md>)                                                                    | Gazetteer/Northern Green Sea          |
