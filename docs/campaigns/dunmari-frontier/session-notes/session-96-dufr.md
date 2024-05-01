@@ -27,7 +27,7 @@ The Dunmar Fellowship disrupts a dark ritual at Shadowkeep and prepares to battl
 
 A creepy lullaby sung by Putrid Agnes, [Hush Little Beet](<../../../primary-sources/songs/hush-little-beet.md>):
 <audio controls>
-    <source src="//taelgarverse//assets/audio/hush-little-beet.mp3">
+    <source src="/taelgarverse/assets/audio/hush-little-beet.mp3">
 </audio>
 ### Summary
 - The Dunmar Fellowship teleports to Shadowkeep and strategizes to combat the vampire lord Rhodar von Glauer.
