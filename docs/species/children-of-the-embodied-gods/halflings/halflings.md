@@ -36,11 +36,11 @@ Halflings are also noted musicians and bards and storytellers. Halfling artists 
 Halflings sing on their ships. Here are two popular halfling songs.
 
 The Green Sea Calls: <audio controls>
-    <source src="//taelgarverse//assets/audio/green-sea-calls.mp3">
+    <source src="/taelgarverse/assets/audio/green-sea-calls.mp3">
 </audio>
 The Dyes of Tollen:
 <audio controls>
-    <source src="//taelgarverse//assets/audio/dyes-of-tollen.mp3">
+    <source src="/taelgarverse/assets/audio/dyes-of-tollen.mp3">
 </audio>
 #### Halfing Names
 

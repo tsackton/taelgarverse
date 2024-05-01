@@ -5,7 +5,7 @@ title: Praise the Divine Family
 
 A praise song sung by the [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) about the [Five Siblings](<../../cosmology/religions/five-siblings/five-siblings.md>)
 <audio controls>
-    <source src="//taelgarverse//assets/audio/praise-the-divine-family.mp3">
+    <source src="/taelgarverse/assets/audio/praise-the-divine-family.mp3">
 </audio>
 
 [chorus]

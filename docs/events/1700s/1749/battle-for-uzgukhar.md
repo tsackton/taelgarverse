@@ -14,5 +14,5 @@ The final battle of the War of the Cloak, fought by the [orcs of Xurkhaz](<../..
 
 The orcs sing this song about the Heroes of Uzgukhar:
 <audio controls>
-    <source src="//taelgarverse//assets/audio/heroes-of-uzgukhar.mp3">
+    <source src="/taelgarverse/assets/audio/heroes-of-uzgukhar.mp3">
 </audio>

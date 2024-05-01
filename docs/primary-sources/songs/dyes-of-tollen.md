@@ -6,13 +6,13 @@ title: Dyes of Tollen
 
 A sea shanty popular among the halflings of the western Green Sea.
 <audio controls>
-    <source src="//taelgarverse//assets/audio/dyes-of-tollen.mp3">
+    <source src="/taelgarverse/assets/audio/dyes-of-tollen.mp3">
 </audio>
 <audio controls>
-    <source src="//taelgarverse//assets/audio/dyes-of-tollen-alt_v1.mp3">
+    <source src="/taelgarverse/assets/audio/dyes-of-tollen-alt_v1.mp3">
 </audio>
 <audio controls>
-    <source src="//taelgarverse//assets/audio/dyes-of-tollen-alt_v2.mp3">
+    <source src="/taelgarverse/assets/audio/dyes-of-tollen-alt_v2.mp3">
 </audio>
 
 [call]

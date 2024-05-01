@@ -5,7 +5,7 @@ title: Hush Little Beet
 
 The lullaby of Putrid Agnes
 <audio controls>
-    <source src="//taelgarverse//assets/audio/hush-little-beet.mp3">
+    <source src="/taelgarverse/assets/audio/hush-little-beet.mp3">
 </audio>
 
 Hush little beet, now don’t you cry,

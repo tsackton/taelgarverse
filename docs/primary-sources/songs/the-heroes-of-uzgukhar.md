@@ -6,10 +6,10 @@ title: The Heroes of Uzgukhar
 A praise song sung by the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>) about the [Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>).
 
 <audio controls>
-    <source src="//taelgarverse//assets/audio/heroes-of-uzgukhar.mp3">
+    <source src="/taelgarverse/assets/audio/heroes-of-uzgukhar.mp3">
 </audio>
 <audio controls>
-    <source src="//taelgarverse//assets/audio/heroes-of-uzgukhar-alt.mp3">
+    <source src="/taelgarverse/assets/audio/heroes-of-uzgukhar-alt.mp3">
 </audio>
 
 [Verse 1:]

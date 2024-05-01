@@ -12,7 +12,7 @@ The Dunmari see themselves as in communion with the Five Siblings, who are part 
 
 A Dunmari Praise song:
 <audio controls>
-    <source src="//taelgarverse//assets/audio/praise-the-divine-family.mp3">
+    <source src="/taelgarverse/assets/audio/praise-the-divine-family.mp3">
 </audio>
 ### Personal Prayer 
 
