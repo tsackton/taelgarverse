@@ -31,5 +31,6 @@
 - Feb 02, 1749 DR: The history of [Nayan Marathu's Letter](<letters-and-notes/nayan-marathu-s-letter.md>) is reveled in [Nayan Marathu's Letter Vision](<mirror-visions/nayan-marathu-s-letter-vision.md>) recharge mirror
 - Feb 17, 1749 DR: The history of magical pale blue dye from [Ursk](<../../gazetteer/northern-green-sea/ursk.md>) is revealed in [Magical Pale Blue Dye Vision](<mirror-visions/magical-pale-blue-dye-vision.md>) recharge mirror
 - Mar 01, 1749 DR: The history of a white dragon tooth from [Ursk](<../../gazetteer/northern-green-sea/ursk.md>) is revealed in [Cecilia's White Dragon Tooth Vision](<mirror-visions/cecilia-s-white-dragon-tooth-vision.md>) recharge mirror
+- Mar 27, 1749 DR: Vision of the [Phasing Stone](<../../things/magic-items/phasing-stones.md>) is revealed in the [The Mirror of the Past](<treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>) recharge mirror
 
 

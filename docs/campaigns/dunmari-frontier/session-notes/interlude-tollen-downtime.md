@@ -31,7 +31,7 @@ The map room and the hall of stories can each give you three true facts about so
 
 - This is a land of boreal forests, swift rivers, and rocky coasts, with few people, a dangerous place, where dragon attacks are common
 - Halfling memories do speak of a people who live in the forests, scattered groups related to the people of Vostok and the Sembaran Highlands, who worship animal spirits
-- Rumors claim that once, before the [Great War](<../../../events/1500s/great-war.md>), the giants of the [Sivnjo Mountains](<../../../gazetteer/northern-green-sea/sivnjo-mountains.md>) (SHEEF-nyo; meta: the mountains forming the eastern border of Vostok - name might change) provided sanctuary and protection to many people - human, stoneborn, dwarf, and others - against the dangers of the north, but recent tales do not tell what has become of this protection
+- Rumors claim that once, before the [Great War](<../../../events/1500s/great-war.md>), the giants of the [Svinjo Mountains](<../../../gazetteer/northern-green-sea/svinjo-mountains.md>) (SHEEF-nyo; meta: the mountains forming the eastern border of Vostok - name might change) provided sanctuary and protection to many people - human, stoneborn, dwarf, and others - against the dangers of the north, but recent tales do not tell what has become of this protection
 ### Hall of Stories (Rodnya Voknaz)
 
 Few, vague, and cryptic are the tales of the Rodnya, but here is what you are able to gather

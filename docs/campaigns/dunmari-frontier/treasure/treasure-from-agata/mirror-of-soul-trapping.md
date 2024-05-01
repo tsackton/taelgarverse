@@ -46,17 +46,19 @@ You sense there may be other command words, but further study or research on the
 Current occupants of the mirror are:
 
 1. [Revaka](<../../../../people/other-nonhumans/revaka.md>), a hobgoblin, trapped by [Agata](<../../../../people/fey/agata.md>).
-2. Hektor, trapped in [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>) 
+2. [Hektor](<../../../../people/chardonians/hektor.md>), trapped in [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>) 
 3. A wyvern, trapped in [Session 43 (DuFr)](<../../session-notes/session-43-dufr.md>). 
-4. A poison troll, trapped in [Session 45 (DuFr)](<../../session-notes/session-45-dufr.md>).
-5. Valius/Vargus, trapped in  [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>). Cells merged into one in [Session 79 (DuFr)](<../../session-notes/session-79-dufr.md>).
-6. empty
-7. Antonia, trapped in [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>)
-8. Vola, trapped in [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>)
+4. Kinzal mage and messenger, trapped in [Session 96 (DuFr)](<../../session-notes/session-96-dufr.md>)
+5. [Valius](<../../../../people/chardonians/valius.md>)/[Vargus](<../../../../people/chardonians/vargus.md>), trapped in [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>). Cells merged into one in [Session 79 (DuFr)](<../../session-notes/session-79-dufr.md>).
+6. (removed when the cells holding Valius and Vargus were merged)
+7. [Antonia](<../../../../people/chardonians/antonia.md>), trapped in [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>)
+8. [Vola](<../../../../people/chardonians/vola.md>), trapped in [Session 78 (DuFr)](<../../session-notes/session-78-dufr.md>)
 9. empty
 10. empty
 11. empty
-12. (removed when Valius and Vargus were merged)
+12. empty
+#### Former Occupants
+- A poison troll, trapped in [Session 45 (DuFr)](<../../session-notes/session-45-dufr.md>), was released at in the Shadowkeep in [Session 96 (DuFr)](<../../session-notes/session-96-dufr.md>). 
 #### Research Notes
 
 [Seeker](<../../../../people/pcs/dunmar-fellowship/seeker.md>) and [Delwath](<../../../../people/pcs/dunmar-fellowship/delwath.md>)’s research in [Karawa](<../../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), early June 1748:

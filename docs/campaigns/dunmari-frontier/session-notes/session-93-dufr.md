@@ -20,7 +20,6 @@ title: Dunmari Frontier - Session 93
 > *Vargald camp, ~Northern Boreal Forest~*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) protects the [Vargaldi](<../../../groups/vargaldi.md>) camp from a dragon, emerging victorious and strengthening ties with the community.
-
 ## Session Info
 ### Summary
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives at the [Vargaldi](<../../../groups/vargaldi.md>) camp using their flying castle, causing a stir among the shape-shifting locals.

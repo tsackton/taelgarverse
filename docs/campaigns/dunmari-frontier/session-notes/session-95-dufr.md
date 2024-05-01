@@ -4,7 +4,7 @@ campaign: Dunmari Frontier
 sessionNumber: 95
 realWorldDate: 2024-03-26
 DR: 1749-04-15
-DR_end: 1749-05-02
+DR_end: 1749-05-03
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 95
 tagline: in which the party navigates Urskan politics and faces a crucial choice
@@ -22,15 +22,13 @@ title: Dunmari Frontier - Session 95
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), after engaging with local politics and acquiring new magic, must choose between a perilous resurrection mission or assassinating a vampire lord.
 ## Session Info
 
-## Media
+### Media
 
-A popular Urskan folk song, sung at the campfire while traveling with [Karel](<../../../people/other-humans/karel.md>)
-<audio controls>
-    <source src="/taelgarverse/assets/audio/ursk-sings-of-spring.mp3">
-</audio>
+A popular Urskan folk song, sung at the campfire while traveling with [Karel](<../../../people/other-humans/karel.md>), called [Spring's A Come](<../../../primary-sources/songs/spring-s-a-come.md>).
+
+![mp3](/assets/audio/ursk-sings-of-spring.mp3)
 
 ## Summary
-
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) prepares for departure in [Zvervinka](<../../../gazetteer/northern-green-sea/zvervinka.md>), gathering supplies and purchasing magic items.
 - They learn of the [Rodnya](<../../../groups/urskan-magical-organizations/rodnya.md>) factions and tensions, specifically the low status of [Rodnya Voknaz](<../../../groups/urskan-magical-organizations/rodnya-voknaz.md>) after mismanaged dragon attacks.
 - Traveling south with a merchant caravan, they reach [Volya](<../../../gazetteer/northern-green-sea/volya.md>) and then turn west towards [Yamgov](<../../../gazetteer/northern-green-sea/yamgov.md>) and Voknaz Manor.
@@ -50,9 +48,12 @@ A popular Urskan folk song, sung at the campfire while traveling with [Karel](<.
 - Apr 25, 1749 DR: Continue west. 
 - Apr 26, 1749 DR: Continue west. Reach [Vedmakov](<../../../gazetteer/northern-green-sea/vedmakov.md>). Pass without entering, continuing west.
 - Apr 27, 1749 DR - Apr 30, 1749 DR: Continue west, following the road to [Yamgov](<../../../gazetteer/northern-green-sea/yamgov.md>). 
-- May 01, 1749 DR: Pass [Yamgov](<../../../gazetteer/northern-green-sea/yamgov.md>), crossing the [Dalinka](<../../../gazetteer/northern-green-sea/dalinka.md>) River, and continuing overland west, towards the headquarters of the [Rodnya Voknaz](<../../../groups/urskan-magical-organizations/rodnya-voknaz.md>). [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) dreams of [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) beginning to break the enchantments imprisoning him. 
+- May 01, 1749 DR: Pass [Yamgov](<../../../gazetteer/northern-green-sea/yamgov.md>), crossing the [Dalinka](<../../../gazetteer/northern-green-sea/dalinka.md>) River, and continuing overland west, towards the headquarters of the [Rodnya Voknaz](<../../../groups/urskan-magical-organizations/rodnya-voknaz.md>). [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) [dreams](<../dreams-and-visions/kenzo-s-dream-of-apollyon.md>) of [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) beginning to break the enchantments imprisoning him. 
 - May 02, 1749 DR: Reach headquarters of [Rodnya Voknaz](<../../../groups/urskan-magical-organizations/rodnya-voknaz.md>) in the late afternoon. Have dinner with [Branek Mirov](<../../../people/other-humans/branek-mirov.md>). Discuss mission to [Frostfell](<../../../cosmology/multiverse/energy-realms/elemental-realms/frostfell.md>).
 - May 03, 1749 DR, pre-dawn: Awakened by a mysterious invisible visitor; discuss Urskan politics and the leadership of the [Rodnya Voknaz](<../../../groups/urskan-magical-organizations/rodnya-voknaz.md>) and a possible mission west to kill the vampire [Rhodar von Glauer](<../../../people/other-nonhumans/rhodar-von-glauer.md>).
+
+### Visions and Dreams
+- Kenzo [dreams of Apollyon's escape](<../dreams-and-visions/kenzo-s-dream-of-apollyon.md>).
 ## Narrative
 
 We begin at [The Silver Wolf](<../../../gazetteer/northern-green-sea/the-silver-wolf.md>) in [Zvervinka](<../../../gazetteer/northern-green-sea/zvervinka.md>), on the afternoon of April 15th, as the party plans with [Roman](<../../../people/other-humans/roman.md>), the innkeeper and general fixer around town. The discussion revolves around travel arrangements, focusing on the procurement of horses, food, and the organization of meetings in the town to ensure a well-prepared departure. [Roman](<../../../people/other-humans/roman.md>) also reports on the magic items available to purchase in the market, with the monster parts the party has brought, and some decisions are made. As lunch ends, Roman leaves to make various arrangements.
