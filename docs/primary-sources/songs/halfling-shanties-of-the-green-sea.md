@@ -5,12 +5,12 @@ title: Halfling Shanties of the Green Sea
 
 This is a collection of halfling sea shanties from the Western Green Sea
 
-# Dyes of Tollen
+## Dyes of Tollen
 <audio controls>
     <source src="/taelgarverse/assets/audio/dyes-of-tollen.mp3">
 </audio>
 <audio controls>
-    <source src="/taelgarverse/assets/audio/dyes-of-tollen-alt_v1.mp3">
+    <source src="/taelgarverse/assets/audio/dyes-of-tollen-v1.mp3">
 </audio>
 <audio controls>
     <source src="/taelgarverse/assets/audio/dyes-of-tollen-v2.mp3">
@@ -64,7 +64,7 @@ For magic of old and the songs of our sires,
 For magic of old and the songs of our sires,
 Ere the winds blow fiercely
 
-# Green Sea Calls
+## Green Sea Calls
 
 <audio controls>
     <source src="/taelgarverse/assets/audio/green-sea-calls.mp3">
@@ -103,7 +103,7 @@ On the green sea, under skies so blue.
 Yes, on the green sea, we make our way,
 Singing our shanty, day by day.
 
-# Roaming the Green Seas
+## Roaming the Green Seas
 <audio controls>
     <source src="/taelgarverse/assets/audio/roaming-the-green-seas.mp3">
 </audio>
