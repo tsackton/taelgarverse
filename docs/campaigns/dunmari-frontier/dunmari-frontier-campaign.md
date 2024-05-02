@@ -27,20 +27,20 @@ You can also explore the most recent sessions, [Session 96 (DuFr)](<session-note
 | [Pandemonium Scroll](<treasure/treasure-from-tokra/pandemonium-scroll.md>)             | Campaigns/Dunmari Frontier          |
 | [Treasure from Ursk](<treasure/treasure-from-ursk.md>)                                 | Campaigns/Dunmari Frontier          |
 | [~Eastern Islands~](<../../Gazetteer/Eastern Green Sea/~Eastern Islands~.md/>)                                           | Gazetteer/Eastern Green Sea         |
-| [Drachen Peak](<../../Gazetteer/Northern Green Sea/Drachen Peak.md/>)                                                    | Gazetteer/Northern Green Sea        |
-| [Shadowkeep](<../../Gazetteer/Northern Green Sea/Shadowkeep.md/>)                                                        | Gazetteer/Northern Green Sea        |
+| [Drachen Peak](<../../gazetteer/northern-green-sea/drachen-peak.md>)                                                    | Gazetteer/Northern Green Sea        |
+| [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>)                                                        | Gazetteer/Northern Green Sea        |
 | [Ursk](<../../gazetteer/northern-green-sea/ursk.md>)                                                                    | Gazetteer/Northern Green Sea        |
-| [Voknaz Manor](<../../Gazetteer/Northern Green Sea/Voknaz Manor.md/>)                                                    | Gazetteer/Northern Green Sea        |
+| [Voknaz Manor](<../../gazetteer/northern-green-sea/voknaz-manor.md>)                                                    | Gazetteer/Northern Green Sea        |
 | [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>)                                            | Gazetteer/West Coast                |
-| [Nevium](<../../Gazetteer/West Coast/Chardonian Empire/Nevium.md/>)                                                      | Gazetteer/West Coast                |
+| [Nevium](<../../gazetteer/west-coast/chardonian-empire/nevium.md>)                                                      | Gazetteer/West Coast                |
 | [Old Chardon Canal](<../../gazetteer/west-coast/chardonian-empire/old-chardon-canal.md>)                                | Gazetteer/West Coast                |
-| [Gulf of Chardon](<../../Gazetteer/West Coast/Gulf of Chardon.md/>)                                                      | Gazetteer/West Coast                |
+| [Gulf of Chardon](<../../gazetteer/west-coast/gulf-of-chardon.md>)                                                      | Gazetteer/West Coast                |
 | [Rodnya Kinzal](<../../Groups/Urskan Magical Organizations/Rodnya Kinzal.md/>)                                           | Groups/Urskan Magical Organizations |
 | [Lyra](<../../people/chardonians/lyra.md>)                                                                              | People/Chardonians                  |
 | [Amil](<../../people/dunmari/amil.md>)                                                                                  | People/Dunmari                      |
 | [Faldrak](<../../people/dwarves/faldrak-bronzehammer.md>)                                                               | People/Dwarves                      |
 | [Kethra](<../../people/dwarves/kethra.md>)                                                                              | People/Dwarves                      |
-| [Putrid Agnes](<../../People/Fey/Putrid Agnes.md/>)                                                                      | People/Fey                          |
+| [Putrid Agnes](<../../people/fey/putrid-agnes.md>)                                                                      | People/Fey                          |
 | [Algerd](<../../people/giants/algerd.md>)                                                                               | People/Giants                       |
 | [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>)                                           | People/Historical Figures           |
 | [Kecha](<../../people/kenku/kecha.md>)                                                                                  | People/Kenku                        |

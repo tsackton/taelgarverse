@@ -1,18 +1,16 @@
 ---
-tags: [source, status/cleanup]
+tags: [source]
 title: The Heroes of Uzgukhar
 ---
 
-A praise song sung by the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>) about the [Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>).
+A praise song sung by the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>) about the [Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>), particularly sung
+to celebrate the victory of the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) over [Grash](<../../people/other-nonhumans/grash.md>). 
 
 <audio controls>
     <source src="/taelgarverse/assets/audio/heroes-of-uzgukhar.mp3">
 </audio>
-<audio controls>
-    <source src="/taelgarverse/assets/audio/heroes-of-uzgukhar-alt.mp3">
-</audio>
 
-[Verse 1:]
+[Verse 1]
 Sunrise siege at Uzgukhar, the battle fiercely roars,
 Trebuchet towering, undead scores.
 Seeker conjured a boulder, into the sky it soared,
@@ -31,7 +29,7 @@ The heroes fought hard, through pain and through fear,
 Their resolve unyielding, their mission clear.
 
 [Verse 3]
-Kenzos's courage, Delwath's blade bright,
+Kenzo's courage, Delwath's blade bright,
 Riswynn's divine light, shining through the night.
 The ring was destroyed, the undead fell silent,
 Victory at last, the battle now quiet.

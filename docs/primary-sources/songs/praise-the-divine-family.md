@@ -1,5 +1,5 @@
 ---
-tags: [source, status/cleanup]
+tags: [source]
 title: Praise the Divine Family
 ---
 

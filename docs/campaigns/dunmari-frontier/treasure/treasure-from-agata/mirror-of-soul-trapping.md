@@ -58,7 +58,7 @@ Current occupants of the mirror are:
 11. empty
 12. empty
 #### Former Occupants
-- A poison troll, trapped in [Session 45 (DuFr)](<../../session-notes/session-45-dufr.md>), was released at in the Shadowkeep in [Session 96 (DuFr)](<../../session-notes/session-96-dufr.md>). 
+- A poison troll, trapped in [Session 45 (DuFr)](<../../session-notes/session-45-dufr.md>), was released at in the [Shadowkeep](<../../../../gazetteer/northern-green-sea/shadowkeep.md>) in [Session 96 (DuFr)](<../../session-notes/session-96-dufr.md>). 
 #### Research Notes
 
 [Seeker](<../../../../people/pcs/dunmar-fellowship/seeker.md>) and [Delwath](<../../../../people/pcs/dunmar-fellowship/delwath.md>)’s research in [Karawa](<../../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), early June 1748:

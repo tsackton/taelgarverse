@@ -1,5 +1,5 @@
 ---
-tags: [source, status/cleanup]
+tags: [source]
 title: Spring's a Come
 ---
 

@@ -18,7 +18,7 @@ title: Branek Mirov
     Member of the [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>)  
     { .bio }
 
-    Based in the Voknaz Manor, [Ursk](<../../gazetteer/northern-green-sea/ursk.md>), the Northern Green Sea
+    Based in the [Voknaz Manor](<../../gazetteer/northern-green-sea/voknaz-manor.md>), [Ursk](<../../gazetteer/northern-green-sea/ursk.md>), the Northern Green Sea
 </div>
 
 
