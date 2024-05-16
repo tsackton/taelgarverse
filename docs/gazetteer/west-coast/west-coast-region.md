@@ -35,7 +35,7 @@ The West Coast Region includes the entirety of the [Chardonian Empire](<chardoni
 - [Tawir Forest](<./tawir-forest.md>): *So far just a name.*
 - [Chasa River Valley](<chardonian-empire/chasa-river-valley/chasa-river-valley.md>): *agricultural mixed with forests, major population center*
 - [Yeraad River Basin](<./yeraad-river-basin.md>): *southeast of Chardon, south of Chasa/Elderwood. Major lizardfolk area, mining in the hills that separate it from Chasa, and in the "Darba Mountains". Very little detail otherwise - probably fairly flat, hot in the summer. This is basically med transitioning to semi-arid in the east and south, likely supporting fruit trees near the coast, and extensive livestock, probably the center of the Chardon cattle industry.*
-- ~Emerald Bay Peninsula~: *Undeveloped until the kelp forest adventure off the coast.* 
+- [Apporia](<chardonian-empire/apporia/apporia.md>): *Undeveloped until the kelp forest adventure off the coast.* 
 - [Nevos Sea](<./nevos-sea.md>) and Emerald Bay: *trending into subtropics here*
 
 

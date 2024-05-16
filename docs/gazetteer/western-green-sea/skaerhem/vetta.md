@@ -9,7 +9,7 @@ title: Vetta
 ---
 # Vetta
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An island in [Skaerhem](<./skaerhem.md>), the [Western Green Sea Region](<../western-green-sea-region.md>)  
+-    :octicons-location-24:{ .lg .middle } An island [Skaerhem](<./skaerhem.md>)  
 </div>
 
 

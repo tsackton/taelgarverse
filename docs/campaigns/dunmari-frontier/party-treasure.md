@@ -1,6 +1,10 @@
 ---
 {title: Party Treasure}
 ---
+## Recent Acquisitions, NOT incorporated below
+
+[Treasure from Ursk](<treasure/treasure-from-ursk.md>)
+
 ## Magic Items
 
 ### Delwath
@@ -151,7 +155,7 @@ The following mundane items are kept on [Vindristjarna](<../../things/ships/vind
 - 4,113 Chardonian gold coins (4,113 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
 - 2000 Tollender silver coins (200 gp, from The [Flaming Tempest](<../../things/ships/flaming-tempest.md>))
 - 200 Sembaran gold coins (200 gp, from The [Flaming Tempest](<../../things/ships/flaming-tempest.md>))
-- 110,000 Chardonian silver coins (11,000 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
+- 105,000 Chardonian silver coins (10,500 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
 - 60,000 Chardonian copper coins (600 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
 - 11,500 ancient Elven silver coins (2,300 gp; 5 elven silver = 1 gp, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)
 - 30,000 mixed Drankorian coins (5,000 gp, could be more to the right collector, from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>)'s Hoard)

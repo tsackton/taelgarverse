@@ -11,6 +11,6 @@ title: Gulf of Chardon
 </div>
 
 
-The Gulf of Chardon is the name for the sheltered body of water formed by the ~Emerald Bay Peninsula~ to the west and south, and the mainland to the east. 
+The Gulf of Chardon is the name for the sheltered body of water formed by the [Apporia](<chardonian-empire/apporia/apporia.md>) to the west and south, and the mainland to the east. 
 
-Relatively sheltered from major storms, it is a well-traveled maritime highway, with numerous sailing ships, fishing boats, and naval vessels passing to and from Chardon. 
+Relatively sheltered from major storms, it is a well-traveled maritime highway, with numerous sailing ships, fishing boats, and naval vessels passing to and from Chardon.  It is also rich in marine life and is a highly productive fishing area. 

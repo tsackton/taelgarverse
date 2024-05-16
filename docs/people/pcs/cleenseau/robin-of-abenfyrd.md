@@ -41,8 +41,8 @@ title: Robin of Abenfyrd
 ### Items
 | Image                                             | Name                                                                                                    | Type    | Mechanics                                                                               |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------- |
-| ![Lantern of the Bright Hearth](../../../assets/lantern-of-the-bright-hearth.png){width="240"} | [Lantern of the Bright Hearth](<../../../Campaigns/Cleenseau Campaign/Treasure/Lantern of the Bright Hearth.md/>) | lantern | [Reference](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth) |
 | ![Ring of Jumping Robin](../../../assets/ring-of-jumping-robin.png){width="240"}        | [Ring of Jumping](<../../../Campaigns/Cleenseau Campaign/Treasure/Ring of Jumping (Robin).md/>)                   | ring    | [Reference](https://www.dndbeyond.com/magic-items/4724-ring-of-jumping)                 |
+| ![Lantern of the Bright Hearth](../../../assets/lantern-of-the-bright-hearth.png){width="240"} | [Lantern of the Bright Hearth](<../../../Campaigns/Cleenseau Campaign/Treasure/Lantern of the Bright Hearth.md/>) | lantern | [Reference](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth) |
 | ![Hammer of Viligance](../../../assets/hammer-of-viligance.png){width="240"}          | [Hammer of Vigilance](<../../../Campaigns/Cleenseau Campaign/Treasure/Hammer of Vigilance.md/>)                   | weapon  | [Reference](https://www.dndbeyond.com/magic-items/7813717-hammer-of-vigilance)          |
 
 
