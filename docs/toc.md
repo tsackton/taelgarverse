@@ -1362,7 +1362,9 @@
             - Companions
                 - [Dimitaur](people/pcs/great-war/companions/dimitaur.md)
                 - [Willow Wind](people/pcs/great-war/companions/willow-wind.md)
-    - [Great Library](campaigns/great-library-campaign/great-library-campaign.md)
+    - [Great Library](campaigns/great-library/great-library-campaign.md)
+        - [Timeline](campaigns/great-library/great-library-timeline.md)
+        - [Session Notes](campaigns/great-library/great-library-session-notes.md)
     - [Labyrinths of the Lost](campaigns/labyrinths-of-the-lost/labyrinths-of-the-lost.md)
         - [LL Session 1](campaigns/labyrinths-of-the-lost/ll-session-1.md)
         - [LL Session 2](campaigns/labyrinths-of-the-lost/ll-session-2.md)
