@@ -24,7 +24,7 @@
     "skip_future_dated": true,
     "ignore_file": "ignore_spec.txt",
     "abs_path_root": "/taelgarverse/",
-    "resize_images": true,
+    "resize_images": false,
     "max_height": 1600,
     "max_width": 1600,
     "delete_unlinked_images": true,

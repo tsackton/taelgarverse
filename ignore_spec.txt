@@ -4,4 +4,5 @@ Campaigns/*
 !Campaigns/Player*
 !Campaigns/Labyrinths*
 !Campaigns/Mawar*
+!Campaigns/Great*
 Worldbuilding/*
