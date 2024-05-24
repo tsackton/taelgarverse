@@ -1,7 +1,9 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 title: The Heroes of Uzgukhar
 ---
+# The Heroes of Uzgukhar
 
 A praise song sung by the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>) about the [Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>), particularly sung
 to celebrate the victory of the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) over [Grash](<../../people/other-nonhumans/grash.md>). 
@@ -9,6 +11,7 @@ to celebrate the victory of the [Dunmar Fellowship](<../../people/pcs/dunmar-fel
 <audio controls>
     <source src="/taelgarverse/assets/audio/heroes-of-uzgukhar.mp3">
 </audio>
+## Lyrics
 
 [Verse 1]
 Sunrise siege at Uzgukhar, the battle fiercely roars,

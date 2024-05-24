@@ -1,8 +1,10 @@
 ---
+headerVersion: 2023.11.25
 tags: [meta]
-title: Songs
+name: Songs of Taelgar
+title: Songs of Taelgar
 ---
-
+# Songs of Taelgar
 
 This is a collection of music heard across Taelgar:
 

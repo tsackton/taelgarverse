@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+campaignInfo:
+- {campaign: dufr, type: met, date: 1749-05-03}
 species: fey
 subspecies: hag
 whereabouts:
@@ -20,6 +22,10 @@ title: Putrid Agnes
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of May 3rd, 1749): [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>), the Northern Green Sea
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 3rd, 1749 in [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>), the Northern Green Sea  
 
 
 Putrid Agnes is a hag with a morbid fascination with beets. She lived for some time on the outskirts of [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>) under the protection of [Rhodar von Glauer](<../other-nonhumans/rhodar-von-glauer.md>), feasting on the minds of those deemed unworthy of being turned to vampire spawn. 

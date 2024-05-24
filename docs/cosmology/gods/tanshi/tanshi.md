@@ -1,7 +1,9 @@
 ---
+headerVersion: 2023.11.25
 tags: [religion/tanshi, background]
 title: Tanshi
 ---
+# Tanshi
 
 The tanshi are the small gods worshiped by the Deno'qai and other followers of the [Tanshi Worship](<../../religions/northern-folk-religions/tanshi-worship.md>) tradition. 
 

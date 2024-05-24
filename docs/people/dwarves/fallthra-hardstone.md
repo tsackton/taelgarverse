@@ -36,7 +36,7 @@ title: Fallthra Hardstone
 :octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 9th, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-Matriarch of the Hardstone clan; associated with the Tokra Archives, where she and her clan help maintain the building. 
+Matriarch of the Hardstone clan; associated with the [Tokra Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), where she and her clan help maintain the building. 
 ## Relationships:
 - Mother to [Dag Hardstone](<./dag-hardstone.md>)
 - Sister of [Morkral Hardstone](<./morkral-hardstone.md>)

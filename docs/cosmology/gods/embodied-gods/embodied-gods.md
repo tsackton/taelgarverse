@@ -1,8 +1,9 @@
 ---
+headerVersion: 2023.11.25
 tags: [background]
 title: Embodied Gods
 ---
-# The Embodied Gods
+# Embodied Gods
 
 The divinities known as the Embodied Gods are the direct creations of the [High Gods](<../high-gods/high-gods.md>), given physical form, permanence and consciousness, and the power to create. Unlike the [Incorporeal Gods](<../incorporeal-gods/incorporeal-gods.md>), the Embodied Gods do not depend upon belief for their power. 
 

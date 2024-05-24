@@ -1,10 +1,10 @@
 ---
+headerVersion: 2023.11.25
 tags: [background]
 excludePublish: [clee]
 title: Metaphysics of Souls
 ---
 # Metaphysics of Souls
-Most mortal creatures native to the [Material Plane](<multiverse/material-plane.md>) plane have a soul, a mystical essence of spirit. Although many things about souls are mysteries, some truths are understood, especially around death. 
 
 When the physical body dies the soul fades quickly from the [Plane of Souls](<multiverse/spiritual-realms/plane-of-souls.md>), but does not immediately disappear into nothingness, nor immediately gain everlasting life in some outer realm. Instead, most souls drift towards the [Land of the Dead](<multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), a mysterious realm with many different names and descriptions. From the [Land of the Dead](<multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), many souls find their way to some outer realm, of a god, or perhaps the Nine Hells or Arborea or stranger realms. Those not claimed by a god, or similar power, eventually fade away into nothingness, becoming part of the essence of the Land of Dead itself. This journey across the Land of the Dead is usually thought to take about a week, although some cross it faster, or slower, and souls that are lost can linger much longer, it is thought. What happens to those souls who never leave the Land of the Dead is a mystery, although many theories persist: some believe they fade away; others believe they are stuck forever, in a kind of limbo. Many cultures believe the Land of the Dead to be dangerous, a place best crossed quickly, and many funerary rituals developed to help souls cross the Land of the Dead. Other cultures are more concerned with the transition from Taelgar to the Land of the Dead. But all cultures know that the gods shepherd souls in some fashion, and that mortal actions can help - or hinder - a soul's journey. 
 

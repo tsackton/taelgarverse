@@ -6,7 +6,7 @@ campaignInfo: []
 name: Tharn Todor
 typeOf: city
 ancestry: dwarven
-partOf: Nardith
+whereabouts: Nardith
 title: Tharn Todor
 ---
 # Tharn Todor

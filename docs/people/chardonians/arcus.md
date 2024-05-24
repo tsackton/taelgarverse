@@ -40,7 +40,17 @@ title: Arcus
 
 An adventurer and treasure hunter from the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), now petrified in the fort east of [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>). 
 
+
 Left [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) with [Servius](<./servius.md>), [Dee Wildcloak](<../halflings/dee-wildcloak.md>), [Dain Goldhammer](<../dwarves/dain-goldhammer.md>), and [Alban](<./alban.md>). Argued constantly with [Servius](<./servius.md>), acording to [Dee Wildcloak](<../halflings/dee-wildcloak.md>). Parted ways with other travelers in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), presumably to press ahead. 
 
 Passed through [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) alone in late February or early March, according to [Jasu](<../dunmari/jasu.md>) and [Ikram](<../dunmari/ikram.md>).
+
+## Chronology
+
+- Dec 23, 1747 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban leave Chardon together, on a mission to find treasure for the Society of the Open Scroll, funded by [Fausto](<./fausto.md>).
+- Feb 02, 1748 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban arrive in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>).
+- Feb 03, 1748 DR: Dee Wildcloak, Dain Goldhammer, and Alban leave across plains to the north, parting ways with Arcus and Servius.
+- Mar 15, 1748 DR Devana's family was attacked by marauding axebeaks, supernaturally enraged by an ancient amulet from the Great War, which had been buried inactive for centuries until uncovered by [Arcus](<./arcus.md>) in the [old Dunmari fort](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>) east of [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>). One of his sons and nearly half his animals were killed in this attack (date is approx).
+- Mar 25, 1748 DR, afternoon: Explore [the ruined fort](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>) and the caves below. Find a petrified explorer (later revealed to be [Arcus](<./arcus.md>)). Find and defeat an undead creature carrying a symbol of [Cha'mutte](<../extraplanar-powers/cha-mutte.md>). Destroy cursed obsidian stone on its staff that seems to be causing beasts to rampage.
+- Mar 29, 1748 DR, early afternoon: Arrive in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Speak with Elder [Kisa](<../dunmari/kisa.md>), who tells them about the [Summer of Red Storms](<../../events/1700s/1709/summer-of-red-storms.md>). Meet [Ikram](<../dunmari/ikram.md>), who tells them about [Arcus](<./arcus.md>). Meet the smith, [Jasu](<../dunmari/jasu.md>). Meet the [Charmhearts](<../../groups/halfling-families/charmhearts.md>).
 

@@ -1,12 +1,16 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 title: Hush Little Beet
 ---
+# Hush Little Beet
 
 The lullaby of [Putrid Agnes](<../../people/fey/putrid-agnes.md>)
 <audio controls>
     <source src="/taelgarverse/assets/audio/hush-little-beet.mp3">
 </audio>
+
+## Lyrics
 
 Hush little beet, now don’t you cry,
 Granny’s gonna make you into a pie.

@@ -1,11 +1,12 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 title: Merfolk Fortunes
 ---
+# Merfolk Fortunes
 
 A halfling sea shanty popular among the halflings of the [Gulf of Chardon](<../../gazetteer/west-coast/gulf-of-chardon.md>)
 
-## Merfolk Fortunes
 
 <audio controls>
     <source src="/taelgarverse/assets/audio/merfolk-fortunes.mp3">
@@ -13,6 +14,7 @@ A halfling sea shanty popular among the halflings of the [Gulf of Chardon](<../.
 <audio controls>
     <source src="/taelgarverse/assets/audio/merfolk-fortunes-alt.mp3">
 </audio>
+## Lyrics
 
 [Call] Ho, ye sailors, brave and true,  
 [Response] Hoist the sails and hold the brew!

@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+campaignInfo:
+- {campaign: dufr, type: met, person: Seeker and Delwath, date: 1749-05-07}
 species: human
 ancestry: Chardonian
 gender: female
@@ -18,6 +20,10 @@ title: Juliana Maris
 
     Based in [Castrella](<../../gazetteer/west-coast/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/west-coast/chardonian-empire/apporia/cedrano.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
 </div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met the Seeker and Delwath on May 7th, 1749 in [Castrella](<../../gazetteer/west-coast/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/west-coast/chardonian-empire/apporia/cedrano.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)  
 
 
 An elegant woman with striking silver hair and a preference for wearing elegant imported silk robes, Juliana is widely known as a collector of merfolk artifacts and treasures. Her home is a veritable museum of oceanic curiosities, and she obsesses over the provenance and meaning of each piece. 

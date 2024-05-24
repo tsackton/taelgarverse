@@ -16,8 +16,6 @@ title: Summer's Breeze
    Home area: the [Gulf of Chardon](<../../gazetteer/west-coast/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)  
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in [Castrella](<../../gazetteer/west-coast/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/west-coast/chardonian-empire/apporia/cedrano.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
-
 
 A spritely halfling trader, sailing a meandering route around the [Gulf of Chardon](<../../gazetteer/west-coast/gulf-of-chardon.md>), going where the winds and tides lead. Captained by [Pippa Goodbarrow](<../../people/halflings/pippa-goodbarrow.md>), and crewed by a lively group of mostly young halflings, with a distinct preference for fine food, regular meals, and good ale. 
 

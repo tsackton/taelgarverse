@@ -1,11 +1,11 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 title: Fog and Fortune
 ---
+# Fog and Fortune
 
 A popular folk song in [Apporia](<../../gazetteer/west-coast/chardonian-empire/apporia/apporia.md>). 
-
-## Fog and Fortune
 
 <audio controls>
     <source src="/taelgarverse/assets/audio/fogbound-rescue.mp3">
@@ -13,6 +13,8 @@ A popular folk song in [Apporia](<../../gazetteer/west-coast/chardonian-empire/a
 <audio controls>
     <source src="/taelgarverse/assets/audio/fogbound-rescue-alt.mp3">
 </audio>
+
+## Lyrics
 
 [verse]
 In a shroud of mist, so thick and grey,  

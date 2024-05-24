@@ -16,3 +16,5 @@ title: Kazuro
 
 
 A stoneborn hermit living somewhere on the coast of [Cedrano](<../../gazetteer/west-coast/chardonian-empire/apporia/cedrano.md>), known for his skill in alchemy and attunement to the ocean. 
+
+![Kazuro Portrait](../../assets/kazuro-portrait.png)

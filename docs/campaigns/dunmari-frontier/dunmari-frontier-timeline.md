@@ -561,4 +561,11 @@ title: Dunmari Frontier Timeline
 - May 06, 1749 DR, afternoon: Sail north along the coast, with good winds. Convince halflings to sail into the night.
 - May 06, 1749 DR, night: Arrive in [Castrella](<../../gazetteer/west-coast/chardonian-empire/apporia/castrella.md>) well after sunset, and anchor for the night.
 - May 07, 1749 DR: Explore [Castrella](<../../gazetteer/west-coast/chardonian-empire/apporia/castrella.md>). Speak with [Juliana Maris](<../../people/chardonians/juliana-maris.md>), a collector of merfolk artifacts. Purchase maps from [Tullus](<../../people/chardonians/tullus.md>). Fail at an attempt to scry [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>). Gather rumors and hear songs. Convince [Pippa](<../../people/halflings/pippa-goodbarrow.md>) and the crew of the [Summer's Breeze](<../../things/ships/summer-s-breeze.md>) to set sail before dawn, heading north.
+- May 08, 1749 DR, early morning: Depart [Castrella](<../../gazetteer/west-coast/chardonian-empire/apporia/castrella.md>) in the pre-dawn light, with the outgoing tide, sailing for Calcara Island to find [Kazuro](<../../people/other-nonhumans/kazuro.md>), the stoneborn alchemist
+- May 08, 1749 DR, midday: Reach Calcara Island; find [Kazuro](<../../people/other-nonhumans/kazuro.md>); convince him to share transformation herbs that will turn lungs to gills and back in exchange for returning later to help him build a small school and recruit students. Depart north sailing for Tamaro Bay.
+- May 09, 1749 DR: Sail northwest uneventfully.
+- May 10, 1749 DR, midday: Round the northernmost point of the [Apporian Peninsula](<../../gazetteer/west-coast/chardonian-empire/apporia/apporia.md>).
+- May 10, 1749 DR, afternoon: Reach Tamaro Bay. Cure [Dorian Almare](<../../people/chardonians/dorian-almare.md>) of a oceanic curse; speak with him about merfolk.
+- May 10, 1749 DR, evening: Sail west into the [Endless Ocean](<../../gazetteer/endless-ocean.md>).
+- May 12, 1749 DR, pre-dawn: Reach a place with no winds and strange oceans, above a portal to the [Elemental Plane of Water](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-water.md>). Part company with [Summer's Breeze](<../../things/ships/summer-s-breeze.md>) and dive underwater.
 

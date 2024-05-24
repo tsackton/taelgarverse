@@ -1,7 +1,9 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 title: Halfling Shanties of the Green Sea
 ---
+# Halfling Shanties of the Green Sea
 
 This is a collection of halfling sea shanties from the Western Green Sea
 
@@ -15,6 +17,7 @@ This is a collection of halfling sea shanties from the Western Green Sea
 <audio controls>
     <source src="/taelgarverse/assets/audio/dyes-of-tollen-v2.mp3">
 </audio>
+### Lyrics
 
 [call]
 What should we trade for the dyes of Tollen?
@@ -70,6 +73,8 @@ Ere the winds blow fiercely
     <source src="/taelgarverse/assets/audio/green-sea-calls.mp3">
 </audio>
 
+### Lyrics
+
 Oh, we sail the green sea wide and free, 
 With the wind in our sails, merry as can be. 
 From Tollen’s ports, where the dyes do bloom, 
@@ -107,6 +112,8 @@ Singing our shanty, day by day.
 <audio controls>
     <source src="/taelgarverse/assets/audio/roaming-the-green-seas.mp3">
 </audio>
+
+### Lyrics
 
 Bright dawns in Tollen, where the colors meet, 
 We trade at first light, where the waters do greet. 

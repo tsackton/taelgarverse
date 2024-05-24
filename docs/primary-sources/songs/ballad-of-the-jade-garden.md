@@ -1,15 +1,17 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 title: Ballad of the Jade Garden
 ---
+# Ballad of the Jade Garden
 
 A folk ballad from the [Apporian Peninsula](<../../gazetteer/west-coast/chardonian-empire/apporia/apporia.md>). 
-
-## Ballad of the Jade Garden
 
 <audio controls>
     <source src="/taelgarverse/assets/audio/ballad-of-the-jade-garden.mp3">
 </audio>
+
+## Lyrics
 
 [verse 1]
 In the depths where shadows weave,

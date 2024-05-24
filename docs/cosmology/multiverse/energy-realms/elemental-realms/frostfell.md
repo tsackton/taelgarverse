@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Energy Realms
+typeOf: plane
 title: Frostfell
 ---
 # Frostfell
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A place in the [Energy Realms](<../energy-realms.md>)  
+-    :octicons-location-24:{ .lg .middle } A plane in the [Energy Realms](<../energy-realms.md>)  
 </div>
 
 

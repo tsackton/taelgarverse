@@ -16,19 +16,25 @@ You might start with:
 
 You can also explore the skyship [Vindristjarna](<../../things/ships/vindristjarna.md>) and the [special facilities](<./vindristjarna-room-planning.md>) constructed on it.
 
-You can also explore the most recent session, [Session 98 (DuFr)](<session-notes/session-98-dufr.md>) or browse pages mentioned in the most recent session note:
-
+You can also explore the most recent session, [Session 99 (DuFr)](<session-notes/session-99-dufr.md>) or browse pages mentioned in the sessions in the current adventure (finding the jade in lost among the merfolk):
 | Link                                                                                                              | Folder                                |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | [Jade Piece of Rai's Hand](<treasure/gifts-and-heirlooms/jade-piece-of-rai-s-hand.md>) | Campaigns/Dunmari Frontier            |
 | [Folding Boat](<treasure/treasure-from-kadmos-and-company/folding-boat.md>)            | Campaigns/Dunmari Frontier            |
+| [tanshi](<../../cosmology/gods/tanshi/tanshi.md>)                                                                       | Cosmology/Gods                        |
+| [Elemental Plane of Water](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-water.md>)     | Cosmology/Multiverse                  |
+| [Sentient Ocean](<../../Cosmology/Sentient Ocean.md/>)                                                                   | Cosmology/Sentient Ocean.md           |
+| [War of the Dark Rift](<../../Events/1500s/War of the Dark Rift.md/>)                                                    | Events/1500s                          |
+| [Endless Ocean](<../../gazetteer/endless-ocean.md>)                                                                     | Gazetteer/Endless Ocean.md            |
 | [Ursk](<../../gazetteer/northern-green-sea/ursk.md>)                                                                    | Gazetteer/Northern Green Sea          |
 | [Apporian Peninsula](<../../gazetteer/west-coast/chardonian-empire/apporia/apporia.md>)                                 | Gazetteer/West Coast                  |
 | [Artevus](<../../gazetteer/west-coast/chardonian-empire/apporia/artevus.md>)                                            | Gazetteer/West Coast                  |
+| [Calcara Island](<../../Gazetteer/West Coast/Chardonian Empire/Apporia/Calcara Island.md/>)                              | Gazetteer/West Coast                  |
 | [Castrella](<../../gazetteer/west-coast/chardonian-empire/apporia/castrella.md>)                                        | Gazetteer/West Coast                  |
 | [Cedrano](<../../gazetteer/west-coast/chardonian-empire/apporia/cedrano.md>)                                            | Gazetteer/West Coast                  |
 | [Nevium](<../../gazetteer/west-coast/chardonian-empire/apporia/nevium.md>)                                              | Gazetteer/West Coast                  |
 | [Portalia](<../../gazetteer/west-coast/chardonian-empire/apporia/portalia.md>)                                          | Gazetteer/West Coast                  |
+| [Tamaro Bay](<../../Gazetteer/West Coast/Chardonian Empire/Apporia/Tamaro Bay.md/>)                                      | Gazetteer/West Coast                  |
 | [The Drunken Dolphin](<../../gazetteer/west-coast/chardonian-empire/apporia/the-drunken-dolphin.md>)                    | Gazetteer/West Coast                  |
 | [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)                                | Gazetteer/West Coast                  |
 | [Gulf of Chardon](<../../gazetteer/west-coast/gulf-of-chardon.md>)                                                      | Gazetteer/West Coast                  |
@@ -39,6 +45,7 @@ You can also explore the most recent session, [Session 98 (DuFr)](<session-notes
 | [Tullus](<../../people/chardonians/tullus.md>)                                                                          | People/Chardonians                    |
 | [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>)                                                        | People/Halflings                      |
 | [Pippa Goodbarrow](<../../people/halflings/pippa-goodbarrow.md>)                                                        | People/Halflings                      |
+| [Caloria](<../../People/Other Nonhumans/Caloria.md/>)                                                                    | People/Other Nonhumans                |
 | [Kazuro](<../../people/other-nonhumans/kazuro.md>)                                                                      | People/Other Nonhumans                |
 | [Thomas Hawke](<../../people/tollenders/thomas-hawke.md>)                                                               | People/Tollenders                     |
 | [Ballad of the Jade Garden](<../../primary-sources/songs/ballad-of-the-jade-garden.md>)                                 | Primary Sources/Songs                 |

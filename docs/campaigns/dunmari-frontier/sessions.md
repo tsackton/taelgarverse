@@ -101,3 +101,4 @@
 - **Shadowkeep Infiltration** ([Dunmari Frontier - Session 96](<session-notes/session-96-dufr.md>), May 03), 1749 DR: in which the party confronts dark forces (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
 - **Shadowkeep's Fall** ([Dunmari Frontier - Session 97](<session-notes/session-97-dufr.md>), May 03, 1749 DR - May 05), 1749 DR: in which the party vanquishes Rhodar von Glauer (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
 - **Voyage to Castrella** ([Dunmari Frontier - Session 98](<session-notes/session-98-dufr.md>), May 05, 1749 DR - May 07), 1749 DR: in which alliances are formed and clues found (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
+- **The Path to the Merfolk** ([Dunmari Frontier - Session 99](<session-notes/session-99-dufr.md>), May 08, 1749 DR - May 12), 1749 DR: in which the party seeks underwater aid (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
