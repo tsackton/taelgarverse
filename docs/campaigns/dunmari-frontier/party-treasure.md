@@ -24,6 +24,7 @@
 - 93 strange silver coins of a design you have never seen, with a small hole in the center and strange writing around the edge. 
 - A set of bone dice, merfolk made 
 - 63 merfolk gambling tokens, made of polished shell and stone. 
+  
 ### Recovered Treasure from the [Stormdancer](<../../things/ships/stormdancer.md>)
 
 Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
@@ -49,6 +50,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 | ![Horn of Warning 1](../../assets/horn-of-warning-1.png){width="240"}            | [Horn of Silent Alarm (Dunmari)](<../../things/magic-items/horn-of-silent-alarm-dunmari.md>) | Minor item, Common    | Taken from [Justan](<../../people/dunmari/justan.md>) after he was killed by [Casian](<../../people/chardonians/casian.md>)                                                                                          | [Mechanics](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)           |
 |                                            | Ring of Sharp Mind                 | Minor item, Rare      | Constructed by [Faldrak](<../../people/dwarves/faldrak-bronzehammer.md>) and [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>) at the [Elemental Forge](<treasure/elemental-forge-hoard.md>)                                | [Mechanics](https://www.dndbeyond.com/magic-items/7632123-ring-of-sharp-mind)     |
 |                                            | Magic Cooking Pouch                | Minor item, Uncommon  | [Purchased](<treasure/gifts-and-purchases.md#purchases>)  from the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) in exchange for a portion of [Grimbaskal's Hoard](<treasure/grimbaskal-s-hoard.md>)                           | [Mechanics](https://www.dndbeyond.com/magic-items/6210885-magic-cooking-pouch)    |
+
 ### Wellby 
 
 | Image | Name                                            | Rarity                | Origin and Notes                                                                                                       | Mechanics                                                                                    |
@@ -69,6 +71,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | [Tattoo of Darkvision](<../../things/magic-items/tollen-magical-tattoo.md>) | Minor item, Uncommon  | [Purchased](<treasure/gifts-and-purchases.md#purchases>)  from [Cecilia Lister](<../../people/tollenders/cecilia-lister.md>)                                                  | [Mechanics](https://www.dndbeyond.com/magic-items/4648-goggles-of-night)                     |
 |       | Celestial Gem of Protection                     | Major item, Rare      | Gift from [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>), who received it as a [gift](<treasure/gifts-and-purchases.md>) from a celestial                             | [Mechanics](https://www.dndbeyond.com/magic-items/3465643-celestial-gem-of-protection)       |
 |       |                                                 |                       |                                                                                                                        |                                                                                              |
+
 ### Kenzo
 
 | Image | Name                                   | Rarity                | Origin and Notes                                                                                                                                                   | Mechanics |
@@ -86,6 +89,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | Cloak of the Mantra Ray                | Minor item, Uncommon  | [Purchased](<treasure/gifts-and-purchases.md#purchases>)  from the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) in exchange for a portion of [Grimbaskal's Hoard](<treasure/grimbaskal-s-hoard.md>)                                             |           |
 |       | [Aagir's Everlight](<../../things/magic-items/aagir-s-everlight.md>)                  | Minor item, Common    | Found in the [Dunmari Fort (Gomat)](<treasure/nashtkar-treasures.md>)                                                                                                          |           |
 |       | [Scroll of Storykeeping](<../../things/magic-items/scroll-of-storykeeping.md>)             | Minor item, Uncommon  | [Gift](<treasure/gifts-and-purchases.md>) from [Saka](<../../people/dunmari/saka.md>)                                                                                                                        |           |
+
 ### Seeker
 
 | Image | Name                                             | Rarity                | Origin and Notes                                                                      | Mechanics                                                                              |
@@ -103,6 +107,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | Charlatan's Dice                                 | Minor item, Common    | Part of [Agata's Treasure](<treasure/agata-s-treasure.md>)                                                          |                                                                                        |
 |       | [Cha'mutte’s Shadow Armband](<treasure/notable-items/cha-muttes-shadow-armband.md>)                   | Major item, Legendary | Recovered from the [Forest of Nightmares](<../../gazetteer/far-north/forest-of-nightmares.md>) by [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>)                            | N/A                                                                                    |
 |       | [Binding Stones](<treasure/notable-items/binding-stones.md>)                               | Major item, Legendary | Found in [Stormcaller Tower](<treasure/stormcaller-tower-treasure.md>)                            |                                                                                        |
+
 ### Riswynn
 
 | Image | Name                                   | Rarity               | Origin and Notes                                       | Mechanics                                                                       |
@@ -112,6 +117,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | [Dragonhide Cloak](<../../things/magic-items/dragonhide-armor.md>) | Major item, Uncommon | Purchased in [Zvervinka](<../../gazetteer/northern-green-sea/zvervinka.md>)                             | [Mechanics](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)     |
 |       | Masterwork [Skaer Steel](<../../things/materials/skaer-steel.md>) shield      | Major item, rare     | Purchased from [Umli](<../../people/other-nonhumans/umli.md>)                                | [Mechanics](https://www.dndbeyond.com/magic-items/7633182-skaer-shield)         |
 |       | Coin of Delving                        | Minor item, Common   | Gift from Brawnanvils                                  | [Mechanics](https://www.dndbeyond.com/magic-items/1434262-coin-of-delving)      |
+
 ### Party
 
 *Party items are stored in the [Portable Hole](<treasure/notable-items/portable-hole.md>), unless otherwise indicated. The [Portable Hole](<treasure/notable-items/portable-hole.md>) is folded up and stashed in a lead-lined locket worn by [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>).*
@@ -132,6 +138,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | [Drankorian Message Stone](<../../things/magic-items/drankorian-message-stone.md>) | Minor item, Uncommon  | Long range version. Found in the [Elemental Forge Hoard](<treasure/elemental-forge-hoard.md>). [Lucius](<../../people/chardonians/lucius.md>), a boy in a small village in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) has its pair, and thinks it is his imaginary friend Benji talking.                                                        | [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone) |
 |       | Locked spellbook             | Unknown               | From the [Elemental Forge Hoard](<treasure/elemental-forge-hoard.md>)                                                                                                                                                                                                        | N/A                                                                                 |
 |       | [Watcher's Dagger](<treasure/notable-items/watcher-s-dagger.md>)         | Major item, Rare      | ***(NEW)*** From [Shadowkeep](<treasure/ursk-treasure.md#acquired-from-shadowkeep>)                                                                                                                                                                   | [Mechanics](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)      |
+
 ## Non-Magical Items
 
 *All non-magical items are stored in the Portable Hole, unless noted.*
