@@ -23,6 +23,6 @@ title: El
 </div>
 
 
-![El Wyrdling](../../assets/el-wyrdling.png){align="right"; width="320"}A disciple of the Wyrdling, recently blessed with several miracles. They grew up the child of a rich merchant in Gowerbourne, and found the Wyrdling in mid-life. 
+![El Wyrdling](../../assets/el-wyrdling.png){align="right"; width="320"}A disciple of the Wyrdling, recently blessed with several miracles. They grew up the child of a rich merchant in [Gowerbourne](<../../gazetteer/greater-sembara/sembara/heartlands/gowerbourne.md>), and found the Wyrdling in mid-life. 
 
 Their story is here.

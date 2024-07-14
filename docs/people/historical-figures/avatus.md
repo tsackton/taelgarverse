@@ -10,5 +10,5 @@ aliases:
 ---
 ### Emperor Avatus
 
-The ruler of an autocracy established on the southern edge of Sembara in the DR 1420s. Commissioned the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/treasure-from-agata/mirror-of-soul-trapping.md>). 
+The ruler of an autocracy established on the southern edge of Sembara in the DR 1420s. Commissioned the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/notable-items/mirror-of-soul-trapping.md>). 
 

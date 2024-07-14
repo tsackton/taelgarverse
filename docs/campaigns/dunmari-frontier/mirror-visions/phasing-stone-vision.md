@@ -8,7 +8,7 @@ title: Phasing Stone Vision
 ---
 # The Phasing Stone Vision
 
-A vision of the [Phasing Stone](<../../../things/magic-items/phasing-stones.md>) from [Hralgar's Palace](<../../../gazetteer/sentinel-range/hralgar-s-palace.md>) seen in the [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>).
+A vision of the [Phasing Stone](<../../../things/magic-items/phasing-stones.md>) from [Hralgar's Palace](<../../../gazetteer/sentinel-range/hralgar-s-palace.md>) seen in the [Mirror of the Past](<../treasure/notable-items/mirror-of-the-past.md>).
 
 You hold the phasing stone to the mirror, and the scene shifts.
 

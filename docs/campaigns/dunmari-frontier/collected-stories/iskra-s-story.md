@@ -4,6 +4,7 @@ tags: [source]
 title: Iskra's Story
 ---
 # Iskra's Story
+([collected by](<../session-notes/session-81-dufr.md>) [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>))
 
 As [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) spends an afternoon with [Iskra](<../../../people/skaer/iskra.md>), he hears her story.
 

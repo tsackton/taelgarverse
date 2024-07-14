@@ -3,8 +3,6 @@ headerVersion: 2023.11.25
 tags: [source]
 title: Letter from Speaker Lara
 ---
-# Letter from Speaker Lara
-
 
 Dear [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>),
 

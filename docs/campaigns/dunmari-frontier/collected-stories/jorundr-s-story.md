@@ -4,6 +4,7 @@ tags: [source]
 title: Jorundr's Story
 ---
 # Jorundr's Story
+([collected by](<../session-notes/session-71-dufr.md>) [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>))
 
 Jorundr's story starts east and north of here, in the [Green Sea](<../../../gazetteer/green-sea.md>). He was born to some of my kind of who live underwater there -- while many of our kind dwell in the high mountains among the clouds, others dwell deep below the sea. 
 

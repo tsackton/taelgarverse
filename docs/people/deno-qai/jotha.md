@@ -25,4 +25,4 @@ title: Jotha
 </div>
 
 
-Warrior, who was gravely wounded in battle against a deathless warlock and then vanished, presumably into a shadow realm. May be wandering Taelgar confused somewhere, if she was ejected from shadow realm when the [armband the deathless warlock carried](<../../campaigns/dunmari-frontier/treasure/treasure-from-solo-adventures/cha-muttes-shadow-armband.md>) was destroyed.
+Warrior, who was gravely wounded in battle against a deathless warlock and then vanished, presumably into a shadow realm. May be wandering Taelgar confused somewhere, if she was ejected from shadow realm when the [armband the deathless warlock carried](<../../campaigns/dunmari-frontier/treasure/notable-items/cha-muttes-shadow-armband.md>) was destroyed.

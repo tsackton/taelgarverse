@@ -3,8 +3,6 @@ headerVersion: 2023.11.25
 tags: [source]
 title: Two Letters from Stormcaller Tower
 ---
-# Two Letters from Stormcaller Tower
-
 
 "Tell [Eudomes](<../../../people/historical-figures/eudomes.md>) that we will arrive in two weeks time. We expect to speak to the captured being, whom you call [Hralgar](<../../../people/giants/hralgar.md>). The [Occulta Ludum](<../../../groups/drankorian-societies/occulta-ludum.md>) will be overjoyed to hear the binding seems to have worked, but tell [Eudomes](<../../../people/historical-figures/eudomes.md>) to be cautious above all else, keep this secret. Giants are dangerous in all their forms, even to us, and binding a storm giant at the peak of their power is the most dangerous business of all."
 

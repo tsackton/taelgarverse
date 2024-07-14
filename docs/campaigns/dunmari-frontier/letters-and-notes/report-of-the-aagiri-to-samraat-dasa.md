@@ -3,8 +3,6 @@ headerVersion: 2023.11.25
 tags: [source]
 title: Report of the Aagiri to Samraat Dasa
 ---
-# Report of the Aagiri to Samraat Dasa
-
 
 **This is a copy of a report written by the Aagiri, the mystai of Aagir, to Samraat Aatmaji Dasa, who was the last of the Aatmaji Dynasty, and died leading a Dunmari army into Drankor, ending the Aatmaji Dynasty and throwing Dunmar into chaos for a time. Nuzkar's editorial notes are marked in italics.**
 

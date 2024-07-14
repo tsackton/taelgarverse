@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, pc/cleenseau, person, status/unknown]
+tags: [pc/cleenseau, person]
 name: Celyn
 born: 1697
 species: human
@@ -10,8 +10,13 @@ gender: male
 player: Kiya Nicoll
 affiliations:
 - {org: Heroes of Cleenseau}
+- {org: Mahaut's Miracle Players, start: 1717-12, end: 1719-06-29}
 whereabouts:
-- {type: home, end: 1719, location: Clawyn}
+- {type: away, start: 1715-03, end: 1715-12, location: Ruthin}
+- {type: home, end: 1716-10, location: Clawyn}
+- {type: away, start: 1716-10, end: 1717-01, location: Tafolwern}
+- {type: away, start: 1717-02, end: 1719-06-29, location: traveling with Mahaut's Miracle Players}
+- {type: away, start: 1719-06-29, end: 1720-10-17, location: traveling to Cleenseau}
 - {type: away, start: 1719-10-17, end: 1720-01-12, location: Cleenseau}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
 title: Celyn
@@ -23,13 +28,14 @@ title: Celyn
     A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/humans/humans.md>) (he/him)  
     Born DR 1697 (52 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Member of Mahaut's Miracle Players (December 1717 - June 29th, 1719)  
     { .bio }
 
     Originally from: [Clawyn](<../../../gazetteer/greater-sembara/tyrwingha/clawyn.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
     :simple-dungeonsanddragons:{ .middle} [Character Sheet](https://www.dndbeyond.com/characters/90849827) 
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of January 16th, 1720): [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of October 17th, 1720): traveling to [Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 
 
 ![Celyn Portrait](../../../assets/celyn-portrait.png){align="right"; width="400"}Celyn is a slightly short, pale, blond young human man, probably in his early twenties, with quick hands and a wide, open blue-eyed attention.  His demeanor is generally cheerful if perhaps a bit naive; he appears to be amiably accepting of a number of the foibles of other people around him where someone else might make comment.  Perhaps this is related to the way he is utterly unapologetic about his own quirks, which are reasonably numerous and include frequent references to luck and good fortune, current objects of his apparently infinite curiosity, and off-the-wall commentary.  He does not make eye contact but is very clearly attentive to conversations he’s in; he has small brief rituals that he does when drinking wine.  

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest, status/unknown]
+tags: [person, pc/guest, status/needswork/external]
 name: Caulaus
 born:
 species: human
@@ -23,3 +23,4 @@ title: Caulaus
 ![Caulaus Aportino Portrait](../../../../assets/caulaus-aportino-portrait.png){align="right"; width="320"}A human warrior from [Drankor](<../../../../history/drankorian-era/drankor.md>), trapped in the [Feywild](<../../../../cosmology/multiverse/echo-realms/feywild/feywild.md>) for nearly 1000 years. Not fully in possession of his wits or memories. A guide and wanderer in [Amberglow](<../../../../cosmology/multiverse/echo-realms/feywild/amberglow.md>); sought by [Seeker](<../seeker.md>) as a guide to the fey crossing at [Lastlight Falls](<../../../../cosmology/multiverse/echo-realms/feywild/lastlight-falls.md>). 
 
 Stayed to guard [Agata](<../../../fey/agata.md>)'s prison in [Session 67 (DuFr)](<../../../../campaigns/dunmari-frontier/session-notes/session-67-dufr.md>).
+

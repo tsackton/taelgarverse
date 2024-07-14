@@ -3,8 +3,6 @@ headerVersion: 2023.11.25
 tags: [source]
 title: Lakan Monk Letter
 ---
-# Lakan Monk Letter
-
 
 The blessings of Laka be with you, and may his divine grace guide my words to you. As the season of blessing approaches, may your deeds earn the divine grace of Sonkar and may her judgement look favorably upon your year. 
 

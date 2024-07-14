@@ -11,6 +11,8 @@ title: Dunmari Basin
 </div>
 
 
+
+
 The Dunmari Basin is a broad, flat, semi-arid plain, between the Yuvanti Mountains to the west and south, the Sentinels to the north, and the Garamjala Plateau to the east. 
 
 In the northwest, the [~Songara Plains~](<./songara-plains.md>) extend in a broad arc from the [~Darba Coastal Mountains~](<../darba-highlands/darba-coastal-mountains.md>) ton [Songara](<../realms/dunmar/central-dunmar/songara.md>) to the upper reaches of the [Hara](<../rivers/hara-watershed/hara.md>). These plains are wetter and support a more consistent grassland, with vast herds of horses that the Dunmari are famous for. This terrain once extended across much of central and eastern Dunmar, until the upheavals at the end of the Great War. The [Sone](<../rivers/hara-watershed/sone.md>), fed by snowmelt in the Sentinels and the [~Darba Coastal Mountains~](<../darba-highlands/darba-coastal-mountains.md>), flows northeast through the [~Songara Plains~](<./songara-plains.md>), until it joins the [Hara](<../rivers/hara-watershed/hara.md>) north of [Tokra](<../realms/dunmar/central-dunmar/tokra/tokra.md>). 

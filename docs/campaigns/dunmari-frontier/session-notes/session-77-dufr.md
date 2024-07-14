@@ -29,7 +29,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - At dinner, Chief [Lubash](<../../../people/orcs/lubash.md>) reveals the [cloak](<../../../things/artifacts-of-power/cloak-of-rainbows.md>)'s protective power against [Thark](<../../../cosmology/gods/embodied-gods/thark.md>)'s influence and expresses uncertainty about the effect on undead orcs.
 - The party learns the history of the cloak, crafted by an archfey now missing, and hears of a previous Chardonian party's espionage.
 - A plan is formed to feign a rift with [Lubash](<../../../people/orcs/lubash.md>) to set a trap for [Kadmos](<../../../people/chardonians/kadmos.md>)'s anticipated assault.
-- A messenger lynx delivers a letter to Kenzo, and the party frees an orc from a [mirror prison](<../treasure/treasure-from-agata/mirror-of-soul-trapping.md>) and entrusts her to [Lubash](<../../../people/orcs/lubash.md>).
+- A messenger lynx delivers a letter to Kenzo, and the party frees an orc from a [mirror prison](<../treasure/notable-items/mirror-of-soul-trapping.md>) and entrusts her to [Lubash](<../../../people/orcs/lubash.md>).
 
 ### Timeline
 - Dec 05, 1748 DR, afternoon: Give General [Murook](<../../../people/orcs/murook.md>) and Loremaster [Azogar](<../../../people/orcs/azogar.md>) tour of skyship. Dinner and conversation with [Lubash](<../../../people/orcs/lubash.md>). Plan for possible attack from [Kadmos](<../../../people/chardonians/kadmos.md>) and company. 

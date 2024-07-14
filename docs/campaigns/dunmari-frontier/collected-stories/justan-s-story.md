@@ -4,6 +4,7 @@ tags: [source]
 title: Justan's Story
 ---
 # Justan's Story
+([collected by](<../session-notes/session-43-dufr.md>) [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>))
 
 [Justan](<../../../people/dunmari/justan.md>) had a good life, once. He grew up north of [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), traveled across the fertile plains with his family, raising horses. They weren’t famous or anything, but they did well, had plenty of food to eat, shelter from the weather, a good life. When the troubles started in the east, they wanted to help, and headed for [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), trying to help feed and care for the refugees. 
 

@@ -35,7 +35,7 @@ This is a collection of poems and songs by a relatively little-known Drankorian 
 The book is clearly well-read, and a few poems mentioning storm giants and their connection to dreams and prophecy seem to be particularly starred. 
 
 
-Later it was discovered the a stanza from this book (reproduced below) was used by [Eudomes](<../../people/historical-figures/eudomes.md>) used as the key to unlock the [Binding Stones](<../../campaigns/dunmari-frontier/treasure/treasure-from-stormcaller-tower/binding-stones.md>) that were binding [Hralgar](<../../people/giants/hralgar.md>)
+Later it was discovered the a stanza from this book (reproduced below) was used by [Eudomes](<../../people/historical-figures/eudomes.md>) used as the key to unlock the [Binding Stones](<../../campaigns/dunmari-frontier/treasure/notable-items/binding-stones.md>) that were binding [Hralgar](<../../people/giants/hralgar.md>)
 
 >A Lament for Lost Thunder
 

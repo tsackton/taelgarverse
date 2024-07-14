@@ -3,8 +3,6 @@ headerVersion: 2023.11.25
 tags: [source]
 title: Letter from Govir
 ---
-# Letter from Govir
-
 
 Dear friends,
 

@@ -50,7 +50,7 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 >
 >As 4 Robert I dawned, changes came to the [Lord Mayor’s Workhouse](<../../../gazetteer/greater-sembara/sembara/heartlands/lord-mayors-workhouse.md>). A elderly woman with a thick body and stern face took charge, and work slowed down. More and more children were sent out to various ‘external apprenticeships’ and few or none returned. Rumors spread both good and bad: few truly believed that she was able to find so many apprenticeships for orphaned children.
 >
->One day, in the early winter of 6 Robert I, Viepuck was selected for an apprenticeship with a scholar. This turned out to be a formative experience, where he [met his patron and was almost sacrificed to a dark portal](<../../../events/1700s/1718/01/viepuck-s-ritual-experience.md>). He came out of the experience alive, and with a new iridescident sphere reminscent of a robin's egg, and a new mysterious alien mind watching the world through him.
+>One day, in the early winter of 6 Robert I, Viepuck was selected for an apprenticeship with a scholar. This turned out to be a formative experience, where he [met his patron and was almost sacrificed to a dark portal](<../../../events/1700s/1718/01/viepuck-s-ritual-experience.md>). He came out of the experience alive, and with a new iridescent sphere reminiscent of a robin's egg, and a new mysterious alien mind watching the world through him.
 >
 >By summer, the sphere had grown from a robin’s egg to the size of a small apple, and the dreams and compulsions began. His master, he believed, was learning, in its strange and alien way, asking for things: what a white rat sees; the taste of a centipede; the sound of water running through the gutters; the dreams of a lonely farmer; the prayers of a pregnant priest; the hopes of a street performer; the socNoble of the ephran dirt (he didn’t understand that one, and the compulsion eventually went away). Finding these is not always easy, and Viepuck drifted away from the Lord Mayor’s Workhouse, where time to search was scarce. 
 >
@@ -89,9 +89,7 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 > **Treph Hardpick** (he/him)
 > A dwarf, traveler from [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>). A laborer, looking more concerned with the evening's dice-and-drinking than apperances, but not poor per-se. Has a grumpy vibe. On the young side of middle-aged, about 200.
 > 
-> ![Treph Screenshot](../../../assets/treph-screenshot.png)
-> 
-> **Sarlana Silversword** (she/her)
+> ![[Treph screenshot.[](Nardith.md)**Sarlana Silversword** (she/her)
 > A human warrior and aspiring paladin from [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>). Confident bordering on overconfident and wearing well-taken-care-of brigandine armor. Braid comes out from under her helm, otherwise only her stern jaw is visible. 
 > 
 > ![Sarlana Screenshot 1](../../../assets/sarlana-screenshot-1.png)
@@ -99,6 +97,7 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 ### Items
 | Image                                              | Name                                                                                                | Type    | Mechanics                                                                         |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------- |
+| ![Gareths Ring](../../../assets/gareths-ring.jpg){width="240"}                  | [Ring of Escape](<../../../Campaigns/Cleenseau Campaign/Treasure/Ring of Escape.md/>)                         | ring    | [Reference](https://www.dndbeyond.com/magic-items/8697391-ring-of-escape)         |
 | ![Pipes of Insect Control](../../../assets/pipes-of-insect-control.png){width="240"}       | [Pipes of Insect Control](<../../../Campaigns/Cleenseau Campaign/Treasure/Pipes of Insect Control.md/>)       | pipes   | [Reference](https://www.dndbeyond.com/magic-items/6684130-pipes-of-beast-control) |
 | ![Circlet of Telepathy](../../../assets/circlet-of-telepathy.png){width="240"}          | [Circlet of Telepathy](<../../../Campaigns/Cleenseau Campaign/Treasure/Circlet of Telepathy.md/>)             | circlet | [Reference](https://www.dndbeyond.com/magic-items/7834345-circlet-of-telepathy)   |
 | ![Boots of False Tracks Viepuck](../../../assets/boots-of-false-tracks-viepuck.png){width="240"} | [Boots of False Tracks](<../../../Campaigns/Cleenseau Campaign/Treasure/Boots of False Tracks (Viepuck).md/>) | boots   | [Reference](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)    |

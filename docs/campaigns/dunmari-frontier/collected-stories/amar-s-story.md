@@ -4,6 +4,7 @@ tags: [source]
 title: Amar's Story
 ---
 # Amar's Story
+([collected by](<../session-notes/session-43-dufr.md>) [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>))
 
 [Amar](<../../../people/dunmari/amar.md>) grew up just south of the [Akela Inn](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>), the last caravanserai on the [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) road to [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) before the [Copper Hills](<../../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), in the [Hara](<../../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>) river valley. His mother died in childbirth and his father didn’t really know what to do with him. He was always a loner as a kid, unusually for the Dunmari never really got along with his extended family. 
 

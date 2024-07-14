@@ -8,7 +8,7 @@ title: Pandemonium Scroll Vision
 ---
 # The Pandemonium Scroll Vision
 
-Vision of a [scroll associated with Pandemonium](<../treasure/treasure-from-tokra/pandemonium-scroll.md>) in [The Mirror of the Past](<../treasure/treasure-from-stormcaller-tower/the-mirror-of-the-past.md>). 
+Vision of a [scroll associated with Pandemonium](<../treasure/notable-items/pandemonium-scroll.md>) in [Mirror of the Past](<../treasure/notable-items/mirror-of-the-past.md>). 
 
 The image in the mirror of the reflection of the scroll begins to fade, and the mirror turns dark. 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/image]
+tags: [place]
 displayDefaults: {defArt: ''}
 typeOf: inn
 whereabouts: Zvervinka
@@ -8,7 +8,7 @@ title: The Silver Wolf
 ---
 # The Silver Wolf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An inn in [Zvervinka](<./zvervinka.md>), [Ursk](<./ursk.md>), the Northern Green Sea  
+-    :octicons-location-24:{ .lg .middle } An inn in [Zvervinka](<./zvervinka.md>), [Ursk](<./ursk.md>)  
 </div>
 
 
@@ -16,3 +16,5 @@ The Silver Wolf is an upscale inn and restaurant in [Zvervinka](<./zvervinka.md>
 
 
 It is marked by an the sign of an ornate silver wolf, in relief, crafted by dwarven monster hunters out of solid silver. 
+
+

@@ -4,6 +4,7 @@ tags: [source]
 title: Cecilia Lister's Story
 ---
 # Cecilia Lister's Story
+([collected by](<../session-notes/session-81-dufr.md>) [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>))
 
 As she works on [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)'s tattoo, Cecilia tells her story. 
 

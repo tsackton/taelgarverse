@@ -75,23 +75,17 @@ You have attracted a considerable retinue of followers on Vindristjarna, as well
 
 [Amil](<../../people/dunmari/amil.md>) (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
 
-[Kethra Silverspark](<../../people/dwarves/kethra.md>) (unknown). A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from Morkalan. 
+[Kethra Silverspark](<../../people/dwarves/kethra.md>). A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from Morkalan. 
 
 [Nuzkar](<../../people/orcs/nuzkar.md>) and [Aygul](<../../people/orcs/aygul.md>), orcs and twin sisters. 
 
-(not yet introduced)
 [Égnir](<../../people/elves/egnir.md>) (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
 
-[Jotha](<../../people/deno-qai/jotha.md>) (she/her, yo-TAG). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
+[Jotha](<../../people/deno-qai/jotha.md>) (she/her, yo-TAH). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
 
-UNNAMED (unknown). Mapmaker
-
-UNNAMED (unknown). A halfling storyteller. 
-
-[Kecha](<../../people/kenku/kecha.md>) (unknown). A kenku scout. 
 ## Magic
 
-In addition to the phasing stone, Vindristjarna is equipped with the following magic.
+In addition to the [Phasing Stone](<../magic-items/phasing-stones.md>), Vindristjarna is equipped with the following magic.
 ### Pitcher of Purity
 A silver water pitcher, kept in the kitchens. Any non-magical liquid poured into the pitcher is purified, removing any poison or disease and turning the liquid into pure drinking water. [Recovered from the Edge of Echoes](<../../campaigns/dunmari-frontier/session-notes/session-86-dufr.md>). Drankorian make. 
 ### Cleansing Stone

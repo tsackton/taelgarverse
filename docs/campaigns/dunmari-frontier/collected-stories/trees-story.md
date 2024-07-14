@@ -4,6 +4,7 @@ tags: [source]
 title: Tree’s Story
 ---
 # Tree’s Story
+([collected by](<../session-notes/session-64-dufr.md>) [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>))
 
 The story of a great tree of the jungles is a long, slow tale. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) listens, and hears the slow ache of a seed waiting to germinate, the long age of darkness that bursts into a vibrant thrill of sunlight. 
 

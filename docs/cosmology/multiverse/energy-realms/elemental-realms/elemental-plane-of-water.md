@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: plane
-partOf: Elemental Realms
+whereabouts: Elemental Realms
 title: Elemental Plane of Water
 ---
 # The Elemental Plane of Water

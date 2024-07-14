@@ -22,13 +22,13 @@ title: Dunmari Frontier - Delwath Solo Session 1 (Prequel)
 [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) discovers that Cha'mutte's shadow armbands are key to freeing the trapped [Meswati](<../../../cosmology/gods/tanshi/meswati/meswati.md>) and prepares to seek allies for his quest.
 ## Session Info
 
-***Delwath receives his Deno'qai [armor](<../treasure/treasure-from-solo-adventures/deno-qai-scale-mail.md>) and  [shield](<../treasure/treasure-from-solo-adventures/deno-qai-lynx-shield.md>), and learns to speak Deno'qai.***
+***Delwath receives his Deno'qai [armor](<../treasure/notable-items/deno-qai-scale-mail.md>) and  [shield](<../treasure/notable-items/deno-qai-lynx-shield.md>), and learns to speak Deno'qai.***
 ### Summary
 - Delwath arrives at a Deno'qai camp and is taken to meet Chief [Ninu](<../../../people/deno-qai/ninu.md>) in the [Ko'zula village](<../../../gazetteer/far-north/ko-zula-village.md>).
 - [Ninu](<../../../people/deno-qai/ninu.md>) shares the village's encounter with a deathless warlock and the story of [Jotha](<../../../people/deno-qai/jotha.md>)'s disappearance.
 - Delwath connects the armbands to the entrapment of the [Meswati](<../../../cosmology/gods/tanshi/meswati/meswati.md>) and his own journey.
 - [Ninu](<../../../people/deno-qai/ninu.md>) advises seeking [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>) and [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) at a hunting camp for help.
-- Godcaller [Enon](<../../../people/deno-qai/enon.md>) equips Delwath with heroic Deno'qai [armor](<../treasure/treasure-from-solo-adventures/deno-qai-scale-mail.md>) and a [shield](<../treasure/treasure-from-solo-adventures/deno-qai-lynx-shield.md>) for his quest.
+- Godcaller [Enon](<../../../people/deno-qai/enon.md>) equips Delwath with heroic Deno'qai [armor](<../treasure/notable-items/deno-qai-scale-mail.md>) and a [shield](<../treasure/notable-items/deno-qai-lynx-shield.md>) for his quest.
 
 ### Timeline
 - Sep 30, 1748 DR, afternoon: Arrive in northern forests. Meet hunting party of Deno'qai of the [Ko'zula](<../../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>) tribe. Spend the night in their camp. 
@@ -52,4 +52,4 @@ As [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) mentions this, 
 
 Asking where the other armbands may be found, [Ninu](<../../../people/deno-qai/ninu.md>) tells [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) that a stoneborn, [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>), knows the [Forest of Nightmares](<../../../gazetteer/far-north/forest-of-nightmares.md>) well, and is at a hunting camp with [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>), the druid. [Ninu](<../../../people/deno-qai/ninu.md>) suggests they would help [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) with his quest. 
 
-Deciding to head to the hunting camp, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) first meets with [Enon](<../../../people/deno-qai/enon.md>), the Godcaller of the [Ko'zula](<../../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>), who gifts him a [shield](<../treasure/treasure-from-solo-adventures/deno-qai-lynx-shield.md>) and [armor](<../treasure/treasure-from-solo-adventures/deno-qai-scale-mail.md>) carried by [Balati](<../../../people/historical-figures/balati.md>), a Deno'qai hero of the [Great War](<../../../events/1500s/great-war.md>), to aid him on his quest. 
+Deciding to head to the hunting camp, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) first meets with [Enon](<../../../people/deno-qai/enon.md>), the Godcaller of the [Ko'zula](<../../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>), who gifts him a [shield](<../treasure/notable-items/deno-qai-lynx-shield.md>) and [armor](<../treasure/notable-items/deno-qai-scale-mail.md>) carried by [Balati](<../../../people/historical-figures/balati.md>), a Deno'qai hero of the [Great War](<../../../events/1500s/great-war.md>), to aid him on his quest. 

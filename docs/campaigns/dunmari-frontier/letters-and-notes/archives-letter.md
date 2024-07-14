@@ -4,6 +4,7 @@ tags: [source]
 title: Archives Letter
 ---
 # Archives Letter
+(originally found by [Servius](<../../../people/chardonians/servius.md>) in the [Tokra Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>). The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) also [possess a copy](<../session-notes/session-38-dufr.md>))
 
 To Captain Avani, commander of the [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) guard, dedicat of [Aagir](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/aagir.md>), and noble warrior, greetings and the bond of friendship.
 

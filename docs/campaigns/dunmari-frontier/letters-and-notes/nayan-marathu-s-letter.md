@@ -3,8 +3,6 @@ headerVersion: 2023.11.25
 tags: [source, status/needswork/wip]
 title: Nayan Marathu's Letter
 ---
-# Nayan Marathu's Letter
-
 
 
 

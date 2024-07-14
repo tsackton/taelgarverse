@@ -28,7 +28,7 @@ The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.
 - Undead attack the city; [Kadmos](<../../../people/chardonians/kadmos.md>) and his followers attempt to steal the cloak from Chief [Lubash](<../../../people/orcs/lubash.md>).
 - The party engages in battle; [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s spells, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)'s bow, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)'s attacks, and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s actions are pivotal in neutralizing the enemy.
 - Antonia is stopped by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s Wall of Fire, and Delwath prevents a last-minute escape with a counterspell.
-- [Kadmos](<../../../people/chardonians/kadmos.md>) is executed and his allies are imprisoned in the [mirror](<../treasure/treasure-from-agata/mirror-of-soul-trapping.md>) after a narrow victory.
+- [Kadmos](<../../../people/chardonians/kadmos.md>) is executed and his allies are imprisoned in the [mirror](<../treasure/notable-items/mirror-of-soul-trapping.md>) after a narrow victory.
 
 ### Timeline
 - Dec 06, 1748 DR: Spend the day in [Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), trying to play-act a fight with Chief [Lubash](<../../../people/orcs/lubash.md>); depart in fake disgrace; sneak back into palace under cover of darkness to wait. No attack comes during the fitful night.
