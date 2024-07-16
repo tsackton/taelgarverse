@@ -43,7 +43,10 @@ Traveled with [Dee Wildcloak](<../halflings/dee-wildcloak.md>) and [Dain Goldham
 ## Chronology
 
 - Dec 23, 1747 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban leave Chardon together, on a mission to find treasure for the Society of the Open Scroll, funded by [Fausto](<./fausto.md>).
+- Dec 23, 1747 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban leave Chardon together, on a mission to find treasure for the Society of the Open Scroll, funded by [Fausto](<./fausto.md>).
 - Feb 02, 1748 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban arrive in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>).
+- Feb 02, 1748 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban arrive in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>).
+- Feb 03, 1748 DR: Dee Wildcloak, Dain Goldhammer, and Alban leave across plains to the north, parting ways with Arcus and Servius.
 - Feb 03, 1748 DR: Dee Wildcloak, Dain Goldhammer, and Alban leave across plains to the north, parting ways with Arcus and Servius.
 - Mar 13, 1748 DR: Dee Wildcloak, Dain Goldhammer, and Alban find the [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), and make plans to explore.
 - Mar 18, 1748 DR: Alban, Dee Wildcloak, and Dain Goldhammer loot [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), taking [Hralgar's Eyes](<../../campaigns/dunmari-frontier/treasure/notable-items/hralgar-s-eyes.md>) and the [Binding Stones](<../../campaigns/dunmari-frontier/treasure/notable-items/binding-stones.md>), which awakens [Hralgar](<../giants/hralgar.md>) in a confused, disturbed state. In the chaos of fleeing, Alban is killed.

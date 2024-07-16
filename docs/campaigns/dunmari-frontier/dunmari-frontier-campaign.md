@@ -17,6 +17,7 @@ You might start with:
 You can also explore the skyship [Vindristjarna](<../../things/ships/vindristjarna.md>) and the [special facilities](<./vindristjarna-room-planning.md>) constructed on it.
 
 You can also explore the most recent session, [Session 102 (DuFr)](<session-notes/session-102-dufr.md>) or browse pages mentioned in the sessions in the current adventure (finding the jade in lost among the merfolk):
+
 | Link                                                                                                          | Folder                                |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | [tanshi](<../../cosmology/gods/tanshi/tanshi.md>)                                                                   | Cosmology/Gods                        |

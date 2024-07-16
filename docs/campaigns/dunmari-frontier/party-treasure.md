@@ -24,7 +24,6 @@
 - 93 strange silver coins of a design you have never seen, with a small hole in the center and strange writing around the edge. 
 - A set of bone dice, merfolk made 
 - 63 merfolk gambling tokens, made of polished shell and stone. 
-  
 ### Recovered Treasure from the [Stormdancer](<../../things/ships/stormdancer.md>)
 
 Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
@@ -70,7 +69,6 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | [Drankorian Message Stone](<../../things/magic-items/drankorian-message-stone.md>)                    | Minor item, Uncommon  | Long range version. Part of [Agata's Treasure](<treasure/agata-s-treasure.md>). Paired stone currently held by [Sura](<../../people/dunmari/sura.md>).                             | [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone)          |
 |       | [Tattoo of Darkvision](<../../things/magic-items/tollen-magical-tattoo.md>) | Minor item, Uncommon  | [Purchased](<treasure/gifts-and-purchases.md#purchases>)  from [Cecilia Lister](<../../people/tollenders/cecilia-lister.md>)                                                  | [Mechanics](https://www.dndbeyond.com/magic-items/4648-goggles-of-night)                     |
 |       | Celestial Gem of Protection                     | Major item, Rare      | Gift from [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>), who received it as a [gift](<treasure/gifts-and-purchases.md>) from a celestial                             | [Mechanics](https://www.dndbeyond.com/magic-items/3465643-celestial-gem-of-protection)       |
-|       |                                                 |                       |                                                                                                                        |                                                                                              |
 
 ### Kenzo
 
@@ -89,7 +87,6 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | Cloak of the Mantra Ray                | Minor item, Uncommon  | [Purchased](<treasure/gifts-and-purchases.md#purchases>)  from the [Te'kula](<../../groups/deno-qai-tribes/te-kula.md>) in exchange for a portion of [Grimbaskal's Hoard](<treasure/grimbaskal-s-hoard.md>)                                             |           |
 |       | [Aagir's Everlight](<../../things/magic-items/aagir-s-everlight.md>)                  | Minor item, Common    | Found in the [Dunmari Fort (Gomat)](<treasure/nashtkar-treasures.md>)                                                                                                          |           |
 |       | [Scroll of Storykeeping](<../../things/magic-items/scroll-of-storykeeping.md>)             | Minor item, Uncommon  | [Gift](<treasure/gifts-and-purchases.md>) from [Saka](<../../people/dunmari/saka.md>)                                                                                                                        |           |
-
 ### Seeker
 
 | Image | Name                                             | Rarity                | Origin and Notes                                                                      | Mechanics                                                                              |
