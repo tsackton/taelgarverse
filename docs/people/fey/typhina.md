@@ -16,7 +16,7 @@ title: Typhina
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) (she/her)  
+    A [fey](<../../species/children-of-the-riving/fey/fey.md>) (she/her)  
     Killed by [Agata](<./agata.md>)  
     { .bio }
 

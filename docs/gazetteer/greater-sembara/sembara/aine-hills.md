@@ -4,7 +4,7 @@ tags: [place]
 campaignInfo:
 name: Aine Hills
 typeOf: line of hills
-partOf: Highlands
+whereabouts: Highlands
 title: Aine Hills
 ---
 # The Aine Hills

@@ -50,7 +50,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 ## Narrative
 We begin as the party meets again, all together after a long absence. Everyone returns from their adventures changed, more or less, and eager to be reunited. Over the campfire, the party tells their stories. 
 
-![Lastlight Falls Dunmar Side](../../../assets/lastlight-falls-dunmar-side.png){width="600"}
+![Lastlight Falls Dunmar Side](../../../assets/lastlight-falls-dunmar-side.png)
 
 [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) speaks of how he [found himself](<./session-53-dufr.md>) in the Deno’qai forests in the far north, a land once known as the [Forest of Dreams](<../../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>), but now called the [Forest of Nightmares](<../../../gazetteer/far-north/forest-of-nightmares.md>) as it was cursed during the [Great War](<../../../events/1500s/great-war.md>) against Cha’mutte. Traveling with the [Stoneborn](<../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) paladin [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>) Mountainhands, and the Deno’qai wildfire druid [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>), Delwath sought to  [restore the lost tanshi](<./session-54-dufr.md>) trapped by Cha’mutte’s evil on  [the battlefields](<./session-55-dufr.md>) of the Great War.
 

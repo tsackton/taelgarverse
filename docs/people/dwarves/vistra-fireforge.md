@@ -33,7 +33,7 @@ A dwarven blacksmith, trader, innkeep, and adventurer. She is of the Traveler th
 
 In her youth she was a blacksmith and trader in [Ausson's Crossing](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/ausson-s-crossing.md>) a crossroads inn south of [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). She is now settled in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) where she runs the dwarven inn, [The Iron Swan](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-iron-swan.md>).
 
-![Vistra Fireforge](../../assets/vistra-fireforge.png){width="320"}
+![Vistra Fireforge](../../assets/vistra-fireforge.png)
 
 
 

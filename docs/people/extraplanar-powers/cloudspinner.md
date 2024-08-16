@@ -17,7 +17,7 @@ title: Cloudspinner
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) ([archfey](<../../species/children-of-the-divine/fey/fey.md>)) (she/her)  
+    A [fey](<../../species/children-of-the-riving/fey/fey.md>) ([archfey](<../../species/children-of-the-riving/fey/fey.md>)) (she/her)  
     { .bio }
 
     Originally from: [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)

@@ -48,15 +48,15 @@ From her, they learn that the Mad Priest is actually [Hagrim](<../../../people/d
 
 After some debate, the party decides to go look for [Delig Firebrand](<../../../people/dwarves/delig-firebrand.md>), in the wastes, hoping to get a sense of [Hagrim](<../../../people/dwarves/hagrim.md>). 
 
-![Ash Plains](../../../assets/ash-plains.png){width="500"}
+![Ash Plains](../../../assets/ash-plains.png)
 
 On the way, through the wastes, they fight off a shadowy, necrotic troll, that saps the strength of whomever attacks it. But managing to defeat it, they find [Delig Firebrand](<../../../people/dwarves/delig-firebrand.md>). He has lost most of his memories, constantly forgetting who he is talking to, and thinking everyone in the party to be named [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>). But he does talk occasionally about his past, and [Hagrim](<../../../people/dwarves/hagrim.md>), and how after the [Great War](<../../../events/1500s/great-war.md>) he was a changed man, damaged, with eyes that looked strange. Sometimes he would talk about the evil tentacled creatures that would devour your brain, and shudder. After a pint from [Rothfis](<../../../people/pcs/dunmar-fellowship/guests/rothfis.md>) and some conversation, [Delig Firebrand](<../../../people/dwarves/delig-firebrand.md>) seems exhausted, so the party leaves him to rest and heads to find [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>)/[Hagrim](<../../../people/dwarves/hagrim.md>), at the mirror version of the Stoneborn statue.
 
 Approaching the Stoneborn statue, and [Hagrim](<../../../people/dwarves/hagrim.md>)'s lair, the party makes their way through ghosts of his memories, aided by [Thror](<../../../people/pcs/dunmar-fellowship/guests/thror.md>)'s fly spell and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s holy aura driving undead away. 
 
-![Giant Statue Legs Morkalan](../../../assets/giant-statue-legs-morkalan.png){width="500"}
+![Giant Statue Legs Morkalan](../../../assets/giant-statue-legs-morkalan.png)
 
-![Morkalan Hagrim Fort](../../../assets/morkalan-hagrim-fort.png){width="500"}
+![Morkalan Hagrim Fort](../../../assets/morkalan-hagrim-fort.png)
 
 Passing into the dungeon, the party makes their way through a chamber of bones that begin to animate, breaks open the door to [Hagrim](<../../../people/dwarves/hagrim.md>)'s final resting place, and confronts his ghost. [Hagrim](<../../../people/dwarves/hagrim.md>) is angry, accusing the party of reminding him of his horrible past, saying he had free himself of his cursed memories until they arrived. And battle is joined, as he insists there is nothing for the party here, and they should leave him to his domain. As he takes damage from the party, and is worn down, he becomes fainter and fainter, but insists he cannot be defeated, and he will be back to finish the job. 
 

@@ -6,7 +6,7 @@
 - 6 potions of transformation, plus 6 doses of antidote. The potions of transformation are literally that, transformations. While under the effects, you gain gills but lose lungs. You can now breath water, but not air. Have no effect on swim speed, and last until the antidote is taken or the magical transformation is dispelled. A gift from [Kazuro](<../../../people/other-nonhumans/kazuro.md>) in exchange for a [promise to return and help him build a monastery and find a student](<../session-notes/session-99-dufr.md>).
 ## Treasure Acquired in Omi
 
-- A large (10 foot long) trident, taken from the herald of Gazankoa protecting the portal in Omi. Abandoned in the temple of Gazankoa during the merfolk fight (unless someone can give a logical explanation for how someone could have got this across the rainbow bridge without the manta rays). 
+- A large (10 foot long) trident, taken from the herald of Gazankoa protecting the portal in Omi. Abandoned in the temple of Gazankoa during the merfolk fight.
 ## Treasure Acquired in Buruli's Kingdom
 
 - A small humming piece of metal, which sounds like the ocean, found connected to the [Jade Piece of Rai's Hand](<notable-items/jade-piece-of-rai-s-hand.md>) inside a shell in Buruli's temple to Gazankoa. 
@@ -20,7 +20,7 @@
 - 63 merfolk gambling tokens, made of polished shell and stone. 
 ### Recovered Treasure from the [Stormdancer](<../../../things/ships/stormdancer.md>)
 
-Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
+All returned to Milo, Tilly, and crew
 
 - An elegant wooden pipe, made of some strange dark wood you have not seen before, carved with the initials M. T. 
 - A silver ring set with a small blue sapphire, engraved, "To my beloved Tilly" on the inside. 
@@ -29,4 +29,8 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 - A strange swirling silvery crystal on a necklace, returned to Tilly. 
 ## From Buruli's Body
 
-TBD....maybe you should search him next session
+- He is wearing a cloak made of some kind of billowing kelp fronds woven into fabric, magical (Cloak of Protection) (Wellby)
+- He wears an elaborate amulet around his neck. It is like the others you've found, but far more elaborate, made of ivory and gold, decorated with sapphires. 
+- He wears a tiara made of silver, looking like tentacles wrapped in a circle, and decorated with smoky black gems. (Helm of Telepathy) (given to Amil)
+- Wears three silver armbands, each finely worked and decorated with pearls.  
+- One ring, a strange shadowy thing that looks like the currents of the ocean depths in solid form. (Ring of Shadows) (given to Faldrak)

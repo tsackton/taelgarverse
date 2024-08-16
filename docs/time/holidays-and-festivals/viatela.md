@@ -1,6 +1,5 @@
 ---
-tags: [status/needswork/notes, holiday, status/unknown]
-campaignInfo: []
+tags: [status/needswork/external, holiday]
 name: Viatela
 fc-date: {day: 11, month: 12}
 title: Viatela

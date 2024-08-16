@@ -13,7 +13,7 @@ title: Feywild
 </div>
 
 
-The echo realm of the fey, home to the realms of the Archfey and the [Fey](<../../../../species/children-of-the-divine/fey/fey.md>)
+The echo realm of the fey, home to the realms of the Archfey and the [Fey](<../../../../species/children-of-the-riving/fey/fey.md>)
 ## Locations
 
 The politics and political organization of the Feywild is based around the realms of the Archfey, such as [Shimmersong](<./shimmersong.md>), [Amberglow](<./amberglow.md>), [Fortune's Rest](<./fortune-s-rest.md>) or other lesser known realms.

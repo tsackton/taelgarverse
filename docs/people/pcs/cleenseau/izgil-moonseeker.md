@@ -66,6 +66,6 @@ title: Izgil Moonseeker
 ### Items
 | Image                                      | Name                                                                                                                      | Type      | Mechanics                                                              |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------- |
-| ![Izgil Ring of Restore](../../../assets/izgil-ring-of-restore.png){width="240"} | [Ring of Sorcerous Restoration](<../../../Campaigns/Cleenseau Campaign/Treasure/Dwarven Ring of Sorcerous Restoration (Izgil).md/>) | ring      | [Reference](https://www.dndbeyond.com/magic-items/4691-pearl-of-power) |
-| ![Brot Spyglass](../../../assets/brot-spyglass.png){width="240"}         | [Brot's Spyglass](<../../../Campaigns/Cleenseau Campaign/Treasure/Brot's Telescope (small).md/>)                                    | telescope | [Reference](https://www.dndbeyond.com/equipment/spyglass)              |
+| ![Izgil Ring of Restore](../../../assets/izgil-ring-of-restore.png) | [Ring of Sorcerous Restoration](<../../../Campaigns/Cleenseau Campaign/Treasure/Dwarven Ring of Sorcerous Restoration (Izgil).md>) | ring      | [Reference](https://www.dndbeyond.com/magic-items/4691-pearl-of-power) |
+| ![Brot Spyglass](../../../assets/brot-spyglass.png)         | [Brot's Spyglass](<../../../Campaigns/Cleenseau Campaign/Treasure/Brot's Telescope (small).md>)                                    | telescope | [Reference](https://www.dndbeyond.com/equipment/spyglass)              |
 

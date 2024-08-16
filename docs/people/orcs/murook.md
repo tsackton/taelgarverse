@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, dufr/met, dufr/minor, status/unknown]
+tags: [event-source, person, status/tim]
 campaignInfo:
 - {campaign: DuFr, date: 1749-12-10, type: met}
 name: Murook
@@ -33,7 +33,7 @@ whereabouts:
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 10th, 1749 in [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)  
 
 
-Murook, an [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) woman from the [Plaguelands](<../../gazetteer/istaros-watershed/plaguelands.md>), was freed from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s curse in childhood by [Lubash](<./lubash.md>)'s father, Karguk. She now serves as the General of [Lubash](<./lubash.md>)'s army, and the unofficial leader of the Hezguli, the reborn [Orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) who've been similarly freed.
+Murook, an [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) woman from the [Plaguelands](<../../gazetteer/istaros-watershed/plaguelands.md>), was freed from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s curse in childhood by [Lubash](<./lubash.md>)'s father, Karguk. She now serves as the general of [Lubash](<./lubash.md>)'s army, and the unofficial leader of the Hezguli, the reborn [Orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) who've been similarly freed. 
 ## Overview
 
 General Murook was born chained, under dark influence of [Thark](<../../cosmology/gods/embodied-gods/thark.md>), to a wandering [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) tribe in the [Plaguelands](<../../gazetteer/istaros-watershed/plaguelands.md>). She was freed from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s hold by [Lubash](<./lubash.md>)'s father, Karguk, using the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>), and learned to exist as a free [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>). She now serves [Lubash](<./lubash.md>) as the commander of his armies, and also is the unofficial leader of the Hezguli, a group of [Orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) that share a similar backstory of redemption.
@@ -48,4 +48,6 @@ A formidable [orc](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) w
 ## Events
 
 - 1724 DR Murook was freed from [Thark](<../../cosmology/gods/embodied-gods/thark.md>)'s chains by Karguk, Chief of [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>)
+
+
 

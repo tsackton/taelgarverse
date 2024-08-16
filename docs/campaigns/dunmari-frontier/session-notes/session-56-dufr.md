@@ -52,7 +52,7 @@ As the party rests before preparing to depart, they see scenes of the history of
 
 The party steps through the waters of the pool, with the chalice, and arrives in [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>), a land of dim light, constantly cloudy skies, a slow muddy river, and a pervasive grayness, seemingly a distorted echo of the land around the Stoneborn statue from the vision of the chalice' history. The party heads for lights that seem to mark a settlement at the base of a series of cliffs along the left bank of the river. 
 
-![Rmorkalan Muddy River](../../../assets/rmorkalan-muddy-river.png){width="500"}
+![Rmorkalan Muddy River](../../../assets/rmorkalan-muddy-river.png)
 
 Approaching the village, [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and [Merash](<../../../people/pcs/dunmar-fellowship/guests/merash.md>) approach the dull-looking [Dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) on patrol. One leaves, apparently to alert [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) of newcomers, and the other carries out halting conversation. He seems almost robotic, patrolling because it is what soldiers do, and [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>) insists, but he does not stop the party from proceeding to the small village nestled in the base of the cliffs.
 

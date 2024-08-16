@@ -24,7 +24,7 @@ title: Robin of Abenfyrd
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/humans/humans.md>) (he/him)  
+    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1700 (49 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     Acting Captain of the [Lord's Guard of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since January 3rd, 1720)  
@@ -41,9 +41,9 @@ title: Robin of Abenfyrd
 ### Items
 | Image                                             | Name                                                                                                    | Type    | Mechanics                                                                               |
 | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------- |
-| ![Ring of Jumping Robin](../../../assets/ring-of-jumping-robin.png){width="240"}        | [Ring of Jumping](<../../../Campaigns/Cleenseau Campaign/Treasure/Ring of Jumping (Robin).md/>)                   | ring    | [Reference](https://www.dndbeyond.com/magic-items/4724-ring-of-jumping)                 |
-| ![Lantern of the Bright Hearth](../../../assets/lantern-of-the-bright-hearth.png){width="240"} | [Lantern of the Bright Hearth](<../../../Campaigns/Cleenseau Campaign/Treasure/Lantern of the Bright Hearth.md/>) | lantern | [Reference](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth) |
-| ![Hammer of Viligance](../../../assets/hammer-of-viligance.png){width="240"}          | [Hammer of Vigilance](<../../../Campaigns/Cleenseau Campaign/Treasure/Hammer of Vigilance.md/>)                   | weapon  | [Reference](https://www.dndbeyond.com/magic-items/7813717-hammer-of-vigilance)          |
+| ![Ring of Jumping Robin](../../../assets/ring-of-jumping-robin.png)        | [Ring of Jumping](<../../../Campaigns/Cleenseau Campaign/Treasure/Ring of Jumping (Robin).md>)                   | ring    | [Reference](https://www.dndbeyond.com/magic-items/4724-ring-of-jumping)                 |
+| ![Lantern of the Bright Hearth](../../../assets/lantern-of-the-bright-hearth.png) | [Lantern of the Bright Hearth](<../../../Campaigns/Cleenseau Campaign/Treasure/Lantern of the Bright Hearth.md>) | lantern | [Reference](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth) |
+| ![Hammer of Viligance](../../../assets/hammer-of-viligance.jpg)          | [Hammer of Vigilance](<../../../Campaigns/Cleenseau Campaign/Treasure/Hammer of Vigilance.md>)                   | weapon  | [Reference](https://www.dndbeyond.com/magic-items/7813717-hammer-of-vigilance)          |
 
 
 

@@ -15,7 +15,7 @@ title: Ryu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Mawaran [human](<../../../species/humans/humans.md>) (he/him)  
+    A Mawaran [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     { .bio }
 
 </div>

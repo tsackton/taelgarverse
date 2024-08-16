@@ -13,7 +13,7 @@ title: Nimessa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A marid [elemental](<../../species/children-of-the-divine/elementals.md>) (she/her)  
+    A marid [elemental](<../../species/children-of-the-riving/elementals/elementals.md>) (she/her)  
     { .bio }
 
     Based in the [Elemental Plane of Water](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-water.md>), the [Energy Realms](<../../cosmology/multiverse/energy-realms/energy-realms.md>)

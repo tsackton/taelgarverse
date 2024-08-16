@@ -16,7 +16,7 @@ title: Beryl
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Isinguer](<../../../history/istabor-alliance.md>) [human](<../../../species/humans/humans.md>) (he/him)  
+    An [Isinguer](<../../../history/istabor-alliance.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     b. DR 1502 - d. DR 1545, died at age 43 years  
     Member of [The Rangers](<../../../groups/the-rangers.md>) (until DR 1545)  
     { .bio }

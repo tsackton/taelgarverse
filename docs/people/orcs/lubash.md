@@ -38,7 +38,7 @@ whereabouts: Uzgukhar
 Chief Lubash is the stern and protective ruler of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), and by extension the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>). He is also the bearer of the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>).  Lubash holds immense pride for his kingdom, [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), and resides in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>).
 ## Overview
 
-Chief Lubash ascended to the throne of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>) three years prior. He took over rulership after a tragic event where his older brother, along with his brother's wife and child, were killed by marauding hill [Giants](<../../species/children-of-the-divine/giants.md>) during a royal tour. As a ruler, Lubash is marked by his intense pride in [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>) and a deep-seated mistrust of gods.
+Chief Lubash ascended to the throne of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>) three years prior. He took over rulership after a tragic event where his older brother, along with his brother's wife and child, were killed by marauding hill [Giants](<../../species/children-of-the-riving/giants.md>) during a royal tour. As a ruler, Lubash is marked by his intense pride in [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>) and a deep-seated mistrust of gods.
 ## Description
 
 Lubash has a pale green complexion and is bald. His features are striking, characterized by a long, stern face and a notably large nose.
@@ -49,6 +49,6 @@ Lubash has a pale green complexion and is bald. His features are striking, chara
 - **[Azogar](<./azogar.md>)**: Lubash's loremaster and confidante. 
 ## Events
 
-- Came to power in DR 1745 after his older brother's family was killed by hill [Giants](<../../species/children-of-the-divine/giants.md>).
+- Came to power in DR 1745 after his older brother's family was killed by hill [Giants](<../../species/children-of-the-riving/giants.md>).
 - In DR 1748-1749, led the [Orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) of [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>) in the war against [Grash](<../other-nonhumans/grash.md>), aided by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
 

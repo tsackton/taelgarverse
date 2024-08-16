@@ -18,7 +18,7 @@ title: Hralgar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../species/children-of-the-divine/giants.md>) ([storm giant](<../../species/children-of-the-divine/giants.md>)) (he/him)  
+    A [giant](<../../species/children-of-the-riving/giants.md>) ([storm giant](<../../species/children-of-the-riving/giants.md>)) (he/him)  
     { .bio }
 
     Originally from: Unknown

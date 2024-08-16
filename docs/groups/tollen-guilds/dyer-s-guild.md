@@ -9,4 +9,4 @@ title: Dyer's Guild
 ---
 # The Dyer's Guild
 
-A powerful trade guild in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), known for the famous "Tollen Red" dye, a brilliant red color.
+A powerful trade guild in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), known for the famous "[Tollen Red](<../../things/materials/tollen-dyes.md>)", a brilliant vermillion color.

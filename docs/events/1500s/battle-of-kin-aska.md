@@ -1,5 +1,5 @@
 ---
-tags: [event, status/unknown]
+tags: [event, status/tim]
 title: Battle of Kin Aska
 ---
 

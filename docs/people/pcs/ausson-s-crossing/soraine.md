@@ -14,7 +14,7 @@ title: Soraine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Maseaun](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../../species/humans/humans.md>) (he/him)  
+    A [Maseaun](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     { .bio }
 
 </div>

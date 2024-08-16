@@ -27,7 +27,7 @@ Erelion is not organized around any plan or into distinct districts; it has an o
 ## The Gates of Erelion
 All vistors to Erelion, no matter the direction they approach from, find themselves at the gates of Erelion. Those who are welcome find themselves expected; those who are not, find the city closed to them. 
 
-![Erelion 2 Gate](../../../assets/erelion-2-gate.png)
+![Erelion 2 Gate](../../../assets/erelion-2-gate.jpg)
 *The gates of Erelion greet all visitors to the city.*
 
 ## The Elder Tree
@@ -39,5 +39,5 @@ The upper reaches of the Elder Tree are where the young elves, still in their dr
 *The space for prayer and reflection in the great elder tree at the center of Erelion.*
 
 ## Fey Gardens
-Erelion contains many hidden and unexpected gardens, often with unusual magic. All manner of things grows on plants here: delicate flowers with silver petals, vines laden with fruit, trees with a different spice growing from each branch, and wilder things can all be found in the gardens of Erelion. Some gardens perpetually maintain a particular season, while others rapidly turn from season to season over the course of a day, or a week. Ponds, waterfalls, and blooming flowers are a frequent feature of these gardens, and [fey](<../../../species/children-of-the-divine/fey/fey.md>) creatures are not uncommon. Many of these gardens are in perpetual twilight, their serene pools reflecting the stars. 
+Erelion contains many hidden and unexpected gardens, often with unusual magic. All manner of things grows on plants here: delicate flowers with silver petals, vines laden with fruit, trees with a different spice growing from each branch, and wilder things can all be found in the gardens of Erelion. Some gardens perpetually maintain a particular season, while others rapidly turn from season to season over the course of a day, or a week. Ponds, waterfalls, and blooming flowers are a frequent feature of these gardens, and [Fey](<../../../species/children-of-the-riving/fey/fey.md>) creatures are not uncommon. Many of these gardens are in perpetual twilight, their serene pools reflecting the stars. 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [organization]
 typeOf: family
 typeOfAlias: noble family
 created: 1594
@@ -27,6 +27,7 @@ class GylesOfLils,Annabeth,Morgaine,ElaineII,ArrynIII,Derik internal-link;
 
 
 ```
+
 
 
 

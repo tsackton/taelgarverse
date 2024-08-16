@@ -24,7 +24,7 @@ title: Drikod
 </div>
 
 
-![Drikod Portrait](../../../../assets/drikod-portrait.jpg){width="400"}
+![Drikod Portrait](../../../../assets/drikod-portrait.jpg)
 
 ## Pre-Campaign Events
 

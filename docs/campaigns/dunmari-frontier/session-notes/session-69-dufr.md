@@ -28,7 +28,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - Using scrying and sending spells, the party learns of [Johar](<../../../people/dunmari/johar.md>)'s situation and [Kadmos](<../../../people/chardonians/kadmos.md>)' movements through the [Garamjala Desert](<../../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>).
 - A deserted [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>) and a nearby mass grave suggest the death of [Inakara](<../../../people/other-nonhumans/inakara.md>) and her kin at the hands of dwarves.
 - [Bahrazel](<../../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>) answers [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s prayers, freeing [Havdar](<../../../people/dunmari/havdar.md>) from the [Medusa Blade](<../treasure/notable-items/medusa-blade.md>)'s curse, which prompts an apology from the party for gifting the cursed sword.
-- The party arrives at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) to find Hralgar's storm intensified, considering entry into the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) to calm [Hralgar](<../../../people/giants/hralgar.md>).
+- The party arrives at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) to find Hralgar's storm intensified, considering entry into the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>) to calm [Hralgar](<../../../people/giants/hralgar.md>).
 
 ### Timeline
 - Nov 15, 1748 DR, evening: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) talk and catch up. 
@@ -65,7 +65,7 @@ We begin as the party settles in for the night outside [Lastlight Falls](<../../
 
 Over the course of the next week, the party falls into a routine as they hurry across the plains of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), now sprung to life with the monsoon rains.
 
-![Dunmar November 1748](../../../assets/dunmar-november-1748.png)
+![Dunmar November 1748](../../../assets/dunmar-november-1748.jpg)
 
 [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) prays each morning to the Baharazel, asking them to free [Havdar](<../../../people/dunmari/havdar.md>) of the curse that binds him to the [Medusa Blade](<../treasure/notable-items/medusa-blade.md>), taken from [Agata's lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>) and gifted to [Havdar](<../../../people/dunmari/havdar.md>) by the party. As the party travels, they send messages to [Johar](<../../../people/dunmari/johar.md>) via sending, and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) keeps an eye on the movements of [Kadmos](<../../../people/chardonians/kadmos.md>) and company via scrying. 
 
@@ -81,4 +81,4 @@ A week after leaving the camp at [Lastlight Falls](<../../../cosmology/multivers
 
 Between [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s clairvoyance and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)'s ability to commune with nature and the land, it is clear that [Hralgar](<../../../people/giants/hralgar.md>) is lost more deeply in his mind than before, and the storm is more intense. The eye that previously left the tower open to the sky is gone, and lightning and thunder echos from the clouds. 
 
-We end as the party contemplates their next move, and whether a journey into the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>) is necessary to calm [Hralgar](<../../../people/giants/hralgar.md>) and allow them to approach.
+We end as the party contemplates their next move, and whether a journey into the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>) is necessary to calm [Hralgar](<../../../people/giants/hralgar.md>) and allow them to approach.

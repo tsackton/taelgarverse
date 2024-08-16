@@ -15,7 +15,7 @@ title: Sabine de Brune
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1662 (87 years old)  
     Castellan of [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>)  
     { .bio }
@@ -27,3 +27,5 @@ title: Sabine de Brune
 ![Sabine de Brune Valit](../../assets/sabine-de-brune-valit.png){align="right"; width="320"}The aging castellan of [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), a vassal of the Baron of Aveil. Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth. She is also the magistrate for the village of Valit.
 
 The de Brune family has long roots in the Cleenseau family and owns extensive land across all four of the manors in the region. Recently, the family under [Catherine de Brune](<./catherine-de-brune.md>) has grown to include some mercantile interests.
+
+She was appointed as the castellan by [Reginald Rusebek](<./reginald-rusebek.md>) and still feels disgust and guilt that she was such a loyal supporter of his. She doesn't like to talk about baronial affairs much, and focuses on the village and doing her duties diligently. 

@@ -1,8 +1,6 @@
 ---
-tags: [status/needswork]
-title: Stormcaller Tower Treasure
+{title: Stormcaller Tower Treasure}
 ---
-
 ## Recovered after the first journey to the tower
 
 - Eudomes mirror, the [Mirror of the Past](<notable-items/mirror-of-the-past.md>)

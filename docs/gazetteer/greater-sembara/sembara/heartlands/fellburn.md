@@ -23,3 +23,4 @@ A populous and fortified town along the [Enst](<../../rivers/wistel-enst-watersh
 
 
 
+![[oracle-of-hope.png]]

@@ -20,8 +20,8 @@ title: LL Session 1
 - Intimidate Folcan into leaving them alone for a while; we end as Folcan flees back to the barracks with a promise to tell everyone else that the situation is sorted
 ## The Protagonists
 - Asescale, a [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) alchemist and gambler
-- Dilion, a [human](<../../species/humans/humans.md>) tinkerer and battlesmith
-- Gadin, a [human](<../../species/humans/humans.md>) warlock with a hint of the [fey](<../../species/children-of-the-divine/fey/fey.md>) about him
+- Dilion, a [human](<../../species/children-of-divine-creation/humans/humans.md>) tinkerer and battlesmith
+- Gadin, a [human](<../../species/children-of-divine-creation/humans/humans.md>) warlock with a hint of the [Fey](<../../species/children-of-the-riving/fey/fey.md>) about him
 - Loria Underbough, a [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) wanderer and ranger
 ## The Goblins
 - Morky, Norrica, and Skelver, three drunk goblin guards, all dead
@@ -67,7 +67,7 @@ With that, the fight is on, and over quickly, as Acescale and Dilion engage from
 
 ## Part 4: The Interrogation
 
-Back in the forge, the party interrogates Folcan, and learns some [important details](<#plot-developments>). Folcan threatens that his pack of 10 loyal goblins will come save him if they aren't careful, and rants about Ulgna being too cowardly and useless. Acescale's attempts at intimidation don't go too well, until Gaudin blasts him with an eldritch blast, and then Acescale revives him with a cure wounds. This shakes Folcan to the core, and terrified, he tells the party about the tunnels under the manor grounds, and promises to return to the goblin barracks and tell everyone he has dealt with the situation. 
+Back in the forge, the party interrogates Folcan, and learns some [[#Plot Developments|important details]]. Folcan threatens that his pack of 10 loyal goblins will come save him if they aren't careful, and rants about Ulgna being too cowardly and useless. Acescale's attempts at intimidation don't go too well, until Gaudin blasts him with an eldritch blast, and then Acescale revives him with a cure wounds. This shakes Folcan to the core, and terrified, he tells the party about the tunnels under the manor grounds, and promises to return to the goblin barracks and tell everyone he has dealt with the situation. 
 
 If Folcan is true to his word, no one will be coming to bother the party for at least a day. No goblins, at least. 
 

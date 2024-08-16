@@ -13,7 +13,7 @@ title: Lucas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Maseuan [human](<../../species/humans/humans.md>) (he/him)  
+    A Maseuan [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1667 (82 years old)  
     { .bio }
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
+tags: [person, status/tim]
 name: Vondal Redpeak
 born:
 species: dwarf
@@ -23,3 +23,4 @@ title: Vondal Redpeak
 
 
 A member of the Redpeaks of Darba, a mason fascinated with the history of Darba's stonework. 
+

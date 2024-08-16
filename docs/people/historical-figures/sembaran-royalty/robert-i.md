@@ -16,7 +16,7 @@ affiliations:
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
     b. DR 1660 - d. June 15th, 1720, died at age 60 years  
     King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) (September 12th, 1713 - June 15th, 1720)  
     { .bio }

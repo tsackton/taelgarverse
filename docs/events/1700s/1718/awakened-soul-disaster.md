@@ -1,7 +1,5 @@
 ---
-tags: [event-source, status/unknown]
-campaignInfo: []
-name:
+tags: [event-source, status/tim]
 DR: 1718
 title: Awakened Soul Disaster
 ---
@@ -11,3 +9,5 @@ In the year DR 1718, the monks of the [Order of the Awakened Soul](<../../../gro
 
 
 Described, from Rai's perspective, in [Second Dream of Rai](<../../../campaigns/dunmari-frontier/dreams-and-visions/second-dream-of-rai.md>). 
+
+

@@ -1,21 +1,19 @@
 ---
-tags: [item/magical, item/book, status/cleanup/reformat]
+headerVersion: 2023.11.25
+tags: [item/book]
 typeOf: book
-campaignInfo:
-- {campaign: DuFr, type: found, date: 1748-11-23}
-whereabouts:
-- {type: home, end: 1, location: Occulta Ludum}
-- {type: home, end: 1748-11-23, location: Stormcaller Tower}
-- {type: home, start: 1748-11-24, location: Dunmar Fellowship}
+subTypeOf: magical
+ancestry: Drankorian
 title: Enchiridion of the Occulta Ludum
 ---
 # The Enchiridion of the Occulta Ludum
->[!info]+ Information
-> (magical book)
->> 
->>  Found by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 23rd, 1748 in [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) 
+:octicons-info-24:{ .lg .middle } **[Drankorian](<../../history/drankorian-era/drankorian-empire.md>) Magical Book**  
 
-Appears to be a blank handbook of the Occulta Ludum. Faintly magical.
+The Enchiridion of the Occulta Ludum appears to be a blank handbook of the [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>), a Drankorian secret society. These books radiate faint illusion magic, and were clearly produced using magical means. 
 
+
+The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) has recovered two of these books in their travels. One, they found in among the surviving books and papers in [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), presumably once owned by [Eudomes](<../../people/historical-figures/eudomes.md>). 
+
+The second, they found at the [Elemental Forge](<../../gazetteer/western-green-sea/cymea/elemental-forge.md>), probably once owned by the unnamed [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>) mage who staffed that place in the days of the Drankorian Empire. 
 
 

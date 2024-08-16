@@ -6,9 +6,11 @@ created: 1121
 typeOfAlias: fortified village
 whereabouts: Barony of Aveil
 population: 699
+pronunciation: Vel-tor
 title: Veltor
 ---
 # Veltor
+:speaker:{ .middle } *(Vel-tor)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 699  

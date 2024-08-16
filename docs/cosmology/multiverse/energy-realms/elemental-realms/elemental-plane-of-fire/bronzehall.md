@@ -12,6 +12,6 @@ title: Bronzehall
 </div>
 
 
-A rumored city, perhaps home to [efreeti](<../../../../../species/children-of-the-divine/efreeti.md>) and [azer](<../../../../../species/children-of-the-divine/azer.md>), on the Elemental Plane of Fire.
+A rumored city, perhaps home to [Efreeti](<../../../../../species/children-of-the-riving/elementals/efreeti.md>) and [Azer](<../../../../../species/children-of-the-riving/elementals/azer.md>), on the Elemental Plane of Fire.
 
 

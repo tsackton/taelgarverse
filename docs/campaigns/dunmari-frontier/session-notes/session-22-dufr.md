@@ -22,7 +22,7 @@ title: Dunmari Frontier - Session 22
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeats manticores and orcs at the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>) and uncovers the secrets of the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>).
 ## Session Info
 
-***Character advancement: Kenzo dies for the first time, journeying to the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/land-of-the-dead.md>), where he encounters Bhishma and becomes an initiate into the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). 
+***Character advancement: Kenzo dies for the first time, journeying to the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>), where he encounters Bhishma and becomes an initiate into the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). 
 ### Summary
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) rests then scouts the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>), discussing past events and connections to the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>).
 - They decide to explore during the day; [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), as a hawk, hears manticores and orcs nearby.

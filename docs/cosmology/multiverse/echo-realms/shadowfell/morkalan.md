@@ -26,10 +26,10 @@ Largely inhabited by dwarves trapped at the creation of this domain, and the occ
 Also the name that [Hagrim](<../../../../people/dwarves/hagrim.md>) took as he grew to identify with the domain, and forgot his past. 
 
 The muddy river:
-![Morkalan Muddy River](../../../../assets/morkalan-muddy-river.png){width="500"}
+![Morkalan Muddy River](../../../../assets/morkalan-muddy-river.png)
 
 The ash plains:
-![Morkalan Ash Plains](../../../../assets/morkalan-ash-plains.png){width="500"}
+![Morkalan Ash Plains](../../../../assets/morkalan-ash-plains.png)
 
 
 In August of 1748, the Chalice of the Runepriest was recovered by the dwarf adventurer Riswynn. Through it, she was drawn to the realm of the [Bahrazel](<../../../gods/embodied-gods/bahrazel/bahrazel.md>), the Heart of the Mountain, and sent (with three companions repaying debts to the [Bahrazel](<../../../gods/embodied-gods/bahrazel/bahrazel.md>)) to Morkalan. [Hagrim was defeated ](<../../../../campaigns/dunmari-frontier/session-notes/session-56-dufr.md>)and the waters of the Chalice of the Runepriest shattered the fabric of the domain, destroying it. 

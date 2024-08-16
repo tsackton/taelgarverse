@@ -16,7 +16,7 @@ title: Inakara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [derro](<../../species/unusual-species/creatures-of-the-far-realms/derro.md>) (she/her)  
+    A [derro](<../../species/corrupted-species/derro.md>) (she/her)  
     b. DR 1702 - d. July 1748, killed by [Magran Boulderbeard](<../dwarves/magran-boulderbeard.md>) at age 46 years  
     { .bio }
 

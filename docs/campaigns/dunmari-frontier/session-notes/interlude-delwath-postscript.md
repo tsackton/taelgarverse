@@ -30,7 +30,7 @@ title: 'Interlude: Delwath''s Journey South'
 
 After returning from the [Forest of Nightmares](<../../../gazetteer/far-north/forest-of-nightmares.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) spends some time with the [Ko'zula](<../../../groups/deno-qai-tribes/northern-tribes/ko-zula.md>), and in communion with the Meswati, learning about the lost tanshi who have now been found, about the history of this place and these people, about the stories that tie them to the tanshi, before leaving to seek out a way to reunite with his companions. 
 
-![Kozula Village](../../../assets/kozula-village.png){width="500"}
+![Kozula Village](../../../assets/kozula-village.png)
 
 During this time, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) also spends hours scrying: [Scrying Delwath Oct 21](<../scrying-and-spying/scrying-delwath-oct-21.md>).
 
@@ -39,7 +39,7 @@ The most promising tales [Delwath](<../../../people/pcs/dunmar-fellowship/delwat
 
 After a several day journey into the mountains and a few days waiting in camp (during which time [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) scrys some more: [Scrying Delwath Oct 26](<../scrying-and-spying/scrying-delwath-oct-26.md>)), [Safri](<../../../people/deno-qai/safri.md>) appears in the form of a deer, and leads [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) to her forest valley home.
 
-![Safri House](../../../assets/safri-house.png){width="600"}
+![Safri House](../../../assets/safri-house.png)
 
 Here, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and [Safri](<../../../people/deno-qai/safri.md>) talk. He hears tales of the Meswati, and asks of [Drankor](<../../../history/drankorian-era/drankorian-empire.md>) and artifacts of power. While she knows little of [Drankor](<../../../history/drankorian-era/drankorian-empire.md>), she does talk about artifacts and how to destroy them. Nothing that was made cannot be unmade, she says, though the stronger the magic, the more the physical form resists destruction. She talks of volcanos where the [Elemental Plane of Fire](<../../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-fire/elemental-plane-of-fire.md>) touches the material world, or intense storms from the Plane of Air where lightning strikes which extraplanar power, as places where even the most powerful artifacts can be destroyed. 
 

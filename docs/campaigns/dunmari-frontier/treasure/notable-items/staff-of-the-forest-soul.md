@@ -1,5 +1,5 @@
 ---
-tags: [item/magical, status/unknown]
+tags: [item/magical, status/needswork]
 typeOf: staff
 whereabouts: Kenzo
 rarity: unique
@@ -9,8 +9,6 @@ title: Staff of the Forest Soul
 >[!info]+ Information
 > (unique magical staff)
 >> 
-
-## Staff of the Forest Soul
 
 This staff was constructed by [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>) from a branch of the ancient elven tree in [Tokra](<../../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), a relative of the massive trees called God trees by the Deno’qai of the [Elderwood](<../../../../gazetteer/chasa-nahadi-watershed/elderwood.md>). This staff is a +1 magic quarterstaff. While attuned, this staff has the following additional functions:
 
@@ -23,7 +21,7 @@ This staff was constructed by [Kenzo](<../../../../people/pcs/dunmar-fellowship/
 
 The spiritual beings of the [Footprint of the Gods](<../../../../gazetteer/far-south/azta-lekua.md>) carved four tokens on [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>)’s staff, each representing a different spiritual ki. 
 
-- Amezza ki: You can spend 3 ki to cast Augury; you can only do this once per day. You also have a pool of Amezza ki, which does not regenerate. You can drain the Amezza ki to enter a trance that allows you to visit the [Dreamworld](<../../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>).
+- Amezza ki: You can spend 3 ki to cast Augury; you can only do this once per day. You also have a pool of Amezza ki, which does not regenerate. You can drain the Amezza ki to enter a trance that allows you to visit the [Dreamworld](<../../../../cosmology/multiverse/echo-realms/dreamworld.md>).
 - Hutsu ki: You have advantage on death saving throws. You also have a pool of Hutsu ki, which does not regenerate. You can drain this pool to grasp one departing spirit and, if they are willing, return them to the material plane. Choose one creature that has been dead for no more than 24 hours; if the body is intact, you restore them to life.
 - Urtaro ki: You have a pool of Urtaro ki, which does not regenerate. You can drain the Urtaro ki to cleanse the spirit of one creature. This removes all conditions, curses, reductions to their ability scores, and reductions to their hit point maximum.
 - Ohana ki: When you score a critical hit against a creature with your staff, the creature must make a Wisdom saving throw against your ki save DC. Succeed or fail, the target takes an extra 1d6 necrotic damage. On a fail, they are also under the effects of the Slow spell; they can repeat the save at the end of each turn to end the effect. You also have a pool of Ohana ki, which does not regenerate. You can drain the Ohana ki to enhance your speed and reflexes, granting you the benefits of the Haste spell for the next minute. You do not need to maintain concentration on this effect

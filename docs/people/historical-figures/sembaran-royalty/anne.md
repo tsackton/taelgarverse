@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/cleanup/header, status/needswork/internal]
+tags: [historical, person/ruler, status/needswork/internal]
 campaignInfo: []
 name: Anne of Sewick
 born: 1539
@@ -17,7 +17,7 @@ title: Anne of Sewick
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
     b. DR 1539 - d. February 14th, 1583, died at age 44 years  
     Queen of [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1568 - February 14th, 1583)  
     { .bio }

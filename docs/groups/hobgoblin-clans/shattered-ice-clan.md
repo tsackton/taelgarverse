@@ -1,9 +1,8 @@
 ---
-tags: [organization, status/needswork/notes, status/unknown]
+tags: [organization, status/needswork/notes, status/stub]
 typeOf: clan
-campaignInfo:
-name:
 title: Shattered Ice Clan
 ---
 
 Hobgoblin clan active in the Sembaran borderlands after the Great War
+

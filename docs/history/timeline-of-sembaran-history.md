@@ -1,5 +1,5 @@
 ---
-tags: [event-source, status/needswork]
+tags: [event-source, status/needswork/internal]
 displayDefaults: {defArt: a}
 campaignInfo: []
 name: Timeline of Sembaran History
@@ -61,7 +61,7 @@ The [Duchy of Telham](<../gazetteer/greater-sembara/sembara/northlands/duchy-of-
 
 In the west, the Duchy of Brovna had grown into a significant presence along the mountains, trading eagerly with the growing city of Chardon, and [Ardlas](<../gazetteer/greater-sembara/zimkova/ardlas.md>) was growing as well, trading with dwarves.
 
-South of [Sembara](<../gazetteer/greater-sembara/sembara/sembara.md>) were two major powers: the Kingdom of [Tyrwingha](<../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), which emerged from the fall of [Drankor](<drankorian-era/drankorian-empire.md>) largely intact and still under the guardianship of the [Archfey Ethlenn](<../people/extraplanar-powers/archfey-ethlenn.md>), and the Dominion of Avatus, a rising military autocracy exerting overlordship of a number of scattered baronies and small lordships in the [Mostreve Hills](<../gazetteer/greater-sembara/mostreve-hills.md>), growing in power by taxing trade and recruiting mercenaries, largely hobgoblins.
+South of [Sembara](<../gazetteer/greater-sembara/sembara/sembara.md>) were two major powers: the Kingdom of [Tyrwingha](<../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), which emerged from the fall of [Drankor](<drankorian-era/drankorian-empire.md>) largely intact and still under the guardianship of the [Archfey Ethlenn](<../people/extraplanar-powers/archfey-ethlenn.md>), and the Dominion of Avatus, a rising military autocracy exerting overlordship of a number of scattered baronies and small lordships in the [Mostreve Hills](<../gazetteer/greater-sembara/mostreve-hills.md>), growing in power by taxing trade and recruiting mercenaries, largely Hobgoblins.
 
 Into this moment, [Derik I](<../people/historical-figures/sembaran-royalty/derik-i.md>), of a cadet branch of the [House of Entranca](<../groups/sembaran-noble-houses/house-of-entranca.md>), establishes the modern Sembara after the defeat of the Dominion of Avatus. 
 ##
@@ -183,7 +183,7 @@ The reign of [Cece I](<../people/historical-figures/sembaran-royalty/cece-i.md>)
 Since DR 1713 (1 Robert I)
 
 - 1713 DR: [Cece I](<../people/historical-figures/sembaran-royalty/cece-i.md>) dies. In Sembara, Robert I is crowned king, but the [Oracle of the Riven](<../groups/oracle-of-the-riven.md>) [elects](<../events/1700s/1713/the-election-of-elaine-ii.md>) his cousin, [Elaine II](<../people/historical-figures/sembaran-royalty/elaine-ii.md>) the Queen of [Tyrwingha](<../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
-- 1715 DR, spring: Rowena Chemare, [Robert's](<../people/historical-figures/sembaran-royalty/robert-i.md>) wife, is murdered by bandits in the [Aine Hills](<../gazetteer/greater-sembara/sembara/aine-hills.md>) while visiting her family holdings
+- 1715 DR, spring: [Rowena Chemare](<../people/historical-figures/sembaran-royalty/rowena-chemare.md>), [Robert's](<../people/historical-figures/sembaran-royalty/robert-i.md>) wife, is murdered by bandits in the [Aine Hills](<../gazetteer/greater-sembara/sembara/aine-hills.md>) while visiting her family holdings
 - 1715 DR, summer: Robert leads the [Army of the North](<../groups/sembaran-army/army-of-the-north.md>) on a summer campaign against bandits in the [Aine Hills](<../gazetteer/greater-sembara/sembara/aine-hills.md>) and [Sembaran Highlands](<../gazetteer/greater-sembara/sembara/highlands/highlands.md>)
 - 1716 DR, spring: [Robert's](<../people/historical-figures/sembaran-royalty/robert-i.md>) eldest son, Robert is infected by a lycanthrope and disappears shortly afterward west of [Enford](<../gazetteer/greater-sembara/sembara/western-marches/marches-of-enford.md>) 
 - 1717 DR, fall: [Robert's](<../people/historical-figures/sembaran-royalty/robert-i.md>) daughter, Arabella of Sewick dies in childbirth, her son apparently possessed by a demon. Rumors spread that [Cece's](<../people/historical-figures/sembaran-royalty/cece-i.md>) ill luck with children as being passed down to her son.

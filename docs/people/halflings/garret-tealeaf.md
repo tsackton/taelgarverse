@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/major]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-06-02, type: freed}
 - {campaign: dufr, date: 1748-07-09, type: last seen}
@@ -62,11 +62,11 @@ Garret spent the next 11 years in servitude, as a wooden scarecrow, until he was
   - Jun 02, 1748 DR:  [Garret Tealeaf](<./garret-tealeaf.md>) is freed from his imprisonment as a wooden scarecrow by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 
 
                                                                                                                                                                                                                                                                                           |
-| [Bree Charmheart](<./bree-charmheart.md>)                                   | [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion
+| [Bree Charmheart](<./bree-charmheart.md>)                                                    | [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion
 
 
 
                                                                                                                                                                                                                                                                   |
-| [Oswalt Tealeaf](<./oswalt-tealeaf.md>)                                     | 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.                                                                                                                                                                                                                   |
-| [Garret Tealeaf](<./garret-tealeaf.md>)                                     | 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.                                                                                                                                                                                                                   |
+| [Oswalt Tealeaf](<./oswalt-tealeaf.md>)                                                      | 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.                                                                                                                                                                                                                   |
+| [Garret Tealeaf](<./garret-tealeaf.md>)                                                      | 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.                                                                                                                                                                                                                   |
 

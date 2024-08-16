@@ -10,14 +10,14 @@ gender: female
 whereabouts:
 - {type: home, location: Karawa}
 - {type: away, start: 1748-12-26, location: Central Dunmar}
-image: alesh-portrait.png
+image: alesh-portrait.jpg
 title: Alesh
 ---
 # Alesh
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1727 (22 years old)  
     { .bio }
 
@@ -29,7 +29,7 @@ title: Alesh
 
 
 
-![Alesh Portrait](../../assets/alesh-portrait.png){align="right"; width="400"}A short, quick-footed woman, with a nondescript face, short, black hair and light brown/tan skin. An extremely skilled rider, often serving as a scout or messenger for the people of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Bubbly, cheerful person, endlessly fascinated by Dunmari history. She collects rumors of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) of old and collects arrowheads and other artifacts she can find in her travels. She is especially interested in ancient battle sites.
+![Alesh Portrait](../../assets/alesh-portrait.jpg){align="right"; width="400"}A short, quick-footed woman, with a nondescript face, short, black hair and light brown/tan skin. An extremely skilled rider, often serving as a scout or messenger for the people of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Bubbly, cheerful person, endlessly fascinated by Dunmari history. She collects rumors of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) of old and collects arrowheads and other artifacts she can find in her travels. She is especially interested in ancient battle sites.
 
 
 

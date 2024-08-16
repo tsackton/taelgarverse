@@ -25,7 +25,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - The party successfully defends against shadow hunters in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>).
 - The party prepares for their journey, stocking up in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>) and deciding to cross the [Svinjo Mountains](<../../../gazetteer/northern-green-sea/svinjo-mountains.md>), avoiding vampire territories.
 - They endure a whiteout snowstorm in the [Svinjo Mountains](<../../../gazetteer/northern-green-sea/svinjo-mountains.md>).
-- The party learns of [frost giant](<../../../species/children-of-the-divine/giants.md>) activity and decides to investigate.
+- The party learns of [frost giant](<../../../species/children-of-the-riving/giants.md>) activity and decides to investigate.
 - After spotting frost giants overseeing [dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) miners, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) negotiates and is granted an audience with the frost giant king, [Brimskarda](<../../../people/giants/brimskarda.md>), while [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) learns the dwarves are indentured servants.
 
 ### Timeline
@@ -49,7 +49,7 @@ The next morning, the party discussed their route north with [Kecha](<../../../p
 
 The morning of March 13th, the party departed Tollen after nearly a month in town, with a refitted ship. The journey across [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) was largely uneventful, the weather cold but clear as the [Svinjo Mountains](<../../../gazetteer/northern-green-sea/svinjo-mountains.md>) neared. The evening of March 15th, however, brought storm clouds, and March 16th was a day of whiteout snow, forcing the party to remain sheltered. 
 
-Once the storm cleared, they debated their route, considering the rumored [frost giant](<../../../species/children-of-the-divine/giants.md>) presence. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) communicated with birds, learning about the dangers north, including giant wolves and giant people's settlements. Driven by curiosity, the party headed in the direction of these giant's territory. 
+Once the storm cleared, they debated their route, considering the rumored [frost giant](<../../../species/children-of-the-riving/giants.md>) presence. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) communicated with birds, learning about the dangers north, including giant wolves and giant people's settlements. Driven by curiosity, the party headed in the direction of these giant's territory. 
 
 Mid-afternoon the next day, on March 17th, the party spotted a group of dwarves emerging from a mine, under the watchful eye of two frost giants mounted on woolly mammoths. 
 

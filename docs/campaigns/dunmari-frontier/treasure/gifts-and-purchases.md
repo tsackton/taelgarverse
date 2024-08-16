@@ -1,39 +1,32 @@
 ---
-tags: [status/needswork]
-title: Gifts and Purchases
+{title: Gifts and Purchases}
 ---
 
-# Gifts
+## Gifts
 
-- [Glove of Crystalized Magic](<notable-items/glove-of-crystalized-magic.md>) (very rare major item)
-
+**Magic**
+- [Glove of Crystalized Magic](<notable-items/glove-of-crystalized-magic.md>) (very rare major item), constructed by Seeker in [Amberglow](<../../../cosmology/multiverse/echo-realms/feywild/amberglow.md>) from crystallized magic gifted by [Illaran](<../../../people/fey/illaran.md>).
 - Coin of Delving (common minor item) - gift to Riswynn upon departure from Tharn Todor at beginning of campaign
-
-- Delwath's elven armor from the days of the Great War, now no longer magical 
-- A shard of [Inkaye](<../../../things/materials/inkaye.md>) ready to be infused with explanar magic, created by [Umli](<../../../people/other-nonhumans/umli.md>) from Delwath's [Elven Shadow Breastplate](<notable-items/elven-shadow-breastplate.md>). Used to create the rainbow prism for [Vindristjarna](<../../../things/ships/vindristjarna.md>), created by Faldrak at the Elemental Forge. 
-- [Elven Shadow Breastplate](<notable-items/elven-shadow-breastplate.md>), given to Umli in [Session 80 (DuFr)](<../session-notes/session-80-dufr.md>), who removed and blanked the [Inkaye](<../../../things/materials/inkaye.md>) that had powered it, leaving a mundane breastplate
-
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) in exchange for her aid.
-
 - [Silverspark Gauntlets](<notable-items/silverspark-gauntlets.md>) (uncommon major item), from [Nora Silverspark](<../../../people/dwarves/nora-silverspark.md>)'s ghost
+- Spell Scroll of Cure Wounds at 2nd level (Gift from [Suma](<../../../people/dunmari/suma.md>) in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)) 
+- [Delwath's Elven Breastplate](<notable-items/delwath-s-elven-breastplate.md>), from his days as a solider in the Great War. Worn by Delwath into battle during the Great War, then lost when he fell out of Cha'mutte's shadow dimension. Returned to Delwath, with a fragment of [Inkaye](<../../../things/materials/inkaye.md>) attached, by [Avaras](<../../../people/dunmari/avaras.md>) and [Pava](<../../../people/dunmari/pava.md>). Later, [Umli](<../../../people/other-nonhumans/umli.md>) removed the [Inkaye](<../../../things/materials/inkaye.md>), rendering the armor non-magical. The Inkaye was used to create the Rainbow Prism by Faldrak at the [Elemental Forge](<../../../gazetteer/western-green-sea/cymea/elemental-forge.md>).
 
+**Books**
 - [The Lore of the Feywild](<../../../things/books/the-lore-of-the-feywild.md>), by [Ulfgar Frostbeard](<../../../people/dwarves/ulfgar-frostbeard.md>)
 - [On the Lost People of the Forests](<../../../things/books/on-the-lost-people-of-the-forests.md>), by [Gnaeus](<../../../people/chardonians/gnaeus.md>)
-
 - [The Runes of Creation](<../../../things/books/the-runes-of-creation.md>), author unknown
 
-- Cure Wounds at 2nd level (Gift from [Suma](<../../../people/dunmari/suma.md>) in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)) 
-- Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) in exchange for her aid.
-- [Silverspark Gauntlets](<notable-items/silverspark-gauntlets.md>) (uncommon major item)
 ### From [Enon](<../../../people/deno-qai/enon.md>)
 - [Deno'qai Lynx Shield](<notable-items/deno-qai-lynx-shield.md>) (legendary major item)
 - [Deno'qai Scale Mail](<notable-items/deno-qai-scale-mail.md>) (uncommon major item)
 ### From [Havdar](<../../../people/dunmari/havdar.md>)
 - [Flaming Bowstring](<notable-items/flaming-bowstring.md>) (uncommon major item)
+- Ring of Jumping. A ring of a Drankorian design, a twisted silver hare motif. Gift from [Havdar](<../../../people/dunmari/havdar.md>), in exchange for the Spear of the War Leader. 
 ### From [Arryn](<../../../people/other-humans/arryn.md>)
 - Moon Necklace (common minor item). A gift from [Arryn](<../../../people/other-humans/arryn.md>) to [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), a necklace on which a pendant is hung that always glows with the light of the moon, fading and growing in brightness depending on the phase.
 ### From [Rishi](<../../../people/dunmari/rishi.md>)
-- [Staff of the Forest Soul](<notable-items/staff-of-the-forest-soul.md>) (very rare major item)
+- A branch from the ancient tree in Tokra, gifted to [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) by Rishi[](<#>)and used to construct the [Staff of the Forest Soul](<notable-items/staff-of-the-forest-soul.md>)
 ### From [Chanceweaver](<../../../people/extraplanar-powers/prince-of-luck.md>)
 - Chanceweaver’s Dice (rare minor item). A pair of amorphous dice that can change their shape at will. Gifted to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) by the [Prince of Luck](<../../../people/extraplanar-powers/prince-of-luck.md>). 
 ### From [Lady Eventide](<../../../people/fey/lady-eventide.md>)
@@ -56,25 +49,28 @@ title: Gifts and Purchases
 - Four large pearls, gifted by the Skaer 
 ## Purchases
 
+**Te'kula village**
 - Hat of Vermin (common minor item, acquired from the [Te'kula](<../../../groups/deno-qai-tribes/te-kula.md>) village in [the Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
 - Clockwork Amulet (common minor item, acquired from the [Te'kula](<../../../groups/deno-qai-tribes/te-kula.md>) village in [the Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
-- Immovable rod (uncommon minor item, acquired from the [Te'kula](<../../../groups/deno-qai-tribes/te-kula.md>) village in [the Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>))-
+- Immovable rod (uncommon minor item, acquired from the [Te'kula](<../../../groups/deno-qai-tribes/te-kula.md>) village in [the Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
 - Cloak of the mantra ray (uncommon minor item, acquired from the [Te'kula](<../../../groups/deno-qai-tribes/te-kula.md>) village in [the Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
 
+**Tollen, from Umli**
 - 9 quivers of Skaer arrows, constructed by [Umli](<../../../people/other-nonhumans/umli.md>)
 - Masterwork shield, constructed of 7.5 lb of [Skaer Steel](<../../../things/materials/skaer-steel.md>) by [Umli](<../../../people/other-nonhumans/umli.md>). Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. 
 - Improvements by Umli to Delwath's [Deno'qai Lynx Shield](<notable-items/deno-qai-lynx-shield.md>), using Skaer steel
 
+**Tollen, from Cecilia Lister**
 - Tattoo of Darkvision (uncommon minor item, acquired from [Cecilia Lister](<../../../people/tollenders/cecilia-lister.md>) in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>))
-- Soul Tattoo (rare major item). Created by Cecilia Lister for Kenzo, in exchange for gold and the shadowfell brand tattoo that Kadmos wore.
+- Soul Tattoo (rare major item). Created by Cecilia Lister for Kenzo, in exchange for gold and the Shadowfell Brand tattoo that Kadmos wore. 
 
-
+**Zvervinka**
 - Dragonhide Studded Leather (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
 - Dragonhide Cloak (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
 - Dragonscale cloak (rare major item). Purchased in Zvervinka; made of the scales and claws of a white dragon. 
+- Frostshard Shortbow
+- Potion of Gaseous Form
 
-
-- Ring of Jumping. A ring of a Drankorian design, a twisted silver hare motif. Gift from [Havdar](<../../../people/dunmari/havdar.md>), in exchange for the Spear of the War Leader. 
 
 
 

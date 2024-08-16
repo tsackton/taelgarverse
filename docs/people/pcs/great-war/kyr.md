@@ -22,5 +22,5 @@ title: Kyr
 </div>
 
 
-A hero of the [Great War](<../../../events/1500s/great-war.md>), a lizardfolk renowned for control over the [Plane of Souls](<../../../cosmology/multiverse/spiritual-realms/plane-of-souls.md>).
+A hero of the [Great War](<../../../events/1500s/great-war.md>), a lizardfolk renowned for control over the [Plane of Souls](<../../../cosmology/multiverse/plane-of-souls.md>).
 

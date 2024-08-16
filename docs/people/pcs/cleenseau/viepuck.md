@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person, status/unknown]
+tags: [pc/cleenseau, person]
 campaignInfo: []
 name: Viepuck
 born: 1706-10-01
@@ -20,7 +20,7 @@ title: Viepuck
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born October 1st, 1706 (42 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     { .bio }
@@ -97,8 +97,8 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 ### Items
 | Image                                              | Name                                                                                                | Type    | Mechanics                                                                         |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------- |
-| ![Gareths Ring](../../../assets/gareths-ring.jpg){width="240"}                  | [Ring of Escape](<../../../Campaigns/Cleenseau Campaign/Treasure/Ring of Escape.md/>)                         | ring    | [Reference](https://www.dndbeyond.com/magic-items/8697391-ring-of-escape)         |
-| ![Pipes of Insect Control](../../../assets/pipes-of-insect-control.png){width="240"}       | [Pipes of Insect Control](<../../../Campaigns/Cleenseau Campaign/Treasure/Pipes of Insect Control.md/>)       | pipes   | [Reference](https://www.dndbeyond.com/magic-items/6684130-pipes-of-beast-control) |
-| ![Circlet of Telepathy](../../../assets/circlet-of-telepathy.png){width="240"}          | [Circlet of Telepathy](<../../../Campaigns/Cleenseau Campaign/Treasure/Circlet of Telepathy.md/>)             | circlet | [Reference](https://www.dndbeyond.com/magic-items/7834345-circlet-of-telepathy)   |
-| ![Boots of False Tracks Viepuck](../../../assets/boots-of-false-tracks-viepuck.png){width="240"} | [Boots of False Tracks](<../../../Campaigns/Cleenseau Campaign/Treasure/Boots of False Tracks (Viepuck).md/>) | boots   | [Reference](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)    |
+| ![Gareths Ring](../../../assets/gareths-ring.jpg)                  | [Ring of Escape](<../../../Campaigns/Cleenseau Campaign/Treasure/Ring of Escape.md>)                         | ring    | [Reference](https://www.dndbeyond.com/magic-items/8697391-ring-of-escape)         |
+| ![Pipes of Insect Control](../../../assets/pipes-of-insect-control.png)       | [Pipes of Insect Control](<../../../Campaigns/Cleenseau Campaign/Treasure/Pipes of Insect Control.md>)       | pipes   | [Reference](https://www.dndbeyond.com/magic-items/6684130-pipes-of-beast-control) |
+| ![Circlet of Telepathy](../../../assets/circlet-of-telepathy.png)          | [Circlet of Telepathy](<../../../Campaigns/Cleenseau Campaign/Treasure/Circlet of Telepathy.md>)             | circlet | [Reference](https://www.dndbeyond.com/magic-items/7834345-circlet-of-telepathy)   |
+| ![Boots of False Tracks Viepuck](../../../assets/boots-of-false-tracks-viepuck.png) | [Boots of False Tracks](<../../../Campaigns/Cleenseau Campaign/Treasure/Boots of False Tracks (Viepuck).md>) | boots   | [Reference](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)    |
 

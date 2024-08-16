@@ -18,7 +18,7 @@ title: Casian
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     b. DR 1722 - d. DR 1748, died at age 26 years  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) (until DR 1748)  
     { .bio }
@@ -31,7 +31,7 @@ title: Casian
 
 
 
-![Cassian Portrait](../../assets/cassian-portrait.png){align="right"; width="320"}A powerful wizard and evoker, companion to [Kadmos](<./kadmos.md>), and member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). A short Chardonian man, constantly in motion and filled with nervous energy, wearing stained traveling gear under white robes for protection from the harsh sun. Short dark hair, clean shaven, brown eyes, carries a number of books and notes that he was constantly pouring over. Doesn’t talk much except to argue.
+![Cassian Portrait](../../assets/cassian-portrait.jpg){align="right"; width="320"}A powerful wizard and evoker, companion to [Kadmos](<./kadmos.md>), and member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). A short Chardonian man, constantly in motion and filled with nervous energy, wearing stained traveling gear under white robes for protection from the harsh sun. Short dark hair, clean shaven, brown eyes, carries a number of books and notes that he was constantly pouring over. Doesn’t talk much except to argue.
 
 Not well regarded by of the party's contacts in Chardon, considered a snob and something of an asshole. 
 

@@ -17,7 +17,7 @@ title: Prince of Luck
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) ([archfey](<../../species/children-of-the-divine/fey/fey.md>)) (he/him)  
+    A [fey](<../../species/children-of-the-riving/fey/fey.md>) ([archfey](<../../species/children-of-the-riving/fey/fey.md>)) (he/him)  
     Master of [Fortune's Rest](<../../cosmology/multiverse/echo-realms/feywild/fortune-s-rest.md>)  
     { .bio }
 

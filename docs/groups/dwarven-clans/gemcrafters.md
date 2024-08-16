@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/unknown]
+tags: [organization/family, status/needswork/external]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Gemcrafters
@@ -15,4 +15,6 @@ title: Gemcrafters
 *in dwarvish, Barzinduk*
 
 A wealthy merchant clan in [Nidzahar](<../../gazetteer/sentinel-range/dwarven-kingdoms/nidzahar.md>). Their wealth largely dates from just after the Great War, as the family was relatively unscathed by those events.
+
+
 

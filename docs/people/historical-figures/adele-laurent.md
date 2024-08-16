@@ -16,7 +16,7 @@ title: Adèle Laurent
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans/humans.md>) (she/her)  
+    An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Died DR 1689  
     Member of [The Rangers](<../../groups/the-rangers.md>) (until DR 1689)  
     { .bio }

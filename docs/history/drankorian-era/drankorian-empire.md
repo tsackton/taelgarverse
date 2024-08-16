@@ -5,6 +5,7 @@ campaignInfo: []
 name: Drankorian Empire
 aliases: [Drankor]
 timelineDescriptor: Drankorian History
+typeOf: realm
 title: Drankorian Empire
 ---
 # The Drankorian Empire

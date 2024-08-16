@@ -29,7 +29,7 @@ Playable species include the following, listed in order of unusualness:
 
 While these are theoretically playable races, they should be discussed as they are either extremely unusual, or usually considered evil by humans:
 - Most [Orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) are mystically bound at birth by a ritual to dedicate their lives to violence in the service of Thark, the god of war without end, but rumors persist across the human world of free orcs who have escaped these bonds. 
-- [Goblins](<../../species/goblinoids/goblins.md>), who were created by a malevolent force to serve their hobgoblin and bugbear masters; those who escape are as likely to be pitied as scorned. 
+- [Goblins](<../../species/children-of-divine-creation/goblinoids/goblins.md>), who were created by a malevolent force to serve their hobgoblin and bugbear masters; those who escape are as likely to be pitied as scorned. 
 
 Species not listed here are not available to choose as playable race in Taelgar by default. If you would like to play something different from the options here, I am open to discuss whether there is a way for this species to fit into the world of Taelgar, without any promises. 
 ## Backgrounds

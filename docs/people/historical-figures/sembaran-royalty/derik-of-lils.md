@@ -15,7 +15,7 @@ title: Derik
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans/humans.md>) (he/him), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
     b. DR 1573 - d. DR 1633, died at age 60 years  
     { .bio }
 

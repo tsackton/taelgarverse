@@ -14,7 +14,7 @@ title: Marcel de Valarin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans/humans.md>) (he/him)  
+    An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Died DR 1688  
     { .bio }
 

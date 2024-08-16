@@ -21,8 +21,8 @@ title: LL Session 2
 - The party spoke with the ghost, and Gaudin convinced him to reveal the secret entrance to Grimstone's lair in the basement as the session ended
 ## The Protagonists
 - Asescale, a [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) alchemist and gambler
-- Dilion, a [human](<../../species/humans/humans.md>) tinkerer and battlesmith
-- Gadin, a [human](<../../species/humans/humans.md>) warlock with a hint of the [fey](<../../species/children-of-the-divine/fey/fey.md>) about him
+- Dilion, a [human](<../../species/children-of-divine-creation/humans/humans.md>) tinkerer and battlesmith
+- Gadin, a [human](<../../species/children-of-divine-creation/humans/humans.md>) warlock with a hint of the [Fey](<../../species/children-of-the-riving/fey/fey.md>) about him
 - Loria Underbough, a [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) wanderer and ranger
 # Plot Developments
 

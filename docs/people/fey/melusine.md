@@ -15,7 +15,7 @@ title: Melusine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/children-of-the-divine/fey/fey.md>) ([nymph](<../../species/children-of-the-divine/fey/fey.md>)) (she/her)  
+    A [fey](<../../species/children-of-the-riving/fey/fey.md>) ([nymph](<../../species/children-of-the-riving/fey/fey.md>)) (she/her)  
     { .bio }
 
     Based in [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)

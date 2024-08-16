@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/needswork/notes, status/unknown]
+tags: [person, dufr/met, dufr/minor, status/needswork/notes]
 campaignInfo: []
 name: Alayah
 born: 1725
@@ -15,7 +15,7 @@ title: Alayah
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/humans/humans.md>) (she/her)  
+    A Deno'qai [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1725 (24 years old)  
     { .bio }
 

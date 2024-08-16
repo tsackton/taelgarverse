@@ -1,21 +1,22 @@
 ---
 headerVersion: 2023.11.25
 typeOf: mirror
-tags: [item, item/magical, status/cleanup/refactor]
+subTypeOf: magical
+tags: [item, status/cleanup/refactor]
 whereabouts:
-- {type: home, location: unknown hobgoblin wizard, prefix: by an}
+- {type: home, location: unknown hobgoblin wizard, linkText: by an}
 - {type: home, location: dufr}
 - {type: away, start: 1748-06-08, end: 1748-06-08, location: Karawa}
 - {type: away, start: 1748-12-05, end: 1748-12-10, location: Uzgukhar}
 - {type: away, location: Vindristjarna}
 displayDefaults: {ltPerson: trapped in}
-rarity:
+rarity: very rare
 title: Mirror of Soul Trapping
 ---
 # The Mirror of Soul Trapping
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Mirror__  
-   Created unknown hobgoblin wizard  
+- :octicons-info-24:{ .lg .middle } __Very Rare Magical Mirror__  
+   Created by an unknown hobgoblin wizard  
    Owned owned by the [Dunmar Fellowship](<../../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
 </div>
 
@@ -24,14 +25,16 @@ title: Mirror of Soul Trapping
 
 
 
-![Mirror of Soul Trapping V1](../../../../assets/mirror-of-soul-trapping-v1.png){align="right"; width="400"}This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [Delwath](<../../../../people/pcs/dunmar-fellowship/delwath.md>) understood to be incantations binding twelve extradimensional cells to the mirror.
-
-Seen in [Mirror of the Past](<./mirror-of-the-past.md>): [Mirror of Soul Trapping Vision](<../../mirror-visions/mirror-of-soul-trapping-vision.md>)
+![Mirror of Soul Trapping V1](../../../../assets/mirror-of-soul-trapping-v1.jpg){align="right"; width="400"}This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [Delwath](<../../../../people/pcs/dunmar-fellowship/delwath.md>) understood to be incantations binding twelve extradimensional cells to the mirror.
 
 An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror's cells don't age, and they don't need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed. If the mirror is destroyed, all creatures trapped within are released.
 
 Any creature that sees its reflection in the mirror while within 30 feet of it must make a DC 15 Charisma save or be trapped in one of the cells. This saving throw is made with advantage if the creature is aware of the nature of the mirror. 
 
+
+Seen in [Mirror of the Past](<./mirror-of-the-past.md>): 
+
+![Mirror of Soul Trapping Vision](<../../mirror-visions/mirror-of-soul-trapping-vision.md>)
 #### Command Words
 The mirror can be controlled by command words, which must be spoken within 60 feet of the mirror to function, and require an action to invoke. You know five command words: 
 
@@ -74,4 +77,6 @@ You feel that this is not all the secrets of the mirror, but you have exhausted 
 [Seeker](<../../../../people/pcs/dunmar-fellowship/seeker.md>)’s research in [Chardon](<../../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), August 1748. 
 
 Reading the book that Ulfgar got for you from the [Great Library](<../../../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>) on magical mirrors, their construction and use, you learn command words 4 and 5. 
+
+
 

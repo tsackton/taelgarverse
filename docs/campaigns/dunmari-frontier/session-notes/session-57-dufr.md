@@ -34,7 +34,7 @@ title: Dunmari Frontier - Kenzo Solo Session 1 (Prequel)
 ### Timeline
 - Sep 30, 1748 DR afternoon: Arrive in the jungles far to the east; meet [Elazar](<../../../people/lizardfolk/elazar.md>); travel to lizardfolk village of [Bedez](<../../../gazetteer/far-south/bedez.md>)
 - Oct 01, 1748 DR - Oct 25, 1748 DR:  Spend time with [Elazar](<../../../people/lizardfolk/elazar.md>) in the village, learning the language and about the spirit realms
-- Oct 26, 1748 DR: [Elazar](<../../../people/lizardfolk/elazar.md>) guides Kenku on a [spirit journey](<../dreams-and-visions/kenzo-spirit-journey-in-bedez.md>) through the [Dreamworld](<../../../cosmology/multiverse/spiritual-realms/proximate-realms/dreamworld.md>); [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) learns of different kinds of ki, and seeks the soul of [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>), among other journeys
+- Oct 26, 1748 DR: [Elazar](<../../../people/lizardfolk/elazar.md>) guides Kenku on a [spirit journey](<../dreams-and-visions/kenzo-spirit-journey-in-bedez.md>) through the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>); [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) learns of different kinds of ki, and seeks the soul of [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>), among other journeys
 - Oct 27, 1748 DR - Nov 01, 1748 DR: Kenzo waits in [Bedez](<../../../gazetteer/far-south/bedez.md>) for other lizardfolk to gather
 
 
