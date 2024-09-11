@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 whereabouts: Spiritual Realms
 typeOf: plane
 title: Arborea
@@ -11,6 +11,10 @@ title: Arborea
 </div>
 
 
-The realm of nature unbounded and wild.
+Arborea is the plane of wildness, nature, and beasts, a place where the beauty of vast untouched landscapes coexists with the terror of the hunt and the chaotic energy of overgrown jungles. It is an ancient realm among the [Outer Realms](<../../outer-realms.md>), not associated with any particular divinity.
+
+
+There is a known [extraplanar weak point](<../../extraplanar-weak-point.md>) connecting Arborea to the [Material Plane](<../../material-plane.md>) underneath the [Lakan Monastery](<../../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), south of [Tokra](<../../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+
 
 

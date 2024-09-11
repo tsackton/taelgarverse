@@ -4,9 +4,10 @@ tags: [event-source]
 name: Dust from Seeker's Doppelgänger Vision
 DR: 1749-05-13
 timelineDescriptor: Dunmari Frontier Campaign
+displayDefaults: {defArt: ''}
 title: Dust from Seeker's Doppelgänger Vision
 ---
-# The Dust from Seeker's Doppelgänger Vision
+# Dust from Seeker's Doppelgänger Vision
 
 As you hold the dust from the destroyed doppelganger of Seeker to the mirror, the scene fades.
 

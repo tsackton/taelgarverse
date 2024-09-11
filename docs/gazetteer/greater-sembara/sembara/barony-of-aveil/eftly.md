@@ -17,7 +17,7 @@ title: Eftly
 
 A small sheepherding village along the Great South Road between [Rinburg](<./rinburg.md>) and [Dallet](<./dallet.md>), about 20 miles from [Rinburg](<./rinburg.md>). It was depopulated during the Undead Attacks in Sembara.
 
-Before it was ruined, it used to be a common stopping spot on the road between [Rinburg](<./rinburg.md>) and [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>), and the villagers here would rent out sheep barns and haylofts to passing travelers. There was a temple to the Wildling here, but it collapsed in the aftermath of the Undead Attacks in Sembara. 
+Before it was ruined, it used to be a common stopping spot on the road between [Rinburg](<./rinburg.md>) and [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>), and the villagers here would rent out sheep barns and haylofts to passing travelers. There was a temple to [The Wildling](<../../../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wildling.md>) here, but it collapsed in the aftermath of the Undead Attacks in Sembara. 
 
 _Distances:_
 * to [Champimont](<./champimont.md>), 6 miles

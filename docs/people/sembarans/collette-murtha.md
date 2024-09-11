@@ -20,4 +20,4 @@ title: Collette Murtha
 </div>
 
 
-![Collette Mutha](../../assets/collette-mutha.png){align="right"; width="320"} The steward and administrator of the temple in [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>), and the cousin of [Lord Murtha](<./erick-murtha.md>).
+![Collette Mutha](../../assets/collette-mutha.png){align="right"; width="320"}The steward and administrator of the temple in [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>), and the cousin of [Lord Murtha](<./erick-murtha.md>).

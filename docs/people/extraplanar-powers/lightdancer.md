@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
-campaignInfo: []
+tags: [person]
+campaignInfo:
+- {campaign: dufr, person: Seeker, date: 1748-11-10, type: met}
 name: Lightdancer
-born:
 species: fey
 subspecies: archfey
 gender: nonbinary
@@ -21,6 +21,10 @@ title: Lightdancer
 
     Based in [Shimmersong](<../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
 </div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) on November 10th, 1748 in [Shimmersong](<../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)  
 
 
 Lord Egon, the Lightdancer, is the ruler of the domain of [Shimmersong](<../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>). Most of the time, they are vibrant, vivacious, obsessed with color and light and the beauty of the realm, but they have a dark side. For some time each year the Lightdancer retreats to hidden caves underground, and color fades from [Shimmersong](<../../cosmology/multiverse/echo-realms/feywild/shimmersong.md>), while the Winter Knights patrol the borders protecting the realm from dangers.

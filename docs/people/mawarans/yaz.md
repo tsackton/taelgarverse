@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/tim, person]
+tags: [person]
+campaignInfo:
+- {campaign: dufr, person: Delwath, date: 1749-02-05, type: scryed}
 name: Yaz
-born:
 species: human
 ancestry: Mawaran
 gender: male
@@ -20,5 +21,8 @@ title: Yaz
 </div>
 
 
-An old man, shortish white hair pulled back in a pony tail. Lives alone in the Towers, in an isolated watchtower. Knowledgeable about the lore and mysteries of the western ocean.
 
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on February 5th, 1749 in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)  
+
+
+An old man, with shortish white hair pulled back in a pony tail. Lives alone in the Towers, in an isolated watchtower. Knowledgeable about the lore and mysteries of the western ocean.
