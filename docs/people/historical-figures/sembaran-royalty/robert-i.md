@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/notes]
+tags: [historical, person/ruler, status/cleanup/external]
 name: Robert I
 born: 1660
 species: human
@@ -11,6 +11,8 @@ title: King Robert I
 affiliations:
 - {org: House of Sewick, type: primary}
 - {place: Sembara, start: 1713-09-12}
+dm_notes: none
+dm_owner: mike
 ---
 # King Robert I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

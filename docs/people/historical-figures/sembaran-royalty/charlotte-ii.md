@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/notes]
+tags: [historical, person/ruler, status/needswork/internal]
 name: Charlotte II
 born: 1624
 species: human
@@ -12,6 +12,8 @@ affiliations:
 - {place: Sembara, start: 1648-10}
 - {place: Tyrwingha, start: 1648-10}
 - {org: House of Sewick, type: primary}
+dm_notes: none
+dm_owner: none
 ---
 # Queen Charlotte II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -6,7 +6,7 @@ campaignInfo: []
 name: The Windward Sail
 typeOf: inn
 ancestry: halfling
-partOf: Fiskurth
+whereabouts: Fiskurth
 title: The Windward Sail
 ---
 # The Windward Sail

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/metadata/header]
 displayDefaults: {endStatus: petrified}
 campaignInfo:
 - {campaign: dufr, date: 1748-03-25, type: discovered as a statue}
@@ -17,6 +17,8 @@ whereabouts:
 - {type: away, start: 1748-02-02, end: 1748-03-03, prefix: traveling in, location: Dunmar}
 - {type: away, start: 1748-03-03, end: 1748-03-05, location: Karawa}
 - {type: away, start: 1748-03-14, end: 9999, location: Dunmari Fort (Gomat)}
+dm_notes: none
+dm_owner: none
 title: Arcus
 ---
 # Arcus
@@ -36,6 +38,8 @@ title: Arcus
 
 
 :octicons-location-24:{ .lg .middle } Discovered as a statue by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 25th, 1748 in the [Dunmari Fort (Gomat)](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>)  
+
+
 
 
 An adventurer and treasure hunter from the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), now petrified in the fort east of [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>). 

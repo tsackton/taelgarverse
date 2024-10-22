@@ -7,6 +7,8 @@ gender: male
 whereabouts: Barony of Vaubonne
 affiliations:
 - {org: The Rangers}
+dm_owner: none
+dm_notes: none
 title: Oswald Greensborn
 ---
 # Oswald Greensborn

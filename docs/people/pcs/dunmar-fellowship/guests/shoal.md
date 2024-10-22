@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/unknown]
-campaignInfo: []
+tags: [person, pc/guest]
 name: Shoal
 born: 1652
 ka: 37
@@ -21,7 +20,7 @@ title: Shoal
     Born DR 1652 (97 years old)  
     { .bio }
 
-    Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), the ~Eastern Islands~, the [Green Sea](<../../../../gazetteer/green-sea.md>)
+    Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), the [~Eastern Islands~](<../../../../gazetteer/eastern-green-sea/eastern-islands.md>), the [Green Sea](<../../../../gazetteer/green-sea.md>)
 </div>
 
 

@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/internal, status/check/tim]
 campaignInfo: []
 name: Dunmore
 typeOfAlias: fortified town
 typeOf: settlement
-partOf: Barony of Ainwick
+whereabouts: Barony of Ainwick
 title: Dunmore
 ---
 # Dunmore

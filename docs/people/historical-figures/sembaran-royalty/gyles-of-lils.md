@@ -10,6 +10,8 @@ reignStart:
 died: 1706
 affiliations:
 - {org: House of Lils, type: primary}
+dm_notes: none
+dm_owner: none
 title: Gyles
 ---
 # Gyles

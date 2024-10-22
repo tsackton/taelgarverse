@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, type: attended his lecture, date: 1748-08-22, format: '<person:u> <met:s> on [[Session 49 (DuFr)|<target>]] <current:3rq>'}
 name: Galen
@@ -32,3 +32,5 @@ A showman, scholar, academic rival of sorts to [Ulfgar Frostbeard](<../dwarves/u
 
 
 Had possessed the [Chalice of the Runepriest](<../../things/artifacts-of-power/chalice-of-the-runepriest.md>), but sold it to [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) for a large sum of money in [Session 49 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-49-dufr.md>). 
+
+

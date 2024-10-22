@@ -9,6 +9,8 @@ ancestry: Sembaran
 gender: male
 whereabouts:
 - {type: home, location: Cleenseau}
+dm_notes: none
+dm_owner: mike
 title: Cedric
 ---
 # Cedric

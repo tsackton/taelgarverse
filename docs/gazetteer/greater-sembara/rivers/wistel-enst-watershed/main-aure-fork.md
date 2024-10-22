@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/namecheck, status/stub, place]
+tags: [status/check/name, status/cleanup/internal, place]
 whereabouts: Addermarch
 typeOf: river
+dm_notes: none
+dm_owner: tim
 unlisted: true
 title: ~Main Aure Fork~
 ---

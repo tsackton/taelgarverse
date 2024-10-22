@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update]
 campaignInfo:
 - {campaign: clee}
 name: Anselm
@@ -11,6 +11,8 @@ gender: male
 whereabouts: Cleenseau
 affiliations:
 - {org: Lord's Council of Cleenseau}
+dm_notes: color
+dm_owner: mike
 title: Anselm
 ---
 # Anselm

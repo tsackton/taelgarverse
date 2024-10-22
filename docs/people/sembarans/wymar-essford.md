@@ -14,6 +14,8 @@ affiliations:
 - {place: Cleenseau, start: 1689}
 - {org: Essords, type: primary}
 whereabouts: Cleenseau
+dm_notes: color
+dm_owner: mike
 ---
 # Lord Wymar Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

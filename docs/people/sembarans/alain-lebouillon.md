@@ -6,6 +6,8 @@ ancestry: Sembaran
 whereabouts: Cleenseau
 gender: male
 born: 1659
+dm_notes: none
+dm_owner: none
 title: Alain LeBouillon
 ---
 # Alain LeBouillon

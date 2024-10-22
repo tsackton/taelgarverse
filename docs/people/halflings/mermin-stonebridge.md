@@ -12,6 +12,8 @@ affiliations:
 - {org: Stonebridges, type: primary}
 whereabouts:
 - {type: home, location: Cleenseau}
+dm_notes: none
+dm_owner: none
 title: Mermin Stonebridge
 ---
 # Mermin Stonebridge

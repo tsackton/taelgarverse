@@ -8,6 +8,8 @@ aliases: [Night Witch]
 name: The Midnight Lady
 species: fey
 subspecies: hag
+dm_owner: mike
+dm_notes: important
 title: The Midnight Lady
 ---
 # The Midnight Lady
@@ -17,7 +19,7 @@ title: The Midnight Lady
     A [fey](<../../species/children-of-the-riving/fey/fey.md>) (hag)  
     { .bio }
 
-    Based in [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
+    Based in [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently in [Peydon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

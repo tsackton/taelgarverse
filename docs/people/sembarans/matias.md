@@ -8,6 +8,8 @@ gender: male
 whereabouts: Asineau
 affiliations:
 - {org: Asineau Manor Guard, title: Guardsman}
+dm_owner: none
+dm_notes: none
 title: Matias
 ---
 # Matias

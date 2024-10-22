@@ -6,7 +6,7 @@ Information about adventures set in the [Mawakel Peninsula](<../../gazetteer/wes
 The Mawar Adventures have largely taken place around the port town of [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), on the western coast of the peninsula, and a significant port within the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
 
 Hamri is the home of many adventurers, some of have been here for years, others who are only passing through or have recently returned. They included:
-- [Ryu](<../../people/pcs/mawar-confederacy/ryu.md>), a hunter and ranger with a shapeshifting beast companion known as Turk, in shark form; Blu, in osprey form; and Geo(?) in bear form. 
+- [Ryu](<../../people/pcs/mawar-confederacy/ryu.md>), a hunter and ranger with a shapeshifting beast companion known as Turk, in shark form; Blu, in osprey form; and Geo in bear form. 
 - [Trok](<../../people/pcs/mawar-confederacy/trok.md>), a tattooed lizardfolk warrior, estranged from his village
 - [Wazir](<../../people/pcs/mawar-confederacy/wazir.md>), an artificer and scholar, trained in Chardon, now owner of the [Leviathan Inn](<../../gazetteer/west-coast/mawar-confederacy/leviathan-inn.md>)
 - [Nerissa](<../../people/pcs/mawar-confederacy/nerissa.md>), a singer and musician recently arrived in Hamri to learn the songs of the ocean

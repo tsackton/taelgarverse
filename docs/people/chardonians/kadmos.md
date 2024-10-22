@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/needswork/internal, status/cleanup/header]
+tags: [person, testcase, status/cleanup/external, status/metadata/header]
 displayDefaults: {endStatus: killed}
 campaignInfo:
 - {campaign: dufr, date: 1748-12-08, type: encountered}
@@ -18,6 +18,8 @@ whereabouts:
 - {type: away, start: 1748-11-15, end: '', prefix: somewhere in, location: Dunmar}
 - {type: away, start: 1748-11-19, end: '', location: Garamjala Desert}
 - {type: away, start: 1748-12-08, end: 1748-12-08, location: Uzgukhar}
+dm_owner: tim
+dm_notes: important
 title: Kadmos
 ---
 # Kadmos

@@ -4,6 +4,8 @@ tags: [person]
 species: fey
 subspecies: satyr
 whereabouts: Tyrwingha
+dm_notes: none
+dm_owner: mike
 title: Ampelos
 ---
 # Ampelos
@@ -18,3 +20,4 @@ title: Ampelos
 
 
 A satyr, fond of humans, wine, and music.
+

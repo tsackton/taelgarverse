@@ -1,20 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, pc, person, status/needswork/notes, status/unknown]
-campaignInfo:
+tags: [pc/companion, pc, person]
 name: Ladder
-born:
-species:
-ancestry:
-gender:
-player:
-affiliations:
+species: construct
 excludePublish: [clee]
 title: Ladder
 ---
 # Ladder
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A construct  
+    { .bio }
 
 </div>
 

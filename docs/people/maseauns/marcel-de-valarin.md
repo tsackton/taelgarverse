@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
-name:
-born:
+tags: [person, status/cleanup/internal]
 died: 1688
 species: human
 ancestry: Isinguer
 gender: male
 whereabouts: Valarin
+dm_notes: none
+dm_owner: mike
 title: Marcel de Valarin
 ---
 # Marcel de Valarin

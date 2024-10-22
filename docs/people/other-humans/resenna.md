@@ -25,7 +25,7 @@ title: Resenna
     Based in [Medju](<../../gazetteer/eastern-green-sea/medju.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of October 16th, 1748): [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), the ~Eastern Islands~, the [Green Sea](<../../gazetteer/green-sea.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of October 16th, 1748): [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), the [~Eastern Islands~](<../../gazetteer/eastern-green-sea/eastern-islands.md>), the [Green Sea](<../../gazetteer/green-sea.md>)
 
 
 

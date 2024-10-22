@@ -7,6 +7,8 @@ ancestry: Sembaran
 gender: female
 born: 1688
 died: 1720-01-04
+dm_notes: none
+dm_owner: none
 title: Emmeline Duval
 ---
 # Emmeline Duval

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/mike]
+tags: [place, status/check/tim]
 name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
@@ -25,10 +25,7 @@ With the fall of [Drankor](<../../../history/drankorian-era/drankorian-empire.md
 
 
 
-Now, Addermarch is a land of small farmers, foresters, and sheepherders, known primarily for its famed apple brandy that is traded downriver into [Sembara](<../sembara/sembara.md>), but also a significant producer of timber and wool. Enjoying favorable tariffs for its goods in exchange for its role in protecting Sembara’s southern borders, Addermarch is a close ally of Sembara.
-
-
-
+Now, Addermarch is a land of small farmers, foresters, and sheepherders, known primarily for its famed apple brandy that is traded downriver into [Sembara](<../sembara/sembara.md>), but also a significant producer of timber and wool. Addermarch has friendly relationships with the three human kingdoms on its borders: [Tyrwingha](<../tyrwingha/tyrwingha.md>), [Sembara](<../sembara/sembara.md>), and [Maseau](<../duchy-of-maseau/duchy-of-maseau.md>). Sembara is economically and culturally dominate in the region, and many merchant houses in Addermarch have close ties to traders and bankers in Sembara. But not all in Addermarch believe that Sembara will necessarily come to Addermarch's aid, and a spirit of independence prevails in some circles.
 ## Geography 
 
 *See more: [Mostreve Hills](<../mostreve-hills.md>)*
@@ -130,7 +127,7 @@ The popular of Addermarch is very rural. There is only one significant city, [Ad
 
 
 
-Addermarch is a feudal oligarchy, with power centralized in the hands of the Earl's Court, composed of the five hereditary earls of Addermarch, whose claim to power traces back to ancient days. The Earl's Court has, in times of danger, elected one of their own, or even an outside, as the commander in chief of the army, and over time this role has been formalized into the High Lord of Addermarch, who serves as a kind of overking, and is allowed to style themselves Defender of the Realm. 
+Addermarch is a feudal oligarchy, with power centralized in the hands of the Earl's Court, composed of the five hereditary earls of Addermarch, whose claim to power traces back to ancient days. The Earl's Court has, in times of danger, elected one of their own, or even an outsider, as the commander in chief of the army, and over time this role has been formalized into the High Lord of Addermarch, who serves as a kind of overking, and is allowed to style themselves Defender of the Realm. 
 
 Each earl functions as the monarch of a circuit, defined by the villages and towns in their demesne. Within this circuit, the Earl is responsible for administering justice and providing for the defense of their territory, and has the right to tax the labor of the land to provide for its upkeep. However, generally speaking there is no manorial feudalism in Addermarch. Instead, an Earl would typically appoint a knight of their court to serve as the lord of a particular castle or manor. However, there is no expectation that this title is inherited, and although there are often significant land holdings which provide rents for castle upkeep, the knights and castellans have no vassalage relationship with the commoners.
 

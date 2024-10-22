@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/needswork/shared]
 born: 1698
 gender: male
 species: human
@@ -13,6 +13,8 @@ whereabouts:
 - {type: away, location: Tollen, start: 1715, end: 1717}
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+dm_notes: none
+dm_owner: mike
 title: Tristan Vaudrillard
 ---
 # Tristan Vaudrillard

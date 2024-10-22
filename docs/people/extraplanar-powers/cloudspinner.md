@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header, status/needswork/internal]
+tags: [person, status/metadata/header, status/needswork/internal]
 campaignInfo: []
 name: Cloudspinner
 born:
@@ -11,6 +11,7 @@ aliases: [Queen of Sunset]
 whereabouts:
 - {type: home, end: 1001, location: Amberglow}
 - {type: away, start: 1002, location: imprisoned}
+- {type: away, start: 1749-05-21, location: Vindristjarna}
 title: Cloudspinner
 ---
 # Cloudspinner
@@ -20,10 +21,10 @@ title: Cloudspinner
     A [fey](<../../species/children-of-the-riving/fey/fey.md>) ([archfey](<../../species/children-of-the-riving/fey/fey.md>)) (she/her)  
     { .bio }
 
-    Originally from: [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
+    Originally from: [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of DR 1002): imprisoned
+:octicons-location-24:{ .lg .middle } Last known location (as of May 21th, 1749): [Vindristjarna](<../../things/ships/vindristjarna.md>), the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
 
 
 

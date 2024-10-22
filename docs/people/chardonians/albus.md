@@ -11,6 +11,8 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: 1729, location: Chardon}
 - {type: home, start: 1730, end: '', location: Darba}
+dm_notes: none
+dm_owner: none
 title: Albus
 ---
 # Albus

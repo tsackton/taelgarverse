@@ -4,6 +4,8 @@ tags: [organization]
 typeOf: family
 typeOfAlias: noble family
 created: 1594
+dm_notes: none
+dm_owner: none
 title: House of Lils
 ---
 # The House of Lils

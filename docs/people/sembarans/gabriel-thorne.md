@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
-campaignInfo: []
+tags: [person]
 name: Gabriel Thorne
 born: 1690
 species: human
@@ -9,6 +8,8 @@ ancestry: Sembaran
 gender: male
 affiliations:
 whereabouts: Cleenseau
+dm_notes: color
+dm_owner: none
 title: Gabriel Thorne
 ---
 # Gabriel Thorne
@@ -23,4 +24,4 @@ title: Gabriel Thorne
 </div>
 
 
-![Gabriel Thorne](../../assets/gabriel-thorne.png){align="right"; width="320"} The son of [Gideon Thorne](<./gideon-thorne.md>) and husband to [Beatrix](<./beatrix-thorne.md>).
+![Gabriel Thorne](../../assets/gabriel-thorne.png){align="right"; width="320"}The son of [Gideon Thorne](<./gideon-thorne.md>) and husband to [Beatrix](<./beatrix-thorne.md>). A yeoman.

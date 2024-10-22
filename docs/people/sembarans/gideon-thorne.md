@@ -8,6 +8,8 @@ ancestry: Sembaran
 gender: male
 whereabouts:
 - {type: home, location: Auloutte}
+dm_notes: color
+dm_owner: none
 title: Gideon Thorne
 ---
 # Gideon Thorne

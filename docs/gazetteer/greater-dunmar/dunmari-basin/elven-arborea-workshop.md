@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, event-source, status/needswork/external]
 campaignInfo: []
 name: Ruined Elven Workshop (near Tokra)
@@ -7,8 +8,10 @@ whereabouts: Lakan Monastery
 title: Ruined Elven Workshop (near Tokra)
 ---
 # The Ruined Elven Workshop (near Tokra)
->[!info]+ Information
-> A  ruin in the [Lakan Monastery](<../realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), [Tokra](<../realms/dunmar/central-dunmar/tokra/tokra.md>), [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>)
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A ruin in the [Lakan Monastery](<../realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), [Tokra](<../realms/dunmar/central-dunmar/tokra/tokra.md>), [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
+</div>
+
 
 %
 

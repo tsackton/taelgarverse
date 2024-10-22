@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/unknown]
+tags: [person, pc/guest]
 campaignInfo: []
 name: Raven
 born:
-species:
+species: fey
 ancestry:
 gender: enby
 player: Isaac Sackton
@@ -15,7 +15,7 @@ title: Raven
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    (they/them)  
+    A [fey](<../../../../species/children-of-the-riving/fey/fey.md>) (they/them)  
     { .bio }
 
 </div>

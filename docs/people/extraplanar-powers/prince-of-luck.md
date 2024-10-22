@@ -21,7 +21,7 @@ title: Prince of Luck
     Master of [Fortune's Rest](<../../cosmology/multiverse/echo-realms/feywild/fortune-s-rest.md>)  
     { .bio }
 
-    Based in [Fortune's Rest](<../../cosmology/multiverse/echo-realms/feywild/fortune-s-rest.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
+    Based in [Fortune's Rest](<../../cosmology/multiverse/echo-realms/feywild/fortune-s-rest.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
 </div>
 
 

@@ -9,6 +9,8 @@ species: korred
 ancestry:
 gender: male
 whereabouts: Crystal Peak
+affiliations:
+- {org: Crystal Peak, title: Guardian}
 title: Illaran
 ---
 # Illaran
@@ -16,14 +18,15 @@ title: Illaran
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A korred (he/him)  
+    Guardian of the [Crystal Peak](<../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>)  
     { .bio }
 
-    Based in the [Crystal Peak](<../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
+    Based in the [Crystal Peak](<../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 1st, 1748 in the [Crystal Peak](<../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 1st, 1748 in the [Crystal Peak](<../../cosmology/multiverse/echo-realms/feywild/crystal-peak.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)  
 
 
 Illaran, the guardian of Crystal Peak in the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), is a whimsical fey who wields power over the very stones of his domain.

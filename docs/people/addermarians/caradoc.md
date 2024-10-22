@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/internal]
 species: human
 gender: male
 born: 1689
+dm_notes: none
+dm_owner: tim
 title: Caradoc
 ---
 # Caradoc
@@ -15,5 +17,8 @@ title: Caradoc
     { .bio }
 
 </div>
+
+
+
 
 

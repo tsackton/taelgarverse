@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external]
+tags: [person]
 name: Symone Barbet
 born: 1683-11-15
 species: human
@@ -11,6 +11,8 @@ aliases: [Major Symone Barbet]
 affiliations:
 - {org: Dunfry Regiment, type: leader}
 whereabouts: Barony of Dunfry
+dm_notes: none
+dm_owner: mike
 ---
 # Major Symone Barbet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,3 +27,4 @@ whereabouts: Barony of Dunfry
 </div>
 
 
+An important military leader in [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>). She has a tendency to work within the hierarchy and prefers following the rules and working within the chain of command.

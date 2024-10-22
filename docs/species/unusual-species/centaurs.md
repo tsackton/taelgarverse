@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 aliases: [centaur, Centaur]
 tags: [species]
+dm_notes: none
+dm_owner: none
 title: Centaurs
 ---
 # Centaurs
@@ -28,4 +30,4 @@ Centaurs usually do not worship gods, giving thanks and prayers to the world its
 Their veneration of Taelgar also manifests itself in other ways. Many centaurs feel uneasy when they are not in contact with the ground, so second stories, ships, and even buildings with stone floors may make them uncomfortable. Centaurs tend to have a very light touch on the land, generally building no buildings and plowing no fields. Centaurs gather food from the land, trusting the bounty of the world to sustain them on their long migrations, supplemented with trade.
 
 Many centaurs exploit this connection with the world of Taelgar to read the signs and echos and portents in the world, and other species often seek out centaurs for their skill in prophecy and divination. 
-    
+

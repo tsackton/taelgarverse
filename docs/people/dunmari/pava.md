@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/needswork/external, status/metadata/header]
 campaignInfo:
 - {campaign: DuFr}
 name: Pava
@@ -12,6 +12,8 @@ affiliations: [Order of the Awakened Soul]
 whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Pava and Avaras' House}
+dm_notes: important
+dm_owner: tim
 title: Pava
 ---
 # Pava
@@ -26,6 +28,8 @@ title: Pava
     Originally from: the [plains of Songara](<../../gazetteer/greater-dunmar/dunmari-basin/songara-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
     Based in [Pava and Avaras' House](<../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
 </div>
+
+
 
 
 A master of the Order of the Awakened Soul, an old man, bald, with striking blue eyes and surprising agility.

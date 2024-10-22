@@ -6,6 +6,8 @@ born: 1698
 species: human
 gender: male
 whereabouts: Cleenseau
+dm_owner: none
+dm_notes: color
 title: Matteo Ausson
 ---
 # Matteo Ausson

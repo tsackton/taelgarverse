@@ -5,6 +5,8 @@ whereabouts: Asineau
 gender: female
 species: human
 ancestry: Sembaran
+dm_notes: color
+dm_owner: mike
 title: Susanna Northwoods
 ---
 # Susanna Northwoods

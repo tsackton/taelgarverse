@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [historical, person]
-campaignInfo: []
 name: Annabeth
 born: 1600
 species: human
@@ -10,6 +9,8 @@ gender: female
 died: 1675
 affiliations:
 - {org: House of Lils, type: primary}
+dm_notes: none
+dm_owner: none
 title: Annabeth
 ---
 # Annabeth

@@ -5,6 +5,8 @@ whereabouts: Cleenseau
 gender: female
 species: human
 ancestry: Zimka
+dm_notes: none
+dm_owner: none
 title: Elaine
 ---
 # Elaine

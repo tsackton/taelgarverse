@@ -1,10 +1,12 @@
 ---
-tags: [status/needswork/notes, species]
+tags: [status/needswork/shared, species]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven]
 title: Elves
 ---
 # Elves
+
+
 
 >[!quote] Memories of the First, Elven Oral Tradition
 >*In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and life in the world for the first time. Behold! For we are the First.*

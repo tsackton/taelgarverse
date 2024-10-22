@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person/ruler]
+tags: [person/ruler, status/update]
 born: 1659
 species: human
 ancestry: Sembaran
@@ -9,6 +9,8 @@ title: Duke Jacques Bellemont
 whereabouts: Duchy of Wisford
 affiliations:
 - {type: leader, org: Duchy of Wisford, start: 1700}
+dm_notes: important
+dm_owner: mike
 ---
 # Jacques Bellemont
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

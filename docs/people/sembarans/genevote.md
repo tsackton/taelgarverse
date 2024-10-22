@@ -5,6 +5,8 @@ gender: female
 whereabouts: Cleenseau
 species: human
 ancestry: Isinguer
+dm_notes: none
+dm_owner: none
 title: Genevote
 ---
 # Genevote

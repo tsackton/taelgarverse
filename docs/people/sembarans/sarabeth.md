@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person]
 campaignInfo:
 - {campaign: clee}
 name: Sarabeth
@@ -14,6 +14,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Dunfry}
 - {type: home, location: Cleenseau}
+dm_notes: none
+dm_owner: none
 title: Sarabeth
 ---
 # Sarabeth
@@ -31,4 +33,4 @@ title: Sarabeth
 </div>
 
 
-A senior guardswoman under [Ysabel](<./ysabel.md>) and veteran of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>).
+A senior guardswoman under [Ysabel](<./ysabel.md>) and veteran of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>). She was wounded twice during the Undead Attacks in Sembara.

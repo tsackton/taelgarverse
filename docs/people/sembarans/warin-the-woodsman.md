@@ -8,6 +8,8 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts: Valit
+dm_notes: color
+dm_owner: mike
 title: Warin the Woodsman
 ---
 # Warin the Woodsman

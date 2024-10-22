@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/needswork/notes]
+tags: [person, testcase, status/update, status/needswork/external]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: imprisoned, format: '<met:U> by <person:Q> on <target>, in <current:3Qr>'}
 name: Antonia
@@ -16,6 +16,8 @@ whereabouts:
 - {type: away, start: 1748-11-10, location: Dunmar}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
 - {type: home, location: Chardon}
+dm_notes: important
+dm_owner: tim
 title: Antonia
 ---
 # Antonia
@@ -38,11 +40,14 @@ title: Antonia
 :octicons-location-24:{ .lg .middle } Imprisoned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 8th, 1748, in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/notable-items/mirror-of-soul-trapping.md>), [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>)  
 
 
+
+
 ![Antonia Portrait](../../assets/antonia-portrait.jpg){align="right"; width="320"}A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 
 
 Seemed to have mixed feelings about [Kadmos](<./kadmos.md>) actions to charm the party in [Session 44 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-44-dufr.md>), and was not involved in the battle in [Session 45 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-45-dufr.md>). 
 
 As far as you know, still traveling with [Kadmos](<./kadmos.md>). 
+
 
 

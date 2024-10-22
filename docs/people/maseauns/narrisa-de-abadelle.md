@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/needswork/wip]
 name: Narrisa de Abadelle
 born: 1682
 species: human
@@ -8,6 +8,8 @@ ancestry: Sembaran
 gender: female
 affiliations: [Order of the Charitable Wanderer]
 whereabouts: Duchy of Maseau
+dm_notes: important
+dm_owner: mike
 title: Narrisa de Abadelle
 ---
 # Narrisa de Abadelle

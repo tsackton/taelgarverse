@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/notes]
+tags: [historical, person/ruler, status/needswork/internal]
 name: Blanche I
 born: 1538
 species: human
@@ -14,6 +14,8 @@ affiliations:
 - {place: Lavnoch, title: High Queen, start: 1561-02-13}
 - {place: Breva, title: High Queen, start: 1561-02-13}
 - {org: House of Sewick, type: primary}
+dm_notes: none
+dm_owner: none
 ---
 # Queen Blanche I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

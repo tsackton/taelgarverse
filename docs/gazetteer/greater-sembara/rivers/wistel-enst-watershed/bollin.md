@@ -3,9 +3,12 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: the}
 name: Bollin
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: Greater Sembara
 aliases: [Bollin River, River Bollin]
+dm_notes: none
+dm_owner: none
 title: Bollin
 ---
 # The Bollin

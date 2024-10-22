@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/refactor]
+tags: [person, status/metadata/refactor]
 name: Agon
 born: 1694
 activeYear: 1745
@@ -10,6 +10,8 @@ gender: male
 affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
+dm_notes: important
+dm_owner: tim
 title: Agon
 ---
 # Agon

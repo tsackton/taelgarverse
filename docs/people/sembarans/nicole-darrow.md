@@ -7,6 +7,8 @@ gender: female
 born: 1700
 died: 1719-10-21
 whereabouts: Taviose
+dm_owner: none
+dm_notes: none
 title: Nicole Darrow
 ---
 # Nicole Darrow

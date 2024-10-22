@@ -11,7 +11,7 @@ title: Medusa Blade
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Cursed Sword__  
    Destroyed November 20th, 1748  
-   Was owned by [Havdar](<../../../../people/dunmari/havdar.md>), with Havdar's Warband  
+   Was owned by [Havdar](<../../../../people/dunmari/havdar.md>), with [Havdar's Warband](<../../../../groups/havdar-s-warband.md>)  
 </div>
 
 

@@ -10,6 +10,8 @@ species: human
 aliases: [Adèle Laurent]
 ancestry: Isinguer
 gender: female
+dm_notes: none
+dm_owner: none
 title: Adèle Laurent
 ---
 # Adèle Laurent
@@ -24,4 +26,5 @@ title: Adèle Laurent
     Originally from: Unknown
     Lived in [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
+
 

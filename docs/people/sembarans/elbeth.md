@@ -10,6 +10,8 @@ whereabouts:
 - {type: home, location: Asineau}
 affiliations:
 - {org: Asineau Manor Guard, title: Guardsman}
+dm_notes: none
+dm_owner: none
 title: Elbeth
 ---
 # Elbeth

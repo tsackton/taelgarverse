@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/needswork/external]
+tags: [organization/family]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Gemcrafters
@@ -8,6 +8,8 @@ typeOf: clan
 ancestry: dwarven
 aliases: [Barzinduk]
 whereabouts: Nidzahar
+dm_notes: none
+dm_owner: mike
 title: Gemcrafters
 ---
 # The Gemcrafters

@@ -8,6 +8,8 @@ gender: male
 whereabouts:
 - {type: home, location: Embry, end: 1699}
 - {type: home, location: Cleenseau, start: 1700}
+dm_notes: none
+dm_owner: none
 title: Geoffrey Save
 ---
 # Geoffrey Save

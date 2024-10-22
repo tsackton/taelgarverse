@@ -8,6 +8,8 @@ ancestry: Sembaran
 whereabouts:
 - {type: home, location: Gowerbourne}
 - {type: home, location: Asineau}
+dm_notes: color
+dm_owner: mike
 title: El
 ---
 # El

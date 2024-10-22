@@ -20,7 +20,7 @@ title: Vondar
     { .bio }
 
     Originally from: Unknown
-    Based in [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
+    Based in [Amberglow](<../../cosmology/multiverse/echo-realms/feywild/amberglow.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
 </div>
 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes, status/image]
+tags: [person, status/needswork/internal, status/check/tim, status/metadata/image, status/update]
 name: Candrosa
 born: 1715
 species: human

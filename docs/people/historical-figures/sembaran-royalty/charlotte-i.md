@@ -16,6 +16,8 @@ leaderOf:
 - {place: Breva, start: 1506}
 affiliations:
 - {org: House of Sewick, type: primary}
+dm_notes: none
+dm_owner: none
 ---
 # Queen Charlotte I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

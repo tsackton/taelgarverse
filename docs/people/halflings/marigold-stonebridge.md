@@ -15,6 +15,8 @@ ancestry: Sembaran
 gender: female
 whereabouts:
 - {type: home, location: Cleenseau}
+dm_notes: color
+dm_owner: mike
 title: Marigold Stonebridge
 ---
 # Marigold Stonebridge

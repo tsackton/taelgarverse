@@ -13,14 +13,16 @@ affiliations:
 whereabouts:
 - {type: home, location: Embry}
 - {type: away, start: 1719-11-07, end: 1719-11-22, location: Cleenseau}
+dm_notes: none
+dm_owner: none
 title: Vincent de Arban
 ---
 # Vincent de Arban
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the Garay Family  
-    Born May 18th, 1677 (71 years old)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the [Garay Family](<../../groups/garay-family.md>)  
+    Born May 18th, 1677 (72 years old)  
     { .bio }
 
     Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

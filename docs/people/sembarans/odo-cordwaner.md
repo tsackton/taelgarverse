@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/update]
 campaignInfo:
 - {campaign: clee}
 name: Odo Cordwaner
@@ -16,6 +16,8 @@ whereabouts:
 - {type: home, location: Cleenseau, start: 1718}
 - {type: away, start: 1719-10-21, end: 1719-10-23, location: Taviose}
 - {type: home, start: 1719-11-16, location: Taviose}
+dm_owner: mike
+dm_notes: color
 title: Odo Cordwaner
 ---
 # Odo Cordwaner
@@ -40,4 +42,6 @@ Investigation determined that he was not malicious, but just careless. In the ex
 He has since developed a romantic attachment to [Abigail Moss](<./abigail-moss.md>), and has come to believe that his mistake was the hand of [The Warlord](<../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>), setting him on a path to find his true calling (and setting the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on the path to become heroes).
 
 His family is based in [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), but he left home at 18 to join the army, being the youngest of five children and with no interest in farming.
+
+
 

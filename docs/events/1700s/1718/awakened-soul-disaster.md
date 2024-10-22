@@ -1,5 +1,5 @@
 ---
-tags: [event-source, status/tim]
+tags: [event-source, status/check/tim]
 DR: 1718
 title: Awakened Soul Disaster
 ---

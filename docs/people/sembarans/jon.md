@@ -9,6 +9,8 @@ gender: male
 affiliations:
 - {org: Lord's Guard of Cleenseau, type: Gateguard}
 whereabouts: Cleenseau
+dm_notes: none
+dm_owner: none
 title: Jon
 ---
 # Jon

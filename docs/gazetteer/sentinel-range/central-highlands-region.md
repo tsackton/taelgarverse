@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/reformat]
+tags: [place, status/cleanup/internal]
 displayDefaults: {defArt: ''}
 name: Central Highlands Region
 typeOf: region
-partOf: Taelgar
+whereabouts: Taelgar
 title: Central Highlands Region
 ---
 # Central Highlands Region

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header]
+tags: [person, status/metadata/header]
 campaignInfo: []
 name: Aram
 born: 1717
@@ -18,13 +18,13 @@ title: Aram
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Born DR 1717 (32 years old)  
-    Member of Havdar's Warband  
+    Member of [Havdar's Warband](<../../groups/havdar-s-warband.md>)  
     { .bio }
 
-    Based with Havdar's Warband
+    Based with [Havdar's Warband](<../../groups/havdar-s-warband.md>)
 </div>
 
 
 
 
-A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/aagir.md>) in [Havdar](<./havdar.md>)'s service, and unofficial spiritual leader of Havdar's Warband.
+A holy warrior of [Aagir](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/aagir.md>) in [Havdar](<./havdar.md>)'s service, and unofficial spiritual leader of [Havdar's Warband](<../../groups/havdar-s-warband.md>).

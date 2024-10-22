@@ -11,6 +11,8 @@ ancestry: Sembaran
 gender: female
 whereabouts:
 - {type: home, location: Cleenseau}
+dm_owner: none
+dm_notes: none
 title: Oudine
 ---
 # Oudine

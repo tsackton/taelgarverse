@@ -22,3 +22,4 @@ title: Taurion's Manual of Stone Golems
 
 
 ![Taurion Manual of Golems](../../../../assets/taurion-manual-of-golems.jpg){width="right"}
+

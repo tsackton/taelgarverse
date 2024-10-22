@@ -32,8 +32,6 @@ The Dunmar Fellowship battles chaos elementals in a cave and learns of the jungl
 ### Timeline
 - May 16, 1749 DR, late afternoon: Explore the cave of talking bats. Navigate through chaotic elemental dangers, fight and kill chaos elementals. Speak with talking fruit bats. Learn about Canopy. Visit site where the bat [Pip](<../../../people/other-nonhumans/pip.md>) found the last piece of jade. 
 - May 16, 1749 DR, early evening: Decide to travel east in [Vindristjarna](<../../../things/ships/vindristjarna.md>) towards Canopy. Arrive after an hour's journey as the sun sets, scout and find a tangled mass of thorns around the tree known as Canopy or Eldest. Prepare to fight.
-
-
 ## Narrative
 Our session begins aboard the airship [Vindristjarna](<../../../things/ships/vindristjarna.md>), floating above the jungle coastline near the [Sea of Storms](<../../../gazetteer/greater-dunmar/sea-of-storms.md>), above a cliff in which a small cave can be seen, the last known location of the final [Jade Piece of Rai's Hand](<../treasure/notable-items/jade-piece-of-rai-s-hand.md>). Scouting, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) senses a variety of minds across the jungle, including scared creatures in the cave; [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), luring in a vulture and using it to scout, find a large tree entangled with thorny vines to the east. 
 

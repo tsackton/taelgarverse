@@ -5,6 +5,8 @@ name: Barony of Aveil
 typeOf: barony
 whereabouts: Sembara
 pronunciation: Ah-veh-eel
+dm_notes: color
+dm_owner: mike
 title: Barony of Aveil
 ---
 # The Barony of Aveil

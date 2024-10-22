@@ -33,7 +33,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - Realizing they're still dreaming and slowly freezing to death, they wake up for real and warm themselves before gathering information at Hralgar's library and departing.
 
 ### Timeline
-- Nov 24, 1748 DR, afternoon: Venture to the library, and find their way to the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>), where they encounter the tricks of Kurome. Recover the phasing stone, returning to a dream version of the real world. Wake themselves up before freezing to death. Record information from [Hralgar](<../../../people/giants/hralgar.md>)'s library about skyships. Depart to return to the crash of [Vindristjarna](<../../../things/ships/vindristjarna.md>) at dusk, with [Hralgar](<../../../people/giants/hralgar.md>)'s wind blessing.
+- Nov 24, 1748 DR, afternoon: Venture to the library, and find their way to the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>), where they encounter the tricks of [Kurome](<../../../people/other-nonhumans/kurome.md>). Recover the phasing stone, returning to a dream version of the real world. Wake themselves up before freezing to death. Record information from [Hralgar](<../../../people/giants/hralgar.md>)'s library about skyships. Depart to return to the crash of [Vindristjarna](<../../../things/ships/vindristjarna.md>) at dusk, with [Hralgar](<../../../people/giants/hralgar.md>)'s wind blessing.
 
 ## Narrative
 We begin as the party finishes a short rest, warmed by [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s hot drinks. During the rest, visions of the cold thoughts and memories of the ice maiden, recently killed, haunt the visions of the party.

@@ -1,14 +1,17 @@
 ---
-tags: [item/magical, status/needswork]
+headerVersion: 2023.11.25
+tags: [item/magical]
 typeOf: staff
 whereabouts: Kenzo
 rarity: unique
 title: Staff of the Forest Soul
 ---
 # The Staff of the Forest Soul
->[!info]+ Information
-> (unique magical staff)
->> 
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Unique Staff__  
+   Owned by [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>)  
+</div>
+
 
 This staff was constructed by [Kenzo](<../../../../people/pcs/dunmar-fellowship/kenzo.md>) from a branch of the ancient elven tree in [Tokra](<../../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), a relative of the massive trees called God trees by the Deno’qai of the [Elderwood](<../../../../gazetteer/chasa-nahadi-watershed/elderwood.md>). This staff is a +1 magic quarterstaff. While attuned, this staff has the following additional functions:
 

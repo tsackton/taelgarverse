@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header, status/needswork/internal]
+tags: [person, status/metadata/header, status/needswork/internal]
 campaignInfo: []
 name: Alesh
 born: 1727
@@ -37,7 +37,7 @@ title: Alesh
 - Friendly with most people of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), but fairly independent and not particularly associated with either [Havdar](<./havdar.md>)'s warriors or [Candrosa](<./candrosa.md>) and the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>). Finds [Havdar](<./havdar.md>) a bit brash. 
 - Knows by sight and name, if not well, many of the families that travel across the eastern plains of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 - Her extended family are traditional goat herders who travel mostly to the north and west of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
-- Served as a scout and messenger for [Sura](<./sura.md>) during the lead up to the [Siblings War](<../../events/1700s/siblings-war.md>), although she did not fight in the conflict. 
+- Served as a scout and messenger for [Sura](<./sura.md>) during the lead up to the [Sibling War](<../../events/1700s/sibling-war.md>), although she did not fight in the conflict. 
 
 ## Chronology
 - Mar 21, 1748 DR: Spends the night at the [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) oasis with [Akan](<./akan.md>) and his family

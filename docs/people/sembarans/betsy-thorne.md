@@ -8,6 +8,8 @@ born: 1697
 whereabouts: Cleenseau
 affiliations:
 - {org: Lord's Guard of Cleenseau, title: Guardswoman}
+dm_notes: color
+dm_owner: mike
 title: Betsy Thorne
 ---
 # Betsy Thorne

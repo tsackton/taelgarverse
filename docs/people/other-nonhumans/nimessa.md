@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header]
+tags: [person, status/metadata/header]
 name: Nimessa
 born:
 species: elemental
@@ -16,7 +16,7 @@ title: Nimessa
     A marid [elemental](<../../species/children-of-the-riving/elementals/elementals.md>) (she/her)  
     { .bio }
 
-    Based in the [Elemental Plane of Water](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-water.md>), the [Energy Realms](<../../cosmology/multiverse/energy-realms/energy-realms.md>)
+    Based in the [Elemental Plane of Water](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-water.md>), the [Elemental Realms](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-realms.md>), the [Energy Realms](<../../cosmology/multiverse/energy-realms/energy-realms.md>)
 </div>
 
 

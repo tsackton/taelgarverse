@@ -5,6 +5,8 @@ gender: female
 species: human
 ancestry: Tollender
 died: 1715
+dm_notes: none
+dm_owner: none
 title: Rowena Chemare
 ---
 # Rowena Chemare

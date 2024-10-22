@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
 ancestry: Addermarian
-tags: [person, status/update]
+tags: [person, status/cleanup/external, status/metadata/header]
 species: human
 gender: male
 title: Sir Einrik Arpaad
+dm_notes: color
+dm_owner: none
 ---
 # Einrik Arpaad
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -15,4 +17,6 @@ title: Sir Einrik Arpaad
 
 </div>
 
+
+The commander of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>). 
 

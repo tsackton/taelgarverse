@@ -10,6 +10,8 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts: Taviose
+dm_notes: none
+dm_owner: none
 ---
 # Grandpa Remy Darrow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

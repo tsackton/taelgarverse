@@ -5,6 +5,8 @@ whereabouts: Cleenseau
 ancestry: Sembaran
 species: human
 born: 1700
+dm_notes: none
+dm_owner: none
 title: Gaston Tremaine
 ---
 # Gaston Tremaine

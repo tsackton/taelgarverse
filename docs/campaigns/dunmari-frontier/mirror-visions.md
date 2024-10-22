@@ -21,7 +21,7 @@
 - Sep 14, 1748 DR: Look at the [Mace of Terror](<treasure/notable-items/mace-of-terror.md>) in the [Mirror of the Past](<treasure/notable-items/mirror-of-the-past.md>): [Mace of Terror Vision](<mirror-visions/mace-of-terror-vision.md>) recharge mirror
 - Sep 22, 1748 DR: Look at [Hralgar's Eyes](<treasure/notable-items/hralgar-s-eyes.md>) in the [Mirror of the Past](<treasure/notable-items/mirror-of-the-past.md>): [Hralgar's Eyes Vision](<mirror-visions/hralgar-s-eyes-vision.md>). recharge mirror
 - Nov 15, 1748 DR A vision of [Cha'mutte’s Shadow Armband](<treasure/notable-items/cha-muttes-shadow-armband.md>) is seen in [Mirror of the Past](<treasure/notable-items/mirror-of-the-past.md>): [Cha'mutte Armband Vision](<mirror-visions/cha-mutte-armband-vision.md>) recharge mirror
-- Nov 24, 1748 DR: [Mirror of the Past](<treasure/notable-items/mirror-of-the-past.md>) used to look at the Enchiridion of the [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>), seeing the [Enchiridion of the Occulta Ludum Viision](<mirror-visions/enchiridion-of-the-occulta-ludum-viision.md>). recharge mirror
+- Nov 24, 1748 DR: [Mirror of the Past](<treasure/notable-items/mirror-of-the-past.md>) used to look at the Enchiridion of the Occulta Ludum, seeing the [Enchiridion of the Occulta Ludum Viision](<mirror-visions/enchiridion-of-the-occulta-ludum-viision.md>). recharge mirror
 - Dec 09, 1748 DR: Eudomes Mirror used to look at the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>): [Mantle of Protection Vision](<mirror-visions/mantle-of-protection-vision.md>) recharge mirror
 - Dec 23, 1748 DR: Use [Mirror of the Past](<treasure/notable-items/mirror-of-the-past.md>) on Urgall's helm: [Urgall's Helm Vision](<mirror-visions/urgall-s-helm-vision.md>) recharge mirror
 - Dec 30, 1748 DR: Use [Mirror of the Past](<treasure/notable-items/mirror-of-the-past.md>) on Urgall's note: [Urgall's Note Vision](<mirror-visions/urgall-s-note-vision.md>) recharge mirror
@@ -33,5 +33,6 @@
 - Mar 01, 1749 DR: The history of a white dragon tooth from [Ursk](<../../gazetteer/northern-green-sea/ursk.md>) is revealed in [Cecilia's White Dragon Tooth Vision](<mirror-visions/cecilia-s-white-dragon-tooth-vision.md>) recharge mirror
 - Mar 27, 1749 DR: [Vision](<mirror-visions/phasing-stone-vision.md>) of the [Phasing Stone](<../../things/magic-items/phasing-stones.md>) is revealed in the [Mirror of the Past](<treasure/notable-items/mirror-of-the-past.md>) recharge mirror
 - May 13, 1749 DR: The past of the dust from Seeker's doppleganger is [revealed](<mirror-visions/dust-from-seeker-s-doppleganger-vision.md>)( recharge:: mirror)
+- May 19, 1749 DR: Look at Apollyon's soulbinding manacles in the [Mirror of the Past](<treasure/notable-items/mirror-of-the-past.md>), seeing [Apollyon's Soulbinding Manacles Vision](<mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) recharge mirror
 
 

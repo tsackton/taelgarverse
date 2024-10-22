@@ -7,6 +7,8 @@ species: lizardfolk
 ancestry:
 gender: male
 whereabouts: Ganboa
+dm_notes: none
+dm_owner: none
 title: Koldo
 ---
 # Koldo

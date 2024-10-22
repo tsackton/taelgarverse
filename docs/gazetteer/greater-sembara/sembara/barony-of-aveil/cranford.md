@@ -6,6 +6,8 @@ pronunciation: Cran-ford
 typeOf: settlement
 population: 654
 typeOfAlias: town
+dm_notes: color
+dm_owner: none
 title: Cranford
 ---
 # Cranford
@@ -17,8 +19,6 @@ title: Cranford
 </div>
 
 
-A bustling village which has grown rapidly since 1681 when a bridge was built over the [Cranmère](<../../rivers/wistel-enst-watershed/cranmere.md>).
-
-It has a small unnamed inn which caters to travelers, and the temple of [The Warlord](<../../../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>) the was destroyed in the Undead Attacks in Sembara.
+A bustling village which has grown rapidly since 1681 when a bridge was built over the [Cranmère](<../../rivers/wistel-enst-watershed/cranmere.md>). It has a small unnamed inn which caters to travelers, and the temple of [The Warlord](<../../../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>) the was destroyed in the Undead Attacks in Sembara.
 
 The most prominent building is the large manor house with a elaborate garden, but second in prominence is the tollhouse complex by the bridge.

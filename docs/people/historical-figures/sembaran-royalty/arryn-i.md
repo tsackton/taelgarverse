@@ -12,6 +12,8 @@ affiliations:
 - {place: Sembara, start: 1592}
 - {place: Tyrwingha, start: 1592}
 died: 1600
+dm_notes: none
+dm_owner: none
 ---
 # King Arryn I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes, status/image]
+tags: [person, status/needswork/external, status/update, status/metadata/image]
 campaignInfo:
 name: Cintra
 born: 1705
@@ -22,6 +22,8 @@ title: Cintra
 
     Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
+
+
 
 
 Supreme Oracle of Shakun.

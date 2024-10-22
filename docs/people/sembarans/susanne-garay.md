@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external]
+tags: [person]
 name: Susanne Garay
 born: 1666
 species: human
 ancestry: Sembaran
 gender: female
 whereabouts: Embry
+affiliations:
+- {org: Garay Family, title: Matriarch}
+dm_notes: color
+dm_owner: mike
 title: Susanne Garay
 ---
 # Susanne Garay
@@ -15,6 +19,7 @@ title: Susanne Garay
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     Born DR 1666 (83 years old)  
+    Matriarch of the [Garay Family](<../../groups/garay-family.md>)  
     { .bio }
 
     Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

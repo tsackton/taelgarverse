@@ -24,7 +24,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 ## Session Info
 ### Summary
-- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) leaves [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) after securing their treasure in the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), and travels with Havdar's band into the desert.
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) leaves [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) after securing their treasure in the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), and travels with [Havdar's band](<../../../groups/havdar-s-warband.md>) into the desert.
 - Upon arriving in [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>), they find the town in ruins and meet [Amil](<../../../people/dunmari/amil.md>), a monk laying the dead to rest.
 - After helping [Amil](<../../../people/dunmari/amil.md>) and fending off giant vultures, the party parts ways with [Havdar](<../../../people/dunmari/havdar.md>) and heads to Amil's masters' [stone house](<../../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>).
 - On the way, they encounter and defeat three ogres before arriving at the stone house to meet [Pava](<../../../people/dunmari/pava.md>) and [Avaras](<../../../people/dunmari/avaras.md>).

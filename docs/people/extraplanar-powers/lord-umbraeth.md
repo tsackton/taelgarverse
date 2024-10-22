@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/needswork/shared]
 name: Lord Umbraeth
 excludePublish: [clee]
 species: fey
@@ -11,6 +11,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Twilight's Grace}
 - {type: home, location: Duskmire}
+dm_notes: color
+dm_owner: mike
 title: Lord Umbraeth
 ---
 # Lord Umbraeth
@@ -21,8 +23,8 @@ title: Lord Umbraeth
     Master of [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>)  
     { .bio }
 
-    Originally from: [Twilight's Grace](<../../cosmology/multiverse/echo-realms/feywild/twilight-s-grace.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
-    Based in [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
+    Originally from: [Twilight's Grace](<../../cosmology/multiverse/echo-realms/feywild/twilight-s-grace.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
+    Based in [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
 </div>
 
 

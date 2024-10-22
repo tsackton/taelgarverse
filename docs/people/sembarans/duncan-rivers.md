@@ -1,8 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
-campaignInfo:
-- {campaign: clee, type: helped, date: 1720-01-04}
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
@@ -10,6 +8,8 @@ born: 1672
 affiliations:
 - {org: The Bandit’s End, type: leader, title: Proprietor}
 whereabouts: The Bandit’s End
+dm_notes: none
+dm_owner: mike
 title: Duncan Rivers
 ---
 # Duncan Rivers
@@ -25,5 +25,8 @@ title: Duncan Rivers
 </div>
 
 
-
 ![Duncan Rivers](../../assets/duncan-rivers.png){align="right"; width="320"}A jovial barkeep and innkeeper, he is very fond of his inn and a little full of himself. He does not like asking for help very much, and rarely admits he needs it. He is suspicious of magic and speaks often of the "good old days" of Cece's reign.
+
+
+
+

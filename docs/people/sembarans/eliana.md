@@ -4,6 +4,8 @@ tags: [person]
 gender: female
 species: human
 whereabouts: Cleenseau
+dm_notes: none
+dm_owner: none
 title: Eliana
 ---
 # Eliana

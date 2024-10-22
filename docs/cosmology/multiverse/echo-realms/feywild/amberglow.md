@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/external]
 whereabouts: Feywild
 excludePublish: [clee]
 ancestry: fey
@@ -9,8 +9,10 @@ title: Amberglow
 ---
 # Amberglow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Fey](<../../../../species/children-of-the-riving/fey/fey.md>) realm in the [Feywild](<./feywild.md>), the Echo Realms  
+-    :octicons-location-24:{ .lg .middle } A [Fey](<../../../../species/children-of-the-riving/fey/fey.md>) realm in the [Feywild](<./feywild.md>), the [Echo Realms](<../echo-realms.md>), [Multiverse](<../../multiverse.md>)  
 </div>
+
+
 
 
 On the southern and eastern borders of [Shimmersong](<./shimmersong.md>) is the fey realm of Amberglow. Once a place of great beauty, a land of constant sunsets and golden skies on wide open plains of amber grasses and lush flowers, it has fallen into decay.

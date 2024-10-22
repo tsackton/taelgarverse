@@ -7,6 +7,8 @@ affiliations:
 gender: female
 species: human
 ancestry: Sembara
+dm_notes: none
+dm_owner: none
 title: Constance Farnham
 ---
 # Constance Farnham

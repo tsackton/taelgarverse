@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header]
+tags: [person, status/metadata/header]
 campaignInfo:
 - {campaign: DuFr, type: freed, date: 1749-01-08, wParty: '<met:u> from the <current:1> by <person> on <target>'}
 name: Sh’shethis
@@ -20,7 +20,7 @@ title: Sh’shethis
     An [elemental](<../../species/children-of-the-riving/elementals/elementals.md>)  
     { .bio }
 
-    Based in the [Elemental Plane of Air](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-air.md>), the [Energy Realms](<../../cosmology/multiverse/energy-realms/energy-realms.md>)
+    Based in the [Elemental Plane of Air](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-air.md>), the [Elemental Realms](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-realms.md>), the [Energy Realms](<../../cosmology/multiverse/energy-realms/energy-realms.md>)
 </div>
 
 

@@ -12,6 +12,8 @@ affiliations:
 - {org: House of Sewick, type: primary}
 - {place: Sembara, start: 1602}
 - {place: Tyrwingha, start: 1602}
+dm_notes: none
+dm_owner: none
 ---
 # King Arryn II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

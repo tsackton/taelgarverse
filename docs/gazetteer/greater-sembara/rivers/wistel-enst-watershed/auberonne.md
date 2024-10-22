@@ -6,6 +6,8 @@ typeOf: waterway
 typeOfAlias: river
 whereabouts: Barony of Aveil
 pronunciation: Oh-beh-ron
+dm_notes: none
+dm_owner: mike
 title: Auberonne
 ---
 # The Auberonne

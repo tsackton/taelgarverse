@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes, status/image]
+tags: [person, status/check/tim, status/metadata/image]
 campaignInfo:
 - {campaign: DuFr, date: 1748-06-30, type: first met}
 - {campaign: DuFr, date: 1748-07-16, type: began traveling, format: '<met:U> with <person> on <target> <current:2qr>'}
@@ -63,4 +63,6 @@ title: Johar
 
 
 Johar is a confidant and close friend of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s from the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). He works in the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), primary interested in documenting the miracles of [Laka](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/laka.md>), and the history of the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) and the community there. 
+
+
 

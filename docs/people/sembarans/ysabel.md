@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/update]
 campaignInfo:
 - {campaign: clee}
 name: Ysabel
@@ -13,6 +13,8 @@ affiliations:
 - {org: Lord's Guard of Cleenseau, title: Sheriff}
 whereabouts:
 - {type: home, location: Cleenseau}
+dm_notes: color
+dm_owner: mike
 title: Ysabel
 ---
 # Ysabel

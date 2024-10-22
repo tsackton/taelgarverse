@@ -11,6 +11,8 @@ died: 1719-11-03
 whereabouts:
 - {type: home}
 - {location: Cleenseau Region, type: home}
+dm_notes: none
+dm_owner: none
 title: Robert
 ---
 # Robert

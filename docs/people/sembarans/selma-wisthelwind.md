@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
-campaignInfo: []
+tags: [person]
 name: Selma Wisthelwind
 born: 1644
 species: human
@@ -13,6 +12,8 @@ whereabouts:
 - {type: home, location: Ardlas}
 - {type: home, start: 1709, end: 1711, location: Cleenseau}
 - {type: home, start: 1712, location: The Fox's Flagon}
+dm_notes: none
+dm_owner: mike
 title: Selma Wisthelwind
 ---
 # Selma Wisthelwind

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/notes]
+tags: [historical, person/ruler, status/check/minor]
 name: Derik I
 born: 1396
 species: human
@@ -13,6 +13,8 @@ affiliations:
 - {place: Sembara, start: 1429}
 - {place: Duchy of Telham, title: Duke, start: 1429}
 title: King Derik I
+dm_notes: none
+dm_owner: none
 ---
 # King Derik I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

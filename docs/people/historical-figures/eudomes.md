@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, dufr/aware, status/unknown]
+tags: [historical, person]
 campaignInfo: []
 name: Eudomes
 born:
 died: 1
 species: human
 ancestry: Drankorian
+affiliations:
+- {org: Occulta Ludum}
 gender: male
 title: Eudomes
 ---
@@ -16,6 +18,7 @@ title: Eudomes
 
     A [Drankorian](<../../history/drankorian-era/drankorian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
     Died  
+    Member of the Occulta Ludum  
     { .bio }
 
 </div>

@@ -12,6 +12,8 @@ affiliations:
 - {org: Lord's Guard of Cleenseau, start: 1719-11-23, title: Guardswoman}
 - {org: Lord's Guard of Cleenseau, start: 1720-01-11, title: Sheriff}
 whereabouts: Cleenseau
+dm_notes: color
+dm_owner: mike
 title: Béatrix Thorne
 ---
 # Béatrix Thorne

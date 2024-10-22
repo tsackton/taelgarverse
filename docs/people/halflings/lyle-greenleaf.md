@@ -29,7 +29,7 @@ title: Lyle Greenleaf
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 18th, 1748 at the [~Crossroads Caravanserai~](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/crossroads-caravanserai.md>), ~AncientWestRoad~  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 18th, 1748 at the [~Crossroads Caravanserai~](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/crossroads-caravanserai.md>), on the [Stoneway](<../../gazetteer/greater-dunmar/roads/stoneway.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 A halfling wanderer, traveling with only his brother. 

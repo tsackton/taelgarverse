@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/cleanup/external, status/metadata/header]
 species: human
 gender: male
 title: Marshal Hildo Brask
 ancestry: Addermarian
+dm_notes: color
+dm_owner: none
 ---
 # Hildo Brask
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

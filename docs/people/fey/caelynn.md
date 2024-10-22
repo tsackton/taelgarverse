@@ -20,7 +20,7 @@ title: Caelynn the Seer
     A [fey](<../../species/children-of-the-riving/fey/fey.md>) (she/her)  
     { .bio }
 
-    Originally from: [Dreamhaven](<../../cosmology/multiverse/echo-realms/feywild/dreamhaven.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
+    Originally from: [Dreamhaven](<../../cosmology/multiverse/echo-realms/feywild/dreamhaven.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
     Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
 </div>
 

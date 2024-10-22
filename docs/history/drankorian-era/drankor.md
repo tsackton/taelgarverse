@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
 whereabouts: Drankorian Empire
-tags: [status/needswork/notes, place]
+tags: [place]
 typeOf: city
+dm_notes: important
+dm_owner: tim
 title: Drankor
 ---
 # Drankor
@@ -12,4 +14,3 @@ title: Drankor
 
 
 The ruined city that was the heart of the vast and powerful [Drankorian Empire](<./drankorian-empire.md>). 
-

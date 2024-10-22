@@ -7,6 +7,8 @@ gender: male
 whereabouts:
 - {type: home, location: Asineau, end: 1715}
 born: 1662
+dm_notes: important
+dm_owner: mike
 title: Lucas Asa
 ---
 # Lucas Asa
@@ -23,4 +25,4 @@ title: Lucas Asa
 :octicons-location-24:{ .lg .middle } Last known location (as of DR 1715): [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>), the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 
 
-The heir of Sarabeth Asa and biological child of the Valbert family in Embry. He disappeared, along with his three grown children, in 1715. His father's family inherited the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>) on his disappearance after a lengthy legal dispute, and ended up nominating a cousin, [Lorin Valbert](<./lorin-valbert.md>), for lord.
+The heir of [Sarabeth Asa](<./sarabeth-asa.md>) and biological child of the Valbert family in Embry. He disappeared, along with his three grown children, in 1715. His father's family inherited the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>) on his disappearance after a lengthy legal dispute, and ended up nominating a cousin, [Lorin Valbert](<./lorin-valbert.md>), for lord.

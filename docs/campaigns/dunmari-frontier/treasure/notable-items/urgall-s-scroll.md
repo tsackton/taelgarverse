@@ -12,7 +12,7 @@ title: Urgall's Scroll
 
 A ciphered scroll, recovered from the captain's cabin on the [Flaming Tempest](<../../../../things/ships/flaming-tempest.md>), in the hand of [Urgall the Black](<../../../../people/skaer/urgall-the-black.md>). It reads, in translation:
 
->The words of Mashtu the Corruptor, who has given me power over the ocean, recorded here in secret least I forget my purpose. 
+>The words of [Mashtu the Corruptor](<../../../../people/extraplanar-powers/mashtu-the-corruptor.md>), who has given me power over the ocean, recorded here in secret least I forget my purpose. 
 >
 >[Urgall](<../../../../people/skaer/urgall-the-black.md>), the voice said. You will go to the sacred places on these seas: the holy wells of Parmo, the sacred waters of [Vetta](<../../../../gazetteer/western-green-sea/skaerhem/vetta.md>), the waters beneath Quanyi, the ancient temple among the ruins of Nkasa, the blessed springs of Beresa, and the sunken garden of Inulvis.
 >

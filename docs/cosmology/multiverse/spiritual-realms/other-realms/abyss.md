@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork]
+tags: [place, status/needswork/rethink]
 whereabouts: Spiritual Realms
 typeOf: plane
 title: Abyss
@@ -12,4 +12,5 @@ title: Abyss
 
 
 The realm of corruption and chaos, home of demons. 
+
 

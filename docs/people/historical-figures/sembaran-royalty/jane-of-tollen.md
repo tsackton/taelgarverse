@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/unknown]
+tags: [historical, person/ruler]
 campaignInfo: []
 name: Jane of Tollen
 born: 1504
@@ -14,6 +14,8 @@ leaderOf:
 - {place: Lavnoch, title: Queen Regent, end: 1555}
 - {place: Breva, title: Queen Regent, end: 1555}
 died: 1559
+dm_notes: none
+dm_owner: none
 title: Jane of Tollen
 ---
 # Jane of Tollen
@@ -29,4 +31,6 @@ title: Jane of Tollen
 </div>
 
 
-The second wife of [Derik III](<./derik-iii.md>), from a powerful and rich merchant family in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>).
+The second wife of [Derik III](<./derik-iii.md>), from a powerful and rich merchant family in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>). She was Queen Regent in the immediate aftermath of the Great War, and history has not always been kind to her reign. Many consider her short-sighted and overly concerned with promoting her son, [Bertram I](<./bertram-i.md>), at the expense of his older half-siblings, [Reginald](<./reginald.md>) and [Hugh](<./hugh-of-sewick.md>). Others argue that her intelligence and careful stewardship of the throne prevented further deterioration of Sembara in the aftermath of the [Great War](<../../../events/1500s/great-war.md>).
+
+All agree that she was shrewd, at times spiteful, and always economical. She was known for her dislike of waste: wasted effort, wasted money, wasted time.

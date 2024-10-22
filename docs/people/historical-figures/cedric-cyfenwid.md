@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/needswork/notes]
+tags: [person, historical, status/cleanup/internal]
 name: Cedric Cyfenwid
 born: 1598
 species: human
 ancestry: Sembaran
 gender: male
 died: 1674
+dm_notes: none
+dm_owner: mike
 title: Cedric Cyfenwid
 ---
 # Cedric Cyfenwid
@@ -21,3 +23,4 @@ title: Cedric Cyfenwid
 
 
 Paladin of the Wyrdling for Tyrwingha.
+

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/internal]
 name: Adra Brightwood
 born:
 species: halfling
@@ -12,6 +12,8 @@ affiliations:
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, location: Champimont}
+dm_notes: none
+dm_owner: none
 title: Adra Brightwood
 ---
 # Adra Brightwood
@@ -29,5 +31,7 @@ title: Adra Brightwood
 
 
 ![Adra Brightwood](../../assets/adra-brightwood.jpg){align="right"; width="400"} A wanderer, woodswalker, and skilled swordswoman. Cousin of [Enzo Brightwood](<./enzo-brightwood.md>).
+
+
 
 

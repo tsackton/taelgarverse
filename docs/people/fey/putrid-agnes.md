@@ -18,7 +18,7 @@ title: Putrid Agnes
     A [fey](<../../species/children-of-the-riving/fey/fey.md>) (hag)  
     { .bio }
 
-    Originally from: the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
+    Originally from: the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>), [Multiverse](<../../cosmology/multiverse/multiverse.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of May 3rd, 1749): [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>), the Northern Green Sea

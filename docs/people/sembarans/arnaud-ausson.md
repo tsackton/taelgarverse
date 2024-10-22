@@ -8,6 +8,8 @@ born: 1674
 whereabouts:
 - {type: home, location: Laicon, end: 1698}
 - {type: home, location: Cleenseau, start: 1699}
+dm_notes: none
+dm_owner: none
 title: Arnaud Ausson
 ---
 # Arnaud Ausson

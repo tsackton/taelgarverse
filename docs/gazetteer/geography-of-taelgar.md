@@ -11,7 +11,7 @@ The ~Northern Continent~, is surrounded by four major bodies of water, which lar
 * To the west, the [Endless Ocean](<endless-ocean/endless-ocean.md>) stretches for thousands of miles of trackless oceans
 * To the south, along the south coast of [Dunmar](<greater-dunmar/realms/dunmar/dunmar.md>), the [Sea of Storms](<greater-dunmar/sea-of-storms.md>) stretches south and west, to the shattered shores of the ancient, now sunken, continent of Hkar. What lies south of the Sea of Storms is not known: the remains of the ~Southern Continent~, a trackless ~Southern Ocean~, or something stranger and more mysterious? 
 * To the north is an icy, cold place where few travel, of frozen tundra and large forests. 
-* To the east, the ~Eastern Ocean~ is separated from the [Green Sea](<./green-sea.md>) by the mysterious ~Eastern Islands~. 
+* To the east, the ~Eastern Ocean~ is separated from the [Green Sea](<./green-sea.md>) by the mysterious [~Eastern Islands~](<eastern-green-sea/eastern-islands.md>). 
 
 The ~Northern Continent~ is marked by four major, continent scale features:
 * In the east, the [Green Sea](<./green-sea.md>) extends from the ~Eastern Ocean~ to nearly the middle of the continent, forming a great sea stretching 3000 miles from end to end. 
@@ -28,7 +28,7 @@ Broadly then, the known world can be divided up into several major regions:
 - The [West Coast Region](<west-coast/west-coast-region.md>), stretching from the the [Endless Ocean](<endless-ocean/endless-ocean.md>) to the [Sentinel Range](<sentinel-range/sentinel-range.md>) and including the coastal islands in the Endless Sea
 
 - The [Western Green Sea Region](<western-green-sea/western-green-sea-region.md>), stretching from the [Sentinels](<sentinel-range/sentinel-range.md>) west to [Irrla](<eastern-green-sea/irrla.md>) in the [Green Sea](<./green-sea.md>)
-- The [Eastern Green Sea Region](<eastern-green-sea/eastern-green-sea-region.md>)], stretching from [Irrla](<eastern-green-sea/irrla.md>) east to the mysterious ~Eastern Islands~
+- The [Eastern Green Sea Region](<eastern-green-sea/eastern-green-sea-region.md>)], stretching from [Irrla](<eastern-green-sea/irrla.md>) east to the mysterious [~Eastern Islands~](<eastern-green-sea/eastern-islands.md>)
 * The [Far North](<far-north/far-north.md>), covering the frozen north 
 * The [Far South](<far-south/far-south.md>), stretching from the ~Great Desert~ south to the ~Southern Ocean~
 * The [Greater Dunmar](<greater-dunmar/greater-dunmar.md>), stretching from the southern end of [Sentinels](<sentinel-range/sentinel-range.md>) to the [Sea of Storms](<greater-dunmar/sea-of-storms.md>)

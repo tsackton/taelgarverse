@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/needswork/notes]
+tags: [pc, person, pc/guest]
 campaignInfo:
 name: Drikod
 born:
@@ -24,7 +24,7 @@ title: Drikod
 </div>
 
 
-![Drikod Portrait](../../../../assets/drikod-portrait.jpg)
+![Drikod Portrait](../../../../assets/drikod-portrait.jpg){align="right"; width="400"}A stoneborn druid who spent some time investigating troubles in Dunmar. 
 
 ## Pre-Campaign Events
 

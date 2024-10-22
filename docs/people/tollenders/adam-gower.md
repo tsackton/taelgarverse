@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 species: human
 name: Adam Gower
 gender: male
@@ -19,5 +19,4 @@ title: Adam Gower
 </div>
 
 
-Factor, treasurer, and agent for the Dunmar Fellowship in Tollen
-
+Factor, treasurer, and agent for the[Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Tollen

@@ -1,8 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: Borderlands
+dm_notes: none
+dm_owner: none
 title: Clavert
 ---
 # Clavert
@@ -11,4 +14,4 @@ title: Clavert
 </div>
 
 
-The Clavert River flows north from [Westcliff](<../../addermarch/westcliff.md>) to the [Enst](<./enst.md>).
+The Clavert River flows north from [Westcliff](<../../addermarch/westcliff.md>) to the [Enst](<./enst.md>). 

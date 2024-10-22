@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/refactor]
+tags: [person, status/metadata/refactor]
 name: Camana
 born: 1721
 species: human
@@ -19,7 +19,7 @@ title: Camana
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
     b. DR 1721 - d. May 5th, 1748, died at age 27 years  
-    Member of Havdar's Warband (until May 5th, 1748)  
+    Member of [Havdar's Warband](<../../groups/havdar-s-warband.md>) (until May 5th, 1748)  
     { .bio }
 
     Lived in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

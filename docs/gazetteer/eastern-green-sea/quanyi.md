@@ -8,7 +8,7 @@ title: Quanyi
 ---
 # Quanyi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An island in the ~Eastern Islands~, the [Green Sea](<../green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } An island in the [~Eastern Islands~](<./eastern-islands.md>), the [Green Sea](<../green-sea.md>)  
 </div>
 
 

@@ -18,4 +18,4 @@ title: Silverspark Gauntlets
 </div>
 
 
-The gauntlets carried by [Nora Silverspark](<../../../../people/dwarves/nora-silverspark.md>), gifted to [Riswynn](<../../../../people/pcs/dunmar-fellowship/riswynn.md>) in thanks for putting Nora’s soul to rest and helping the [Dwarves](<../../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) trapped in [Morkalan](<../../../../cosmology/multiverse/echo-realms/shadowfell/morkalan.md>).
+The gauntlets carried by [Nora Silverspark](<../../../../people/dwarves/nora-silverspark.md>), gifted to [Riswynn](<../../../../people/pcs/dunmar-fellowship/riswynn.md>) in thanks for putting Nora’s soul to rest and helping the [Dwarves](<../../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) trapped in [Morkalan](<../../../../cosmology/multiverse/echo-realms/shadowfolds/morkalan.md>).

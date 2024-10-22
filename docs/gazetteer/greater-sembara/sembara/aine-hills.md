@@ -5,6 +5,8 @@ campaignInfo:
 name: Aine Hills
 typeOf: line of hills
 whereabouts: Highlands
+dm_notes: none
+dm_owner: none
 title: Aine Hills
 ---
 # The Aine Hills

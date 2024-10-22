@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal, status/tim]
+tags: [person, status/needswork/internal, status/needswork/external]
 campaignInfo:
 name: Azar
 born:

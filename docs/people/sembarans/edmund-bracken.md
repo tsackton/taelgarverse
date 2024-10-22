@@ -6,6 +6,8 @@ species: human
 ancestry: Sembaran
 gender: male
 born: 1686
+dm_notes: none
+dm_owner: none
 title: Edmund Bracken
 ---
 # Edmund Bracken

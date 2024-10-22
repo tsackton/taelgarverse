@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/shared]
 whereabouts: Feywild
 typeOf: realm
 excludePublish: [clee]
+dm_notes: color
+dm_owner: mike
 title: Duskmire
 ---
 # Duskmire
@@ -24,4 +26,8 @@ The realm is bordered to the south by [Amberglow](<./amberglow.md>), to the west
 Lord Umbraeth enjoys sport, and especially cruel sport where the game is rigged and the stakes high. Like all fey, he does not break his deals, but he is often misleading in his explanations and delights in the despair of his victims when they discover his deal was not fair. 
 
 Lord Umbraeth was not always the lord of a fey realm. Thousands of years ago he was a powerful courtier in the court of Ethlenn, where he was held in some respect, even if he was not loved. 
+
+
+
+
 

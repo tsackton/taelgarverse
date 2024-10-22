@@ -7,6 +7,8 @@ species: human
 ancestry: Sembaran
 gender: female
 died: 1529
+dm_notes: none
+dm_owner: none
 title: Sarabet
 ---
 # Sarabet

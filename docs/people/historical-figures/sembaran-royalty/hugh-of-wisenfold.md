@@ -9,6 +9,8 @@ gender: male
 died: 1562
 affiliations:
 - {org: House of Wisenfold, type: primary}
+dm_notes: none
+dm_owner: none
 title: Hugh
 ---
 # Hugh
@@ -22,5 +24,5 @@ title: Hugh
 </div>
 
 
-The founder of the House of Wisenfold, an important cadet branch of the royal Sembaran line, now based in the [Duchy of Wisford](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>)]]. The second child of [Derik III](<./derik-iii.md>) and [Sarabet](<./sarabet.md>).
+The founder of the House of Wisenfold, an important cadet branch of the royal Sembaran line, now based in the [Duchy of Wisford](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>). The second child of [Derik III](<./derik-iii.md>) and [Sarabet](<./sarabet.md>).
 

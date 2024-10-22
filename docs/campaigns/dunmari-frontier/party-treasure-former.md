@@ -43,6 +43,7 @@
 - Eye of Undead Sensing. A jar filled with liquid in which floats a single human eye, radiating divination magic. When an undead creature comes within 100 feet of the jar, the eye darts about as if it is looking around in panic. Probably a creation of [Agata](<../../people/fey/agata.md>)’s. Taken from [Agata](<../../people/fey/agata.md>)’s hut.  (destroyed)
 - [Liquid Wood](<treasure/notable-items/liquid-wood.md>). This jar of putty-like brown goo radiates transmutation magic, and is clearly a creation of [Agata](<../../people/fey/agata.md>)’s. It is used for turning creatures into wooden servants. Taken from [Agata](<../../people/fey/agata.md>)’s hut. 
 - Battle Standard of the [Blackened Claw](<../../groups/hobgoblin-clans/blackened-claw.md>) hobgoblins. Found in [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). Destroyed. 
+- A blood-red book of necromancy bound in human skin, containing [Apollyon's](<../../people/historical-figures/drankorian-emperors/apollyon.md>) secret knowledge for how to become a lich. Destroyed by [Dimitaur](<../../people/pcs/great-war/companions/dimitaur.md>) with a fireball.
 ## Sold
 
 ### In [Zvervinka](<../../gazetteer/northern-green-sea/zvervinka.md>)
@@ -92,10 +93,13 @@
 
 ## Given Away
 
+- [Apollyon's](<../../people/historical-figures/drankorian-emperors/apollyon.md>) throne, taken from his tower. A large grey mottled marble and granite throne encrusted with gemstones. Left on the ~Circular Island~ in [Dimitaur](<../../people/pcs/great-war/companions/dimitaur.md>)'s possession. 
+- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [Grimbaskal's Hoard](<treasure/grimbaskal-s-hoard.md>)). Given to Ghesh in exchange for keeping the party secret from [Ra'ghemdros](<../../people/other-nonhumans/ra-ghemdros.md>)
+- Folding Boat, originally taken from [Kadmos and Company Loot](<treasure/kadmos-and-company-loot.md>), given to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart.
 - Celestial Gem of Protection, originally a [gift](<treasure/gifts-and-purchases.md#gifts>) to [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>), given to [Kethra](<../../people/dwarves/kethra.md>)
 - Ring of Displacement, originally part of [Agata's Treasure](<treasure/agata-s-treasure.md>), given to [Jotha](<../../people/deno-qai/jotha.md>)
-- Helm of Telepathy. This is a tiara made of silver, looking like tentacles wrapped in a circle, and decorated with smoky black gems, from Buruli as part of the [Merfolk Quest Treasure](<treasure/merfolk-quest-treasure.md>). Given to Amil.
-- Ring of Shadows. A strange shadowy thing that looks like the currents of the ocean depths in solid form, from Buruli as part of the [Merfolk Quest Treasure](<treasure/merfolk-quest-treasure.md>). Given to Faldrak. 
+- Helm of Telepathy. This is a tiara made of silver, looking like tentacles wrapped in a circle, and decorated with smoky black gems, from Buruli as part of the [Merfolk Quest Treasure](<treasure/merfolk-quest-treasure.md>). Given to [Amil](<../../people/dunmari/amil.md>).
+- Ring of Shadows. A strange shadowy thing that looks like the currents of the ocean depths in solid form, from Buruli as part of the [Merfolk Quest Treasure](<treasure/merfolk-quest-treasure.md>). Given to [Faldrak Bronzehammer](<../../people/dwarves/faldrak-bronzehammer.md>). 
 - An elegant wooden pipe, made of some strange dark wood you have not seen before, carved with the initials M. T., from [Buruli's kingdom](<treasure/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>).
 - A silver ring set with a small blue sapphire, engraved, "To my beloved Tilly" on the inside,  from [Buruli's kingdom](<treasure/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart.
 - A beautifully crafted brass compass, casing engraved with "Stormdancer". It does not work anymore, from [Buruli's kingdom](<treasure/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart.

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/update]
 campaignInfo:
 - {campaign: clee, date: 1720-01-03}
 name: Rosalind Essford
@@ -23,6 +23,8 @@ whereabouts:
 - {type: away, start: 1720-01-12, end: 1720-01-13, location: Wisford}
 - {type: away, start: 1720-01-13, end: 1720-01-16, location: travelling to Embry}
 - {type: away, start: 1720-01-17, end: 9999, location: Embry}
+dm_notes: color
+dm_owner: mike
 ---
 # Lady Rosalind Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

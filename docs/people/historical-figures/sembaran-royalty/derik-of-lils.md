@@ -9,6 +9,8 @@ gender: male
 died: 1633
 affiliations:
 - {org: House of Lils, type: primary}
+dm_notes: none
+dm_owner: none
 title: Derik
 ---
 # Derik

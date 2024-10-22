@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/cleanup/header, status/cleanup/reformat]
+tags: [person, status/cleanup/external, status/metadata/header]
 campaignInfo:
 - {campaign: dufr, person: Delwath, date: 1748-10-23, type: scryed}
 name: Marcella
@@ -11,6 +11,8 @@ gender: female
 whereabouts:
 - {type: home, end: 1748-07-01, location: Chardon}
 - {type: away, start: 1748-10-23, location: Ausson's Crossing, wLastKnown: ''}
+dm_notes: important
+dm_owner: tim
 title: Marcella
 ---
 # Marcella
@@ -27,6 +29,7 @@ title: Marcella
 
 
 :octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 23th, 1748 in [Ausson's Crossing](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/ausson-s-crossing.md>), [Laicon](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/laicon.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
+
 
 
 

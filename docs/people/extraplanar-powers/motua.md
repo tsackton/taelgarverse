@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, event-source, status/needswork/notes]
+tags: [person, event-source, status/check/tim]
 displayDefaults: {boxInfo: '<subspecies:sA> (<species>), <pronouns>'}
 campaignInfo:
 name: Motua
@@ -26,6 +26,7 @@ title: Motua
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of December 1748): [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
+
 
 
 ![Motua](../../assets/motua.png){align="right"; width="400"}One of the guardians of the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>), a [Gidari](<../../species/children-of-creation/gidari.md>), who is native to the [Land of the Dead](<../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>) and serves as a guide and protector of souls on their journey beyond the veil. 
