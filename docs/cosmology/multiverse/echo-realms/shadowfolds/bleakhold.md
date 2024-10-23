@@ -14,7 +14,7 @@ title: Bleakhold
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Destroyed DR 1748  
-    :octicons-location-24:{ .lg .middle } destroyed village in [Morkalan](<./morkalan.md>), [Shadowfolds](<./shadowfolds.md>)  
+    :octicons-location-24:{ .lg .middle } destroyed village [Morkalan](<./morkalan.md>)  
 </div>
 
 
