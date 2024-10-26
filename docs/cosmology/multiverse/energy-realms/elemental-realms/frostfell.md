@@ -9,7 +9,7 @@ title: Frostfell
 ---
 # Frostfell
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A plane in the [Elemental Realms](<./elemental-realms.md>), [Energy Realms](<../energy-realms.md>)  
+-    :octicons-location-24:{ .lg .middle } A plane [Elemental Realms](<./elemental-realms.md>)  
 </div>
 
 

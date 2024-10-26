@@ -20,7 +20,7 @@ title: Delwath
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 36)  
+    An [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), of [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 36)  
     Born DR 1472 (277 years old)  
     { .bio }
 
@@ -111,7 +111,7 @@ title: Delwath
 > 
 > In any case, both [Alesh](<../../dunmari/alesh.md>) and [Havdar](<../../dunmari/havdar.md>) think Delwath should take it, given he fought in that war as well, and pass it along with their blessing. 
 > 
-> [Jasu](<../../dunmari/jasu.md>) is happy to work on the [Dunmari Heirloom Shield](<../../../campaigns/dunmari-frontier/treasure/notable-items/dunmari-heirloom-shield.md>), and in addition to strengthening it with adamantine, he cleans and repairs the insignia, and works some of the magical stone and powder from the mesa into it as well, so it will resist fading and damage. 
+> [Jasu](<../../dunmari/jasu.md>) is happy to work on the [Dunmari Heirloom Shield](<../../../campaigns/dunmari-frontier/treasure/dunmari-heirloom-shield.md>), and in addition to strengthening it with adamantine, he cleans and repairs the insignia, and works some of the magical stone and powder from the mesa into it as well, so it will resist fading and damage. 
 > 
 > ### Closing Affairs
 > 

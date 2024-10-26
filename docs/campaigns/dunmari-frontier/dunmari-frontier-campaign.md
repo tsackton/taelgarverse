@@ -12,7 +12,7 @@ You might start with:
 - The index of session notes: [Sessions](<./sessions.md>)
 - A timeline of campaign events: [Dunmari Frontier Timeline](<./dunmari-frontier-timeline.md>)
 - A list of treasure gained: [Party Treasure](<./party-treasure.md>)
-- The index of visions seen in the [Mirror of the Past](<treasure/notable-items/mirror-of-the-past.md>): [Mirror Visions](<./mirror-visions.md>)
+- The index of visions seen in the [Mirror of the Past](<treasure/mirror-of-the-past.md>): [Mirror Visions](<./mirror-visions.md>)
 
 You can also explore the skyship [Vindristjarna](<../../things/ships/vindristjarna.md>) and the [special facilities](<./vindristjarna-room-planning.md>) constructed on it.
 

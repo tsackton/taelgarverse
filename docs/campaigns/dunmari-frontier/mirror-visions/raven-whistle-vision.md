@@ -7,4 +7,4 @@ A woman comes from the hut - [Agata](<../../../people/fey/agata.md>). She gazes 
 
 [Agata](<../../../people/fey/agata.md>) sits beside you, whispering something, maybe telling a story. Slowly you see the head of a giant raven lay itself down next to [Agata](<../../../people/fey/agata.md>), its breathing slow, and then stop. The scene shifts.
 
-You are looking up at [Agata](<../../../people/fey/agata.md>) holding you - a wing bone of a giant raven - what will become the [Raven Whistle](<../treasure/notable-items/raven-whistle.md>) - and carefully working it, singing under her breath the whole time. And the mirror turns black.
+You are looking up at [Agata](<../../../people/fey/agata.md>) holding you - a wing bone of a giant raven - what will become the [Raven Whistle](<../treasure/raven-whistle.md>) - and carefully working it, singing under her breath the whole time. And the mirror turns black.

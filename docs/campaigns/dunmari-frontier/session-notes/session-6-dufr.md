@@ -26,7 +26,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 ### Summary
 - The party splits to run errands and gather information in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) as rumors of evil spread and refugees arrive.
 - [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) helps fortify the temple and learns about the mystical [Red Mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>).
-- [Riswynn Brawnanvil](<../../../people/pcs/dunmar-fellowship/riswynn.md>) joins the party to recover a [dwarven heirloom](<../treasure/notable-items/shield-of-the-brawnanvil-clan.md>) from [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>).
+- [Riswynn Brawnanvil](<../../../people/pcs/dunmar-fellowship/riswynn.md>) joins the party to recover a [dwarven heirloom](<../treasure/shield-of-the-brawnanvil-clan.md>) from [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>).
 - A gnoll attack disrupts the [Festival of Rebirth](<../../../time/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>), leading to a fierce battle where the party prevails but [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is seriously injured.
 - The party plans to depart [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) the following morning, as the town prepares to flee westward.
 ### Timeline

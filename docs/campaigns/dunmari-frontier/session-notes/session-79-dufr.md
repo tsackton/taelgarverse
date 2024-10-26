@@ -23,10 +23,10 @@ After a victorious battle, the [Dunmar Fellowship](<../../../people/pcs/dunmar-f
 
 ## Session Info
 
-***The party gathers the treasure from the [Kadmos and Company Loot](<../treasure/kadmos-and-company-loot.md>)***
+***The party gathers the treasure from the [Kadmos and Company Loot](<../hoards/kadmos-and-company-loot.md>)***
 ***Character advancement: reach level 12 at the end of the session***
 ### Summary
-- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeats [Kadmos](<../../../people/chardonians/kadmos.md>) and his allies, capturing some in a [magical mirror](<../treasure/notable-items/mirror-of-soul-trapping.md>).
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeats [Kadmos](<../../../people/chardonians/kadmos.md>) and his allies, capturing some in a [magical mirror](<../treasure/mirror-of-soul-trapping.md>).
 - [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) attempts to cure [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) of an icy curse, revealing a fey creature, but is unable to remove it.
 - The party learns [Grash](<../../../people/other-nonhumans/grash.md>) seeks to raise an undead army and may attack [Uzgukhar](<../../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>) to retrieve the [Scepter of Command](<../../../things/artifacts-of-power/scepter-of-command.md>).
 - Interrogations reveal information about [The Cleansed](<../../../groups/the-cleansed.md>) and [Fausto](<../../../people/chardonians/fausto.md>)'s ambitions
@@ -51,6 +51,6 @@ Next, the party talks to [Antonia](<../../../people/chardonians/antonia.md>). It
 
 After some discussion, it is decided that [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) will remain and defend the city from the undead, with her divine magic, while the rest of the party flies north to destroy the scepter, preventing [Grash](<../../../people/other-nonhumans/grash.md>) from ever obtaining it. With this decided, the party speaks with [Casian](<../../../people/chardonians/casian.md>), who is dismissive and rude, insisting he will be rescued when [Grash](<../../../people/other-nonhumans/grash.md>) comes, up until the minute he is slain. 
 
-Finally, as the days passes noon, the party looks at the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>) in [Mirror of the Past](<../treasure/notable-items/mirror-of-the-past.md>), seeing the [Mantle of Protection Vision](<../mirror-visions/mantle-of-protection-vision.md>). Then, [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) begins casting the Hallow spell, to bless the throne room, which takes 24 hours. The next day, as the spell casting is done, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) is reluctantly dragged into the room, freeing him of the fey curse of ice. 
+Finally, as the days passes noon, the party looks at the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>) in [Mirror of the Past](<../treasure/mirror-of-the-past.md>), seeing the [Mantle of Protection Vision](<../mirror-visions/mantle-of-protection-vision.md>). Then, [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) begins casting the Hallow spell, to bless the throne room, which takes 24 hours. The next day, as the spell casting is done, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) is reluctantly dragged into the room, freeing him of the fey curse of ice. 
 
 We end as [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) sets herself to casting Forbiddance, and the rest of the party turns north on [Vindristjarna](<../../../things/ships/vindristjarna.md>) to destroy the scepter. 

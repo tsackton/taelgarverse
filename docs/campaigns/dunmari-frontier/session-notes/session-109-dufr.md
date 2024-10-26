@@ -22,7 +22,7 @@ title: Dunmari Frontier - Session 109
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) infiltrates Apollyon's tower, uncovers its secrets, and returns with valuable treasures and knowledge.
 ## Session Info
 
-***Find  [Apollyon's Tower Treasure](<../treasure/apollyon-s-tower-treasure.md>)***
+***Find  [Apollyon's Tower Treasure](<../hoards/apollyon-s-tower-treasure.md>)***
 ### Summary
 - The party transforms into ospreys to reach Apollyon's tower covertly.
 - Upon arrival, they face defensive statues and enter the tower through a trapdoor.
@@ -35,9 +35,9 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - May 19, 1749 DR, morning: Depart west for Apollyon's tower across the ~Circular Island~
 - May 19, 1749 DR, noon: Reach Apollyon's tower as ospreys; fight constructs
 -  May 19, 1749 DR, afternoon: Explore Apollyon's tower; find lich chamber; destroy undead in the grand hall
--  May 19, 1749 DR, evening: Find Apollyon's forge, destroy void sword protecting it. Load Apollyon's throne into Portable Hole, along with [Apollyon's Tower Treasure](<../treasure/apollyon-s-tower-treasure.md>). Teleport back to [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>) at the summit of the mountain.  
+-  May 19, 1749 DR, evening: Find Apollyon's forge, destroy void sword protecting it. Load Apollyon's throne into Portable Hole, along with [Apollyon's Tower Treasure](<../hoards/apollyon-s-tower-treasure.md>). Teleport back to [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>) at the summit of the mountain.  
 ### Mirror of the Past
-- May 19, 1749 DR: Look at Apollyon's soulbinding manacles in the [Mirror of the Past](<../treasure/notable-items/mirror-of-the-past.md>), seeing [Apollyon's Soulbinding Manacles Vision](<../mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) recharge mirror
+- May 19, 1749 DR: Look at Apollyon's soulbinding manacles in the [Mirror of the Past](<../treasure/mirror-of-the-past.md>), seeing [Apollyon's Soulbinding Manacles Vision](<../mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) recharge mirror
 
 ## Narrative
 The party begins their journey at dawn, observing the black marble tower on the coast from a mountain peak. They weigh different approaches, ultimately transforming into ospreys using [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s Animal Shapes spell to covertly navigate the terrain. As they fly westward, they cross over forests and rocky plains, reaching the tower.
@@ -91,7 +91,7 @@ The party explores the tower further, discovering remnants of its dark past and 
 - After the battle, the party takes a moment to recover and heal, with Delwath and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) providing much-needed healing to the group.
 - They search the remains of the constructs, finding strange metallic shards that appear to be inert but once held magical power, along with two intact metallic flies that [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) adds to his collection.
 - Descending through several floors, they pass rooms that were once workshops, libraries, and living quarters, all in various states of decay from exposure to sea air.
-- The group finds two magical books—one related to necromancy, bound in crimson leather, and the other seemingly tied to divination, clasped shut with metal hands. They carefully store both books in their portable hole for later examination.
+- The group finds two magical books—one related to necromancy, bound in crimson leather, and the other seemingly tied to divination, clasped shut with metal hands. They carefully store both books in their [Portable Hole](<../treasure/portable-hole.md>) for later examination.
 - They also find scraps of adamantium in the ritual room, confirming their origin as part of [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>)'s phylactery, as well as a silver water pitcher, Drancorian coins, and other small valuable items.
 - Moving through the lower levels, the party comes across three relatively unadorned gold rings, a gold platter, and additional Drancorian coins.
 The treasure found includes: two magical books (one necromancy, one divination), two intact metallic flies, scraps of adamantium, a silver water pitcher, Drancorian gold and silver coins, three gold rings, and a gold platter.
@@ -132,7 +132,7 @@ The party continues exploring the newly cleared area of the basement.
 ### Aftermath
 The party prepares to leave Apollyon's tower, making important decisions about the items they found and how to proceed.
 - Seeker uses Performance of Creation to forge a lead box, providing a safe container for the necromancy book to prevent any lingering magical influence from affecting the party.
-- They discuss whether to take Apollyon's throne as a bargaining chip with the dragon, ultimately turning into elephants with Seeker's Animal Shapes spell to drag it into the portable hole. 
+- They discuss whether to take Apollyon's throne as a bargaining chip with the dragon, ultimately turning into elephants with Seeker's Animal Shapes spell to drag it into the [Portable Hole](<../treasure/portable-hole.md>). 
 - Wellby uses the Chime of Opening to open the locked book, and is hit with a Befuddlement spell. Resisting the worst effects of the spell, he turns the book over to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), who learns it contains notes about the use of the forge and about lich transformations, though much of it is written in cipher.
 - The party takes some time to decipher parts of the notes, discovering that using the forge requires giving up their highest-level spell slot for a week or more, with the quality of the item created depending on the power sacrificed.
 - The group decides to teleport back to [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>), who immediately uses a Wand of Fireballs to destroy the necromancy book. 

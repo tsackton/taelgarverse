@@ -24,7 +24,7 @@ The Dunmar Fellowship defeats Urgall the Black and a demonic entity in Vetta, ul
 ## Session Info
 
 ***[Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) gets a tattoo from [Cecilia Lister](<../../../people/tollenders/cecilia-lister.md>)***
-***The party finds the [Flaming Tempest Hoard](<../treasure/flaming-tempest-hoard.md>)***
+***The party finds the [Flaming Tempest Hoard](<../hoards/flaming-tempest-hoard.md>)***
 
 ### Summary
 - The Dunmar Fellowship meets priestess Iskra and learns about the sacred waters of Vetta.
@@ -46,7 +46,7 @@ The Dunmar Fellowship defeats Urgall the Black and a demonic entity in Vetta, ul
 - Dec 25, 1748 DR, early morning: Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. 
 
 ### The Mirror of the Past
- - Dec 23, 1748 DR: Use [Mirror of the Past](<../treasure/notable-items/mirror-of-the-past.md>) on Urgall's helm: [Urgall's Helm Vision](<../mirror-visions/urgall-s-helm-vision.md>) recharge mirror
+ - Dec 23, 1748 DR: Use [Mirror of the Past](<../treasure/mirror-of-the-past.md>) on Urgall's helm: [Urgall's Helm Vision](<../mirror-visions/urgall-s-helm-vision.md>) recharge mirror
 
 ## Narrative
 ***Part 1: [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>)***

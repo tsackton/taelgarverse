@@ -66,8 +66,8 @@ He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [
 ### Items
 | Image                                            | Name                                                                                    | Type   | Mechanics                                                                        |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------- |
-| ![Silverthorn](../../../assets/silverthorn.png)                 | [Silverthorn](<../../../Campaigns/Cleenseau Campaign/Treasure/Silverthorn.md>)                   | weapon | [Reference](https://www.dndbeyond.com/magic-items/7793313-rapier-of-surprise)    |
 | ![Shield of False Life](../../../assets/shield-of-false-life.png)        | [Shield of False Life](<../../../Campaigns/Cleenseau Campaign/Treasure/Shield of False Life.md>) | armor  | [Reference](https://www.dndbeyond.com/magic-items/7487214-shield-of-life-giving) |
+| ![Silverthorn](../../../assets/silverthorn.png)                 | [Silverthorn](<../../../Campaigns/Cleenseau Campaign/Treasure/Silverthorn.md>)                   | weapon | [Reference](https://www.dndbeyond.com/magic-items/7793313-rapier-of-surprise)    |
 | ![Ranger Cloak of Concealment](../../../assets/ranger-cloak-of-concealment.png) | [Cloak of Concealment](<../../../Campaigns/Cleenseau Campaign/Treasure/Cloak of Concealment.md>) | cloak  | [Reference](https://www.dndbeyond.com/magic-items/4606-cloak-of-elvenkind)       |
 
 

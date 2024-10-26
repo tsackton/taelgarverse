@@ -42,7 +42,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - May 02, 1748 DR, evening: Arrive at the stone house that is the home of [Avaras](<../../../people/dunmari/avaras.md>) and [Pava](<../../../people/dunmari/pava.md>)
 
 ### Mirror of the Past
-- Apr 27, 1748 DR: Vision of Kenzo's [shard of jade](<../treasure/notable-items/jade-piece-of-rai-s-hand.md>) seen in the [Mirror of the Past](<../treasure/notable-items/mirror-of-the-past.md>): [Kenzo's Jade Vision](<../mirror-visions/kenzo-s-jade-vision.md>)  recharge mirror
+- Apr 27, 1748 DR: Vision of Kenzo's [shard of jade](<../treasure/jade-piece-of-rai-s-hand.md>) seen in the [Mirror of the Past](<../treasure/mirror-of-the-past.md>): [Kenzo's Jade Vision](<../mirror-visions/kenzo-s-jade-vision.md>)  recharge mirror
 
 ## Narrative
 Having decided to leave [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) for the deserts and the blasted plain to the east, traveling with [Havdar](<../../../people/dunmari/havdar.md>) and his band, the party spends a few days taking care of business in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). You find a place to store the loot you are not planning on taking into the desert; [Candrosa](<../../../people/dunmari/candrosa.md>) offers space in the outbuildings of the [Temple of Shakun](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), where it will hopefully remain safe. Each time you see him he seems as if he is wrestling with a decision, but with the preparations for the expedition you don’t have time to speak in more depth with him.

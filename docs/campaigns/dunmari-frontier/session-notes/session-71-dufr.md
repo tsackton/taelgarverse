@@ -24,7 +24,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 ## Session Info
 
 ***Character advancement: the party reaches level 11***
-***The party recovers the rest of the [Stormcaller Tower Treasure](<../treasure/stormcaller-tower-treasure.md>)***
+***The party recovers the rest of the [Stormcaller Tower Treasure](<../hoards/stormcaller-tower-treasure.md>)***
 ***Hralgar gives his blessing for the party to take Vindristjarna***
 ### Summary
 - The party defeats Hralgar's ghostly duplicate, freeing him from his dreamscape.

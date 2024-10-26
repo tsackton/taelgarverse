@@ -13,7 +13,7 @@ title: Khumarz
 # Khumarz
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: An [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) town in [Xurkhaz](<./xurkhaz.md>), the [Garamjala Desert](<../../greater-dunmar/garamjala-plateau/garamjala-desert.md>), destroyed by [Grash](<../../../people/other-nonhumans/grash.md>) on December 11th, 1748  
+   :material-calendar: An [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) town [Xurkhaz](<./xurkhaz.md>), destroyed by [Grash](<../../../people/other-nonhumans/grash.md>) on December 11th, 1748  
 </div>
 
 

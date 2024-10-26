@@ -25,4 +25,4 @@ title: Selkan
 
 
 
-A Dunmari man freed from the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/notable-items/mirror-of-soul-trapping.md>). He is bald, with weary eyes full of pain. His thumbs and tongue are cut off, and looks prematurely old. 
+A Dunmari man freed from the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>). He is bald, with weary eyes full of pain. His thumbs and tongue are cut off, and looks prematurely old. 
