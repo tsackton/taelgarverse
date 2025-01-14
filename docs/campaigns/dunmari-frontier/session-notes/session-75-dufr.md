@@ -2,10 +2,10 @@
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 75
-realWorldDate: 2023-04-11
+realWorldDate: 2023-04-10
 DR: 1748-11-29
 DR_end: 1748-12-04
-players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+players: [Seeker, Kenzo, Wellby, Riswynn]
 tagline: in which the party repels an ambush and heads east
 descTitle: Shadow Assault
 name: Dunmari Frontier - Session 75

@@ -1,6 +1,13 @@
 ---
-{title: Cecilia's White Dragon Tooth Vision}
+headerVersion: 2023.11.25
+tags: [event-source]
+displayDefaults: {defArt: ''}
+DR: 1749-03-01
+timelineDescriptor: Dunmari Frontier Campaign
+title: Cecilia's White Dragon Tooth Vision
 ---
+# Cecilia's White Dragon Tooth Vision
+
 You gather in [Cecilia Lister](<../../../people/tollenders/cecilia-lister.md>)'s tattoo shop, and draw the mirror from the portable hole, setting it up in the shop in preparation, as Cecilia will not allow the dragon's tooth to leave her store, no matter how much she trusts you.
 
 You hold up the tooth, and the scene shifts. For a moment, you see nothing, just a darkness, and then suddenly the scene bursts into light as you see the lid to a chest swinging open, and a man dressed in heavy furs holding a key and seemingly finishing an incantation. The chest is in a smoky room, large enough for several people to comfortably stand around talking. They are a mix of men and women, wearing warm clothing and fur-lined cloaks. There seems to be an argument occurring. Then the scene shifts. 

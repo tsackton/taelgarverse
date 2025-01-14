@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person, status/needswork/external]
 name: Hiyasa
-born:
 species: human
 ancestry: Mawaran
 gender: female
 whereabouts: Mawar Confederacy
+dm_notes: color
+dm_owner: tim
 title: Hiyasa
 ---
 # Hiyasa

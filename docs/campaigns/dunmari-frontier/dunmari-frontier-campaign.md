@@ -46,7 +46,7 @@ You can also explore the [most](<session-notes/session-107-dufr.md>) [recent](<s
 | [elven](<../../species/children-of-the-embodied-gods/elves/elves.md>)                                                           | Species/Children of the Embodied Gods |
 | [dragon](<../../species/children-of-the-riving/dragons.md>)                                                                     | Species/Children of the Riving        |
 | [dragonet](<../../Species/Unusual Species/Dragonets.md>)                                                                        | Species/Unusual Species               |
-| [Apollyon's soulbinding manacles](<../../Things/Artifacts of Power/Apollyon's soulbinding manacles.md>)                         | Things/Artifacts of Power             |
+| [Apollyon's Soulbinding Manacles](<../../Things/Artifacts of Power/Apollyon's soulbinding manacles.md>)                         | Things/Artifacts of Power             |
 | [Adamantine](<../../things/materials/adamantine.md>)                                                                            | Things/Materials                      |
 | [mithril](<../../Things/Materials/Mithril.md>)                                                                                  | Things/Materials                      |
 | [Vindristjarna](<../../things/ships/vindristjarna.md>)                                                                          | Things/Ships                          |

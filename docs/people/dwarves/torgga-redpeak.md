@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim, status/metadata/header]
+tags: [person]
+campaignInfo:
+- {campaign: DuFr, date: 1748-08-06, type: met}
 name: Torgga Redpeak
-born:
 species: dwarf
 affiliations:
 - {org: Redpeaks, type: primary}
 gender: female
 whereabouts: Darba
+dm_owner: none
+dm_notes: color
 title: Torgga Redpeak
 ---
 # Torgga Redpeak
@@ -22,4 +25,7 @@ title: Torgga Redpeak
 
 
 
-The matriach of the Redpeak dwarves of [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 6th, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
+The matriarch of the Redpeak dwarves of [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).

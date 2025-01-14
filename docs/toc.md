@@ -93,6 +93,7 @@
             - [Agata's Treasure](campaigns/dunmari-frontier/hoards/agata-s-treasure.md)
             - [Apollyon's Tower Treasure](campaigns/dunmari-frontier/hoards/apollyon-s-tower-treasure.md)
             - [Copper Hills Treasure](campaigns/dunmari-frontier/hoards/copper-hills-treasure.md)
+            - [Drankorian Treasure](campaigns/dunmari-frontier/hoards/drankorian-treasure.md)
             - [Elemental Forge Hoard](campaigns/dunmari-frontier/hoards/elemental-forge-hoard.md)
             - [Flaming Tempest Hoard](campaigns/dunmari-frontier/hoards/flaming-tempest-hoard.md)
             - [Gifts and Purchases](campaigns/dunmari-frontier/hoards/gifts-and-purchases.md)
@@ -657,7 +658,6 @@
         - [Tharandros](people/other-nonhumans/tharandros.md)
         - [Vondar](people/giants/vondar.md)
         - [Wakog](people/other-nonhumans/wakog.md)
-        - [Werewolf Prisoner](people/other-nonhumans/werewolf-prisoner.md)
         - [Yerkir-khor](people/other-nonhumans/yerkir-khor.md)
         - [Zephyra](people/other-nonhumans/zephyra.md)
     - Extraplanar Powers
@@ -1418,6 +1418,7 @@
         - [Defeat of the Plague Trees](events/1600s/defeat-of-the-plague-trees.md)
         - [Destruction of the Werewolf Cult](events/1700s/1748/07/destruction-of-the-werewolf-cult.md)
         - [Drankorian Civil War](events/drankorian-civil-war.md)
+        - [Events of the 1000s](events/1000s/1000s.md)
         - [Exile of Fraternity of the Empty Moon](events/1600s/exile-of-fraternity-of-the-empty-moon.md)
         - [Fire War](events/1500s/fire-war.md)
         - [First Plague](events/1000s/1059/first-plague.md)
@@ -1494,6 +1495,8 @@
         - [Addermarch Campaign - Session 3](campaigns/addermarch/addermarch-session-3.md)
         - [Addermarch Campaign - Session 4](campaigns/addermarch/addermarch-session-4.md)
         - [Addermarch Campaign - Session 5](campaigns/addermarch/addermarch-session-5.md)
+        - [Addermarch Campaign - Session 6](campaigns/addermarch/addermarch-session-6.md)
+        - [Addermarch Campaign - Session 7](campaigns/addermarch/addermarch-session-7.md)
         - Handouts
             - [Letter from Elowen Duval](campaigns/addermarch/handouts/letter-from-elowen-duval.md)
             - [Letter from Owen Tavish](campaigns/addermarch/handouts/letter-from-owen-tavish.md)

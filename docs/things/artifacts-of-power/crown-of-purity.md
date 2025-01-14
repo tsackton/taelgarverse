@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical, status/needswork/internal]
+tags: [item/magical, status/needswork/internal, status/stub, item]
 typeOf: crown
 created: 1
 whereabouts:

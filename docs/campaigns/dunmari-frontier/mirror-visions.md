@@ -33,6 +33,7 @@
 - Mar 01, 1749 DR: The history of a white dragon tooth from [Ursk](<../../gazetteer/northern-green-sea/ursk.md>) is revealed in [Cecilia's White Dragon Tooth Vision](<mirror-visions/cecilia-s-white-dragon-tooth-vision.md>) recharge mirror
 - Mar 27, 1749 DR: [Vision](<mirror-visions/phasing-stone-vision.md>) of the [Phasing Stone](<../../things/magic-items/phasing-stones.md>) is revealed in the [Mirror of the Past](<treasure/mirror-of-the-past.md>) recharge mirror
 - May 13, 1749 DR: The past of the dust from Seeker's doppleganger is [revealed](<mirror-visions/dust-from-seeker-s-doppleganger-vision.md>)( recharge:: mirror)
-- May 19, 1749 DR: Look at Apollyon's soulbinding manacles in the [Mirror of the Past](<treasure/mirror-of-the-past.md>), seeing [Apollyon's Soulbinding Manacles Vision](<mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) recharge mirror
+- May 19, 1749 DR: Look at Apollyon's Soulbinding Manacles in the [Mirror of the Past](<treasure/mirror-of-the-past.md>), seeing [Apollyon's Soulbinding Manacles Vision](<mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) recharge mirror
+- May 30, 1749 DR: Look at the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>) in the [Mirror of the Past](<treasure/mirror-of-the-past.md>), seeing the [Crown of Purity Vision](<mirror-visions/crown-of-purity-vision.md>) recharge mirror
 
 

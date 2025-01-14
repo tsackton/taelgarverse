@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [organization, status/check/tim]
 displayDefaults: {partOf: ''}
-campaignInfo: []
 ancestry: Chardonian
 name: Society of the Open Scroll
 typeOf: scholary society
@@ -24,7 +23,7 @@ Generally speaking in favor of preserving knowledge, against chaltye magic, and 
 
 ## History
 
-- 1561 DR: The Society of the Open scroll is founded in Chardon, in the aftermath of the [Great War](<../../events/1500s/great-war.md>), with a mission to preserve and protect knowledge of magic against future diaster, and to learn the secrets of the past to better protect Chardon and the world from existential magical threats. 
+- 1561 DR: The Society of the Open scroll is founded in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), in the aftermath of the [Great War](<../../events/1500s/great-war.md>), with a mission to preserve and protect knowledge of magic against future disaster, and to learn the secrets of the past to better protect Chardon and the world from existential magical threats. 
 
 
 

@@ -24,7 +24,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 ## Session Info
 
 ### Summary
-- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) engages with Loremaster [Azogar](<../../../people/orcs/azogar.md>) and General [Murook](<../../../people/orcs/murook.md>) aboard the skyship, discussing the[phasing stone](<../../../things/magic-items/phasing-stones.md>), the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>), and crystallized magic.
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) engages with Loremaster [Azogar](<../../../people/orcs/azogar.md>) and General [Murook](<../../../people/orcs/murook.md>) aboard the skyship, discussing the [phasing stone](<../../../things/magic-items/phasing-stones.md>), the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>), and crystallized magic.
 - [Azogar](<../../../people/orcs/azogar.md>) and [Murook](<../../../people/orcs/murook.md>) depart, and the party learns through scrying that [Kadmos](<../../../people/chardonians/kadmos.md>) is separated from the main army.
 - At dinner, Chief [Lubash](<../../../people/orcs/lubash.md>) reveals the [cloak](<../../../things/artifacts-of-power/cloak-of-rainbows.md>)'s protective power against [Thark](<../../../cosmology/gods/embodied-gods/thark.md>)'s influence and expresses uncertainty about the effect on undead orcs.
 - The party learns the history of the cloak, crafted by an archfey now missing, and hears of a previous Chardonian party's espionage.

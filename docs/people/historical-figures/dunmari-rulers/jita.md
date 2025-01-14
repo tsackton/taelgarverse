@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/check/tim]
-campaignInfo: []
+tags: [historical, person]
 name: Dharajun Jita
 born: 1386
 species: human
@@ -16,6 +15,8 @@ affiliations:
 whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Tokra}
+dm_owner: tim
+dm_notes: color
 ---
 # Samraat Dharajun Jita
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,7 +30,6 @@ whereabouts:
     Originally from: the [plains of Songara](<../../../gazetteer/greater-dunmar/dunmari-basin/songara-plains.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
     Lived in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
-
 
 
 The founding ruler and Samraat of the Dharajun dynasty, associated with [Chidya](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/chidya.md>) and often called the dynasty of the horse. 

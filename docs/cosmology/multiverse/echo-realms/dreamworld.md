@@ -9,7 +9,7 @@ title: Dreamworld
 ---
 # Dreamworld
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A plane in the [Echo Realms](<./echo-realms.md>), [Multiverse](<../multiverse.md>)  
+-    :octicons-location-24:{ .lg .middle } A plane [Echo Realms](<./echo-realms.md>)  
 </div>
 
 

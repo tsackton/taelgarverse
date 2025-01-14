@@ -1,13 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/check/tim]
-campaignInfo: []
+tags: [person, historical]
 name: Mavdyr
-born:
 species: giant
 subspecies: fire giant
-ancestry:
 gender: male
+dm_notes: important
+dm_owner: tim
 title: Mavdyr
 ---
 # Mavdyr
@@ -21,4 +20,6 @@ title: Mavdyr
 
 
 
-A fire giant, who came out of the east in the early days of the [Blood Years](<../../events/1500s/blood-years.md>). Defeated outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) in the [Fire War](<../../events/1500s/fire-war.md>). 
+
+A fire giant, who came out of the east in the early days of the [Blood Years](<../../events/1500s/blood-years.md>), with a large army devoted to him. Defeated outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) in the [Fire War](<../../events/1500s/fire-war.md>). 
+

@@ -5,7 +5,7 @@ sessionNumber: 70
 realWorldDate: 2023-02-02
 DR: 1748-11-23
 DR_end: 1748-11-23
-players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+players: [Seeker, Delwath, Wellby, Riswynn]
 tagline: in which the party confronts Hralgar's dream
 descTitle: Storm's Echo
 name: Dunmari Frontier - Session 70
@@ -14,7 +14,7 @@ title: Dunmari Frontier - Session 70
 # Dunmari Frontier - Session 70
 
 >[!info] Storm's Echo: in which the party confronts Hralgar's dream
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>),  [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: Nov 23, 1748 DR*
 > *On Earth: Thursday Feb 02, 2023*
 > *[Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>)*

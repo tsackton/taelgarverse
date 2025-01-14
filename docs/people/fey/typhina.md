@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person]
 displayDefaults: {endStatus: 'killed by [[Agata]]'}
 name: Typhina
 died: 1
@@ -8,6 +8,8 @@ species: fey
 gender: female
 whereabouts:
 - {type: home, location: Amberglow}
+dm_owner: none
+dm_notes: none
 title: Typhina
 ---
 # Typhina

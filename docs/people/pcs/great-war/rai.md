@@ -3,8 +3,8 @@ headerVersion: 2023.11.25
 tags: [pc/greatwar, person, status/needswork/external]
 name: Rai
 born:
-species: peronar
-ancestry:
+species: elf
+ancestry: peronar
 gender: male
 player: David Kong
 title: Rai
@@ -13,7 +13,7 @@ title: Rai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A peronar (he/him)  
+    A peronar [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) unknown)  
     { .bio }
 
 </div>

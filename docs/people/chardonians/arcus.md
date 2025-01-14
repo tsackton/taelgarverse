@@ -52,7 +52,10 @@ Passed through [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-du
 ## Chronology
 
 - Dec 23, 1747 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban leave Chardon together, on a mission to find treasure for the Society of the Open Scroll, funded by [Fausto](<./fausto.md>).
+- Dec 23, 1747 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban leave Chardon together, on a mission to find treasure for the Society of the Open Scroll, funded by [Fausto](<./fausto.md>).
 - Feb 02, 1748 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban arrive in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>).
+- Feb 02, 1748 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban arrive in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>).
+- Feb 03, 1748 DR: Dee Wildcloak, Dain Goldhammer, and Alban leave across plains to the north, parting ways with Arcus and Servius.
 - Feb 03, 1748 DR: Dee Wildcloak, Dain Goldhammer, and Alban leave across plains to the north, parting ways with Arcus and Servius.
 - Mar 15, 1748 DR Devana's family was attacked by marauding axebeaks, supernaturally enraged by an ancient amulet from the Great War, which had been buried inactive for centuries until uncovered by [Arcus](<./arcus.md>) in the [old Dunmari fort](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>) east of [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>). One of his sons and nearly half his animals were killed in this attack (date is approx).
 - Mar 25, 1748 DR, afternoon: Explore [the ruined fort](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-fort-gomat.md>) and the caves below. Find a petrified explorer (later revealed to be [Arcus](<./arcus.md>)). Find and defeat an undead creature carrying a symbol of [Cha'mutte](<../extraplanar-powers/cha-mutte.md>). Destroy cursed obsidian stone on its staff that seems to be causing beasts to rampage.

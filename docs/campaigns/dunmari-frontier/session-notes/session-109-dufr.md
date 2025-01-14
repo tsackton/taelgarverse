@@ -37,7 +37,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 -  May 19, 1749 DR, afternoon: Explore Apollyon's tower; find lich chamber; destroy undead in the grand hall
 -  May 19, 1749 DR, evening: Find Apollyon's forge, destroy void sword protecting it. Load Apollyon's throne into Portable Hole, along with [Apollyon's Tower Treasure](<../hoards/apollyon-s-tower-treasure.md>). Teleport back to [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>) at the summit of the mountain.  
 ### Mirror of the Past
-- May 19, 1749 DR: Look at Apollyon's soulbinding manacles in the [Mirror of the Past](<../treasure/mirror-of-the-past.md>), seeing [Apollyon's Soulbinding Manacles Vision](<../mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) recharge mirror
+- May 19, 1749 DR: Look at Apollyon's Soulbinding Manacles in the [Mirror of the Past](<../treasure/mirror-of-the-past.md>), seeing [Apollyon's Soulbinding Manacles Vision](<../mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) recharge mirror
 
 ## Narrative
 The party begins their journey at dawn, observing the black marble tower on the coast from a mountain peak. They weigh different approaches, ultimately transforming into ospreys using [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s Animal Shapes spell to covertly navigate the terrain. As they fly westward, they cross over forests and rocky plains, reaching the tower.

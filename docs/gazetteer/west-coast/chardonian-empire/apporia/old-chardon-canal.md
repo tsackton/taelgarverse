@@ -8,7 +8,7 @@ title: Old Chardon Canal
 ---
 # The Old Chardon Canal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A canal in [Portalia](<./portalia.md>), the [Chardonian Empire](<../chardonian-empire.md>), the [West Coast Region](<../../west-coast-region.md>)  
+-    :octicons-location-24:{ .lg .middle } A canal [Portalia](<./portalia.md>)  
 </div>
 
 
