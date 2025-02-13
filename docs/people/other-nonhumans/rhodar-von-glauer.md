@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal]
+tags: [person, status/needswork/gameupdate]
 title: Lord Rhodar Von Glauer
 species: undead
 subspecies: vampire
 died: 1749-05-03
 name: Rhodar von Glauer
+dm_notes: important
+dm_owner: tim
 ---
 # Lord Rhodar Von Glauer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

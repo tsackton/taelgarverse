@@ -22,7 +22,7 @@ title: Annet Bybet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her), of the [Bybets](<../../groups/sembaran-noble-houses/bybets.md>)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans.md>) (she/her), of the [Bybets](<../../groups/sembaran-noble-houses/bybets.md>)  
     Born DR 1692 (57 years old)  
     Chamberlain of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)  
     Member of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  

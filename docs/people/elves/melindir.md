@@ -20,18 +20,18 @@ title: Melindir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 35)  
+    An [elf](<../../species/elves.md>) (he/him), ([ka](<../../background/elven-cycle-of-generations.md>) 35)  
     { .bio }
 
-    Originally from: [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
-    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Originally from: [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } First met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 17th, 1748 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
+:octicons-location-24:{ .lg .middle } First met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 17th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
 
 
-Melindir is the Ambassador to [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) for the elven lands of [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>).
+Melindir is the Ambassador to [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) for the elven lands of [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>).
 
 ![Melindir](../../assets/melindir.png)

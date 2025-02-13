@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork, event]
-campaignInfo: []
+tags: [event]
 name: Drankorian Civil War
 aliases:
 DR: 965
 DR_end: 971
+dm_owner: tim
+dm_notes: important
 title: Drankorian Civil War
 ---
 # The Drankorian Civil War

@@ -16,7 +16,7 @@ title: Cleenseau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 1,189  
-    :octicons-location-24:{ .lg .middle } A town in the [Manor of Cleenseau](<../manor-of-cleenseau.md>), the [Barony of Aveil](<../../barony-of-aveil.md>), [Sembara](<../../../sembara.md>), the [Western Green Sea Region](<../../../../../western-green-sea/western-green-sea-region.md>)  
+    :octicons-location-24:{ .lg .middle } A town in the [Manor of Cleenseau](<../manor-of-cleenseau.md>), the [Barony of Aveil](<../../barony-of-aveil.md>), [Sembara](<../../../sembara.md>), [Greater Sembara](<../../../../greater-sembara.md>)  
 </div>
 
 
@@ -44,7 +44,7 @@ Three paths lead through the town:
 
 In the center of the town, the [Essford Manor](<./essford-manor.md>) stands on an acre of raised land surrounded by its own wooden palisade.
 
-Outside [Essford Manor](<./essford-manor.md>) is a large plaza where the Temple of the Warlord stands. There are three other holy places in the town: a shrine to the Night Queen inside Essford Manor, an unusual shrine to the Wanderer along the banks of the Enst, sponsored by [Selma Wisthelwind](<../../../../../../people/sembarans/selma-wisthelwind.md>) and with many characteristics of a [kestavan](<../../../../../../cosmology/religions/northern-folk-religions/kestavo.md>) shrine, and a shrine to the Father inside the garrison. The plaza is also home to a large fountain and cistern, feed from the [Enst](<../../../../rivers/wistel-enst-watershed/enst.md>) by a series of pipes. A further pipe system brings running water to some of the richer houses in the South Close, including the [Essford Manor](<./essford-manor.md>) and the [The Crossroads Inn](<./the-crossroads-inn.md>). 
+Outside [Essford Manor](<./essford-manor.md>) is a large plaza where the Temple of the Warlord stands. There are three other holy places in the town: a shrine to the Night Queen inside Essford Manor, an unusual shrine to the Wanderer along the banks of the Enst, sponsored by [Selma Wisthelwind](<../../../../../../people/sembarans/selma-wisthelwind.md>) and with many characteristics of a [kestavan](<../../../../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) shrine, and a shrine to the Father inside the garrison. The plaza is also home to a large fountain and cistern, feed from the [Enst](<../../../../rivers/wistel-enst-watershed/enst.md>) by a series of pipes. A further pipe system brings running water to some of the richer houses in the South Close, including the [Essford Manor](<./essford-manor.md>) and the [The Crossroads Inn](<./the-crossroads-inn.md>). 
 
 There are four gates into the walled city: the North Gate, the Market Gate (in the east), the Garrison Gate (in the east, opening to the garrison  itself), and the River Gate (in the south, the main gate). All the gates are barred at night and staffed during the day by the lord’s household guard. Passage in and out of the city is unrestricted, but carrying weapons or wearing masks is not allowed save for members of the lord’s household or the [Army of the West](<../../../../../../groups/sembaran-army/army-of-the-west.md>), per the order of the [Essfords](<../../../../../../groups/sembaran-noble-houses/essfords.md>). (There is no standing law in [Sembara](<../../../sembara.md>) preventing commoners from carrying weapons).
 

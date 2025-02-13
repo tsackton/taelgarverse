@@ -14,13 +14,15 @@ affiliations:
 - {org: Wildhearts, type: primary}
 whereabouts:
 - {type: home, location: Wave Dancer, wHome: 'Sails <home:qr>'}
+dm_owner: none
+dm_notes: color
 title: Lerry Wildheart
 ---
 # Lerry Wildheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Wildhearts](<../../groups/halfling-families/wildhearts.md>)  
+    A [halfling](<../../species/halflings.md>) (he/him), of the [Wildhearts](<../../groups/halfling-families/wildhearts.md>)  
     Quartermaster of the [Wave Dancer](<../../things/ships/wave-dancer.md>) (since DR 1746)  
     { .bio }
 

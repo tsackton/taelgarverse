@@ -4,11 +4,13 @@ tags: [place]
 name: Western Marches
 typeOf: region
 whereabouts: Sembara
+dm_owner: mike
+dm_notes: color
 title: Western Marches
 ---
 # The Western Marches
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

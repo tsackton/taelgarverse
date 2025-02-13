@@ -18,7 +18,7 @@ title: Gyles
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans.md>) (he/him)  
     b. DR 1541 - d. DR 1632, died at age 91 years  
     Leader of the [House of Teckberg](<../../../groups/sembaran-noble-houses/house-of-teckberg.md>) (until DR 1632)  
     { .bio }

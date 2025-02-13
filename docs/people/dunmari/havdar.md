@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/image, status/metadata/header, status/cleanup/external, status/update]
+tags: [person, status/cleanup/image, status/cleanup/metadata, status/needswork/gameupdate]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-12-27, type: scryed, format: '<met:U> by <person> in <current:fr!>, on <target>'}
 name: Havdar
@@ -22,7 +22,7 @@ title: Havdar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1724 (25 years old)  
     Commander of [Havdar's Warband](<../../groups/havdar-s-warband.md>)  
     { .bio }
@@ -59,9 +59,9 @@ Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of 
 
 - In March/April 1748, was heavily involved in defending [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from gnoll attacks. 
 - In April/May 1748, scouted the eastern deserts with [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
-- In August 1748, was petrified by a cursed sword taken from [Agata's lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>), gifted to him by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), who were unaware it was cursed.
+- In August 1748, was petrified by a cursed sword taken from [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>), gifted to him by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), who were unaware it was cursed.
 - In September 1748, was restored, but became increasingly paranoid as the subtle curse of the sword still worked its evil magic. 
-- In November 1748, the curse was broken by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>)'s prayers, and the cursed sword destroyed by the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>), freeing Havdar of its evil influence. 
+- In November 1748, the curse was broken by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>)'s prayers, and the cursed sword destroyed by the [Bahrazel](<../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>), freeing Havdar of its evil influence. 
 - In December 1748, led [Sura](<./sura.md>)'s army in the [Battle of Tokra](<../../events/1700s/1748/12/battle-of-tokra.md>). 
 ## Rumors and Information
 

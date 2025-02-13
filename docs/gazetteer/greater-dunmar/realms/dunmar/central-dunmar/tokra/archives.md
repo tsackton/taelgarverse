@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {startStatus: Built}
-tags: [place, status/metadata/image]
+tags: [place, status/cleanup/image]
 name: Archives of Tokra
 typeOf: library
 whereabouts: Tokra
 aliases: [Tokra Archives]
 created: 1411
+dm_notes: none
+dm_owner: tim
 title: Archives of Tokra
 ---
 # The Archives of Tokra

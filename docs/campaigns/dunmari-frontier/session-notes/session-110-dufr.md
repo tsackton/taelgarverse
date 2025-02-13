@@ -40,7 +40,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - [The Last Jade Vision](<../dreams-and-visions/the-last-jade-vision.md>)
 
 ### Treasure
-- The 10 record books of the Concordia Pyrae. Seven record extensive research into the magic of the [Plane of Fire](<../../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-fire/elemental-plane-of-fire.md>). Three are a chronicle of events, detailing the history of the villa. These records indicate that the villa was once a major pilgrimage site in [Drankor](<../../../history/drankorian-era/drankorian-empire.md>), and later a place where many wizards conducted research. The chronicles also describe the downfall of the island, including a war between [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) and [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>) over possession of a prisoner, with the last entries warning of the island's imminent destruction
+- The 10 record books of the Concordia Pyrae. Seven record extensive research into the magic of the [Plane of Fire](<../../../cosmology/energy-realms/elemental-plane-of-fire.md>). Three are a chronicle of events, detailing the history of the villa. These records indicate that the villa was once a major pilgrimage site in [Drankor](<../../../history/drankorian-era/drankorian-empire.md>), and later a place where many wizards conducted research. The chronicles also describe the downfall of the island, including a war between [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) and [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>) over possession of a prisoner, with the last entries warning of the island's imminent destruction
 - [Ra'ghemdros' Hoard](<../hoards/ra-ghemdros-hoard.md>)
 ## Narrative
 
@@ -280,7 +280,7 @@ The party engages in an intense and chaotic battle with Ra'ghemdros, an ancient 
 (begin: after a long rest, the next morning, May 20th in Taelgar)
 - talk to revaka; fairly useless, some argument about souls
 - debate how to approach Ra’ghemdros and get the jade
-- decide to offer trade, Kenzo pretending to have scouted Apollyon’s Tower and offer to teleport there and bring her treasure, and also insisting he has to meet outside lair because his magic won’t work if he leaves the material plane
+- decide to offer trade, Kenzo pretending to have scouted Apollyon’s Tower and offer to teleport there and bring her treasure, and also insisting he has to meet outside lair because his magic won’t work if he leaves the [Material Plane](<../../../cosmology/material-plane.md>)
 - talk to Ghesh around 11 am to set up a meeting
 - ordered to attend an audience with Ra’ghemdros; dragonet escort arrives; Kenzo jogs while rest of party remains in animal forms
 - reach Ra’ghemdros around 2 pm for audience

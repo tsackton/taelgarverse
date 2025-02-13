@@ -5,7 +5,7 @@
 ## Gifts
 
 **Magic**
-- [Glove of Crystalized Magic](<../treasure/glove-of-crystalized-magic.md>) (very rare major item), constructed by Seeker in [Amberglow](<../../../cosmology/multiverse/echo-realms/feywild/amberglow.md>) from crystallized magic gifted by [Illaran](<../../../people/fey/illaran.md>).
+- [Glove of Crystalized Magic](<../treasure/glove-of-crystalized-magic.md>) (very rare major item), constructed by Seeker in [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>) from crystallized magic gifted by [Illaran](<../../../people/fey/illaran.md>).
 - Coin of Delving (common minor item) - gift to Riswynn upon departure from Tharn Todor at beginning of campaign
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) in exchange for her aid.
 - [Silverspark Gauntlets](<../treasure/silverspark-gauntlets.md>) (uncommon major item), from [Nora Silverspark](<../../../people/dwarves/nora-silverspark.md>)'s ghost
@@ -30,7 +30,7 @@
 ### From [Chanceweaver](<../../../people/extraplanar-powers/prince-of-luck.md>)
 - Chanceweaver’s Dice (rare minor item). A pair of amorphous dice that can change their shape at will. Gifted to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) by the [Prince of Luck](<../../../people/extraplanar-powers/prince-of-luck.md>). 
 ### From [Lady Eventide](<../../../people/fey/lady-eventide.md>)
-- Sunset Thread (common minor item). A strand of thread from [Lady Eventide](<../../../people/fey/lady-eventide.md>)’s dress given to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), spun by the Cloudweaver, that will glow with the light of sunset whenever the sun is setting in the material plane, signaling that the [Lastlight Falls](<../../../cosmology/multiverse/echo-realms/feywild/lastlight-falls.md>) fey crossing is open. 
+- Sunset Thread (common minor item). A strand of thread from [Lady Eventide](<../../../people/fey/lady-eventide.md>)’s dress given to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), spun by the Cloudweaver, that will glow with the light of sunset whenever the sun is setting in the material plane, signaling that the [Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>) fey crossing is open. 
 ### From [Saka](<../../../people/dunmari/saka.md>)
 - Scrolls of Storykeeping, from [Saka](<../../../people/dunmari/saka.md>) ([Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)). 10 total, 9 used:
 	- [Kirian's Story](<../collected-stories/kirian-s-story.md>)
@@ -50,10 +50,10 @@
 ## Purchases
 
 **Te'kula village**
-- Hat of Vermin (common minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
-- Clockwork Amulet (common minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
-- Immovable rod (uncommon minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
-- Cloak of the mantra ray (uncommon minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>))
+- Hat of Vermin (common minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
+- Clockwork Amulet (common minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
+- Immovable rod (uncommon minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
+- Cloak of the mantra ray (uncommon minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
 
 **Tollen, from Umli**
 - 9 quivers of Skaer arrows, constructed by [Umli](<../../../people/other-nonhumans/umli.md>)
@@ -61,7 +61,7 @@
 - Improvements by Umli to Delwath's [Deno'qai Lynx Shield](<../treasure/deno-qai-lynx-shield.md>), using Skaer steel
 
 **Tollen, from Cecilia Lister**
-- Tattoo of Darkvision (uncommon minor item, acquired from [Cecilia Lister](<../../../people/tollenders/cecilia-lister.md>) in [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>))
+- Tattoo of Darkvision (uncommon minor item, acquired from [Cecilia Lister](<../../../people/tollenders/cecilia-lister.md>) in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>))
 - Soul Tattoo (rare major item). Created by Cecilia Lister for Kenzo, in exchange for gold and the Shadowfell Brand tattoo that Kadmos wore. 
 
 **Zvervinka**

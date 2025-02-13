@@ -17,9 +17,9 @@ title: Dunmari Frontier - Session 73
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: Nov 24, 1748 DR*
 > *On Earth: Friday Mar 17, 2023*
-> *[Hralgar's Palace](<../../../gazetteer/sentinel-range/hralgar-s-palace.md>) in the [Sentinels](<../../../gazetteer/sentinel-range/sentinel-range.md>)*
+> *[Hralgar's Palace](<../../../gazetteer/central-highlands/hralgar-s-palace.md>) in the [Sentinels](<../../../gazetteer/sentinel-range.md>)*
 
-The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) navigates the dreamworld, captures the elusive [phasing stone](<../../../things/magic-items/phasing-stones.md>), and narrowly avoids freezing to death before returning to their [airship](<../../../things/ships/vindristjarna.md>).
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) navigates the [Dreamworld](<../../../cosmology/dreamworld.md>), captures the elusive [phasing stone](<../../../things/magic-items/phasing-stones.md>), and narrowly avoids freezing to death before returning to their [airship](<../../../things/ships/vindristjarna.md>).
 
 ## Session Info
 
@@ -28,12 +28,12 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) experiences haunting visions after defeating the ice maiden.
 - [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) eats remnants of magical ice; the party enters a mysterious, shifting library
 - The party finds a shifting doorway leading to an endless corridor and an empty throne room.
-- They manipulate the dreamworld with their thoughts, encounter a clockwork cat, and follow a giant hand, before using collective dreaming to capture the [phasing stone](<../../../things/magic-items/phasing-stones.md>) in the [Portable Hole](<../treasure/portable-hole.md>).
-- Having defeated the dream creature [Kurome](<../../../people/other-nonhumans/kurome.md>), the party seems to awaken in [Hralgar's library](<../../../gazetteer/sentinel-range/hralgar-s-palace.md>).
+- They manipulate the [Dreamworld](<../../../cosmology/dreamworld.md>) with their thoughts, encounter a clockwork cat, and follow a giant hand, before using collective dreaming to capture the [phasing stone](<../../../things/magic-items/phasing-stones.md>) in the [Portable Hole](<../treasure/portable-hole.md>).
+- Having defeated the dream creature [Kurome](<../../../people/other-nonhumans/kurome.md>), the party seems to awaken in [Hralgar's library](<../../../gazetteer/central-highlands/hralgar-s-palace.md>).
 - Realizing they're still dreaming and slowly freezing to death, they wake up for real and warm themselves before gathering information at Hralgar's library and departing.
 
 ### Timeline
-- Nov 24, 1748 DR, afternoon: Venture to the library, and find their way to the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>), where they encounter the tricks of [Kurome](<../../../people/other-nonhumans/kurome.md>). Recover the phasing stone, returning to a dream version of the real world. Wake themselves up before freezing to death. Record information from [Hralgar](<../../../people/giants/hralgar.md>)'s library about skyships. Depart to return to the crash of [Vindristjarna](<../../../things/ships/vindristjarna.md>) at dusk, with [Hralgar](<../../../people/giants/hralgar.md>)'s wind blessing.
+- Nov 24, 1748 DR, afternoon: Venture to the library, and find their way to the [Dreamworld](<../../../cosmology/dreamworld.md>), where they encounter the tricks of [Kurome](<../../../people/other-nonhumans/kurome.md>). Recover the phasing stone, returning to a dream version of the real world. Wake themselves up before freezing to death. Record information from [Hralgar](<../../../people/giants/hralgar.md>)'s library about skyships. Depart to return to the crash of [Vindristjarna](<../../../things/ships/vindristjarna.md>) at dusk, with [Hralgar](<../../../people/giants/hralgar.md>)'s wind blessing.
 
 ## Narrative
 We begin as the party finishes a short rest, warmed by [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s hot drinks. During the rest, visions of the cold thoughts and memories of the ice maiden, recently killed, haunt the visions of the party.

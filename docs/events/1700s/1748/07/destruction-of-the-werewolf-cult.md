@@ -1,9 +1,11 @@
 ---
-tags: [status/needswork, event-source, status/unknown]
+tags: [status/stub, event]
 excludePublish: [Clee]
 campaignInfo: []
 name: Destruction of the Werewolf Cult
 DR: 1748-07-03
+dm_owner: tim
+dm_notes: important
 title: Destruction of the Werewolf Cult
 ---
 # Destruction of the Werewolf Culf

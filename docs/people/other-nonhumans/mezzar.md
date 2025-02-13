@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/metadata/header]
+tags: [person, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, date: 1748-09-15, type: killed}
 name: Grimbaskal
@@ -20,16 +20,16 @@ title: Grimbaskal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dragon](<../../species/children-of-the-riving/dragons.md>) ([green dragon](<../../species/children-of-the-riving/dragons.md>)) (he/him)  
+    A [dragon](<../../species/unusual-species/dragons.md>) ([green dragon](<../../species/unusual-species/dragons.md>)) (he/him)  
     Died September 15th, 1748  
     { .bio }
 
-    Lived in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+    Lived in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Killed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 15th, 1748 in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)  
+:octicons-location-24:{ .lg .middle } Killed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 15th, 1748 in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
 
 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/cleanup/gameupdate]
 whereabouts: Asineau
 gender: female
 species: human
@@ -14,7 +14,7 @@ title: Eleanor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans.md>) (she/her)  
     Born DR 1659 (90 years old)  
     { .bio }
 

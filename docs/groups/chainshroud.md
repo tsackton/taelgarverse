@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [organization]
 ancestry: Hkaran
 typeOf: cult
+dm_notes: color
+dm_owner: none
 title: Chainshroud
 ---
 # Chainshroud
@@ -12,4 +14,4 @@ title: Chainshroud
 </div>
 
 
-A mysterious group from the early days of human history on Hkar, who preached slavery and dominion, and were eventually defeated and their god [Sarqon](<../cosmology/gods/incorporeal-gods/sarqon.md>) imprisoned.
+A mysterious group from the early days of human history on [Hkar](<../history/pre-downfall/hkar.md>), who preached slavery and dominion, and were eventually defeated and their god [Sarqon](<../gods-and-religions/gods/incorporeal-gods/sarqon.md>) imprisoned.

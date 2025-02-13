@@ -17,12 +17,12 @@ title: Dunmari Frontier - Session 92
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: Mar 18, 1749 DR to Mar 21, 1749 DR*
 > *On Earth: Tuesday Feb 06, 2024*
-> *[Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) and the [Ket](<../../../gazetteer/northern-green-sea/ket.md>) river valley*
+> *[Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) and the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>) river valley*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) gains King [Brimskarda](<../../../people/giants/brimskarda.md>)'s favor at [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) and forges an alliance with the Vargaldi after a fierce battle with an ice worm.
 ## Session Info
 ### Summary
-- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives at [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) to meet Frost Giant King [Brimskarda](<../../../people/giants/brimskarda.md>) and gain intelligence on the Vargaldi and the [Ket](<../../../gazetteer/northern-green-sea/ket.md>) river valley
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives at [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) to meet Frost Giant King [Brimskarda](<../../../people/giants/brimskarda.md>) and gain intelligence on the Vargaldi and the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>) river valley
 - They impress [Brimskarda](<../../../people/giants/brimskarda.md>) with gifts and tales, learning of Frost Giant history and gaining his favor.
 - They meet and persuade [Algerd](<../../../people/giants/algerd.md>), a frost giant historian, to journey with them in search of his sister.
 - After several uneventful days traveling east, an ice worm attack leads to a battle; [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) is nearly digested before the creature is defeated.
@@ -31,12 +31,12 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 ### Timeline
 - Mar 18, 1749 DR, evening: Meet [Brimskarda](<../../../people/giants/brimskarda.md>), speak about dragons and giants. Feast with Brimskarda's court at [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>).
 - Mar 19, 1749 DR, morning: Meet [Algerd](<../../../people/giants/algerd.md>), recruit him to journey east. Leave [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>).
-- Mar 19, 1749 DR, afternoon: Reach the [Ket](<../../../gazetteer/northern-green-sea/ket.md>), follow the frozen river east. 
-- Mar 20, 1749 DR: Travel east along the [Ket](<../../../gazetteer/northern-green-sea/ket.md>)
+- Mar 19, 1749 DR, afternoon: Reach the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>), follow the frozen river east. 
+- Mar 20, 1749 DR: Travel east along the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>)
 - Mar 21, 1749 DR: Fight and defeat an ice worm, rescuing two Vargaldi. 
-- Mar 21, 1749 DR, early afternoon: Reach Vargald camp south of the [Ket](<../../../gazetteer/northern-green-sea/ket.md>)
+- Mar 21, 1749 DR, early afternoon: Reach Vargald camp south of the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>)
 ## Narrative
-We begin as the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) makes a cautious approach towards the formidable and frost-laden steading of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), the court of [Brimskarda](<../../../people/giants/brimskarda.md>), king of the frost giant kingdom of [Kaldhalla](<../../../gazetteer/northern-green-sea/kaldhalla.md>). The party's primary goal was to both introduce themselves and pry for crucial intelligence regarding the enigmatic Vargald, a people who live in the frozen wastes of the [Ket](<../../../gazetteer/northern-green-sea/ket.md>) river valley. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) steers the skyship through the massive ice gates of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), where they are greeted by an animated statue bidding them to introduce themselves. Arriving inside the steading of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), carved in the bowl of a massive glacier, the party moors their ship at a respectful distance and use the rainbow bridge to make their descent. 
+We begin as the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) makes a cautious approach towards the formidable and frost-laden steading of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), the court of [Brimskarda](<../../../people/giants/brimskarda.md>), king of the frost giant kingdom of [Kaldhalla](<../../../gazetteer/northern-green-sea/kaldhalla.md>). The party's primary goal was to both introduce themselves and pry for crucial intelligence regarding the enigmatic Vargald, a people who live in the frozen wastes of the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>) river valley. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) steers the skyship through the massive ice gates of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), where they are greeted by an animated statue bidding them to introduce themselves. Arriving inside the steading of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), carved in the bowl of a massive glacier, the party moors their ship at a respectful distance and use the rainbow bridge to make their descent. 
 
 ![Steading Entrance](../../../assets/steading-entrance.jpg)
 
@@ -44,7 +44,7 @@ The party enters the steading's main hall, a cavernous space carved from the hea
 
 The feast that ensued was a spectacle of giant customs, the hall filled with Brimskarda's kin, all partaking in the hearty offerings with a blend of curiosity and intrigue towards their guests. Dewalth's subtle inquiries unveiled the layers of Frost Giant history, especially the history of [Vimfrost's War](<../../../events/1500s/vimfrost-s-war.md>), the great king [Bjarnfrost](<../../../people/giants/bjarnfrost.md>), and the eventual transition of power to Brimskarda. 
 
-![[brimskarda-palace-interior 1.png]]
+![Brimskarda Palace Interior](../../../assets/brimskarda-palace-interior.jpg)
 
 The next morning, the party met [Algerd](<../../../people/giants/algerd.md>), a socially-awkward historian without much status under Brimskarda's rule, which values might over knowledge. The party persuaded Algerd to travel east with them, in part with the hope that he could find his sister, who was driven out of the steading years ago. 
 

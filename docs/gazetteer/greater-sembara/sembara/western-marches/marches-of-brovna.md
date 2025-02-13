@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork, place]
+tags: [place]
 ancestry: Sembaran
 whereabouts: Western Marches
 typeOf: march
+dm_owner: none
+dm_notes: none
 title: Marches of Brovna
 ---
 # The Marches of Brovna
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Sembaran](<../sembara.md>) march in the [Western Marches](<./western-marches.md>), [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Sembaran](<../sembara.md>) march in the [Western Marches](<./western-marches.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

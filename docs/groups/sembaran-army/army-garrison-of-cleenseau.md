@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, testcase, status/update]
+tags: [organization, testcase, status/needswork/gameupdate]
 displayDefaults: {partOf: '<typeof:Au> of <partof>', boxInfo: ''}
 name: Army Garrison of Cleenseau
 partOf: Dunfry Regiment
@@ -15,7 +15,7 @@ title: Army Garrison of Cleenseau
 # The Army Garrison of Cleenseau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-    :octicons-location-24:{ .lg .middle } Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), the [Western Green Sea Region](<../../gazetteer/western-green-sea/western-green-sea-region.md>)  
+    :octicons-location-24:{ .lg .middle } Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), [Greater Sembara](<../../gazetteer/greater-sembara/greater-sembara.md>)  
 </div>
 
 
@@ -31,7 +31,7 @@ The garrison is situated in the east end of town, nestled into the gates. The ga
 * Nov 26, 1719 DR: Receives orders to march to [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>), apparently because of an imminent hobgoblin assault on the [Western Wall of Sembara](<../../gazetteer/greater-sembara/sembara/western-marches/western-wall-of-sembara.md>) foretold by [King Robert I](<../../people/historical-figures/sembaran-royalty/robert-i.md>)
 * Nov 27, 1719 DR: Departs [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) for [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) with all soldiers who are healthy enough to march
 * Dec 02, 1719 DR: Arrives [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) after some confusion on the road
-* Dec 26, 1720 DR: On the eve of [Pyravela](<../../time/holidays-and-festivals/pyravela.md>), the River Patrol and a squad from the Bridge Patrol departs [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) for [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) on the authority of Colonel Claude Leclerc. [Ancer Benthey](<../../people/sembarans/ancer-benthey.md>) and part of the Bridge Patrol stays in [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) to await formal orders and bring further messages to [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) when the situation clarifies
+* Dec 26, 1720 DR: On the eve of [Pyravela](<../../gods-and-religions/holidays-and-festivals/pyravela.md>), the River Patrol and a squad from the Bridge Patrol departs [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) for [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) on the authority of Colonel Claude Leclerc. [Ancer Benthey](<../../people/sembarans/ancer-benthey.md>) and part of the Bridge Patrol stays in [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>) to await formal orders and bring further messages to [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) when the situation clarifies
 * Jan 06, 1720 DR: The garrison is ambushed on the Old West Road by many zombies - at least 60. Approximately fifteen die in the combat, or from wounds shortly afterwards, and another ten are badly wounded and need healing and rest.
 * (DR:: January 10, 1720): A day's ride outside of Cleenseau, the [Heroes of Cleenseau](<../../people/pcs/cleenseau/heroes-of-cleenseau.md>) heal and mend the garrison, using magical healing to restore to health the wounded. The troops ride the next morning as if on parade.
 

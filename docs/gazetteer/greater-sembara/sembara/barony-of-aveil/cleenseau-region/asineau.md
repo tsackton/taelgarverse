@@ -16,7 +16,7 @@ title: Asineau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 311  
-    :octicons-location-24:{ .lg .middle } A fishing village in the [Manor of Asineau](<./manor-of-asineau.md>), the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), the [Western Green Sea Region](<../../../../western-green-sea/western-green-sea-region.md>)  
+    :octicons-location-24:{ .lg .middle } A fishing village in the [Manor of Asineau](<./manor-of-asineau.md>), the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), [Greater Sembara](<../../../greater-sembara.md>)  
 </div>
 
 
@@ -24,7 +24,7 @@ title: Asineau
 
 A few hundred feet outside the village is a small mill and bakehouse. The large stone manor house dates from the early 1600s, and stands alongside the road. There is a stable building attached to it. 
 
-![Asineau Wrydling Painting](../../../../../assets/asineau-wrydling-painting.jpg){align="right"; width="320"}The temple to [The Wyrdling](<../../../../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>) here is known for a chaotic painting on the wall, and is said to have been standing in this spot for over 500 years. There are two local miracles celebrated in Asineau: the [Miracle of the Hopeful Heat](<../../../../../time/holidays-and-festivals/miracle-of-the-hopeful-heat.md>) and the [Miracle of the Guided Wanderers](<../../../../../time/holidays-and-festivals/miracle-of-the-guided-wanderers.md>)
+![Asineau Wrydling Painting](../../../../../assets/asineau-wrydling-painting.jpg){align="right"; width="320"}The temple to [The Wyrdling](<../../../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>) here is known for a chaotic painting on the wall, and is said to have been standing in this spot for over 500 years. There are two local miracles celebrated in Asineau: the [Miracle of the Hopeful Heat](<../../../../../gods-and-religions/holidays-and-festivals/miracle-of-the-hopeful-heat.md>) and the [Miracle of the Guided Wanderers](<../../../../../gods-and-religions/holidays-and-festivals/miracle-of-the-guided-wanderers.md>)
 
 ## Notable Residents
 

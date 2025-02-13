@@ -1,10 +1,14 @@
 ---
-tags: [event-source, status/unknown]
+tags: [event, status/needswork/gameupdate]
 timelineDescriptor: The Siblings War
+dm_owner: tim
+dm_notes: important
 title: Sibling War
 ---
 
 # The Sibling War
+
+
 
 A civil war fought between [Nayan Sura](<../../people/dunmari/sura.md>) and her brother, [Nayan Karnas](<../../people/dunmari/nayan-karnas.md>), over the rule of Dunmar.
 

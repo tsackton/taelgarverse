@@ -17,7 +17,7 @@ title: Gentza
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (she/her)  
+    A [lizardfolk](<../../species/lizardfolk.md>) (she/her)  
     b. DR 1681 - d. October 27th, 1719, murdered by bandits at age 38 years  
     { .bio }
 

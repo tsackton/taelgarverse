@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 typeOf: lantern
 subTypeOf: magical
 title: Soul Lantern
@@ -16,4 +16,4 @@ Seen in [Mirror of the Past](<./mirror-of-the-past.md>): [Soul Lantern Vision](<
 
 Taken from [Agata](<../../../people/fey/agata.md>)’s hut. 
 
-Destroyed by [Cintra](<../../../people/dunmari/cintra.md>) during the [Feast of Bhishma](<../../../time/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>) in [Session 32 (DuFr)](<../session-notes/session-32-dufr.md>).
+Destroyed by [Cintra](<../../../people/dunmari/cintra.md>) during the [Feast of Bhishma](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>) in [Session 32 (DuFr)](<../session-notes/session-32-dufr.md>).

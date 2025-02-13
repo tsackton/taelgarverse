@@ -9,7 +9,7 @@ title: LL Session 1
 # Labyrinths of the Lost - Session 1
 >_in Taelgar: October 17th, 1748
 >on Earth: November 12th, 2023
->[Western Cymea](<../../gazetteer/western-green-sea/cymea/western-cymea.md>)
+>[Western Cymea](<../../gazetteer/western-green-sea/realms/western-cymea.md>)
 
 # Summary
 - Four trapped prisoners escape their cell, defeat some drunk goblins
@@ -19,10 +19,10 @@ title: LL Session 1
 - Manage to capture Folcan, one of the leaders, and interrogate him
 - Intimidate Folcan into leaving them alone for a while; we end as Folcan flees back to the barracks with a promise to tell everyone else that the situation is sorted
 ## The Protagonists
-- Asescale, a [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) alchemist and gambler
-- Dilion, a [human](<../../species/children-of-divine-creation/humans/humans.md>) tinkerer and battlesmith
-- Gadin, a [human](<../../species/children-of-divine-creation/humans/humans.md>) warlock with a hint of the [Fey](<../../species/children-of-the-riving/fey/fey.md>) about him
-- Loria Underbough, a [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) wanderer and ranger
+- Asescale, a [lizardfolk](<../../species/lizardfolk.md>) alchemist and gambler
+- Dilion, a [human](<../../species/humans.md>) tinkerer and battlesmith
+- Gadin, a [human](<../../species/humans.md>) warlock with a hint of the [Fey](<../../species/extraplanar/fey.md>) about him
+- Loria Underbough, a [halfling](<../../species/halflings.md>) wanderer and ranger
 ## The Goblins
 - Morky, Norrica, and Skelver, three drunk goblin guards, all dead
 - Folcan, a self-proclaimed leader of the goblins, interrogated and released
@@ -37,7 +37,7 @@ title: LL Session 1
 - Folcan promises to convince the rest of the goblins that the prisoner situation is dealt with. He seems genuinely scared, but it is never clear how far you can trust a scared goblin. 
 # Narrative
 
-In a dimly lit room, trapped in a crudely constructed cell, four travelers meet. They have been all been separately ambushed on the roads of [Western Cymea](<../../gazetteer/western-green-sea/cymea/western-cymea.md>), and brought here, stripped of their equipment, for unclear reasons. 
+In a dimly lit room, trapped in a crudely constructed cell, four travelers meet. They have been all been separately ambushed on the roads of [Western Cymea](<../../gazetteer/western-green-sea/realms/western-cymea.md>), and brought here, stripped of their equipment, for unclear reasons. 
 ## Part 1: The Escape
 
 The first goal is escaping, which turns out not to be difficult. One side of the prison is constructed from wood planks, the bottom third of which is slightly rotted. With a solid push, Dilion is able shove his hand right through the rotted wood, opening a hole to crawl out. 

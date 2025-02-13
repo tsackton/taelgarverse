@@ -13,13 +13,15 @@ affiliations:
 whereabouts:
 - {type: away, start: 1748-07-18, end: 1748-07-18, location: ~Crossroads Caravanserai~}
 - {type: away, start: 1748-07-19, location: traveling east to Tokra}
+dm_owner: none
+dm_notes: none
 title: Lyle Greenleaf
 ---
 # Lyle Greenleaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Greenleafs](<../../groups/halfling-families/greenleafs.md>)  
+    A [halfling](<../../species/halflings.md>) (he/him), of the [Greenleafs](<../../groups/halfling-families/greenleafs.md>)  
     { .bio }
 
     Originally from: Unknown

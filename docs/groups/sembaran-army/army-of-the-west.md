@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/army, status/update]
+tags: [organization, status/needswork/gameupdate]
 campaignInfo: []
 displayDefaults: {partOf: part of <partof>, boxInfo: ''}
 name: Army of the West
@@ -14,6 +14,7 @@ title: Army of the West
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
 </div>
+
 
 
 

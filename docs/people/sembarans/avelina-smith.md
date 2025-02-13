@@ -15,7 +15,7 @@ title: Avelina Smith
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Zimka [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A Zimka [human](<../../species/humans.md>) (she/her)  
     Born DR 1673 (76 years old)  
     { .bio }
 

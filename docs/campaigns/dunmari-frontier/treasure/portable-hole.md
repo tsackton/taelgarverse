@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 typeOf: container
 name: Dunmar Fellowship's Portal Hole
 subTypeOf: magical
@@ -15,7 +15,7 @@ title: Dunmar Fellowship's Portal Hole
 </div>
 
 
-![Portable Hole Dunmar Fellowship](../../../assets/portable-hole-dunmar-fellowship.jpg){align="right"; width="400"}This portable hole was received as a [gift](<../session-notes/session-42-dufr.md>) from [Basu](<../../../people/dunmari/basu.md>), a mystai of Laka, in exchange for helping clear the excess extraplanar energy from the [Elven Arborea Workshop](<../../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), permeated with the essence of [Arborea](<../../../cosmology/multiverse/spiritual-realms/other-realms/arborea.md>). 
+![Portable Hole Dunmar Fellowship](../../../assets/portable-hole-dunmar-fellowship.jpg){align="right"; width="400"}This portable hole was received as a [gift](<../session-notes/session-42-dufr.md>) from [Basu](<../../../people/dunmari/basu.md>), a mystai of Laka, in exchange for helping clear the excess extraplanar energy from the [Elven Arborea Workshop](<../../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), permeated with the essence of [Arborea](<../../../cosmology/spiritual-realms/arborea.md>). 
 
 Upon receiving the portable hole, the Dunmar Fellowship was warned to follow these four rules:
 - Never open an extradimensional portal instead another extradimensional portal

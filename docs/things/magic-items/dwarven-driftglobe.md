@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/other]
 displayDefaults: {defArt: ''}
 name: Driftglobe
 typeOf: wondrous item
@@ -14,7 +14,7 @@ title: Driftglobe
 ---
 # Driftglobe
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Dwarven](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) Magic Wondrous Item__  
+- :octicons-info-24:{ .lg .middle } __[Dwarven](<../../species/dwarves.md>) Magic Wondrous Item__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/5349-driftglobe) 
 </div>
 

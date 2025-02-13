@@ -9,13 +9,15 @@ gender: male
 affiliations:
 - {org: Redpeaks, type: primary}
 whereabouts: Darba
+dm_owner: none
+dm_notes: color
 title: Vondal Redpeak
 ---
 # Vondal Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the [Redpeaks](<../../groups/dwarven-clans/redpeaks.md>)  
+    A [dwarf](<../../species/dwarves.md>) (he/him), of the [Redpeaks](<../../groups/dwarven-clans/redpeaks.md>)  
     { .bio }
 
     Based in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

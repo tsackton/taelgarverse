@@ -5,6 +5,8 @@ name: Shrev
 typeOf: river
 whereabouts: Nayan Floodplains
 aliases: [River Shrev, Shrev River]
+dm_owner: none
+dm_notes: color
 title: Shrev
 ---
 # Shrev
@@ -13,5 +15,5 @@ title: Shrev
 </div>
 
 
-One of the rivers of western [Dunmar](<../realms/dunmar/dunmar.md>), flowing from the [Yuvanti Mountains](<../yuvanti-mountains.md>) to the [Nevos Sea](<../../west-coast/nevos-sea.md>).
+One of the rivers of western [Dunmar](<../realms/dunmar/dunmar.md>), flowing from the [Yuvanti Mountains](<../yuvanti-mountains.md>) to the [Nevos Sea](<../../nevos-and-apporia/nevos-sea.md>).
 

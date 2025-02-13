@@ -1,20 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/metadata/header, status/metadata/image, person]
+tags: [status/cleanup/metadata, status/cleanup/image, person]
 species: giant
 subspecies: frost
 whereabouts: Vindristjarna
 gender: male
+dm_owner: tim
+dm_notes: color
 title: Algerd
 ---
 # Algerd
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../species/children-of-the-riving/giants.md>) (frost) (he/him)  
+    A [giant](<../../species/unusual-species/giants.md>) (frost) (he/him)  
     { .bio }
 
-    Based on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+    Based on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 </div>
 
 

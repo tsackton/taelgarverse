@@ -1,20 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/wip]
+tags: [person, status/stub]
 species: human
 ancestry: Sembaran
 whereabouts: Aslain
 affiliations:
 - {org: Aslain, title: Magistrate}
 dm_notes: important
-dm_owner: none
+dm_owner: mike
 title: Emma Marston
 ---
 # Emma Marston
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans.md>)  
     Magistrate of [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>)  
     { .bio }
 

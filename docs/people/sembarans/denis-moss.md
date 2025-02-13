@@ -17,7 +17,7 @@ title: Denis Moss
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans.md>) (he/him)  
     b. DR 1666 - d. October 21th, 1719, killed by spiders at age 53 years  
     { .bio }
 
@@ -25,4 +25,4 @@ title: Denis Moss
 </div>
 
 
-The father of [Abigail Moss](<./abigail-moss.md>) and her two sisters, he was killed by spiders during the [Second Spider Attack on Tavoise](<../../events/1700s/1719/10/second-spider-attack-on-tavoise.md>), as was his wife and two of his daughters. 
+The father of [Abigail Moss](<./abigail-moss.md>) and her two sisters, he was killed by spiders during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>), as was his wife and two of his daughters. 

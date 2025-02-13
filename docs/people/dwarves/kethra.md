@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork]
+tags: [person]
 aliases: [Kethra Silverspark]
 species: dwarf
 whereabouts:
@@ -13,20 +13,22 @@ affiliations:
 gender: female
 born: 1701
 image: kethra-small.png
+dm_notes: color
+dm_owner: tim
 title: Kethra Silverspark
 ---
 # Kethra Silverspark
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her), of the [Silverspark Clan](<../../groups/dwarven-clans/silversparks.md>)  
+    A [dwarf](<../../species/dwarves.md>) (she/her), of the [Silverspark Clan](<../../groups/dwarven-clans/silversparks.md>)  
     Born DR 1701 (48 years old)  
     { .bio }
 
     Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 
 
 ![Kethra Final Option1](../../assets/kethra-final-option1.png){align="right"; width="400"}Kethra Silverspark, great-grandaughter of [Nora Silverspark](<./nora-silverspark.md>), is a proud dwarven smith and novice adventurer from [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). 

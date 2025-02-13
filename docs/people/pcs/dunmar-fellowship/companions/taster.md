@@ -12,6 +12,8 @@ affiliations:
 - {org: Dunmar Fellowship}
 whereabouts:
 - {type: away, location: missing and presumed dead}
+dm_owner: tim
+dm_notes: color
 title: Taster
 ---
 # Taster

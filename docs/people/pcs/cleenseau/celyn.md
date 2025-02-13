@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person]
+tags: [pc/cleenseau, person, status/active]
 name: Celyn
 born: 1697
 species: human
@@ -27,7 +27,7 @@ title: Celyn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/humans.md>) (he/him)  
     Born DR 1697 (52 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     Member of the Mahaut's Miracle Players (December 1717 - June 29th, 1719)  
@@ -47,7 +47,7 @@ He wears studded leather armor, and where his leathers are not brown they are la
 He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [that nation](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), makes commentary about the fey.  He has explicitly claimed that the fey taught him how to misty step, in fact, and that they sent him to this area by dropping acorns on his head.  To anyone with a familiarity with Tyrwinghan culture, “fey-touched lunatic” is a solid guess here.
 
 >[!Info]- Additional Context (Dan's Eyes Only)
-> Celyn comes from a vineyard working family and was apprenticed to a boundary-walker/fey tender/fairy faith shrine keeper because he was obviously more suited to that than the vineyard; he had a difficult adolescence and “found peace” with [The Wyrdling](<../../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>).
+> Celyn comes from a vineyard working family and was apprenticed to a boundary-walker/fey tender/fairy faith shrine keeper because he was obviously more suited to that than the vineyard; he had a difficult adolescence and “found peace” with [The Wyrdling](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>).
 
 >[!Info]- Additional Context (Chris' Eyes Only)
 >Celyn is an avid dice gamer.  He is not an avid _gambler_, he just _really loves dice_.  We’re at “the shiny math rocks go clicky-clack” levels of joy at dice.  He is very judicious about the gambling part, clearly only staking what he can afford; it’s all about the throwing the dice and seeing what happens, not the money or even the possibility of winning money, and he accepts all results with that same wide-eyed enthusiasm that he does everything else.  
@@ -66,11 +66,11 @@ He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [
 >  He is not entirely blown by the wind; he trusts his intuition profoundly, along with the guidance of the fey and his god.  (Which puts him in a good position to be at the whims of higher powers.)  It’s likely he wandered out of his home turf a bit ago, following some impulse or other, and those impulses and occasional directives from the Wyrdling or friendly fey eventually steered him to where he is.
 
 ### Items
-| Image                                            | Name                                                                                    | Type   | Mechanics                                                                        |
-| ------------------------------------------------ | --------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------- |
-| ![Silverthorn](../../../assets/silverthorn.png)                 | [Silverthorn](<../../../Campaigns/Cleenseau Campaign/Treasure/Silverthorn.md>)                   | weapon | [Reference](https://www.dndbeyond.com/magic-items/7793313-rapier-of-surprise)    |
-| ![Shield of False Life](../../../assets/shield-of-false-life.png)        | [Shield of False Life](<../../../Campaigns/Cleenseau Campaign/Treasure/Shield of False Life.md>) | armor  | [Reference](https://www.dndbeyond.com/magic-items/7487214-shield-of-life-giving) |
-| ![Ranger Cloak of Concealment](../../../assets/ranger-cloak-of-concealment.png) | [Cloak of Concealment](<../../../Campaigns/Cleenseau Campaign/Treasure/Cloak of Concealment.md>) | cloak  | [Reference](https://www.dndbeyond.com/magic-items/4606-cloak-of-elvenkind)       |
+| Image                                            | Name                                                                                    | Type   | Mechanics |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------- | ------ | --------- |
+| ![Silverthorn](../../../assets/silverthorn.png)                 | [Silverthorn](<../../../Campaigns/Cleenseau Campaign/Treasure/Silverthorn.md>)                   | weapon | \-        |
+| ![Shield of False Life](../../../assets/shield-of-false-life.png)        | [Shield of False Life](<../../../Campaigns/Cleenseau Campaign/Treasure/Shield of False Life.md>) | armor  | \-        |
+| ![Ranger Cloak of Concealment](../../../assets/ranger-cloak-of-concealment.png) | [Cloak of Concealment](<../../../Campaigns/Cleenseau Campaign/Treasure/Cloak of Concealment.md>) | cloak  | \-        |
 
 
 ### Stories about Celyn

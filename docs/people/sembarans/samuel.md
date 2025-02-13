@@ -17,7 +17,7 @@ title: Samuel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1705 (44 years old)  
     Kitchen Boy of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)  
     { .bio }

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {wOrigin: 'Home area: <origin>', prep: 'on'}
-tags: [item/boat]
+tags: [item/vehicle]
 typeOf: vehicle
 ancestry: halfling
 typeOfAlias: boat
@@ -12,15 +12,17 @@ whereabouts:
 - {type: away, start: 1748-08-17, end: 1748-08-17, location: Old Chardon Canal}
 - {type: away, start: 1748-08-18, end: 1748-08-20, prefix: traveling in, location: Gulf of Chardon}
 - {type: away, start: 1748-08-21, location: Chardon}
+dm_owner: none
+dm_notes: color
 title: Emerald Song
 ---
 # The Emerald Song
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) Boat__  
-   Home area: the [Nevos Sea](<../../gazetteer/west-coast/nevos-sea.md>)  
+- :octicons-info-24:{ .lg .middle } __[Halfling](<../../species/halflings.md>) Boat__  
+   Home area: the [Nevos Sea](<../../gazetteer/nevos-and-apporia/nevos-sea.md>)  
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of August 21th, 1748): [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of August 21th, 1748): [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 
 
 The halfling ship Emerald Song is a fast, lanteen-rigged, three-masted trading ship owned by the Silversong clan, rigged with a single square mast and two fore-and-aft masts, at least typically. It typically sails between Chardon and points on the Nevos Sea with a crew of 22 and room for up to 12 passengers, more if they are halflings.

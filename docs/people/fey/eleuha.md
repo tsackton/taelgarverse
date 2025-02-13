@@ -17,15 +17,15 @@ title: Eleuha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A dryad ([fey](<../../species/children-of-the-riving/fey/fey.md>)), she/her  
+    A dryad ([fey](<../../species/extraplanar/fey.md>)), she/her  
     { .bio }
 
-    Based in [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region
+    Based in [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), [Orekatu](<../../gazetteer/faraway-places/orekatu.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on November 6th, 1748 in [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>), [Orekatu](<../../gazetteer/far-south/orekatu.md>), the South Region  
+:octicons-location-24:{ .lg .middle } Met by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on November 6th, 1748 in [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), [Orekatu](<../../gazetteer/faraway-places/orekatu.md>)  
 
 
-Eleuha is a dryad, who was born and lives in the great jungle of [Azta Lekua](<../../gazetteer/far-south/azta-lekua.md>). She is one of the many daughters of the forest who watch over the lands, friend to the spirit of the jungle, [Lengau](<../other-nonhumans/lengau.md>). 
+Eleuha is a dryad, who was born and lives in the great jungle of [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>). She is one of the many daughters of the forest who watch over the lands, friend to the spirit of the jungle, [Lengau](<../other-nonhumans/lengau.md>). 

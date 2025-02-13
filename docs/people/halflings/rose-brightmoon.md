@@ -14,13 +14,15 @@ affiliations:
 - {org: Brightmoons, type: primary}
 whereabouts:
 - {type: home, location: Wave Dancer}
+dm_owner: none
+dm_notes: color
 title: Rose Brightmoon
 ---
 # Rose Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the Brightmoons  
+    A [halfling](<../../species/halflings.md>) (she/her), of the Brightmoons  
     Musician of the [Wave Dancer](<../../things/ships/wave-dancer.md>)  
     { .bio }
 

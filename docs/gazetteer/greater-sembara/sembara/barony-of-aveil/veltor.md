@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external]
+tags: [place]
 typeOf: settlement
 created: 1121
 typeOfAlias: fortified village
@@ -17,7 +17,7 @@ title: Veltor
 -  
     :octicons-people-24: pop. 699  
    :material-calendar: Founded DR 1121 (628 years ago)  
-    :octicons-location-24:{ .lg .middle } A fortified village in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+    :octicons-location-24:{ .lg .middle } A fortified village in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

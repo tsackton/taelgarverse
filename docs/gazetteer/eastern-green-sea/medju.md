@@ -3,12 +3,14 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Medju
 typeOf: city
-whereabouts: Eastern Green Sea Region
+whereabouts: Eastern Green Sea
+dm_notes: important
+dm_owner: tim
 title: Medju
 ---
 # Medju
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A city in the [Eastern Green Sea Region](<./eastern-green-sea-region.md>)  
+-    :octicons-location-24:{ .lg .middle } A city in the [Eastern Green Sea](<./eastern-green-sea.md>)  
 </div>
 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork]
+tags: [person]
 species: elf
 campaignInfo:
 - {campaign: dufr, date: 1749-01-16, type: visited}
@@ -12,6 +12,8 @@ whereabouts:
 name: Arheste
 pronunciation: AR-hes-teh
 gender: female
+dm_owner: tim
+dm_notes: important
 title: Arheste
 ---
 # Arheste
@@ -19,38 +21,38 @@ title: Arheste
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (she/her), ([ka](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 31)  
+    An [elf](<../../species/elves.md>) (she/her), ([ka](<../../background/elven-cycle-of-generations.md>) 31)  
     Born DR 747 (1002 years old)  
     { .bio }
 
     Originally from: [Rostaurë](<../../history/drankorian-era/rostaure.md>), the Central Lowlands Region
-    Based in [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
+    Based in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Visited by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1749 in [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)  
+:octicons-location-24:{ .lg .middle } Visited by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1749 in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)  
 
 
-Arheste is an ancient [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>), with silver hair and piercing eyes, originally born during the days of the Drankorian Empire. He right arm is withered, cramped, and useless, usually worn in a sling, and she looks worn in a way that is very unusual for [elves](<../../species/children-of-the-embodied-gods/elves/elves.md>). She spent much of the first several hundred years of her life in Drankor first as an ally of the emperors, and then, during Apollyon's reign, as a prisoner. After the [First Plague](<../../events/1000s/1059/first-plague.md>), which she survived, albeit damaged and sick, she fled north and eventually settled in [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>). 
+Arheste is an ancient [elf](<../../species/elves.md>), with silver hair and piercing eyes, originally born during the days of the Drankorian Empire. He right arm is withered, cramped, and useless, usually worn in a sling, and she looks worn in a way that is very unusual for [elves](<../../species/elves.md>). She spent much of the first several hundred years of her life in Drankor first as an ally of the emperors, and then, during Apollyon's reign, as a prisoner. After the [First Plague](<../../events/1000s/1059/first-plague.md>), which she survived, albeit damaged and sick, she fled north and eventually settled in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>). 
 
 
 ## Arheste's Story
 *(as told to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in DR 1749)*
 
-I was born in [Rostaurë](<../../history/drankorian-era/rostaure.md>) (ROS-tow-reh); as the [elves](<../../species/children-of-the-embodied-gods/elves/elves.md>) would translate it, the Forest of Rains. An elvin settlement, maybe 150 miles northeast of [Drankor](<../../history/drankorian-era/drankor.md>), between the river and the bay. The city of my birth was called Estemar (ES-teh-mar), the city of peace, where [Humans](<../../species/children-of-divine-creation/humans/humans.md>), [elves](<../../species/children-of-the-embodied-gods/elves/elves.md>), and peronar lived together happily. I spent my first [leya](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) at the court of the Drankorian emperors, advising Aglir, and then the twins Pelois and Cekious, who ruled together.
+I was born in [Rostaurë](<../../history/drankorian-era/rostaure.md>) (ROS-tow-reh); as the [elves](<../../species/elves.md>) would translate it, the Forest of Rains. An elvin settlement, maybe 150 miles northeast of [Drankor](<../../history/drankorian-era/drankor.md>), between the river and the bay. The city of my birth was called Estemar (ES-teh-mar), the city of peace, where [Humans](<../../species/humans.md>), [elves](<../../species/elves.md>), and peronar lived together happily. I spent my first [leya](<../../background/elven-cycle-of-generations.md>) at the court of the Drankorian emperors, advising Aglir, and then the twins Pelois and Cekious, who ruled together.
   
-It was a good time. There was peace. The land was healthy. Yes, there were battles. I rode to fight with the Drankorian armies against the spreading fire, an alliance of efreeti and fire [Elementals](<../../species/children-of-the-riving/elementals/elementals.md>) and [Giants](<../../species/children-of-the-riving/giants.md>), led by an ancient red dragon that sought to claim the wealth and power of [Drankor](<../../history/drankorian-era/drankor.md>) itself. I saw Pelois and Cekious, the twin emperors, die in dragon fire. But we prevailed, and [Drankor](<../../history/drankorian-era/drankor.md>) did not fall. It was worth saving in those days. During my first [mela](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>), I returned to Rostaurë, where my son and my daughter were born. They followed in my footsteps, traveling to [Drankor](<../../history/drankorian-era/drankor.md>) and serving in the court of Imrodel, during their first [leya](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>). 
+It was a good time. There was peace. The land was healthy. Yes, there were battles. I rode to fight with the Drankorian armies against the spreading fire, an alliance of efreeti and fire [Elementals](<../../species/extraplanar/elementals.md>) and [Giants](<../../species/unusual-species/giants.md>), led by an ancient red dragon that sought to claim the wealth and power of [Drankor](<../../history/drankorian-era/drankor.md>) itself. I saw Pelois and Cekious, the twin emperors, die in dragon fire. But we prevailed, and [Drankor](<../../history/drankorian-era/drankor.md>) did not fall. It was worth saving in those days. During my first [mela](<../../background/elven-cycle-of-generations.md>), I returned to Rostaurë, where my son and my daughter were born. They followed in my footsteps, traveling to [Drankor](<../../history/drankorian-era/drankor.md>) and serving in the court of Imrodel, during their first [leya](<../../background/elven-cycle-of-generations.md>). 
 
-It was then, during the 32nd [leya](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>), that things started to go wrong. The Emperor [Helea](<../historical-figures/drankorian-emperors/helea.md>) was assassinated, at the height of her power, by a mysterious group calling themselves the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>), which started a civil war. My son was killed in the fighting in [Drankor](<../../history/drankorian-era/drankor.md>). My daughter fled, hiding with a small group of those she could keep safe in the hills west of the city, keeping a guerrilla resistance alive in Helea's name, calling themselves the [Fides Lucaris](<../../groups/drankorian-societies/fides-lucaris.md>). She, too, was killed by the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>), in a later battle. 
+It was then, during the 32nd [leya](<../../background/elven-cycle-of-generations.md>), that things started to go wrong. The Emperor [Helea](<../historical-figures/drankorian-emperors/helea.md>) was assassinated, at the height of her power, by a mysterious group calling themselves the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>), which started a civil war. My son was killed in the fighting in [Drankor](<../../history/drankorian-era/drankor.md>). My daughter fled, hiding with a small group of those she could keep safe in the hills west of the city, keeping a guerrilla resistance alive in Helea's name, calling themselves the [Fides Lucaris](<../../groups/drankorian-societies/fides-lucaris.md>). She, too, was killed by the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>), in a later battle. 
 
-I protected as many as I could in the Rostaurë, especially the peronar, the [elves](<../../species/children-of-the-embodied-gods/elves/elves.md>) who had lived with [Humans](<../../species/children-of-divine-creation/humans/humans.md>) since the days of Hkar, and who were seen as particularly insidious and vile by the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>). 
+I protected as many as I could in the Rostaurë, especially the peronar, the [elves](<../../species/elves.md>) who had lived with [Humans](<../../species/humans.md>) since the days of [Hkar](<../../history/pre-downfall/hkar.md>), and who were seen as particularly insidious and vile by the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>). 
 
-That is when things started to go from bad to worse. During the 33rd meya, when the next generation was singing and dreaming in the great trees of Estemar, the Emperor of [Drankor](<../../history/drankorian-era/drankorian-empire.md>) launched the Dominion Wars, fighting and claiming as much land to the east they could. We defended Rostaurë as best we could through deception and trickery, working with other groups of rebels and dissidents, our allies the [Fides Lucaris](<../../groups/drankorian-societies/fides-lucaris.md>), who my daughter had fought and died for. We were always protected by [Aldanor](<../../cosmology/gods/embodied-gods/aldanor.md>)'s grace, by the power of his magic that ran through my arm and my blade. 
+That is when things started to go from bad to worse. During the 33rd meya, when the next generation was singing and dreaming in the great trees of Estemar, the Emperor of [Drankor](<../../history/drankorian-era/drankorian-empire.md>) launched the Dominion Wars, fighting and claiming as much land to the east they could. We defended Rostaurë as best we could through deception and trickery, working with other groups of rebels and dissidents, our allies the [Fides Lucaris](<../../groups/drankorian-societies/fides-lucaris.md>), who my daughter had fought and died for. We were always protected by [Aldanor](<../../gods-and-religions/gods/embodied-gods/aldanor.md>)'s grace, by the power of his magic that ran through my arm and my blade. 
 
-It was when [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>), then Emperor, betrayed a great dragon, [Cha'mutte](<../extraplanar-powers/cha-mutte.md>) (who would later fight against for our very survival), that things became dire. [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>) slaughtered the [orcs](<../../species/children-of-the-embodied-gods/orcs/orcs.md>) and stole the [cloak of rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>) from them, which could shut out the gods. With the cloak, [Aldanor](<../../cosmology/gods/embodied-gods/aldanor.md>)'s protection meant nothing. [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>) sliced through the defenders of Rostaurë; nothing could stop him. Everywhere he strode, the power of [Aldanor](<../../cosmology/gods/embodied-gods/aldanor.md>) was quelled. The tricks that protected us ceased to matter. The city of Estemar was sacked. Rostaurë burned. The elder trees were cut with sleeping children inside.
+It was when [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>), then Emperor, betrayed a great dragon, [Cha'mutte](<../extraplanar-powers/cha-mutte.md>) (who would later fight against for our very survival), that things became dire. [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>) slaughtered the [orcs](<../../species/orcs.md>) and stole the [cloak of rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>) from them, which could shut out the gods. With the cloak, [Aldanor](<../../gods-and-religions/gods/embodied-gods/aldanor.md>)'s protection meant nothing. [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>) sliced through the defenders of Rostaurë; nothing could stop him. Everywhere he strode, the power of [Aldanor](<../../gods-and-religions/gods/embodied-gods/aldanor.md>) was quelled. The tricks that protected us ceased to matter. The city of Estemar was sacked. Rostaurë burned. The elder trees were cut with sleeping children inside.
 
-This disaster was all the worse because it was totally unforeseen by Elmerica. The leya did not come early. The children were not awakened. I think because Elmerica's foresight was blinded by the cloak as well. None of the gods were able to perceive [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>)'s actions or foresee the danger he brought. I stood against him alone, at the height of my power. He spoke words of death, and I shrugged them off. But every time I raised my sword to summon the power of [Aldanor](<../../cosmology/gods/embodied-gods/aldanor.md>) to my blade and strike with divine force to drive him back, nothing happened. No power came to me. 
+This disaster was all the worse because it was totally unforeseen by Elmerica. The leya did not come early. The children were not awakened. I think because Elmerica's foresight was blinded by the cloak as well. None of the gods were able to perceive [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>)'s actions or foresee the danger he brought. I stood against him alone, at the height of my power. He spoke words of death, and I shrugged them off. But every time I raised my sword to summon the power of [Aldanor](<../../gods-and-religions/gods/embodied-gods/aldanor.md>) to my blade and strike with divine force to drive him back, nothing happened. No power came to me. 
 
 I was defeated and taken with a handful of warriors of mine who had survived (except in the peronar, who were all slaughtered) to [Drankor](<../../history/drankorian-era/drankor.md>). I don't know why he kept us alive. We watched as he turned the city into his personal domain. Using a scepter of great power to create adoring, loyal legions, he would round up the peronar and create bigger and bigger spectacles of slaughter. He would summon thousands, tens of thousands of his followers to giant rallies where he would declare himself a god. Perhaps he wanted us to see his newfound power. The growing anger of my people might have been part of his path to godhood. 
 
@@ -67,7 +69,7 @@ But as this leya began, something changed. The bindings broke. [Apollyon](<../hi
 *Arheste in an earlier time, before the [First Plague](<../../events/1000s/1059/first-plague.md>).*
 
 ![Arheste Portrait Sick](../../assets/arheste-portrait-sick.png)
-*Arheste in [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>).*
+*Arheste in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>).*
 
 
 

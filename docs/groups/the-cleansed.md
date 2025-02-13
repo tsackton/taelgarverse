@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/tim]
+tags: [organization, status/needswork/gameupdate, status/cleanup/metadata]
 displayDefaults: {defArt: ''}
 name: The Cleansed
 typeOf: cult
 ancestry: mysterious
+dm_owner: tim
+dm_notes: important
 title: The Cleansed
 ---
 # The Cleansed
@@ -14,9 +16,9 @@ title: The Cleansed
 </div>
 
 
-A mysterious secret society in [Chardon](<../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>) of which [Fausto](<../people/chardonians/fausto.md>) is a member and seem to be dedicated in some way to Drankorian purity. 
 
 
+A mysterious secret society in [Chardon](<../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) of which [Fausto](<../people/chardonians/fausto.md>) is a member and seem to be dedicated in some way to Drankorian purity. 
 
 
 

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 typeOf: mirror
 subTypeOf: magical
-tags: [item, status/metadata/refactor]
+tags: [item/equipment]
 whereabouts:
 - {type: home, location: unknown hobgoblin wizard, linkText: by an}
 - {type: home, location: dufr}
@@ -20,7 +20,7 @@ title: Mirror of Soul Trapping
    Owned owned by the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
 </div>
 
-:octicons-location-24:{ .lg .middle } Owned owned by the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)
+:octicons-location-24:{ .lg .middle } Owned
 
 
 
@@ -74,9 +74,9 @@ However, it takes a long time to figure out how to translate this into action. A
 
 You feel that this is not all the secrets of the mirror, but you have exhausted what you can learn by examination and trial alone, you would need to do research on magic mirrors, hobgoblin magic, extradimensional prisons, or similar topics to learn more.
 
-[Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)’s research in [Chardon](<../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), August 1748. 
+[Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)’s research in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), August 1748. 
 
-Reading the book that Ulfgar got for you from the [Great Library](<../../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>) on magical mirrors, their construction and use, you learn command words 4 and 5. 
+Reading the book that Ulfgar got for you from the [Great Library](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>) on magical mirrors, their construction and use, you learn command words 4 and 5. 
 
 
 

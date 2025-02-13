@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal, status/metadata/header]
+tags: [person, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Valius
@@ -14,25 +14,27 @@ whereabouts:
 - {type: away, start: 1748-08-01, end: 1748-12-09, location: Xurkhaz}
 - {type: away, start: 1748-12-08, end: 1748-12-09, location: Uzgukhar}
 - {type: away, start: 1748-12-10, end: 9999, location: Mirror of Soul Trapping}
+dm_notes: important
+dm_owner: tim
 title: Valius
 ---
 # Valius
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1722 (27 years old)  
     Member of the [Chardonian Legion](<../../groups/chardonian-organizations/chardonian-legion.md>), and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 
-    Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Captured by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 9th, 1748 in [Uzgukhar](<../../gazetteer/istaros-watershed/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/istaros-watershed/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)  
+:octicons-location-24:{ .lg .middle } Captured by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 9th, 1748 in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
 
 
 

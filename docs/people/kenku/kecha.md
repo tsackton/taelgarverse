@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork]
+tags: [person]
 whereabouts: Tollen
 species: kenku
 gender: male
 name: Kecha
 image: kecha-small.png
+dm_notes: important
+dm_owner: tim
 title: Kecha
 ---
 # Kecha
@@ -15,7 +17,7 @@ title: Kecha
     A kenku (he/him)  
     { .bio }
 
-    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
 </div>
 
 

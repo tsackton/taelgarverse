@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/material]
+tags: [item/other]
 typeOf: material
 displayDefaults: {defArt: ''}
+dm_owner: none
+dm_notes: color
 title: Tollen Dyes
 ---
 # Tollen Dyes

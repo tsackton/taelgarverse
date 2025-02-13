@@ -21,7 +21,7 @@ title: Skalme
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Skaer](<../../gazetteer/western-green-sea/realms/skaer.md>) [human](<../../species/humans.md>) (she/her)  
     Born DR 1707 (42 years old)  
     { .bio }
 

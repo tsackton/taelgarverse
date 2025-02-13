@@ -14,26 +14,28 @@ affiliations:
 - {org: Wave Dancer, title: Navigator}
 whereabouts:
 - {type: home, location: Wave Dancer, format: '<linktext> <name>, <ancestry:a> <maintype>'}
+dm_owner: none
+dm_notes: color
 title: Corrin Wildheart
 ---
 # Corrin Wildheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Wildhearts](<../../groups/halfling-families/wildhearts.md>)  
+    A [halfling](<../../species/halflings.md>) (he/him), of the [Wildhearts](<../../groups/halfling-families/wildhearts.md>)  
     Navigator of the [Wave Dancer](<../../things/ships/wave-dancer.md>)  
     { .bio }
 
-    Based in the [Wave Dancer](<../../things/ships/wave-dancer.md>), a [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) boat
+    Based in the [Wave Dancer](<../../things/ships/wave-dancer.md>), a [halfling](<../../species/halflings.md>) boat
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on September 30th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), a [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) boat, sailing to [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), in the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
+:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on September 30th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), a [halfling](<../../species/halflings.md>) boat, sailing to [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), in the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
 
 
 
-:octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), a [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) boat, moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), in the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
+:octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), a [halfling](<../../species/halflings.md>) boat, moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), in the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
 
 
 Corrin Wildheart is a navigator with a touch of weather magic, part of the crew of the halfling trading ship the [Wave Dancer](<../../things/ships/wave-dancer.md>). He has bright blond unkempt hair, and tends towards yellow and red clothes.

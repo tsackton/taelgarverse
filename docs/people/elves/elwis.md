@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, status/unknown]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1749-01-02, type: met}
 name: Elwis
@@ -14,6 +14,8 @@ whereabouts:
 - {type: away, start: 1744-01-01, end: 1748-08-28, location: Green Sea}
 - {type: away, start: 1748-08-29, end: 9999, location: Tollen}
 pronunciation: EL-wiss
+dm_notes: color
+dm_owner: none
 title: Elwis
 ---
 # Elwis
@@ -21,23 +23,23 @@ title: Elwis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (she/her), ([ka](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 37)  
+    An [elf](<../../species/elves.md>) (she/her), ([ka](<../../background/elven-cycle-of-generations.md>) 37)  
     Born DR 1634 (115 years old)  
     { .bio }
 
-    Based in [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
+    Based in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+:octicons-location-24:{ .lg .middle } Currently in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 2nd, 1749 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 2nd, 1749 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
 
 
-Elwis is a female elf and painter from [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>). 
+Elwis is a female elf and painter from [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>). 
 
 
-She is spending her wandering years traveling around the [Green Sea](<../../gazetteer/green-sea.md>), trying to make new art that hasn't been dreamed before in the history of her people. She has recently come to [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>), fascinated by the magical inks of the Dyer's Guild and seeking to use them in painting. 
+She is spending her wandering years traveling around the [Green Sea](<../../gazetteer/green-sea.md>), trying to make new art that hasn't been dreamed before in the history of her people. She has recently come to [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), fascinated by the magical inks of the Dyer's Guild and seeking to use them in painting. 
 
 

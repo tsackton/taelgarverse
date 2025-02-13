@@ -5,6 +5,8 @@ typeOf: river
 whereabouts: Hara Watershed
 name: Thandar
 pronunciation: TAHN-dur
+dm_owner: none
+dm_notes: color
 title: Thandar
 ---
 # Thandar
@@ -14,7 +16,7 @@ title: Thandar
 </div>
 
 
-The Tandar flows about 240 miles from its source in the [Sentinels](<../../../sentinel-range/sentinel-range.md>) to its confluence with the [Hara](<./hara.md>) on the [~North Tokra Plains~](<../../dunmari-basin/north-tokra-plains.md>). The upper reaches of the Tandar are swift flowing and marked by rapids and gorges as the river cascades from the steep slopes of the Sentinels to the plains below. 
+The Tandar flows about 240 miles from its source in the [Sentinels](<../../../sentinel-range.md>) to its confluence with the [Hara](<./hara.md>) on the [~North Tokra Plains~](<../../dunmari-basin/north-tokra-plains.md>). The upper reaches of the Tandar are swift flowing and marked by rapids and gorges as the river cascades from the steep slopes of the Sentinels to the plains below. 
 
 As the Tandar enters the flat plains of the Dunmari basin, it winds slowly southwest across the eastern edge of the [~Songara Plains~](<../../dunmari-basin/songara-plains.md>). 
 

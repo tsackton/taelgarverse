@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-25, type: met}
 name: Vaallinen
@@ -11,13 +11,15 @@ gender: male
 pronunciation: va-lin-en
 title: Hakeasa Vaallinen
 whereabouts: Pyhlla
+dm_notes: color
+dm_owner: tim
 ---
 # Hakeasa Vaallinen
 :speaker:{ .middle } *(va-lin-en)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Skaer](<../../gazetteer/western-green-sea/realms/skaer.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1713 (36 years old)  
     { .bio }
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/wip]
+tags: [person, status/stub]
 name: Narrisa de Abadelle
 born: 1682
 species: human
@@ -16,7 +16,7 @@ title: Narrisa de Abadelle
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans.md>) (she/her)  
     Born DR 1682 (67 years old)  
     Member of the [Order of the Charitable Wanderer](<../../groups/order-of-the-charitable-wanderer.md>)  
     { .bio }

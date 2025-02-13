@@ -10,13 +10,15 @@ ancestry: Dunmari
 gender: female
 affiliations: [Shakun Mystai]
 whereabouts: Karawa
+dm_owner: none
+dm_notes: color
 title: Beli
 ---
 # Beli
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (she/her)  
     Born DR 1720 (29 years old)  
     Member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>)  
     { .bio }

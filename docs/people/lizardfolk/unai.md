@@ -15,7 +15,7 @@ title: Unai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (she/her)  
+    A [lizardfolk](<../../species/lizardfolk.md>) (she/her)  
     Born DR 1602 (147 years old)  
     { .bio }
 

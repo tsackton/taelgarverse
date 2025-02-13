@@ -15,7 +15,7 @@ title: Greymalkin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../../species/children-of-the-riving/fey/fey.md>) (griffin) (he/him)  
+    A [fey](<../../../species/extraplanar/fey.md>) (griffin) (he/him)  
     Appeared from the Feywild on January 7th, 1720 (29 years old)  
     { .bio }
 

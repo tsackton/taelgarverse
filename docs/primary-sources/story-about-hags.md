@@ -1,5 +1,7 @@
 ---
-tags: [source, status/cleanup/internal]
+tags: [source, status/cleanup/text]
+dm_owner: tim
+dm_notes: color
 title: Story about Hags
 ---
 

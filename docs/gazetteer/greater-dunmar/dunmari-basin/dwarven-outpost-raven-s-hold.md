@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external]
+tags: [place, status/cleanup/text]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Dwarven Outpost (Raven's Hold)
@@ -8,11 +8,13 @@ typeOf: fort
 ancestry: dwarven
 subTypeOf: ruined
 whereabouts: Sentinel Range
+dm_notes: important
+dm_owner: tim
 title: Dwarven Outpost (Raven's Hold)
 ---
 # Dwarven Outpost (Raven's Hold)
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) ruined fort in the [Sentinel Range](<../../sentinel-range/sentinel-range.md>)  
+-    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../species/dwarves.md>) ruined fort in the [Sentinel Range](<../../sentinel-range.md>)  
 </div>
 
 

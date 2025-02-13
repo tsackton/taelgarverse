@@ -4,6 +4,8 @@ tags: [historical, person]
 campaignInfo: []
 name: Khathayi the Flametongue
 species: mysterious creature
+dm_owner: tim
+dm_notes: important
 title: Khathayi the Flametongue
 ---
 # Khathayi the Flametongue

@@ -5,6 +5,8 @@ displayDefaults: {dPastHasStart: Fought on <startDate>}
 DR: 1748-12-14
 partOf: Siblings War
 typeOf: battle
+dm_owner: tim
+dm_notes: important
 title: Battle of Tokra
 ---
 # The Battle of Tokra

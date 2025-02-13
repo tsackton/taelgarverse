@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal, status/metadata/image, status/metadata/header]
+tags: [person, status/cleanup/image, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
 name: Kaeso
@@ -17,23 +17,25 @@ whereabouts:
 - {type: home, start: 1723, end: 1748-09-09, location: Chardon}
 - {type: away, start: 1748-09-10, location: fleeing the Chardonian Empire}
 - {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ''}
+dm_notes: important
+dm_owner: tim
 title: Kaeso
 ---
 # Kaeso
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1691 (58 years old)  
     Member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>)  
     { .bio }
 
-    Originally from: [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+    Originally from: [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 12th, 1748 in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)  
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 12th, 1748 in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)  
 
 
 

@@ -10,7 +10,7 @@ title: The Setting Sun
 ---
 # The Setting Sun
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An inn in [Aslain](<./aslain.md>), the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+-    :octicons-location-24:{ .lg .middle } An inn in [Aslain](<./aslain.md>), the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

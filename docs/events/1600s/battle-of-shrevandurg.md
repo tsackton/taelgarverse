@@ -1,8 +1,10 @@
 ---
-tags: [event-source, status/needswork/internal]
+tags: [event, status/stub]
 name: Battle of Shrevandurg
 typeOf: battle
 displayDefaults: {defArt: the}
+dm_notes: important
+dm_owner: tim
 title: Battle of Shrevandurg
 ---
 # The Battle of Shrevandurg

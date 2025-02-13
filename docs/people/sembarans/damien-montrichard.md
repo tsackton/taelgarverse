@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/cleanup/gameupdate]
 name: Damien Montrichard
 born:
 species: human
@@ -21,7 +21,7 @@ title: Damien Montrichard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [human](<../../species/humans.md>) (he/him)  
     Member of [The Rangers](<../../groups/the-rangers.md>)  
     { .bio }
 
@@ -29,6 +29,8 @@ title: Damien Montrichard
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of January 14th, 1720): [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+
+
 
 
 ![Damien Montrichard](../../assets/damien-montrichard.jpg){align="right"; width="400"}A storyteller and musician, with a keen eye for lore.

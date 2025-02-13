@@ -19,11 +19,11 @@ title: Gareth of Tollen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tollender](<../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../species/humans.md>) (he/him)  
     b. DR 1686 - d. February 7th, 1720, brought to justice at age 34 years  
     { .bio }
 
-    Originally from: the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Originally from: the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
     Lived in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 

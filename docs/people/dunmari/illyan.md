@@ -10,13 +10,15 @@ ancestry: Dunmari
 gender: male
 whereabouts:
 - {type: away, start: 1748-06-03, end: 1748-12-14, linkText: camped near, location: Tokra, format: '<name:q>'}
+dm_owner: tim
+dm_notes: important
 title: Illyan
 ---
 # Illyan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1708 (41 years old)  
     { .bio }
 

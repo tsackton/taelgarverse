@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item, item/magical, status/cleanup/external]
+tags: [item/equipment]
 typeOf: mirror
 name: Mirror of the Past
 title: Eudomes' Mirror of the Past

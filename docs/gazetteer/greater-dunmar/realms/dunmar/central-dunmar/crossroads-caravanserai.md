@@ -4,12 +4,14 @@ displayDefaults: {linkText: at}
 tags: [place, status/check/name]
 typeOf: inn
 whereabouts: Stoneway
+dm_owner: none
+dm_notes: color
 unlisted: true
 title: ~Crossroads Caravanserai~
 ---
 # The ~Crossroads Caravanserai~
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An inn on the [Stoneway](<../../../roads/stoneway.md>), in [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } An inn on the [Stoneway](<../../../roads/stoneway.md>), [Dunmar](<../dunmar.md>)  
 </div>
 
 

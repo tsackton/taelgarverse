@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 displayDefaults: {wOrigin: '', wOriginU: '', defArt: ''}
 name: Agata's Raven Whistle
 typeOf: instrument
@@ -18,7 +18,7 @@ title: Agata's Raven Whistle
 ---
 # Agata's Raven Whistle
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Rare [Fey](<../../../species/children-of-the-riving/fey/fey.md>) Magic Instrument__  
+- :octicons-info-24:{ .lg .middle } __Rare [Fey](<../../../species/extraplanar/fey.md>) Magic Instrument__  
    Owned by [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/3819621-raven-whistle) 
 </div>

@@ -12,12 +12,14 @@ affiliations:
 - {place: Drankorian Empire, start: 980}
 died: 991
 whereabouts: Drankor
+dm_owner: tim
+dm_notes: color
 ---
 # Emperor Akaston
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Hkaran [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A Hkaran [human](<../../../species/humans.md>) (he/him)  
     Died DR 991  
     Emperor of the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) (DR 980 - DR 991)  
     { .bio }

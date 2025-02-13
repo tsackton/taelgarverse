@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/header]
+tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Selkan
 born:
@@ -9,13 +9,15 @@ ancestry: Dunmari
 gender: male
 whereabouts:
 - {type: home, start: 1748-06-08, location: Karawa}
+dm_owner: tim
+dm_notes: important
 title: Selkan
 ---
 # Selkan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
     { .bio }
 
     Originally from: Unknown

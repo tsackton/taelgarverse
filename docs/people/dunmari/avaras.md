@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, status/metadata/header, status/needswork/internal]
+tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Avaras
 born: 1676
@@ -12,25 +12,27 @@ whereabouts:
 - {type: home, start: '', end: '', location: Karawa}
 - {type: home, start: 1717-01-01, end: '', location: Pava and Avaras' House}
 - {type: away, start: 1749-01-01, end: '', location: Pava and Avaras' House}
+dm_notes: important
+dm_owner: tim
 title: Avaras
 ---
 # Avaras
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1676 (73 years old)  
     Member of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)  
     { .bio }
 
     Originally from: [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-    Based in [Pava and Avaras' House](<../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
+    Based in [Pava and Avaras' House](<../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 </div>
 
 
 
 
-![Avaras Portrait](../../assets/avaras-portrait.png){align="right"; width="400"}Avaras is one of the few remaining masters of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). He is an older man, with close cropped gray hair and lined, weathered skin. He lives in the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) with his partner [Pava](<./pava.md>) and apprentice [Amil](<./amil.md>), leading an isolated existence, concerned with [Pava](<./pava.md>) and with what is left of the Order's mission. 
+![Avaras Portrait](../../assets/avaras-portrait.png){align="right"; width="400"}Avaras is one of the few remaining masters of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). He is an older man, with close cropped gray hair and lined, weathered skin. He lives in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) with his partner [Pava](<./pava.md>) and apprentice [Amil](<./amil.md>), leading an isolated existence, concerned with [Pava](<./pava.md>) and with what is left of the Order's mission. 
 
 Avaras grew up on the plains near [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). He was a loner as a child, but drawn to the stories that the wandering monks of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) would tell, and drawn to the idea of gathering the history of the common people. 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/wip]
+tags: [person, status/stub]
 gender: female
 species: human
 ancestry: Addermarian
@@ -16,7 +16,7 @@ title: Sarabeth Asa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An Addermarian [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    An Addermarian [human](<../../species/humans.md>) (she/her)  
     { .bio }
 
     Originally from: the [Barony of Brumecliff](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-brumecliff.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

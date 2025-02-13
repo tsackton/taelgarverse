@@ -4,14 +4,19 @@ tags: [place]
 name: Irrla
 typeOf: island
 typeOfAlias: large island
-whereabouts: Green Sea
+whereabouts:
+- {type: primary, location: Green Sea}
+- {type: secondary, location: Eastern Green Sea}
 pronunciation: EAR-la
+dm_notes: important
+dm_owner: tim
 title: Irrla
 ---
 # Irrla
 :speaker:{ .middle } *(EAR-la)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A large island in the [Green Sea](<../green-sea.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Eastern Green Sea](<./eastern-green-sea.md>)  
 </div>
 
 

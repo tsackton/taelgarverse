@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 displayDefaults: {defArt: ''}
 name: Apollyon's Soulbinding Manacles Vision
 DR: 1749-05-19

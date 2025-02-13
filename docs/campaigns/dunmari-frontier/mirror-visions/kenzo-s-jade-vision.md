@@ -1,6 +1,13 @@
 ---
-{title: Kenzo's Jade Vision}
+headerVersion: 2023.11.25
+tags: [event]
+displayDefaults: {defArt: ''}
+DR: 1748-04-27
+timelineDescriptor: Dunmari Frontier Campaign
+title: Kenzo's Jade Vision
 ---
+# Kenzo's Jade Vision
+
 As you hold the [Jade Piece of Rai's Hand](<../treasure/jade-piece-of-rai-s-hand.md>) up to the mirror, images flash before your eyes.  
 
 - A tower, that you’ve seen before in your dreams, a flash of a room of people.

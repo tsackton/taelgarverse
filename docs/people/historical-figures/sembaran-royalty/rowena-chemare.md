@@ -13,7 +13,7 @@ title: Rowena Chemare
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tollender](<../../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Tollender](<../../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../../species/humans.md>) (she/her)  
     Died DR 1715  
     { .bio }
 

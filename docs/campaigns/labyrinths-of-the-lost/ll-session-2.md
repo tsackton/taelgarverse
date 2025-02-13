@@ -9,7 +9,7 @@ title: LL Session 2
 # Labyrinths of the Lost - Session 2
 >*in Taelgar: October 17th-18th, 1748*
 >*on Earth: November 25th, 2023*
->*[Western Cymea](<../../gazetteer/western-green-sea/cymea/western-cymea.md>)*
+>*[Western Cymea](<../../gazetteer/western-green-sea/realms/western-cymea.md>)*
 # Summary
 - The party manages to rest safely in the workshop, unbothered by goblins
 - The next morning, they make their way across the grounds to the chapel, avoiding hobgoblin scouts with the aid of Dilion's mechanical dog
@@ -20,10 +20,10 @@ title: LL Session 2
 - The master bedroom suite was apparently once occupied by pirates; the ghost of a pirate captain now haunts the bedroom
 - The party spoke with the ghost, and Gaudin convinced him to reveal the secret entrance to Grimstone's lair in the basement as the session ended
 ## The Protagonists
-- Asescale, a [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) alchemist and gambler
-- Dilion, a [human](<../../species/children-of-divine-creation/humans/humans.md>) tinkerer and battlesmith
-- Gadin, a [human](<../../species/children-of-divine-creation/humans/humans.md>) warlock with a hint of the [Fey](<../../species/children-of-the-riving/fey/fey.md>) about him
-- Loria Underbough, a [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) wanderer and ranger
+- Asescale, a [lizardfolk](<../../species/lizardfolk.md>) alchemist and gambler
+- Dilion, a [human](<../../species/humans.md>) tinkerer and battlesmith
+- Gadin, a [human](<../../species/humans.md>) warlock with a hint of the [Fey](<../../species/extraplanar/fey.md>) about him
+- Loria Underbough, a [halfling](<../../species/halflings.md>) wanderer and ranger
 # Plot Developments
 
 - Grimstone has a chained basilisk in the courtyard of the manor, which is probably related to all the stone statues around the manor

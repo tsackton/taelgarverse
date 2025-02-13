@@ -10,13 +10,15 @@ ancestry: Skaer
 gender: male
 whereabouts:
 - {type: home, location: Pyhlla}
+dm_owner: none
+dm_notes: color
 title: Tulvak
 ---
 # Tulvak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Skaer](<../../gazetteer/western-green-sea/realms/skaer.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1719 (30 years old)  
     { .bio }
 

@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/other]
 displayDefaults: {defArt: ''}
 ddbLink: https://www.dndbeyond.com/magic-items/horn-of-silent-alarm
 typeOf: horn
 subtypeOf: magic
 ancestry: Dunmari
 rarity: common
+dm_owner: none
+dm_notes: none
 title: Horn of Silent Alarm (Dunmari)
 ---
 # Horn of Silent Alarm (Dunmari)
@@ -16,7 +18,7 @@ title: Horn of Silent Alarm (Dunmari)
 </div>
 
 
-A common magic item created in large numbers by the Dunmari during the [Dharajun Dynasty](<../../groups/dunmari-dynasties/dharajun-dynasty.md>), especially in the years before and during the [Great War](<../../events/1500s/great-war.md>). Typically carried by Dunmari scouts and outriders, and used to alert trailing forces of danger. These items are often associated with the blessings of [Chidya](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/chidya.md>). Although a variety of designs are common, all feature a horse motif.
+A common magic item created in large numbers by the Dunmari during the [Dharajun Dynasty](<../../groups/dunmari-dynasties/dharajun-dynasty.md>), especially in the years before and during the [Great War](<../../events/1500s/great-war.md>). Typically carried by Dunmari scouts and outriders, and used to alert trailing forces of danger. These items are often associated with the blessings of [Chidya](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/chidya.md>). Although a variety of designs are common, all feature a horse motif.
 
 ![Horn of Warning 1](../../assets/horn-of-warning-1.png){align="left"; width="300"}![Horn of Warning 2](../../assets/horn-of-warning-2.png){align="right"; width="300"}
 

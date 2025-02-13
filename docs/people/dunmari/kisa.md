@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/header]
+tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Kisa
 born: 1680
@@ -8,13 +8,15 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts: Karawa
+dm_owner: none
+dm_notes: important
 title: Kisa
 ---
 # Kisa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (she/her)  
     Born DR 1680 (69 years old)  
     { .bio }
 

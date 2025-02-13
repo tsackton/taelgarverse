@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/internal]
+tags: [organization]
 typeOf: family
 dm_notes: none
 dm_owner: none
@@ -11,5 +11,9 @@ title: House of Wisenfold
 -
    :octicons-info-24:{ .lg .middle } A family  
 </div>
+
+
+The Wisenfold family has significant presence along the upper Wistel, especially south and west of [Gowerbourne](<../../gazetteer/greater-sembara/sembara/heartlands/gowerbourne.md>). 
+
 
 

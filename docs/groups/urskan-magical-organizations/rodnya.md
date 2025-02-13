@@ -1,20 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip]
+tags: [organization]
 ancestry: Urskan
 name: Rodnye
 displayDefaults: {defArt: the, indefArt: ''}
 typeOf: magical bloodlines
+dm_notes: important
+dm_owner: tim
 title: Rodnye
 ---
 # The Rodnye
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) magical bloodlines  
+   :octicons-info-24:{ .lg .middle } An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) magical bloodlines  
 </div>
 
 
-The eight rodnye of [Ursk](<../../gazetteer/northern-green-sea/ursk.md>) (singular: Rodnya) are the secretive magical bloodlines that both control the magical power of the population of [Ursk](<../../gazetteer/northern-green-sea/ursk.md>), and rule the country. The rodnye are each a loose confederacy, headed by a powerful mage, each with their own idiosyncratic and individualistic attitudes and rules. Only those invited to join a rodnya may undergo the secret rituals that bind them to the bloodline and enhance their arcane strength. Nonetheless, at the highest levels the rodnye coordinate to rule and defend the country. 
+The eight rodnye of [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>) (singular: Rodnya) are the secretive magical bloodlines that both control the magical power of the population of [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>), and rule the country. The rodnye are each a loose confederacy, headed by a powerful mage, each with their own idiosyncratic and individualistic attitudes and rules. Only those invited to join a rodnya may undergo the secret rituals that bind them to the bloodline and enhance their arcane strength. Nonetheless, at the highest levels the rodnye coordinate to rule and defend the country. 
 
 The eight rodnye are:
 - The [Rodnya Voknaz](<./rodnya-voknaz.md>), based in the western part of Ursk, and known primarily for their skill in war and in shaping elemental forces into destructive magic. Long a proponent of offensive power as the best defense against dragon invasion. 

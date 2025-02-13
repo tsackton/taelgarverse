@@ -17,7 +17,7 @@ title: Annabeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (she/her), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
+    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/humans.md>) (she/her), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
     b. DR 1600 - d. DR 1675, died at age 75 years  
     { .bio }
 

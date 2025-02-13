@@ -9,7 +9,7 @@ ancestry: Isinguer
 gender: male
 player: Mike Sackton
 died: 1545
-dm_owner: mike
+dm_owner: player
 dm_notes: important
 affiliations: [The Rangers]
 title: Beryl
@@ -18,7 +18,7 @@ title: Beryl
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Isinguer](<../../../history/istabor-alliance.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    An [Isinguer](<../../../history/istabor-alliance.md>) [human](<../../../species/humans.md>) (he/him)  
     b. DR 1502 - d. DR 1545, died at age 43 years  
     Member of [The Rangers](<../../../groups/the-rangers.md>) (until DR 1545)  
     { .bio }
@@ -26,6 +26,6 @@ title: Beryl
 </div>
 
 
-A hero of the [Great War](<../../../events/1500s/great-war.md>), and the leader of [The Rangers](<../../../groups/the-rangers.md>) in the 1540s, now in the sky as the Hunter of the [Fox and Hunter](<../../../cosmology/gods/incorporeal-gods/fox-and-hunter.md>).  Originally from the [Istabor Alliance](<../../../history/istabor-alliance.md>).
+A hero of the [Great War](<../../../events/1500s/great-war.md>), and the leader of [The Rangers](<../../../groups/the-rangers.md>) in the 1540s, now in the sky as the Hunter of the [Fox and Hunter](<../../../gods-and-religions/gods/incorporeal-gods/fox-and-hunter.md>).  Originally from the [Istabor Alliance](<../../../history/istabor-alliance.md>).
 
 Known for his staff, [Analadin](<../../../things/artifacts-of-power/analadin.md>), and his fox companion, [Willow Wind](<companions/willow-wind.md>).

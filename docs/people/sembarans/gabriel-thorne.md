@@ -7,8 +7,9 @@ species: human
 ancestry: Sembaran
 gender: male
 affiliations:
+- {org: Thornes of Cleenseau, type: primary}
 whereabouts: Cleenseau
-dm_notes: color
+dm_notes: none
 dm_owner: none
 title: Gabriel Thorne
 ---
@@ -16,7 +17,7 @@ title: Gabriel Thorne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans.md>) (he/him), of the [Thornes of Cleenseau](<../../groups/sembaran-noble-houses/thornes-of-cleenseau.md>)  
     Born DR 1690 (59 years old)  
     { .bio }
 

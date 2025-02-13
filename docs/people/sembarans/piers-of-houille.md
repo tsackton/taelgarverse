@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/internal, person]
+tags: [person, status/stub]
 whereabouts:
 - {location: Houille, type: home}
 - {location: Cranford, type: away, start: 1720-02-11, end: 1720-02-16}
@@ -14,7 +14,7 @@ title: Piers of Houille
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../species/children-of-divine-creation/humans/humans.md>)  
+    A [human](<../../species/humans.md>)  
     Died February 16th, 1720  
     { .bio }
 

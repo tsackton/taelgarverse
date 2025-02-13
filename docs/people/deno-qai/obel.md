@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Obel
 born: 1688
@@ -8,17 +8,19 @@ species: human
 ancestry: Deno'qai
 gender: male
 whereabouts: Te'kula village
+dm_owner: none
+dm_notes: color
 title: Obel
 ---
 # Obel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A Deno'qai [human](<../../species/humans.md>) (he/him)  
     Born DR 1688 (61 years old)  
     { .bio }
 
-    Based in [Te'kula village](<../../gazetteer/chasa-nahadi-watershed/te-kula-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+    Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 

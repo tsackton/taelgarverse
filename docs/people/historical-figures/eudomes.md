@@ -10,13 +10,15 @@ ancestry: Drankorian
 affiliations:
 - {org: Occulta Ludum}
 gender: male
+dm_owner: tim
+dm_notes: important
 title: Eudomes
 ---
 # Eudomes
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Drankorian](<../../history/drankorian-era/drankorian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Drankorian](<../../history/drankorian-era/drankorian-empire.md>) [human](<../../species/humans.md>) (he/him)  
     Died  
     Member of the [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>)  
     { .bio }

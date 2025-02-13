@@ -1,15 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 typeOf: shield
 subTypeOf: magical
 ancestry: dwarven
 title: Shield of the Brawnanvil Clan
 ---
 # The Shield of the Brawnanvil Clan
-:octicons-info-24:{ .lg .middle } **[Dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) Magical Shield**  
+:octicons-info-24:{ .lg .middle } **[Dwarven](<../../../species/dwarves.md>) Magical Shield**  
 
-![Brawnanvil Shield](../../../assets/brawnanvil-shield.jpg){align="right"; width="350"}This shield is an elaborate, decorative shield, not useful in battle, made of polished steel, with  decorations of scenes from dwarven life adorning it. It is a family heirloom of the Brawnanvils, a dwarven clan originally from[Ardith](<../../../gazetteer/sentinel-range/dwarven-kingdoms/ardith.md>), now based in [Tharn Todor](<../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). 
+![Brawnanvil Shield](../../../assets/brawnanvil-shield.jpg){align="right"; width="350"}This shield is an elaborate, decorative shield, not useful in battle, made of polished steel, with  decorations of scenes from dwarven life adorning it. It is a family heirloom of the Brawnanvils, a dwarven clan originally from[Ardith](<../../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), now based in [Tharn Todor](<../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). 
 
 While holding the shield, a dwarf can activate it, being drawn into a recreation of a story from the Brawnanvil past. A Brawnanvil can guide the story to a particular memory or place.
 

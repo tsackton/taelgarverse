@@ -12,7 +12,7 @@ title: Nelawe
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (she/her), ([ka](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 31)  
+    An [elf](<../../species/elves.md>) (she/her), ([ka](<../../background/elven-cycle-of-generations.md>) 31)  
     { .bio }
 
 </div>

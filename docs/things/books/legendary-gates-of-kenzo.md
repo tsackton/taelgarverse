@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/book]
+tags: [item/other]
 typeOf: book
+dm_owner: none
+dm_notes: color
 title: Legendary Gates of Kenzo
 ---
 # The Legendary Gates of Kenzo

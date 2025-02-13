@@ -23,7 +23,7 @@ title: Remille Vauclaire
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [human](<../../species/humans.md>) (she/her)  
     Member of [The Rangers](<../../groups/the-rangers.md>)  
     { .bio }
 

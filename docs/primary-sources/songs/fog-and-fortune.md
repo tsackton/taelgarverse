@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [source]
+dm_owner: none
+dm_notes: none
 title: Fog and Fortune
 ---
 # Fog and Fortune
 
-A popular folk song in [Apporia](<../../gazetteer/west-coast/chardonian-empire/apporia/apporia.md>). 
+A popular folk song in [Apporia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>). 
 
 <audio controls>
     <source src="/taelgarverse/assets/audio/fogbound-rescue.mp3">

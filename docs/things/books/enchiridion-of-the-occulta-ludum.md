@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/book]
+tags: [item/other]
 typeOf: book
 subTypeOf: magical
 ancestry: Drankorian
 affiliations:
 - {org: Occulta Ludum, title: Handbook}
+dm_owner: tim
+dm_notes: important
 title: Enchiridion of the Occulta Ludum
 ---
 # The Enchiridion of the Occulta Ludum

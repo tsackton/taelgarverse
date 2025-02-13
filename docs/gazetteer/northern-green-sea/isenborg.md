@@ -6,12 +6,14 @@ typeOfAlias: steading
 whereabouts: Kaldhalla
 ancestry: frost giant
 pronunciation: EE-zen-borg
+dm_owner: tim
+dm_notes: important
 title: Isenborg
 ---
 # Isenborg
 :speaker:{ .middle } *(EE-zen-borg)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A frost giant steading [Kaldhalla](<./kaldhalla.md>)  
+-    :octicons-location-24:{ .lg .middle } A frost giant steading in [Kaldhalla](<./kaldhalla.md>), [Hrimthur](<./svinjo-mountains.md>), the [Northern Green Sea](<./northern-green-sea.md>)  
 </div>
 
 

@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [source]
+dm_owner: none
+dm_notes: none
 title: Merfolk Fortunes
 ---
 # Merfolk Fortunes
 
-A halfling sea shanty popular among the halflings of the [Gulf of Chardon](<../../gazetteer/west-coast/gulf-of-chardon.md>)
+A halfling sea shanty popular among the halflings of the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>)
 
 
 <audio controls>

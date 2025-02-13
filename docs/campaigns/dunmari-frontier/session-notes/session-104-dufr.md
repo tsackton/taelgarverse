@@ -30,11 +30,11 @@ The party investigates and defeats a colossal construct in the Tower of the Colo
 - The party teleports back to Vindristjarna, now flying over southern jungles, and plans to explore red cliffs for the Jade Piece of Rai's Hand.
 ### Timeline
 - May 14, 1749 DR, late afternoon: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s scry spell reveals the victory of Kenzo's simulacrum over pirate Wellby. The simulacrum starts the journey to [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) to provide information to [Abha](<../../../people/dunmari/abha.md>) and others.
-- May 14, 1749 DR, evening: [Vindristjarna](<../../../things/ships/vindristjarna.md>) flies over the [Garamjala Plateau](<../../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-plateau.md>), into the night
+- May 14, 1749 DR, evening: [Vindristjarna](<../../../things/ships/vindristjarna.md>) flies over the [Garamjala Plateau](<../../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-plateau.md>), into the night
 - May 15, 1749 DR, morning: The party spots a white marble tower in the desert, and departs to investigate.
 - May 15, 1749 DR, late morning: The party enters the Tower of the Colossus, and defeats the partially intact giant colossus trapped there. Further exploration reveals buried floors and a hidden treasure room.
 - May 15, 1749 DR, evening: The party rests in the Tower of the Colossus.
-- May 16, 1749 DR, morning: The party enters the hidden archive, defeats a stone golem, reads some fragile scrolls, and teleports away with [treasure](<../hoards/tower-of-the-colossus-treasure.md>), returning to [Vindristjarna](<../../../things/ships/vindristjarna.md>) as it is now flying over the southern jungles south of the [Garamjala Plateau](<../../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-plateau.md>).
+- May 16, 1749 DR, morning: The party enters the hidden archive, defeats a stone golem, reads some fragile scrolls, and teleports away with [treasure](<../hoards/tower-of-the-colossus-treasure.md>), returning to [Vindristjarna](<../../../things/ships/vindristjarna.md>) as it is now flying over the southern jungles south of the [Garamjala Plateau](<../../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-plateau.md>).
 - May 16, 1749 DR, afternoon: [Vindristjarna](<../../../things/ships/vindristjarna.md>) arrives at the cliff face and caves where the last [Jade Piece of Rai's Hand](<../treasure/jade-piece-of-rai-s-hand.md>) seemed to be only days ago.
 
 ## Narrative
@@ -60,4 +60,4 @@ This is easily done, as a single stone golem is no match for the combined might 
 
  ![Zoom Red Cliff Jungle](../../../assets/zoom-red-cliff-jungle.png)
 
-As they arrive back on [Vindristjarna](<../../../things/ships/vindristjarna.md>), the ship has reached the jungles of the coast, with the [Sea of Storms](<../../../gazetteer/greater-dunmar/sea-of-storms.md>) visible not far on the southern horizon. The party decides to first investigate the red cliffs where the [Jade Piece of Rai's Hand](<../treasure/jade-piece-of-rai-s-hand.md>) once could be sensed, before turning south for the storms. 
+As they arrive back on [Vindristjarna](<../../../things/ships/vindristjarna.md>), the ship has reached the jungles of the coast, with the [Sea of Storms](<../../../gazetteer/drankorian-hinterland/sea-of-storms.md>) visible not far on the southern horizon. The party decides to first investigate the red cliffs where the [Jade Piece of Rai's Hand](<../treasure/jade-piece-of-rai-s-hand.md>) once could be sensed, before turning south for the storms. 

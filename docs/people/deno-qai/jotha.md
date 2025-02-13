@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/needswork/internal, status/metadata/header]
+tags: [person, status/needswork/gameupdate, status/cleanup/metadata]
 campaignInfo: []
 name: Jotha
 born: 1719
@@ -19,11 +19,11 @@ title: Jotha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A Deno'qai [human](<../../species/humans.md>) (she/her)  
     Born DR 1719 (30 years old)  
     { .bio }
 
-    Based in the [Ko'zula village](<../../gazetteer/far-north/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/chasa-nahadi-watershed/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+    Based in the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 

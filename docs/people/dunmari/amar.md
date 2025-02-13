@@ -13,13 +13,15 @@ whereabouts:
 - {type: home, location: Akela Inn}
 affiliations:
 - {org: Akela Inn, title: Master, type: leader}
+dm_owner: none
+dm_notes: color
 title: Amar
 ---
 # Amar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1710 (39 years old)  
     Master of the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>)  
     { .bio }

@@ -4,6 +4,8 @@ tags: [person]
 species: talking fruit bat
 gender: female
 whereabouts: Awakened Jungle
+dm_owner: tim
+dm_notes: color
 title: Pip
 ---
 # Pip
@@ -13,7 +15,7 @@ title: Pip
     A talking fruit bat (she/her)  
     { .bio }
 
-    Based in the [Awakened Jungle](<../../gazetteer/greater-dunmar/awakened-jungle.md>)
+    Based in the [Awakened Jungle](<../../gazetteer/drankorian-hinterland/awakened-jungle.md>)
 </div>
 
 

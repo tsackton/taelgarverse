@@ -25,27 +25,27 @@ title: Harriet Goodbarrel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (she/her), of the [Goodbarrels](<../../groups/halfling-families/goodbarrels.md>)  
+    A [halfling](<../../species/halflings.md>) (she/her), of the [Goodbarrels](<../../groups/halfling-families/goodbarrels.md>)  
     Born DR 1685 (64 years old)  
-    Proprietor of [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)  
+    Proprietor of [The Singing Fox](<../../gazetteer/greater-sembara/tollen/the-singing-fox.md>)  
     { .bio }
 
-    Originally from: the [Western Gulf](<../../gazetteer/western-green-sea/western-gulf.md>), the [Western Green Sea](<../../gazetteer/western-green-sea/western-green-sea.md>), the [Green Sea](<../../gazetteer/green-sea.md>)
-    Based at [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>), in [Fairgate Outer](<../../gazetteer/western-green-sea/tollen/fairgate-outer.md>), the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Originally from: the [Western Gulf](<../../gazetteer/greater-sembara/western-gulf.md>), the [Green Sea](<../../gazetteer/green-sea.md>)
+    Based at [The Singing Fox](<../../gazetteer/greater-sembara/tollen/the-singing-fox.md>), in [Fairgate Outer](<../../gazetteer/greater-sembara/tollen/fairgate-outer.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on DR 1730 at [The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>), in [Fairgate Outer](<../../gazetteer/western-green-sea/tollen/fairgate-outer.md>), the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
+:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on DR 1730 at [The Singing Fox](<../../gazetteer/greater-sembara/tollen/the-singing-fox.md>), in [Fairgate Outer](<../../gazetteer/greater-sembara/tollen/fairgate-outer.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
 
 
 ![Harriet Goodbarrel](../../assets/harriet-goodbarrel.png){align="right"; width="300"}
 
-Harriet's melodious voice graces *[The Singing Fox](<../../gazetteer/western-green-sea/tollen/the-singing-fox.md>)* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [Chenna](<./chenna-goodbarrel.md>), she's made the tavern a warm haven for many.
+Harriet's melodious voice graces *[The Singing Fox](<../../gazetteer/greater-sembara/tollen/the-singing-fox.md>)* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [Chenna](<./chenna-goodbarrel.md>), she's made the tavern a warm haven for many.
 
 Harriet married into the [Goodbarrel clan](<../../groups/halfling-families/goodbarrels.md>); while she never had her own children, she feels a matronly duty to all the scattered Goodbarrel youth. 
 ## Relationships

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/shared]
+tags: [place, status/stub]
 name: Tafolwern
 typeOf: city
 whereabouts: Tyrwingha
@@ -12,7 +12,7 @@ title: Tafolwern
 # Tafolwern
 :speaker:{ .middle } *(Tav-ol-WERN)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A city [Tyrwingha](<./tyrwingha.md>)  
+-    :octicons-location-24:{ .lg .middle } A city in [Tyrwingha](<./tyrwingha.md>), [Greater Sembara](<../greater-sembara.md>)  
 </div>
 
 

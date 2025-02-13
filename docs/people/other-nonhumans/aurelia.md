@@ -10,6 +10,8 @@ species: centaur
 gender: female
 whereabouts:
 - {type: home, start: 1733, location: Tollen}
+dm_owner: none
+dm_notes: none
 title: Aurelia
 ---
 # Aurelia
@@ -21,12 +23,12 @@ title: Aurelia
     { .bio }
 
     Originally from: Unknown
-    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
 
 
-Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who settled in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) in the 1730s. 
+Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who settled in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) in the 1730s. 

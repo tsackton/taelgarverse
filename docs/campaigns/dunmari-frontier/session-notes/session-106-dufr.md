@@ -18,7 +18,7 @@ title: Dunmari Frontier - Session 106
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
 > *In Taelgar: May 16, 1749 DR to May 18, 1749 DR*
 > *On Earth: Thursday Sep 12, 2024*
-> *The [Awakened Jungle](<../../../gazetteer/greater-dunmar/awakened-jungle.md>) and a mysterious island*
+> *The [Awakened Jungle](<../../../gazetteer/drankorian-hinterland/awakened-jungle.md>) and a mysterious island*
 
 The Dunmar Fellowship battles corruption at the Eldest tree and navigates a tumultuous storm to reach a mysterious island.
 ## Session Info
@@ -34,7 +34,7 @@ The Dunmar Fellowship battles corruption at the Eldest tree and navigates a tumu
 ### Timeline
 - May 16, 1749 DR, evening: Battle with corrupted vines at the Eldest tree.
 - May 16, 1749 DR, night: The Eldest tree awakens and communicates with the party.
-- May 17, 1749 DR, morning: The party speaks to the Eldest tree, learning about the monkeys and the flying lizards. The party meets the coastal monkeys and learns about the jade's possible location in the [Sea of Storms](<../../../gazetteer/greater-dunmar/sea-of-storms.md>). On [Vindristjarna](<../../../things/ships/vindristjarna.md>), the party flies into the [Sea of Storms](<../../../gazetteer/greater-dunmar/sea-of-storms.md>).
+- May 17, 1749 DR, morning: The party speaks to the Eldest tree, learning about the monkeys and the flying lizards. The party meets the coastal monkeys and learns about the jade's possible location in the [Sea of Storms](<../../../gazetteer/drankorian-hinterland/sea-of-storms.md>). On [Vindristjarna](<../../../things/ships/vindristjarna.md>), the party flies into the [Sea of Storms](<../../../gazetteer/drankorian-hinterland/sea-of-storms.md>).
 - May 17, 1749 DR, evening: The party encounters the massive storm at sea and decides to rest for the night.
 - May 18, 1749 DR morning: The party attempts and fails to explore underwater to bypass the storm; Milo volunteers to sail through the storm with the party in the folding boat. Despite damage to the boat, the party arrives at the ~Circular Island~.
 ## Narrative
@@ -46,7 +46,7 @@ The next morning, the party returned to speak with the Eldest tree, seeking info
 
 By late morning, the party reached the coastal mangroves and met the howler monkeys. They found the monkeys caring for their sick, still recovering from the corruption. With some cautious conversation, the monkeys revealed that they had seen flying lizards headed in the direction the jade seemed to have gone. They pointed the party towards the sea, giving them a new lead.
 
-The party set out across the [sea of storms](<../../../gazetteer/greater-dunmar/sea-of-storms.md>) later that day. They traveled for hours, encountering violent waves and strange weather with little wind. As evening fell, they reached a massive storm—a dome of clouds rising hundreds of feet into the sky. [Faldrak](<../../../people/dwarves/faldrak-bronzehammer.md>), guiding the [Vindristjarna](<../../../things/ships/vindristjarna.md>), paused as the party debated their options. They chose not to enter the storm in the dark, instead flying up to get a bird's-eye view, revealing a vast dome covering tens of miles. Finding no clear sign of the [last piece of jade](<../treasure/jade-piece-of-rai-s-hand.md>), the party decided to rest for the night before a more thorough investigation.
+The party set out across the [sea of storms](<../../../gazetteer/drankorian-hinterland/sea-of-storms.md>) later that day. They traveled for hours, encountering violent waves and strange weather with little wind. As evening fell, they reached a massive storm—a dome of clouds rising hundreds of feet into the sky. [Faldrak](<../../../people/dwarves/faldrak-bronzehammer.md>), guiding the [Vindristjarna](<../../../things/ships/vindristjarna.md>), paused as the party debated their options. They chose not to enter the storm in the dark, instead flying up to get a bird's-eye view, revealing a vast dome covering tens of miles. Finding no clear sign of the [last piece of jade](<../treasure/jade-piece-of-rai-s-hand.md>), the party decided to rest for the night before a more thorough investigation.
 
 In the early hours of the following morning, the party attempted to explore underwater, hoping to bypass the storm's surface chaos. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) transformed into an orca and dove into the waves, but the spell was abruptly dispelled, leaving him to struggle against the surging currents. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) dove in to save him, and they managed to return to the ship. The failed attempt led the party to believe that a magical barrier was dispelling their magic, and they began discussing other methods to explore the storm. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)’s dive to the ocean floor revealed nothing unusual, leaving the mystery unsolved.
 
@@ -75,7 +75,7 @@ After defeating the corrupted vines, the party witnesses the Eldest tree awakeni
 - Delwath attempts to soothe the tree by telling calming stories, sharing tales of Kenzo's forest soul and the bats they met, slowly helping the tree relax.
 - The tree eventually calms, acknowledging the party's presence and expressing appreciation for their civility. It begins to show signs of recovering from the chaos that disrupted its connection to the jungle.
 - The party asks if the tree needs anything to restore the jungle, and the tree mentions that it simply needs time to recover. It also speaks of feeling its "siblings" in the distance, beginning to heal.
-- The party discusses the possible connection between the chaotic corruption and planar disturbances, suspecting a link to recent events involving [pandemonium](<../../../cosmology/multiverse/spiritual-realms/other-realms/pandemonium.md>) and the weakening of planar boundaries.
+- The party discusses the possible connection between the chaotic corruption and planar disturbances, suspecting a link to recent events involving [Pandemonium](<../../../cosmology/spiritual-realms/pandemonium.md>) and the weakening of planar boundaries.
 - The session ends with the party resting for the night, intending to ask the tree more questions in the morning after it has had more time to regain its strength.
 
 
@@ -103,7 +103,7 @@ The party travels to the coast to meet the monkeys and learn more about the jade
 #### Encounter with the Storm
 (DR 1749-05-17, evening)
 The party takes to the sea in [Vindristjarna](<../../../things/ships/vindristjarna.md>), following the direction the monkeys pointed towards the jade.
-- The journey across the [sea of storms](<../../../gazetteer/greater-dunmar/sea-of-storms.md>) is initially calm, with strange conditions where waves crash violently despite the lack of strong winds. The party travels for about 7-8 hours, covering 80 miles off the coast.
+- The journey across the [sea of storms](<../../../gazetteer/drankorian-hinterland/sea-of-storms.md>) is initially calm, with strange conditions where waves crash violently despite the lack of strong winds. The party travels for about 7-8 hours, covering 80 miles off the coast.
 - As evening falls, the party encounters a massive storm—a dome of clouds rising hundreds of feet into the air and merging into a thick cloud bank, with the sea below churning violently.
 - Faldrick, captaining [Vindristjarna](<../../../things/ships/vindristjarna.md>), pauses as the storm comes into view, and the party discusses their options—whether to proceed into the storm or find another way around it.
 - They decide against entering the storm in the dark, instead flying up to 10,000 feet to get a clearer view. From above, they see that the storm forms a dome, covering a vast area tens of miles in diameter.

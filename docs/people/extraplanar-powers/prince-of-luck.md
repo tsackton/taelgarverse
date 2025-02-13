@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/met_one, person, dufr/minor, status/unknown]
+tags: [person]
 campaignInfo:
 name: Prince of Luck
 born:
@@ -11,17 +11,19 @@ aliases: [Chanceweaver]
 affiliations:
 - {org: Fortune's Rest, type: leader, title: Master}
 whereabouts: Fortune's Rest
+dm_notes: important
+dm_owner: tim
 title: Prince of Luck
 ---
 # Prince of Luck
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/children-of-the-riving/fey/fey.md>) ([archfey](<../../species/children-of-the-riving/fey/fey.md>)) (he/him)  
-    Master of [Fortune's Rest](<../../cosmology/multiverse/echo-realms/feywild/fortune-s-rest.md>)  
+    A [fey](<../../species/extraplanar/fey.md>) ([archfey](<../../species/extraplanar/fey.md>)) (he/him)  
+    Master of [Fortune's Rest](<../../gazetteer/extraplanar/feywild/fortune-s-rest.md>)  
     { .bio }
 
-    Based in [Fortune's Rest](<../../cosmology/multiverse/echo-realms/feywild/fortune-s-rest.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
+    Based in [Fortune's Rest](<../../gazetteer/extraplanar/feywild/fortune-s-rest.md>), [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
 </div>
 
 

@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external]
+tags: [person, status/cleanup/gameupdate]
 species: fey
 gender: female
+died: 1720-02-20
 whereabouts:
 - {type: home, location: Duskmire}
 - {type: away, location: Veltor, start: 1720-01-04, end: 9999}
-dm_notes: important
+dm_notes: color
 dm_owner: mike
 title: Areschera
 ---
@@ -14,14 +15,15 @@ title: Areschera
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/children-of-the-riving/fey/fey.md>) (she/her)  
+    A [fey](<../../species/extraplanar/fey.md>) (she/her)  
+    Died February 20th, 1720  
     { .bio }
 
-    Based in [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
+    Lived in Duskmire, [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+:octicons-location-24:{ .lg .middle } Died in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
+![Areschera](../../assets/areschera.jpg){align="right"; width="400"}A servant of [Lord Umbraeth](<../extraplanar-powers/lord-umbraeth.md>), and a shapeshifter. Mischievous and cruel, she especially enjoys using her disguises and shapeshifting to bring ruin to mortals.
 
-![Areschera](../../assets/areschera.jpg)]

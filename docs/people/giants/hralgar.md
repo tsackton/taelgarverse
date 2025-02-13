@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/cleanup/external, status/cleanup/internal]
+tags: [person, testcase, status/check/minor]
 campaignInfo:
 - {campaign: DuFr, date: 1748-11-23, format: 'Freed from <current:2> by <person>, <target>'}
 name: Hralgar
@@ -20,7 +20,7 @@ title: Hralgar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../species/children-of-the-riving/giants.md>) ([storm giant](<../../species/children-of-the-riving/giants.md>)) (he/him)  
+    A [giant](<../../species/unusual-species/giants.md>) ([storm giant](<../../species/unusual-species/giants.md>)) (he/him)  
     { .bio }
 
     Originally from: Unknown
@@ -31,6 +31,8 @@ title: Hralgar
 
 
 :octicons-location-24:{ .lg .middle } Freed from [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), November 23th, 1748  
+
+
 
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.

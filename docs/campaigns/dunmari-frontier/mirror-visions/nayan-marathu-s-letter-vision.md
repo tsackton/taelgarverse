@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 displayDefaults: {dPastHasStart: Seen on <startdate>}
 name: Nayan Marathu's Letter Vision
 DR: 1749-02-02
@@ -9,7 +9,7 @@ title: Nayan Marathu's Letter Vision
 ---
 # The Nayan Marathu's Letter Vision
 
-The mirror goes blank, and then you see an image form. Looking up, at Agata's hands as she rolls a piece of paper out on a desk. The view is of the inside of a hut, probably [Agata's lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>). [Agata](<../../../people/fey/agata.md>) stands, and from her pouch she removes a severed hand, wearing a signet ring. She then removes some kind of wooden putty, and beings to shape slowly a bit of an arm. 
+The mirror goes blank, and then you see an image form. Looking up, at Agata's hands as she rolls a piece of paper out on a desk. The view is of the inside of a hut, probably [Agata's Lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>). [Agata](<../../../people/fey/agata.md>) stands, and from her pouch she removes a severed hand, wearing a signet ring. She then removes some kind of wooden putty, and beings to shape slowly a bit of an arm. 
 
 As she mutters some words of incantation, the hand crawls towards the paper, and begins to write. Her words turn to Dunmari - she is dictating the letter, according to Wellby. As the writing finishes, the hand picks up the paper and begins to roll the scroll up. It takes its ring, and presses against the scroll to make a seal. 
 

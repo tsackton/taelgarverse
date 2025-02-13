@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/internal, person]
+tags: [status/stub, person]
 species: centaur
 dm_notes: none
 dm_owner: mike
@@ -16,6 +16,5 @@ title: Omphale
 
     Based in the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
-
 
 

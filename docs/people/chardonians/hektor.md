@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/header, status/cleanup/internal, status/needswork/external]
+tags: [person, status/cleanup/metadata, status/needswork/gameupdate]
 campaignInfo: []
 name: Hektor
 born: 1726
@@ -18,14 +18,14 @@ title: Hektor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1726 (23 years old)  
     { .bio }
 
-    Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 
 
 

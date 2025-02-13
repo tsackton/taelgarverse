@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/minor]
+tags: [person]
 campaignInfo:
 - {campaign: dufr, date: 1748-08-09, type: met}
 - {campaign: dufr, date: 1748-08-21, type: last seen}
@@ -13,13 +13,15 @@ affiliations:
 - {org: Silversongs, type: primary}
 - {org: Emerald Song, title: Songmaster}
 whereabouts: Emerald Song
+dm_owner: none
+dm_notes: color
 title: Ewen Silversong
 ---
 # Ewen Silversong
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Silversongs](<../../groups/halfling-families/silversongs.md>)  
+    A [halfling](<../../species/halflings.md>) (he/him), of the [Silversongs](<../../groups/halfling-families/silversongs.md>)  
     Born DR 1649 (100 years old)  
     Songmaster of the [Emerald Song](<../../things/ships/emerald-song.md>)  
     { .bio }
@@ -33,7 +35,7 @@ title: Ewen Silversong
 
 
 
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)  
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
 
 
 Songmaster and storyteller on the [Emerald Song](<../../things/ships/emerald-song.md>).

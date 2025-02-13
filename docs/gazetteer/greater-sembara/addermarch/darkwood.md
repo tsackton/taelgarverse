@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external]
+tags: [place, status/stub]
 name: Darkwood
 typeOf: forest
 subTypeOf: haunted
 whereabouts: Addermarch
+dm_notes: important
+dm_owner: tim
 title: Darkwood
 ---
 # Darkwood

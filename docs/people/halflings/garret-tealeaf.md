@@ -19,13 +19,15 @@ whereabouts:
 - {type: away, start: 1748-06-30, end: 1748-07-17, location: The Red Lily Inn}
 - {type: away, start: 1748-07-18, end: 1748-08-12, location: Tokra-Darba Road}
 - {type: away, start: 1748-08-13, location: Darba}
+dm_owner: tim
+dm_notes: important
 title: Garret Tealeaf
 ---
 # Garret Tealeaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)  
+    A [halfling](<../../species/halflings.md>) (he/him), of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)  
     Born DR 1656 (93 years old)  
     { .bio }
 
@@ -36,7 +38,7 @@ title: Garret Tealeaf
 
 
 
-:octicons-location-24:{ .lg .middle } Freed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 2nd, 1748 in [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>), the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)  
+:octicons-location-24:{ .lg .middle } Freed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 2nd, 1748 in [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
 
 
 
@@ -46,7 +48,7 @@ title: Garret Tealeaf
 Garret Tealeaf grew up traveling the roads of Dunmar with the Tealeaf trading family, eventually becoming the patriarch of a group of 5 well-armed and defended caravans that regularly made the circuit from Chardon, east to [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), Tokra, and Karawa, before turning south across the Yuvanti Mountains to Nayahar, and then north along the coast to Darba, and back to Chardon. 
 
 ## Relationships
-- [Charmhearts](<../../groups/halfling-families/charmhearts.md>), occasional traveling companions after being freed from imprisonment in [Agata's lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>). 
+- [Charmhearts](<../../groups/halfling-families/charmhearts.md>), occasional traveling companions after being freed from imprisonment in [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>). 
 - [Agata](<../fey/agata.md>), his captor and tormentor
 - [Seeker](<../pcs/dunmar-fellowship/seeker.md>), who freed him from his wooden puppet form
 - [Wellby](<../pcs/dunmar-fellowship/wellby.md>), who introduced him to the Charmhearts

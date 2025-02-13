@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/external, status/metadata/header]
+tags: [person, status/cleanup/text, status/cleanup/metadata]
 campaignInfo:
 - {campaign: dufr, person: Delwath, date: 1748-10-23, type: scryed}
 name: Marcella
@@ -19,16 +19,16 @@ title: Marcella
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (she/her)  
     Born DR 1718 (31 years old)  
     { .bio }
 
-    Originally from: [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+    Originally from: [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 23th, 1748 in [Ausson's Crossing](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/ausson-s-crossing.md>), [Laicon](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/laicon.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/greater-sembara/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 23th, 1748 in [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>), [Laicon](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/laicon.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
 
 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family]
+tags: [organization]
 typeOf: family
 displayDefaults: {defArt: the}
 ancestry: halfling
@@ -11,7 +11,7 @@ title: Riverstones
 # The Riverstones
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) family  
+   :octicons-info-24:{ .lg .middle } A [halfling](<../../species/halflings.md>) family  
 </div>
 
 

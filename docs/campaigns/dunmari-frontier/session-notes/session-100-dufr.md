@@ -17,7 +17,7 @@ title: Dunmari Frontier - Session 100
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: May 11, 1749 DR*
 > *On Earth: Tuesday May 28, 2024*
-> *[Merfolk](<../../../species/unusual-species/merfolk.md>) city of Omi*
+> *[Merfolk](<../../../species/unusual-species/merfolk.md>) city of [Omi](<../../../gazetteer/faraway-places/omi.md>)*
 
 The Dunmar Fellowship scouts the underwater city of Omi, locates a portal, and formulates a plan to bypass its guardian.
 
@@ -32,13 +32,13 @@ The Dunmar Fellowship scouts the underwater city of Omi, locates a portal, and f
 - They find signs of occupation and nearly alert the guardian while scouting the building.
 
 ### Timeline
-- May 11, 1749 DR, morning: Pass through the Sentient Ocean guarding the [Merfolk](<../../../species/unusual-species/merfolk.md>) city of Omi. Scout the city. Find a portal to the [Elemental Plane of Water](<../../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-water.md>). Plan how to get past the guardian. 
+- May 11, 1749 DR, morning: Pass through the Sentient Ocean guarding the [Merfolk](<../../../species/unusual-species/merfolk.md>) city of [Omi](<../../../gazetteer/faraway-places/omi.md>). Scout the city. Find a portal to the [Elemental Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>). Plan how to get past the guardian. 
 ## Narrative
 The session begins underwater, as the party begins to sink, the water growing darker and more surreal as the party descends below the surface, using their magical gills from [Kazuro](<../../../people/other-nonhumans/kazuro.md>)'s potion to breath (except [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), who has his cloak of the mantra ray). 
 
 ![Sentient Ocean](../../../assets/sentient-ocean.png)
 
-As the party passes into the protective cocoon of the Sentient Ocean, a barrier keeping the merfolk city of Omi, below, sealed off from the rest of the ocean, they are presented with a [series of visions](<../dreams-and-visions/visions-of-the-sentient-ocean.md>), telling something of the history of the Sentient Ocean, and probing the history of [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>). As the ocean and the party trade [stories of their pasts](<../dreams-and-visions/visions-of-the-sentient-ocean.md>), the party slowly passes through the barrier and emerges above Omi.
+As the party passes into the protective cocoon of the Sentient Ocean, a barrier keeping the merfolk city of [Omi](<../../../gazetteer/faraway-places/omi.md>), below, sealed off from the rest of the ocean, they are presented with a [series of visions](<../dreams-and-visions/visions-of-the-sentient-ocean.md>), telling something of the history of the Sentient Ocean, and probing the history of [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>). As the ocean and the party trade [stories of their pasts](<../dreams-and-visions/visions-of-the-sentient-ocean.md>), the party slowly passes through the barrier and emerges above [Omi](<../../../gazetteer/faraway-places/omi.md>).
 
 Floating in the protection of the Sentient Ocean above the city, the party takes stock. The city has a long seafloor crack drawing a strong current, central ruins of some kind of communal building amongst waving kelp forests, some collapsed coral buildings, and a strange pool with mysterious ripples. Merfolk are moving about, but the guards seem mostly to be watching inward, observing what seem to be groups of merfolk prisoners moving on the sea floor, under watch from warriors with tridents. 
 

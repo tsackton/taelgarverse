@@ -1,16 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip]
+tags: [organization, status/stub]
 ancestry: Urskan
 displayDefaults: {defArt: ''}
 typeOf: magical bloodline
 partOf: Rodnya
+dm_notes: important
+dm_owner: tim
 title: Rodnya Voknaz
 ---
 # Rodnya Voknaz
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) magical bloodline  
+   :octicons-info-24:{ .lg .middle } An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) magical bloodline  
 </div>
 
 

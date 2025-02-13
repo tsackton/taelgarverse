@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip, status/check/tim]
+tags: [organization]
 displayDefaults: {boxInfo: '<ancestry:UA> <subtypeof>'}
-campaignInfo:
 name: Aatmaji dynasty
 typeOf: family
 subTypeOf: dynasty
 ancestry: Dunmari
+dm_owner: tim
+dm_notes: important
 title: Aatmaji Dynasty
 ---
 # The Aatmaji Dynasty
@@ -16,7 +17,7 @@ title: Aatmaji Dynasty
 </div>
 
 
-The first ruling dynasty of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), founded by [Bhishma](<../../cosmology/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>). 
 
 
+The first ruling dynasty of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), founded by [Bhishma](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>). 
 

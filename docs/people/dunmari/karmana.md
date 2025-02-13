@@ -1,19 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/refactor, status/metadata/header]
+tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Karmana
 born:
 species: human
 ancestry: Dunmari
 gender: male
+dm_notes: important
+dm_owner: tim
 title: Karmana
 ---
 # Karmana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
     { .bio }
 
 </div>

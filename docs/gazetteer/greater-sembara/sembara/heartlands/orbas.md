@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/internal, place]
+tags: [place]
 whereabouts: Duchy of Wisford
 typeOf: settlement
 typeOfAlias: village
@@ -13,7 +13,8 @@ title: Orbas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Destroyed January 10th, 1720  
-    :octicons-location-24:{ .lg .middle } destroyed village in the [Duchy of Wisford](<./duchy-of-wisford.md>), [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+    :octicons-location-24:{ .lg .middle } A village in the [Duchy of Wisford](<./duchy-of-wisford.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 
+A small village near [Fellburn](<./fellburn.md>), it was deserted during the [Undead Attacks in Sembara](<../../../../events/1700s/1720/01/undead-attacks-in-sembara.md>).

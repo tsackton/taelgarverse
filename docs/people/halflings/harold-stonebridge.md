@@ -18,7 +18,7 @@ title: Harold Stonebridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>)  
+    A [halfling](<../../species/halflings.md>) (he/him), of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>)  
     Born DR 1708 (41 years old)  
     { .bio }
 

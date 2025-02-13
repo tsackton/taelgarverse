@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [source]
+dm_owner: none
+dm_notes: none
 title: Praise the Divine Family
 ---
 # Praise the Divine Family
 
-A praise song sung by the [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) about the [Five Siblings](<../../cosmology/religions/five-siblings/five-siblings.md>)
+A praise song sung by the [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) about the [Five Siblings](<../../gods-and-religions/religions/five-siblings/five-siblings.md>)
 <audio controls>
     <source src="/taelgarverse/assets/audio/praise-the-divine-family.mp3">
 </audio>

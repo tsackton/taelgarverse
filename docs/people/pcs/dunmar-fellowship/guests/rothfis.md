@@ -9,16 +9,18 @@ gender:
 player: Phil Grayson
 excludePublish: [clee]
 whereabouts: Chardon
+dm_owner: tim
+dm_notes: important
 title: Rothfis
 ---
 # Rothfis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>)  
+    A [dwarf](<../../../../species/dwarves.md>)  
     { .bio }
 
-    Based in [Chardon](<../../../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+    Based in [Chardon](<../../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
 

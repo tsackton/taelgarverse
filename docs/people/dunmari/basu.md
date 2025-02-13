@@ -11,13 +11,15 @@ ancestry: Dunmari
 gender: male
 affiliations: [Lakan mystai]
 whereabouts: Lakan Monastery
+dm_owner: tim
+dm_notes: important
 title: Basu
 ---
 # Basu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1705 (44 years old)  
     Member of the [Lakan Mystai](<../../groups/dunmari-mystery-cults/lakan-mystai.md>)  
     { .bio }
@@ -39,4 +41,4 @@ The grumpy craftsman of the Lakan monks, known for creating magic items that cha
 Romantically involved with [Kassi](<./kassi.md>), although not formally married. 
 
 
-Constructed a the [Portable Hole](<../../campaigns/dunmari-frontier/treasure/portable-hole.md>) for the Dunmar Fellowship, after they helped him gather extraplanar energy of [Arborea](<../../cosmology/multiverse/spiritual-realms/other-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the monastery. 
+Constructed a the [Portable Hole](<../../campaigns/dunmari-frontier/treasure/portable-hole.md>) for the Dunmar Fellowship, after they helped him gather extraplanar energy of [Arborea](<../../cosmology/spiritual-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the monastery. 

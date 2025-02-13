@@ -16,7 +16,7 @@ title: Rinburg
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 2,341  
-    :octicons-location-24:{ .lg .middle } A free city in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+    :octicons-location-24:{ .lg .middle } A free city in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 
@@ -41,7 +41,7 @@ The most notable building in town is the large Temple of the Night Queen. There 
 The current Lord Mayor is [Alaric Benec](<../../../../people/sembarans/alaric-benec.md>). 
 
 ### History
-Although the shores of [Lake Rin](<./lake-rin.md>) have been settled for time immemorial, the current city is quite new, having been founded by a royal grant on [Viatela](<../../../../time/holidays-and-festivals/viatela.md>) in 1648. The previous city, known locally as "the ruins", still stands 2000 feet downriver although it has been much ransacked for building supplies. When the hobgoblins were retreating from the old city of Rinburg in the face of the [Radiant Alliance](<../../../../groups/radiant-alliance.md>), they lit massive fires, and by the time the city was recaptured there was little to save and rebuilding seemed more prudent. The old city had a bridge over the Enst, but it has never been rebuilt. Local superstition holds that the bridge was part of why Rinburg fell during the [the hobgoblin wars](<../../../../history/third-hobgoblin-war-sembara.md>) and there is significant local resistance to ever rebuilding it.
+Although the shores of [Lake Rin](<./lake-rin.md>) have been settled for time immemorial, the current city is quite new, having been founded by a royal grant on [Viatela](<../../../../gods-and-religions/holidays-and-festivals/viatela.md>) in 1648. The previous city, known locally as "the ruins", still stands 2000 feet downriver although it has been much ransacked for building supplies. When the hobgoblins were retreating from the old city of Rinburg in the face of the [Radiant Alliance](<../../../../groups/radiant-alliance.md>), they lit massive fires, and by the time the city was recaptured there was little to save and rebuilding seemed more prudent. The old city had a bridge over the Enst, but it has never been rebuilt. Local superstition holds that the bridge was part of why Rinburg fell during the [the hobgoblin wars](<../../../../history/third-hobgoblin-war-sembara.md>) and there is significant local resistance to ever rebuilding it.
 
 Rinburg grew quickly during the golden years of [Cece's](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>) reign and is today prosperous and bustling, with a sense of possibility.
 ### Local Environment

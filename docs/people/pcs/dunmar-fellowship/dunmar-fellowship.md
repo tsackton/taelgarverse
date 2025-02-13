@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/party, status/needswork]
+tags: [organization, status/cleanup/gameupdate]
 displayDefaults: {ltPerson: by}
 campaignInfo: []
 name: Dunmar Fellowship
@@ -16,6 +16,8 @@ title: Dunmar Fellowship
 </div>
 
 
+
+
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
 
 Consists of:
@@ -28,13 +30,13 @@ They frequently travel with the dwarven cleric [Riswynn](<./riswynn.md>). The st
 
 In the fall of 1748, they were split up due to magical effects. During this time, they traveled alone.
 
-- Seeker traveled with [Mikasa](<guests/mikasa.md>), [Raven](<guests/raven.md>), [Spirala](<guests/spirala.md>), and [Caulaus](<guests/caulaus.md>) in the Feywild
+- Seeker traveled with [Mikasa](<guests/mikasa.md>), [Raven](<guests/raven.md>), [Spirala](<guests/spirala.md>), and [Caulaus](<guests/caulaus.md>) in the [Feywild](<../../../cosmology/feywild.md>)
 - Kenzo traveled with [Izzarak](<guests/izzarak.md>) in the lizardfolk jungles to the south
 - Delwath traveled with [Iascaire](<guests/iascaire.md>) and [Aristaea](<guests/aristaea.md>) in the battlefields of the far north
 - Wellby traveled with [Artem](<guests/artem-novolozek.md>), [Rufus](<guests/rufus.md>), [Shoal](<guests/shoal.md>), and [Alimash](<guests/alimash.md>) in the eastern isles. 
-- Riswynn traveled with [Thror](<guests/thror.md>), [Rothfis](<guests/rothfis.md>), and [Merash](<guests/merash.md>) in the [Shadowfolds](<../../../cosmology/multiverse/echo-realms/shadowfolds/shadowfolds.md>) domain of [Morkalan](<../../../cosmology/multiverse/echo-realms/shadowfolds/morkalan.md>).
+- Riswynn traveled with [Thror](<guests/thror.md>), [Rothfis](<guests/rothfis.md>), and [Merash](<guests/merash.md>) in the [Shadowfolds](<../../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>) domain of [Morkalan](<../../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>).
 
-Kenzo, Seeker, and Wellby were reunited in the Feywild and traveled with [Caulaus](<guests/caulaus.md>) briefly.
+Kenzo, Seeker, and Wellby were reunited in the [Feywild](<../../../cosmology/feywild.md>) and traveled with [Caulaus](<guests/caulaus.md>) briefly.
 
 The group was reunited on Nov 15 1748 in Dunmar. 
 
@@ -60,12 +62,11 @@ The Dunmar Fellowship has acquired a number of followers, hirelings, and traveli
 
 - [Faldrak Bronzehammer](<../../dwarves/faldrak-bronzehammer.md>), a Dwarven artificer, former adventurer, creator of magic items, and aspiring skyship captain. Based on Vindristjarna. 
 - [Adam Gower](<../../tollenders/adam-gower.md>), a human factor and agent, with a history of working for the Goodbarrel family. Now serves as the party's representative in Tollen, and also manages trade goods and contracts in Tollen. Based in Tollen. 
-- [Amil](<../../dunmari/amil.md>) (uh-MEEL), a joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [Garamjala Desert](<../../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) before leaving to help record the stories of the ordinary people of the world. Based on Vindristjarna. 
+- [Amil](<../../dunmari/amil.md>) (uh-MEEL), a joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [Garamjala Desert](<../../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) before leaving to help record the stories of the ordinary people of the world. Based on Vindristjarna. 
 - [Égnir](<../../elves/egnir.md>) (AY-nyeer), a quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Based on Vindristjarna. 
 - [Nuzkar](<../../orcs/nuzkar.md>) and [Aygul](<../../orcs/aygul.md>), orcs and twin sisters. Nuzkar is an archivist and loremaster; Aygul a brawler who helps in the training rooms.
 - [Kethra Silverspark](<../../dwarves/kethra.md>), a dwarven smith and Riswynn's mentee. 
 - [Kecha](<../../kenku/kecha.md>), a kenku scout guiding the party to Ursk
-- (unnamed mapmaker recruited in Tollen)
 
 
 
