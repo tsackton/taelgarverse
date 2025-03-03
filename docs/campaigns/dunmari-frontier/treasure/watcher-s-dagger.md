@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 typeOf: dagger
 subTypeOf: magical
 ancestry: Urskan
@@ -9,7 +9,7 @@ title: Watcher's Dagger
 ---
 # The Watcher's Dagger
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Urskan](<../../../gazetteer/northern-green-sea/ursk.md>) Magical Dagger__  
+- :octicons-info-24:{ .lg .middle } __[Urskan](<../../../gazetteer/northern-green-sea/ursk/ursk.md>) Magical Dagger__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight) 
 </div>
 

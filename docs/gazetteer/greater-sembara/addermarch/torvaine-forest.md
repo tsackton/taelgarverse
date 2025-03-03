@@ -4,6 +4,8 @@ tags: [place, status/stub]
 name: Torvaine Forest
 typeOf: forest
 whereabouts: Addermarch
+dm_owner: tim
+dm_notes: important
 title: Torvaine Forest
 ---
 # The Torvaine Forest

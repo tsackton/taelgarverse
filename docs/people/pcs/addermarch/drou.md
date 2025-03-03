@@ -17,10 +17,10 @@ title: Drou
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (she/her), ([ka](<../../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 37)  
+    An [elf](<../../../species/elves.md>) (she/her), ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
     { .bio }
 
-    Originally from: [Orenlas](<../../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
+    Originally from: [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>)
     Based in [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>)
     :simple-dungeonsanddragons:{ .middle} [Character Sheet](https://www.dndbeyond.com/characters/131356005) 
 </div>

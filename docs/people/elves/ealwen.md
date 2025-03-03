@@ -11,6 +11,8 @@ species: elf
 ancestry:
 gender: female
 whereabouts: Erelion
+dm_owner: tim
+dm_notes: color
 title: Ealwen
 ---
 # Ealwen
@@ -18,16 +20,16 @@ title: Ealwen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (she/her), ([ka](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 37)  
+    An [elf](<../../species/elves.md>) (she/her), ([ka](<../../background/elven-cycle-of-generations.md>) 37)  
     Born DR 1712 (37 years old)  
     { .bio }
 
-    Based in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>), [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)
+    Based in [Erelion](<../../gazetteer/upper-istaros/orenlas/erelion.md>), [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1748 in [Erelion](<../../gazetteer/istaros-watershed/orenlas/erelion.md>), [Orenlas](<../../gazetteer/istaros-watershed/orenlas/orenlas.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1748 in [Erelion](<../../gazetteer/upper-istaros/orenlas/erelion.md>), [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)  
 
 
 ![Ealwen Portrait](../../assets/ealwen-portrait.png){align="right"; width="400"}Ealwen is a gardener and herbalist, who lives in Erelion. She is an expert in tending to plants, especially the magical plants of Orenlas from which all the elves need grow. She is fascinated with plants, and is spending her first leya trying to deeply understand their minds and ways of thinking and feeling. 

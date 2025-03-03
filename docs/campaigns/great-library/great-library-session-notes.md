@@ -5,7 +5,7 @@ title: Great Library Session Notes
 
 # The Chronicles of the Silver Tempests
 
-Herein lies the chronicles of the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>), from their humble roots as hired adventurers for the [Great Library](<../../gazetteer/west-coast/chardonian-empire/chardon/great-library.md>), to their current fame.
+Herein lies the chronicles of the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>), from their humble roots as hired adventurers for the [Great Library](<../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>), to their current fame.
 ## Adventure 0: Die Froggies Die
 
 Samso and Adrik meet on the road to Chardon, both seeking adventure. Finding a dead horse, they chase some bullywugs into a swamp and recover a message bag from a messenger.
@@ -33,7 +33,7 @@ In the Abby, the party encounters ghouls and zombies, and the talkative ghost of
 ## Adventure 4: The Deepwater Scroll
 ### Session 4
 
-Adrik, Samso, Brelith, and Aelar set out from the Purple Pig, armed with the location of the Deepwater Scroll, deciphered from the notes they found in the Pietravola Abby. The Drowned Tower, a place where the Elemental Plane of Water is close to the Material Plane, is their destination. After several days of travel across the plains, the party reaches the tower, where the swimming ability of Samso comes in handy. After battling blights outside the tower and making their way through the flooded, diseased tower, the party finds and cures an awakened tree, and the defeats a cursed water weird living in the corrupted fountain at the top of the tower. After removing the corruption from the water, they recover the scroll and other treasure from its hiding place, anchored in the Elemental Plane of Water with an immovable rod.
+Adrik, Samso, Brelith, and Aelar set out from the Purple Pig, armed with the location of the Deepwater Scroll, deciphered from the notes they found in the Pietravola Abby. The Drowned Tower, a place where the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) is close to the Material Plane, is their destination. After several days of travel across the plains, the party reaches the tower, where the swimming ability of Samso comes in handy. After battling blights outside the tower and making their way through the flooded, diseased tower, the party finds and cures an awakened tree, and the defeats a cursed water weird living in the corrupted fountain at the top of the tower. After removing the corruption from the water, they recover the scroll and other treasure from its hiding place, anchored in the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) with an immovable rod.
 
 ## Adventure 5: The Dwarven Forge
 ### Session 5

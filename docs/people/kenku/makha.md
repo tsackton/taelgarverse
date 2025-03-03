@@ -11,6 +11,8 @@ ancestry: Islander
 gender: male
 whereabouts: Wahacha
 pronunciation: MAH-kah
+dm_owner: none
+dm_notes: color
 title: Makha
 ---
 # Makha
@@ -22,12 +24,12 @@ title: Makha
     Born DR 1712 (37 years old)  
     { .bio }
 
-    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the [~Eastern Islands~](<../../gazetteer/eastern-green-sea/eastern-islands.md>)
+    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the ~Eastern Islands~
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the [~Eastern Islands~](<../../gazetteer/eastern-green-sea/eastern-islands.md>)  
+:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the ~Eastern Islands~  
 
 
 ![Makha](../../assets/makha.png){align="right"; width="320"}The port master and unofficial town spokesperson for the kenku settlement of [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>).  

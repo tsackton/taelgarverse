@@ -1,20 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork, person]
+tags: [person]
 ancestry: Chardonian
 name: Mitus Verina Auratan
 title: Magistros Mitus Verina Auratan
 species: human
 whereabouts: Chardon
+dm_notes: important
+dm_owner: tim
 ---
 # Magistros Mitus Verina Auratan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>)  
     { .bio }
 
-    Based in [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
 

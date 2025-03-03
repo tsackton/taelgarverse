@@ -36,9 +36,9 @@ The Dunmar Fellowship secures crucial mementos of trapped souls in Drankor, enco
 ## Narrative
 Our session begins as night falls over theTemple of the Eight Divines in [Drankor](<../../../history/drankorian-era/drankor.md>). Within the temple’s hallowed walls, the party takes refuge from the encroaching darkness of the ruined city. The divine aura of the temple offers a rare moment of solace as the group contemplates the daunting task ahead: freeing the seven souls trapped within Apollyon’s phylactery and destroying the artifact.
 
-Seeker’s research has confirmed that unraveling the phylactery’s magic requires traveling to the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>), bringing physical mementos tied to each soul, to allow the souls to remember themselves, unraveling Apollyon's Phylactery. Four such mementos have already been secured: three death masks recovered from the Chapel of the Father and a silver pen nib from Valanthe’s courtyard. The party identifies their remaining targets as Seraphina Appleblossom, a halfling tavern owner near the docks; Khemut of Targu a foreign sailor or traveler likely tied to the docks; and Minarith, an elf of the peronar lineage, about whom little is known.
+Seeker’s research has confirmed that unraveling the phylactery’s magic requires traveling to the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>), bringing physical mementos tied to each soul, to allow the souls to remember themselves, unraveling Apollyon's Phylactery. Four such mementos have already been secured: three death masks recovered from the Chapel of the Father and a silver pen nib from Valanthe’s courtyard. The party identifies their remaining targets as Seraphina Appleblossom, a halfling tavern owner near the docks; Khemut of Targu a foreign sailor or traveler likely tied to the docks; and Minarith, an elf of the peronar lineage, about whom little is known.
 
-As the group debates their approach to the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>), various logistical and ethical concerns arise. _Plane Shift_ will require the body of a recently deceased individual whose soul still lingers in the [Land of the Dead](<../../../cosmology/multiverse/spiritual-realms/land-of-the-dead.md>), prompting discussions about where such a body might be obtained. The group resolves to prioritize recovering the remaining mementos before finalizing their plan, and as dawn breaks, they fortify themselves with _Heroes’ Feast_ before setting out toward the docks. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) remains behind to guard the phylactery.
+As the group debates their approach to the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>), various logistical and ethical concerns arise. _Plane Shift_ will require the body of a recently deceased individual whose soul still lingers in the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>), prompting discussions about where such a body might be obtained. The group resolves to prioritize recovering the remaining mementos before finalizing their plan, and as dawn breaks, they fortify themselves with _Heroes’ Feast_ before setting out toward the docks. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) remains behind to guard the phylactery.
 
 ---
 
@@ -73,17 +73,17 @@ Among the recovered scrolls are trade records and manifests detailing [Drankor](
 ### Contemplating the Path Ahead
 - The party begins in the temple of the Eight Divines in Drankor as night falls. The holy aura of the temple protects them from the encroaching darkness of the city.
 - The group reflects on their goal to destroy the phylactery by freeing the seven souls trapped within it.
-- Seeker’s research confirmed that a connection to the Land of the Dead is required to unravel the phylactery’s magic. Physical mementos tied to each soul are crucial for this process.
+- Seeker’s research confirmed that a connection to the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>) is required to unravel the phylactery’s magic. Physical mementos tied to each soul are crucial for this process.
 - Four mementos have been secured: three death masks from the Chapel of the Father and a silver pen nib from Valanthe’s courtyard.
 - The remaining targets are:
 	- Seraphina Appleblossom, a halfling tavern owner near the docks.
 	- Khemut of Targu, a foreign sailor or traveler likely connected to the docks.
 	- Minarith, an elf of the peronar lineage, with little information available.
-- The party debates the logistics of entering the Land of the Dead:
-	- Plane Shift requires the body of a recently deceased person whose soul resides in the Land of the Dead.
-	- They consider potential sources of such a body, including cities like [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>) or sacrifices within Drankor.
+- The party debates the logistics of entering the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>):
+	- Plane Shift requires the body of a recently deceased person whose soul resides in the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>).
+	- They consider potential sources of such a body, including cities like [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>) or sacrifices within Drankor.
 	- Concerns are raised about resource management and the risks of “dying” as part of the plan.
-	- The group prioritizes recovering the remaining mementos before finalizing their approach to the Land of the Dead.
+	- The group prioritizes recovering the remaining mementos before finalizing their approach to the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>).
 - As dawn breaks, the party prepares for the day with another casting of *Heroes’ Feast*, granting temporary bonuses and protection against fear.
 - The party sets their sights on the docks of Drankor, focusing on finding mementos tied to Seraphina Appleblossom and Khemut of Targu
 - The phylactery (a dagger containing Apollyon’s soul) remains guarded by Wellby, who volunteers to stay behind.

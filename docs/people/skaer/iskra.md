@@ -20,12 +20,12 @@ dm_notes: none
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Skaer](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Skaer](<../../gazetteer/western-green-sea/realms/skaer.md>) [human](<../../species/humans.md>) (she/her)  
     Born DR 1724 (25 years old)  
     { .bio }
 
     Originally from: Pikkua
-    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
 </div>
 
 
@@ -34,13 +34,13 @@ dm_notes: none
 
 
 
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 5th, 1749 in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)  
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 5th, 1749 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
 
 
-![Laivan Iskra](../../assets/laivan-iskra.png){align="right"; width="500"}A young woman and priestess of [Kaikkea](<../../cosmology/gods/incorporeal-gods/kaikkea.md>) in [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>). She speaks with the power of the ocean, and has a deep connection to [Kaikkea](<../../cosmology/gods/incorporeal-gods/kaikkea.md>).
+![Laivan Iskra](../../assets/laivan-iskra.png){align="right"; width="500"}A young woman and priestess of [Kaikkea](<../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>) in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>). She speaks with the power of the ocean, and has a deep connection to [Kaikkea](<../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>).
 
 
-She told her story and history to Kenzo while they wandered [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>) together in the moments of quiet after the destruction of the [Scepter of Command](<../../things/artifacts-of-power/scepter-of-command.md>) and before the [Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>). 
+She told her story and history to Kenzo while they wandered [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) together in the moments of quiet after the destruction of the [Scepter of Command](<../../things/artifacts-of-power/scepter-of-command.md>) and before the [Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>). 
 
 
 

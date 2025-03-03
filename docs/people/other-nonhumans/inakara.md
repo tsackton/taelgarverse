@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/cleanup/gameupdate, status/cleanup/metadata]
 displayDefaults: {endStatus: 'killed by [[Magran Boulderbeard]]'}
 campaignInfo: []
 name: Inakara
@@ -10,17 +10,19 @@ ancestry:
 gender: female
 died: 1748-07
 whereabouts: Dwarven Outpost (Raven's Hold)
+dm_owner: none
+dm_notes: color
 title: Inakara
 ---
 # Inakara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [derro](<../../species/corrupted-species/derro.md>) (she/her)  
+    A [derro](<../../species/unusual-species/derro.md>) (she/her)  
     b. DR 1702 - d. July 1748, killed by [Magran Boulderbeard](<../dwarves/magran-boulderbeard.md>) at age 46 years  
     { .bio }
 
-    Lived in [Dwarven Outpost (Raven's Hold)](<../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>), the [Sentinel Range](<../../gazetteer/sentinel-range/sentinel-range.md>)
+    Lived in [Dwarven Outpost (Raven's Hold)](<../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>), the [Sentinel Range](<../../gazetteer/sentinel-range.md>)
 </div>
 
 

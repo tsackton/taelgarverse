@@ -20,7 +20,7 @@ title: Selma Wisthelwind
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Zimka [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A Zimka [human](<../../species/humans.md>) (she/her)  
     Born DR 1644 (105 years old)  
     Proprietor of [The Fox’s Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>) (since DR 1712)  
     { .bio }
@@ -30,4 +30,4 @@ title: Selma Wisthelwind
 </div>
 
 
-![Selma Wisthelwind](../../assets/selma-wisthelwind.png){align="right"; width="320"}Selma bought The Fox's Flagon for cash 8 years ago, and seems to enjoy running the inn as a retirement of sorts. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [Kestavo](<../../cosmology/religions/northern-folk-religions/kestavo.md>) religion of [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>).
+![Selma Wisthelwind](../../assets/selma-wisthelwind.png){align="right"; width="320"}Selma bought The Fox's Flagon for cash 8 years ago, and seems to enjoy running the inn as a retirement of sorts. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [Kestavo](<../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) religion of [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>).

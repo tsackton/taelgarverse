@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/metadata/header]
+tags: [event, status/cleanup/metadata]
+dm_owner: none
+dm_notes: color
 title: Grand Conclave of Mawakel
 ---
 # The Grand Conclave of Mawakel

@@ -8,7 +8,7 @@ title: Centaurs
 ---
 # Centaurs
 
-This page contains lore information about centaurs. For details on character creation and playing a centaur, see [Playing a Centaur](<../../campaigns/mechanics/species/playing-a-centaur.md>). 
+This page contains lore information about centaurs. For details on character creation and playing a centaur, see [Playing a Centaur](<../mechanics/playing-a-centaur.md>). 
 
 ![Centaur Plains Frontmatter](../../assets/centaur-plains-frontmatter.png)
 

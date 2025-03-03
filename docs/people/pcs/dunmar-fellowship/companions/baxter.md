@@ -9,6 +9,8 @@ gender:
 player: Dave Schwartz
 affiliations:
 excludePublish: [clee]
+dm_owner: player
+dm_notes: important
 title: Baxter
 ---
 # Baxter

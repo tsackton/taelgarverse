@@ -8,9 +8,9 @@ title: House Rules (Tim)
 
 **Chose a Background:** If you cannot find an official background that fits your class, talk to me to homebrew something. 
 
-**Choose a Species:** The species available to play in the world of Taelgar are listed [here](<./species-of-taelgar.md>).
+**Choose a Species:** The species available to play in the world of Taelgar are listed [here](<../../species/mechanics/species-of-taelgar.md>).
 
-**Choose Languages:** Unless your species says otherwise, every player character starts with four languages. One of these should probably be Common, a second should usually be the language spoken most frequently in the region of the world your adventure or campaign is set, and a third should represent your native tongue, if different. The other one is free for you to choose, from [these options](<../../species/languages.md>). You are free to replace one language with a tool proficiency, if you desire. 
+**Choose Languages:** Unless your species says otherwise, every player character starts with four languages. One of these should probably be Common, a second should usually be the language spoken most frequently in the region of the world your adventure or campaign is set, and a third should represent your native tongue, if different. The other one is free for you to choose, from [these options](<../../background/languages.md>). You are free to replace one language with a tool proficiency, if you desire. 
 
 **Determine Ability Scores:** Use Point Buy as your option to generate ability scores. 
 

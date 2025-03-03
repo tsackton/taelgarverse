@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal, status/metadata/header]
+tags: [person, status/cleanup/metadata, status/needswork/gameupdate]
 campaignInfo: []
 name: Nayan Karnas
 aliases: [Karnas]
@@ -15,12 +15,14 @@ affiliations:
 whereabouts:
 - {type: home, end: 1737, location: Darba}
 - {type: home, start: 1738, location: Nayahar}
+dm_notes: important
+dm_owner: tim
 ---
 # Samraat Nayan Karnas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)  
     Born DR 1716 (33 years old)  
     Samraat of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (since DR 1740)  
     { .bio }

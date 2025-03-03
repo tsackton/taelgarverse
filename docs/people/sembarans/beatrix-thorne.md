@@ -11,6 +11,7 @@ affiliations:
 - {org: Army Garrison of Cleenseau, end: 1719-11-02, title: Soldier}
 - {org: Lord's Guard of Cleenseau, start: 1719-11-23, title: Guardswoman}
 - {org: Lord's Guard of Cleenseau, start: 1720-01-11, title: Sheriff}
+- {org: Thornes of Cleenseau, type: primary}
 whereabouts: Cleenseau
 dm_notes: color
 dm_owner: mike
@@ -20,7 +21,7 @@ title: Béatrix Thorne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans.md>) (she/her), of the [Thornes of Cleenseau](<../../groups/sembaran-noble-houses/thornes-of-cleenseau.md>)  
     Born DR 1696 (53 years old)  
     Soldier of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) (until November 2nd, 1719)  
     Guardswoman of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since November 23th, 1719)  
@@ -33,4 +34,4 @@ title: Béatrix Thorne
 
 ![Beatrix](../../assets/beatrix.png){align="right"; width="320"}A solider in the Bridge Patrol of the [Cleenseau Garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>), she accompanied the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) into the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>) following a trail of spiders. 
 
-After her recent marriage to [Gabriel Thorne](<./gabriel-thorne.md>), she left the army and joined the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>). She miscarried during the Zombie Plague in Cleenseau.
+After her recent marriage to [Gabriel Thorne](<./gabriel-thorne.md>), she left the army and joined the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>). She miscarried during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).

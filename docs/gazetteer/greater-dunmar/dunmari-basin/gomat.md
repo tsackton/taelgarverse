@@ -5,6 +5,8 @@ name: Gomat Oasis
 typeOf: oasis
 whereabouts: Eastern Dunmar
 aliases: [Gomat, Gomat Oasis]
+dm_notes: none
+dm_owner: none
 title: Gomat Oasis
 ---
 # The Gomat Oasis
@@ -17,4 +19,4 @@ A small oasis on the very eastern edge of [Dunmar](<../realms/dunmar/dunmar.md>)
 
 The oasis is frequently used as a temporary waystation by the Dunmari. Although there are no permanent habitation here, there are a few permanent structures -- a stone pen for animals, two wells, and a few mud and adobe shelters in the shade, as well as clear space for tents. 
 
-A day's ride east from here is the [Daraar Canyon](<./daraar-canyon.md>), a massive, unnatural gash in the land, and the eastern edge of [Dunmar](<../realms/dunmar/dunmar.md>). Beyond the canyon rim, [Shakun's Protection](<../../../cosmology/religions/five-siblings/shakun-s-protection.md>) ceases and [the desert](<./nashtkar.md>) becomes increasingly dangerous. 
+A day's ride east from here is the [Daraar Canyon](<./daraar-canyon.md>), a massive, unnatural gash in the land, and the eastern edge of [Dunmar](<../realms/dunmar/dunmar.md>). Beyond the canyon rim, [Shakun's Protection](<../../../gods-and-religions/religions/five-siblings/shakun-s-protection.md>) ceases and [the desert](<./nashtkar.md>) becomes increasingly dangerous. 

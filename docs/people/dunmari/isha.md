@@ -11,13 +11,15 @@ gender: male
 whereabouts:
 - {type: away, location: Mirror of Soul Trapping, end: 1748-06-08}
 - {type: home, location: Karawa, start: 1748-06-09}
+dm_owner: none
+dm_notes: important
 title: Isha
 ---
 # Isha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
     { .bio }
 
     Originally from: Unknown

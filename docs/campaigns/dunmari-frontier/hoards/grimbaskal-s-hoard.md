@@ -3,7 +3,7 @@
 ---
 # Grimbaskal's Hoard
 
-Treasure found in the lair of the green dragon [Grimbaskal](<../../../people/other-nonhumans/mezzar.md>), in the [Elderwood](<../../../gazetteer/chasa-nahadi-watershed/elderwood.md>).
+Treasure found in the lair of the green dragon [Grimbaskal](<../../../people/other-nonhumans/mezzar.md>), in the [Elderwood](<../../../gazetteer/central-highlands/elderwood.md>).
 ## Magic Items
 
 - [Narengril](<../treasure/narengril.md>) (rare major item)
@@ -35,7 +35,7 @@ Treasure found in the lair of the green dragon [Grimbaskal](<../../../people/oth
 - A large carved wooden statue of a dragon, painted in vivid greens and with two emeralds for eyes. Weighs at least 2000 pounds, if not more. Would be worth at least 5000 gp to the right buyer, but transport is a major issue. About 15 feet long, 10 feet wide, and 10 feet tall. 
 - A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible ot value. Roughly 10 feet by 10 feet by 10 feet in size.  
 - Eight bolts of silk. Four are plain white silk (20 - 50 gp each), two are fine silk dyed a rich purple (100 - 250 gp each), and two are beautifully dyed with a complex pattern (100 - 600 gp each) 
-- A large number of logs, in a range of lengths from just larger than an arm in length and breadth up to the breadth of a [human](<../../../species/children-of-divine-creation/humans/humans.md>)’s body and ten paces in length. Each log has been carefully cut and polished so as to display the beauty of its grain and remove any danger of splinters. Many of the logs are hardy and rare hard woods of considerable value. Even the less valuable logs would still be useful to any master carpenter or lesser workman (32 logs total, most would sell for 15 - 150 gp, but two exquisite and rare hardwood logs would sell for 300-400 gp).  
+- A large number of logs, in a range of lengths from just larger than an arm in length and breadth up to the breadth of a [human](<../../../species/humans.md>)’s body and ten paces in length. Each log has been carefully cut and polished so as to display the beauty of its grain and remove any danger of splinters. Many of the logs are hardy and rare hard woods of considerable value. Even the less valuable logs would still be useful to any master carpenter or lesser workman (32 logs total, most would sell for 15 - 150 gp, but two exquisite and rare hardwood logs would sell for 300-400 gp).  
 - A large wooden spice chest (Grimbaskal's Hoard). Contains 20 pounds of salt (60 gp), 2 pounds of saffron (70 gp), 10 pounds of cinnamon (150 gp), 10 pounds of cloves (150 gp), 5 pounds of allspice (60 gp), 5 pounds of peppercorn (75 gp), and a set of silver weights, measures, and grinding implements (25 gp).  
 ### Coins
 

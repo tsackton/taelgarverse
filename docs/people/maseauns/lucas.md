@@ -15,7 +15,7 @@ title: Lucas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Maseuan [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A Maseuan [human](<../../species/humans.md>) (he/him)  
     Born DR 1667 (82 years old)  
     { .bio }
 
@@ -23,4 +23,4 @@ title: Lucas
 </div>
 
 
-An acolyte of [The Wanderer](<../../cosmology/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>), captured by [Wakog](<../other-nonhumans/wakog.md>) and rescued from his camp after the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>). He shepherded many of the survivors back to [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>).
+An acolyte of [The Wanderer](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>), captured by [Wakog](<../other-nonhumans/wakog.md>) and rescued from his camp after the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>). He shepherded many of the survivors back to [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>).

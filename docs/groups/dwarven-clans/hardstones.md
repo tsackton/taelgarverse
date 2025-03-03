@@ -5,12 +5,14 @@ displayDefaults: {defArt: the}
 name: Hardstones
 typeOf: clan
 ancestry: dwarven
+dm_notes: none
+dm_owner: none
 title: Hardstones
 ---
 # The Hardstones
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A [dwarven](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) clan  
+   :octicons-info-24:{ .lg .middle } A [dwarven](<../../species/dwarves.md>) clan  
 </div>
 
 

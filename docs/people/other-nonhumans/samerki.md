@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {endStatus: killed, boxInfo: '<subspecies> (<species>), <pronouns>'}
+tags: [person]
+displayDefaults: {endStatus: killed, boxInfo: '<subspecies> (<species>), <pronouns>', wPast: ''}
 campaignInfo:
 - {campaign: DuFr, type: killed, date: 1748-05-29}
 name: Samerki
@@ -14,21 +14,21 @@ whereabouts:
 - {type: home}
 - {type: home, location: Garamjala Desert}
 - {type: away, start: 1748-02-08, end: 1748-05-29, location: Shakun’s Wellspring}
+dm_notes: color
+dm_owner: tim
 title: Samerki
 ---
 # Samerki
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    oni ([giant](<../../species/children-of-the-riving/giants.md>)), he/him  
+    oni ([giant](<../../species/unusual-species/giants.md>)), he/him  
     Killed May 29th, 1748  
     { .bio }
 
     Originally from: Unknown
-    Lived in the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>)
+    Lived in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 </div>
-
-:octicons-location-24:{ .lg .middle } Killed in [Shakun’s Wellspring](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>), the [Red Mesa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>)
 
 
 

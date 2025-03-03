@@ -14,6 +14,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Tokra}
 pronunciation: FAHL-thrah
+dm_owner: none
+dm_notes: color
 title: Fallthra Hardstone
 ---
 # Fallthra Hardstone
@@ -21,7 +23,7 @@ title: Fallthra Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (she/her), of the [Hardstones](<../../groups/dwarven-clans/hardstones.md>)  
+    A [dwarf](<../../species/dwarves.md>) (she/her), of the [Hardstones](<../../groups/dwarven-clans/hardstones.md>)  
     { .bio }
 
     Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

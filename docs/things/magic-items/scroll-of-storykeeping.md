@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/other]
 displayDefaults: {defArt: ''}
 name: Scroll of Storykeeping
 typeOf: scroll
 subTypeOf: magical
 ancestry: Dunmari
+dm_owner: none
+dm_notes: important
 title: Scroll of Storykeeping
 ---
 # Scroll of Storykeeping

@@ -24,7 +24,7 @@ title: Arthur Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the [Bybets](<../../groups/sembaran-noble-houses/bybets.md>)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans.md>) (he/him), of the [Bybets](<../../groups/sembaran-noble-houses/bybets.md>)  
     Born DR 1682 (67 years old)  
     Lord Consort of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>) (since DR 1706)  
     { .bio }

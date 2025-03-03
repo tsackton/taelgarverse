@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [source]
 name: A Story about Halfling Merchants
+dm_owner: none
+dm_notes: none
 title: A Story about Halfling Merchants
 ---
 # A Story About Halfling Merchants

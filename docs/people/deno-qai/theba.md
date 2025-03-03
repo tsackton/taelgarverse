@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/metadata/header]
+tags: [person, status/cleanup/metadata]
 campaignInfo:
 - {campaign: dufr, person: Delwath, date: 1748-10-22, type: scryed}
 name: Theba
@@ -21,18 +21,18 @@ title: Theba
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A Deno'qai [human](<../../species/humans.md>) (she/her)  
     Born DR 1717 (32 years old)  
     { .bio }
 
-    Based in [Bek'eni village](<../../gazetteer/chasa-nahadi-watershed/bek-eni-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+    Based in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22th, 1748 in [Bek'eni village](<../../gazetteer/chasa-nahadi-watershed/bek-eni-village.md>), the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), [Ainumarya](<../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)  
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22th, 1748 in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
 
 
 
 
-The formely disgraced Godcaller of the Bek'eni, out of favor due to [Mezzar](<../other-nonhumans/mezzar.md>)'s influence. Aided the party in their travels and fights in the [Elderwood](<../../gazetteer/chasa-nahadi-watershed/elderwood.md>), and agreed to take charge of rebuilding the relations among the Deno'qai after [Mezzar](<../other-nonhumans/mezzar.md>)'s meddling. This seems to be going well, in Oct 1748 at least. 
+The formely disgraced Godcaller of the Bek'eni, out of favor due to [Mezzar](<../other-nonhumans/mezzar.md>)'s influence. Aided the party in their travels and fights in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), and agreed to take charge of rebuilding the relations among the Deno'qai after [Mezzar](<../other-nonhumans/mezzar.md>)'s meddling. This seems to be going well, in Oct 1748 at least. 

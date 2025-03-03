@@ -5,22 +5,24 @@ name: Shoal
 born: 1652
 ka: 37
 species: elf
-ancestry: sea
+subspecies: sea
 gender: male
 player: Phil Grayson
 whereabouts:
 - {type: home, location: Quanyi}
+dm_owner: tim
+dm_notes: important
 title: Shoal
 ---
 # Shoal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A sea [elf](<../../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 37)  
+    An [elf](<../../../../species/elves.md>) (sea) (he/him), ([ka](<../../../../background/elven-cycle-of-generations.md>) 37)  
     Born DR 1652 (97 years old)  
     { .bio }
 
-    Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), the [~Eastern Islands~](<../../../../gazetteer/eastern-green-sea/eastern-islands.md>), the [Green Sea](<../../../../gazetteer/green-sea.md>)
+    Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), the ~Eastern Islands~, the [Green Sea](<../../../../gazetteer/green-sea.md>)
 </div>
 
 

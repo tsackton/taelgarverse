@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical, status/needswork/internal, status/stub, item]
+tags: [item/equipment, status/stub]
 typeOf: crown
 created: 1
 whereabouts:
 - {type: home, location: Apollyon}
 - {type: home, location: Fausto}
+dm_owner: tim
+dm_notes: important
 title: Crown of Purity
 ---
 # The Crown of Purity

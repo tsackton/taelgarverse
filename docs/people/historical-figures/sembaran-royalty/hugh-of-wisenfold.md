@@ -17,7 +17,7 @@ title: Hugh
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him), of the [House of Wisenfold](<../../../groups/sembaran-noble-houses/house-of-wisenfold.md>)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans.md>) (he/him), of the [House of Wisenfold](<../../../groups/sembaran-noble-houses/house-of-wisenfold.md>)  
     b. DR 1509 - d. DR 1562, died at age 53 years  
     { .bio }
 

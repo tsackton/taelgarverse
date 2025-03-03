@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 typeOf: scroll
 subTypeOf: ciphered
 ancestry: Skaer
@@ -8,7 +8,7 @@ displayDefaults: {defArt: ''}
 title: Urgall's Scroll
 ---
 # Urgall's Scroll
-:octicons-info-24:{ .lg .middle } **[Skaer](<../../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) Ciphered Scroll**  
+:octicons-info-24:{ .lg .middle } **[Skaer](<../../../gazetteer/western-green-sea/realms/skaer.md>) Ciphered Scroll**  
 
 A ciphered scroll, recovered from the captain's cabin on the [Flaming Tempest](<../../../things/ships/flaming-tempest.md>), in the hand of [Urgall the Black](<../../../people/skaer/urgall-the-black.md>). It reads, in translation:
 

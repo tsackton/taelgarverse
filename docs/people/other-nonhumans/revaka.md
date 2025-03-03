@@ -11,6 +11,8 @@ ancestry:
 gender: female
 whereabouts:
 - {type: away, location: Mirror of Soul Trapping}
+dm_owner: tim
+dm_notes: important
 title: Revaka
 ---
 # Revaka
@@ -23,7 +25,7 @@ title: Revaka
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), owned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 
 
 
@@ -35,4 +37,6 @@ title: Revaka
 
 
 A hobgoblin who has been trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>) for centuries. A fairly powerful sorcerer from before the [Great War](<../../events/1500s/great-war.md>), trapped by [Cha'mutte](<../extraplanar-powers/cha-mutte.md>) for refusing to join his war. 
+
+
 

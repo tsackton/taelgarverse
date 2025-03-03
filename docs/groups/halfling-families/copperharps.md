@@ -1,17 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/unknown]
+tags: [organization]
 displayDefaults: {defArt: the}
-campaignInfo: []
 name: Copperharps
 ancestry: halfling
 typeOf: family
+dm_notes: none
+dm_owner: none
 title: Copperharps
 ---
 # The Copperharps
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) family  
+   :octicons-info-24:{ .lg .middle } A [halfling](<../../species/halflings.md>) family  
 </div>
 
 

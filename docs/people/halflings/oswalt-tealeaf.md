@@ -16,19 +16,21 @@ whereabouts:
 - {type: away, start: 1748, end: 1748-08-08, location: The Green Leaf}
 - {type: away, start: 1748-08-09, end: 1748-08-21, location: Emerald Song}
 - {type: away, start: 1748-08-22, location: Chardon}
+dm_owner: tim
+dm_notes: color
 title: Oswalt Tealeaf
 ---
 # Oswalt Tealeaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)  
+    A [halfling](<../../species/halflings.md>) (he/him), of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)  
     { .bio }
 
     Originally from: [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of August 22th, 1748): [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of August 22th, 1748): [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 
 
 
@@ -36,7 +38,7 @@ title: Oswalt Tealeaf
 
 
 
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/west-coast/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/west-coast/chardonian-empire/chardonian-empire.md>)  
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
 
 
 Oswalt Tealeaf is a halfling adventurer, archer, and scout. He grew up traveling the roads of Dunmar with the Tealeaf clan. 
@@ -50,6 +52,7 @@ After the Tealeaf clan encountered trouble with Agata Dustmother, and lost Garre
 - 1747 DR: Oswalt meets and falls in love with [Jasmine Sunmeadow](<./jasmine-sunmeadow.md>) in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)
 - 1748 DR: Jasmine and Oswalt are married
 - Aug 09, 1748 DR: Jasmine and Oswalt leave Darba together on the Emerald Song, heading for adventure
+
 
 
 

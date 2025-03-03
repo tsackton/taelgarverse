@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/refactor]
+tags: [person, status/cleanup/campaigninfo]
 name: Devana
 species: human
 ancestry: Dunmari
@@ -15,7 +15,7 @@ title: Devana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
     { .bio }
 
     Based in the [~Karawa Desert~](<../../gazetteer/greater-dunmar/dunmari-basin/karawa-desert.md>), the [Dunmari Basin](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-basin.md>)

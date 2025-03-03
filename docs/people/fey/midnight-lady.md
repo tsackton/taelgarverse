@@ -16,15 +16,15 @@ title: The Midnight Lady
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/children-of-the-riving/fey/fey.md>) (hag)  
+    A [fey](<../../species/extraplanar/fey.md>) (hag)  
     { .bio }
 
-    Based in [Duskmire](<../../cosmology/multiverse/echo-realms/feywild/duskmire.md>), the [Feywild](<../../cosmology/multiverse/echo-realms/feywild/feywild.md>), the [Echo Realms](<../../cosmology/multiverse/echo-realms/echo-realms.md>)
+    Based in Duskmire, [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently in [Peydon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-A mysterious fey recently arrived in [Peydon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md>). Known by many in the village as the Night Witch.
+A mysterious fey recently arrived in [Peydon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md>). Known by many in the village as the Night Witch. Her real name is Moriel.
 
 

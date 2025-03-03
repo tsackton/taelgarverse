@@ -19,13 +19,15 @@ whereabouts:
 - {type: away, start: 1748-04-13, end: 1748-07-18, location: Tokra}
 - {type: away, start: 1748-07-18, end: 1748-08-13, location: Tokra-Darba Road}
 - {type: away, start: 1748-08-13, location: Darba}
+dm_owner: tim
+dm_notes: important
 title: Ander Charmheart
 ---
 # Ander Charmheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
+    A [halfling](<../../species/halflings.md>) (he/him), of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
     Born DR 1728 (21 years old)  
     { .bio }
 

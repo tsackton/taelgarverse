@@ -1,7 +1,14 @@
 ---
-{title: Mirror of Soul Trapping Vision}
+headerVersion: 2023.11.25
+tags: [event]
+displayDefaults: {defArt: ''}
+DR: 1748-06-08
+timelineDescriptor: Dunmari Frontier Campaign
+title: Mirror of Soul Trapping Vision
 ---
-[Mirror of the Past](<../treasure/mirror-of-the-past.md>) fades, and you see reflected the interior of [Agata](<../../../people/fey/agata.md>)’s hut. Dark, smoky. The chair and table all set up as mostly as you saw them. There is an [orc](<../../../people/orcs/nogu.md>) sitting in the chair, the big chair that used to be a Dunmari woman. The [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) looks battered and bruised, her hands are tied behind her, and [Agata](<../../../people/fey/agata.md>) is holding a jar of a bubbly brown gooey substance and painting it onto her leg. As she paints, the leg starts to solidify and turn to wood and then she takes an awl and starts chipping at this [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>)’s wooden leg. [Agata](<../../../people/fey/agata.md>) is speaking, but the [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) says nothing. [Agata](<../../../people/fey/agata.md>) slaps her, and then turns the mirrors hanging on the wall, says something and the [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) vanishes.
+# Mirror of Soul Trapping Vision
+
+[Mirror of the Past](<../treasure/mirror-of-the-past.md>) fades, and you see reflected the interior of [Agata](<../../../people/fey/agata.md>)’s hut. Dark, smoky. The chair and table all set up as mostly as you saw them. There is an [orc](<../../../people/orcs/nogu.md>) sitting in the chair, the big chair that used to be a Dunmari woman. The [orc](<../../../species/orcs.md>) looks battered and bruised, her hands are tied behind her, and [Agata](<../../../people/fey/agata.md>) is holding a jar of a bubbly brown gooey substance and painting it onto her leg. As she paints, the leg starts to solidify and turn to wood and then she takes an awl and starts chipping at this [orc](<../../../species/orcs.md>)’s wooden leg. [Agata](<../../../people/fey/agata.md>) is speaking, but the [orc](<../../../species/orcs.md>) says nothing. [Agata](<../../../people/fey/agata.md>) slaps her, and then turns the mirrors hanging on the wall, says something and the [orc](<../../../species/orcs.md>) vanishes.
 
 Going back in time, you see a [Dunmari woman](<../../../people/dunmari/sura.md>), a strikingly beautiful woman, with high cheekbones, light brown skin, a regal bearing. She has a bloody head, and a surprised look on her face almost too quick to notice, as she vanishes in front of the mirror.
 

@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [background]
+dm_owner: tim
+dm_notes: none
 title: Dunmari Architecture
 ---
 # Dunmari Architecture
@@ -13,7 +15,7 @@ The early architecture of the Dunmari is characterized by intricate reliefs, oft
 The Bhishma Monastery outside Kharsan is an exemplar of this style.
 ## Early Dharajunic
 
-After the collapse of the Aatmaji dynasty and the short period of chaos that followed, the early part of the Dharajun dynasty saw the spread of a grand, ostentatious architectural style, bright and colorful and highly decorative. Horse motifs are common in this era and it is during the early part of the Dharajun dynasty that the association between Dunmari and horses is really established. This style is also influenced in part by growing connections to the dwarves living in what was once the Kingdom of [Ardith](<../../../sentinel-range/dwarven-kingdoms/ardith.md>).
+After the collapse of the Aatmaji dynasty and the short period of chaos that followed, the early part of the Dharajun dynasty saw the spread of a grand, ostentatious architectural style, bright and colorful and highly decorative. Horse motifs are common in this era and it is during the early part of the Dharajun dynasty that the association between Dunmari and horses is really established. This style is also influenced in part by growing connections to the dwarves living in what was once the Kingdom of [Ardith](<../../../central-highlands/dwarven-kingdoms/ardith.md>).
 
 This was, in many ways, the height of the influence and power of Dunmar and the architecture reflects that.
 ## Late Dharajunic

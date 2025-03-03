@@ -1,19 +1,21 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {startStatus: Built}
-tags: [place, status/metadata/image]
+tags: [place, status/cleanup/image]
 name: Archives of Tokra
 typeOf: library
 whereabouts: Tokra
 aliases: [Tokra Archives]
 created: 1411
+dm_notes: none
+dm_owner: tim
 title: Archives of Tokra
 ---
 # The Archives of Tokra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Built DR 1411 (338 years ago)  
-    :octicons-location-24:{ .lg .middle } A library in [Tokra](<./tokra.md>), [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>), [Greater Dunmar](<../../../../greater-dunmar.md>)  
+    :octicons-location-24:{ .lg .middle } A library [Tokra](<./tokra.md>)  
 </div>
 
 

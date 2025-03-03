@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/other]
 displayDefaults: {defArt: ''}
 name: Message Stone
 typeOf: wondrous item
@@ -9,6 +9,8 @@ ancestry: Drankorian
 rarity:
 image:
 ddbLink: https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone
+dm_owner: none
+dm_notes: none
 title: Message Stone
 ---
 # Message Stone

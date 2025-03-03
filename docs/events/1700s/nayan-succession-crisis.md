@@ -1,5 +1,7 @@
 ---
-tags: [status/needswork/wip, event, status/metadata/header]
+tags: [status/stub, event, status/cleanup/metadata]
+dm_owner: tim
+dm_notes: important
 title: Nayan Succession Crisis
 ---
 

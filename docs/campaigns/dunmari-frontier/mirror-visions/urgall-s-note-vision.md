@@ -1,6 +1,13 @@
 ---
-{title: Urgall's Note Vision}
+headerVersion: 2023.11.25
+tags: [event]
+displayDefaults: {defArt: ''}
+DR: 1748-12-30
+timelineDescriptor: Dunmari Frontier Campaign
+title: Urgall's Note Vision
 ---
+# Urgall's Note Vision
+
 You hold the thin piece of parchment up to the mirror, and watch as the scene fades. 
 
 An image of [Urgall](<../../../people/skaer/urgall-the-black.md>) appears, sitting at his desk in his cabin. He is wearing a dark cloak over leather armor, his hood thrown back, tangled black hair falling in messy curls framing eyes that shine with an obsessive gleam. He is holding a quill, and writing on the paper. 

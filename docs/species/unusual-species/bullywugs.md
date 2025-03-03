@@ -1,8 +1,9 @@
 ---
-tags: [species, status/needswork]
+tags: [species, status/needswork/wip]
+dm_owner: tim
+dm_notes: important
 title: Bullywugs
 ---
-(stub)
 
 Notes:
 - Most common of the aquatic and semi-aquatic species, often seen on rivers

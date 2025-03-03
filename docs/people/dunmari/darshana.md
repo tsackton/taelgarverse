@@ -11,13 +11,15 @@ gender: female
 whereabouts: Tokra
 affiliations:
 - {org: Darshana's Caravanserai, title: Owner, type: leader}
+dm_owner: none
+dm_notes: color
 title: Darshana
 ---
 # Darshana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (she/her)  
     Born DR 1699 (50 years old)  
     Owner of [Darshana's Caravanserai](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/darshana-s-caravanserai.md>)  
     { .bio }

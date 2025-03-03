@@ -5,21 +5,29 @@ campaignInfo:
 name: Benat
 born:
 species: lizardfolk
-ancestry: salt
+subspecies: salt
 gender: male
 whereabouts: Hamri
+dm_owner: none
+dm_notes: color
 title: Benat
 ---
 # Benat
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A salt [lizardfolk](<../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>) (he/him)  
+    A [lizardfolk](<../../species/lizardfolk.md>) (salt) (he/him)  
     { .bio }
 
-    Based in [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
+    Based in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
 </div>
 
+
+
+# Benat
+>[!info]+ Biographical Info  
+> A salt [lizardfolk](<../../species/lizardfolk.md>) (he/him)  
+>> 
 
 A lizardfolk man in the prime of his life, clean blue-green scales, wise eyes, but walks slowly and rubs his hands a lot. Particularly curious about local history. 
 

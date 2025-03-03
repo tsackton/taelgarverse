@@ -9,13 +9,15 @@ ancestry: Mawaran
 gender: male
 player: David Kong
 affiliations:
+dm_owner: player
+dm_notes: important
 title: Ryu
 ---
 # Ryu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Mawaran [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A Mawaran [human](<../../../species/humans.md>) (he/him)  
     { .bio }
 
 </div>

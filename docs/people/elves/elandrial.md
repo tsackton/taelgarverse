@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/metadata/refactor]
+tags: [person, historical, status/cleanup/campaigninfo]
 campaignInfo:
 name: Elandrial
 born:
@@ -13,6 +13,8 @@ whereabouts:
 - {type: away}
 affiliations: [Fides Lucaris]
 pronunciation: eh-LAN-dree-ahl
+dm_owner: tim
+dm_notes: important
 title: Elandrial
 ---
 # Elandrial
@@ -20,7 +22,7 @@ title: Elandrial
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), ([ka](<../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) unknown)  
+    An [elf](<../../species/elves.md>) (he/him), ([ka](<../../background/elven-cycle-of-generations.md>) unknown)  
     Died  
     Member of [Fides Lucaris](<../../groups/drankorian-societies/fides-lucaris.md>)  
     { .bio }

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/dunmarfrontier, status/needswork]
+tags: [person, pc/dunmarfrontier, status/active, status/cleanup/image]
 campaignInfo:
 name: Delwath
 born: 1472
@@ -22,14 +22,16 @@ title: Delwath
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../species/children-of-the-embodied-gods/elves/elves.md>) (he/him), of [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../species/children-of-the-embodied-gods/elves/elven-cycle-of-generations.md>) 36)  
+    An [elf](<../../../species/elves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) 36)  
     Born DR 1472 (277 years old)  
     { .bio }
 
-    Originally from: [Ainumarya](<../../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+    Originally from: [Ainumarya](<../../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of DR 1538): [Ainumarya](<../../../gazetteer/chasa-nahadi-watershed/ainumarya.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of DR 1538): [Ainumarya](<../../../gazetteer/central-highlands/ainumarya.md>)
+
+
 
 
 ![Delwath Portrait](../../../assets/delwath-portrait.jpg)
@@ -50,7 +52,7 @@ title: Delwath
 > 
 > Although the company was killed to the last elf (save for Delwath), the elven company was still powerful and, in turn, they destroyed the orcish company. In the final duel, the commander of the elven company killed the cloaked figure before succumbing to her wounds.
 > 
-> Delwath lay dazed for several days, as rains fell and the sky was torn asunder by the destruction of [Cha'mutte](<../../extraplanar-powers/cha-mutte.md>), in shock and despair. Finally, he recovered enough to start dragging the bodies of the dead from the field, when he noticed a dark circlet upon the arm of the wizard. His curiosity got the better of his, and he touched it, and was instantly pulled into a land of shadow. This realm was a vast open plain, with only dim light and a fading horizon. Vast shadowy mountains arose in all directions, and no matter where Delwath walked, he kept returning to the battlefield in which is comrades died. He time he returned, the he was caught, forced to watch the slaughter, and each time, it seemed, the dying elves died faster, and the [Orcs](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) were more brutal. He was neither hungry, nor tired, nor thirsty, and time passed in strange ways.
+> Delwath lay dazed for several days, as rains fell and the sky was torn asunder by the destruction of [Cha'mutte](<../../extraplanar-powers/cha-mutte.md>), in shock and despair. Finally, he recovered enough to start dragging the bodies of the dead from the field, when he noticed a dark circlet upon the arm of the wizard. His curiosity got the better of his, and he touched it, and was instantly pulled into a land of shadow. This realm was a vast open plain, with only dim light and a fading horizon. Vast shadowy mountains arose in all directions, and no matter where Delwath walked, he kept returning to the battlefield in which is comrades died. He time he returned, the he was caught, forced to watch the slaughter, and each time, it seemed, the dying elves died faster, and the [Orcs](<../../../species/orcs.md>) were more brutal. He was neither hungry, nor tired, nor thirsty, and time passed in strange ways.
 > 
 > After a timeless period, he found he could, if he stretched his will in just the right way, move the shadowy world around him.
 > 
@@ -60,7 +62,7 @@ title: Delwath
 > 
 > He walked west, and found the Dunmari. For several months he recovered under the care of an elderly herdsman and his unwed daughter, from which he learned what history he could. He was wild and barely spoke at first, but under their care regained some of his old self. After several months, he learned to tame the shadow magic within, and has even heard a voice at times, speaking to him in whispers from far away.
 > 
-> What the voice is, he knows not, although he doesn't fully trust it. After after four months, he left his herdsman savior and went west, to seek the Mysteries of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>), as his nearest, if not best, hope of finding out more about what might be going on. He has been living in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) for the since January, learning what he can about the Mysteries.
+> What the voice is, he knows not, although he doesn't fully trust it. After after four months, he left his herdsman savior and went west, to seek the Mysteries of [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>), as his nearest, if not best, hope of finding out more about what might be going on. He has been living in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) for the since January, learning what he can about the Mysteries.
 
 > [!WARNING]- Delwath's Dream of the Shadow Realm, Session 5
 >
@@ -98,7 +100,7 @@ title: Delwath
 > 
 > A final, long pause.
 > 
-> "I am ………… [Aaviskar](<../../../cosmology/gods/tanshi/meswati/yezali.md>)." 
+> "I am ………… [Aaviskar](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>)." 
 > 
 > A name, perhaps, but the voice sounded unsure, almost.
 >
@@ -109,7 +111,7 @@ title: Delwath
 > 
 > ### Shield
 > 
-> Delwath shows the masterwork shield found in [Agata's lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>) around. [Alesh](<../../dunmari/alesh.md>) is back in town, and she recognizes the shield immediately. It is definitely Dunmari in design, and the insignia, a stylized head of a rearing horse in front of two crossed spears, dates it to the Dunmari army during the [Great War](<../../../events/1500s/great-war.md>). This was probably an officer's shield as the craftsmanship is extraordinary. [Alesh](<../../dunmari/alesh.md>) thinks it must have been in someone's family for a while, kept and maintained as an heirloom, before [Agata](<../../fey/agata.md>) acquired it, as it would not be in this good shape had it been just abandoned somewhere for 200 years. But it could also be something like a trophy [Agata](<../../fey/agata.md>) took from someone she killed that she maintained as a form of gloating or remembrance of her victories. Or even something that was lost in a dry, buried location somehow protected from rust and decay. 
+> Delwath shows the masterwork shield found in [Agata's Lair](<../../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>) around. [Alesh](<../../dunmari/alesh.md>) is back in town, and she recognizes the shield immediately. It is definitely Dunmari in design, and the insignia, a stylized head of a rearing horse in front of two crossed spears, dates it to the Dunmari army during the [Great War](<../../../events/1500s/great-war.md>). This was probably an officer's shield as the craftsmanship is extraordinary. [Alesh](<../../dunmari/alesh.md>) thinks it must have been in someone's family for a while, kept and maintained as an heirloom, before [Agata](<../../fey/agata.md>) acquired it, as it would not be in this good shape had it been just abandoned somewhere for 200 years. But it could also be something like a trophy [Agata](<../../fey/agata.md>) took from someone she killed that she maintained as a form of gloating or remembrance of her victories. Or even something that was lost in a dry, buried location somehow protected from rust and decay. 
 > 
 > In any case, both [Alesh](<../../dunmari/alesh.md>) and [Havdar](<../../dunmari/havdar.md>) think Delwath should take it, given he fought in that war as well, and pass it along with their blessing. 
 > 
@@ -117,7 +119,7 @@ title: Delwath
 > 
 > ### Closing Affairs
 > 
-> Delwath also closes up his affairs in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). His old house was destroyed, and he does not bother to repair it. During the week and the [Feast of Bhishma](<../../../time/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>), he says his goodbyes and give gifts of thanks to a few friends from his time in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
+> Delwath also closes up his affairs in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). His old house was destroyed, and he does not bother to repair it. During the week and the [Feast of Bhishma](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>), he says his goodbyes and give gifts of thanks to a few friends from his time in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
 > 
 > ### Rumors 
 > 
@@ -131,7 +133,7 @@ title: Delwath
 > 
 > From several people, you get the sense that [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) was feeling a little overrun towards the end. Full of chaos, people going missing, even rumors, probably fanciful, that something was stolen from the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) 
 > 
-> **Rumors about [Sura](<../../dunmari/sura.md>)'s Disapperance**
+> **Rumors about [Sura](<../../dunmari/sura.md>)'s Disappearance**
 >
 >It was quite the scandal at the time, and a tragedy, so many people are happy to talk about this. 
 >
@@ -139,9 +141,9 @@ title: Delwath
 >
 >[Sura](<../../dunmari/sura.md>), from a prominent family from around [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), raised in a traditional lifestyle but with cultural and familial ties to the west, was widely seen as being presented and prepared to take over as Samraat on Nayan Marathu's passing. 
 >
->[Sura](<../../dunmari/sura.md>) disappeared between [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) and [Askandi](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/askandi.md>), when traveling with the royal court. Marathu insisted on leading the search for her personally, but was tragically killed soon after in an [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) ambush on the edge of the [Garamjala](<../../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>). [Sura](<../../dunmari/sura.md>)'s brother Karnas, who was then the general of the southern armies (based in western [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)), was quickly crowned Samraat, and sent an army into the desert, but that force bogged down quickly and few returned. Soon the story became that [Sura](<../../dunmari/sura.md>) brought it upon herself traveling in the eastern wilds. 
+>[Sura](<../../dunmari/sura.md>) disappeared between [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) and [Askandi](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/askandi.md>), when traveling with the royal court. Marathu insisted on leading the search for her personally, but was tragically killed soon after in an [orc](<../../../species/orcs.md>) ambush on the edge of the [Garamjala](<../../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>). [Sura](<../../dunmari/sura.md>)'s brother Karnas, who was then the general of the southern armies (based in western [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)), was quickly crowned Samraat, and sent an army into the desert, but that force bogged down quickly and few returned. Soon the story became that [Sura](<../../dunmari/sura.md>) brought it upon herself traveling in the eastern wilds. 
 >
->**Rumors About Other Bad Stuff Happening While [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>)'s Protection Was Down**
+>**Rumors About Other Bad Stuff Happening While [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>)'s Protection Was Down**
 >
 >There are many rumors but few clear facts. [Havdar](<../../dunmari/havdar.md>) and his troops did fight several smaller groups of gnolls on the road to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), and there are various rumors of those who couldn't make it to safety dying alone on the frontier. Indeed, there are definitely folks returning who lost people, who never made it to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). But it is hard to say if this could have just been the gnolls that you knew about, or something else.
 >
@@ -157,7 +159,7 @@ title: Delwath
 >
 >**Rumors from out east**
 >
->Few people travel east of [Gomat](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>), and even fewer since you've been in the village. However, there is one strange thing. As word spreads that you are asking around about traveling out east, an older Dunmari man approaches you one morning, and tells you that he heard you were asking about rumors from the east, and if you knew that the book [Seeker](<./seeker.md>) carries is from the desert? He continues: he was the one who gave the book to [Ikram](<../../dunmari/ikram.md>) for [Seeker](<./seeker.md>), thinking a dwarf might like this strange, blank book with a cover decorated with Dwarven ruins. His cousin found it in the desert, he says, along with two other books with strange writing in them. He sold the other books at the market before the attacks, to an old Chardonian man collecting stories and history just before the [Festival of Rebirth](<../../../time/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>), named [Servius](<../../chardonians/servius.md>). [Servius](<../../chardonians/servius.md>) traveled with the refugees to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), but this man isn't sure where he went after that. He also says that if you want to talk to his cousin, he should be back in town by the [Feast of Bhishma](<../../../time/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>). 
+>Few people travel east of [Gomat](<../../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>), and even fewer since you've been in the village. However, there is one strange thing. As word spreads that you are asking around about traveling out east, an older Dunmari man approaches you one morning, and tells you that he heard you were asking about rumors from the east, and if you knew that the book [Seeker](<./seeker.md>) carries is from the desert? He continues: he was the one who gave the book to [Ikram](<../../dunmari/ikram.md>) for [Seeker](<./seeker.md>), thinking a dwarf might like this strange, blank book with a cover decorated with Dwarven ruins. His cousin found it in the desert, he says, along with two other books with strange writing in them. He sold the other books at the market before the attacks, to an old Chardonian man collecting stories and history just before the [Festival of Rebirth](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>), named [Servius](<../../chardonians/servius.md>). [Servius](<../../chardonians/servius.md>) traveled with the refugees to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), but this man isn't sure where he went after that. He also says that if you want to talk to his cousin, he should be back in town by the [Feast of Bhishma](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>). 
 
 > [!WARNING]- Delwath's Dream Staff Journey, Session 32
 > 
@@ -165,7 +167,7 @@ title: Delwath
 > 
 > *Part 1: The Dream*
 > 
-> [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to meet him at the top of the mesa, at dusk. When Delwath arrives, [Candrosa](<../../dunmari/candrosa.md>) is waiting, holding his dream staff, the same staff of white ash with a silver crescent design on the top. He seems relaxed and at peace in a way that you have not seen before. The staff seems to shimmer slightly -- somehow the return of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>)'s Heart has added to its power, allowing it to recharge. [Candrosa](<../../dunmari/candrosa.md>) asks you to focus on an image, an anchor that will guide and shape your experience in the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>). 
+> [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to meet him at the top of the mesa, at dusk. When Delwath arrives, [Candrosa](<../../dunmari/candrosa.md>) is waiting, holding his dream staff, the same staff of white ash with a silver crescent design on the top. He seems relaxed and at peace in a way that you have not seen before. The staff seems to shimmer slightly -- somehow the return of [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>)'s Heart has added to its power, allowing it to recharge. [Candrosa](<../../dunmari/candrosa.md>) asks you to focus on an image, an anchor that will guide and shape your experience in the [Dreamworld](<../../../cosmology/dreamworld.md>). 
 > 
 > [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to sit and empty his mind of everything but the image. Delwath settles down on the top of the mesa, concentrating on the vision of a clear pool in a deep forest, lit by moonlight that [Wellby](<./wellby.md>) showed him telepathically earlier that day, somehow associated with his pact weapons.
 > 
@@ -185,24 +187,24 @@ title: Delwath
 > 
 > In front of the cairn, two people are kneeling, perhaps in prayer. Their features keep shifting, one moment young, the next old, changing gender and hairstyle and clothing. But they are clearly human. Beside them, a dead deer lays on the ground, its heart cut out. Another human is standing, holding the freshly butchered heart of the deer, placing it in a fire burning on the stone table. His features seem fixed, and he is praying in a language that you cannot place, but you can understand clearly.
 > 
-> "[Yezali](<../../../cosmology/gods/tanshi/meswati/yezali.md>), hear my prayer.
+> "[Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>), hear my prayer.
 > The fresh blood of the swift, I give to you. Hear my prayer.
 > The warmth of the winter's hearth, I give to you. Hear my prayer.
 > By the sacred springs of the Adisi Cherka, hear my prayer.
 > This I offer from my heart to yours.
 > This I offer from my hand to yours.
 > 
-> [Yezali](<../../../cosmology/gods/tanshi/meswati/yezali.md>), these two souls go north, to find who has hunted us this past season, who is behind the raids of hobgoblins and worse on our northern borders. They must travel unseen for as long as possible. Please help them."
+> [Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>), these two souls go north, to find who has hunted us this past season, who is behind the raids of hobgoblins and worse on our northern borders. They must travel unseen for as long as possible. Please help them."
 > 
 > As he speaks, he looks directly at you. You can feel the question in his eyes, the desperation, and you can see echoes of his life. Years of peace, living quietly in the forest. A few years ago, the first attacks, hobgoblins from the north. Rarely killing, but taking captives, never to be seen again. Raids getting worse; villages destroyed, whole families gone missing. Food getting scare as people are afraid to hunt. Many turning south, to flee, perhaps try to hide among the elves. The desperation to know, what is it that is beyond the forests, in the inhospitable northern lands of fire and ice? 
 > 
-> He waits, eyes turning hopeful as he sees you in the sky, looking at you expectantly, clearly thinking you are [Yezali](<../../../cosmology/gods/tanshi/meswati/yezali.md>). You are no longer sure, yourself, who you really are. You can feel the power swelling in you, somehow tinged with the familiar strength you-as-Delwath draw from the shadow realm, but drawn from elsewhere, from some deep, infinite well of mind-boggling everythingness. 
+> He waits, eyes turning hopeful as he sees you in the sky, looking at you expectantly, clearly thinking you are [Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>). You are no longer sure, yourself, who you really are. You can feel the power swelling in you, somehow tinged with the familiar strength you-as-Delwath draw from the shadow realm, but drawn from elsewhere, from some deep, infinite well of mind-boggling everythingness. 
 > 
 > Delwath reaches into this source of power he seems connected to, and feels the raven cloaks he imagines forming in the sky and floating down on these people. As they land on these people, cloaking them in shadow and protecting them from unfriendly eyes, the world splits apart into a million shards, only the pool of water remaining still. Reflected in the water, you can see the threads of the lives of the people here stretching into the past and the future -- just glimpses of the echoes of this moment, and the reverberations of the past that led to this point. 
 > 
 > Most are impossible to make sense of, just a blurring sensation of the short lives of humans, one after another, blending into each other. But you get a feeling, somehow, of these people, few in number, coming to this forest, settling here uncounted generations ago, blue eyed and long haired people living and dying in small villages of simple wooden and thatch huts, raising pigs, and tending the forests. The future stretching ahead -- scouts returning, cloaked in raven cloaks, warning of a great army in the land of fire and ice to the north. Bird-people, kenku, raiding and screaming in pain as they are driven by wizards with cruel magic. Hobgoblin armies on the march, short, nasty battles, but always pressing forward, the occasional victory in battle making no difference to the larger war. 
 > 
-> As visions in the pool of water are overtaken with violence, you see shapes moving around you, vague shadows at first, but they begin to coalesce into scenes of battle: your old army company, fighting and losing against hobgoblins as dark bolts of lightning strike from the sky above. Superimposed over the battle you remember is an image of another battle, fought in the clearing with the sacred pool and clear forest stream. A huge devil, cloaked in shadow, huge wings wrapped around its body, spiked tail lashing as it leads an army through the forest, flames springing up and burning the woods as it walks. With a crash it steps into the pool, the water sizzling and hissing, the people dying by the dozens as they attempt to run in fear and are hunted down. Your sense of this vision is it is happening during the [Great War](<../../../events/1500s/great-war.md>), somewhere far to the north. You later learn this is the Battle of Darkfire happening in what is now the [Forest of Nightmares](<../../../gazetteer/far-north/forest-of-nightmares.md>).
+> As visions in the pool of water are overtaken with violence, you see shapes moving around you, vague shadows at first, but they begin to coalesce into scenes of battle: your old army company, fighting and losing against hobgoblins as dark bolts of lightning strike from the sky above. Superimposed over the battle you remember is an image of another battle, fought in the clearing with the sacred pool and clear forest stream. A huge devil, cloaked in shadow, huge wings wrapped around its body, spiked tail lashing as it leads an army through the forest, flames springing up and burning the woods as it walks. With a crash it steps into the pool, the water sizzling and hissing, the people dying by the dozens as they attempt to run in fear and are hunted down. Your sense of this vision is it is happening during the [Great War](<../../../events/1500s/great-war.md>), somewhere far to the north. You later learn this is the Battle of Darkfire happening in what is now the [Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>).
 > 
 > As you teeter on the brink of the memory of the realm of shadow, [Candrosa](<../../dunmari/candrosa.md>)'s voice reaches out, calling your name, and you feel a tug as if something is forcibly pulling on your consciousness, and you slide along the thin line of energy that connects you to your body, now visible again. 
 > 
@@ -214,9 +216,9 @@ title: Delwath
 > 
 > As you return to your bed and drift into a trance, a different vision:
 > 
-> You are looking down at a forest grove, an opening in a dense mixed forest of maples, oaks, and birches. In the clearing is a clear pool of water, a running brook flowing out of it into the woods. It is dusk, and fireflies are beginning to emerge from the shadows of the trees, their lights flashing in the opening above the pool. This is the same place you saw in the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>), but without people, without the cairn of stone. 
+> You are looking down at a forest grove, an opening in a dense mixed forest of maples, oaks, and birches. In the clearing is a clear pool of water, a running brook flowing out of it into the woods. It is dusk, and fireflies are beginning to emerge from the shadows of the trees, their lights flashing in the opening above the pool. This is the same place you saw in the [Dreamworld](<../../../cosmology/dreamworld.md>), but without people, without the cairn of stone. 
 > 
-> The voice in your head, that calls themselves [Aaviskar](<../../../cosmology/gods/tanshi/meswati/yezali.md>), seems to struggle to speak for a moment. Then, almost in awe: "I think I remember this place."
+> The voice in your head, that calls themselves [Aaviskar](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>), seems to struggle to speak for a moment. Then, almost in awe: "I think I remember this place."
 > 
 > A pause.
 > 
@@ -230,13 +232,13 @@ title: Delwath
 > 
 > [Candrosa](<../../dunmari/candrosa.md>) points out that [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) itself is a place that is close to the Divine, but under the assumption that elven gods are associated with nature somehow will tell you that he has always found the top of the mesa to be a particularly clear, beautiful, and appropriate place to commune with the gods.
 > 
-> [Cintra](<../../dunmari/cintra.md>) will pull Delwath aside and say that, yes, [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) is a place that is close to the Divine, and indeed could almost be said to be Divine itself, for the mesa is, in some sense, the body of [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>) made manifest. She will also clarify that, while [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>) speaks clearly from the mesa, she is not sure that this will be true of the elven gods, because of how tied the mesa is to [Shakun](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/shakun.md>). She will say that she believes this place, the oasis of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), has an ancient connection to the gods, being a place that was close to the Divine even before the Dunmari arrived, perhaps even before humans settled the lands. She sometimes sees a great forest covering spreading across what are now plains and deserts, full of ancient trees that reach the sky. A few miles west of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) there is a place where a natural stone arch stands isolated in the rocky desert, and when she has traveled there, the arch is not stone, but living wood, ancient and full of some mysterious divine echo. She suggests this may be a better place to commune with elven gods. 
+> [Cintra](<../../dunmari/cintra.md>) will pull Delwath aside and say that, yes, [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) is a place that is close to the Divine, and indeed could almost be said to be Divine itself, for the mesa is, in some sense, the body of [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>) made manifest. She will also clarify that, while [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>) speaks clearly from the mesa, she is not sure that this will be true of the elven gods, because of how tied the mesa is to [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>). She will say that she believes this place, the oasis of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), has an ancient connection to the gods, being a place that was close to the Divine even before the Dunmari arrived, perhaps even before humans settled the lands. She sometimes sees a great forest covering spreading across what are now plains and deserts, full of ancient trees that reach the sky. A few miles west of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) there is a place where a natural stone arch stands isolated in the rocky desert, and when she has traveled there, the arch is not stone, but living wood, ancient and full of some mysterious divine echo. She suggests this may be a better place to commune with elven gods. 
 > 
 > Delwath will set out pre-dawn one morning into the desert. He will leave all of his things with the party (and I'll send a separate email to the group about the details, he is also going to speak to [Kenzo](<./kenzo.md>) separately) save for two waterskins, a day's worth of food, and a belt pouch with the mote of fate and some red healing mud, he will set out into the desert.
 > 
 > He will head to the arch [Cintra](<../../dunmari/cintra.md>) described. He finds the arch clear enough: it is a large stone arch, but as it catches the rays of the morning sun, it seems to shift to curling roots of some great, immense tree. It is well positioned for the ritual you imagine. 
 > 
-> Delwath spends the day constructing a rough stone altar, as close to what he saw in the [Dreamworld](<../../../cosmology/multiverse/echo-realms/dreamworld.md>) as he can, with the available materials and time. He will build this near the arch, such that at sunset the shadow of the arch will fall on the altar. In the mid afternoon, he will summon his shadowspirit, and send it out to hunt. Hawks are in short supply, but your shadow herds an antelope to you, wounded but alive, one you recognize as a swift runner on the open plains to the north, somewhat out of its element in the hot desert.
+> Delwath spends the day constructing a rough stone altar, as close to what he saw in the [Dreamworld](<../../../cosmology/dreamworld.md>) as he can, with the available materials and time. He will build this near the arch, such that at sunset the shadow of the arch will fall on the altar. In the mid afternoon, he will summon his shadowspirit, and send it out to hunt. Hawks are in short supply, but your shadow herds an antelope to you, wounded but alive, one you recognize as a swift runner on the open plains to the north, somewhat out of its element in the hot desert.
 > 
 > As dusk fails, Delwath will summon a dagger from the shadow realm, and ask the shadows fall onto the altar, he will slay his sacrifice, and cut out the heart, and place it, along with an offering of water, on the altar, and speak:
 > 
@@ -294,9 +296,9 @@ title: Delwath
 > 
 > All the time your creature is growing stronger, you push more and more energy through the tether and it takes all you give.
 > 
-> After a time you feel something warm, a campfire? No, not fire, fire is the devil's work. A glow, a soft glow. Home, cool water, the moonlight reflected in the clear pool, running through the forest. Your creature is near something that has been blessed by [Anida](<../../../cosmology/gods/high-gods/divine-presence.md>), by the First and the Last! You cannot remember who that is, but you bask in the glow of it, wish your creature would hold it and let its comfort flow over you. Somehow, you realize you need something from your creature, it must give back to you, the scales must not always be one sided. You used to get sacrifices, gifts, did you not? The memory is not clear. Something fast, something swift, that runs through the forest. The next time it is in the place that is thin, that is open to your mind, where you can reach through the tether and speak, you will tell it.*
+> After a time you feel something warm, a campfire? No, not fire, fire is the devil's work. A glow, a soft glow. Home, cool water, the moonlight reflected in the clear pool, running through the forest. Your creature is near something that has been blessed by [Anida](<../../../gods-and-religions/gods/high-gods/divine-presence.md>), by the First and the Last! You cannot remember who that is, but you bask in the glow of it, wish your creature would hold it and let its comfort flow over you. Somehow, you realize you need something from your creature, it must give back to you, the scales must not always be one sided. You used to get sacrifices, gifts, did you not? The memory is not clear. Something fast, something swift, that runs through the forest. The next time it is in the place that is thin, that is open to your mind, where you can reach through the tether and speak, you will tell it.*
 > 
 > ---
 > 
-> As the flood of memories ends, you open your eyes. The desert night is clear, the stars are bright. It takes you a moment to come back to yourself, to realize you are not the entity that has called itself [Aaviskar](<../../../cosmology/gods/tanshi/meswati/yezali.md>), that you are Delwath.
+> As the flood of memories ends, you open your eyes. The desert night is clear, the stars are bright. It takes you a moment to come back to yourself, to realize you are not the entity that has called itself [Aaviskar](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>), that you are Delwath.
 > 

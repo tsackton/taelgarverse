@@ -11,6 +11,8 @@ ancestry:
 gender: nonbinary
 whereabouts:
 - {type: away, start: 1747-07-23, location: Hamri}
+dm_owner: tim
+dm_notes: color
 title: Illius
 ---
 # Illius
@@ -23,7 +25,7 @@ title: Illius
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of July 23th, 1747): [Hamri](<../../gazetteer/west-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/west-coast/mawar-confederacy/mawar-confederacy.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of July 23th, 1747): [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
 
 
 

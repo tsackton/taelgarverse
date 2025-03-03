@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family]
+tags: [organization]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Gemcrafters
@@ -15,14 +15,14 @@ title: Gemcrafters
 # The Gemcrafters
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A [dwarven](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) clan  
-    :octicons-location-24:{ .lg .middle } Based in [Nidzahar](<../../gazetteer/sentinel-range/dwarven-kingdoms/nidzahar.md>), [Labkhan](<../../gazetteer/sentinel-range/sentinel-range.md>)  
+   :octicons-info-24:{ .lg .middle } A [dwarven](<../../species/dwarves.md>) clan  
+    :octicons-location-24:{ .lg .middle } Based in [Nidzahar](<../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)  
 </div>
 
 
 *in dwarvish, Barzinduk*
 
-A wealthy merchant clan in [Nidzahar](<../../gazetteer/sentinel-range/dwarven-kingdoms/nidzahar.md>). Their wealth largely dates from just after the Great War, as the family was relatively unscathed by those events.
+A wealthy merchant clan in [Nidzahar](<../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>). Their wealth largely dates from just after the Great War, as the family was relatively unscathed by those events.
 
 
 

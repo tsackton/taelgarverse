@@ -1,23 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/tim, place]
-campaignInfo: []
+tags: [place]
 name: Drankorian Empire
 aliases: [Drankor]
 timelineDescriptor: Drankorian History
 typeOf: realm
+dm_owner: tim
+dm_notes: important
 title: Drankorian Empire
 ---
 # The Drankorian Empire
 
 
 
-The Drankorian Empire was a vast, continent-spanning empire that stretched from the [Endless Ocean](<../../gazetteer/endless-ocean/endless-ocean.md>) to the [Green Sea](<../../gazetteer/green-sea.md>) and ruled over much of humanity during the millenia following [The Downfall](<../../events/ancient/the-downfall.md>) of Hkar. The Drankorian Empire was known for its strength in magic; the battle mages of [Drankor](<./drankor.md>) not only protected the Empire from magical and extraplanar threats but also meant that few could stand against the full might of the Empire in battle. A civilization rich in scholarly traditions, [Drankor](<./drankor.md>) was filled with learned societies, organizations dedicated to magical lore.
+
+The Drankorian Empire was a vast, continent-spanning empire that stretched from the [Endless Ocean](<../../gazetteer/endless-ocean.md>) to the [Green Sea](<../../gazetteer/green-sea.md>) and ruled over much of humanity during the millenia following [The Downfall](<../../events/ancient/the-downfall.md>) of [Hkar](<../pre-downfall/hkar.md>). The Drankorian Empire was known for its strength in magic; the battle mages of [Drankor](<./drankor.md>) not only protected the Empire from magical and extraplanar threats but also meant that few could stand against the full might of the Empire in battle. A civilization rich in scholarly traditions, [Drankor](<./drankor.md>) was filled with learned societies, organizations dedicated to magical lore.
 ## History
 
-The Drankorian Empire grew out of the city of Drankor, founded near the mouth of the [Aistanë](<../../gazetteer/istaros-watershed/rivers/istaros.md>) river, largely by refugees fleeing the destruction of Hkar. From this base, the Drankorians quickly came to rule over the fertile plains along the coast, and the Crescara river valley. In Drankorian reckoning, which dates to the founding of Drankor in 4133 by the dwarven count of years, the following major events summarize the history of Drankor (taken from Cavarrio's Chronicles of Drankor.):
+The Drankorian Empire grew out of the city of Drankor, founded near the mouth of the [Aistanë](<../../gazetteer/major-rivers/istaros.md>) river, largely by refugees fleeing the destruction of Hkar. From this base, the Drankorians quickly came to rule over the fertile plains along the coast, and the Crescara river valley. In Drankorian reckoning, which dates to the founding of Drankor in 4133 by the dwarven count of years, the following major events summarize the history of Drankor (taken from Cavarrio's Chronicles of Drankor.):
 
-- 1 DR: The city of [Drankor](<./drankor.md>) is founded by refugees from Hkar fleeing the wars of [The Downfall](<../../events/ancient/the-downfall.md>)
+- 1 DR: The city of [Drankor](<./drankor.md>) is founded by refugees from [Hkar](<../pre-downfall/hkar.md>) fleeing the wars of [The Downfall](<../../events/ancient/the-downfall.md>)
 - 169 DR: Celadir is proclaimed the first Emperor of [Drankor](<./drankor.md>), laying claim to the coastal plains and the rich Isatros river valley.
 - 402 DR: The [Treaty of Marhavn](<../../events/400s/402/treaty-of-marhavn.md>) is signed by Emperor Goristo, and establishes the Volta as the northern border of the Drankorian Empire; the Skaer and other descendants of the ancient mariner cultures living in what is now Sembara and Cymea are imperial subjects.
 - 525 DR - 528 DR: The Demonfire Wars, fought against a severe abyssal incursion. Emperor Ingwelir, a renowned wizard and warrior, died at the gates of Drankor defending the city against a demon lord. 

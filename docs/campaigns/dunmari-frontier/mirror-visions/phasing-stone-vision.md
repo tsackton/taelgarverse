@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 displayDefaults: {dPastHasStart: Seen on <startdate>}
 name: Phasing Stone Vision
 DR: 1749-03-27
@@ -9,7 +9,7 @@ title: Phasing Stone Vision
 ---
 # The Phasing Stone Vision
 
-A vision of the [Phasing Stone](<../../../things/magic-items/phasing-stones.md>) from [Hralgar's Palace](<../../../gazetteer/sentinel-range/hralgar-s-palace.md>) seen in the [Mirror of the Past](<../treasure/mirror-of-the-past.md>).
+A vision of the [Phasing Stone](<../../../things/magic-items/phasing-stones.md>) from [Hralgar's Palace](<../../../gazetteer/central-highlands/hralgar-s-palace.md>) seen in the [Mirror of the Past](<../treasure/mirror-of-the-past.md>).
 
 You hold the phasing stone to the mirror, and the scene shifts.
 

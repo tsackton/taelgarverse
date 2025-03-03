@@ -6,7 +6,7 @@
 
 The upper deck consists of, from stern to prow:
 
-* the shrine to the [tanshi](<../../cosmology/gods/tanshi/tanshi.md>), tended by [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>)   
+* the shrine to the [Tanshi](<../../gods-and-religions/gods/tanshi/tanshi.md>), tended by [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>)   
 * the elven garden and greenhouse, tended by [Egnir](<../../people/elves/egnir.md>) 
 * the elven tree, grown from seed by [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>)
 * the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>), [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>), and the map room, tended by [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) ()
@@ -115,7 +115,7 @@ The lower deck consists of, from stern to prow:
 * [Faldrak's](<../../people/dwarves/faldrak-bronzehammer.md>) workshop
 * the archives and research library, tended by [Nuzkar](<../../people/orcs/nuzkar.md>)
 * a sparing and exercise room, tended by [Aygul](<../../people/orcs/aygul.md>)
-* a shrine to the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>), tended by [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>)
+* a shrine to the [Bahrazel](<../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>), tended by [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>)
 * the smithy, tended by [Kethra](<../../people/dwarves/kethra.md>)
 
 > [!info]+ Game Room
@@ -167,7 +167,7 @@ The lower deck consists of, from stern to prow:
 > 
 > The Archive currently contains a single rare tome: *Name TBD*.  When making an Arcana check while on board [Vindristjarna](<../../things/ships/vindristjarna.md>) you have Advantage.
 
-> [!info]+ Shrine of the [Bahrazel](<../../cosmology/gods/embodied-gods/bahrazel/bahrazel.md>)
+> [!info]+ Shrine of the [Bahrazel](<../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>)
 > >Tended by:  [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>)
 > >Game Effect: Reliquary
 > >Size: 4 squares (Cramped)
@@ -211,7 +211,7 @@ Used space: 36 squares
 The storage deck is currently unfinished and is primarily used as an actual storage hold.
 
 > [!info]+ Storage Hold
-> > Tended by: [Adam Gower](<../../people/tollenders/adam-gower.md>), from [Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+> > Tended by: [Adam Gower](<../../people/tollenders/adam-gower.md>), from [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 > >Game Effect: Storehouse
 > >Size: 36 squares (Vast)
 > > Order: Trade (1d4 BP)

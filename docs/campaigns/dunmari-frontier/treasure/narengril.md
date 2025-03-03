@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 displayDefaults: {defArt: ''}
 typeOf: sword
 name: Narëngril
@@ -16,7 +16,7 @@ title: Narëngril
 ---
 # Narëngril
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Rare [Elven](<../../../species/children-of-the-embodied-gods/elves/elves.md>) Magical Sword__  
+- :octicons-info-24:{ .lg .middle } __Rare [Elven](<../../../species/elves.md>) Magical Sword__  
    Owned Dewalth  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/5346819-narengril) 
 </div>

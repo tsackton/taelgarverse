@@ -1,12 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/cleanup/internal]
+tags: [person, historical]
 name: Cedric Cyfenwid
-born: 1598
 species: human
-ancestry: Sembaran
+ancestry: Tyrwinghan
 gender: male
-died: 1674
 dm_notes: none
 dm_owner: mike
 title: Cedric Cyfenwid
@@ -15,12 +13,11 @@ title: Cedric Cyfenwid
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
-    b. DR 1598 - d. DR 1674, died at age 76 years  
+    A [Tyrwinghan](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../species/humans.md>) (he/him)  
     { .bio }
 
 </div>
 
 
-Paladin of the Wyrdling for Tyrwingha.
+A paladin of [The Wildling](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wildling.md>) and friend to the fey, although born in [Tyrwingha](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) he spent much of his life in [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and the [Sembaran Borderlands](<../../gazetteer/greater-sembara/sembara/borderlands/borderlands.md>).
 

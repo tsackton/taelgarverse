@@ -21,7 +21,7 @@ dm_owner: mike
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (she/her), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans.md>) (she/her), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
     b. DR 1673 - d. DR 1745, died at age 72 years  
     Queen of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (September 12th, 1713 - DR 1745)  
     Queen of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) (June 15th, 1720 - DR 1745)  

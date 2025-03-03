@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external]
+tags: [place]
 displayDefaults: {linkText: 'on', ltPlace: 'on'}
 name: Tokra-Darba Road
 typeOf: road
 whereabouts: Dunmar
+dm_notes: color
+dm_owner: tim
 title: Tokra-Darba Road
 ---
 # The Tokra-Darba Road

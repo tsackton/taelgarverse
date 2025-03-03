@@ -7,6 +7,8 @@ name: Darshana's Caravanserai
 typeOf: inn
 typeOfAlias: caravanserai
 whereabouts: Tokra
+dm_owner: none
+dm_notes: color
 title: Darshana's Caravanserai
 ---
 # Darshana's Caravanserai

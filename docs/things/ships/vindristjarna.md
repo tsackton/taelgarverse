@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
 excludePublish: [clee]
-tags: [item]
+tags: [item/vehicle]
+typeOf: vehicle
 pronunciation: vin-dree-SHAR-na
 displayDefaults: {linkText: true, ltItem: stored on}
 whereabouts:
@@ -15,11 +16,13 @@ whereabouts:
 - {type: away, start: 1749-01-25, end: 1749-01-30, location: Nashtkar}
 - {type: away, start: 1749-03-13, end: 1749-03-16, location: Vostok}
 - {type: away, start: 1749-03-17, end: 1749-03-18, location: Sivnjo Mountains}
+- {type: away, start: 1749-05-30, end: 9999, location: Garamjala Desert}
 rarity: unique
-typeOf: vehicle
 typeOfAlias: skyship
 aliases: [Star on the Wind]
 subTypeOf: magical
+dm_owner: tim
+dm_notes: important
 title: Vindristjarna
 ---
 # Vindristjarna
@@ -29,6 +32,8 @@ title: Vindristjarna
    Created unknown storm giant  
    Owned owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
 </div>
+
+:octicons-location-24:{ .lg .middle } Owned
 
 
 ![Vindristjarna V1](../../assets/vindristjarna-v1.jpg)
@@ -71,15 +76,17 @@ You have attracted a considerable retinue of followers on Vindristjarna, as well
 
 [Faldrak Bronzehammer](<../../people/dwarves/faldrak-bronzehammer.md>) (he/him). A dwarven an artificer, former adventurer, creator of magic items, and aspiring skyship captain. Runs the workshop when Seeker is not around, and wants to learn to drive the ship.
 
-[Amil](<../../people/dunmari/amil.md>) (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [Garamjala Desert](<../../gazetteer/greater-dunmar/garamjala-plateau/garamjala-desert.md>) before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
+[Amil](<../../people/dunmari/amil.md>) (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
 
-[Kethra Silverspark](<../../people/dwarves/kethra.md>). A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from Morkalan. 
+[Kethra Silverspark](<../../people/dwarves/kethra.md>). A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>). 
 
 [Nuzkar](<../../people/orcs/nuzkar.md>) and [Aygul](<../../people/orcs/aygul.md>), orcs and twin sisters. 
 
 [Égnir](<../../people/elves/egnir.md>) (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
 
 [Jotha](<../../people/deno-qai/jotha.md>) (she/her, yo-TAH). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
+
+Mica Copperharp and Willow Copperharp, halfings
 
 ## Magic
 

@@ -10,13 +10,15 @@ gender: male
 whereabouts:
 - {type: home, location: Tharn Todor}
 - {type: away, start: 1748-08-03, end: 1748-08-10, location: Darba}
+dm_owner: none
+dm_notes: color
 title: Travok Redpeak
 ---
 # Travok Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him)  
+    A [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) [dwarf](<../../species/dwarves.md>) (he/him)  
     { .bio }
 
     Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)

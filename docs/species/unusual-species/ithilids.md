@@ -1,10 +1,12 @@
 ---
 aliases: [Mindflayer, Mind Flayer, Illithid]
 tags: [species, status/stub]
+dm_owner: joint
+dm_notes: none
 title: Ithilids
 ---
 
-# Illithids
-
 Aberrations from the Far Realm. 
+
+
 

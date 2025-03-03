@@ -15,7 +15,7 @@ title: Hugh Darrow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1665 (84 years old)  
     { .bio }
 
@@ -23,5 +23,5 @@ title: Hugh Darrow
 </div>
 
 
-![Hugh Darrow](../../assets/hugh-darrow.png){align="right"; width="320"}A charcoal maker in Taviose, and the son of [Remy Darrow](<./remy-darrow.md>). He was one of the leaders of the villagers during the [Second Spider Attack on Tavoise](<../../events/1700s/1719/10/second-spider-attack-on-tavoise.md>).
+![Hugh Darrow](../../assets/hugh-darrow.png){align="right"; width="320"}A charcoal maker in Taviose, and the son of [Remy Darrow](<./remy-darrow.md>). He was one of the leaders of the villagers during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>).
 

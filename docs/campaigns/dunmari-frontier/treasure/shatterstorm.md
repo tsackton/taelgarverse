@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 ancestry: dwarven
 typeOf: warhammer
 subTypeOf: magical
@@ -11,7 +11,7 @@ title: Shatterstorm
 ---
 # Shatterstorm
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Dwarven](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) Magical Warhammer__  
+- :octicons-info-24:{ .lg .middle } __[Dwarven](<../../../species/dwarves.md>) Magical Warhammer__  
    Owned by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/2172493-shatterstorm) 
 </div>

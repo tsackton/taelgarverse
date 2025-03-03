@@ -11,12 +11,14 @@ name: Brimskarda
 affiliations:
 - {place: Kaldhalla, title: King, type: leader, 'start:1673': !!null ''}
 whereabouts: Isenborg
+dm_owner: tim
+dm_notes: important
 ---
 # King Brimskarda
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../species/children-of-the-riving/giants.md>) (frost) (he/him)  
+    A [giant](<../../species/unusual-species/giants.md>) (frost) (he/him)  
     King of [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>)  
     { .bio }
 

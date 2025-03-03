@@ -1,5 +1,7 @@
 ---
-tags: [status/needswork/internal, status/metadata/header, event]
+tags: [status/stub, status/cleanup/metadata, event]
+dm_owner: tim
+dm_notes: important
 title: Bitter Knife War
 ---
 

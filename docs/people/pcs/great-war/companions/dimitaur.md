@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, pc, person, status/needswork/wip, status/update]
+tags: [pc/companion, pc, person, status/needswork/gameupdate]
 name: Dimitaur
 born:
 species: dragonet
@@ -8,6 +8,8 @@ ancestry:
 gender: male
 player:
 affiliations:
+dm_owner: tim
+dm_notes: important
 title: Dimitaur
 ---
 # Dimitaur

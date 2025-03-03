@@ -5,6 +5,8 @@ name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
 alias: [Addermarian]
+dm_owner: tim
+dm_notes: important
 title: Addermarch
 ---
 # Addermarch
@@ -47,7 +49,7 @@ Addermarch is roughly divided into four major geographic regions:
 - To the east and northeast, along the borders of [Tyrwingha](<../tyrwingha/tyrwingha.md>), the poor soil of the hilly, rocky land keeps forests to sheltered valleys. This is largely rangeland: sheep and cattle graze in the high pastures in summer, and only in a few sheltered valleys do crops survive. 
 ### Borders
 
-To the west and northwest Addermarch is bordered by the [Westcliff](<./westcliff.md>), a series of sharp cliffs and dangerous terrain that separates the realm from the flat plains of the [Duchy of Maseau](<../duchy-of-maseau/duchy-of-maseau.md>) to the west, and the [Sembaran borderlands](<../sembara/borderlands/borderlands.md>) to the north. At the Aure, the high ridge of [Westcliff](<./westcliff.md>) is cut by the river, and on the eastern bank, the land is much lower. Here an ancient line of border stones running to ~High Peak of Tyrwinghan Ridge~ demarcates the border with [Tyrwingha](<../tyrwingha/tyrwingha.md>). These stones are said by some to be raised by Drankor, but they are marked with complex warnings in [Sylvan](<../../../species/sylvan-writing.md>), and many believe they have fey origins.
+To the west and northwest Addermarch is bordered by the [Westcliff](<./westcliff.md>), a series of sharp cliffs and dangerous terrain that separates the realm from the flat plains of the [Duchy of Maseau](<../duchy-of-maseau/duchy-of-maseau.md>) to the west, and the [Sembaran borderlands](<../sembara/borderlands/borderlands.md>) to the north. At the Aure, the high ridge of [Westcliff](<./westcliff.md>) is cut by the river, and on the eastern bank, the land is much lower. Here an ancient line of border stones running to ~High Peak of Tyrwinghan Ridge~ demarcates the border with [Tyrwingha](<../tyrwingha/tyrwingha.md>). These stones are said by some to be raised by Drankor, but they are marked with complex warnings in [Sylvan](<../../../background/sylvan-writing.md>), and many believe they have fey origins.
 
 The eastern border is not marked, as the high terrain between Addermarch and Tyrwinghan is unpopulated. The gentler, forested slopes to the north and east are under the demense of Tyrwinghan earls, and the dryer, arid slopes to the south and west, the land of Addermarian earls.
 
@@ -59,7 +61,7 @@ Addermarch was settled long ago, by a people closely related to the ancient Tyrw
 
 
 
-After the [Downfall](<../../../events/ancient/the-downfall.md>), as the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) grew to the south, dark things also crept into the woods to the south, no longer guarded or watched so closely by the elves, and the great forests on the southern slopes of the [Mostreve Hills](<../mostreve-hills.md>) became known as the [Darkwood](<./darkwood.md>). The people of Addermarch built standing stones to protect against incursions from the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>), and watched their borders closely. 
+After the [Downfall](<../../../events/ancient/the-downfall.md>), as the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) grew to the south, dark things also crept into the woods to the south, no longer guarded or watched so closely by the elves, and the great forests on the southern slopes of the [Mostreve Hills](<../mostreve-hills.md>) became known as the [Darkwood](<./darkwood.md>). The people of Addermarch built standing stones to protect against incursions from the [Feywild](<../../../cosmology/feywild.md>), and watched their borders closely. 
 
 
 
@@ -79,7 +81,7 @@ When [Derik I](<../../../people/historical-figures/sembaran-royalty/derik-i.md>)
 
 
 
-After the [Great War](<../../../events/1500s/great-war.md>), Addermarch suffers during the chaos of the early part of the [Blood Years](<../../../events/1500s/blood-years.md>). After Derik III's death, neither [Bertram I](<../../../people/historical-figures/sembaran-royalty/bertram-i.md>) nor [Jane of Tollen](<../../../people/historical-figures/sembaran-royalty/jane-of-tollen.md>) are  acknowledged as overking (in part because in Addermarch there is no real concept of regency, in part because they are seen as out of touch with the dangers of the [Plaguelands](<../../istaros-watershed/plaguelands.md>)), and Addermarch turns inward. The next forty years are a dark time, plagued with constant threats from the south. 
+After the [Great War](<../../../events/1500s/great-war.md>), Addermarch suffers during the chaos of the early part of the [Blood Years](<../../../events/1500s/blood-years.md>). After Derik III's death, neither [Bertram I](<../../../people/historical-figures/sembaran-royalty/bertram-i.md>) nor [Jane of Tollen](<../../../people/historical-figures/sembaran-royalty/jane-of-tollen.md>) are  acknowledged as overking (in part because in Addermarch there is no real concept of regency, in part because they are seen as out of touch with the dangers of the [Plaguelands](<../../upper-istaros/plaguelands.md>)), and Addermarch turns inward. The next forty years are a dark time, plagued with constant threats from the south. 
 
 
 
@@ -89,7 +91,7 @@ During the Second Hobgoblin War (Sembara), Addermarch and [Maseau](<../duchy-of-
 
 When peace finally comes with the defeat of the [Shattered Ice Clan](<../../../groups/hobgoblin-clans/shattered-ice-clan.md>) in DR 1653, the borders of Addermarch are (relatively) safe for the first time in 300 years. The second half of the 1600s is a time of rapid growth in Addermarch. [Adderfell](<./adderfell.md>) grows, and many of the brandy houses are founded during this time. Roads are repaired, and river traffic on the [Aure](<../rivers/wistel-enst-watershed/aure.md>) grows significantly. The [Darkwood](<./darkwood.md>) still looms, but these are golden years, a time of peace and prosperity. 
 
-In these golden years last until DR 1720, when the Undead Attacks in Sembara break out. While Addermarch is not heavily affected by undead itself, the [Enst](<../rivers/wistel-enst-watershed/enst.md>) valley suffers a great deal, and once again the people of Addermarch refortify. In the modern day, Addermarch remains watchful. The generation that came of age during the zombie attacks, now the earls and knights of the realm, have not forgotten.
+In these golden years last until DR 1720, when the [Undead Attacks in Sembara](<../../../events/1700s/1720/01/undead-attacks-in-sembara.md>) break out. While Addermarch is not heavily affected by undead itself, the [Enst](<../rivers/wistel-enst-watershed/enst.md>) valley suffers a great deal, and once again the people of Addermarch refortify. In the modern day, Addermarch remains watchful. The generation that came of age during the zombie attacks, now the earls and knights of the realm, have not forgotten.
 
 
 
@@ -99,7 +101,7 @@ In these golden years last until DR 1720, when the Undead Attacks in Sembara bre
 
 Natural features include:
 - The [Westcliff](<./westcliff.md>), a significant escarpment running along the western and northwestern borders, steep hills, rough terrain, some relatively impassible mountain ridges here and sharp cliffs on the western border
-- [Darkwood](<./darkwood.md>), to the south, haunted and fey-associated, colocated with the center of [Duskmire](<../../../cosmology/multiverse/echo-realms/feywild/duskmire.md>) in the [Feywild](<../../../cosmology/multiverse/echo-realms/feywild/feywild.md>)
+- [Darkwood](<./darkwood.md>), to the south, haunted and fey-associated, colocated with the center of Duskmire in the [Feywild](<../../../cosmology/feywild.md>)
 - [Torvaine Forest](<./torvaine-forest.md>), centered at mid and high elevations around the upper [Umber](<../rivers/wistel-enst-watershed/umber.md>) and [~Main Aure Fork~](<../rivers/wistel-enst-watershed/main-aure-fork.md>), and stretching in places into the lowlands. 
 - Another small forest on the northern part of the western border with [Tyrwingha](<../tyrwingha/tyrwingha.md>)
 - A region of higher mountains and alpine meadows on the southern part of the [Tyrwingha](<../tyrwingha/tyrwingha.md>) border
@@ -118,9 +120,9 @@ Settlements include:
 
 ### Culture and Religion
 
-The people of Addermarch are, in many ways, like the people of southern Sembaran and Tyrwingha. They worshop [Mos Numena](<../../../cosmology/religions/mos-numena/mos-numena.md>), following the Sembaran customs to a large extent, and they speak Sembaran (with a southern dialect; unlike in Tyrwingha to the east, there is no lingering pockets of people speaking the ancient tongues, although ancient inscriptions in the Old Tollish script can be found). 
+The people of Addermarch are, in many ways, like the people of southern Sembaran and Tyrwingha. They worshop [Mos Numena](<../../../gods-and-religions/religions/mos-numena/mos-numena.md>), following the Sembaran customs to a large extent, and they speak Sembaran (with a southern dialect; unlike in Tyrwingha to the east, there is no lingering pockets of people speaking the ancient tongues, although ancient inscriptions in the Old Tollish script can be found). 
 
-The land is hard, especially in the hills and mountains, and the people of Addermarch are largely independent, insular, and self-sufficient. Travel is difficult, and the constant danger of the tricksy fey from the Darkwood and other dangerous places keeps people on guard against strangers and unusual happenings. There are fewer [dwarves](<../../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) than one might expect, but more [elves](<../../../species/children-of-the-embodied-gods/elves/elves.md>), mostly from  [Orenlas](<../../istaros-watershed/orenlas/orenlas.md>), and [lizardfolk](<../../../species/children-of-the-embodied-gods/lizardfolk/lizardfolk.md>), mostly from the [Ozabal](<../ozabal.md>) and [Latazaro](<../../western-green-sea/cymea/latazaro.md>) swamps. 
+The land is hard, especially in the hills and mountains, and the people of Addermarch are largely independent, insular, and self-sufficient. Travel is difficult, and the constant danger of the tricksy fey from the Darkwood and other dangerous places keeps people on guard against strangers and unusual happenings. There are fewer [dwarves](<../../../species/dwarves.md>) than one might expect, but more [elves](<../../../species/elves.md>), mostly from  [Orenlas](<../../upper-istaros/orenlas/orenlas.md>), and [lizardfolk](<../../../species/lizardfolk.md>), mostly from the [Ozabal](<../ozabal.md>) and [Latazaro](<../latazaro.md>) swamps. 
 
 The popular of Addermarch is very rural. There is only one significant city, [Adderfell](<./adderfell.md>), and while small market towns (often fortified) dot the landscape, most people live in small villages or isolated homesteads. 
 ### Political Organization, Justice, and the Law

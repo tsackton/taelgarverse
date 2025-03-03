@@ -1,16 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/metadata/header]
+tags: [place, status/cleanup/metadata]
 typeOf: keep
 whereabouts: Northern Green Sea
 destroyed: 1749-05-03
+dm_owner: tim
+dm_notes: important
 title: Shadowkeep
 ---
 # Shadowkeep
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Destroyed May 3rd, 1749  
-    :octicons-location-24:{ .lg .middle } destroyed keep in the Northern Green Sea  
+    :octicons-location-24:{ .lg .middle } A keep in the [Northern Green Sea](<./northern-green-sea.md>)  
 </div>
 
 

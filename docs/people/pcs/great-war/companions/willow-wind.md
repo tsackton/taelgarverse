@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, pc, person, status/needswork/shared]
+tags: [pc/companion, person, status/cleanup/incomplete]
 name: Willow Wind
 species: fox
-ancestry: spirit
+subspecies: spirit
 gender: male
 player: Mike Sackton
 dm_owner: mike
@@ -14,7 +14,7 @@ title: Willow Wind
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A spirit fox (he/him)  
+    A fox (spirit) (he/him)  
     { .bio }
 
 </div>

@@ -11,16 +11,18 @@ player: John Leeker
 affiliations:
 whereabouts: Kunda
 excludePublish: [clee]
+dm_owner: tim
+dm_notes: important
 title: Drikod
 ---
 # Drikod
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [stoneborn](<../../../../species/children-of-the-embodied-gods/stoneborn/stoneborn.md>) (he/him)  
+    A [stoneborn](<../../../../species/stoneborn.md>) (he/him)  
     { .bio }
 
-    Based in [Kunda](<../../../../gazetteer/sentinel-range/kunda.md>), [Indalas](<../../../../gazetteer/sentinel-range/sentinel-range.md>)
+    Based in [Kunda](<../../../../gazetteer/central-highlands/kunda.md>), [Indalas](<../../../../gazetteer/sentinel-range.md>)
 </div>
 
 
@@ -28,5 +30,5 @@ title: Drikod
 
 ## Pre-Campaign Events
 
-- Apr 29, 1748 DR: Drikod leaves [Kunda](<../../../../gazetteer/sentinel-range/kunda.md>), his village in the mountains.
+- Apr 29, 1748 DR: Drikod leaves [Kunda](<../../../../gazetteer/central-highlands/kunda.md>), his village in the mountains.
 - May 12, 1748 DR: Drikod arrives in Karawa.

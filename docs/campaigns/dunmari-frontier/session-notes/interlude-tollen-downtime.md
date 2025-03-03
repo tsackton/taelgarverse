@@ -10,7 +10,7 @@ tagline: in which Vindristjarna is refitted and information learned
 title: 'Interlude: Downtime in Tollen'
 ---
 
-During the journey from the [Copper Hills](<../../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>) to [Orenlas](<../../../gazetteer/istaros-watershed/orenlas/orenlas.md>) and then to [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>), and during the time in Tollen while work is done on [Vindristjarna](<../../../things/ships/vindristjarna.md>), the party spends time gathering information.
+During the journey from the [Copper Hills](<../../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>) to [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>) and then to [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), and during the time in Tollen while work is done on [Vindristjarna](<../../../things/ships/vindristjarna.md>), the party spends time gathering information.
 ## Questions
 
 - Is there a kingdom ruled by a vampire on the north coast of the Green Sea? **YES**
@@ -24,7 +24,7 @@ During the journey from the [Copper Hills](<../../../gazetteer/greater-dunmar/da
 The map room and the hall of stories can each give you three true facts about something. This can be a legend, any kind of creature, or a famous object for the Hall of Stories; or a legend, a known event or location, a person of significance, a type of creature, or a famous object for the Map Room. You have time to use each room 2-3 times during the journey and Tollen downtime. 
 ### Map Room (Ursk)
 
-- [Ursk](<../../../gazetteer/northern-green-sea/ursk.md>) is ruled by a council of powerful wizards, the heads of the eight rodnye
+- [Ursk](<../../../gazetteer/northern-green-sea/ursk/ursk.md>) is ruled by a council of powerful wizards, the heads of the eight rodnye
 - The rodnye (singular: rodnya) are loose confederations of people, mostly magic-users but not exclusively, bound together by some kind of mysterious ritual
 - Emigration is tightly controlled in Ursk, and the few people who do leave tend to be sickly and weak
 ### Map Room (Land between Ursk and Vostok)

@@ -15,7 +15,7 @@ title: Nicole Darrow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../species/humans.md>) (she/her)  
     b. DR 1700 - d. October 21th, 1719, died at age 19 years  
     { .bio }
 
@@ -23,4 +23,4 @@ title: Nicole Darrow
 </div>
 
 
-The youngest daughter of [Hugh Darrow](<./hugh-darrow.md>), and his favorite. She was killed during the [Second Spider Attack on Tavoise](<../../events/1700s/1719/10/second-spider-attack-on-tavoise.md>), but [Hugh Darrow](<./hugh-darrow.md>) is thankful to the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) for recovering her body. 
+The youngest daughter of [Hugh Darrow](<./hugh-darrow.md>), and his favorite. She was killed during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>), but [Hugh Darrow](<./hugh-darrow.md>) is thankful to the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) for recovering her body. 

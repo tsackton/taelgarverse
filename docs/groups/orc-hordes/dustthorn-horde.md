@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/internal]
+tags: [organization]
 campaignInfo:
 name: Dustthorn Horde
 typeOf: horde
 ancestry: orcish
+dm_notes: important
+dm_owner: tim
 title: Dustthorn Horde
 ---
 # The Dustthorn Horde

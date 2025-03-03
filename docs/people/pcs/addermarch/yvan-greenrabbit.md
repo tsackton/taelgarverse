@@ -19,7 +19,7 @@ title: Yvan Greenrabbit
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of Greenrabbits  
+    A [halfling](<../../../species/halflings.md>) (he/him), of Greenrabbits  
     { .bio }
 
     Originally from: [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)

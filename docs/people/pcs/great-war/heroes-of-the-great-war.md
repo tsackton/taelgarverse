@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [organization]
 typeOf: adventuring party
+dm_notes: important
+dm_owner: tim
 title: Heroes of the Great War
 ---
 # The Heroes of the Great War

@@ -18,12 +18,12 @@ title: Addermarch Campaign - Session 4
 > *On Earth: Sunday Oct 13, 2024*
 > *[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and nearby goblin lair*
 
-The adventurers prepare in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), attend a manor dinner, and then successfully infiltrate and defeat some [goblins](<../../species/children-of-divine-creation/goblinoids/goblins.md>) at their lair.
+The adventurers prepare in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), attend a manor dinner, and then successfully infiltrate and defeat some goblins at their lair.
 ## Session Info
 ### Summary
 - The party sells magic items and buys healing potions at the [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) market.
 - They discuss the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) with [Owen Tavish](<../../people/addermarians/owen-tavish.md>) and learn about [Trueflame](<../../things/materials/trueflame.md>).
-- At [Caradoc](<../../people/addermarians/caradoc.md>)'s house, they accept a job to recover a stolen recipe from [goblins](<../../species/children-of-divine-creation/goblinoids/goblins.md>).
+- At [Caradoc](<../../people/addermarians/caradoc.md>)'s house, they accept a job to recover a stolen recipe from goblins.
 - The party attends a dinner hosted by Elowen Duval, with Drou performing and [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) painting.
 - They travel to the goblin lair, fall into traps, but successfully defeat the goblin bandits.
 ### Timeline
@@ -53,7 +53,7 @@ The dinner is interesting. [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.
 During the dinner, the party speaks with Gareth Howell, who tells them that the goblins have not been much of a nuisance, but a young squire in his employ decided to go handle them anyway a few week's ago, and hasn't been seen since. He tells the party where to find the lair, and asks if they are going that way, if they can look for his missing squire. 
 
 ### Day 14 (Saturday)
-The next day, the party leaves [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) early for the goblin lair, walking north into the hills. After a half-day of walking, they reach a rocky outcropping where they find a trail, and a cave. [Drou](<../../people/pcs/addermarch/drou.md>) speaks to a nearby bird, who tells them that no one goes into the cave, but that sometimes a giant spider comes past. Deciding to explore the cave despite [Drou](<../../people/pcs/addermarch/drou.md>)'s concerns about a possible trap, the party does indeed trigger a trap, with the floor of the cave collapsing into a pit trap, the noise of which summons some nearby guards. However, the party easily defeats the [goblins](<../../species/children-of-divine-creation/goblinoids/goblins.md>), aided largely by [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) using seeking spell to help his Chromatic Orb spell bounce from one goblin to another. [Drou](<../../people/pcs/addermarch/drou.md>) casts Invisibility to remain unseen as she climbs out of the pit, and [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>) uses his Misty Step to teleport. 
+The next day, the party leaves [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) early for the goblin lair, walking north into the hills. After a half-day of walking, they reach a rocky outcropping where they find a trail, and a cave. [Drou](<../../people/pcs/addermarch/drou.md>) speaks to a nearby bird, who tells them that no one goes into the cave, but that sometimes a giant spider comes past. Deciding to explore the cave despite [Drou](<../../people/pcs/addermarch/drou.md>)'s concerns about a possible trap, the party does indeed trigger a trap, with the floor of the cave collapsing into a pit trap, the noise of which summons some nearby guards. However, the party easily defeats the goblins, aided largely by [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) using seeking spell to help his Chromatic Orb spell bounce from one goblin to another. [Drou](<../../people/pcs/addermarch/drou.md>) casts Invisibility to remain unseen as she climbs out of the pit, and [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>) uses his Misty Step to teleport. 
 
 Sneaking from the cave, along the goblin tracks, the party finds an empty clearing, and another tunnel full of spider webs. After briefly investigating the spider tunnel, the party finds a hidden trap door in the middle of the clearing, where the goblin trail stops. The party discusses and decides it is probably better to investigate the trapdoor than the spider tunnel, and ties a rope to a branch to climb down. 
 

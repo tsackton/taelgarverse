@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [source]
+dm_owner: none
+dm_notes: none
 title: Spring's a Come
 ---
 # Spring's A Come
 
-An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) folk song, about the coming of spring.
+An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) folk song, about the coming of spring.
 <audio controls>
     <source src="/taelgarverse/assets/audio/ursk-sings-of-spring.mp3">
 </audio>

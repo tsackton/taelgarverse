@@ -17,7 +17,7 @@ title: Wakog's Camp
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Destroyed December 5th, 1719  
-    :octicons-location-24:{ .lg .middle } destroyed [orc](<../../../species/children-of-the-embodied-gods/orcs/orcs.md>) fortified camp in the [Duchy of Maseau](<./duchy-of-maseau.md>), [Greater Sembara](<../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } An [orc](<../../../species/orcs.md>) fortified camp in the [Duchy of Maseau](<./duchy-of-maseau.md>), [Greater Sembara](<../greater-sembara.md>)  
 </div>
 
 

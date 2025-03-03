@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/unknown]
+tags: [organization]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Quicksteps
 typeOf: family
+dm_owner: none
+dm_notes: none
 title: Quicksteps
 ---
 # The Quicksteps

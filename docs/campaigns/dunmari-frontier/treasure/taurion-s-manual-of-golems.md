@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 displayDefaults: {defArt: ''}
 name: Taurion's Manual of Stone Golems
 typeOf: book
@@ -16,7 +16,7 @@ title: Taurion's Manual of Stone Golems
 # Taurion's Manual of Stone Golems
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Very Rare [Drankorian](<../../../history/drankorian-era/drankorian-empire.md>) Magic Book__  
-   Owned owned by the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
+   Owned  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/4950-manual-of-stone-golems) 
 </div>
 

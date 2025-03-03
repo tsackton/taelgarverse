@@ -6,16 +6,18 @@ name: Adam Gower
 gender: male
 ancestry: Tollender
 whereabouts: Tollen
+dm_owner: tim
+dm_notes: color
 title: Adam Gower
 ---
 # Adam Gower
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tollender](<../../gazetteer/western-green-sea/tollen/tollen.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../species/humans.md>) (he/him)  
     { .bio }
 
-    Based in the [Free City of Tollen](<../../gazetteer/western-green-sea/tollen/tollen.md>)
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
 </div>
 
 

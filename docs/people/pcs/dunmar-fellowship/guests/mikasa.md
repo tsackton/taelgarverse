@@ -9,13 +9,15 @@ ancestry:
 gender: female
 player: David Kong
 excludePublish: [clee]
+dm_owner: player
+dm_notes: important
 title: Mikasa
 ---
 # Mikasa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../../../species/children-of-the-riving/fey/fey.md>) (she/her)  
+    A [fey](<../../../../species/extraplanar/fey.md>) (she/her)  
     { .bio }
 
 </div>

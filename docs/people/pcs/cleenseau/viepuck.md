@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person, status/update]
+tags: [pc/cleenseau, person, status/active]
 campaignInfo: []
 name: Viepuck
 born: 1706-10-01
@@ -22,7 +22,7 @@ title: Viepuck
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans.md>) (he/him)  
     Born October 1st, 1706 (42 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     { .bio }
@@ -94,15 +94,15 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 > A dwarf, traveler from [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>). A laborer, looking more concerned with the evening's dice-and-drinking than apperances, but not poor per-se. Has a grumpy vibe. On the young side of middle-aged, about 200.
 > 
 > ![[Treph screenshot.[](Nardith.md)**Sarlana Silversword** (she/her)
-> A human warrior and aspiring paladin from [Tollen](<../../../gazetteer/western-green-sea/tollen/tollen.md>). Confident bordering on overconfident and wearing well-taken-care-of brigandine armor. Braid comes out from under her helm, otherwise only her stern jaw is visible. 
+> A human warrior and aspiring paladin from [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>). Confident bordering on overconfident and wearing well-taken-care-of brigandine armor. Braid comes out from under her helm, otherwise only her stern jaw is visible. 
 > 
 > ![Sarlana Screenshot 1](../../../assets/sarlana-screenshot-1.png)
 
 ### Items
-| Image                                              | Name                                                                                                | Type    | Mechanics                                                                         |
-| -------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------- |
-| ![Pipes of Insect Control](../../../assets/pipes-of-insect-control.png)       | [Pipes of Insect Control](<../../../Campaigns/Cleenseau Campaign/Treasure/Pipes of Insect Control.md>)       | pipes   | [Reference](https://www.dndbeyond.com/magic-items/6684130-pipes-of-beast-control) |
-| ![Gareths Ring](../../../assets/gareths-ring.jpg)                  | [Ring of Escape](<../../../Campaigns/Cleenseau Campaign/Treasure/Ring of Escape.md>)                         | ring    | [Reference](https://www.dndbeyond.com/magic-items/8697391-ring-of-escape)         |
-| ![Circlet of Telepathy](../../../assets/circlet-of-telepathy.png)          | [Circlet of Telepathy](<../../../Campaigns/Cleenseau Campaign/Treasure/Circlet of Telepathy.md>)             | circlet | [Reference](https://www.dndbeyond.com/magic-items/7834345-circlet-of-telepathy)   |
-| ![Boots of False Tracks Viepuck](../../../assets/boots-of-false-tracks-viepuck.png) | [Boots of False Tracks](<../../../Campaigns/Cleenseau Campaign/Treasure/Boots of False Tracks (Viepuck).md>) | boots   | [Reference](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)    |
+| Image                                              | Name                                                                                                | Type    | Mechanics                                                                      |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
+| ![Gareths Ring](../../../assets/gareths-ring.jpg)                  | [Ring of Escape](<../../../Campaigns/Cleenseau Campaign/Treasure/Ring of Escape.md>)                         | ring    | \-                                                                             |
+| ![Pipes of Insect Control](../../../assets/pipes-of-insect-control.png)       | [Pipes of Insect Control](<../../../Campaigns/Cleenseau Campaign/Treasure/Pipes of Insect Control.md>)       | pipes   | \-                                                                             |
+| ![Circlet of Telepathy](../../../assets/circlet-of-telepathy.png)          | [Circlet of Telepathy](<../../../Campaigns/Cleenseau Campaign/Treasure/Circlet of Telepathy.md>)             | circlet | \-                                                                             |
+| ![Boots of False Tracks Viepuck](../../../assets/boots-of-false-tracks-viepuck.png) | [Boots of False Tracks](<../../../Campaigns/Cleenseau Campaign/Treasure/Boots of False Tracks (Viepuck).md>) | boots   | [Reference](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks) |
 

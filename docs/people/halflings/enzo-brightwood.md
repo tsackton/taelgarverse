@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/header]
+tags: [person, status/cleanup/metadata]
 name: Enzo Brightwood
 born:
 species: halfling
@@ -21,7 +21,7 @@ title: Enzo Brightwood
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/children-of-the-embodied-gods/halflings/halflings.md>) (he/him), of Brightwoods  
+    A [halfling](<../../species/halflings.md>) (he/him), of Brightwoods  
     Member of [The Rangers](<../../groups/the-rangers.md>)  
     { .bio }
 

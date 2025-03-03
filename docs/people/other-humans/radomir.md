@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal, status/metadata/header]
+tags: [person, status/cleanup/text, status/cleanup/metadata]
 campaignInfo: []
 name: Radomir
 born: 1710
@@ -9,17 +9,19 @@ ancestry: Urskan
 gender: male
 whereabouts:
 - {type: home, location: Ursk}
+dm_notes: important
+dm_owner: tim
 title: Radomir
 ---
 # Radomir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Urskan](<../../gazetteer/northern-green-sea/ursk.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1710 (39 years old)  
     { .bio }
 
-    Based in [Ursk](<../../gazetteer/northern-green-sea/ursk.md>), the Northern Green Sea
+    Based in [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>)
 </div>
 
 

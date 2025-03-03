@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/image, status/metadata/header]
+tags: [person, status/cleanup/image, status/cleanup/metadata]
 campaignInfo: []
 name: Ikram
 born: 1710
@@ -8,13 +8,15 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts: Karawa
+dm_owner: tim
+dm_notes: important
 title: Ikram
 ---
 # Ikram
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1710 (39 years old)  
     { .bio }
 

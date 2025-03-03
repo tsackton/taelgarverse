@@ -23,10 +23,10 @@ dm_owner: none
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans.md>) (he/him)  
     b. DR 1484 - d. DR 1549, died at age 65 years  
-    Prince of the North of [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (DR 1508 - DR 1519)  
-    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkova/lavnoch.md>), [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>), and [Vostok](<../../../gazetteer/western-green-sea/vostok/vostok.md>) (DR 1519 - DR 1549)  
+    Prince of the North of [Vostok](<../../../gazetteer/greater-sembara/vostok/vostok.md>) (DR 1508 - DR 1519)  
+    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkova/lavnoch.md>), [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>), and [Vostok](<../../../gazetteer/greater-sembara/vostok/vostok.md>) (DR 1519 - DR 1549)  
     { .bio }
 
 </div>

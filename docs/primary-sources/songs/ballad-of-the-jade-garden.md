@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [source]
+dm_owner: none
+dm_notes: none
 title: Ballad of the Jade Garden
 ---
 # Ballad of the Jade Garden
 
-A folk ballad from the [Apporian Peninsula](<../../gazetteer/west-coast/chardonian-empire/apporia/apporia.md>). 
+A folk ballad from the [Apporian Peninsula](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>). 
 
 <audio controls>
     <source src="/taelgarverse/assets/audio/ballad-of-the-jade-garden.mp3">

@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place, status/check/name]
 whereabouts: Dunmari Basin
 typeOf: scrubland
+dm_owner: tim
+dm_notes: color
 unlisted: true
 title: ~Lower Hara Valley~
 ---
@@ -12,4 +14,4 @@ title: ~Lower Hara Valley~
 </div>
 
 
-A wide, flat basin that sits between the [Yuvanti Mountains](<../yuvanti-mountains.md>) and the [Garamjala Plateau](<../garamjala-plateau/garamjala-plateau.md>), where the [Hara](<../rivers/hara-watershed/hara.md>) becomes meandering and slow. 
+A wide, flat basin that sits between the [Yuvanti Mountains](<../yuvanti-mountains.md>) and the [Garamjala Plateau](<../../drankorian-hinterland/garamjala-plateau/garamjala-plateau.md>), where the [Hara](<../rivers/hara-watershed/hara.md>) becomes meandering and slow. 

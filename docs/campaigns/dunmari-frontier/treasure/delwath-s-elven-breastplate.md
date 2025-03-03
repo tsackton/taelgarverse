@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical]
+tags: [item/equipment]
 typeOf: armor
 ancestry: elven
 displayDefaults: {defArt: ''}
 title: Delwath's Elven Breastplate
 ---
 # Delwath's Elven Breastplate
-:octicons-info-24:{ .lg .middle } **[Elven](<../../../species/children-of-the-embodied-gods/elves/elves.md>) Armor**  
+:octicons-info-24:{ .lg .middle } **[Elven](<../../../species/elves.md>) Armor**  
 
 [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s old battle armor from his time as a quartermaster in the elven armies during the [Great War](<../../../events/1500s/great-war.md>). Originally worn by [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) when he vanished into Cha'mutte's shadow realm, and was trapped. In the shadow realm, it was transformed, infused with the magic of the shadow plane, embedded in a fragment of [Inkaye](<../../../things/materials/inkaye.md>), a strange metal that can absorb extraplanar energy. 
 

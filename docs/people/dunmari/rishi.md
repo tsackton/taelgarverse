@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Rishi
 born: 1670
@@ -8,13 +8,15 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts: Lakan Monastery
+dm_notes: color
+dm_owner: tim
 title: Rishi
 ---
 # Rishi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
     Born DR 1670 (79 years old)  
     { .bio }
 

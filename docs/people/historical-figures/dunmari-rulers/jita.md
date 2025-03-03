@@ -22,7 +22,7 @@ dm_notes: color
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/children-of-divine-creation/humans/humans.md>) (she/her), of the [Dharajun dynasty](<../../../groups/dunmari-dynasties/dharajun-dynasty.md>)  
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans.md>) (she/her), of the [Dharajun dynasty](<../../../groups/dunmari-dynasties/dharajun-dynasty.md>)  
     b. DR 1386 - d. DR 1460, died at age 74 years  
     Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1402 - DR 1460)  
     { .bio }
@@ -32,7 +32,7 @@ dm_notes: color
 </div>
 
 
-The founding ruler and Samraat of the Dharajun dynasty, associated with [Chidya](<../../../cosmology/gods/incorporeal-gods/dunmari-pantheon/chidya.md>) and often called the dynasty of the horse. 
+The founding ruler and Samraat of the Dharajun dynasty, associated with [Chidya](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/chidya.md>) and often called the dynasty of the horse. 
 
 Jita was born in the empty plains of northwestern Dunmar, near current-day [Songara](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>). In DR 1402, at just 16, she won several decisive victories against Thundering Axe Horde, driving them across the Mahar. Soon after she was proclaimed Samraat, founding a new dynasty under the protection of Chidya. 
 

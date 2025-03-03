@@ -12,7 +12,7 @@ title: Lake Derwent
 ---
 # Lake Derwent
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A lake in [Zimkova](<../../zimkova/zimkova.md>), the [Western Green Sea Region](<../../../western-green-sea/western-green-sea-region.md>)  
+-    :octicons-location-24:{ .lg .middle } A lake in [Zimkova](<../../zimkova/zimkova.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

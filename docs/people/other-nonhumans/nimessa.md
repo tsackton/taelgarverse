@@ -1,22 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/header]
+tags: [person, status/cleanup/metadata]
 name: Nimessa
 born:
 species: elemental
-ancestry: marid
+subspecies: marid
 gender: female
 whereabouts: Elemental Plane of Water
+dm_owner: tim
+dm_notes: important
 title: Nimessa
 ---
 # Nimessa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A marid [elemental](<../../species/children-of-the-riving/elementals/elementals.md>) (she/her)  
+    An [elemental](<../../species/extraplanar/elementals.md>) (marid) (she/her)  
     { .bio }
 
-    Based in the [Elemental Plane of Water](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-plane-of-water.md>), the [Elemental Realms](<../../cosmology/multiverse/energy-realms/elemental-realms/elemental-realms.md>), the [Energy Realms](<../../cosmology/multiverse/energy-realms/energy-realms.md>)
+    Based in the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>), the [Energy Realms](<../../cosmology/energy-realms/energy-realms.md>)
 </div>
 
 

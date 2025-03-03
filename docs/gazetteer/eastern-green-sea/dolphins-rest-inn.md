@@ -4,11 +4,13 @@ tags: [place]
 name: Dolphin’s Rest Inn
 typeOf: inn
 whereabouts: Wahacha
+dm_notes: color
+dm_owner: none
 title: Dolphin’s Rest Inn
 ---
 # The Dolphin’s Rest Inn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An inn in [Wahacha](<./wahacha.md>), the [Vermillion Isles](<./vermillion-isles.md>), the [~Eastern Islands~](<./eastern-islands.md>), the [Green Sea](<../green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } An inn in [Wahacha](<./wahacha.md>), the [Vermillion Isles](<./vermillion-isles.md>), the ~Eastern Islands~, the [Green Sea](<../green-sea.md>)  
 </div>
 
 

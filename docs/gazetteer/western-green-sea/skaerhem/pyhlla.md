@@ -8,6 +8,8 @@ whereabouts: Skaerhem
 population: 800
 ancestry: Skaer
 pronunciation: PIE-hu-lla
+dm_owner: tim
+dm_notes: color
 title: Pyhlla
 ---
 # Pyhlla
@@ -15,10 +17,8 @@ title: Pyhlla
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 800  
-    :octicons-location-24:{ .lg .middle } A [Skaer](<./skaerhem.md>) town [Skaerhem](<./skaerhem.md>)  
+    :octicons-location-24:{ .lg .middle } A [Skaer](<../realms/skaer.md>) town in [Skaerhem](<./skaerhem.md>), the [Western Green Sea](<../western-green-sea.md>)  
 </div>
-
-
 
 
 Pyhlla a port town, on a volcanic rocky island, less than a day's sail from [Vetta](<./vetta.md>), the island of the sacred waters. 
@@ -29,7 +29,7 @@ In the winter, with little daylight, the town is lit by firelight for a good par
 
 There are no inns here, and no real infrastructure for travelers. Strangers are not widely welcome in Skaer ports, and foreign merchants typically sleep on their ship.
 
-The main communal gathering places is the church of [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>), which has an attached covered bar and a large fire circle. There is room in the church for visitors to sleep, at need, but it is not very comfortable and not well heated. 
+The main communal gathering places is the church of [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>), which has an attached covered bar and a large fire circle. There is room in the church for visitors to sleep, at need, but it is not very comfortable and not well heated. 
 
 Most people live in turf houses, with grass roofs, with a significant cluster of houses around the docks and churchyard.
 
@@ -42,9 +42,9 @@ Pyhlla is a particularly large district, with 11 oskunja, and two priests in add
 
 
 
-# Blessing of [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>)
+# Blessing of [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>)
 
-All pilgrims to [Vetta](<./vetta.md>) must accept the blessing of [Kaikkea](<../../../cosmology/gods/incorporeal-gods/kaikkea.md>). This involves being submerged in a deep quarry cut out of the stone, and prayed over. 
+All pilgrims to [Vetta](<./vetta.md>) must accept the blessing of [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>). This involves being submerged in a deep quarry cut out of the stone, and prayed over. 
 
 
 

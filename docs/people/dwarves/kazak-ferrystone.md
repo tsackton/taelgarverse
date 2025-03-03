@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/wip, status/check/whereabouts]
+tags: [person, status/stub, status/check/whereabouts]
 species: dwarf
 gender: male
 affiliations:
@@ -9,13 +9,15 @@ whereabouts:
 - {type: home, location: Rinburg}
 - {type: away, location: on the road to Aslain, start: 1720-02-08, end: 1720-02-10}
 - {type: away, location: Aslain, start: 1720-02-10, end: 9999}
+dm_notes: color
+dm_owner: mike
 title: Kazak Ferrystone
 ---
 # Kazak Ferrystone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/children-of-the-embodied-gods/dwarves/dwarves.md>) (he/him), of the [Ferrystones](<../../groups/dwarven-clans/ferrystones.md>)  
+    A [dwarf](<../../species/dwarves.md>) (he/him), of the [Ferrystones](<../../groups/dwarven-clans/ferrystones.md>)  
     { .bio }
 
     Based in [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

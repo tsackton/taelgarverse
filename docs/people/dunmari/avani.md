@@ -11,13 +11,15 @@ affiliations:
 - {org: Fraternity of the Empty Moon, start: 1748-04, end: 1748-07-03}
 gender: female
 whereabouts: Tokra
+dm_owner: none
+dm_notes: color
 title: Avani
 ---
 # Avani
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/children-of-divine-creation/humans/humans.md>) (she/her)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (she/her)  
     Member of the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>) (April 1748 - July 3rd, 1748)  
     { .bio }
 

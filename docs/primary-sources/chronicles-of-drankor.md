@@ -1,5 +1,5 @@
 ---
-tags: [source, status/cleanup/external]
+tags: [source, status/cleanup/text, status/check/tim]
 dm_notes: color
 dm_owner: none
 title: Chronicles of Drankor
@@ -56,4 +56,8 @@ Cavarrio divides the history of Drankor into five eras:
 | Apollyon (m) | Decline | Hkar |  | 1011 | 1059 |
 <!-- TBLFM: $7=($6-$5) -->
 <!-- TBLFM: $8=($5+4133) -->
+
+
+
+
 
