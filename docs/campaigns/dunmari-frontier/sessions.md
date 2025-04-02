@@ -122,3 +122,5 @@
 - **The Last Emperor** ([Dunmari Frontier - Session 117](<session-notes/session-117-dufr.md>), May 24, 1749 DR - May 30, 1749 DR): in which the party defeats Apollyon (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
 - **Shadows on Vindristjarna** ([Dunmari Frontier - Session 118](<session-notes/session-118-dufr.md>), May 30, 1749 DR): in which allies and enemies come for the Cloudspinner (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
 - **Journey to Emberwine** ([Dunmari Frontier - Session 119](<session-notes/session-119-dufr.md>), May 30, 1749 DR - May 31, 1749 DR): in which the party enters the Feywild (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
+- Session 120 ([Dunmari Frontier - Session 120](<session-notes/session-120-dufr.md>))
+- Session 121 ([Dunmari Frontier - Session 120](<session-notes/session-120-dufr.md>))
