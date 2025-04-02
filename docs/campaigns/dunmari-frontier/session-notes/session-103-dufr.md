@@ -59,4 +59,4 @@ While discussing what to do next, [Riswynn](<../../../people/pcs/dunmar-fellowsh
 
 Using scrying, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) was able to find both the pirate Wellby, seeing him onboard a pirate ship called The Vengenance, and the Seeker doppleganger, apparently waiting or standing guard in [Drankor](<../../../history/drankorian-era/drankor.md>). The party decided, then to use Seeker's magic to create a simulacrum of Kenzo, and send it to destroy the pirate Wellby clone. 
 
-We end the session the following day, in the late afternoon, after Seeker spends all night casting simulacrum to make a clone of Kenzo, and then rests and teleports the Kenzo clone, using one of the two dice from the [Prince of Luck](<../../../people/extraplanar-powers/prince-of-luck.md>) to ensure the teleport is on target. 
+We end the session the following day, in the late afternoon, after Seeker spends all night casting simulacrum to make a clone of Kenzo, and then rests and teleports the Kenzo clone, using one of the two dice from the [Prince of Luck](<../../../people/extraplanar-powers/archfey/prince-of-luck.md>) to ensure the teleport is on target. 

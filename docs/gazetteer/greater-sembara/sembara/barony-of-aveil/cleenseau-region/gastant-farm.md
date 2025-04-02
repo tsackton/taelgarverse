@@ -14,7 +14,7 @@ title: Gastant Farm
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Abandoned January 10th, 1720  
-    :octicons-location-24:{ .lg .middle } A farmhouse [Manor of Cleenseau](<./manor-of-cleenseau.md>)  
+    :octicons-location-24:{ .lg .middle } A farmhouse in the [Manor of Cleenseau](<./manor-of-cleenseau.md>), the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), [Greater Sembara](<../../../greater-sembara.md>)  
 </div>
 
 

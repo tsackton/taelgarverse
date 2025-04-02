@@ -27,8 +27,8 @@
 - Moon Necklace (common minor item). A gift from [Arryn](<../../../people/other-humans/arryn.md>) to [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), a necklace on which a pendant is hung that always glows with the light of the moon, fading and growing in brightness depending on the phase.
 ### From [Rishi](<../../../people/dunmari/rishi.md>)
 - A branch from the ancient tree in Tokra, gifted to [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) by Rishi[](<#>)and used to construct the [Staff of the Forest Soul](<../treasure/staff-of-the-forest-soul.md>)
-### From [Chanceweaver](<../../../people/extraplanar-powers/prince-of-luck.md>)
-- Chanceweaver’s Dice (rare minor item). A pair of amorphous dice that can change their shape at will. Gifted to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) by the [Prince of Luck](<../../../people/extraplanar-powers/prince-of-luck.md>). 
+### From [Chanceweaver](<../../../people/extraplanar-powers/archfey/prince-of-luck.md>)
+- Chanceweaver’s Dice (rare minor item). A pair of amorphous dice that can change their shape at will. Gifted to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) by the [Prince of Luck](<../../../people/extraplanar-powers/archfey/prince-of-luck.md>). 
 ### From [Lady Eventide](<../../../people/fey/lady-eventide.md>)
 - Sunset Thread (common minor item). A strand of thread from [Lady Eventide](<../../../people/fey/lady-eventide.md>)’s dress given to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), spun by the Cloudweaver, that will glow with the light of sunset whenever the sun is setting in the material plane, signaling that the [Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>) fey crossing is open. 
 ### From [Saka](<../../../people/dunmari/saka.md>)

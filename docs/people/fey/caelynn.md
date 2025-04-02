@@ -22,7 +22,7 @@ title: Caelynn the Seer
     A [fey](<../../species/extraplanar/fey.md>) (she/her)  
     { .bio }
 
-    Originally from: [Dreamhaven](<../../gazetteer/extraplanar/feywild/dreamhaven.md>), [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+    Originally from: [Dreamhaven](<../../gazetteer/extraplanar/feywild/dreamhaven.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
     Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
 </div>
 

@@ -25,7 +25,7 @@ I remember marching at the head of my legion arrayed for war, leaving my camp af
 
 My last memory is the one I shared at the beginning of this when we met. How I came to be here, fighting the [dragon](<../../../species/unusual-species/dragons.md>). Red and black scales, losing the fight, a rout, running, finding the [elven](<../../../species/elves.md>) stones, the treaty stones, reaching one, and appearing here.
 
-Since then it's fragmentary. I remember the [Cloudspinner](<../../../people/extraplanar-powers/cloudspinner.md>), but can't say how or why, or who she was, or what I did to wrong her. I remember wandering, helping travelers, remembering, forgetting, remembering, and forgetting again and again.
+Since then it's fragmentary. I remember the [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>), but can't say how or why, or who she was, or what I did to wrong her. I remember wandering, helping travelers, remembering, forgetting, remembering, and forgetting again and again.
 
 I think it's been my curse. Every time I came close to remembering my past and what had happened, and where I was really, and how long it had been, something happened and I'd forget again. Go back to that day that I had just come through believing that there was still a war to win. 
 

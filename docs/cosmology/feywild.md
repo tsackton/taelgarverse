@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/incomplete]
 typeOf: plane
-displayDefaults: {wSecondary: 'Sometimes considered one of the <secondary:1>'}
+displayDefaults: {wSecondary: 'Sometimes considered one of the <secondary:1>', defArt: the}
 whereabouts:
 - {type: home, location: Multiverse, wHome: 'A <typeOf> in the <home:1s>'}
 - {type: secondary, location: Echo Realms}
@@ -10,7 +10,7 @@ dm_notes: none
 dm_owner: joint
 title: Feywild
 ---
-# Feywild
+# The Feywild
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A plane in the [multiverse](<./multiverse.md>)  
     :octicons-location-24:{ .lg .middle } Sometimes considered one of the the [Echo Realms](<demiplanes-and-echo-realms/echo-realms.md>)  
@@ -45,7 +45,7 @@ Where bargains made demand the price be paid.
 The Feywild is a place of contradictions, where even the most basic truths seem malleable. While many accounts agree that its geography loosely mirrors the [Material Plane](<./material-plane.md>)—mountains reflecting mountains, rivers matching rivers—there are just as many tales of travelers finding verdant forests where deserts should be or endless fields of flowers in the midst of barren plains. The elven poet Elenwen wrote that "the Feywild shapes itself to memory and dream, not to logic or law," and some travelers have speculated that geography in the Feywild may, at times, reflect what once was, or even what will be, on the [Material Plane](<./material-plane.md>), not what is now. 
 ### Time and Space
 
-No one who has ventured to the Feywild could fail to notice that time does not move as it does on the Material Plane. The sun does not cross the sky: instead, the time of day seems to be associated with location. Numerous Tyrwinghan poems and legends describe the perpetual twilight of the court of the [Archfey Ethlenn](<../people/extraplanar-powers/archfey-ethlenn.md>), where the sun has forever just set. Even stranger is the physical structure of the sunset made solid, on the western edge of the Green Sea, as described by Calenya of [Orenlas](<../gazetteer/upper-istaros/orenlas/orenlas.md>):
+No one who has ventured to the Feywild could fail to notice that time does not move as it does on the Material Plane. The sun does not cross the sky: instead, the time of day seems to be associated with location. Numerous Tyrwinghan poems and legends describe the perpetual twilight of the court of the [Archfey Ethlenn](<../people/extraplanar-powers/archfey/archfey-ethlenn.md>), where the sun has forever just set. Even stranger is the physical structure of the sunset made solid, on the western edge of the Green Sea, as described by Calenya of [Orenlas](<../gazetteer/upper-istaros/orenlas/orenlas.md>):
 
 *Amber strokes alight,*  
 *on sunset's blazing crystals—*  
@@ -67,7 +67,7 @@ Nonetheless, despite [extensive catalogs](<../things/books/the-lore-of-the-feywi
 
 The denizens of the Feywild, often collectively called the **fey**, are as varied as the realm they inhabit, their presence inspiring awe and trepidation in equal measure. Most striking are the elegant and graceful creatures known simply as fae, often mistaken for elves or humans, but distinguished by their luminous eyes and unearthly poise. Mischievous fairies, such as pixies, sprites, and brownies, flit through stories of pranks and magical interventions, while the horned satyrs, embodying the wild vitality of their home, are renowned as the masters of revelry, mischief, and sometimes wisdom. 
 
-As diverse as the fey are the stories about them and their interactions with the natives of the [Material Plane](<./material-plane.md>). The classic Chardonian ballad, the Curse of the Thorned Feast, often sung as a cautionary tale, speaks of the wandering warrior who dined eagerly in a dryad's grove, failing to offer thanks or recompense, only to find himself bound to serve the forest for a hundred and one years. And a famous scene in [A Fool's Fortune](<../things/books/a-fool-s-fortune.md>) depicts the tragi-comic hero, Estelis, bargaining with a pixie, who offers the seeds of vast riches for a mere trifle of gems. Of course, as the audience knows, the seeds of vast riches grow into flowers, and fey bargains, while never broken, are often not as they seem. Yet not all tales are cautionary examples: Light of the Everglade, an elven epic poem, speaks of the bard Laurlinde whose silver voice and noble demeanor won her a boon from a mysterious archfey called the [Queen of Sunset](<../people/extraplanar-powers/cloudspinner.md>). 
+As diverse as the fey are the stories about them and their interactions with the natives of the [Material Plane](<./material-plane.md>). The classic Chardonian ballad, the Curse of the Thorned Feast, often sung as a cautionary tale, speaks of the wandering warrior who dined eagerly in a dryad's grove, failing to offer thanks or recompense, only to find himself bound to serve the forest for a hundred and one years. And a famous scene in [A Fool's Fortune](<../things/books/a-fool-s-fortune.md>) depicts the tragi-comic hero, Estelis, bargaining with a pixie, who offers the seeds of vast riches for a mere trifle of gems. Of course, as the audience knows, the seeds of vast riches grow into flowers, and fey bargains, while never broken, are often not as they seem. Yet not all tales are cautionary examples: Light of the Everglade, an elven epic poem, speaks of the bard Laurlinde whose silver voice and noble demeanor won her a boon from a mysterious archfey called the [Queen of Sunset](<../people/extraplanar-powers/archfey/cloudspinner.md>). 
 ### Archfey and Fey Realms
 
 No discussion of the Feywild would be complete without a mention of the endless tales of the masters and rulers of the Feywild, the archfey. The archfey, it is said, are as varied and diverse as the fey themselves, and carry the power to shape the realms in which they dwell in their own image. Few encounter these powerful beings, and none encounter them unchanged. 

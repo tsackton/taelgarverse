@@ -21,6 +21,6 @@ Relevant brainstorming and other notes:
 - Discord Chat - Multiverse
 - Discord Chat - Souls
 - Discord Chat - Funerary Traditions
-- [Outer Realms Natives](<../../species/extraplanar/outer-realms-natives.md>)
+- Extraplanar Natives
 - Metaphysics of Souls
 

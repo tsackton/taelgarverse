@@ -23,4 +23,4 @@ title: Mikasa
 </div>
 
 
-A fae samurai, in the [Chanceweaver](<../../../extraplanar-powers/prince-of-luck.md>)’s court, but from another fey realm. Helped [Seeker](<../seeker.md>) stop the wild magic storm, in exchange for the [Chanceweaver](<../../../extraplanar-powers/prince-of-luck.md>)’s aid in returning home. Returned to the [Chanceweaver](<../../../extraplanar-powers/prince-of-luck.md>)’s court and traveled home.
+A fae samurai, in the [Chanceweaver](<../../../extraplanar-powers/archfey/prince-of-luck.md>)’s court, but from another fey realm. Helped [Seeker](<../seeker.md>) stop the wild magic storm, in exchange for the [Chanceweaver](<../../../extraplanar-powers/archfey/prince-of-luck.md>)’s aid in returning home. Returned to the [Chanceweaver](<../../../extraplanar-powers/archfey/prince-of-luck.md>)’s court and traveled home.

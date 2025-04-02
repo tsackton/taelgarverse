@@ -20,14 +20,14 @@ title: Cloak of Rainbows
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Unique Magical Cloak__  
    Created DR 917 (832 years ago)  
-   Created by [Cloudspinner](<../../people/extraplanar-powers/cloudspinner.md>), in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), [Feywild](<../../cosmology/feywild.md>)  
+   Created by [Cloudspinner](<../../people/extraplanar-powers/archfey/cloudspinner.md>), in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>)  
    Owned by [Chief Lubash](<../../people/orcs/lubash.md>)  
 </div>
 
 
 
 
-![Rainbow Cloak V2](../../assets/rainbow-cloak-v2.jpg){align="right"; width="300"}The Cloak of Rainbows is a multi-colored shimmering cloak, made of the threads of sunset woven by the [Cloudspinner](<../../people/extraplanar-powers/cloudspinner.md>), and enchanted with powerful magic to shield the wearer from the sight and power of the Divine. The colors change with the light and the sun, shifting darker or lighter seemingly with the whims of fate. 
+![Rainbow Cloak V2](../../assets/rainbow-cloak-v2.jpg){align="right"; width="300"}The Cloak of Rainbows is a multi-colored shimmering cloak, made of the threads of sunset woven by the [Cloudspinner](<../../people/extraplanar-powers/archfey/cloudspinner.md>), and enchanted with powerful magic to shield the wearer from the sight and power of the Divine. The colors change with the light and the sun, shifting darker or lighter seemingly with the whims of fate. 
 
 [Cintra](<../../people/dunmari/cintra.md>) believed [Agata](<../../people/fey/agata.md>) was searching for it, and had heard it was supposedly created by [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>), but the truth is more complicated. The history of the Cloak of Rainbows is intimately connected with the history of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>). It was originally a gift to allow these orcs to live free of [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)'s gaze. It was stolen by [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>), and then lost, and [rediscovered](<../../campaigns/dunmari-frontier/letters-and-notes/letter-from-govir.md>) by the Dunmari in the years before the Great War, only to be lost again during the Great War. 
 

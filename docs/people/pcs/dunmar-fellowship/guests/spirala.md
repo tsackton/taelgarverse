@@ -22,4 +22,4 @@ title: Spirala
 </div>
 
 
-A fairy cleric from the fey realm of [Shimmersong](<../../../../gazetteer/extraplanar/feywild/shimmersong.md>), dedicated to light and the [Lightdancer](<../../../extraplanar-powers/lightdancer.md>)’s Summer Court. Helped [Seeker](<../seeker.md>) with the wild magic storm and crossing [Amberglow](<../../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), and said goodbye to [Seeker](<../seeker.md>) at [Lastlight Falls](<../../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>).
+A fairy cleric from the fey realm of [Shimmersong](<../../../../gazetteer/extraplanar/feywild/shimmersong.md>), dedicated to light and the [Lightdancer](<../../../extraplanar-powers/archfey/lightdancer.md>)’s Summer Court. Helped [Seeker](<../seeker.md>) with the wild magic storm and crossing [Amberglow](<../../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), and said goodbye to [Seeker](<../seeker.md>) at [Lastlight Falls](<../../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>).

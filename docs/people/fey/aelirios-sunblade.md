@@ -19,7 +19,7 @@ title: Aelirios Sunblade
     Died  
     { .bio }
 
-    Lived in the Refuge of the Gossamer Veil, [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), [Feywild](<../../cosmology/feywild.md>)
+    Lived in the Refuge of the Gossamer Veil, [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>)
 </div>
 
 

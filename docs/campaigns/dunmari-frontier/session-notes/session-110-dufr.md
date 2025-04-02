@@ -20,7 +20,7 @@ title: Dunmari Frontier - Session 110
 > *On Earth: Saturday Sep 28, 2024*
 > *~Circular Island~*
 
-The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) acquires the last fragment of jade, frees the [Cloudspinner](<../../../people/extraplanar-powers/cloudspinner.md>) from [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>)'s prison, and defeats the dragon [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>), securing a significant victory and treasure for their quest.
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) acquires the last fragment of jade, frees the [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>) from [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>)'s prison, and defeats the dragon [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>), securing a significant victory and treasure for their quest.
 ## Session Info
 ### Summary
 - The party debates freeing a hobgoblin but decides against it due to potential risks.
@@ -31,7 +31,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - They explore [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>)' lair, claiming valuable treasures and leaving Dimitar in charge.
 ### Timeline
 - May 20, 1749 DR, morning: Talk to [Revaka](<../../../people/other-nonhumans/revaka.md>) in the [Mirror of Soul Trapping](<../treasure/mirror-of-soul-trapping.md>); discuss how to approach [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>); depart to speak with Ghesh and Megren.
-- May 20, 1749 DR, afternoon: Audience with [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>). Negotiate for jade. Scout ruined village; find probable location of fiend. Trade for jade and give [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>) Apollyon's Throne. Enter villa; fight fiend; recover [Cloudspinner](<../../../people/extraplanar-powers/cloudspinner.md>)'s trapped body.
+- May 20, 1749 DR, afternoon: Audience with [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>). Negotiate for jade. Scout ruined village; find probable location of fiend. Trade for jade and give [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>) Apollyon's Throne. Enter villa; fight fiend; recover [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>)'s trapped body.
 - May 20, 1749 DR, evening: Flee to Dimitaur's lair in the temple complex; discuss situation and prepare to fight [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>). 
 - May 21, 1749 DR, predawn: Find dragonets scouting, send them off with word that Ra'ghemdros will die. Repair light tower in center of temple complex. Fight minions. Fight Ra'ghemdros. Win.
 - May 21, 1749 DR, morning: Recover [treasure](<../hoards/ra-ghemdros-hoard.md>) from [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>)' lair, turn over some treasure to [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>) and leave him in charge. Sail through storm with Milo and Tilly. 
@@ -78,7 +78,7 @@ The climactic moment came when [Kenzo](<../../../people/pcs/dunmar-fellowship/ke
 
 After the battle, the party discovered a mysterious key and remnants of the Concordia Pyrae, including valuable tomes chronicling the history of the villa and its tragic downfall. Seeker’s tremor sense revealed something hidden beneath the lava pool, prompting a creative plan to clear the lava and uncover a portal. Using a key found on the fiend, Delwath unlocked the gateway, leading the party to a shadowy prison.
 
-Within the shadowy chamber, they found a suspended crystal containing the enigmatic entity known as [Cloudspinner](<../../../people/extraplanar-powers/cloudspinner.md>). After a harrowing struggle to sever the shadowy bonds, they freed the crystal, deciding to take it with them. The party then teleported to Dimitar’s tower, seeking rest and refuge from an impending threat. With the dragon Ra'ghemdros potentially on their trail, they found temporary sanctuary in the tunnels beneath the temple, gathering strength and strategizing for the inevitable confrontation that lay ahead.
+Within the shadowy chamber, they found a suspended crystal containing the enigmatic entity known as [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>). After a harrowing struggle to sever the shadowy bonds, they freed the crystal, deciding to take it with them. The party then teleported to Dimitar’s tower, seeking rest and refuge from an impending threat. With the dragon Ra'ghemdros potentially on their trail, they found temporary sanctuary in the tunnels beneath the temple, gathering strength and strategizing for the inevitable confrontation that lay ahead.
 
 ### Part 2: The Battle Against Ra'ghemdros
 

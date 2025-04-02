@@ -22,7 +22,7 @@ title: Vondar
     { .bio }
 
     Originally from: Unknown
-    Based in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+    Based in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
 </div>
 
 

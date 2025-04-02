@@ -19,13 +19,13 @@ title: Lord Umbraeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/extraplanar/fey.md>) (he/him)  
+    A [fey](<../../../species/extraplanar/fey.md>) (he/him)  
     Master of Duskmire  
     { .bio }
 
-    Originally from: [Twilight's Grace](<../../gazetteer/extraplanar/feywild/twilight-s-grace.md>), [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
-    Based in Duskmire, [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+    Originally from: [Twilight's Grace](<../../../gazetteer/extraplanar/feywild/twilight-s-grace.md>), the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)
+    Based in Duskmire, the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)
 </div>
 
 
-![Lord Umbraeth Potrait](../../assets/lord-umbraeth-potrait.png){align="right"; width="320"}Lord Umbraeth, the Gloomshaper, is the ruler of Duskmire. 
+![Lord Umbraeth Potrait](../../../assets/lord-umbraeth-potrait.png){align="right"; width="320"}Lord Umbraeth, the Gloomshaper, is the ruler of Duskmire. 

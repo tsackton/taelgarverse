@@ -12,7 +12,7 @@ title: Lastlight Falls
 ---
 # The Lastlight Falls
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A portal in [Amberglow](<./amberglow.md>), [Feywild](<../../../../cosmology/feywild.md>), [Multiverse](<../../../../cosmology/multiverse.md>)  
+-    :octicons-location-24:{ .lg .middle } A portal in [Amberglow](<./amberglow.md>), the [Feywild](<../../../../cosmology/feywild.md>), [Multiverse](<../../../../cosmology/multiverse.md>)  
     :octicons-location-24:{ .lg .middle } A portal in [Nashtkar](<../../../greater-dunmar/dunmari-basin/nashtkar.md>), the [Desolation of Cha'mutte](<../../../drankorian-hinterland/desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../../../drankorian-hinterland/drankorian-hinterland.md>)  
 </div>
 

@@ -30,11 +30,11 @@ title: Agata Dustmother
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in the [Heartwood Grove](<../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>), [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), [Feywild](<../../cosmology/feywild.md>)
+:octicons-location-24:{ .lg .middle } Currently in the [Heartwood Grove](<../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>), [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Imprisoned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 15th, 1748 in the [Heartwood Grove](<../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>), [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), [Feywild](<../../cosmology/feywild.md>)  
+:octicons-location-24:{ .lg .middle } Imprisoned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 15th, 1748 in the [Heartwood Grove](<../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>), [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>)  
 
 
 Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), near [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). 

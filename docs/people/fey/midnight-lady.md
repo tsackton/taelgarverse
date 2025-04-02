@@ -19,7 +19,7 @@ title: The Midnight Lady
     A [fey](<../../species/extraplanar/fey.md>) (hag)  
     { .bio }
 
-    Based in Duskmire, [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+    Based in Duskmire, the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently in [Peydon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

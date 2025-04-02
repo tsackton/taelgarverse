@@ -24,12 +24,12 @@ title: Illaran
     Guardian of the [Crystal Peak](<../../gazetteer/extraplanar/feywild/crystal-peak.md>)  
     { .bio }
 
-    Based in the [Crystal Peak](<../../gazetteer/extraplanar/feywild/crystal-peak.md>), [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+    Based in the [Crystal Peak](<../../gazetteer/extraplanar/feywild/crystal-peak.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 1st, 1748 in the [Crystal Peak](<../../gazetteer/extraplanar/feywild/crystal-peak.md>), [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 1st, 1748 in the [Crystal Peak](<../../gazetteer/extraplanar/feywild/crystal-peak.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
 
 
 Illaran, the guardian of Crystal Peak in the [Feywild](<../../cosmology/feywild.md>), is a whimsical fey who wields power over the very stones of his domain.

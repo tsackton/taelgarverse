@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place, status/check/mike]
 typeOf: region
 whereabouts:
 - {type: home, location: Taelgar, linkText: in}
@@ -14,8 +14,9 @@ title: Northern Sentinels
 </div>
 
 
-North of the [Dwarven Kingdoms](<../central-highlands/dwarven-kingdoms/dwarven-kingdoms.md>) and the plains of [Voltara](<../northwest-coast/voltara.md>) is a wild and unpeopled land, haunted with the scars of the [Great War](<../../events/1500s/great-war.md>). Pine forests, swamps, and the tall peaks of the [northern Sentinels](<../sentinel-range.md#northern-sentinels>) dominate the landscape. 
 
+
+Even among the halflings, few reliable tales come from the northern reaches of the great [Sentinel Range](<../sentinel-range.md>). This is a wild and unpeopled land, haunted by the scars of the [Great War](<../../events/1500s/great-war.md>), and spoken of uncertainly, in hushed tones even among the adventurous. What stories do drift south speak of vast pine forests, uninhabitable bogs, and the tall mountain peaks of the [northern Sentinels](<../sentinel-range.md#northern-sentinels>), painting a picture of a rugged and beautiful, but inhospitable and dangerous, landscape. 
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
 integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" ></script>
@@ -51,13 +52,24 @@ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" >
 
 
 ## Topography and Major Features
-_See more: [North Sentinels](<../sentinel-range.md#northern-sentinels>)_
 
-Few have mapped this region, nestled on the west side of the [Sentinel Range](<../sentinel-range.md>). Much of the region dominated by the northern Sentinels and the forests and rivers on the western slopes. The scattered human tribes in the area speak of the dangerous forests and swamps:
-* the [Forest of Nightmares](<./forest-of-nightmares.md>), said to be in haunted, cursed by [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>) during the [Great War](<../../events/1500s/great-war.md>)
-* the [Blackwater Fens](<./blackwater-fens.md>), a dank bog from which the Nahadi arises
+
+
+Even among the halflings, few have dared to map this region, nestled on the west side of the [Sentinel Range](<../sentinel-range.md>), and even among the most daring traders, few find profit traveling these dangerous lands. Much of the region dominated by the northern [Sentinels](<../sentinel-range.md>) and the forests and rivers on their western slopes, making travel slope and difficult. The mountains themselves are snowy and rocky, with the highest peaks cold and frozen year round. 
+
+The information reported here largely derives from the scattered human tribes in the area speak of the dangerous forests and swamps:
+
+- The ~Pandar Volcanic Range~, once the borders of [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>)'s realm, now a place all sensible folk fear.
+* The [Forest of Nightmares](<./forest-of-nightmares.md>), said to be haunted, cursed by [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>) during the [Great War](<../../events/1500s/great-war.md>).
+* The [Blackwater Fens](<./blackwater-fens.md>), a dank bog from which the Nahadi arises.
+
+There are two major river systems that originate in this region:
+
+- The [K'eye](<./k-eye.md>) in the local language, and translated by halflings as the Red River, flows from the [Sentinels](<../sentinel-range.md>) to the ~North Bay~. 
+- The Nahadi in the local language, and translated by halflings at the Great River, flows from its origins in the [Blackwater Fens](<./blackwater-fens.md>) south to [Lake Valandros](<../greater-chardon/lake-valandros.md>) and beyond. 
 ## Civilizations and Cultures
-_See more: Northern Tribes 
+
+
 
 There are few humans in this region, although the northern Deno'qai tribes make their home here. The dwarven kingdom of [Fahnukan](<./fahnukan.md>) lies beneath the northern Sentinels, and [stoneborn](<../../species/stoneborn.md>) are known to live in the highlands and foothills of the [Sentinels](<../sentinel-range.md>).
 

@@ -20,17 +20,17 @@ You can also explore the most recent [session](<session-notes/session-118-dufr.m
 
 | Link                                                                                        | Folder                          |
 | ------------------------------------------------------------------------------------------- | ------------------------------- |
-| Bitterwine Oak                                                          | Bitterwine Oak                  |
-| Darkfall                                                                      | Darkfall                        |
-| Everlight's Bloom                                                    | Everlight's Bloom               |
 | [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) | Gazetteer/Drankorian Hinterland |
 | [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>)                         | Gazetteer/Extraplanar           |
+| [Darkfall](<../../gazetteer/extraplanar/feywild/darkfall.md>)                                     | Gazetteer/Extraplanar           |
+| [Bitterwine Oak](<../../gazetteer/extraplanar/feywild/emberwine/bitterwine-oak.md>)               | Gazetteer/Extraplanar           |
+| [Everlight's Bloom](<../../gazetteer/extraplanar/feywild/everlight-s-bloom.md>)                   | Gazetteer/Extraplanar           |
+| [Hollowdark](<../../gazetteer/extraplanar/feywild/hollowdark.md>)                                 | Gazetteer/Extraplanar           |
 | [Sunset Gate](<../../Gazetteer/Extraplanar/Feywild/Sunset Gate.md>)                               | Gazetteer/Extraplanar           |
-| Hollowdark                                                                  | Hollowdark                      |
 | [Faldrak](<../../people/dwarves/faldrak-bronzehammer.md>)                                         | People/Dwarves                  |
 | [Egnir](<../../people/elves/egnir.md>)                                                            | People/Elves                    |
-| [Cloudspinner](<../../people/extraplanar-powers/cloudspinner.md>)                                 | People/Extraplanar Powers       |
-| [Gloomshaper](<../../people/extraplanar-powers/lord-umbraeth.md>)                                 | People/Extraplanar Powers       |
+| [Cloudspinner](<../../people/extraplanar-powers/archfey/cloudspinner.md>)                                 | People/Extraplanar Powers       |
+| [Gloomshaper](<../../people/extraplanar-powers/archfey/lord-umbraeth.md>)                                 | People/Extraplanar Powers       |
 | [Lady Eventide](<../../people/fey/lady-eventide.md>)                                              | People/Fey                      |
 | [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>)                           | Things/Artifacts of Power       |
 | [Vindristjarna](<../../things/ships/vindristjarna.md>)                                            | Things/Ships                    |

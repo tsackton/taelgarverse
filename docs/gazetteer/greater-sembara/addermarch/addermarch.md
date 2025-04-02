@@ -57,7 +57,7 @@ To the south, Addermarch is bordered by the high ridge of the [Mostreve Hills](<
 
 ## History
 
-Addermarch was settled long ago, by a people closely related to the ancient Tyrwinghans. Before the [Downfall](<../../../events/ancient/the-downfall.md>), [Tyrwingha](<../tyrwingha/tyrwingha.md>) and Addermarch were part of a shared patchwork of petty kingdoms, settled in the highlands of the [Mostreve Hills](<../mostreve-hills.md>) above the great, ancient lizardfolk swamps of the lowlands. However, Addermarch is outside the boundaries of the [Archfey Ethlenn](<../../../people/extraplanar-powers/archfey-ethlenn.md>)'s influence, and as Tyrwingha grew closer to the fey, the fate of the two realms diverged. 
+Addermarch was settled long ago, by a people closely related to the ancient Tyrwinghans. Before the [Downfall](<../../../events/ancient/the-downfall.md>), [Tyrwingha](<../tyrwingha/tyrwingha.md>) and Addermarch were part of a shared patchwork of petty kingdoms, settled in the highlands of the [Mostreve Hills](<../mostreve-hills.md>) above the great, ancient lizardfolk swamps of the lowlands. However, Addermarch is outside the boundaries of the [Archfey Ethlenn](<../../../people/extraplanar-powers/archfey/archfey-ethlenn.md>)'s influence, and as Tyrwingha grew closer to the fey, the fate of the two realms diverged. 
 
 
 

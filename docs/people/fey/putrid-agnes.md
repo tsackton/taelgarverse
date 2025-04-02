@@ -20,7 +20,7 @@ title: Putrid Agnes
     A [fey](<../../species/extraplanar/fey.md>) (hag)  
     { .bio }
 
-    Originally from: [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+    Originally from: the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of May 3rd, 1749): [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>)

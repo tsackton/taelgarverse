@@ -21,7 +21,7 @@ The land of Tyrwingha, nestled on the southern shores of the [Green Sea](<../../
 
 Although they share a monarch, Tyrwingha and [Sembara](<../sembara/sembara.md>) see themselves as distinct monarchies with unique histories and cultures.
 
-It is a land of few cities beyond the capital, [Tafolwern](<./tafolwern.md>), but is a land rich in magic and tradition. The [Archfey Ethlenn](<../../../people/extraplanar-powers/archfey-ethlenn.md>), the Queen of the Evening Mist, is said to have been watching over Tyrwingha since time immemorial, and the Tyrwinghans see themselves as the inheritors of an ancient and sacred tradition.  
+It is a land of few cities beyond the capital, [Tafolwern](<./tafolwern.md>), but is a land rich in magic and tradition. The [Archfey Ethlenn](<../../../people/extraplanar-powers/archfey/archfey-ethlenn.md>), the Queen of the Evening Mist, is said to have been watching over Tyrwingha since time immemorial, and the Tyrwinghans see themselves as the inheritors of an ancient and sacred tradition.  
 
 Bordered by the [Green Sea](<../../green-sea.md>) in the north and the [Mostreve Hills](<../mostreve-hills.md>) in the south, it is an agriculturally fertile land and thrives on rich harvests of wheat and wine, as well as timber from the northern slopes of the [Mostreve Hills](<../mostreve-hills.md>). Although not a backwater exactly, it is economically somewhat isolated from the main trade routes of Greater Sembara, and mostly lives and dies with the harvest.
 
