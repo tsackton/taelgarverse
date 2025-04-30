@@ -3,6 +3,8 @@ tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 121
 realWorldDate: 2025-03-25
+DR: 1749-06-08
+DR_end: 1749-06-13
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 121
 tagline: in which the party faces wolf riders
@@ -13,7 +15,8 @@ title: Dunmari Frontier - Session 121
 
 >[!info] Clash Along the Sunset Gate: in which the party faces wolf riders
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Unknown*
+> *In the Feywild: Late Afternoon*
+> *In Taelgar: June 8, 1749 DR to June 13, 1749 DR*
 > *On Earth: Tuesday Mar 25, 2025*
 > *Emberwine and Amberglow*
 
@@ -27,13 +30,20 @@ The Dunmar Fellowship battles formidable wolf riders in the Feywild and spots om
 - In a fierce battle, the Fellowship overcomes the wolf riders using strategic coordination and magical abilities.
 - Post-battle, Wellby regains control of his wyvern, and they identify their foes as agents of Lord Umbriath.
 - They spot a mysterious white river and a tear in the Sunset Gate, with Red Sun Watch rising above the darkness.
+### Timeline
+- Jun 08, 1749 DR: Travel across Emberwine towards the Sunset Gate
+- Jun 09, 1749 DR: Travel across Emberwine towards the Sunset Gate
+-  Jun 10, 1749 DR: Reach the Sunset Gate and turn north
+- Jun 11, 1749 DR: Travel north towards Amberglow, following the Sunset Gate
+- Jun 12, 1749 DR: Cross into Amberglow, avoiding cursed giants demanding blood, and continue north
+- Jun 13, 1749 DR: Encounter and defeat hunters from Duskmire. Travel north, passing a dry river, and reaching Redsun Watch, which is encased in darkness flowing like a river from the east. 
 ## Narrative 
 
 Our session begins as the party soars over Emberwine on exotic griffins with peacock plumage—except for Wellby, who proudly guides his newly trained wyvern. Their fae companions Valeris (a truth-cursed satyr) and Ismara (a scholarly documentarian) travel alongside them as they journey east toward the Sunset Gate.
 
 During their stay at Sunwine Hall, Delwath had defeated the duelist Arendelle and encountered Count Vashen, the Broken Mask—a former courtier who betrayed the Cloud Spinner until Kenzo's cleansing touch briefly restored his memories. Now they head toward Red Sun Watch, seeking Cloud Spinner's prison well.
 
-Troubling news reaches Riswynn through her crow messenger: Chardon has fallen into chaos with riots led by the Eightfold Flame and a power vacuum left by absent magistrates. Meanwhile, she continues struggling to control the crown that had been used for mind control by generations of cleansed leaders.
+Troubling news reaches Riswynn through her crown: Chardon has fallen into chaos with riots led by the Eightfold Flame and a power vacuum left by absent magistrates. Meanwhile, she continues struggling to control the crown that had been used for mind control by generations of cleansed leaders.
 
 Ismara explains that unlike the mundane world, the Feywild changes through the will of Archfey rather than cataclysm. She speaks of Fate's Ruin, transformed by the Rust Baron from artistic mountains into decay, and how Amberglow lost its color after Cloud Spinner's disappearance.
 

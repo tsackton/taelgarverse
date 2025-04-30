@@ -70,11 +70,11 @@ title: Dunmari Frontier Timeline
 - Apr 12, 1748 DR, mid-afternoon: Find [Brawnanvil Shield](<treasure/shield-of-the-brawnanvil-clan.md>) and [Shatterstorm](<treasure/shatterstorm.md>) in abandoned dwarven treasury. Find signs of mind flayer incursions from centuries ago. Find tunnel to [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>).
 - Apr 13, 1748 DR, dawn: Awake after a night of disturbing dreams.
 - Apr 13, 1748 DR, morning: Kill many gnolls in [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), eventually clearing the threat. Have breakfast.
-- Apr 13, 1748 DR, night: Discussion and dinner. Plans are made to travel west to the strange permanent storm on the plains.
 - Apr 13, 1748 DR, late morning: Explore [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>) and recover treasure.
 - Apr 13, 1748 DR, noon: Find and destroys some demon-cursed plant creature near a summoning circle outside of Raven's Hold, watch poisoned water be washed away. Careful searching turns up little but a [scroll cap from a scroll case](<treasure/ivory-scroll-case.md>). Set a bunch of penned animals free.
 - Apr 13, 1748 DR, afternoon: Pass through [Dwarven Outpost (Raven's Hold)](<../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>), explore mines, and speak with strange giant metal construct of dwarvish origin.
 - Apr 13, 1748 DR, evening: Camp near road to Karawa.
+- Apr 13, 1748 DR, night: Discussion and dinner. Plans are made to travel west to the strange permanent storm on the plains.
 - Apr 14, 1748 DR: Travel across the [plains](<../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>) towards the lightning storm.
 - Apr 15, 1748 DR, morning: Travel across the [plains](<../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>) towards the lightning storm.
 - Apr 15, 1748 DR, late afternoon: Arrive at the lightning storm. [Vola](<../../people/chardonians/vola.md>) remains outside at camp with the horses and heavy gear.
@@ -124,9 +124,9 @@ title: Dunmari Frontier Timeline
 - May 12, 1748 DR, mid-morning: Flee south, hoping confuse anyone tracking them in the desert.
 - May 12, 1748 DR, afternoon: Turn west. Camp for the night.
 - May 12, 1748 DR: Drikod arrives in Karawa.
+- May 13, 1748 DR, noon: Spotted by [orcs](<../../species/orcs.md>) while trying to sneak back to shelter of the Samraat Tombs canyon. Orcs give chase. Ride fast for [Havdar](<../../people/dunmari/havdar.md>)'s camp.
 - May 13, 1748 DR, morning: Depart camp heading north and east, back towards Kharsan.
 - May 13, 1748 DR, late morning: Arrive at road and canyon of the Samraat Tombs. Hide horses and gear. [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>) scouts [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>) while invisible; [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>) spies with clairvoyance on [Grash](<../../people/other-nonhumans/grash.md>).
-- May 13, 1748 DR, noon: Spotted by [orcs](<../../species/orcs.md>) while trying to sneak back to shelter of the Samraat Tombs canyon. Orcs give chase. Ride fast for [Havdar](<../../people/dunmari/havdar.md>)'s camp.
 - May 14, 1748 DR: Travel all day towards [Havdar](<../../people/dunmari/havdar.md>)'s camp.
 - May 14, 1748 DR, night: Attacked by shadow trackers, presumably sent by Grash.
 - May 15, 1748 DR: Travel towards Havdar's camp
@@ -154,10 +154,10 @@ title: Dunmari Frontier Timeline
 - Jun 01, 1748 DR, afternoon: Speak with a grateful [Candrosa](<../../people/dunmari/candrosa.md>). Talk to [Tharandros](<../../people/other-nonhumans/tharandros.md>) and receive gifts. Talk to [Havdar](<../../people/dunmari/havdar.md>), learning recent news of Karawa.
 - Jun 02, 1748 DR: Travel from Karawa towards Bas Udda.
 - Jun 03, 1748 DR: Arrive in Bas Udda. Spend the night.
+- Jun 04, 1748 DR, night: Attacked by [orcs](<../../species/orcs.md>), seemingly associated with [Agata](<../../people/fey/agata.md>), looking to recover gold and treasure. [Orcs](<../../species/orcs.md>) are driven off, but manage to escape with some treasure.
 - Jun 04, 1748 DR, morning: Leave Bas Udda heading south, looking for [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>).
 - Jun 04, 1748 DR, midday: Loot [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>).
 - Jun 04, 1748 DR, evening: Retreat mile or so north for the night. Camp.
-- Jun 04, 1748 DR, night: Attacked by [orcs](<../../species/orcs.md>), seemingly associated with [Agata](<../../people/fey/agata.md>), looking to recover gold and treasure. [Orcs](<../../species/orcs.md>) are driven off, but manage to escape with some treasure.
 - Jun 05, 1748 DR, morning: Travel north to [Bas Udda](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>)
 - Jun 05, 1748 DR, afternoon: Hide some treasure from [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>) in [Bas Udda](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>). Free [Agata](<../../people/fey/agata.md>)'s prisoners imprisoned in living wood.
 - Jun 06, 1748 DR: Depart [Bas Udda](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) for [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Destroy a few particularly evil magic items from [Agata](<../../people/fey/agata.md>) before crossing [Shakun's Protection](<../../gods-and-religions/religions/five-siblings/shakun-s-protection.md>).
@@ -228,12 +228,12 @@ title: Dunmari Frontier Timeline
 - Jul 20, 1748 DR: Travel along the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>) a fast pace, covering 30 miles of increasingly hilly road.
 - Jul 21, 1748 DR: Approach the hilly terrain that marks the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>). Discover a bandit ambush, and ambush the ambushers. Intimidate and bribe them into fighting the rumored dragon together. [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) listens to the story of [Justan](<../../people/dunmari/justan.md>), the captain of this raiding party. Camp for the night in the midst of the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>).
 - Jul 22, 1748 DR: Uneventful, but watchful, trek at a slower, more careful pace through the hills. Camp for the evening.
+- Jul 23, 1748 DR, morning: Travel cautiously along [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>).
+- Jul 23, 1748 DR, early afternoon: Find a dead, disembowled horse on the road. Ambushed by two wyverns during the afternoon rains. Kill them, losing one of the bandits to the poison stinger. Approached by [Marcella](<../../people/chardonians/marcella.md>) and her Chardonian companions, seeking to purchase or trade magic items. Meet [Kadmos](<../../people/chardonians/kadmos.md>), [Casian](<../../people/chardonians/casian.md>), [Hektor](<../../people/chardonians/hektor.md>), and [Antonia](<../../people/chardonians/antonia.md>). [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>), and [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>) are magically charmed by [Kadmos](<../../people/chardonians/kadmos.md>).
 - Jul 23, 1748 DR, mid-afternoon: Confront [Kadmos](<../../people/chardonians/kadmos.md>) and company. Bitter conversation after a short battle that leaves [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) unconscious. Leave to find the wyvern's lair.
 - Jul 23, 1748 DR, evening: Approach the abandoned town of [Vandar](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>). Find wyvern's lair amid the ruins. Make camp in a partially intact temple.
 - Jul 23, 1748 DR, night: [Marcella](<../../people/chardonians/marcella.md>) attempts to steal the [Mirror of Soul Trapping](<treasure/mirror-of-soul-trapping.md>), and is caught. [Kadmos](<../../people/chardonians/kadmos.md>) and [Casian](<../../people/chardonians/casian.md>) join the attack. [Marcella](<../../people/chardonians/marcella.md>) is knocked unconscious and left for dead; bandits are killed. Fight ends in bitter stalemate. Wellby speaks secretly with Marcella.
 - Jul 23, 1748 DR, night: Flee towards the abandoned mines in the foothills as the ruined town of [Vandar](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>) begins to burn in the aftermath of the fight with [Casian](<../../people/chardonians/casian.md>), [Kadmos](<../../people/chardonians/kadmos.md>), and [Marcella](<../../people/chardonians/marcella.md>). Camp near the entrance to the old copper mines
-- Jul 23, 1748 DR, morning: Travel cautiously along [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>).
-- Jul 23, 1748 DR, early afternoon: Find a dead, disembowled horse on the road. Ambushed by two wyverns during the afternoon rains. Kill them, losing one of the bandits to the poison stinger. Approached by [Marcella](<../../people/chardonians/marcella.md>) and her Chardonian companions, seeking to purchase or trade magic items. Meet [Kadmos](<../../people/chardonians/kadmos.md>), [Casian](<../../people/chardonians/casian.md>), [Hektor](<../../people/chardonians/hektor.md>), and [Antonia](<../../people/chardonians/antonia.md>). [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>), and [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>) are magically charmed by [Kadmos](<../../people/chardonians/kadmos.md>).
 - Jul 24, 1748 DR, late morning: Wake after a long sleep. Discuss.
 - Jul 24, 1748 DR, afternoon: Return to [Vandar](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>) to scout. Encounter poison troll, and trap it in the mirror. Return to camp near mines for the evening.
 - Jul 25, 1748 DR: Travel west towards the Darba side of the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>).
@@ -568,9 +568,9 @@ title: Dunmari Frontier Timeline
 - May 10, 1749 DR, afternoon: Reach Tamaro Bay. Cure [Dorian Almare](<../../people/chardonians/dorian-almare.md>) of a oceanic curse; speak with him about [Merfolk](<../../species/unusual-species/merfolk.md>).
 - May 10, 1749 DR, evening: Sail west into the [Endless Ocean](<../../gazetteer/endless-ocean.md>).
 - May 11, 1749 DR, morning: Pass through the Sentient Ocean guarding the [Merfolk](<../../species/unusual-species/merfolk.md>) city of [Omi](<../../gazetteer/faraway-places/omi.md>). Scout the city. Find a portal to the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>). Plan how to get past the guardian.
-- May 11, 1749 DR, evening: Rescue [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>), Tilly Brineheart, and other halflings. Travel to Buruli's temple to Gazankoa.
 - May 11, 1749 DR, noon: Defeat the Herald of Gazankoa guarding the portal. Enter the [Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>). Defeat the [Merfolk](<../../species/unusual-species/merfolk.md>) guards on the far side. Find signs of [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart and their halfling crew.
 - May 11, 1749 DR, afternoon: Rest briefly on the portal platform. Follow a bioluminescent trail. Find a strange coral and rock complex encased in a bubble-like membrane. Enter; find [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and his crew.
+- May 11, 1749 DR, evening: Rescue [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>), Tilly Brineheart, and other halflings. Travel to Buruli's temple to Gazankoa.
 - May 11, 1749 DR, pre-dawn: Reach a place with no winds and strange oceans, above a portal to the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>). Part company with [Summer's Breeze](<../../things/ships/summer-s-breeze.md>) and dive underwater.
 - May 12, 1749 DR, morning: Arrive at the temple to Gazankoa. Attack Buruli, recover [Jade Piece of Rai's Hand](<treasure/jade-piece-of-rai-s-hand.md>), flee to [Vindristjarna](<../../things/ships/vindristjarna.md>).
 - May 12, 1749 DR, morning: manage logistics in Uzgukhar
@@ -609,14 +609,14 @@ title: Dunmari Frontier Timeline
 - May 21, 1749 DR, afternoon: Arrive back on [Vindristjarna](<../../things/ships/vindristjarna.md>).
 - May 21, 1749 DR, evening: Set course for [Drankor](<../../history/drankorian-era/drankor.md>), and discuss plans.
 - May 22, 1749 DR, morning: Arrive on the outskirts of [Drankor](<../../history/drankorian-era/drankor.md>). Scout in [Vindristjarna](<../../things/ships/vindristjarna.md>) Prepare to attack dopplengagers.
-- May 22, 1749 DR, afternoon: Explore the Temple of the Eight Divines, and find Apollyon's Phylactery. Make plans to destroy it. Recover tokens from four of the seven souls bound within. Suspect trouble with [Vindristjarna](<../../things/ships/vindristjarna.md>).
 - May 22, 1749 DR, morning: Teleport to the Sapphire Tower of the Teeth of Drankor. Defeat Bizarro Delwath. Engage dopplegangers, and win. Return to [Vindristjarna](<../../things/ships/vindristjarna.md>).
+- May 22, 1749 DR, afternoon: Explore the Temple of the Eight Divines, and find Apollyon's Phylactery. Make plans to destroy it. Recover tokens from four of the seven souls bound within. Suspect trouble with [Vindristjarna](<../../things/ships/vindristjarna.md>).
 - May 22, 1749 DR, evening: The party rests in the Temple of the Eight Divines in Drankor.
+- May 23, 1749 DR, morning: Leaving Wellby to guard the phylactery, the party travels to the docks, and finds The Laughing Wave, recovering tokens of Seraphina Appleblossom. In the nearby Customs House, they find a shipping manifest connected to Khemut of Targu, and a clue about Minarith.
+- May 23, 1749 DR, midday: The party returns to the Temple of the Eight Divines.
 - May 23, 1749 DR, afternoon: The party explores the University of the Blessed Waters, recovering a token associated with Minarith. Seeker teleports the party to [Philosopher's Guild](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>).
 - May 23, 1749 DR, late afternoon: The party requests information about the [Land of the Dead](<../../cosmology/land-of-the-dead.md>) from the [Philosopher's Guild](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>). [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>) speaks with [Melindir](<../../people/elves/melindir.md>). [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) and [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) find a body to use as a material component for _Plane Shift_.
 - May 23, 1749 DR, evening: The party speaks with the [Philosopher's Guild](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>), receiving information about the [Land of the Dead](<../../cosmology/land-of-the-dead.md>)
-- May 23, 1749 DR, morning: Leaving Wellby to guard the phylactery, the party travels to the docks, and finds The Laughing Wave, recovering tokens of Seraphina Appleblossom. In the nearby Customs House, they find a shipping manifest connected to Khemut of Targu, and a clue about Minarith.
-- May 23, 1749 DR, midday: The party returns to the Temple of the Eight Divines.
 - May 24, 1749 DR, morning: Riswynn uses _Plane Shift_ to bring the party to the [Land of the Dead](<../../cosmology/land-of-the-dead.md>). The party frees the souls tied to Apollyon's Phylactery, destroying it.
 - May 24, 1749 DR, late morning: Travel along the Rainbow Bridge to [Vindristjarna](<../../things/ships/vindristjarna.md>), returning to the [Material Plane](<../../cosmology/material-plane.md>). Encounter charmed crew, under a suggestion from [Fausto](<../../people/chardonians/fausto.md>). Break charm. Teleport to Temple of the Eight Divines, where [Fausto](<../../people/chardonians/fausto.md>) waits.
 - May 24, 1749 DR, midday: Fight [Fausto](<../../people/chardonians/fausto.md>) and his allies. Take the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>) and defeat Fausto. Debate morality of the crown.
@@ -631,4 +631,14 @@ title: Dunmari Frontier Timeline
 - May 30, 1749 DR, evening: Lirien arrives on [Vindristjarna](<../../things/ships/vindristjarna.md>) seeking [Cloudspinner](<../../people/extraplanar-powers/archfey/cloudspinner.md>). Meets the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>). [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>) is possessed by [Lady Eventide](<../../people/fey/lady-eventide.md>). Servants of [Wend](<../../people/extraplanar-powers/archfey/wend.md>) and [Harrow](<../../people/extraplanar-powers/archfey/harrow.md>) arrive soon after, and attack. They are defeated, but Lirien is killed.
 - May 30, 1749 DR, night: The party rests on [Vindristjarna](<../../things/ships/vindristjarna.md>)
 - May 31, 1749 DR: Travel to [Bitterwine Oak](<../../gazetteer/extraplanar/feywild/emberwine/bitterwine-oak.md>), a [Feywild](<../../cosmology/feywild.md>) portal and pass through into [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>). Meet satyrs; a barge of [fey](<../../species/extraplanar/fey.md>) on a river of wine; and a rabbit-like creature called Auntie Mullberry. Travel towards [Sunwine Hall](<../../gazetteer/extraplanar/feywild/emberwine/sunwine-hall.md>) and the court of the Master of Revels.
+- May 31, 1749 DR: Reach Sunwine Hall, meet Lord Soven, speak with guests, including Valeris, Ismara, and  Count Vashan. Delwath duels Arendel and loses.
+- Jun 01, 1749 DR - Jun 06, 1749 DR: Remain at Sunwine Hall, telling stories and making plans. [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) tames a wyvern released from the [Mirror of Soul Trapping](<treasure/mirror-of-soul-trapping.md>).
+- Jun 07, 1749 DR: Depart Sunwine Hall for the Sunset Gate
+- Jun 08, 1749 DR: Travel across Emberwine towards the Sunset Gate
+- Jun 09, 1749 DR: Travel across Emberwine towards the Sunset Gate
+- Jun 10, 1749 DR: Reach the Sunset Gate and turn north
+- Jun 11, 1749 DR: Travel north towards Amberglow, following the Sunset Gate
+- Jun 12, 1749 DR: Cross into Amberglow, avoiding cursed giants demanding blood, and continue north
+- Jun 13, 1749 DR: Encounter and defeat hunters from Duskmire. Travel north, passing a dry river, and reaching Redsun Watch, which is encased in darkness flowing like a river from the east.
+- Jun 13, 1749 DR, later: Infiltrate Redsun Watch, avoiding or defeating the minions of Harrow and Wend, and light the Cloudspinner's beacon.
 

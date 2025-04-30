@@ -122,5 +122,6 @@
 - **The Last Emperor** ([Dunmari Frontier - Session 117](<session-notes/session-117-dufr.md>), May 24, 1749 DR - May 30, 1749 DR): in which the party defeats Apollyon (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
 - **Shadows on Vindristjarna** ([Dunmari Frontier - Session 118](<session-notes/session-118-dufr.md>), May 30, 1749 DR): in which allies and enemies come for the Cloudspinner (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
 - **Journey to Emberwine** ([Dunmari Frontier - Session 119](<session-notes/session-119-dufr.md>), May 30, 1749 DR - May 31, 1749 DR): in which the party enters the Feywild (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
-- Session 120 ([Dunmari Frontier - Session 120](<session-notes/session-120-dufr.md>))
-- Session 121 ([Dunmari Frontier - Session 121](<session-notes/session-121-dufr.md>))
+- **The Revel in Emberwine** ([Dunmari Frontier - Session 120](<session-notes/session-120-dufr.md>), May 31, 1749 DR - Jun 07, 1749 DR): in which the party mingles at Sunwine Hall (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
+- **Clash Along the Sunset Gate** ([Dunmari Frontier - Session 121](<session-notes/session-121-dufr.md>), Jun 08, 1749 DR - Jun 13, 1749 DR): in which the party faces wolf riders (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
+- **Shadows Beneath Redsun Watch** ([Dunmari Frontier - Session 122](<session-notes/session-122-dufr.md>), Jun 13, 1749 DR): in which the party banishes ancient darkness (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)

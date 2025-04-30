@@ -12,7 +12,7 @@ title: Artevus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 850  
-    :octicons-location-24:{ .lg .middle } A town in [Portalia](<./portalia.md>), [Chardonian Empire](<../chardonian-empire.md>)  
+    :octicons-location-24:{ .lg .middle } A town in [Portalia](<./portalia.md>), the [Chardonian Empire](<../chardonian-empire.md>), [Greater Chardon](<../../greater-chardon.md>)  
 </div>
 
 

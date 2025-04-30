@@ -12,7 +12,7 @@ title: Scrollwright Street
 ---
 # Scrollwright Street
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A street [Tollen](<./tollen.md>)  
+-    :octicons-location-24:{ .lg .middle } A street in the [Free City of Tollen](<./tollen.md>), the Western Green Sea Region  
 </div>
 
 

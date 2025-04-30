@@ -15,6 +15,7 @@ title: Dunmari Frontier - Session 119
 
 >[!info] Journey to Emberwine: in which the party enters the Feywild
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+> *In the Feywild: Late Afternoon*
 > *In Taelgar: May 30, 1749 DR to May 31, 1749 DR*
 > *On Earth: Friday Feb 14, 2025*
 > *Emberwine, Feywild*
