@@ -15,7 +15,7 @@ title: Dunmari Frontier - Session 122
 
 >[!info] Shadows Beneath Redsun Watch: in which the party banishes ancient darkness
 > *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In the Feywild: Late Afternoon*
+> *In the Feywild: Evening*
 > *In Taelgar: June 13, 1749 DR*
 > *On Earth: Thursday Apr 03, 2025*
 > *Location: Redsun Watch and its underground vaults, Feywild*

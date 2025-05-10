@@ -693,13 +693,17 @@
             - [Shakun Mystai](groups/dunmari-mystery-cults/shakun-mystai.md)
             - [Sonkar Mystai](groups/dunmari-mystery-cults/sonkar-mystai.md)
         - Dwarven Clans
+            - [Boulderbeards](groups/dwarven-clans/boulderbeards.md)
             - [Ferrystones](groups/dwarven-clans/ferrystones.md)
             - [Gemcrafters](groups/dwarven-clans/gemcrafters.md)
             - [Hardstones](groups/dwarven-clans/hardstones.md)
             - [Redpeaks](groups/dwarven-clans/redpeaks.md)
+            - [Shockstones](groups/dwarven-clans/shockstones.md)
             - [Silverspark Clan](groups/dwarven-clans/silversparks.md)
         - Dwarven Thuhr
+            - [Priest Thuhr](groups/dwarven-thuhr/priest-thuhr.md)
             - [Runecrafter Thuhr](groups/dwarven-thuhr/runecrafter-thuhr.md)
+            - [Stoneworker Thuhr](groups/dwarven-thuhr/stoneworker-thuhr.md)
         - Halfling Families
             - [Charmhearts](groups/halfling-families/charmhearts.md)
             - [Copperharps](groups/halfling-families/copperharps.md)

@@ -124,9 +124,9 @@ title: Dunmari Frontier Timeline
 - May 12, 1748 DR, mid-morning: Flee south, hoping confuse anyone tracking them in the desert.
 - May 12, 1748 DR, afternoon: Turn west. Camp for the night.
 - May 12, 1748 DR: Drikod arrives in Karawa.
-- May 13, 1748 DR, noon: Spotted by [orcs](<../../species/orcs.md>) while trying to sneak back to shelter of the Samraat Tombs canyon. Orcs give chase. Ride fast for [Havdar](<../../people/dunmari/havdar.md>)'s camp.
 - May 13, 1748 DR, morning: Depart camp heading north and east, back towards Kharsan.
 - May 13, 1748 DR, late morning: Arrive at road and canyon of the Samraat Tombs. Hide horses and gear. [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>) scouts [Kharsan](<../../gazetteer/greater-dunmar/dunmari-basin/kharsan.md>) while invisible; [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>) spies with clairvoyance on [Grash](<../../people/other-nonhumans/grash.md>).
+- May 13, 1748 DR, noon: Spotted by [orcs](<../../species/orcs.md>) while trying to sneak back to shelter of the Samraat Tombs canyon. Orcs give chase. Ride fast for [Havdar](<../../people/dunmari/havdar.md>)'s camp.
 - May 14, 1748 DR: Travel all day towards [Havdar](<../../people/dunmari/havdar.md>)'s camp.
 - May 14, 1748 DR, night: Attacked by shadow trackers, presumably sent by Grash.
 - May 15, 1748 DR: Travel towards Havdar's camp
@@ -154,10 +154,10 @@ title: Dunmari Frontier Timeline
 - Jun 01, 1748 DR, afternoon: Speak with a grateful [Candrosa](<../../people/dunmari/candrosa.md>). Talk to [Tharandros](<../../people/other-nonhumans/tharandros.md>) and receive gifts. Talk to [Havdar](<../../people/dunmari/havdar.md>), learning recent news of Karawa.
 - Jun 02, 1748 DR: Travel from Karawa towards Bas Udda.
 - Jun 03, 1748 DR: Arrive in Bas Udda. Spend the night.
-- Jun 04, 1748 DR, night: Attacked by [orcs](<../../species/orcs.md>), seemingly associated with [Agata](<../../people/fey/agata.md>), looking to recover gold and treasure. [Orcs](<../../species/orcs.md>) are driven off, but manage to escape with some treasure.
 - Jun 04, 1748 DR, morning: Leave Bas Udda heading south, looking for [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>).
 - Jun 04, 1748 DR, midday: Loot [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>).
 - Jun 04, 1748 DR, evening: Retreat mile or so north for the night. Camp.
+- Jun 04, 1748 DR, night: Attacked by [orcs](<../../species/orcs.md>), seemingly associated with [Agata](<../../people/fey/agata.md>), looking to recover gold and treasure. [Orcs](<../../species/orcs.md>) are driven off, but manage to escape with some treasure.
 - Jun 05, 1748 DR, morning: Travel north to [Bas Udda](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>)
 - Jun 05, 1748 DR, afternoon: Hide some treasure from [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>) in [Bas Udda](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>). Free [Agata](<../../people/fey/agata.md>)'s prisoners imprisoned in living wood.
 - Jun 06, 1748 DR: Depart [Bas Udda](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) for [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Destroy a few particularly evil magic items from [Agata](<../../people/fey/agata.md>) before crossing [Shakun's Protection](<../../gods-and-religions/religions/five-siblings/shakun-s-protection.md>).
@@ -641,4 +641,6 @@ title: Dunmari Frontier Timeline
 - Jun 12, 1749 DR: Cross into Amberglow, avoiding cursed giants demanding blood, and continue north
 - Jun 13, 1749 DR: Encounter and defeat hunters from Duskmire. Travel north, passing a dry river, and reaching Redsun Watch, which is encased in darkness flowing like a river from the east.
 - Jun 13, 1749 DR, later: Infiltrate Redsun Watch, avoiding or defeating the minions of Harrow and Wend, and light the Cloudspinner's beacon.
+- Jun 13, 1749 DR, night: Flee [Redsun Watch](<../../gazetteer/extraplanar/feywild/amberglow/redsun-watch.md>) seeking the [Prismwell](<../../gazetteer/extraplanar/feywild/amberglow/prismwell.md>), chased by shadow beasts from [Hollowdark](<../../gazetteer/extraplanar/feywild/hollowdark.md>). Enter [Prismwell](<../../gazetteer/extraplanar/feywild/amberglow/prismwell.md>). Free [Cloudspinner](<../../people/extraplanar-powers/archfey/cloudspinner.md>).
+- Jun 14, 1749 DR, morning: Rainbow Bridge to [Vindristjarna](<../../things/ships/vindristjarna.md>); arrive over [Pava and Avaras' House](<../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>).
 

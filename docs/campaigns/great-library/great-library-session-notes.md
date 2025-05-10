@@ -1,28 +1,42 @@
 ---
+headerVersion: 2023.11.25
 tags: [session-note]
-title: Great Library Session Notes
+name: The Chronicles of the Silver Tempests
+title: The Chronicles of the Silver Tempests
 ---
-
 # The Chronicles of the Silver Tempests
 
 Herein lies the chronicles of the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>), from their humble roots as hired adventurers for the [Great Library](<../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>), to their current fame.
 ## Adventure 0: Die Froggies Die
 
-Samso and Adrik meet on the road to Chardon, both seeking adventure. Finding a dead horse, they chase some bullywugs into a swamp and recover a message bag from a messenger.
+[Samso](<../../people/pcs/silver-tempests/samso.md>) and [Adrik](<../../people/pcs/silver-tempests/adrik.md>) meet on the road to [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), both seeking adventure. Finding a dead horse, they chase some [bullywugs](<../../species/unusual-species/bullywugs.md>) into a swamp and recover a message bag from a messenger.
+### Events
+
+- Feb 16, 1747 DR: [Samso](<../../people/pcs/silver-tempests/samso.md>) and [Adrik](<../../people/pcs/silver-tempests/adrik.md>) meet on the road south of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and retrieve a lost messenger bag from a messenger killed by [bullywugs](<../../species/unusual-species/bullywugs.md>). 
 
 ## Adventure 1: The Flamekeeper Scroll
 ### Session 1
 
-Our adventure starts on the road: Brelith the Dwarven Cleric, Adrik the Dwarven Barbarian, Samso the Lizardfolk Druid, and Alton the Halfling Rogue have traveled north towards Voltara to meet Archivist Lyra, in the service of the Great Library. On the road goblins of the Red Knife tribe attack; they slay two and let the other two live, after learning that hobgoblins and goblins live in this area. The goblins are told to flee and not attack them again.
+Our adventure starts on the road: [Brelith](<../../people/pcs/silver-tempests/brelith.md>), [Adrik](<../../people/pcs/silver-tempests/adrik.md>) , [Samso](<../../people/pcs/silver-tempests/samso.md>), and [Alton](<../../people/pcs/silver-tempests/alton.md>) have traveled north towards [Voltara](<../../gazetteer/northwest-coast/voltara.md>) to meet Archivist [Lyra](<../../people/chardonians/lyra.md>), in the service of the [Great Library](<../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>). On the road goblins of the Red Knife tribe attack; they slay two and let the other two live, after learning that hobgoblins and goblins live in this area. The goblins are told to flee and not attack them again.
 
-In Lyra’s camp, the party learns their mission: search for the scrolls of elemental power. The location of the Flamekeeper Scroll and the Stonemaster Scroll are known, while the location of the Skyborn Scroll and the Deepwater Scroll are not. 
+In [Lyra](<../../people/chardonians/lyra.md>)’s camp, the party learns their mission: search for the scrolls of elemental power. The location of the Flamekeeper Scroll and the Stonemaster Scroll are known, while the location of the Skyborn Scroll and the Deepwater Scroll are not. 
 
-Our heroes decide to head to the Forge of Fire, an ancient Dwarven mine where the Flamekeeper Scroll is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some kobolds and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the kobolds. 
+Our heroes decide to head to the Forge of Fire, a part of an ancient Dwarven mine complex that once extended through much of the [Fiamatara Mountains](<../../gazetteer/northwest-coast/fiamatara-mountains.md>), where the Flamekeeper Scroll is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some kobolds and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the kobolds. 
+
+### Events
+
+- Apr 04, 1747 DR: Samso, Brelith, Adrik, and Alton are attacked by goblins on the road to Voltara, and then meet Archivist Lyra at her camp. 
+- Apr 05, 1747 DR: Samso, Brelith, Adrik, and Alton find the Forge of Fire and recover the Flamekeeper Scroll from a kobold tribe.  
 
 ## Aventure 2: The Stonemaster Scroll
 ### Session 2
 
 Samo and Adrik meet another member of the Great Library adventurers’ team, Aglath the Goliath Fighter, at the Purple Pig Inn in Voltara. With the map from Archivist Lyra, they set forth to find the Stonemaster Scroll. Traveling north across the plains, they encounter a few orcs before arriving at the cave where the scroll is hidden. After defeating some puzzled orc guards, a cursed swarm of tiny orcs, and a magically shrunken hill giant, they find the scroll is a large stone chest. Samso recovers a shrunken black bear which he names Friend.
+
+- Apr 08, 1747 DR: Samso, Brelith, and Adrik arrive in Voltara. 
+- Apr 15, 1747 DR: Samso and Adrik meet the stoneborn Aglath at the Purple Pig in Voltara, and depart to seek the Stonemaster Scroll. 
+- Apr 17, 1747 DR: Samso, Adrik, and Aglath arrive at the Crystal Cavern, where the Stonemaster Scroll is hidden, after passing through orc territory. Retrieve the scroll and befriend the miniature shrunken black bear, named Friend. 
+- Apr 19, 1747 DR: Samso, Adrik, and Aglath arrive back in Voltara. 
 
 ## Adventure 3: Letters from the Abby
 ### Session 3
@@ -30,10 +44,20 @@ Samo and Adrik meet another member of the Great Library adventurers’ team, Agl
 Adrik, Samso, Aglath, and Brelith meet two new recruits for the Great Library team: Aelar the Elven Monk, and Scordith the Human Sorcerer. The party is sent to explore the Pietravola Abby, looking for any clues or letters from Airion Mistspeaker that might hint at where the next two scrolls are hidden. 
 
 In the Abby, the party encounters ghouls and zombies, and the talkative ghost of the former Abbess, who directs them to the underground crypt. There, they recover notes and letters that may hold a clue to the location of the Deepwater Scroll, as well as some treasure for themselves. 
+
+### Events
+
+- Apr 26, 1747 DR: Samso, Adrik, Aglath, and Brelith meet Aelar and Scordith at the Purple Pig, and go to find letters of Airion the Mistspeaker at the now-haunted Pietovolta Abbey, outside Voltara. Succeed in recovering notes for Archivist Lyra to study. 
 ## Adventure 4: The Deepwater Scroll
 ### Session 4
 
 Adrik, Samso, Brelith, and Aelar set out from the Purple Pig, armed with the location of the Deepwater Scroll, deciphered from the notes they found in the Pietravola Abby. The Drowned Tower, a place where the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) is close to the Material Plane, is their destination. After several days of travel across the plains, the party reaches the tower, where the swimming ability of Samso comes in handy. After battling blights outside the tower and making their way through the flooded, diseased tower, the party finds and cures an awakened tree, and the defeats a cursed water weird living in the corrupted fountain at the top of the tower. After removing the corruption from the water, they recover the scroll and other treasure from its hiding place, anchored in the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) with an immovable rod.
+
+### Events
+
+- May 03, 1747 DR: Adrik, Samso, Brelith, and Aelar leave the Purple Pig to search for the Deepwater Scroll. 
+- May 05, 1747 DR: Adrik, Samso, Brelith, and Aelar arrive at the Drowned tower, and find the Deepwater Scroll. 
+- May 07, 1747 DR: Adrik, Samso, Brelith, and Aelar return to Voltara. 
 
 ## Adventure 5: The Dwarven Forge
 ### Session 5
@@ -44,14 +68,36 @@ Adrik, Samso, Aglath, Aelar, and Brelith, hanging out at the Purple Pig, fend of
 
 While Brelith and Aglath return to town, Samso, Adrik, and Aelar head back to the mine to explore. At the entrance to the mine, they meet Oskar, a Dwarven Ranger, and Stoneclaw, his hyena companion. Continuing into the mines, they defeat a carrion crawler, subdue a giant subterranean lizard, manage to disable the haunted statue that is stirring up the local monster population, and find some Dwarven treasure (Thunderbrand and Coldguard). On the way back, some exploration turns up a small amount of mithril, which Aelar keeps. 
 
+### Events
+
+
+- May 29, 1747 DR: Wolves driven mad by some magic attack Voltara, and are defeated by Adrik, Samso, Aglath, and Brelith. 
+- May 30, 1747 DR: Adrik, Samso, Aglath, Aelar, and Brelith meet Quintus Percomia, a caravan master and chalyte trader. They learn about some centaurs to the south in trouble, but decide to head west to find the source of the wolf attacks. 
+- Jun 01, 1747 DR: Adrik, Samso, Aglath, Aelar, and Brelith arrive at the entrance to the Deepriver clan dwarf mine in Goldpeak mountain. They enter, fight some battles, and retreat. 
+- Jun 02, 1747 DR: Brelith and Aglath return to town. Samso, Adrik, and Aelar head back to the mine, where they meet Oskar and clear the mine of the magic that was causing trouble. 
+- Jun 04, 1747 DR: Samso, Adrik, and Aelar return to Voltara. 
+
 ## Adventure 6: The Cursed Tomb
 ### Session 7
 
 Back in town, Adrik, Samso, Aglath, and Brelith, joined by Scordith, visit again with Quintus, where Aglath apologizes for his rude behavior before and the party learns more about the problems the centaurs are having. Apparently, the local water supply has been poisoned by a curse. The party heads south to investigate. After surviving oozes raining from the sky, and a wild boar charge, they meet the centaurs and head to investigate the cursed lake. There, they find the tomb of Xameia the Forsworn, a paladin of the Order of Twilight, sacred to the Night Queen, who forsook her oath out of a desire for greed and was cursed. She cannot rest until the temple of her order is restored to atone for her mistakes. The party agrees to take on this challenge, and Xameia subsides, freeing the lake of her influence for 30 days. After being rewarded by the centaurs, the party heads back to Voltara.
+
+### Events
+
+- Jun 06, 1747 DR: Samso, Adrik, Brelith, Scordith, and Aglath visit Quintus and learn of the problems of the centaurs to the south. 
+- Jun 08, 1747 DR: Samso, Adrik, Brelith, Scordith, and Aglath arrive at the centaur camp and deal with the poisoned water by placating Xameia the Forsworn, a paladin of the Order of Twilight who broke her oath. They promise to restore the temple of her order in 30 days. 
+- Jun 09, 1747 DR: Scordith returns to Voltara while the others rest in the centaur camp, and is never seen from again. 
 ## Adventure 7: Orcs at the Lonely Watchtower
 ### Session 8
 
 Returning from the centaur camp, Adrik, Samso, Brelith, and Aglath are attacked on the road by bandits, where they are joined by Oskar. The bandits are desperate for treasure to pay off demands of tribute from orc raiders, but quickly surrender when it is clear they are overmatched. After gathering some information, the party heads to the Lonely Watchtower, the raiding base of this group of orcs. There, the party makes their way through the tangleweed around the tower, defeats the orc guards, and ultimately kill Raluhk the Orog, the leader of this raiding band. Exploring the rest of the outpost, they rescue Ralvaz, a mine captain working north of Voltara who reports orc raids on numerous caravans bringing treasure from the mines to Voltara. The party then returns to Voltara with this news.
+
+### Events
+
+
+- Jun 10, 1747 DR: On the road back to Voltara, Adrik, Samso, Brelith, and Aglath are attacked by bandits, and are joined by Oskar. Subdue the bandits, and learn they need money to pay off [Orcs](<../../species/orcs.md>) raiding from the Lonely Watchtower. 
+- Jun 11, 1747 DR: Adrik, Samso, Brelith, Aglath, and Oskar arrive at the Lonely Watchtower and destroy some [Orcs](<../../species/orcs.md>), including the chief Raluhk the Orog. Rescue Ralvaz, a mine captain who reports many [orc](<../../species/orcs.md>) raids. 
+- Jun 14, 1747 DR: Adrik, Samso, Brelith, and Aglath return to Voltara with news about the [orc](<../../species/orcs.md>) raids.  
 
 ## Adventure 8: Iara’s Plea
 ### Session 9
@@ -62,10 +108,16 @@ After returning to Voltara from the orc’s camp in a ruined watchtower, Samso i
 
 After defeating the shadow lizardfolk leader, although no closer to understanding the cause of this disturbance, Adrik, Aelar, Brelith, and Samso return to Voltara. On the road, they are stopped by bugbears, who demand payment to continue. Refusing, the party attacks and defeats the bugbears, finding orders from Grumella the Vengeful of the Moon Skull clan demanding the capture for ransom of all travelers from the west.
 
+### Events
+
+- Jun 22, 1747 DR: Samso is approached by Iara, a lizardfolk woman, seeking aid for her village. The party agrees to help, and Samso, Brelith, Aelar, and Adrik set out from Voltara. 
+- Jun 26, 1747 DR: Samso, Brelith, Aelar, and Adrik find an abandoned lizardfolk village, and are attacked by evil shadow lizardfolk. Find, confront and kill the leader of these creatures. 
+- Jun 27, 1747 DR: On the road back to Voltara, party kills bugbear raiders and finds a letter from [Grumella](<../../people/orcs/grumella.md>) the Vengeful demanding all travelers from the west be captured and ransomed.  
+
 ## Adventure 9: The Lost Temple of the Order of Twilight
 ### Session 11
 
-Returning to Voltara with news of kidnappings of messagers from Chardon, the Brelith, Aelar, Adrik, and Samso decide to tackle their promise to Xameia to restore the desecrated temple of the Order of Twilight. Brelith finds information about the probable location of this temple in the library in Voltara, and the party sets off into the wilderness in search of the ruins. Making their way into the hills southwest of Voltara, the party is ambushed at night by a large group of small, vicious humanoids with blue skin and giant rat pets, who try to grapple and drag them off. After driving these attackers off, the party regroups and continues towards the temple.
+Returning to Voltara with news of kidnappings of messagers from Chardon,  Brelith, Aelar, Adrik, and Samso decide to tackle their promise to Xameia to restore the desecrated temple of the Order of Twilight. Brelith finds information about the probable location of this temple in the library in Voltara, and the party sets off into the wilderness in search of the ruins. Making their way into the hills southwest of Voltara, the party is ambushed at night by a large group of small, vicious humanoids with blue skin and giant rat pets, who try to grapple and drag them off. After driving these attackers off, the party regroups and continues towards the temple.
 
 ### Session 12  
 
@@ -83,11 +135,30 @@ Back in Voltara,  Brelith, Aelar, Adrik, and Samso attempt to find someone who 
 
 Continuing to defend the temple, in the middle of the night the remnants of the Xvart tribe, allies and servants of the demons, attack from the hidden entrance to the crypt. After they are defeated, as dawn approaches and the spell is nearly complete, a large, four-armed, clawed demon, a Glabrezu, steps from the portal and heads for Galius. The party is able to defeat it, however, and the spell is complete. As the portal closes, and the curse is lifted from the temple, Xameia can finally rest. In thanks for their efforts, an avatar of the Night Queen herself appears, and offers each member of the party a boon. 
 
+### Events
+
+
+- Jun 29, 1747 DR: Samso, Brelith, Aelar, and Adrik return to Voltara with news of the kidnappings. 
+- Jun 30, 1747 DR: Brelith finds information about the location of the ruined Temple of the Order of Twilight and the party leaves to fulfill their promise to Xameia.  
+- Jul 01, 1747 DR: Brelith, Aelar, Adrik, and Samso are ambushed in the hills on the way to the temple.  
+- Jul 02, 1747 DR: The party arrives at the temple and fights demons, and realize they need powerful magic to cleanse the Abyssal portal at this temple. 
+- Jul 04, 1747 DR: The party arrives back in Voltara and convinces a priest, Galius Filuso, to come with them to help end the Abyssal curse on the temple. 
+- Jul 06, 1747 DR: The party arrives at the temple and defends Galius for 24 hours while he casts Hallow to end the Abyssal corruption and close the portal. 
+- Jul 07, 1747 DR: The portal is closed and an avatar of the Night Queen appears to reward the party.  
+
 ## Adventure 10: The Messenger and the Kobolds
 
 ### Session 16
 
-Returning from the success of restoring the Temple of the Order of Twilight, the Adrik, Brelith, Aelar, and Samso are invited to meet the proconsul, the governor of Voltara, and given permission to enter the walled city itself. After this meeting, they receive word a messenger has gone missing, and head out on a mission from Archivist Lyra to ransom the messenger from kobolds. While they are able to ransom the messenger, Amus, they realize that he does not have the map they need to locate the scroll: it has been taken by the kobolds. Leaving Amus in a well-hidden camp, the party deduces that the kobolds may try to get the map to Grumella. Searching for hidden exits from the lair, they find several, and set a careful ambush. With some clever planning, the ambush is a success and the scroll is recovered, after which the party returns to their camp to rest and plot their next move. 
+Returning from the success of restoring the Temple of the Order of Twilight, Adrik, Brelith, Aelar, and Samso are invited to meet the proconsul, the governor of Voltara, and given permission to enter the walled city itself. After this meeting, they receive word a messenger has gone missing, and head out on a mission from Archivist Lyra to ransom the messenger from kobolds. While they are able to ransom the messenger, Amus, they realize that he does not have the map they need to locate the scroll: it has been taken by the kobolds. Leaving Amus in a well-hidden camp, the party deduces that the kobolds may try to get the map to Grumella. Searching for hidden exits from the lair, they find several, and set a careful ambush. With some clever planning, the ambush is a success and the scroll is recovered, after which the party returns to their camp to rest and plot their next move. 
+
+### Events
+
+
+- Jul 08, 1747 DR: The party arrives back in Voltara. 
+- Jul 09, 1747 DR: The party meets the Proconsul, and Archivist Lyra tells them a messenger is missing. 
+- Jul 10, 1747 DR: Adrik, Brelith, Aelar, and Samso random the messenger from the kobolds, but not the map they need to find the last scroll, the Skyborn Scroll.  
+- Jul 11, 1747 DR: The party, with Aglath, ambushes the kobolds and retrieves the map to the Skyborn scroll. 
 
 ## Adventure 11: The Skyborn Scroll
 ### Session 17
@@ -142,13 +213,30 @@ They begin battling the orcs, and the fight is going well until they knock out t
 
 ### Session 29 
 
-After a brief interrogation with the orc leader, Aglath kills him after he taunts them and refuses to talk, then they find a place to rest. Experimenting with magic items from the tower leads to empowering Thunderbrand and summoning a roc bound to Adrick. They head back to Voltara on roc back and are attacked by wyverns but fight them off. They arrive in Chardon as heroes, and deliver the scroll to impressed Archivist Lyra after questioning her about the library’s responsibility with such a powerful artifact. They then get a break and several weeks of downtime to do what they please.
+After a brief interrogation with the orc leader, Aglath kills him after he taunts them and refuses to talk, then they find a place to rest. Experimenting with magic items from the tower leads to empowering Thunderbrand and summoning a roc bound to Adrick. They head back to Voltara on roc back and are attacked by wyverns but fight them off. They arrive in Voltara as heroes, and deliver the scroll to impressed Archivist Lyra after questioning her about the library’s responsibility with such a powerful artifact. They then get a break and several weeks of downtime to do what they please.
+
+### Events
+
+
+- Jul 12, 1747 DR: The party decides to immediately head north to find the Skyborn scoll, leaving Voltara in a hurry.  
+- Jul 15, 1747 DR: On the plains north of Voltara, heading for the rumored location of the Skyborn Scroll, the party is attacked and nearly killed by a hobgoblin patrol from the mountains. 
+- Jul 16, 1747 DR: The party encounters Oskar on the plains, who joins them for a time. 
+- Jul 19, 1747 DR: The party finds Blacksilver Peak and begin the ascend. Part way up, they fight a frost giant who hates dwarves, and bargain with a giant eagle for passage down a cliff to the old Dwarven Road. 
+- Jul 20, 1747 DR: After defeating a group of basilisks, the party arrives at the entrance to the old Dwarven mines, and kills the trolls that now occupy it. They begin the ascent up the long stairs to the summit of the mountain. 
+- Jul 21, 1747 DR: After resting on the stairs, the party emerges into a ruined Dwarven waystation, finding the exit after some shenanigans and defeating some sword wraiths. 
+- Jul 22, 1747 DR: The party meets Dinia, and deals with her yeti problem. 
+- Jul 23, 1747 DR: Aglath, Adrik, Samso, Brelith, and Aelar cross a glacier to find Airion the Mistspeaker's floating tower. After crossing an ice bridge, defeating the guardians, figuring out the door puzzle, and freeing the djinni Mehrangeesa of Sulmana, the party finally meets Airion Mistspeaker and finds the air scroll. However, Airion turns out to be an illusion created by another wizard Zadkai, who takes the scroll. The party manages to retrieve the scroll in battle, but  Zadkai gets away. The party rests for the night in the tower. 
+- Jul 24, 1747 DR: After crossing the glacier and dealing with wolves, the party reaches Dinia's and spends the night. 
+- Jul 25, 1747 DR: The party heads down Blackwater Peak, and encounters an [orc](<../../species/orcs.md>) patrol coming to find the Skyborn Scroll for [Grumella](<../../people/orcs/grumella.md>). The [Orcs](<../../species/orcs.md>) are defeated after a tough fight, although one gets away. 
+- Jul 26, 1747 DR: Experimenting with magic items from the tower, Adrik summons a roc, who flies the party back to Voltara. Defeat a pack of wyverns from roc-back. 
+- Jul 28, 1747 DR: The party returns to Voltara triumphant on the back of a giant roc. 
+
 ## Adventure 12: Prepare for War!
 ### Session 30
 
 As they split up, Aglath and Adrick head to the pit fighting rings. Outside the Walled City, they dominate, but inside it, they face the fiercest competition they’ve seen. Aelar goes to find poisons for his ever growing collection, buying serpent poison and crawler mucus on the Black Market, and acquiring wyvern venom from the local alchemist.  Samso goes to the lizardfolk village for lilypad cakes and clues. He then returns to study in the library and concludes that his family’s disappearance and the shadow lizards are connected to the Shadowfell. Brelith scribes spell scrolls and receives a kind letter from his proud noble parents. As they meet up again in their new inn, the proconsul reveals that Grumella is threatening to destroy Voltara if they don’t turn in the adventurers. After much beard stroking and wise ribbits, they refuse and prepare for siege. Brelith sends messages to his mom, who agrees to send a small dwarven military force, the djinn, who refuses to fight but agrees to send help in another way when they call on him, and the roc agrees to help if they do him a favor, and they decide to help him soon. They then leave to recruit the centaurs, and begin to march across the open plain.
 
-  ### Session 31
+### Session 31
 
 At night, the party is attacked by some kind of shadow creature while Samso is on watch. Although it is a tough battle, they win, and the shadow creature fades, but not before threatening Samso, saying, “stop asking questions, you fool!” The rest of the trip to the centaurs passes uneventfully, and at the centaur camp they speak with Herasto, the leader. After some convincing Herasto agrees to fight, but needs safe hunting grounds for his herd, and food for the winter,, if the warriors are going to fight. He suggests that if the party were to kill the manticores that are lairing in a nearby river valley, that would be a perfect place for his herd to spend the winter in safety. That evening, the party speaks with Theopheia, Herasto’s wife, who promises that should they succeed she may be able to help them reach their next destination with great speed. Setting out in the morning for the manticore valley, the party encounters a patrol of manticores that shower them with spikes. Despite a tough battle, they eventually prevail and prevent the manticores from reaching the lair with news of an attack. 
 
@@ -160,6 +248,14 @@ After resting in the mountains, they follow an orc trail to the manticore hideou
 
 The party followed the sound and found two ragged villagers caged and being attacked by ravenous young manticores. Despite Samso’s intervention, Adrick and Aelar easily disposed of the small beasts, and they freed the imprisoned shepherds. With the rescues in tow, they went deeper into the caves, finding several druidic spell scrolls, a magic snake circlet (which fit awkwardly on Samso), a mysterious potion, and lots of coins. With the new treasure they left the caves, but ran into an orc patrol, bringing prisoners to the (now-dead) manticores. They fight them off, with Aglath swinging through orcs like jelly, Brelith striking down attackers and saving the prisoners, Aelar chasing down war wolves with supernatural speed, Adrick going one on one with a orcish mage-warrior, and Samso finally used heat metal, with less than spectacular results, before transforming and dueling down a dire wolf. They freed the prisoners, and returned to the centaurs with the good news. The session ended as they set off to fulfill their deal with the roc and return his egg in exchange for his help.
 
+### Events
+
+- Sep 15, 1747 DR: Aglath, Adrik, Samso, Brelith, and Aelar are summoned by the proconsul of Voltara, who informs them [Grumella](<../../people/orcs/grumella.md>) has demanded their surrender or the city will be attacked. The party agrees to organize a defense. 
+- Sep 16, 1747 DR: The party contacts allies, and leaves for the centaur camp to the south. They defeat a shadow hunter who threatens Samso that night. 
+- Sep 17, 1747 DR: Arrive at centaur camp. Learn about manticore troubles. Rest. 
+- Sep 18, 1747 DR: Travel to manticore lair. Fight manticores on the plains, then find and defeat lair. Free prisoners. 
+- Sep 19, 1747 DR: Return to centaur camp. Rest and prepare for next journey. 
+
 ## Adventure 13: Roc and Roll
 ### Session 34
 
@@ -168,6 +264,13 @@ Aided by a spell scroll given to them by Theopheia, the party sets off for the m
 ### Session 35
 
 Exploring the crystal chamber, the party destroys the pulsing stone, collapsing the portal to the Elemental Plane of Earth. They then search for the roc egg, finding it in a chamber north of the purple stone chamber. Turning to leave, they encounter mephits and earth elementals in the passageway to the surface who attempt to steal the egg and flee. Despite a few close moments they are killed and driven off without damage to the egg itself. As the party emerges from the caves, the rocs fly down to reclaim the egg, and leave the party with a feather of thanks, allowing them to summon the roc at need, once only.
+
+### Events
+
+
+- Sep 20, 1747 DR: Use scroll of wind walking from centaurs to travel north to the roc's territory. Spend the evening and learn they need to rescue a roc egg to get the roc's aid in battle. The rocs direct them to a nearby kobold lair for clues. 
+- Sep 21, 1747 DR: Party speaks with kobolds and bribes them for information. 
+- Sep 22, 1747 DR: Kobolds lead party to an earth elemental lair, and flee. Party fights guards, then explores lair, defeats dao, and emerges at dawn with the egg, which is gathered by the rocs. Party then spends the day making a boat to return to Voltara quickly, having been promised the roc's aid in battle. 
 ## Adventure 14: Death to Grumella!
 ### Session 36
 
@@ -180,6 +283,15 @@ The morning the orc armies arrive, the plan is launched. Merangeesha, the djinni
 The roc takes the party to Grumella’s command center, where they attack her and her guards and lieutenants. Although many guards die quickly, Grumella herself seems resistance to death and each time she falls, she rises again, until in the end a lightning strike from Samso’s storm, miraculously maintained through many hits during the battle, and boosted by the djinn’s winds and thunder, brings her down permanently. 
 
 After the battle, the party celebrates in Voltara, and is promised rewards and fame. As the dwarves and centaurs return to home, they learn that Brelith’s homeland has been suffering from dangers on its southern border, and they decide to go investigate next.
+
+### Events
+
+
+- Sep 28, 1747 DR: Arrive in Voltara after sailing downriver in makeshift boat. War council. Leave to scout. 
+- Sep 30, 1747 DR: Party buffs Aelar to scout the [orc](<../../species/orcs.md>) war camp. 
+- Oct 01, 1747 DR: Party returns to Voltara with information and prepares for war. 
+- Oct 03, 1747 DR: Dwarven and centaur troops arrive in Voltara. Chardonian legions are still weeks away. 
+- Oct 06, 1747 DR: The Battle of Voltara, also know as the Battle of Lightning's Wrath. Adrik, Aelar, Aglath, Samso, and Brelith gather allies, defend the city from hill giants trying to breach the gates, and finally kill [Grumella](<../../people/orcs/grumella.md>). 
 
 ## Adventure 15: Meeting the Parents (Brelith Edition)
 ### Session 38
@@ -197,6 +309,20 @@ The party heads north where they encounter a spider ambush. Despite the webs and
 ### Session 41
 
 The party engages in battle with the giant spider in her lair. Shortly into the battle, with Aelar wounded, Samso turns him into a giant ape, and Brelith creates a massive stone club for him to use. The giant ape makes quick work of the spider queen. As the battle ends, Samso notices claw marks and acid burns on the dead spider. After leaving the spider lair, the party returns to the Northerner village, where they participate in the pig wrestling games (involving grappling your opponent while riding a large pig, to see who gets knocked off first). The next morning they travel south with a scout to lead them to the entrance to the dwarven kingdoms. Along the way, they stop to investigate some elven ruins and are almost killed by banshees. The session ends as they arrive at the gates. 
+
+### Events
+
+
+- Nov 10, 1747 DR: Aglath, Adrik, Aelar, Brelith, and Samso leave Voltara to head east to investigate what is happening in Brelith's homeland, after a month of rest, trusting their new manor to a well paid steward. 
+- Nov 15, 1747 DR: Party crosses the Alimas river at a small Chardonian fort, entering the frontier. 
+- Nov 16, 1747 DR: Party attacked by remnant of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), and defeats them. Ambushed that night by survivors, but they are also defeated. 
+- Nov 18, 1747 DR: Party passes Chardonian garrison camp and gives them information about the [orc](<../../species/orcs.md>) attack. 
+- Nov 21, 1747 DR: Party passes south of Chardonian fort and leaves the Chardonian Empire. Meet Deno'qai and go to their village. Agree to deal with spider threat in exchange for scouts leading them safely through the woods to the Dwarven kingdom. 
+- Nov 22, 1747 DR: Travel to spider lair. Defeat spider queen, who has acid scars on her body. 
+- Nov 23, 1747 DR: Return to Deno'qai village. 
+- Nov 24, 1747 DR: Set out on journey to Zarkandur, the City of Gems, and Brelith's home. 
+- Nov 30, 1747 DR: Pass Elven ruins and nearly killed by banshees. 
+- 
 ## Adventure 16: Why Is Everything So Cold?
 ### Session 42
 
@@ -247,6 +373,23 @@ Proceed through the freezing ice caves which make up Morgana’s lair. Convince 
 Return to the Dwarven city of Zarkandur, now freed from its winter curse. Big celebration, and Brelith’s parents throw a feast. Adrik and Aelar spent time competing in the fighting pits, while Samso and Brelith do some research. After a few weeks, the party leaves to return to Voltara. On the way, Adrik turns to a werebear and must be knocked unconscious. Brelith cures him the next morning.
 
 After defeating were-Adrik, the party arrives at a Chardonian fort on the northern border. Samso convinces the commander of the fort that the party are amazing heroes who can turn into dragons and kill deadly enemies with a glance, so she insists they try to find out who is stealing all their cattle. Their first scouting attempt fails miserably.
+
+### Events
+
+
+- Dec 05, 1747 DR: Arrive in Zarkandur. Meet Brelith's parents. Feast. Learn about unnatural cold spreading from the south. Agree to investigate. 
+- Dec 06, 1747 DR: Learn more from people in Zarkandur. 
+- Dec 07, 1747 DR: Leave, heading south, with an armed escort. Aiming for the now-abandoned and frozen city of Tumukhar. 
+- Dec 13, 1747 DR: Arrive in Tumukhar, explore. Fight ice mephits, snow golems, and an ice troll. Exit the city to the barren snowy wasteland of the mountains. Find a sheltered place to camp. 
+- Dec 14, 1747 DR: Head towards Stoneborn village to learn more. Struggle with the snow. Fight some frost-cursed creatures chanting about ice. Adrik picks up a ring and the party is teleported to an icy cave complex. Explore for a while, fighting a berserker human who cannot die. Trap him, and eventually extinguish icy blue flame, which allows berserker to be killed. Adrik picks up a ring and the party is teleported to an icy cave complex. Explore for a while, fighting a berserker human who cannot die. Trap him, and eventually extinguish icy blue flame, which allows berserker to be killed.
+- Dec 15, 1747 DR: Leave for Vangebekkr, an old frost giant castle. Attempt a stealthy assault, which goes poorly. Flee on mammoths. Find safe camp. 
+- Dec 16, 1747 DR: Return to castle, this time using magic to ensure a more stealthy approach. Free imprisoned giants who head to retake castle. Party enters Morgana's lair. Kill a frost giant zombie, then attacked by a polar wereboar and Morgana herself. Kill Morgana, but not before Adrik is cursed with lycanthropy. Rest. 
+- Dec 24, 1747 DR: Party returns to Zarkandur, victorious. Celebrate. 
+- Jan 06, 1748 DR: Party leaves Zarkandur to return to Voltara. 
+- Jan 07, 1748 DR: Adrik turns to a polar werebear at camp and must be subdued. 
+- Jan 08, 1748 DR: Adrik cured of lycanthropy by Brelith. 
+- Jan 17, 1748 DR: Adrik, Brelith, Samso, and Aelar arrive back in the Chardonian empire, stopped at the border fort. Learn it is in dire straights, its winter food supplies being raided by something on the river. Attempt to scout unsuccessfully. 
+
 ## Adventure 17: What do you mean, we have to kill a dragon?!?
 ### Session 52
 
@@ -280,6 +423,27 @@ The party spends a considerable amount of time organizing treasure and figuring 
 
 A few weeks later, they arrive back in Voltara, greeting by Julius their steward. 
 
+### Events
+
+
+- Jan 18, 1748 DR: Head north to find out what is stealing food from Chardonians. 
+- Jan 19, 1748 DR: Find and attack a bullywug village. Kill many before making peace and learning the bullywugs were driven from their home by a dragon. Agree to kill the dragon. 
+- Jan 21, 1748 DR: Return to Chardonian fort with news. Head north to find the dragon. 
+- Jan 29, 1748 DR: Party encounters Deno'qai scouts at a portage on the river. Go to council, learn the Deno'qai want to kill the dragon too.
+- Feb 01, 1748 DR: Party leaves Deno'qai council with Izkir, a guide and sorcerer blessed by the tanshi, heading for the Blackwater Fens, where the dragon lives.
+- Feb 09, 1748 DR: Party arrives at Blackwater Fens, camps outside to plan. 
+- Feb 10, 1748 DR: Head into Blackwater Fens. Pass ruined treaty stone between elves and humans. Camp. Dragon attacks during the night. 
+- Feb 11, 1748 DR: Wounded and needing a place to rest, return to treaty stone and repair it during the day. Sleep. 
+- Feb 12, 1748 DR: Spend the day scrying and scouting, sleep at the treaty stone. 
+- Feb 13, 1748 DR: Travel through Blackwater Fens to approach dragon lair. 
+- Feb 15, 1748 DR: Fight bugbear minions of Nymthrax, and then fight and kill Nymthrax himself. 
+- Feb 18, 1748 DR: Depart Nymthrax lair, heading back to river. 
+- Feb 19, 1748 DR: Arrive river, summon portable boat from Staff of the Swamplands, begin to travel downriver
+- Feb 22, 1748 DR: Arrive at bullywug village; return treasure, tell stories with the Pipe of Remembrance
+- Feb 24, 1748 DR: Arrive Chardonian fort. Spend the night
+- Feb 25, 1748 DR: Depart fort for Voltara.
+- Mar 07, 1748 DR: Arrive back in Voltara 
+
 ## Adventure 18: What’s at the Bottom of that Vast, Dark Chasm?
 ### Session 57
 
@@ -312,11 +476,24 @@ Back in Voltara, the Silver Tempest enjoys the rewards of their status and reput
 
 Four months later, the Silver Tempest hosts a party, a grand opening for Cleric Cooks. Many old friends are there, thanks to Samso’s new magic ability to teleport via plants: Dinia, from the north; Brelith’s parents and some other dwarves of Zarkandur; and Aris and some other centaurs, who are leaving on the next stop in their migration and have come to say goodbye. It is a big success.
 
+### Events
+
+- Mar 08, 1748 DR - Mar 13, 1748 DR: In Voltara, the party sells treasure to Quintus and Inectos, purchases an extradimensional vault for their treasure, and employs Brelith's and Galius' magic to protect their home base. 
+- Mar 14, 1748 DR: The party leaves Voltara for Goldpeak Mine
+- Mar 15, 1748 DR: Travel
+- Mar 16, 1748 DR: The party arrives at Goldpeak Mine, fights a dwarven abberation at the camp outside, descends into the chasm, and fights a cloaker and carrion crawlers. Meet Cassia and Alton. Rest.
+- Mar 17, 1748 DR: Travel into the depths. Fight guards, and learn that the beholder Vilaxes has taken over a kobold den. Briefly imprisoned. Fight beholder, and win after Samso draws the beholder's attacks by attempting to destroy a massive statue of Vilaxes. Samso and Cassia die, and are revived by Brelith. Rest.
+- Mar 18, 1748 DR: Return to the surface. Rest.
+- Mar 19, 1748 DR: Travel back to Voltara.
+- Mar 20, 1748 DR: Arrive back in Voltara, victorious. 
+- Mar 21, 1748 DR - Aug 06, 1748 DR: Downtime in Voltara
+- Aug 07, 1748 DR: Brelith's restaurant opens as the Silver Tempests host a party. 
+
 ## Adventure 19: Saving Grandma Yoda (This Shit’s Kinda’ Fishy)
 
 ### Session 61
 
-Mabist comes knocking on the door of the Tempest Towers. Both Samso and Adrik are a bit suspicious of this armored visitor before we learn Grandma Yoda was captured. We retrieve Alton from his violent dive bar. In misty forms the party flies to a distant village near the coast, where they meet the village priest, and ask about rumors of the Havoc Host, a mercenary group that was involved in kidnapping Dinia. The priest introduces the party to Clara, a teenaged girl whose brother was kidnapped a few days ago by the Havoc Host, just upriver near a small lake.
+Mabist comes knocking on the door of the Tempest Towers. Both Samso and Adrik are a bit suspicious of this armored visitor before we learn Grandma Yoda was captured. We retrieve Alton from his violent dive bar. In misty forms the party flies to Suwi, a distant village near the coast, where they meet the village priest, and ask about rumors of the Havoc Host, a mercenary group that was involved in kidnapping Dinia. The priest introduces the party to Clara, a teenaged girl whose brother was kidnapped a few days ago by the Havoc Host, just upriver near a small lake.
 
 The next morning the party travels upriver to the lake. Finding the logging camp where Clara’s brother was taken, they follow a trail along the lakeshore, coming to a rocky clearing where the ruins of a castle overlook the lake. The party manages to ambush a group of slimy minions, and quickly dispatch them, knocking them out and binding them. 
 
@@ -326,8 +503,15 @@ The party learns the layout of the tunnels from the mercenaries, and begins to e
 
 The party manages to quietly navigate the flooded caverns, emerging into the aboleth’s lair, where they see a psychically controlled Dinia waiting for them. She attacks, and Ithu’rax the aboleth emerges from a central pool, joining the battle. The battle is a challenge. Ithu’rax manipulates his foes physical form, turning ligaments to jelly and lungs to gills, all of which make it difficult for the party to land a blow. Alton, although set up with the arrow of aboleth slaying, misses his shot; Mabist manages to grapple the aboleth with a giant force hand, but is targeted by the aboleth’s anger and eventually knocked unconscious and dropped into the cursed waters at the center of the cave. Samso spends the combat as an earth elemental; while he does not sustain much damage, he is also repeatedly driven back and unable to land a solid blow. It is only Samso’s conjured dragon, and Adrik’s seemingly endless ability to absorb the strikes of the aboleth’s tentacles, that save the party and lead to victory. 
 
-With the aboleth killed, Dinia returns to herself, and appoints herself the caretaker of the now slowly recovering slime servants. The party searches the cavern, and notices that there are numerous sigils carved in the ceiling of the cave that match those found in the abandoned lizardfolk villages of Samso’s homeland. Dinia speaks of the Umbral Conclave as the source of the sigils, and claims the aboleth was commanded to build an army for them. 
+With the aboleth killed, Dinia returns to herself, and appoints herself the caretaker of the now slowly recovering slime servants. The party searches the cavern, and notices that there are numerous sigils carved in the ceiling of the cave that match those found in the abandoned lizardfolk villages of Samso’s homeland. Dinia speaks of the Umbral Convenant as the source of the sigils, and claims the aboleth was commanded to build an army for them. 
 
-With this news, the party gathers the treasure, and prepares to return to Voltara to seek more information about the Umbral Conclave.
+With this news, the party gathers the treasure, and prepares to return to Voltara to seek more information about the Umbral Convenant.
 
-## Adventure 20: The Umbral Conclave
+### Events
+
+- Aug 22, 1748 DR: Mabist arrives at the Tempest Towers with news of Dinia's capture.
+- Aug 23, 1748 DR: Arrive at Suwi, meet village priest, speak with Clara about the Havoc Host. 
+- Aug 24, 1748 DR: Travel upriver to a small lake. Fight slimy minions, find a secret passage, enter flooded caverns. In the caverns, defeat more slime minions and meet the ghost of Milo Kentbrush. Confront Ithu'rax the aboleth, and defeat it, rescuing Dinia. Learn about connection between Ithu'rax, the Umbral Convenant, and the mysterious lizardfolk disappearances. 
+- Aug 25, 1748 DR: Return to Voltara. 
+
+

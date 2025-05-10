@@ -1,118 +1,140 @@
 ---
+headerVersion: 2023.11.25
 tags: [timeline]
-timelineDescriptor: Great Library Campaign
-title: Great Library Timeline
+name: Great Library Campaign Timeline
+title: Great Library Campaign Timeline
 ---
+# Great Library Campaign Timeline
 
-
-
-
-- Feb 16, 1747 DR: Samso and Adrik meet on the road south of Chardon and retrieve a lost messenger bag from a messenger killed by bullywugs. 
-- Apr 04, 1747 DR: Samso, Brelith, Adrik, and Alton are attacked by goblins on the road to Voltara, and then meet Archivist Lyra at her camp. 
-- Apr 05, 1747 DR: Samso, Brelith, Adrik, and Alton find the Forge of Fire and recover the Flamekeeper Scroll from a kobold tribe.  
-- Apr 08, 1747 DR: Samso, Brelith, and Adrik arrive in Voltara. 
-- Apr 15, 1747 DR: Samso and Adrik meet the stoneborn Aglath at the Purple Pig in Voltara, and depart to seek the Stonemaster Scroll. 
-- Apr 17, 1747 DR: Samso, Adrik, and Aglath arrive at the Crystal Cavern, where the Stonemaster Scroll is hidden, after passing through [orc](<../../species/orcs.md>) territory. Retrieve the scroll and befriend the miniature shrunken black bear, named Friend. 
-- Apr 19, 1747 DR: Samso, Adrik, and Aglath arrive back in Voltara. 
-- Apr 26, 1747 DR: Samso, Adrik, Aglath, and Brelith meet Aelar and Scordith at the Purple Pig, and go to find letters of Airion the Mistspeaker at the now-haunted Pietovolta Abbey, outside Voltara. Succeed in recovering notes for Archivist Lyra to study. 
-- May 03, 1747 DR: Adrik, Samso, Brelith, and Aelar leave the Purple Pig to search for the Deepwater Scroll. 
-- May 05, 1747 DR: Adrik, Samso, Brelith, and Aelar arrive at the Drowned tower, and find the Deepwater Scroll. 
-- May 07, 1747 DR: Adrik, Samso, Brelith, and Aelar return to Voltara. 
-- May 29, 1747 DR: Wolves driven mad by some magic attack Voltara, and are defeated by Adrik, Samso, Aglath, and Brelith. 
-- May 30, 1747 DR: Adrik, Samso, Aglath, Aelar, and Brelith meet Quintus Percomia, a caravan master and chalyte trader. They learn about some centaurs to the south in trouble, but decide to head west to find the source of the wolf attacks. 
-- Jun 01, 1747 DR: Adrik, Samso, Aglath, Aelar, and Brelith arrive at the entrance to the Deepriver clan dwarf mine in Goldpeak mountain. They enter, fight some battles, and retreat. 
-- Jun 02, 1747 DR: Brelith and Aglath return to town. Samso, Adrik, and Aelar head back to the mine, where they meet Oskar and clear the mine of the magic that was causing trouble. 
-- Jun 04, 1747 DR: Samso, Adrik, and Aelar return to Voltara. 
-- Jun 06, 1747 DR: Samso, Adrik, Brelith, Scordith, and Aglath visit Quintus and learn of the problems of the centaurs to the south. 
-- Jun 08, 1747 DR: Samso, Adrik, Brelith, Scordith, and Aglath arrive at the centaur camp and deal with the poisoned water by placating Xameia the Forsworn, a paladin of the Order of Twilight who broke her oath. They promise to restore the temple of her order in 30 days. 
-- Jun 09, 1747 DR: Scordith returns to Voltara while the others rest in the centaur camp. 
-- Jun 10, 1747 DR: On the road back to Voltara, Adrik, Samso, Brelith, and Aglath are attacked by bandits, and are joined by Oskar. Subdue the bandits, and learn they need money to pay off [Orcs](<../../species/orcs.md>) raiding from the Lonely Watchtower. 
-- Jun 11, 1747 DR: Adrik, Samso, Brelith, Aglath, and Oskar arrive at the Lonely Watchtower and destroy some [Orcs](<../../species/orcs.md>), including the chief Raluhk the Orog. Rescue Ralvaz, a mine captain who reports many [orc](<../../species/orcs.md>) raids. 
-- Jun 14, 1747 DR: Adrik, Samso, Brelith, and Aglath return to Voltara with news about the [orc](<../../species/orcs.md>) raids.  
-- Jun 22, 1747 DR: Samso is approached by Iara, a lizardfolk woman, seeking aid for her village. The party agrees to help, and Samso, Brelith, Aelar, and Adrik set out from Voltara. 
-- Jun 26, 1747 DR: Samso, Brelith, Aelar, and Adrik find an abandoned lizardfolk village, and are attacked by evil shadow lizardfolk. Find, confront and kill the leader of these creatures. 
-- Jun 27, 1747 DR: On the road back to Voltara, party kills bugbear raiders and finds a letter from [Grumella](<../../people/orcs/grumella.md>) the Vengeful demanding all travelers from the west be captured and ransomed.  
-- Jun 29, 1747 DR: Samso, Brelith, Aelar, and Adrik return to Voltara with news of the kidnappings. 
-- Jun 30, 1747 DR: Brelith finds information about the location of the ruined Temple of the Order of Twilight and the party leaves to fulfill their promise to Xameia.  
-- Jul 01, 1747 DR: Brelith, Aelar, Adrik, and Samso are ambushed in the hills on the way to the temple.  
-- Jul 02, 1747 DR: The party arrives at the temple and fights demons, and realize they need powerful magic to cleanse the Abyssal portal at this temple. 
-- Jul 04, 1747 DR: The party arrives back in Voltara and convinces a priest, Galius Filuso, to come with them to help end the Abyssal curse on the temple. 
-- Jul 06, 1747 DR: The party arrives at the temple and defends Galius for 24 hours while he casts Hallow to end the Abyssal corruption and close the portal. 
-- Jul 07, 1747 DR: The portal is closed and an avatar of the Night Queen appears to reward the party.  
-- Jul 08, 1747 DR: The party arrives back in Voltara. 
-- Jul 09, 1747 DR: The party meets the Proconsul, and Archivist Lyra tells them a messenger is missing. 
-- Jul 10, 1747 DR: Adrik, Brelith, Aelar, and Samso random the messenger from the kobolds, but not the map they need to find the last scroll, the Skyborn Scroll.  
-- Jul 11, 1747 DR: The party, with Aglath, ambushes the kobolds and retrieves the map to the Skyborn scroll. 
-- Jul 12, 1747 DR: The party decides to immediately head north to find the Skyborn scoll, leaving Voltara in a hurry.  
-- Jul 15, 1747 DR: On the plains north of Voltara, heading for the rumored location of the Skyborn Scroll, the party is attacked and nearly killed by a hobgoblin patrol from the mountains. 
-- Jul 16, 1747 DR: The party encounters Oskar on the plains, who joins them for a time. 
-- Jul 19, 1747 DR: The party finds Blacksilver Peak and begin the ascend. Part way up, they fight a frost giant who hates dwarves, and bargain with a giant eagle for passage down a cliff to the old Dwarven Road. 
-- Jul 20, 1747 DR: After defeating a group of basilisks, the party arrives at the entrance to the old Dwarven mines, and kills the trolls that now occupy it. They begin the ascent up the long stairs to the summit of the mountain. 
-- Jul 21, 1747 DR: After resting on the stairs, the party emerges into a ruined Dwarven waystation, finding the exit after some shenanigans and defeating some sword wraiths. 
-- Jul 22, 1747 DR: The party meets Dinia, and deals with her yeti problem. 
-- Jul 23, 1747 DR: Aglath, Adrik, Samso, Brelith, and Aelar cross a glacier to find Airion the Mistspeaker's floating tower. After crossing an ice bridge, defeating the guardians, figuring out the door puzzle, and freeing the djinni Mehrangeesa of Sulmana, the party finally meets Airion Mistspeaker and finds the air scroll. However, Airion turns out to be an illusion created by another wizard Zadkai, who takes the scroll. The party manages to retrieve the scroll in battle, but  Zadkai gets away. The party rests for the night in the tower. 
-- Jul 24, 1747 DR: After crossing the glacier and dealing with wolves, the party reaches Dinia's and spends the night. 
-- Jul 25, 1747 DR: The party heads down Blackwater Peak, and encounters an [orc](<../../species/orcs.md>) patrol coming to find the Skyborn Scroll for [Grumella](<../../people/orcs/grumella.md>). The [Orcs](<../../species/orcs.md>) are defeated after a tough fight, although one gets away. 
-- Jul 26, 1747 DR: Experimenting with magic items from the tower, Adrik summons a roc, who flies the party back to Voltara. Defeat a pack of wyverns from roc-back. 
-- Jul 28, 1747 DR: The party returns to Voltara triumphant on the back of a giant roc. 
-- Sep 15, 1747 DR: Aglath, Adrik, Samso, Brelith, and Aelar are summoned by the proconsul of Voltara, who informs them [Grumella](<../../people/orcs/grumella.md>) has demanded their surrender or the city will be attacked. The party agrees to organize a defense. 
-- Sep 16, 1747 DR: The party contacts allies, and leaves for the centaur camp to the south. They defeat a shadow hunter who threatens Samso that night. 
-- Sep 17, 1747 DR: Arrive at centaur camp. Learn about manticore troubles. Rest. 
-- Sep 18, 1747 DR: Travel to manticore lair. Fight manticores on the plains, then find and defeat lair. Free prisoners. 
-- Sep 19, 1747 DR: Return to centaur camp. Rest and prepare for next journey. 
-- Sep 20, 1747 DR: Use scroll of wind walking from centaurs to travel north to the roc's territory. Spend the evening and learn they need to rescue a roc egg to get the roc's aid in battle. The rocs direct them to a nearby kobold lair for clues. 
-- Sep 21, 1747 DR: Party speaks with kobolds and bribes them for information. 
-- Sep 22, 1747 DR: Kobolds lead party to an earth elemental lair, and flee. Party fights guards, then explores lair, defeats dao, and emerges at dawn with the egg, which is gathered by the rocs. Party then spends the day making a boat to return to Voltara quickly, having been promised the roc's aid in battle. 
-- Sep 28, 1747 DR: Arrive in Voltara after sailing downriver in makeshift boat. War council. Leave to scout. 
-- Sep 30, 1747 DR: Party buffs Aelar to scout the [orc](<../../species/orcs.md>) war camp. 
-- Oct 01, 1747 DR: Party returns to Voltara with information and prepares for war. 
-- Oct 03, 1747 DR: Dwarven and centaur troops arrive in Voltara. Chardonian legions are still weeks away. 
-- Oct 06, 1747 DR: The Battle of Voltara, also know as the Battle of Lightning's Wrath. Adrik, Aelar, Aglath, Samso, and Brelith gather allies, defend the city from hill giants trying to breach the gates, and finally kill [Grumella](<../../people/orcs/grumella.md>). 
-- Nov 10, 1747 DR: Aglath, Adrik, Aelar, Brelith, and Samso leave Voltara to head east to investigate what is happening in Brelith's homeland, after a month of rest, trusting their new manor to a well paid steward. 
-- Nov 15, 1747 DR: Party crosses the Alimas river at a small Chardonian fort, entering the frontier. 
-- Nov 16, 1747 DR: Party attacked by remnant of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), and defeats them. Ambushed that night by survivors, but they are also defeated. 
-- Nov 18, 1747 DR: Party passes Chardonian garrison camp and gives them information about the [orc](<../../species/orcs.md>) attack. 
-- Nov 21, 1747 DR: Party passes south of Chardonian fort and leaves the Chardonian Empire. Meet Deno'qai and go to their village. Agree to deal with spider threat in exchange for scouts leading them safely through the woods to the Dwarven kingdom. 
-- Nov 22, 1747 DR: Travel to spider lair. Defeat spider queen, who has acid scars on her body. 
-- Nov 23, 1747 DR: Return to Deno'qai village. 
-- Nov 24, 1747 DR: Set out on journey to Zarkandur, the City of Gems, and Brelith's home. 
-- Nov 30, 1747 DR: Pass Elven ruins and nearly killed by banshees. 
-- Dec 05, 1747 DR: Arrive in Zarkandur. Meet Brelith's parents. Feast. Learn about unnatural cold spreading from the south. Agree to investigate. 
-- Dec 06, 1747 DR: Learn more from people in Zarkandur. 
-- Dec 07, 1747 DR: Leave, heading south, with an armed escort. Aiming for the now-abandoned and frozen city of Tumukhar. 
-- Dec 13, 1747 DR: Arrive in Tumukhar, explore. Fight ice mephits, snow golems, and an ice troll. Exit the city to the barren snowy wasteland of the mountains. Find a sheltered place to camp. 
+- May 22, 1745 DR: Brelith leaves [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>) to seek adventure and excitment
+- Jul 11, 1745 DR: Brelith meets Cato Stormtouched on the road in the [Chasa River Valley](<../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/chasa-river-valley.md>), and begins traveling with him.
+- Nov 17, 1746 DR: Adrik leaves home to seek his fortune and revenge
+- Dec 09, 1746 DR: Brelith saves Cato Stormtouched from a bandit ambush in the [Myraeni Gap](<../../gazetteer/greater-dunmar/myraeni-gap.md>).
+- Dec 14, 1746 DR: Brelith parts ways with Cato Stormtouched and turns towards [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) to join the [Great Library](<../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>)
+- Dec 17, 1746 DR: Samso leaves home to seek information
+- Jan 01, 1747 DR: Samso reaches ~Yeraad Lizardfolk Swamp~
+- Jan 19, 1747 DR: Samso leaves ~Yeraad Lizardfolk Swamp~ for [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), having failed to find answers among his lizardfolk kin
+- Feb 16, 1747 DR: [Samso](<../../people/pcs/silver-tempests/samso.md>) and [Adrik](<../../people/pcs/silver-tempests/adrik.md>) meet on the road south of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and retrieve a lost messenger bag from a messenger killed by [bullywugs](<../../species/unusual-species/bullywugs.md>).
+- Apr 04, 1747 DR: Samso, Brelith, Adrik, and Alton are attacked by goblins on the road to Voltara, and then meet Archivist Lyra at her camp.
+- Apr 05, 1747 DR: Samso, Brelith, Adrik, and Alton find the Forge of Fire and recover the Flamekeeper Scroll from a kobold tribe.
+- Apr 08, 1747 DR: Samso, Brelith, and Adrik arrive in Voltara.
+- Apr 15, 1747 DR: Samso and Adrik meet the stoneborn Aglath at the Purple Pig in Voltara, and depart to seek the Stonemaster Scroll.
+- Apr 17, 1747 DR: Samso, Adrik, and Aglath arrive at the Crystal Cavern, where the Stonemaster Scroll is hidden, after passing through orc territory. Retrieve the scroll and befriend the miniature shrunken black bear, named Friend.
+- Apr 19, 1747 DR: Samso, Adrik, and Aglath arrive back in Voltara.
+- Apr 26, 1747 DR: Samso, Adrik, Aglath, and Brelith meet Aelar and Scordith at the Purple Pig, and go to find letters of Airion the Mistspeaker at the now-haunted Pietovolta Abbey, outside Voltara. Succeed in recovering notes for Archivist Lyra to study.
+- May 03, 1747 DR: Adrik, Samso, Brelith, and Aelar leave the Purple Pig to search for the Deepwater Scroll.
+- May 05, 1747 DR: Adrik, Samso, Brelith, and Aelar arrive at the Drowned tower, and find the Deepwater Scroll.
+- May 07, 1747 DR: Adrik, Samso, Brelith, and Aelar return to Voltara.
+- May 29, 1747 DR: Wolves driven mad by some magic attack Voltara, and are defeated by Adrik, Samso, Aglath, and Brelith.
+- May 30, 1747 DR: Adrik, Samso, Aglath, Aelar, and Brelith meet Quintus Percomia, a caravan master and chalyte trader. They learn about some centaurs to the south in trouble, but decide to head west to find the source of the wolf attacks.
+- Jun 01, 1747 DR: Adrik, Samso, Aglath, Aelar, and Brelith arrive at the entrance to the Deepriver clan dwarf mine in Goldpeak mountain. They enter, fight some battles, and retreat.
+- Jun 02, 1747 DR: Brelith and Aglath return to town. Samso, Adrik, and Aelar head back to the mine, where they meet Oskar and clear the mine of the magic that was causing trouble.
+- Jun 04, 1747 DR: Samso, Adrik, and Aelar return to Voltara.
+- Jun 06, 1747 DR: Samso, Adrik, Brelith, Scordith, and Aglath visit Quintus and learn of the problems of the centaurs to the south.
+- Jun 08, 1747 DR: Samso, Adrik, Brelith, Scordith, and Aglath arrive at the centaur camp and deal with the poisoned water by placating Xameia the Forsworn, a paladin of the Order of Twilight who broke her oath. They promise to restore the temple of her order in 30 days.
+- Jun 09, 1747 DR: Scordith returns to Voltara while the others rest in the centaur camp, and is never seen from again.
+- Jun 10, 1747 DR: On the road back to Voltara, Adrik, Samso, Brelith, and Aglath are attacked by bandits, and are joined by Oskar. Subdue the bandits, and learn they need money to pay off [Orcs](<../../species/orcs.md>) raiding from the Lonely Watchtower.
+- Jun 11, 1747 DR: Adrik, Samso, Brelith, Aglath, and Oskar arrive at the Lonely Watchtower and destroy some [Orcs](<../../species/orcs.md>), including the chief Raluhk the Orog. Rescue Ralvaz, a mine captain who reports many [orc](<../../species/orcs.md>) raids.
+- Jun 14, 1747 DR: Adrik, Samso, Brelith, and Aglath return to Voltara with news about the [orc](<../../species/orcs.md>) raids.
+- Jun 22, 1747 DR: Samso is approached by Iara, a lizardfolk woman, seeking aid for her village. The party agrees to help, and Samso, Brelith, Aelar, and Adrik set out from Voltara.
+- Jun 26, 1747 DR: Samso, Brelith, Aelar, and Adrik find an abandoned lizardfolk village, and are attacked by evil shadow lizardfolk. Find, confront and kill the leader of these creatures.
+- Jun 27, 1747 DR: On the road back to Voltara, party kills bugbear raiders and finds a letter from [Grumella](<../../people/orcs/grumella.md>) the Vengeful demanding all travelers from the west be captured and ransomed.
+- Jun 29, 1747 DR: Samso, Brelith, Aelar, and Adrik return to Voltara with news of the kidnappings.
+- Jun 30, 1747 DR: Brelith finds information about the location of the ruined Temple of the Order of Twilight and the party leaves to fulfill their promise to Xameia.
+- Jul 01, 1747 DR: Brelith, Aelar, Adrik, and Samso are ambushed in the hills on the way to the temple.
+- Jul 02, 1747 DR: The party arrives at the temple and fights demons, and realize they need powerful magic to cleanse the Abyssal portal at this temple.
+- Jul 04, 1747 DR: The party arrives back in Voltara and convinces a priest, Galius Filuso, to come with them to help end the Abyssal curse on the temple.
+- Jul 06, 1747 DR: The party arrives at the temple and defends Galius for 24 hours while he casts Hallow to end the Abyssal corruption and close the portal.
+- Jul 07, 1747 DR: The portal is closed and an avatar of the Night Queen appears to reward the party.
+- Jul 08, 1747 DR: The party arrives back in Voltara.
+- Jul 09, 1747 DR: The party meets the Proconsul, and Archivist Lyra tells them a messenger is missing.
+- Jul 10, 1747 DR: Adrik, Brelith, Aelar, and Samso random the messenger from the kobolds, but not the map they need to find the last scroll, the Skyborn Scroll.
+- Jul 11, 1747 DR: The party, with Aglath, ambushes the kobolds and retrieves the map to the Skyborn scroll.
+- Jul 12, 1747 DR: The party decides to immediately head north to find the Skyborn scoll, leaving Voltara in a hurry.
+- Jul 15, 1747 DR: On the plains north of Voltara, heading for the rumored location of the Skyborn Scroll, the party is attacked and nearly killed by a hobgoblin patrol from the mountains.
+- Jul 16, 1747 DR: The party encounters Oskar on the plains, who joins them for a time.
+- Jul 19, 1747 DR: The party finds Blacksilver Peak and begin the ascend. Part way up, they fight a frost giant who hates dwarves, and bargain with a giant eagle for passage down a cliff to the old Dwarven Road.
+- Jul 20, 1747 DR: After defeating a group of basilisks, the party arrives at the entrance to the old Dwarven mines, and kills the trolls that now occupy it. They begin the ascent up the long stairs to the summit of the mountain.
+- Jul 21, 1747 DR: After resting on the stairs, the party emerges into a ruined Dwarven waystation, finding the exit after some shenanigans and defeating some sword wraiths.
+- Jul 22, 1747 DR: The party meets Dinia, and deals with her yeti problem.
+- Jul 23, 1747 DR: Aglath, Adrik, Samso, Brelith, and Aelar cross a glacier to find Airion the Mistspeaker's floating tower. After crossing an ice bridge, defeating the guardians, figuring out the door puzzle, and freeing the djinni Mehrangeesa of Sulmana, the party finally meets Airion Mistspeaker and finds the air scroll. However, Airion turns out to be an illusion created by another wizard Zadkai, who takes the scroll. The party manages to retrieve the scroll in battle, but  Zadkai gets away. The party rests for the night in the tower.
+- Jul 24, 1747 DR: After crossing the glacier and dealing with wolves, the party reaches Dinia's and spends the night.
+- Jul 25, 1747 DR: The party heads down Blackwater Peak, and encounters an [orc](<../../species/orcs.md>) patrol coming to find the Skyborn Scroll for [Grumella](<../../people/orcs/grumella.md>). The [Orcs](<../../species/orcs.md>) are defeated after a tough fight, although one gets away.
+- Jul 26, 1747 DR: Experimenting with magic items from the tower, Adrik summons a roc, who flies the party back to Voltara. Defeat a pack of wyverns from roc-back.
+- Jul 28, 1747 DR: The party returns to Voltara triumphant on the back of a giant roc.
+- Sep 15, 1747 DR: Aglath, Adrik, Samso, Brelith, and Aelar are summoned by the proconsul of Voltara, who informs them [Grumella](<../../people/orcs/grumella.md>) has demanded their surrender or the city will be attacked. The party agrees to organize a defense.
+- Sep 16, 1747 DR: The party contacts allies, and leaves for the centaur camp to the south. They defeat a shadow hunter who threatens Samso that night.
+- Sep 17, 1747 DR: Arrive at centaur camp. Learn about manticore troubles. Rest.
+- Sep 18, 1747 DR: Travel to manticore lair. Fight manticores on the plains, then find and defeat lair. Free prisoners.
+- Sep 19, 1747 DR: Return to centaur camp. Rest and prepare for next journey.
+- Sep 20, 1747 DR: Use scroll of wind walking from centaurs to travel north to the roc's territory. Spend the evening and learn they need to rescue a roc egg to get the roc's aid in battle. The rocs direct them to a nearby kobold lair for clues.
+- Sep 21, 1747 DR: Party speaks with kobolds and bribes them for information.
+- Sep 22, 1747 DR: Kobolds lead party to an earth elemental lair, and flee. Party fights guards, then explores lair, defeats dao, and emerges at dawn with the egg, which is gathered by the rocs. Party then spends the day making a boat to return to Voltara quickly, having been promised the roc's aid in battle.
+- Sep 28, 1747 DR: Arrive in Voltara after sailing downriver in makeshift boat. War council. Leave to scout.
+- Sep 30, 1747 DR: Party buffs Aelar to scout the [orc](<../../species/orcs.md>) war camp.
+- Oct 01, 1747 DR: Party returns to Voltara with information and prepares for war.
+- Oct 03, 1747 DR: Dwarven and centaur troops arrive in Voltara. Chardonian legions are still weeks away.
+- Oct 06, 1747 DR: The Battle of Voltara, also know as the Battle of Lightning's Wrath. Adrik, Aelar, Aglath, Samso, and Brelith gather allies, defend the city from hill giants trying to breach the gates, and finally kill [Grumella](<../../people/orcs/grumella.md>).
+- Nov 10, 1747 DR: Aglath, Adrik, Aelar, Brelith, and Samso leave Voltara to head east to investigate what is happening in Brelith's homeland, after a month of rest, trusting their new manor to a well paid steward.
+- Nov 15, 1747 DR: Party crosses the Alimas river at a small Chardonian fort, entering the frontier.
+- Nov 16, 1747 DR: Party attacked by remnant of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), and defeats them. Ambushed that night by survivors, but they are also defeated.
+- Nov 18, 1747 DR: Party passes Chardonian garrison camp and gives them information about the [orc](<../../species/orcs.md>) attack.
+- Nov 21, 1747 DR: Party passes south of Chardonian fort and leaves the Chardonian Empire. Meet Deno'qai and go to their village. Agree to deal with spider threat in exchange for scouts leading them safely through the woods to the Dwarven kingdom.
+- Nov 22, 1747 DR: Travel to spider lair. Defeat spider queen, who has acid scars on her body.
+- Nov 23, 1747 DR: Return to Deno'qai village.
+- Nov 24, 1747 DR: Set out on journey to Zarkandur, the City of Gems, and Brelith's home.
+- Nov 30, 1747 DR: Pass Elven ruins and nearly killed by banshees.
+- Dec 05, 1747 DR: Arrive in Zarkandur. Meet Brelith's parents. Feast. Learn about unnatural cold spreading from the south. Agree to investigate.
+- Dec 06, 1747 DR: Learn more from people in Zarkandur.
+- Dec 07, 1747 DR: Leave, heading south, with an armed escort. Aiming for the now-abandoned and frozen city of Tumukhar.
+- Dec 13, 1747 DR: Arrive in Tumukhar, explore. Fight ice mephits, snow golems, and an ice troll. Exit the city to the barren snowy wasteland of the mountains. Find a sheltered place to camp.
 - Dec 14, 1747 DR: Head towards Stoneborn village to learn more. Struggle with the snow. Fight some frost-cursed creatures chanting about ice. Adrik picks up a ring and the party is teleported to an icy cave complex. Explore for a while, fighting a berserker human who cannot die. Trap him, and eventually extinguish icy blue flame, which allows berserker to be killed. Adrik picks up a ring and the party is teleported to an icy cave complex. Explore for a while, fighting a berserker human who cannot die. Trap him, and eventually extinguish icy blue flame, which allows berserker to be killed.
-- Dec 15, 1747 DR: Leave for Vangebekkr, an old frost giant castle. Attempt a stealthy assault, which goes poorly. Flee on mammoths. Find safe camp. 
-- Dec 16, 1747 DR: Return to castle, this time using magic to ensure a more stealthy approach. Free imprisoned giants who head to retake castle. Party enters Morgana's lair. Kill a frost giant zombie, then attacked by a polar wereboar and Morgana herself. Kill Morgana, but not before Adrik is cursed with lycanthropy. Rest. 
-- Dec 24, 1747 DR: Party returns to Zarkandur, victorious. Celebrate. 
-- Jan 06, 1748 DR: Party leaves Zarkandur to return to Voltara. 
-- Jan 07, 1748 DR: Adrik turns to a polar werebear at camp and must be subdued. 
-- Jan 08, 1748 DR: Adrik cured of lycanthropy by Brelith. 
-- Jan 17, 1748 DR: Adrik, Brelith, Samso, and Aelar arrive back in the Chardonian empire, stopped at the border fort. Learn it is in dire straights, its winter food supplies being raided by something on the river. Attempt to scout unsuccessfully. 
-- Jan 18, 1748 DR: Head north to find out what is stealing food from Chardonians. 
-- Jan 19, 1748 DR: Find and attack a bullywug village. Kill many before making peace and learning the bullywugs were driven from their home by a dragon. Agree to kill the dragon. 
-- Jan 21, 1748 DR: Return to Chardonian fort with news. Head north to find the dragon. 
+- Dec 15, 1747 DR: Leave for Vangebekkr, an old frost giant castle. Attempt a stealthy assault, which goes poorly. Flee on mammoths. Find safe camp.
+- Dec 16, 1747 DR: Return to castle, this time using magic to ensure a more stealthy approach. Free imprisoned giants who head to retake castle. Party enters Morgana's lair. Kill a frost giant zombie, then attacked by a polar wereboar and Morgana herself. Kill Morgana, but not before Adrik is cursed with lycanthropy. Rest.
+- Dec 24, 1747 DR: Party returns to Zarkandur, victorious. Celebrate.
+- Jan 06, 1748 DR: Party leaves Zarkandur to return to Voltara.
+- Jan 07, 1748 DR: Adrik turns to a polar werebear at camp and must be subdued.
+- Jan 08, 1748 DR: Adrik cured of lycanthropy by Brelith.
+- Jan 17, 1748 DR: Adrik, Brelith, Samso, and Aelar arrive back in the Chardonian empire, stopped at the border fort. Learn it is in dire straights, its winter food supplies being raided by something on the river. Attempt to scout unsuccessfully.
+- Jan 18, 1748 DR: Head north to find out what is stealing food from Chardonians.
+- Jan 19, 1748 DR: Find and attack a bullywug village. Kill many before making peace and learning the bullywugs were driven from their home by a dragon. Agree to kill the dragon.
+- Jan 21, 1748 DR: Return to Chardonian fort with news. Head north to find the dragon.
 - Jan 29, 1748 DR: Party encounters Deno'qai scouts at a portage on the river. Go to council, learn the Deno'qai want to kill the dragon too.
 - Feb 01, 1748 DR: Party leaves Deno'qai council with Izkir, a guide and sorcerer blessed by the tanshi, heading for the Blackwater Fens, where the dragon lives.
-- Feb 09, 1748 DR: Party arrives at Blackwater Fens, camps outside to plan. 
-- Feb 10, 1748 DR: Head into Blackwater Fens. Pass ruined treaty stone between elves and humans. Camp. Dragon attacks during the night. 
-- Feb 11, 1748 DR: Wounded and needing a place to rest, return to treaty stone and repair it during the day. Sleep. 
-- Feb 12, 1748 DR: Spend the day scrying and scouting, sleep at the treaty stone. 
-- Feb 13, 1748 DR: Travel through Blackwater Fens to approach dragon lair. 
-- Feb 15, 1748 DR: Fight bugbear minions of Nymthrax, and then fight and kill Nymthrax himself. 
-- Feb 18, 1748 DR: Depart Nymthrax lair, heading back to river. 
+- Feb 09, 1748 DR: Party arrives at Blackwater Fens, camps outside to plan.
+- Feb 10, 1748 DR: Head into Blackwater Fens. Pass ruined treaty stone between elves and humans. Camp. Dragon attacks during the night.
+- Feb 11, 1748 DR: Wounded and needing a place to rest, return to treaty stone and repair it during the day. Sleep.
+- Feb 12, 1748 DR: Spend the day scrying and scouting, sleep at the treaty stone.
+- Feb 13, 1748 DR: Travel through Blackwater Fens to approach dragon lair.
+- Feb 15, 1748 DR: Fight bugbear minions of Nymthrax, and then fight and kill Nymthrax himself.
+- Feb 18, 1748 DR: Depart Nymthrax lair, heading back to river.
 - Feb 19, 1748 DR: Arrive river, summon portable boat from Staff of the Swamplands, begin to travel downriver
 - Feb 22, 1748 DR: Arrive at bullywug village; return treasure, tell stories with the Pipe of Remembrance
 - Feb 24, 1748 DR: Arrive Chardonian fort. Spend the night
 - Feb 25, 1748 DR: Depart fort for Voltara.
-- Mar 07, 1748 DR: Arrive back in Voltara 
-- Mar 08, 1748 DR: sell treasure to Quintus and Inectos
-- Mar 09, 1748 DR: <<SESSION 57 START>>
-- Mar 09, 1748 DR: sell treasure 
-- Mar 10, 1748 DR: cast Hallow with Fear effect, targeting anyone without permission to be in the manor; Adrik and rest get extradimensional vault
-- Mar 11, 1748 DR: Brelith sleeps
-- Mar 12, 1748 DR: Talk to Galius 
-- Mar 13, 1748 DR: Galius casts Glyph of Warning
-- Mar 14, 1748 DR: leave Voltara for Goldpeak Mine
-- Mar 15, 1748 DR: travel
-- Mar 16, 1748 DR: arrive at Goldpeak Mine, fight dwarven abberation at the camp, descend chasm, fight cloaker and carrior crawlers
+- Mar 07, 1748 DR: Arrive back in Voltara
+- Mar 08, 1748 DR - Mar 13, 1748 DR: In Voltara, the party sells treasure to Quintus and Inectos, purchases an extradimensional vault for their treasure, and employs Brelith's and Galius' magic to protect their home base.
+- Mar 14, 1748 DR: The party leaves Voltara for Goldpeak Mine
+- Mar 15, 1748 DR: Travel
+- Mar 16, 1748 DR: The party arrives at Goldpeak Mine, fights a dwarven abberation at the camp outside, descends into the chasm, and fights a cloaker and carrion crawlers. Meet Cassia and Alton. Rest.
+- Mar 17, 1748 DR: Travel into the depths. Fight guards, and learn that the beholder Vilaxes has taken over a kobold den. Briefly imprisoned. Fight beholder, and win after Samso draws the beholder's attacks by attempting to destroy a massive statue of Vilaxes. Samso and Cassia die, and are revived by Brelith. Rest.
+- Mar 18, 1748 DR: Return to the surface. Rest.
+- Mar 19, 1748 DR: Travel back to Voltara.
+- Mar 20, 1748 DR: Arrive back in Voltara, victorious.
+- Mar 21, 1748 DR - Aug 06, 1748 DR: Downtime in Voltara
+- Jul 16, 1748 DR: Mabist wakes up in Dinia's cottage in the mountains.
+- Aug 07, 1748 DR: Brelith's restaurant opens as the Silver Tempests host a party.
+- Aug 17, 1748 DR: Dinia and Mabist attacked by the Havoc Host; Dinia captured. Mabist flees
+- Aug 22, 1748 DR: Mabist arrives at the Tempest Towers with news of Dinia's capture.
+- Aug 22, 1748 DR: Mabist arrives in Voltara, seeking the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>).
+- Aug 23, 1748 DR: Arrive at Suwi, meet village priest, speak with Clara about the Havoc Host.
+- Aug 24, 1748 DR: Travel upriver to a small lake. Fight slimy minions, find a secret passage, enter flooded caverns. In the caverns, defeat more slime minions and meet the ghost of Milo Kentbrush. Confront Ithu'rax the aboleth, and defeat it, rescuing Dinia. Learn about connection between Ithu'rax, the Umbral Convenant, and the mysterious lizardfolk disappearances.
+- Aug 25, 1748 DR: Return to Voltara.
+- 1660 DR: Adrik is born in a small near-surface village in [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>)
+- 1673 DR: Adrik meets Morgana Stoneclaw for the first time
+- 1675 DR: Adrik reveals Morgana Stoneclaw's true form and she is driven off by his parents and the village
+- 1707 DR: Brelith is born in [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>)
+- 1716 DR: Samso is born in Urkabi, a small village in [Apporia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>)
+- 1737 DR: Samso returns from wandering to find Urkabi gone, seemingly swallowed by a black rot
+- 1746 DR: Pestilence destroys Narazara
+
