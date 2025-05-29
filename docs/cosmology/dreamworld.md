@@ -25,7 +25,7 @@ It is said that everyone who travels to the Dreamworld perceives something diffe
 
 This was written in high school but remains a fairly accurate conception: The Dreamworld is a realm which contains echoes of the present, past, and future blended together. Prophecy, and the ability to sense the past associations of an object are strongly tied to connections to the Dreamworld. The Dreamworld can also, under the influence of a powerful master, be used to send messages, influence dreams, and similar things.   
 
-Beyond this basic framework, the Dreamworld is intentionally left somewhat undefined, and can vary from group to group and experience to experience, so any kind of invention about a specific journey to the Dreamworld is likely consistent with metaphysics. Often, play experiences in the Dreamworld work best away from standard game mechanics (e.g., travel to the Dreamworld in Hralgar's Palace ([Session 73 (DuFr)](<../campaigns/dunmari-frontier/session-notes/session-73-dufr.md>)) involved a story-based challenge mechanic).
+Beyond this basic framework, the Dreamworld is intentionally left somewhat undefined, and can vary from group to group and experience to experience, so any kind of invention about a specific journey to the Dreamworld is likely consistent with metaphysics. Often, play experiences in the Dreamworld work best away from standard game mechanics (e.g., travel to the Dreamworld in Hralgar's Palace ([Session 73 (DuFr)](<../campaigns/dunmari-frontier-campaign/session-notes/session-73-dufr.md>)) involved a story-based challenge mechanic).
 
 There are a few, limited canoical points to keep in mind when designing Dreamworld experiences in play:
 - You can enter the dreamworld directly, through some kind of portal or magic, but also by passing through the [Plane of Souls](<./plane-of-souls.md>) (which is mechanically essentially astral projection) - this is how for example Candrosa's Dream Staff worked
@@ -36,5 +36,5 @@ Some discussion:
 - Discord Chat - Souls
 
 Some notable Dunmar Frontier Dreamworld experiences:
-- [Kenzo Spirit Journey in Bedez](<../campaigns/dunmari-frontier/dreams-and-visions/kenzo-spirit-journey-in-bedez.md>)
+- [Kenzo Spirit Journey in Bedez](<../campaigns/dunmari-frontier-campaign/dreams-and-visions/kenzo-spirit-journey-in-bedez.md>)
 

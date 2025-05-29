@@ -61,12 +61,12 @@ The information reported here largely derives from the scattered human tribes in
 
 - The ~Pandar Volcanic Range~, once the borders of [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>)'s realm, now a place all sensible folk fear.
 * The [Forest of Nightmares](<./forest-of-nightmares.md>), said to be haunted, cursed by [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>) during the [Great War](<../../events/1500s/great-war.md>).
-* The [Blackwater Fens](<./blackwater-fens.md>), a dank bog from which the Nahadi arises.
+* The [Blackwater Fens](<./blackwater-fens.md>), a dank bog from which the [Nahadi](<../major-rivers/chasa-nahadi-watershed/nahadi.md>) arises.
 
 There are two major river systems that originate in this region:
 
 - The [K'eye](<./k-eye.md>) in the local language, and translated by halflings as the Red River, flows from the [Sentinels](<../sentinel-range.md>) to the ~North Bay~. 
-- The Nahadi in the local language, and translated by halflings at the Great River, flows from its origins in the [Blackwater Fens](<./blackwater-fens.md>) south to [Lake Valandros](<../greater-chardon/lake-valandros.md>) and beyond. 
+- The [Nahadi](<../major-rivers/chasa-nahadi-watershed/nahadi.md>) in the local language, and translated by halflings at the Great River, flows from its origins in the [Blackwater Fens](<./blackwater-fens.md>) south to [Lake Valandros](<../greater-chardon/lake-valandros.md>) and beyond. 
 ## Civilizations and Cultures
 
 

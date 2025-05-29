@@ -21,5 +21,5 @@ title: Azar
 </div>
 
 
-See: [Azar's Tale](<../../campaigns/mawar-confederacy/notes/azar-s-tale.md>)
+See: [Azar's Tale](<../../campaigns/mawar-adventures/notes/azar-s-tale.md>)
 

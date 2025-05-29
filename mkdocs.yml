@@ -82,7 +82,7 @@ home_description: The home of the world of Taelgar on the internet
 
 # Custom Homepage Button(s)
 home_button1_name: Campaign&nbsp;Info                 # Comment this parameter out to remove the button.
-home_button1_url: campaigns/dunmari-frontier/dunmari-frontier-campaign/    # This path starts at your root mkdocs directory.
+home_button1_url: campaigns/dunmari-frontier-campaign/dunmari-frontier-campaign/    # This path starts at your root mkdocs directory.
 home_button1_theme: md-button # Options: "md-button", "md-button md-button--primary"
 home_button1_title: Information about the Dunmari Frontier campaign
 
@@ -92,6 +92,6 @@ home_button2_theme: md-button # Options: "md-button", "md-button md-button--prim
 home_button2_title: Learn about the world of Taelgar
 
 home_button3_name: World&nbsp;Map   # Comment this parameter out to remove the button.
-home_button3_url: gazetteer/gazetteer/    # This path starts at your root mkdocs directory.
+home_button3_url: gazetteer/world-of-taelgar/    # This path starts at your root mkdocs directory.
 home_button3_theme: md-button # Options: "md-button", "md-button md-button--primary"
 home_button3_title: World Map

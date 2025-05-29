@@ -25,4 +25,4 @@ title: Ninu
 </div>
 
 
-Chief of the largest of the Ko'zula villages; told [Delwath](<../pcs/dunmar-fellowship/delwath.md>) the story of the [armbands of Cha’mutte](<../../campaigns/dunmari-frontier/treasure/cha-muttes-shadow-armband.md>) and the lost tanshi.
+Chief of the largest of the Ko'zula villages; told [Delwath](<../pcs/dunmar-fellowship/delwath.md>) the story of the [armbands of Cha’mutte](<../../campaigns/dunmari-frontier-campaign/treasure/cha-muttes-shadow-armband.md>) and the lost tanshi.

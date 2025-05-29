@@ -33,11 +33,11 @@ title: Antonia
     Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
+:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Imprisoned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 8th, 1748, in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>), [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>)  
+:octicons-location-24:{ .lg .middle } Imprisoned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 8th, 1748, in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>)  
 
 
 
@@ -45,7 +45,7 @@ title: Antonia
 ![Antonia Portrait](../../assets/antonia-portrait.jpg){align="right"; width="320"}A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 
 
-Seemed to have mixed feelings about [Kadmos](<./kadmos.md>) actions to charm the party in [Session 44 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-44-dufr.md>), and was not involved in the battle in [Session 45 (DuFr)](<../../campaigns/dunmari-frontier/session-notes/session-45-dufr.md>). 
+Seemed to have mixed feelings about [Kadmos](<./kadmos.md>) actions to charm the party in [Session 44 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-44-dufr.md>), and was not involved in the battle in [Session 45 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-45-dufr.md>). 
 
 As far as you know, still traveling with [Kadmos](<./kadmos.md>). 
 

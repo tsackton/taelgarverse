@@ -45,7 +45,7 @@ A Dunmari sheep herder from the area outside [Karawa](<../../gazetteer/greater-d
 
 ## Chronology
 - Mar 22, 1748 DR: Attacked with his extended family at the [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) oasis by enraged giant lizards. One of the few survivors. 
-- Mar 23, 1748 DR: Met the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) (who [killed the lizards](<../../campaigns/dunmari-frontier/session-notes/session-2-dufr.md>)) while returning to camp to gather supplies for the ride to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). They returned his sister's amulet to him (she was killed in the giant lizard attack), helped his family recover, and made a very favorable impression. 
+- Mar 23, 1748 DR: Met the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) (who [killed the lizards](<../../campaigns/dunmari-frontier-campaign/session-notes/session-2-dufr.md>)) while returning to camp to gather supplies for the ride to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). They returned his sister's amulet to him (she was killed in the giant lizard attack), helped his family recover, and made a very favorable impression. 
 - Mar 27, 1748 DR: Arrived in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) for the [Festival of Rebirth](<../../gods-and-religions/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>).
 - Apr 07, 1748 DR: Leaves [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) with Dunmari evacuation
 - Apr 13, 1748 DR: Reaches [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)

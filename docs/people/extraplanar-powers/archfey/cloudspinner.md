@@ -3,15 +3,16 @@ headerVersion: 2023.11.25
 tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Cloudspinner
-born:
 species: fey
 subspecies: archfey
 gender: female
 aliases: [Queen of Sunset]
 whereabouts:
 - {type: home, end: 1001, location: Amberglow}
+- {type: home, start: 1749-06-15, location: Amberglow}
 - {type: away, start: 1002, location: imprisoned}
-- {type: away, start: 1749-05-21, end: 9999, location: Vindristjarna}
+- {type: away, start: 1749-05-21, end: 1749-05-31, location: Vindristjarna}
+- {type: away, start: 1749-06-01, end: 1749-06-14, location: Portable Hole}
 dm_notes: important
 dm_owner: tim
 title: Cloudspinner
@@ -26,7 +27,7 @@ title: Cloudspinner
     Originally from: [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
+:octicons-location-24:{ .lg .middle } Currently in the [Dunmar Fellowship's Portal Hole](<../../../campaigns/dunmari-frontier-campaign/treasure/portable-hole.md>)
 
 
 
@@ -35,7 +36,7 @@ The Queen of Sunset was once the ruler of [Amberglow](<../../../gazetteer/extrap
 
 
 
-Her memories opened [Session 67 (DuFr)](<../../../campaigns/dunmari-frontier/session-notes/session-67-dufr.md>):
+Her memories opened [Session 67 (DuFr)](<../../../campaigns/dunmari-frontier-campaign/session-notes/session-67-dufr.md>):
 
 *As a group of travelers gathers here, some reunited after a long separation, others newly met, the Cloudspinner feels their presence even from her prison, far away, and she drifts in thought.
 

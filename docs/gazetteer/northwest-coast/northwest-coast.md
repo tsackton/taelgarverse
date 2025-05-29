@@ -51,14 +51,14 @@ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" >
 
 
 ## Topography and Major Features
-_See more: [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), ~Mawakel Border Mountains~, [Tawir Forest](<./tawir-forest.md>), [Erbalta Plains](<./erbalta-plains.md>), ~North Bay~
+_See more: [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), ~Mawakel Border Mountains~, [Tawir Forest](<./tawir-forest.md>), [Erbalta Plains](<erbalta-plains/erbalta-plains.md>), ~North Bay~
 
 
 
 ## Civilizations and Cultures
 _See more: [Mawar Confederacy](<mawar-confederacy/mawar-confederacy.md>), [Chardonian Empire](<../greater-chardon/chardonian-empire/chardonian-empire.md>)_
 
-Although in the years before the [Great War](<../../events/1500s/great-war.md>) and the [Blood Years](<../../events/1500s/blood-years.md>) that followed this was a diversely populated land, few survived the scourge of hobgoblins, [orcs](<../../species/orcs.md>), and worse that plagued the land after the fall of [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>). Today, most humans owe allegiance to the expanding [Chardonian Empire](<../greater-chardon/chardonian-empire/chardonian-empire.md>), of which [Voltara](<./voltara.md>) is the leading city in the region. On the [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), the [Mawar Confederacy](<mawar-confederacy/mawar-confederacy.md>) stands fiercely independent. A significant group of salt lizardfolk live in the tidal flats and salt marshes of the [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), but there are few dwarves, elves, or stoneborn in this region.
+Although in the years before the [Great War](<../../events/1500s/great-war.md>) and the [Blood Years](<../../events/1500s/blood-years.md>) that followed this was a diversely populated land, few survived the scourge of hobgoblins, [orcs](<../../species/orcs.md>), and worse that plagued the land after the fall of [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>). Today, most humans owe allegiance to the expanding [Chardonian Empire](<../greater-chardon/chardonian-empire/chardonian-empire.md>), of which [Voltara](<northern-provinces/voltara/voltara.md>) is the leading city in the region. On the [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), the [Mawar Confederacy](<mawar-confederacy/mawar-confederacy.md>) stands fiercely independent. A significant group of salt lizardfolk live in the tidal flats and salt marshes of the [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), but there are few dwarves, elves, or stoneborn in this region.
 
 
 ## Climate

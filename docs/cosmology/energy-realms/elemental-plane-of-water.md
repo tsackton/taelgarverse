@@ -32,7 +32,7 @@ The planar geographer Ishara Venn, writing from the [University of Tollen](<../.
 Folk tales among sailors emphasize a different picture. Many mariners believe the stories, discounted by most scholars, of [elemental vortexes](<../planar-concepts/elemental-vortex.md>) at the heart of storms, that can carry people, or even entire ships, across the planes. It is also commonly believed that, if one sails far enough west into the [Endless Ocean](<../../gazetteer/endless-ocean.md>), one will eventually sail across a boundary into the Plane of Water. Although these beliefs are typically discounted as folk legends by most planar geographers, Ishara Venn claimed in her work The Seams Between Worlds that elemental vortexes, at least are too robustly and consistently described to be dismissed as false. 
 
 
-A known portal to the Elemental Plane of Water was located in the merfolk city of [Omi](<../../gazetteer/faraway-places/omi.md>), but was presumed to have collapsed after the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) recovered the [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier/treasure/jade-piece-of-rai-s-hand.md>) from the [Merfolk](<../../species/unusual-species/merfolk.md>) warlock Buruli. 
+A known portal to the Elemental Plane of Water was located in the merfolk city of [Omi](<../../gazetteer/faraway-places/omi.md>), but was presumed to have collapsed after the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) recovered the [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>) from the [Merfolk](<../../species/unusual-species/merfolk.md>) warlock Buruli. 
 
 
 ## Traveling on the Plane of Water

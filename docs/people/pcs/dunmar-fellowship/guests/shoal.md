@@ -26,5 +26,5 @@ title: Shoal
 </div>
 
 
-Young sea elf warrior, from the [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), to the south. Adventuring to win renown and the attention of a lady. After [helping kill the aboleth and rescue Arryn](<../../../../campaigns/dunmari-frontier/session-notes/session-60-dufr.md>), returned south. 
+Young sea elf warrior, from the [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), to the south. Adventuring to win renown and the attention of a lady. After [helping kill the aboleth and rescue Arryn](<../../../../campaigns/dunmari-frontier-campaign/session-notes/session-60-dufr.md>), returned south. 
 

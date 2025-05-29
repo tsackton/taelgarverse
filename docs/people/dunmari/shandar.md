@@ -24,6 +24,6 @@ title: Shandar
 
 
 
-An old Dunmari man who spent many years as [Agata](<../fey/agata.md>)'s table, until [freed](<../../campaigns/dunmari-frontier/session-notes/session-30-dufr.md>) by the Dunmar Fellowship. 
+An old Dunmari man who spent many years as [Agata](<../fey/agata.md>)'s table, until [freed](<../../campaigns/dunmari-frontier-campaign/session-notes/session-30-dufr.md>) by the Dunmar Fellowship. 
 
 

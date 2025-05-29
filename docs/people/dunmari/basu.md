@@ -41,4 +41,4 @@ The grumpy craftsman of the Lakan monks, known for creating magic items that cha
 Romantically involved with [Kassi](<./kassi.md>), although not formally married. 
 
 
-Constructed a the [Portable Hole](<../../campaigns/dunmari-frontier/treasure/portable-hole.md>) for the Dunmar Fellowship, after they helped him gather extraplanar energy of [Arborea](<../../cosmology/spiritual-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the monastery. 
+Constructed a the [Portable Hole](<../../campaigns/dunmari-frontier-campaign/treasure/portable-hole.md>) for the Dunmar Fellowship, after they helped him gather extraplanar energy of [Arborea](<../../cosmology/spiritual-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the monastery. 

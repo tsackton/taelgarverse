@@ -21,4 +21,4 @@ title: Jaeson
 </div>
 
 
-A somewhat shady character who lives in the Sunken Cliffs, just west of the main port of [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), neighbor to [Ryu](<../pcs/mawar-confederacy/ryu.md>) and [Trok](<../pcs/mawar-confederacy/trok.md>). Keeps to himself but will occasionally do favors for Ryu in exchange for fish.
+A somewhat shady character who lives in the Sunken Cliffs, just west of the main port of [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), neighbor to [Ryu](<../pcs/mawar/ryu.md>) and [Trok](<../pcs/mawar/trok.md>). Keeps to himself but will occasionally do favors for Ryu in exchange for fish.

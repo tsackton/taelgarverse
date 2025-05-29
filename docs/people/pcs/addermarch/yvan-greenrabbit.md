@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
 aliases: [Yvan]
-tags: [pc/addermarch, person]
+tags: [pc/addermarch, person, status/active]
 player: Isaac Sackton
 ddbLink: https://www.dndbeyond.com/characters/131340283
 species: halfling
 gender: male
 dm_owner: player
-dm_notes: important
+dm_notes: none
 affiliations:
 - {org: Greenrabbits, type: primary}
 whereabouts:
@@ -28,5 +28,5 @@ title: Yvan Greenrabbit
 </div>
 
 
-![Yvan](../../../assets/yvan.jpg){align="right"; width="400"}Yvan Greenrabbit is a halfling, originally from Sembara, who left his family caravan to travel, eventually finding his way to Addermarch.
+![Yvan](../../../assets/yvan.jpg){align="right"; width="400"}Yvan Greenrabbit is a [halfling](<../../../species/halflings.md>), originally from [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), who left his family caravan to travel, eventually finding his way to [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>).
 

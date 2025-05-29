@@ -25,4 +25,4 @@ The ring was rumored to have been created by an ancient elven wizard from the ea
 How this elf lost the ring is not told, but it reappeared in Drankor, during the golden age, to much consternation. The ring, it is said, would draw the life force of anyone near the wearer when the wearer died, using this life energy to keep the wearer from dying. An attempt was made to destroy it, but it failed, and the ring was lost again. 
 
 
-The ring of undying was [ultimately destroyed](<../../campaigns/dunmari-frontier/session-notes/session-88-dufr.md>) during the [Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>), by [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) of the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>). 
+The ring of undying was [ultimately destroyed](<../../campaigns/dunmari-frontier-campaign/session-notes/session-88-dufr.md>) during the [Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>), by [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) of the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>). 

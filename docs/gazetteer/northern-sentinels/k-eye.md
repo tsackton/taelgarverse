@@ -13,7 +13,7 @@ title: K'eye
 # K'eye
 :speaker:{ .middle } *(keh-EYE)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A river in the [Forest of Nightmares](<./forest-of-nightmares.md>), the [Northern Sentinels](<./northern-sentinels.md>)  
+-    :octicons-location-24:{ .lg .middle } A river in the [Forest of Nightmares](<./forest-of-nightmares.md>), [Northern Sentinels](<./northern-sentinels.md>)  
 </div>
 
 

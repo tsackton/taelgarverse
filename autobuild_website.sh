@@ -33,7 +33,7 @@ cd $BUILD_PATH
 git submodule update --remote --rebase
 
 # autoupdate session notes index
-python taelgar-utils/generate_index_page.py "$SOURCE_PATH/Campaigns/Dunmari Frontier/Session Notes/" --link_style wiki --sort_order DR --tie_breaker realWorldDate --template "- **{descTitle}** ({link_text}, {event_date_str}): {tagline} ({people_str})" > "$SOURCE_PATH/Campaigns/Dunmari Frontier/Sessions.md"
+python taelgar-utils/generate_index_page.py "$SOURCE_PATH/Campaigns/Dunmari Frontier Campaign/Session Notes/" --link_style wiki --sort_order DR --tie_breaker realWorldDate --template "- **{descTitle}** ({link_text}, {event_date_str}): {tagline} ({people_str})" > "$SOURCE_PATH/Campaigns/Dunmari Frontier Campaign/Sessions.md"
 
 # run autobuild
 python $RUN_SCRIPT

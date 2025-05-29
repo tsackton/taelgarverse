@@ -26,4 +26,4 @@ title: Typhina
 
 
 
-A member of the court of the [Cloudspinner](<../extraplanar-powers/archfey/cloudspinner.md>) and guardian of the [Heartwood Grove](<../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>). She was killed by [Agata](<./agata.md>), who later stole her identity while hiding in the [Ring of the Warded Mind](<../../campaigns/dunmari-frontier/treasure/ring-of-the-warded-mind.md>).
+A member of the court of the [Cloudspinner](<../extraplanar-powers/archfey/cloudspinner.md>) and guardian of the [Heartwood Grove](<../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>). She was killed by [Agata](<./agata.md>), who later stole her identity while hiding in the [Ring of the Warded Mind](<../../campaigns/dunmari-frontier-campaign/treasure/ring-of-the-warded-mind.md>).

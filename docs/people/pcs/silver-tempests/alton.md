@@ -21,7 +21,7 @@ title: Alton
     { .bio }
 
     Originally from: [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-    Based in [Voltara](<../../../gazetteer/northwest-coast/voltara.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Based in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
 
@@ -31,4 +31,4 @@ When Alton heard that the [Great Library](<../../../gazetteer/greater-chardon/ch
 
 Nearly a year later, in March of DR 1748, Alton joined a group of adventurers, including Cassia, a human paladin, and Brottor, a dwarf, to investigate the depths of the ruined mines under Goldpeak Mountain. During the mission, Brottor was killed by minions of Vilaxes, and Alton and Cassia only survived because of the [Silver Tempests](<./silver-tempests.md>), who found them and joined forces to defeat Vilaxes. 
 
-Since then, Alton has been living in [Voltara](<../../../gazetteer/northwest-coast/voltara.md>) and occasionally traveling with the [Silver Tempests](<./silver-tempests.md>). 
+Since then, Alton has been living in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) and occasionally traveling with the [Silver Tempests](<./silver-tempests.md>). 

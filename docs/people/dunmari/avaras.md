@@ -48,6 +48,7 @@ It is a quiet life, with time for contemplation. With [Pava](<./pava.md>) and th
 ### Recents Happenings
 * Aug 19, 1747 DR Avaras and Pava found an elf, Delwath, wandering confused in the desert west of Kharsan, dying of thirst and delirious. They took him in, and removed his armor which seemed to be smoking with some kind of shadows. 
 * Aug 21, 1747 DR Delwath left in the night a few days later. 
-* May 02, 1748 DR Delwath returns and [meets Avaras again](<../../campaigns/dunmari-frontier/session-notes/session-19-dufr.md>), with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+* May 02, 1748 DR Delwath returns and [meets Avaras again](<../../campaigns/dunmari-frontier-campaign/session-notes/session-19-dufr.md>), with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+
 
 

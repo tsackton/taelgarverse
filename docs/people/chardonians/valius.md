@@ -30,7 +30,7 @@ title: Valius
     Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
+:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 
 
 
@@ -39,4 +39,4 @@ title: Valius
 
 
 
-A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [Fausto](<./fausto.md>) and trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier/treasure/mirror-of-soul-trapping.md>). Alongside his twin, [Vargus](<./vargus.md>), he once sought treasures and wealth, but now seeks only to free his brother from [Fausto](<./fausto.md>)'s curse.
+A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [Fausto](<./fausto.md>) and trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>). Alongside his twin, [Vargus](<./vargus.md>), he once sought treasures and wealth, but now seeks only to free his brother from [Fausto](<./fausto.md>)'s curse.

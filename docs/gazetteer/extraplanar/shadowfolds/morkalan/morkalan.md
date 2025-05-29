@@ -38,7 +38,7 @@ Although the vast majority of the inhabitants of Morkalan were dwarves, a handfu
 From what can be reconstructed, it appears that Morkalan was brought into being by the madness of [Hagrim](<../../../../people/dwarves/hagrim.md>), a dwarf warrior and hero of the [Great War](<../../../../events/1500s/great-war.md>), when he, in death, betrayed his companions and turned from the gods. But Hagrim could not recall his story or his past life, having simply come to identify himself as Morkalan, the soul of Dishonor. 
 
 ## Destruction of Morkalan
-In August of 1748, the Chalice of the Runepriest was recovered by the dwarf adventurer Riswynn. Through it, she was drawn to the realm of the [Bahrazel](<../../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>), the Heart of the Mountain, and sent (with three companions repaying debts to the [Bahrazel](<../../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>)) to Morkalan. [Hagrim was defeated ](<../../../../campaigns/dunmari-frontier/session-notes/session-56-dufr.md>)and the waters of the Chalice of the Runepriest shattered the fabric of the domain, destroying it. 
+In August of 1748, the Chalice of the Runepriest was recovered by the dwarf adventurer Riswynn. Through it, she was drawn to the realm of the [Bahrazel](<../../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>), the Heart of the Mountain, and sent (with three companions repaying debts to the [Bahrazel](<../../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>)) to Morkalan. [Hagrim was defeated ](<../../../../campaigns/dunmari-frontier-campaign/session-notes/session-56-dufr.md>)and the waters of the Chalice of the Runepriest shattered the fabric of the domain, destroying it. 
 
 
 

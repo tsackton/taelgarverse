@@ -30,4 +30,4 @@ title: Grumella the Vengeful
 
 
 
-The commander and leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), a large group of [orcs](<../../species/orcs.md>) that occupied the plains north of [Voltara](<../../gazetteer/northwest-coast/voltara.md>) in the spring and summer of 1747. Grumella was defeated by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) and their allies in the The Battle of Voltara. 
+The commander and leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), a large group of [orcs](<../../species/orcs.md>) that occupied the plains north of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in the spring and summer of 1747. Grumella was defeated by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) and their allies in the Battle of Voltara. 

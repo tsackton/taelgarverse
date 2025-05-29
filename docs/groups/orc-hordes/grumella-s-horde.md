@@ -14,6 +14,6 @@ title: Grumella's Horde
 </div>
 
 
-The army of [Orcs](<../../species/orcs.md>) gathered under the leadership of [Grumella](<../../people/orcs/grumella.md>) to assault [Voltara](<../../gazetteer/northwest-coast/voltara.md>) and the northern border of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). 
+The army of [Orcs](<../../species/orcs.md>) gathered under the leadership of [Grumella](<../../people/orcs/grumella.md>) to assault [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) and the northern border of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). 
 
-Defeated in battle outside [Voltara](<../../gazetteer/northwest-coast/voltara.md>) in October DR 1747. 
+Defeated in battle outside [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in October DR 1747. 

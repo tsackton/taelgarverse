@@ -28,6 +28,6 @@ title: Enon
 
 Godcaller of the Ko’zula Deno’qai. 
 
-Gifted [Delwath](<../pcs/dunmar-fellowship/delwath.md>) his [Deno'qai Scale Mail](<../../campaigns/dunmari-frontier/treasure/deno-qai-scale-mail.md>) and [Deno'qai Lynx Shield](<../../campaigns/dunmari-frontier/treasure/deno-qai-lynx-shield.md>) prior to [Delwath's solo adventure to free the Meswati.](<../../campaigns/dunmari-frontier/session-notes/session-53-dufr.md>)
+Gifted [Delwath](<../pcs/dunmar-fellowship/delwath.md>) his [Deno'qai Scale Mail](<../../campaigns/dunmari-frontier-campaign/treasure/deno-qai-scale-mail.md>) and [Deno'qai Lynx Shield](<../../campaigns/dunmari-frontier-campaign/treasure/deno-qai-lynx-shield.md>) prior to [Delwath's solo adventure to free the Meswati.](<../../campaigns/dunmari-frontier-campaign/session-notes/session-53-dufr.md>)
 
 

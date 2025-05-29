@@ -23,4 +23,4 @@ Since the [Great War](<../../../events/1500s/great-war.md>) the upheavals that f
 
 About halfway between Tokra and Karawa, a three-mile segment of an old Drankorian aqueduct still exists, carrying a faded enchantment that amplifies the volume of water flowing over it. While it cannot create water out of thin air, a gallon of water poured into the aqueduct will grow to two gallons as it travels. 
 
-[Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) built [earthen berm along these ruins](<../../../campaigns/dunmari-frontier/session-notes/session-33-dufr.md>), to make access easier, so Dunmari can use as a mini-oasis.
+[Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) built [earthen berm along these ruins](<../../../campaigns/dunmari-frontier-campaign/session-notes/session-33-dufr.md>), to make access easier, so Dunmari can use as a mini-oasis.

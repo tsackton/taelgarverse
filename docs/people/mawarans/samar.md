@@ -22,6 +22,6 @@ title: Samar
 </div>
 
 
-The twin sister of [Reliah](<./reliah.md>), an orphaned girl who lives in the Drowned Flats. [Wazir](<../pcs/mawar-confederacy/wazir.md>) feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
+The twin sister of [Reliah](<./reliah.md>), an orphaned girl who lives in the Drowned Flats. [Wazir](<../pcs/mawar/wazir.md>) feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
 
 ![Samar](../../assets/samar.png)

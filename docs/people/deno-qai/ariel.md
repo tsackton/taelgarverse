@@ -43,4 +43,4 @@ She also knows many tales from the north about the [Tanshi](<../../gods-and-reli
 ## Events
 - 1671 DR *(Ariel)*: Left her home in the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), with her family and many others of the Shu'anra tribe, to find less marginal lands and better prospects to the south
 - 1680 DR *(Ariel)*: Settled in [the Elderwood](<../../gazetteer/central-highlands/elderwood.md>) with the Te'kula tribe
-- Sep 11, 1748 DR *(Ariel)*: [Meets](<../../campaigns/dunmari-frontier/session-notes/session-52-dufr.md>) [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), and tells [Delwath](<../pcs/dunmar-fellowship/delwath.md>) stories of the Deno'qai and the [Meswati](<../../gods-and-religions/gods/tanshi/meswati/meswati.md>)
+- Sep 11, 1748 DR *(Ariel)*: [Meets](<../../campaigns/dunmari-frontier-campaign/session-notes/session-52-dufr.md>) [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), and tells [Delwath](<../pcs/dunmar-fellowship/delwath.md>) stories of the Deno'qai and the [Meswati](<../../gods-and-religions/gods/tanshi/meswati/meswati.md>)

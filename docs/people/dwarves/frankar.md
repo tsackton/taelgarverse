@@ -35,7 +35,7 @@ A dwarf from the city of Darakan, in the kingdom of [Khatridun](<../../gazetteer
 Mysteriously vanished in a storm in DR 1730.  
 
 
-[Seeker](<../pcs/dunmar-fellowship/seeker.md>)'s brother. [Seeker](<../pcs/dunmar-fellowship/seeker.md>) told his story on [April 16, 1748](<../../campaigns/dunmari-frontier/session-notes/session-17-dufr.md>), after surviving the storms caused by Hralgar around Stormcaller Tower. 
+[Seeker](<../pcs/dunmar-fellowship/seeker.md>)'s brother. [Seeker](<../pcs/dunmar-fellowship/seeker.md>) told his story on [April 16, 1748](<../../campaigns/dunmari-frontier-campaign/session-notes/session-17-dufr.md>), after surviving the storms caused by Hralgar around Stormcaller Tower. 
 
 ### Seeker's Story of Frankar
 

@@ -44,5 +44,5 @@ She told her story and history to Kenzo while they wandered [Tollen](<../../gaze
 
 
 
-![Iskra's Story](<../../campaigns/dunmari-frontier/collected-stories/iskra-s-story.md>)
+![Iskra's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/iskra-s-story.md>)
 

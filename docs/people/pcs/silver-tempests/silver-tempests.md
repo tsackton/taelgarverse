@@ -16,7 +16,7 @@ title: Silver Tempests
 </div>
 
 
-The Silver Tempests are a renowned adventuring party based out of [Voltara](<../../../gazetteer/northwest-coast/voltara.md>), on the northern frontier of the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). Originally hired by [Lyra](<../../chardonians/lyra.md>) to seek the Elemental Scrolls of Airion, the Silver Tempests became famous after their role in [Grumella's War](<../../../events/1700s/grumella-s-war.md>), and have since established an elaborate manor, the [Tempest Towers](<../../../campaigns/great-library/tempest-towers.md>) in the center of [Voltara](<../../../gazetteer/northwest-coast/voltara.md>), near the baths and market. 
+The Silver Tempests are a renowned adventuring party based out of [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), on the northern frontier of the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). Originally hired by [Lyra](<../../chardonians/lyra.md>) to seek the Elemental Scrolls of Airion, the Silver Tempests became famous after their role in [Grumella's War](<../../../events/1700s/grumella-s-war.md>), and have since established an elaborate manor, the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>) in the center of [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), near the baths and market. 
 
 The original members of the Silver Tempests are:
 - [Adrik](<./adrik.md>) Boulderbeard, a lightning-touched barbarian from the [Yuvanti Mountains](<../../../gazetteer/greater-dunmar/yuvanti-mountains.md>), far to the south
@@ -25,7 +25,7 @@ The original members of the Silver Tempests are:
 - [Aelar](<./aelar.md>), an elven shadow monk, who grew up an orphan wandering around Chardon, and has since grown so stealthy that he disappeared into the background
 
 Recently, the Silver Tempests have been joined by:
-- [Alton](<./alton.md>), a halfling rogue and proprietor of a dive bar outside [Voltara](<../../../gazetteer/northwest-coast/voltara.md>) known for offering recreational axe throwing to its patrons. Alton was originally hired by [Lyra](<../../chardonians/lyra.md>) and traveled briefly with the Silver Tempests in their early days, but left her service and traveled alone for some time before rejoining the group in the Goldpeak Mines.
+- [Alton](<./alton.md>), a halfling rogue and proprietor of a dive bar outside [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) known for offering recreational axe throwing to its patrons. Alton was originally hired by [Lyra](<../../chardonians/lyra.md>) and traveled briefly with the Silver Tempests in their early days, but left her service and traveled alone for some time before rejoining the group in the [Goldpeak Mines](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>).
 - [Mabist](<./mabist.md>), a changeling warlock from the [Feywild](<../../../cosmology/feywild.md>), with a mysterious past
 - [Blue](<./blue.md>), a mysterious traveler
 

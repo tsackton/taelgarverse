@@ -14,7 +14,7 @@ title: Metium
 </div>
 
 
-Metium is a walled city about 60 miles upriver from [Chardon](<../chardon/chardon.md>), at the confluence of the [Chasa](<../../../major-rivers/chasa.md>) and the Nahadi rivers. Although small in comparison to Chardon, it is a wealthy city, at the center of a highly productive wine growing region, and a hub for river traffic. Messages flow regularly from here to Chardon. 
+Metium is a walled city about 60 miles upriver from [Chardon](<../chardon/chardon.md>), at the confluence of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>) and the [Nahadi](<../../../major-rivers/chasa-nahadi-watershed/nahadi.md>) rivers. Although small in comparison to Chardon, it is a wealthy city, at the center of a highly productive wine growing region, and a hub for river traffic. Messages flow regularly from here to Chardon. 
 
 Metium traces its history back to the [Drankorian Empire](<../../../../history/drankorian-era/drankorian-empire.md>), originally as a fortification to protect a small river port. Although it quickly outstripping its humble beginnings, parts of the original fort still remain, integrated into the city walls and the foundations of several buildings in the oldest district. Metium was briefly sacked during the Conclave War until it was freed after Chardon's victory at the [Battle of Metium](<../../../../events/1500s/battle-of-metium.md>). Since the end of the Conclave War, Metium has grown rapidly, recovering and more from the damage dealt. 
 

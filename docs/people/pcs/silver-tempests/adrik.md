@@ -27,7 +27,7 @@ title: Adrik Boulderbeard
     { .bio }
 
     Originally from: [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
-    Based in the [Tempest Towers](<../../../campaigns/great-library/tempest-towers.md>), [Voltara](<../../../gazetteer/northwest-coast/voltara.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Based in the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>), [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>)
 </div>
 
 

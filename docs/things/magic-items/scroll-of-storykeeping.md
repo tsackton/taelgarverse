@@ -19,12 +19,12 @@ With the proper rituals, these stories can be transferred from these scrolls to 
 
 
 [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) has recorded 9 stories with these scrolls:
-- [Kirian's Story](<../../campaigns/dunmari-frontier/collected-stories/kirian-s-story.md>)
-- [Amar's Story](<../../campaigns/dunmari-frontier/collected-stories/amar-s-story.md>)
-- [Justan's Story](<../../campaigns/dunmari-frontier/collected-stories/justan-s-story.md>)
-- [Tree’s story](<../../campaigns/dunmari-frontier/collected-stories/trees-story.md>)
-- [Caulaus' Story](<../../campaigns/dunmari-frontier/collected-stories/caulaus-story.md>)
-- [Jorundr's Story](<../../campaigns/dunmari-frontier/collected-stories/jorundr-s-story.md>)
-- [Nameless Chardonian Warrior's Story](<../../campaigns/dunmari-frontier/collected-stories/nameless-chardonian-warrior-s-story.md>)
-- [Cecilia Lister's Story](<../../campaigns/dunmari-frontier/collected-stories/cecilia-lister-s-story.md>)
-- [Iskra's Story](<../../campaigns/dunmari-frontier/collected-stories/iskra-s-story.md>)
+- [Kirian's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/kirian-s-story.md>)
+- [Amar's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/amar-s-story.md>)
+- [Justan's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/justan-s-story.md>)
+- [Tree’s story](<../../campaigns/dunmari-frontier-campaign/collected-stories/trees-story.md>)
+- [Caulaus' Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/caulaus-story.md>)
+- [Jorundr's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/jorundr-s-story.md>)
+- [Nameless Chardonian Warrior's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/nameless-chardonian-warrior-s-story.md>)
+- [Cecilia Lister's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/cecilia-lister-s-story.md>)
+- [Iskra's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/iskra-s-story.md>)

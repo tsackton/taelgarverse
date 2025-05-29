@@ -24,4 +24,4 @@ The most famous poem in this book is *A Lament for Lost Thunder*, an ode to gian
 
 A copy of this book was recovered from [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), and later sold to [Albus](<../../people/chardonians/albus.md>) in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>). 
 
-Later it was discovered that a stanza from the *A Lament for Lost Thunder* was used by [Eudomes](<../../people/historical-figures/eudomes.md>) used as the key to unlock the [Binding Stones](<../../campaigns/dunmari-frontier/treasure/binding-stones.md>) that were binding [Hralgar](<../../people/giants/hralgar.md>)
+Later it was discovered that a stanza from the *A Lament for Lost Thunder* was used by [Eudomes](<../../people/historical-figures/eudomes.md>) used as the key to unlock the [Binding Stones](<../../campaigns/dunmari-frontier-campaign/treasure/binding-stones.md>) that were binding [Hralgar](<../../people/giants/hralgar.md>)

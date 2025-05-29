@@ -88,7 +88,7 @@ When the [Great War](<../../events/1500s/great-war.md>) came, the lands north of
 
 ## Boundaries
 
-The West Coast Region includes the entirety of the [Chardonian Empire](<chardonian-empire/chardonian-empire.md>), as well as the [Nevos Sea](<../nevos-and-apporia/nevos-sea.md>) area, the [Mawakel Peninsula](<../northwest-coast/mawar-confederacy/mawakel-peninsula.md>), and the [Erbalta Plains](<../northwest-coast/erbalta-plains.md>), plus the coastal regions west and north of the [Erbalta Plains](<../northwest-coast/erbalta-plains.md>). It also includes the islands in the [Endless Ocean](<../endless-ocean.md>). 
+The West Coast Region includes the entirety of the [Chardonian Empire](<chardonian-empire/chardonian-empire.md>), as well as the [Nevos Sea](<../nevos-and-apporia/nevos-sea.md>) area, the [Mawakel Peninsula](<../northwest-coast/mawar-confederacy/mawakel-peninsula.md>), and the [Erbalta Plains](<../northwest-coast/erbalta-plains/erbalta-plains.md>), plus the coastal regions west and north of the [Erbalta Plains](<../northwest-coast/erbalta-plains/erbalta-plains.md>). It also includes the islands in the [Endless Ocean](<../endless-ocean.md>). 
 
 - To the north, this region is bordered by the mysterious cold of the [Far North](<../faraway-places/far-north.md>). 
 - To the east, this region is bordered by the ~North Nahadi River~, [Ainumarya](<../central-highlands/ainumarya.md>), and the [Myraeni Gap](<../greater-dunmar/myraeni-gap.md>).
@@ -103,7 +103,7 @@ The West Coast Region includes the entirety of the [Chardonian Empire](<chardoni
 - [Lake Valandros](<./lake-valandros.md>): *Huge lake, with no canonical details. Likely somewhat dry on the west side and humid and rainy on the east side, just from mountain influence. Probably also agricultural - rice production for example might be common.*
 - [Mawakel Peninsula](<../northwest-coast/mawar-confederacy/mawakel-peninsula.md>): *See Mawar notes. Currently unresolved is if this is more of a Cool Maritime Climate (Cfb) with limited winter snow, as currently marked (analogy: coastal Ireland, Pacific NW), or if this is more of a Subpolar Oceanic Climate (Cfc) with heavy winter snowfall and limited agriculture (analogy: Iceland or Norwegian coasts). I guess I have leaned towards the former, with the further north coast beyond Mawar more of the Norway analog.*
 - ~North Bay~: *Lots of land northeast of Mawar. The east coast, near Voltara, has a bit of detail from Great Library campaign, but otherwise this is totally open and undeveloped.*
-- [Alimas](<../northwest-coast/alimas.md>): *Canon: center for chalyte mining - mountainous and arid with extensive plains.*
+- [Snake River](<../major-rivers/chasa-nahadi-watershed/snake-river.md>): *Canon: center for chalyte mining - mountainous and arid with extensive plains.*
 - [Tawir Forest](<../northwest-coast/tawir-forest.md>): *So far just a name.*
 - [Chasa River Valley](<chardonian-empire/chasa-river-valley/chasa-river-valley.md>): *agricultural mixed with forests, major population center*
 - [Yeraad River Basin](<../major-rivers/yeraad-river-basin.md>): *southeast of Chardon, south of Chasa/Elderwood. Major lizardfolk area, mining in the hills that separate it from Chasa, and in the "Darba Mountains". Very little detail otherwise - probably fairly flat, hot in the summer. This is basically med transitioning to semi-arid in the east and south, likely supporting fruit trees near the coast, and extensive livestock, probably the center of the Chardon cattle industry.*

@@ -14,7 +14,7 @@ title: The World of Taelgar
 The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate and am Earth-like sun, Moon, and stars. The main landmass stretches from the [Endless Ocean](<./endless-ocean.md>) in the west across more than 5,000 miles of mountains, forests, rivers, swamps, farmland, desolation and deserts to the mysterious east.  
 
 Many mapmakers consider the mighty [Sentinel Range](<./sentinel-range.md>), whose highest peaks rise more than 20,000 feet into the air, the defining feature of the land. The [Sentinel's](<./sentinel-range.md>) 2,500 miles of mountains and foothills divide the world into three: 
-* to the west, [Chardon](<greater-chardon/chardonian-empire/chardon/chardon.md>), the great city of magic and learning, by the mouth of the the mighty Chasa-Nahadi Watershed, and the smaller [Yeraad River](<major-rivers/yeraad-river-basin.md>), to the south
+* to the west, [Chardon](<greater-chardon/chardonian-empire/chardon/chardon.md>), the great city of magic and learning, by the mouth of the the mighty [Chasa-Nahadi Watershed](<major-rivers/chasa-nahadi-watershed/chasa-nahadi-watershed.md>), and the smaller [Yeraad River](<major-rivers/yeraad-river-basin.md>), to the south
 * to the south, the great [Dunmari Basin](<greater-dunmar/dunmari-basin/dunmari-basin.md>), arid and windswept, cut off from the [Nevos Sea](<nevos-and-apporia/nevos-sea.md>) by the [Yuvanti Mountains](<greater-dunmar/yuvanti-mountains.md>)
 * to the east, the [realms of Sembara, Tyrwingha, and Vostok](<greater-sembara/greater-sembara.md>) on the shores of the [Western Gulf](<greater-sembara/western-gulf.md>) of the [Green Sea](<./green-sea.md>)
 

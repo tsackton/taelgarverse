@@ -20,7 +20,7 @@ Captained by [Urgall the Black](<../../people/skaer/urgall-the-black.md>), the F
 When the Flaming Tempest docked at the holy island of [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), it was partially destroyed in the storm that was summoned by [Kaikkea](<../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>), in an unsuccessful attempt prevent [Urgall the Black](<../../people/skaer/urgall-the-black.md>) from summoning the demon [Mashtu the Corruptor](<../../people/extraplanar-powers/mashtu-the-corruptor.md>) to consume the sacred waters. However, the storm did trap the demon on the island. 
 
 
-After the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) [defeated](<../../campaigns/dunmari-frontier/session-notes/session-81-dufr.md>) [Mashtu the Corruptor](<../../people/extraplanar-powers/mashtu-the-corruptor.md>), The Flaming Tempest was claimed as salvage and brought by to [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), where it was sold for raw materials used to help refit [Vindristjarna](<./vindristjarna.md>). 
+After the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) [defeated](<../../campaigns/dunmari-frontier-campaign/session-notes/session-81-dufr.md>) [Mashtu the Corruptor](<../../people/extraplanar-powers/mashtu-the-corruptor.md>), The Flaming Tempest was claimed as salvage and brought by to [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), where it was sold for raw materials used to help refit [Vindristjarna](<./vindristjarna.md>). 
 
 
 

@@ -14,7 +14,7 @@ title: Lake Valandros
 # Lake Valandros
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A lake in the [Chardonian Empire](<chardonian-empire/chardonian-empire.md>), [Greater Chardon](<./greater-chardon.md>)  
-    :octicons-location-24:{ .lg .middle } Located in the Chasa-Nahadi Watershed  
+    :octicons-location-24:{ .lg .middle } Located in the [Chasa-Nahadi Watershed](<../major-rivers/chasa-nahadi-watershed/chasa-nahadi-watershed.md>)  
 </div>
 
 

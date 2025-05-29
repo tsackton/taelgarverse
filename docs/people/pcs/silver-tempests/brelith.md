@@ -27,7 +27,7 @@ title: Brelith Shockstone
     { .bio }
 
     Originally from: [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), [Am'khazar](<../../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), [Labkhan](<../../../gazetteer/sentinel-range.md>)
-    Based in the [Tempest Towers](<../../../campaigns/great-library/tempest-towers.md>), [Voltara](<../../../gazetteer/northwest-coast/voltara.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Based in the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>), [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>)
 </div>
 
 
