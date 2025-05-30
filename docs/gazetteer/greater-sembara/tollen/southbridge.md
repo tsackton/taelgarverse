@@ -10,7 +10,7 @@ title: Southbridge
 ---
 # Southbridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A ward in the [Free City of Tollen](<./tollen.md>), the Western Green Sea Region  
+-    :octicons-location-24:{ .lg .middle } A ward [Tollen](<./tollen.md>)  
 </div>
 
 

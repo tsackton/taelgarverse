@@ -64,7 +64,7 @@ Garret spent the next 11 years in servitude, as a wooden scarecrow, until he was
   - Jun 02, 1748 DR:  [Garret Tealeaf](<./garret-tealeaf.md>) is freed from his imprisonment as a wooden scarecrow by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 
 
                                                                                                                                                                                                                                                                                           |
-| [Ander Charmheart](<./ander-charmheart.md>)                                             | [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion
+| [Bree Charmheart](<./bree-charmheart.md>)                                               | [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion
 
 
 

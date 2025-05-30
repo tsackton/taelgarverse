@@ -21,4 +21,4 @@ title: Adam Gower
 </div>
 
 
-Factor, treasurer, and agent for the[Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Tollen
+![Adam Gower](../../assets/adam-gower.jpg){align="right"; width="300"}Factor, treasurer, and agent for the[Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Tollen

@@ -11,10 +11,10 @@ gender: male
 aliases: [Faldrak]
 family: Bronzehammer
 whereabouts:
-- {type: home, start: '', end: '', location: Fahnukan}
+- {type: home, start: '', end: 1693-01-01, location: Fahnukan}
 - {type: away, start: 1693-01-01, end: '', location: Feywild}
 - {type: away, start: 1698-01-01, end: '', location: Feywild}
-- {type: home, start: 1727-01-02, end: '', location: Tollen}
+- {type: home, start: 1727-01-02, end: 1749-01-04, location: Tollen}
 - {type: away, start: 1749-01-05, end: 1750, location: Vindristjarna}
 image: faldrak-small.png
 dm_notes: important
@@ -30,10 +30,9 @@ title: Faldrak Bronzehammer
     { .bio }
 
     Originally from: [Fahnukan](<../../gazetteer/northern-sentinels/fahnukan.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
+:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
 
 
 

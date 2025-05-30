@@ -14,7 +14,7 @@ title: Temple of Kaikkea
 ---
 # The Temple of Kaikkea
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Skaer](<../../western-green-sea/realms/skaer.md>) temple of [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>) in the [Free City of Tollen](<./tollen.md>), the Western Green Sea Region  
+-    :octicons-location-24:{ .lg .middle } A [Skaer](<../../western-green-sea/realms/skaer.md>) temple of [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>) [Tollen](<./tollen.md>)  
 </div>
 
 

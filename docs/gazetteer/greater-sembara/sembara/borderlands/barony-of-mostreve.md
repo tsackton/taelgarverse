@@ -13,7 +13,7 @@ title: Barony of Mostrevé
 # The Barony of Mostrevé
 :speaker:{ .middle } *(moh-strev-AY)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A barony in the [Borderlands](<./borderlands.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A barony [Borderlands](<./borderlands.md>)  
 </div>
 
 
