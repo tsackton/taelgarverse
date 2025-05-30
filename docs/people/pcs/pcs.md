@@ -19,6 +19,6 @@ In the DR 1700s, four groups of adventurers are most active in Taelgar:
 Other adventurers include:
 - The Adventurers of Mawar, united by their shared home of [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), and whose exploits are [told elsewhere](<../../campaigns/mawar-adventures/mawar-adventures.md>).
 - The companions of Oskar and Riswynn, who solved some problems around [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>) in DR 1748
-- The prisoners of Grimstone, who escaped from an abandoned manor in [Western Cymea](<../../gazetteer/western-green-sea/realms/western-cymea.md>).
+- The prisoners of Grimstone, who [escaped](<../../campaigns/one-shots/labyrinths-of-the-lost/labyrinths-of-the-lost.md>) from an abandoned manor in [Western Cymea](<../../gazetteer/western-green-sea/realms/western-cymea.md>).
 - [Izar](<ausson-s-crossing/izar.md>), [Roe DoTorka](<ausson-s-crossing/roe-dotorka.md>), and [Soraine](<ausson-s-crossing/soraine.md>), who investigated a murder in [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>) in DR 1688. 
 
