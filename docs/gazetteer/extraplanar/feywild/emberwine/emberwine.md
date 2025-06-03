@@ -16,3 +16,4 @@ title: Emberwine
 
 Emberwine is a fey realm, south of [Amberglow](<../amberglow/amberglow.md>), west of the Sunset Gate, and east of [Everlight's Bloom](<../everlight-s-bloom.md>). It is a realm of revelry and dance, a place where music and wine flow freely. It is a land of rolling vineyards and gentle hills, bathed in the constant golden light of the late afternoon sun. 
 
+![Zoom Emberwine Fields](../../../../assets/zoom-emberwine-fields.png)

@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+aliases: [Golden Prince]
 species: fey
 speciesAlias: archfey
 gender: male
 name: Prince Aurelian
 whereabouts: Everlight's Bloom
-dm_owner: time
+dm_owner: tim
 dm_notes: none
 title: Prince Aurelian
 ---

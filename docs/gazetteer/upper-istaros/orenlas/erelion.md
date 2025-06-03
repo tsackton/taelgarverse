@@ -13,7 +13,7 @@ title: Erelion
 # Erelion
 :speaker:{ .middle } *(air-LEE-on)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An [elven](<../../../species/elves.md>) city in [Orenlas](<./orenlas.md>), the [Istaros Watershed](<../../major-rivers/istaros-watershed.md>)  
+-    :octicons-location-24:{ .lg .middle } An [elven](<../../../species/elves.md>) city [Orenlas](<./orenlas.md>)  
 </div>
 
 

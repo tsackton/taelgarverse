@@ -24,10 +24,8 @@ title: Cloudspinner
     A [fey](<../../../species/extraplanar/fey.md>) ([archfey](<../../../species/extraplanar/fey.md>)) (she/her)  
     { .bio }
 
-    Originally from: [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)
+    Based in [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)
 </div>
-
-:octicons-location-24:{ .lg .middle } Currently in the [Dunmar Fellowship's Portal Hole](<../../../campaigns/dunmari-frontier-campaign/treasure/portable-hole.md>)
 
 
 

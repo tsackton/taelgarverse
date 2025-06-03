@@ -16,5 +16,5 @@ title: The Chapterhouse
 </div>
 
 
-A quiet student tavern in the 4th Precinct, the university district of [Chardon](<./chardon.md>)
+A quiet student tavern in Precinct IV, the university district of [Chardon](<./chardon.md>)
 

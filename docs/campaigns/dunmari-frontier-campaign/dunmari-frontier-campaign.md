@@ -18,17 +18,23 @@ You might start with:
 
 The most recent session with published notes is [Session 123 (DuFr)](<session-notes/session-123-dufr.md>). For background, notes linked from that session are below:
 
-| Link                                                                                         | Folder    |
-| -------------------------------------------------------------------------------------------- | --------- |
-| [Feywild](<../../cosmology/feywild.md>)                                                            | Cosmology |
-| [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>)                          | Gazetteer |
-| [Cloud Palace](<../../gazetteer/extraplanar/feywild/amberglow/cloud-palace.md>)                    | Gazetteer |
-| [Prismwell](<../../gazetteer/extraplanar/feywild/amberglow/prismwell.md>)                          | Gazetteer |
-| [Redsun Watch](<../../gazetteer/extraplanar/feywild/amberglow/redsun-watch.md>)                    | Gazetteer |
-| [Hollowdark](<../../gazetteer/extraplanar/feywild/hollowdark.md>)                                  | Gazetteer |
-| [Pava and Avaras' House](<../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>) | Gazetteer |
-| [Cloudspinner](<../../people/extraplanar-powers/archfey/cloudspinner.md>)                          | People    |
-| [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>)                            | Things    |
-| [Vindristjarna](<../../things/ships/vindristjarna.md>)                                             | Things    |
+| Link                                                                                         | Folder             |
+| -------------------------------------------------------------------------------------------- | ------------------ |
+| [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  | Gazetteer          |
+| [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>)                          | Gazetteer          |
+| [Cloud Palace](<../../gazetteer/extraplanar/feywild/amberglow/cloud-palace.md>)                    | Gazetteer          |
+| [Prismwell](<../../gazetteer/extraplanar/feywild/amberglow/prismwell.md>)                          | Gazetteer          |
+| [Redsun Watch](<../../gazetteer/extraplanar/feywild/amberglow/redsun-watch.md>)                    | Gazetteer          |
+| [duskhounds](<../../Gazetteer/Extraplanar/Feywild/Duskhounds.md>)                                  | Gazetteer          |
+| [Duskmire](<../../Gazetteer/Extraplanar/Feywild/Duskmire.md>)                                      | Gazetteer          |
+| [Hollowdark](<../../gazetteer/extraplanar/feywild/hollowdark.md>)                                  | Gazetteer          |
+| [Pava and Avaras' House](<../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>) | Gazetteer          |
+| [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)                                    | Gods and Religions |
+| [Cloudspinner](<../../people/extraplanar-powers/archfey/cloudspinner.md>)                          | People             |
+| [Lady Eventide](<../../people/fey/lady-eventide.md>)                                               | People             |
+| [Valeris](<../../people/fey/valeris.md>)                                                           | People             |
+| [orcs](<../../species/orcs.md>)                                                                    | Species            |
+| [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>)                            | Things             |
+| [Vindristjarna](<../../things/ships/vindristjarna.md>)                                             | Things             |
 
 
