@@ -14,7 +14,7 @@ title: Lakan Monastery
 ---
 # The Lakan Monastery
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Dunmari](<../../dunmar.md>) monastery of [Laka](<../../../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>) in [Tokra](<./tokra.md>), [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Dunmari](<../../dunmar.md>) monastery of [Laka](<../../../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>) in [Tokra](<./tokra.md>), [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>), [Greater Dunmar](<../../../../greater-dunmar.md>)  
 </div>
 
 

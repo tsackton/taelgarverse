@@ -11,7 +11,7 @@ title: Uzgukhar
 ---
 # Uzgukhar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A city [Xurkhaz](<./xurkhaz.md>)  
+-    :octicons-location-24:{ .lg .middle } A city in [Xurkhaz](<./xurkhaz.md>), the [Garamjala Desert](<../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../drankorian-hinterland/desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../../drankorian-hinterland/drankorian-hinterland.md>)  
 </div>
 
 

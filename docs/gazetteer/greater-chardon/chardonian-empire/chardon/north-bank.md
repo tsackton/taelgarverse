@@ -32,25 +32,3 @@ Two major bridges cross the [Chasa](<../../../major-rivers/chasa-nahadi-watershe
 
 These bridge crossings are supplemented by numerous ferries that dot the shores of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>). 
 
-
-
-Market name ideas - not yet used
-
-| Name                    | Type                      | Quarter               | Two-line sketch & etymology hint                                                                                                                                                           |
-| ----------------------- | ------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Canal Exchange**      | covered bourse            | **Ragwater Basin**    | Timber hall straddling the Mill Channel lock-gates where refinery quotas, slag rights, and barge berths are auctioned each noon. “Exchange” (Fr. _eschanger_) carries the mercantile tone. |
-| **Bastion Square**      | civic plaza & weekly fair | **Bastion Quarter**   | Paved forecourt just inside the Trade Gate; wagons circle an octagonal pillared cross where city criers read edicts. Name ties to the adjoining wall bastion.                              |
-| **Tollgate Hall**       | weigh-house & market      | **Bastion Quarter**   | Stone hall beside the gatehouse; once armor stores, now leased to spice-, parchment-, and gem-merchants paying the northern toll.                                                          |
-| **Summit Steps Market** | terrace stalls            | **Summit Quarter**    | Narrow tiers of produce tables climbing the basalt stair; fresh herbs, glassware, and second-hand astrolabes change hands here each Sixth-day morning.                                     |
-| **Riverside Shambles**  | night fish-market         | **Riverside Quarter** | Makeshift pallet-tables under tarred awnings where river-eels and smoked perch trade after sunset; the word “shambles” keeps its medieval sense of open flesh-market.                      |
-
-Landmark name ideas - not yet used
-
-| Landmark                  | Quarter        | One-sentence description                                                                                               |
-| ------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Spur Keep**             | summit of wall | Crenellated stone redoubt anchoring the curtain where it meets Mt. Nera’s spur; beacon brazier still manned nightly.   |
-| **Smelters’ Guildhall**   | Ragwater Basin | Brick longhouse with cobalt-blue roof tiles; serves as arbitration court and hiring hall for refinery masters.         |
-| **Old Rag Tower**         | Chalyte Levels | The last intact papermill drying-tower, now tenement housing; rags once hung from its louvred windows, hence the name. |
-| **Mill Channel Crane**    | Ragwater Basin | Iron tread-wheel crane (30 ft reach) used to swing chalyte ore-casks from barges -- iconic skyline silhouette.         |
-| **Bastion Fountain**      | Bastion Square | Marble cistern fed by an uphill spring; reputed to neutralise chalyte dust—queue of workers each dawn.                 |
-| **Arcade of the Compass** | Summit Quarter | Covered colonnade holding workshops of instrument-makers; mosaics in the vault depict zodiacal constellations.         |

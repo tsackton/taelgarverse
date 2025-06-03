@@ -14,7 +14,7 @@ title: Ausson's Crossing
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Founded DR 1652 (97 years ago)  
-    :octicons-location-24:{ .lg .middle } An inn [Laicon](<./laicon.md>)  
+    :octicons-location-24:{ .lg .middle } An inn in [Laicon](<./laicon.md>), [Refounded Alliance of Aurbez](<./refounded-alliance-of-aurbez.md>)  
 </div>
 
 
