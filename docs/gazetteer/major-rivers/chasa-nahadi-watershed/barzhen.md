@@ -15,7 +15,7 @@ title: Barzhen
 :speaker:{ .middle } *(bar-SHEN)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A river in the [Blackwater Fens](<../../northern-sentinels/blackwater-fens.md>), the [Northern Sentinels](<../../northern-sentinels/northern-sentinels.md>)  
-    :octicons-location-24:{ .lg .middle } Located in the [Chasa-Nahadi Watershed](<./chasa-nahadi-watershed.md>)  
+    :octicons-location-24:{ .lg .middle } Located [Chasa-Nahadi Watershed](<./chasa-nahadi-watershed.md>)  
 </div>
 
 

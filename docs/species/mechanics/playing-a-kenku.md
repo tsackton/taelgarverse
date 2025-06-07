@@ -1,6 +1,8 @@
 ---
-{title: Playing a Kenku}
+tags: [meta]
+title: Playing a Kenku
 ---
+
 # Kenku Species Details
 
 Kenku are a species of humanoid birds, sometimes called the birdfolk. Feathered wings sprout from their backs, giving them the ability to fly. Most kenku make their home in the cold open plains and mountains of the far north, and few talk about their history or origin to outsiders. Still, kenku can often be seen along the cities, towns, and villages of the [Green Sea](<../../gazetteer/green-sea.md>), although few cross the mountains to the western coast of Taelgar.

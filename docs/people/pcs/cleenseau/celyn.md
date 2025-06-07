@@ -68,8 +68,8 @@ He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [
 ### Items
 | Image                                            | Name                                                                                    | Type   | Mechanics |
 | ------------------------------------------------ | --------------------------------------------------------------------------------------- | ------ | --------- |
-| ![Shield of False Life](../../../assets/shield-of-false-life.png)        | [Shield of False Life](<../../../Campaigns/Cleenseau Campaign/Treasure/Shield of False Life.md>) | armor  | \-        |
 | ![Silverthorn](../../../assets/silverthorn.png)                 | [Silverthorn](<../../../Campaigns/Cleenseau Campaign/Treasure/Silverthorn.md>)                   | weapon | \-        |
+| ![Shield of False Life](../../../assets/shield-of-false-life.png)        | [Shield of False Life](<../../../Campaigns/Cleenseau Campaign/Treasure/Shield of False Life.md>) | armor  | \-        |
 | ![Ranger Cloak of Concealment](../../../assets/ranger-cloak-of-concealment.png) | [Cloak of Concealment](<../../../Campaigns/Cleenseau Campaign/Treasure/Cloak of Concealment.md>) | cloak  | \-        |
 
 

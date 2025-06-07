@@ -1,6 +1,8 @@
 ---
-{title: Playing a Centaur}
+tags: [meta]
+title: Playing a Centaur
 ---
+
 # Centaur Species Details
 
 

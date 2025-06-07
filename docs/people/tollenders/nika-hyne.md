@@ -24,7 +24,7 @@ title: Nika Hyne
     Born DR 1728 (21 years old)  
     { .bio }
 
-    Based in [Fiskurth](<../../gazetteer/greater-sembara/tollen/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+    Based in [Fiskurth](<../../gazetteer/greater-sembara/tollen/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
 

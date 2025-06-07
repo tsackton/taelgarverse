@@ -24,12 +24,12 @@ title: Melindir
     { .bio }
 
     Originally from: [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } First met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 17th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
+:octicons-location-24:{ .lg .middle } First met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 17th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
 Melindir is the Ambassador to [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) for the elven lands of [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>).

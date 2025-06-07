@@ -11,7 +11,7 @@ title: Gold Street
 ---
 # Gold Street
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A ward in the [Free City of Tollen](<./tollen.md>), the Western Green Sea Region  
+-    :octicons-location-24:{ .lg .middle } A ward in the [Free City of Tollen](<./tollen.md>), the [Western Green Sea](<../../western-green-sea/western-green-sea.md>)  
 </div>
 
 

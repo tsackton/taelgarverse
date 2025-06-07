@@ -7,6 +7,8 @@ species: fey
 subspecies: haregon
 gender: female
 whereabouts: Emberwine
+dm_notes: color
+dm_owner: none
 title: Auntie Mulberry
 ---
 # Auntie Mulberry

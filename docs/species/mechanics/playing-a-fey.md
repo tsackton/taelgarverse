@@ -1,6 +1,8 @@
 ---
-{title: Playing a Fey}
+tags: [meta]
+title: Playing a Fey
 ---
+
 Currently very much notes, and thinking about how to organize. 
 
 Lore-wise, I think fey are mostly just fey. Certainly the beastfolk, the fae, and the fairies are not seen as truly different things in the Feywild. Possibly changelings and satyrs might deserve different consideration, or maybe fairies? 

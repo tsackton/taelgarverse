@@ -17,7 +17,7 @@ title: Kecha
     A kenku (he/him)  
     { .bio }
 
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
 

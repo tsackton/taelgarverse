@@ -25,7 +25,7 @@ title: Escobar Garavito
     { .bio }
 
     Originally from: [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>), [Cymea](<../../gazetteer/western-green-sea/realms/cymea.md>)
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
 

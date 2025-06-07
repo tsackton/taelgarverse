@@ -1,5 +1,6 @@
 ---
 excludePublish: [clee]
+tags: [meta]
 title: House Rules (Tim)
 ---
 ## Character Creation

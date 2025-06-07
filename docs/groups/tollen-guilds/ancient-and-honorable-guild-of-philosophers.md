@@ -13,7 +13,7 @@ title: Ancient and Honorable Guild of Philosophers
 # The Ancient and Honorable Guild of Philosophers
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A guild in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
+   :octicons-info-24:{ .lg .middle } A guild in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 </div>
 
 

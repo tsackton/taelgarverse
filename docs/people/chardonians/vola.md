@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/text, status/needswork/gameupdate]
+tags: [person, status/cleanup/text, status/needswork/gameupdate]
 name: Vola Forena
 born: 1721
 species: human
@@ -31,18 +31,13 @@ title: Vola Forena
 
 
 
-
 ## Overview
+![Vola](../../assets/vola.png){align="right"; width="300"}A Chardonian adventurer, treasure hunter, and sellsword.
 
-A Chardonian adventurer, treasure hunter, and sellsword.
-
-Vola was born on the streets of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), living a life of squalor, disease, and poverty. Grew up in the Riverside slurms, near the chalyte refineries.  Eventually discovered by [Agon](<./agon.md>), who helped her grow into her power and fulfill her potential.  She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [Agon](<./agon.md>) and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 
+Vola was born on the streets of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), living a life of squalor, disease, and poverty. She grew up in the [Riverside](<../../gazetteer/greater-chardon/chardonian-empire/chardon/riverside-quarter.md>) slurms, near the chalyte refineries.  Eventually, she was discovered by [Agon](<./agon.md>), who helped her grow into her power and fulfill her potential.  She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [Agon](<./agon.md>) and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 
 
 She is dedicated to the cause of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), believing in their mission to secure dangerous knowledge from those who would use it for harm, and to preserve magic for future generations.
 
-
-
-![Vola](../../assets/vola.png)
 
 ## Relationships
 

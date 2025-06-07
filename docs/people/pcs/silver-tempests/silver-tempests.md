@@ -25,7 +25,7 @@ The original members of the Silver Tempests are:
 - [Aelar](<./aelar.md>), an elven shadow monk, who grew up an orphan wandering around Chardon, and has since grown so stealthy that he disappeared into the background
 
 Recently, the Silver Tempests have been joined by:
-- [Alton](<./alton.md>), a halfling rogue and proprietor of a dive bar outside [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) known for offering recreational axe throwing to its patrons. Alton was originally hired by [Lyra](<../../chardonians/lyra.md>) and traveled briefly with the Silver Tempests in their early days, but left her service and traveled alone for some time before rejoining the group in the [Goldpeak Mines](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>).
+- [Alton](<./alton.md>), a halfling rogue and proprietor of a dive bar outside [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) known for offering recreational axe throwing to its patrons. Alton was originally hired by [Lyra](<../../chardonians/lyra.md>) and traveled briefly with the Silver Tempests in their early days, but left her service and traveled alone for some time before rejoining the group in the Goldpeak Mines.
 - [Mabist](<./mabist.md>), a changeling warlock from the [Feywild](<../../../cosmology/feywild.md>), with a mysterious past
 - [Blue](<./blue.md>), a mysterious traveler
 

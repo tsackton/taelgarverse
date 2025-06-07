@@ -23,7 +23,7 @@ title: Gareth of Tollen
     b. DR 1686 - d. February 7th, 1720, brought to justice at age 34 years  
     { .bio }
 
-    Originally from: the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+    Originally from: the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
     Lived in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 

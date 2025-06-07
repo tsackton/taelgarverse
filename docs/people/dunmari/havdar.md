@@ -38,7 +38,7 @@ title: Havdar
 
 
 
-Havdar, a brash and confident warrior, made a name for himself as a war leader in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), before joining with Nayan [Sura](<./sura.md>) in support of her claim to the leadership of the Dunmari people. 
+![Havdar](../../assets/havdar.jpg){align="right"; width="350"}Havdar, a brash and confident warrior, made a name for himself as a war leader in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), before joining with Nayan [Sura](<./sura.md>) in support of her claim to the leadership of the Dunmari people. 
 ## Overview
 
 Havdar was born outside [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), and grew up herding goats amongst the rough, rocky deserts and scrublands of [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). Always passionate about the traditions of the Dunmari, he is dedicated to his homeland and [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), and the traditions of his people, and skeptical of the city folk to the west and especially the Samraat. Blessed with natural strength and dexterity, Havdar gathered a small group of dedicated warriors around him, and became know as something of a protector of [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). He often speaks reverently about the [Red Mesa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), the [Gomat](<../../gazetteer/greater-dunmar/dunmari-basin/gomat.md>) Oasis, and other landmarks of the eastern plains. 
@@ -48,7 +48,7 @@ In the summer of DR 1748, he took on a pivotal role as the chief general to Naya
 
 Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of the Dunmari plains. He has dark, tangled hair and short, scrubby beard. He is usually wearing armor and carrying his spear.
 
-![Havdar](../../assets/havdar.png)
+!500
 ## Relationships
 
 - Nayan [Sura](<./sura.md>): As her chief general and most trusted advisor, Havdar is unwavering in his loyalty to Nayan [Sura](<./sura.md>). Their bond is strong, and he's fully committed to supporting her claim against her brother, even if it leads to civil war. Havdar first met her when she traveled in the east when he was young, and as a teenager was devastated by the news of her disappearance. He considers her rescue and reappearance a blessing from the gods. 

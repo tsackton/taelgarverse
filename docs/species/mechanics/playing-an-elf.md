@@ -1,6 +1,8 @@
 ---
-{title: Playing an Elf}
+tags: [meta]
+title: Playing an Elf
 ---
+
 # Elf Species Details
 
 *[D&D Beyond Mechanics Link](https://www.dndbeyond.com/species/1755491-elf)*

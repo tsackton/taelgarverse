@@ -5,6 +5,8 @@ species: fey
 gender: male
 whereabouts: Sunwine Hall
 pronunciation: AARON-dell
+dm_notes: none
+dm_owner: none
 title: Arendel
 ---
 # Arendel

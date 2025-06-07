@@ -1,6 +1,8 @@
 ---
-{title: Playing a Dwarf}
+tags: [meta]
+title: Playing a Dwarf
 ---
+
 # Dwarf Species Details
 
 One of the Elder Folk, [Dwarves](<../dwarves.md>) make their homes beneath the mountains of Taelgar, carving great halls of stone and light beneath the earth, aided by their innate runic magic from their connection to their gods, the [Bahrazel](<../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>). Short, broad-shouldered, and often bearded, the first dwarves built majestic underground cities of light and splendor. While many dwarves still dwell in their ancestral mountain homes, they have spread around the world and are one of the more common of the Elder Folk seen in the realms of other species on Taelgar, as travelers, visitors, and long-term residents. 

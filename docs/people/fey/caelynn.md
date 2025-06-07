@@ -23,12 +23,12 @@ title: Caelynn the Seer
     { .bio }
 
     Originally from: [Dreamhaven](<../../gazetteer/extraplanar/feywild/dreamhaven.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 17th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 17th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
 ![Caelynn Portrait](../../assets/caelynn-portrait.png){align="right"; width="400"}Caeylnn, often known as Caelynn the Seer, is a fey woman from across the mountains, from the [Feywild](<../../cosmology/feywild.md>) realm of  [Dreamhaven](<../../gazetteer/extraplanar/feywild/dreamhaven.md>), who has been living in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) for many years. While she does not discuss her history, rumors claim she has made Tollen her home for many centuries, or perhaps even a millenia. She is a mysterious presence, known for prophecy and lore and understanding of dreams, but rarely sharing her vast knowledge without a price of some kind. 

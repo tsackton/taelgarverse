@@ -26,13 +26,13 @@ title: Guy Marchand
     Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/university-of-tollen.md>)  
     { .bio }
 
-    Originally from: the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
-    Based in Nordgate, the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+    Originally from: the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
+    Based in Nordgate, the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in Nordgate, the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in Nordgate, the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
 Guy Marchand is a mapmaker from [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), known for his meticulous craftsmanship and his thriving shop in Nordgate.

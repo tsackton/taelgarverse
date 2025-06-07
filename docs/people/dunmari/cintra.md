@@ -30,4 +30,4 @@ title: Cintra
 
 Supreme Oracle of Shakun.
 
-![Cintra Portrait](../../assets/cintra-portrait.png)
+![Cintra](../../assets/cintra.jpg)

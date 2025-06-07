@@ -20,3 +20,5 @@ title: Milo Thistlefoot
 
 
 The missing captain of the [Stormdancer](<../../things/ships/stormdancer.md>). 
+
+![Milo Thistlefoot](../../assets/milo-thistlefoot.jpg)

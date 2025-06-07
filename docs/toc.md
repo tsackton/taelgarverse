@@ -1212,7 +1212,6 @@
             - [Erbalta Plains](gazetteer/northwest-coast/erbalta-plains/erbalta-plains.md)
                 - [Crystal Cavern](gazetteer/northwest-coast/erbalta-plains/crystal-cavern.md)
             - [Fiamatara Mountains](gazetteer/northwest-coast/fiamatara-mountains/fiamatara-mountains.md)
-                - [Goldpeak Mines](gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md)
             - [Mawar Confederacy](gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md)
                 - [Aibard](gazetteer/northwest-coast/mawar-confederacy/aibard.md)
                 - [Eskorola](gazetteer/northwest-coast/mawar-confederacy/eskorola.md)

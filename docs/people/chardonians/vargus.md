@@ -37,4 +37,4 @@ title: Vargus
 
 
 
-Twin to Valius, Vargus was formidable warrior in the Chardonian legion, turned mercenary and adventurer. He is now under the curse of the Cleansed and largely unaware of himself. 
+![Vargus](../../assets/vargus.png){align="right"; width="300"}Twin to Valius, Vargus was formidable warrior in the Chardonian legion, turned mercenary and adventurer. He is now under the curse of the Cleansed and largely unaware of himself. 

@@ -25,7 +25,7 @@ dm_notes: none
     { .bio }
 
     Originally from: Pikkua
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
 
@@ -34,7 +34,7 @@ dm_notes: none
 
 
 
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 5th, 1749 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 5th, 1749 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
 ![Laivan Iskra](../../assets/laivan-iskra.png){align="right"; width="500"}A young woman and priestess of [Kaikkea](<../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>) in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>). She speaks with the power of the ocean, and has a deep connection to [Kaikkea](<../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>).

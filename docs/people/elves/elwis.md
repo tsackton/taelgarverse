@@ -30,11 +30,11 @@ title: Elwis
     Based in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+:octicons-location-24:{ .lg .middle } Currently in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 2nd, 1749 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 2nd, 1749 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
 Elwis is a female elf and painter from [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>). 

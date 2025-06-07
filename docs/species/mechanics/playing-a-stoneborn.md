@@ -1,6 +1,8 @@
 ---
-{title: Playing a Stoneborn}
+tags: [meta]
+title: Playing a Stoneborn
 ---
+
 # Stoneborn Species Details
 
 

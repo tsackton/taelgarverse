@@ -13,7 +13,7 @@ title: The Windward Sail
 ---
 # The Windward Sail
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [halfling](<../../../species/halflings.md>) inn in [Fiskurth](<./fiskurth.md>), the [Free City of Tollen](<./tollen.md>), the Western Green Sea Region  
+-    :octicons-location-24:{ .lg .middle } A [halfling](<../../../species/halflings.md>) inn in [Fiskurth](<./fiskurth.md>), [Tollen](<./tollen.md>)  
 </div>
 
 

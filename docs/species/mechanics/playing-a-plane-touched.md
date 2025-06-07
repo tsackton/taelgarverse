@@ -1,6 +1,8 @@
 ---
-{title: Playing a Plane Touched}
+tags: [meta]
+title: Playing a Plane Touched
 ---
+
 # Plane-touched Species Details
 
 

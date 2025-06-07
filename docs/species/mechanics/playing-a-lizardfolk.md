@@ -1,6 +1,8 @@
 ---
-{title: Playing a Lizardfolk}
+tags: [meta]
+title: Playing a Lizardfolk
 ---
+
 # Lizardfolk Species Details
 
 

@@ -1,6 +1,8 @@
 ---
-{title: Playing a Halfing}
+tags: [meta]
+title: Playing a Halfing
 ---
+
 # Halfling Species Details
 
 *[D&D Beyond Mechanics Link](https://www.dndbeyond.com/species/1755936-halfling)*

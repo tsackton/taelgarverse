@@ -23,12 +23,12 @@ title: Thomas Hawke
     Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/university-of-tollen.md>)  
     { .bio }
 
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
 ![Thomas Hawke](../../assets/thomas-hawke.png){align="right"; width="400"}Thomas Hawke is Professor of Rhetoric, a playwright, and a rising star at the [University of Tollen](<../../gazetteer/greater-sembara/tollen/university-of-tollen.md>), recognized more for his dramatic flair than his academic pursuits. He is a handsome man in his mid-30s, well-dressed and exuding confidence. 

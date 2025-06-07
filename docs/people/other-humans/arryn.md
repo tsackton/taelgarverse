@@ -22,7 +22,7 @@ title: Arryn
     A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../species/humans.md>) (he/him)  
     { .bio }
 
-    Originally from: the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+    Originally from: the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently in the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>)

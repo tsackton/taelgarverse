@@ -25,12 +25,12 @@ title: Hugo Dupont
     Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/university-of-tollen.md>)  
     { .bio }
 
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in [Magnus Street](<../../gazetteer/greater-sembara/tollen/magnus-street.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), the Western Green Sea Region  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in [Magnus Street](<../../gazetteer/greater-sembara/tollen/magnus-street.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
 ![Hugo Dupont Portrait](../../assets/hugo-dupont-portrait.png){align="right"; width="320"}Hugo Dupont is scholar and theologian, and a lecturer at the university, known for his classes on comparative divinity and theological science, particularly a series of lectures and scholastic discourse on the nature of intercessionary prayer, and the intertwined divinities of the [Eight Divines](<../../gods-and-religions/religions/mos-numena/mos-numena.md>). 
