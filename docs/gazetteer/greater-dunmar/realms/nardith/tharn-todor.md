@@ -13,7 +13,7 @@ title: Tharn Todor
 ---
 # Tharn Todor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../../species/dwarves.md>) city [Nardith](<./nardith.md>)  
+-    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../../species/dwarves.md>) city in [Nardith](<./nardith.md>), the [Yuvanti Mountains](<../../yuvanti-mountains.md>), [Greater Dunmar](<../../greater-dunmar.md>)  
 </div>
 
 

@@ -108,66 +108,19 @@ People who have traveled with the [Dunmar Fellowship](<../../people/pcs/dunmar-f
 
 <div class="grid cards ext-narrow-margin" markdown>
 
--   [Vola](<../../people/chardonians/vola.md>)
-    ---
-    ![Vola](../../assets/vola.png)
-     A Chardonian adventurer, the party rescued Vola from [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), and she traveled with them for a time before parting company. Later, she was mind controlled by [The Cleansed](<../../groups/the-cleansed.md>) using the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>) and forced to fight the party; after being captured, she was eventually freed when [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>) claimed the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>). 
+- ![Vola](../../assets/vola.png){align="left"; width="120"}[Vola](<../../people/chardonians/vola.md>), a Chardonian adventurer rescued from [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). She traveled with the party until parting ways outside [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>); later, she was mind controlled by [The Cleansed](<../../groups/the-cleansed.md>) using the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>), forced to fight the party, and captured in the [Mirror of Soul Trapping](<treasure/mirror-of-soul-trapping.md>). She was freed when [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>) claimed the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>) and is currently on [Vindristjarna](<../../things/ships/vindristjarna.md>). 
+- !left[Havdar](<../../people/dunmari/havdar.md>) and his [warband](<../../groups/havdar-s-warband.md>) travelled with the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) for a time in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), while investigating rumors of orcs and other strange happenings. 
+- ![Cintra](../../assets/cintra.jpg){align="left"; width="120"}[Cintra](<../../people/dunmari/cintra.md>), the Supreme Oracle of [Shakun](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>), was rescued from[Agata Dustmother](<../../people/fey/agata.md>)'s trap at [Shakun’s Wellspring](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>) by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), and traveled with the party back to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
+- ![Jumi](../../assets/jumi.jpg){align="left"; width="120"}[Jumi](<../../people/dunmari/jumi.md>), the young daughter of [Cintra](<../../people/dunmari/cintra.md>), was freed from [Agata](<../../people/fey/agata.md>)'s curse by [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>) and traveled with the party back to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
+- ![Garret Tealeaf](../../assets/garret-tealeaf.jpg){align="left"; width="120"}[Garret Tealeaf](<../../people/halflings/garret-tealeaf.md>) was rescued by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) from [Agata Dustmother](<../../people/fey/agata.md>), who had imprisoned him as a puppet. He traveled with the party from [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
+- ![Johar](../../assets/johar.jpg){align="left"; width="120"}[Johar](<../../people/dunmari/johar.md>), a Dunmari member of the [Lakan Mystai](<../../groups/dunmari-mystery-cults/lakan-mystai.md>) and a friend of [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>)'s from his days at the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), traveled with the party from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) to [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) on orders from [Lara](<../../people/dunmari/lara.md>) to negotiate with [Karnas](<../../people/dunmari/nayan-karnas.md>). 
+- ![Justan](../../assets/justan.jpg){align="left"; width="120"}[Justan](<../../people/dunmari/justan.md>), a Dunmari bandit hiding in the [Copper HIlls](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), was convinced by [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>) to join the party and fight a dragon (which turned out to be a wyvern); he was killed by [Casian](<../../people/chardonians/casian.md>) soon after.
+- ![Theba](../../assets/theba.jpg){align="left"; width="120"}[Theba](<../../people/deno-qai/theba.md>) is a Deno'qai paladin; the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) helped her escape from her village, which had fallen under the sway of [Mezzar](<../../people/other-nonhumans/mezzar.md>). Later, she joined with the party to help them defeat [Grimbaskal](<../../people/other-nonhumans/mezzar.md>).
+- ![Tilly Brineheart](../../assets/tilly-brineheart.jpg){align="left"; width="120"}Tilly Brineheart, a halfling sailor and adventurer and wife of [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>), was rescued from imprisonment on the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>). She traveled with the party to the ~Circular Island~ and helped defeat [Ra'ghemdros](<../../people/other-nonhumans/ra-ghemdros.md>) before setting of to explore. 
+- ![Milo Thistlefoot](../../assets/milo-thistlefoot.jpg){align="left"; width="120"}[Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>), a halfling sailor and adventurer and husband of Tilly Brineheart, was rescued from imprisonment on the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>). He traveled with the party to the ~Circular Island~ and helped defeat [Ra'ghemdros](<../../people/other-nonhumans/ra-ghemdros.md>) before setting of to explore. 
+ - ![Ismara](../../assets/ismara.jpg){align="left"; width="120"}[Ismara](<../../people/fey/ismara.md>), a fey traveler and scholar from [Gleamwater](<../../gazetteer/extraplanar/feywild/gleamwater.md>), joined the party for a short time in [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), guiding them east to the Sunset Gate before parting ways.
+ - ![Valeris](../../assets/valeris.jpg){align="left"; width="120"}[Valeris](<../../people/fey/valeris.md>), a satyr musician and gambler, part of the court of [Lord Soven](<../../people/extraplanar-powers/archfey/lord-soven.md>), cursed to always speak the blunt, honest truth, joined the party in their quest to free [Cloudspinner](<../../people/extraplanar-powers/archfey/cloudspinner.md>) in the hopes that a selfless act could release him from his curse.
 
--   [Havdar](<../../people/dunmari/havdar.md>)
-    ---
-    !120
-     The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) traveled into the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) east of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) with [Havdar](<../../people/dunmari/havdar.md>) and his [warband](<../../groups/havdar-s-warband.md>) while investigating rumors of orcs and other strange happenings. 
-
--  [Cintra](<../../people/dunmari/cintra.md>)
-    ---
-    ![Cintra](../../assets/cintra.jpg)
-     The Supreme Oracle of [Shakun](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>), who the party rescued from [Agata Dustmother](<../../people/fey/agata.md>)'s trap at [Shakun’s Wellspring](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>). Traveled with the party back to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), after her daughter [Jumi](<../../people/dunmari/jumi.md>) was freed from [Agata](<../../people/fey/agata.md>)'s curse. 
-
--  [Jumi](<../../people/dunmari/jumi.md>)
-    ---
-    ![Jumi](../../assets/jumi.jpg)
-     The young daughter of [Cintra](<../../people/dunmari/cintra.md>). Captured by [Agata](<../../people/fey/agata.md>) and cursed; freed by [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>). Traveled with the party back to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
-
--   [Garret Tealeaf](<../../people/halflings/garret-tealeaf.md>)
-    ---
-    ![Garret Tealeaf](../../assets/garret-tealeaf.jpg)
-     A halfling rescued by the party from [Agata Dustmother](<../../people/fey/agata.md>), who had imprisoned him as a puppet. He joined the party traveling from [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
-
--   [Johar](<../../people/dunmari/johar.md>)
-    ---
-    ![Johar](../../assets/johar.jpg)
-     A Dunmari, a member of the [Lakan Mystai](<../../groups/dunmari-mystery-cults/lakan-mystai.md>) and a friend of [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>)'s from his days at the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>). Johar traveled with the party from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) to [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) on orders from [Lara](<../../people/dunmari/lara.md>) to negotiate with [Karnas](<../../people/dunmari/nayan-karnas.md>). 
-
-- [Justan](<../../people/dunmari/justan.md>)
-    ---
-    ![Justan](../../assets/justan.jpg)
-     A Dunmari bandit hiding in the [Copper HIlls](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), convinced by [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>) to join the party and fight a dragon (which turned out to be a wyvern). Killed by [Casian](<../../people/chardonians/casian.md>). 
-
--   [Theba](<../../people/deno-qai/theba.md>)
-    ---
-    ![Theba](../../assets/theba.jpg)
-     A Deno'qai paladin who the party helped escape from her village, which had fallen under the sway of [Mezzar](<../../people/other-nonhumans/mezzar.md>). Later, she joined with the party to help them defeat [Grimbaskal](<../../people/other-nonhumans/mezzar.md>).
-     
--   Tilly Brineheart
-    ---
-    ![Tilly Brineheart](../../assets/tilly-brineheart.jpg)
-     A halfling sailor and adventurer, wife of [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>), rescued from being imprisoned on the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), who then traveled to the ~Circular Island~ and helped defeat [Ra'ghemdros](<../../people/other-nonhumans/ra-ghemdros.md>) before setting of to explore. 
- 
--   [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>)
-    ---
-    !![Milo Thistlefoot](../../assets/milo-thistlefoot.jpg)
-     A halfling sailor and adventurer, husband of Tilly Brineheart, rescued from being imprisoned on the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), who then traveled to the ~Circular Island~ and helped defeat [Ra'ghemdros](<../../people/other-nonhumans/ra-ghemdros.md>) before setting of to explore. 
-
- -   [Ismara](<../../people/fey/ismara.md>)
-    ---
-    !![Ismara](../../assets/ismara.jpg)
-     A fey traveler and scholar from [Gleamwater](<../../gazetteer/extraplanar/feywild/gleamwater.md>), who joined the party for a short time in [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), guiding them east to the Sunset Gate before parting ways.
-
- -   [Valeris](<../../people/fey/valeris.md>)
-    ---
-    !![Valeris](../../assets/valeris.jpg)
-     A satyr musician and gambler, part of the court of [Lord Soven](<../../people/extraplanar-powers/archfey/lord-soven.md>), who was cursed to always speak the blunt, honest truth. He joined the party in their quest to free [Cloudspinner](<../../people/extraplanar-powers/archfey/cloudspinner.md>) in the hopes that a selfless act could release him from his curse.
-     
 </div>
 
 ## Captives and Former Captives
@@ -176,41 +129,19 @@ These people are still trapped in the [Mirror of Soul Trapping](<treasure/mirror
 
 <div class="grid cards ext-narrow-margin" markdown>
 
--   [Revaka](<../../people/other-nonhumans/revaka.md>)
-    ---
-    ![Revaka](../../assets/revaka.jpg)
-     A hobgoblin wizard, trapped in the [Mirror of Soul Trapping](<treasure/mirror-of-soul-trapping.md>) since before the [Great War](<../../events/1500s/great-war.md>).  
-
--   [Antonia](<../../people/chardonians/antonia.md>)
-    ---
-    ![Antonia Portrait](../../assets/antonia-portrait.jpg)
-     An artificer, follower of [Kadmos](<../../people/chardonians/kadmos.md>), and member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). Imprisoned, instead of executed, after reacting in horror to the news that [Fausto](<../../people/chardonians/fausto.md>)'s true master was the lich [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>). The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) agreed to release her on the edge of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) in a few years. 
-
- -   Slavomir
-    ---
-    !![Slavomir](../../assets/slavomir.jpg)
-     A wizard of the [Rodnya Kinzal](<../../groups/urskan-magical-organizations/rodnya-kinzal.md>), captured in [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>) while secretly negotiating  with [Rhodar von Glauer](<../../people/other-nonhumans/rhodar-von-glauer.md>). 
-     
+-  ![Revaka](../../assets/revaka.jpg){align="left"; width="120"}[Revaka](<../../people/other-nonhumans/revaka.md>), a hobgoblin wizard, trapped in the [Mirror of Soul Trapping](<treasure/mirror-of-soul-trapping.md>) since before the [Great War](<../../events/1500s/great-war.md>).  
+-  ![Antonia Portrait](../../assets/antonia-portrait.jpg){align="left"; width="120"}[Antonia](<../../people/chardonians/antonia.md>), an artificer, follower of [Kadmos](<../../people/chardonians/kadmos.md>), and member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), was imprisoned, instead of executed, after reacting in horror to the news that [Fausto](<../../people/chardonians/fausto.md>)'s true master was the lich [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>). The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) agreed to release her on the edge of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) in a few years. 
+ - ![Slavomir](../../assets/slavomir.jpg){align="left"; width="120"}Slavomir, a wizard of the [Rodnya Kinzal](<../../groups/urskan-magical-organizations/rodnya-kinzal.md>), was captured in [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>) while secretly negotiating with [Rhodar von Glauer](<../../people/other-nonhumans/rhodar-von-glauer.md>). 
+ 
 </div>
 
 These people have been released and are recovering on [Vindristjarna](<../../things/ships/vindristjarna.md>), or sent on their way. 
 
 <div class="grid cards ext-narrow-margin" markdown>
 
--   [Hektor](<../../people/chardonians/hektor.md>)
-    ---
-    ![Hektor](../../assets/hektor.png)
-    A Chardonian warrior, who served for several years as [Kadmos](<../../people/chardonians/kadmos.md>)' enforcer under the control of the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>), until the control was broken by [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>). Once was a sailor with a sweet singing voice. Currently being tended by [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) to help him remember his old life.
+- ![Hektor](../../assets/hektor.png){align="left"; width="120"}[Hektor](<../../people/chardonians/hektor.md>), a Chardonian warrior who served for several years as [Kadmos](<../../people/chardonians/kadmos.md>)' enforcer under the control of the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>), until the control was broken by [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>). He was once a sailor with a sweet singing voice. Currently in the [Mirror of Soul Trapping](<treasure/mirror-of-soul-trapping.md>), being tended by [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) to help him remember his old life.
+- ![Valius](../../assets/valius.png){align="left"; width="120"}[Valius](<../../people/chardonians/valius.md>), a warrior ensnared by the machinations of [Fausto](<../../people/chardonians/fausto.md>), and the twin brother of [Vargus](<../../people/chardonians/vargus.md>), was released by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) to make a new life with his brother. 
+ - ![Vargus](../../assets/vargus.png)[Vargus](<../../people/chardonians/vargus.md>), a warrior ensnared by the machinations of [Fausto](<../../people/chardonians/fausto.md>), and the twin brother of [Valius](<../../people/chardonians/valius.md>), was released by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) to make a new life with his brother. 
 
--   [Valius](<../../people/chardonians/valius.md>)
-    ---
-    ![Valius](../../assets/valius.png)
-    A warrior ensnared by the machinations of [Fausto](<../../people/chardonians/fausto.md>) and the twin brother of [Vargus](<../../people/chardonians/vargus.md>). Released by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) to make a new life with his brother. 
-
- -   [Vargus](<../../people/chardonians/vargus.md>)
-    ---
-    !![Vargus](../../assets/vargus.png)
-     A warrior ensnared by the machinations of [Fausto](<../../people/chardonians/fausto.md>) and the twin brother of [Valius](<../../people/chardonians/valius.md>). Released by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) to make a new life with his brother. 
-     
 </div>
 

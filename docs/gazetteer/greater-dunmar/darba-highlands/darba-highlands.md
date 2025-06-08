@@ -9,7 +9,7 @@ title: Darba Highlands
 ---
 # The Darba Highlands
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A geographic region in [Greater Dunmar](<../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A geographic region [Greater Dunmar](<../greater-dunmar.md>)  
 </div>
 
 
