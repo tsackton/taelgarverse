@@ -4,6 +4,8 @@ tags: [place, status/check/name, status/stub]
 name: Merchants's Gate
 typeOf: gate
 whereabouts: North Wall (Chardon)
+dm_owner: tim
+dm_notes: none
 title: Merchants's Gate
 ---
 # The Merchants's Gate

@@ -35,7 +35,7 @@
 - May 13, 1749 DR: The past of the dust from Seeker's doppleganger is [revealed](<mirror-visions/dust-from-seeker-s-doppleganger-vision.md>)( recharge:: mirror)
 - May 19, 1749 DR: Look at Apollyon's Soulbinding Manacles in the [Mirror of the Past](<treasure/mirror-of-the-past.md>), seeing [Apollyon's Soulbinding Manacles Vision](<mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) recharge mirror
 - May 30, 1749 DR: Look at the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>) in the [Mirror of the Past](<treasure/mirror-of-the-past.md>), seeing the [Crown of Purity Vision](<mirror-visions/crown-of-purity-vision.md>) recharge mirror
-- Jun 16, 1749 DR:  *apollyon's crystal ball* recharge mirror
-- Jun 23, 1749 DR:  *spellbook from Elemental Forge* recharge mirror
+- Jun 16, 1749 DR:  Look at Apollyon's Crystal Ball in the [Mirror of the Past](<treasure/mirror-of-the-past.md>), seeing [Apollyon's Crystal Ball Vision](<mirror-visions/apollyon-s-crystal-ball-vision.md>) recharge mirror
+- Jun 23, 1749 DR:  Look at the spellbook recovered from the [Elemental Forge](<../../gazetteer/western-green-sea/cymea/elemental-forge.md>) in the [Mirror of the Past](<treasure/mirror-of-the-past.md>), seeing [Elemental Forge Spellbook Vision](<mirror-visions/elemental-forge-spellbook-vision.md>) recharge mirror
 
 

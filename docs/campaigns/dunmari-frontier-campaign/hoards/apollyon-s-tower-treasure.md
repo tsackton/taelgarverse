@@ -38,7 +38,7 @@ A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches 
 
 The remaining 47 are magical or unusual metals:
 - 9 Mithril bars
-- 6 Chalyte bars 
+- 6 [Chalyte](<../../../things/materials/chalyte.md>) bars 
 - 5 fey steel bars 
 - 7 star iron bars 
 - 3 phiraxite bars 

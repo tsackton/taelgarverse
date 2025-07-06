@@ -19,11 +19,11 @@ title: Dunmari Frontier - Session 48
 > *On Earth: Wednesday Jun 22, 2022*
 > *[Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
 
-In Chardon, the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) learns about the dangers of Chalyte, speaks with friends old and new, and hears about [Fausto](<../../../people/chardonians/fausto.md>)'s wealth and influence. 
+In Chardon, the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) learns about the dangers of [Chalyte](<../../../things/materials/chalyte.md>), speaks with friends old and new, and hears about [Fausto](<../../../people/chardonians/fausto.md>)'s wealth and influence. 
 ## Session Info
 ### Summary
-- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and learns of the regulated magic and the dangers of Chalyte abuse.
-- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) meets with [Kaeso](<../../../people/chardonians/kaeso.md>), his mentor and a [Mystai of Shakun](<../../../groups/dunmari-mystery-cults/shakun-mystai.md>), who shares concerns about Chalyte and arranges a meeting with his old teacher, [Roscelia](<../../../people/chardonians/roscelia.md>).
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and learns of the regulated magic and the dangers of [Chalyte](<../../../things/materials/chalyte.md>) abuse.
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) meets with [Kaeso](<../../../people/chardonians/kaeso.md>), his mentor and a [Mystai of Shakun](<../../../groups/dunmari-mystery-cults/shakun-mystai.md>), who shares concerns about [Chalyte](<../../../things/materials/chalyte.md>) and arranges a meeting with his old teacher, [Roscelia](<../../../people/chardonians/roscelia.md>).
 - The party reconnects with [Vola](<../../../people/chardonians/vola.md>), who agrees to send letters to other adventurers and provides insight into the [Society of the Open Scroll](<../../../groups/chardonian-organizations/society-of-the-open-scroll.md>).
 - [Ulfgar Frostbeard](<../../../people/dwarves/ulfgar-frostbeard.md>), a metaphysics professor, informs them about [Galen](<../../../people/chardonians/galen.md>)'s new Dwarven artifact.
 - [Dee Wildcloak](<../../../people/halflings/dee-wildcloak.md>) and [Dain Goldhammer](<../../../people/dwarves/dain-goldhammer.md>) recount their harrowing experience at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>), and reveal [Fausto](<../../../people/chardonians/fausto.md>) as a key expedition patron.

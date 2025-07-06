@@ -10,6 +10,6 @@ title: Dyer's Guildhall
 ---
 # The Dyer's Guildhall
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A guildhall in the [Free City of Tollen](<./tollen.md>), the [Western Green Sea](<../../western-green-sea/western-green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } A guildhall [Tollen](<./tollen.md>)  
 </div>
 

@@ -80,7 +80,7 @@ Over the next several days, the walls of Apollyon’s prison weaken and collapse
 
 - In [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), the Chardonian army retreats from [Songara](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), though their navy secures a victory near [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>). [Mitus Verina Auratan](<../../../people/chardonians/mitus-verina-auratan.md>) enters Darba, while negotiations with [Karnas](<../../../people/dunmari/nayan-karnas.md>) about the [Nayan Floodplains](<../../../gazetteer/greater-dunmar/nayan-floodplains.md>) continue.
 
-- In [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the chalyte trade faces growing disruption due to strikes and sabotage.
+- In [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [chalyte](<../../../things/materials/chalyte.md>) trade faces growing disruption due to strikes and sabotage.
 
 As May 30th dawns, the Cha'mutte's ancient prison designed to trap Apollyon finally collapses, and the party uses the Rainbow Bridge to return to _Vindristjarna_. There, they reunite with their crew and begin deliberating their next steps, with the Crown of Purity’s legacy weighing heavily on their minds. After [viewing the Crown in the Mirror of the Past](<../mirror-visions/crown-of-purity-vision.md>), the party debates what to do with it:
 

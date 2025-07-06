@@ -22,5 +22,5 @@ title: Andros
 </div>
 
 
-A friend of [Xavier](<./xavier.md>)'s involved in the Eightfold Flame.
+A friend of [Xavier](<./xavier.md>)'s involved in the [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>).
 

@@ -5,6 +5,8 @@ displayDefaults: {defArt: ''}
 whereabouts: Amberglow
 typeOf: keep
 ancestry: fey
+dm_owner: tim
+dm_notes: important
 title: Night's Edge Keep
 ---
 # Night's Edge Keep

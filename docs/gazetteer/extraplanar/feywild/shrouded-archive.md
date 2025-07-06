@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: library
 whereabouts: Feywild
+dm_owner: tim
+dm_notes: important
 title: Shrouded Archive
 ---
 # The Shrouded Archive

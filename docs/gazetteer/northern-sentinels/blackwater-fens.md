@@ -4,6 +4,7 @@ tags: [place, status/stub]
 typeOf: fen
 whereabouts: Northern Sentinels
 dm_owner: tim
+dm_notes: important
 title: Blackwater Fens
 ---
 # The Blackwater Fens

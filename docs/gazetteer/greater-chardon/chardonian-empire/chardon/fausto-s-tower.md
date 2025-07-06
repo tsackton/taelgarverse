@@ -4,6 +4,8 @@ tags: [place, status/stub]
 displayDefaults: {defArt: ''}
 typeOf: tower
 whereabouts: Chardon
+dm_owner: tim
+dm_notes: important
 title: Fausto's Tower
 ---
 # Fausto's Tower

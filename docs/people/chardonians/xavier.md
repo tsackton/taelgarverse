@@ -22,7 +22,7 @@ title: Xavier
 </div>
 
 
-A childhood friend of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s, Xavier lost his father to a refinery accident and was drawn into the chalyte trade at a young age to supplement the income his family got from mending and piece-work sewing. A street tough from his youth, now often serves as hired muscle for the Eightfold Flame. 
+A childhood friend of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s, Xavier lost his father to a refinery accident and was drawn into the chalyte trade at a young age to supplement the income his family got from mending and piece-work sewing. A street tough from his youth, now often serves as hired muscle for the [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>). 
 
 He lives with his mother and sister in a small apartment near the [Foundry Market](<../../gazetteer/greater-chardon/chardonian-empire/chardon/foundry-market.md>). 
 

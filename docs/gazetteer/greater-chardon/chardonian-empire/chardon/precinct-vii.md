@@ -4,6 +4,8 @@ tags: [place]
 displayDefaults: {defArt: ''}
 typeOf: precinct
 whereabouts: Chardon
+dm_owner: tim
+dm_notes: important
 title: Precinct VII
 ---
 # Precinct VII

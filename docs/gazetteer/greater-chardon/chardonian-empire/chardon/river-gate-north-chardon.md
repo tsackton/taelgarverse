@@ -4,6 +4,8 @@ tags: [place]
 name: River Gate
 typeOf: gate
 whereabouts: North Wall (Chardon)
+dm_owner: tim
+dm_notes: none
 title: River Gate
 ---
 # The River Gate
