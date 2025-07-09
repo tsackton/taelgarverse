@@ -11,7 +11,7 @@ title: Ampogio
 # Ampogio
 :speaker:{ .middle } *(ahm-POH-joh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A river in [Cymea](<../realms/cymea.md>), the [Western Green Sea](<../western-green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } A river [Cymea](<../realms/cymea.md>)  
 </div>
 
 

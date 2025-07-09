@@ -60,6 +60,7 @@
             - [Philosopher's Information Concerning Rodnya Voknaz](campaigns/dunmari-frontier-campaign/letters-and-notes/philosopher-s-information-concerning-rodnya-voknaz.md)
             - [Philosopher's Information Concerning Ursk](campaigns/dunmari-frontier-campaign/letters-and-notes/philosopher-s-information-concerning-ursk.md)
             - [Report of the Aagiri to Samraat Dasa](campaigns/dunmari-frontier-campaign/letters-and-notes/report-of-the-aagiri-to-samraat-dasa.md)
+            - [Reports on Chalyte in Alta Tonaro](campaigns/dunmari-frontier-campaign/letters-and-notes/reports-on-chalyte-in-alta-tonaro.md)
             - [Research from Kassi](campaigns/dunmari-frontier-campaign/letters-and-notes/research-from-kassi.md)
             - [Two Letters from Stormcaller Tower](campaigns/dunmari-frontier-campaign/letters-and-notes/two-letters-from-stormcaller-tower.md)
         - Tales and Stories
