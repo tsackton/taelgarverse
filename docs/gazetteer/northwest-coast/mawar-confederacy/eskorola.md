@@ -13,7 +13,7 @@ title: Eskorola
 # Eskorola
 :speaker:{ .middle } *(es-ko-ROH-lah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../species/lizardfolk.md>) village in the [Mawar Confederacy](<./mawar-confederacy.md>), the [Mawakel Peninsula](<./mawakel-peninsula.md>), the [Northwest Coast](<../northwest-coast.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../species/lizardfolk.md>) village in the [Mawar Confederacy](<./mawar-confederacy.md>), [Mawakel Peninsula](<./mawakel-peninsula.md>)  
 </div>
 
 

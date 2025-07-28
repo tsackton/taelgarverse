@@ -129,3 +129,4 @@
 - **Rumors and Riots** ([Dunmari Frontier - Session 124](<session-notes/session-124-dufr.md>), Jun 14, 1749 DR - Jun 27, 1749 DR): in which the party catches up on news and heads for Chardon (*Featuring Delwath, Kenzo, Seeker, Wellby, and Riswynn*)
 - **Return to Chardon** ([Dunmari Frontier - Session 125](<session-notes/session-125-dufr.md>), Jun 27, 1749 DR): in which the party confronts suspicion and seeds revolution (*Featuring Delwath, Kenzo, and Wellby*)
 - **The Magistros** ([Dunmari Frontier - Session 126](<session-notes/session-126-dufr.md>), Jun 27, 1749 DR - Jun 29, 1749 DR): in which the party negotiates over chalyte (*Featuring Delwath, Kenzo, and Wellby*)
+- **Storm over Thundercrown** ([Dunmari Frontier - Session 127](<session-notes/session-127-dufr.md>), Jun 29, 1749 DR - Jul 04, 1749 DR): in which the party investigates a stone giant stronghold (*Featuring Delwath, Kenzo, and Wellby*)

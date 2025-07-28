@@ -10,7 +10,7 @@ title: Gowerbourne
 ---
 # Gowerbourne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A city in the [Duchy of Wisford](<./duchy-of-wisford.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A city in the [Duchy of Wisford](<./duchy-of-wisford.md>), [Sembara](<../sembara.md>)  
 </div>
 
 

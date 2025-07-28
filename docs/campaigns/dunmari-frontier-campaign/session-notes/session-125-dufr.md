@@ -32,8 +32,8 @@ The party returns to a riot-torn [Chardon](<../../../gazetteer/greater-chardon/c
 
 ### Timeline
 - Jun 27, 1749 DR, late morning: Arrive in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). Speak with [Xavier](<../../../people/chardonians/xavier.md>) and his family in the [Chalyte Levels](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chalyte-levels.md>). Send a lynx messenger to the [Magistros](<../../../people/chardonians/mitus-verina-auratan.md>). 
-- - Jun 27, 1749 DR, afternoon: Meet [Andros](<../../../people/chardonians/andros.md>), Red, and Orsino, members of the [Eightfold Flame](<../../../groups/chardonian-organizations/eightfold-flame.md>), at  The Cackling Swan, discuss revolutionary politics. Receive message to meet Tiberius, a Windcaller in the [Magistros](<../../../people/chardonians/mitus-verina-auratan.md>)' service.
-- - Jun 27, 1749 DR, evening: Convince Tiberius they are not clones or possessed by [Fausto](<../../../people/chardonians/fausto.md>) or in league with [The Cleansed](<../../../groups/the-cleansed.md>). 
+-  Jun 27, 1749 DR, afternoon: Meet [Andros](<../../../people/chardonians/andros.md>), Red, and Orsino, members of the [Eightfold Flame](<../../../groups/chardonian-organizations/eightfold-flame.md>), at  The Cackling Swan, discuss revolutionary politics. Receive message to meet Tiberius, a Windcaller in the [Magistros](<../../../people/chardonians/mitus-verina-auratan.md>)' service.
+-  Jun 27, 1749 DR, evening: Convince Tiberius they are not clones or possessed by [Fausto](<../../../people/chardonians/fausto.md>) or in league with [The Cleansed](<../../../groups/the-cleansed.md>). 
 ## Narrative
 
 *[Stories of the Freed Prisoners of the Cleansed](<../tales-and-stories/stories-of-the-freed-prisoners-of-the-cleansed.md>) opens the session.*
