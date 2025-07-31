@@ -15,7 +15,7 @@ title: Kyr
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [lizardfolk](<../../../species/lizardfolk.md>) (he/him)  
-    Member of the [Heroes of the Great War](<./heroes-of-the-great-war.md>)  
+    Member of [Heroes of the Great War](<./heroes-of-the-great-war.md>)  
     { .bio }
 
 </div>

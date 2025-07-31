@@ -13,7 +13,7 @@ title: Bedez
 ---
 # Bedez
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../species/lizardfolk.md>) village in [Orekatu](<./orekatu.md>), the [Far South](<./far-south.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../species/lizardfolk.md>) village [Orekatu](<./orekatu.md>)  
 </div>
 
 

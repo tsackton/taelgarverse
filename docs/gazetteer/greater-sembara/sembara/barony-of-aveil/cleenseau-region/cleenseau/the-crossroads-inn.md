@@ -16,7 +16,7 @@ title: The Crossroads Inn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Founded DR 1392 (357 years ago)  
-    :octicons-location-24:{ .lg .middle } A [halfling](<../../../../../../species/halflings.md>) inn in [Cleenseau](<./cleenseau.md>), [Manor of Cleenseau](<../manor-of-cleenseau.md>)  
+    :octicons-location-24:{ .lg .middle } A [halfling](<../../../../../../species/halflings.md>) inn in [Cleenseau](<./cleenseau.md>), the [Manor of Cleenseau](<../manor-of-cleenseau.md>), the [Barony of Aveil](<../../barony-of-aveil.md>), [Sembara](<../../../sembara.md>), [Greater Sembara](<../../../../greater-sembara.md>)  
 </div>
 
 
