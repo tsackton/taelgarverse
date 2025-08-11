@@ -14,10 +14,10 @@ title: Ausson's Crossing
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Founded DR 1652 (97 years ago)  
-    :octicons-location-24:{ .lg .middle } An inn in [Laicon](<./laicon.md>), [Refounded Alliance of Aurbez](<./refounded-alliance-of-aurbez.md>)  
+    :octicons-location-24:{ .lg .middle } An inn in [Laicon](<./laicon.md>), the [Refounded Alliance of Aurbez](<./refounded-alliance-of-aurbez.md>), the [Upper Istaros](<../upper-istaros.md>)  
 </div>
 
 
-A bustling inn in [Laicon](<./laicon.md>) that stills forms the core of the settlement. It was founded before there was a village here, as a trading outpost along the [Maseau - Dunmar Road](<../../greater-sembara/roads/maseau-dunmar-road.md>), where several cart tracks from the [Aurbez Plateau](<../aurbez-plateau.md>) descend.  There is a large fountain outside the inn, said to be blessed by the Wanderer many years ago, and which always brings forth fresh water.
+A bustling inn in [Laicon](<./laicon.md>) that stills forms the core of the settlement. It was founded before there was a village here, as a trading outpost along the [Maseau - Dunmar Road](<../maseau-dunmar-road.md>), where several cart tracks from the [Aurbez Plateau](<../aurbez-plateau.md>) descend.  There is a large fountain outside the inn, said to be blessed by the Wanderer many years ago, and which always brings forth fresh water.
 
 

@@ -15,5 +15,5 @@ title: South Dunmar Road
 </div>
 
 
-A secondary road that departs from the [Maseau - Dunmar Road](<../greater-sembara/roads/maseau-dunmar-road.md>) just south of the [Aursen](<rivers/aursen.md>), runs along western foothills of the [Sentinel Range](<../sentinel-range.md>), past [Raven's Hold](<../greater-dunmar/dunmari-basin/raven-s-hold.md>), and eventually to [Karawa](<../greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>).
+A major trade road that departs from the [Maseau - Dunmar Road](<./maseau-dunmar-road.md>) just south of the [Aursen](<../major-rivers/istaros-watershed/aursen.md>), crosses the [Douren River](<../major-rivers/istaros-watershed/douren.md>) as [Heuren Gorge](<./heuren-gorge.md>), runs along western foothills of the [Sentinel Range](<../sentinel-range.md>) through Stoneborn settlements, past [Raven's Hold](<../greater-dunmar/dunmari-basin/raven-s-hold.md>), and eventually to [Karawa](<../greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>).
 

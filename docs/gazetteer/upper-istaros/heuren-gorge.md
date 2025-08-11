@@ -13,4 +13,4 @@ title: Heuren Gorge
 </div>
 
 
-A remarkable gorge where the [South Dunmar Road](<./south-dunmar-road.md>) crosses the [Douren](<rivers/douren.md>) River. 
+A remarkable gorge where the [South Dunmar Road](<./south-dunmar-road.md>) crosses the [Douren](<../major-rivers/istaros-watershed/douren.md>) River. 

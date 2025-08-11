@@ -13,7 +13,7 @@ title: Castrella
 # Castrella
 :speaker:{ .middle } *(kah-STREL-ah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A city in [Cedrano](<./cedrano.md>), the [Chardonian Empire](<../chardonian-empire.md>), [Greater Chardon](<../../greater-chardon.md>)  
+-    :octicons-location-24:{ .lg .middle } A city in [Cedrano](<./cedrano.md>), [Chardonian Empire](<../chardonian-empire.md>)  
     :octicons-location-24:{ .lg .middle } Located in [Apporia](<./apporia.md>), the West Coast Region  
 </div>
 

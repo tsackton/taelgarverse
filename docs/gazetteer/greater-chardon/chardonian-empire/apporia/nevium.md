@@ -16,7 +16,7 @@ title: Nevium
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 5,300  
-    :octicons-location-24:{ .lg .middle } A city in [Portalia](<./portalia.md>), the [Chardonian Empire](<../chardonian-empire.md>), [Greater Chardon](<../../greater-chardon.md>)  
+    :octicons-location-24:{ .lg .middle } A city in [Portalia](<./portalia.md>), [Chardonian Empire](<../chardonian-empire.md>)  
     :octicons-location-24:{ .lg .middle } Located in [Apporia](<./apporia.md>), the West Coast Region  
 </div>
 

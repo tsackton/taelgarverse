@@ -14,7 +14,7 @@ title: Orenlas
 # Orenlas
 :speaker:{ .middle } *(o-REN-las)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An [elven](<../../../species/elves.md>) forest realm in the [Istaros Watershed](<../../major-rivers/istaros-watershed.md>)  
+-    :octicons-location-24:{ .lg .middle } An [elven](<../../../species/elves.md>) forest realm in the [Istaros Watershed](<../../major-rivers/istaros-watershed/istaros-watershed.md>)  
 </div>
 
 

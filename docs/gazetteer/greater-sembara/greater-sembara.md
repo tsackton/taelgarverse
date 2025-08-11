@@ -15,7 +15,7 @@ title: Greater Sembara
 </div>
 
 
-Greater Sembara is an ancient land blessed with mild weather, amble rain, and rich fertile soil. Largely unchanged by the upheavals of the [Great War](<../../events/1500s/great-war.md>), farmers plant winter wheat and summer millet and soybeans largely as they have for thousands of years. The rolling hills and fertile river valleys are dotted with small cities and prosperous market towns, and halflings traders ply the roads and waterways. This is a land defined by its rivers: the [Kem](<vostok/kem.md>), [Volta](<rivers/volta-watershed/volta.md>), [Teft](<rivers/teft.md>), [Semb](<rivers/semb-watershed/semb.md>), [Wisford](<sembara/heartlands/wisford.md>), and [Enst](<rivers/wistel-enst-watershed/enst.md>) in particular. 
+Greater Sembara is an ancient land blessed with mild weather, ample rain, and rich fertile soil. Largely unchanged by the upheavals of the [Great War](<../../events/1500s/great-war.md>), farmers plant winter wheat and summer millet and soybeans largely as they have for thousands of years. The rolling hills and fertile river valleys are dotted with small cities and prosperous market towns, and halflings traders ply the roads and waterways. This is a land defined by its rivers: the [Kem](<vostok/kem.md>), [Volta](<rivers/volta-watershed/volta.md>), [Teft](<rivers/teft.md>), [Semb](<rivers/semb-watershed/semb.md>), [Wisford](<sembara/heartlands/wisford.md>), and [Enst](<rivers/wistel-enst-watershed/enst.md>) in particular. 
 ## Map
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"

@@ -20,7 +20,7 @@ The Silver Tempests are a renowned adventuring party based out of [Voltara](<../
 
 The original members of the Silver Tempests are:
 - [Adrik](<./adrik.md>) Boulderbeard, a lightning-touched barbarian from the [Yuvanti Mountains](<../../../gazetteer/greater-dunmar/yuvanti-mountains.md>), far to the south
-- [Samso](<./samso.md>), a lizardfolk druid from the [Yeraad River Basin](<../../../gazetteer/major-rivers/yeraad-river-basin.md>)
+- [Samso](<./samso.md>), a lizardfolk druid from the [Yeraad Watershed](<../../../gazetteer/major-rivers/yeraad-watershed/yeraad-watershed.md>)
 - [Brelith](<./brelith.md>), a dwarven cleric from [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), who retired to open a restaurant in Voltara
 - [Aelar](<./aelar.md>), an elven shadow monk, who grew up an orphan wandering around Chardon, and has since grown so stealthy that he disappeared into the background
 
