@@ -1,5 +1,7 @@
 ---
 tags: [background]
+dm_notes: important
+dm_owner: tim
 title: Politics of Chalyte (Chardonian Empire)
 ---
 

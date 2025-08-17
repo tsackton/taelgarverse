@@ -131,3 +131,4 @@
 - **The Magistros** ([Dunmari Frontier - Session 126](<session-notes/session-126-dufr.md>), Jun 27, 1749 DR - Jun 29, 1749 DR): in which the party negotiates over chalyte (*Featuring Delwath, Kenzo, and Wellby*)
 - **Storm over Thundercrown** ([Dunmari Frontier - Session 127](<session-notes/session-127-dufr.md>), Jun 29, 1749 DR - Jul 04, 1749 DR): in which the party investigates a stone giant stronghold (*Featuring Delwath, Kenzo, and Wellby*)
 - **Dhurkmir’s Fall** ([Dunmari Frontier - Session 128](<session-notes/session-128-dufr.md>), Jul 04, 1749 DR - Jul 05, 1749 DR): in which the party shatters a chalyte death ray (*Featuring Delwath, Kenzo, Seeker, and Wellby, joined by Seeker 3*)
+- **Desperate Pleas** ([Dunmari Frontier - Session 129](<session-notes/session-129-dufr.md>), Jul 05, 1749 DR - Aug 07, 1749 DR): in which grave danger threatens Aurbez (*Featuring Delwath, Kenzo, Seeker, and Wellby*)

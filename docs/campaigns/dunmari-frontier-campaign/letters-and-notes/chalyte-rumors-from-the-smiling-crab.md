@@ -4,7 +4,7 @@ tags: [source]
 title: Chalyte Rumors from the Smiling Crab
 ---
 
-At the halfling inn the The Smiling Crab, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) settles in for the night, listening to stories and rumors from the [halflings](<../../../species/halflings.md>) – mostly merchants and sailors – who have gathered in the common room. 
+At the halfling inn the [The Smiling Crab](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/the-smiling-crab.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) settles in for the night, listening to stories and rumors from the [halflings](<../../../species/halflings.md>) – mostly merchants and sailors – who have gathered in the common room. 
   
 The halflings, of course, have their own perspective on human dealings. 
 

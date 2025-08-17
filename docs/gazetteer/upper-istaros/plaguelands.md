@@ -11,7 +11,7 @@ title: Plaguelands
 ---
 # The Plaguelands
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region [Upper Istaros](<./upper-istaros.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in the [Upper Istaros](<./upper-istaros.md>)  
 </div>
 
 

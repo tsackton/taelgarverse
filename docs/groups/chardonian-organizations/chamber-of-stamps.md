@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [organization]
 ancestry: Chardonian
 typeOf: civic office
+dm_notes: important
+dm_owner: tim
 title: Chamber of Stamps
 ---
 # The Chamber of Stamps
