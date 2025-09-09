@@ -10,7 +10,7 @@ title: Mawakel Peninsula
 ---
 # The Mawakel Peninsula
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A peninsula [Northwest Coast](<../northwest-coast.md>)  
+-    :octicons-location-24:{ .lg .middle } A peninsula in the [Northwest Coast](<../northwest-coast.md>)  
 </div>
 
 

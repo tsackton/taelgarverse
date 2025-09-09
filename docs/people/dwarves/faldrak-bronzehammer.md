@@ -32,7 +32,7 @@ title: Faldrak Bronzehammer
     Originally from: [Fahnukan](<../../gazetteer/northern-sentinels/fahnukan.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
+:octicons-location-24:{ .lg .middle } Currently [Vindristjarna](<../../things/ships/vindristjarna.md>)
 
 
 

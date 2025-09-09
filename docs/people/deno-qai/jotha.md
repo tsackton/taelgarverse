@@ -28,7 +28,7 @@ title: Jotha
     Originally from: the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
+:octicons-location-24:{ .lg .middle } Currently [Vindristjarna](<../../things/ships/vindristjarna.md>)
 
 
 ![Jotha](../../assets/jotha.jpg){align="right"; width="300"}Jotha is a warrior, serious and sometimes distant, who relies on her connection to the [Tanshi](<../../gods-and-religions/gods/tanshi/tanshi.md>) to make sense of the dangers and evils she has faced. She prefers to listen instead of talk, and enjoys hearing stories. While eventually she intends to return to her homeland, for now she travels seeking to deepen her connection to the tanshi. 

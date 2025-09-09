@@ -15,7 +15,7 @@ title: Voltara
 # Voltara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A city in [Greater Voltara](<../greater-voltara.md>), the [Northern Provinces](<../northern-provinces.md>), the [Chardonian Empire](<../../../greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../../greater-chardon/greater-chardon.md>)  
-    :octicons-location-24:{ .lg .middle } Located in the [Northwest Coast](<../../northwest-coast.md>)  
+    :octicons-location-24:{ .lg .middle } Located [Northwest Coast](<../../northwest-coast.md>)  
 </div>
 
 

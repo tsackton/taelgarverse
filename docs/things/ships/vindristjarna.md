@@ -27,15 +27,11 @@ dm_notes: important
 title: Vindristjarna
 ---
 # Vindristjarna
-:speaker:{ .middle } *(vin-dree-SHAR-na)*  
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Magical Skyship__  
-   Created unknown storm giant  
-   Owned owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
-</div>
-
-:octicons-location-24:{ .lg .middle } Owned
-
+*(vin-dree-SHAR-na)*
+>[!info]+ Information  
+> (unique magical skyship)  
+>   
+>> 
 
 ![Vindristjarna V1](../../assets/vindristjarna-v1.jpg)
 

@@ -16,7 +16,7 @@ title: Algerd
     A [giant](<../../species/unusual-species/giants.md>) (frost) (he/him)  
     { .bio }
 
-    Based on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
+    Based [Vindristjarna](<../../things/ships/vindristjarna.md>)
 </div>
 
 

@@ -13,7 +13,7 @@ title: Hamri
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 3,500  
-    :octicons-location-24:{ .lg .middle } A town in the [Mawar Confederacy](<./mawar-confederacy.md>), the [Mawakel Peninsula](<./mawakel-peninsula.md>), the [Northwest Coast](<../northwest-coast.md>)  
+    :octicons-location-24:{ .lg .middle } A town [Mawar Confederacy](<./mawar-confederacy.md>)  
 </div>
 
 

@@ -16,5 +16,5 @@ You might start with:
 - Information about [Vindristjarna](<../../things/ships/vindristjarna.md>), its [control mechanics](<./vindristjarna-mechanics.md>) and its [special facilities](<./vindristjarna-bastion-rules.md>).
 - Information about [companions, followers, and hirelings](<./dunmar-fellowship-associates.md>). 
 
-The most recent session with published notes is [Session 126 (DuFr)](<session-notes/session-126-dufr.md>). 
+The most recent session with published notes is [Session 130 (DuFr)](<session-notes/session-130-dufr.md>). 
 

@@ -20,7 +20,7 @@ title: Mirror of Soul Trapping
    Owned owned by the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
 </div>
 
-:octicons-location-24:{ .lg .middle } Owned
+:octicons-location-24:{ .lg .middle } Owned [Vindristjarna](<../../../things/ships/vindristjarna.md>)
 
 
 
@@ -48,14 +48,14 @@ You sense there may be other command words, but further study or research on the
 #### Occupants
 Current occupants of the mirror are:
 
-1. [Revaka](<../../../people/other-nonhumans/revaka.md>), a hobgoblin, trapped by [Agata](<../../../people/fey/agata.md>).
-2. [Hektor](<../../../people/chardonians/hektor.md>), trapped in [Session 78 (DuFr)](<../session-notes/session-78-dufr.md>) 
+1. [Revaka](<../../../people/other-nonhumans/revaka.md>), a hobgoblin, trapped by [Agata](<../../../people/fey/agata.md>) / [Szoltár](<../../../people/other-nonhumans/szoltar.md>), a hobgoblin solider from the Iron Fang, trapped in [Session 130 (DuFr)](<../session-notes/session-130-dufr.md>)
+2. (removed when cells holding Revaka and Szoltar)
 3. A wyvern, trapped in [Session 43 (DuFr)](<../session-notes/session-43-dufr.md>). 
 4. Kinzal mage and messenger, trapped in [Session 96 (DuFr)](<../session-notes/session-96-dufr.md>)
-5. [Valius](<../../../people/chardonians/valius.md>)/[Vargus](<../../../people/chardonians/vargus.md>), trapped in [Session 78 (DuFr)](<../session-notes/session-78-dufr.md>). Cells merged into one in [Session 79 (DuFr)](<../session-notes/session-79-dufr.md>).
+5. empty
 6. (removed when the cells holding Valius and Vargus were merged)
 7. [Antonia](<../../../people/chardonians/antonia.md>), trapped in [Session 78 (DuFr)](<../session-notes/session-78-dufr.md>)
-8. [Vola](<../../../people/chardonians/vola.md>), trapped in [Session 78 (DuFr)](<../session-notes/session-78-dufr.md>)
+8. empty
 9. empty
 10. empty
 11. empty

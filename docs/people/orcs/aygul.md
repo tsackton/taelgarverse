@@ -29,7 +29,7 @@ title: Aygul
     Based in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
+:octicons-location-24:{ .lg .middle } Currently [Vindristjarna](<../../things/ships/vindristjarna.md>)
 
 
 ![Aygul Portrait](../../assets/aygul-portrait.png){align="right"; width="320"}An orc brawler and fighter, who sees herself as a defender of her people and especially her twin sister, [Nuzkar](<./nuzkar.md>). A loner, with no other family.
