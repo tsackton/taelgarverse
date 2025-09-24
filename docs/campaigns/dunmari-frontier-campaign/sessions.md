@@ -133,3 +133,4 @@
 - **Dhurkmir’s Fall** ([Dunmari Frontier - Session 128](<session-notes/session-128-dufr.md>), Jul 04, 1749 DR - Jul 05, 1749 DR): in which the party shatters a chalyte death ray (*Featuring Delwath, Kenzo, Seeker, and Wellby, joined by Seeker 3*)
 - **Desperate Pleas** ([Dunmari Frontier - Session 129](<session-notes/session-129-dufr.md>), Jul 05, 1749 DR - Aug 07, 1749 DR): in which grave danger threatens Aurbez (*Featuring Delwath, Kenzo, Seeker, and Wellby*)
 - **Council at Three Wells** ([Dunmari Frontier - Session 130](<session-notes/session-130-dufr.md>), Aug 07, 1749 DR): in which the defense of the Heartroot is sworn (*Featuring Delwath, Kenzo, Seeker, and Wellby*)
+- **Guerilla Warfare** ([Dunmari Frontier - Session 131](<session-notes/session-131-dufr.md>), Aug 08, 1749 DR - Aug 10, 1749 DR): in which the hobgoblins are harrassed on their march (*Featuring Delwath, Kenzo, Seeker, and Wellby*)

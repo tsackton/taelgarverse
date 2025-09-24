@@ -14,7 +14,7 @@ title: Garamjala Desert
 # The Garamjala Desert
 :speaker:{ .middle } *(ga-RUM-ja-la)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A desert in the [Desolation of Cha'mutte](<../desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../drankorian-hinterland.md>)  
+-    :octicons-location-24:{ .lg .middle } A desert in the [Desolation of Cha'mutte](<../desolation-of-cha-mutte.md>), [Drankorian Hinterland](<../drankorian-hinterland.md>)  
 </div>
 
 

@@ -21,7 +21,7 @@ title: Samso
 
     A [lizardfolk](<../../../species/lizardfolk.md>) (he/him)  
     Born DR 1716 (33 years old)  
-    Member of the [Silver Tempests](<./silver-tempests.md>)  
+    Member of [Silver Tempests](<./silver-tempests.md>)  
     { .bio }
 
     Originally from: Urkabi, [Portalia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/portalia.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

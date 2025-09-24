@@ -11,7 +11,7 @@ title: Duchy of Sembara
 ---
 # The Duchy of Sembara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A duchy [Sembara](<../sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A duchy in [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

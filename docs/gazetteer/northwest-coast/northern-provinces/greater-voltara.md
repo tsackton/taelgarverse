@@ -12,7 +12,7 @@ title: Greater Voltara
 ---
 # Greater Voltara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A province [Northern Provinces](<./northern-provinces.md>)  
+-    :octicons-location-24:{ .lg .middle } A province in the [Northern Provinces](<./northern-provinces.md>), the [Chardonian Empire](<../../greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../greater-chardon/greater-chardon.md>)  
     :octicons-location-24:{ .lg .middle } Located in the [Northwest Coast](<../northwest-coast.md>)  
 </div>
 
