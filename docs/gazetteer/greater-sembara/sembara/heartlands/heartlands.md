@@ -11,7 +11,7 @@ title: Heartlands
 ---
 # The Heartlands
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region [Sembara](<../sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

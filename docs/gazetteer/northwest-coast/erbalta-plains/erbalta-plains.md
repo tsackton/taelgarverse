@@ -14,7 +14,7 @@ title: Erbalta Plains
 :speaker:{ .middle } *(air-BAWL-tuh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A plain in the [Northwest Coast](<../northwest-coast.md>)  
-    :octicons-location-24:{ .lg .middle } Located [Northern Provinces](<../northern-provinces/northern-provinces.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Northern Provinces](<../northern-provinces/northern-provinces.md>), the [Chardonian Empire](<../../greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../greater-chardon/greater-chardon.md>)  
 </div>
 
 

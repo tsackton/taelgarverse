@@ -13,7 +13,7 @@ title: Auberonne
 # The Auberonne
 :speaker:{ .middle } *(Oh-beh-ron)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A river [Barony of Aveil](<../../sembara/barony-of-aveil/barony-of-aveil.md>)  
+-    :octicons-location-24:{ .lg .middle } A river in the [Barony of Aveil](<../../sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../sembara/sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

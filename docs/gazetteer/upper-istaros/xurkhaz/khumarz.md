@@ -15,7 +15,7 @@ title: Khumarz
 # Khumarz
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: An [orc](<../../../species/orcs.md>) town in [Xurkhaz](<./xurkhaz.md>), the [Garamjala Desert](<../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), destroyed by [Grash](<../../../people/other-nonhumans/grash.md>) on December 11th, 1748  
+   :material-calendar: An [orc](<../../../species/orcs.md>) town [Xurkhaz](<./xurkhaz.md>), destroyed by [Grash](<../../../people/other-nonhumans/grash.md>) on December 11th, 1748  
 </div>
 
 
