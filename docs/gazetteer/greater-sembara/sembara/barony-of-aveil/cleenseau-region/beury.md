@@ -22,12 +22,11 @@ title: Beury
 
 A large farming village six miles downriver of [Cleenseau](<cleenseau/cleenseau.md>) and the principle (and only) village in the [Manor of Beury](<./manor-of-beury.md>). There are about ninety sturdy houses here, many of which predate the [hobgoblin wars](<../../../../../history/third-hobgoblin-war-sembara.md>), although the village was abandoned for several years in the 1640s. 
 
-The houses are arranged in two tight concentric circles around a main square, where the one-story wooden manor house sits, as does the slightly larger stone temple of [The Father](<../../../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-father.md>), the blacksmith, and two wells. The entire village, save for the small inn and mill (see below), fit within a thousand-foot diameter circle. 
+The houses are arranged in two tight concentric circles around a main square, where the one-story wooden manor house sits, as does the slightly larger stone temple of [The Father](<../../../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-father.md>), the blacksmith, and two wells. The entire village, save for the small inn and mill (see below), fit within a thousand-foot diameter circle. There is a well-made wooden wall surrounding the outer circle of houses, although the inn and mill are outside the wall.
 
 Beyond the second circle of houses, straddling the [Great South Road](<../../../roads/great-south-road.md>) is a nameless inn, usually just called "the inn in Beury" (or sometimes, jokingly, "Bee's Rest"). The inn is more of a stable and resting spot for caravans before crossing the [boggy wetlands](<./east-bog.md>) to [Dallet](<../dallet.md>) than a proper inn, and the food and drink are notably lacking. Many caravans resting here simply camp in the yard. Across the road and a few dozen feet from the inn is a sturdy stone millhouse.
 
-A small market is held in the caravan yard once a week, which attracts some of the people from [Asineau](<./asineau.md>) and [Ganboa](<./ganboa.md>), especially for iron goods.
-
+A [small market](<./manor-of-beury.md#economy>) is held in the caravan yard once a week, which attracts some of the people from [Asineau](<./asineau.md>) and [Ganboa](<./ganboa.md>).
 ## Notable Residents
 * [Erick Murtha](<../../../../../people/sembarans/erick-murtha.md>), the lord, and his wife
 * Clare Murtha, his daughter and heir

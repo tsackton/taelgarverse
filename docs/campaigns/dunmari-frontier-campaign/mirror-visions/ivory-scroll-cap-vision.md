@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [event]
-displayDefaults: {defArt: ''}
+displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 DR: 1748-04-22
 timelineDescriptor: Dunmari Frontier Campaign
 title: Ivory Scroll Cap Vision

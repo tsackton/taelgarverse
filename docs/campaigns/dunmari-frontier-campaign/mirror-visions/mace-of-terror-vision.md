@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [event]
-displayDefaults: {defArt: ''}
+displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 DR: 1748-09-14
 timelineDescriptor: Dunmari Frontier Campaign
 title: Mace of Terror Vision

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [event]
-displayDefaults: {defArt: ''}
+displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 DR: 1749-03-01
 timelineDescriptor: Dunmari Frontier Campaign
 title: Cecilia's White Dragon Tooth Vision

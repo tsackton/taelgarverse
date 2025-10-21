@@ -11,7 +11,7 @@ title: Barony of Chantelierre
 # The Barony of Chantelierre
 :speaker:{ .middle } *(SHAWN-tel-ee-air)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A barony in the [Borderlands](<./borderlands.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A barony [Borderlands](<./borderlands.md>)  
 </div>
 
 

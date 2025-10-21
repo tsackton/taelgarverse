@@ -37,5 +37,6 @@
 - May 30, 1749 DR: Look at the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>) in the [Mirror of the Past](<treasure/mirror-of-the-past.md>), seeing the [Crown of Purity Vision](<mirror-visions/crown-of-purity-vision.md>) recharge mirror
 - Jun 16, 1749 DR:  Look at Apollyon's Crystal Ball in the [Mirror of the Past](<treasure/mirror-of-the-past.md>), seeing [Apollyon's Crystal Ball Vision](<mirror-visions/apollyon-s-crystal-ball-vision.md>) recharge mirror
 - Jun 23, 1749 DR:  Look at the spellbook recovered from the [Elemental Forge](<../../gazetteer/western-green-sea/cymea/elemental-forge.md>) in the [Mirror of the Past](<treasure/mirror-of-the-past.md>), seeing [Elemental Forge Spellbook Vision](<mirror-visions/elemental-forge-spellbook-vision.md>) recharge mirror
+- Aug 12, 1749 DR:  Look the Heartroot  in the [Mirror of the Past](<treasure/mirror-of-the-past.md>), seeing [Heartroot Vision](<mirror-visions/heartroot-vision.md>) recharge mirror
 
 

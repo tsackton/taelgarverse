@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [event]
-displayDefaults: {defArt: ''}
+displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 DR: 1748-06-01
 timelineDescriptor: Dunmari Frontier Campaign
 title: Scepter of Command Vision

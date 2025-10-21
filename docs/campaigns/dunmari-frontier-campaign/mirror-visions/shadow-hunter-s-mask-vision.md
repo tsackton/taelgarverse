@@ -1,13 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [event]
-displayDefaults: {defArt: ''}
+displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 DR: 1748-08-29
 timelineDescriptor: Dunmari Frontier Campaign
 title: Shadow Hunter's Mask Vision
 ---
 # Shadow Hunter's Mask Vision
-
 
 The image in the mirror shows a room, underground, light only by candle light and two torches burning on the wall. A man is tied to a chair – the same face that the shadow hunter you killed had after he died. But the bonds look loose, and the man is not resisting. He seems to be staring off into space, unaware of his surroundings.
 

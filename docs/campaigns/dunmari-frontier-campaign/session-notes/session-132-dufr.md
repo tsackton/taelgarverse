@@ -25,8 +25,8 @@ The Dunmar Fellowship seizes a huge snake make of chaos metal, plan the defense 
 
 ### Summary
 
-- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) secures defenses at [Three Wells](<../../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/three-wells.md>) for the Heartroot, coordinating rangers and militias while Delwath promises an ambush illusion and mass Animal Shapes.
-- [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) creates a new simulacrum (Seeker 5) and, with [Vindristjarna](<../../../things/ships/vindristjarna.md>) on station, the party intercepts levitating troop “worms” and silvery hawks at the escarpment, downing and capturing a worm.
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) secures defenses at [Three Wells](<../../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/three-wells.md>) for the Heartroot, coordinating rangers and militias while Delwath promises an ambush illusion and mass [[Animal Shapes.
+- [[Seeker]] creates a new simulacrum (Seeker 5) and, with [Vindristjarna](<../../../things/ships/vindristjarna.md>) on station, the party intercepts levitating troop “worms” and silvery hawks at the escarpment, downing and capturing a worm.
 - The captured worm decoheres into Limbo **chaos metal**, which Identify reveals the Empress can control at close range but which becomes inert a few miles away.
 - At the Heartroot valley, the party shapes an ambush—Mirage Arcana raises an illusory lake and mountain while volunteers are transformed into hippos with lizardfolk riders.
 - Battle is joined as a phantasmal dragon routs casters, hippos charge from the “lake,” ash elementals counterattack, and the Empress streaks past the feint toward the Heartroot, prompting the party to Teleport to the grove to intercept.

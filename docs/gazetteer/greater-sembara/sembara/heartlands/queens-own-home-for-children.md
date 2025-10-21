@@ -14,7 +14,7 @@ title: Queen’s Own Home for Children
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: existed DR 1673 - June 30th, 1720, destroyed after 47 years  
-    :octicons-location-24:{ .lg .middle } An orphanage in [Embry](<./embry.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } An orphanage in [Embry](<./embry.md>), [Sembara](<../sembara.md>)  
 </div>
 
 

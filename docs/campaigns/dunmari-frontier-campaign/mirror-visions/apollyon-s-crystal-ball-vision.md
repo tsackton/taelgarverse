@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [event]
-displayDefaults: {defArt: ''}
+displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 name: Apollyon's Crystal Ball Vision
 DR: 1749-06-16
 timelineDescriptor: Dunmari Frontier Campaign
