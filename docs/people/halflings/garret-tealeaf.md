@@ -27,7 +27,7 @@ title: Garret Tealeaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/halflings.md>) (he/him), of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)  
+    A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)  
     Born DR 1656 (93 years old)  
     { .bio }
 
@@ -38,7 +38,7 @@ title: Garret Tealeaf
 
 
 
-:octicons-location-24:{ .lg .middle } Freed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 2nd, 1748 in [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
+:octicons-location-24:{ .lg .middle } Freed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 2nd, 1748 in [Agata's Lair](<../../gazetteer/greater-dunmar/hara-basin/agata-s-lair.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
 
 
 
@@ -48,7 +48,7 @@ title: Garret Tealeaf
 ![Garret Tealeaf](../../assets/garret-tealeaf.jpg){align="right"; width="300"}Garret Tealeaf grew up traveling the roads of Dunmar with the Tealeaf trading family, eventually becoming the patriarch of a group of 5 well-armed and defended caravans that regularly made the circuit from Chardon, east to [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), Tokra, and Karawa, before turning south across the Yuvanti Mountains to Nayahar, and then north along the coast to Darba, and back to Chardon. 
 
 ## Relationships
-- [Charmhearts](<../../groups/halfling-families/charmhearts.md>), occasional traveling companions after being freed from imprisonment in [Agata's Lair](<../../gazetteer/greater-dunmar/dunmari-basin/agata-s-lair.md>). 
+- [Charmhearts](<../../groups/halfling-families/charmhearts.md>), occasional traveling companions after being freed from imprisonment in [Agata's Lair](<../../gazetteer/greater-dunmar/hara-basin/agata-s-lair.md>). 
 - [Agata](<../fey/agata.md>), his captor and tormentor
 - [Seeker](<../pcs/dunmar-fellowship/seeker.md>), who freed him from his wooden puppet form
 - [Wellby](<../pcs/dunmar-fellowship/wellby.md>), who introduced him to the Charmhearts
@@ -62,13 +62,4 @@ Garret spent the next 11 years in servitude, as a wooden scarecrow, until he was
 
  - 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.
   - Jun 02, 1748 DR:  [Garret Tealeaf](<./garret-tealeaf.md>) is freed from his imprisonment as a wooden scarecrow by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 
-
-                                                                                                                                                                                                                                                                                          |
-| [Bree Charmheart](<./bree-charmheart.md>)                                               | [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion
-
-
-
-                                                                                                                                                                                                                                                                  |
-| [Oswalt Tealeaf](<./oswalt-tealeaf.md>)                                                 | 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.                                                                                                                                                                                                                   |
-| [Garret Tealeaf](<./garret-tealeaf.md>)                                                 | 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.                                                                                                                                                                                                                   |
 

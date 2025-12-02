@@ -10,7 +10,7 @@ whereabouts:
 pronunciation: PIE-koh-lon
 dm_notes: none
 dm_owner: none
-alias: [Lake Pegokolonos]
+aliases: [Lake Pegokolonos]
 title: Pykolon Lake
 ---
 # Pykolon Lake
@@ -21,8 +21,8 @@ title: Pykolon Lake
 </div>
 
 
-A small lake nestling in a hilly region on the western edge of the [Erbalta Plains](<../../northwest-coast/erbalta-plains/erbalta-plains.md>); the source of the [Kelvaros](<./kelvaros.md>) and a frequent stop-over place for migrating [centaurs](<../../../species/unusual-species/centaurs.md>). 
+A small lake nestling in a hilly region on the western edge of the [Erbalta Plains](<../../northwest-coast/erbalta-plains/erbalta-plains.md>); the source of the [Kelvaros](<./kelvaros.md>) and a frequent stop-over place for migrating [Centaurs](<../../../creatures/species/centaurs.md>). 
 
 The name derives from the Drankorian for "spring-hill", and is sometimes referred to as Lake Pegokolonos in historical works. 
 
-The tomb of Xameia the Forsworn is located on this lake, and it is a place with some historical significance to the Order of Twilight. 
+The tomb of Xameia the Forsworn is located on this lake, and it is a place with some historical significance to the [Order of Twilight](<../../../groups/order-of-twilight.md>). 

@@ -4,7 +4,9 @@ tags: [place]
 displayDefaults: {defArt: ''}
 name: Lake Kamchak
 typeOf: lake
-whereabouts: Zimkova
+whereabouts:
+- {type: primary, location: Vostok}
+- {type: secondary, location: Volta Watershed}
 aliases: [Kamchak]
 dm_notes: none
 dm_owner: none
@@ -12,7 +14,8 @@ title: Lake Kamchak
 ---
 # Lake Kamchak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A lake in [Zimkova](<../../zimkova/zimkova.md>), [Greater Sembara](<../../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A lake in [Vostok](<../../vostok/vostok.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Volta Watershed](<./volta-watershed.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

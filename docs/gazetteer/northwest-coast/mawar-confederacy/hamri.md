@@ -26,7 +26,7 @@ Hamri is blessed with a sheltered, deep water harbor within a protected bay, and
 ## Overview
 Hamri is divided into three districts. Much of the town is clustered on stone quays built over the tidal flats of the [Mirmir](<../rivers/mirmir.md>). Known as Low Town, this is the economic powerhouse of Hamri. Warehouses set into the steep cliffs, jumbled houses, inns, and taverns, shipyards and racks full of drying fish mark this bustling district. 
 
-One of the most significant buildings in Low Town is the Leviathan, a huge two-story inn set over the water. Stepping inside, one’s eye is immediately drawn to the massive reconstructed skeleton hanging from the ceiling, a beast much larger than any whale or fish. With three eye sockets, a tail so long it cannot fit even in the massive banquet hall, and a massive jaw that dwarfs a full grown [human](<../../../species/humans.md>), this reconstructed skeleton is one of the most notable features of Hamri.  
+One of the most significant buildings in Low Town is the Leviathan, a huge two-story inn set over the water. Stepping inside, one’s eye is immediately drawn to the massive reconstructed skeleton hanging from the ceiling, a beast much larger than any whale or fish. With three eye sockets, a tail so long it cannot fit even in the massive banquet hall, and a massive jaw that dwarfs a full grown [human](<../../../creatures/species/humans.md>), this reconstructed skeleton is one of the most notable features of Hamri.  
 
 Above Low Town, stretching along the steep cliffs, is the Cliffside district, a series of narrow, terraced steps in the sheer cliff face, connected by switchbacks and steep passages. This district houses many of the merchants, ship owners, and wealthier traders of Hamri. Sheltered from the wind and weather, these houses tend to be finer, drier, and warmer than the Low Town, although the steep terrain limits the building space. At best maybe five hundred people are lucky enough to live up here, above the bustle of the Low Town.
 
@@ -61,3 +61,4 @@ The Stormy Maiden is a popular fry shack and drinking hole catering to a cheaper
 At the southern end of the dock area, the Shark's Dock is rundown and in relatively poor repair. The harbor here is shallow and the shoals tricky to navigate, and newer docks have been built in the years since the Shark's Dock was built. Unpopular and ramshackle, this dock has little going for it commercially. It is, however, the docks closest to the Shark's Teeth, and in the warmest months, a popular place to swim. 
 
 A handful of collapsing warehouses also provide a good clandestine meeting spot, especially for someone coming by sea.
+

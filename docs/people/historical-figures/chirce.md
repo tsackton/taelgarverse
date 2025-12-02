@@ -12,7 +12,7 @@ title: Chirce
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An Illorian [human](<../../species/humans.md>) (he/him)  
+    An Illorian [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
 </div>

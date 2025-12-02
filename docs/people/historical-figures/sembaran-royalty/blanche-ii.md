@@ -20,7 +20,7 @@ dm_owner: none
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans.md>) (she/her)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (she/her)  
     b. DR 1570 - d. DR 1602, died at age 32 years  
     Queen of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), and [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (DR 1600 - DR 1602)  
     Member of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>) (until DR 1602)  

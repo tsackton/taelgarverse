@@ -15,7 +15,7 @@ title: Prince Aurelian
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [archfey](<../../../species/extraplanar/fey.md>) (he/him)  
+    An [archfey](<../../../creatures/fey/fey.md>) (he/him)  
     { .bio }
 
     Based in [Everlight's Bloom](<../../../gazetteer/extraplanar/feywild/everlight-s-bloom.md>), the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)

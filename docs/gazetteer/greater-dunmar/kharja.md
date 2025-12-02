@@ -18,5 +18,5 @@ title: Kharja
 </div>
 
 
-The now mostly dry riverbed that flows past [Kharsan](<dunmari-basin/kharsan.md>), eventually joining with the [Hara](<rivers/hara-watershed/hara.md>) river. 
+The now mostly dry riverbed that flows past [Kharsan](<hara-basin/kharsan.md>), eventually joining with the [Hara](<rivers/hara-watershed/hara.md>) river. 
 

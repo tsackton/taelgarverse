@@ -17,7 +17,7 @@ title: Drou
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../species/elves.md>) (she/her), ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
+    An [elf](<../../../creatures/species/elves.md>) (she/her), ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
     { .bio }
 
     Originally from: [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>)

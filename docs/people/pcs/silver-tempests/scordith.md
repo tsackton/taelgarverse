@@ -15,17 +15,17 @@ title: Scordith
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../../species/humans.md>) (she/her)  
+    A [human](<../../../creatures/species/humans.md>) (she/her)  
     Born DR 1730 (19 years old)  
     { .bio }
 
-    Originally from: Paisa
+    Originally from: [Paisa](<../../../gazetteer/northwest-coast/northern-provinces/paisa.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of June 9th, 1747): [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 
 
-Scordith was born in Paisa, a small village on the northwestern shore of [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>). Her early life was uneventful, until her parents died in a tragic accident when she was only six years old. The village elders, not sure what to do, sent her to live in a secretive monastery in the hills that was willing to take her in. Scordith was raised in the monastery for the next twelve years. 
+Scordith was born in [Paisa](<../../../gazetteer/northwest-coast/northern-provinces/paisa.md>), a small village on the northwestern shore of [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>). Her early life was uneventful, until her parents died in a tragic accident when she was only six years old. The village elders, not sure what to do, sent her to live in a secretive monastery in the hills that was willing to take her in. Scordith was raised in the monastery for the next twelve years. 
 
 When she turned 16, she tried to flee the monastery, but the monks had other ideas, and tried to stop her. At this moment, a divine spark awoke in Scordith, and she barely escaped through her new-found connection to [The Sibyl](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>). Fleeing north, she found herself in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), where she met [Lyra](<../../chardonians/lyra.md>) and started working for the [Great Library](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>). 
 

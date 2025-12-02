@@ -20,11 +20,11 @@ dm_notes: none
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Skaer](<../../gazetteer/western-green-sea/realms/skaer.md>) [human](<../../species/humans.md>) (she/her)  
+    A [Skaer](<../../gazetteer/western-green-sea/realms/skaer.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1724 (25 years old)  
     { .bio }
 
-    Originally from: Pikkua
+    Originally from: [Pikkua](<../../gazetteer/western-green-sea/skaerhem/pikkua.md>), [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
     Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 

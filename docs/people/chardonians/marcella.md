@@ -19,7 +19,7 @@ title: Marcella
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (she/her)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1718 (31 years old)  
     { .bio }
 
@@ -39,7 +39,7 @@ A nondescript Chardonian woman, short brown hair and a plain face. An archer, sk
 
 Traveled uneasily with [Kadmos](<./kadmos.md>), [Hektor](<./hektor.md>), [Casian](<./casian.md>), and [Antonia](<./antonia.md>). 
 
-Felt forced to try to steal from party in [Session 44 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-44-dufr.md>), but when given the push by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) to flee for herself at the end of battle figures out how to make her escape. Disappears when [Kadmos](<./kadmos.md>) and company are fighting kobolds in the [Myraeni Gap](<../../gazetteer/greater-dunmar/myraeni-gap.md>), heading for the Stoneborn and then Sembara. 
+Felt forced to try to steal from party in [Session 44 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-44-dufr.md>), but when given the push by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) to flee for herself at the end of battle figures out how to make her escape. Disappears when [Kadmos](<./kadmos.md>) and company are fighting [Kobolds](<../../creatures/species/kobolds.md>) in the [Myraeni Gap](<../../gazetteer/greater-dunmar/myraeni-gap.md>), heading for the Stoneborn and then Sembara. 
 
 ![Marcella](../../assets/marcella.png)
 

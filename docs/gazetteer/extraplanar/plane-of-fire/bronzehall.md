@@ -14,6 +14,6 @@ title: Bronzehall
 </div>
 
 
-A rumored city, perhaps home to [Efreeti](<../../../species/extraplanar/efreeti.md>) and [Azer](<../../../species/extraplanar/azer.md>), on the Elemental Plane of Fire.
+A rumored city, perhaps home to [Efreeti](<../../../creatures/extraplanar/efreeti.md>) and [Azer](<../../../creatures/extraplanar/azer.md>), on the Elemental Plane of Fire.
 
 

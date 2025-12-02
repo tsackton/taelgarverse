@@ -20,7 +20,7 @@ title: Melindir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/elves.md>) (he/him), ([ka](<../../background/elven-cycle-of-generations.md>) 35)  
+    An [elf](<../../creatures/species/elves.md>) (he/him), ([ka](<../../background/elven-cycle-of-generations.md>) 35)  
     { .bio }
 
     Originally from: [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)

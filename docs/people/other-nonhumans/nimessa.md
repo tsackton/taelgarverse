@@ -15,7 +15,7 @@ title: Nimessa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elemental](<../../species/extraplanar/elementals.md>) (marid) (she/her)  
+    An [elemental](<../../creatures/extraplanar/elementals.md>) (marid) (she/her)  
     { .bio }
 
     Based in the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>), the [Energy Realms](<../../cosmology/energy-realms/energy-realms.md>)

@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/campaigninfo]
+tags: [person]
+campaignInfo:
+- {campaign: DuFr, type: mentioned to, date: 1748-08-21, wParty: '<met:U> <person> on <target>'}
 name: Agon
 born: 1694
 activeYear: 1745
@@ -18,7 +20,7 @@ title: Agon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Born DR 1694 (55 years old)  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
@@ -28,6 +30,11 @@ title: Agon
 
 
 
+:octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748  
+
+
+
 
 [Vola](<./vola.md>)'s mentor, a member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) and scholar in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). 
+
 

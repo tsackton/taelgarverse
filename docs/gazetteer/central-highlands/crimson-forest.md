@@ -17,4 +17,4 @@ A mostly-uninhabited forest, stretching from [Lake Valandros](<../greater-chardo
 
 Once part of the vast unbroken forest known as [Ainumarya](<./ainumarya.md>), the Crimson Forest was the site of some of the most intense fighting during the [Great War](<../../events/1500s/great-war.md>) and the battles that followed during the Conclave War. 
 
-Named after the rumors that the trees ran red with the blood of the [elves](<../../species/elves.md>) and their allies in the fighting that took place here. 
+Named after the rumors that the trees ran red with the blood of the [Elves](<../../creatures/species/elves.md>) and their allies in the fighting that took place here. 

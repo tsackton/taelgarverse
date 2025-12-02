@@ -19,7 +19,7 @@ title: Yvan Greenrabbit
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../../species/halflings.md>) (he/him), of Greenrabbits  
+    A [halfling](<../../../creatures/species/halflings.md>) (he/him), of Greenrabbits  
     { .bio }
 
     Originally from: [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
@@ -28,5 +28,5 @@ title: Yvan Greenrabbit
 </div>
 
 
-![Yvan](../../../assets/yvan.jpg){align="right"; width="400"}Yvan Greenrabbit is a [halfling](<../../../species/halflings.md>), originally from [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), who left his family caravan to travel, eventually finding his way to [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>).
+![Yvan](../../../assets/yvan.jpg){align="right"; width="400"}Yvan Greenrabbit is a [halfling](<../../../creatures/species/halflings.md>), originally from [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), who left his family caravan to travel, eventually finding his way to [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>).
 

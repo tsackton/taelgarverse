@@ -13,7 +13,7 @@ title: Brunnar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../species/unusual-species/giants.md>) (stone) (he/him)  
+    A [giant](<../../creatures/species/giants.md>) (stone) (he/him)  
     { .bio }
 
     Based in [Ulgrathar](<../../gazetteer/greater-chardon/ulgrathar.md>), the [Chataan Mountains](<../../gazetteer/greater-chardon/chataan-mountains.md>)

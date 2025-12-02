@@ -14,7 +14,7 @@ title: Izar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [lizardfolk](<../../../species/lizardfolk.md>) (they/them)  
+    A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (they/them)  
     Born DR 1579 (170 years old)  
     { .bio }
 

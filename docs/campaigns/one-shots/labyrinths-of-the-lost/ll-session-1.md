@@ -19,10 +19,10 @@ title: LL Session 1
 - Manage to capture Folcan, one of the leaders, and interrogate him
 - Intimidate Folcan into leaving them alone for a while; we end as Folcan flees back to the barracks with a promise to tell everyone else that the situation is sorted
 ## The Protagonists
-- Asescale, a [lizardfolk](<../../../species/lizardfolk.md>) alchemist and gambler
-- Dilion, a [human](<../../../species/humans.md>) tinkerer and battlesmith
-- Gadin, a [human](<../../../species/humans.md>) warlock with a hint of the [Fey](<../../../species/extraplanar/fey.md>) about him
-- Loria Underbough, a [halfling](<../../../species/halflings.md>) wanderer and ranger
+- Asescale, a [Lizardfolk](<../../../creatures/species/lizardfolk.md>) alchemist and gambler
+- Dilion, a [human](<../../../creatures/species/humans.md>) tinkerer and battlesmith
+- Gadin, a [human](<../../../creatures/species/humans.md>) warlock with a hint of the [Fey](<../../../creatures/fey/fey.md>) about him
+- Loria Underbough, a [halfling](<../../../creatures/species/halflings.md>) wanderer and ranger
 ## The Goblins
 - Morky, Norrica, and Skelver, three drunk goblin guards, all dead
 - Folcan, a self-proclaimed leader of the goblins, interrogated and released

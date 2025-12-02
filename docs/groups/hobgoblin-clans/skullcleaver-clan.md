@@ -11,7 +11,7 @@ title: Skullcleaver Clan
 # The Skullcleaver Clan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A hobgoblin clan  
+   :octicons-info-24:{ .lg .middle } A [hobgoblin](<../../creatures/species/hobgoblins.md>) clan  
     :octicons-location-24:{ .lg .middle } Based in [Irrla](<../../gazetteer/eastern-green-sea/irrla.md>), the [Green Sea](<../../gazetteer/green-sea.md>)  
 </div>
 

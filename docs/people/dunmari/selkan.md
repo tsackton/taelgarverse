@@ -17,7 +17,7 @@ title: Selkan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
     Originally from: Unknown
@@ -28,3 +28,4 @@ title: Selkan
 
 
 A Dunmari man freed from the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>). He is bald, with weary eyes full of pain. His thumbs and tongue are cut off, and looks prematurely old. 
+

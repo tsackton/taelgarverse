@@ -10,7 +10,7 @@ dm_notes: important
 title: Circlet of Foreknowledge
 ---
 # The Circlet of Foreknowledge
-:octicons-info-24:{ .lg .middle } **Mythical [Elven](<../../species/elves.md>) Circlet**  
+:octicons-info-24:{ .lg .middle } **Mythical [Elven](<../../creatures/species/elves.md>) Circlet**  
 
 A circlet set with a single white gem that supposedly gives perfect foreknowledge, known from elven lore but unclear if it is real or mythical. 
 

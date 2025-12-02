@@ -17,7 +17,7 @@ Although most kestavo are worshipped only by the people of their particular town
 * [Kamak](<../../gods/kestavo/kamak.md>), the lurker, who dwells at the bottom of the great Lake Kamchak
 * [Besla](<../../gods/kestavo/besla.md>), who came to the land in the ancient days from the [Green Sea](<../../../gazetteer/green-sea.md>), and each spring asks Ahra to send the waters of her homeland to her for company, and thus brings the monsoon rains.
 
-The kestavo are not the only spirits in the land, however. The cruel west wind, [Ziva](<../../gods/kestavo/ziva.md>), and [Vacla](<../../gods/kestavo/vacla.md>), the fire-below, have many offspring, the vazska. These spirits must be appeased or driven off, or they bring misfortune. The children of Ziva are the spirits of the cold and dry air, of hardship, shortages, and mischief, and although they are not worshipped, they are placated and bribed to stay away. The children of Vacla are the spirits of war and destruction, of injury, of sudden death, of the burning home. They are feared and driven off, whenever possible.  
+The kestavo are not the only spirits in the land, however. The cruel west wind, [Zeyfa](<../../gods/kestavo/zeyfa.md>), and [Vaqar](<../../gods/kestavo/vaqar.md>), the fire-below, have many offspring, the vazska. These spirits must be appeased or driven off, or they bring misfortune. The children of Ziva are the spirits of the cold and dry air, of hardship, shortages, and mischief, and although they are not worshipped, they are placated and bribed to stay away. The children of Vacla are the spirits of war and destruction, of injury, of sudden death, of the burning home. They are feared and driven off, whenever possible.  
 
 ## The Kestavan Religions
 
@@ -41,9 +41,6 @@ Most practice is centered around maintaining the shrine; specific worship doesn�
 
 Each kestavo also can only carry prayers to [Ako](<../../gods/high-gods/divine-presence.md>) if they are nearby. This leads to both pilgrimages to specific shrines as well as a great importance on having a shrine in each community, as a center of worship. A new village cannot be established if no kestavo will watch over it.
 
-
-
-Personal shrines are rare -- there is little point in having a shrine if the kestavo doesn’t inhabit it, and the rituals to coax a kestavo to establish a second home are long and complex. So some rare homes have personal shrines, but most do not. Some shrines are not in communities, when the kestavo happens to be attached to a natural place that no people live. Most notably, neither Romil nor Kamak live near human settlements.
 
 Vazska don’t have homes -- they are the children of the west wind, and everywhere. Rituals around them are mostly in the form of bribes or threats to keep them away. Sometimes people ask them to bring curses on their enemies etc. 
 

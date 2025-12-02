@@ -17,7 +17,7 @@ title: Putrid Agnes
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/extraplanar/fey.md>) (hag)  
+    A [fey](<../../creatures/fey/fey.md>) (hag)  
     { .bio }
 
     Originally from: the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)

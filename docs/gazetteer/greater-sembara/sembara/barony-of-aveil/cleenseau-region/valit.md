@@ -20,9 +20,9 @@ title: Valit
 </div>
 
 
-A small village overseen by the castellan of the [Manor of Valit](<./manor-of-valit.md>) of about 50 houses scattered a little more widely than most of the other villages in the region. The most notable features of the village are the wooden bridge over the [Amance Brook](<./amance-brook.md>), and the three mills built along the brook, as well as the large two-story wooden manor with several outbuildings, rebuilt about 30 years ago after a fire. The manor complex includes a land registry, a temple to the Warlord, a stable, and blacksmith. Just under the eaves of the [Cleenseau Wood](<./cleenseau-wood.md>), is a small shrine to the Wildling.
+A small village overseen by the castellan of the [Manor of Valit](<./manor-of-valit.md>) of about 50 houses scattered a little more widely than most of the other villages in the region. There is no walls, although the manor complex is walled and fortified and can shelter the population of the village in times of need. The most notable features of the village are the wooden bridge over the [Amance Brook](<./amance-brook.md>), and the three mills built along the brook, as well as the large two-story wooden manor with several outbuildings, rebuilt about 30 years ago after a fire. The manor complex includes a land registry, a temple to the Wildling, a stable, and blacksmith. Just under the eaves of the [Cleenseau Wood](<./cleenseau-wood.md>), is another small ancient shrine to the Wildling, said to date back 
 ### Notable Residents
-* [Sabine de Brune](<../../../../../people/sembarans/sabine-de-brune.md>), the castellan and magistrate
+* [Sabine de Brune](<../../../../../people/sembarans/sabine-de-brune.md>), the castellan and magistrate, recently vanished
 * [Warin](<../../../../../people/sembarans/warin-the-woodsman.md>), her master of the guard and woodsman
 * [Giselle](<../../../../../people/sembarans/giselle.md>), Sabine's secretary and keeper of the baronial land registry
 * Henri, Odette, and Reynard, the three millers

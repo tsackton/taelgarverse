@@ -19,9 +19,9 @@ title: Escobar Garavito
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Cymean](<../../gazetteer/western-green-sea/realms/cymea.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Cymean](<../../gazetteer/western-green-sea/realms/cymea.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Born DR 1727 (22 years old)  
-    Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/university-of-tollen.md>), and the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>)  
+    Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>), and the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>)  
     { .bio }
 
     Originally from: [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>), [Cymea](<../../gazetteer/western-green-sea/realms/cymea.md>)
@@ -35,6 +35,6 @@ title: Escobar Garavito
 
 He is supported by a scholarship from the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>), sponsored by [Cecilia Lister](<./cecilia-lister.md>), and often does favors and errands for her and other senior [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>) leaders. 
 
-Escobar is outgoing and gregarious, and often at the center of student activities and student life at the [University of Tollen](<../../gazetteer/greater-sembara/tollen/university-of-tollen.md>).
+Escobar is outgoing and gregarious, and often at the center of student activities and student life at the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>).
 
 

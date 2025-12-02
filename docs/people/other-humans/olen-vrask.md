@@ -13,7 +13,7 @@ title: Olen Vrask
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../species/humans.md>) (he/him)  
+    An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Member of [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>)  
     { .bio }
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/other]
+tags: [item]
 displayDefaults: {defArt: ''}
 name: Scroll of Storykeeping
 typeOf: scroll
@@ -15,7 +15,7 @@ title: Scroll of Storykeeping
 
 These magical scrolls, produced by the [Mystai of Bhishma](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>), can be used by trained scribes of the order to preserve and record the tales of someone's life -- the story of what makes them themselves, the journey of their lives. 
 
-With the proper rituals, these stories can be transferred from these scrolls to live indefinitely in places such as the [Hall of Stories](<../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>). 
+With the proper rituals, these stories can be transferred from these scrolls to live indefinitely in places such as the [Hall of Stories](<../../gazetteer/greater-dunmar/hara-basin/hall-of-stories.md>). 
 
 
 [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) has recorded 9 stories with these scrolls:

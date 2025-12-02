@@ -19,7 +19,7 @@ title: Gareth of Tollen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     b. DR 1686 - d. February 7th, 1720, brought to justice at age 34 years  
     { .bio }
 

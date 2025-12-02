@@ -20,7 +20,7 @@ title: Dunmari Frontier - Kenzo Solo Session 1 (Prequel)
 > *On Earth: Monday Sep 19, 2022*
 > *[Orekatu](<../../../gazetteer/faraway-places/orekatu.md>)*
 
-[Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) saves a [lizardfolk](<../../../species/lizardfolk.md>) named [Elazar](<../../../people/lizardfolk/elazar.md>), learns of a land's spiritual crisis, and embarks on an enlightening spirit journey with newfound allies.
+[Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) saves a [Lizardfolk](<../../../creatures/species/lizardfolk.md>) named [Elazar](<../../../people/lizardfolk/elazar.md>), learns of a land's spiritual crisis, and embarks on an enlightening spirit journey with newfound allies.
 ## Session Info
 
 ***Kenzo learns to speak the lizardfolk language from Elazar***

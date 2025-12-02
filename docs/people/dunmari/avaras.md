@@ -20,13 +20,13 @@ title: Avaras
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Born DR 1676 (73 years old)  
     Member of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)  
     { .bio }
 
     Originally from: [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-    Based in [Pava and Avaras' House](<../../gazetteer/greater-dunmar/dunmari-basin/pava-and-avaras-house.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
+    Based in [Pava and Avaras' House](<../../gazetteer/greater-dunmar/hara-basin/pava-and-avaras-house.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 </div>
 
 
@@ -39,7 +39,7 @@ Avaras grew up on the plains near [Karawa](<../../gazetteer/greater-dunmar/realm
 ### Life Events
 
 * 1693 DR Became an apprentice of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) at 17 and traveled around much of Eastern Dunmar 
-* 1711 DR, when he went to the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>), met [Pava](<./pava.md>), and was raised out of his apprenticeship. 
+* 1711 DR, when he went to the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>), met [Pava](<./pava.md>), and was raised out of his apprenticeship. 
 * 1717 DR, after the [Awakened Soul Disaster](<../../events/1700s/1718/awakened-soul-disaster.md>) took up residence in the desert with [Pava](<./pava.md>), to watch the comings and goings on the plains and rescue the lost and the desperate who come seeking treasure, glory, or death in the desert. 
 
 It is a quiet life, with time for contemplation. With [Pava](<./pava.md>) and the occasional apprentice, he has sought out the many stories of lives lived on these lands that are forgotten, and sought to quiet the restless and forgotten dead who died in the chaos of the Great War and the Blood Years with no one to mark their lives. 

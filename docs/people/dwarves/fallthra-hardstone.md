@@ -23,7 +23,7 @@ title: Fallthra Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (she/her), of the [Hardstones](<../../groups/dwarven-clans/hardstones.md>)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of the [Hardstones](<../../groups/dwarven-clans/hardstones.md>)  
     { .bio }
 
     Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
@@ -44,3 +44,4 @@ Matriarch of the Hardstone clan; associated with the [Tokra Archives](<../../gaz
 - Sister of [Morkral Hardstone](<./morkral-hardstone.md>)
 - Wife of [Delig Hardstone](<./delig-hardstone.md>)
 - Colleague of archivists at the Tokra Archives, including [Govir](<../dunmari/govir.md>) and [Ardan](<../dunmari/ardan.md>)
+

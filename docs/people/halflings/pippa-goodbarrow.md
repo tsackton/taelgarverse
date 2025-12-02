@@ -15,7 +15,7 @@ title: Pippa Goodbarrow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/halflings.md>) (she/her), of Goodbarrows  
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of Goodbarrows  
     Captain of the [Summer's Breeze](<../../things/ships/summer-s-breeze.md>)  
     { .bio }
 

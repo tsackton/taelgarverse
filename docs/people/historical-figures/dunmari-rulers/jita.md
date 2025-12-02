@@ -22,12 +22,12 @@ dm_notes: color
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../species/humans.md>) (she/her), of the [Dharajun dynasty](<../../../groups/dunmari-dynasties/dharajun-dynasty.md>)  
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../creatures/species/humans.md>) (she/her), of the [Dharajun dynasty](<../../../groups/dunmari-dynasties/dharajun-dynasty.md>)  
     b. DR 1386 - d. DR 1460, died at age 74 years  
     Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1402 - DR 1460)  
     { .bio }
 
-    Originally from: the [plains of Songara](<../../../gazetteer/greater-dunmar/dunmari-basin/songara-plains.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Originally from: the [plains of Songara](<../../../gazetteer/greater-dunmar/hara-basin/songara-plains.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
     Lived in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 

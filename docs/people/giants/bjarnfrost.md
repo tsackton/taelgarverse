@@ -15,7 +15,7 @@ dm_notes: important
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../species/unusual-species/giants.md>) (frost) (he/him)  
+    A [giant](<../../creatures/species/giants.md>) (frost) (he/him)  
     King of [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>) (until DR 1511)  
     { .bio }
 

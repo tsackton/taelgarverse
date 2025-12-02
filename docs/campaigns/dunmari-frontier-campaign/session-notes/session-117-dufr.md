@@ -17,14 +17,14 @@ title: Dunmari Frontier - Session 117
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: May 24, 1749 DR to May 30, 1749 DR*
 > *On Earth: Thursday Jan 02, 2025*
-> *Apollyon's Temple, [Drankor](<../../../history/drankorian-era/drankor.md>)*
+> *Apollyon's Temple, [Drankor](<../../../history/drankorian-empire/drankor.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) battles and defeats Apollyon, then debates the future of the [Crown of Purity](<../../../things/artifacts-of-power/crown-of-purity.md>).
 ## Session Info
 
 ***Treasure: the party returns to [Vindristjarna](<../../../things/ships/vindristjarna.md>) with [Drankorian Treasure](<../hoards/drankorian-treasure.md>)***
 ### Summary
-- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) recovers and discovers a hidden staircase in Apollyon's temple.
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) recovers and discovers a hidden staircase in Apollyon's Temple.
 - They descend into the undercrypt, encounter traps, and face spectral undead.
 - The party battles [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) in his inner sanctum, gradually weakening him.
 - [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) is defeated after a fierce battle, and the party escapes the collapsing sanctum.
@@ -42,7 +42,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - May 30, 1749 DR: Look at the [Crown of Purity](<../../../things/artifacts-of-power/crown-of-purity.md>) in the [Mirror of the Past](<../treasure/mirror-of-the-past.md>), seeing the [Crown of Purity Vision](<../mirror-visions/crown-of-purity-vision.md>) recharge mirror
 
 ## Narrative
-Our session begins in Apollyon's temple, as the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) recovers from [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>)'s initial attacks. After Apollyon’s retreat into his inner sanctum, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), just revived by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s magic, leads a _Prayer of Healing_, restoring the group’s strength and offering a brief reprieve. While the party recovers, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) investigates the side chapels, uncovering relics of Apollyon’s failed ascension to godhood, and finding a loose floor tile concealing a hidden staircase near the central altar. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)’s _Ghostly Gaze_ reveals an undercrypt filled with construction debris and tools, with stairs leading even further down.
+Our session begins in Apollyon's Temple, as the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) recovers from [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>)'s initial attacks. After Apollyon’s retreat into his inner sanctum, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), just revived by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s magic, leads a _Prayer of Healing_, restoring the group’s strength and offering a brief reprieve. While the party recovers, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) investigates the side chapels, uncovering relics of Apollyon’s failed ascension to godhood, and finding a loose floor tile concealing a hidden staircase near the central altar. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)’s _Ghostly Gaze_ reveals an undercrypt filled with construction debris and tools, with stairs leading even further down.
 
 The group pries open the concealed staircase, descending into the undercrypt. The pitch-dark space is littered with remnants of unfinished construction. As the chalyte knight takes point, he inadvertently triggers a trap, leaving him hearing chanting words of praise to [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) in Drankorian, but Riswynn’s magic dispels it before the rest of the party proceeds. A scrying sensor materializes, indicating that Apollyon is aware of their movements.
 

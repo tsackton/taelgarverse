@@ -16,7 +16,7 @@ title: Ring of Displacement
 ---
 # Ring of Displacement
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Uncommon [Drankorian](<../../../history/drankorian-era/drankorian-empire.md>) Magical Ring__  
+- :octicons-info-24:{ .lg .middle } __Uncommon [Drankorian](<../../../history/drankorian-empire/drankorian-empire.md>) Magical Ring__  
    Owned by [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement) 
 </div>

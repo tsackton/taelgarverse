@@ -17,7 +17,7 @@ title: Jordo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/humans.md>) (he/him)  
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him)  
     b. DR 1672 - d. DR 1744, died at age 72 years  
     { .bio }
 

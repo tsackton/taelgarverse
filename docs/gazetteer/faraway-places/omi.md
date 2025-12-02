@@ -12,7 +12,7 @@ title: Omi
 ---
 # Omi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Merfolk](<../../species/unusual-species/merfolk.md>) underwater city in the [Endless Ocean](<../endless-ocean.md>)  
+-    :octicons-location-24:{ .lg .middle } A Merfolk underwater city in the [Endless Ocean](<../endless-ocean.md>)  
 </div>
 
 

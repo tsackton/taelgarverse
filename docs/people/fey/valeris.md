@@ -15,7 +15,7 @@ title: Valeris
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/extraplanar/fey.md>) (satyr)  
+    A [fey](<../../creatures/fey/fey.md>) (satyr)  
     { .bio }
 
     Originally from: [Sunwine Hall](<../../gazetteer/extraplanar/feywild/emberwine/sunwine-hall.md>), [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), the [Feywild](<../../cosmology/feywild.md>)

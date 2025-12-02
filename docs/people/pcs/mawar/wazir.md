@@ -18,7 +18,7 @@ title: Wazir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Mawaran [human](<../../../species/humans.md>) (he/him)  
+    A Mawaran [human](<../../../creatures/species/humans.md>) (he/him)  
     Owner of the [Leviathan Inn](<../../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>)  
     { .bio }
 

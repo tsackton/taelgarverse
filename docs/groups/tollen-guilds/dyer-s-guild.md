@@ -17,3 +17,4 @@ title: Dyer's Guild
 
 
 A powerful trade guild in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), known for the famous "[Tollen Red](<../../things/materials/tollen-dyes.md>)", a brilliant vermillion color.
+

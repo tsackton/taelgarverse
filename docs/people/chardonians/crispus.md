@@ -21,7 +21,7 @@ dm_owner: tim
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Born DR 1697 (52 years old)  
     Senior Archivist of the [Great Library](<../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>)  
     { .bio }

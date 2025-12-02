@@ -20,7 +20,7 @@ title: Blue
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Isinguer](<../../../history/istabor-alliance.md>) [human](<../../../species/humans.md>) (plane-touched, fiendish) (she/her)  
+    An [Isinguer](<../../../history/historical-realms/istabor-alliance.md>) [human](<../../../creatures/species/humans.md>) (plane-touched, fiendish) (she/her)  
     Born DR 1622 (127 years old)  
     { .bio }
 
@@ -38,7 +38,7 @@ title: Blue
 >
 >So she drifted from place to place, earning some coin as a scout. From these war bands, she found community in the worship of [the Warlord](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>). But it wasn't until she connected with [The Rangers](<../../../groups/the-rangers.md>), and met Landrel, that she really felt at home. From Landrel, she learned many things, about scouting and survival and how to handle her strange background and appearance. 
 >
->When the [Third Hobgoblin War (Sembara)](<../../../history/third-hobgoblin-war-sembara.md>) started with a surprise attack by the [Shattered Ice](<../../../groups/hobgoblin-clans/shattered-ice-clan.md>) hobgoblins, she found herself on the front lines, with [The Rangers](<../../../groups/the-rangers.md>) and the scattered armies that could be quickly fielded by the [Maseau](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), among people who cared more about her talents than her supernatural appearance. However, she never got to see how the war turned out. She was captured in an early skirmish, and taken prisoner.
+>When the [Third Hobgoblin War (Sembara)](<../../../events/1600s/third-hobgoblin-war-sembara.md>) started with a surprise attack by the [Shattered Ice](<../../../groups/hobgoblin-clans/shattered-ice-clan.md>) [Hobgoblins](<../../../creatures/species/hobgoblins.md>), she found herself on the front lines, with [The Rangers](<../../../groups/the-rangers.md>) and the scattered armies that could be quickly fielded by the [Maseau](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), among people who cared more about her talents than her supernatural appearance. However, she never got to see how the war turned out. She was captured in an early skirmish, and taken prisoner.
 >
 >Blue remembers almost nothing of her captivity. Later on, she realized she must have spent nearly 100 years imprisoned by the hobgoblins, but thankfully she has few memories of whatever trauma she suffered at their hands. She does remember a one vivid image clearly: a red-skinned hobgoblin man, holding a sharp knife and a strangely pulsating blue-gray crystal, the knife slicing through skin and bone but strangely without pain. Somehow, she knows that the crystal is still implanted in her skull, and every once and a while she can still feel alien, confused thoughts that are not her own, but they are rarely coherent. 
 >

@@ -11,14 +11,14 @@ campaignInfo:
 gender: male
 pronunciation: erd-HEEN
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # Caretaker Erdhin
 :speaker:{ .middle } *(erd-HEEN)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/elves.md>) (he/him), ([ka](<../../background/elven-cycle-of-generations.md>) unknown)  
+    An [elf](<../../creatures/species/elves.md>) (he/him), ([ka](<../../background/elven-cycle-of-generations.md>) unknown)  
     { .bio }
 
     Based in [Erelion](<../../gazetteer/upper-istaros/orenlas/erelion.md>), [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)

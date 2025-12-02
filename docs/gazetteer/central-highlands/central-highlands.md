@@ -81,7 +81,7 @@ _See more: {links}_
 
 ## Overview
 
-The Central Highlands Region is a land of contrasts, from vast forests dominated by ancient elven trees, to the high, inaccessible peaks of the northern [Sentinels](<../sentinel-range.md>) where only [Stoneborn](<../../species/stoneborn.md>) and frost [Giants](<../../species/unusual-species/giants.md>) can survive. Few people call this region their home: the Deno'qai, who live mostly in small villages among the forests hugging the western foothills of the [Sentinels](<../sentinel-range.md>), and the [Elves](<../../species/elves.md>), who once could be found throughout the woodlands of [Ainumarya](<./ainumarya.md>), and the main inhabitants. The [Sentinel Range](<../sentinel-range.md>) creates a barrier to ...
+The Central Highlands Region is a land of contrasts, from vast forests dominated by ancient elven trees, to the high, inaccessible peaks of the northern [Sentinels](<../sentinel-range.md>) where only [Stoneborn](<../../creatures/species/stoneborn.md>) and frost [Giants](<../../creatures/species/giants.md>) can survive. Few people call this region their home: the Deno'qai, who live mostly in small villages among the forests hugging the western foothills of the [Sentinels](<../sentinel-range.md>), and the [Elves](<../../creatures/species/elves.md>), who once could be found throughout the woodlands of [Ainumarya](<./ainumarya.md>), and the main inhabitants. The [Sentinel Range](<../sentinel-range.md>) creates a barrier to ...
 ## Boundaries
 
 The Central Highlands includes the [Sentinel Range](<../sentinel-range.md>), as well as the forests along the western slopes of the mountains, and the east bank and upper watershed of the ~North Nahadi River~.
@@ -113,7 +113,7 @@ The Central Highlands includes the [Sentinel Range](<../sentinel-range.md>), as 
 - [Ainumarya](<./ainumarya.md>): A vast forest in the foothills and lowlands west of the [Sentinels](<../sentinel-range.md>), that stretches from the [Elderwood](<./elderwood.md>) in the south to the [Crimson Forest](<./crimson-forest.md>) in the north. Historically a major center of elvish civilization. Most of this region is a dominated by huge conifers and a rich ecosystem. 
 	- ***Real world analogs:*** Temperate rainforests, especially the forests of the Pacific Northwest, are probably the best model, albeit with more magic. 
 - [Forest of Dreams](<./forest-of-dreams.md>): North of [Ainumarya](<./ainumarya.md>) is the [Forest of Dreams](<./forest-of-dreams.md>), clinging to the western slopes of the [Sentinels](<../sentinel-range.md>) east of the [Erbalta Plains](<../northwest-coast/erbalta-plains/erbalta-plains.md>) and the [Blackwater Fens](<../northern-sentinels/blackwater-fens.md>), and spreading west along the foothills of Pandar. This forest is cooler and dried than [Ainumarya](<./ainumarya.md>), with cold winters and significant snow at higher elevations. 
-	- ***Real world analogs:*** Temperate coniferous forest, especially the pine forests of western Canada and the interior Rockies, and classic mixed forests of the Alps. The lowlands north of the Blackwater Fens are probably more like temperate broadleaf and mixed forests. 
+	- ***Real world analogs:*** Temperate coniferous forest, especially the pine forests of western Canada and the interior Rockies, and classic mixed forests of the Alps. The lowlands north of the [Blackwater Fens](<../northern-sentinels/blackwater-fens.md>) are probably more like temperate broadleaf and mixed forests. 
 
 
 

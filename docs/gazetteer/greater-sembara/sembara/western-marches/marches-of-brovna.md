@@ -14,4 +14,5 @@ title: Marches of Brovna
 </div>
 
 
-This is a frontier land west of [Ainwick](<../barony-of-ainwick/ainwick.md>), and the lords here have as much in common with [Ardlas](<../../zimkova/ardlas.md>) as they do the crown in [Embry](<../heartlands/embry.md>). 
+This is a frontier land west of [Ainwick](<../barony-of-ainwick/ainwick.md>), and the lords here have as much in common with [Ardlas](<../../ardlas.md>) as they do the crown in [Embry](<../heartlands/embry.md>). 
+

@@ -13,7 +13,7 @@ title: Honeyhills
 # The Honeyhills
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A [halfling](<../../species/halflings.md>) family  
+   :octicons-info-24:{ .lg .middle } A [halfling](<../../creatures/species/halflings.md>) family  
 </div>
 
 

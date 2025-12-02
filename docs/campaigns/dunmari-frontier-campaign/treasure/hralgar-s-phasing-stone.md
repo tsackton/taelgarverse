@@ -15,8 +15,8 @@ title: Hralgar's Phasing Stone
 ---
 # Hralgar's Phasing Stone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Legendary [Giant](<../../../species/unusual-species/giants.md>) Magic [Phasing Stone](<../../../things/magic-items/phasing-stones.md>)__  
-   Owned [Vindristjarna](<../../../things/ships/vindristjarna.md>)  
+- :octicons-info-24:{ .lg .middle } __Legendary [Giant](<../../../creatures/species/giants.md>) Magic [Phasing Stone](<../../../things/magic-items/phasing-stones.md>)__  
+   Owned  
 </div>
 
 

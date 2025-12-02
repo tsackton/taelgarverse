@@ -58,7 +58,7 @@ _See more: {links}_
 
 {descriptive text of topography and major features}
 ## Civilizations and Cultures
-_See more: [Drankor](<../../history/drankorian-era/drankorian-empire.md>)
+_See more: [Drankor](<../../history/drankorian-empire/drankorian-empire.md>)
 
 
 ## Climate

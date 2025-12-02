@@ -15,8 +15,8 @@ title: Taurion's Manual of Stone Golems
 ---
 # Taurion's Manual of Stone Golems
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Very Rare [Drankorian](<../../../history/drankorian-era/drankorian-empire.md>) Magic Book__  
-   Owned [Vindristjarna](<../../../things/ships/vindristjarna.md>)  
+- :octicons-info-24:{ .lg .middle } __Very Rare [Drankorian](<../../../history/drankorian-empire/drankorian-empire.md>) Magic Book__  
+   Owned  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/4950-manual-of-stone-golems) 
 </div>
 

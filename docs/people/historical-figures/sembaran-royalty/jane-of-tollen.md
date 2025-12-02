@@ -22,10 +22,10 @@ title: Jane of Tollen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tollender](<../../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../../species/humans.md>) (she/her)  
+    A [Tollender](<../../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../../creatures/species/humans.md>) (she/her)  
     b. DR 1504 - d. DR 1559, died at age 55 years  
     Queen Regent of [Vostok](<../../../gazetteer/greater-sembara/vostok/vostok.md>) (until DR 1551)  
-    Queen Regent of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/zimkova/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkova/lavnoch.md>), and [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (until DR 1555)  
+    Queen Regent of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>), and [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (until DR 1555)  
     { .bio }
 
 </div>

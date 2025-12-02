@@ -18,7 +18,7 @@ title: Lirien
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/extraplanar/fey.md>) (she/her)  
+    A [fey](<../../creatures/fey/fey.md>) (she/her)  
     Died May 30th, 1749  
     { .bio }
 
@@ -26,7 +26,7 @@ title: Lirien
     Lived in [Everlight's Bloom](<../../gazetteer/extraplanar/feywild/everlight-s-bloom.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Died [Vindristjarna](<../../things/ships/vindristjarna.md>)
+:octicons-location-24:{ .lg .middle } Died on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 
 
 Lirien is a willowy, flame-haired fae with a presence that flickers between fierce determination and quiet sorrow. Her hair shifts in hue, from the deep gold of sunset to the dying embers of a hearth, its glow dimming or flaring in response to her emotions. Her eyes are a molten amber, catching and reflecting light like polished gold, though in moments of despair, they dull to the color of old brass. She wears a cloak of deep red and umber, tattered at the edges as if burned away by time, and carries a lantern wrought from delicate silver filigree, within which a single, flickering light still struggles to shine. 

@@ -15,7 +15,7 @@ title: Roe DoTorka
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Ardikhun](<../../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>) [dwarf](<../../../species/dwarves.md>) (he/him)  
+    An [Ardikhun](<../../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>) [dwarf](<../../../creatures/species/dwarves.md>) (he/him)  
     Born DR 1489 (260 years old)  
     { .bio }
 

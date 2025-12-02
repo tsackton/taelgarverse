@@ -1,16 +1,16 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-whereabouts: Feywild
 typeOf: realm
 ancestry: fey
+whereabouts: Feywild
 dm_owner: tim
 dm_notes: none
 title: Darkfall
 ---
 # Darkfall
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Fey](<../../../species/extraplanar/fey.md>) realm in the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Fey](<../../../creatures/fey/fey.md>) realm in the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)  
 </div>
 
 

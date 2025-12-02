@@ -17,7 +17,7 @@ title: Amaya
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [lizardfolk](<../../species/lizardfolk.md>) (salt) (she/her)  
+    A [lizardfolk](<../../creatures/species/lizardfolk.md>) (salt) (she/her)  
     { .bio }
 
     Based in [Eskorola](<../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
@@ -27,3 +27,4 @@ title: Amaya
 
 
 A lizardfolk scout and hunter.
+

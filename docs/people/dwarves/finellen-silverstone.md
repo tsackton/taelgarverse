@@ -17,7 +17,7 @@ title: Finellen Silverstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (she/her), of Silverstones  
+    A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of Silverstones  
     { .bio }
 
     Based in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

@@ -16,7 +16,7 @@ title: Eldeth Redhammer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (she/her), of the [Redhammers](<../../groups/dwarven-clans/redhammers.md>)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of the [Redhammers](<../../groups/dwarven-clans/redhammers.md>)  
     Born DR 1711 (38 years old)  
     { .bio }
 

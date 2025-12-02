@@ -17,7 +17,7 @@ title: Dunmari Frontier - Session 114
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: May 22, 1749 DR to May 23, 1749 DR*
 > *On Earth: Thursday Dec 05, 2024*
-> *[Drankor](<../../../history/drankorian-era/drankor.md>)*
+> *[Drankor](<../../../history/drankorian-empire/drankor.md>)*
 
 The Dunmar Fellowship secures crucial mementos of trapped souls in Drankor, encountering spirits and discovering important leads for their quest.
 ## Session Info
@@ -34,7 +34,7 @@ The Dunmar Fellowship secures crucial mementos of trapped souls in Drankor, enco
 - May 23, 1749 DR, midday: The party returns to the Temple of the Eight Divines. 
 
 ## Narrative
-Our session begins as night falls over theTemple of the Eight Divines in [Drankor](<../../../history/drankorian-era/drankor.md>). Within the temple’s hallowed walls, the party takes refuge from the encroaching darkness of the ruined city. The divine aura of the temple offers a rare moment of solace as the group contemplates the daunting task ahead: freeing the seven souls trapped within Apollyon’s phylactery and destroying the artifact.
+Our session begins as night falls over theTemple of the Eight Divines in [Drankor](<../../../history/drankorian-empire/drankor.md>). Within the temple’s hallowed walls, the party takes refuge from the encroaching darkness of the ruined city. The divine aura of the temple offers a rare moment of solace as the group contemplates the daunting task ahead: freeing the seven souls trapped within Apollyon’s phylactery and destroying the artifact.
 
 Seeker’s research has confirmed that unraveling the phylactery’s magic requires traveling to the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>), bringing physical mementos tied to each soul, to allow the souls to remember themselves, unraveling Apollyon's Phylactery. Four such mementos have already been secured: three death masks recovered from the Chapel of the Father and a silver pen nib from Valanthe’s courtyard. The party identifies their remaining targets as Seraphina Appleblossom, a halfling tavern owner near the docks; Khemut of Targu a foreign sailor or traveler likely tied to the docks; and Minarith, an elf of the peronar lineage, about whom little is known.
 
@@ -42,7 +42,7 @@ As the group debates their approach to the [Land of the Dead](<../../../cosmolog
 
 ---
 
-The journey to the docks takes the party through the overgrown streets of [Drankor](<../../../history/drankorian-era/drankor.md>), where jungle vines and oppressive humidity combine to create a suffocating atmosphere. As they cross a massive plaza, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) clears vines from a 30-foot-high arch, revealing a relief of [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) surrounded by a worshipful crowd, radiant light streaming from his hands. They note the ominous imagery and press on.
+The journey to the docks takes the party through the overgrown streets of [Drankor](<../../../history/drankorian-empire/drankor.md>), where jungle vines and oppressive humidity combine to create a suffocating atmosphere. As they cross a massive plaza, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) clears vines from a 30-foot-high arch, revealing a relief of [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) surrounded by a worshipful crowd, radiant light streaming from his hands. They note the ominous imagery and press on.
 
 Further south, faint cries for help echo from a ruined building. The voices, speaking in Common, Elvish, and Dwarvish, tempt the group, but they decide against investigating, marking the location for potential future exploration. Shortly after, a group of approximately 35 shadowy undead emerges from the jungle. Employing _Invisibility_, the party evades detection and continues cautiously.
 
@@ -64,7 +64,7 @@ Deeper within, a large room shrouded in swirling red mist awaits. Shafts of ligh
 
 The chest, revealed to be a magically preserved cabinet, contains hundreds of scrolls. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) locates a shipping manifest tied to Khemut of Targu and hastily collects additional scrolls marked with sigils or other notable details. As the mist begins to re-form, the group retreats, taking roughly 100 scrolls with them.
 
-Among the recovered scrolls are trade records and manifests detailing [Drankor](<../../../history/drankorian-era/drankorian-empire.md>)’s commerce, along with references to three major universities: the Imperial University, Valtrius University, and the University of the Blessed Waters (also known as The Thalorian). However, no mention of Minarith is found.
+Among the recovered scrolls are trade records and manifests detailing [Drankor](<../../../history/drankorian-empire/drankorian-empire.md>)’s commerce, along with references to three major universities: the Imperial University, Valtrius University, and the University of the Blessed Waters (also known as The Thalorian). However, no mention of Minarith is found.
 
 [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s soul sense detects a connection to Minarith still within the mist-filled room. Braving the danger, he re-enters and retrieves a scroll identifying Minarith as a faculty member of the Thalorian. With this crucial lead in hand, the group retreats to the temple to regroup, ready to pursue the next phase of their journey: locating The Thalorian and securing a memento of Minarith.
 

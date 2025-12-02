@@ -23,7 +23,7 @@ title: Tharandros
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [centaur](<../../species/unusual-species/centaurs.md>) (he/him)  
+    A [centaur](<../../creatures/species/centaurs.md>) (he/him)  
     { .bio }
 
     Originally from: Unknown
@@ -33,7 +33,7 @@ title: Tharandros
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on April 12th, 1748 in [Samtal](<../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on April 12th, 1748 in [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 
@@ -43,7 +43,7 @@ title: Tharandros
 ![Tharandros Final](../../assets/tharandros-final.png){align="right"; width="400"}A centaur, the leader of a wandering herd, of indeterminate age. Wise and knowledgable.
 
 
-The Dunmar Fellowship met Tharandros and his herd traveling across the [Samtal](<../../gazetteer/greater-dunmar/dunmari-basin/samtal.md>), the northern plains of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), and convinced them to aid [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), which proved crucial in driving off gnoll attacks. 
+The Dunmar Fellowship met Tharandros and his herd traveling across the [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), the northern plains of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), and convinced them to aid [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), which proved crucial in driving off gnoll attacks. 
 
 Tharandros stayed in Karawa for a time, but left to travel north with his herd in June, 1748.
 

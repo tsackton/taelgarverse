@@ -12,14 +12,14 @@ title: Head Priest Kaleha
 whereabouts: Tokra
 affiliations:
 - {place: Tokra, type: leader, start: 1742}
-dm_owner: tim
-dm_notes: important
+dm_owner: none
+dm_notes: none
 ---
 # Head Priest Kaleha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (she/her)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1699 (50 years old)  
     Head Priest of [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) (since DR 1742)  
     { .bio }
@@ -33,3 +33,4 @@ dm_notes: important
 
 
 The head priest of the primary Dunmari temple in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), a position that primarily involves serving as the main civil administrator for the city.  She is a fair and talented administrator, dedicated to [Sonkar](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/sonkar.md>).
+

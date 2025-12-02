@@ -17,7 +17,7 @@ title: Eleuha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A dryad ([fey](<../../species/extraplanar/fey.md>)), she/her  
+    A dryad ([fey](<../../creatures/fey/fey.md>)), she/her  
     { .bio }
 
     Based in [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), [Orekatu](<../../gazetteer/faraway-places/orekatu.md>)

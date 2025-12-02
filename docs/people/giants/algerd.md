@@ -13,10 +13,10 @@ title: Algerd
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../species/unusual-species/giants.md>) (frost) (he/him)  
+    A [giant](<../../creatures/species/giants.md>) (frost) (he/him)  
     { .bio }
 
-    Based [Vindristjarna](<../../things/ships/vindristjarna.md>)
+    Based on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
 </div>
 
 

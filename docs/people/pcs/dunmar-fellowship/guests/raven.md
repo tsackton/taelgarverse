@@ -17,7 +17,7 @@ title: Raven
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../../../species/extraplanar/fey.md>) (they/them)  
+    A [fey](<../../../../creatures/fey/fey.md>) (they/them)  
     { .bio }
 
 </div>

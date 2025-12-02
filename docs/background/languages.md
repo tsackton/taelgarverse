@@ -8,17 +8,17 @@ title: Languages
 
 
 
-The common languages of Taelgar spoken by [humans](<../species/humans.md>) and the Elder Folk all derive from the original languages spoken by the first of each species to awaken. For [dwarves](<../species/dwarves.md>), [elves](<../species/elves.md>), [halflings](<../species/halflings.md>), [stoneborn](<../species/stoneborn.md>), and [lizardfolk](<../species/lizardfolk.md>) this original language has not changed since the dawn of time. For humans, the original tongue has been split and fractured into different language families over the long history of human settlement and migration.
+The common languages of Taelgar spoken by [humans](<../creatures/species/humans.md>) and the Elder Folk all derive from the original languages spoken by the first of each species to awaken. For [dwarves](<../creatures/species/dwarves.md>), [elves](<../creatures/species/elves.md>), [halflings](<../creatures/species/halflings.md>), [stoneborn](<../creatures/species/stoneborn.md>), and [lizardfolk](<../creatures/species/lizardfolk.md>) this original language has not changed since the dawn of time. For humans, the original tongue has been split and fractured into different language families over the long history of human settlement and migration.
 
 The history of the languages of other sentient creatures is less well known by scholars, but in most cases,, although with some exceptions, whether due to magic, culture, or other factors, linguistic diversity within species is rare. 
 ## Human Language Families
-The human tongues of the known world are broadly divided up into three major language families based on ancient migrations and cultural divisions on the original human homeland of [Hkar](<../history/pre-downfall/hkar.md>):
+The human tongues of the known world are broadly divided up into three major language families based on ancient migrations and cultural divisions on the original human homeland of [Hkar](<../history/historical-realms/hkar.md>):
 
 * **Northros Language Family**: A set of languages spoken across the northern reaches of Taelgar, named Northros by Drankorian cataloguers of languages. These languages are spoken by the cultures that departed Hkar in the ancient days.
 * **Eastros Language Family**: A diverse set of languages spoken across the [Green Sea](<../gazetteer/green-sea.md>). This language is derived from an ancient mariner culture that originally settled much of the [Green Sea](<../gazetteer/green-sea.md>) region, and these languages were given the name Eastros by Drankorian scholars.
-* **Drankorian Language Family**: A set of languages spoken by [Drankor](<../history/drankorian-era/drankorian-empire.md>) and many of its successor cultures. It is derived from the language spoken on [Hkar](<../history/pre-downfall/hkar.md>) and the time of the [Downfall](<../events/ancient/the-downfall.md>).
+* **Drankorian Language Family**: A set of languages spoken by [Drankor](<../history/drankorian-empire/drankorian-empire.md>) and many of its successor cultures. It is derived from the language spoken on [Hkar](<../history/historical-realms/hkar.md>) and the time of the [Downfall](<../events/ancient/the-downfall.md>).
 
-There are some other human languages, notably Dunmari, that do not fit into any of the language families above, and there are rumors and fragments from [Drankor](<../history/drankorian-era/drankor.md>) of very different languages spoken in far-flung places distant from the center of the [Drankorian Empire](<../history/drankorian-era/drankorian-empire.md>). 
+There are some other human languages, notably Dunmari, that do not fit into any of the language families above, and there are rumors and fragments from [Drankor](<../history/drankorian-empire/drankor.md>) of very different languages spoken in far-flung places distant from the center of the [Drankorian Empire](<../history/drankorian-empire/drankorian-empire.md>). 
 
 
 ## Trade Languages
@@ -46,7 +46,7 @@ After the fall of the Drankorian Empire, the Drankorian language developed into 
 
 _Real world analog: Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations_
 ##### Drankorian
-The ancient language spoken across the [Drankorian Empire](<../history/drankorian-era/drankorian-empire.md>), now preserved as a scholarly language. Although spoken conversation in Drankorian is rare, many scholarly and literary works are written in Drankorian. Over the past 150 years, since the Great War, Drankorian has declined significantly in use as a scholarly language, and many treatises are now written in Chardonian. While many scholars still learn Drankorian, it is no longer a common diplomatic and literary language. 
+The ancient language spoken across the [Drankorian Empire](<../history/drankorian-empire/drankorian-empire.md>), now preserved as a scholarly language. Although spoken conversation in Drankorian is rare, many scholarly and literary works are written in Drankorian. Over the past 150 years, since the Great War, Drankorian has declined significantly in use as a scholarly language, and many treatises are now written in Chardonian. While many scholars still learn Drankorian, it is no longer a common diplomatic and literary language. 
 
 _Real world analog_: Classical Latin; occasional Classical Greek loan words
 _Alphabet_: Drankorian is written using the Drankorian alphabet
@@ -57,7 +57,7 @@ _Real world analog_: Spanish or Portugese, but with some Italian.
 _Alphabet_: Cymean is written using the Drankorian alphabet
 *Intelligibility*: Isinguese is a closely related language, and is usually mutually understandable with Cymean. Sembaran shares a large vocabulary with Isinguese and to a lesser extent Cymean, but uses a different grammar; it is loosely understandable with effort to speakers of Cymean.
 ##### Isinguese
-A number of mutually understandable languages and dialects spoken throughout the [Istaros Watershed](<../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>) before te destruction of [Isingue](<../gazetteer/upper-istaros/isingue.md>). Today it survives amongst the Isinguese refugee communities, especially in the [Duchy of Maseau](<../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) and the [Refounded Alliance of Aurbez](<../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>), and can also be occasionally heard in [Tollen](<../gazetteer/greater-sembara/tollen/tollen.md>). 
+A number of mutually understandable languages and dialects spoken throughout the [Istaros Watershed](<../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>) before the destruction of [Isingue](<../gazetteer/upper-istaros/isingue.md>). Today it survives amongst the Isinguese refugee communities, especially in the [Duchy of Maseau](<../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) and the [Refounded Alliance of Aurbez](<../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>), and can also be occasionally heard in [Tollen](<../gazetteer/greater-sembara/tollen/tollen.md>). 
 
 _Real world analog_: Spanish or French, more French in the northern areas, Spanish to the south
 _Alphabet_: Isinguese is written using the Drankorian alphabet
@@ -79,14 +79,14 @@ _Alphabet_: Illorian is written using the Drankorian alphabet
 
 
 ## Northros Language Family
-These languages derive from the ancient tongues that were spoken by the first human migrants from [Hkar](<../history/pre-downfall/hkar.md>). They use a diverse set of alphabets.
+These languages derive from the ancient tongues that were spoken by the first human migrants from [Hkar](<../history/historical-realms/hkar.md>). They use a diverse set of alphabets.
 
 _Real world analog: Northros languages are based on Semitic languages_
 
 
 
 ##### ~Old Zimkovan~
-The ancient language of the [Zimka](<../gazetteer/greater-sembara/zimkova/zimkova.md>) people, mostly no longer spoken outside of the most traditional and isolated parts of northern [Zimkova](<../gazetteer/greater-sembara/zimkova/zimkova.md>).
+The ancient language of the [Zimka](<../gazetteer/greater-sembara/zimkova/zimkova.md>) people, mostly no longer spoken outside of the most traditional and isolated parts of northern [Zimkova](<../gazetteer/greater-sembara/zimkova/zimkova.md>) and parts of the [Lavnoch Plateau](<../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>).
 
 _Real world analog_: Maltese
 _Alphabet_: Unknown. 
@@ -132,7 +132,7 @@ The ancient language of Tollen and the Vostok and Sembaran coasts. A precursor t
 *Real world analog*: Balto-Slavic
 *Alphabet*: ~Mariner Language~ alphabet
 ##### Zimkovan
-A group of related languages and dialetics spoken in the highland kingdoms of [Ardlas](<../gazetteer/greater-sembara/zimkova/ardlas.md>), [Breva](<../gazetteer/greater-sembara/zimkova/breva.md>), and [Lavnoch](<../gazetteer/greater-sembara/zimkova/lavnoch.md>). It is commonly spoken in the rest of Zimkova as well. It is descended from Old Tollish, but was significantly influenced by Sembaran and Drankorian.
+A group of related languages and dialectics spoken in the highland kingdoms of [Ardlas](<../gazetteer/greater-sembara/ardlas.md>) and  [Breva](<../gazetteer/greater-sembara/zimkova/breva.md>), and across the [Lavnoch Plateau](<../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>). It is commonly spoken in the rest of [Zimkova](<../gazetteer/greater-sembara/zimkova/zimkova.md>) as well. It is descended from Old Tollish, but was significantly influenced by Sembaran and Drankorian.
 
 *Real world mapping*:  Baltic (Lithuanian or Latvian), although with some loan words from Maltese (~Old Zimkovan~). 
 _Alphabet_: Written using the Drankorian alphabet. 

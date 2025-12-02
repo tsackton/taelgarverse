@@ -15,12 +15,14 @@ title: Herasto
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [centaur](<../../species/unusual-species/centaurs.md>) (he/him)  
+    A [centaur](<../../creatures/species/centaurs.md>) (he/him)  
     { .bio }
 
     Originally from: Unknown
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently the southern Voltara Plains
+
+
 
 

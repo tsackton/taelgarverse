@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/other]
+tags: [item]
 displayDefaults: {defArt: ''}
 name: Driftglobe
-typeOf: wondrous item
+typeOf: wonderous item
 subTypeOf: magic
 ancestry: dwarven
 image:
@@ -14,7 +14,7 @@ title: Driftglobe
 ---
 # Driftglobe
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Dwarven](<../../species/dwarves.md>) Magic Wondrous Item__  
+- :octicons-info-24:{ .lg .middle } __[Dwarven](<../../creatures/species/dwarves.md>) Magic Wonderous Item__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/5349-driftglobe) 
 </div>
 
@@ -25,4 +25,4 @@ A driftglobe is a magical crystal, usually around 4 inches across, that floats a
 
 
 
-The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) found two of these in the [dwarven outpost](<../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>) near [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>). These two were made by the dwarves living near Raven's Hold in the generation before the Great War, and were recovered from that outpost.
+The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) found two of these in the [dwarven outpost](<../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>) near [Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>). These two were made by the dwarves living near Raven's Hold in the generation before the Great War, and were recovered from that outpost.

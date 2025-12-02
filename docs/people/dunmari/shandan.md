@@ -20,12 +20,12 @@ title: Shandan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Born DR 1692 (57 years old)  
     Leader of the Shandan's Warband  
     { .bio }
 
-    Based in the [plains of Songara](<../../gazetteer/greater-dunmar/dunmari-basin/songara-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in the [plains of Songara](<../../gazetteer/greater-dunmar/hara-basin/songara-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

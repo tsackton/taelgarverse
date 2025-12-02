@@ -26,7 +26,7 @@ title: Kadmos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     b. DR 1711 - d. December 8th, 1748, killed at age 37 years  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) (until December 8th, 1748)  
     Cultist of [The Cleansed](<../../groups/the-cleansed.md>) (until December 8th, 1748)  
@@ -49,7 +49,5 @@ title: Kadmos
 A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather armor, without obvious weapons. A spellcaster, who took on an undead visage in combat and whose spirit seems touched by a darkness. 
 
 A character of dubious morality, clearly willing and able to use enchantment magic to get what he wants, and happy to provoke a fight. 
-
-
 
 

@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place]
 name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
-alias: [Addermarian]
+aliases: [Addermarian]
 dm_owner: tim
 dm_notes: important
 title: Addermarch
@@ -19,20 +19,20 @@ title: Addermarch
 
 Nestled in the [Mostreve Hills](<../mostreve-hills.md>) southwest of [Tyrwingha](<../tyrwingha/tyrwingha.md>), east of the [Duchy of Maseau](<../duchy-of-maseau/duchy-of-maseau.md>), south of the [Sembaran Borderlands](<../sembara/borderlands/borderlands.md>), and north of the haunted [Darkwood](<./darkwood.md>) lies the ancient hill kingdom of Addermarch. This is a land of rolling hills, swift rivers, and dense forests; a rugged land of independent folk fiercely proud of their long history and ancient traditions. 
 
-Addermarch was settled long ago, before the [Drankorians](<../../../history/drankorian-era/drankorian-empire.md>) came, by a people sharing a cultural and linguistic tradition with [Tyrwingha](<../tyrwingha/tyrwingha.md>). During the Drankorian Era, it was a backwater province of the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>), never densely settled, but supported and garrisoned as a ward against the dangers of the [Darkwood](<./darkwood.md>). 
+Addermarch was settled long ago, before the [Drankorians](<../../../history/drankorian-empire/drankorian-empire.md>) came, by a people sharing a cultural and linguistic tradition with [Tyrwingha](<../tyrwingha/tyrwingha.md>). During the Drankorian Era, it was a backwater province of the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>), never densely settled, but supported and garrisoned as a ward against the dangers of the [Darkwood](<./darkwood.md>). 
 
 
 
-With the fall of [Drankor](<../../../history/drankorian-era/drankorian-empire.md>), Addermarch charted its own course as a frontier kingdom, isolated from [Sembara](<../sembara/sembara.md>) by poor roads, difficult travel, and occasionally war. While sharing a language, a religion, and a cultural connection, Addermarch has never acknowledged the sovereignty of Sembaran monarchs, excepting during the height of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>) in the years leading to the [Great War](<../../../events/1500s/great-war.md>). 
+With the fall of [Drankor](<../../../history/drankorian-empire/drankorian-empire.md>), Addermarch charted its own course as a frontier kingdom, isolated from [Sembara](<../sembara/sembara.md>) by poor roads, difficult travel, and occasionally war. While sharing a language, a religion, and a cultural connection, Addermarch has never acknowledged the sovereignty of Sembaran or Tyrwinghan monarchs, excepting during the height of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>) in the years leading to the [Great War](<../../../events/1500s/great-war.md>). 
 
 
 
-Now, Addermarch is a land of small farmers, foresters, and sheepherders, known primarily for its famed apple brandy that is traded downriver into [Sembara](<../sembara/sembara.md>), but also a significant producer of timber, wool, and cheese. Addermarch has friendly relationships with the three human kingdoms on its borders: [Tyrwingha](<../tyrwingha/tyrwingha.md>), [Sembara](<../sembara/sembara.md>), and [Maseau](<../duchy-of-maseau/duchy-of-maseau.md>). Sembara is economically and culturally dominate in the region, and many merchant houses in Addermarch have close ties to traders and bankers in Sembara. But not all in Addermarch believe that Sembara will necessarily come to Addermarch's aid, and a spirit of independence prevails in some circles.
+Now, Addermarch is a land of small farmers, foresters, highland cattle, and sheepherders, known primarily for its famed apple brandy that is traded downriver into [Sembara](<../sembara/sembara.md>), but also a significant producer of timber, wool, and cheese. Addermarch has friendly relationships with the three human kingdoms on its borders: [Tyrwingha](<../tyrwingha/tyrwingha.md>), [Sembara](<../sembara/sembara.md>), and [Maseau](<../duchy-of-maseau/duchy-of-maseau.md>). Sembara is economically and culturally dominate in the region, and many merchant houses in Addermarch have close ties to traders and bankers in Sembara. But not all in Addermarch believe that Sembara will necessarily come to Addermarch's aid, and a spirit of independence prevails in some circles.
 ## Geography 
 
 *See more: [Mostreve Hills](<../mostreve-hills.md>)*
 
-Addermarch is a hill country, set entirely within the [Mostreve Hills](<../mostreve-hills.md>). The western parts of the kingdom are steep, rocky, and dominated by massive escarpments dropping to the Maseau plains and the Maseau Gap, while the central regions of the kingdom are a mix of rolling hills, forests, and small river valleys, the largest and most significant of which is the [Aure](<../rivers/wistel-enst-watershed/aure.md>) valley. Addermarch itself is approximately 23,000 square miles. 
+Addermarch is a hill country, set entirely within the [Mostreve Hills](<../mostreve-hills.md>). The western parts of the kingdom are steep, rocky, and dominated by massive escarpments dropping to the Maseau plains and the [Maseau Gap](<../maseau-gap.md>), while the central regions of the kingdom are a mix of rolling hills, forests, and small river valleys, the largest and most significant of which is the [Aure](<../rivers/wistel-enst-watershed/aure.md>) valley. Addermarch itself is approximately 23,000 square miles. 
 ### Climate
 
 Most of Addermarch has hot and humid summers, with plenty of rain, and mild winters with relatively little snow. However, there is considerable variation, with the higher elevations frequently getting significant winter snowfall. 
@@ -42,18 +42,43 @@ Most of Addermarch has hot and humid summers, with plenty of rain, and mild wint
 
 
 
-Addermarch is roughly divided into four major geographic regions:
-- To the west and northwest, the [Westcliff](<./westcliff.md>) is a region of rough hills and mountains that borders the flat plains of the Maseau Gap. This is a hard land with few people. This area was extensively fortified at multiple times in the past, but the castles in the hills have not all been maintained and many are now in ruins. 
-- The center of the realm is the [Aure](<../rivers/wistel-enst-watershed/aure.md>) river valley, a land of rolling hills, forests, and many rivers that cut through the hills. This region is the most densely settled, and includes [Adderfell](<./adderfell.md>), the only real city in Addermarch. This is also the major agricultural land in Addermarch, and the center of brandy production. The [Aure](<../rivers/wistel-enst-watershed/aure.md>) is navigable from [Adderfell](<./adderfell.md>) to the [Enst](<../rivers/wistel-enst-watershed/enst.md>), and many riverboats ply their trade along it. 
-- To the south and east of the [Aure](<../rivers/wistel-enst-watershed/aure.md>) valley are several lines of wooded hills and mountains, rising gradually to the height of land on the eaves of the [Darkwood](<./darkwood.md>). This region is well-guarded, and lightly populated, mostly with smallholds of foresters and furriers. 
-- To the east and northeast, along the borders of [Tyrwingha](<../tyrwingha/tyrwingha.md>), the poor soil of the hilly, rocky land keeps forests to sheltered valleys. This is largely rangeland: sheep and cattle graze in the high pastures in summer, and only in a few sheltered valleys do crops survive. 
+Addermarch consists of four distinctive regions, each with their own culture and economy. 
+
+#### Western Highlands
+_See more: [Carlinshire](<./carlinshire.md>), [Weskershire](<./weskershire.md>), [Bramshire](<./bramshire.md>), [Westcliff](<./westcliff.md>)_
+
+To the west and northwest, the rugged terrain of the [Westcliff](<./westcliff.md>) tumbles down to the [Velan](<../rivers/wistel-enst-watershed/velan.md>) river valley. This is a region of rough hills and mountains, which form high and often-impassable ramparts, especially on the western borders. It is also a region of productive, forested valleys, especially along the [Velan](<../rivers/wistel-enst-watershed/velan.md>); the lowlands near [Valcroix](<./valcroix.md>), at the confluence of the [Velan](<../rivers/wistel-enst-watershed/velan.md>) and the [Umber](<../rivers/wistel-enst-watershed/umber.md>), are one of the major agricultural centers of Addermarch. The high meadows, though, are more isolated, cut off from the [Velan](<../rivers/wistel-enst-watershed/velan.md>) by the dense [Torvaine Forest](<./torvaine-forest.md>), and are lightly populated by sheepherders and harder farmers. This area was extensively fortified at multiple times in the past, but the castles in the hills have not all been maintained and many are now in ruins. 
+
+
+
+
+
+#### Aure River Valley
+
+The heartlands of Addermarch are the Aure river valley. This is a land of gently rolling hills, open forests, and many small rivers and streams that flow from the surrounding highlands to the [Aure](<../rivers/wistel-enst-watershed/aure.md>). This region is the most densely settled of all of Addermarch, and includes the capital, [Adderfell](<./adderfell.md>), which sits at the height of navigation of the Aure. The lower reaches of the [Branth](<../rivers/wistel-enst-watershed/branth.md>) and the [Velan](<../rivers/wistel-enst-watershed/velan.md>), the two most important tributaries of the [Aure](<../rivers/wistel-enst-watershed/aure.md>), are also densely settled. To the north, the Aure crosses into the [Sembaran Borderlands](<../sembara/borderlands/borderlands.md>). This region is the center of apple production in Addermarch, and well served by riverboat traffic along the Aure, which is navigable all the way from [Adderfell](<./adderfell.md>) to the [Enst](<../rivers/wistel-enst-watershed/enst.md>). 
+
+
+
+#### Southern Borderlands
+_See more: [Darkwood](<./darkwood.md>), [Shadowmere](<./shadowmere.md>)_
+
+South of Adderfell, the Aure runs swiftly from its source in [Darkwood](<./darkwood.md>), and the wilds encroach. A line of gentle hills gradually climbs along the eastern banks of the Aure, beyond which the dense forest of the [Darkwood](<./darkwood.md>) lies to trap the unwary. To the west, the Mournebrook flows northeast from the [Shadowmere](<./shadowmere.md>), a haunted swamp on the western edge of the [Darkwood](<./darkwood.md>), and few dare cross its water south of its confluence with the [Aure](<../rivers/wistel-enst-watershed/aure.md>). South of the river village of [Tygate](<./tygate.md>), this region is very lightly populated, mostly with smallholds of foresters and furriers. It is, however, well-defined: a line of fortifications watches the forest eaves (cf. Darkwood Keep) and runs along the hilltops to the east to watch for dangers from the [Plaguelands](<../../upper-istaros/plaguelands.md>). 
+
+
+#### Eastern Highlands
+
+To the east and northeast, along the borders of [Tyrwingha](<../tyrwingha/tyrwingha.md>), the poor soil of the hilly, rocky land keeps forests to sheltered valleys. This is largely rangeland: highland cattle graze in the high pastures in summer, and only in a few sheltered valleys do crops thrive. The [Branth](<../rivers/wistel-enst-watershed/branth.md>) is the most significant river in this region, and the [Branth](<../rivers/wistel-enst-watershed/branth.md>) valley where most of the few people who live in this part of Addermarch settle. East of the headwaters of the [Branth](<../rivers/wistel-enst-watershed/branth.md>), the land turns quickly rocky, hard to travel, and dangerous; north of the [Branth](<../rivers/wistel-enst-watershed/branth.md>), the hills get quickly steeper. The Tyrwinghan borderlands is lightly settled by cattle herders who bring their herds to the high meadows to graze in the summer. 
+
+
 ### Borders
 
 To the west and northwest Addermarch is bordered by the [Westcliff](<./westcliff.md>), a series of sharp cliffs and dangerous terrain that separates the realm from the flat plains of the [Duchy of Maseau](<../duchy-of-maseau/duchy-of-maseau.md>) to the west, and the [Sembaran borderlands](<../sembara/borderlands/borderlands.md>) to the north. At the Aure, the high ridge of [Westcliff](<./westcliff.md>) is cut by the river, and on the eastern bank, the land is much lower. Here an ancient line of border stones running to ~High Peak of Tyrwinghan Ridge~ demarcates the border with [Tyrwingha](<../tyrwingha/tyrwingha.md>). These stones are said by some to be raised by Drankor, but they are marked with complex warnings in [Sylvan](<../../../background/sylvan-writing.md>), and many believe they have fey origins.
 
 The eastern border is not marked, as the high terrain between Addermarch and Tyrwinghan is unpopulated. The gentler, forested slopes to the north and east are under the demense of Tyrwinghan earls, and the dryer, arid slopes to the south and west, the land of Addermarian earls.
 
-To the south, Addermarch is bordered by the high ridge of the [Mostreve Hills](<../mostreve-hills.md>), where the [~Aure East Fork~](<../rivers/wistel-enst-watershed/aure-east-fork.md>) arises, and then, to the southwest, the [Darkwood](<./darkwood.md>). This border is carefully watched for fear of what might creep out in the shadows. 
+To the south, Addermarch is bordered by the high ridge of the [Mostreve Hills](<../mostreve-hills.md>), where the [Branth](<../rivers/wistel-enst-watershed/branth.md>) arises, and then, to the southwest, the [Darkwood](<./darkwood.md>). This border is carefully watched for fear of what might creep out in the shadows. 
+
+
 
 ## History
 
@@ -61,15 +86,15 @@ Addermarch was settled long ago, by a people closely related to the ancient Tyrw
 
 
 
-After the [Downfall](<../../../events/ancient/the-downfall.md>), as the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) grew to the south, dark things also crept into the woods to the south, no longer guarded or watched so closely by the elves, and the great forests on the southern slopes of the [Mostreve Hills](<../mostreve-hills.md>) became known as the [Darkwood](<./darkwood.md>). The people of Addermarch built standing stones to protect against incursions from the [Feywild](<../../../cosmology/feywild.md>), and watched their borders closely. 
+After the [Downfall](<../../../events/ancient/the-downfall.md>), as the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>) grew to the south, dark things also crept into the woods to the south, no longer guarded or watched so closely by the elves, and the great forests on the southern slopes of the [Mostreve Hills](<../mostreve-hills.md>) became known as the [Darkwood](<./darkwood.md>). The people of Addermarch built standing stones to protect against incursions from the [Feywild](<../../../cosmology/feywild.md>), and watched their borders closely. 
 
 
 
-During this time, Addermarch is incorporated into the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) as a minor province, and the city of [Adderfell](<./adderfell.md>) grows significantly, from a small village at the height of navigation of the [Aure](<../rivers/wistel-enst-watershed/aure.md>) to a substantial urban center. The Drankorians, too, fortify the southern borders, and keep a close watch on the [Darkwood](<./darkwood.md>), but Addermarch remains lightly settled. 
+During this time, Addermarch is incorporated into the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>) as a minor province, and the city of [Adderfell](<./adderfell.md>) grows significantly, from a small village at the height of navigation of the [Aure](<../rivers/wistel-enst-watershed/aure.md>) to a substantial urban center. The Drankorians, too, fortify the southern borders, and keep a close watch on the [Darkwood](<./darkwood.md>), but Addermarch remains lightly settled. 
 
 
 
-The fall of [Drankor](<../../../history/drankorian-era/drankorian-empire.md>) is little noticed in Addermarch at first, although it soon becomes a dangerous time as the Drankorian wizards that once guarded against incursions from the [Darkwood](<./darkwood.md>) slowly decline in number and effectiveness. During this time, as to the north the six duchies of [Sembara](<../sembara/sembara.md>) are becoming established, Addermarch, despite suffering a series of upheavals, develops many of the governance traditions that still guide the realm. In the DR 1300s, threat of the Dominion of Avatus grows on the western borders of Addermarch. The Maseau Escarpment is heavily fortified, and a series of skirmishes are fought to a stalemate.
+The fall of [Drankor](<../../../history/drankorian-empire/drankorian-empire.md>) is little noticed in Addermarch at first, although it soon becomes a dangerous time as the Drankorian wizards that once guarded against incursions from the [Darkwood](<./darkwood.md>) slowly decline in number and effectiveness. During this time, as to the north the six duchies of [Sembara](<../sembara/sembara.md>) are becoming established, Addermarch, despite suffering a series of upheavals, develops many of the governance traditions that still guide the realm. In the DR 1300s, threat of the [Dominion of Avatus](<../../../history/historical-realms/dominion-of-avatus.md>) grows on the western borders of Addermarch. The Maseau Escarpment is heavily fortified, and a series of skirmishes are fought to a stalemate.
 
 
 
@@ -85,7 +110,7 @@ After the [Great War](<../../../events/1500s/great-war.md>), Addermarch suffers 
 
 
 
-During the Second Hobgoblin War (Sembara), Addermarch and [Maseau](<../duchy-of-maseau/duchy-of-maseau.md>) form a close alliance, and Addermarch is the first to send aid when war breaks out. After the war, Addermarch is left with the Shattered Ice hobgoblins occupying much of the land directly northwest of it, and the fortifications in the Maseau Escarpment are repaired and reinforced. During the [Third Hobgoblin War (Sembara)](<../../../history/third-hobgoblin-war-sembara.md>), Addermarch again marches in alliance with Sembara, but unlike during the [Great War](<../../../events/1500s/great-war.md>), neither [Arryn II](<../../../people/historical-figures/sembaran-royalty/arryn-ii.md>) nor [Cece I](<../../../people/historical-figures/sembaran-royalty/cece-i.md>) are acknowledged as the overking of Addermarch. 
+During the Second Hobgoblin War (Sembara), Addermarch and [Maseau](<../duchy-of-maseau/duchy-of-maseau.md>) form a close alliance, and Addermarch is the first to send aid when war breaks out. After the war, Addermarch is left with the Shattered Ice hobgoblins occupying much of the land directly northwest of it, and the fortifications in the Maseau Escarpment are repaired and reinforced. During the [Third Hobgoblin War (Sembara)](<../../../events/1600s/third-hobgoblin-war-sembara.md>), Addermarch again marches in alliance with Sembara, but unlike during the [Great War](<../../../events/1500s/great-war.md>), neither [Arryn II](<../../../people/historical-figures/sembaran-royalty/arryn-ii.md>) nor [Cece I](<../../../people/historical-figures/sembaran-royalty/cece-i.md>) are acknowledged as the overking of Addermarch. 
 
 
 
@@ -102,17 +127,15 @@ In these golden years last until DR 1720, when the [Undead Attacks in Sembara](<
 Natural features include:
 - The [Westcliff](<./westcliff.md>), a significant escarpment running along the western and northwestern borders, steep hills, rough terrain, some relatively impassible mountain ridges here and sharp cliffs on the western border
 - [Darkwood](<./darkwood.md>), to the south, haunted and fey-associated, colocated with the center of Duskmire in the [Feywild](<../../../cosmology/feywild.md>)
-- [Torvaine Forest](<./torvaine-forest.md>), centered at mid and high elevations around the upper [Umber](<../rivers/wistel-enst-watershed/umber.md>) and [~Main Aure Fork~](<../rivers/wistel-enst-watershed/main-aure-fork.md>), and stretching in places into the lowlands. 
-- Another small forest on the northern part of the western border with [Tyrwingha](<../tyrwingha/tyrwingha.md>)
-- A region of higher mountains and alpine meadows on the southern part of the [Tyrwingha](<../tyrwingha/tyrwingha.md>) border
+- [Torvaine Forest](<./torvaine-forest.md>), centered at mid and high elevations around the upper [Umber](<../rivers/wistel-enst-watershed/umber.md>) and [Velan](<../rivers/wistel-enst-watershed/velan.md>), and stretching in places into the lowlands. 
+- A region of higher mountains and alpine meadows that forms the [Tyrwingha](<../tyrwingha/tyrwingha.md>) border
 - [Shadowmere](<./shadowmere.md>), a boggy lowlands on the western edge of the [Darkwood](<./darkwood.md>), also considered haunted
-- [Aure](<../rivers/wistel-enst-watershed/aure.md>) river valley, including the [Aure](<../rivers/wistel-enst-watershed/aure.md>), which forms a lake + waterfall at [Adderfell](<./adderfell.md>), and 2-4 major tributaries with their own minor rivers (this is the only watershed in Addermarch)
+- [Aure](<../rivers/wistel-enst-watershed/aure.md>) river valley, including the [Aure](<../rivers/wistel-enst-watershed/aure.md>), which forms a lake + waterfall at [Adderfell](<./adderfell.md>), and its major tributaries the [Velan](<../rivers/wistel-enst-watershed/velan.md>) and the [Branth](<../rivers/wistel-enst-watershed/branth.md>), each with their own tributaries. 
 
 Settlements include:
 - [Adderfell](<./adderfell.md>), the largest settlement and only city in Addermarch, at the height of navigation of the [Aure](<../rivers/wistel-enst-watershed/aure.md>), center of apple farming and brandy production
 - [Tygate](<./tygate.md>), a small market town near the southern border
-- [Dunwick](<./dunwick.md>), a small market town in the western part of the [Aure river](<../rivers/wistel-enst-watershed/aure.md>) valley
-- [Valcroix](<./valcroix.md>), a market town at the confluence of the [Umber](<../rivers/wistel-enst-watershed/umber.md>) and [~Main Aure Fork~](<../rivers/wistel-enst-watershed/main-aure-fork.md>)rivers
+- [Valcroix](<./valcroix.md>), a market town at the confluence of the [Umber](<../rivers/wistel-enst-watershed/umber.md>) and [Velan](<../rivers/wistel-enst-watershed/velan.md>)rivers
 - [Roscombe](<./roscombe.md>), a market town in the northwestern highlands, near [Torvaine Forest](<./torvaine-forest.md>)
 - [Brantor](<./brantor.md>), a village near [Roscombe](<./roscombe.md>)
 
@@ -122,25 +145,28 @@ Settlements include:
 
 The people of Addermarch are, in many ways, like the people of southern Sembaran and Tyrwingha. They worshop [Mos Numena](<../../../gods-and-religions/religions/mos-numena/mos-numena.md>), following the Sembaran customs to a large extent, and they speak Sembaran (with a southern dialect; unlike in Tyrwingha to the east, there is no lingering pockets of people speaking the ancient tongues, although ancient inscriptions in the Old Tollish script can be found). 
 
-The land is hard, especially in the hills and mountains, and the people of Addermarch are largely independent, insular, and self-sufficient. Travel is difficult, and the constant danger of the tricksy fey from the Darkwood and other dangerous places keeps people on guard against strangers and unusual happenings. There are fewer [dwarves](<../../../species/dwarves.md>) than one might expect, but more [elves](<../../../species/elves.md>), mostly from [Orenlas](<../../upper-istaros/orenlas/orenlas.md>), and [lizardfolk](<../../../species/lizardfolk.md>), mostly from the [Ozabal](<../ozabal.md>) and [Latazaro](<../latazaro.md>) swamps. 
+The land is hard, especially in the hills and mountains, and the people of Addermarch are largely independent, insular, and self-sufficient. Travel is difficult, and the constant danger of the tricksy fey from the [Darkwood](<./darkwood.md>) and other dangerous places keeps people on guard against strangers and unusual happenings. There are fewer [dwarves](<../../../creatures/species/dwarves.md>) than one might expect, but more [elves](<../../../creatures/species/elves.md>), mostly from [Orenlas](<../../upper-istaros/orenlas/orenlas.md>), and [lizardfolk](<../../../creatures/species/lizardfolk.md>), mostly from the [Ozabal](<../ozabal.md>) and [Latazaro](<../latazaro.md>) swamps. 
 
-The popular of Addermarch is very rural. There is only one significant city, [Adderfell](<./adderfell.md>), and while small market towns (often fortified) dot the landscape, most people live in small villages or isolated homesteads. 
+The population of Addermarch is very rural. There is only one significant city, [Adderfell](<./adderfell.md>), and while small market towns (often fortified) dot the landscape, most people live in small villages or isolated homesteads. 
+
 ### Political Organization, Justice, and the Law
 
 
 
 Addermarch is a feudal oligarchy, with power centralized in the hands of the Earl's Court, composed of the five hereditary earls of Addermarch, whose claim to power traces back to ancient days. The Earl's Court has, in times of danger, elected one of their own, or even an outsider, as the commander in chief of the army, and over time this role has been formalized into the High Lord of Addermarch, who serves as a kind of overking, and is allowed to style themselves Defender of the Realm. 
 
-Each earl functions as the monarch of a circuit, defined by the villages and towns in their demesne. Within this circuit, the Earl is responsible for administering justice and providing for the defense of their territory, and has the right to tax the labor of the land to provide for its upkeep. However, generally speaking there is no manorial feudalism in Addermarch. Instead, an Earl would typically appoint a knight of their court to serve as the lord of a particular castle or manor. However, there is no expectation that this title is inherited, and although there are often significant land holdings which provide rents for castle upkeep, the knights and castellans have no vassalage relationship with the commoners.
+Each earl functions as the monarch of a circuit, defined by the villages and towns in their demesne. Within this circuit, the Earl is responsible for administering justice and providing for the defense of their territory, and has the right to tax the labor of the land to provide for its upkeep. However, generally speaking there is no manorial feudalism in Addermarch. Instead, an Earl would typically appoint a knight of their court to serve as the lord of a particular castle or manor. However, there is no expectation that this title is inherited, and although there are often significant land holdings which provide rents for castle upkeep, the knights and castellans have no vassalage relationship with the commoners. Indeed, many villages, especially in the protected interior, have no manor, and often have a strong tradition of common land. 
+
+There are also a few hundred hereditary knights in Addermarch: while some of these are attached to possession of land holdings, often a manor, many others are, like earls, itinerant. 
 
 
 
 The five Earls of Addermarch are known as:
 - The Earl of Adderfell, who, unlike other Earls, is the lord of the city of Adderfell (but includes some outlying villages in their demesne) 
-- The Earl of Aure, whose circuit is largely in the Aure river valley, in particular the northern and eastern stretches, interdigitating with the Earl of the Mostreve in parts of the western Aure valely
-- The Earl of Westcliff, whose circuit includes all of the Westcliff, as well as parts of the upper Aure valley, especially on the western part of Addermarch. The Earl of Westcliff is the lord of three shires: [Bramshire](<./bramshire.md>) (northern hills bordering [Sembaran Borderlands](<../sembara/borderlands/borderlands.md>)), [Carlinshire](<./carlinshire.md>) (northwestern hills, upper reaches of [Umber](<../rivers/wistel-enst-watershed/umber.md>)), [Weskershire](<./weskershire.md>) (West Cliff and south). These shires are each centered around major defenses on the western and northern border, and have hereditary lords. 
-- The Earl of the Highlands, whose circuit includes the eastern part of the Aure river valley, and the highlands along the Tyrwinghan border.
-- The Earl of the Southern Reaches, whose circuit includes the southern Aure. 
+- The Earl of Westcliff, whose circuit includes all of the [Westcliff](<./westcliff.md>), as well as parts of the upper Aure valley, especially on the western part of Addermarch. The Earl of Westcliff is the lord of three shires: [Bramshire](<./bramshire.md>) (northern hills bordering [Sembaran Borderlands](<../sembara/borderlands/borderlands.md>)), [Carlinshire](<./carlinshire.md>) (northwestern hills, upper reaches of [Umber](<../rivers/wistel-enst-watershed/umber.md>)), [Weskershire](<./weskershire.md>) (West Cliff and south). These shires are each centered around major defenses on the western and northern border, and have hereditary lords. 
+- The Earl of Southmarch, whose circuit includes the southern Aure. 
+- The Earl of Aurenvale, whose circuit is largely in the Aure river valley, in particular the northern and eastern stretches, interdigitating with the Earl of the Westcliff in parts of the western Aure valley, and the Earl of High Tyrn in parts of the eastern Aure valley. 
+- The Earl of High Tyrn, whose circuit includes the eastern part of the Aure river valley, and the highlands along the Tyrwinghan border. 
  
 Note these circuits are not strict lines on a map and often overlap, but each village is part of the domain of a single earl.
 
@@ -148,3 +174,4 @@ Note these circuits are not strict lines on a map and often overlap, but each vi
 ### Economy, Trade, and Foreign Relations
 
 Addermarch does not have major trade connections to elsewhere, despite being rich in raw materials. The largest export industry is brandy, which is produced by a number of brandy houses based in Adderfell, and exported down river to Sembaran and beyond. 
+

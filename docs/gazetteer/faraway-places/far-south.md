@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/map, status/check/tim]
+tags: [place, status/cleanup/map]
 name: Far South
 typeOf: region
 whereabouts:
@@ -23,7 +23,7 @@ In the markets of [Tollen](<../greater-sembara/tollen/tollen.md>) or [Chardon](<
 This region is shrouded in mystery, and only a few features are rumored. Many reports of a endless desert stretching for thousands of miles have come west, but beyond that, few know what mysteries this region holds.
 
 
-[Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) brought stories of a tropical jungle called [Orekatu](<./orekatu.md>) by the [lizardfolk](<../../species/lizardfolk.md>) who dwell there.
+[Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) brought stories of a tropical jungle called [Orekatu](<./orekatu.md>) by the [lizardfolk](<../../creatures/species/lizardfolk.md>) who dwell there.
 
 ## Civilizations and Cultures
 What civilizations live in this region, beyond -- or within -- the desert is not known.
@@ -35,5 +35,5 @@ The climate of this region is varied, and not well known - but all the stories t
 ## Major Historical Eras
 _See more: the [Founding of Dunmar](<../../primary-sources/founding-of-dunmar.md>)_
 
-Nothing is known of the history of this region. Any people who live here are likely strange and foreign compared to the descendants of [Drankor](<../../history/drankorian-era/drankor.md>). The [Dunmari](<../greater-dunmar/realms/dunmar/dunmar.md>) claim to have come east from somewhere in this region soon after the fall of Drankor, but the exact location of the ancient Dunmari homeland has been lost.
+Nothing is known of the history of this region. Any people who live here are likely strange and foreign compared to the descendants of [Drankor](<../../history/drankorian-empire/drankor.md>). The [Dunmari](<../greater-dunmar/realms/dunmar/dunmar.md>) claim to have come east from somewhere in this region soon after the fall of Drankor, but the exact location of the ancient Dunmari homeland has been lost.
 

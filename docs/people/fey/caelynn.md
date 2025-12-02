@@ -19,7 +19,7 @@ title: Caelynn the Seer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/extraplanar/fey.md>) (she/her)  
+    A [fey](<../../creatures/fey/fey.md>) (she/her)  
     { .bio }
 
     Originally from: [Dreamhaven](<../../gazetteer/extraplanar/feywild/dreamhaven.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
@@ -45,7 +45,7 @@ Caelynn is an elegant elfin woman of ambiguous age, with long silver hair and st
 
 Many rumors circulate about Caelynn
 - she has lived in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) since it was founded
-- she is just the latest in a long line of [Fey](<../../species/extraplanar/fey.md>) living as Caelynn
+- she is just the latest in a long line of [Fey](<../../creatures/fey/fey.md>) living as Caelynn
 - she is actually the seer who founded the Ancient and Honorable Order of Shanachie (called the Shanachs, a philosopher's guild that supposedly dates to the original settling of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>))
 - her prophecies always come true
 - her prophecies never come true, and ill befalls all who ask a prophecy of her

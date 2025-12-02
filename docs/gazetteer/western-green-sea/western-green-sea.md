@@ -15,7 +15,7 @@ title: Western Green Sea
 </div>
 
 
-
+d
 
 The halfling story of the western [Green Sea](<../green-sea.md>) is one of mariners and sailors, crumbing [coastal cities](<realms/cymea.md>) and proudly independent [Skaer](<realms/skaer.md>), numerous settlements along the coast, and mystery and danger inland. This is a maritime region, and the Green Sea itself dominates the culture and topography of the region.
 ## Map
@@ -84,7 +84,7 @@ The Cymean Peninsula, and the ~Cymean Archipelago~  is a land of humans, long Dr
 
 _(The halflings would know the details of Cymea, including what non-humans live amongst the humans, but it hasn't been invented yet. - Eds.)_
 
-South of the ~Cymea Border Mountains~, lies more human lands, once Drankorian provinces and later, after the fall of Drankor, traders with the cities of the [Istabor Alliance](<../../history/istabor-alliance.md>). Since the destruction of [Isingue](<../upper-istaros/isingue.md>) during the [Great War](<../../events/1500s/great-war.md>), this land is diminished.
+South of the ~Cymea Border Mountains~, lies more human lands, once Drankorian provinces and later, after the fall of Drankor, traders with the cities of the [Istabor Alliance](<../../history/historical-realms/istabor-alliance.md>). Since the destruction of [Isingue](<../upper-istaros/isingue.md>) during the [Great War](<../../events/1500s/great-war.md>), this land is diminished.
 
 _(The halflings would know the details of South Cymea, including what non-humans live there, but it hasn't been invented yet. - Eds.)_
 
@@ -100,12 +100,12 @@ The story of the [Skaer](<realms/skaer.md>) is well attested in religious and le
 That said, historians in [Tollen](<../greater-sembara/tollen/tollen.md>) will agree on at least a broad story:
 #### Skaer Era
 _Before CY 4535_
-The [Skaer](<realms/skaer.md>) settled the [Skaer Islands](<skaerhem/skaerhem.md>) in the ancient days before the [Downfall](<../../events/ancient/the-downfall.md>), one of several human cultures that arose from the great Mariner Exodus from [Hkar](<../../history/pre-downfall/hkar.md>). The Skaer established an maritime empire centered on the [Vostok](<../greater-sembara/vostok/vostok.md>) coast and the [Western Gulf](<../greater-sembara/western-gulf.md>), but also stretching as far south as the ~Cymea Border Mountains~ and as far west as [Embry](<../greater-sembara/sembara/heartlands/embry.md>). The Skaer claim their empire included the ~Cymean Archipelago~, but some [Cymean](<realms/cymea.md>) sources often describe the archipelago as uninhabited when the Drankorians arrived. Other sources claim the ~Cymean Archipelago~ was never Skaerish or Drankorian.
+The [Skaer](<realms/skaer.md>) settled the [Skaer Islands](<skaerhem/skaerhem.md>) in the ancient days before the [Downfall](<../../events/ancient/the-downfall.md>), one of several human cultures that arose from the great Mariner Exodus from [Hkar](<../../history/historical-realms/hkar.md>). The Skaer established an maritime empire centered on the [Vostok](<../greater-sembara/vostok/vostok.md>) coast and the [Western Gulf](<../greater-sembara/western-gulf.md>), but also stretching as far south as the ~Cymea Border Mountains~ and as far west as [Embry](<../greater-sembara/sembara/heartlands/embry.md>). The Skaer claim their empire included the ~Cymean Archipelago~, but some [Cymean](<realms/cymea.md>) sources often describe the archipelago as uninhabited when the Drankorians arrived. Other sources claim the ~Cymean Archipelago~ was never Skaerish or Drankorian.
 
 (_The details of what these "other sources" say is known but not yet invented. - Eds.)_
 #### Drankorian Era
 _CY 4535 - 5192_
-As the Drankorian Empire expanded north, coastal provinces in the lands left behind by the vanished non-human empires ([Alcarinquë](<../../history/pre-downfall/alcarinque.md>) and the ~Ancient Lizardfolk Swamp~) were established quickly, although sources disagree as to the exact founding dates. Many local Cymean sources ascribe unrealistically early founding dates (such as DR 2 or DR 100) to local cities and provinces but few believe these.
+As the Drankorian Empire expanded north, coastal provinces in the lands left behind by the vanished non-human empires ([Alcarinquë](<../../history/historical-realms/alcarinque.md>) and the ~Ancient Lizardfolk Swamp~) were established quickly, although sources disagree as to the exact founding dates. Many local Cymean sources ascribe unrealistically early founding dates (such as DR 2 or DR 100) to local cities and provinces but few believe these.
 
 However, by DR 402 (CY 4535) the well-attested [Treaty of Marhavn](<../../events/400s/402/treaty-of-marhavn.md>) was signed in [Tollen](<../greater-sembara/tollen/tollen.md>), which formalized that withdrawal of the [Skaer](<realms/skaer.md>) from all lands and seas west of the [Volta](<../greater-sembara/rivers/volta-watershed/volta.md>) and south of the [Straits of Cymea](<./straits-of-cymea.md>). The [Skaer](<realms/skaer.md>) retreated in this period, and although numerous Skaer sailing vessels were seen along the coasts of [Vostok](<../greater-sembara/vostok/vostok.md>) and crossing between the islands of [Skaerhem](<skaerhem/skaerhem.md>), the western shores and bays of the [Green Sea](<../green-sea.md>) were dominated by the Drankorians, according to modern [Cymean](<realms/cymea.md>) histories. 
 

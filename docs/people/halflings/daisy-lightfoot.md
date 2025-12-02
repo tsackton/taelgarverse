@@ -20,7 +20,7 @@ title: Daisy Lightfoot
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/halflings.md>) (she/her)  
+    A [halfling](<../../creatures/species/halflings.md>) (she/her)  
     { .bio }
 
     Based in the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)

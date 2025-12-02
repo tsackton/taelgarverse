@@ -19,7 +19,7 @@ title: Cecilia Lister
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../species/humans.md>) (she/her)  
+    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1694 (55 years old)  
     Member of the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>)  
     { .bio }

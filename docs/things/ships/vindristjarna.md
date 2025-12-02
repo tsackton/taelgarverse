@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 excludePublish: [clee]
 tags: [item/vehicle]
-typeOf: vehicle
+typeOf: skyship
 pronunciation: vin-dree-SHAR-na
 displayDefaults: {linkText: true, ltItem: stored on}
 whereabouts:
@@ -27,11 +27,15 @@ dm_notes: important
 title: Vindristjarna
 ---
 # Vindristjarna
-*(vin-dree-SHAR-na)*
->[!info]+ Information  
-> (unique magical skyship)  
->   
->> 
+:speaker:{ .middle } *(vin-dree-SHAR-na)*  
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __Unique Magical Skyship__  
+   Created unknown storm giant  
+   Owned owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
+</div>
+
+:octicons-location-24:{ .lg .middle } Owned
+
 
 ![Vindristjarna V1](../../assets/vindristjarna-v1.jpg)
 
@@ -51,7 +55,7 @@ The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md
 
 Currently, the hull of the ship has been restored and repaired, and two stone decks constructed, creating three floors: a storage hold that is currently mostly unimproved, a lower deck, and an upper deck. 
 
-The upper deck, occupying a total of 12,000 square feet (480 squares), is dominated by a large central courtyard, greenhouse, and garden, maintained by Kenzo. Around the railing of the upper deck is also a depiction of the travels of [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), and especially the stories of the people they have met, recalling the [Hall of Stories](<../../gazetteer/greater-dunmar/dunmari-basin/hall-of-stories.md>) in the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/dunmari-basin/monastery-of-bhishma.md>). 
+The upper deck, occupying a total of 12,000 square feet (480 squares), is dominated by a large central courtyard, greenhouse, and garden, maintained by Kenzo. Around the railing of the upper deck is also a depiction of the travels of [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), and especially the stories of the people they have met, recalling the [Hall of Stories](<../../gazetteer/greater-dunmar/hara-basin/hall-of-stories.md>) in the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>). 
 
 Also constructed are a well-equipped galley and kitchen, a dining hall, a map room maintained by Wellby, a workshop and a games room maintained by Seeker and providing space for Faldrak to work, a sanctuary of the tanshi maintained by Delwath, and comfortable living quarters for ten hirelings or followers, as well as cabins for Riswynn, Delwath, Seeker, Kenzo, and Wellby, and a guest suite. 
 

@@ -19,12 +19,12 @@ title: Isingue
 # Isingue
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :octicons-location-24:{ .lg .middle } A ruined [Isinguer](<../../history/istabor-alliance.md>) city [Plaguelands](<./plaguelands.md>), once part of the [Istabor Alliance](<../../history/istabor-alliance.md>)  
+   :octicons-location-24:{ .lg .middle } A ruined [Isinguer](<../../history/historical-realms/istabor-alliance.md>) city [Plaguelands](<./plaguelands.md>), once part of the [Istabor Alliance](<../../history/historical-realms/istabor-alliance.md>)  
     :octicons-location-24:{ .lg .middle } Consumed by Cha'mutte's plague in DR 1545  
 </div>
 
 
-The now-ruined city on the [Istaros](<../major-rivers/istaros-watershed/istaros.md>), once the cultural and spiritual capitol of the [Istabor Alliance](<../../history/istabor-alliance.md>). 
+The now-ruined city on the [Istaros](<../major-rivers/istaros-watershed/istaros.md>), once the cultural and spiritual capitol of the [Istabor Alliance](<../../history/historical-realms/istabor-alliance.md>). 
 
 Legends and stories say that Isingue was founded where the waters of the [Istaros](<../major-rivers/istaros-watershed/istaros.md>) gave magical, life-giving energy to the land and to the people who drank them, and it was from this magic that the densely settled small towns and villages near Isingue drew their wealth. 
 

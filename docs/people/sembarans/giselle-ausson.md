@@ -16,7 +16,7 @@ title: Giselle Ausson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Isinguer](<../../history/istabor-alliance.md>) [human](<../../species/humans.md>) (she/her)  
+    An [Isinguer](<../../history/historical-realms/istabor-alliance.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1661 (88 years old)  
     Proprietor of [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>) (since DR 1700)  
     { .bio }

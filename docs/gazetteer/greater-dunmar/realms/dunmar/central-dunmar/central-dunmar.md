@@ -17,4 +17,4 @@ title: Central Dunmar
 
 
 
-A region in Dunmar, largely congruent with the Hara Watershed and the central region of the [Dunmari Basin](<../../../dunmari-basin/dunmari-basin.md>). 
+A region in Dunmar, largely congruent with the [Hara Watershed](<../../../rivers/hara-watershed/hara-watershed.md>) and the central region of the [Hara Basin](<../../../hara-basin/hara-basin.md>). 

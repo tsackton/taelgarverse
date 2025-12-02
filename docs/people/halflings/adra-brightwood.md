@@ -21,7 +21,7 @@ title: Adra Brightwood
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/halflings.md>) (she/her), of Brightwoods  
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of Brightwoods  
     Member of [The Rangers](<../../groups/the-rangers.md>)  
     { .bio }
 

@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [item]
 typeOf: armor
 rarity: uncommon
-subTypeOf: magical
+subTypeOf: magic
 ancestry: Deno'qai
 ddbLink: https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail
 displayDefaults: {wHome: 'Owner: <current:1>', defArt: ''}
@@ -16,7 +16,7 @@ title: Deno'qai Scale Mail
 ---
 # Deno'qai Scale Mail
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Uncommon Deno'qai Magical Armor__  
+- :octicons-info-24:{ .lg .middle } __Uncommon Deno'qai Magic Armor__  
    Created unknown the Deno'qai smith  
    Owner: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail) 

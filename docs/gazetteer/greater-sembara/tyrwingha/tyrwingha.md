@@ -29,7 +29,7 @@ Politically, it is a monarchy, although the monarch is formally elected by the [
 
 
 
-The Army of Mostreve is another major part of Tyrwingha, led by the fearsome eldritch knights and an elite cadre of warlocks. The Army was organized by [Derik I](<../../../people/historical-figures/sembaran-royalty/derik-i.md>) after his victories over the Dominion of Avatus, and it today provides a significant route of social mobility. Three major garrisons dot the [Mostreve Hills](<../mostreve-hills.md>) - the garrison of the Aben, in the headwaters of the [Aben](<../rivers/aben-watershed/aben.md>) River, the garrison of Cyfarthfa closest to the capital, and the garrison of Deganwy on the borders of Addermarch. The Aben garrison sees action most years, and is a gathering spot for [The Rangers](<../../../groups/the-rangers.md>).
+The [Army of Mostreve](<../../../groups/sembaran-army/army-of-mostreve.md>) is another major part of Tyrwingha. 
 
 Religiously, little is remembered about the ancient gods of Tyrwingha, such as they were. The [Eight Divines](<../../../gods-and-religions/religions/mos-numena/mos-numena.md>) are worshipped here much as they are elsewhere in [Sembara](<../sembara/sembara.md>). It is said that when Ethlenn made her bargain with the Drankorians (see below), she acknowledged the suzerainty of the Drankorian gods. However, the fey are remembered and honored alongside the gods -- the people of Tyrwingha have a deep respect for the traditions of the fey and what others might call superstition is here seen as simple common sense. The temple stewards in Tyrwingha often have a second job, ensuring the fairy rings are not distributed, leaving out milk and brown bread for the pixies, and other such things.
 

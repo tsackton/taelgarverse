@@ -25,14 +25,14 @@ title: Faldrak Bronzehammer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (he/him)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
     Born DR 1516 (233 years old)  
     { .bio }
 
     Originally from: [Fahnukan](<../../gazetteer/northern-sentinels/fahnukan.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently [Vindristjarna](<../../things/ships/vindristjarna.md>)
+:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
 
 
 
@@ -46,5 +46,5 @@ Faldrak Bronzehammer, with his eccentric blend of traditional dwarven craftsmans
 Despite his aging exterior and graying, rune-braided beard, Faldrak's eyes sparkle with mischief. His wardrobe—a combination of dwarven armor and fey fabrics—reflects his diverse experiences. A small pouch, perpetually moving, is always by his side. He walks with a cane, which seems to be magical and multipurpose. 
 ## Events
 
-- In DR 1748, during [Pyravela](<../../gods-and-religions/holidays-and-festivals/pyravela.md>) in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), Faldrak attended the party hosted by The Dunmar Fellowship on [Vindristjarna](<../../things/ships/vindristjarna.md>), where he met and bonded with Seeker, requesting his aid in journeying to the Edge of Echoes, a mysterious place where the boundaries between the planes (especially between Taelgar and the elemental planes) are thin. 
+- In DR 1748, during [Pyravela](<../../gods-and-religions/holidays-and-festivals/pyravela.md>) in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), Faldrak attended the party hosted by The Dunmar Fellowship on [Vindristjarna](<../../things/ships/vindristjarna.md>), where he met and bonded with Seeker, requesting his aid in journeying to the [Edge of Echoes](<../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>), a mysterious place where the boundaries between the planes (especially between Taelgar and the elemental planes) are thin. 
 

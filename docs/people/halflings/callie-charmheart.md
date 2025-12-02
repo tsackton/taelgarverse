@@ -26,7 +26,7 @@ title: Callie Charmheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/halflings.md>) (she/her), of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
     Born DR 1722 (27 years old)  
     { .bio }
 
@@ -51,5 +51,7 @@ One of the Charmhearts, a halfling family of long-distance merchants and traders
 - [Bree Charmheart](<./bree-charmheart.md>), grandmother and traveling companion
 
 - [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion 
+
+
 
 

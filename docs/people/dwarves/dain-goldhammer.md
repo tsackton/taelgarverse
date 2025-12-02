@@ -19,7 +19,7 @@ title: Dain Goldhammer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (he/him)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
     Born DR 1704 (45 years old)  
     { .bio }
 
@@ -37,4 +37,5 @@ title: Dain Goldhammer
 
 An adventurer, working for the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), funded by [Fausto](<../chardonians/fausto.md>). Often travels with [Dee Wildcloak](<../halflings/dee-wildcloak.md>). 
 
-Part of the group that explored [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) and brought [Hralgar's Eyes](<../../campaigns/dunmari-frontier-campaign/treasure/hralgar-s-eyes.md>) and the [Binding Stones](<../../campaigns/dunmari-frontier-campaign/treasure/binding-stones.md>) back to [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>).
+Part of the group that explored [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>) and brought [Hralgar's Eyes](<../../campaigns/dunmari-frontier-campaign/treasure/hralgar-s-eyes.md>) and the [Binding Stones](<../../campaigns/dunmari-frontier-campaign/treasure/binding-stones.md>) back to [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>).
+

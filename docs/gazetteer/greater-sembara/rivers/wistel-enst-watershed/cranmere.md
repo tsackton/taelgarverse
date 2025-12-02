@@ -2,7 +2,9 @@
 headerVersion: 2023.11.25
 tags: [place]
 aliases: [Cranmère]
-whereabouts: Barony of Aveil
+whereabouts:
+- {type: primary, location: Barony of Aveil}
+- {type: secondary, location: Wistel-Enst Watershed}
 typeOf: waterway
 typeOfAlias: river
 name: Cranmère
@@ -16,6 +18,7 @@ title: Cranmère
 :speaker:{ .middle } *(Krahn-mehr)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A river in the [Barony of Aveil](<../../sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../sembara/sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } Located [Wistel-Enst Watershed](<./wistel-enst-watershed.md>)  
 </div>
 
 

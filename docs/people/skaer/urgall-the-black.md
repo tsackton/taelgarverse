@@ -24,7 +24,7 @@ title: Urgall the Black
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Skaer](<../../gazetteer/western-green-sea/realms/skaer.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Skaer](<../../gazetteer/western-green-sea/realms/skaer.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     b. DR 1720 - d. December 22th, 1748, died at age 28 years  
     Captain of the [Flaming Tempest](<../../things/ships/flaming-tempest.md>) (until December 22th, 1748)  
     { .bio }

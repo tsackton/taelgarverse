@@ -35,7 +35,7 @@ Nonetheless, there does seem to be a growing undercurrent of distrust of the Dun
 
 In mid-February, he sees her traveling with three other people, moving quietly and quickly in single file along a barren, ashy plain. All are dressed in cloaks and breastplates, and carry swords and bows - these are clearly not mere commoners. They seem to be following the footprints of something, for they often stop to search the ground. Marcella goes last: her footsteps leave the footprints of the metal boots of a hobgoblin solider. 
 
-Two weeks later, in early March, Marcella is camped near a marshy river. She is speaking quietly to a [lizardfolk](<../../../species/lizardfolk.md>) man, telling him that the creature is dead. It was a corrupted echo of the Shadowfell, a Sorrowsworn. The Rangers will keep watch for a few more weeks, she says, as the Sorrowsworn often appear in groups. 
+Two weeks later, in early March, Marcella is camped near a marshy river. She is speaking quietly to a [Lizardfolk](<../../../creatures/species/lizardfolk.md>) man, telling him that the creature is dead. It was a corrupted echo of the Shadowfell, a Sorrowsworn. The Rangers will keep watch for a few more weeks, she says, as the Sorrowsworn often appear in groups. 
 
 ## Kaeso
 
@@ -57,7 +57,7 @@ By early March, [Johar](<../../../people/dunmari/johar.md>) is traveling northea
 
 ## Havdar
 
-Delwath scries on [Havdar](<../../../people/dunmari/havdar.md>) a number times in February and early March to get a sense of the border between Dunmar and Chardon. Mostly, you see the routine of army camp life. Havdar has at least a thousand troops, possibly more, camped on the western [~Songara Plains~](<../../../gazetteer/greater-dunmar/dunmari-basin/songara-plains.md>), near the edge of Dunmari territory. There does not seem to be significant active engagements with Chardonian troops – you don’t see signs of mass casualties or mobilization – although it is hard to know whether minor clashes have occurred. 
+Delwath scries on [Havdar](<../../../people/dunmari/havdar.md>) a number times in February and early March to get a sense of the border between Dunmar and Chardon. Mostly, you see the routine of army camp life. Havdar has at least a thousand troops, possibly more, camped on the western [~Songara Plains~](<../../../gazetteer/greater-dunmar/hara-basin/songara-plains.md>), near the edge of Dunmari territory. There does not seem to be significant active engagements with Chardonian troops – you don’t see signs of mass casualties or mobilization – although it is hard to know whether minor clashes have occurred. 
 
 In early March, it seems the camp has swelled in size, at least doubled if not more. [Havdar](<../../../people/dunmari/havdar.md>) speaks frequently with scouts, commanders, and others. There seems to be some negotiations with Chardon – occasionally you will see a Chardonian messenger coming, or going – but Havdar is cautious. He never speaks of battle plans, or reads messages in a place you can see with your scrying. His primary command tent seems to regularly have some kind of ward on it, for it looks like an opaque white dome when viewed with scrying, and when Havdar enters the sensor cannot pass through.
 

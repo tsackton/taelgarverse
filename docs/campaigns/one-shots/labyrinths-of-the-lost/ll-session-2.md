@@ -20,10 +20,10 @@ title: LL Session 2
 - The master bedroom suite was apparently once occupied by pirates; the ghost of a pirate captain now haunts the bedroom
 - The party spoke with the ghost, and Gaudin convinced him to reveal the secret entrance to Grimstone's lair in the basement as the session ended
 ## The Protagonists
-- Asescale, a [lizardfolk](<../../../species/lizardfolk.md>) alchemist and gambler
-- Dilion, a [human](<../../../species/humans.md>) tinkerer and battlesmith
-- Gadin, a [human](<../../../species/humans.md>) warlock with a hint of the [Fey](<../../../species/extraplanar/fey.md>) about him
-- Loria Underbough, a [halfling](<../../../species/halflings.md>) wanderer and ranger
+- Asescale, a [Lizardfolk](<../../../creatures/species/lizardfolk.md>) alchemist and gambler
+- Dilion, a [human](<../../../creatures/species/humans.md>) tinkerer and battlesmith
+- Gadin, a [human](<../../../creatures/species/humans.md>) warlock with a hint of the [Fey](<../../../creatures/fey/fey.md>) about him
+- Loria Underbough, a [halfling](<../../../creatures/species/halflings.md>) wanderer and ranger
 # Plot Developments
 
 - Grimstone has a chained basilisk in the courtyard of the manor, which is probably related to all the stone statues around the manor

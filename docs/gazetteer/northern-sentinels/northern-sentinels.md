@@ -71,7 +71,7 @@ There are two major river systems that originate in this region:
 
 
 
-There are few humans in this region, although the northern Deno'qai tribes make their home here. The dwarven kingdom of [Fahnukan](<./fahnukan.md>) lies beneath the northern Sentinels, and [stoneborn](<../../species/stoneborn.md>) are known to live in the highlands and foothills of the [Sentinels](<../sentinel-range.md>).
+There are few humans in this region, although the northern Deno'qai tribes make their home here. The dwarven kingdom of [Fahnukan](<./fahnukan.md>) lies beneath the northern Sentinels, and [stoneborn](<../../creatures/species/stoneborn.md>) are known to live in the highlands and foothills of the [Sentinels](<../sentinel-range.md>).
 
 
 ## Major Historical Eras
@@ -79,7 +79,7 @@ _See more: Pandar_
 
 In the ancient days before [The Downfall](<../../events/ancient/the-downfall.md>) it is said that the northerners crossed the [Sentinels](<../sentinel-range.md>) at the ~Unnamed North Sentinel Pass~  in their eastward migrations, but the truth of this is unclear.
 
-In the long years leading up to the [Great War](<../../events/1500s/great-war.md>) the land of Pandar was [Cha'mutte's](<../../people/extraplanar-powers/cha-mutte.md>) home, and hobgoblins and enslaved kenku were common sights. Since the [Great War](<../../events/1500s/great-war.md>) this area has been lightly populated and full of dangers.
+In the long years leading up to the [Great War](<../../events/1500s/great-war.md>) the land of Pandar was [Cha'mutte's](<../../people/extraplanar-powers/cha-mutte.md>) home, and hobgoblins and enslaved [kenku](<../../creatures/species/kenku.md>) were common sights. Since the [Great War](<../../events/1500s/great-war.md>) this area has been lightly populated and full of dangers.
 ## Climate
 The mountains here are snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. The forests and fens to the west are marked by cold, snowy winters and short, wet summers. There is little farmable land here.
 

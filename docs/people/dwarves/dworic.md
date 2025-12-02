@@ -21,7 +21,7 @@ title: Dworic
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (he/him)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
     Born DR 1502 (247 years old)  
     { .bio }
 

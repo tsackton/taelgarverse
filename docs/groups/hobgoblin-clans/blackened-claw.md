@@ -14,7 +14,7 @@ title: Blackened Claw Clan
 # The Blackened Claw Clan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A hobgoblin clan  
+   :octicons-info-24:{ .lg .middle } A [hobgoblin](<../../creatures/species/hobgoblins.md>) clan  
    :material-calendar: Destroyed by the [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) in DR 1610  
 </div>
 

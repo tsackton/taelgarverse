@@ -21,5 +21,5 @@ title: Yuvanti Mountains
 </div>
 
 
-The new mountains that cut through [Dunmar](<realms/dunmar/dunmar.md>), isolated the coastal western [Dunmar](<realms/dunmar/dunmar.md>) from the inland desert. The location of the [dwarven](<../../species/dwarves.md>) kingdom of [Nardith](<realms/nardith/nardith.md>). 
+The new mountains that cut through [Dunmar](<realms/dunmar/dunmar.md>), isolated the coastal western [Dunmar](<realms/dunmar/dunmar.md>) from the inland desert. The location of the [dwarven](<../../creatures/species/dwarves.md>) kingdom of [Nardith](<realms/nardith/nardith.md>). 
 

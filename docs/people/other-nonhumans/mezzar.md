@@ -20,7 +20,7 @@ title: Grimbaskal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dragon](<../../species/unusual-species/dragons.md>) ([green dragon](<../../species/unusual-species/dragons.md>)) (he/him)  
+    A [dragon](<../../creatures/species/dragons.md>) ([green dragon](<../../creatures/species/dragons.md>)) (he/him)  
     Died September 15th, 1748  
     { .bio }
 

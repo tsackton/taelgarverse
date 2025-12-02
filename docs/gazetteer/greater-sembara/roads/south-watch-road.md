@@ -14,4 +14,4 @@ title: South Watch Road
 </div>
 
 
-A new road, built during the reign of [Cece I](<../../../people/historical-figures/sembaran-royalty/cece-i.md>) to connect [Dunfry](<../sembara/western-marches/dunfry.md>) and the [South Watch](<../../../groups/sembaran-army/army-of-the-south.md>) with [Fellburn](<../sembara/heartlands/fellburn.md>) after the [hobgoblin wars](<../../../history/third-hobgoblin-war-sembara.md>). Most of the road runs through unsettled land, although several fortified garrison-houses dot the road to support soldiers and messengers travelling the road. 
+A new road, built during the reign of [Cece I](<../../../people/historical-figures/sembaran-royalty/cece-i.md>) to connect [Dunfry](<../sembara/western-marches/dunfry.md>) and the [South Watch](<../../../groups/sembaran-army/army-of-the-south.md>) with [Fellburn](<../sembara/heartlands/fellburn.md>) after the [hobgoblin wars](<../../../events/1600s/third-hobgoblin-war-sembara.md>). Most of the road runs through unsettled land, although several fortified garrison-houses dot the road to support soldiers and messengers travelling the road. 

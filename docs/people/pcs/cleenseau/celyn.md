@@ -27,7 +27,7 @@ title: Celyn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../species/humans.md>) (he/him)  
+    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
     Born DR 1697 (52 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     Member of the Mahaut's Miracle Players (December 1717 - June 29th, 1719)  
@@ -66,11 +66,6 @@ He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [
 >  He is not entirely blown by the wind; he trusts his intuition profoundly, along with the guidance of the fey and his god.  (Which puts him in a good position to be at the whims of higher powers.)  It’s likely he wandered out of his home turf a bit ago, following some impulse or other, and those impulses and occasional directives from the Wyrdling or friendly fey eventually steered him to where he is.
 
 ### Items
-| Image                                            | Name                                                                                    | Type   | Mechanics |
-| ------------------------------------------------ | --------------------------------------------------------------------------------------- | ------ | --------- |
-| ![Silverthorn](../../../assets/silverthorn.png)                 | [Silverthorn](<../../../Campaigns/Cleenseau Campaign/Treasure/Silverthorn.md>)                   | weapon | \-        |
-| ![Shield of False Life](../../../assets/shield-of-false-life.png)        | [Shield of False Life](<../../../Campaigns/Cleenseau Campaign/Treasure/Shield of False Life.md>) | armor  | \-        |
-| ![Ranger Cloak of Concealment](../../../assets/ranger-cloak-of-concealment.png) | [Cloak of Concealment](<../../../Campaigns/Cleenseau Campaign/Treasure/Cloak of Concealment.md>) | cloak  | \-        |
 
 
 ### Stories about Celyn

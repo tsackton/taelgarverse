@@ -15,7 +15,7 @@ title: Rai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../species/elves.md>) (peronar) (he/him), ([ka](<../../../background/elven-cycle-of-generations.md>) unknown)  
+    An [elf](<../../../creatures/species/elves.md>) (peronar) (he/him), ([ka](<../../../background/elven-cycle-of-generations.md>) unknown)  
     { .bio }
 
 </div>

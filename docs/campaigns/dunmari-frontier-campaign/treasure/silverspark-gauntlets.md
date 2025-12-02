@@ -12,10 +12,10 @@ title: Silverspark Gauntlets
 ---
 # Silverspark Gauntlets
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Uncommon [Dwarven](<../../../species/dwarves.md>) Magical Gauntlets__  
+- :octicons-info-24:{ .lg .middle } __Uncommon [Dwarven](<../../../creatures/species/dwarves.md>) Magical Gauntlets__  
    Owned by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/4641-gauntlets-of-ogre-power) 
 </div>
 
 
-The gauntlets carried by [Nora Silverspark](<../../../people/dwarves/nora-silverspark.md>), gifted to [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) in thanks for putting Nora’s soul to rest and helping the [Dwarves](<../../../species/dwarves.md>) trapped in [Morkalan](<../../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>).
+The gauntlets carried by [Nora Silverspark](<../../../people/dwarves/nora-silverspark.md>), gifted to [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) in thanks for putting Nora’s soul to rest and helping the [Dwarves](<../../../creatures/species/dwarves.md>) trapped in [Morkalan](<../../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>).

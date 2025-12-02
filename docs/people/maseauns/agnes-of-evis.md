@@ -22,7 +22,7 @@ title: Agnés of Evis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Maseaun](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../species/humans.md>) (she/her)  
+    A [Maseaun](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born April 3rd, 1690 (59 years old)  
     { .bio }
 

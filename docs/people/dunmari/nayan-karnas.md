@@ -22,7 +22,7 @@ dm_owner: tim
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)  
     Born DR 1716 (33 years old)  
     Samraat of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (since DR 1740)  
     { .bio }

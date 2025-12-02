@@ -20,7 +20,7 @@ title: Mirror of Soul Trapping
    Owned owned by the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
 </div>
 
-:octicons-location-24:{ .lg .middle } Owned [Vindristjarna](<../../../things/ships/vindristjarna.md>)
+:octicons-location-24:{ .lg .middle } Owned
 
 
 

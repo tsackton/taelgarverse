@@ -19,7 +19,7 @@ title: Mabist
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../../species/extraplanar/fey.md>) (changeling) (they/them)  
+    A [fey](<../../../creatures/fey/fey.md>) (changeling) (they/them)  
     Born DR 1717 (32 years old)  
     Member of the [Silver Tempests](<./silver-tempests.md>)  
     { .bio }

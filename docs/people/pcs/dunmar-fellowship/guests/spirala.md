@@ -16,7 +16,7 @@ title: Spirala
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../../../species/extraplanar/fey.md>) (fairy) (she/her)  
+    A [fey](<../../../../creatures/fey/fey.md>) (fairy) (she/her)  
     { .bio }
 
 </div>

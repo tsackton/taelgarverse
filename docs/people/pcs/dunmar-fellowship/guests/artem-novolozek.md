@@ -20,7 +20,7 @@ title: Artem Novolozek
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Urskan](<../../../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../../../species/humans.md>) (he/him)  
+    An [Urskan](<../../../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
     Originally from: [Ursk](<../../../../gazetteer/northern-green-sea/ursk/ursk.md>)

@@ -14,7 +14,7 @@ title: Northern War
 
 A brutal war fought in the north of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) against the [Blackened Claw](<../../groups/hobgoblin-clans/blackened-claw.md>) hobgoblin clan. Ended is a complete and total Dunmari victory, with the hobgoblins crushed. 
 
-It was during this war that the old fortress of [Raven's Hold](<../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>) was occupied by hobgoblin troops, who used it as a base of operations to raid against Dunmari to the south and west. 
+It was during this war that the old fortress of [Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>) was occupied by hobgoblin troops, who used it as a base of operations to raid against Dunmari to the south and west. 
 
 
 

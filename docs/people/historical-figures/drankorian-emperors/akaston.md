@@ -19,12 +19,12 @@ dm_notes: color
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Hkaran [human](<../../../species/humans.md>) (he/him)  
+    A Hkaran [human](<../../../creatures/species/humans.md>) (he/him)  
     Died DR 991  
-    Emperor of the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>) (DR 980 - DR 991)  
+    Emperor of the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>) (DR 980 - DR 991)  
     { .bio }
 
-    Lived in [Drankor](<../../../history/drankorian-era/drankor.md>), the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>)
+    Lived in [Drankor](<../../../history/drankorian-empire/drankor.md>), the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>)
 </div>
 
 

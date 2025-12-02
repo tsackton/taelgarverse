@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim, status/cleanup/map]
+tags: [place, status/cleanup/map]
 typeOf: region
 whereabouts:
 - {type: home, location: Taelgar, linkText: in}
@@ -29,7 +29,7 @@ Few have mapped this region, and little is known about the lands. A few features
 * A river system that drains from the range of mountains north of the [Ket](<../northern-green-sea/rivers/ket.md>) to the eastern [Green Sea](<../green-sea.md>)
 
 ## Civilizations and Cultures
-Although rumors persist of kenku flying across the nothern steppe, few can say where exactly these winged creatures live. 
+Although rumors persist of [kenku](<../../creatures/species/kenku.md>) flying across the nothern steppe, few can say where exactly these winged creatures live. 
 ## Climate
 This region of Taelgar is nearly entirely within the subpolar or polar climates, a mix of [vast subarctic forests](https://geodiode.com/climate/subarctic) and [barren tundra](https://geodiode.com/climate/tundra). But few rumors or tales come to the south from these regions, and in the distant north, who knows what strange magic may sustain life in unlikely places?
 ## Major Historical Eras

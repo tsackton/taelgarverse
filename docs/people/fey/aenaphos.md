@@ -16,7 +16,7 @@ title: Aenaphos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/extraplanar/fey.md>) (he/him)  
+    A [fey](<../../creatures/fey/fey.md>) (he/him)  
     { .bio }
 
     Based in [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)

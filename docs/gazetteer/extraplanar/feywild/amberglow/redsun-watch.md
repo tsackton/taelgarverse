@@ -11,7 +11,7 @@ title: Redsun Watch
 ---
 # Redsun Watch
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Fey](<../../../../species/extraplanar/fey.md>) keep in [Amberglow](<./amberglow.md>), the [Feywild](<../../../../cosmology/feywild.md>), [Multiverse](<../../../../cosmology/multiverse.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Fey](<../../../../creatures/fey/fey.md>) keep in [Amberglow](<./amberglow.md>), the [Feywild](<../../../../cosmology/feywild.md>), [Multiverse](<../../../../cosmology/multiverse.md>)  
 </div>
 
 

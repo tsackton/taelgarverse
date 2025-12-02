@@ -21,14 +21,14 @@ title: Kethra Silverspark
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (she/her), of the [Silverspark Clan](<../../groups/dwarven-clans/silversparks.md>)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of the [Silverspark Clan](<../../groups/dwarven-clans/silversparks.md>)  
     Born DR 1701 (48 years old)  
     { .bio }
 
     Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently [Vindristjarna](<../../things/ships/vindristjarna.md>)
+:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
 
 
 ![Kethra Final Option1](../../assets/kethra-final-option1.png){align="right"; width="400"}Kethra Silverspark, great-grandaughter of [Nora Silverspark](<./nora-silverspark.md>), is a proud dwarven smith and novice adventurer from [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). 

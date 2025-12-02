@@ -9,5 +9,5 @@ title: Treaty of Valarin
 ---
 # The Treaty of Valarin
 
-A treaty between the [Istabor Alliance](<../../../history/istabor-alliance.md>) and [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) establishing boundaries.
+A treaty between the [Istabor Alliance](<../../../history/historical-realms/istabor-alliance.md>) and [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) establishing boundaries.
 

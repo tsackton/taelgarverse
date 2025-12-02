@@ -21,4 +21,4 @@ title: Fellburn
 </div>
 
 
-A populous and fortified town along the [Enst](<../../rivers/wistel-enst-watershed/enst.md>), it was historically the "second city" of the Enst, smaller than [Rinburg](<../barony-of-aveil/rinburg.md>). However, since the [hobgoblin wars](<../../../../history/third-hobgoblin-war-sembara.md>), Fellburn has grown substantially and has overtaken [Rinburg](<../barony-of-aveil/rinburg.md>) to become the largest city along the Enst. 
+A populous and fortified town along the [Enst](<../../rivers/wistel-enst-watershed/enst.md>), it was historically the "second city" of the Enst, smaller than [Rinburg](<../barony-of-aveil/rinburg.md>). However, since the [hobgoblin wars](<../../../../events/1600s/third-hobgoblin-war-sembara.md>), Fellburn has grown substantially and has overtaken [Rinburg](<../barony-of-aveil/rinburg.md>) to become the largest city along the Enst. 

@@ -21,7 +21,7 @@ title: Brelith Shockstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../../species/dwarves.md>) (he/him), of the [Shockstones](<../../../groups/dwarven-clans/shockstones.md>)  
+    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Shockstones](<../../../groups/dwarven-clans/shockstones.md>)  
     Born DR 1707 (42 years old)  
     Member of the [Silver Tempests](<./silver-tempests.md>), and the [Priest Thuhr](<../../../groups/dwarven-thuhr/priest-thuhr.md>)  
     { .bio }

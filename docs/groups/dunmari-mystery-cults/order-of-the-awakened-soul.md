@@ -19,7 +19,7 @@ title: Order of the Awakened Soul
 The mystery cult dedicated to the Dunmari god [Bhishma](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>). Dedicated to collecting the stories of the Dunmari, preserving the memories of the people of Dunmar, and making sure the  souls of the dead are not forgotten and lost. 
 
 
-After the [Great War](<../../events/1500s/great-war.md>), the Order was one of the few who remained as much as they could in the [Nashtkar](<../../gazetteer/greater-dunmar/dunmari-basin/nashtkar.md>), as most Dunmari fled west. They made it their mission to find the many souls lost and wandering, unable to reach the [Land of the Dead](<../../cosmology/land-of-the-dead.md>), and help them find peace.
+After the [Great War](<../../events/1500s/great-war.md>), the Order was one of the few who remained as much as they could in the [Nashtkar](<../../gazetteer/greater-dunmar/hara-basin/nashtkar.md>), as most Dunmari fled west. They made it their mission to find the many souls lost and wandering, unable to reach the [Land of the Dead](<../../cosmology/land-of-the-dead.md>), and help them find peace.
 
 In the early 1700s, explorers and travelers from the Order reached as far as Drankor, and discovered [Rai](<../../people/pcs/great-war/rai.md>), who spoke of the evil spreading from the wounds [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>) left in the world. 
 

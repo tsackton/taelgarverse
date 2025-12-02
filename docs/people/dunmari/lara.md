@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person, status/cleanup/metadata]
 name: Lara
-born: 1707
+born: 1688
 species: human
 title: Speaker Lara
 ancestry: Dunmari
@@ -17,8 +17,8 @@ dm_owner: tim
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (she/her)  
-    Born DR 1707 (42 years old)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1688 (61 years old)  
     Speaker of the [Lakan Mystai](<../../groups/dunmari-mystery-cults/lakan-mystai.md>)  
     { .bio }
 
@@ -27,3 +27,4 @@ dm_owner: tim
 
 
 The leader of the [Lakan Mystai](<../../groups/dunmari-mystery-cults/lakan-mystai.md>) in Tokra.
+

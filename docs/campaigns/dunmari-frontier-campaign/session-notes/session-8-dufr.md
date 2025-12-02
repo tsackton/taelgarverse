@@ -17,9 +17,9 @@ title: Dunmari Frontier - Session 8
 > *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: Apr 12, 1748 DR*
 > *On Earth: Thursday Sep 03, 2020*
-> *[Ruined Dwarven Outpost](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>)*
+> *[Ruined Dwarven Outpost](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>)*
 
-The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) uncovers a secret mountain passage and combats a roper to gain passage through the [ruined Dwarven trading post](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>).
+The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) uncovers a secret mountain passage and combats a roper to gain passage through the [ruined Dwarven trading post](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>).
 
 ## Session Info
 ### Summary
@@ -31,14 +31,14 @@ The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.
 - The party engages in combat with a roper, struggling initially but ultimately triumphing by exploiting its limited mobility.
 
 ### Timeline
-- Apr 12, 1748 DR, noon: Find Dwarven back door to the [Dwarven Outpost (Raven's Hold)](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>), and enter via tunnel. 
-- Apr 12, 1748 DR, early afternoon: Meet [Inakara](<../../../people/other-nonhumans/inakara.md>) and the twisted creatures that now make the [ruined Dwarven trading post](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>) here home. Fight and kill a roper.
+- Apr 12, 1748 DR, noon: Find Dwarven back door to the [Dwarven Outpost (Raven's Hold)](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>), and enter via tunnel. 
+- Apr 12, 1748 DR, early afternoon: Meet [Inakara](<../../../people/other-nonhumans/inakara.md>) and the twisted creatures that now make the [ruined Dwarven trading post](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>) here home. Fight and kill a roper.
 
 
 ## Narrative
-The session begins on the road, at the edge of the mountains, with the party contemplating their next move. After some discussion of the relative merits of trying the front door, or searching in the mountains for a back door, either over the cliffs or via the hidden exit from the [dwarven outpost](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>) marked on [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)’s maps, the party decides to try the mountain route. Heading east, the party aims for a mountain valley just to the west of [Raven's Hold](<../../../gazetteer/greater-dunmar/dunmari-basin/raven-s-hold.md>), hoping to find a route through or over and thus avoid the plains of cursed insanity vines encountered by [Ander Charmheart](<../../../people/halflings/ander-charmheart.md>) to ill effect.
+The session begins on the road, at the edge of the mountains, with the party contemplating their next move. After some discussion of the relative merits of trying the front door, or searching in the mountains for a back door, either over the cliffs or via the hidden exit from the [dwarven outpost](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>) marked on [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)’s maps, the party decides to try the mountain route. Heading east, the party aims for a mountain valley just to the west of [Raven's Hold](<../../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>), hoping to find a route through or over and thus avoid the plains of cursed insanity vines encountered by [Ander Charmheart](<../../../people/halflings/ander-charmheart.md>) to ill effect.
 
-[Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s map of the [Dwarven Outpost (Raven's Hold)](<../../../gazetteer/greater-dunmar/dunmari-basin/dwarven-outpost-raven-s-hold.md>):
+[Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s map of the [Dwarven Outpost (Raven's Hold)](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>):
 
 ![Raven Hold Dwarves](../../../assets/raven-hold-dwarves.png)
 

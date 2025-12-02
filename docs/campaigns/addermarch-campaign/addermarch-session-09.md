@@ -17,28 +17,28 @@ title: Addermarch Campaign - Session 9
 > *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
 > *In Taelgar: May 13, 1715 DR*
 > *On Earth: Sunday Jan 19, 2025*
-> *West Stonewolds Caves*
+> *[West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>)*
 
-The party explores dangerous caverns, retrieves uligium, meets Zibzig Sparkscale, and defeats a cave fisher to aid him.
+The party explores dangerous caverns, retrieves uligium, meets [Zibzig Sparkscale](<../../people/other-nonhumans/zibzig-sparkscale.md>), and defeats a cave fisher to aid him.
 
 ## Timeline
 
 - **May 13, 1715 DR, mid-afternoon:** Leaving the ooze chamber, the party enters a rubble-strewn cavern; the floor collapses under [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>), revealing a mushroom-lit farm below. After scouting the party slides down the flowstone to a large oblong cave. A crawl-tunnel high in the wall leads to a poison-filled nook rich in **uligium**.
-- **May 13, 1715 DR, late afternoon:** While wandering through twisting passages, [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>)’s mapwork proving unreliable, a booming voice claims the domain of the “Master of Light and Shadow.” Parley reveals **Zibzig Sparkscale**, a kobold inventor.
-- **May 13, 1715 DR, evening:** Agreeing to help Zibzig Sparkscale defeat the monster blocking the river, the party fights a huge cave-fisher crab. Dodging its sticky filament, they slay the monster quickly. They spend the night in Zibzig’s cozy, gadget-filled two-room lair, resting for further exploration.
+- **May 13, 1715 DR, late afternoon:** While wandering through twisting passages, [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>)’s mapwork proving unreliable, a booming voice claims the domain of the “Master of Light and Shadow.” Parley reveals **[Zibzig Sparkscale](<../../people/other-nonhumans/zibzig-sparkscale.md>)**, a kobold inventor.
+- **May 13, 1715 DR, evening:** Agreeing to help [Zibzig Sparkscale](<../../people/other-nonhumans/zibzig-sparkscale.md>) defeat the monster blocking the river, the party fights a huge cave-fisher crab. Dodging its sticky filament, they slay the monster quickly. They spend the night in Zibzig’s cozy, gadget-filled two-room lair, resting for further exploration.
 
 ## Cast of Characters
 
-- **[Drou](<../../people/pcs/addermarch/drou.md>)** – [elven](<../../species/elves.md>) bard-monk; deft climber and summoner of an _Unseen Servant_
-- **[Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)** – [human](<../../species/humans.md>) warlock-alchemist; flawless diver and rope-handler
-- **[Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>)** – [halfling](<../../species/halflings.md>) wild-magic sorcerer; cartographer of questionable talent    
-- **Zibzig Sparkscale** – eccentric [kobold](<../../species/unusual-species/kobolds.md>) “Master of Light and Shadow,” aspiring arcane inventor
+- **[Drou](<../../people/pcs/addermarch/drou.md>)** – [elven](<../../creatures/species/elves.md>) bard-monk; deft climber and summoner of an _Unseen Servant_
+- **[Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)** – [human](<../../creatures/species/humans.md>) warlock-alchemist; flawless diver and rope-handler
+- **[Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>)** – [halfling](<../../creatures/species/halflings.md>) wild-magic sorcerer; cartographer of questionable talent    
+- **[Zibzig Sparkscale](<../../people/other-nonhumans/zibzig-sparkscale.md>)** – eccentric [kobold](<../../creatures/species/kobolds.md>) “Master of Light and Shadow,” aspiring arcane inventor
 - **Cave Fisher** – massive crab-like predator lurking above the underground river
 - **Shrieker Mushrooms** – living alarm fungi that scream when disturbed
 
 ## Places
 
-- **West Stonewolds Caves** – sprawling subterranean network where all events occur
+- **[West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>)** – sprawling subterranean network where all events occur
 
 ## Narrative
 
@@ -50,6 +50,6 @@ Flying into the mushroom cavern, the pseudodragon finds what looks like a farm. 
 
 After returning to the party, the group continues exploring, shortly finding themselves at the top of the flowstone, looking down. While [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) and [Drou](<../../people/pcs/addermarch/drou.md>) slide down, [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>) does a perfect dive into the pool. The party continues to the west, entering another large oblong cavern. [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>), searching for anything interesting, finds a crawlspace near the ceiling with a tunnel. The pseudodragon scouts, and briefly succumbs to poison gas in a small chamber at the end of the crawlspace tunnel, but notes that there is uligium there. The party struggles to climb the cave walls, with [Drou](<../../people/pcs/addermarch/drou.md>) and [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) both falling, but [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>) is able to reach the top and anchors a rope, which provides a platform which [Drou](<../../people/pcs/addermarch/drou.md>) can use to summon an *Unseen Servant* to fetch the uligium. 
 
-Leaving the main cavern, the party gets slightly lost due to [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>)'s poor attempt at a map. They find themselves in a cavern, from which a booming voice yells, asking who dares disturb the home of the Master of Light and Shadow! The voice argues briefly, and the party talks, eventually convincing the owner of the voice, a [kobold](<../../species/unusual-species/kobolds.md>) named Zibzig Sparkscale who describes himself as a brilliant inventor working to create novel magic, to reveal himself. 
+Leaving the main cavern, the party gets slightly lost due to [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>)'s poor attempt at a map. They find themselves in a cavern, from which a booming voice yells, asking who dares disturb the home of the Master of Light and Shadow! The voice argues briefly, and the party talks, eventually convincing the owner of the voice, a [kobold](<../../creatures/species/kobolds.md>) named [Zibzig Sparkscale](<../../people/other-nonhumans/zibzig-sparkscale.md>) who describes himself as a brilliant inventor working to create novel magic, to reveal himself. 
 
 From Zibzig, the party learns that there is a predator -- a giant cave fisher, a crab-like creature -- hanging over the river, preventing Zibzig from traveling the underground river in his boat. The party agrees to destroy the predator for Zibzig. A fight ensues, but the party is able to relatively easily dodge the dangling snare of the cave fisher, and dispatches it quickly. We end as the battle wraps up and the party spends the night with Zibzig in his cozy two-room furnished lair. 

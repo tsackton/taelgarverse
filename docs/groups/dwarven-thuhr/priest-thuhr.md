@@ -11,7 +11,7 @@ title: Priest Thuhr
 # The Priest Thuhr
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A [dwarven](<../../species/dwarves.md>) thuhr  
+   :octicons-info-24:{ .lg .middle } A [dwarven](<../../creatures/species/dwarves.md>) thuhr  
 </div>
 
 

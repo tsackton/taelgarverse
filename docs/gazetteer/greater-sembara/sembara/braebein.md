@@ -19,3 +19,4 @@ title: Braebein
 The Braebein forms the western and northern borders of the [Duchy of Arnsbury](<heartlands/duchy-of-arnsbury.md>), and marks the beginning of the long climb of land towards the [Sentinels](<../../sentinel-range.md>) that distinguishes the Sembaran [Highlands](<highlands/highlands.md>) and [Zimkova](<../zimkova/zimkova.md>).
 
 The hills are a productive source of silver and marble. 
+

@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, religion/zariya, status/check/name]
+tags: [background, religion/zariya]
 dm_notes: important
 dm_owner: tim
+pronunciation: ZAH-ree-yah
 title: Zariya
 ---
 # Zariya
+:speaker:{ .middle } *(ZAH-ree-yah)*  
 
 
 

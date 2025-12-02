@@ -16,7 +16,7 @@ title: Essfords
 </div>
 
 
-A minor landholding family in the [Enst River Valley](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst.md>). The founder of the family, [Reginald Essford](<../../people/historical-figures/reginald-essford.md>), came to prominence during the [hobgoblin wars](<../../history/third-hobgoblin-war-sembara.md>) for valor in battle as a member of [Cece I's](<../../people/historical-figures/sembaran-royalty/cece-i.md>) [Radiant Alliance](<../radiant-alliance.md>). The Essfords have been well-loved in the [Cleenseau Region](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-region.md>) for several generations now.
+A minor landholding family in the [Enst River Valley](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst.md>). The founder of the family, [Reginald Essford](<../../people/historical-figures/reginald-essford.md>), came to prominence during the [hobgoblin wars](<../../events/1600s/third-hobgoblin-war-sembara.md>) for valor in battle as a member of [Cece I's](<../../people/historical-figures/sembaran-royalty/cece-i.md>) [Radiant Alliance](<../radiant-alliance.md>). The Essfords have been well-loved in the [Cleenseau Region](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-region.md>) for several generations now.
 
 
 

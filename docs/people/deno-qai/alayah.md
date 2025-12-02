@@ -17,7 +17,7 @@ title: Alayah
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../species/humans.md>) (she/her)  
+    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1725 (24 years old)  
     { .bio }
 

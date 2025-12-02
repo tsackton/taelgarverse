@@ -14,7 +14,7 @@ title: Cleenseau Region
 </div>
 
 
-The four manors of [Cleenseau](<./manor-of-cleenseau.md>), [Valit](<./manor-of-valit.md>), [Beury](<./manor-of-beury.md>), and [Asineau](<./manor-of-asineau.md>) form a relatively isolated part of the [Barony of Aveil](<../barony-of-aveil.md>), anchored by the market town of [Cleenseau](<cleenseau/cleenseau.md>) and its ancient and famous bridge - the only bridge along the [Enst](<../../../rivers/wistel-enst-watershed/enst.md>) until [Eskbridge](<../../heartlands/eskbridge.md>), far to the east - and the only safe crossing for many miles. Perhaps without the bridge the region would have faded away after the [hobgoblin wars](<../../../../../history/third-hobgoblin-war-sembara.md>), but the bridge and the transportation nexus it creates supports a [garrison](<../../../../../groups/sembaran-army/army-garrison-of-cleenseau.md>) and market much larger than might be expected. Around these the town of [Cleenseau](<cleenseau/cleenseau.md>) thrives. 
+The four manors of [Cleenseau](<./manor-of-cleenseau.md>), [Valit](<./manor-of-valit.md>), [Beury](<./manor-of-beury.md>), and [Asineau](<./manor-of-asineau.md>) form a relatively isolated part of the [Barony of Aveil](<../barony-of-aveil.md>), anchored by the market town of [Cleenseau](<cleenseau/cleenseau.md>) and its ancient and famous bridge - the only bridge along the [Enst](<../../../rivers/wistel-enst-watershed/enst.md>) until [Eskbridge](<../../heartlands/eskbridge.md>), far to the east - and the only safe crossing for many miles. Perhaps without the bridge the region would have faded away after the [hobgoblin wars](<../../../../../events/1600s/third-hobgoblin-war-sembara.md>), but the bridge and the transportation nexus it creates supports a [garrison](<../../../../../groups/sembaran-army/army-garrison-of-cleenseau.md>) and market much larger than might be expected. Around these the town of [Cleenseau](<cleenseau/cleenseau.md>) thrives. 
 
 ### Physical Landscape
 
@@ -54,14 +54,3 @@ Wood and charcoal are widely available, mostly from the edges of the [Cleenseau 
 The central channels of the Enst, although swift flowing, have good, fine, sandy bottoms, but the sand is not currently exploited as retrieval is a bit of a challenge. Clay is available in small quantities along the river in places, and is used for wattle and daub houses and some small local ceramic production, but most pottery is imported from Rinburg.  
 
 Good stone is not widely available although there is a small industry in Beury collecting hearthstones and bricks from the haunted villages in the bog, and also a good stone quarry on the south side of the Enst that is controlled by Rosalind and her family, although it is not active constantly.
-
-  
-
-
-**Tavoise**
-
-A tiny hamlet. Mostly supports itself with the charcoal trade. Also a source of tree nuts and apples and plums for Cleenseau, and there are several pig farmers. 
-
-  
-
-I haven't done the same writeup for Asineau but I envision it as the poorest of the three villages. I think my other emails are largely accurate although there is room for refinement given the above (i.e. there is probably hemp cultivation and a larger rope/basket industry than one lone ropemaker, there might be some additional cottage industries, etc)

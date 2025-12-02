@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
 name: Suhaya
 whereabouts: Mawar Confederacy
 typeOf: town
@@ -14,3 +14,4 @@ title: Suhaya
 </div>
 
 
+The largest town at the mouth of the [Sulqat](<../rivers/sulqat.md>) River. A busy port for the [Mawar Confederacy](<./mawar-confederacy.md>), sustained by salmon runs and river trade to the interior. 

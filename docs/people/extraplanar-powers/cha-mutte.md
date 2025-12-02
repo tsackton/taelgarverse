@@ -15,7 +15,7 @@ title: Cha'mutte
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dragon](<../../species/unusual-species/dragons.md>) (elder wyrm) (he/him)  
+    A [dragon](<../../creatures/species/dragons.md>) (elder wyrm) (he/him)  
     Died DR 1545  
     { .bio }
 
@@ -29,3 +29,4 @@ An elder wyrm, one of the original children of the [Divine Presence](<../../gods
 Sought to overthrow the gods, breaking the order of things that has held since the [Riving](<../../events/ancient/riving.md>), freeing the elder races from the binds and power of the Embodied Gods. 
 
 Cha'mutte was defeated by the [Heroes of the Great War](<../pcs/great-war/heroes-of-the-great-war.md>) at the Battle of Urlich Pass
+

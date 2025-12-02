@@ -22,8 +22,8 @@ title: Viepuck
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../species/humans.md>) (he/him)  
-    Born October 1st, 1706 (42 years old)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
+    Born October 1st, 1706 (43 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     { .bio }
 
@@ -99,9 +99,4 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 > ![Sarlana Screenshot 1](../../../assets/sarlana-screenshot-1.png)
 
 ### Items
-| Image                                              | Name                                                                                                | Type    | Mechanics                                                                      |
-| -------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------ |
-| ![Pipes of Insect Control](../../../assets/pipes-of-insect-control.png)       | [Pipes of Insect Control](<../../../Campaigns/Cleenseau Campaign/Treasure/Pipes of Insect Control.md>)       | pipes   | \-                                                                             |
-| ![Circlet of Telepathy](../../../assets/circlet-of-telepathy.png)          | [Circlet of Telepathy](<../../../Campaigns/Cleenseau Campaign/Treasure/Circlet of Telepathy.md>)             | circlet | \-                                                                             |
-| ![Boots of False Tracks Viepuck](../../../assets/boots-of-false-tracks-viepuck.png) | [Boots of False Tracks](<../../../Campaigns/Cleenseau Campaign/Treasure/Boots of False Tracks (Viepuck).md>) | boots   | [Reference](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks) |
 

@@ -19,7 +19,7 @@ title: Sh’shethis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elemental](<../../species/extraplanar/elementals.md>)  
+    An [elemental](<../../creatures/extraplanar/elementals.md>)  
     { .bio }
 
     Based in the [Elemental Plane of Air](<../../cosmology/energy-realms/elemental-plane-of-air.md>), the [Energy Realms](<../../cosmology/energy-realms/energy-realms.md>)
@@ -32,4 +32,4 @@ title: Sh’shethis
 
 
 
-A strange creature of elemental air who was bound to the Elemental Forge in the Edge of Echoes for over 1000 years. Freed in DR 1749 by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 
+A strange creature of elemental air who was bound to the Elemental Forge in the [Edge of Echoes](<../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>) for over 1000 years. Freed in DR 1749 by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 

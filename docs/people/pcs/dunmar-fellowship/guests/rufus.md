@@ -17,7 +17,7 @@ title: Rufus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A kenku (he/him)  
+    A [kenku](<../../../../creatures/species/kenku.md>) (he/him)  
     { .bio }
 
 </div>

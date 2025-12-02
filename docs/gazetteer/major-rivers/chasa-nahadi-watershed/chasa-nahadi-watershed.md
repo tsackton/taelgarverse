@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: region
+typeOf: watershed
+whereabouts: Taelgar
 dm_notes: none
 dm_owner: tim
 title: Chasa Nahadi Watershed
 ---
 # The Chasa-Nahadi Watershed
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-    :octicons-location-24:{ .lg .middle } A watershed Taelgar  
+</div>
+
 
 The Chasa-Nahadi watershed is a vast river system that drains the interior basin of the western [Sentinels](<../../sentinel-range.md>). Geographically, this watershed is composed of three distinct areas:
 

@@ -21,7 +21,7 @@ title: Adrik Boulderbeard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../../species/dwarves.md>) (he/him), of the [Boulderbeards](<../../../groups/dwarven-clans/boulderbeards.md>)  
+    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Boulderbeards](<../../../groups/dwarven-clans/boulderbeards.md>)  
     Born DR 1660 (89 years old)  
     Member of the [Silver Tempests](<./silver-tempests.md>), and the [Stoneworker Thuhr](<../../../groups/dwarven-thuhr/stoneworker-thuhr.md>)  
     { .bio }
@@ -31,7 +31,7 @@ title: Adrik Boulderbeard
 </div>
 
 
-Adrik was born in [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the Dwarven kingdom in the [Yuvanti Mountains](<../../../gazetteer/greater-dunmar/yuvanti-mountains.md>), to a small branch of the [Boulderbeards](<../../../groups/dwarven-clans/boulderbeards.md>), living near the surface and tending goats and sheep on the high peaks. He was the oldest of three children, and the wildest, spending his childhood outside and away from the cities below. Adrik loved the high mountain peaks and open skies of his home, the small dwarven village of Narazara. 
+Adrik was born in [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the Dwarven kingdom in the [Yuvanti Mountains](<../../../gazetteer/greater-dunmar/yuvanti-mountains.md>), to a small branch of the [Boulderbeards](<../../../groups/dwarven-clans/boulderbeards.md>), living near the surface and tending goats and sheep on the high peaks. He was the oldest of three children, and the wildest, spending his childhood outside and away from the cities below. Adrik loved the high mountain peaks and open skies of his home, the small dwarven village of [Narazara](<../../../gazetteer/greater-dunmar/realms/nardith/narazara.md>). 
  
 As a boy in the mountains, Adrik caught the attention of Morgana Stoneclaw, an annis hag. She appeared to him as a elderly Dwarven woman, slowly getting him to do worse and worse things, until one day he ran off from home in a rage, and in his anger saw through the hag's illusion and had a vision of her true form. He ran off shouting "It's a monster!" Morgana Stoneclaw was driven off by the villagers, and Adrik recovered, but the experience left him forever suspicious of authority. 
 
@@ -44,5 +44,5 @@ Adrik, convinced this was the act of Morgana Stoneclaw, seeking revenge for his 
 - 1660 DR: Adrik is born in a small near-surface village in [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>)
 - 1673 DR: Adrik meets Morgana Stoneclaw for the first time
 - 1675 DR: Adrik reveals Morgana Stoneclaw's true form and she is driven off by his parents and the village
-- 1746 DR: Pestilence destroys Narazara
+- 1746 DR: Pestilence destroys [Narazara](<../../../gazetteer/greater-dunmar/realms/nardith/narazara.md>)
 - Nov 17, 1746 DR: Adrik leaves home to seek his fortune and revenge

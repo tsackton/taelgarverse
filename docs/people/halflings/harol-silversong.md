@@ -11,7 +11,7 @@ ancestry:
 gender: male
 affiliations:
 - {org: Silversongs, type: primary}
-- {place: Emerald Song, title: Captain, start: 1}
+- {org: Emerald Song, title: Captain, start: 1, type: leader}
 whereabouts:
 - {location: Emerald Song, type: home, prefix: sailing}
 dm_owner: none
@@ -22,7 +22,7 @@ title: Harol Silversong
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/halflings.md>) (he/him), of the [Silversongs](<../../groups/halfling-families/silversongs.md>)  
+    A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Silversongs](<../../groups/halfling-families/silversongs.md>)  
     Captain of the [Emerald Song](<../../things/ships/emerald-song.md>)  
     { .bio }
 

@@ -17,7 +17,7 @@ title: Jela Drask
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../species/humans.md>) (she/her)  
+    An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Member of [Rodnya Nivik](<../../groups/urskan-magical-organizations/rodnya-nivik.md>)  
     { .bio }
 
@@ -25,4 +25,4 @@ title: Jela Drask
 </div>
 
 
-Jela is a wizard and member of the [Rodnya Nivik](<../../groups/urskan-magical-organizations/rodnya-nivik.md>), based in Zvervinka. 
+Jela is a wizard and member of the [Rodnya Nivik](<../../groups/urskan-magical-organizations/rodnya-nivik.md>), based in [Zvervinka](<../../gazetteer/northern-green-sea/ursk/zvervinka.md>). 

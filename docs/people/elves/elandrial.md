@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/cleanup/campaigninfo]
+tags: [person, historical]
 campaignInfo:
+- {campaign: DuFr, type: heard about him, date: 1749-01-08, wParty: '<person:U> <met> on <target>'}
 name: Elandrial
 born:
 died: 1
@@ -22,7 +23,7 @@ title: Elandrial
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/elves.md>) (he/him), ([ka](<../../background/elven-cycle-of-generations.md>) unknown)  
+    An [elf](<../../creatures/species/elves.md>) (he/him), ([ka](<../../background/elven-cycle-of-generations.md>) unknown)  
     Died  
     Member of [Fides Lucaris](<../../groups/drankorian-societies/fides-lucaris.md>)  
     { .bio }
@@ -31,6 +32,8 @@ title: Elandrial
 </div>
 
 
+
+:octicons-location-24:{ .lg .middle } The [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) heard about him on January 8th, 1749  
 
 
 A elf who was active during the Drankorian Era. Participated in attempts to decipher the [Enchiridion of the Occulta Ludum](<../../things/books/enchiridion-of-the-occulta-ludum.md>).

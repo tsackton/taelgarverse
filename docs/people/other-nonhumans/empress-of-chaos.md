@@ -19,7 +19,7 @@ title: Empress of Chaos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A hobgoblin (she/her)  
+    A [hobgoblin](<../../creatures/species/hobgoblins.md>) (she/her)  
     { .bio }
 
     Originally from: Unknown

@@ -21,12 +21,12 @@ title: Amar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Born DR 1710 (39 years old)  
     Master of the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>)  
     { .bio }
 
-    Originally from: the [Hara River Valley](<../../gazetteer/greater-dunmar/dunmari-basin/hara-river-valley.md>), the [Dunmari Basin](<../../gazetteer/greater-dunmar/dunmari-basin/dunmari-basin.md>)
+    Originally from: the Hara River Valley
     Based in the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>), on the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 

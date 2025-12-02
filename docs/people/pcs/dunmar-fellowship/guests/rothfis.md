@@ -17,7 +17,7 @@ title: Rothfis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../../../species/dwarves.md>)  
+    A [dwarf](<../../../../creatures/species/dwarves.md>)  
     { .bio }
 
     Based in [Chardon](<../../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

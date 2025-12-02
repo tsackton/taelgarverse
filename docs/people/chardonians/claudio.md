@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/campaigninfo]
-campaignInfo: []
+tags: [person]
+campaignInfo:
+- {campaign: DuFr, type: mentioned to, date: 1749-01-08, wParty: '<met:U> <person> on <target>'}
 name: Claudio
 born: 1719
 species: human
@@ -18,12 +19,16 @@ title: Claudio
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Born DR 1719 (30 years old)  
     { .bio }
 
     Based in [Luminatia](<../../gazetteer/greater-chardon/chardonian-empire/luminatia.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
+
+
+
+:octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 8th, 1749  
 
 
 

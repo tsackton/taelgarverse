@@ -10,7 +10,7 @@ title: Dhrukmir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../species/unusual-species/giants.md>)  
+    A [giant](<../../creatures/species/giants.md>)  
     { .bio }
 
 </div>

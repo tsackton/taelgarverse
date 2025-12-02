@@ -14,7 +14,7 @@ title: Harrow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [archfey](<../../../species/extraplanar/fey.md>) (he/him)  
+    An [archfey](<../../../creatures/fey/fey.md>) (he/him)  
     { .bio }
 
     Based in [Darkfall](<../../../gazetteer/extraplanar/feywild/darkfall.md>), the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)

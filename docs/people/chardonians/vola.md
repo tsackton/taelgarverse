@@ -6,7 +6,8 @@ born: 1721
 species: human
 ancestry: Chardonian
 gender: female
-affiliations: [Society of the Open Scroll]
+affiliations:
+- {org: Society of the Open Scroll, type: member}
 whereabouts:
 - {type: home, start: '', end: '', location: Chardon}
 - {type: away, start: 1748-11-23, end: '', prefix: travelling in, location: Dunmar}
@@ -19,7 +20,7 @@ title: Vola Forena
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (she/her)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1721 (28 years old)  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
@@ -27,12 +28,8 @@ title: Vola Forena
     Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), [Vindristjarna](<../../things/ships/vindristjarna.md>)
+:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>)
 
-
-
-## Overview
-![Vola](../../assets/vola.png){align="right"; width="300"}A Chardonian adventurer, treasure hunter, and sellsword.
 
 Vola was born on the streets of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), living a life of squalor, disease, and poverty. She grew up in the [Riverside](<../../gazetteer/greater-chardon/chardonian-empire/chardon/riverside-quarter.md>) slurms, near the chalyte refineries.  Eventually, she was discovered by [Agon](<./agon.md>), who helped her grow into her power and fulfill her potential.  She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [Agon](<./agon.md>) and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 
 
@@ -55,7 +52,7 @@ She is dedicated to the cause of the [Society of the Open Scroll](<../../groups/
 - 2 Apr 1748: Vola captured at Raven's Hold. 
 - 12 Apr 1748: Rescued from captivity in Raven's Hold by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
 - 12 Apr - 16 Apr 1748: Travels with [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
-- 16 Apr 1748: Leaves [Stormcaller Tower](<../../gazetteer/greater-dunmar/dunmari-basin/stormcaller-tower.md>) with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) for Tokra, saying goodbye to [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+- 16 Apr 1748: Leaves [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>) with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) for Tokra, saying goodbye to [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
 - 26 Apr 1748: Arrives in Tokra. Parts ways with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>). Stays at [Kirian's](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirian-s.md>). 
 
 - 21 Aug 1748: Meets [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Chardon at [The Thirsty Scholar](<../../gazetteer/greater-chardon/chardonian-empire/chardon/the-thirsty-scholar.md>); reports on news and makes introductions to [Dee Wildcloak](<../halflings/dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>).  

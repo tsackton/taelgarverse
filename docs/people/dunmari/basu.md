@@ -19,7 +19,7 @@ title: Basu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Born DR 1705 (44 years old)  
     Member of the [Lakan Mystai](<../../groups/dunmari-mystery-cults/lakan-mystai.md>)  
     { .bio }
@@ -41,4 +41,6 @@ The grumpy craftsman of the Lakan monks, known for creating magic items that cha
 Romantically involved with [Kassi](<./kassi.md>), although not formally married. 
 
 
-Constructed a the [Portable Hole](<../../campaigns/dunmari-frontier-campaign/treasure/portable-hole.md>) for the Dunmar Fellowship, after they helped him gather extraplanar energy of [Arborea](<../../cosmology/spiritual-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/dunmari-basin/elven-arborea-workshop.md>) beneath the monastery. 
+Constructed a the [Portable Hole](<../../campaigns/dunmari-frontier-campaign/treasure/portable-hole.md>) for the Dunmar Fellowship, after they helped him gather extraplanar energy of [Arborea](<../../cosmology/spiritual-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/hara-basin/elven-arborea-workshop.md>) beneath the monastery. 
+
+

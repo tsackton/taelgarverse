@@ -21,7 +21,7 @@ title: Aritza
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [lizardfolk](<../../species/lizardfolk.md>) (he/him)  
+    A [lizardfolk](<../../creatures/species/lizardfolk.md>) (he/him)  
     Born DR 1636 (113 years old)  
     { .bio }
 

@@ -14,3 +14,4 @@ title: Leviathan Inn
 </div>
 
 
+An inn in [Hamri](<./hamri.md>).

@@ -24,7 +24,7 @@ Kenzo and his lizardfolk allies meet Somi-nai, the volcano spirit, and learn abo
 
 ## Session Info
 ### Summary
-- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) joins forces with [lizardfolk](<../../../species/lizardfolk.md>) heroes [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>) and [Enari](<../../../people/lizardfolk/enari.md>) to restore balance to the [Azta Lekua](<../../../gazetteer/faraway-places/azta-lekua.md>).
+- [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) joins forces with [Lizardfolk](<../../../creatures/species/lizardfolk.md>) heroes [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>) and [Enari](<../../../people/lizardfolk/enari.md>) to restore balance to the [Azta Lekua](<../../../gazetteer/faraway-places/azta-lekua.md>).
 - The party, guided by [Enari](<../../../people/lizardfolk/enari.md>), journeys uneventfully before encountering a river of lava and fire creatures.
 - They battle a flaming ankylosaur and fire wasps to aid the fire spirit, [Somi-nai](<../../../people/fey/somi-nai.md>), the volcano's personification.
 - [Somi-nai](<../../../people/fey/somi-nai.md>) explains the disturbance at the Footprint of the Gods is due to [Motua](<../../../people/extraplanar-powers/motua.md>), a guardian from the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>).

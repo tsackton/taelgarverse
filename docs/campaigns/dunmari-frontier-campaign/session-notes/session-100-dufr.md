@@ -17,7 +17,7 @@ title: Dunmari Frontier - Session 100
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
 > *In Taelgar: May 11, 1749 DR*
 > *On Earth: Tuesday May 28, 2024*
-> *[Merfolk](<../../../species/unusual-species/merfolk.md>) city of [Omi](<../../../gazetteer/faraway-places/omi.md>)*
+> *Merfolk city of [Omi](<../../../gazetteer/faraway-places/omi.md>)*
 
 The Dunmar Fellowship scouts the underwater city of Omi, locates a portal, and formulates a plan to bypass its guardian.
 
@@ -32,7 +32,7 @@ The Dunmar Fellowship scouts the underwater city of Omi, locates a portal, and f
 - They find signs of occupation and nearly alert the guardian while scouting the building.
 
 ### Timeline
-- May 11, 1749 DR, morning: Pass through the Sentient Ocean guarding the [Merfolk](<../../../species/unusual-species/merfolk.md>) city of [Omi](<../../../gazetteer/faraway-places/omi.md>). Scout the city. Find a portal to the [Elemental Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>). Plan how to get past the guardian. 
+- May 11, 1749 DR, morning: Pass through the Sentient Ocean guarding the Merfolk city of [Omi](<../../../gazetteer/faraway-places/omi.md>). Scout the city. Find a portal to the [Elemental Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>). Plan how to get past the guardian. 
 ## Narrative
 The session begins underwater, as the party begins to sink, the water growing darker and more surreal as the party descends below the surface, using their magical gills from [Kazuro](<../../../people/other-nonhumans/kazuro.md>)'s potion to breath (except [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), who has his cloak of the mantra ray). 
 
@@ -46,7 +46,7 @@ Seeker takes out his Wand of Detect Magic, which can point to the nearest open e
 
 Above the portal, the party scouts. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) finds a fish swimming in the kelp below, and speaks to it; from the fish the party learns that the inside of the large building is a bad place, where the fish avoids because it might become food. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), casting clairvoyance, sees the room with the portal, a large open space patrolled by a giant with squid-like tentacles sprouting from its head. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), using his commune with nature ritual, senses malevolence from the dead kelp and bleached coral, identifies the portal, and detects a dormant, hungry entity below the strange pool of water. 
 
-The party comes up with a plan of attack: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) will use her control water spell to still the current, allowing [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) to swim through, invisible. Meanwhile, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) will create, and then animate, a giant stone crab, and use it to create a distraction to draw the [Merfolk](<../../../species/unusual-species/merfolk.md>) guards away from the rear entrance to the civic building. The plan works perfectly. 
+The party comes up with a plan of attack: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) will use her control water spell to still the current, allowing [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) to swim through, invisible. Meanwhile, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) will create, and then animate, a giant stone crab, and use it to create a distraction to draw the Merfolk guards away from the rear entrance to the civic building. The plan works perfectly. 
 
 [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) land on the slimy, matted roof of the building, but the kelp is too thick to easily cut. Instead, they stealthily approach the building, entering from the rear door after the guards leave to investigate the stone crab. Beginning to scout the building, the party finds signs of occupation: a rack of spears in the entrance room, and a large, frequently used meeting room further into the building. 
 

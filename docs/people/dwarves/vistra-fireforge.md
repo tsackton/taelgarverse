@@ -20,7 +20,7 @@ title: Vistra Fireforge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (she/her)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (she/her)  
     Born DR 1589 (160 years old)  
     Proprietor of [The Iron Swan](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-iron-swan.md>) (since DR 1700)  
     { .bio }

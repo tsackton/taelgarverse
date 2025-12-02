@@ -20,7 +20,7 @@ title: Dag Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (he/him), of the [Hardstones](<../../groups/dwarven-clans/hardstones.md>)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Hardstones](<../../groups/dwarven-clans/hardstones.md>)  
     Born DR 1729 (20 years old)  
     { .bio }
 
@@ -36,3 +36,5 @@ Dag is the youngest member of the Hardstone clan, an extended family of dwarves 
 
 
 In the summer of 1748 DR, Dag was caught by werewolves when the [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) were raided, and wounded, becoming cursed by lycanthropy. After he was subdued by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), he was cured by [Delwath](<../pcs/dunmar-fellowship/delwath.md>), with the blessing of [Yezali](<../../gods-and-religions/gods/tanshi/meswati/yezali.md>). 
+
+

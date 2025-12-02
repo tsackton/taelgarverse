@@ -18,7 +18,7 @@ title: Kassi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (she/her)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1695 (54 years old)  
     Librarian of the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>)  
     { .bio }
@@ -28,3 +28,4 @@ title: Kassi
 
 
 The librarian at the Lakan monastery in Tokra. In a relationship with [Basu](<./basu.md>).
+

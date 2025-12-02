@@ -15,7 +15,7 @@ title: Gemcrafters
 # The Gemcrafters
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A [dwarven](<../../species/dwarves.md>) clan  
+   :octicons-info-24:{ .lg .middle } A [dwarven](<../../creatures/species/dwarves.md>) clan  
     :octicons-location-24:{ .lg .middle } Based in [Nidzahar](<../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)  
 </div>
 

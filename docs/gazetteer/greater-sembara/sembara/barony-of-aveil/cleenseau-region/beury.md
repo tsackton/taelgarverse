@@ -20,7 +20,7 @@ title: Beury
 </div>
 
 
-A large farming village six miles downriver of [Cleenseau](<cleenseau/cleenseau.md>) and the principle (and only) village in the [Manor of Beury](<./manor-of-beury.md>). There are about ninety sturdy houses here, many of which predate the [hobgoblin wars](<../../../../../history/third-hobgoblin-war-sembara.md>), although the village was abandoned for several years in the 1640s. 
+A large farming village six miles downriver of [Cleenseau](<cleenseau/cleenseau.md>) and the principle (and only) village in the [Manor of Beury](<./manor-of-beury.md>). There are about ninety sturdy houses here, many of which predate the [hobgoblin wars](<../../../../../events/1600s/third-hobgoblin-war-sembara.md>), although the village was abandoned for several years in the 1640s. 
 
 The houses are arranged in two tight concentric circles around a main square, where the one-story wooden manor house sits, as does the slightly larger stone temple of [The Father](<../../../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-father.md>), the blacksmith, and two wells. The entire village, save for the small inn and mill (see below), fit within a thousand-foot diameter circle. There is a well-made wooden wall surrounding the outer circle of houses, although the inn and mill are outside the wall.
 

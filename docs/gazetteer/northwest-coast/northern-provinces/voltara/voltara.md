@@ -23,7 +23,7 @@ title: Voltara
 
 ## Overview
 
-Voltara, the northernmost substantial settlement in the Chardonian Empire, is a walled town of maybe 2000 people. It is situated on a grassy lowland steppe east of the [Fiamatara Mountains](<../../fiamatara-mountains/fiamatara-mountains.md>), primarily supported by a large mining industry in the nearby hills, which are rich in chalyte. The grasslands are fertile land, and sheep farming and agriculture is common in the Voltara hinterlands. 
+Voltara, the northernmost substantial settlement in the Chardonian Empire, is a walled town of maybe 2000 people. It is situated on a grassy lowland steppe east of the [Fiatara Mountains](<../../fiamatara-mountains/fiatara-mountains.md>), primarily supported by a large mining industry in the nearby hills, which are rich in chalyte. The grasslands are fertile land, and sheep farming and agriculture is common in the Voltara hinterlands. 
 
 
 
@@ -33,7 +33,7 @@ Inside the walls, Voltara is a rich city, made wealthy on the chalyte trade. It 
 
 ## Precincts
 
-![[voltara-outline.excalidraw.png]]
+![Voltara Outline](../../../../assets/excalidraw/voltara-outline.png)
 
 *Library (1):* At the northern edge of town is the academic precinct, which houses dormitories, a library, and various buildings associated with the archivists of the Great Library who come to study the inner workings of chalyte magic. The library complex is itself surrounded by walls, and overseen by Master Archivist Gaius. The wizard's gate leads north from this precinct. 
 

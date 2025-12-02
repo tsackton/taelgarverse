@@ -12,5 +12,5 @@ The [Labyrinths of the Lost](<labyrinths-of-the-lost/labyrinths-of-the-lost.md>)
 
 ### Oskar's Travels
 
-Oskar's Travels is a series of short adventures set in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>) and the surrounding area. These adventures tell of the activities of [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>), Oskar, and various companions, roughly during May and June 1748. 
+[Oskar in Tharn Todor](<oskar-s-travels/oskar-in-tharn-todor.md>) is a series of short adventures set in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>) and the surrounding area. These adventures tell of the activities of [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>), Oskar, and various companions, roughly during May and June 1748. 
 

@@ -4,14 +4,14 @@ tags: [status/needswork/old, place]
 typeOf: settlement
 typeOfAlias: village
 ancestry: Deno'qai
-whereabouts: Central Highlands
+whereabouts: Highveil Forest
 dm_notes: color
 dm_owner: tim
 title: Raha
 ---
 # Raha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A Deno'qai village in the [Central Highlands](<./central-highlands.md>)  
+-    :octicons-location-24:{ .lg .middle } A Deno'qai village in the [Highveil Forest](<./highveil-forest.md>), the [Central Highlands](<./central-highlands.md>)  
 </div>
 
 

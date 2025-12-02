@@ -22,7 +22,7 @@ title: Samerki
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    oni ([giant](<../../species/unusual-species/giants.md>)), he/him  
+    oni ([giant](<../../creatures/species/giants.md>)), he/him  
     Killed May 29th, 1748  
     { .bio }
 
@@ -36,3 +36,4 @@ title: Samerki
 
 
 A servant of [Agata](<../fey/agata.md>). 
+

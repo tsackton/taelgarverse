@@ -20,7 +20,7 @@ title: Edur
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [lizardfolk](<../../species/lizardfolk.md>) (he/him)  
+    A [lizardfolk](<../../creatures/species/lizardfolk.md>) (he/him)  
     b. DR 1500 - d. October 19th, 1719, killed by spiders at age 219 years  
     { .bio }
 

@@ -18,7 +18,7 @@ title: Galen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Member of the Faculty of Magic, the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>), and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 
@@ -34,5 +34,6 @@ A showman, scholar, academic rival of sorts to [Ulfgar Frostbeard](<../dwarves/u
 
 
 Had possessed the [Chalice of the Runepriest](<../../things/artifacts-of-power/chalice-of-the-runepriest.md>), but sold it to [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) for a large sum of money in [Session 49 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-49-dufr.md>). 
+
 
 

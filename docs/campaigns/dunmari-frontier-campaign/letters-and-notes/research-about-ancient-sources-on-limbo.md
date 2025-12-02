@@ -8,17 +8,17 @@ None of the most notable ancient works on Limbo has survived completely, but thr
 
 ## The Unstable Sphere
 
-The most famous work regarding Limbo is usually translated as The Unstable Sphere. Scholars debate its origin, for it was already widely cited as a lost tome during the days of the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>). Though some claim it is Elvish in origin, few serious scholars believe this theory; instead, it is thought to be relic of the ancient human homeland of [Hkar](<../../../history/pre-downfall/hkar.md>). No complete copies exist, but Marcion of Iridel, a Drankorian arcane cosmologist, collected fragments, and several copies of his translations have survived. 
+The most famous work regarding Limbo is usually translated as [The Unstable Sphere](<../../../things/books/the-unstable-sphere.md>). Scholars debate its origin, for it was already widely cited as a lost tome during the days of the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>). Though some claim it is Elvish in origin, few serious scholars believe this theory; instead, it is thought to be relic of the ancient human homeland of [Hkar](<../../../history/historical-realms/hkar.md>). No complete copies exist, but Marcion of Iridel, a Drankorian arcane cosmologist, collected fragments, and several copies of his translations have survived. 
 
 These fragments suggest a place that is totally unstable. No solid ground persists for long; worse, even the air can solidify at a moment's whim, trapping the unlucky traveler in a tomb of rock or ice or something worse. Though one can travel through the jumbled space of Limbo simply with a thought, sojourners in Limbo are in constant danger of sudden transformations. 
 
-This constant shifting makes mapping Limbo impossible. Much of The Unstable Sphere seems to have been discursions on the metacosmological nature of this instability. Was the fundamental geometry of the plane in constant flux, or did instead the material contents of the plane simply transform at whim, creating the appearance of constant flux? 
+This constant shifting makes mapping Limbo impossible. Much of [The Unstable Sphere](<../../../things/books/the-unstable-sphere.md>) seems to have been discursions on the metacosmological nature of this instability. Was the fundamental geometry of the plane in constant flux, or did instead the material contents of the plane simply transform at whim, creating the appearance of constant flux? 
 
 All is not hopeless, though, for the traveler to Limbo. It is recorded that the strong of mind, those with intellects of steel, can hold the plane solid by sheer concentration, freezing in place the endless chaos for hours, days, even years in some exceptional cases. 
 
 ## On Minds and Chaos
 
-Gaius Devarro, who lived in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) during the waning days of the [Drankorian Empire](<../../../history/drankorian-era/drankorian-empire.md>), and was an early scholar at the Faculty of Metaphysics, collected numerous fragments of tales, poems, and other oddities thought to be the words of those who had traveled to Limbo. 
+Gaius Devarro, who lived in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) during the waning days of the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>), and was an early scholar at the Faculty of Metaphysics, collected numerous fragments of tales, poems, and other oddities thought to be the words of those who had traveled to Limbo. 
 
 It is from Gauis' magnum opus on Limbo, On Minds and Chaos, that the most vivid descriptions come. For example, one tale speaks of burning water, that leapt like fire from rock to rock across a jumbled landscape of boulders floating in emptiness, the fire consuming the rock and leaving glittering snow behind, which slowly melted to dust and blew away on the wind. Many of the anonymous writers collected in this work seem to be unable to describe in concrete terms what they saw.
 
@@ -26,7 +26,7 @@ A few fragments speak of more solid things. Sanctuaries, of a kind, held solid b
 
 ## The Path of Unmaking
 
-Among the strangest sources on Limbo is a later work, _The Path of Unmaking_, a translation and commentary produced by an anonymous author in the DR 1250s. Though the name of the author has been lost, it survived intact and several copies can be found in the libraries of the [University of Tollen](<../../../gazetteer/greater-sembara/tollen/university-of-tollen.md>). 
+Among the strangest sources on Limbo is a later work, _The Path of Unmaking_, a translation and commentary produced by an anonymous author in the DR 1250s. Though the name of the author has been lost, it survived intact and several copies can be found in the libraries of the [University of Tollen](<../../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>). 
 
 The text purports to be a translation and commentary on a hobgoblin ritual codex belonging to a group called the Cult of the Shattered Banner, said to have worshipped the power of chaos itself. 
 

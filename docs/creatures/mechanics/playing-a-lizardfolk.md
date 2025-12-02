@@ -1,0 +1,67 @@
+---
+headerVersion: 2023.11.25
+tags: [meta, status/check/mike]
+dm_owner: joint
+dm_notes: none
+title: Playing a Lizardfolk
+---
+# Playing a Lizardfolk
+
+
+
+The quiet flash of fireflies on a summer night, the dawn song of nesting warblers, the midday croak of the bullfrog -- these speak of home to the lizardfolk. At home between the water and the land, lizardfolk communities are most often found near swamps and wetlands, where they shape their aquatic homes into rich, highly productive ecosystems, teeming with abundant life and food. Lizardfolk can be found across Taelgar, though rarely in arid lands. Many lizardfolk live in isolated, semi-aquatic villages, preferring to keep to the traditions of their own kind, while others settle near, but rarely within, the communities of other species. 
+
+Lizardfolk culture is shaped by the elders, who guide lizardfolk societies, ensuring that fertility and population growth remain balanced with the rhythms of the Tharzen Anzinakoa and the needs and capabilities of the land. Through their gods, the Tharzen Anzinakoa, many lizardfolk have a deep connection to prophecy and dreams, and ties to the spirits of their ancestors that some lizardfolk can call upon for aid in times of need. 
+
+---
+## Creating Your Lizardfolk Character
+
+When you create your lizardfolk character, you might want to consider your relationship to your elders and ancestors. Many lizardfolk villages and societies are strongly shaped by the elders, and the spirits of the ancestors, who guide villages to ensure that growth is balanced with what the land can provide. This means that most lizardfolk societies are places of ample food and leisure, but where decisions about children are controlled collectively. If you grew up in such a place, did you leave your home with the blessing of the elders or ancestors? Against their wishes? Or are they uninvolved in your journey? You might also consider whether you grew up in a place isolated from other species, or a place close to humans or others. Or maybe you grew up someone atypical for lizardfolk; if so, how did that impact your character?
+
+A simple answer if the engaging with the lore of lizardfolk is not of interest might be that you are from a town or village close to human settlement, perhaps in [Greater Sembara](<../../gazetteer/greater-sembara/greater-sembara.md>) or [Greater Chardon](<../../gazetteer/greater-chardon/greater-chardon.md>) as appropriate for your campaign, and that you left your home neither with the blessing and guidance of the elders of your village, nor against their wishes, but simply to find your own path. 
+
+### Lizardfolk Names
+
+Lizardfolk in Taelgar typically have a single given name, with the name of their home village or a physical descriptor serving as a second name when needed. Lizardfolk are often named after favored ancestors, so names tend to repeat across generations and often have some meaning in family lore or history. Some lizardfolk believe that some fragment of an ancestor is reborn into a new generation; because of this believe typically names are not repeated within generations, only across generations. 
+
+To chose a name for your lizardfolk character, you might consider using one of the names below or inventing your own, which might not follow typical lizardfolk naming practice. 
+
+**Male Names:** Arran, Aitor, Arzhider, Benat, Eneko, Ganiz, Ilari, Itzal, Mattin, Samso, Zorion, Zuzen   
+
+**Female Names:** Alasne, Amaya, Arrosa, Elixane, Iara, Irati, Joska, Leire, Maialen, Naiara, Nerea, Ximenia, Xuxa
+
+---
+## Basic Traits
+
+**Creature Type**: Humanoid
+**Size**: Your size is Medium (roughly 5-7 feet tall)
+**Speed**: 30 feet
+**Age**: Lizardfolk reach adulthood in their late teens; the first 5-8 years of their life are spent as amphibious young. Though they reach old age in their 70s or 80s, most live as elders into their second century, though few reach 200 years. 
+**Languages**: You may select four [languages](<../../background/languages.md>) during character creation, which should usually include Lizardfolk and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
+
+## Lizardfolk Traits
+
+As an Lizardfolk, you have these special traits.
+
+#### Aquatic Adaptations
+You have a Swim Speed equal to your Speed, and you can hold your breath for up to 30 minutes at at time.
+
+#### Natural Armor
+You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
+
+#### Omens of the Ancestors
+You can reach your ancestors through the magic of the Tharzen Anzinakoa and beseech them for aid. You always have the Augury spell prepared. You can cast each spell you gain with this trait once without expending a spell slot, and you regain the ability to cast it this way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
+
+#### Prophetic Vision
+Your affinity for the dreamworld allows you to briefly see a moment ahead in time. If you fail a d20 Test, you can roll 1d4 and add the result to the d20, potentially changing a failure into a success. You can use this feature a number of times equal to your Proficiency Bonus, and regain all uses after a Long Rest.
+
+#### Ancestral Aid
+When you reach character level 3, you can beseech your ancestors for aid using one of the options below (choose the option each time you use this feature). Once you do this, you can’t do so again until you finish a Long Rest.
+
+- _**Ancestral Knowledge.**_ As an Action, you call upon the knowledge of your ancestors. You gain Proficiency with one Skill or Tool of your choice. This proficiency lasts for 1 hour. 
+
+- _**Ancestral Protectors.**_ As a Bonus Action, you call upon your ancestors to protect you. For 1 minute, ancestral spirits flit about you in a 10 foot Emanation. At the end of each of your turns, you can cause these spirits to inflict Radiant damage equal to your Proficiency Bonus to all creatures of your choice within the Emanation, and the area of the Emanation is Difficult Terrain for your Enemies. 
+
+- _**Ancestral Tongues.**_ As an Action, you call upon the words of your ancestors. For 1 hour, you can comprehend and verbally communicate with Beasts. If you attempt to Influence them, you have Advantage on the d20 Test. 
+
+

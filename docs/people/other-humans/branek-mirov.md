@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person, status/needswork/gameupdate]
 affiliations: [Rodnya Voknaz]
-anestry: Urskan
+ancestry: Urskan
 species: human
 gender: male
 born: 1697
@@ -15,7 +15,7 @@ title: Branek Mirov
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../species/humans.md>) (he/him)  
+    An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Born DR 1697 (52 years old)  
     Member of [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>)  
     { .bio }

@@ -22,7 +22,7 @@ title: Zimkala
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [stoneborn](<../../species/stoneborn.md>) (he/him)  
+    A [stoneborn](<../../creatures/species/stoneborn.md>) (he/him)  
     { .bio }
 
     Based in the [Indalas](<../../gazetteer/sentinel-range.md>)

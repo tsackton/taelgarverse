@@ -14,7 +14,7 @@ title: Wend
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [archfey](<../../../species/extraplanar/fey.md>) (she/her)  
+    An [archfey](<../../../creatures/fey/fey.md>) (she/her)  
     { .bio }
 
     Based in [Hollowdark](<../../../gazetteer/extraplanar/feywild/hollowdark.md>), the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)

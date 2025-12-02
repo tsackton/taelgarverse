@@ -13,7 +13,7 @@ title: Redpeaks
 # The Redpeaks
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A [dwarven](<../../species/dwarves.md>) clan  
+   :octicons-info-24:{ .lg .middle } A [dwarven](<../../creatures/species/dwarves.md>) clan  
 </div>
 
 

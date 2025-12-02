@@ -31,15 +31,15 @@ The adventurers face unexpected dangers on the road, and encounter zombies in [T
 - **Apr 28, 1715 DR, early afternoon:** Arriving at [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>) they find the portcullis locked and silent, encounter a ghostly knight who warns of death, and fight a mess-hall full of zombies. A key taken from the undead opens the gathering hall; more zombies in the barracks are destroyed, loot is gathered, and in Marshal [Hildo Brask](<../../people/addermarians/hildo-brask.md>)’s quarters the party uncovers a bloody trail and the marshal’s troubling letter.
 ## Cast of Characters
 
-- **[Drou](<../../people/pcs/addermarch/drou.md>)** – [elf](<../../species/elves.md>) traveler from **[Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)**
-- **[Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)** – [human](<../../species/humans.md>) warlock from the **[Enst](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst.md>)** River valley
-- **[Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>)** – [halfling](<../../species/halflings.md>) wanderer from **[Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)**
-- **[Oona Stonebridge](<../../people/halflings/oona-stonebridge.md>)** – [halfling](<../../species/halflings.md>) merchant bound for [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)
+- **[Drou](<../../people/pcs/addermarch/drou.md>)** – [elf](<../../creatures/species/elves.md>) traveler from **[Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)**
+- **[Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)** – [human](<../../creatures/species/humans.md>) warlock from the **[Enst](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst.md>)** River valley
+- **[Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>)** – [halfling](<../../creatures/species/halflings.md>) wanderer from **[Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)**
+- **[Oona Stonebridge](<../../people/halflings/oona-stonebridge.md>)** – [halfling](<../../creatures/species/halflings.md>) merchant bound for [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)
 - **[Caradoc](<../../people/addermarians/caradoc.md>)** – enigmatic alchemist awaiting new helpers in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)
 - **Marshal [Hildo Brask](<../../people/addermarians/hildo-brask.md>)** – second-in-command of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>) (missing)    
 ## Places
 
-- **[Valcroix](<../../gazetteer/greater-sembara/addermarch/valcroix.md>)** – riverside town at the confluence of the ~Aure West Fork~ and the [Umber](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/umber.md>), starting point of the journey
+- **[Valcroix](<../../gazetteer/greater-sembara/addermarch/valcroix.md>)** – riverside town at the confluence of the [Velan](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/velan.md>) and the [Umber](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/umber.md>), starting point of the journey
 - **[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)** – trade city and destination of the caravan
 - **[Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>)** – upland woodland through which the road climbs
 - **[Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)** – hilltop garrison/keep now overrun by undead 

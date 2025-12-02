@@ -41,7 +41,7 @@ _See more: {links}_
 This area saw much disruption and loss of life in the [Blood Years](<../../events/1500s/blood-years.md>) and many details of the early history of the region are lost. The scholars of Chardon have preserved better records of the Drankorian Era, and a rough history can be reconstructed. 
 #### Before Drankor
 _Before DR 597_
-Little is known of the history of this region before the the coming of Drankor.  It is widely believed that early migrants from [Hkar](<../../history/pre-downfall/hkar.md>) lived along the [~North Chardon Coast~](<chardonian-empire/north-chardon-coast.md>) in the shadow of [Alcarinquë](<../../history/pre-downfall/alcarinque.md>) before the [Downfall](<../../events/ancient/the-downfall.md>) but the cultures and civilizations these migrants formed during and after the Downfall is not recorded. 
+Little is known of the history of this region before the the coming of Drankor.  It is widely believed that early migrants from [Hkar](<../../history/historical-realms/hkar.md>) lived along the [~North Chardon Coast~](<chardonian-empire/north-chardon-coast.md>) in the shadow of [Alcarinquë](<../../history/historical-realms/alcarinque.md>) before the [Downfall](<../../events/ancient/the-downfall.md>) but the cultures and civilizations these migrants formed during and after the Downfall is not recorded. 
 #### Western Wars
 _DR 597 - DR 634_
 Between DR 597 and DR 634, Drankor fought a series of series of wars to force the people of the [Yeraad Watershed](<../major-rivers/yeraad-watershed/yeraad-watershed.md>) and [~North Chardon Coast~](<chardonian-empire/north-chardon-coast.md>) into the growing Drankorian Empire.  In the telling of the Faculty of History at the [University of Chardon](<chardonian-empire/chardon/university-of-chardon.md>), the  wars brought civilization and safety to a land full of dangers. The Society of Ocean Watchers in [Hamri](<../northwest-coast/mawar-confederacy/hamri.md>) would tell a different tale, of Drankorian conquest seeking treasure and plunder, and agricultural land for their expanding empire, with no concerns for the inhabitants of the land.
@@ -54,7 +54,7 @@ When Drankor fell to [plague](<../../events/1000s/1059/first-plague.md>) and the
 
 #### The Blood Years
 _DR 1545 - DR 1597_
-Although the [Great War](<../../events/1500s/great-war.md>) ended in DR 1545, the vast army of hobgoblins and other terrors that [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>) had amassed did not simply disappear. Over the next 30 years, two major wars were fought across the lands north of Chardon: the Conclave War and the to be named war against the hobgoblins. 
+Although the [Great War](<../../events/1500s/great-war.md>) ended in DR 1545, the vast army of [hobgoblins](<../../creatures/species/hobgoblins.md>) and other terrors that [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>) had amassed did not simply disappear. Over the next 30 years, two major wars were fought across the lands north of Chardon: the Conclave War and the to be named war against the hobgoblins. 
 
 basic idea: conclave war then in the 1560s a series of expansion of hobgoblins, stopped in 1561 or 1562, but not really peaceful - next 10 years are back and forth along the north chardon coast; but in 1574 some type of armistace line is drawn, splitting (or even leaving the hobgoblins with most of the coast). Perhaps there is another human kingdom involved here (the "yellow 5 kingdom from other maps"?) in the north, pincering the hobgoblins a bit. 
 
@@ -75,7 +75,7 @@ three phases:
 
 Whatever the truth, in the first few decades of the 600th year since the founding of Drankor, the legions of empire swept through the region, and established suzerainty over all the land between the [Tawir Forest](<../northwest-coast/tawir-forest.md>) in the north and [Ainumarya](<../central-highlands/ainumarya.md>) in the east. Whatever the origins of this conquest, for almost 500 years the land prospered, and the city of [Chardon](<chardonian-empire/chardon/chardon.md>) was founded and grew. 
 
-When the [Great War](<../../events/1500s/great-war.md>) came, the lands north of [Chardon](<chardonian-empire/chardon/chardon.md>) bore the brunt of the attacks from [Cha'mutte's](<../../people/extraplanar-powers/cha-mutte.md>) armies, and even after his defeat, the hobgoblins did not vanish. The [Blood Years](<../../events/1500s/blood-years.md>) saw the destruction of many of the small realms to the north, and during the Conclave War threatened [Chardon](<chardonian-empire/chardon/chardon.md>) itself. In the aftermath of these wars, the [Chardonian Empire](<chardonian-empire/chardonian-empire.md>) was born.
+When the [Great War](<../../events/1500s/great-war.md>) came, the lands north of [Chardon](<chardonian-empire/chardon/chardon.md>) bore the brunt of the attacks from [Cha'mutte's](<../../people/extraplanar-powers/cha-mutte.md>) armies, and even after his defeat, the [hobgoblins](<../../creatures/species/hobgoblins.md>) did not vanish. The [Blood Years](<../../events/1500s/blood-years.md>) saw the destruction of many of the small realms to the north, and during the Conclave War threatened [Chardon](<chardonian-empire/chardon/chardon.md>) itself. In the aftermath of these wars, the [Chardonian Empire](<chardonian-empire/chardonian-empire.md>) was born.
 
 
 

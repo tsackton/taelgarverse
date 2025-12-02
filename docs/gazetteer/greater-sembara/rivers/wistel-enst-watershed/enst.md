@@ -3,8 +3,11 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {linkText: true, defArt: the}
 name: Enst
-typeOf: river
-whereabouts: Sembara
+typeOf: waterway
+typeOfAlias: river
+whereabouts:
+- {type: primary, location: Sembara}
+- {type: secondary, location: Wistel-Enst Watershed}
 aliases: [River Enst, Enst River]
 dm_notes: none
 dm_owner: mike
@@ -13,6 +16,7 @@ title: Enst
 # The Enst
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A river in [Sembara](<../../sembara/sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Wistel–Enst Watershed](<./wistel-enst-watershed.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 
@@ -23,5 +27,3 @@ It is navigable as far upriver as [Rinburg](<../../sembara/barony-of-aveil/rinbu
 The lower reaches of the Enst, in [Ozabal Swamp](<../../ozabal.md>) tend to be marshy and treacherous, and there is little to no river traffic beyond [Eskbridge](<../../sembara/heartlands/eskbridge.md>). 
 
 There are ferries at [Rinburg](<../../sembara/barony-of-aveil/rinburg.md>), [Fellburn](<../../sembara/heartlands/fellburn.md>), and [Stavenford](<../../sembara/heartlands/stavenford.md>), amongst other places.
-
-

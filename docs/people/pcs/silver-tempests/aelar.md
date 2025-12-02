@@ -20,7 +20,7 @@ title: Aelar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../species/elves.md>) (he/him), ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
+    An [elf](<../../../creatures/species/elves.md>) (he/him), ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
     Born DR 1645 (104 years old)  
     Member of the [Silver Tempests](<./silver-tempests.md>) (until May 1st, 1748)  
     { .bio }

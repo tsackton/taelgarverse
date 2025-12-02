@@ -18,7 +18,7 @@ title: Rurik
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (he/him)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
     { .bio }
 
     Originally from: [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>), [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), [Shadowfolds](<../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>)

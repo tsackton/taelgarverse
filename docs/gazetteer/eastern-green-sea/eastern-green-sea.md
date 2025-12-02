@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim, status/cleanup/map]
+tags: [place, status/cleanup/map]
 displayDefaults: {defArt: the}
 typeOf: region
 whereabouts:
@@ -15,7 +15,7 @@ title: Eastern Green Sea
 </div>
 
 
-East of the well-traveled ports of [Tollen](<../greater-sembara/tollen/tollen.md>) and [Cymea](<../western-green-sea/realms/cymea.md>) lies a vast expanse of the [Green Sea](<../green-sea.md>). Many rumors come west from these lands: on halfling ships carrying exotic goods from [Medju](<./medju.md>); or on [Tollen](<../greater-sembara/tollen/tollen.md>) merchant ships, chartered by the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>) to bring exotic dyes from [Ursk](<../northern-green-sea/ursk/ursk.md>); or from restless [Skaer](<../western-green-sea/realms/skaer.md>) sailors, far from their home islands. These rumors tell of many things: islands that move from season to season; cities made of gold and emeralds that sparkle in the desert sun; flying kenku living in cliffside roosts on islands red like blood; stoneborn rafts, kept afloat by will alone, drifting from island to island; hobgoblin pirates who eat the hearts of their victims; strange gods of pleasure who bring waking bliss to their acolytes; clerics who worship the [Divine Presence](<../../gods-and-religions/gods/high-gods/divine-presence.md>) itself and can summon food and water by merely thinking a prayer. 
+East of the well-traveled ports of [Tollen](<../greater-sembara/tollen/tollen.md>) and [Cymea](<../western-green-sea/realms/cymea.md>) lies a vast expanse of the [Green Sea](<../green-sea.md>). Many rumors come west from these lands: on halfling ships carrying exotic goods from [Medju](<./medju.md>); or on [Tollen](<../greater-sembara/tollen/tollen.md>) merchant ships, chartered by the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>) to bring exotic dyes from [Ursk](<../northern-green-sea/ursk/ursk.md>); or from restless [Skaer](<../western-green-sea/realms/skaer.md>) sailors, far from their home islands. These rumors tell of many things: islands that move from season to season; cities made of gold and emeralds that sparkle in the desert sun; flying [kenku](<../../creatures/species/kenku.md>) living in cliffside roosts on islands red like blood; stoneborn rafts, kept afloat by will alone, drifting from island to island; hobgoblin pirates who eat the hearts of their victims; strange gods of pleasure who bring waking bliss to their acolytes; clerics who worship the [Divine Presence](<../../gods-and-religions/gods/high-gods/divine-presence.md>) itself and can summon food and water by merely thinking a prayer. 
 
 Are these rumors true? Surely some are, the people of [Tollen](<../greater-sembara/tollen/tollen.md>) say, but few dare speculate on what is fact or fiction.
 ## Map
@@ -39,5 +39,5 @@ The climate of this region is dominated by the influence of the [Green Sea](<../
 
 
 ## Major Historical Eras
-Little is known of the history of this region, although the [Skaer](<../western-green-sea/realms/skaer.md>) and other ancient mariner cultures speak of their journeys through the eastern [Green Sea](<../green-sea.md>) in their legends and tales, and scholars agree that the ~Mariners~ were the first humans to settle in this region, sailing from [Hkar](<../../history/pre-downfall/hkar.md>), although whether across the [Endless Ocean](<../endless-ocean.md>) or from some other path, history does not say. All agree that the human settlement spread from east to west, and that in the ancient days before the [Downfall](<../../events/ancient/the-downfall.md>) much of the [Green Sea](<../green-sea.md>) was covered by the enormous ~Ancient Lizardfolk Swamp~.
+Little is known of the history of this region, although the [Skaer](<../western-green-sea/realms/skaer.md>) and other ancient mariner cultures speak of their journeys through the eastern [Green Sea](<../green-sea.md>) in their legends and tales, and scholars agree that the ~Mariners~ were the first humans to settle in this region, sailing from [Hkar](<../../history/historical-realms/hkar.md>), although whether across the [Endless Ocean](<../endless-ocean.md>) or from some other path, history does not say. All agree that the human settlement spread from east to west, and that in the ancient days before the [Downfall](<../../events/ancient/the-downfall.md>) much of the [Green Sea](<../green-sea.md>) was covered by the enormous ~Ancient Lizardfolk Swamp~.
 

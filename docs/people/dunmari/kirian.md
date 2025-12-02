@@ -20,7 +20,7 @@ title: Kirian
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Born DR 1702 (47 years old)  
     Proprietor of [Kirian’s](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirian-s.md>)  
     { .bio }
@@ -29,7 +29,7 @@ title: Kirian
 </div>
 
 
-A retired Dunmari solider who spent his early twenties riding in the warband of [Shandan](<./shandan.md>), a charismatic soldier, traveling in the [Myraeni Gap](<../../gazetteer/greater-dunmar/myraeni-gap.md>) and elsewhere. Wounded in a skirmish with kobolds in DR 1728, and returned to [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
+A retired Dunmari solider who spent his early twenties riding in the warband of [Shandan](<./shandan.md>), a charismatic soldier, traveling in the [Myraeni Gap](<../../gazetteer/greater-dunmar/myraeni-gap.md>) and elsewhere. Wounded in a skirmish with [Kobolds](<../../creatures/species/kobolds.md>) in DR 1728, and returned to [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 
 Now runs an inn, [Kirian's](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirian-s.md>), near the Trader's Market in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 

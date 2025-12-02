@@ -14,7 +14,7 @@ title: Orsino
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
     Based in the [Chalyte Levels](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chalyte-levels.md>), the [North Bank](<../../gazetteer/greater-chardon/chardonian-empire/chardon/north-bank.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)

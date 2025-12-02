@@ -15,7 +15,7 @@ title: Oona Stonebridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/halflings.md>) (she/her), of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>)  
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>)  
     { .bio }
 
     Originally from: Unknown

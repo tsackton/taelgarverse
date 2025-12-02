@@ -17,4 +17,4 @@ title: Barony of Montsé
 </div>
 
 
-A barony south of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>), just west of [Fellburn](<../heartlands/fellburn.md>), it was founded by [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>) after the land was reclaimed from hobgoblins during the [hobgoblin wars](<../../../../history/third-hobgoblin-war-sembara.md>). Historically, it was part of the much larger [Barony of Vaubonne](<./barony-of-vaubonne.md>).
+A barony south of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>), just west of [Fellburn](<../heartlands/fellburn.md>), it was founded by [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>) after the land was reclaimed from [hobgoblins](<../../../../creatures/species/hobgoblins.md>) during the [hobgoblin wars](<../../../../events/1600s/third-hobgoblin-war-sembara.md>). Historically, it was part of the much larger [Barony of Vaubonne](<./barony-of-vaubonne.md>).

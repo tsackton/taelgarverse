@@ -15,7 +15,7 @@ title: Tak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (he/him)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
     { .bio }
 
     Originally from: [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>), [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), [Shadowfolds](<../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>)
@@ -25,4 +25,4 @@ title: Tak
 
 
 
-A young dwarf, living in [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>) but hoping for something better and wondering about the lives of [dwarves](<../../species/dwarves.md>) outside [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), even before he knew such [dwarves](<../../species/dwarves.md>) existed. 
+A young dwarf, living in [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>) but hoping for something better and wondering about the lives of [Dwarves](<../../creatures/species/dwarves.md>) outside [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), even before he knew such [Dwarves](<../../creatures/species/dwarves.md>) existed. 

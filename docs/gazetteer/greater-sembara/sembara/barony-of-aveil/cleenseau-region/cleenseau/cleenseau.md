@@ -48,7 +48,7 @@ Outside [Essford Manor](<./essford-manor.md>) is a large plaza where the Temple 
 
 There are four gates into the walled city: the North Gate, the Market Gate (in the east), the Garrison Gate (in the east, opening to the garrison  itself), and the River Gate (in the south, the main gate). All the gates are barred at night and staffed during the day by the lord’s household guard. Passage in and out of the city is unrestricted, but carrying weapons or wearing masks is not allowed save for members of the lord’s household or the [Army of the West](<../../../../../../groups/sembaran-army/army-of-the-west.md>), per the order of the [Essfords](<../../../../../../groups/sembaran-noble-houses/essfords.md>). (There is no standing law in [Sembara](<../../../sembara.md>) preventing commoners from carrying weapons).
 
-On the south bank of the Enst, across the bridge, stands a large ruined garrison, the walls still standing but the roof collapsed, a reminder of a by-gone age when this was a major highway between the [Istabor Alliance](<../../../../../../history/istabor-alliance.md>) and [Sembara](<../../../sembara.md>). 
+On the south bank of the Enst, across the bridge, stands a large ruined garrison, the walls still standing but the roof collapsed, a reminder of a by-gone age when this was a major highway between the [Istabor Alliance](<../../../../../../history/historical-realms/istabor-alliance.md>) and [Sembara](<../../../sembara.md>). 
 
 On the north bank, outside of the walls and west of the town, is a small cluster of single-room huts, often called Beggar’s Way (N). It is where the very poorest in the town eek out a living as day laborers.
 `

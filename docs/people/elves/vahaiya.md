@@ -25,7 +25,7 @@ title: Vahaiya
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../species/elves.md>) (they/them), ([ka](<../../background/elven-cycle-of-generations.md>) 36)  
+    An [elf](<../../creatures/species/elves.md>) (they/them), ([ka](<../../background/elven-cycle-of-generations.md>) 36)  
     Born DR 1532 (217 years old)  
     Member of [The Rangers](<../../groups/the-rangers.md>) (DR 1640 - DR 1720)  
     { .bio }

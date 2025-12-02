@@ -15,7 +15,7 @@ title: Ra'ghemdros
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dragon](<../../species/unusual-species/dragons.md>) (black dragon) (she/her)  
+    A [dragon](<../../creatures/species/dragons.md>) (black dragon) (she/her)  
     Died May 21th, 1749  
     { .bio }
 

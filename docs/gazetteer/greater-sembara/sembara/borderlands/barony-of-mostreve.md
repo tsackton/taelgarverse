@@ -17,4 +17,4 @@ title: Barony of Mostrevé
 </div>
 
 
-Mostrevé is one of several small border baronies south of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). It was founded by [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>) in the aftermath of the [hobgoblin wars](<../../../../history/third-hobgoblin-war-sembara.md>) in land that was historically part of the [Barony of Vaubonne](<./barony-of-vaubonne.md>).
+Mostrevé is one of several small border baronies south of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). It was founded by [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>) in the aftermath of the [hobgoblin wars](<../../../../events/1600s/third-hobgoblin-war-sembara.md>) in land that was historically part of the [Barony of Vaubonne](<./barony-of-vaubonne.md>).

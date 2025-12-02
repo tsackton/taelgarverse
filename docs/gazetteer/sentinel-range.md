@@ -46,8 +46,8 @@ In the south, in northern [Dunmar](<greater-dunmar/realms/dunmar/dunmar.md>), th
 
 Further north, the mountains are somewhat less rugged, but high enough in places to be permanently snow-covered. 
 
-Major settlements of [Dwarves](<../species/dwarves.md>) and [Stoneborn](<../species/stoneborn.md>) call the Sentinels their home, and historically this area was, and is, the center of Dwarven civilization. 
+Major settlements of [Dwarves](<../creatures/species/dwarves.md>) and [Stoneborn](<../creatures/species/stoneborn.md>) call the Sentinels their home, and historically this area was, and is, the center of Dwarven civilization. 
 
-The Sentinels have many names: they are called the Indalas by the [Stoneborn](<../species/stoneborn.md>), Labkhan by the [dwarves](<../species/dwarves.md>), Beredri by the Deno'qai, and Tushara by the Dunmari. 
+The Sentinels have many names: they are called the Indalas by the [Stoneborn](<../creatures/species/stoneborn.md>), Labkhan by the [Dwarves](<../creatures/species/dwarves.md>), Beredri by the Deno'qai, and Tushara by the Dunmari. 
 
 

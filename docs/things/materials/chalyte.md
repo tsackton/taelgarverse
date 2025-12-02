@@ -1,14 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/other]
-typeOf: mineral
-subtypeOf: magical
+tags: [item]
+typeOf: material
+typeOfAlias: mineral
+subtypeOf: magic
 dm_owner: tim
 dm_notes: important
 title: Chalyte
 ---
 # Chalyte
-:octicons-info-24:{ .lg .middle } **Magical Mineral**  
+:octicons-info-24:{ .lg .middle } **Magic Mineral**  
 
 Chalyte is a rare mineral imbued with the essence of the [Plane of Magic](<../../cosmology/plane-of-magic.md>). Pure, refined chalyte is associated with a wide variety of magical properties. Tthe most common and well-understood use is to empower enspelled items and other enchantments, but rumors speak also of ways in which chalyte can be used to enhance the magic of spellcasters. 
 

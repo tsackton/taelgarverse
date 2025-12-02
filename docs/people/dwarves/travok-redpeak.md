@@ -18,7 +18,7 @@ title: Travok Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) [dwarf](<../../species/dwarves.md>) (he/him)  
+    A [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
     { .bio }
 
     Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)

@@ -15,7 +15,7 @@ title: Wave Dancer
 ---
 # The Wave Dancer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Halfling](<../../species/halflings.md>) Boat__  
+- :octicons-info-24:{ .lg .middle } __[Halfling](<../../creatures/species/halflings.md>) Boat__  
    Home area: the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>)  
 </div>
 

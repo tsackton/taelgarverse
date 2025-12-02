@@ -19,7 +19,7 @@ title: Grumella the Vengeful
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [orc](<../../species/orcs.md>) (she/her)  
+    An [orc](<../../creatures/species/orcs.md>) (she/her)  
     Died DR 1747  
     Leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>) (until DR 1747)  
     { .bio }
@@ -30,4 +30,5 @@ title: Grumella the Vengeful
 
 
 
-The commander and leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), a large group of [orcs](<../../species/orcs.md>) that occupied the plains north of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in the spring and summer of 1747. Grumella was defeated by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) and their allies in the Battle of Voltara. 
+The commander and leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), a large group of [orcs](<../../creatures/species/orcs.md>) that occupied the plains north of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in the spring and summer of 1747. Grumella was defeated by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) and their allies in the Battle of Voltara. 
+

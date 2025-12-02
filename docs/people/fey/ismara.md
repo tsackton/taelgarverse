@@ -14,7 +14,7 @@ title: Ismara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/extraplanar/fey.md>) (she/her)  
+    A [fey](<../../creatures/fey/fey.md>) (she/her)  
     { .bio }
 
     Originally from: [Gleamwater](<../../gazetteer/extraplanar/feywild/gleamwater.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)

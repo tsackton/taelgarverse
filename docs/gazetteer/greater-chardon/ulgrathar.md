@@ -10,7 +10,7 @@ title: Ulgrathar
 ---
 # Ulgrathar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [giant](<../../species/unusual-species/giants.md>) realm in the [Chataan Mountains](<./chataan-mountains.md>), [Greater Chardon](<./greater-chardon.md>)  
+-    :octicons-location-24:{ .lg .middle } A [giant](<../../creatures/species/giants.md>) realm in the [Chataan Mountains](<./chataan-mountains.md>), [Greater Chardon](<./greater-chardon.md>)  
 </div>
 
 

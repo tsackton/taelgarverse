@@ -8,7 +8,7 @@ dm_notes: important
 title: Amberlight
 ---
 # Amberlight
-:octicons-info-24:{ .lg .middle } **[Fey](<../../../../species/extraplanar/fey.md>) Glowing Crystal**  
+:octicons-info-24:{ .lg .middle } **[Fey](<../../../../creatures/fey/fey.md>) Glowing Crystal**  
 
 Amberlights are intricate crystal lanterns infused with the light of the sunset of [Amberglow](<./amberglow.md>), created by the [Cloudspinner](<../../../../people/extraplanar-powers/archfey/cloudspinner.md>) to gift some of her power to her closest allies. 
 

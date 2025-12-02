@@ -17,7 +17,7 @@ title: Ganboa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 62  
-    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../../../species/lizardfolk.md>) village in the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), [Greater Sembara](<../../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../../../creatures/species/lizardfolk.md>) village in the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), [Greater Sembara](<../../../greater-sembara.md>)  
 </div>
 
 

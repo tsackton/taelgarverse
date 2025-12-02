@@ -21,7 +21,7 @@ title: Pearl Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/halflings.md>) (she/her), of the Brightmoons  
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the Brightmoons  
     First Mate of the [Wave Dancer](<../../things/ships/wave-dancer.md>)  
     { .bio }
 

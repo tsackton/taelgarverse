@@ -18,7 +18,7 @@ title: Delig Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (he/him), of the [Hardstones](<../../groups/dwarven-clans/hardstones.md>)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Hardstones](<../../groups/dwarven-clans/hardstones.md>)  
     { .bio }
 
     Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
@@ -26,3 +26,4 @@ title: Delig Hardstone
 
 
 Patriach of the Hardstone clan, father to [Dag Hardstone](<./dag-hardstone.md>). 
+

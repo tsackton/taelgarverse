@@ -17,7 +17,7 @@ title: Melusine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/extraplanar/fey.md>) ([nymph](<../../species/extraplanar/fey.md>)) (she/her)  
+    A [fey](<../../creatures/fey/fey.md>) ([nymph](<../../creatures/fey/fey.md>)) (she/her)  
     { .bio }
 
     Based in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)

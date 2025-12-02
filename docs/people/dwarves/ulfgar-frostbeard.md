@@ -18,7 +18,7 @@ title: Ulfgar Frostbeard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../species/dwarves.md>) (he/him)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
     Born DR 1567 (182 years old)  
     Member of the Faculty of Metaphysics, the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>), and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
@@ -36,6 +36,4 @@ title: Ulfgar Frostbeard
 
 
 A dwarven scholar and theoretical metaphysicist, on the Faculty of Metaphysics at the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>).  He is the author of [The Lore of the Feywild](<../../things/books/the-lore-of-the-feywild.md>), and is acknowledged as something of an expert on the lore of the [Feywild](<../../cosmology/feywild.md>), although he has never had the courage to travel there himself. 
-
-
 

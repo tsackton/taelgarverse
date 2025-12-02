@@ -19,7 +19,7 @@ title: Arryn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../species/humans.md>) (he/him)  
+    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
     Originally from: the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)

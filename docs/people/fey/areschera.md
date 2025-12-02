@@ -15,7 +15,7 @@ title: Areschera
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../species/extraplanar/fey.md>) (she/her)  
+    A [fey](<../../creatures/fey/fey.md>) (she/her)  
     Died February 20th, 1720  
     { .bio }
 

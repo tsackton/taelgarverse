@@ -26,4 +26,4 @@ The south western shore is reedy and marshy, and a small lizardfolk community --
 
 The lake itself is about 3 miles across, roughly circular. There is a navigation hazard in the middle of the lake -- the Rinburg Rocks, they are usually called, which is basically a big underwater rocky outcropping that is a few hundred feet wide and just a foot or so beneath the surface. Most of the rest of the lake is fairly deep, fifty or a hundred feet.
 
-There are some shipwrecks around the base of the Rinburg Rocks that date from troop transports that sunk during the [hobgoblin wars](<../../../../history/third-hobgoblin-war-sembara.md>).  
+There are some shipwrecks around the base of the Rinburg Rocks that date from troop transports that sunk during the [hobgoblin wars](<../../../../events/1600s/third-hobgoblin-war-sembara.md>).  

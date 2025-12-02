@@ -13,10 +13,10 @@ title: Latazaro
 # Latazaro
 :speaker:{ .middle } *(LAH-tah-zah-roh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../species/lizardfolk.md>) swamp in the [Western Green Sea](<../western-green-sea/western-green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../creatures/species/lizardfolk.md>) swamp in the [Western Green Sea](<../western-green-sea/western-green-sea.md>)  
 </div>
 
 
 
 
-A [lizardfolk](<../../species/lizardfolk.md>) community on the borders of [Tyrwingha](<tyrwingha/tyrwingha.md>) and [Western Cymea](<../western-green-sea/realms/western-cymea.md>). 
+A [Lizardfolk](<../../creatures/species/lizardfolk.md>) community on the borders of [Tyrwingha](<tyrwingha/tyrwingha.md>) and [Western Cymea](<../western-green-sea/realms/western-cymea.md>). 

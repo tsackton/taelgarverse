@@ -9,7 +9,7 @@ title: Miracle of the Guided Wanderers
 ---
 # The Miracle of the Guided Wanderers
 
-A [Mos Numena](<../religions/mos-numena/mos-numena.md>) feast day, celebrated on September 11th each fall in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>). It commemorates the founding of a small village in the [Barony of Brumecliff](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-brumecliff.md>), the inhabitants of which resettled in Asineau after the [hobgoblin wars](<../../history/third-hobgoblin-war-sembara.md>). 
+A [Mos Numena](<../religions/mos-numena/mos-numena.md>) feast day, celebrated on September 11th each fall in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>). It commemorates the founding of a small village in the [Barony of Brumecliff](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-brumecliff.md>), the inhabitants of which resettled in Asineau after the [hobgoblin wars](<../../events/1600s/third-hobgoblin-war-sembara.md>). 
 
 The story as told by [Eleanor](<../../people/sembarans/eleanor.md>) is:
 

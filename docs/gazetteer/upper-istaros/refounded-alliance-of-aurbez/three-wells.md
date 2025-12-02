@@ -6,6 +6,8 @@ typeOf: meeting place
 whereabouts:
 - {type: secondary, location: Aurbez Plateau}
 - {type: primary, location: Refounded Alliance of Aurbez}
+dm_notes: color
+dm_owner: tim
 title: Three Wells
 ---
 # Three Wells

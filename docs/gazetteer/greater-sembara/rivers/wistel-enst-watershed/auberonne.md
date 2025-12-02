@@ -4,7 +4,9 @@ tags: [place]
 displayDefaults: {defArt: the}
 typeOf: waterway
 typeOfAlias: river
-whereabouts: Barony of Aveil
+whereabouts:
+- {type: primary, location: Barony of Aveil}
+- {type: secondary, location: Wistel-Enst Watershed}
 pronunciation: Oh-beh-ron
 dm_notes: none
 dm_owner: mike
@@ -14,6 +16,7 @@ title: Auberonne
 :speaker:{ .middle } *(Oh-beh-ron)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A river in the [Barony of Aveil](<../../sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../sembara/sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Wistel–Enst Watershed](<./wistel-enst-watershed.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

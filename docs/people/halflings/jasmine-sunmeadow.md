@@ -23,7 +23,7 @@ title: Jasmine Sunmeadow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../species/halflings.md>) (she/her), of the [Sunmeadows](<../../groups/halfling-families/sunmeadows.md>)  
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Sunmeadows](<../../groups/halfling-families/sunmeadows.md>)  
     { .bio }
 
     Originally from: [The Green Leaf](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/the-green-leaf.md>), [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

@@ -21,7 +21,7 @@ title: Nahto
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An Islander kenku (he/him)  
+    An Islander [kenku](<../../creatures/species/kenku.md>) (he/him)  
     Born DR 1700 (49 years old)  
     { .bio }
 

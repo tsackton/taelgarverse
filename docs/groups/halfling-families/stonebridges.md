@@ -14,7 +14,7 @@ title: Stonebridges
 # The Stonebridges
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A [halfling](<../../species/halflings.md>) family  
+   :octicons-info-24:{ .lg .middle } A [halfling](<../../creatures/species/halflings.md>) family  
    :material-calendar: Founded DR 1200 (549 years ago)  
 </div>
 
