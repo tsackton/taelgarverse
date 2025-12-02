@@ -1,8 +1,11 @@
+_dm_notes/
+_MoC/
+_sessions/
+_templates/
+_scripts/
 Campaigns/*
 !Campaigns/Dunmar*
 !Campaigns/Addermarch*
-!Campaigns/Player*
-!Campaigns/Labyrinths*
 !Campaigns/Mawar*
 !Campaigns/Great*
 !Campaigns/One*
