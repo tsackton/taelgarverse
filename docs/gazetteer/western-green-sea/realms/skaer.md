@@ -1,22 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags: [ancestry, status/cleanup/text]
 name: Skaer
-typeOf: realm
 whereabouts: Skaerhem
 dm_notes: color
 dm_owner: tim
 title: Skaer
 ---
 # Skaer
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A realm in [Skaerhem](<../skaerhem/skaerhem.md>), the [Western Green Sea](<../western-green-sea.md>)  
-</div>
 
 
 
-
-The Skaer, sometimes called the Skaegish, are an ancient people, an insular society descended from the original mariner migrants who left [Hkar](<../../../history/historical-realms/hkar.md>) and settled the [Green Sea](<../../green-sea.md>) before [The Downfall](<../../../events/ancient/the-downfall.md>). They, unlike any other inhabitants of the [Green Sea](<../../green-sea.md>), retain the worship of the ancient mariner ocean goddess, [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>).
+The Skaer, sometimes called the Skaegish, are an ancient people, an insular society descended from the original mariner migrants who left [Hkar](<../../../history/historical-realms/hkar.md>) and settled the [Green Sea](<../../green-sea.md>) before The Downfall. They, unlike any other inhabitants of the [Green Sea](<../../green-sea.md>), retain the worship of the ancient mariner ocean goddess, [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>).
 
 ## Community
 
@@ -31,10 +26,10 @@ The tight knit communities of the Skaer tend to a certain degree of conformity. 
 The Skaer tend not to build large cities -- in part because with the extensive volcanic activity on the Skaer islands, it is not unusual for towns to be destroyed by slow moving lava flows. The largest and oldest cities with a Skaer heritage are actually on the mainland, generally in [Vostok](<../../greater-sembara/vostok/vostok.md>) (including [Tollen](<../../greater-sembara/tollen/tollen.md>)). Most Skaer live in small villages, and while settlement density tends to be higher in places with good harbors or abundant geothermal heat, true market towns don't exist in the Skaer culture. 
 ## History
 
-The Skaer have a long history, tracing their ancestry to the original mariners that left [Hkar](<../../../history/historical-realms/hkar.md>) before [The Downfall](<../../../events/ancient/the-downfall.md>) and settled in the [Green Sea](<../../green-sea.md>). Bullet points:
+The Skaer have a long history, tracing their ancestry to the original mariners that left [Hkar](<../../../history/historical-realms/hkar.md>) before The Downfall and settled in the [Green Sea](<../../green-sea.md>). Bullet points:
 
 - Original Skaer were eastern mariners fleeing a religious schism and trying to find a quiet place to live in peace
-- After [The Downfall](<../../../events/ancient/the-downfall.md>), the expansionist strand of their religion became dominant, and the Skaer established a maritime empire stretching from the Skaer islands to the [Western Gulf](<../../greater-sembara/western-gulf.md>) and much of [Cymea](<./cymea.md>). 
+- After The Downfall, the expansionist strand of their religion became dominant, and the Skaer established a maritime empire stretching from the Skaer islands to the [Western Gulf](<../../greater-sembara/western-gulf.md>) and much of [Cymea](<./cymea.md>). 
 - The empire fell away before the Drankorian expansion, and the Skaer retreated to the islands and the near shores of [Vostok](<../../greater-sembara/vostok/vostok.md>) and western [Ursk](<../../northern-green-sea/ursk/ursk.md>)
-- After the fall of [Drankor](<../../../history/drankorian-empire/drankorian-empire.md>), the Skaer expand again, but now [Cymea](<./cymea.md>) is a strong competitor, and the Skaer end up raiding in the [Western Gulf](<../../greater-sembara/western-gulf.md>) instead of fully establishing an empire. This is a foundational period of Sembaran history, and legends of Skaer raiders become embedded in the Sembaran psyche. 
+- After the fall of [Drankor](<../../../history/historical-realms/drankorian-empire.md>), the Skaer expand again, but now [Cymea](<./cymea.md>) is a strong competitor, and the Skaer end up raiding in the [Western Gulf](<../../greater-sembara/western-gulf.md>) instead of fully establishing an empire. This is a foundational period of Sembaran history, and legends of Skaer raiders become embedded in the Sembaran psyche. 
 - After the [Great War](<../../../events/1500s/great-war.md>), the Skaer do not turn to expansion again, and it is the Tollender navy that claims the power vacuum as [Cymea](<./cymea.md>) declines. 

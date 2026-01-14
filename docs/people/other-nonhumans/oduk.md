@@ -16,7 +16,7 @@ title: Oduk
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A demon (he/him)  
+    A [demon](<../../creatures/extraplanar/demons.md>) (he/him)  
     { .bio }
 
     Based in [Abyss](<../../cosmology/spiritual-realms/abyss.md>), [Spiritual Realms](<../../cosmology/spiritual-realms/spiritual-realms.md>)

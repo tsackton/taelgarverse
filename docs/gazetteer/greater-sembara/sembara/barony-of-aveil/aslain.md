@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: settlement
 typeOfAlias: town
-founded: 1652
+created: 1652
 whereabouts: Barony of Aveil
 population: 1187
 pronunciation: Ahz-lane
@@ -16,6 +16,7 @@ title: Aslain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 1,187  
+   :material-calendar: Founded DR 1652 (98 years ago)  
     :octicons-location-24:{ .lg .middle } A town in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 

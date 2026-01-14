@@ -8,14 +8,16 @@ whereabouts: Garamjala Desert
 pronunciation: ZURK-kaz
 dm_owner: tim
 dm_notes: important
+ancestry: free orc
+typeOfAlias: monarchy
 title: Xurkhaz
 ---
 # Xurkhaz
 :speaker:{ .middle } *(ZURK-kaz)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: Founded DR 1583 (166 years ago)  
-    :octicons-location-24:{ .lg .middle } A realm in the [Garamjala Desert](<../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../drankorian-hinterland/desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../../drankorian-hinterland/drankorian-hinterland.md>)  
+   :material-calendar: Founded DR 1583 (167 years ago)  
+    :octicons-location-24:{ .lg .middle } A free orc monarchy in the [Garamjala Desert](<../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../drankorian-hinterland/desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../../drankorian-hinterland/drankorian-hinterland.md>)  
 </div>
 
 
@@ -24,7 +26,7 @@ title: Xurkhaz
 Xurkhaz, the Land of the Peaceful Sun, is the kingdom of the [People of the Rainbow](<../../../groups/orc-hordes/people-of-the-rainbow.md>).
 ## Geography
 
-Xurkhaz is roughly a triangle, wedged between the [Kulthul](<../../major-rivers/istaros-watershed/kulthul.md>) and the [Istaros](<../../major-rivers/istaros-watershed/istaros.md>) rivers (both tributaries of the [Istaros](<../../major-rivers/istaros-watershed/istaros.md>), to the Dunmari). The borders of Xurkhaz start in the northeast at a point on the Drogar about 120 miles north of the confluence, where the terrain on the east bank rises sharply into a series of jagged, broken hills, and the river rushes through a series of waterfalls and gorges. It follows the line of the Drogar south, remaining on the western bank until the hills to the east flatten into dry, cracked plains, about 60 miles north of the confluence. Here the river valley itself is hospitable, and the [Orcs](<../../../creatures/species/orcs.md>) of Xurkhaz settle both sides of the Drogar densely, continuing south to a point about 40 miles downriver of the confluence with the Kulthul. Here, the river turns and flows slowly through sandy deserts, and the inhospitable land further south is not settled. To the west, Xurkhaz follows the course of the Kulthul, which forms a defensible western border against the dangers of the [Nashtkar](<../../greater-dunmar/hara-basin/nashtkar.md>), end in a series of forts about 100 miles north of the confluence. 
+Xurkhaz is roughly a triangle, wedged between the [Kulthul](<../../major-rivers/istaros-watershed/kulthul.md>) and the [Istaros](<../../major-rivers/istaros-watershed/istaros.md>) rivers. The borders of Xurkhaz start in the northeast at a point on the Drogar about 120 miles north of the confluence, where the terrain on the east bank rises sharply into a series of jagged, broken hills, and the river rushes through a series of waterfalls and gorges. It follows the line of the Drogar south, remaining on the western bank until the hills to the east flatten into dry, cracked plains, about 60 miles north of the confluence. Here the river valley itself is hospitable, and the [Orcs](<../../../creatures/species/orcs.md>) of Xurkhaz settle both sides of the Drogar densely, continuing south to a point about 40 miles downriver of the confluence with the Kulthul. Here, the river turns and flows slowly through sandy deserts, and the inhospitable land further south is not settled. To the west, Xurkhaz follows the course of the Kulthul, which forms a defensible western border against the dangers of the [Nashtkar](<../../greater-dunmar/nashtkar.md>), end in a series of forts about 100 miles north of the confluence. 
 
 
 

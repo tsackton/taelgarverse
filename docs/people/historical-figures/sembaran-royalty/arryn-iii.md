@@ -23,12 +23,12 @@ dm_owner: none
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
-    Born DR 1702 (47 years old)  
+    Born DR 1702 (48 years old)  
     King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), and [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (since DR 1745)  
     { .bio }
 
     Originally from: [Tafolwern](<../../../gazetteer/greater-sembara/tyrwingha/tafolwern.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
-    Based in [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
+    Based in [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 

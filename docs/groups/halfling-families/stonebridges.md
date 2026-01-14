@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {defArt: the, partOf: ''}
 campaignInfo:
 name: Stonebridges
@@ -15,7 +15,7 @@ title: Stonebridges
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
    :octicons-info-24:{ .lg .middle } A [halfling](<../../creatures/species/halflings.md>) family  
-   :material-calendar: Founded DR 1200 (549 years ago)  
+   :material-calendar: Founded DR 1200 (550 years ago)  
 </div>
 
 

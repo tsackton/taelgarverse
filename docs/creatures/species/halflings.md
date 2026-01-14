@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/check/ai]
+tags: [creature, status/check/mike]
 name: Halflings
 aliases: [halfling, halflings, Halfling]
 dm_owner: joint
@@ -24,10 +24,10 @@ Names usually pair a short given name with a distinctive family name, sometimes 
 
 ## Lifecycle
 
-Halflings reach maturity in their early 20s and commonly live a little past 100; a lucky few see longer. Families are broadly extended and communitarian in habit: caravans and ship crews are typically kin companies first and businesses second, with apprentices, in‑laws, and the occasional foundling folded into the roll.
+Halflings reach maturity in their early 20s and commonly live a little past 100; a lucky few live longer. Families are broadly extended and communitarian in habit: caravans and ship crews are typically kin companies first and businesses second, with apprentices, in‑laws, and the occasional foundling or wanderer folded into the roll.
 ## Settlements and Homelands
 
-Halflings are wanderers, claiming no singular homeland. Those that settle typically do so among other species. Halfling communities can be found in dwarven cities high in the mountains, human farming villages, bustling ports, cosmopolitan cities, and even the occasional lizardfolk river-town. Lively harbor taverns, bustling crossroads inns, and market‑side yards run by halfling families are commonplace in many parts of the world, for when halflings do settle, they tend to cluster where movement concentrates: at river landings, ports, crossroads, tollgates, and market environs. In many places, halfling‑kept inns act as wayhouses, mail drops, price boards, and hubs of halfling community, providing a homely welcome, information, and gossip to travelers, while also ensuring that even settled halflings remain threaded into the wider network of travel, trade, and kin.
+Halflings are wanderers, claiming no homeland. Those that settle typically do so among other species. Halfling communities can be found in dwarven cities high in the mountains, human farming villages, bustling ports, cosmopolitan cities, and even the occasional lizardfolk river-town. Lively harbor taverns, bustling crossroads inns, and market‑side yards run by halfling families are commonplace in many parts of the world, for when halflings do settle, they tend to cluster where movement concentrates: at river landings, ports, crossroads, tollgates, and market environs. In many places, halfling‑kept inns act as wayhouses, mail drops, price boards, and hubs of halfling community, providing a homely welcome, information, and gossip to travelers, while also ensuring that even settled halflings remain threaded into the wider network of travel, trade, and kin.
 
 Most halflings, however, simply never settle down. Whether they sail the Green Sea, traveling from port to port, or wander the roads of the Chardonian Empire, or even make great continent spanning journeys over years of travel, small communities of halflings can be found moving from place to place, rarely staying more than a season or year. Welcomed wherever they go, but driven by wanderlust to avoid putting down roots, these communities trade stories and goods for company, food, and drink. 
 
@@ -38,6 +38,7 @@ While it is not uncommon to see lone halflings, or small groups, on the road to 
 Hospitality, memory, and fair dealing define their public face. Travelers speak of halfling feasts and long evenings of song; merchants learn that debts of kindness may be repaid at surprising moments, and that word of treachery travels fast. Discipline aboard ship and loyalty within the company sit alongside an easy warmth with strangers who come in peace. Memory‑debts are honored [even across generations](<../../primary-sources/story-about-halfling-merchants.md>); a favor owed by a great‑grandparent may be repaid in coin, bargain, or feast when a caravan next passes through.
 
 ### Religion
+_See more: [Halfling Religious Practice](<../../gods-and-religions/religions/halfling-religious-practice.md>)_
 
 Most halflings honor their firstborn creator gods, who they call the [First Ones](<../../gods-and-religions/gods/embodied-gods/first-ones/first-ones.md>)—[Nwana](<../../gods-and-religions/gods/embodied-gods/first-ones/nwana.md>) (the Stranger and Child), [Obito](<../../gods-and-religions/gods/embodied-gods/first-ones/obito.md>) (the Music‑Maker and Merchant), and [Jemghari](<../../gods-and-religions/gods/embodied-gods/first-ones/jemghari.md>) (the Storyteller and Wanderer)—through songs, toasts, and shared remembrance rather than temples. Shrines are often places of good memory: a favored overlook, a quiet grove off the trade road, the hearth of a well‑kept inn. History‑bearers and story-keepers serve as the informal clergy of halfling communities, bearing and retelling the memories that bind kin together, marking beginnings and endings with prayers to remember well. In their telling, certain events, repeatedly retold, become layered memories, recalled not only as they occurred but as they were later narrated. Nonetheless, for many halflings, simply acknowledging and paying attention to their experience as they go through life is all that is needed to pay homage to their creators.
 
@@ -64,7 +65,9 @@ The Dyes of Tollen:
 
 ## Historical Perspective
 
-Halflings don’t record their history; they remember it. The tale of years is told, and told again, created and recreated by the history-tellers and story keepers of each generation, and then recalled as their memories join the ancestral awareness when they pass on from their individual lives. This living relationship to history means that years are not numbered and dated from fixed points in time. Instead, halflings refer to the song of years and the sagas of eras to mark their history. 
+Halflings don’t record their history; they remember it. The tale of years is told, and told again, created and recreated by the history-tellers and story keepers of each generation, and then recalled as their memories join the ancestral awareness when they pass on from their individual lives. This living relationship to history means that years are not numbered and dated from fixed points in time. Instead, halflings refer to the song of years and the sagas of eras to mark their history, with each year given a unique name that spreads among the halfling community via their shared ancestral mind. 
+
+
 
 In these ancient tales of years, halflings tell of wandering even when the world was new, when songs could sing sustenance into existence. They tell the stories of meeting humans, of the new songs of trade, of the world changing, yet always halfling journeys as a constant thread of connection. Many halflings claim they were the first to sail the Green Sea, and as the world changed again and again they were always there, to tell the new stories. 
 

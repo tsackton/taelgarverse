@@ -26,7 +26,7 @@ title: Harriet Goodbarrel
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Goodbarrels](<../../groups/halfling-families/goodbarrels.md>)  
-    Born DR 1685 (64 years old)  
+    Born DR 1685 (65 years old)  
     Proprietor of [The Singing Fox](<../../gazetteer/greater-sembara/tollen/places/the-singing-fox.md>)  
     { .bio }
 

@@ -27,7 +27,7 @@ title: Callie Charmheart
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
-    Born DR 1722 (27 years old)  
+    Born DR 1722 (28 years old)  
     { .bio }
 
     Originally from: Unknown
@@ -37,7 +37,7 @@ title: Callie Charmheart
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 29th, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 29th, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 

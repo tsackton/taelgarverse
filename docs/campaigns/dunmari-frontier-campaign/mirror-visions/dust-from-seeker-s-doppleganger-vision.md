@@ -5,6 +5,7 @@ displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 name: Dust from Seeker's Doppelgänger Vision
 DR: 1749-05-13
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 title: Dust from Seeker's Doppelgänger Vision
 ---
 # Dust from Seeker's Doppelgänger Vision

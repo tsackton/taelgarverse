@@ -4,10 +4,11 @@ tags: [place]
 name: Barony of Mostrevé
 whereabouts: Borderlands
 aliases: [Barony of Mostrevé]
-typeOf: barony
+typeOf: realm
 pronunciation: moh-strev-AY
 dm_owner: none
 dm_notes: none
+typeOfAlias: barony
 title: Barony of Mostrevé
 ---
 # The Barony of Mostrevé

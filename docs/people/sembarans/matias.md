@@ -17,7 +17,7 @@ title: Matias
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1664 (85 years old)  
+    Born DR 1664 (86 years old)  
     Guardsman of the Asineau Manor Guard  
     { .bio }
 

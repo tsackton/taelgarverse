@@ -19,7 +19,7 @@ title: Jean Luc D'Aslain
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [d'Aslains](<../../groups/sembaran-noble-houses/d-aslains.md>)  
-    Born DR 1690 (59 years old)  
+    Born DR 1690 (60 years old)  
     { .bio }
 
     Originally from: [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Drowned Tower
-typeOf: tower
-subTypeOf: ruined
+typeOf: building
+subTypeOf:
 whereabouts: Erbalta Plains
 dm_owner: none
 dm_notes: none
+typeOfAlias: ruined tower
 title: Drowned Tower
 ---
 # The Drowned Tower

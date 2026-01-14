@@ -3,9 +3,10 @@ headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Tollen
 displayDefaults: {defArt: ''}
-typeOf: ward
+typeOf: neighborhood
 dm_notes: none
 dm_owner: none
+typeOfAlias: ward
 title: Fairgate
 ---
 # Fairgate

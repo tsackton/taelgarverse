@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Stoneborn Statue Dungeon
-typeOf: ruin
+typeOf: building
 whereabouts: Central Dunmar
 dm_notes: important
 dm_owner: tim
+typeOfAlias: ruin
 title: Stoneborn Statue Dungeon
 ---
 # The Stoneborn Statue Dungeon

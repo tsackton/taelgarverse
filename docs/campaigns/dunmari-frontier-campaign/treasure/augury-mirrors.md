@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 typeOf: mirror
 subTypeOf: magic
 ancestry: fey
@@ -11,7 +11,7 @@ title: Augury Mirrors
 ---
 # Augury Mirrors
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Fey](<../../../creatures/fey/fey.md>) Magic Mirror__  
+- :octicons-info-24:{ .lg .middle } __([Fey](<../../../creatures/fey/fey.md>) magic mirror)__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/5346832-augury-mirrors) 
 </div>
 

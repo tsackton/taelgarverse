@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: halfling
 name: Alton
 gender: male
 born: 1722
+affiliations:
+- {org: Silver Tempests}
 whereabouts:
 - {type: home, end: 1747-01-01, location: Chardon}
 - {type: home, start: 1747-04-08, location: Voltara}
@@ -17,11 +19,12 @@ title: Alton
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../../creatures/species/halflings.md>) (he/him)  
-    Born DR 1722 (27 years old)  
+    Born DR 1722 (28 years old)  
+    Member of the [Silver Tempests](<./silver-tempests.md>)  
     { .bio }
 
     Originally from: [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-    Based in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Based in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Northern Provinces](<../../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>)
 </div>
 
 

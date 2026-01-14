@@ -1,6 +1,8 @@
 ---
-{title: Vision of Rai and Apollyon}
+tags: [source]
+title: Vision of Rai and Apollyon
 ---
+
 A vision seen by the party upon gaining the third [Jade Piece of Rai's Hand](<../treasure/jade-piece-of-rai-s-hand.md>).
 
 *As Kenzo grabs the jade fragment, the world shifts.*

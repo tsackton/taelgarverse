@@ -1,10 +1,11 @@
 ---
-tags: [holiday]
+tags: [background, religion/mosnumena]
+typeOf: holiday
 name: Pyravela
 pronunciation: PIE-ra-VEL-a
 fc-date: {day: 29, month: 12}
 fc-end: {day: 31, month: 12}
-dm_owner: mike,tim
+dm_owner: joint
 dm_notes: important
 title: Pyravela
 ---
@@ -14,8 +15,8 @@ title: Pyravela
 An ancient [Mos Numena](<../religions/mos-numena/mos-numena.md>) holiday, celebrated on the last three days of the year in the Drankorian reckoning, December 29-31. 
 
 - Pyravela is an ancient holiday, originally developed in the early days of [Mos Numena](<../religions/mos-numena/mos-numena.md>), during the formative religious period on [Hkar](<../../history/historical-realms/hkar.md>).
-- In [Drankor](<../../history/drankorian-empire/drankorian-empire.md>), marked the end of the 10-day intercalary period between the end of the year (marked by the winter solstice) and the beginning of the new year. In modern calendars, these intercalary days are gone, so is celebrated on the last few days of the year.
-- Associated with [The Wyrdling](<../gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>), who was seen to have power over the “days out of time” in [Drankor](<../../history/drankorian-empire/drankorian-empire.md>).
+- In [Drankor](<../../history/historical-realms/drankorian-empire.md>), marked the end of the 10-day intercalary period between the end of the year (marked by the winter solstice) and the beginning of the new year. In modern calendars, these intercalary days are gone, so is celebrated on the last few days of the year.
+- Associated with [The Wyrdling](<../gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>), who was seen to have power over the “days out of time” in [Drankor](<../../history/historical-realms/drankorian-empire.md>).
 - Strongest universal traditions are associated with costumed parades / fetes / dances, and feasts, typically large parties where anyone is welcome to come and eat from your table. During Pyravela the rich and the poor sit together and no one is turned away because of status or wealth. 
 - Another universal tradition is bonfires the last night, and especially the idea of casting prayers into the fire, especially prayers for change, for hope for new beginnings, for dreams to come true. Often incense and sometimes drugs are burned in these fires, and those who breath the smoke are said to receive visions and prophecies from [The Wyrdling](<../gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>). The last night, with the bonfires, are a time when the future is close and prophecy fills the air. 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/needswork/old]
+tags: [creature, status/wip]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
 dm_notes: color

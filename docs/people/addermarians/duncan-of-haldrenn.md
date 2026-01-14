@@ -18,7 +18,7 @@ title: Duncan of Haldrenn
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1692 (57 years old)  
+    Born DR 1692 (58 years old)  
     { .bio }
 
     Based in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)

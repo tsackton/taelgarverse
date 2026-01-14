@@ -4,16 +4,17 @@ tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Agata's Lair
-typeOf: house
+typeOf: building
 typeOfAlias: lair
 whereabouts: Garamjala Desert
 dm_notes: important
 dm_owner: tim
+subTypeOf: house
 title: Agata's Lair
 ---
 # Agata's Lair
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A lair in the [Garamjala Desert](<../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../drankorian-hinterland/desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../../drankorian-hinterland/drankorian-hinterland.md>)  
+-    :octicons-location-24:{ .lg .middle } A house lair in the [Garamjala Desert](<../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../drankorian-hinterland/desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../../drankorian-hinterland/drankorian-hinterland.md>)  
 </div>
 
 

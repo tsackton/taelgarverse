@@ -28,4 +28,4 @@ title: Oudine
 
 
 
-A washerwoman from Underhill, who died when her baby turned into a zombie and exploded. Some of the people think she has had several children with various different men, and lived at Tumbledown Farm.
+A washerwoman from [Underhill](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/underhill.md>), who died when her baby turned into a zombie and exploded. Some of the people think she has had several children with various different men, and lived at [Tumbledown Farm](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/tumbledown-farm.md>).

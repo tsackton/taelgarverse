@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 typeOf: company
 created: 1749-07-09
-subtypeOf: imperial charter
+subTypeOf: imperial charter
 ancestry: Chardonian
 partOf: Chardonian Empire
 dm_owner: none
@@ -14,7 +14,7 @@ title: Imperial Chalyte Mining Company
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
    :octicons-info-24:{ .lg .middle } A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) imperial charter company  
-   :material-calendar: Founded July 9th, 1749 (3 months ago)  
+   :material-calendar: Founded July 9th, 1749 (5 months ago)  
 </div>
 
 

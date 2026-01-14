@@ -5,6 +5,7 @@ name: Treaty of Valarin
 DR: 1430
 dm_owner: none
 dm_notes: none
+typeOf: treaty
 title: Treaty of Valarin
 ---
 # The Treaty of Valarin

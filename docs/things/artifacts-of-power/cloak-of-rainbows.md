@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment, testcase, status/cleanup/metadata]
+tags: [object, testcase, status/cleanup/metadata]
 campaignInfo:
 created: 917
 subTypeOf: magical
@@ -18,9 +18,9 @@ title: Cloak of Rainbows
 ---
 # The Cloak of Rainbows
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Magical Cloak__  
-   Created DR 917 (832 years ago)  
-   Created by [Cloudspinner](<../../people/extraplanar-powers/archfey/cloudspinner.md>), in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>)  
+- :octicons-info-24:{ .lg .middle } __(unique magical cloak)__  
+   Created DR 917 (833 years ago)  
+   Created [Cloudspinner](<../../people/extraplanar-powers/archfey/cloudspinner.md>), in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>)  
    Owned by [Chief Lubash](<../../people/orcs/lubash.md>)  
 </div>
 

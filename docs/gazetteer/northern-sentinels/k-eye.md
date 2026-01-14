@@ -3,11 +3,12 @@ headerVersion: 2023.11.25
 tags: [place]
 aliases: [Red River]
 name: K'eye
-typeOf: river
+typeOf: waterway
 whereabouts: Forest of Nightmares
 pronunciation: keh-EYE
 dm_notes: color
 dm_owner: tim
+typeOfAlias: river
 title: K'eye
 ---
 # K'eye

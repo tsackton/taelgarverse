@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
+typeOf: cult
 dm_notes: important
 dm_owner: tim
 title: Eightfold Flame
@@ -8,7 +9,7 @@ title: Eightfold Flame
 # The Eightfold Flame
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } An organization  
+   :octicons-info-24:{ .lg .middle } A cult  
 </div>
 
 

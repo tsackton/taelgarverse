@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: village
+typeOf: settlement
 whereabouts: Refounded Alliance of Aurbez
 dm_notes: none
 dm_owner: mike
+typeOfAlias: village
 title: Laicon
 ---
 # Laicon

@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person, status/active]
-campaignInfo: []
+tags: [person, status/gameupdate/clee]
 name: Viepuck
 born: 1706-10-01
 species: human
@@ -27,7 +26,7 @@ title: Viepuck
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     { .bio }
 
-    Originally from: [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
+    Originally from: [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of January 16th, 1720): [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)

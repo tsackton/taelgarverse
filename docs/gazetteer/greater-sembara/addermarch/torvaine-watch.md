@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/gameupdate]
+tags: [place, status/gameupdate/adma]
 displayDefaults: {defArt: ''}
-typeOf: castle
+typeOf: building
 whereabouts: Torvaine Forest
 dm_owner: tim
 dm_notes: important
+typeOfAlias: castle
 title: Torvaine Watch
 ---
 # Torvaine Watch

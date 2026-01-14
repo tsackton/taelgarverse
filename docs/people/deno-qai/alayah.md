@@ -18,7 +18,7 @@ title: Alayah
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1725 (24 years old)  
+    Born DR 1725 (25 years old)  
     { .bio }
 
     Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)

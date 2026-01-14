@@ -5,14 +5,14 @@ displayDefaults: {defArt: ''}
 name: Azta Lekua
 whereabouts: Orekatu
 aliases: [Footprint of the Gods]
-typeOf: place
+typeOf: region
 dm_notes: important
 dm_owner: tim
 title: Azta Lekua
 ---
 # Azta Lekua
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A place in [Orekatu](<./orekatu.md>), the [Far South](<./far-south.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in [Orekatu](<./orekatu.md>), the [Far South](<./far-south.md>)  
 </div>
 
 

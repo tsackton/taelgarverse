@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 tags: [place, status/check/mike]
 name: Lavnoch Plateau
 aliases: [Lavnoch]
-typeOf: plateau
+typeOf: topographical feature
 whereabouts: Zimkova
 dm_notes: none
 dm_owner: none
+typeOfAlias: plateau
 title: Lavnoch Plateau
 ---
 # The Lavnoch Plateau

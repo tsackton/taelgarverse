@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, type: heard about him, date: 1749-01-08, wParty: '<person:U> <met> on <target>'}
 name: Elandrial
@@ -36,4 +36,4 @@ title: Elandrial
 :octicons-location-24:{ .lg .middle } The [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) heard about him on January 8th, 1749  
 
 
-A elf who was active during the Drankorian Era. Participated in attempts to decipher the [Enchiridion of the Occulta Ludum](<../../things/books/enchiridion-of-the-occulta-ludum.md>).
+A elf who was active during the [Drankorian Era](<../../history/history-of-the-drankorian-empire.md>). Participated in attempts to decipher the [Enchiridion of the Occulta Ludum](<../../things/books/enchiridion-of-the-occulta-ludum.md>).

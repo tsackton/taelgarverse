@@ -19,7 +19,7 @@ title: Galen
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Member of the Faculty of Magic, the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>), and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
+    Member of the [Faculty of Magic](<../../groups/chardonian-organizations/faculty-of-magic.md>), the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>), and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 
     Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

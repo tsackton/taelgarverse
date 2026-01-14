@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/minor]
+tags: [group, status/check/minor]
 name: Fraternity of the Empty Moon
 timelineDescriptor: Fraternity of the Empty Moon
 typeOf: cult
@@ -20,12 +20,12 @@ title: Fraternity of the Empty Moon
 
 The Fraternity of the Empty Moon is a cult of werewolves, dedicated to the mission of enhancing the power of the [Mad One](<../gods-and-religions/gods/embodied-gods/mad-one.md>) in Taelgar by creating and enhancing connections with the plane of [Pandemonium](<../cosmology/spiritual-realms/pandemonium.md>).
 
-The Fraternity of the Empty Moon is primarily active in [Central Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/central-dunmar.md>), [Eastern Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), and the [Nashtkar](<../gazetteer/greater-dunmar/hara-basin/nashtkar.md>), with a particular interest in [Tokra](<../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), which is close to an [Extraplanar Weak Point](<../cosmology/planar-concepts/extraplanar-weak-point.md>) linked to [Pandemonium](<../cosmology/spiritual-realms/pandemonium.md>). 
+The Fraternity of the Empty Moon is primarily active in [Central Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/central-dunmar.md>), [Eastern Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), and the [Nashtkar](<../gazetteer/greater-dunmar/nashtkar.md>), with a particular interest in [Tokra](<../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), which is close to an [Extraplanar Weak Point](<../cosmology/planar-concepts/extraplanar-weak-point.md>) linked to [Pandemonium](<../cosmology/spiritual-realms/pandemonium.md>). 
 
 As of DR 1748, the cult is thought to be destroyed. 
 ## Chronology
 
-- 1625 DR *(Fraternity of the Empty Moon)*: Driven east from [Tokra](<../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) into the [Nashtkar](<../gazetteer/greater-dunmar/hara-basin/nashtkar.md>) during [Exile of Fraternity of the Empty Moon](<../events/1600s/exile-of-fraternity-of-the-empty-moon.md>)
+- 1625 DR *(Fraternity of the Empty Moon)*: Driven east from [Tokra](<../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) into the [Nashtkar](<../gazetteer/greater-dunmar/nashtkar.md>) during [Exile of Fraternity of the Empty Moon](<../events/1600s/exile-of-fraternity-of-the-empty-moon.md>)
 - 1735 DR *(Fraternity of the Empty Moon)*: Leader of the [Fraternity of the Empty Moon](<./fraternity-of-the-empty-moon.md>) arrives in [Kharsan](<../gazetteer/greater-dunmar/hara-basin/kharsan.md>) and begins to grow the Fraternity again, preaching the power of the return of [Jinnik](<../gods-and-religions/gods/high-gods/jinnik.md>)'s curse and freedom for Lycanthropes. 
 - 1747 DR *(Fraternity of the Empty Moon)*: A werewolf who is part of the [Fraternity of the Empty Moon](<./fraternity-of-the-empty-moon.md>) finds the [Scepter of Command](<../things/artifacts-of-power/scepter-of-command.md>) near [Kharsan](<../gazetteer/greater-dunmar/hara-basin/kharsan.md>)
 - Dec 11, 1747 DR *(Fraternity of the Empty Moon)*: Leader of the cult approaches [Agata](<../people/fey/agata.md>), seeking to make a deal. Trades the [Scepter of Command](<../things/artifacts-of-power/scepter-of-command.md>) to [Agata](<../people/fey/agata.md>), and receives promises that [Shakun's Protection](<../gods-and-religions/religions/five-siblings/shakun-s-protection.md>) will not stop the Fraternity from reaching [Tokra](<../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), as well as two scrolls: one to summon a demon, [the other](<../campaigns/dunmari-frontier-campaign/treasure/pandemonium-scroll.md>) to draw the plane of [Pandemonium](<../cosmology/spiritual-realms/pandemonium.md>) closer. 

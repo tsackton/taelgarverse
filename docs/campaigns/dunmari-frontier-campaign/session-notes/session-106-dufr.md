@@ -18,7 +18,7 @@ title: Dunmari Frontier - Session 106
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
 > *In Taelgar: May 16, 1749 DR to May 18, 1749 DR*
 > *On Earth: Thursday Sep 12, 2024*
-> *The [Awakened Jungle](<../../../gazetteer/drankorian-hinterland/awakened-jungle.md>) and a mysterious island*
+> *The [Awakened Jungle](<../../../gazetteer/drankorian-hinterland/awakened-jungle.md>) and a [mysterious island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)*
 
 The Dunmar Fellowship battles corruption at the Eldest tree and navigates a tumultuous storm to reach a mysterious island.
 ## Session Info
@@ -36,7 +36,7 @@ The Dunmar Fellowship battles corruption at the Eldest tree and navigates a tumu
 - May 16, 1749 DR, night: The Eldest tree awakens and communicates with the party.
 - May 17, 1749 DR, morning: The party speaks to the Eldest tree, learning about the monkeys and the flying lizards. The party meets the coastal monkeys and learns about the jade's possible location in the [Sea of Storms](<../../../gazetteer/drankorian-hinterland/sea-of-storms.md>). On [Vindristjarna](<../../../things/ships/vindristjarna.md>), the party flies into the [Sea of Storms](<../../../gazetteer/drankorian-hinterland/sea-of-storms.md>).
 - May 17, 1749 DR, evening: The party encounters the massive storm at sea and decides to rest for the night.
-- May 18, 1749 DR morning: The party attempts and fails to explore underwater to bypass the storm; Milo volunteers to sail through the storm with the party in the folding boat. Despite damage to the boat, the party arrives at the ~Circular Island~.
+- May 18, 1749 DR morning: The party attempts and fails to explore underwater to bypass the storm; Milo volunteers to sail through the storm with the party in the folding boat. Despite damage to the boat, the party arrives at the [Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>).
 ## Narrative
 On the evening of May 16, 1749 DR, the party confronted the corrupted Eldest tree, a once mighty sentinel of the jungle now ensnared in thorny, writhing vines. The air was eerily silent, with none of the usual sounds of the jungle life [Pip](<../../../people/other-nonhumans/pip.md>) the bat had described. As the group approached, the vines suddenly attacked, lashing out at them with surprising speed. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) scouted and found a pulsing knot at the vine's center, which seemed to serve as its core. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) fought fiercely to sever the vines that had entangled [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) used radiant magic to burn away sections of the corrupted plant. After a prolonged battle, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) managed to destroy the central knot, causing the vines to retreat, leaving behind the scarred but still-standing Eldest tree.
 

@@ -17,7 +17,7 @@ title: Jon Thorne
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Thornes of Cleenseau](<../../groups/sembaran-noble-houses/thornes-of-cleenseau.md>)  
-    Born DR 1669 (80 years old)  
+    Born DR 1669 (81 years old)  
     { .bio }
 
     Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)

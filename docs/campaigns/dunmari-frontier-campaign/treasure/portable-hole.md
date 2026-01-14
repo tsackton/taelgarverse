@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: container
 name: Dunmar Fellowship's Portal Hole
 subTypeOf: magical
@@ -10,7 +10,7 @@ title: Dunmar Fellowship's Portal Hole
 ---
 # The Dunmar Fellowship's Portal Hole
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) Magical Container__  
+- :octicons-info-24:{ .lg .middle } __([Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) magical container)__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/4699-portable-hole) 
 </div>
 

@@ -17,7 +17,7 @@ title: Enon
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A Deno'qai [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1688 (61 years old)  
+    Born DR 1688 (62 years old)  
     { .bio }
 
     Based in the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)

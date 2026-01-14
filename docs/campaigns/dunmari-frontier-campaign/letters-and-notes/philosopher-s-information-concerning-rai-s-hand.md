@@ -1,6 +1,8 @@
 ---
-{title: Philosopher's Information Concerning Rai's Hand}
+tags: [source]
+title: Philosopher's Information Concerning Rai's Hand
 ---
+
 The Writhing Chaos consumes.
 
 The Writhing Chaos sees.

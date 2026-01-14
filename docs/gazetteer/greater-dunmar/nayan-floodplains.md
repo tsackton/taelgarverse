@@ -1,15 +1,16 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: geographic region
+typeOf: region
 whereabouts: Greater Dunmar
 dm_notes: color
 dm_owner: tim
+typeOfAlias:
 title: Nayan Floodplains
 ---
 # The Nayan Floodplains
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A geographic region in [Greater Dunmar](<./greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in [Greater Dunmar](<./greater-dunmar.md>)  
 </div>
 
 

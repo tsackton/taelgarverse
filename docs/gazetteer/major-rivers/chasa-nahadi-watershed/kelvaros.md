@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Kelvaros
-typeOf: river
+typeOf: waterway
 whereabouts:
 - {type: primary, location: Erbalta Plains}
 - {type: secondary, location: Chasa-Nahadi Watershed}
 pronunciation: KEHL-va-ross
 dm_notes: none
 dm_owner: none
+typeOfAlias: river
 title: Kelvaros
 ---
 # Kelvaros

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 excludePublish: [clee]
-tags: [item/vehicle]
+tags: [object]
 typeOf: skyship
 pronunciation: vin-dree-SHAR-na
 displayDefaults: {linkText: true, ltItem: stored on}
@@ -29,7 +29,7 @@ title: Vindristjarna
 # Vindristjarna
 :speaker:{ .middle } *(vin-dree-SHAR-na)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Magical Skyship__  
+- :octicons-info-24:{ .lg .middle } __(unique magical skyship)__  
    Created unknown storm giant  
    Owned owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
 </div>

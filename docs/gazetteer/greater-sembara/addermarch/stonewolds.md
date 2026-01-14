@@ -2,8 +2,9 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Stonewolds
-displayDefaults: {defArt: the}
-typeOf: region
+displayDefaults: {defArt: the, wHome: '<ancestry:UA> <subtypeof:UA> <typeof:U> <(of )primary> <home:5Fq>'}
+typeOf: topographical feature
+typeOfAlias: rugged hills
 whereabouts: Carlinshire
 dm_owner: tim
 dm_notes: color
@@ -11,7 +12,7 @@ title: Stonewolds
 ---
 # The Stonewolds
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in [Carlinshire](<./carlinshire.md>), [Addermarch](<./addermarch.md>), [Greater Sembara](<../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } Rugged hills in [Carlinshire](<./carlinshire.md>), [Addermarch](<./addermarch.md>), [Greater Sembara](<../greater-sembara.md>)  
 </div>
 
 

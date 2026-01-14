@@ -20,8 +20,6 @@ title: Cleenseau
 </div>
 
 
-
-
 Cleenseau is a small market town of twelve hundred souls, nestled on the north bank of the River Enst. Situated at a major crossing of the river, it is a natural gathering place and trade crossroads. The reason for the town’s existence, and most important feature, is the massive stone bridge over the River Enst, the Cleenseau Bridge. Built a thousand years ago by the Drankorians (or perhaps, even longer ago by the giants, some scholars say), it is wide enough for eight oxen; it spans the 1200 feet of the Enst in ten graceful arches.
 
 The town of Cleenseau itself stands some five hundred yards from the river, just beyond the road as it curves to follow the course of the river east. The soil here is rocky and poor, and the landscape a mix of small wooded copses and rocky shrubland. The immediate surroundings of the town are fields, hard-won from the rocky soil, and to the east a large pasture and woodlot. In the summer, a handful of wooden docks appear along the bank by the village of [Auloutte](<../auloutte.md>), and small rafts fish for river trout, but these docks often wash away in the spring floods. The lifeblood of the town is the trade that comes along the [Great South Road](<../../../../roads/great-south-road.md>) - without the river crossing, the land would be too marginal to really support such a large concentration of people.  
@@ -35,11 +33,11 @@ The city walls are shaped like a bean, running north, then curving east before t
 * The South Close (A, on the map), between the [River Gate](<./river-gate-of-cleenseau.md>), the [Essford Manor](<./essford-manor.md>) (B), and the [North Gate](<./north-gate-of-cleenseau.md>) is drier during the spring and summer rains, being on slightly higher ground than the rest of the town, and is where the richer peasants and small artisans live. [The Crossroads Inn](<./the-crossroads-inn.md>) (F), on the west side of the gate, is also here as is Smith's Way (G), where several smiths ply their trade.
 * The Garrison Quarter (C), in the east, is clustered around the [army garrison](<../../../../../../groups/sembaran-army/army-garrison-of-cleenseau.md>), and is where the wealthiest live
 * The North Close (D), in the north, stretches along the wall from the [North Gate](<./north-gate-of-cleenseau.md>) to the [Garrison Gate](<./garrison-gate-of-cleenseau.md>) and and is where many of the farmers live. 
-* Underhill (E on the map), is the poorest neighborhood, and stretches along the base of the [Essford Manor](<./essford-manor.md>) hill
+* [Underhill](<./underhill.md>) (E on the map), is the poorest neighborhood, and stretches along the base of the [Essford Manor](<./essford-manor.md>) hill
 
 Three paths lead through the town:
 * A narrow dirt track (known as Char Street) runs along the interior of the southeast wall, lined with a number of small food stalls and shops (H). 
-* A paved road (Market Road) leads from east to west, between the Market Gate and the North Gate, and divides the North Close from the Garrison Quarter and Underhill
+* A paved road (Market Road) leads from east to west, between the Market Gate and the North Gate, and divides the North Close from the Garrison Quarter and [Underhill](<./underhill.md>)
 * A narrow track (Underhill Way) along the edge of the raised [Essford Manor](<./essford-manor.md>) provides a shortcut from south to north
 
 In the center of the town, the [Essford Manor](<./essford-manor.md>) stands on an acre of raised land surrounded by its own wooden palisade.

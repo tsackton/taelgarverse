@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 tags: [place]
 campaignInfo:
 name: Marches of Enford
-typeOf: march
+typeOf: realm
 whereabouts: Western Marches
 dm_notes: color
 dm_owner: none
+typeOfAlias: march
 title: Marches of Enford
 ---
 # The Marches of Enford

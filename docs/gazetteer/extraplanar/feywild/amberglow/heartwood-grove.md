@@ -4,9 +4,10 @@ tags: [place]
 whereabouts: Amberglow
 excludePublish: [clee]
 ancestry: fey
-typeOf: grove
+typeOf: forest
 dm_notes: none
 dm_owner: tim
+typeOfAlias: grove
 title: Heartwood Grove
 ---
 # The Heartwood Grove

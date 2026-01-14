@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 whereabouts: Kenzo
 typeOf: object of art
 typeOfAlias: fan
@@ -9,7 +9,7 @@ title: Chardon Fan
 ---
 # Chardon Fan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Fan__  
+- :octicons-info-24:{ .lg .middle } __(fan)__  
    Owned by [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)  
 </div>
 

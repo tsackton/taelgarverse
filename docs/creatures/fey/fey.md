@@ -1,5 +1,6 @@
 ---
-tags: [species, status/needswork/old]
+tags: [creature, status/check/errors]
+aliases: [fey]
 dm_owner: joint
 dm_notes: important
 title: Fey

@@ -1,15 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 displayDefaults: {defArt: ''}
 typeOf: book
-subtypeOf: lost
+subTypeOf: lost
 dm_owner: none
 dm_notes: none
 title: The Unstable Sphere
 ---
 # The Unstable Sphere
-:octicons-info-24:{ .lg .middle } **Lost Book**  
+:octicons-info-24:{ .lg .middle } **(lost book)**  
 
 The Unstable Sphere is an ancient work on [Limbo](<../../cosmology/spiritual-realms/limbo.md>), already a lost tome even during the height of Drankorian scholarship. Though some ascribe it an [elven](<../../creatures/species/elves.md>) origin, most arcane cosmologists consider it a relic of [Hkar](<../../history/historical-realms/hkar.md>). Only fragments survive, most notably in the compilations of Marcion of Iridel. 
 

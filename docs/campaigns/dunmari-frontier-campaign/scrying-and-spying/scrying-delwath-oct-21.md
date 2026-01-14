@@ -1,6 +1,8 @@
 ---
-{title: Scrying Delwath Oct 21}
+tags: [meta]
+title: Scrying Delwath Oct 21
 ---
+
 (Oct 21 - 25)
 
 #### Part 1: Visions of friends. 

@@ -18,11 +18,11 @@ title: Susanne Garay
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1666 (83 years old)  
+    Born DR 1666 (84 years old)  
     Matriarch of the [Garay Family](<../../groups/sembaran-noble-houses/garay-family.md>)  
     { .bio }
 
-    Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+    Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 

@@ -1,6 +1,8 @@
 ---
-{title: Vindristjarna Room Planning (Old)}
+tags: [meta]
+title: Vindristjarna Room Planning (Old)
 ---
+
 # Upper Deck
 *480 squares*
 

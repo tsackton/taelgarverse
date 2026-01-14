@@ -1,6 +1,8 @@
 ---
-{title: Scrying Delwath Nov 15}
+tags: [meta]
+title: Scrying Delwath Nov 15
 ---
+
 **(Nov 11 - Nov 15)**
 
 #### Kharsan

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: gauntlets
 subTypeOf: magical
 rarity: uncommon
@@ -12,7 +12,7 @@ title: Silverspark Gauntlets
 ---
 # Silverspark Gauntlets
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Uncommon [Dwarven](<../../../creatures/species/dwarves.md>) Magical Gauntlets__  
+- :octicons-info-24:{ .lg .middle } __(uncommon [dwarven](<../../../creatures/species/dwarves.md>) magical gauntlets)__  
    Owned by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/4641-gauntlets-of-ogre-power) 
 </div>

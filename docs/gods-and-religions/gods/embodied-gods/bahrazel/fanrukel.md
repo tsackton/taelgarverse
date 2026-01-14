@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
 aliases: [Priest, The Priest]
-tags: [deity, religion/dwarven]
+tags: [power, religion/dwarven]
 gender: female
 name: Fanrukel
 pronunciation: FAN-roo-kel
 dm_owner: none
 dm_notes: none
+typeOf: embodied god
+affiliations:
+- {org: Bahrazel, title: One}
 title: Fanrukel
 ---
 # Fanrukel

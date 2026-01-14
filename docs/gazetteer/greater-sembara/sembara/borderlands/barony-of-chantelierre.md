@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
-typeOf: barony
+tags: [place]
+typeOf: realm
 whereabouts: Borderlands
 pronunciation: SHAWN-tel-ee-air
 dm_notes: none
 dm_owner: none
+typeOfAlias: barony
 title: Barony of Chantelierre
 ---
 # The Barony of Chantelierre
@@ -15,4 +16,5 @@ title: Barony of Chantelierre
 </div>
 
 
+The Barony of Chantelierre is the easternmost of the baronies of the [Borderlands](<./borderlands.md>). It is bounded to the east by the [Aure](<../../rivers/wistel-enst-watershed/aure.md>) and lies between the slopes of the [Mostreve Hills](<../../mostreve-hills.md>) and the [Enst](<../../rivers/wistel-enst-watershed/enst.md>) valley.
 

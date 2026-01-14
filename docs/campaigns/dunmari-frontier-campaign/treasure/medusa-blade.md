@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 destroyed: 1748-11-20
-tags: [item/equipment]
+tags: [object]
 typeOf: sword
 subTypeOf: cursed
 whereabouts: Havdar
@@ -9,7 +9,7 @@ title: Medusa Blade
 ---
 # The Medusa Blade
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Cursed Sword__  
+- :octicons-info-24:{ .lg .middle } __(cursed sword)__  
    Destroyed November 20th, 1748  
    Was owned by [Havdar](<../../../people/dunmari/havdar.md>), with [Havdar's Warband](<../../../groups/havdar-s-warband.md>)  
 </div>

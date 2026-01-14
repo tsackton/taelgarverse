@@ -6,6 +6,7 @@ typeOf: neighborhood
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: color
+typeOfAlias: neighborhood
 title: Summit Quarter
 ---
 # The Summit Quarter

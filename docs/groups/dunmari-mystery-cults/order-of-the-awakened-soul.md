@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
-displayDefaults: {partOf: '', boxInfo: '<ancestry:UA> <typeof:UA> of <deity:UA>'}
+tags: [group]
 typeOf: mystery cult
 ancestry: Dunmari
-deity: Bhishma
+affiliations:
+- {type: primary, org: Bhishma}
 dm_notes: important
 dm_owner: tim
 title: Order of the Awakened Soul
@@ -12,14 +12,14 @@ title: Order of the Awakened Soul
 # The Order of the Awakened Soul
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) mystery cult of [Bhishma](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>)  
+   :octicons-info-24:{ .lg .middle } A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) mystery cult, of [Bhishma](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>)  
 </div>
 
 
 The mystery cult dedicated to the Dunmari god [Bhishma](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>). Dedicated to collecting the stories of the Dunmari, preserving the memories of the people of Dunmar, and making sure the  souls of the dead are not forgotten and lost. 
 
 
-After the [Great War](<../../events/1500s/great-war.md>), the Order was one of the few who remained as much as they could in the [Nashtkar](<../../gazetteer/greater-dunmar/hara-basin/nashtkar.md>), as most Dunmari fled west. They made it their mission to find the many souls lost and wandering, unable to reach the [Land of the Dead](<../../cosmology/land-of-the-dead.md>), and help them find peace.
+After the [Great War](<../../events/1500s/great-war.md>), the Order was one of the few who remained as much as they could in the [Nashtkar](<../../gazetteer/greater-dunmar/nashtkar.md>), as most Dunmari fled west. They made it their mission to find the many souls lost and wandering, unable to reach the [Land of the Dead](<../../cosmology/land-of-the-dead.md>), and help them find peace.
 
 In the early 1700s, explorers and travelers from the Order reached as far as Drankor, and discovered [Rai](<../../people/pcs/great-war/rai.md>), who spoke of the evil spreading from the wounds [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>) left in the world. 
 

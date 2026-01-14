@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 name: Darba
-typeOf: city
+typeOf: settlement
 whereabouts: Coastal Dunmar
 dm_notes: important
 dm_owner: tim
+typeOfAlias: city
 title: Darba
 ---
 # Darba

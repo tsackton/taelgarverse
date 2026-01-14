@@ -19,7 +19,7 @@ title: Frankar
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
-    Born DR 1714 (35 years old)  
+    Born DR 1714 (36 years old)  
     { .bio }
 
     Originally from: [Darakan](<../../gazetteer/central-highlands/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/central-highlands/dwarven-kingdoms/khatridun.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)

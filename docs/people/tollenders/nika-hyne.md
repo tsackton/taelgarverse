@@ -21,7 +21,7 @@ title: Nika Hyne
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1728 (21 years old)  
+    Born DR 1728 (22 years old)  
     { .bio }
 
     Based in [Fiskurth](<../../gazetteer/greater-sembara/tollen/wards/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)

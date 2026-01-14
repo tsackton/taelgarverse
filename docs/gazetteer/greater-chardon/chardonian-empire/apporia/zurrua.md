@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: river
+typeOf: waterway
 whereabouts: Portalia
 pronunciation: TSOO-roo-ah
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 title: Zurrua
 ---
 # Zurrua

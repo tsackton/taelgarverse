@@ -20,7 +20,7 @@ title: Diesla Starsearcher
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../creatures/species/dwarves.md>) (she/her)  
-    Born DR 1512 (237 years old)  
+    Born DR 1512 (238 years old)  
     { .bio }
 
     Originally from: [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)

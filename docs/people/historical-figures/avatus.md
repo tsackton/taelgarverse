@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/needswork/shared]
+tags: [person, status/review]
 name: Avatus
 born:
 species: human
 ancestry:
 title: Emperor Avatus
 gender: male
-dm_notes: color
-dm_owner: mike
+dm_notes: none
+dm_owner: joint
 ---
 # Emperor Avatus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -18,6 +18,8 @@ dm_owner: mike
     { .bio }
 
 </div>
+
+
 
 
 The ruler of an autocracy established on the southern edge of Sembara in the DR 1420s. Commissioned the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>). 

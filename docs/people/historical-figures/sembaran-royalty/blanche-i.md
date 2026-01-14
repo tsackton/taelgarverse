@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/cleanup/text]
+tags: [person, status/cleanup/text]
 name: Blanche I
 born: 1538
 species: human
@@ -29,5 +29,5 @@ dm_owner: none
 </div>
 
 
-A ruler of Sembara during the 1560s, she was the second child of [Reginald](<./reginald.md>). Her death launched the Interregum of 1568, as her sisters, [Anne](<./anne.md>) and [Elaine I](<./elaine-i.md>) disputed the succession.
+A ruler of Sembara during the 1560s, she was the second child of [Reginald](<./reginald.md>). Her death launched the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>), as her sisters, [Anne](<./anne.md>) and [Elaine I](<./elaine-i.md>) disputed the succession.
 

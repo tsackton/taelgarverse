@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: stoneborn
 name: Aglath
 gender: male
@@ -20,7 +20,7 @@ title: Aglath
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [stoneborn](<../../../creatures/species/stoneborn.md>) (he/him)  
-    Born DR 1721 (28 years old)  
+    Born DR 1721 (29 years old)  
     Member of the [Silver Tempests](<./silver-tempests.md>) (until November 22th, 1747)  
     { .bio }
 

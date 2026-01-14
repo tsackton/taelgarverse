@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 displayDefaults: {defArt: ''}
 name: Hralgar's Phasing Stone
 typeOf: phasing stone
@@ -15,7 +15,7 @@ title: Hralgar's Phasing Stone
 ---
 # Hralgar's Phasing Stone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Legendary [Giant](<../../../creatures/species/giants.md>) Magic [Phasing Stone](<../../../things/magic-items/phasing-stones.md>)__  
+- :octicons-info-24:{ .lg .middle } __(legendary [giant](<../../../creatures/species/giants.md>) magic [phasing stone](<../../../things/magic-items/phasing-stones.md>))__  
    Owned  
 </div>
 

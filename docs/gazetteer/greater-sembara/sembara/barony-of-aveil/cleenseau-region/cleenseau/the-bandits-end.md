@@ -14,8 +14,8 @@ title: The Bandit’s End
 # The Bandit’s End
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: Founded DR 1665 (84 years ago)  
-    :octicons-location-24:{ .lg .middle } A [Sembaran](<../../../sembara.md>) inn in [Cleenseau](<./cleenseau.md>), [Manor of Cleenseau](<../manor-of-cleenseau.md>)  
+   :material-calendar: Founded DR 1665 (85 years ago)  
+    :octicons-location-24:{ .lg .middle } A [Sembaran](<../../../sembara.md>) inn in [Cleenseau](<./cleenseau.md>), the [Manor of Cleenseau](<../manor-of-cleenseau.md>), the [Barony of Aveil](<../../barony-of-aveil.md>), [Sembara](<../../../sembara.md>), [Greater Sembara](<../../../../greater-sembara.md>)  
 </div>
 
 

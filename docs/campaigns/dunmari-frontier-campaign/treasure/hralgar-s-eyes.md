@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 displayDefaults: {defArt: ''}
 typeOf: wonderous item
 subTypeOf: magical
 title: Hralgar's Eyes
 ---
 # Hralgar's Eyes
-:octicons-info-24:{ .lg .middle } **Magical Wonderous Item**  
+:octicons-info-24:{ .lg .middle } **(magical wonderous item)**  
 
 A pair of giant eyes, made of stone. These are two stone eyes, a bit smaller than a human head, and very heavy. They are exquisitely and realistically carved to resemble the eyes of a giant. 
 

@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Niva
-typeOf: river
+typeOf: waterway
 whereabouts: Vostok
 aliases: [River Niva, Niva River]
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 title: Niva
 ---
 # Niva

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/gameupdate]
+tags: [person, status/gameupdate/clee]
 title: Sergeant Eveyln Totteridge
 name: Eveyln Totteridge
 born: 1689
@@ -21,7 +21,7 @@ dm_owner: mike
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1689 (60 years old)  
+    Born DR 1689 (61 years old)  
     Sergeant of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)  
     { .bio }
 

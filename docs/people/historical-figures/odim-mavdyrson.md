@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 name: Odim Mavdyrson
 born: 1500
 died: 1590
@@ -15,7 +15,7 @@ title: Odim Mavdyrson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../creatures/species/giants.md>) ([fire giant](<../../creatures/species/giants.md>)) (he/him)  
+    A [giant](<../../creatures/species/giants.md>) (fire giant) (he/him)  
     b. DR 1500 - d. DR 1590, died at age 90 years  
     { .bio }
 

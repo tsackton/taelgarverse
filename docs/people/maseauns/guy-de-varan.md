@@ -22,7 +22,7 @@ title: Guy de Varan
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1693 (56 years old)  
+    Born DR 1693 (57 years old)  
     { .bio }
 
     Based in [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>), the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)

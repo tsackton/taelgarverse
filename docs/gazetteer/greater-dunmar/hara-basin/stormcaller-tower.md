@@ -4,18 +4,19 @@ tags: [place]
 displayDefaults: {defArt: ''}
 name: Stormcaller Tower
 destroyed: 1748-11-23
-typeOf: tower
+typeOf: building
 whereabouts:
 - {type: home, location: Samtal, wPastHome: 'Ruined <typeOf> <current:3qr>'}
 dm_notes: color
 dm_owner: tim
+typeOfAlias: tower
 title: Stormcaller Tower
 ---
 # Stormcaller Tower
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Destroyed November 23th, 1748  
-    :octicons-location-24:{ .lg .middle } Ruined tower in [Samtal](<./samtal.md>), [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>)  
+    :octicons-location-24:{ .lg .middle } Ruined tower in [Samtal](<./samtal.md>), [Dunmar](<../realms/dunmar/dunmar.md>)  
 </div>
 
 
@@ -23,13 +24,13 @@ Eons ago, lost in the dawn of time when the Firstborn walked the earth and the g
 
 One such skyship, the Star on the Wind, known as [Vindristjarna](<../../../things/ships/vindristjarna.md>) (vin-dree-shar-na) to the storm giants, crashed on what is now the Dunmari plains thousands of years ago. 
 
-Stormcaller Tower was originally constructed on the prow of this crashed ship by the [elves](<../../../creatures/species/elves.md>), before [The Downfall](<../../../events/ancient/the-downfall.md>), during the height of power of the ancient elven kingdom of [Alcarinque](<../../../history/historical-realms/alcarinque.md>). 
+Stormcaller Tower was originally constructed on the prow of this crashed ship by the [elves](<../../../creatures/species/elves.md>), before The Downfall, during the height of power of the ancient elven kingdom of [Alcarinque](<../../../history/historical-realms/alcarinque.md>). 
 
-The world turned, and the elves retreated, and humans spread across the land. The Drankorians soon found the tower, and studied the ancient magics within. Towards the end of the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>), the tower became the base and outpost of [Eudomes](<../../../people/historical-figures/eudomes.md>) Stormcaller, a powerful Drankorian mage. He devised an elaborate magical mechanism to bind and trap storms themselves, harnessing their energy for magical works, and ultimately hoping to restore the skyship below somehow. 
+The world turned, and the elves retreated, and humans spread across the land. The Drankorians soon found the tower, and studied the ancient magics within. Towards the end of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>), the tower became the base and outpost of [Eudomes](<../../../people/historical-figures/eudomes.md>) Stormcaller, a powerful Drankorian mage. He devised an elaborate magical mechanism to bind and trap storms themselves, harnessing their energy for magical works, and ultimately hoping to restore the skyship below somehow. 
 
-A few years before the fall of [Drankor](<../../../history/drankorian-empire/drankor.md>), his nets caught [Hralgar](<../../../people/giants/hralgar.md>) Skaldjotendur, an elder storm giant, who was passing in the form of a wild thunderstorm. When the plague struck, [Eudomes](<../../../people/historical-figures/eudomes.md>) fled, or died, but [Hralgar](<../../../people/giants/hralgar.md>) could not completely free himself, and the tower was abandoned.
+A few years before the fall of [Drankor](<../../drankorian-hinterland/drankor/drankor.md>), his nets caught [Hralgar](<../../../people/giants/hralgar.md>) Skaldjotendur, an elder storm giant, who was passing in the form of a wild thunderstorm. When the plague struck, [Eudomes](<../../../people/historical-figures/eudomes.md>) fled, or died, but [Hralgar](<../../../people/giants/hralgar.md>) could not completely free himself, and the tower was abandoned.
 
-For many centuries, there [Hralgar](<../../../people/giants/hralgar.md>) remained, trapped. With the fall of [Drankor](<../../../history/drankorian-empire/drankor.md>), knowledge the Stormcaller Tower was lost. The Dunmari knew it as a landmark, and also a place to be avoided, a place of strange magic and wild weather. To them, this place was called Pavantova, the Tower of Wild Wind.
+For many centuries, there [Hralgar](<../../../people/giants/hralgar.md>) remained, trapped. With the fall of [Drankor](<../../drankorian-hinterland/drankor/drankor.md>), knowledge the Stormcaller Tower was lost. The Dunmari knew it as a landmark, and also a place to be avoided, a place of strange magic and wild weather. To them, this place was called Pavantova, the Tower of Wild Wind.
 
 In the spring of 1748, three Chardonian treasure hunters entered the tower and made their way to the top floor, where they found the mechanism of [Eudomes](<../../../people/historical-figures/eudomes.md>), and attempted to recover it for the [Great Library](<../../greater-chardon/chardonian-empire/chardon/great-library.md>). There efforts were only partially successful: they released [Hralgar](<../../../people/giants/hralgar.md>), but not completely. He was awoken without fully returning to consciousness and control, and was lost in a dream state, lashing out and creating a powerful, endless storm. 
 

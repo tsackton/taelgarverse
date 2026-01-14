@@ -1,5 +1,5 @@
 ---
-tags: [religion/kestavo, background, status/needswork/old]
+tags: [religion/kestavo, background, status/check/mike, status/gameupdate/chasm]
 dm_owner: shared
 dm_notes: important
 title: Kestavo
@@ -9,12 +9,15 @@ title: Kestavo
 
 
 
+
+
+
 The *kestavo* is the ancient religion of northern Sembara and the Highlands, and is still practiced in some places in the highlands. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the kestavo, bring the prayers of their communities to [Ako](<../../gods/high-gods/divine-presence.md>), the Divine. 
 
 Although most kestavo are worshipped only by the people of their particular town or village, some kestavo have gained great fame and pilgrims come from far and wide to their shrines to ask for blessings to be passed along to [Ako](<../../gods/high-gods/divine-presence.md>). These include:
 
 * [Romil](<../../gods/kestavo/romil.md>), the glacier king, with his shrine in the tallest mountains in the north
-* [Kamak](<../../gods/kestavo/kamak.md>), the lurker, who dwells at the bottom of the great Lake Kamchak
+* [Kamak](<../../gods/kestavo/kamak.md>), the lurker, who dwells at the bottom of the great Lake Kamchak (change name)
 * [Besla](<../../gods/kestavo/besla.md>), who came to the land in the ancient days from the [Green Sea](<../../../gazetteer/green-sea.md>), and each spring asks Ahra to send the waters of her homeland to her for company, and thus brings the monsoon rains.
 
 The kestavo are not the only spirits in the land, however. The cruel west wind, [Zeyfa](<../../gods/kestavo/zeyfa.md>), and [Vaqar](<../../gods/kestavo/vaqar.md>), the fire-below, have many offspring, the vazska. These spirits must be appeased or driven off, or they bring misfortune. The children of Ziva are the spirits of the cold and dry air, of hardship, shortages, and mischief, and although they are not worshipped, they are placated and bribed to stay away. The children of Vacla are the spirits of war and destruction, of injury, of sudden death, of the burning home. They are feared and driven off, whenever possible.  

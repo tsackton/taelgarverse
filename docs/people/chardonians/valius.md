@@ -23,7 +23,7 @@ title: Valius
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1722 (27 years old)  
+    Born DR 1722 (28 years old)  
     Member of the [Chardonian Legion](<../../groups/chardonian-organizations/chardonian-legion.md>), and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 

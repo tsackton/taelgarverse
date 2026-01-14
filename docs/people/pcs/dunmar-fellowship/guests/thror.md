@@ -1,6 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest]
+tags: [person]
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+affiliations:
+- {org: Dunmar Fellowship, title: Guest"}
 name: Thror
 born:
 species: dwarf
@@ -16,6 +19,7 @@ title: Thror
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../../../creatures/species/dwarves.md>) (he/him)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

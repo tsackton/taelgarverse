@@ -22,7 +22,7 @@ title: Ewen Silversong
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Silversongs](<../../groups/halfling-families/silversongs.md>)  
-    Born DR 1649 (100 years old)  
+    Born DR 1649 (101 years old)  
     Songmaster of the [Emerald Song](<../../things/ships/emerald-song.md>)  
     { .bio }
 

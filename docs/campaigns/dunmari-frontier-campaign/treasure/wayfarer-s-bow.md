@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 subTypeOf: magic
 image: wayfarer-bow.jpg
 typeOf: weapon
@@ -13,7 +13,7 @@ title: Wayfarer's Bow
 ---
 # The Wayfarer's Bow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Legendary Magic Bow__  
+- :octicons-info-24:{ .lg .middle } __(legendary magic bow)__  
    Owned by [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/9218851-wayfarers-bow-shortbow) 
 </div>

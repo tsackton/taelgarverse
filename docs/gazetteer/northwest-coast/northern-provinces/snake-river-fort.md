@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 tags: [place, status/check/name]
 name: Snake River Fort
-typeOf: fort
+typeOf: building
 subTypeOf: river crossing
 whereabouts:
 - {type: primary, location: Greater Voltara}
 dm_owner: tim
 dm_notes: important
+typeOfAlias: fort
 title: Snake River Fort
 ---
 # The Snake River Fort

@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Ursk
-typeOf: city
+typeOf: settlement
 dm_notes: none
 dm_owner: none
 pronunciation: ZVEHR-veen-ka
+typeOfAlias: city
 title: Zvervinka
 ---
 # Zvervinka

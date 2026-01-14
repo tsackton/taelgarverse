@@ -22,7 +22,7 @@ title: Aygul
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [orc](<../../creatures/species/orcs.md>) (she/her)  
-    Born DR 1698 (51 years old)  
+    Born DR 1698 (52 years old)  
     { .bio }
 
     Originally from: Gorzum

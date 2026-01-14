@@ -24,7 +24,7 @@ title: Wendel Quickstep
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Quicksteps](<../../groups/halfling-families/quicksteps.md>)  
-    Born DR 1671 (78 years old)  
+    Born DR 1671 (79 years old)  
     Proprietor of [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>) (since DR 1718)  
     { .bio }
 

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: village
+typeOf: settlement
 typeOfAlias: trading post
 whereabouts: Ursk
 pronunciation: VOH-leeah

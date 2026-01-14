@@ -12,7 +12,7 @@ tagline: in which the party confronts a ghost and gathers clues
 descTitle: The Haunted Cottage
 title: Addermarch Campaign - Session 15
 ---
-# The Addermarch Campaign - Session 15
+# Addermarch Campaign - Session 15
 
 
 # Addermarch Campaign - Session 15
@@ -80,6 +80,6 @@ The party arrives at [Caradoc](<../../people/addermarians/caradoc.md>)'s cottage
 
 
 
-The party returns to [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), and meets with Owen Tavish before dinner. He tells them that 300 years ago, a war was fought in these parts against the armies of the [Dominion of Avatus](<../../history/historical-realms/dominion-of-avatus.md>). He claims the old coins found on the corpse in Duncan's cottage are dated from the reign of [Derik I](<../../people/historical-figures/sembaran-royalty/derik-i.md>), who ruled during the war against [Avatus](<../../people/historical-figures/avatus.md>); indeed, these coins are from the same era as those found with the Serpentine Dagger, he says. Owen suggests that the coins could plunder and to investigate old forts and battlefields from the ancient wars to find more. 
+The party returns to [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), and meets with Owen Tavish before dinner. He tells them that 300 years ago, a war was fought in these parts against the armies of the [Dominion of Avatus](<../../history/historical-realms/dominion-of-avatus.md>). He claims the old coins found on the corpse in Duncan's cottage are dated from the reign of [Derik I](<../../people/historical-figures/sembaran-royalty/derik-i.md>), who ruled during the war against [Avatus](<../../people/historical-figures/avatus.md>); indeed, these coins are from the same era as those found with the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>), he says. Owen suggests that the coins could plunder and to investigate old forts and battlefields from the ancient wars to find more. 
 
 We end as the party returns to [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>) to sleep. 

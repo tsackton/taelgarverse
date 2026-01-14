@@ -1,6 +1,8 @@
 ---
-{title: Murook's Story}
+tags: [source]
+title: Murook's Story
 ---
+
 "I do not speak of my childhood lightly. I was born, chained. I suffered the rituals that bound me. If I think hard, I can still remember fire that burned through my veins. 
 
 My tribe was slaughtered by the chief's father, Karguk. Not undeserved, for they, we I guess, had found [Xurkhaz](<../../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>) and raided for some time. When Karguk strode in battle against me -- I was still young -- I felt that quiet. I lay down my weapons, meek, and I followed Karguk back. 

@@ -10,6 +10,8 @@ ancestry:
 died: 1748-11-23
 gender: female
 aliases: [Nora]
+affiliations:
+- {org: Silversparks, type: primary}
 whereabouts:
 - {type: away}
 dm_owner: none
@@ -20,7 +22,7 @@ title: Nora Silverspark
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (she/her)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of the [Silverspark Clan](<../../groups/dwarven-clans/silversparks.md>)  
     Passed on November 23th, 1748  
     { .bio }
 

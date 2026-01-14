@@ -3,12 +3,13 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {endStatus: mysteriously vanished in}
 destroyed: 1737
-typeOf: village
+typeOf: settlement
 ancestry: lizardfolk
 whereabouts: Portalia
 pronunciation: oor-KAH-bee
 dm_notes: none
 dm_owner: tim
+typeOfAlias: village
 title: Urkabi
 ---
 # Urkabi

@@ -14,4 +14,4 @@ title: ~Darba Songara Road~
 </div>
 
 
-The ancient [Drankorian](<../../../history/drankorian-empire/drankorian-empire.md>) road that leads north from [Darba](<../realms/dunmar/coastal-dunmar/darba/darba.md>), joining the [Stoneway](<./stoneway.md>) near [Songara](<../realms/dunmar/central-dunmar/songara.md>). 
+The ancient [Drankorian](<../../../history/historical-realms/drankorian-empire.md>) road that leads north from [Darba](<../realms/dunmar/coastal-dunmar/darba/darba.md>), joining the [Stoneway](<./stoneway.md>) near [Songara](<../realms/dunmar/central-dunmar/songara.md>). 

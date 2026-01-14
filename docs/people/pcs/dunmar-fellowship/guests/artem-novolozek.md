@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest]
+tags: [person]
 campaignInfo:
 name: Artem Novolozek
 born:
@@ -11,6 +11,9 @@ dm_notes: important
 dm_owner: shared
 player: Mike Sackton
 aliases: [Artem]
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+affiliations:
+- {org: Dunmar Fellowship, title: Guest"}
 whereabouts:
 - {type: home, end: 1748-10-06, location: Ursk}
 - {type: away, start: 1748-10-06, location: ''}
@@ -21,6 +24,7 @@ title: Artem Novolozek
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Urskan](<../../../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../../../creatures/species/humans.md>) (he/him)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
     Originally from: [Ursk](<../../../../gazetteer/northern-green-sea/ursk/ursk.md>)

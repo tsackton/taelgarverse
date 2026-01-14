@@ -1,6 +1,9 @@
 ---
-{title: Grimbaskal's Hoard}
+tags: [meta]
+typeOf: hoard
+title: Grimbaskal's Hoard
 ---
+
 # Grimbaskal's Hoard
 
 Treasure found in the lair of the green dragon [Grimbaskal](<../../../people/other-nonhumans/mezzar.md>), in the [Elderwood](<../../../gazetteer/central-highlands/elderwood.md>).

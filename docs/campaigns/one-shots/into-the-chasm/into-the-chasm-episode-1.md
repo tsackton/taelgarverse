@@ -8,10 +8,10 @@ descTitle: Into the Chasm
 tagline: in which a storm flings five strangers into Zeyfa's maze
 title: Into the Chasm Episode 1
 ---
-# The Into the Chasm - Episode 1
+# Into the Chasm - Episode 1
 
 >[!info] Into the Chasm: in which a storm flings five strangers into Zeyfa's maze
-> *Featuring: Jrain Fanlish, [Finnan Oakstride](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), Justas Rhostrin, Ekko, Eolo*
+> *Featuring: Jrain Fanlish, [Finnan Oakstride](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), Justas Rhostrin, [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), Eolo*
 > *In Taelgar: Jan 25, 1730 DR*
 > *On Earth: Monday, November 17, 2025*
 > *[Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) and Zeyfa's Labyrinth*
@@ -28,8 +28,8 @@ Drawn by omens around the [Great Chasm](<../../../gazetteer/greater-sembara/zimk
 
 * Jan 02, 1730 DR - Jan 07, 1730 DR: The sky above the [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) turns black during the day, a darkness that spreads and is visible like a smudge on the sky for many miles around
 - Jan 08, 1730 DR:  The Vejo Vaikaigather some of their wisest mystics, lead by Eidrikas, Ekko's mentor, protected by Pakrinek one of the warriors of Kemeko, to investigate strange happens in the [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>). 
-- Jan 16, 1730 DR: a cloud of superheated steam obscures the Chasm near Kemeko Monastery and fog and mist rises from the depths
-- Jan 22, 1729 DR: Kalima emerges from Great Chasm, apparently climbing the cliff face near Kemeko Monastery. She is terrified of the kenku and will not speak to them.
+- Jan 16, 1730 DR: a cloud of superheated steam obscures the Chasm near [Kemeko Monastery](<../../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>) and fog and mist rises from the depths
+- Jan 22, 1729 DR: Kalima emerges from Great Chasm, apparently climbing the cliff face near [Kemeko Monastery](<../../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>). She is terrified of the kenku and will not speak to them.
 - Jan 25, 1730 DR, early afternoon: Ekko, Finna, Jrain, Justas, Elo, and Kalima are pulled by an unnatural storm into the [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>); landing on an ice flow, they survive an attack by ice wolves, introduce themselves to each other, and prepare to explore.
 
 ## Cast of Characters
@@ -37,7 +37,7 @@ Drawn by omens around the [Great Chasm](<../../../gazetteer/greater-sembara/zimk
 - **Jrain Fanlish** – Brevan woodswalker and scout, recently hunting orcish remnants near the Chasm.
 - **[Finnan Oakstride](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>)** – middle‑aged halfling bard and collector of stories, speaker of Old Zimkovan.
 - **Justas Rhostrin** – human veteran devoted to the [Kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>), bearing [Romil](<../../../gods-and-religions/gods/kestavo/romil.md>) the Glacier King’s token.
-- **Ekko** – kenku druid raised at Kemeko Monastery, attuned to the Great Chasm’s storms.
+- **[Ekko](<../../../people/pcs/into-the-chasm/ekko.md>)** – kenku druid raised at [Kemeko Monastery](<../../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>), attuned to the Great Chasm’s storms.
 - **Eolo** – young kenku warrior from afar, seeking the monks of Kemeko and glory in the Chasm.
 - **Kalima** – terrified Zimkovan woman from a hidden people bound to the West Wind and its labyrinth.
 - **[Zeyfa](<../../../gods-and-religions/gods/kestavo/zeyfa.md>)** – the cruel West Wind, a Kestavo said to rule the labyrinth and demand sacrifices.
@@ -49,7 +49,7 @@ Drawn by omens around the [Great Chasm](<../../../gazetteer/greater-sembara/zimk
 
 ## Narrative Summary
 
-Our session begins as strange omens and mysterious happenings around the [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) have drawn five adventures to its rim: Jrain Fanlish, [Finnan Oakstride](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), Justas Rhostrin, Ekko, and Eolo. An unnatural storm grabs them, along with a terrified woman who emerged from the Chasm only days ago speaking only Old Zimkovan, and flings them into the Chasm. They all awaken with only what they could hold on to in the storm, on a strange ice floe, a storm above, and two ice sculptures of wolves guarding bridges off the platform. Eolo approaches one of the wolves, provoking it, and the group finds themselves fighting for their lives on a slick precipice as the wolves come to life. As the fight proceeds, the wolves are joined by shades, and chasm wisps that emerge from their bodies as they are killed. 
+Our session begins as strange omens and mysterious happenings around the [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) have drawn five adventures to its rim: Jrain Fanlish, [Finnan Oakstride](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), Justas Rhostrin, [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), and Eolo. An unnatural storm grabs them, along with a terrified woman who emerged from the Chasm only days ago speaking only Old Zimkovan, and flings them into the Chasm. They all awaken with only what they could hold on to in the storm, on a strange ice floe, a storm above, and two ice sculptures of wolves guarding bridges off the platform. Eolo approaches one of the wolves, provoking it, and the group finds themselves fighting for their lives on a slick precipice as the wolves come to life. As the fight proceeds, the wolves are joined by shades, and chasm wisps that emerge from their bodies as they are killed. 
 
 In the aftermath, Finnan’s magic and patience win the woman’s trust long enough for her tell her name, Kalima, and to reveal that this place is [Zeyfa](<../../../gods-and-religions/gods/kestavo/zeyfa.md>)’s Labyrinth—a maze ruled by one of the [Kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>), the cruel West Wind, fed by sacrifices from her hidden people, and, in her telling, a place from which no one ever truly escapes. As the party shares their own histories and tests the hostile environment, they realize the storm above behaves more like an enclosing spell than natural weather and that a lethal updraft bars any descent from the platform, leaving only the ice bridges that lead to a snow‑choked chamber and four twisting tunnels. With Kalima clinging between Finnan and Justas and warning that the beast of the labyrinth “doesn’t like waiting” and that this is no place to sleep, the companions choose to leap together into the tunnels, seeking a path out by pressing deeper in.
 ## Combat Summary
@@ -61,7 +61,7 @@ In the aftermath, Finnan’s magic and patience win the woman’s trust long eno
 
 - The [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) in [Zimkova](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>) yawns like a wound in the world, spewing impossible storms, lights, strange vegetation, and other anomalies that different traditions interpret as either a place of refuge or a seat of elemental power.
 - After the orcish Ravager of Winter is defeated north of the chasm, scattered warbands ravage Breva while the chasm itself grows ever stranger: a summer thunderstorm in October, a searing sandstorm in November, a green‑flamed volcanic boulder floating downriver, a rainbow that shatters into glass and falls into the rift, and a living sheet of ice that swims down the Teft.
-- When a five‑day curtain of darkness settles over the chasm, the mystics of the Vejo Vaikai and warriors of the Kemeko Monastery descend to investigate and vanish; weeks later, a new band of heroes is swept into the same mystery.
+- When a five‑day curtain of darkness settles over the chasm, the mystics of the Vejo Vaikai and warriors of the [Kemeko Monastery](<../../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>) descend to investigate and vanish; weeks later, a new band of heroes is swept into the same mystery.
 - Those heroes tumble through a blinding white storm, separated from almost all their possessions and forced to choose what to clutch: Eolo keeps his quiver and twin crossbows, Ekko his armor and amulet of the Moon, Justas his axe, shield, and battered backpack, Jrain her bow, cloak, and a scant handful of arrows, and Finnan his fiddle, clay pipe, and cherished writing case.
 
 ### Strangers on the Ice

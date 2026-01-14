@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 displayDefaults: {defArt: ''}
 name: Taurion's Manual of Stone Golems
 typeOf: book
@@ -15,7 +15,7 @@ title: Taurion's Manual of Stone Golems
 ---
 # Taurion's Manual of Stone Golems
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Very Rare [Drankorian](<../../../history/drankorian-empire/drankorian-empire.md>) Magic Book__  
+- :octicons-info-24:{ .lg .middle } __(very rare [Drankorian](<../../../history/historical-realms/drankorian-empire.md>) magic book)__  
    Owned  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/4950-manual-of-stone-golems) 
 </div>

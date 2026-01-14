@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc]
+tags: [person]
+dm_owner: player
+dm_notes: important
 species: halfling
 born: 1678
 gender: male
 affiliations:
 - {org: Oakstrides, type: primary}
+- {org: Chasm Explorers}
 whereabouts: Zimkova
 title: Finnan Oakstride
 ---
@@ -14,7 +17,8 @@ title: Finnan Oakstride
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../../creatures/species/halflings.md>) (he/him), of the [Oakstrides](<../../../groups/halfling-families/oakstrides.md>)  
-    Born DR 1678 (71 years old)  
+    Born DR 1678 (72 years old)  
+    Member of the Chasm Explorers  
     { .bio }
 
     Based in [Zimkova](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>)

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, person]
+tags: [person]
 name: Baxter
 born:
 species: axebeak
@@ -8,6 +8,7 @@ ancestry:
 gender:
 player: Dave Schwartz
 affiliations:
+- {org: Dunmar Fellowship, title: Companion}
 excludePublish: [clee]
 dm_owner: player
 dm_notes: important
@@ -18,6 +19,7 @@ title: Baxter
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An axebeak  
+    Companion of the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

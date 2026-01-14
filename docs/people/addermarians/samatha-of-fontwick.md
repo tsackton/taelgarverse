@@ -20,9 +20,12 @@ title: Samatha of Fontwick
     An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     { .bio }
 
-    Based in [Fontwick](<../../gazetteer/greater-sembara/addermarch/fontwick.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
+    Based in [Fontwick](<../../gazetteer/greater-sembara/addermarch/fontwick.md>), the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)
 </div>
 
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 12th, 1715 in [Fontwick](<../../gazetteer/greater-sembara/addermarch/fontwick.md>), the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
 Samantha is a dairy farmer from [Fontwick](<../../gazetteer/greater-sembara/addermarch/fontwick.md>), a small village west of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>). She operates a small dairy alongside her husband [Godfrey of Fontwick](<./godfrey-of-fontwick.md>). She is practical, hospitable, and resilient. 

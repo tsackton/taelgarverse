@@ -1,19 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/mike, place, historical]
+tags: [status/check/mike, place]
 created: 1199
 destroyed: 1429
 typeOf: realm
 whereabouts: Greater Sembara
 dm_owner: joint
 dm_notes: none
+typeOfAlias: destroyed empire
 title: Dominion of Avatus
 ---
 # The Dominion of Avatus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: existed DR 1199 - DR 1429, destroyed after 230 years  
-    :octicons-location-24:{ .lg .middle } A realm in [Greater Sembara](<../../gazetteer/greater-sembara/greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } A destroyed empire in [Greater Sembara](<../../gazetteer/greater-sembara/greater-sembara.md>)  
 </div>
 
 

@@ -1,6 +1,9 @@
 ---
-{title: Kadmos and Company Loot}
+tags: [meta]
+typeOf: hoard
+title: Kadmos and Company Loot
 ---
+
 ### From Kadmos
 
 - Rod of the Pact Keeper, an iron rod decorated with a bejeweled skull. 

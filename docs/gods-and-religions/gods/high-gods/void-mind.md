@@ -1,9 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity]
+tags: [power]
 displayDefaults: {defArt: the}
 dm_owner: none
 dm_notes: none
+typeOf: high god
 title: Void Mind
 ---
 # The Void Mind

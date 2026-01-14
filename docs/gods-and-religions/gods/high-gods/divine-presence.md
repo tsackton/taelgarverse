@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
 aliases: [Arha, Arhat, Malik, Sampa, Shurat, Ako, Anida]
-tags: [deity]
+tags: [power]
 displayDefaults: {defArt: the}
 dm_owner: none
 dm_notes: important
+typeOf: high god
 title: Divine Presence
 ---
 # The Divine Presence
@@ -27,7 +28,7 @@ In many pantheonic traditions among humans, the Divine Presence is believed to r
 
 In the [Mos Numena](<../../religions/mos-numena/mos-numena.md>) tradition, these Divinities are known as Arha (sometimes Arhat) and Malik. Arha is believed to be one half of the duality of the True Divinity, the force of creation, balanced by Malik, the force of destruction. 
 
-In the [Dunmari Tradition](<../../religions/five-siblings/five-siblings.md>), the creator gods are known as Sampa, the Earth Father, associated with death and endings, and Shurat, the Sky Mother, associated with birth and beginnings. Neither are directly worshipped; they are seen as distant and uninvolved in the world, having gifted it to their children and moved on.
+In the [Dunmari Tradition](<../../religions/five-siblings/dunmari-religion.md>), the creator gods are known as Sampa, the Earth Father, associated with death and endings, and Shurat, the Sky Mother, associated with birth and beginnings. Neither are directly worshipped; they are seen as distant and uninvolved in the world, having gifted it to their children and moved on.
 
 
 

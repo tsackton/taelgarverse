@@ -20,7 +20,7 @@ title: Tal
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
-    Originally from: [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+    Originally from: [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of DR 1716): the [Semb](<../../gazetteer/greater-sembara/rivers/semb-watershed/semb.md>)

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person, status/active]
+tags: [person, status/gameupdate/clee]
 name: Izgil Moonseeker
 born: 1453
 species: dwarf
@@ -24,8 +24,8 @@ title: Izgil Moonseeker
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Gemcrafters](<../../../groups/dwarven-clans/gemcrafters.md>)  
-    Born DR 1453 (296 years old)  
-    Member of [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Born DR 1453 (297 years old)  
+    Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     { .bio }
 
     Originally from: [Nidzahar](<../../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>), [Labkhan](<../../../gazetteer/sentinel-range.md>)

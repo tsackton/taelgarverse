@@ -1,15 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 name: Cynan
 born: 1538
 species: human
 ancestry: Tyrwinghan
 gender: male
-leaderOf:
-- {place: Tyrwingha, start: 1571}
+affiliations:
+- {org: Tyrwingha, type: leader, start: 1571}
 title: King Cynan
-reignStart: 1571
 died: 1589
 dm_notes: none
 dm_owner: none

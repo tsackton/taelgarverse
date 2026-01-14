@@ -20,8 +20,8 @@ title: Makha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An Islander [kenku](<../../creatures/species/kenku.md>) (he/him)  
-    Born DR 1712 (37 years old)  
+    An [Islander](<../../gazetteer/eastern-green-sea/vermillion-isles.md>) [kenku](<../../creatures/species/kenku.md>) (he/him)  
+    Born DR 1712 (38 years old)  
     { .bio }
 
     Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the ~Eastern Islands~

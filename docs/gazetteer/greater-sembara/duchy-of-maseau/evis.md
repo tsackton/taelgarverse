@@ -3,8 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Evis
 typeOf: settlement
-typeOfAlias: town
-subTypeOf: fortified
+typeOfAlias: fortified town
+subTypeOf:
 whereabouts: Duchy of Maseau
 dm_notes: none
 dm_owner: none

@@ -1,6 +1,9 @@
 ---
-{title: Wazir's Gloss on the Ciphered Scroll}
+tags: [source]
+title: Wazir's Gloss on the Ciphered Scroll
 ---
+
+
 Trok / Ryu,
 
 Although we were victorious in the cave beneath the cliffs, I fear the danger has not yet passed. I have managed to decipher the scroll we found there, and it tells a chilling tale. I am attaching a copy I have made, so you can come prepared.

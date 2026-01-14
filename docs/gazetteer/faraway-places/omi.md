@@ -5,9 +5,9 @@ dm_notes: important
 dm_owner: tim
 whereabouts: Endless Ocean
 typeOf: settlement
-subTypeOf: underwater
+subTypeOf:
 ancestry: merfolk
-typeOfAlias: city
+typeOfAlias: underwater city
 title: Omi
 ---
 # Omi

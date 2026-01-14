@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 typeOf: mirror
 subTypeOf: magical
-tags: [item/equipment]
+tags: [object]
 whereabouts:
 - {type: home, location: unknown hobgoblin wizard, linkText: by an}
 - {type: home, location: dufr}
@@ -15,7 +15,7 @@ title: Mirror of Soul Trapping
 ---
 # The Mirror of Soul Trapping
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Very Rare Magical Mirror__  
+- :octicons-info-24:{ .lg .middle } __(very rare magical mirror)__  
    Created by an unknown hobgoblin wizard  
    Owned owned by the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)  
 </div>

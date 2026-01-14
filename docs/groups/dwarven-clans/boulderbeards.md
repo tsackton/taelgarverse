@@ -1,15 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {defArt: the}
-name: Boulderbeards
+name: Boulderbeard Clan
 typeOf: clan
 ancestry: dwarven
 dm_notes: none
 dm_owner: none
-title: Boulderbeards
+title: Boulderbeard Clan
 ---
-# The Boulderbeards
+# The Boulderbeard Clan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
    :octicons-info-24:{ .lg .middle } A [dwarven](<../../creatures/species/dwarves.md>) clan  

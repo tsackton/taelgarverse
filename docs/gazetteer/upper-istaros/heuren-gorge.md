@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: gorge
+typeOf: topographical feature
 whereabouts: South Dunmar Road
 dm_owner: none
 dm_notes: none
+typeOfAlias: gorge
 title: Heuren Gorge
 ---
 # The Heuren Gorge

@@ -1,15 +1,18 @@
 ---
-tags: [status/stub, event]
+headerVersion: 2023.11.25
+tags: [event]
 excludePublish: [Clee]
-campaignInfo: []
 name: Destruction of the Werewolf Cult
+partOf: Betrayer Moon Plot
 DR: 1748-07-03
-dm_owner: tim
-dm_notes: important
+typeOf: raid
+whereabouts: Tokra
+dm_owner: none
+dm_notes: none
 title: Destruction of the Werewolf Cult
 ---
-# Destruction of the Werewolf Culf
+# The Destruction of the Werewolf Cult
 
-(stub)
+In DR 1748, the [Dunmar Fellowship](<../../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) destroyed a werewolf cult operating in and around [Tokra](<../../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). The cult was tied to the [Fraternity of the Empty Moon](<../../../../groups/fraternity-of-the-empty-moon.md>) and to a Drankorian ruin near a weak point to [Pandemonium](<../../../../cosmology/spiritual-realms/pandemonium.md>).
 
-Described in [Session 38 (DuFr)](<../../../../campaigns/dunmari-frontier-campaign/session-notes/session-38-dufr.md>) and [Session 39 (DuFr)](<../../../../campaigns/dunmari-frontier-campaign/session-notes/session-39-dufr.md>)
+

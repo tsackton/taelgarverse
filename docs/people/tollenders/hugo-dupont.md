@@ -21,7 +21,7 @@ title: Hugo Dupont
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Isinguer](<../../history/historical-realms/istabor-alliance.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1691 (58 years old)  
+    Born DR 1691 (59 years old)  
     Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>)  
     { .bio }
 

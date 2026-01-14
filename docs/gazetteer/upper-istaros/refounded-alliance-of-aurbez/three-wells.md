@@ -2,18 +2,19 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
-typeOf: meeting place
+typeOf: infrastructure
 whereabouts:
 - {type: secondary, location: Aurbez Plateau}
 - {type: primary, location: Refounded Alliance of Aurbez}
 dm_notes: color
 dm_owner: tim
+typeOfAlias: meeting place
 title: Three Wells
 ---
 # Three Wells
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A meeting place in the [Refounded Alliance of Aurbez](<./refounded-alliance-of-aurbez.md>), [Upper Istaros](<../upper-istaros.md>)  
-    :octicons-location-24:{ .lg .middle } Located in the [Aurbez Plateau](<../aurbez-plateau.md>), the [Aurbez and the Andonne](<../aurbez-and-the-andonne.md>), the [Istaros Watershed](<../../major-rivers/istaros-watershed/istaros-watershed.md>)  
+-    :octicons-location-24:{ .lg .middle } A meeting place in the [Refounded Alliance of Aurbez](<./refounded-alliance-of-aurbez.md>), the [Upper Istaros](<../upper-istaros.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Aurbez Plateau](<../aurbez-plateau.md>), the [Aurbez and the Andonne](<../aurbez-and-the-andonne.md>), the [Upper Istaros](<../upper-istaros.md>)  
 </div>
 
 
@@ -24,4 +25,4 @@ At the valley’s heart sit three old stone wells in a tight triangle; between t
 ![Three Wells](../../../assets/three-wells.png)
 *Three Wells occupied by Aurbeze gathering to discuss the invasion of the Iron Fang hobgoblins*
 
-Three Wells gets its name, and significance, from the Three Kin's War, when lizardfolk, human, and stoneborn fought together against hobgoblin invaders and worse. The three wells honor each of the three kin who fought in the war. 
+Three Wells gets its name, and significance, from the [Three Kin's War](<../../../events/1500s/three-kin-s-war.md>), when lizardfolk, human, and stoneborn fought together against hobgoblin invaders and worse. The three wells honor each of the three kin who fought in the war. 

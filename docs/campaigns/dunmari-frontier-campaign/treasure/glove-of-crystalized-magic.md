@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 ddbLink: https://www.dndbeyond.com/magic-items/5865922-glove-of-crystallized-magic
 pcOwner: Seeker
 displayDefaults: {wOrigin: '', wOriginU: '', defArt: ''}
@@ -13,7 +13,7 @@ title: Glove of Crystalized Magic
 ---
 # Glove of Crystalized Magic
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Very Rare [Dwarven](<../../../creatures/species/dwarves.md>) Magical Glove__  
+- :octicons-info-24:{ .lg .middle } __(very rare [dwarven](<../../../creatures/species/dwarves.md>) magical glove)__  
    Owned by [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/5865922-glove-of-crystallized-magic) 
 </div>

@@ -4,10 +4,11 @@ tags: [place]
 name: Kem
 displayDefaults: {prep: true, defArt: the}
 pronunciation: KEM
-typeOf: river
+typeOf: waterway
 whereabouts: Vostok
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 title: Kem
 ---
 # The Kem

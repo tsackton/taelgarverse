@@ -28,11 +28,14 @@ title: Owen Tavish
 
 
 
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 6th, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+
+
 Owen Tavish is a priest of the [The Sibyl](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>), based out of the Temple of the Sibyl in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>). He leads the temple’s religious and scholarly work, advising [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)’s leadership as best he can. He is a warm, friendly man, although competitive at times; he enjoys games and scholarly discussion, which he sometimes sees as a game. 
 
 ## Events
 - May 01, 1715 DR: Requested the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) safeguard the Serpentine Dagger and arrange a meeting upon his return.
-- May 09, 1715 DR: Supervised the application of [Trueflame](<../../things/materials/trueflame.md>) that unmade the Serpentine Dagger.
+- May 09, 1715 DR: Supervised the application of [Trueflame](<../../things/materials/trueflame.md>) that unmade the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>).
 
 ## Relationships
 - [Elowen Duval](<./elowen-duval.md>) — Provides counsel on spiritual matters affecting governance.

@@ -1,8 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity]
+tags: [power]
 dm_owner: none
 dm_notes: none
+typeOf: high god
+affiliations:
+- {org: Three Despairs, title: One}
 title: G'Zab
 ---
 # G'Zab

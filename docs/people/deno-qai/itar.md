@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/gameupdate]
+tags: [person, status/gameupdate/dufr]
 campaignInfo: []
 name: Itar
 born: 1716
@@ -18,7 +18,7 @@ title: Itar
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A Deno'qai [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1716 (33 years old)  
+    Born DR 1716 (34 years old)  
     { .bio }
 
     Based in the largest Bek'eni village, in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)

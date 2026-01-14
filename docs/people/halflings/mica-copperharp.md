@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/gameupdate]
+tags: [person, status/gameupdate/dufr]
 species: halfling
 born: 1701
 gender: male
@@ -17,7 +17,7 @@ title: Mica Copperharp
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (he/him)  
-    Born DR 1701 (48 years old)  
+    Born DR 1701 (49 years old)  
     { .bio }
 
     Originally from: Unknown

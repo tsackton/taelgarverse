@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 displayDefaults: {defArt: ''}
 name: Ring of the Warded mind
 typeOf: ring
@@ -15,7 +15,7 @@ title: Ring of the Warded Mind
 ---
 # Ring of the Warded Mind
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Uncommon [Dwarven](<../../../creatures/species/dwarves.md>) Magic Ring__  
+- :octicons-info-24:{ .lg .middle } __(uncommon [dwarven](<../../../creatures/species/dwarves.md>) magic ring)__  
    Owned by [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding) 
 </div>

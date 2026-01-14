@@ -22,7 +22,7 @@ title: Amar
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1710 (39 years old)  
+    Born DR 1710 (40 years old)  
     Master of the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>)  
     { .bio }
 

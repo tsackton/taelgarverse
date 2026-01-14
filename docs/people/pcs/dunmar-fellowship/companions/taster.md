@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, person]
+tags: [person]
 displayDefaults: {wOrigin: '', wOriginU: ''}
 excludePublish: [clee]
 name: Taster
@@ -9,7 +9,7 @@ species: rabbit
 ancestry:
 gender: unknown
 affiliations:
-- {org: Dunmar Fellowship}
+- {org: Dunmar Fellowship, title: Companion}
 whereabouts:
 - {type: away, location: missing and presumed dead}
 dm_owner: tim
@@ -21,7 +21,7 @@ title: Taster
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A rabbit (they/them)  
-    Member of the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
+    Companion of the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

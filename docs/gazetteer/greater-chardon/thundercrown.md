@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: mountain
+typeOf: topographical feature
 whereabouts: Chataan Mountains
 dm_notes: none
 dm_owner: none
+typeOfAlias: mountain
 title: Thundercrown
 ---
 # Thundercrown

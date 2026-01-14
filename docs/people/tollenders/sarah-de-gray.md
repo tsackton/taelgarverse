@@ -8,7 +8,6 @@ born: 1733
 species: human
 ancestry: Isinguer
 gender: female
-family: de Grey
 whereabouts:
 - {type: home, location: Duchy of Maseau}
 - {type: home, start: 1746, location: Tollen}
@@ -21,7 +20,7 @@ title: Sarah de Grey
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Isinguer](<../../history/historical-realms/istabor-alliance.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1733 (16 years old)  
+    Born DR 1733 (17 years old)  
     { .bio }
 
     Originally from: the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)

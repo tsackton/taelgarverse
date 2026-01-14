@@ -26,7 +26,7 @@ title: Belegor
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [elf](<../../creatures/species/elves.md>) (he/him), ([ka](<../../background/elven-cycle-of-generations.md>) 36)  
-    Born DR 1468 (281 years old)  
+    Born DR 1468 (282 years old)  
     { .bio }
 
     Originally from: [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)

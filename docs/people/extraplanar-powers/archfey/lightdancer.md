@@ -1,29 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [power]
 campaignInfo:
 - {campaign: dufr, person: Seeker, date: 1748-11-10, type: met}
 name: Lightdancer
-species: fey
-subspecies: archfey
+typeOf: archfey
 gender: nonbinary
 aliases: [Egon, Lord Egon]
 whereabouts:
 - {type: home, location: Shimmersong}
 dm_owner: tim
 dm_notes: important
+affiliations:
+- {org: Shimmersong, type: leader, title: Lord}
 title: Lightdancer
 ---
 # Lightdancer
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [fey](<../../../creatures/fey/fey.md>) ([archfey](<../../../creatures/fey/fey.md>)) (they/them)  
-    { .bio }
-
-    Based in [Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>), the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)
-</div>
-
 
 
 :octicons-location-24:{ .lg .middle } Met by [Seeker](<../../pcs/dunmar-fellowship/seeker.md>) on November 10th, 1748 in [Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>), the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)  

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/gameupdate, status/cleanup/metadata]
+tags: [person, status/gameupdate/dufr]
 name: Servius
 born: 1689
 species: human
@@ -19,7 +19,7 @@ title: Servius
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1689 (60 years old)  
+    Born DR 1689 (61 years old)  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 

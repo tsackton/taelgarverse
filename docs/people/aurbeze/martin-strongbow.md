@@ -21,7 +21,7 @@ title: Martin Strongbow
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Isinguer](<../../history/historical-realms/istabor-alliance.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1716 (33 years old)  
+    Born DR 1716 (34 years old)  
     A Captain of [The Rangers](<../../groups/the-rangers.md>)  
     { .bio }
 

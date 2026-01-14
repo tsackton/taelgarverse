@@ -1,6 +1,9 @@
 ---
-{title: Merfolk Quest Treasure}
+tags: [meta]
+typeOf: hoard
+title: Merfolk Quest Treasure
 ---
+
 ## Treasure Acquired in [Apporia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>) 
 
 - 6 potions of transformation, plus 6 doses of antidote. The potions of transformation are literally that, transformations. While under the effects, you gain gills but lose lungs. You can now breath water, but not air. Have no effect on swim speed, and last until the antidote is taken or the magical transformation is dispelled. A gift from [Kazuro](<../../../people/other-nonhumans/kazuro.md>) in exchange for a [promise to return and help him build a monastery and find a student](<../session-notes/session-99-dufr.md>).

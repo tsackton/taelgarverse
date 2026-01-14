@@ -1,5 +1,5 @@
 ---
-tags: [species, status/needswork/old]
+tags: [creature, status/wip]
 name: Humans
 aliases: [human]
 dm_owner: joint

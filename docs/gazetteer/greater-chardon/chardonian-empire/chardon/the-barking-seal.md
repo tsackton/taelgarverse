@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: tavern
+typeOf: inn
 whereabouts: Precinct VI
 displayDefaults: {defArt: ''}
 dm_notes: none
 dm_owner: none
+typeOfAlias: tavern
 title: The Barking Seal
 ---
 # The Barking Seal

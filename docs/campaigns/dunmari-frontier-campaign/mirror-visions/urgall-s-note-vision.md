@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 DR: 1748-12-30
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 title: Urgall's Note Vision
 ---
 # Urgall's Note Vision

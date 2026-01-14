@@ -12,7 +12,7 @@ tagline: in which the party discovers a fey mystery.
 descTitle: The Cursed Song
 title: Addermarch Campaign - Session 11
 ---
-# The Addermarch Campaign - Session 11
+# Addermarch Campaign - Session 11
 
 >[!info] The Cursed Song: in which the party discovers a fey mystery.
 > *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*

@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
 name: Gold Street
-typeOf: ward
+typeOf: neighborhood
 whereabouts: Tollen
 dm_notes: none
 dm_owner: none
+typeOfAlias: ward
 title: Gold Street
 ---
 # Gold Street

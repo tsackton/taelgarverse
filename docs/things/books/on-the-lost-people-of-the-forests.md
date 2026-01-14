@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 name: On the Lost People of the Forests
 typeOf: book
 ancestry: Chardonian
@@ -9,7 +9,7 @@ dm_notes: color
 title: On the Lost People of the Forests
 ---
 # The On the Lost People of the Forests
-:octicons-info-24:{ .lg .middle } **[Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) Book**  
+:octicons-info-24:{ .lg .middle } **([Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) book)**  
 
 
 
@@ -29,7 +29,7 @@ Since then, the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-
 
 As a student, then, he sought out these people, hired guides, and set off into the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>) to learn what was there.
 
-He spent 6 months with the Baz'aku earning their trust, learning about their way of life on the eaves of the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>). From them he learned of the shared myths of the Deno'qai, the People of the Gods in their tongue, who trace their ancestry to the first humans to leave Hkar, long before [The Downfall](<../../events/ancient/the-downfall.md>), the wars, and the founding of [Drankor](<../../history/drankorian-empire/drankor.md>). They claim they once lived in vast forests that stretched from the mountains to the sea, from the [Yeraad](<../../gazetteer/greater-chardon/yeraad.md>) to the south, and as far north as the land of fire and ice, where the midnight sun lights the summer sky and the long night of winter lasts for weeks. Now few of their people survive, and even fewer who hold to the old ways, the worship of the tanshi, the spirits of the forest that bring their prayers to [Anida](<../../gods-and-religions/gods/high-gods/divine-presence.md>), the creator, the first and the last.
+He spent 6 months with the Baz'aku earning their trust, learning about their way of life on the eaves of the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>). From them he learned of the shared myths of the Deno'qai, the People of the Gods in their tongue, who trace their ancestry to the first humans to leave Hkar, long before The Downfall, the wars, and the founding of [Drankor](<../../gazetteer/drankorian-hinterland/drankor/drankor.md>). They claim they once lived in vast forests that stretched from the mountains to the sea, from the [Yeraad](<../../gazetteer/greater-chardon/rivers/yeraad.md>) to the south, and as far north as the land of fire and ice, where the midnight sun lights the summer sky and the long night of winter lasts for weeks. Now few of their people survive, and even fewer who hold to the old ways, the worship of the tanshi, the spirits of the forest that bring their prayers to [Anida](<../../gods-and-religions/gods/high-gods/divine-presence.md>), the creator, the first and the last.
 
 The Baz'aku claim the land between the [Chasa](<../../gazetteer/major-rivers/chasa-nahadi-watershed/chasa.md>) and the [Kayan](<../../gazetteer/major-rivers/chasa-nahadi-watershed/kayan.md>), but spoke of other tribes, and stranger things, deeper in the woods.
 

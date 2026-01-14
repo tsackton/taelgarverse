@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/dunmarfrontier, status/active]
+tags: [person]
 campaignInfo: []
 name: Kenzo
 born:
 species: human
 ancestry: Dunmari
+affiliations:
+- {org: Dunmar Fellowship, type: primary}
 gender: male
 player: David Kong
 dm_owner: player
@@ -16,7 +18,7 @@ title: Kenzo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>)  
     { .bio }
 
 </div>
@@ -90,7 +92,7 @@ title: Kenzo
 > …are you from the north bank?
 > “Yes. The stinklands. Near the refineries"
 > I know those refineries. I’m glad to have left. If you’re from there how did you end up with open scroll? I’ll be honest. When I heard you were from there I put my armor up
-> “I met someone. He noticed my talent. He took me to Whitsun Tower, in the academy. I learned there. You should not think poorly of the Society. Remember after the fall of [Drankor](<../../../history/drankorian-empire/drankor.md>), oh so many years ago, much was lost and humanity was much poorer for it.”
+> “I met someone. He noticed my talent. He took me to Whitsun Tower, in the academy. I learned there. You should not think poorly of the Society. Remember after the fall of [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>), oh so many years ago, much was lost and humanity was much poorer for it.”
 > Who did you meet?
 > “A friend. His name is [Agon](<../../chardonians/agon.md>)."
 > And what has the Society done for the neighborhoods in the north bank? A lot of suffering from what I lived and experienced.
@@ -138,7 +140,7 @@ title: Kenzo
 > 
 > The first creature, the human, goes to strike. As it swings, you see echoing in its body, what seem like generations, people reflected in its ghostly form, marching into the past. The second creature, the elf-ish one, raises his hand and a light flares. In the light you can see burning bright the forms of others, also what seem like generations. Standing in the light that forms the shield is the figure of [Rai](<../great-war/rai.md>). As the blow hits, you can see there are five holes in this shield of light, five points where there is a gap in the defense. You can start to here voices, echos of sounds from both figure. From the human, a group standing together, mages all, chanting "[Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>), [Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>)," while tendrils of blue light begin to reach around the shield, hissing noises from them as they try to bury into the elvish form, try to reach behind it to what it is protecting, which you see now is a massive crowd of ghosts, all shapes and sizes and races, but no Drankorians.
 > 
-> One of the tendrils of blue light reaches for you, and suddenly both figures notice you. They tower above you, at least 20 feet tall. As both figures look down at you, you see them for a moment not as giants, but as strands of history, threads of [Drankor](<../../../history/drankorian-empire/drankor.md>). As the blue tendrils reaches you, you feel a burning sensation, but rapidly it cools, feels almost like a gentle, relaxing breeze. You see the line of your ancestors going back to [Hkar](<../../../history/historical-realms/hkar.md>), the human figure pleased for a moment, until [Rai](<../great-war/rai.md>) grows, filling the form of the elvish figure, and leaps, crying “This one is not for you!” as the blue white tendrils of light shatters against [Rai](<../great-war/rai.md>).
+> One of the tendrils of blue light reaches for you, and suddenly both figures notice you. They tower above you, at least 20 feet tall. As both figures look down at you, you see them for a moment not as giants, but as strands of history, threads of [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>). As the blue tendrils reaches you, you feel a burning sensation, but rapidly it cools, feels almost like a gentle, relaxing breeze. You see the line of your ancestors going back to [Hkar](<../../../history/historical-realms/hkar.md>), the human figure pleased for a moment, until [Rai](<../great-war/rai.md>) grows, filling the form of the elvish figure, and leaps, crying “This one is not for you!” as the blue white tendrils of light shatters against [Rai](<../great-war/rai.md>).
 > 
 > You can feel the [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>) growing heavy on your neck, and see battle after battle: always [Rai](<../great-war/rai.md>), or someone looking like him, rising up in battle against this human giant. The [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>) is definitely drawn to [Rai](<../great-war/rai.md>), not the human figure. And, in every battle, the human figure remains you of the things you don’t like about [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), and the [Rai](<../great-war/rai.md>) figure reminds you of [Kaeso](<../../chardonians/kaeso.md>).
 > 
@@ -150,13 +152,13 @@ title: Kenzo
 > 
 > Still looking at you, the [Rai](<../great-war/rai.md>)/elf figure speaks: “The legacy of Drankor still balances on a knife’s edge, teetering while we were fighting other fights. Will this be your burden? Is the legacy knowledge, shared with all, or the strength and might of Hkaran purity?
 > 
-> As you ponder for a moment, you drift seemingly into the depths of Drankorian history: the founding of the city, full of hope and determination never to fall victim to the powerful world-shaking magic of [The Downfall](<../../../events/ancient/the-downfall.md>) of [Hkar](<../../../history/historical-realms/hkar.md>) again; the armies marching across the plains, moving north and the empty land falling under their sway with hardly a fight; the great towers, and mages forming secret societies to pry the hidden mysteries of extraplanar power; and then, as if you are seeing double, the stream splits in half and your vision returns to the crumbling temple room. 
+> As you ponder for a moment, you drift seemingly into the depths of Drankorian history: the founding of the city, full of hope and determination never to fall victim to the powerful world-shaking magic of The Downfall of [Hkar](<../../../history/historical-realms/hkar.md>) again; the armies marching across the plains, moving north and the empty land falling under their sway with hardly a fight; the great towers, and mages forming secret societies to pry the hidden mysteries of extraplanar power; and then, as if you are seeing double, the stream splits in half and your vision returns to the crumbling temple room. 
 > 
 > As your vision clears, you speak, asking him, "This stone -- I believe it to be a part of you. Where are you now? Can I reunite this piece for you?"
 > 
 > The figure holds up his hand, which you is made of [Jade Piece of Rai's Hand](<../../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>). As you watch, it slowly shatters into five pieces, which drift apart, one fading and merging with the stone in your hand. [Rai](<../great-war/rai.md>) watches, in fascination: “This has not happened yet. You bring a vision of a future yet to occur."
 > 
-> “I do not know where I am, in your time, in the time after this. In this now, I am here, in this place, in this same place in all the echo realms, at the heart of [Drankor](<../../../history/drankorian-empire/drankor.md>), watching.”
+> “I do not know where I am, in your time, in the time after this. In this now, I am here, in this place, in this same place in all the echo realms, at the heart of [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>), watching.”
 > 
 > As he speaks, you can see the pale green light that extends from [Rai](<../great-war/rai.md>)’s hand, spreading from the temple, expanding, twisting to encapsulate the human form that fell. It pulses slowly, almost forming a shield, but as the hand fragments, so does the shield. 
 > 
@@ -178,13 +180,13 @@ title: Kenzo
 > 
 > [Rai](<../great-war/rai.md>): “The worst instincts of the Drankorian Empire. Not just power, not just greed, but a belief in the superiority of humanity, in the glory of the pure Drankorian essence. I am afraid this may infect the world now.”
 > 
-> Kenzo: “[Drankor](<../../../history/drankorian-empire/drankor.md>) is long disappeared. It is ruins in the jungle now.”
+> Kenzo: “[Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>) is long disappeared. It is ruins in the jungle now.”
 > 
 > [Rai](<../great-war/rai.md>): “But there are still humans, and there is always a risk that they are corrupted in their heart.”
 > 
 > Kenzo: “[Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). I fear in my time they are corrupted, they seek magic, they seek power.”
 > 
-> [Rai](<../great-war/rai.md>): “[Drankor](<../../../history/drankorian-empire/drankor.md>) was for so many years much more than that, it was a beacon of hope, it was a place where humans could be safe and protected from the evils of the world, where demons could be turned away at the gates. [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) was once this too, [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) was a becon of hope in my lifetime.”
+> [Rai](<../great-war/rai.md>): “[Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>) was for so many years much more than that, it was a beacon of hope, it was a place where humans could be safe and protected from the evils of the world, where demons could be turned away at the gates. [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) was once this too, [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) was a becon of hope in my lifetime.”
 > 
 > Kenzo: “Not in my time.”
 > 

@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest]
-campaignInfo: []
+tags: [person]
 name: Raven
 born:
 species: fey
 ancestry:
 gender: enby
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+affiliations:
+- {org: Dunmar Fellowship, title: Guest"}
 player: Isaac Sackton
 excludePublish: [clee]
 dm_owner: player
@@ -18,6 +20,7 @@ title: Raven
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [fey](<../../../../creatures/fey/fey.md>) (they/them)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

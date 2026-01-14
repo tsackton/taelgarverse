@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 campaignInfo:
 name: Duchy of Wisford
-typeOf: duchy
+typeOf: realm
 whereabouts: Sembara
 dm_owner: mike
 dm_notes: important
+typeOfAlias: duchy
 title: Duchy of Wisford
 ---
 # The Duchy of Wisford

@@ -1,5 +1,7 @@
 ---
-{title: Apollyon's Tower Treasure}
+tags: [meta]
+typeOf: hoard
+title: Apollyon's Tower Treasure
 ---
 ## Apollyon's Tower Treasure
 
@@ -37,7 +39,7 @@ A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches 
 - 1 tungsten (wolframite) bar
 
 The remaining 47 are magical or unusual metals:
-- 9 Mithril bars
+- 9 [Mithril](<../../../things/materials/mithril.md>) bars
 - 6 [Chalyte](<../../../things/materials/chalyte.md>) bars 
 - 5 fey steel bars 
 - 7 star iron bars 

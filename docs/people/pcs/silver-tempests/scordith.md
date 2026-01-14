@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: human
 born: 1730
 gender: female
 dm_owner: tim
 dm_notes: none
+affiliations:
+- {org: Silver Tempests, end: 1747-06-09}
 whereabouts:
 - {type: home, end: 1736, location: Paisa}
 - {type: away, start: 1747-03-01, end: 1747-06-09, location: Voltara}
@@ -16,13 +18,14 @@ title: Scordith
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [human](<../../../creatures/species/humans.md>) (she/her)  
-    Born DR 1730 (19 years old)  
+    Born DR 1730 (20 years old)  
+    Member of the [Silver Tempests](<./silver-tempests.md>) (until June 9th, 1747)  
     { .bio }
 
-    Originally from: [Paisa](<../../../gazetteer/northwest-coast/northern-provinces/paisa.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Originally from: [Paisa](<../../../gazetteer/northwest-coast/northern-provinces/paisa.md>), the [Northern Provinces](<../../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of June 9th, 1747): [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of June 9th, 1747): [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Northern Provinces](<../../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>)
 
 
 Scordith was born in [Paisa](<../../../gazetteer/northwest-coast/northern-provinces/paisa.md>), a small village on the northwestern shore of [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>). Her early life was uneventful, until her parents died in a tragic accident when she was only six years old. The village elders, not sure what to do, sent her to live in a secretive monastery in the hills that was willing to take her in. Scordith was raised in the monastery for the next twelve years. 

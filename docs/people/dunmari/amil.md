@@ -21,7 +21,7 @@ title: Amil
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1731 (18 years old)  
+    Born DR 1731 (19 years old)  
     Member of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)  
     { .bio }
 

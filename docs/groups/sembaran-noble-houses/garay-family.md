@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 typeOf: family
 typeOfAlias: merchant family
 ancestry: Sembaran
@@ -13,7 +13,7 @@ title: Garay Family
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
    :octicons-info-24:{ .lg .middle } A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) merchant family  
-    :octicons-location-24:{ .lg .middle } Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), [Greater Sembara](<../../gazetteer/greater-sembara/greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), [Greater Sembara](<../../gazetteer/greater-sembara/greater-sembara.md>)  
 </div>
 
 

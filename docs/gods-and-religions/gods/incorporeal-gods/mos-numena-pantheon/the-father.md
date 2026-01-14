@@ -1,7 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/cleanup/image]
+tags: [power, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ''}
+affiliations:
+- {org: Mos Numena, type: primary}
+- {org: Eight Divines, title: One}
+typeOf: incorporeal god
 gender: male
 dm_owner: joint
 dm_notes: none

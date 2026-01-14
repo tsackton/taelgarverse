@@ -2,12 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Lonely Watchtower
-typeOf: tower
-subtypeOf: ruined
+typeOf: building
 whereabouts:
 - {type: primary, location: ~North Voltara Hills~}
 dm_owner: none
 dm_notes: none
+typeOfAlias: ruined tower
 title: Lonely Watchtower
 ---
 # The Lonely Watchtower

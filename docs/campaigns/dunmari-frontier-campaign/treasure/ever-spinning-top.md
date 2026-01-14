@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: toy
 rarity: common
 subTypeOf: magical
@@ -10,7 +10,7 @@ title: Ever Spinning Top
 ---
 # The Ever Spinning Top
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Common [Drankorian](<../../../history/drankorian-empire/drankorian-empire.md>) Magical Toy__  
+- :octicons-info-24:{ .lg .middle } __(common [Drankorian](<../../../history/historical-realms/drankorian-empire.md>) magical toy)__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/3819604-always-spinning-top) 
 </div>
 

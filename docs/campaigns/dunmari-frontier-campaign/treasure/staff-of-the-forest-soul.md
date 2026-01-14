@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment, status/cleanup/text, status/cleanup/image]
+tags: [object, status/cleanup/text, status/cleanup/image]
 typeOf: staff
 whereabouts: Kenzo
 rarity: unique
@@ -8,7 +8,7 @@ title: Staff of the Forest Soul
 ---
 # The Staff of the Forest Soul
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Staff__  
+- :octicons-info-24:{ .lg .middle } __(unique staff)__  
    Owned by [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)  
 </div>
 

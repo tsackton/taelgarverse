@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/needswork/gameupdate]
+tags: [person, status/gameupdate/dufr]
 campaignInfo: []
 name: Hektor
 born: 1716
@@ -19,7 +19,7 @@ title: Hektor
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1716 (33 years old)  
+    Born DR 1716 (34 years old)  
     { .bio }
 
     Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

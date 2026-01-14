@@ -19,12 +19,15 @@ title: Bran
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1706 (43 years old)  
+    Born DR 1706 (44 years old)  
     { .bio }
 
     Based in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)
 </div>
 
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
 A villager of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), child of the charcoal‑maker [Karl](<./karl.md>) and [Isolde of Haldrenn](<./isolde-of-haldrenn.md>).

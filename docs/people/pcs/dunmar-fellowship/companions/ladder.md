@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, pc, person]
+tags: [person]
 name: Ladder
 species: construct
+affiliations:
+- {org: Dunmar Fellowship, title: Companion}
 excludePublish: [clee]
 dm_owner: tim
 dm_notes: important
@@ -13,6 +15,7 @@ title: Ladder
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A construct  
+    Companion of the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 displayDefaults: {wOrigin: '', wOriginU: '', defArt: ''}
 typeOf: wonderous item
 subTypeOf: magical
@@ -9,7 +9,7 @@ ancestry: fey
 title: Liquid Wood
 ---
 # Liquid Wood
-:octicons-info-24:{ .lg .middle } **Unique [Fey](<../../../creatures/fey/fey.md>) Magical Wonderous Item**  
+:octicons-info-24:{ .lg .middle } **(unique [Fey](<../../../creatures/fey/fey.md>) magical wonderous item)**  
 
 A strange, putty like substance that seems to ooze and bubble slowly, almost maliciously. Apparently an invention of the hag [Agata Dustmother](<../../../people/fey/agata.md>), used to transform humanoids into wooden puppets. 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 ancestry: Hkaran
 typeOf: cult
 dm_notes: color
@@ -10,7 +10,7 @@ title: Chainshroud
 # Chainshroud
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A Hkaran cult  
+   :octicons-info-24:{ .lg .middle } A [Hkaran](<../history/historical-realms/hkar.md>) cult  
 </div>
 
 

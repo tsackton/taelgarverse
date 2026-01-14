@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: battlefield
+typeOf: infrastructure
 whereabouts: Chasa River Valley
 dm_notes: none
 dm_owner: none
+typeOfAlias: battlefield
 title: Scar of Shadowfire
 ---
 # The Scar of Shadowfire

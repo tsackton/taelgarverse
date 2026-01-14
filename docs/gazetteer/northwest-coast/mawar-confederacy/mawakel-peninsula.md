@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Mawakel Peninsula
-typeOf: peninsula
+typeOf: topographical feature
 whereabouts: Northwest Coast
 dm_owner: none
 dm_notes: color
+typeOfAlias: peninsula
 title: Mawakel Peninsula
 ---
 # The Mawakel Peninsula

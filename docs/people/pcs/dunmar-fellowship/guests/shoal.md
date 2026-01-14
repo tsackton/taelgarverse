@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest]
+tags: [person]
 name: Shoal
 born: 1652
 ka: 37
@@ -8,6 +8,9 @@ species: elf
 subspecies: sea
 gender: male
 player: Phil Grayson
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+affiliations:
+- {org: Dunmar Fellowship, title: Guest"}
 whereabouts:
 - {type: home, location: Quanyi}
 dm_owner: tim
@@ -19,7 +22,8 @@ title: Shoal
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [elf](<../../../../creatures/species/elves.md>) (sea) (he/him), ([ka](<../../../../background/elven-cycle-of-generations.md>) 37)  
-    Born DR 1652 (97 years old)  
+    Born DR 1652 (98 years old)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
     Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), the ~Eastern Islands~, the [Green Sea](<../../../../gazetteer/green-sea.md>)

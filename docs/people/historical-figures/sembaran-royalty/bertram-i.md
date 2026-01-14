@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 name: Bertram I
 born: 1538
 species: human
@@ -33,4 +33,4 @@ dm_owner: none
 
 Bertam I, [Derik III’s](<./derik-iii.md>) youngest son, came to the throne in December of 1549, a boy of 11. His mother, [Jane of Tollen](<./jane-of-tollen.md>), was appointed regent, and Bertram’s entire kingship is dominated by her, a shrewd woman who disliked waste.
 
-He did not live long enough to have children. He is believed to have died of the effects of the Blood Plague.
+He did not live long enough to have children. He is believed to have died of the effects of the [Blood Plague](<../../../events/1500s/blood-plague.md>).

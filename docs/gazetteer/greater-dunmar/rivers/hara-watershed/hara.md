@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Hara
-typeOf: river
+typeOf: waterway
 whereabouts: Hara Watershed
 dm_notes: color
 dm_owner: tim
+typeOfAlias: river
 title: Hara
 ---
 # Hara
@@ -14,7 +15,7 @@ title: Hara
 </div>
 
 
-The Hara flows 750 miles through the [Hara Basin](<../../hara-basin/hara-basin.md>), from its source in the foothills of the [Sentinel Range](<../../../sentinel-range.md>) to the [~Hara River Gorge~](<../../hara-basin/hara-river-gorge.md>). Once, it flowed more than twice that length in total, joining the [Istaros](<../../../major-rivers/istaros-watershed/istaros.md>) north of [Drankor](<../../../../history/drankorian-empire/drankor.md>). Whether it still does after the cataclysms and upheavals following the [Great War](<../../../../events/1500s/great-war.md>), no one knows.
+The Hara flows 750 miles through the [Hara Basin](<../../hara-basin/hara-basin.md>), from its source in the foothills of the [Sentinel Range](<../../../sentinel-range.md>) to the [~Hara River Gorge~](<../../hara-basin/hara-river-gorge.md>). Once, it flowed more than twice that length in total, joining the [Istaros](<../../../major-rivers/istaros-watershed/istaros.md>) north of [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>). Whether it still does after the cataclysms and upheavals following the [Great War](<../../../../events/1500s/great-war.md>), no one knows.
 
 At its source, the Hara is a swift flowing mountain river, descending to the  flat plains of the [Hara Basin](<../../hara-basin/hara-basin.md>). As the Hara enters the [Hara Basin](<../../hara-basin/hara-basin.md>), it slows and widens as it meanders south towards [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>), joined first by the [Sone](<./sone.md>) and then by the [Thandar](<./thandar.md>), along with several minor tributaries. 
 

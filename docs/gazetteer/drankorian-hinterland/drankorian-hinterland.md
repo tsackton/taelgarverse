@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/wip]
 displayDefaults: {defArt: the}
 typeOf: region
 whereabouts:
@@ -58,7 +58,7 @@ _See more: {links}_
 
 {descriptive text of topography and major features}
 ## Civilizations and Cultures
-_See more: [Drankor](<../../history/drankorian-empire/drankorian-empire.md>)
+_See more: [Drankor](<../../history/historical-realms/drankorian-empire.md>)
 
 
 ## Climate

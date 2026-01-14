@@ -1,19 +1,20 @@
 ---
 headerVersion: 2023.11.25
+displayDefaults: {defArt: ''}
 tags: [place]
 name: Blacksilver Peak
-typeOf: mountain
-whereabouts:
-- {type: primary, location: Fiamatara Mountains}
+typeOf: topographical feature
+whereabouts: Fiatara Mountains
 dm_owner: tim
-dm_notes: important
+dm_notes: none
+typeOfAlias: mountain
 title: Blacksilver Peak
 ---
-# The Blacksilver Peak
+# Blacksilver Peak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A mountain the Fiamatara Mountains  
+-    :octicons-location-24:{ .lg .middle } A mountain in the [Fiatara Mountains](<./fiatara-mountains.md>), the [Northwest Coast](<../northwest-coast.md>)  
 </div>
 
 
-A jagged, ice‑shrouded summit in the far north of the [Fiatara Mountains](<./fiatara-mountains.md>). Blacksilver Peak is a sharp, snow‑and‑ice covered knife edge, and source of perpetual storms, even in summer. Beneath the peak lies an ancient Dwarven road and an old complex leading to the so‑called "Endless Stair" through the heart of the mountain.
+Blacksilver Peak is a jagged mountain in the northern part of the [Fiatara Mountains](<./fiatara-mountains.md>), with a significant glacier covering the summit. A large complex of Dwarven ruins lie beneath the peak. 
 

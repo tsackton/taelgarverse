@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/companion]
+tags: [person]
 name: Es\*tiasilos
 displayDefaults: {startStatus: hatched from an egg on}
 aliases: [Es*tiasilos]
 born: 1719-11-05
 species: mysterious abberation
+affiliations:
+- {org: Heroes of Cleenseau, title: Companion}
 pronouns: it/they/him/her
 dm_owner: player
 dm_notes: important
@@ -16,7 +18,8 @@ title: Es\*tiasilos
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A mysterious abberation (it/they/him/her)  
-    Hatched from an egg on November 5th, 1719 (29 years old)  
+    Hatched from an egg on November 5th, 1719 (30 years old)  
+    Companion of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     { .bio }
 
 </div>

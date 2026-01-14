@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-typeOf: region
+typeOf: grassland
 whereabouts: Central Dunmar
 aliases: [plains of Songara]
 tags: [place, status/check/name]
@@ -11,7 +11,7 @@ title: ~Songara Plains~
 ---
 # The ~Songara Plains~
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A grassland in [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
 </div>
 
 

@@ -19,15 +19,15 @@ title: Jayden
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1729 (20 years old)  
+    Born DR 1729 (21 years old)  
     { .bio }
 
-    Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Beaten in staff dancing competition by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on April 2nd, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Beaten in staff dancing competition by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on April 2nd, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 

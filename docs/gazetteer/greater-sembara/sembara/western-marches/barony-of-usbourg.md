@@ -2,9 +2,10 @@
 headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Western Marches
-typeOf: barony
+typeOf: realm
 dm_notes: none
 dm_owner: none
+typeOfAlias: barony
 title: Barony of Usbourg
 ---
 # The Barony of Usbourg

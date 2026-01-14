@@ -1,9 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/tanshi]
+tags: [power, religion/tanshi]
 pronunciation: koh-nee-SAH-tee
 dm_owner: none
 dm_notes: none
+typeOf: tanshi
+affiliations:
+- {org: Meswati, type: primary}
 title: K'onisati
 ---
 # K'onisati

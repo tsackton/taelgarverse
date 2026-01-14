@@ -7,11 +7,12 @@ whereabouts: Greater Sembara
 aliases: [Tyrwinghan]
 dm_notes: important
 dm_owner: shared,mike
+typeOfAlias: monarchy
 title: Tyrwingha
 ---
 # Tyrwingha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A realm in [Greater Sembara](<../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A monarchy in [Greater Sembara](<../greater-sembara.md>)  
 </div>
 
 

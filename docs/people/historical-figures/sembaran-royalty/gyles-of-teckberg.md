@@ -1,12 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 name: Gyles
 born: 1541
 species: human
 ancestry: Sembaran
 gender: male
-reignStart:
 died: 1632
 affiliations:
 - {org: House of Teckberg, type: leader}

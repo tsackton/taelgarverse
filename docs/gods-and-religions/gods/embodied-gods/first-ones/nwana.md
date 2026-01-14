@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
 pronunciation: n-WAH-nah
-tags: [deity, religion/halflings]
+tags: [power, religion/halflings]
 gender: enby
 dm_owner: none
 dm_notes: none
+typeOf: embodied god
+affiliations:
+- {org: First Ones, title: One}
 title: Nwana
 ---
 # Nwana

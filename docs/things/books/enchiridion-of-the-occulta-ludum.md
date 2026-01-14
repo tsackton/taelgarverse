@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 typeOf: book
 subTypeOf: magic
 ancestry: Drankorian
@@ -11,7 +11,7 @@ dm_notes: important
 title: Enchiridion of the Occulta Ludum
 ---
 # The Enchiridion of the Occulta Ludum
-:octicons-info-24:{ .lg .middle } **[Drankorian](<../../history/drankorian-empire/drankorian-empire.md>) Magic Book**  
+:octicons-info-24:{ .lg .middle } **([Drankorian](<../../history/historical-realms/drankorian-empire.md>) magic book)**  
 
 The Enchiridion of the Occulta Ludum appears to be a blank handbook of the [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>), a Drankorian secret society. These books radiate faint illusion magic, and were clearly produced using magical means. 
 

@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {wOriginU: '<ancestry:Ua> <typeof>, location unknown', wCurrent: ''}
-typeOf: city
-ancestry: mythical
+typeOf: settlement
+ancestry:
 dm_owner: none
 dm_notes: none
+typeOfAlias: mythical city
 title: Pu'aatar
 ---
 # Pu'aatar

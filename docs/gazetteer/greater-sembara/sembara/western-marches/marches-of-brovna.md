@@ -3,9 +3,10 @@ headerVersion: 2023.11.25
 tags: [place]
 ancestry: Sembaran
 whereabouts: Western Marches
-typeOf: march
+typeOf: realm
 dm_owner: none
 dm_notes: none
+typeOfAlias: march
 title: Marches of Brovna
 ---
 # The Marches of Brovna

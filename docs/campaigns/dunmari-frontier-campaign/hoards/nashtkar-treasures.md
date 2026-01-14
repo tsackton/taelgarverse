@@ -1,6 +1,9 @@
 ---
-{title: Nashtkar Treasures}
+tags: [meta]
+typeOf: hoard
+title: Nashtkar Treasures
 ---
+
 ## Found in Kharsan
 
 - Tools and glasswork from glassblower's shop in [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>), in northern ruins ([Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>); [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)) We looked at these in the mirror: [Kharsan Broken Glassware Vision](<../mirror-visions/kharsan-broken-glassware-vision.md>)
@@ -19,5 +22,5 @@
 - A black pearl and silver twisted flame amulet, reminiscent of one of [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>)'s symbols. Taken from the undead creature in the fort east of [Gomat](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>).  
 - [Floating Disc Coin](<../treasure/floating-disc-coin.md>) (common minor item), given to [Ancient and Honorable Guild of Philosophers](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) in exchange for information about [Frankar](<../../../people/dwarves/frankar.md>) in [Session 84 (DuFr)](<../session-notes/session-84-dufr.md>)
 - [Aagir's Everlight](<../../../things/magic-items/aagir-s-everlight.md>) (common minor item). Found in the ruined temple that was part of the fort, and was once used to light the temple space. 
-- [Horn of Silent Alarm (Dunmari)](<../../../things/magic-items/horn-of-silent-alarm-dunmari.md>) (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [Motua](<../../../people/extraplanar-powers/motua.md>)'s rescue.
+- [Horn of Silent Alarm (Dunmari)](<../../../things/magic-items/horn-of-silent-alarm-dunmari.md>) (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [Motua](<../../../people/other-nonhumans/motua.md>)'s rescue.
 - Black Iron Staff,  given to the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).  A staff of black iron, carved with words in Draconic, but not magical. Words read: "I bind you to the black wind, I bind you to my flame, I bind you in my power until the sun fails and the moon is dead."  Taken from the undead creature in the fort east of Gomat, and given to the [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>). 

@@ -2,7 +2,7 @@
 {title: Hags}
 ---
 ---
-tags: [species, status/stub]
+tags: [creature, status/stub]
 dm_owner: joint
 dm_notes: none
 ---

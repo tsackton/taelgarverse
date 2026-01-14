@@ -22,7 +22,7 @@ title: Eztain
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [lizardfolk](<../../creatures/species/lizardfolk.md>) (she/her)  
-    Born DR 1706 (43 years old)  
+    Born DR 1706 (44 years old)  
     { .bio }
 
     Originally from: Unknown

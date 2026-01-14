@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Free City of Tollen
-typeOf: city
+typeOf: settlement
 whereabouts: Western Green Sea
-aliases: [Free City of Tollen, Tollen]
+aliases: [Free City of Tollen, Tollen, Tollender]
 dm_owner: tim
 dm_notes: important
+typeOfAlias: city
 title: Free City of Tollen
 ---
 # The Free City of Tollen
@@ -50,13 +51,13 @@ More recently, as Tollen's prominence has grown, the marshy land on the south ba
 
 ### Bridges, Walls, and Gates
 
-Only one bridge spans the [Volta](<../rivers/volta-watershed/volta.md>): the [Tollen Bridge](<places/tollen-bridge.md>), originally constructed by the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>). This broad stone span of many arches is a major commercial hub, lined with shops, houses, and activity, and also a defensive structure, with gatehouses at either end. Tall-masted oceanic ships cannot pass under the bridge. 
+Only one bridge spans the [Volta](<../rivers/volta-watershed/volta.md>): the [Tollen Bridge](<places/tollen-bridge.md>), originally constructed by the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>). This broad stone span of many arches is a major commercial hub, lined with shops, houses, and activity, and also a defensive structure, with gatehouses at either end. Tall-masted oceanic ships cannot pass under the bridge. 
 
 While the [walls of Tollen](<./walls-of-tollen.md>) have expanded many times during its history, there are ten gates in the current walls, from east to west: Old Gate, Fort Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, [Fair Gate](<places/fair-gate.md>), [Tanner's Gate](<places/tanner-s-gate-tollen.md>), River Gate, and West Gate. 
 
 ### Landmarks
 
-Tollen has many notable landmarks. The most famous is the [Tollen Bridge](<places/tollen-bridge.md>), a vast span across the wide [Volta](<../rivers/volta-watershed/volta.md>) that dates to the days of the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>), now lined with shops. There are also many temples, particularly the [Temple of the Wanderer](<places/temple-of-the-wanderer-tollen.md>), with its massive spire, the [Temple of the Sibyl](<places/temple-of-the-sibyl-tollen.md>), with its colorful dome, and the Skaer [Temple of Kaikkea](<places/temple-of-kaikkea.md>), one of the oldest buildings in Tollen. 
+Tollen has many notable landmarks. The most famous is the [Tollen Bridge](<places/tollen-bridge.md>), a vast span across the wide [Volta](<../rivers/volta-watershed/volta.md>) that dates to the days of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>), now lined with shops. There are also many temples, particularly the [Temple of the Wanderer](<places/temple-of-the-wanderer-tollen.md>), with its massive spire, the [Temple of the Sibyl](<places/temple-of-the-sibyl-tollen.md>), with its colorful dome, and the Skaer [Temple of Kaikkea](<places/temple-of-kaikkea.md>), one of the oldest buildings in Tollen. 
 
 The guildhalls of Tollen are also notable, with several richer guilds constructing substantial palaces in the [Gold Street](<wards/gold-street.md>) and [Guildgate](<wards/guildgate.md>) districts, which are noted for their impressive architecture. 
 
@@ -97,11 +98,11 @@ Tollen is a major entrepôt on the Green Sea: its merchant fleets travel widely,
 ## History
 _See more: [History of Tollen](<../../../history/history-of-tollen.md>)_
 
-Tollen was settled in ancient days on the north bank of the Volta, pre-dating even the Downfall Wars and the founding of the ruined city of [Drankor](<../../../history/drankorian-empire/drankor.md>). A cosmopolitan port from its earliest days, it was a place where elves, lizardfolk, halfling traders, and several human cultures met and mingled. Under the Skaer thalassocracy in the years after the [Downfall](<../../../events/ancient/the-downfall.md>), it grew into a key harbor on the Western Green Sea, and the oldest wards—Fiskurth, Skepwalk, [Aesganstrad](<wards/aesganstrad.md>)—mostly date to this era. 
+Tollen was settled in ancient days on the north bank of the Volta, pre-dating even the [Downfall Wars](<../../../events/ancient/downfall-wars.md>) and the founding of the ruined city of [Drankor](<../../drankorian-hinterland/drankor/drankor.md>). A cosmopolitan port from its earliest days, it was a place where elves, lizardfolk, halfling traders, and several human cultures met and mingled. Under the Skaer thalassocracy in the years after the Downfall, it grew into a key harbor on the Western Green Sea, and the oldest wards—Fiskurth, [Skepwalk](<wards/skepwalk.md>), [Aesganstrad](<wards/aesganstrad.md>)—mostly date to this era. 
 
 Tollen’s first great turning point came with the Treaty of Marhavn in DR 402, when Skaer power yielded to the Drankorian Empire: the Volta became the imperial border, Tollen gained stone walls and the Tollen Bridge, and the city slid into de facto status as a Drankorian protectorate, though it was never formally governed by the Empire. 
 
-The Fall of Drankor and the First Plague in DR 1059 left Tollen suddenly independent. Spared the worst of the fallout from the collapse of the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>), Tollen grew over the following centuries into a guild-ruled free city, its walls creeping outward in rings while trade made its merchant houses rich. 
+The Fall of Drankor and the First Plague in DR 1059 left Tollen suddenly independent. Spared the worst of the fallout from the collapse of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>), Tollen grew over the following centuries into a guild-ruled free city, its walls creeping outward in rings while trade made its merchant houses rich. 
 
 The city weathered the [Great War](<../../../events/1500s/great-war.md>) without ever being sacked, and in the last century it has stepped onto the wider stage as a naval power in its own right. With Cymea’s decline, Tollish fleets now dominate the Western Gulf and the Straits of Cymea, and Tollish free ports in Western Cymea function as colonies. Now, Tollen is both an ancient, stubbornly independent river-city and a young, hungry maritime republic, looking ever further from its old Skaer quays toward the open sea.
 

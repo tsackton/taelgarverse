@@ -23,7 +23,7 @@ title: Jorma
     { .bio }
 
     Originally from: [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
-    Lived in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
+    Lived in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>)
 </div>
 
 

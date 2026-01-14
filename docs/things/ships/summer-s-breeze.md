@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {wOrigin: 'Home area: <origin>', prep: 'on', wHome: 'Home area: <home>'}
-tags: [item/vehicle, status/cleanup/whereabouts]
+tags: [object, status/cleanup/whereabouts]
 typeOf: vehicle
 ancestry: halfling
 typeOfAlias: boat
@@ -14,7 +14,7 @@ title: Summer's Breeze
 ---
 # The Summer's Breeze
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Halfling](<../../creatures/species/halflings.md>) Boat__  
+- :octicons-info-24:{ .lg .middle } __([halfling](<../../creatures/species/halflings.md>) boat)__  
    Home area: the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)  
 </div>
 

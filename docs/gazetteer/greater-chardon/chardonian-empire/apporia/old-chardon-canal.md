@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Old Chardon Canal
-typeOf: canal
+typeOf: waterway
 whereabouts: Portalia
 dm_owner: tim
 dm_notes: important
+typeOfAlias: canal
 title: Old Chardon Canal
 ---
 # The Old Chardon Canal
@@ -14,15 +15,15 @@ title: Old Chardon Canal
 </div>
 
 
-Variously referred to as the [Chardon](<../chardon/chardon.md>) Canal, the Old [Chardon](<../chardon/chardon.md>) Canal, the Great [Chardon](<../chardon/chardon.md>) Canal, or just the Canal, this is an 87 mile long sea-level canal that connects the [Endless Ocean](<../../../endless-ocean.md>) near [Chardon](<../chardon/chardon.md>) with the Emerald Bay and the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>). 
+Variously referred to as the [Chardon](<../chardon/chardon.md>) Canal, the Old [Chardon](<../chardon/chardon.md>) Canal, the Great [Chardon](<../chardon/chardon.md>) Canal, or just the Canal, this is an 87 mile long sea-level canal that connects the [Endless Ocean](<../../../endless-ocean.md>) near [Chardon](<../chardon/chardon.md>) with the [Emerald Bay](<./emerald-bay.md>) and the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>). 
 
 Built with magic by the Drankorians, and currently navigated by a mysterious group known as windcallers, who use magic to steer ships through the often windless passage. 
 
 ## Geography
 
-The southern entrance to the canal is on a tidal estuary, near the small city of Pergia, just to the west. The canal is traditionally demarcated from south to north, so the southern entrance is known as mile 1. 
+The southern entrance to the canal is on a tidal estuary, near the small city of [Pergia](<./pergia.md>), just to the west. The canal is traditionally demarcated from south to north, so the southern entrance is known as mile 1. 
 
-At Mile 10 is Fort Ameli, originally a Drankorian fort, which guards the entrance to the canal proper. Ships making the passage north are required to dock here, to queue for a windcaller pilot, and to pay the toll. 
+At Mile 10 is [Fort Ameli](<./fort-ameli.md>), originally a Drankorian fort, which guards the entrance to the canal proper. Ships making the passage north are required to dock here, to queue for a windcaller pilot, and to pay the toll. 
 
 From here, the canal runs due north for 12 miles, through gentle terrain, following the course of a river that has been widened and leveled. 
 
@@ -38,7 +39,7 @@ At Mile 56, the Canal enters Lake Cirelus, a small lake, and joins the route of 
 
 By Mile 77, the river enters its marshy delta. The main channel of the Canal follows a deep passage dug out and dredged with magic. 
 
-At Mile 87, the Canal enters the Gulf of Chardon, passing Fort Varian, built on a tiny island in the marshlands. Services, docks, and a safe port can be found a few miles east, at [Nevium](<./nevium.md>).
+At Mile 87, the Canal enters the Gulf of Chardon, passing [Fort Varian](<./fort-varian.md>), built on a tiny island in the marshlands. Services, docks, and a safe port can be found a few miles east, at [Nevium](<./nevium.md>).
 
 ## Canal Passage
 
@@ -48,7 +49,7 @@ The Cut, between the Emerald Bay and Lake Stillwater, and the Narrows, between L
 
 Typically, northbound ships have the right of way between Emerald Bay and Lake Stillwater from midnight to noon, and southbound ships have the right of way from noon to midnight. Between Lake Stillwater and the Gulf of Chardon, ships can pass each other in Lake Cirelus. Typically to cover the northern stretch, ships travel in convoy, with one northbound convoy departing Stillwater Lake and one southbound convoy departing Fort Varian each day, timed so they pass at Lake Cirelus. 
 
-Thus, it is possible to make the transit in one day, by departing Fort Ameli after midnight to arrive at Stillwater Lake in time to join the northbound convoy, or by pushing into the night from Stillwater Lake if traveling south. However, more typically ships overnight at Stillwater Lake, and make the transit in two days. 
+Thus, it is possible to make the transit in one day, by departing [Fort Ameli](<./fort-ameli.md>) after midnight to arrive at Stillwater Lake in time to join the northbound convoy, or by pushing into the night from Stillwater Lake if traveling south. However, more typically ships overnight at Stillwater Lake, and make the transit in two days. 
 
 
 

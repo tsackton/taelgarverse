@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/old]
+tags: [place, status/check/errors]
+aliases: [Mawaran]
 campaignInfo:
 name: Mawar Confederacy
 typeOf: realm
@@ -20,9 +21,10 @@ title: Mawar Confederacy
 ## Overview
 
 North of [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>), hugging the coast of the rocky, inhospitable [Mawakel Peninsula](<./mawakel-peninsula.md>), the Mawar people have lived symbiotically with the ocean for generations uncounted. Tracing their ancestry to the first peoples to leave [Hkar](<../../../history/historical-realms/hkar.md>) ages ago, the Mawar once settled widely across the coastal plains and shores north of [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>), as far as the northern coast of the Great Bay. But when the Drankorians spread north, they ceded the southern lands and settled largely on the [Mawakel Peninsula](<./mawakel-peninsula.md>) and the near-shore islands, maintaining an uneasy peace within the Drankorian sphere of influence.
-## [History](<../../../history/timeline-of-the-mawar.md>)
+## History
+_See more: [Timeline of the Mawar](<../../../history/timeline-of-the-mawar.md>)_
 
-After the fall of [Drankor](<../../../history/drankorian-empire/drankorian-empire.md>), the Mawar became a significant coastal and trading power, and Mawar ships could be seen plying coastal trade routes as far south as [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>) and as far north as the far northern shores of beyond the Great Bay. All this changed with the expansion of Pandar and the coming of Cha’mutte’s armies. During the [Great War](<../../../events/1500s/great-war.md>) and the chaos that followed, most of the inland kingdoms north of [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>) fell into ruin. The Mawar survived by retreating to their coastal villages and relying on the protection of the difficult terrain of the [Mawakel Peninsula](<./mawakel-peninsula.md>) to defend them against attack. Most of the Mawar settlements outside the peninsula and the islands fell or were abandoned.
+After the fall of [Drankor](<../../../history/historical-realms/drankorian-empire.md>), the Mawar became a significant coastal and trading power, and Mawar ships could be seen plying coastal trade routes as far south as [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>) and as far north as the far northern shores of beyond the Great Bay. All this changed with the expansion of Pandar and the coming of Cha’mutte’s armies. During the [Great War](<../../../events/1500s/great-war.md>) and the chaos that followed, most of the inland kingdoms north of [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>) fell into ruin. The Mawar survived by retreating to their coastal villages and relying on the protection of the difficult terrain of the [Mawakel Peninsula](<./mawakel-peninsula.md>) to defend them against attack. Most of the Mawar settlements outside the peninsula and the islands fell or were abandoned.
 
 Now, the Mawar Confederacy stands proud as one of the few northern civilizations to have survived the [Blood Years](<../../../events/1500s/blood-years.md>). As the [Chardonian Empire](<../../greater-chardon/chardonian-empire/chardonian-empire.md>) expands north, the Mawar have again trusted to the inhospitable terrain of their homeland to discourage invasion, and [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>) has so far considered the [Mawakel Peninsula](<./mawakel-peninsula.md>) an unappealing target for conquest. Indeed, the increased settlement and stability that the Chardonian expansion has brought to the north has also brought prosperity to the Mawar, and the Confederacy is slowly beginning to rebuild its trade networks and influence across the northern coast.
 

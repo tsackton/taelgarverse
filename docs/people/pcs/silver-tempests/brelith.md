@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: dwarf
 name: Brelith Shockstone
 gender: male
@@ -22,7 +22,7 @@ title: Brelith Shockstone
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Shockstones](<../../../groups/dwarven-clans/shockstones.md>)  
-    Born DR 1707 (42 years old)  
+    Born DR 1707 (43 years old)  
     Member of the [Silver Tempests](<./silver-tempests.md>), and the [Priest Thuhr](<../../../groups/dwarven-thuhr/priest-thuhr.md>)  
     { .bio }
 

@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 species: human
 gender: female
+died: 1
 dm_notes: color
 dm_owner: none
 title: Fides Lucaris Spy
@@ -12,6 +13,7 @@ title: Fides Lucaris Spy
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [human](<../../creatures/species/humans.md>) (she/her)  
+    Died  
     { .bio }
 
 </div>

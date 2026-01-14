@@ -18,7 +18,7 @@ title: Loma
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1733 (16 years old)  
+    Born DR 1733 (17 years old)  
     { .bio }
 
     Based in [Raha](<../../gazetteer/central-highlands/raha.md>), the [Highveil Forest](<../../gazetteer/central-highlands/highveil-forest.md>)

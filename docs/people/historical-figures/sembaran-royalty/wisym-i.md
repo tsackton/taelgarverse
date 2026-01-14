@@ -1,19 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 campaignInfo: []
 name: Wisym I
 born: 1510
 species: human
 ancestry: Sembaran
 gender: male
-reignStart: 1568
 title: King Wisym I
 died: 1582
 affiliations:
 - {org: House of Sewick, type: primary}
-leaderOf:
-- {place: Sembara}
+- {place: Sembara, start: 1568}
 dm_notes: none
 dm_owner: none
 ---
@@ -29,4 +27,4 @@ dm_owner: none
 </div>
 
 
-The eldest son of [Eloise](<./eloise.md>), he ruled Sembara after the Interregum of 1568. He was a mostly ineffectual king and was partly selected as a compromise because he had no children and thus no immediate heir. He was known to be close to his husband, Alfred. 
+The eldest son of [Eloise](<./eloise.md>), he ruled Sembara after the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>). He was a mostly ineffectual king and was partly selected as a compromise because he had no children and thus no immediate heir. He was known to be close to his husband, Alfred. 

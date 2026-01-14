@@ -13,13 +13,13 @@ title: Calendar Eras
 
 There are many different ways of counting years in use across the world of Taelgar. The two most commonly used, both in these notes and by scholars and the learned across Taelgar are Drankorian Reckoning (DR), and the Dwarven Count of Years (CY).  
 
-> Note: [Drankor](<../history/drankorian-empire/drankor.md>) was founded towards the end of the year 4133 in the Dwarven Reckoning. To approximately convert a year, add or subtract 4133.
+> Note: [Drankor](<../gazetteer/drankorian-hinterland/drankor/drankor.md>) was founded towards the end of the year 4133 in the Dwarven Reckoning. To approximately convert a year, add or subtract 4133.
 
 ## Drankorian Reckoning
-The system of dates and years developed by the world-spanning [Drankorian Empire](<../history/drankorian-empire/drankorian-empire.md>), dating years from the founding of the city of [Drankor](<../history/drankorian-empire/drankor.md>). The new year in Drankorian Reckoning begins on January 1st. Usually abbreviated DR. 
+The system of dates and years developed by the world-spanning [Drankorian Empire](<../history/historical-realms/drankorian-empire.md>), dating years from the founding of the city of [Drankor](<../gazetteer/drankorian-hinterland/drankor/drankor.md>). The new year in Drankorian Reckoning begins on January 1st. Usually abbreviated DR. 
 
 ## Dwarven Count of Years
-The system of time and years used by Dwarven historians, who count time since the material plane was created and time began to flow in a predictable way, at the end of the [Riving](<../events/ancient/riving.md>). The new year in Dwarven Reckoning begins on March 17th of the Drankorian calendar. Usually abbreviated CY. 
+The system of time and years used by Dwarven historians, who count time since the material plane was created and time began to flow in a predictable way, at the end of the Riving. The new year in Dwarven Reckoning begins on March 17th of the Drankorian calendar. Usually abbreviated CY. 
 
 
 

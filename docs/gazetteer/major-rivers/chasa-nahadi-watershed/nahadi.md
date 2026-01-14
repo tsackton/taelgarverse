@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: river
+typeOf: waterway
 aliases: [Nahadi River]
 whereabouts:
 - {type: primary, location: Greater Chardon}
@@ -9,6 +9,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 pronunciation: nah-HAH-dee
+typeOfAlias: river
 title: Nahadi
 ---
 # Nahadi

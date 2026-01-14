@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 ddbLink: https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement
 pcOwner: Delwath
 displayDefaults: {wOrigin: '', wOriginU: '', defArt: ''}
@@ -16,7 +16,7 @@ title: Ring of Displacement
 ---
 # Ring of Displacement
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Uncommon [Drankorian](<../../../history/drankorian-empire/drankorian-empire.md>) Magical Ring__  
+- :octicons-info-24:{ .lg .middle } __(uncommon [Drankorian](<../../../history/historical-realms/drankorian-empire.md>) magical ring)__  
    Owned by [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement) 
 </div>

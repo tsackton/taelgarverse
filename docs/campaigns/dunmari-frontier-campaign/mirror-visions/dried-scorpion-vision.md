@@ -1,5 +1,6 @@
 ---
-tags: [status/stub, status/cleanup/metadata]
+tags: [status/stub, status/cleanup/metadata, event]
+typeOf: vision
 title: Dried Scorpion Vision
 ---
 

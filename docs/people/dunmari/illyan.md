@@ -19,7 +19,7 @@ title: Illyan
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1708 (41 years old)  
+    Born DR 1708 (42 years old)  
     { .bio }
 
     Originally from: Unknown
@@ -32,5 +32,5 @@ title: Illyan
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 2nd, 1748 camped near [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-A commander in the army of [Nayan Karnas](<./nayan-karnas.md>). Stationed outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) during the Summer Gnoll Raids of 1748 and the [Sibling War](<../../events/1700s/sibling-war.md>). Fought in the [Battle of Tokra](<../../events/1700s/1748/12/battle-of-tokra.md>). 
+A commander in the army of [Nayan Karnas](<./nayan-karnas.md>). Stationed outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) during the [Summer Gnoll Raids of 1748](<../../events/1700s/1748/summer-gnoll-raids-of-1748.md>) and the [Sibling War](<../../events/1700s/sibling-war.md>). Fought in the [Battle of Tokra](<../../events/1700s/1748/12/battle-of-tokra.md>). 
 

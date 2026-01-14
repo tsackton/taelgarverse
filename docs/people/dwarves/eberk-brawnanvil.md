@@ -18,7 +18,7 @@ title: Eberk Brawnanvil
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
-    Born DR 1502 (247 years old)  
+    Born DR 1502 (248 years old)  
     Member of Brawnanvils  
     { .bio }
 

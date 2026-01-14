@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/wip]
 typeOf: region
 whereabouts:
 - {type: home, location: Taelgar, linkText: in}
@@ -58,14 +58,14 @@ The Upper Istaros is defined by its rivers. This region contains [Lake Aeulian](
 
 
 
-In the northwest, the land is flat along the Andonne Plain, although now much of the former ranchlands and wheatfields are turned to dust and ash. The Andonne Plain ends abruptly at the [Westcliff](<../greater-sembara/addermarch/westcliff.md>), the western edge of the [Mostreve Hills](<../greater-sembara/mostreve-hills.md>). 
+In the northwest, the land is flat along the [Andonne Plain](<./andonne-plain.md>), although now much of the former ranchlands and wheatfields are turned to dust and ash. The [Andonne Plain](<./andonne-plain.md>) ends abruptly at the [Westcliff](<../greater-sembara/addermarch/westcliff.md>), the western edge of the [Mostreve Hills](<../greater-sembara/mostreve-hills.md>). 
 
 
 
 ## Civilizations and Cultures
 _See more: [Orenlas](<orenlas/orenlas.md>), [March of Andonne](<../greater-sembara/duchy-of-maseau/march-of-andonne.md>), [Refounded Alliance of Aurbez](<refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>), [Xurkhaz](<xurkhaz/xurkhaz.md>)_
 
-Nowhere in the Upper Istaros is densely settled, and what settlement does exist here clings to the edges of the region, away from the most dangerous parts of the [Plaguelands](<./plaguelands.md>). On the Andonne Plain, the people of the [March of Andonne](<../greater-sembara/duchy-of-maseau/march-of-andonne.md>) herd cattle and goats, retreating to the fortified ranches of the marcher lords when ash or hobgoblins threaten. Along the [Maseau - Dunmar Road](<./maseau-dunmar-road.md>), and in the highlands on the [Aurbez Plateau](<./aurbez-plateau.md>), the [Refounded Alliance of Aurbez](<refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>) is settled by a mix of refugees from [Isingue](<./isingue.md>), others fleeing the devastation of the [Great War](<../../events/1500s/great-war.md>), and independent frontier-folk, who eke out a living in small-scale farms and sheepholds. 
+Nowhere in the Upper Istaros is densely settled, and what settlement does exist here clings to the edges of the region, away from the most dangerous parts of the [Plaguelands](<./plaguelands.md>). On the [Andonne Plain](<./andonne-plain.md>), the people of the [March of Andonne](<../greater-sembara/duchy-of-maseau/march-of-andonne.md>) herd cattle and goats, retreating to the fortified ranches of the marcher lords when ash or hobgoblins threaten. Along the [Maseau - Dunmar Road](<./maseau-dunmar-road.md>), and in the highlands on the [Aurbez Plateau](<./aurbez-plateau.md>), the [Refounded Alliance of Aurbez](<refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>) is settled by a mix of refugees from [Isingue](<./isingue.md>), others fleeing the devastation of the [Great War](<../../events/1500s/great-war.md>), and independent frontier-folk, who eke out a living in small-scale farms and sheepholds. 
 
 To the east, the vast mystical kingdom of [Orenlas](<orenlas/orenlas.md>) is home to a significant population of [Elves](<../../creatures/species/elves.md>); it is claimed that the forests of Orenlas are the last remaining echoes of the primeval forests that once stretched across the entire Istaros watershed and beyond. While the elves of [Orenlas](<orenlas/orenlas.md>) rarely settle outside their homeland, it is not uncommon to see an elf traveling through the Upper Istaros, and some join [The Rangers](<../../groups/the-rangers.md>). 
 

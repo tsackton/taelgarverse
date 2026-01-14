@@ -22,7 +22,7 @@ dm_owner: none
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [orc](<../../creatures/species/orcs.md>) (unchained) (he/him), of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
-    Born DR 1678 (71 years old)  
+    Born DR 1678 (72 years old)  
     { .bio }
 
     Based in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)

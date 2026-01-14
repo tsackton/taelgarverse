@@ -1,6 +1,8 @@
 ---
-{title: Philosopher's Information Concerning Rodnya Voknaz}
+tags: [source]
+title: Philosopher's Information Concerning Rodnya Voknaz
 ---
+
 Dear Delwath, formerly of Ainumarya, and companions, 
 
 Ah, hmm, hmm. The wand, yes, it was nice to receive. Simple, but old, and pleasing. Many thanks to you for the gift, yes indeed.

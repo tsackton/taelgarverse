@@ -23,7 +23,7 @@ title: Tristan Vaudrillard
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1698 (51 years old)  
+    Born DR 1698 (52 years old)  
     Member of [The Rangers](<../../groups/the-rangers.md>)  
     { .bio }
 

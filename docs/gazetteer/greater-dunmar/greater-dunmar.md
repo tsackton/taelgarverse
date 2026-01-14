@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/wip]
 displayDefaults: {defArt: ''}
 typeOf: region
 whereabouts:
@@ -18,7 +18,7 @@ title: Greater Dunmar
 
 
 
-This region of Taelgar includes the land south of the [Sentinel Range](<../sentinel-range.md>), from the [Myraeni Gap](<./myraeni-gap.md>) and the Dunmari coast in the west, past the [Garamjala Desert](<../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) and the [Nashtkar](<hara-basin/nashtkar.md>) in the east to the unknown lands beyond the wastes. To the south, this region extends to the ruins of [Drankor](<../../history/drankorian-empire/drankor.md>), and beyond to the [Sea of Storms](<../drankorian-hinterland/sea-of-storms.md>). 
+This region of Taelgar includes the land south of the [Sentinel Range](<../sentinel-range.md>), from the [Myraeni Gap](<./myraeni-gap.md>) and the Dunmari coast in the west, past the [Garamjala Desert](<../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) and the [Nashtkar](<./nashtkar.md>) in the east to the unknown lands beyond the wastes. To the south, this region extends to the ruins of [Drankor](<../drankorian-hinterland/drankor/drankor.md>), and beyond to the [Sea of Storms](<../drankorian-hinterland/sea-of-storms.md>). 
 
 This region experienced considerable upheaval after the [Great War](<../../events/1500s/great-war.md>), as the [Yuvanti Mountains](<./yuvanti-mountains.md>) rose from the sea, creating the new land of [Western Dunmar](<realms/dunmar/western-dunmar/western-dunmar.md>), and turning the former fertile plains of the interior to desert. 
 ## Map

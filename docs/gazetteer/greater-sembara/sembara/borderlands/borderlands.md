@@ -4,14 +4,15 @@ tags: [place]
 aliases: [Sembaran Borderlands]
 displayDefaults: {defArt: the}
 whereabouts: Sembara
-typeOf: region
+typeOf: realm
+typeOfAlias: group of baronies
 dm_owner: none
 dm_notes: none
 title: Borderlands
 ---
 # The Borderlands
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A group of baronies in [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

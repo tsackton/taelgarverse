@@ -1,5 +1,6 @@
 ---
-{title: Rings of Elemental Protection}
+tags: [status/stub, object]
+title: Rings of Elemental Protection
 ---
 
 set of five identical gold rings each set with a gemstone; can attune to any two at the same time. gems are:

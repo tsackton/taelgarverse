@@ -4,7 +4,7 @@ tags: [person]
 name: Lucas
 born: 1667
 species: human
-ancestry: Maseuan
+ancestry: Mazeanne
 gender: male
 whereabouts: Evis
 dm_notes: none
@@ -15,8 +15,8 @@ title: Lucas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Maseuan [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1667 (82 years old)  
+    A [Mazeanne](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1667 (83 years old)  
     { .bio }
 
     Based in [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>), the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)

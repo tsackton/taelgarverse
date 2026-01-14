@@ -5,7 +5,7 @@ dm_owner: tim
 dm_notes: color
 title: Dunmari Beliefs
 ---
-# The Dunmari Beliefs
+# Dunmari Beliefs
 
 This page serves as background on the theological and religious beliefs of the Dunmari. 
 ## Creation Story

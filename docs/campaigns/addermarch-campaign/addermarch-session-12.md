@@ -12,7 +12,7 @@ tagline: in which the party defends Haldrenn and searches for answers
 descTitle: Worg Attack
 title: Addermarch Campaign - Session 12
 ---
-# The Addermarch Campaign - Session 12
+# Addermarch Campaign - Session 12
 
 >[!info] Worg Attack: in which the party defends Haldrenn and searches for answers.
 > *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*

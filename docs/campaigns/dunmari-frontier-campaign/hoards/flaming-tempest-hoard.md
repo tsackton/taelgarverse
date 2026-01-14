@@ -1,5 +1,7 @@
 ---
-{title: Flaming Tempest Hoard}
+tags: [meta]
+typeOf: hoard
+title: Flaming Tempest Hoard
 ---
 # Treasure Recovered from Vetta
 

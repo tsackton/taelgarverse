@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 typeOf: book
 typeOfAlias: play
 ancestry: Drankorian
@@ -10,6 +10,6 @@ dm_notes: none
 title: A Fool's Fortune
 ---
 # A Fool's Fortune
-:octicons-info-24:{ .lg .middle } **[Drankorian](<../../history/drankorian-empire/drankorian-empire.md>) Play**  
+:octicons-info-24:{ .lg .middle } **([Drankorian](<../../history/historical-realms/drankorian-empire.md>) play)**  
 
 A Drankorian play about a merchant who gets lost in the [Feywild](<../../cosmology/feywild.md>) and slowly loses all his money to a variety of fey tricksters, thinking he is getting richer and richer all the time.

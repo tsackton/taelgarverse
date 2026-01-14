@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {defArt: the}
 name: Copperharps
 ancestry: halfling
@@ -14,5 +14,7 @@ title: Copperharps
 -
    :octicons-info-24:{ .lg .middle } A [halfling](<../../creatures/species/halflings.md>) family  
 </div>
+
+
 
 

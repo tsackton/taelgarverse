@@ -1,11 +1,13 @@
 ---
-{title: Philosopher's Information Concerning Binding Stones}
+tags: [source]
+title: Philosopher's Information Concerning Binding Stones
 ---
+
 Dear Seeker of Highkeep, and companions,
 
 Your gift was of much interest. It is unusual to recover powerful weapons blessed by [The Warlord](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>). The magic of the Divine is the most challenging to unravel, and the most mysterious to us. We have endeavored to provide a worthwhile value for such a gift.
 
-The stones you speak of, known as the [Binding Stones](<../treasure/binding-stones.md>) of Amloch, are a unique item. From what we have been able to learn, they are also an ancient item, created more than 3000 years ago, before the Downfall, in the land of [Hkar](<../../../history/historical-realms/hkar.md>). How did they come to be in the possession of a wizard of [Drankor](<../../../history/drankorian-empire/drankorian-empire.md>) in the later days of the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>)? We know not, at least not yet, not without another gift to entice our curiosity. 
+The stones you speak of, known as the [Binding Stones](<../treasure/binding-stones.md>) of Amloch, are a unique item. From what we have been able to learn, they are also an ancient item, created more than 3000 years ago, before the Downfall, in the land of [Hkar](<../../../history/historical-realms/hkar.md>). How did they come to be in the possession of a wizard of [Drankor](<../../../history/historical-realms/drankorian-empire.md>) in the later days of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>)? We know not, at least not yet, not without another gift to entice our curiosity. 
 
 Nonetheless, much can be learned from the story of their origins. When the [Binding Stones](<../treasure/binding-stones.md>) of Amloch were created, the world was young, and rich in belief and magic. A cult, known as the [Chainshroud](<../../../groups/chainshroud.md>), arose in these days, preaching slavery and dominion over their kin, and growing in power thanks to [Sarqon](<../../../gods-and-religions/gods/incorporeal-gods/sarqon.md>), a god of evil, of slavery and domination, summoned into being by the strength of their devotion to their own superiority. The [Chainshroud](<../../../groups/chainshroud.md>) was defeated, at great cost, and [Sarqon](<../../../gods-and-religions/gods/incorporeal-gods/sarqon.md>) imprisoned, cut off from Taelgar, forever preventing divine power from being used in the aid of slavery. 
 

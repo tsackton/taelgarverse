@@ -1,17 +1,18 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: manor
+typeOf: realm
 created: 1651
 whereabouts: Barony of Aveil
 dm_notes: color
 dm_owner: mike
+typeOfAlias: manor
 title: Manor of Asineau
 ---
 # The Manor of Asineau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: Founded DR 1651 (98 years ago)  
+   :material-calendar: Founded DR 1651 (99 years ago)  
     :octicons-location-24:{ .lg .middle } A manor in the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), [Greater Sembara](<../../../greater-sembara.md>)  
 </div>
 

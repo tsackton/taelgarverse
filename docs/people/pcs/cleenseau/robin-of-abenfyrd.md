@@ -1,9 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, pc/cleenseau, person, status/active]
+tags: [person, status/gameupdate/clee]
 displayDefaults: {primaryOrgType: party}
 campaignInfo: []
-campaign: Cleenseau
 name: Robin of Abenfyrd
 born: 1700
 species: human
@@ -27,7 +26,7 @@ title: Robin of Abenfyrd
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
-    Born DR 1700 (49 years old)  
+    Born DR 1700 (50 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     Acting Captain of the [Lord's Guard of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since January 3rd, 1720)  
     { .bio }
@@ -53,7 +52,7 @@ title: Robin of Abenfyrd
 > 
 > Life continued in [Abenfyrd](<../../../gazetteer/greater-sembara/tyrwingha/abenfyrd.md>), where little happened, the seasons passed, the festivals were celebrated, and Robin stayed on the sidelines. In his seventeenth year (1718), however, the spring came late, and the cold lingered. 
 > 
-> One evening, after the moonset, in the quietest part of the night, Robin awakened suddenly. He had a tingle on the back of his neck and just knew, via some divine sense from the Wanderer, that something was wrong. He went outside and saw a dark shape -- a warg -- stalking a man. He shouted a warning and ran forward, and the man drew a sword and killed the warg. And thus he was introduced to Gareth Wolfsbane, a member of [the Rangers](<../../../groups/the-rangers.md>) based out of the Aben garrison of the [Army of Mostreve](<../../../groups/sembaran-army/army-of-mostreve.md>). The man was very grateful, and they talked for some time the next morning. At his encouragement, Robin went to the garrison and spent some time training. He learned to fight with there, being especially drawn to a hammer as a weapon of choice. But he never felt satisfied with the life of a solider, and never actually joined the army. 
+> One evening, after the moonset, in the quietest part of the night, Robin awakened suddenly. He had a tingle on the back of his neck and just knew, via some divine sense from the Wanderer, that something was wrong. He went outside and saw a dark shape -- a warg -- stalking a man. He shouted a warning and ran forward, and the man drew a sword and killed the warg. And thus he was introduced to Gareth Wolfsbane, a member of [the Rangers](<../../../groups/the-rangers.md>) based out of the Aben Garrison of the [Army of Mostreve](<../../../groups/sembaran-army/army-of-mostreve.md>). The man was very grateful, and they talked for some time the next morning. At his encouragement, Robin went to the garrison and spent some time training. He learned to fight with there, being especially drawn to a hammer as a weapon of choice. But he never felt satisfied with the life of a solider, and never actually joined the army. 
 > 
 > Nevertheless, he did go on several patrols, and spent the better part of a year there. His sense of the Wanderer grew stronger as well.
 > 

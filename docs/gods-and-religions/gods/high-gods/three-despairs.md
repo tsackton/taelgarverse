@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [background]
-dm_owner: shared,mike
+displayDefaults: {defArt: the}
+dm_owner: joint
 dm_notes: important
 title: Three Despairs
 ---
-# Three Despairs
+# The Three Despairs
 
 
 

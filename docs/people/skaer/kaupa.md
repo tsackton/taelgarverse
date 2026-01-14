@@ -20,7 +20,7 @@ title: Kaupa
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Skaer](<../../gazetteer/western-green-sea/realms/skaer.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1710 (39 years old)  
+    Born DR 1710 (40 years old)  
     { .bio }
 
     Originally from: [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)

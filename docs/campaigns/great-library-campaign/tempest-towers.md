@@ -1,6 +1,7 @@
 ---
 tags: [place, status/stub]
 whereabouts: Voltara
+typeOf: building
 title: Tempest Towers
 ---
 

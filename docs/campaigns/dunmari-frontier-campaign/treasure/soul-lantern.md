@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: lantern
 subTypeOf: magical
 title: Soul Lantern
 ---
 # The Soul Lantern
-:octicons-info-24:{ .lg .middle } **Magical Lantern**  
+:octicons-info-24:{ .lg .middle } **(magical lantern)**  
 
 This hooded lantern seems to constantly murmur and moan in a strange language just faint enough to not be clearly heard, and radiates necromancy magic. 
 

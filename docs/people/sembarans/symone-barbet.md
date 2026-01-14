@@ -19,7 +19,7 @@ dm_owner: mike
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born November 15th, 1683 (65 years old)  
+    Born November 15th, 1683 (66 years old)  
     Major of the [Dunfry Regiment](<../../groups/sembaran-army/dunfry-regiment.md>)  
     { .bio }
 

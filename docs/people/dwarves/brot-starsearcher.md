@@ -19,7 +19,7 @@ title: Brot Starsearcher
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../creatures/species/dwarves.md>) (they/them)  
-    Born DR 1579 (170 years old)  
+    Born DR 1579 (171 years old)  
     { .bio }
 
     Originally from: [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)

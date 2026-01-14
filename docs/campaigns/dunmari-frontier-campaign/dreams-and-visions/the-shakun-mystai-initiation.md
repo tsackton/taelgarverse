@@ -1,6 +1,8 @@
 ---
-{title: The Shakun Mystai Initiation}
+tags: [source]
+title: The Shakun Mystai Initiation
 ---
+
 # The Shakun Mystai Initiation
 
 >[!warning]+ Abbreviated Initiation Ritual

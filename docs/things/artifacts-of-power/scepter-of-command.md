@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment, testcase]
+tags: [object, testcase]
 rarity: unique
 campaignInfo:
 - {campaign: DuFr, type: destroyed, date: 1748-12-25}
@@ -20,16 +20,16 @@ title: Scepter of Command
 ---
 # The Scepter of Command
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Scepter__  
+- :octicons-info-24:{ .lg .middle } __(unique scepter)__  
    existed DR 1053 - December 25th, 1748, destroyed after 695 years  
    Created by [Emperor Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>)  
 </div>
 
-:octicons-location-24:{ .lg .middle } Destroyed in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)
+:octicons-location-24:{ .lg .middle } Destroyed in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Destroyed owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 25th, 1748 in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>)  
+:octicons-location-24:{ .lg .middle } Destroyed owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 25th, 1748 in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>)  
 
 
 ![Scepter of Command](../../assets/scepter-of-command.jpg){align="right"; width="300"}
@@ -41,7 +41,7 @@ It seems powerful, and like it wants to be used.
 
 Seen in [Mirror of the Past](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-the-past.md>): [Scepter of Command Vision](<../../campaigns/dunmari-frontier-campaign/mirror-visions/scepter-of-command-vision.md>)
 
-From the mirror, you learned this is of Drankorian origin, constructed by [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>), an emperor of [Drankor](<../../history/drankorian-empire/drankor.md>) in a tall black tower on a perfectly circular island, and used to enhance his command of his armies. It was carried by the fire giant who destroyed [Kharsan](<../../gazetteer/greater-dunmar/hara-basin/kharsan.md>), you presume [Mavdyr](<../../people/historical-figures/mavdyr.md>) who led an [orc](<../../creatures/species/orcs.md>) horde to attack [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) in 1552 by the Drankorian Reckoning, 7 years after the death of [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>). [Agata](<../../people/fey/agata.md>) apparently obtained it in trade with the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>), in exchange for a scroll that would summon (and presumably bind) a demon from the [Abyss](<../../cosmology/spiritual-realms/abyss.md>) who had the power to create gnoll armies, as well as a [scroll](<../../campaigns/dunmari-frontier-campaign/treasure/pandemonium-scroll.md>) with the power to enhance the essence of [Pandemonium](<../../cosmology/spiritual-realms/pandemonium.md>). 
+From the mirror, you learned this is of Drankorian origin, constructed by [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>), an emperor of [Drankor](<../../gazetteer/drankorian-hinterland/drankor/drankor.md>) in a tall black tower on a perfectly circular island, and used to enhance his command of his armies. It was carried by the fire giant who destroyed [Kharsan](<../../gazetteer/greater-dunmar/hara-basin/kharsan.md>), you presume [Mavdyr](<../../people/historical-figures/mavdyr.md>) who led an [orc](<../../creatures/species/orcs.md>) horde to attack [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) in 1552 by the Drankorian Reckoning, 7 years after the death of [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>). [Agata](<../../people/fey/agata.md>) apparently obtained it in trade with the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>), in exchange for a scroll that would summon (and presumably bind) a demon from the [Abyss](<../../cosmology/spiritual-realms/abyss.md>) who had the power to create gnoll armies, as well as a [scroll](<../../campaigns/dunmari-frontier-campaign/treasure/pandemonium-scroll.md>) with the power to enhance the essence of [Pandemonium](<../../cosmology/spiritual-realms/pandemonium.md>). 
 
 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/gameupdate]
+tags: [person, status/gameupdate/dufr]
 species: stoneborn
 gender: male
 dm_notes: color
@@ -22,3 +22,4 @@ title: Kazuro
 A stoneborn hermit living somewhere on the coast of [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>), known for his skill in alchemy and attunement to the ocean. 
 
 ![Kazuro Portrait](../../assets/kazuro-portrait.png)
+

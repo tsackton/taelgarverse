@@ -1,5 +1,6 @@
 ---
-{title: Vindristjarna Bastion Rules}
+tags: [meta]
+title: Vindristjarna Bastion Rules
 ---
 # Vindristjarna Bastion Mechanics
 

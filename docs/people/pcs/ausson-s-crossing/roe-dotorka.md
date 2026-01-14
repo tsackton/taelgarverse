@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/aussons, status/stub]
+tags: [person, status/stub]
 name: Roe DoTorka
 born: 1489
 species: dwarf
@@ -16,7 +16,7 @@ title: Roe DoTorka
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Ardikhun](<../../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>) [dwarf](<../../../creatures/species/dwarves.md>) (he/him)  
-    Born DR 1489 (260 years old)  
+    Born DR 1489 (261 years old)  
     { .bio }
 
 </div>

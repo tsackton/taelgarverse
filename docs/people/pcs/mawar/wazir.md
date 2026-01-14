@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/mawar]
+tags: [person]
 name: Wazir
 born:
 species: human
@@ -9,6 +9,7 @@ gender: male
 player: Mike Sackton
 affiliations:
 - {place: Leviathan Inn, title: Owner}
+- {org: Adventurers of Mawar}
 whereabouts: Hamri
 dm_owner: player
 dm_notes: important
@@ -18,8 +19,9 @@ title: Wazir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Mawaran [human](<../../../creatures/species/humans.md>) (he/him)  
+    A [Mawaran](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
     Owner of the [Leviathan Inn](<../../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>)  
+    Member of the Adventurers of Mawar  
     { .bio }
 
     Based in [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)

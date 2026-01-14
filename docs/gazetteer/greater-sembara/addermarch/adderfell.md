@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Adderfell
-typeOf: city
+typeOf: settlement
 whereabouts: Addermarch
 dm_owner: tim
 dm_notes: important
+typeOfAlias: city
 title: Adderfell
 ---
 # Adderfell
@@ -18,7 +19,7 @@ title: Adderfell
 
 *Adderfell is set on the edge of a small lake, below a towering waterfall. The most striking feature of the town, besides the stone walls obviously kept in good repair, is a cliff rising from the edge of the lake with a keep on top of it. Outside the walls, there is a stretch of reeds, willows, and cattails, among which you can see a glimpse of some wooden huts on raised piers. Along the walls as you approach, you can also see a number of wood and thatch buildings that have grown up near the town, many of which look pretty run down.*
 
-Adderfell is an old city, originally founded as the seat of the provincial governor when Addermarch was a [Drankorian](<../../../history/drankorian-empire/drankorian-empire.md>) province, on a small lake that marks the height of navigation of the [Aure](<../rivers/wistel-enst-watershed/aure.md>). It a center of trade and commerce, where products from the [Aure](<../rivers/wistel-enst-watershed/aure.md>) river valley (chiefly apple brandy and cider, but also timber and metal) are gathered and shipped downriver by merchant houses.
+Adderfell is an old city, originally founded as the seat of the provincial governor when Addermarch was a [Drankorian](<../../../history/historical-realms/drankorian-empire.md>) province, on a small lake that marks the height of navigation of the [Aure](<../rivers/wistel-enst-watershed/aure.md>). It a center of trade and commerce, where products from the [Aure](<../rivers/wistel-enst-watershed/aure.md>) river valley (chiefly apple brandy and cider, but also timber and metal) are gathered and shipped downriver by merchant houses.
 
 Major features of the city include:
 - The ancient Drankorian market plaza, a great square paved with white marble that seems to resist wear, and featuring a large fountain in the center, which magically replenishes itself. The old governor's mansion, on the plaza, remains and is now a private dwelling.

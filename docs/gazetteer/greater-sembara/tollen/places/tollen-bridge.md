@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Tollen Bridge
-typeOf: bridge
+typeOf: infrastructure
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+typeOfAlias: bridge
 title: Tollen Bridge
 ---
 # The Tollen Bridge
@@ -14,7 +15,7 @@ title: Tollen Bridge
 </div>
 
 
-The [Tollen Bridge](<./tollen-bridge.md>) is a broad stone span of many arches, built around the time the [Drankorian Empire](<../../../../history/drankorian-empire/drankorian-empire.md>) first raised stone walls around [Tollen](<../tollen.md>).
+The [Tollen Bridge](<./tollen-bridge.md>) is a broad stone span of many arches, built around the time the [Drankorian Empire](<../../../../history/historical-realms/drankorian-empire.md>) first raised stone walls around [Tollen](<../tollen.md>).
 
 Its piers choke the [Volta](<../../rivers/volta-watershed/volta.md>) into narrow, dangerous channels, forming a hard barrier to navigation: tall‑masted oceanic ships cannot pass beyond the bridge, and must moor at the sea‑port below its shadow, while low‑masted barges and river craft carry cargo upriver beneath the central arches.
 

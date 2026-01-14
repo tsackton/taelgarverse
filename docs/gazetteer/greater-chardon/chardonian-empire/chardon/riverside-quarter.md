@@ -2,15 +2,16 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {wHome: '<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>'}
-typeOf: neigborhood
+typeOf: neighborhood
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: important
+typeOfAlias: neighborhood
 title: Riverside Quarter
 ---
 # The Riverside Quarter
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A neigborhood in the [North Bank](<./north-bank.md>), [Chardon](<./chardon.md>), the [Chardonian Empire](<../chardonian-empire.md>)  
+-    :octicons-location-24:{ .lg .middle } A neighborhood in the [North Bank](<./north-bank.md>), [Chardon](<./chardon.md>), the [Chardonian Empire](<../chardonian-empire.md>)  
 </div>
 
 

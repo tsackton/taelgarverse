@@ -3,8 +3,8 @@ headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 name: Fellburn
 typeOf: settlement
-subTypeOf: fortified
-typeOfAlias: market town
+subTypeOf:
+typeOfAlias: fortified market town
 whereabouts: Duchy of Wisford
 pronunciation: Fell-burn
 population: 6000

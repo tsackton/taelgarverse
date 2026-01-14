@@ -27,6 +27,9 @@ title: Olay
 
 
 
+:octicons-location-24:{ .lg .middle } Funeral attended by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
+
+
 A farmer of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>).
 ## Events
 - May 07, 1715 DR: Killed by his enraged bull during a period of strange songs reported near Haldrenn.

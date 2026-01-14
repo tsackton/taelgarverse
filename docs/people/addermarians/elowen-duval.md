@@ -32,6 +32,15 @@ pronunciation: EL-oh-wen doo-VAL
 
 
 
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 1st, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Rewarded the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 4th, 1715 [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Hosted a dinner including the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 7th, 1715 [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)  
 
 
 Elowen Duval is the castellan of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), overseeing the isolated uplands of [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>) with measured resolve.
@@ -45,7 +54,7 @@ Lady Elowen Duval governs [Roscombe](<../../gazetteer/greater-sembara/addermarch
 
 ## Relationships
 - [Gareth Howell](<./gareth-howell.md>) — Commanding knight and chief of her household guard; she relies on his tactical assessments.
-- [Owen Tavish](<./owen-tavish.md>) — Spiritual adviser on supernatural matters such as the Serpentine Dagger.
+- [Owen Tavish](<./owen-tavish.md>) — Spiritual adviser on supernatural matters such as the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>).
 - [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) — Trusted troubleshooters invited to court functions and entrusted with sensitive missions.
 
 ## Personality

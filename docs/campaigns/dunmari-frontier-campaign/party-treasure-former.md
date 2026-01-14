@@ -1,12 +1,14 @@
 ---
-{title: Party Treasure Former}
+tags: [meta]
+title: Party Treasure Former
 ---
+
 # Former Party Treasure
 
 *Anything that was lost, sold, given away, or used goes here.*
 ## Destroyed or Used
 - Three blood red rubies, from [Shadowkeep](<hoards/ursk-treasure.md>) *used for simulacrum*
-- A small crystal vial containing three doses of universal solvent. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
+- A small crystal vial containing three doses of [universal solvent](<../../things/magic-items/universal-solvent.md>). Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
 - [Medusa Blade](<treasure/medusa-blade.md>)
 - A shard of [Inkaye](<../../things/materials/inkaye.md>) ready to be infused with explanar magic, created by [Umli](<../../people/other-nonhumans/umli.md>) from Delwath's [Delwath's Elven Breastplate](<treasure/delwath-s-elven-breastplate.md>). Used to create the rainbow prism for [Vindristjarna](<../../things/ships/vindristjarna.md>), created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:
@@ -20,14 +22,14 @@
 - [Scepter of Command](<../../things/artifacts-of-power/scepter-of-command.md>), destroyed in [Session 81 (DuFr)](<session-notes/session-81-dufr.md>)
 - A small silver statue of a demon with ruby eyes (from The Flaming Tempest, tossed in the sacred waters on [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>))
 - [Delwath's Elven Breastplate](<treasure/delwath-s-elven-breastplate.md>), given to Umli in [Session 80 (DuFr)](<session-notes/session-80-dufr.md>), who removed and blanked the [Inkaye](<../../things/materials/inkaye.md>) that had powered it, leaving a mundane breastplate
-- [Dunmari Heirloom Shield](<treasure/dunmari-heirloom-shield.md>) (uncommon major item), used to make the adamantine required for the phasing stone harness on [Vindristjarna](<../../things/ships/vindristjarna.md>)
+- [Dunmari Heirloom Shield](<treasure/dunmari-heirloom-shield.md>) (uncommon major item), used to make the [adamantine](<../../things/materials/adamantine.md>) required for the phasing stone harness on [Vindristjarna](<../../things/ships/vindristjarna.md>)
 - A perfect emerald hung on a silver chain (from Grimbaskal's Hoard), used as a focus to power the phasing stone on [Vindristjarna](<../../things/ships/vindristjarna.md>) 
-- [Horn of Silent Alarm (Dunmari)](<../../things/magic-items/horn-of-silent-alarm-dunmari.md>) (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [Motua](<../../people/extraplanar-powers/motua.md>)'s rescue.
+- [Horn of Silent Alarm (Dunmari)](<../../things/magic-items/horn-of-silent-alarm-dunmari.md>) (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [Motua](<../../people/other-nonhumans/motua.md>)'s rescue.
 - Amber Web. [Mechanics](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [Agata](<../../people/fey/agata.md>)’s. Taken from [Agata](<../../people/fey/agata.md>)’s person. Used by [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>) in battle with [Agata](<../../people/fey/agata.md>) reborn in the [Feywild](<../../cosmology/feywild.md>), in [Session 67 (DuFr)](<session-notes/session-67-dufr.md>). 
 - Swarm Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3643187-swarm-bottle). A smoky glass bottle from which a buzzing sound can constantly be heard, which radiates conjuration magic. Seems likely to be a creation of [Agata](<../../people/fey/agata.md>)’s. Taken from [Agata](<../../people/fey/agata.md>)’s person. Used by [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>) in the fight with [Kadmos](<../../people/chardonians/kadmos.md>) and [Casian](<../../people/chardonians/casian.md>) in [Session 44 (DuFr)](<session-notes/session-44-dufr.md>). 
 - Leech Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3819597-leech-bottle). A bottle filled with preserved leeches, radiating necromancy magic. Probably a creation of [Agata](<../../people/fey/agata.md>)’s. Taken from [Agata](<../../people/fey/agata.md>)’s hut. (used in battle)
 -  Helm of Iron Will. [Mechanics](https://www.dndbeyond.com/magic-items/2341102-helm-of-iron-will). A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in [Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>). Used to protect Delwath in battle against [Agata](<../../people/fey/agata.md>). 
--  Block of adamantine. Found in the [dwarven outpost](<../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>) near [Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>), used to reinforce Delwath's [Dunmari Heirloom Shield](<treasure/dunmari-heirloom-shield.md>). 
+-  Block of [adamantine](<../../things/materials/adamantine.md>). Found in the [dwarven outpost](<../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>) near [Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>), used to reinforce Delwath's [Dunmari Heirloom Shield](<treasure/dunmari-heirloom-shield.md>). 
 - Thorn Seed Bag. Destroyed in [Session 31 (DuFr)](<session-notes/session-31-dufr.md>).
 - [Soul Lantern](<treasure/soul-lantern.md>). Destroyed in [Session 32 (DuFr)](<session-notes/session-32-dufr.md>).
 - Seven iron spears carved with the incantation: “[Mad One](<../../gods-and-religions/gods/embodied-gods/mad-one.md>), come to us, let [Jinnik](<../../gods-and-religions/gods/high-gods/jinnik.md>)’s howl be heard.” From the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>); destroyed. 
@@ -141,7 +143,7 @@ Other treasure returned to Milo and Tilly
 - Cassian's chalyte spell book (rare major item, party), given to the [Ancient and Honorable Guild of Philosophers](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) in exchange for information about Rai and Apollyon, in [Session 84 (DuFr)](<session-notes/session-84-dufr.md>)
 - [Floating Disc Coin](<treasure/floating-disc-coin.md>) (common minor item), given to [Ancient and Honorable Guild of Philosophers](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) in exchange for information about [Frankar](<../../people/dwarves/frankar.md>) in [Session 84 (DuFr)](<session-notes/session-84-dufr.md>)
 ### Other Gifts
-- [Apollyon's](<../../people/historical-figures/drankorian-emperors/apollyon.md>) throne, taken from his tower. A large grey mottled marble and granite throne encrusted with gemstones. Left on the ~Circular Island~ in [Dimitaur](<../../people/pcs/great-war/companions/dimitaur.md>)'s possession. 
+- [Apollyon's](<../../people/historical-figures/drankorian-emperors/apollyon.md>) throne, taken from [his tower](<../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>). A large grey mottled marble and granite throne encrusted with gemstones. Left on the [Circular Island](<../../gazetteer/drankorian-hinterland/circular-island.md>) in [Dimitaur](<../../people/pcs/great-war/companions/dimitaur.md>)'s possession. 
 - A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [Grimbaskal's Hoard](<hoards/grimbaskal-s-hoard.md>)). Given to Ghesh in exchange for keeping the party secret from [Ra'ghemdros](<../../people/other-nonhumans/ra-ghemdros.md>)
 - The Watcher Pendant - a very elaborate design, set with diamonds, taken from Rhodar von Glauer in [Shadowkeep](<hoards/ursk-treasure.md>). Given to [Olen Vrask](<../../people/other-humans/olen-vrask.md>) as proof of the death of [Rhodar von Glauer](<../../people/other-nonhumans/rhodar-von-glauer.md>).
 - A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [Grimbaskal's Hoard](<hoards/grimbaskal-s-hoard.md>)), given to [Brimskarda](<../../people/giants/brimskarda.md>) as a gift 

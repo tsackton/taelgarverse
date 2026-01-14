@@ -16,7 +16,7 @@ title: Abelard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Mawaran [human](<../../creatures/species/humans.md>) (he/him)  
+    A [Mawaran](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
     Originally from: the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

@@ -18,4 +18,4 @@ title: Rhewin
 </div>
 
 
-The Rhewin is the northernmost of the principal rivers of the [Tyrwinghan Watershed](<./tyrwinghan-watershed.md>), flowing through northern [Tyrwingha](<../../tyrwingha/tyrwingha.md>). The Enad brook joins the Rhewin just north of the Tyrwinghan Road, near [Caerenad](<../../tyrwingha/caerenad.md>).
+The Rhewin is the westernmost of the principal rivers of the [Tyrwinghan Watershed](<./tyrwinghan-watershed.md>), flowing through western [Tyrwingha](<../../tyrwingha/tyrwingha.md>). The [Enad](<./enad.md>) brook joins the Rhewin just north of the [Tyrwinghan Road](<../../roads/tyrwinghan-road.md>), near [Caerenad](<../../tyrwingha/caerenad.md>).

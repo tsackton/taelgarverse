@@ -19,7 +19,7 @@ title: Saka
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1664 (85 years old)  
+    Born DR 1664 (86 years old)  
     { .bio }
 
     Based on the [plains north of Tokra](<../../gazetteer/greater-dunmar/hara-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

@@ -28,6 +28,9 @@ pronunciation: GAR-eth HOW-ell
 
 
 
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on April 30th, 1715 in the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+
+
 Gareth Howell is the captain of Lady [Elowen Duval](<./elowen-duval.md>)’s household guard, responsible for patrols and protection of the uplands. 
 ## Overview
 Sir Gareth Howell leads Roscombe’s armed response to frontier threats. He first met the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) while investigating [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)’s silence and later coordinated efforts to address the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) goblin stronghold and the rescue of his squire.

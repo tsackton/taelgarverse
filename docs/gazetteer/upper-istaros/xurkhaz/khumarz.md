@@ -5,11 +5,12 @@ displayDefaults: {dPast: '<ancestry:UA> <subtypeof:UA> <typeof:UA> <current:3Frq
 campaignInfo: []
 name: Khumarz
 destroyed: 1748-12-11
-typeOf: town
+typeOf: settlement
 ancestry: orc
 whereabouts: Xurkhaz
 dm_owner: tim
 dm_notes: color
+typeOfAlias: town
 title: Khumarz
 ---
 # Khumarz

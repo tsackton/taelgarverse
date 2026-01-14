@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place, status/stub]
 name: Tafolwern
-typeOf: city
+typeOf: settlement
 whereabouts: Tyrwingha
 pronunciation: Tav-ol-WERN
 dm_notes: none
 dm_owner: mike
+typeOfAlias: city
 title: Tafolwern
 ---
 # Tafolwern

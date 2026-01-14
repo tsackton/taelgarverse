@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 pronunciation: MEER-meer
 tags: [place]
 name: Mirmir
-typeOf: river
+typeOf: waterway
 whereabouts: Mawakel Peninsula
 dm_owner: none
 dm_notes: color
+typeOfAlias: river
 title: Mirmir
 ---
 # Mirmir

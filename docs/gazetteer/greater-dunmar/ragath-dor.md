@@ -3,11 +3,12 @@ headerVersion: 2023.11.25
 tags: [place]
 dm_owner: tim
 dm_notes: none
-typeOf: mountain pass
+typeOf: topographical feature
 whereabouts: Yuvanti Mountains
 displayDefaults: {defArt: ''}
 aliases: [Highdoor Pass, High Door]
 pronunciation: RAH-gath dor
+typeOfAlias: mountain pass
 title: Ragath Dor
 ---
 # Ragath Dor

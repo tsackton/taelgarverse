@@ -1,6 +1,9 @@
 ---
-{title: Ra'ghemdros' Hoard}
+tags: [meta]
+typeOf: hoard
+title: Ra'ghemdros' Hoard
 ---
+
 
 # Ra'ghemdros' Hoard
 

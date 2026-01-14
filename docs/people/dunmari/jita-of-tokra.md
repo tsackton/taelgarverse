@@ -19,7 +19,7 @@ title: Jita
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1713 (36 years old)  
+    Born DR 1713 (37 years old)  
     { .bio }
 
     Based on the [~North Tokra Plains~](<../../gazetteer/greater-dunmar/hara-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

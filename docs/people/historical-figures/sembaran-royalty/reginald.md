@@ -1,12 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 name: Reginald
 born: 1506
 species: human
 ancestry: Sembaran
 gender: male
-reignStart:
 died: 1550
 affiliations:
 - {org: House of Sewick, type: primary}

@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Mendin
-typeOf: town
+typeOf: settlement
 whereabouts: Mawar Confederacy
 dm_notes: important
 dm_owner: tim
+typeOfAlias: town
 title: Mendin
 ---
 # Mendin

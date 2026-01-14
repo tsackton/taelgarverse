@@ -24,10 +24,10 @@ title: Elwis
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [elf](<../../creatures/species/elves.md>) (she/her), ([ka](<../../background/elven-cycle-of-generations.md>) 37)  
-    Born DR 1634 (115 years old)  
+    Born DR 1634 (116 years old)  
     { .bio }
 
-    Based in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)
+    Based in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)

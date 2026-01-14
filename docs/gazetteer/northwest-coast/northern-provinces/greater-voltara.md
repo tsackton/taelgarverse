@@ -6,9 +6,10 @@ displayDefaults: {defArt: ''}
 whereabouts:
 - {type: primary, location: Northern Provinces}
 - {type: secondary, location: Northwest Coast}
-typeOf: province
+typeOf: realm
 dm_notes: none
 dm_owner: none
+typeOfAlias: province
 title: Greater Voltara
 ---
 # Greater Voltara

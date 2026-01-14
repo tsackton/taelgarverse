@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/mawar]
+tags: [person]
 name: Ander
 born:
 species: human
@@ -8,6 +8,7 @@ ancestry: Mawaran
 gender: male
 player: David Schwartz
 affiliations:
+- {org: Adventurers of Mawar}
 dm_owner: player
 dm_notes: important
 title: Ander
@@ -16,7 +17,8 @@ title: Ander
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Mawaran [human](<../../../creatures/species/humans.md>) (he/him)  
+    A [Mawaran](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
+    Member of the Adventurers of Mawar  
     { .bio }
 
 </div>

@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: River Gate
-typeOf: gate
+typeOf: infrastructure
 whereabouts: North Wall (Chardon)
 dm_owner: tim
 dm_notes: none
+typeOfAlias: gate
 title: River Gate
 ---
 # The River Gate

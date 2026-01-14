@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {wOrigin: 'Home area: <origin>', prep: 'on'}
-tags: [item/vehicle]
+tags: [object]
 typeOf: vehicle
 ancestry: halfling
 typeOfAlias: boat
@@ -18,7 +18,7 @@ title: Emerald Song
 ---
 # The Emerald Song
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Halfling](<../../creatures/species/halflings.md>) Boat__  
+- :octicons-info-24:{ .lg .middle } __([halfling](<../../creatures/species/halflings.md>) boat)__  
    Home area: the [Nevos Sea](<../../gazetteer/nevos-and-apporia/nevos-sea.md>)  
 </div>
 

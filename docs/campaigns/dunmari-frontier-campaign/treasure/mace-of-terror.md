@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: mace
-subtypeOf: magical
+subTypeOf: magical
 ddbLink: https://www.dndbeyond.com/magic-items/4672-mace-of-terror
 title: Mace of Terror
 ---
 # The Mace of Terror
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Magical Mace__  
+- :octicons-info-24:{ .lg .middle } __(magical mace)__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/4672-mace-of-terror) 
 </div>
 

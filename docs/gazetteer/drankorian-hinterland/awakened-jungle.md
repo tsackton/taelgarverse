@@ -2,9 +2,10 @@
 headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Drankorian Hinterland
-typeOf: jungle
+typeOf: forest
 dm_owner: tim
 dm_notes: important
+typeOfAlias: jungle
 title: Awakened Jungle
 ---
 # The Awakened Jungle
@@ -13,5 +14,5 @@ title: Awakened Jungle
 </div>
 
 
-A coastal jungle, south of the [Garamjala Plateau](<garamjala-plateau/garamjala-plateau.md>), west of the ruins of [Drankor](<../../history/drankorian-empire/drankor.md>), inhabited by talking animals. 
+A coastal jungle, south of the [Garamjala Plateau](<garamjala-plateau/garamjala-plateau.md>), west of the ruins of [Drankor](<drankor/drankor.md>), inhabited by talking animals. 
 

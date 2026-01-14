@@ -19,7 +19,7 @@ title: Inectos Tintio
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>)  
     { .bio }
 
-    Based in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Based in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>)
 </div>
 
 

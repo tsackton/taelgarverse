@@ -16,7 +16,7 @@ title: Avelina Smith
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A Zimka [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1673 (76 years old)  
+    Born DR 1673 (77 years old)  
     { .bio }
 
     Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)

@@ -1,6 +1,8 @@
 ---
-{title: Order of the Awakened Soul Initiation}
+tags: [source]
+title: Order of the Awakened Soul Initiation
 ---
+
 # Order of the Awakened Soul Initiation
 
 

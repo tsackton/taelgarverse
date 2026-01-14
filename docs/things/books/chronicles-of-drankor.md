@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 typeOf: book
 name: Cavarrio's Chronicles of Drankor
 displayDefaults: {defArt: ''}
@@ -9,9 +9,9 @@ dm_owner: none
 title: Cavarrio's Chronicles of Drankor
 ---
 # Cavarrio's Chronicles of Drankor
-:octicons-info-24:{ .lg .middle } **Book**  
+:octicons-info-24:{ .lg .middle } **(book)**  
 
-The *Chronicles of Drankor* is an extensive history and chronicle of the Drankorian Empire. It is typically considered the most comprehensive source on Drankorian chronology by the Faculty of History, and is a standard part of their curriculum. It was written by the Chardonian scholar Cavarrio in DR 1209. 
+The *Chronicles of Drankor* is an extensive history and chronicle of the Drankorian Empire. It is typically considered the most comprehensive source on Drankorian chronology by the [Faculty of History](<../../groups/chardonian-organizations/faculty-of-history.md>), and is a standard part of their curriculum. It was written by the Chardonian scholar Cavarrio in DR 1209. 
 
 The work is most famous for a long section, the *Annals of the Emperors*, which is considered a comprehensive list of the Emperors of Drankor and is reproduced below. Some scholars question whether it is entirely and completely accurate, as many of the sources used here have since been lost. 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest]
+tags: [person]
 name: Rothfis
 born:
 species: dwarf
@@ -9,6 +9,9 @@ gender:
 player: Phil Grayson
 excludePublish: [clee]
 whereabouts: Chardon
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+affiliations:
+- {org: Dunmar Fellowship, title: Guest"}
 dm_owner: tim
 dm_notes: important
 title: Rothfis
@@ -18,6 +21,7 @@ title: Rothfis
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../../../creatures/species/dwarves.md>)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
     Based in [Chardon](<../../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

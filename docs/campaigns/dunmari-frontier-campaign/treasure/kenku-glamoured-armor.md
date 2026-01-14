@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 ddbLink: https://www.dndbeyond.com/magic-items/5793008-kenku-studded-leather-enhanced
 pcOwner: Wellby
 displayDefaults: {wOrigin: '', wOriginU: '', defArt: ''}
@@ -16,7 +16,7 @@ title: Kenku Glamoured Armor
 ---
 # Kenku Glamoured Armor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Very Rare [Kenku](<../../../creatures/species/kenku.md>) Magic Armor__  
+- :octicons-info-24:{ .lg .middle } __(very rare [Kenku](<../../../creatures/species/kenku.md>) magic armor)__  
    Owned by [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/5793008-kenku-studded-leather-enhanced) 
 </div>

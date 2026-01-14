@@ -38,7 +38,7 @@ Riswynn and her companions uncover the story of [Morkalan](<../../../gazetteer/e
 - Oct 13, 1748 DR - Oct 25, 1748 DR: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) travels across [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) towards [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
 - Oct 26, 1748 DR: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) arrives in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Gathers letters and information.
 - Oct 27, 1748 DR - Nov 13, 1748 DR: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) travels east to meet her companions again
-- Nov 14, 1748 DR: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) are reunited on the arid plains of the [Nashtkar](<../../../gazetteer/greater-dunmar/hara-basin/nashtkar.md>)
+- Nov 14, 1748 DR: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) are reunited on the arid plains of the [Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>)
 
 
 ## Narrative

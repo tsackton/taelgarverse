@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/companion]
+tags: [person]
 name: Greymalkin
 displayDefaults: {startStatus: appeared from the Feywild on}
 born: 1720-01-07
 species: fey
 subspecies: griffin
+affiliations:
+- {org: Heroes of Cleenseau, title: Companion}
 gender: male
 dm_owner: player
 dm_notes: important
@@ -17,6 +19,7 @@ title: Greymalkin
 
     A [fey](<../../../creatures/fey/fey.md>) (griffin) (he/him)  
     Appeared from the Feywild on January 7th, 1720 (29 years old)  
+    Companion of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     { .bio }
 
 </div>

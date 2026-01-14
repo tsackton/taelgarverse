@@ -19,7 +19,7 @@ title: Drusa
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1711 (38 years old)  
+    Born DR 1711 (39 years old)  
     { .bio }
 
     Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

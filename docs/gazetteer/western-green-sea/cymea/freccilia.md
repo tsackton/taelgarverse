@@ -3,9 +3,10 @@ headerVersion: 2023.11.25
 tags: [place]
 pronunciation: FREH-chee-lah
 whereabouts: Cymea
-typeOf: river
+typeOf: waterway
 dm_owner: tim
 dm_notes: color
+typeOfAlias: river
 title: Freccilia
 ---
 # Freccilia

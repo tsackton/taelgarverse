@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 campaignInfo:
 name: Reginald Essford
 born: 1619
@@ -9,9 +9,9 @@ ancestry: Sembaran
 gender: male
 title: Lord Reginald Essford
 died: 1689
-family: Essford
 affiliations:
 - {org: Manor of Cleenseau, start: 1651, type: leader}
+- {org: Essfords, type: primary}
 whereabouts:
 - {type: home, location: Cleenseau, start: 1651}
 dm_notes: color
@@ -21,7 +21,7 @@ dm_owner: none
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)  
     b. DR 1619 - d. DR 1689, died at age 70 years  
     Lord of the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>) (DR 1651 - DR 1689)  
     { .bio }

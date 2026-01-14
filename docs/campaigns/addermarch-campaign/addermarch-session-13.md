@@ -12,7 +12,7 @@ tagline: in which the party enters the Feywild
 descTitle: The Hollow Man
 title: Addermarch Campaign - Session 13
 ---
-# The Addermarch Campaign - Session 13
+# Addermarch Campaign - Session 13
 
 >[!info] The Hollow Man: in which the party enters the Feywild
 > *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
@@ -44,7 +44,7 @@ The party follows worg tracks to a Feywild portal, kills a Hollow Man, and enter
 
 [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>), [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>), and [Drou](<../../people/pcs/addermarch/drou.md>) continue to follow a worg trail across the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>). Several hours pass as the trail continues up and down the next ridge, and then turns northeast towards a strange foggy depression some miles off. 
 
-By late afternoon, [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>), [Drou](<../../people/pcs/addermarch/drou.md>), and [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) arrive at the foggy depression. Their is a deep unnatural feeling to the fog, as it clings and clusters to the roots of a massive fallen tree with no regard for the sun. An occasional faint wind rustles the roots, which hang strangely like wind chimes. After some experimentation by [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) with _Elementalism_, which causes the wind-chime-like roots to play haunting sounds, [Drou](<../../people/pcs/addermarch/drou.md>) is able to replicate the notes and opens a portal in the fallen tree. 
+By late afternoon, [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>), [Drou](<../../people/pcs/addermarch/drou.md>), and [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) arrive at the [foggy depression](<../../gazetteer/greater-sembara/addermarch/nightsong-roots.md>). Their is a deep unnatural feeling to the fog, as it clings and clusters to the roots of a massive fallen tree with no regard for the sun. An occasional faint wind rustles the roots, which hang strangely like wind chimes. After some experimentation by [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) with _Elementalism_, which causes the wind-chime-like roots to play haunting sounds, [Drou](<../../people/pcs/addermarch/drou.md>) is able to replicate the notes and opens a portal in the fallen tree. 
 
 A hollow man emerges and attacks. Remembering the rhyme, the party focuses on fire damage, and the creature is quickly dispatched. Stepping into the [Feywild](<../../cosmology/feywild.md>), the party follows a path through a dense, dark forest. On the path, they are attacked by small fey, a group of thorn-like creatures and a flying archer with ice arrows. 
 

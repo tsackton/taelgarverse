@@ -17,7 +17,7 @@ title: Arnaud Ausson
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Isinguer](<../../history/historical-realms/istabor-alliance.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1674 (75 years old)  
+    Born DR 1674 (76 years old)  
     { .bio }
 
     Originally from: [Laicon](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/laicon.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)

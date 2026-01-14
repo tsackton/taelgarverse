@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 displayDefaults: {wPastHome: 'Was owned by: <current:1>', dPast: 'Destroyed by [[Wellby]] on <endDate>'}
 typeOf: ring
 rarity: unique
@@ -12,7 +12,7 @@ title: Ring of Undying
 ---
 # The Ring of Undying
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Ring__  
+- :octicons-info-24:{ .lg .middle } __(unique ring)__  
    Destroyed by [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) on January 20th, 1749  
    Was owned by: [Grash](<../../people/other-nonhumans/grash.md>)  
 </div>

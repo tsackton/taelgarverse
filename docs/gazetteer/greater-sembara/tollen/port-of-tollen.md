@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: port
+typeOf: infrastructure
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+typeOfAlias: port
 title: Port of Tollen
 ---
 # The Port of Tollen

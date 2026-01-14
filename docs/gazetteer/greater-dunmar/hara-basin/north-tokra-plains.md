@@ -4,15 +4,16 @@ typeOf: grassland
 whereabouts: Central Dunmar
 tags: [place, status/check/name]
 aliases: [plains north of Tokra]
-displayDefaults: {linkText: 'on', ltPlace: 'on'}
+displayDefaults: {linkText: true, ltPlace: true}
 dm_owner: tim
 dm_notes: important
+typeOfAlias: grassland
 unlisted: true
 title: ~North Tokra Plains~
 ---
 # The ~North Tokra Plains~
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A grassland [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A grassland in [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
 </div>
 
 

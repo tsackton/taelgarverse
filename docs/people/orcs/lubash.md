@@ -22,7 +22,7 @@ dm_notes: important
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [orc](<../../creatures/species/orcs.md>) (he/him)  
-    Born DR 1691 (58 years old)  
+    Born DR 1691 (59 years old)  
     Member of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
     Chief of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>) (since DR 1745)  
     { .bio }

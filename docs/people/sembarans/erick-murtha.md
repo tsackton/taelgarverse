@@ -18,7 +18,7 @@ dm_owner: mike
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1671 (78 years old)  
+    Born DR 1671 (79 years old)  
     Lord of the [Manor of Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-beury.md>)  
     { .bio }
 

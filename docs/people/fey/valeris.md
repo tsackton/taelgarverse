@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/gameupdate]
+tags: [person, status/gameupdate/dufr]
 species: fey
 subspecies: satyr
 whereabouts:

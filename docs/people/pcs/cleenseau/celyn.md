@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person, status/active]
+tags: [person, status/gameupdate/clee]
 name: Celyn
 born: 1697
 species: human
@@ -28,9 +28,9 @@ title: Celyn
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
-    Born DR 1697 (52 years old)  
+    Born DR 1697 (53 years old)  
     Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
-    Member of the Mahaut's Miracle Players (December 1717 - June 29th, 1719)  
+    Member of [Mahaut's Miracle Players](<../../../groups/mahaut-s-miracle-players.md>) (December 1717 - June 29th, 1719)  
     { .bio }
 
     Originally from: [Clawyn](<../../../gazetteer/greater-sembara/tyrwingha/clawyn.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)

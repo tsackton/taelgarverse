@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: lizardfolk
 name: Samso
 gender: male
@@ -20,7 +20,7 @@ title: Samso
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (he/him)  
-    Born DR 1716 (33 years old)  
+    Born DR 1716 (34 years old)  
     Member of the [Silver Tempests](<./silver-tempests.md>)  
     { .bio }
 
@@ -41,5 +41,5 @@ After many years with no sign of his family, and nothing but silence from the sp
 - 1716 DR: Samso is born in [Urkabi](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/urkabi.md>), a small village in [Apporia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>)
 - 1737 DR: Samso returns from wandering to find [Urkabi](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/urkabi.md>) gone, seemingly swallowed by a black rot
 - Dec 17, 1746 DR: Samso leaves home to seek information
-- Jan 01, 1747 DR: Samso reaches ~Yeraad Lizardfolk Swamp~
-- Jan 19, 1747 DR: Samso leaves ~Yeraad Lizardfolk Swamp~ for [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), having failed to find answers among his lizardfolk kin
+- Jan 01, 1747 DR: Samso reaches [~Yeraad Lizardfolk Swamp~](<../../../gazetteer/greater-chardon/yeraad-lizardfolk-swamp.md>)
+- Jan 19, 1747 DR: Samso leaves [~Yeraad Lizardfolk Swamp~](<../../../gazetteer/greater-chardon/yeraad-lizardfolk-swamp.md>) for [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), having failed to find answers among his lizardfolk kin

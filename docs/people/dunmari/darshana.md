@@ -20,7 +20,7 @@ title: Darshana
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1699 (50 years old)  
+    Born DR 1699 (51 years old)  
     Owner of [Darshana's Caravanserai](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/darshana-s-caravanserai.md>)  
     { .bio }
 

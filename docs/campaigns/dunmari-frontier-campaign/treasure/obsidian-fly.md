@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 displayDefaults: {defArt: ''}
 name: Agata's Obsidian Fly
 typeOf: figurine
@@ -15,7 +15,7 @@ title: Agata's Obsidian Fly
 ---
 # Agata's Obsidian Fly
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Rare [Fey](<../../../creatures/fey/fey.md>) Magic Figurine__  
+- :octicons-info-24:{ .lg .middle } __(rare [Fey](<../../../creatures/fey/fey.md>) magic figurine)__  
    Owned by [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/4831-figurine-of-wondrous-power-ebony-fly) 
 </div>

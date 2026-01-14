@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 name: Army of Mostreve
 typeOf: army
 dm_notes: none
@@ -23,15 +23,15 @@ The Army of Mostreve is the name used by many in Sembara for the three Guard Com
 Legend says that the Color Guard and the Twilight Guard date to ancient days, and were founded in the court of [Archfey Ethlenn](<../../people/extraplanar-powers/archfey/archfey-ethlenn.md>) herself. The army is responsible for the defense of the borders of Tyrwingha, and in times of need the monarch can summon their earls and swell the Iron Guard by thousands.
 
 In less troubled times, the three guard companies are established in five garrisons:
-* the garrison of Cyfarthfa, north of the [Rhewin](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/rhewin.md>), near the Tyrwinghan Road
-* the garrison of Garn Tyrn, in the Maerwyns near the source of the Daran
-* the Maerwyn Garrison, in the southern Maerwyns 
+* the garrison of Cyfarthfa, north of the [Rhewin](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/rhewin.md>), near the [Tyrwinghan Road](<../../gazetteer/greater-sembara/roads/tyrwinghan-road.md>)
+* the garrison of Garn Tyrn, in the [Maerwyns](<../../gazetteer/greater-sembara/maerwyn-mountains.md>) near the source of the [Daran](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/daran.md>)
+* the Maerwyn Garrison, in the southern [Maerwyns](<../../gazetteer/greater-sembara/maerwyn-mountains.md>) 
 * the garrison of the Aben, in the ~Tyrwinghan Hills~ near the headwaters of the [Aben](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/aben.md>) River 
-* the garrison of Deganwy, in the western ~Tyrwinghan Hills~, near the headwaters of the Llanfen
+* the garrison of Deganwy, in the western ~Tyrwinghan Hills~, near the headwaters of the [Llanfen](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/llanfen.md>)
 
 Additionally, an ancient training ground and barracks on the shores of [Tywynn Bay](<../../gazetteer/greater-sembara/tyrwingha/tywynn-bay.md>) still serves as a headquarters and training barracks, especially for the Color Guard. 
 
-Each garrison houses around a hundred soldiers, organized into Camps of between 15 and 20. Each Camp is commanded by a Campwarden, and is in turn divided into three Hands of 5 - 7 soldiers, commanded by a Palm. The Iron Guard is the most numerous within the garrisons, and each Hand is usually a mix of Iron Guard and the warlocks of the Twilight Guard. However, each garrison hosts one or more camps of the Color Guard, typically named for a color (i.e. the Red Camp of the Aben or the Green Camp of the Maerwyn). These are shock calvary, usually fey-touched, and can be a fearsome force on the battlefield.
+Each garrison houses around a hundred soldiers, organized into Camps of between 15 and 20. Each Camp is commanded by a Campwarden, and is in turn divided into three Hands of 5 - 7 soldiers, commanded by a Palm. The Iron Guard is the most numerous within the garrisons, and each Hand is usually a mix of Iron Guard and the warlocks of the Twilight Guard. However, each garrison hosts one or more camps of the Color Guard, typically named for a color (i.e. the Red Camp of the Aben or the Green Camp of the [Maerwyn](<../../gazetteer/greater-sembara/maerwyn-mountains.md>)). These are shock calvary, usually fey-touched, and can be a fearsome force on the battlefield.
 
 The garrison is commanded by the Council of Camps, which consists of three members: the Iron Warden, the Color Warden, and the Twilight Warden. In times of crisis or battle, one of the three wardens is elected to serve as the Voice.
 

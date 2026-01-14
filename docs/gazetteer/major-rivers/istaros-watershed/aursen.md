@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Aursen
-typeOf: river
+typeOf: waterway
 whereabouts: Istaros Watershed
 aliases: [Aursen River, River Aursen]
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 title: Aursen
 ---
 # Aursen

@@ -11,7 +11,7 @@ ancestry:
 gender: male
 whereabouts: Crystal Peak
 affiliations:
-- {org: Crystal Peak, title: Guardian}
+- {org: Crystal Peak, title: Guardian, type: ruler}
 dm_owner: none
 dm_notes: important
 title: Illaran

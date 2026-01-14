@@ -19,7 +19,7 @@ dm_owner: none
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1703 (46 years old)  
+    Born DR 1703 (47 years old)  
     Commander of the [Voltara East Border Fort](<../../gazetteer/northwest-coast/northern-provinces/voltara-east-border-fort.md>)  
     { .bio }
 

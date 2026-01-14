@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 typeOf: book
 ancestry: Hkaran
 name: Journey of the Souls
@@ -9,9 +9,9 @@ dm_notes: color
 title: Journey of the Souls
 ---
 # The Journey of the Souls
-:octicons-info-24:{ .lg .middle } **Hkaran Book**  
+:octicons-info-24:{ .lg .middle } **([Hkaran](<../../history/historical-realms/hkar.md>) book)**  
 
-A book written in a Hkaran dialect, similar to Drankorian, by an unknown author, dating from before the [Downfall](<../../events/ancient/the-downfall.md>).
+A book written in a Hkaran dialect, similar to Drankorian, by an unknown author, dating from before the Downfall.
 
 It describes the journey of souls after death, from the material plane to the [Land of the Dead](<../../cosmology/land-of-the-dead.md>) to their final resting place, outlining the stages of the journey, as hypothesized by the spellcasters, theologians, and scholars of the day. 
 

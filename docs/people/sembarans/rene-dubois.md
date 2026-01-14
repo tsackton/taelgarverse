@@ -19,7 +19,7 @@ title: Rene Dubois
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
-    Originally from: the [Barony of Brumecliff](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-brumecliff.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+    Originally from: the [Barony of Brumecliff](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-brumecliff.md>), the [Borderlands](<../../gazetteer/greater-sembara/sembara/borderlands/borderlands.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
     Based with the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>), in [Fellburn](<../../gazetteer/greater-sembara/sembara/heartlands/fellburn.md>), the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>)
 </div>
 

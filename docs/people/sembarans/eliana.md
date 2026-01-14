@@ -19,4 +19,4 @@ title: Eliana
 </div>
 
 
-A midwife who tends to Underhill.  She is also somewhat of an herbalist with a particular focus on gender care.
+A midwife who tends to [Underhill](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/underhill.md>).  She is also somewhat of an herbalist with a particular focus on gender care.

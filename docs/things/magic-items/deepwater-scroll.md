@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 name: Deepwater Scroll
 typeOf: scroll
 campaignInfo:
@@ -10,7 +10,7 @@ dm_notes: none
 title: Deepwater Scroll
 ---
 # The Deepwater Scroll
-:octicons-info-24:{ .lg .middle } **Scroll**  
+:octicons-info-24:{ .lg .middle } **(scroll)**  
 
 One of [Airion Mistspeaker](<../../people/other-humans/airion.md>)’s four lost elemental scrolls, associated with water. 
 

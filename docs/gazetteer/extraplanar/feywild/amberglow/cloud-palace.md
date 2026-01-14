@@ -4,9 +4,10 @@ tags: [place]
 whereabouts: Amberglow
 excludePublish: [clee]
 ancestry: fey
-typeOf: palace
+typeOf: building
 dm_notes: none
 dm_owner: tim
+typeOfAlias: palace
 title: Cloud Palace
 ---
 # The Cloud Palace

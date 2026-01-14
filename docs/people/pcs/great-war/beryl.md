@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, person]
-campaignInfo: []
+tags: [person]
 name: Beryl
 born: 1502
 species: human
@@ -11,14 +10,16 @@ player: Mike Sackton
 died: 1545
 dm_owner: player
 dm_notes: important
-affiliations: [The Rangers]
+affiliations:
+- {type: primary, org: Heroes of the Great War}
+- {org: The Rangers}
 title: Beryl
 ---
 # Beryl
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Isinguer](<../../../history/historical-realms/istabor-alliance.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
+    An [Isinguer](<../../../history/historical-realms/istabor-alliance.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Heroes of the Great War](<./heroes-of-the-great-war.md>)  
     b. DR 1502 - d. DR 1545, died at age 43 years  
     Member of [The Rangers](<../../../groups/the-rangers.md>) (until DR 1545)  
     { .bio }

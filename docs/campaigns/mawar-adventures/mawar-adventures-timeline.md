@@ -1,6 +1,6 @@
 ---
-tags: [timeline]
-timelineDescriptor: Mawar Adventures
+tags: [meta]
+typeOf: timeline
 title: Mawar Adventures Timeline
 ---
 

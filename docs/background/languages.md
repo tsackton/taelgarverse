@@ -16,9 +16,9 @@ The human tongues of the known world are broadly divided up into three major lan
 
 * **Northros Language Family**: A set of languages spoken across the northern reaches of Taelgar, named Northros by Drankorian cataloguers of languages. These languages are spoken by the cultures that departed Hkar in the ancient days.
 * **Eastros Language Family**: A diverse set of languages spoken across the [Green Sea](<../gazetteer/green-sea.md>). This language is derived from an ancient mariner culture that originally settled much of the [Green Sea](<../gazetteer/green-sea.md>) region, and these languages were given the name Eastros by Drankorian scholars.
-* **Drankorian Language Family**: A set of languages spoken by [Drankor](<../history/drankorian-empire/drankorian-empire.md>) and many of its successor cultures. It is derived from the language spoken on [Hkar](<../history/historical-realms/hkar.md>) and the time of the [Downfall](<../events/ancient/the-downfall.md>).
+* **Drankorian Language Family**: A set of languages spoken by [Drankor](<../history/historical-realms/drankorian-empire.md>) and many of its successor cultures. It is derived from the language spoken on [Hkar](<../history/historical-realms/hkar.md>) and the time of the Downfall.
 
-There are some other human languages, notably Dunmari, that do not fit into any of the language families above, and there are rumors and fragments from [Drankor](<../history/drankorian-empire/drankor.md>) of very different languages spoken in far-flung places distant from the center of the [Drankorian Empire](<../history/drankorian-empire/drankorian-empire.md>). 
+There are some other human languages, notably Dunmari, that do not fit into any of the language families above, and there are rumors and fragments from [Drankor](<../gazetteer/drankorian-hinterland/drankor/drankor.md>) of very different languages spoken in far-flung places distant from the center of the [Drankorian Empire](<../history/historical-realms/drankorian-empire.md>). 
 
 
 ## Trade Languages
@@ -46,7 +46,7 @@ After the fall of the Drankorian Empire, the Drankorian language developed into 
 
 _Real world analog: Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations_
 ##### Drankorian
-The ancient language spoken across the [Drankorian Empire](<../history/drankorian-empire/drankorian-empire.md>), now preserved as a scholarly language. Although spoken conversation in Drankorian is rare, many scholarly and literary works are written in Drankorian. Over the past 150 years, since the Great War, Drankorian has declined significantly in use as a scholarly language, and many treatises are now written in Chardonian. While many scholars still learn Drankorian, it is no longer a common diplomatic and literary language. 
+The ancient language spoken across the [Drankorian Empire](<../history/historical-realms/drankorian-empire.md>), now preserved as a scholarly language. Although spoken conversation in Drankorian is rare, many scholarly and literary works are written in Drankorian. Over the past 150 years, since the Great War, Drankorian has declined significantly in use as a scholarly language, and many treatises are now written in Chardonian. While many scholars still learn Drankorian, it is no longer a common diplomatic and literary language. 
 
 _Real world analog_: Classical Latin; occasional Classical Greek loan words
 _Alphabet_: Drankorian is written using the Drankorian alphabet

@@ -1,5 +1,7 @@
 ---
-{title: Stormcaller Tower Treasure}
+tags: [meta]
+typeOf: hoard
+title: Stormcaller Tower Treasure
 ---
 ## Recovered after the first journey to the tower
 
@@ -16,7 +18,7 @@
 - [Cleaning Stone](https://www.dndbeyond.com/magic-items/cleansing-stone), from [Eudomes](<../../../people/historical-figures/eudomes.md>)' bedroom.  A polished stone sphere, 1 foot in diameter, embedded on top of short marble pedestal. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. Originally located in Eudomes' bedroom in the Stormcaller Tower, recovered upon Hralgar's destruction of the tower when he was freed. 
 - The [Enchiridion of the Occulta Ludum](<../../../things/books/enchiridion-of-the-occulta-ludum.md>), a small pamphlet titled in Drankorian, faintly magical and empty inside
 - [Tales Before the Fall](<../../../things/books/tales-before-the-fall.md>), a huge book written in Giant, with tales of giants, from Eudomes' tower. 
-- On the Ordering of Giants, ancient, written in a strange language presumed to be the first tongue of humans, on giants, from Eudomes' tower. 
+- [On the Ordering of Giants](<../../../things/books/on-the-ordering-of-giants.md>), ancient, written in a strange language presumed to be the first tongue of humans, on giants, from Eudomes' tower. 
 - [Journeys of Souls](<../../../things/books/journeys-of-souls.md>), ancient, written in a strange language presumed to be the first tongue of humans, on the afterlife, from Eudomes' tower. 
 - [Hralgar](<../../../people/giants/hralgar.md>) gives his blessing for the party to restore and take [Vindristjarna](<../../../things/ships/vindristjarna.md>), The Star on the Wind, the ruined airship that requires a new phasing stone to fly
 - [Binding Stones](<../treasure/binding-stones.md>) (legendary major item*, party)

@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: North Gate of Cleenseau
-typeOf: gate
+typeOf: infrastructure
 whereabouts: Cleenseau
 dm_owner: mike
 dm_notes: none
+typeOfAlias: gate
 title: North Gate of Cleenseau
 ---
 # The North Gate of Cleenseau

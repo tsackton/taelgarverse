@@ -19,7 +19,7 @@ title: Sarabeth Asa
     An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     { .bio }
 
-    Originally from: the [Barony of Brumecliff](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-brumecliff.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+    Originally from: the [Barony of Brumecliff](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-brumecliff.md>), the [Borderlands](<../../gazetteer/greater-sembara/sembara/borderlands/borderlands.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
     Based in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>), the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 

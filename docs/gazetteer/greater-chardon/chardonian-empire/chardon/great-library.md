@@ -3,9 +3,10 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Great Library
 whereabouts: Chardon
-typeOf: library
+typeOf: building
 dm_notes: important
 dm_owner: tim
+typeOfAlias: library
 title: Great Library
 ---
 # The Great Library
@@ -20,7 +21,7 @@ The oldest building and organization in Chardon, dedicated to collecting and pre
 
 ## History
 - 688 DR: *(Great Library)*: A small library is constructed in Chardon, known as the Sibyline Archives, associated with the Sibylinites, a secret order in Drankor devoted to secret knowledge of [The Sibyl](<../../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>). 
-- 1063 DR: *(Great Library)*: The Sibyline Archives are expanded, nearly doubling in size, to accomodate books and knowledge saved from the fall of Drankor. Become known as The Great Library of Chardon
+- 1063 DR: *(Great Library)*: The Sibyline Archives are expanded, nearly doubling in size, to accomodate books and knowledge saved from the [Fall of Drankor](<../../../../events/1000s/1059/fall-of-drankor.md>). Become known as The Great Library of Chardon
 
 
 

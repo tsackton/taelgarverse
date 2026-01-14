@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 tags: [place]
 campaignInfo:
 name: Duchy of Cheimen
-typeOf: duchy
+typeOf: realm
 whereabouts: Heartlands
 dm_owner: none
 dm_notes: color
+typeOfAlias: duchy
 title: Duchy of Cheimen
 ---
 # The Duchy of Cheimen

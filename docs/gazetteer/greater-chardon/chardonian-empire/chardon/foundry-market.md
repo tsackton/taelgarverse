@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {wHome: '<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>'}
-typeOf: market
+typeOf: infrastructure
 whereabouts: Chalyte Levels
 dm_owner: tim
 dm_notes: color
+typeOfAlias: market
 title: Foundry Market
 ---
 # The Foundry Market

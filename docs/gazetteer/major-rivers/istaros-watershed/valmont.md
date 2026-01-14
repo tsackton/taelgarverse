@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Valmont
-typeOf: river
+typeOf: waterway
 whereabouts: Istaros Watershed
 aliases: [River Valmont]
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 title: Valmont
 ---
 # Valmont

@@ -20,7 +20,7 @@ title: Ariel
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1674 (75 years old)  
+    Born DR 1674 (76 years old)  
     { .bio }
 
     Originally from: the [Shu'anra village in the Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)

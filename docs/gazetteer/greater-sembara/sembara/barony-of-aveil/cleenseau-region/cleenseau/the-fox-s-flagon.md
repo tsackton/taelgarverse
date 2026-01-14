@@ -14,7 +14,7 @@ title: The Fox’s Flagon
 # The Fox’s Flagon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: Founded DR 1689 (60 years ago)  
+   :material-calendar: Founded DR 1689 (61 years ago)  
     :octicons-location-24:{ .lg .middle } An inn in [Cleenseau](<./cleenseau.md>), the [Manor of Cleenseau](<../manor-of-cleenseau.md>), the [Barony of Aveil](<../../barony-of-aveil.md>), [Sembara](<../../../sembara.md>), [Greater Sembara](<../../../../greater-sembara.md>)  
 </div>
 

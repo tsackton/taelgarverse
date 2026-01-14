@@ -1,6 +1,9 @@
 ---
-{title: Rod of Elmerca's Bond}
+tags: [object, status/stub]
+typeOf: wonderous item
+title: Rod of Elmerca's Bond
 ---
+
 ## Rod of Elmerca
 
  +1 Rod of the Pact Keeper

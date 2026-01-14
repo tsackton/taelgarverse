@@ -1,6 +1,9 @@
 ---
-{title: Ursk Treasure}
+tags: [meta]
+typeOf: hoard
+title: Ursk Treasure
 ---
+
 ## Acquired from Shadowkeep
 
 A gold-gilded black breastplate engraved with the silhouette of a dragon 

@@ -21,7 +21,7 @@ title: Égnir
     An [elf](<../../creatures/species/elves.md>) (he/him), ([ka](<../../background/elven-cycle-of-generations.md>) 37)  
     { .bio }
 
-    Originally from: [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)
+    Originally from: [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)

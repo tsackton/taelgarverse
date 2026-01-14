@@ -16,7 +16,7 @@ title: Yaz
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Mawaran [human](<../../creatures/species/humans.md>) (he/him)  
+    A [Mawaran](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
     Based in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)

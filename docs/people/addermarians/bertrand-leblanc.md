@@ -28,6 +28,9 @@ title: Bertrand LeBlanc
 
 
 
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on April 30th, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+
+
 Bertrand LeBlanc is a charming middle‑aged innkeeper who runs [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>) in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>). Friendly toward the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) and most travelers without need for persuasion, he prides himself on fair dealing, a well‑kept cellar, and a welcoming common room.
 
 Born and raised in Roscombe, Bertrand has a personal connection to the Wanderer and enjoys talking with travelers from near and far. 

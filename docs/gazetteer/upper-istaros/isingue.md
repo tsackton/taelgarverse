@@ -5,7 +5,7 @@ displayDefaults: {endStatus: Consumed by Cha'mutte's plague in, wOrigin: '<prima
 campaignInfo: []
 name: Isingue
 destroyed: 1545
-typeOf: city
+typeOf: settlement
 ancestry: Isinguer
 affiliations:
 - {org: ruined, type: primary, start: 1545}
@@ -14,12 +14,13 @@ whereabouts:
 - {type: home, start: 1545, location: Plaguelands}
 dm_notes: important
 dm_owner: tim
+typeOfAlias: city
 title: Isingue
 ---
 # Isingue
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :octicons-location-24:{ .lg .middle } A ruined [Isinguer](<../../history/historical-realms/istabor-alliance.md>) city [Plaguelands](<./plaguelands.md>), once part of the [Istabor Alliance](<../../history/historical-realms/istabor-alliance.md>)  
+   :octicons-location-24:{ .lg .middle } A ruined [Isinguer](<../../history/historical-realms/istabor-alliance.md>) city in the [Plaguelands](<./plaguelands.md>), once part of the [Istabor Alliance](<../../history/historical-realms/istabor-alliance.md>)  
     :octicons-location-24:{ .lg .middle } Consumed by Cha'mutte's plague in DR 1545  
 </div>
 

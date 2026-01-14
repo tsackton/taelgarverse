@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: the}
 name: The Red Shield
-typeOf: tavern
+typeOf: inn
 whereabouts: Tharn Todor
 dm_owner: none
 dm_notes: none
+typeOfAlias: tavern
 title: The Red Shield
 ---
 # The The Red Shield

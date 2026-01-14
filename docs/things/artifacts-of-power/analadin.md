@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment, status/cleanup/external]
+tags: [object]
 destroyed: 1545
 name: Analadin
 typeOf: staff
@@ -12,7 +12,7 @@ title: Analadin
 ---
 # Analadin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Staff__  
+- :octicons-info-24:{ .lg .middle } __(unique staff)__  
    Destroyed DR 1545  
    Was owned by [Beryl](<../../people/pcs/great-war/beryl.md>)  
 </div>

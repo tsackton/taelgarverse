@@ -1,16 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 displayDefaults: {defArt: ''}
 typeOf: tattoo
-subtypeOf: magic
+subTypeOf: magic
 ancestry: Tollender
 dm_owner: none
 dm_notes: none
 title: Tollen Magical Tattoo
 ---
 # Tollen Magical Tattoo
-:octicons-info-24:{ .lg .middle } **[Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) Magic Tattoo**  
+:octicons-info-24:{ .lg .middle } **([Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) magic tattoo)**  
 
 A variety of magical tattoos are produced by the artisans of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), using magical inks produced by the secrets of the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>). 
 

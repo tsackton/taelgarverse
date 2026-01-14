@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/gameupdate]
+tags: [person, status/gameupdate/dufr]
 species: halfling
 born: 1696
 gender: female
@@ -17,7 +17,7 @@ title: Willow Copperharp
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (she/her)  
-    Born DR 1696 (53 years old)  
+    Born DR 1696 (54 years old)  
     { .bio }
 
     Originally from: Unknown

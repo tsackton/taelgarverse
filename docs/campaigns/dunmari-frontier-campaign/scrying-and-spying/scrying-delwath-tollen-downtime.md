@@ -1,6 +1,8 @@
 ---
-{title: Scrying Delwath Tollen Downtime}
+tags: [meta]
+title: Scrying Delwath Tollen Downtime
 ---
+
 # Scrying, Feb/March 1749
 
 ## Apollyon
@@ -25,7 +27,7 @@ And then the sensor is dispelled. 
 
 For the most part, [the events in Dunmar](<../../../events/1700s/sibling-war.md>) don’t seem to have had a dramatic impact on Chardon. You catch the occasional discussion of news from the east, a variety of garbled rumors about hags and civil war. In many of them, you feature as allies of the hag and instigators of chaos - you seem to have some notoriety in Chardon. However, no one in Chardon seems too concerned with Dunmar and there does not seem to be a drumbeat for war.
 
-You gather that, if anything, there is something of a conflict between the young Magistros, [Mitus Verina Auratan](<../../../people/chardonians/mitus-verina-auratan.md>), and some of the notable wizards of the Hetaeri Magica (a somewhat mysterious organization of wizards associated with the [Great Library](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>) and the [University of Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>), who manage rules about magic and magical training; Fausto is a prominent member). The Magistros, according to the rumors, sees no profit in war with Dunmar, and apparently the mages lost in the [Battle of Tokra](<../../../events/1700s/1748/12/battle-of-tokra.md>) were largely not official [Chardonian Legion](<../../../groups/chardonian-organizations/chardonian-legion.md>) wizards but mostly freelancers from the ranks of the University. Even the Hetaeri Magica, rumors report, is divided between those who wish war and those who council caution and peace. 
+You gather that, if anything, there is something of a conflict between the young Magistros, [Mitus Verina Auratan](<../../../people/chardonians/mitus-verina-auratan.md>), and some of the notable wizards of the [Hetaeri Magica](<../../../groups/chardonian-organizations/hetaeri-magica.md>) (a somewhat mysterious organization of wizards associated with the [Great Library](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>) and the [University of Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>), who manage rules about magic and magical training; Fausto is a prominent member). The Magistros, according to the rumors, sees no profit in war with Dunmar, and apparently the mages lost in the [Battle of Tokra](<../../../events/1700s/1748/12/battle-of-tokra.md>) were largely not official [Chardonian Legion](<../../../groups/chardonian-organizations/chardonian-legion.md>) wizards but mostly freelancers from the ranks of the University. Even the Hetaeri Magica, rumors report, is divided between those who wish war and those who council caution and peace. 
 
 Nonetheless, there does seem to be a growing undercurrent of distrust of the Dunmari on the streets of Chardon, especially around [Precinct IV](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/precinct-iv.md>), the University area. Outside [The Thirsty Scholar](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/the-thirsty-scholar.md>), you see a group of students angrily turn away a Dunmari couple, taunting them, and these sights are not rare, although once when watching the port area, you do also see a soldier break up a fight between several Chardonians and a Dunmari man.
 

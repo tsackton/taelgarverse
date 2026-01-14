@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Tumukhar
-typeOf: city
+typeOf: settlement
 ancestry: dwarven
 whereabouts: Am'khazar
 campaignInfo:
 - {campaign: GL, type: explored, date: 1747-12-13}
 dm_owner: none
 dm_notes: none
+typeOfAlias: city
 title: Tumukhar
 ---
 # Tumukhar

@@ -16,18 +16,18 @@ title: Suma
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1707 (42 years old)  
+    Born DR 1707 (43 years old)  
     { .bio }
 
-    Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 
 
 
-The priestess of the temple of [Five Siblings](<../../gods-and-religions/religions/five-siblings/five-siblings.md>) in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), a small institution often overshadowed by the [Temple of Shakun](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), but nonetheless an important focus of civic life and civil administration for the Karawa region. 
+The priestess of the temple of [Dunmari Religion](<../../gods-and-religions/religions/five-siblings/dunmari-religion.md>) in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), a small institution often overshadowed by the [Temple of Shakun](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), but nonetheless an important focus of civic life and civil administration for the Karawa region. 
 
-Suma is a middle aged woman with dark, curly hair and soft, friendly features. She is a kind, generous person, welcoming of all, and genuinely interested in people, travelers and locals alike. Although a servant of all [Five Siblings](<../../gods-and-religions/religions/five-siblings/five-siblings.md>), she is particularly connected to [Jeevali](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/jeevali.md>) and deeply appreciates the [Festival of Rebirth](<../../gods-and-religions/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>).  
+Suma is a middle aged woman with dark, curly hair and soft, friendly features. She is a kind, generous person, welcoming of all, and genuinely interested in people, travelers and locals alike. Although a servant of all [Dunmari Religion](<../../gods-and-religions/religions/five-siblings/dunmari-religion.md>), she is particularly connected to [Jeevali](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/jeevali.md>) and deeply appreciates the [Festival of Rebirth](<../../gods-and-religions/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>).  
 
 
 In April 1748, she argued for an evacuation of Karawa in the face of rampaging gnolls, caring more about saving the people than the town, arguing that Karawa is made up of its people, not its physical location, and it is their safety that must be defended.. With the support of [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), this argument won the day and Suma left for Tokra with many people of Karawa. As of the [Feast of Bhishma](<../../gods-and-religions/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>) in June 1748, she is back in Karawa, and pleased about it, having had a hard time in Tokra keeping everyone together, healthy, and safe.

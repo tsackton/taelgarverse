@@ -1,18 +1,19 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: manor
+typeOf: realm
 created: 1562
 whereabouts: Barony of Aveil
 dm_owner: none
 dm_notes: none
+typeOfAlias: manor
 title: Manor of Beury
 ---
 # The Manor of Beury
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: Founded DR 1562 (187 years ago)  
-    :octicons-location-24:{ .lg .middle } A manor [Barony of Aveil](<../barony-of-aveil.md>)  
+   :material-calendar: Founded DR 1562 (188 years ago)  
+    :octicons-location-24:{ .lg .middle } A manor in the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), [Greater Sembara](<../../../greater-sembara.md>)  
 </div>
 
 

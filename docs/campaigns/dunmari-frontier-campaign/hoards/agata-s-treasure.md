@@ -1,5 +1,7 @@
 ---
-{title: Agata's Treasure}
+tags: [meta]
+typeOf: hoard
+title: Agata's Treasure
 ---
 # Agata Dustmother's Treasure
 

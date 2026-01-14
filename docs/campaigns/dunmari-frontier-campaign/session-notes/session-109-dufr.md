@@ -17,7 +17,7 @@ title: Dunmari Frontier - Session 109
 > *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
 > *In Taelgar: May 19, 1749 DR*
 > *On Earth: Friday Sep 27, 2024*
-> *Apollyon's Tower on the ~Circular Island~ *
+> *[Apollyon's Tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>) on the [Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>) *
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) infiltrates Apollyon's tower, uncovers its secrets, and returns with valuable treasures and knowledge.
 ## Session Info
@@ -32,12 +32,12 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - They gather treasures and return to [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>), who destroys the necromancy book.
 
 ### Timeline
-- May 19, 1749 DR, morning: Depart west for Apollyon's tower across the ~Circular Island~
+- May 19, 1749 DR, morning: Depart west for Apollyon's tower across the [Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)
 - May 19, 1749 DR, noon: Reach Apollyon's tower as ospreys; fight constructs
 -  May 19, 1749 DR, afternoon: Explore Apollyon's tower; find lich chamber; destroy undead in the grand hall
 -  May 19, 1749 DR, evening: Find Apollyon's forge, destroy void sword protecting it. Load Apollyon's throne into Portable Hole, along with [Apollyon's Tower Treasure](<../hoards/apollyon-s-tower-treasure.md>). Teleport back to [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>) at the summit of the mountain.  
 ### Mirror of the Past
-- May 19, 1749 DR: Look at Apollyon's Soulbinding Manacles in the [Mirror of the Past](<../treasure/mirror-of-the-past.md>), seeing [Apollyon's Soulbinding Manacles Vision](<../mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) recharge mirror
+- May 19, 1749 DR: Look at [Apollyon's Soulbinding Manacles](<../../../things/artifacts-of-power/apollyon-s-soulbinding-manacles.md>) in the [Mirror of the Past](<../treasure/mirror-of-the-past.md>), seeing [Apollyon's Soulbinding Manacles Vision](<../mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) recharge mirror
 
 ## Narrative
 The party begins their journey at dawn, observing the black marble tower on the coast from a mountain peak. They weigh different approaches, ultimately transforming into ospreys using [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s Animal Shapes spell to covertly navigate the terrain. As they fly westward, they cross over forests and rocky plains, reaching the tower.
@@ -123,7 +123,7 @@ The party continues their exploration, descending further into the basement, whe
 The party continues exploring the newly cleared area of the basement.
 - After the battle, the party dismisses [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s Sickening Radiance and begins cautiously searching the basement area. The forge is a large stone circular pedestal in the center of the room, with silver threads etched into the sides that run in a chaotic network of lines to a silver panel on the wall. There are four evenly spaced openings in the pedestal. 
 - They find two smaller rooms branching off from the main basement hall, each filled with different materials and artifacts.
-- One room contains hundreds of metal bars—some mundane, others quite rare, like silver and mithril. The party takes as many of the rare metals as they can carry.
+- One room contains hundreds of metal bars—some mundane, others quite rare, like silver and [mithril](<../../../things/materials/mithril.md>). The party takes as many of the rare metals as they can carry.
 - In another room, they discover a stone basin filled with various chemicals, glass vials, and fine metal shavings, hinting at a workshop for alchemical or magical crafting.
 - [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) uses Tremor Sense to ensure that no hidden threats remain, confirming that the area is secure.
 - The group discovers a large stone chest, cleverly concealed in one of the rooms. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) checks for traps, finding none, and successfully unlocks the chest.
@@ -139,7 +139,7 @@ The party prepares to leave Apollyon's tower, making important decisions about t
 - The party rests, preparing to plan their approach to [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>) in the morning. 
 
 ## Raw Notes
-- Kenzo senses area again; party decides to go west to Apollyon's Tower
+- Kenzo senses area again; party decides to go west to [Apollyon's Tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>)
 - use Animals Shapes to turn into ospreys
 - fly to tower; attacked by constructs at the top, fall out of osprey form
 - land at top of tower; constructs surprise, wellby + kenzo still get the jump; party flees into lich chamber

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/check/mike]
 name: Zimkova
-typeOf: realm
+typeOf: region
 aliases: [Highland Kingdoms]
 whereabouts: Greater Sembara
 dm_owner: joint
@@ -11,13 +11,13 @@ title: Zimkova
 ---
 # Zimkova
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A realm in [Greater Sembara](<../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in [Greater Sembara](<../greater-sembara.md>)  
 </div>
 
 
 
 
-North of [Sembara](<../sembara/sembara.md>) the land rises towards the [Sentinel Range](<../../sentinel-range.md>) along the [Teft](<../rivers/teft-watershed/teft.md>) and [Volta](<../rivers/volta-watershed/volta.md>) rivers. This is the homeland of the Zimka. The ancient history of this land is poorly known, but in the small fortified villages along the upper [Teft](<../rivers/teft-watershed/teft.md>) or [Volta](<../rivers/volta-watershed/volta.md>) tales are still told of a long migration across the mountains, and of how the people found the [kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) amongst the bogs and lakes of the upper [Volta](<../rivers/volta-watershed/volta.md>). Some tell of a sundering where many of the Zimka went south and east after the [Downfall](<../../../events/ancient/the-downfall.md>), and others stayed in the north, but whether this is true or legend is not known.
+North of [Sembara](<../sembara/sembara.md>) the land rises towards the [Sentinel Range](<../../sentinel-range.md>) along the [Teft](<../rivers/teft-watershed/teft.md>) and [Volta](<../rivers/volta-watershed/volta.md>) rivers. This is the homeland of the Zimka. The ancient history of this land is poorly known, but in the small fortified villages along the upper [Teft](<../rivers/teft-watershed/teft.md>) or [Volta](<../rivers/volta-watershed/volta.md>) tales are still told of a long migration across the mountains, and of how the people found the [kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) amongst the bogs and lakes of the upper [Volta](<../rivers/volta-watershed/volta.md>). Some tell of a sundering where many of the Zimka went south and east after the Downfall, and others stayed in the north, but whether this is true or legend is not known.
 ## Geography and Climate
 
 Zimkova is a broad region of highland plateaus, dense forest, and boreal wetlands stretching across the northern part of [Greater Sembara](<../greater-sembara.md>). Broadly, there are four main regions:

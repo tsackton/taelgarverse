@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-typeOf: region
+typeOf: grassland
 whereabouts: Central Dunmar
 aliases: [plains south of Tokra]
-displayDefaults: {linkText: 'on', ltPlace: 'on'}
+displayDefaults: {linkText: true, ltPlace: true}
 tags: [place, status/check/name]
 dm_owner: tim
 dm_notes: color
@@ -12,7 +12,7 @@ title: ~Southern Tokra Plains~
 ---
 # The ~Southern Tokra Plains~
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A grassland in [Central Dunmar](<../realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
 </div>
 
 

@@ -1,5 +1,5 @@
 ---
-tags: [timeline]
+tags: [background]
 timelineDescriptor: Mawar History
 dm_owner: none
 dm_notes: important
@@ -8,7 +8,7 @@ title: Timeline of the Mawar
 # The Chronicles of the Mawar
 
 ### Overview
-After the fall of [Drankor](<drankorian-empire/drankorian-empire.md>), the Mawar became a significant coastal and trading power, and Mawar ships could be seen plying coastal trade routes as far south as [Chardon](<../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and as far north as the far northern shores of beyond the Great Bay.
+After the fall of [Drankor](<historical-realms/drankorian-empire.md>), the Mawar became a significant coastal and trading power, and Mawar ships could be seen plying coastal trade routes as far south as [Chardon](<../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and as far north as the far northern shores of beyond the Great Bay.
 
 # The Great War and Aftermath
 DR 1545 - 1594

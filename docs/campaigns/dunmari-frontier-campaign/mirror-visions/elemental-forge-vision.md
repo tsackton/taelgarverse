@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 DR: 1749-01-13
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 title: Elemental Forge Vision
 ---
 # Elemental Forge Vision

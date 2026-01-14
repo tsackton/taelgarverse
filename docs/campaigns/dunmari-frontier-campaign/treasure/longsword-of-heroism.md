@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 displayDefaults: {defArt: ''}
 typeOf: sword
 name: Longsword of Heroism
@@ -12,7 +12,7 @@ title: Longsword of Heroism
 ---
 # Longsword of Heroism
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Rare [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) Magical Sword__  
+- :octicons-info-24:{ .lg .middle } __(rare [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) magical sword)__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/8884215-longsword-of-heroism) 
 </div>
 

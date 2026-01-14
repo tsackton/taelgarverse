@@ -1,15 +1,17 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+typeOf: infrastructure
 name: Tollen Fairgrounds
 whereabouts: Fairgate Outer
 dm_owner: none
 dm_notes: none
+typeOfAlias: fairgrounds
 title: Tollen Fairgrounds
 ---
 # The Tollen Fairgrounds
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A place in [Fairgate Outer](<../wards/fairgate-outer.md>), the [Free City of Tollen](<../tollen.md>), the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } A fairgrounds in [Fairgate Outer](<../wards/fairgate-outer.md>), the [Free City of Tollen](<../tollen.md>), the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>)  
 </div>
 
 

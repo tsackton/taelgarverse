@@ -7,12 +7,13 @@ whereabouts: Hrimthur
 pronunciation: KAHL-hal-lah
 dm_owner: tim
 dm_notes: important
+typeOfAlias: monarchy
 title: Kaldhalla
 ---
 # Kaldhalla
 :speaker:{ .middle } *(KAHL-hal-lah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A frost giant realm in [Hrimthur](<./svinjo-mountains.md>), the [Northern Green Sea](<./northern-green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } A frost giant monarchy in [Hrimthur](<./svinjo-mountains.md>), the [Northern Green Sea](<./northern-green-sea.md>)  
 </div>
 
 

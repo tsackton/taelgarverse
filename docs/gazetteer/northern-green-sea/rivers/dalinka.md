@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Ursk
-typeOf: river
+typeOf: waterway
 pronunciation: DAH-link-ah
 dm_owner: none
 dm_notes: color
+typeOfAlias: river
 title: Dalinka
 ---
 # Dalinka

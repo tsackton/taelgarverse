@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {startStatus: Formed, partOf: '', linkText: by, ltPerson: by}
 typeOf: adventuring party
 created: 1747-04-04
@@ -16,7 +16,7 @@ title: Silver Tempests
 </div>
 
 
-The Silver Tempests are a renowned adventuring party based out of [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), on the northern frontier of the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). Originally hired by [Lyra](<../../chardonians/lyra.md>) to seek the Elemental Scrolls of Airion, the Silver Tempests became famous after their role in [Grumella's War](<../../../events/1700s/grumella-s-war.md>), and have since established an elaborate manor, the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>) in the center of [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), near the baths and market. 
+The Silver Tempests are a renowned adventuring party based out of [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), on the northern frontier of the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). Originally hired by [Lyra](<../../chardonians/lyra.md>) to seek the [Elemental Scrolls of Airion](<../../../things/artifacts-of-power/elemental-scrolls-of-airion.md>), the Silver Tempests became famous after their role in [Grumella's War](<../../../events/1700s/grumella-s-war.md>), and have since established an elaborate manor, the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>) in the center of [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), near the baths and market. 
 
 The original members of the Silver Tempests are:
 - [Adrik](<./adrik.md>) Boulderbeard, a lightning-touched barbarian from the [Yuvanti Mountains](<../../../gazetteer/greater-dunmar/yuvanti-mountains.md>), far to the south

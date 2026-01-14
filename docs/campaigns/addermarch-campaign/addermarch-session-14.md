@@ -12,7 +12,7 @@ tagline: in which the fey threat is temporarily halted
 descTitle: The Singing Tree
 title: Addermarch Campaign - Session 14
 ---
-# The Addermarch Campaign - Session 14
+# Addermarch Campaign - Session 14
 
 >[!info] The Singing Tree: in which the fey threat is temporarily halted
 > *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
@@ -20,11 +20,11 @@ title: Addermarch Campaign - Session 14
 > *On Earth: Sunday November 2, 2025*
 > *[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and the [Feywild](<../../cosmology/feywild.md>)*
 
-The party defeats the Singing Tree, speaks to a rescued fey, and temporarily disables the Nightsong Roots Feywild portal before returning to [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>). 
+The party defeats the Singing Tree, speaks to a rescued fey, and temporarily disables the [Nightsong Roots](<../../gazetteer/greater-sembara/addermarch/nightsong-roots.md>) Feywild portal before returning to [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>). 
 
 ## Timeline
 
-- **May 18, 1715 DR, night**: Defeat the Singing Tree, rescue Vaelithar, depart the [Feywild](<../../cosmology/feywild.md>), disable the Nightsong Roots portal, and camp halfway to [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>)
+- **May 18, 1715 DR, night**: Defeat the Singing Tree, rescue Vaelithar, depart the [Feywild](<../../cosmology/feywild.md>), disable the [Nightsong Roots](<../../gazetteer/greater-sembara/addermarch/nightsong-roots.md>) portal, and camp halfway to [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>)
 - **May 19, 1715 DR, morning**: Travel the remaining distance back to [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>)
 
 ## Cast of Characters
@@ -40,7 +40,7 @@ The party defeats the Singing Tree, speaks to a rescued fey, and temporarily dis
 ## Places
 
 - **Twilight's Edge** — The fey realm where Vaelithar and Liraene hail from.
-- **Nightsong Roots** — A wind-chime portal between the Feywild and the mortal world, partially disabled by the party.
+- **[Nightsong Roots](<../../gazetteer/greater-sembara/addermarch/nightsong-roots.md>)** — A wind-chime portal between the Feywild and the mortal world, partially disabled by the party.
 - **[Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>)** — The nearby village to which the party returns after closing the portal.
 
 ## Narrative
@@ -55,7 +55,7 @@ Vaelithar says the heart must be returned to stop the song -- the tree cannot be
 
 After speaking with Vaelithar, the party digs up the other mound. The woman inside has passed away; Vaelithar takes a pendant from her neck to bring back to Twilight's Edge, but offers an enchanted fey pact wand and a mundane but pretty ring to the party. 
 
-The party leaves the [Feywild](<../../cosmology/feywild.md>), and decides to try to close the Nightsong Roots portal. After some experimenting, they manage to combine [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>)'s magical talents and [Drou](<../../people/pcs/addermarch/drou.md>)'s musical talents: [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) freezes the wind chime roots of the portal, so they play a discordant tune, and [Drou](<../../people/pcs/addermarch/drou.md>) plays the original correct tune to open the portal. The discordance causes each chime in turn to fracture and crack. After cracking four of the seven chimes, the party decides that is enough, and heads back towards [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), camping about half way. 
+The party leaves the [Feywild](<../../cosmology/feywild.md>), and decides to try to close the [Nightsong Roots](<../../gazetteer/greater-sembara/addermarch/nightsong-roots.md>) portal. After some experimenting, they manage to combine [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>)'s magical talents and [Drou](<../../people/pcs/addermarch/drou.md>)'s musical talents: [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) freezes the wind chime roots of the portal, so they play a discordant tune, and [Drou](<../../people/pcs/addermarch/drou.md>) plays the original correct tune to open the portal. The discordance causes each chime in turn to fracture and crack. After cracking four of the seven chimes, the party decides that is enough, and heads back towards [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), camping about half way. 
 
 ### Wednesday, May 19th, 2 Robert I
 

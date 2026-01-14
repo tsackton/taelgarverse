@@ -21,7 +21,7 @@ title: Kirian
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1702 (47 years old)  
+    Born DR 1702 (48 years old)  
     Proprietor of [Kirian’s](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirian-s.md>)  
     { .bio }
 

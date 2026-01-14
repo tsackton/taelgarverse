@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest]
-campaignInfo: []
+tags: [person]
 name: Iascaire
 born:
 species: human
@@ -9,6 +8,9 @@ ancestry: Deno'qai
 gender: male
 player: Phil Grayson
 excludePublish: [clee]
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+affiliations:
+- {org: Dunmar Fellowship, title: Guest"}
 dm_owner: tim
 dm_notes: important
 title: Iascaire
@@ -18,6 +20,7 @@ title: Iascaire
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A Deno'qai [human](<../../../../creatures/species/humans.md>) (he/him)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

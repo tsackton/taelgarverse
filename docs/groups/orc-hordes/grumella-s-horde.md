@@ -1,19 +1,20 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ''}
-tags: [organization, status/cleanup/gameupdate, status/cleanup/metadata]
+tags: [group]
 typeOf: horde
-dm_notes: important
-dm_owner: tim
+ancestry: orc
+dm_notes: none
+dm_owner: none
+destroyed: 1747
 title: Grumella's Horde
 ---
 # Grumella's Horde
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A horde  
+   :octicons-info-24:{ .lg .middle } An [orc](<../../creatures/species/orcs.md>) horde  
+   :material-calendar: Disbanded DR 1747  
 </div>
 
 
-The army of [Orcs](<../../creatures/species/orcs.md>) gathered under the leadership of [Grumella](<../../people/orcs/grumella.md>) to assault [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) and the northern border of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). 
-
-Defeated in battle outside [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in October DR 1747. 
+An orc horde that was gathered under the leadership of [Grumella the Vengeful](<../../people/orcs/grumella.md>) in DR 1747. This horde attacked [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in October of DR 1747, and was defeated at the [Battle of Voltara](<../../events/1700s/1747/10/battle-of-voltara.md>). The survivors of the battle fled, disorganized, into the [Erbalta Plains](<../../gazetteer/northwest-coast/erbalta-plains/erbalta-plains.md>) and the horde as an army ceased to exist. 

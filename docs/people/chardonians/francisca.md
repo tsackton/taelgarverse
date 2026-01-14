@@ -15,7 +15,7 @@ title: Francisca
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1699 (50 years old)  
+    Born DR 1699 (51 years old)  
     { .bio }
 
     Based in the [Chalyte Levels](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chalyte-levels.md>), the [North Bank](<../../gazetteer/greater-chardon/chardonian-empire/chardon/north-bank.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)

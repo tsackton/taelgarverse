@@ -1,20 +1,20 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/check/name]
-displayDefaults: {defArt: ''}
 name: Cleric Cooks
 created: 1748-08-07
-typeOf: restaurant
+typeOf: inn
 whereabouts:
 - {type: primary, location: Voltara}
 dm_notes: none
 dm_owner: player
+typeOfAlias: restaurant
 title: Cleric Cooks
 ---
-# Cleric Cooks
+# The Cleric Cooks
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
-   :material-calendar: Founded August 7th, 1748 (14 months ago)  
+   :material-calendar: Founded August 7th, 1748 (16 months ago)  
     :octicons-location-24:{ .lg .middle } A restaurant in [Voltara](<./voltara.md>), [Greater Voltara](<../greater-voltara.md>), the [Northern Provinces](<../northern-provinces.md>), the [Chardonian Empire](<../../../greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../../greater-chardon/greater-chardon.md>)  
 </div>
 

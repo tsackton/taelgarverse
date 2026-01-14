@@ -4,14 +4,13 @@ tags: [source]
 title: Caulaus' Story
 ---
 # Caulaus' Story
-([collected by](<../session-notes/session-67-dufr.md>) [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>))
 
 I was the only child, much to my parents disappointment. I don't remember much of my childhood schooling, military training.
 
 My first clear memory is being appointed commander of the third Sylvan legion. I swore allegiance personally to the Emperor. I remember the the place and the ceremony like it was yesterday. [Helea](<../../../people/historical-figures/drankorian-emperors/helea.md>), a blond woman. She was very striking, wearing the ceremonial robes of gold, and a golden crown with a diamond set in it. I gave my oath to her. Now she was
-kind in private, although in public she always seemed quite fearsome. What she said to me I still remember. She said, while your oath is to me your obligation is to the ideal of [Drankor](<../../../history/drankorian-empire/drankor.md>), a haven of safety and peace from the darkness, for all humankind. Remember that, and your command will be a great one. I like to think that I did, although I admit I cannot remember.
+kind in private, although in public she always seemed quite fearsome. What she said to me I still remember. She said, while your oath is to me your obligation is to the ideal of [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>), a haven of safety and peace from the darkness, for all humankind. Remember that, and your command will be a great one. I like to think that I did, although I admit I cannot remember.
 
-My next memory is a battle, fighting in a forest, my soldiers standing fast backed by the war mages of [Drankor](<../../../history/drankorian-empire/drankor.md>). The war mages were a sight to see, rank upon rank of firing their spells at the enemy.
+My next memory is a battle, fighting in a forest, my soldiers standing fast backed by the war mages of [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>). The war mages were a sight to see, rank upon rank of firing their spells at the enemy.
 
 I remember being warned by the [Elves](<../../../creatures/species/elves.md>) of a danger of an army of [Giants](<../../../creatures/species/giants.md>) coming from the mountains. The battle was fierce, but I remember most clearly the face of this frost giant I defeated. He was huge. Twenty, thirty feet tall, his head nearly as big as myself, his eyes angry and clouded as I avoided his axe and struck the killing blow. I remember peace coming to his face, and a murmur so low that only I could hear it. Some message, but I can't remember the words. Something about a curse. Perhaps the [Helea](<../../../people/historical-figures/drankorian-emperors/helea.md>), and a shadowy force. I know not what.
 

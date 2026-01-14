@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/dunmarfrontier, status/active]
+tags: [person]
 campaignInfo: []
 name: Wellby
 born:
@@ -71,7 +71,7 @@ title: Wellby
 > An image in your mind, a memory. A small caravan, a young family traveling across the plains. Maybe a hundred years ago? Two young halfling men, scouting ahead. Brothers maybe? Swooping down from the sky, a three headed beast - a dragon, a goat, a lion. Fire erupting from the dragon’s head, blasting the ground. Running, fleeing. Your companion falling behind, caught. Diving into a ditch, hiding. Tears, sadness telling his husband….
 > 
 > *The Tale of Sigga the Storm Giant, [Session 15 (DuFr)](<../../../campaigns/dunmari-frontier-campaign/session-notes/session-15-dufr.md>)*
-> Recalling a story from your childhood in the [Green Sea](<../../../gazetteer/green-sea.md>), of Sigga the Storm Giant. The stories, as is the case for many halfling stories, are somewhat lacking in detail: after the fall of the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>), a petty king in the area now [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) made a pact with a dragon, grew in power, until he was betrayed and the dragon ruled with an iron fist, demanding tribute in slaves and treasure from all under his sway, until the people of the [Green Sea](<../../../gazetteer/green-sea.md>), led by seagoing peoples who had escaped the worst (the halflings and the Skagish) turned in desperation to the power of the sea, and out of the waves the giant Sigga strode to battle the dragon. 
+> Recalling a story from your childhood in the [Green Sea](<../../../gazetteer/green-sea.md>), of Sigga the Storm Giant. The stories, as is the case for many halfling stories, are somewhat lacking in detail: after the fall of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>), a petty king in the area now [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) made a pact with a dragon, grew in power, until he was betrayed and the dragon ruled with an iron fist, demanding tribute in slaves and treasure from all under his sway, until the people of the [Green Sea](<../../../gazetteer/green-sea.md>), led by seagoing peoples who had escaped the worst (the halflings and the Skagish) turned in desperation to the power of the sea, and out of the waves the giant Sigga strode to battle the dragon. 
 > 
 > The memories, however, are vivid: 
 > 

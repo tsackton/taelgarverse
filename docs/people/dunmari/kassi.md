@@ -19,7 +19,7 @@ title: Kassi
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1695 (54 years old)  
+    Born DR 1695 (55 years old)  
     Librarian of the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>)  
     { .bio }
 

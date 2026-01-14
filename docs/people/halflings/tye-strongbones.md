@@ -22,7 +22,7 @@ title: Tye Strongbones
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Strongbones](<../../groups/halfling-families/strongbones.md>)  
-    Born DR 1731 (18 years old)  
+    Born DR 1731 (19 years old)  
     Cook of [The Red Lily Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-red-lily-inn.md>)  
     { .bio }
 

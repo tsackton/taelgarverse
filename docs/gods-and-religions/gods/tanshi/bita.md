@@ -1,9 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/tanshi]
+tags: [power, religion/tanshi]
 pronunciation: BEE-tah
 dm_owner: none
 dm_notes: none
+typeOf: tanshi
 title: Bita
 ---
 # Bita

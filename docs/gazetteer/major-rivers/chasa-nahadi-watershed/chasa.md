@@ -1,15 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place]
 name: Chasa
-typeOf: river
+typeOf: waterway
 aliases: [River Chasa, Chasa River]
 whereabouts:
 - {type: primary, location: Greater Chardon}
 - {type: secondary, location: Chasa-Nahadi Watershed}
-dm_notes: important
-dm_owner: tim
+dm_notes: none
+dm_owner: none
 pronunciation: CHA-sa
+typeOfAlias: river
 title: Chasa
 ---
 # Chasa
@@ -20,8 +21,9 @@ title: Chasa
 </div>
 
 
-River that flows from the mountains all the way to [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>).
+The Chasa is the principal river of the [Chasa River Valley](<../../greater-chardon/chardonian-empire/chasa-river-valley/chasa-river-valley.md>). Rising in the [Sentinels](<../../sentinel-range.md>), it flows west through vast forests and rich agricultural lands before it is joined by the [Nahadi](<./nahadi.md>) just east of [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>). At Chardon, the river spreads into a wide estuary and fertile floodplain beneath [Mount Nera](<../../greater-chardon/chardonian-empire/chardon/mount-nera.md>). The Chasa is navigable along nearly its entire length, and the river carries grain, timber, and other goods downriver toward Chardon’s busy port.
 
+Numerous tributaries join the Chasa along its course.
 
+The name, Chasa, derives from Qadis, the old Northros name for the river, meaning holy, given because the great forest through which the Chasa flowed was full of spirits to protect the first humans to come to this area.
 
- 

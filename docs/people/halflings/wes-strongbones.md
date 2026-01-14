@@ -9,9 +9,8 @@ species: halfling
 ancestry:
 affiliations:
 - {org: Strongbones, type: primary}
+- {org: The Red Lily Inn, title: Proprietor, type: leader, start: 1}
 gender: male
-leaderOf:
-- {place: The Red Lily Inn, title: Proprietor, start: 1}
 whereabouts: The Red Lily Inn
 dm_owner: none
 dm_notes: none

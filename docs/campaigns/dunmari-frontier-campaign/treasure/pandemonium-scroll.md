@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
 destroyed: 1749-05-01
-tags: [item/equipment]
+tags: [object]
 typeOf: scroll
 subTypeOf: magical
 title: Pandemonium Scroll
 ---
 # The Pandemonium Scroll
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Magical Scroll__  
+- :octicons-info-24:{ .lg .middle } __(magical scroll)__  
    Destroyed May 1st, 1749  
 </div>
 

@@ -12,7 +12,7 @@ tagline: in which old records point toward a cursed hill-fort
 descTitle: Trail to Serethwyn Tor
 title: Addermarch Campaign - Session 16
 ---
-# The Addermarch Campaign - Session 16
+# Addermarch Campaign - Session 16
 
 >[!info] Trail to Serethwyn Tor: in which old records point toward a cursed hill-fort
 > *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*

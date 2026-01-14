@@ -2,11 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
-campaignInfo: []
-typeOf: ward
+typeOf: neighborhood
 whereabouts: Tollen
 dm_notes: none
 dm_owner: none
+typeOfAlias: ward
 title: Magus Street
 ---
 # Magus Street

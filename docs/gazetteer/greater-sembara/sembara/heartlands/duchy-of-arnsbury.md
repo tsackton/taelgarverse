@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 tags: [place]
 campaignInfo:
 name: Duchy of Arnsbury
-typeOf: duchy
+typeOf: realm
 whereabouts: Sembara
 dm_notes: color
 dm_owner: none
+typeOfAlias: duchy
 title: Duchy of Arnsbury
 ---
 # The Duchy of Arnsbury

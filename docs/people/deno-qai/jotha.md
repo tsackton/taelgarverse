@@ -22,7 +22,7 @@ title: Jotha
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1719 (30 years old)  
+    Born DR 1719 (31 years old)  
     { .bio }
 
     Originally from: the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)

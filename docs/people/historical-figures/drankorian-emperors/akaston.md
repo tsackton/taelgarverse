@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 campaignInfo: []
 name: Akaston
 born:
@@ -19,12 +19,12 @@ dm_notes: color
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Hkaran [human](<../../../creatures/species/humans.md>) (he/him)  
+    A [Hkaran](<../../../history/historical-realms/hkar.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
     Died DR 991  
-    Emperor of the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>) (DR 980 - DR 991)  
+    Emperor of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>) (DR 980 - DR 991)  
     { .bio }
 
-    Lived in [Drankor](<../../../history/drankorian-empire/drankor.md>), the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>)
+    Lived in [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)
 </div>
 
 

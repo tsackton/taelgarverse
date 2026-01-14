@@ -21,7 +21,7 @@ title: Resenna
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1724 (25 years old)  
+    Born DR 1724 (26 years old)  
     { .bio }
 
     Based in [Medju](<../../gazetteer/eastern-green-sea/medju.md>)

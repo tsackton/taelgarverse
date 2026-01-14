@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: cave
+typeOf: subterranean feature
 whereabouts:
 - {type: secondary, location: Northern Provinces}
 - {type: primary, location: Erbalta Plains}
 dm_notes: none
 dm_owner: none
+typeOfAlias: cave
 title: Crystal Cavern
 ---
 # The Crystal Cavern

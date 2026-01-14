@@ -1,17 +1,18 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: marsh
+typeOf: wetlands
 whereabouts:
 - {type: secondary, location: Aursen, linkText: on the}
 - {type: primary, location: Refounded Alliance of Aurbez}
 dm_notes: color
 dm_owner: joint
+typeOfAlias: marsh
 title: Aursen Marshes
 ---
 # The Aursen Marshes
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A marsh [Refounded Alliance of Aurbez](<./refounded-alliance-of-aurbez.md>)  
+-    :octicons-location-24:{ .lg .middle } A marsh in the [Refounded Alliance of Aurbez](<./refounded-alliance-of-aurbez.md>), the [Upper Istaros](<../upper-istaros.md>)  
     :octicons-location-24:{ .lg .middle } Located on the [Aursen](<../../major-rivers/istaros-watershed/aursen.md>), in the [Istaros Watershed](<../../major-rivers/istaros-watershed/istaros-watershed.md>)  
 </div>
 

@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 DR: 1748-06-15
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 title: Soul Lantern Vision
 ---
 # Soul Lantern Vision

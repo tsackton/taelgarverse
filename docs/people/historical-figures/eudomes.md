@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 campaignInfo: []
 name: Eudomes
 born:
@@ -18,7 +18,7 @@ title: Eudomes
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Drankorian](<../../history/drankorian-empire/drankorian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    A [Drankorian](<../../history/historical-realms/drankorian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Died  
     Member of the [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>)  
     { .bio }
@@ -26,5 +26,5 @@ title: Eudomes
 </div>
 
 
-A wizard from the last days of the [Drankorian Empire](<../../history/drankorian-empire/drankorian-empire.md>). Trapped the storm giant [Hralgar](<../giants/hralgar.md>) using powerful magic. 
+A wizard from the last days of the [Drankorian Empire](<../../history/historical-realms/drankorian-empire.md>). Trapped the storm giant [Hralgar](<../giants/hralgar.md>) using powerful magic. 
 

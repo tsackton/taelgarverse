@@ -22,7 +22,7 @@ title: Kethra Silverspark
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of the [Silverspark Clan](<../../groups/dwarven-clans/silversparks.md>)  
-    Born DR 1701 (48 years old)  
+    Born DR 1701 (49 years old)  
     { .bio }
 
     Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)

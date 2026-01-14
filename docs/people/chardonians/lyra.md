@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/gameupdate, status/cleanup/image, status/cleanup/metadata]
+tags: [person, status/gameupdate/dufr, status/gameupdate/gl]
 campaignInfo:
 - {campaign: DuFr, date: 1748-08-26, type: met}
 - {campaign: GL, date: 1747-09-01, type: met}
@@ -24,12 +24,12 @@ title: Lyra
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1705 (44 years old)  
+    Born DR 1705 (45 years old)  
     Archivist of the [Great Library](<../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>)  
     { .bio }
 
     Originally from: [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-    Based in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Based in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of August 26th, 1748): [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

@@ -18,7 +18,7 @@ title: Radomir
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1710 (39 years old)  
+    Born DR 1710 (40 years old)  
     { .bio }
 
     Based in [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>)

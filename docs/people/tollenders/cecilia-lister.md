@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person]
 campaignInfo:
-- {campaign: DuFr, date: '1748-12-30', type: met}
+- {campaign: DuFr, date: 1748-12-30, type: met}
 name: Cecilia Lister
 born: 1694
 species: human
@@ -10,7 +10,7 @@ ancestry: Tollender
 gender: female
 affiliations: [Dyer's Guild]
 whereabouts:
-- {type: home, start: '', end: '', location: Tollen}
+- {type: home, location: Tollen}
 dm_notes: color
 dm_owner: none
 title: Cecilia Lister
@@ -20,7 +20,7 @@ title: Cecilia Lister
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1694 (55 years old)  
+    Born DR 1694 (56 years old)  
     Member of the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>)  
     { .bio }
 

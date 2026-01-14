@@ -8,7 +8,9 @@ ancestry: Sembaran
 gender: male
 dm_owner: player
 dm_notes: none
-tags: [person, pc/addermarch, status/active]
+affiliations:
+- {type: primary, org: Addermarch Mercenaries}
+tags: [person]
 whereabouts:
 - {type: home, location: Eskbridge}
 - {type: home, location: Addermarch}
@@ -18,7 +20,7 @@ title: Fazoth de Brune
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Addermarch Mercenaries](<./addermarch-mercenaries.md>)  
     { .bio }
 
     Originally from: [Eskbridge](<../../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>), the [Duchy of Wisford](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)

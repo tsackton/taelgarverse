@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Bramshire
-typeOf: shire
+typeOf: realm
 whereabouts: Addermarch
 pronunciation: BRAM-shur
 dm_owner: none
 dm_notes: none
+typeOfAlias: shire
 title: Bramshire
 ---
 # Bramshire

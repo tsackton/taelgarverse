@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {defArt: '', endStatus: destroyed in battle on, boxInfo: ''}
 campaignInfo: []
 name: Grash's Horde
@@ -17,7 +17,7 @@ title: Grash's Horde
 </div>
 
 
-The [orc](<../../creatures/species/orcs.md>) horde commanded by [Grash](<../../people/other-nonhumans/grash.md>), based out of [Kharsan](<../../gazetteer/greater-dunmar/hara-basin/kharsan.md>). This horde formed in the summer of DR 1747, as [Grash](<../../people/other-nonhumans/grash.md>) began gathering the various scattered minor groups of [orcs](<../../creatures/species/orcs.md>) that had been scratching out a living in the marginal lands of the [Nashtkar](<../../gazetteer/greater-dunmar/hara-basin/nashtkar.md>). 
+The [orc](<../../creatures/species/orcs.md>) horde commanded by [Grash](<../../people/other-nonhumans/grash.md>), based out of [Kharsan](<../../gazetteer/greater-dunmar/hara-basin/kharsan.md>). This horde formed in the summer of DR 1747, as [Grash](<../../people/other-nonhumans/grash.md>) began gathering the various scattered minor groups of [orcs](<../../creatures/species/orcs.md>) that had been scratching out a living in the marginal lands of the [Nashtkar](<../../gazetteer/greater-dunmar/nashtkar.md>). 
 
 These [orcs](<../../creatures/species/orcs.md>) worship [Grash](<../../people/other-nonhumans/grash.md>) as a demigod of [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>), and most believe fully that [Grash](<../../people/other-nonhumans/grash.md>) has granted them freedom from death as long as they fight for his cause. 
 

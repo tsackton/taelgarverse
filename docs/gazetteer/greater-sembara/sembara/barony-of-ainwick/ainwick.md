@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Ainwick
-typeOf: town
+typeOf: settlement
 whereabouts: Barony of Ainwick
 dm_notes: none
 dm_owner: none
+typeOfAlias: town
 title: Ainwick
 ---
 # Ainwick

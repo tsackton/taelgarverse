@@ -6,6 +6,7 @@ typeOf: neighborhood
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: important
+typeOfAlias: neighborhood
 title: Nera Domains
 ---
 # Nera Domains

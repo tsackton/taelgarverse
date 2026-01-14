@@ -15,7 +15,7 @@ title: Tobias of Cranford
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1695 (54 years old)  
+    Born DR 1695 (55 years old)  
     { .bio }
 
     Based in [Cranford](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cranford.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: fey
 subspecies: changeling
 name: Mabist
@@ -20,12 +20,12 @@ title: Mabist
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [fey](<../../../creatures/fey/fey.md>) (changeling) (they/them)  
-    Born DR 1717 (32 years old)  
+    Born DR 1717 (33 years old)  
     Member of the [Silver Tempests](<./silver-tempests.md>)  
     { .bio }
 
     Originally from: the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)
-    Based in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Based in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Northern Provinces](<../../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>)
 </div>
 
 

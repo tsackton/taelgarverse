@@ -14,7 +14,7 @@ title: Octavia Antussus
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1698 (51 years old)  
+    Born DR 1698 (52 years old)  
     { .bio }
 
 </div>

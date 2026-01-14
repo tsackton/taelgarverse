@@ -12,7 +12,7 @@ tagline: in which the party discovers a cave dweller
 descTitle: Into the Cave
 title: Addermarch Campaign - Session 7
 ---
-# The Addermarch Campaign - Session 7
+# Addermarch Campaign - Session 7
 
 >[!info] Into the Cave: in which the party discovers a cave dweller
 > *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*

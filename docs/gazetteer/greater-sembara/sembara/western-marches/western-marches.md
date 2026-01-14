@@ -21,7 +21,7 @@ The Western Marches are divided into three regions:
 * the military baronies, amongst the flat lands north of the Enst
 * the [Marches of Brovna](<./marches-of-brovna.md>), north of the Wistel. 
 
-Much of this land was war-torn and devastated by the western hobgoblin wars, and it remains an underpopulated area. The Marches of Enford and much of the Barony of Dunfry in particular were overrun and subjugated by hobgoblins during the wars of the 1590s, and the marks of that occupation on the land and the people are still evident. 
+Much of this land was war-torn and devastated by the [western hobgoblin wars](<../../../../events/1500s/first-hobgoblin-war-sembara.md>), and it remains an underpopulated area. The Marches of Enford and much of the Barony of Dunfry in particular were overrun and subjugated by hobgoblins during the wars of the 1590s, and the marks of that occupation on the land and the people are still evident. 
 
 The [Marches of Enford](<./marches-of-enford.md>) are a land of frontier lords. Much of the land here has been granted freehold in large tracks, subject only to an oath to defend the land. It can be quite dangerous, but there is much opportunity here as well.
 

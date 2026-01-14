@@ -45,6 +45,6 @@ title: Grash
 
 ![Image Grash 1](../../assets/image-grash-1.png){align="right"; width="320"}Known as Grash the Undying, an undead warrior and commander of a large [orc](<../../creatures/species/orcs.md>) army in Kharsan. He possessed the [Ring of Undying](<../../things/artifacts-of-power/ring-of-undying.md>), and used it to create a large army of orcs and undead. 
 
-Grash was rumored to once have been a knight from an unknown land, a warrior, skilled in battle, who sought glory in the [Nashtkar](<../../gazetteer/greater-dunmar/hara-basin/nashtkar.md>), and never returned. He became something of a rumor and legend, a haunted ghost to frighten children with. A knight of shadows who could cut wounds that would not heal with his glaive. A cursed warrior, who could summon chains of darkness to bind your heart and drag you closer to death. 
+Grash was rumored to once have been a knight from an unknown land, a warrior, skilled in battle, who sought glory in the [Nashtkar](<../../gazetteer/greater-dunmar/nashtkar.md>), and never returned. He became something of a rumor and legend, a haunted ghost to frighten children with. A knight of shadows who could cut wounds that would not heal with his glaive. A cursed warrior, who could summon chains of darkness to bind your heart and drag you closer to death. 
 
 How he acquired the [Ring of Undying](<../../things/artifacts-of-power/ring-of-undying.md>), and how he found himself in [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>)'s service, are not known.

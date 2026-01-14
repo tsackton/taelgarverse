@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: dwarf
 name: Adrik Boulderbeard
 gender: male
@@ -21,8 +21,8 @@ title: Adrik Boulderbeard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Boulderbeards](<../../../groups/dwarven-clans/boulderbeards.md>)  
-    Born DR 1660 (89 years old)  
+    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Boulderbeard Clan](<../../../groups/dwarven-clans/boulderbeards.md>)  
+    Born DR 1660 (90 years old)  
     Member of the [Silver Tempests](<./silver-tempests.md>), and the [Stoneworker Thuhr](<../../../groups/dwarven-thuhr/stoneworker-thuhr.md>)  
     { .bio }
 

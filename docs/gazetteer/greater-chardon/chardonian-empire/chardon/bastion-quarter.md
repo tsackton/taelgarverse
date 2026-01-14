@@ -6,6 +6,7 @@ typeOf: neighborhood
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: none
+typeOfAlias: neighborhood
 title: Bastion Quarter
 ---
 # The Bastion Quarter

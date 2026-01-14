@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 name: Uzgash
 born:
 species: orc
-ancestry:
+died: 1
 gender: male
 affiliations:
 - {org: People of the Rainbow, type: primary}
@@ -17,6 +17,7 @@ title: Uzgash
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [orc](<../../creatures/species/orcs.md>) (he/him), of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
+    Died  
     { .bio }
 
 </div>

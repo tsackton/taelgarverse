@@ -24,8 +24,8 @@ title: Cateline Malras
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An Aurbeze [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1693 (56 years old)  
+    An [Aurbeze](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1693 (57 years old)  
     Member of [The Rangers](<../../groups/the-rangers.md>)  
     { .bio }
 

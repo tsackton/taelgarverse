@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 DR: 1748-05-23
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 title: Kharsan Broken Glassware Vision
 ---
 # Kharsan Broken Glassware Vision

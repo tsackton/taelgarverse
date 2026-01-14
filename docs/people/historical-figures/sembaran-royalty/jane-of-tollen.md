@@ -1,18 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 campaignInfo: []
 name: Jane of Tollen
 born: 1504
 species: human
 ancestry: Tollender
 gender: female
-leaderOf:
-- {place: Vostok, title: Queen Regent, end: 1551}
-- {place: Sembara, title: Queen Regent, end: 1555}
-- {place: Ardlas, title: Queen Regent, end: 1555}
-- {place: Lavnoch, title: Queen Regent, end: 1555}
-- {place: Breva, title: Queen Regent, end: 1555}
+affiliations:
+- {org: Vostok, type: leader, title: Queen Regent, end: 1551}
+- {org: Sembara, type: leader, title: Queen Regent, end: 1555}
+- {org: Ardlas, type: leader, title: Queen Regent, end: 1555}
+- {org: Lavnoch, type: leader, title: Queen Regent, end: 1555}
+- {org: Breva, type: leader, title: Queen Regent, end: 1555}
 died: 1559
 dm_notes: none
 dm_owner: none

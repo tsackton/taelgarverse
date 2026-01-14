@@ -20,7 +20,7 @@ dm_notes: none
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1699 (50 years old)  
+    Born DR 1699 (51 years old)  
     Head Priest of [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) (since DR 1742)  
     { .bio }
 

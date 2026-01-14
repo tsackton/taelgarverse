@@ -1,6 +1,8 @@
 ---
-{title: Hralgar's Story}
+tags: [source]
+title: Hralgar's Story
 ---
+
 I have roamed these planes for centuries, traveling as the storm, bringing tales on the wind to those who would listen.
 
 I remember the vast forests. I remember the elven kingdom, Alcarenque, stretching as far as the eye could see, the great trees reaching the sky, listening to the news I brought.
@@ -11,6 +13,6 @@ Stone born? Maybe, yes, they had tales to tell. The [Dwarves](<../../../creature
 
 The [Dwarves](<../../../creatures/species/dwarves.md>) stopped coming. They didn't want to hear about the fall of their kingdom. I know not now whether that is yet to come, or has already been.
 
-But the wizards of [Drankor](<../../../history/drankorian-empire/drankorian-empire.md>) held the the promise of secrets beyond what even the strongest of my people knew, deep hidden magic unlocked by the arcanists and artificers of [Drankor](<../../../history/drankorian-empire/drankorian-empire.md>). So I was drawn to speak to them. Many would listen, though some knew not the way to hear, and others would just flee before the thunderstorm.
+But the wizards of [Drankor](<../../../history/historical-realms/drankorian-empire.md>) held the the promise of secrets beyond what even the strongest of my people knew, deep hidden magic unlocked by the arcanists and artificers of [Drankor](<../../../history/historical-realms/drankorian-empire.md>). So I was drawn to speak to them. Many would listen, though some knew not the way to hear, and others would just flee before the thunderstorm.
 
 And then it is a blur. 

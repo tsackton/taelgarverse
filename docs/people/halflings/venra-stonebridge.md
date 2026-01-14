@@ -19,7 +19,7 @@ title: Venra Stonebridge
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>)  
-    Born DR 1643 (106 years old)  
+    Born DR 1643 (107 years old)  
     Proprietor of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>)  
     { .bio }
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 destroyed: 1749-07-05
 name: Dauðleiptr
 typeOf: death ray
@@ -15,7 +15,7 @@ title: Dauðleiptr
 # Dauðleiptr
 :speaker:{ .middle } *(DOWTH-lape-ter)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Death Ray__  
+- :octicons-info-24:{ .lg .middle } __(unique death ray)__  
    Destroyed July 5th, 1749  
    Was owned by [Dhrukmir](<../../people/giants/dhrukmir.md>)  
 </div>

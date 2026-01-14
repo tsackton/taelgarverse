@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 species: human
 ancestry: Drankorian
 gender: female
@@ -15,7 +15,7 @@ title: Drusilia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Drankorian](<../../history/drankorian-empire/drankorian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    A [Drankorian](<../../history/historical-realms/drankorian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Died  
     Member of the [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>)  
     { .bio }

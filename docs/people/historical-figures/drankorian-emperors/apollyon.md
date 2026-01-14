@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, testcase, status/needswork/gameupdate]
+tags: [person, testcase, status/gameupdate/dufr]
 displayDefaults: {boxInfo: '<subspecies> (<species:s>), <pronouns>'}
 campaignInfo: []
 name: Apollyon
@@ -24,10 +24,10 @@ dm_owner: tim
     lich (undead), he/him  
     { .bio }
 
-    Originally from: [Drankor](<../../../history/drankorian-empire/drankor.md>), the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>)
+    Originally from: [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of DR 1059): [Drankor](<../../../history/drankorian-empire/drankor.md>), the [Drankorian Empire](<../../../history/drankorian-empire/drankorian-empire.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of DR 1059): [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)
 
 
 The last emperor of Drankor, who is said to have wanted to become a god. Creator of the [Scepter of Command](<../../../things/artifacts-of-power/scepter-of-command.md>), and perhaps other artifacts of power. Was a very successful general and commander. 

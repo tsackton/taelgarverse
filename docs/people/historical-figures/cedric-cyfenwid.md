@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 name: Cedric Cyfenwid
 species: human
+died: 1535
 ancestry: Tyrwinghan
 gender: male
 dm_notes: none
@@ -14,6 +15,7 @@ title: Cedric Cyfenwid
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Tyrwinghan](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Died DR 1535  
     { .bio }
 
 </div>

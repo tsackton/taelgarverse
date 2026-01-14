@@ -20,11 +20,11 @@ title: Escobar Garavito
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Cymean](<../../gazetteer/western-green-sea/realms/cymea.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1727 (22 years old)  
+    Born DR 1727 (23 years old)  
     Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>), and the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>)  
     { .bio }
 
-    Originally from: [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>), [Cymea](<../../gazetteer/western-green-sea/realms/cymea.md>)
+    Originally from: [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>)
     Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 

@@ -1,6 +1,8 @@
 ---
-{title: Philosopher's Information Concerning Ursk}
+tags: [source]
+title: Philosopher's Information Concerning Ursk
 ---
+
 Dear Delwath, and companions, 
 
 You wish to travel to [Ursk](<../../../gazetteer/northern-green-sea/ursk/ursk.md>), and explore its cities undetected. A foolish task. Do you speak the language? Do you know the local dress and customs? You blaze with magic - how will you evade the Okolov, the [Eyes of Vedmakov](<../../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>)? What do you understand of the cold north, the icy winds that blow from the dragon wastes, the frozen rivers, the rime frost forming strange figures on the frozen mountains? Stay in the soft lands of the south, where you belong.

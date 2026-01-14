@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/whereabouts]
 name: Suwi
-typeOf: village
+typeOf: settlement
 whereabouts: Northwest Coast
 campaignInfo:
 - {campaign: GL, type: visited, date: 1748-08-23, wParty: '<met:u> by <person> on <target> <current:Frq>'}
 dm_owner: none
 dm_notes: none
+typeOfAlias: village
 title: Suwi
 ---
 # Suwi

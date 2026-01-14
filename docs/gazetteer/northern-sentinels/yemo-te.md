@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Yemo'te
-typeOf: river
+typeOf: waterway
 whereabouts: Forest of Nightmares
 pronunciation: yeh-moh-TEH
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 title: Yemo'te
 ---
 # Yemo'te

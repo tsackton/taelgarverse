@@ -21,7 +21,7 @@ title: Shandan
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1692 (57 years old)  
+    Born DR 1692 (58 years old)  
     Leader of the Shandan's Warband  
     { .bio }
 

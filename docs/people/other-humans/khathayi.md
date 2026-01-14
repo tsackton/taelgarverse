@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 campaignInfo: []
 name: Khathayi the Flametongue
-species: mysterious creature
+species: unknown
+speciesAlias: mysterious creature
+died: 1
 dm_owner: tim
 dm_notes: important
 title: Khathayi the Flametongue
@@ -13,6 +15,7 @@ title: Khathayi the Flametongue
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A mysterious creature  
+    Died  
     { .bio }
 
 </div>

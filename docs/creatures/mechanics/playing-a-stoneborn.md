@@ -9,7 +9,7 @@ title: Playing a Stoneborn
 
 
 
-[Stoneborn](<../species/stoneborn.md>) are a reclusive species, tending to live in isolated, close-knit communities in extreme environments, especially high in the mountains. Often settling in inhospitable environments, rumors say that stoneborn rely on the hidden magic of Entamba, their creator god, to thrive in places others would starve. Though few outsiders have seen their communal villages, Stoneborn are sometimes encountered in the settlements of humans, dwarves, and other species of Taelgar. These travelers are often master artisans, deeply skilled in their trades, and it is often said that individual stoneborn spend decades, or even a century, honing their craft. 
+[Stoneborn](<../species/stoneborn.md>) are a reclusive species, tending to live in isolated, close-knit communities in extreme environments, especially high in the mountains. Often settling in inhospitable environments, rumors say that stoneborn rely on the hidden magic of [Entamba](<../../gods-and-religions/gods/embodied-gods/entamba.md>), their creator god, to thrive in places others would starve. Though few outsiders have seen their communal villages, Stoneborn are sometimes encountered in the settlements of humans, dwarves, and other species of Taelgar. These travelers are often master artisans, deeply skilled in their trades, and it is often said that individual stoneborn spend decades, or even a century, honing their craft. 
 
 Stoneborn appear to be humanoids shaped of stone, and have appearances as diverse as the varied colors and textures of stone in the world. This appearance has led outsiders to speculate that they are literally born from the stone of their mountain home; whether this rumor is true, the stoneborn do not say. 
 
@@ -57,7 +57,7 @@ If you fail a Strength, Constitution, Wisdom, or Charisma saving throw, you may 
 You only require 1/4 lb of food per day to sustain you, and you have advantage on saving throws to avoid Exhaustion from Malnutrition. You are immune to environmental effects caused by high altitude or extreme cold. 
 
 #### Soul of the Mountain
-As a Stoneborn, you are connected to Entamba, the soul of the mountain. Choose one of the following benefits to reflect this connection. You can use your chosen benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. 
+As a Stoneborn, you are connected to [Entamba](<../../gods-and-religions/gods/embodied-gods/entamba.md>), the soul of the mountain. Choose one of the following benefits to reflect this connection. You can use your chosen benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. 
 
 - **Glacier's Strike**: When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its Speed by 10 feet until the start of your next turn.
 - **Avalanche's Blow**: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the [Prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition.

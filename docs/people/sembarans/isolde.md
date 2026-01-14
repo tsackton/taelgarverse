@@ -16,7 +16,7 @@ title: Isolde
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>)  
-    Born DR 1690 (59 years old)  
+    Born DR 1690 (60 years old)  
     { .bio }
 
     Originally from: Unknown

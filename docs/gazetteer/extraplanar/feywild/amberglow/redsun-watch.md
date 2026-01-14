@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
 whereabouts: Amberglow
-typeOf: keep
+typeOf: building
 ancestry: fey
 dm_owner: tim
 dm_notes: important
+typeOfAlias: keep
 title: Redsun Watch
 ---
 # Redsun Watch

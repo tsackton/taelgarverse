@@ -20,12 +20,15 @@ title: Caradoc
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1653 (96 years old)  
+    Born DR 1653 (97 years old)  
     { .bio }
 
     Based in [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
 </div>
 
+
+
+:octicons-location-24:{ .lg .middle } Hired the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 2nd, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
 A reclusive alchemist of the [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) hinterlands who works out of a cottage laboratory near the small village of [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>).
@@ -34,7 +37,7 @@ Caradoc is a reclusive alchemist who maintains a cottage laboratory outside [Bra
 
 ## Events
 - May 02, 1715 DR: Hired the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) to slay a cockatrice and procure its gizzard as proof of capability.
-- May 06, 1715 DR: Commissioned by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) to make [Trueflame](<../../things/materials/trueflame.md>) to help destroy the Serpentine Dagger. 
+- May 06, 1715 DR: Commissioned by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) to make [Trueflame](<../../things/materials/trueflame.md>) to help destroy the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>). 
 - May 08, 1715 DR: Gave the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) [Trueflame](<../../things/materials/trueflame.md>) in exchange for a glowing‑poison recipe recovered from goblin bandits. 
 - May 09, 1715 DR: Tasked the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) to search for uligium expedition in the caves of the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>)
 - May 16, 1715 DR: Recruited the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) to investigate rumors of mad animals in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>) 

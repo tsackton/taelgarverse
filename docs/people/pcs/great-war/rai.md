@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, person]
+tags: [person, status/gameupdate/dufr]
 name: Rai
 born:
 species: elf
 subspecies: peronar
+affiliations:
+- {type: primary, org: Heroes of the Great War}
 gender: male
 player: David Kong
 dm_notes: important
@@ -15,7 +17,7 @@ title: Rai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../creatures/species/elves.md>) (peronar) (he/him), ([ka](<../../../background/elven-cycle-of-generations.md>) unknown)  
+    An [elf](<../../../creatures/species/elves.md>) (peronar) (he/him), of the [Heroes of the Great War](<./heroes-of-the-great-war.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) unknown)  
     { .bio }
 
 </div>

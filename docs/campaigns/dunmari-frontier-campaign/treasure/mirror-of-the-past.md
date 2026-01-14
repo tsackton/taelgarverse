@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: mirror
 name: Mirror of the Past
 title: Eudomes' Mirror of the Past
@@ -10,7 +10,7 @@ aliases: [Eudomes' Mirror]
 ---
 # The Eudomes' Mirror of the Past
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Very Rare Mirror__  
+- :octicons-info-24:{ .lg .middle } __(very rare mirror)__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/2739459-eudomes-mirror) 
 </div>
 

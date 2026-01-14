@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {boxInfo: 'A <typeof> in <home:fr>', wHome: ''}
 name: Ancient and Honorable Guild of Philosophers
 aliases: [Philosopher's Guild]
@@ -37,7 +37,7 @@ The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md
 
 ## Guildhall
 
-The Ancient and Honorable Order of Philosophers maintains a guild hall in [Skepwalk](<../../gazetteer/greater-sembara/tollen/wards/skepwalk.md>), the oldest part of the city of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>). Although Skepwalk is mostly known for narrow streets and the bustling fish markets, the guild hall of the Philosopher's Guild is an oasis of calm and quiet, where the din of the streets seems to fade into nothingness as soon as you cross into the strangely out-of-season garden on the guildhall grounds. Visitors are welcome to the grounds and the tea rooms of the guildhall, but no further, and no one outside the Philosopher's Guild knows what occupies the majority of the guildhall building itself.  
+The Ancient and Honorable Order of Philosophers maintains a guild hall in [Skepwalk](<../../gazetteer/greater-sembara/tollen/wards/skepwalk.md>), the oldest part of the city of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>). Although [Skepwalk](<../../gazetteer/greater-sembara/tollen/wards/skepwalk.md>) is mostly known for narrow streets and the bustling fish markets, the guild hall of the Philosopher's Guild is an oasis of calm and quiet, where the din of the streets seems to fade into nothingness as soon as you cross into the strangely out-of-season garden on the guildhall grounds. Visitors are welcome to the grounds and the tea rooms of the guildhall, but no further, and no one outside the Philosopher's Guild knows what occupies the majority of the guildhall building itself.  
 ## Known Members
 
 - [Delios the Sage](<../../people/tollenders/delios-the-sage.md>), an elderly scholar with a magic scroll that seems to allow querying information from some mysterious source

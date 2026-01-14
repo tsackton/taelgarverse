@@ -18,7 +18,7 @@ title: Cranmère
 :speaker:{ .middle } *(Krahn-mehr)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A river in the [Barony of Aveil](<../../sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../sembara/sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
-    :octicons-location-24:{ .lg .middle } Located [Wistel-Enst Watershed](<./wistel-enst-watershed.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Wistel–Enst Watershed](<./wistel-enst-watershed.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

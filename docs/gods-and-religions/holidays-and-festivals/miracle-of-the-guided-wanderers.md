@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [holiday, religion/mosnumena]
+tags: [background, religion/mosnumena]
+typeOf: holiday
 name: Miracle of the Guided Wanderers
 fc-date: {day: 11, month: 9}
 dm_owner: mike
 dm_notes: none
 title: Miracle of the Guided Wanderers
 ---
-# The Miracle of the Guided Wanderers
+# Miracle of the Guided Wanderers
 
 A [Mos Numena](<../religions/mos-numena/mos-numena.md>) feast day, celebrated on September 11th each fall in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>). It commemorates the founding of a small village in the [Barony of Brumecliff](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-brumecliff.md>), the inhabitants of which resettled in Asineau after the [hobgoblin wars](<../../events/1600s/third-hobgoblin-war-sembara.md>). 
 

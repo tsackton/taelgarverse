@@ -42,7 +42,7 @@ Airion claimed that, due to the ever-changing and impermanent nature of the Plan
 
 ## Traveling on the Plane of Air
 
-The most reliable scholarly studies of travel on the Elemental Plane of Air come from Studies of the Aerial Sphere, a monograph series describing the experiences of those who traveled to the Plane of Air, published by the [Drankorian](<../../history/drankorian-empire/drankorian-empire.md>) scholarly society known as the [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>). Although only three of a reported ten volumes survive in their entirety, much can still be learned from these first-hand accounts. 
+The most reliable scholarly studies of travel on the Elemental Plane of Air come from Studies of the Aerial Sphere, a monograph series describing the experiences of those who traveled to the Plane of Air, published by the [Drankorian](<../../history/historical-realms/drankorian-empire.md>) scholarly society known as the [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>). Although only three of a reported ten volumes survive in their entirety, much can still be learned from these first-hand accounts. 
 
 While there is no ground, creatures that lack a natural or magical ability to fly still fall. Although this is not dangerous, per se, unless one is unlucky enough to strike an earth mote or a solid cloud, it does make traveling difficult. Several reports in Studies of the Aerial Sphere do claim that a skilled traveler can willfully control the direction they fall, which, with practice, can be used to move quickly and precisely around the plane. Landing on a solid surface, however, appears quite dangerous, as multiple reports describe travelers who, unable to precisely reverse their fall at the correct moment, struck a solid surface too fast and suffered significant wounds. 
 
@@ -61,6 +61,6 @@ There are rumors of more powerful and strange things in the Plane of Air: vast, 
 
 No reliable maps exist of the Plane of Air. Nonetheless, careful scholarship suggests a few landmarks that are likely real:
 
-- Sumana, the City of Clouds, and home of the Dukes of the Four Winds. This is reported to be one of the great cities of the [Djinn](<../../creatures/extraplanar/elementals.md>), a place of towering domes built of spun clouds. 
+- [Sulmana](<../../gazetteer/extraplanar/plane-of-air/sulmana.md>), the City of Clouds, and home of the Dukes of the Four Winds. This is reported to be one of the great cities of the [Djinn](<../../creatures/extraplanar/elementals.md>), a place of towering domes built of spun clouds. 
 - The Breath of Aerys, at the very center of the Plane of Air itself, said to be a place of pure stillness, the source of air itself. The djinni speak of this place as holy, and guard this place from travelers to the Plane of Air. 
 - The Azure Archipelago, a cluster of floating islands, described in The Lay of Estar and in many subsequent reports. They are said to be lush, verdant islands, drifting in a synchronized dance, surrounded by walls of perpetual mist. 

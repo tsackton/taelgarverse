@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-subtypeOf: fortified
-typeOf: town
+typeOf: settlement
 pronunciation: RAH-veen-yak
 whereabouts: Bramshire
 dm_owner: none
 dm_notes: none
+typeOfAlias: fortified town
 title: Ravignac
 ---
 # Ravignac

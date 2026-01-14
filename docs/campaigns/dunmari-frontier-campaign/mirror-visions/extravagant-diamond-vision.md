@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: Seen on <startdate>, defArt: ''}
 DR: 1748-08-01
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 title: Extravagant Diamond Vision
 ---
 # Extravagant Diamond Vision

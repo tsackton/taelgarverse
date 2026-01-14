@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Copper Hills
-typeOf: line of hills
+typeOf: topographical feature
 whereabouts:
 - {type: home, location: Darba Highlands}
 - {type: home, location: Central Dunmar}
 dm_notes: important
 dm_owner: none
+typeOfAlias: line of hills
 title: Copper Hills
 ---
 # The Copper Hills

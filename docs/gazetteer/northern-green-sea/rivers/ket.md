@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: river
+typeOf: waterway
 whereabouts: Northern Green Sea
 dm_owner: none
 dm_notes: color
+typeOfAlias: river
 title: Ket
 ---
 # Ket

@@ -22,7 +22,7 @@ title: Béatrix Thorne
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her), of the [Thornes of Cleenseau](<../../groups/sembaran-noble-houses/thornes-of-cleenseau.md>)  
-    Born DR 1696 (53 years old)  
+    Born DR 1696 (54 years old)  
     Soldier of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) (until November 2nd, 1719)  
     Guardswoman of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since November 23th, 1719)  
     Sheriff of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since January 11th, 1720)  

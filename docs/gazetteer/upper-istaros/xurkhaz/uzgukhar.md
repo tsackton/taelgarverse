@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 tags: [place, status/cleanup/image]
 campaignInfo:
 name: Uzgukhar
-typeOf: city
+typeOf: settlement
 whereabouts: Xurkhaz
 dm_owner: tim
 dm_notes: important
+typeOfAlias: city
 title: Uzgukhar
 ---
 # Uzgukhar

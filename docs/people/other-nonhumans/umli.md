@@ -22,11 +22,11 @@ title: Umli the Exile
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [stoneborn](<../../creatures/species/stoneborn.md>) (she/her)  
-    Born DR 1666 (83 years old)  
+    Born DR 1666 (84 years old)  
     { .bio }
 
     Exiled from the Sivnjo Mountains in DR 1731
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) (for 17 years)
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) (for 18 years)
 </div>
 
 

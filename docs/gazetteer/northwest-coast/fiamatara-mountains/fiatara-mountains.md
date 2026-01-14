@@ -3,11 +3,12 @@ headerVersion: 2023.11.25
 tags: [place]
 aliases: [Firepeaks]
 name: Fiatara Mountains
-typeOf: mountain range
+typeOf: topographical feature
 whereabouts: Northwest Coast
 dm_owner: tim
 dm_notes: none
 pronunciation: fya-TAH-rah
+typeOfAlias: mountain range
 title: Fiatara Mountains
 ---
 # The Fiatara Mountains
@@ -26,7 +27,7 @@ The mountains trend generally north–south, forming a barrier between coastal f
 ## Notable Peaks and Sites
 
 - [Goldpeak Mountain](<./goldpeak-mountain.md>): The southernmost major peak with extensive Deepriver Clan workings beneath, forming the extensive linked shafts and deep caverns of the [Goldpeak Mines](<./goldpeak-mines.md>).
-- [Blacksilver Peak](<./blacksilver-peak.md>): A prominent summit in the northern part of the range, often wreathed in storms. Ancient Dwarven approaches lead to a cave system and the so‑called “Endless Stair” rising through the heart of the mountain; legends tie this route to access for Airion’s Tower.
+- [Blacksilver Peak](<./blacksilver-peak.md>): A prominent summit in the northern part of the range, often wreathed in storms. Ancient Dwarven approaches lead to a cave system and the so‑called “Endless Stair” rising through the heart of the mountain; legends tie this route to access for [Airion’s Tower](<./airions-tower.md>).
 
 ## Environment and Travel
 

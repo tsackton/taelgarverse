@@ -19,7 +19,7 @@ title: Ra'ghemdros
     Died May 21th, 1749  
     { .bio }
 
-    Lived in the ~Circular Island~
+    Lived the ~Circular Island~
 </div>
 
 

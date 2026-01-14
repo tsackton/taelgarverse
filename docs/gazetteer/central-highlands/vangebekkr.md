@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Vangebekkr
-typeOf: castle
+typeOf: building
 ancestry: frost giant
 whereabouts: Sentinel Range
 campaignInfo:
 - {campaign: GL, type: assaulted by, date: 1747-12-15, wParty: '<met:U> <person> on <target>'}
 dm_owner: none
 dm_notes: none
+typeOfAlias: castle
 title: Vangebekkr
 ---
 # Vangebekkr

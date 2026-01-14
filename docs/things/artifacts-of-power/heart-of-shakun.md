@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 rarity: unique
 whereabouts: Cintra
 typeOf: wonderous item
@@ -10,7 +10,7 @@ title: Heart of Shakun
 ---
 # The Heart of Shakun
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique Wonderous Item__  
+- :octicons-info-24:{ .lg .middle } __(unique wonderous item)__  
    Owned by [Cintra](<../../people/dunmari/cintra.md>)  
 </div>
 

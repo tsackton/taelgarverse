@@ -24,7 +24,7 @@ dm_notes: color
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (she/her), of the the Chapmans  
-    Born DR 1715 (34 years old)  
+    Born DR 1715 (35 years old)  
     Member of the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>)  
     { .bio }
 

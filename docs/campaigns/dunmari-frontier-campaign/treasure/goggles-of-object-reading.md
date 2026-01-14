@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: glasses
 pcOwner: Seeker
 ancestry: Drankorian
@@ -11,7 +11,7 @@ title: Goggles of Object Reading
 ---
 # Goggles of Object Reading
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Drankorian](<../../../history/drankorian-empire/drankorian-empire.md>) Magical Glasses__  
+- :octicons-info-24:{ .lg .middle } __([Drankorian](<../../../history/historical-realms/drankorian-empire.md>) magical glasses)__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/2984533-goggles-of-object-reading) 
 </div>
 

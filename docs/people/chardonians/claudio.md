@@ -20,7 +20,7 @@ title: Claudio
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1719 (30 years old)  
+    Born DR 1719 (31 years old)  
     { .bio }
 
     Based in [Luminatia](<../../gazetteer/greater-chardon/chardonian-empire/luminatia.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

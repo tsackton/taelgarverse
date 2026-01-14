@@ -12,7 +12,7 @@ tagline: in which a prisoner is freed and a queen defeated
 descTitle: Rescue and Confrontation
 title: Addermarch Campaign - Session 5
 ---
-# The Addermarch Campaign - Session 5
+# Addermarch Campaign - Session 5
 
 >[!info] Rescue and Confrontation: in which a prisoner is freed and a queen defeated
 > *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
@@ -26,7 +26,7 @@ The adventurers rescue Colette, defeat the goblin queen, and destroy the Serpent
 
 - **May 08, 1715 DR, late afternoon:** Masquerading as a goblin, [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) infiltrates the guardroom, locates captive squire **[Colette du Bois](<../../people/addermarians/colette-du-bois.md>)**, and with [Drou](<../../people/pcs/addermarch/drou.md>) and [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>) swiftly cuts down the drunken jailers before freeing her. After bribing the lair’s giant skittering spiders with pantry beef, the party slips through a secret door, battles the goblin queen and her minions in the throne room, and secures both treasure and the stolen **glowing-poison recipe**.
 - **May 08, 1715 DR, evening:** The party returns to [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), stopping in **[Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>)** to exchange the recipe (plus gold) for [Caradoc](<../../people/addermarians/caradoc.md>)’s completed vial of **[Trueflame](<../../things/materials/trueflame.md>)**.
-- **May 09, 1715 DR, morning:** In the Temple of the Sibyl, [Owen Tavish](<../../people/addermarians/owen-tavish.md>) oversees as the heroes use [Trueflame](<../../things/materials/trueflame.md>) to finally destroy the cursed **Serpentine Dagger**.
+- **May 09, 1715 DR, morning:** In the Temple of the Sibyl, [Owen Tavish](<../../people/addermarians/owen-tavish.md>) oversees as the heroes use [Trueflame](<../../things/materials/trueflame.md>) to finally destroy the cursed **[Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>)**.
 
 ## Cast of Characters
 
@@ -56,4 +56,4 @@ In the throne room, the party faces the queen of the goblin bandits. She is adep
 *Evening*: The party returns to [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), via [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>) where they speak with [Caradoc](<../../people/addermarians/caradoc.md>), trading the glowing poison recipe and some gold for the finished [Trueflame](<../../things/materials/trueflame.md>). 
 
 ### Sunday, May 9th, 2 Robert I
-In the morning, the party gathers with [Trueflame](<../../things/materials/trueflame.md>) in the company of [Owen Tavish](<../../people/addermarians/owen-tavish.md>), and destroys the Serpentine Dagger. 
+In the morning, the party gathers with [Trueflame](<../../things/materials/trueflame.md>) in the company of [Owen Tavish](<../../people/addermarians/owen-tavish.md>), and destroys the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>). 

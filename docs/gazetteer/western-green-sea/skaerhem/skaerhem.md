@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 name: Skaerhem
-typeOf: realm
+typeOf: region
 whereabouts: Western Green Sea
 aliases: [Skaer Islands, Skaegenland]
 dm_notes: color
@@ -11,7 +11,7 @@ title: Skaerhem
 ---
 # Skaerhem
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A realm in the [Western Green Sea](<../western-green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in the [Western Green Sea](<../western-green-sea.md>)  
 </div>
 
 

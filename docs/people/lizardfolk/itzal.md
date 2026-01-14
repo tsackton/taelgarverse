@@ -17,7 +17,7 @@ title: Itzal
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [lizardfolk](<../../creatures/species/lizardfolk.md>) (salt) (he/him)  
-    Born DR 1531 (218 years old)  
+    Born DR 1531 (219 years old)  
     { .bio }
 
     Based in [Eskorola](<../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)

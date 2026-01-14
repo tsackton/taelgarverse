@@ -35,5 +35,5 @@ The climate of this region is varied, and not well known - but all the stories t
 ## Major Historical Eras
 _See more: the [Founding of Dunmar](<../../primary-sources/founding-of-dunmar.md>)_
 
-Nothing is known of the history of this region. Any people who live here are likely strange and foreign compared to the descendants of [Drankor](<../../history/drankorian-empire/drankor.md>). The [Dunmari](<../greater-dunmar/realms/dunmar/dunmar.md>) claim to have come east from somewhere in this region soon after the fall of Drankor, but the exact location of the ancient Dunmari homeland has been lost.
+Nothing is known of the history of this region. Any people who live here are likely strange and foreign compared to the descendants of [Drankor](<../drankorian-hinterland/drankor/drankor.md>). The [Dunmari](<../greater-dunmar/realms/dunmar/dunmar.md>) claim to have come east from somewhere in this region soon after the fall of Drankor, but the exact location of the ancient Dunmari homeland has been lost.
 

@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 name: Hamri
-typeOf: town
+typeOf: settlement
 whereabouts: Mawar Confederacy
 population: 3500
 dm_notes: important
 dm_owner: tim
+typeOfAlias: town
 title: Hamri
 ---
 # Hamri

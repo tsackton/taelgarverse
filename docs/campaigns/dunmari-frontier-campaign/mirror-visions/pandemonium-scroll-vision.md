@@ -5,6 +5,7 @@ displayDefaults: {dPastHasStart: Seen on <startdate>}
 name: Pandemonium Scroll Vision
 DR: 1748-07-13
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 title: Pandemonium Scroll Vision
 ---
 # The Pandemonium Scroll Vision

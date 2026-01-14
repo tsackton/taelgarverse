@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: figurines
 ancestry: fey
 displayDefaults: {defArt: ''}
 title: Agata's Wooden Figurines
 ---
 # Agata's Wooden Figurines
-:octicons-info-24:{ .lg .middle } **[Fey](<../../../creatures/fey/fey.md>) Figurines**  
+:octicons-info-24:{ .lg .middle } **([Fey](<../../../creatures/fey/fey.md>) figurines)**  
 
 A collection of detailed, lifelike wooden carvings of people found in Agata's house, all of which radiate complex transmutation magic.
 

@@ -17,10 +17,10 @@ title: Eldeth Redhammer
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of the [Redhammers](<../../groups/dwarven-clans/redhammers.md>)  
-    Born DR 1711 (38 years old)  
+    Born DR 1711 (39 years old)  
     { .bio }
 
-    Based in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Based in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>)
 </div>
 
 

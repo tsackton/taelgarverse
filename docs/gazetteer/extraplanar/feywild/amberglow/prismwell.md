@@ -3,15 +3,17 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
 whereabouts: Amberglow
-typeOf: well
+typeOf: infrastructure
 ancestry: fey
 dm_owner: tim
 dm_notes: important
+subTypeOf: magical
+typeOfAlias: well
 title: Prismwell
 ---
 # Prismwell
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Fey](<../../../../creatures/fey/fey.md>) well in [Amberglow](<./amberglow.md>), the [Feywild](<../../../../cosmology/feywild.md>), [Multiverse](<../../../../cosmology/multiverse.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Fey](<../../../../creatures/fey/fey.md>) magical well in [Amberglow](<./amberglow.md>), the [Feywild](<../../../../cosmology/feywild.md>), [Multiverse](<../../../../cosmology/multiverse.md>)  
 </div>
 
 

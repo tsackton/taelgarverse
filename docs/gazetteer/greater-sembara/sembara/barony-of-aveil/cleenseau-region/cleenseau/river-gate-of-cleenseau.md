@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 tags: [place]
 campaignInfo: []
 name: River Gate of Cleenseau
-typeOf: gate
+typeOf: infrastructure
 whereabouts: Cleenseau
 dm_owner: mike
 dm_notes: none
+typeOfAlias: gate
 title: River Gate of Cleenseau
 ---
 # The River Gate of Cleenseau

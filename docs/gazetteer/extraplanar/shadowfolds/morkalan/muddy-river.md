@@ -2,9 +2,10 @@
 headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Morkalan
-typeOf: river
+typeOf: waterway
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 title: Muddy River
 ---
 # The Muddy River

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/incomplete]
+tags: [place, status/review]
 typeOf: plane
 displayDefaults: {wSecondary: 'Sometimes considered one of the <secondary:1>', defArt: the}
 whereabouts:
@@ -19,7 +19,7 @@ title: Feywild
 
 
 
-The Feywild, classified as echo of the [Material Plane](<./material-plane.md>) by the Faculty of Metaphysics, but given many other names and descriptions by countless poets, travelers, scholars, and storytellers, is a land of magic and emotion, a place of contrasts and mystery where the truth is rarely what it seems. Countless legends, songs, and whispered tales speak of fleeting, or not-so-fleeting, encounters with its strange, beautiful, and dangerous denizens, only a small handful of which are recorded here. While scholars debate the exact nature of the Feywild, its undeniable presence permeates the arts, folklore, and even the politics of Taelgar.
+The Feywild, classified as echo of the [Material Plane](<./material-plane.md>) by the [Faculty of Metaphysics](<../groups/chardonian-organizations/faculty-of-metaphysics.md>), but given many other names and descriptions by countless poets, travelers, scholars, and storytellers, is a land of magic and emotion, a place of contrasts and mystery where the truth is rarely what it seems. Countless legends, songs, and whispered tales speak of fleeting, or not-so-fleeting, encounters with its strange, beautiful, and dangerous denizens, only a small handful of which are recorded here. While scholars debate the exact nature of the Feywild, its undeniable presence permeates the arts, folklore, and even the politics of Taelgar.
 
 > [!quote] *Beneath the Boughs*, one of the many sonnets written by [Thomas Hawke](<../people/tollenders/thomas-hawke.md>)
 > Beneath the boughs where twilight shadows play,  
@@ -60,7 +60,7 @@ Many stories tell of the disorientation that the confounding of time and space c
 While endless scholarly words have been written dissecting these tales, and the strange fact that dawn in the Feywild is in the direction of sunset in the Material Plane, perhaps the best advice for travelers remains the Tyrwinghan proverb: "Where the sun stands still, the hours are fickle friends—take no second for granted, nor any year for lost."
 ### Portals to the Feywild
 
-Of all the planes, it is undeniable that the Feywild is the easiest for a traveler from the [Material Plane](<./material-plane.md>) to reach. In some places, the walls between the worlds are so thin that hapless travelers may find themselves carelessly wandering into the Feywild; often such places are marked with warnings to the unwary. Elsewhere, gates between the Feywild and the Material Plane are marked by unusual geography or incongruous features, and often only open at specific times or under particular circumstances. The Golden Door, for example, is said to appear only to those who chance favors, and never quite in the same place twice: in the villages and towns along the ancient road that follows the north bank of the [Yeraad](<../gazetteer/greater-chardon/yeraad.md>), tales abound of the lucky at cards vanishing for a night, or a year, when -- and if -- they return claiming to have followed a golden shimmering light in the dark to a court endless games in an eternal spring afternoon. 
+Of all the planes, it is undeniable that the Feywild is the easiest for a traveler from the [Material Plane](<./material-plane.md>) to reach. In some places, the walls between the worlds are so thin that hapless travelers may find themselves carelessly wandering into the Feywild; often such places are marked with warnings to the unwary. Elsewhere, gates between the Feywild and the Material Plane are marked by unusual geography or incongruous features, and often only open at specific times or under particular circumstances. The Golden Door, for example, is said to appear only to those who chance favors, and never quite in the same place twice: in the villages and towns along the ancient road that follows the north bank of the [Yeraad](<../gazetteer/greater-chardon/rivers/yeraad.md>), tales abound of the lucky at cards vanishing for a night, or a year, when -- and if -- they return claiming to have followed a golden shimmering light in the dark to a court endless games in an eternal spring afternoon. 
 
 Nonetheless, despite [extensive catalogs](<../things/books/the-lore-of-the-feywild.md>), the rules that govern connections to the Feywild have eluded all scholarly categorization. 
 ## People of the Feywild

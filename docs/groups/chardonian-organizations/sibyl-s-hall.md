@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {defArt: '', wHome: '', wCurrent: '', boxInfo: '<typeOf:UA> of <partOf>', partOf: ''}
 partOf: University of Chardon
 typeOf: lecti
@@ -13,7 +13,7 @@ title: Sibyl's Hall
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
    :octicons-info-24:{ .lg .middle } A lecti of the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>)  
-   :material-calendar: Founded DR 981 (768 years ago)  
+   :material-calendar: Founded DR 981 (769 years ago)  
 </div>
 
 

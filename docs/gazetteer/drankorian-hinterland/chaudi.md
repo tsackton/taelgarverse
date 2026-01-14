@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 name: Chaudi
-typeOf: river
+typeOf: waterway
 whereabouts: Drankorian Hinterland
 dm_owner: none
 dm_notes: color
+typeOfAlias: river
 title: Chaudi
 ---
 # Chaudi

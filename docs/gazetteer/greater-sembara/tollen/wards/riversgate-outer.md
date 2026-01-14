@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
-typeOf: ward
+typeOf: neighborhood
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+typeOfAlias: ward
 title: Riversgate Outer
 ---
 # Riversgate Outer

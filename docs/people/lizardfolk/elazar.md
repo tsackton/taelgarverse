@@ -20,7 +20,7 @@ title: Elazar
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [lizardfolk](<../../creatures/species/lizardfolk.md>) (he/him)  
-    Born DR 1665 (84 years old)  
+    Born DR 1665 (85 years old)  
     { .bio }
 
     Based in [Bedez](<../../gazetteer/faraway-places/bedez.md>), [Orekatu](<../../gazetteer/faraway-places/orekatu.md>)

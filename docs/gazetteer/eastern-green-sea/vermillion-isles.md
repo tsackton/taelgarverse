@@ -3,11 +3,12 @@ headerVersion: 2023.11.25
 tags: [place]
 campaignInfo:
 name: Vermillion Isles
-typeOf: archipelago
+typeOf: island
 whereabouts: ~Eastern Islands~
-aliases: [Chasoka]
+aliases: [Chasoka, Islander]
 dm_notes: important
 dm_owner: tim
+typeOfAlias: archipelago
 title: Vermillion Isles
 ---
 # The Vermillion Isles

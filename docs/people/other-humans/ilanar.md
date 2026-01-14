@@ -5,12 +5,16 @@ name: Ilanar
 dm_owner: tim
 dm_notes: none
 pronunciation: ee-lah-NAHR
+species: unknown
 title: Ilanar
 ---
 # Ilanar
 :speaker:{ .middle } *(ee-lah-NAHR)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    An unknown  
+    { .bio }
 
 </div>
 

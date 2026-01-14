@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Highmoor
-typeOf: moor
+typeOf: grassland
 whereabouts: Carlinshire
 dm_owner: none
 dm_notes: none
+typeOfAlias: moor
 title: Highmoor
 ---
 # Highmoor

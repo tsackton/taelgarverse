@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: River Bridge
-typeOf: bridge
+typeOf: infrastructure
 whereabouts: Chardon
 aliases: [River Bridge]
 dm_owner: tim
 dm_notes: color
+typeOfAlias: bridge
 title: River Bridge
 ---
 # The River Bridge

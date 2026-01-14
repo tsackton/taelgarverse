@@ -21,7 +21,7 @@ title: Selma Wisthelwind
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A Zimka [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1644 (105 years old)  
+    Born DR 1644 (106 years old)  
     Proprietor of [The Fox’s Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>) (since DR 1712)  
     { .bio }
 

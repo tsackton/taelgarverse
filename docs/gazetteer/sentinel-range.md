@@ -2,12 +2,14 @@
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 name: Sentinel Range
-typeOf: mountain range
+diplayDefaults: {defArt: the}
+typeOf: topographical feature
 aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
 whereabouts:
 - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: color
+typeOfAlias: mountain range
 title: Sentinel Range
 ---
 # The Sentinel Range
@@ -20,11 +22,11 @@ title: Sentinel Range
 
 The Sentinel Range, also called the Sentinel Mountains or the Sentinels, is the extensive mountain range that separates the [Green Sea](<./green-sea.md>) and the surrounding lands from the [west coast](<greater-chardon/greater-chardon.md>) of Taelgar.
 
-The [Sentinel Range](<./sentinel-range.md>) stretches 2300 miles from volcano mountains of the former kingdom of Pandar in the north, to the northern foothills of the Dunmari plains in the south. 
+The [Sentinel Range](<./sentinel-range.md>) stretches 2300 miles from volcano mountains of the former kingdom of [Pandar](<../history/historical-realms/pandar.md>) in the north, to the northern foothills of the Dunmari plains in the south. 
 
 ### Northern Sentinels
-- The northern section, from roughly Pandar south past the [Forest of Nightmares](<northern-sentinels/forest-of-nightmares.md>) to the area northeast of the [Blackwater Fens](<northern-sentinels/blackwater-fens.md>), is snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. 
-		- ***Real world analogs:*** This region is at approx. 52 degrees north, and probably has some similarities with the Canadian Rockies, especially Banff and Jasper national parks, including the flat plains to the east of the mountains (int he [Far North](<faraway-places/far-north.md>)). The volcanic mountains of Pandar share some similarities with the Pacific Ring of Fire, but with a much more magical vibe, and less moderating coastal influence on climate. 
+- The northern section, from roughly [Pandar](<../history/historical-realms/pandar.md>) south past the [Forest of Nightmares](<northern-sentinels/forest-of-nightmares.md>) to the area northeast of the [Blackwater Fens](<northern-sentinels/blackwater-fens.md>), is snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. 
+		- ***Real world analogs:*** This region is at approx. 52 degrees north, and probably has some similarities with the Canadian Rockies, especially Banff and Jasper national parks, including the flat plains to the east of the mountains (int he [Far North](<faraway-places/far-north.md>)). The volcanic mountains of [Pandar](<../history/historical-realms/pandar.md>) share some similarities with the Pacific Ring of Fire, but with a much more magical vibe, and less moderating coastal influence on climate. 
 
 ### Central Sentinels
  The middle section, roughly the area starting west of [Zimkova](<greater-sembara/zimkova/zimkova.md>) and running south to the desolation west of the [Western Marches](<greater-sembara/sembara/western-marches/western-marches.md>), is rocky and very tall, with extensive underground development associated with the [Dwarven Kingdoms](<central-highlands/dwarven-kingdoms/dwarven-kingdoms.md>), and more dangerous things. These are stereotypical high mountains. 

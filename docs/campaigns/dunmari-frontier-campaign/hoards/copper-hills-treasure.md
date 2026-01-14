@@ -1,5 +1,7 @@
 ---
-{title: Copper Hills Treasure}
+tags: [meta]
+typeOf: hoard
+title: Copper Hills Treasure
 ---
 # Treasure from the Copper Hills
 

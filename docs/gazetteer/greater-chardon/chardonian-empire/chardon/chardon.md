@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/image]
+tags: [place, status/review]
 name: Chardon
-typeOf: city
+typeOf: settlement
 whereabouts: Chardonian Empire
 dm_owner: tim
 dm_notes: important
+typeOfAlias: city
 title: Chardon
 ---
 # Chardon
@@ -16,7 +17,7 @@ title: Chardon
 
 Chardon is a city of many things. It is the bustling capitol and seat of government of the [Chardonian Empire](<../chardonian-empire.md>). It is a major center of learning and magic, host to the scholars, wizards, and academics of the [Great Library](<./great-library.md>) and the [University of Chardon](<./university-of-chardon.md>). It is a trade hub and economic powerhouse, known primarily as the only source of processed chalyte, but also as a city of artisans, producing clocks, optics, fine weaponry, scrolls, and other high value goods, and more recently as a major shipbuilder. 
 
-Founded as a small outpost of the [Drankorian Empire](<../../../../history/drankorian-empire/drankorian-empire.md>) more than 1000 years ago, over the course of its long history Chardon has grown from a backwater to among the most powerful and cosmopolitan cities of the known world, home to more than 500,000 people. Like [Drankor](<../../../../history/drankorian-empire/drankor.md>) before it, Chardon is a city full of professional associations, scholarly societies, private clubs, and collegia, some more secret than others. Most well known are the magical organizations: the secretive Hetaeri Magica, the scholarly [Society of the Open Scroll](<../../../../groups/chardonian-organizations/society-of-the-open-scroll.md>), and the famous faculty of the [University of Chardon](<./university-of-chardon.md>). But numerous smaller societies form the fabric of social life in Chardon. 
+Founded as a small outpost of the [Drankorian Empire](<../../../../history/historical-realms/drankorian-empire.md>) more than 1000 years ago, over the course of its long history Chardon has grown from a backwater to among the most powerful and cosmopolitan cities of the known world, home to more than 500,000 people. Like [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>) before it, Chardon is a city full of professional associations, scholarly societies, private clubs, and collegia, some more secret than others. Most well known are the magical organizations: the secretive [Hetaeri Magica](<../../../../groups/chardonian-organizations/hetaeri-magica.md>), the scholarly [Society of the Open Scroll](<../../../../groups/chardonian-organizations/society-of-the-open-scroll.md>), and the famous faculty of the [University of Chardon](<./university-of-chardon.md>). But numerous smaller societies form the fabric of social life in Chardon. 
 
 
 ## Description
@@ -29,7 +30,7 @@ On the [North Bank](<./north-bank.md>) of the river, in the shadow of [Mount Ner
 
 The vast arch of the [River Bridge](<./river-bridge-chardon.md>) provides the main route across the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>). Wide enough for four carts to pass abreast, and enchanted to rise as needed to allow ships to pass, steady foot traffic passes under the watchful eyes of the Praecanti Vigiles - traders, chalyte dealers, wizards and scholars, farmers with goods for market, and many more. Upriver, the [Chardon Bridge](<./chardon-bridge.md>) is used more by locals, farmers as well as the rich and powerful. Smaller, series of twelve arches, this bridge marks the height of navigation for tall-masted sailing ships, although riverboat traffic is frequent here.
 
-The [South Bank](<./south-bank.md>), where the bulk of the city lies, is dominated by the hundreds of towers of Chardon, concentrated in the south and east of the city, where the Great Library stands. But many other sights and spread across the city: the three great markets and dozens of smaller markets, the Imperial Palace, the Cathedral of the Eight, The Pillar of Victory, Haldir's Tomb, the Hospital of the Mother's Grace, as well as other churches, monuments, and palaces scattered across the skyline.
+The [South Bank](<./south-bank.md>), where the bulk of the city lies, is dominated by the hundreds of towers of Chardon, concentrated in the south and east of the city, where the Great Library stands. But many other sights and spread across the city: the three great markets and dozens of smaller markets, the [Imperial Palace](<./imperial-palace.md>), the Cathedral of the Eight, The Pillar of Victory, Haldir's Tomb, the Hospital of the Mother's Grace, as well as other churches, monuments, and palaces scattered across the skyline.
 
 ## History
 
@@ -37,9 +38,9 @@ Chardon has grown by alternating periods of slow accretion and swift expansion. 
 
 ### Founding
 
-Conventionally, Chardonian scholars date the beginning of the city of Chardon to the construction of a small Drankorian fortress on the spur of [Mount Nera](<./mount-nera.md>) in DR 609, during the Drankorian Western Wars, although given the protected harbor, rich natural resources, and easy climate, it is very likely that settlement in the area long predates the coming of the [Drankorian Empire](<../../../../history/drankorian-empire/drankorian-empire.md>). Over the next 450 years, Chardon grew slowly, primarily through the influx of scholars and wizards curious about the secrets that [Mount Nera](<./mount-nera.md>) might hide. 
+Conventionally, Chardonian scholars date the beginning of the city of Chardon to the construction of a small Drankorian fortress on the spur of [Mount Nera](<./mount-nera.md>) in DR 609, during the [Western Wars](<../../../../events/600s/western-wars.md>), although given the protected harbor, rich natural resources, and easy climate, it is very likely that settlement in the area long predates the coming of the [Drankorian Empire](<../../../../history/historical-realms/drankorian-empire.md>). Over the next 450 years, Chardon grew slowly, primarily through the influx of scholars and wizards curious about the secrets that [Mount Nera](<./mount-nera.md>) might hide. 
 
-- 609 DR: Fort Chardon, on the [Chasa River](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), is constructed by [Drankorian](<../../../../history/drankorian-empire/drankorian-empire.md>) armies to protect a sheltered harbor. 
+- 609 DR: Fort Chardon, on the [Chasa River](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), is constructed by [Drankorian](<../../../../history/historical-realms/drankorian-empire.md>) armies to protect a sheltered harbor. 
 - 644 DR: Chardon reaches a population of 1000 people, as a small settlement grows in the shadow of [Mount Nera](<./mount-nera.md>), primarily serving as a local market town and safe harbor along the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>).
 - 688 DR: The [Great Library](<./great-library.md>) is founded on the south bank of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>) by the Sibylinites.
 - 732 DR: Chardon reaches a population of 2000 people as an influx of scholars and wizards drawn to the [Great Library](<./great-library.md>) settle on the south bank. 
@@ -48,7 +49,7 @@ Conventionally, Chardonian scholars date the beginning of the city of Chardon to
 
 ### Refuge from the Fall
 
-The Fall of Drankor marked a major turning point in the history of Chardon. Many fleeing the destruction of the heartland of the [Drankorian Empire](<../../../../history/drankorian-empire/drankorian-empire.md>), and especially many wizards and scholars, fled west and settled in Chardon. Though the major economic engine of the post-fall years was the growing mercantile empires to the west (in [Apporia](<../apporia/apporia.md>)) and the north (on the [Mawakel Peninsula](<../../../northwest-coast/mawar-confederacy/mawakel-peninsula.md>)), Chardon became a major center of learning and a convenient safe harbor through which the goods of the [Chasa River Valley](<../chasa-river-valley/chasa-river-valley.md>) flowed during these years. 
+The [Fall of Drankor](<../../../../events/1000s/1059/fall-of-drankor.md>) marked a major turning point in the history of Chardon. Many fleeing the destruction of the heartland of the [Drankorian Empire](<../../../../history/historical-realms/drankorian-empire.md>), and especially many wizards and scholars, fled west and settled in Chardon. Though the major economic engine of the post-fall years was the growing mercantile empires to the west (in [Apporia](<../apporia/apporia.md>)) and the north (on the [Mawakel Peninsula](<../../../northwest-coast/mawar-confederacy/mawakel-peninsula.md>)), Chardon became a major center of learning and a convenient safe harbor through which the goods of the [Chasa River Valley](<../chasa-river-valley/chasa-river-valley.md>) flowed during these years. 
 
 - 1059 DR: Large numbers of refugees fleeing the [First Plague](<../../../../events/1000s/1059/first-plague.md>) settle in Chardon, swelling the population to 20,000, with more arriving every year. The first timber wharves on the [South Bank](<./south-bank.md>) are constructed. A wooden palisade is constructed to protect the rapidly growing population, enclosing much of what is now Precinct III, V, and VI. The defensive fortifications on the north bank are expanded. 
 - 1072 DR: The population of Chardon reaches 40,000 people. The wooden palisade is expanded and replaced with a stone wall. 
@@ -64,20 +65,20 @@ Starting in the DR 1200s, the industrial might of Chardon begins to grow. It is 
 
 ### The Great War and the Blood Years
 
-During the years before the [Great War](<../../../../events/1500s/great-war.md>), Chardon was a major city, primarily known for the renown of its wizards. It emerged from the [Great War](<../../../../events/1500s/great-war.md>) as the last bastion of safety on the west coast, despite nearly falling during the Conclave War. During the years that followed, the population of Chardon swelled with refugees, the massive outer walls of the city were constructed, and the northern wall was built. 
+During the years before the [Great War](<../../../../events/1500s/great-war.md>), Chardon was a major city, primarily known for the renown of its wizards. It emerged from the [Great War](<../../../../events/1500s/great-war.md>) as the last bastion of safety on the west coast, despite nearly falling during the [Conclave War](<../../../../events/1500s/conclave-war.md>). During the years that followed, the population of Chardon swelled with refugees, the massive outer walls of the city were constructed, and the northern wall was built. 
 
 
 
 ### Imperial Capital 
 
-Chardon emerged from the War of the Dark Rift as the capital city of a small, and growing, empire, and the most significant maritime power on the west coast. During the years that followed, the economic might of Chardon grew dramatically, especially after the discovery of chalyte in the north in the late 1600s. 
+Chardon emerged from the [War of the Dark Rift](<../../../../events/1500s/war-of-the-dark-rift.md>) as the capital city of a small, and growing, empire, and the most significant maritime power on the west coast. During the years that followed, the economic might of Chardon grew dramatically, especially after the discovery of chalyte in the north in the late 1600s. 
 
 
 ## Urban Geography
 
 Chardon is organized into 21 administrative precincts, as well as a number of unincorporated suburbs south of the city. 
 
-Precincts I - VII are the inner core of the original Drankorian city, and are enclosed by the walls constructed during the expansion of the city in the 1300s. The modern port is largely congruent with [Precinct VI](<./precinct-vi.md>); the university district is Precinct IV; the imperial administrative center is in Precinct I. 
+Precincts I - VII are the inner core of the original Drankorian city, and are enclosed by the walls constructed during the expansion of the city in the 1300s. The modern port is largely congruent with [Precinct VI](<./precinct-vi.md>); the university district is [Precinct IV](<./precinct-iv.md>); the imperial administrative center is in Precinct I. 
 
 Precincts VIII - XVI form the outer core of the [South Bank](<./south-bank.md>), numbered from VIII in the southwest to XVI in the northeast. Precinct VIII is adjacent to the naval arsenal; Precinct X houses the massive Kylos Market.
 

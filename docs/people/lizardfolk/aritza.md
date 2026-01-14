@@ -22,7 +22,7 @@ title: Aritza
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [lizardfolk](<../../creatures/species/lizardfolk.md>) (he/him)  
-    Born DR 1636 (113 years old)  
+    Born DR 1636 (114 years old)  
     { .bio }
 
     Based in the [Aursen Marshes](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/aursen-marshes.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)

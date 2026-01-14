@@ -9,7 +9,6 @@ species: human
 ancestry: Isinguer
 gender: male
 affiliations: [University of Tollen]
-family: Marchand
 whereabouts:
 - {type: home, start: '', end: '', location: Tollen}
 - {type: home, start: 1687-01-02, location: Nordgate}
@@ -22,7 +21,7 @@ title: Guy Marchand
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Isinguer](<../../history/historical-realms/istabor-alliance.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1687 (62 years old)  
+    Born DR 1687 (63 years old)  
     Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>)  
     { .bio }
 

@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: shield
 subTypeOf: magical
 ancestry: dwarven
 title: Shield of the Brawnanvil Clan
 ---
 # The Shield of the Brawnanvil Clan
-:octicons-info-24:{ .lg .middle } **[Dwarven](<../../../creatures/species/dwarves.md>) Magical Shield**  
+:octicons-info-24:{ .lg .middle } **([dwarven](<../../../creatures/species/dwarves.md>) magical shield)**  
 
 ![Brawnanvil Shield](../../../assets/brawnanvil-shield.jpg){align="right"; width="350"}This shield is an elaborate, decorative shield, not useful in battle, made of polished steel, with  decorations of scenes from dwarven life adorning it. It is a family heirloom of the Brawnanvils, a dwarven clan originally from[Ardith](<../../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), now based in [Tharn Todor](<../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). 
 

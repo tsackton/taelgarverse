@@ -1,7 +1,8 @@
 ---
-{title: Gifts and Purchases}
+tags: [meta]
+typeOf: hoard
+title: Gifts and Purchases
 ---
-
 ## Gifts
 
 **Magic**
@@ -10,7 +11,7 @@
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) in exchange for her aid.
 - [Silverspark Gauntlets](<../treasure/silverspark-gauntlets.md>) (uncommon major item), from [Nora Silverspark](<../../../people/dwarves/nora-silverspark.md>)'s ghost
 - Spell Scroll of Cure Wounds at 2nd level (Gift from [Suma](<../../../people/dunmari/suma.md>) in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)) 
-- [Delwath's Elven Breastplate](<../treasure/delwath-s-elven-breastplate.md>), from his days as a solider in the Great War. Worn by Delwath into battle during the Great War, then lost when he fell out of Cha'mutte's shadow dimension. Returned to Delwath, with a fragment of [Inkaye](<../../../things/materials/inkaye.md>) attached, by [Avaras](<../../../people/dunmari/avaras.md>) and [Pava](<../../../people/dunmari/pava.md>). Later, [Umli](<../../../people/other-nonhumans/umli.md>) removed the [Inkaye](<../../../things/materials/inkaye.md>), rendering the armor non-magical. The Inkaye was used to create the Rainbow Prism by Faldrak at the [Elemental Forge](<../../../gazetteer/western-green-sea/cymea/elemental-forge.md>).
+- [Delwath's Elven Breastplate](<../treasure/delwath-s-elven-breastplate.md>), from his days as a solider in the Great War. Worn by Delwath into battle during the Great War, then lost when he fell out of Cha'mutte's shadow dimension. Returned to Delwath, with a fragment of [Inkaye](<../../../things/materials/inkaye.md>) attached, by [Avaras](<../../../people/dunmari/avaras.md>) and [Pava](<../../../people/dunmari/pava.md>). Later, [Umli](<../../../people/other-nonhumans/umli.md>) removed the [Inkaye](<../../../things/materials/inkaye.md>), rendering the armor non-magical. The [Inkaye](<../../../things/materials/inkaye.md>) was used to create the Rainbow Prism by Faldrak at the [Elemental Forge](<../../../gazetteer/western-green-sea/cymea/elemental-forge.md>).
 
 **Books**
 - [The Lore of the Feywild](<../../../things/books/the-lore-of-the-feywild.md>), by [Ulfgar Frostbeard](<../../../people/dwarves/ulfgar-frostbeard.md>)

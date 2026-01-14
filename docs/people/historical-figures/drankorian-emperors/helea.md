@@ -1,8 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 name: Helea
-born:
 title: Emperor Helea
 species: human
 ancestry:

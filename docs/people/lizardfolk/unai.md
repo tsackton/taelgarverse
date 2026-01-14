@@ -16,7 +16,7 @@ title: Unai
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [lizardfolk](<../../creatures/species/lizardfolk.md>) (she/her)  
-    Born DR 1602 (147 years old)  
+    Born DR 1602 (148 years old)  
     { .bio }
 
     Based in [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

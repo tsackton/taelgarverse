@@ -29,7 +29,7 @@ title: Camana
     Lived in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Died in [Nashtkar](<../../gazetteer/greater-dunmar/hara-basin/nashtkar.md>)
+:octicons-location-24:{ .lg .middle } Died in [Nashtkar](<../../gazetteer/greater-dunmar/nashtkar.md>)
 
 
 

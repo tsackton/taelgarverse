@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/old, source]
+tags: [status/check/errors, source]
 dm_owner: tim
 dm_notes: color
 title: Founding of Dunmar

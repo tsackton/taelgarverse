@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 name: Eloise
 born: 1486
 species: human
@@ -26,4 +26,4 @@ title: Eloise
 
 The youngest daughter of [Charlotte I](<./charlotte-i.md>), she lived a long life and had eight children, who married into many of the noble families of Sembara and Tyrwingha.
 
-Her eldest son, [Wisym I](<./wisym-i.md>), briefly ruled the kingdom after the Interregum of 1568, as a compromise between the warring camps of his cousins, the twin sisters [Anne](<./anne.md>) and [Elaine I](<./elaine-i.md>). 
+Her eldest son, [Wisym I](<./wisym-i.md>), briefly ruled the kingdom after the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>), as a compromise between the warring camps of his cousins, the twin sisters [Anne](<./anne.md>) and [Elaine I](<./elaine-i.md>). 

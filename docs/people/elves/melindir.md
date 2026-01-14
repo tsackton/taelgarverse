@@ -23,7 +23,7 @@ title: Melindir
     An [elf](<../../creatures/species/elves.md>) (he/him), ([ka](<../../background/elven-cycle-of-generations.md>) 35)  
     { .bio }
 
-    Originally from: [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>)
+    Originally from: [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)
     Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 

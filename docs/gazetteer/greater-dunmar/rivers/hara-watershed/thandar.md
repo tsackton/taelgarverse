@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: river
+typeOf: waterway
 whereabouts: Hara Watershed
 name: Thandar
 pronunciation: TAHN-dur
 dm_owner: none
 dm_notes: color
+typeOfAlias: river
 title: Thandar
 ---
 # Thandar

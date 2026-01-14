@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/gameupdate]
+tags: [person, status/gameupdate/dufr]
 displayDefaults: {endStatus: killed by Deno'qai}
 campaignInfo: []
 name: Zegron
 species: giant
-speciesAlias: fire giant
+subspecies: fire giant
 gender: male
 died: 1545
 dm_owner: none
@@ -16,7 +16,7 @@ title: Zegron
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fire giant](<../../creatures/species/giants.md>) (he/him)  
+    A [giant](<../../creatures/species/giants.md>) (fire giant) (he/him)  
     Killed by Deno'qai DR 1545  
     { .bio }
 

@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/cleanup/incomplete]
+tags: [meta, status/wip]
 dm_owner: joint
 dm_notes: none
 title: Playing a Fairy
@@ -8,7 +8,7 @@ title: Playing a Fairy
 
 # (XXX) Species Details
 *See more: links to relevant pages*
-D&D Beyond Link: [Species Name](link)
+D&D Beyond Link: 
 
 (SHORT DESCRIPTION, 1-2 PARAGRAPHS)
 

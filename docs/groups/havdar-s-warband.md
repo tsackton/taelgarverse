@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub, status/cleanup/metadata]
+tags: [group, status/stub, status/cleanup/metadata, status/check/ai]
 displayDefaults: {defArt: ''}
 campaignInfo:
 name:
@@ -22,6 +22,21 @@ title: Havdar's Warband
    :octicons-info-24:{ .lg .middle } A warband army  
     :octicons-location-24:{ .lg .middle } Based in [Eastern Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), [Greater Dunmar](<../gazetteer/greater-dunmar/greater-dunmar.md>)  
 </div>
+
+
+Havdar’s Warband is the personal warband of [Havdar](<../people/dunmari/havdar.md>), a Dunmari war leader and the chief general of Nayan [Sura](<../people/dunmari/sura.md>). In recent years the band has grown from a close‑knit group of riders into an elite force, active across [Eastern Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>) and in Sura’s service.
+
+## Notable members
+
+- [Aram](<../people/dunmari/aram.md>), a holy warrior of [Aagir](<../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/aagir.md>) and the warband’s unofficial spiritual leader
+- [Camana](<../people/dunmari/camana.md>) (deceased), a warrior and scout associated with Havdar’s riders
+
+## Sources
+
+- [Aram](<../people/dunmari/aram.md>)
+- [Camana](<../people/dunmari/camana.md>)
+- [Havdar](<../people/dunmari/havdar.md>)
+
 
 
 

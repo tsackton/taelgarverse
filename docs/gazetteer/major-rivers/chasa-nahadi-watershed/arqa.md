@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Arqa
-typeOf: river
+typeOf: waterway
 whereabouts:
 - {type: primary, location: Central Highlands}
 - {type: secondary, location: Chasa-Nahadi Watershed}
 pronunciation: ar-KAH
 dm_notes: none
 dm_owner: none
+typeOfAlias: river
 title: Arqa
 ---
 # Arqa

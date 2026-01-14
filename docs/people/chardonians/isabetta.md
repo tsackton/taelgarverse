@@ -14,7 +14,7 @@ title: Isabetta
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1731 (18 years old)  
+    Born DR 1731 (19 years old)  
     { .bio }
 
 </div>

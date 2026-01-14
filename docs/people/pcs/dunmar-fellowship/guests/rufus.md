@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest]
-campaignInfo: []
+tags: [person]
 name: Rufus
 born:
 species: kenku
 ancestry:
 gender: male
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+affiliations:
+- {org: Dunmar Fellowship, title: Guest"}
 player: Eric Rosenbaum
 excludePublish: [clee]
 dm_owner: player
@@ -18,6 +20,7 @@ title: Rufus
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [kenku](<../../../../creatures/species/kenku.md>) (he/him)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

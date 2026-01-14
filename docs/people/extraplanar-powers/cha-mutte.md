@@ -1,10 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/needswork/shared]
+tags: [power, status/review]
 name: Cha'mutte
-born:
-species: dragon
-subspecies: elder wyrm
+typeOf: elder wyrm
 gender: male
 died: 1545
 dm_owner: tim
@@ -12,21 +10,12 @@ dm_notes: important
 title: Cha'mutte
 ---
 # Cha'mutte
-<div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Biographical Information__
-
-    A [dragon](<../../creatures/species/dragons.md>) (elder wyrm) (he/him)  
-    Died DR 1545  
-    { .bio }
-
-</div>
-
 
 
 
 An elder wyrm, one of the original children of the [Divine Presence](<../../gods-and-religions/gods/high-gods/divine-presence.md>). 
 
-Sought to overthrow the gods, breaking the order of things that has held since the [Riving](<../../events/ancient/riving.md>), freeing the elder races from the binds and power of the Embodied Gods. 
+Sought to overthrow the gods, breaking the order of things that has held since the Riving, freeing the elder races from the binds and power of the Embodied Gods. 
 
-Cha'mutte was defeated by the [Heroes of the Great War](<../pcs/great-war/heroes-of-the-great-war.md>) at the Battle of Urlich Pass
+Cha'mutte was defeated by the [Heroes of the Great War](<../pcs/great-war/heroes-of-the-great-war.md>) at the [Battle of Urlich Pass](<../../events/1500s/1545/battle-of-urlich-pass.md>)
 

@@ -3,14 +3,14 @@ headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Feywild
 displayDefaults: {defArt: ''}
-typeOf: realm
+typeOf: extraplanar domain
 dm_owner: tim
 dm_notes: color
 title: Fortune's Rest
 ---
 # Fortune's Rest
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A realm in the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)  
+-    :octicons-location-24:{ .lg .middle } An extraplanar domain in the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)  
 </div>
 
 

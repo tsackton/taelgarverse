@@ -2,19 +2,20 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Queen’s Own Home for Children
-typeOf: orphanage
+typeOf: building
 created: 1673
 destroyed: 1720-06-30
 whereabouts: Embry
 dm_owner: none
 dm_notes: none
+typeOfAlias: orphanage
 title: Queen’s Own Home for Children
 ---
 # The Queen’s Own Home for Children
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: existed DR 1673 - June 30th, 1720, destroyed after 47 years  
-    :octicons-location-24:{ .lg .middle } An orphanage in [Embry](<./embry.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } An orphanage in [Embry](<./embry.md>), the [Duchy of Sembara](<./duchy-of-sembara.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

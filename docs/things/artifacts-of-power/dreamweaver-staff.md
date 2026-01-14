@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 rarity: unique
 typeOf: staff
 ancestry: Dunmari
@@ -11,7 +11,7 @@ title: Dreamweaver Staff
 ---
 # The Dreamweaver Staff
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Unique [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) Staff__  
+- :octicons-info-24:{ .lg .middle } __(unique [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) staff)__  
    Owned by [Candrosa](<../../people/dunmari/candrosa.md>)  
 </div>
 

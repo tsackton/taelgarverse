@@ -23,11 +23,11 @@ title: Lorin Valbert
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1677 (72 years old)  
+    Born DR 1677 (73 years old)  
     Lord of the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>) (DR 1715 - January 13th, 1720)  
     { .bio }
 
-    Originally from: [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+    Originally from: [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of January 19th, 1720): heading towards the [Borderlands](<../../gazetteer/greater-sembara/sembara/borderlands/borderlands.md>), in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), [Greater Sembara](<../../gazetteer/greater-sembara/greater-sembara.md>)

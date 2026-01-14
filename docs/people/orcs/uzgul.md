@@ -20,7 +20,7 @@ dm_owner: tim
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [orc](<../../creatures/species/orcs.md>) (he/him)  
-    Born DR 1734 (15 years old)  
+    Born DR 1734 (16 years old)  
     Member of the The People of the Rainbow  
     { .bio }
 

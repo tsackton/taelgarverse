@@ -5,14 +5,15 @@ name: Northern Provinces
 whereabouts:
 - {type: primary, location: Chardonian Empire}
 - {type: secondary, location: Northwest Coast}
-typeOf: region
+typeOf: realm
+typeOfAlias: group of provinces
 dm_notes: none
 dm_owner: tim
 title: Northern Provinces
 ---
 # The Northern Provinces
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in the [Chardonian Empire](<../../greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../greater-chardon/greater-chardon.md>)  
+-    :octicons-location-24:{ .lg .middle } A group of provinces in the [Chardonian Empire](<../../greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../greater-chardon/greater-chardon.md>)  
     :octicons-location-24:{ .lg .middle } Located in the [Northwest Coast](<../northwest-coast.md>)  
 </div>
 

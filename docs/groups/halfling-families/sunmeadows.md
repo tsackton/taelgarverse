@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {defArt: the}
 name: Sunmeadows
 typeOf: family
 ancestry: halfling
-dm_notes: color
+dm_notes: none
 dm_owner: none
 title: Sunmeadows
 ---

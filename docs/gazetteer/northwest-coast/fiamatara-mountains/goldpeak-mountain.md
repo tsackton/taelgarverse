@@ -3,11 +3,12 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
 name: Goldpeak Mountain
-typeOf: mountain
+typeOf: topographical feature
 whereabouts:
 - {type: primary, location: Fiamatara Mountains}
 dm_owner: none
 dm_notes: none
+typeOfAlias: mountain
 title: Goldpeak Mountain
 ---
 # Goldpeak Mountain

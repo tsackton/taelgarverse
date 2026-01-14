@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-typeOf: city
+typeOf: settlement
 ancestry: dwarven
 whereabouts: Khatridun
 tags: [place]
 dm_owner: tim
 dm_notes: color
+typeOfAlias: city
 title: Darakan
 ---
 # Darakan

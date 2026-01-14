@@ -31,11 +31,11 @@ title: Alban
     Lived in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Died in [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>)
+:octicons-location-24:{ .lg .middle } Died in [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Grave discovered by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on April 15th, 1748 in [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Grave discovered by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on April 15th, 1748 in [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 

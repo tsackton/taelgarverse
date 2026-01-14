@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Guildgate
-typeOf: ward
+typeOf: neighborhood
 whereabouts: Tollen
 dm_owner: none
 dm_notes: color
+typeOfAlias: ward
 title: Guildgate
 ---
 # Guildgate

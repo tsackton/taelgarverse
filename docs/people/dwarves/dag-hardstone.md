@@ -8,7 +8,6 @@ born: 1729
 species: dwarf
 ancestry:
 gender: male
-family: Hardstone
 whereabouts: Tokra
 affiliations:
 - {type: primary, org: Hardstones}
@@ -20,8 +19,8 @@ title: Dag Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Hardstones](<../../groups/dwarven-clans/hardstones.md>)  
-    Born DR 1729 (20 years old)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Hardstone Clan](<../../groups/dwarven-clans/hardstones.md>)  
+    Born DR 1729 (21 years old)  
     { .bio }
 
     Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

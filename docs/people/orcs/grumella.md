@@ -1,16 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/gameupdate]
+tags: [person, status/gameupdate/gl]
 name: Grumella the Vengeful
 born:
 species: orc
-activeYear: 1745
 gender: female
 died: 1747
 affiliations:
 - {org: Grumella's Horde, type: leader}
 whereabouts:
-- {type: home, prefix: northern, location: Voltara Plains}
+- {type: home, location: Erbalta Plains}
 dm_notes: important
 dm_owner: tim
 title: Grumella the Vengeful
@@ -24,11 +23,11 @@ title: Grumella the Vengeful
     Leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>) (until DR 1747)  
     { .bio }
 
-    Lived the Voltara Plains
+    Lived in the [Erbalta Plains](<../../gazetteer/northwest-coast/erbalta-plains/erbalta-plains.md>)
 </div>
 
 
 
 
-The commander and leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), a large group of [orcs](<../../creatures/species/orcs.md>) that occupied the plains north of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in the spring and summer of 1747. Grumella was defeated by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) and their allies in the Battle of Voltara. 
+The commander and leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), a large group of [orcs](<../../creatures/species/orcs.md>) that occupied the plains north of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in the spring and summer of 1747. Grumella was defeated by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) and their allies in the [Battle of Voltara](<../../events/1700s/1747/10/battle-of-voltara.md>). 
 

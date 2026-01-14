@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Westcliff
-typeOf: line of hills
+typeOf: topographical feature
 whereabouts: Mostreve Hills
 dm_owner: tim
 dm_notes: none
+typeOfAlias: line of hills
 title: Westcliff
 ---
 # Westcliff

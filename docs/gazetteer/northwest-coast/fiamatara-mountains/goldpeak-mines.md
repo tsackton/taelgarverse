@@ -3,11 +3,12 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
 name: Goldpeak Mines
-typeOf: mine
+typeOf: infrastructure
 whereabouts:
 - {type: primary, location: Goldpeak Mountain}
 dm_owner: none
 dm_notes: none
+typeOfAlias: mine
 title: Goldpeak Mines
 ---
 # Goldpeak Mines

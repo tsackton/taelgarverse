@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, historical, status/cleanup/incomplete]
+tags: [place]
+aliases: [Hkaran]
 dm_notes: important
-dm_owner: shared,tim
+dm_owner: tim
 typeOf: island
-ancestry: sunken
+typeOfAlias: sunken island
 whereabouts: Endless Ocean
 title: Hkar
 ---
@@ -14,7 +15,5 @@ title: Hkar
 </div>
 
 
-
-
-Hkar is known as the possibly mythical place of creation of humanity, and humanity's first homeland. It is said to have sunk during the [Downfall](<../../events/ancient/the-downfall.md>).
+Hkar is known as the possibly mythical place of creation of humanity, and humanity's first homeland. It is said to have sunk during the Downfall.
 

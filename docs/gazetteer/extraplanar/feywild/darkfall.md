@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: realm
+typeOf: extraplanar domain
 ancestry: fey
 whereabouts: Feywild
 dm_owner: tim
@@ -10,7 +10,7 @@ title: Darkfall
 ---
 # Darkfall
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Fey](<../../../creatures/fey/fey.md>) realm in the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Fey](<../../../creatures/fey/fey.md>) extraplanar domain in the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)  
 </div>
 
 

@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: barony
+typeOf: realm
 whereabouts: Borderlands
 dm_owner: none
 dm_notes: none
+typeOfAlias: barony
 title: Barony of Serest
 ---
 # The Barony of Serest

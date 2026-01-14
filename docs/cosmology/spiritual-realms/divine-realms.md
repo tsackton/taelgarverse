@@ -1,13 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/cleanup/incomplete]
+tags: [background]
 dm_owner: none
 dm_notes: none
 title: Divine Realms
 ---
 # Divine Realms
-
-
 
 Theological cosmologists, dating back to the influential Drankorian work On the Classification of Divinity, have distinguished between [Embodied Gods](<../../gods-and-religions/gods/embodied-gods/embodied-gods.md>), powerful celestial beings with an embodied physical manifestation, and [Incorporeal Gods](<../../gods-and-religions/gods/incorporeal-gods/incorporeal-gods.md>), spiritual essences spun out of the divine power of creation itself. Current theological understanding, as represented in the Standard Multiversal Model, suggests that these distinctions are critical for probing the nature of the divine realms. 
 
@@ -20,5 +18,5 @@ The nature of the [Incorporeal Gods](<../../gods-and-religions/gods/incorporeal-
 *A bloom upon Creation’s heart unfolding,*  
 *Ever in flower.*
 
-Whether theologians of the most prominent other human religion, the [Five Siblings](<../../gods-and-religions/religions/five-siblings/five-siblings.md>) of the [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), agree, is unknown, as the [Dunmari Mystai](<../../groups/dunmari-mystery-cults/dunmari-mystery-cults.md>) do not share their secret knowledge with outsides. 
+Whether theologians of the most prominent other human religion, the [Dunmari Religion](<../../gods-and-religions/religions/five-siblings/dunmari-religion.md>) of the [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), agree, is unknown, as the [Dunmari Mystai](<../../groups/dunmari-mystery-cults/dunmari-mystery-cults.md>) do not share their secret knowledge with outsiders. 
 

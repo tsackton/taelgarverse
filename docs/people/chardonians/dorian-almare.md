@@ -14,7 +14,7 @@ title: Dorian Almare
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1697 (52 years old)  
+    Born DR 1697 (53 years old)  
     { .bio }
 
 </div>

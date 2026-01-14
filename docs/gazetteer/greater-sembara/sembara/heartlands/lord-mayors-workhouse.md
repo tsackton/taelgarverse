@@ -2,15 +2,16 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Lord Mayor’s Workhouse
-typeOf: orphanage
+typeOf: building
 whereabouts: Embry
 dm_owner: mike
 dm_notes: color
+typeOfAlias: orphanage
 title: Lord Mayor’s Workhouse
 ---
 # The Lord Mayor’s Workhouse
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An orphanage in [Embry](<./embry.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } An orphanage in [Embry](<./embry.md>), the [Duchy of Sembara](<./duchy-of-sembara.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

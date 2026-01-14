@@ -1,5 +1,6 @@
 ---
-{title: Pearls of Far Sight}
+tags: [status/stub, object]
+title: Pearls of Far Sight
 ---
 
 

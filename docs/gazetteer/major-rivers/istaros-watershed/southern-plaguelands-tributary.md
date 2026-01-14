@@ -2,9 +2,10 @@
 headerVersion: 2023.11.25
 tags: [place, status/check/name]
 whereabouts: Istaros Watershed
-typeOf: river
+typeOf: waterway
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 unlisted: true
 title: ~Southern Plaguelands Tributary~
 ---

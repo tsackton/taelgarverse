@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: elf
 name: Aelar
 gender: male
@@ -21,7 +21,7 @@ title: Aelar
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [elf](<../../../creatures/species/elves.md>) (he/him), ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
-    Born DR 1645 (104 years old)  
+    Born DR 1645 (105 years old)  
     Member of the [Silver Tempests](<./silver-tempests.md>) (until May 1st, 1748)  
     { .bio }
 

@@ -4,10 +4,11 @@ tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Pava and Avaras' House
-typeOf: house
+typeOf: building
 whereabouts: Garamjala Desert
 dm_owner: tim
 dm_notes: important
+typeOfAlias: house
 title: Pava and Avaras' House
 ---
 # Pava and Avaras' House

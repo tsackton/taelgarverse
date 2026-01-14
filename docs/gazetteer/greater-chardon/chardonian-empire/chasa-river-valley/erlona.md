@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 name: Erlona
-typeOf: city
+typeOf: settlement
 whereabouts: Chasa River Valley
 dm_notes: important
 dm_owner: tim
+typeOfAlias: city
 title: Erlona
 ---
 # Erlona

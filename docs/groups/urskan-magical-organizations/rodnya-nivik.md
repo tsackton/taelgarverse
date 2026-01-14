@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub]
+tags: [group, status/stub, status/check/ai]
 ancestry: Urskan
 displayDefaults: {defArt: ''}
 typeOf: magical bloodline
@@ -16,4 +16,9 @@ title: Rodnya Nivik
 </div>
 
 
-One of the [Rodnya](<./rodnya.md>), rumored to be experts in conjuration, and especially teleportation magic. 
+The Rodnya Nivik is one of the eight [rodnye](<./rodnya.md>) that rule [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>). Nivik is most closely associated with conjuration magic, and especially with teleportation.
+
+## Sources
+
+- [Rodnya](<./rodnya.md>)
+- [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>)

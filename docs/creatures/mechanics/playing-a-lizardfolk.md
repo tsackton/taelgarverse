@@ -11,7 +11,7 @@ title: Playing a Lizardfolk
 
 The quiet flash of fireflies on a summer night, the dawn song of nesting warblers, the midday croak of the bullfrog -- these speak of home to the lizardfolk. At home between the water and the land, lizardfolk communities are most often found near swamps and wetlands, where they shape their aquatic homes into rich, highly productive ecosystems, teeming with abundant life and food. Lizardfolk can be found across Taelgar, though rarely in arid lands. Many lizardfolk live in isolated, semi-aquatic villages, preferring to keep to the traditions of their own kind, while others settle near, but rarely within, the communities of other species. 
 
-Lizardfolk culture is shaped by the elders, who guide lizardfolk societies, ensuring that fertility and population growth remain balanced with the rhythms of the Tharzen Anzinakoa and the needs and capabilities of the land. Through their gods, the Tharzen Anzinakoa, many lizardfolk have a deep connection to prophecy and dreams, and ties to the spirits of their ancestors that some lizardfolk can call upon for aid in times of need. 
+Lizardfolk culture is shaped by the elders, who guide lizardfolk societies, ensuring that fertility and population growth remain balanced with the rhythms of the [Tharzen Anzinakoa](<../../gods-and-religions/gods/embodied-gods/tharzen-anzinakoa/tharzen-anzinakoa.md>) and the needs and capabilities of the land. Through their gods, the [Tharzen Anzinakoa](<../../gods-and-religions/gods/embodied-gods/tharzen-anzinakoa/tharzen-anzinakoa.md>), many lizardfolk have a deep connection to prophecy and dreams, and ties to the spirits of their ancestors that some lizardfolk can call upon for aid in times of need. 
 
 ---
 ## Creating Your Lizardfolk Character

@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-displayDefaults: {wCurrent: 'Controlled by <current:1>'}
-typeOf: gulf
-whereabouts: Endless Ocean
+displayDefaults: {wSecondary: 'Controlled by <secondary:1>'}
+typeOf: marine feature
+whereabouts:
+- {type: primary, location: Endless Ocean}
+- {type: secondary, location: Chardonian Empire}
 dm_owner: tim
-dm_notes: important
+dm_notes: none
+typeOfAlias: gulf
 title: Gulf of Chardon
 ---
 # The Gulf of Chardon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A gulf in the [Endless Ocean](<../endless-ocean.md>)  
+    :octicons-location-24:{ .lg .middle } Controlled by the [Chardonian Empire](<chardonian-empire/chardonian-empire.md>)  
 </div>
 
 

@@ -29,6 +29,12 @@ title: Colette Du Bois
 
 
 
+:octicons-location-24:{ .lg .middle } Rescued from goblin captivity by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 8th, 1715 in [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Discussed caves with the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 10th, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
+
 
 Colette Du Bois is a squire of in [Elowen Duval](<./elowen-duval.md>)'s household guard, apprenticed to Sir [Gareth Howell](<./gareth-howell.md>).
 ## Overview

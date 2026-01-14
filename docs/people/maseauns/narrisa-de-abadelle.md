@@ -17,7 +17,7 @@ title: Narrisa de Abadelle
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1682 (67 years old)  
+    Born DR 1682 (68 years old)  
     Member of the [Order of the Charitable Wanderer](<../../groups/order-of-the-charitable-wanderer.md>)  
     { .bio }
 

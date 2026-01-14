@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork/continuity]
+tags: [background, status/check/errors]
 dm_owner: shared,tim
 dm_notes: important
 title: Timeline of the Northern Deno'qai
@@ -19,7 +19,7 @@ DR 1400 - DR 1545
 ### Overview
 After [Cha'mutte](<../people/extraplanar-powers/cha-mutte.md>) established himself in Pandar, the [K'eye](<../gazetteer/northern-sentinels/k-eye.md>) river became the de facto border of Deno'qai territory, and for several hundred years minor skirmishes were frequently fought across the river border, and the larger Deno'qai settlements retreated towards the hills and mountains. 
 
-In DR 1536, [Cha'mutte](<../people/extraplanar-powers/cha-mutte.md>) launched his assault. Keeping dragons in reserve, an army of hobgoblins quickly established control over the approximately 200 miles of forest between the [K'eye](<../gazetteer/northern-sentinels/k-eye.md>) and Pandar, clearing the forests and using the timber for massive war machines.
+In DR 1536, [Cha'mutte](<../people/extraplanar-powers/cha-mutte.md>) launched his assault. Keeping dragons in reserve, an army of hobgoblins quickly established control over the approximately 200 miles of forest between the [K'eye](<../gazetteer/northern-sentinels/k-eye.md>) and [Pandar](<historical-realms/pandar.md>), clearing the forests and using the timber for massive war machines.
 
 Six years later, in DR 1541, the first campaign of the [Great War](<../events/1500s/great-war.md>) was launched across the [K'eye](<../gazetteer/northern-sentinels/k-eye.md>). The Deno'qai fought a hopeless rearguard action, trying to keep the enemies at bay for as long as possible, with some minor successes until [Cha'mutte](<../people/extraplanar-powers/cha-mutte.md>) begins calling in extraplanar forces, hobgoblin mages who can control the magic of the [Shadowfolds](<../cosmology/demiplanes-and-echo-realms/shadowfolds.md>), and great demons from the [Abyss](<../cosmology/spiritual-realms/abyss.md>) and from [Pandemonium](<../cosmology/spiritual-realms/pandemonium.md>).
 
@@ -28,7 +28,7 @@ By the bitter winter of 1541-1542, the Deno'qai were nearly wiped out, despite t
 As [Cha'mutte](<../people/extraplanar-powers/cha-mutte.md>)'s army proceeds south, into elven lands and the southern Deno'qai, the surviving Shu'anra and Ko'zula people are cut off, isolated without help or hope. Many die of exposure and starvation in the difficult years that follow, and many who survive are saved only by the aid of the Stoneborn and the Dwarves.
 
 ###
-- 1536 DR: Cha'mutte launches a surprise attack against the Deno'qai of the northern forests, quickly capturing the territory between the [K'eye](<../gazetteer/northern-sentinels/k-eye.md>) and Pandar
+- 1536 DR: Cha'mutte launches a surprise attack against the Deno'qai of the northern forests, quickly capturing the territory between the [K'eye](<../gazetteer/northern-sentinels/k-eye.md>) and [Pandar](<historical-realms/pandar.md>)
 - 1541 DR: Cha'mutte's armies cross the [K'eye](<../gazetteer/northern-sentinels/k-eye.md>) in the first campaign of the [Great War](<../events/1500s/great-war.md>)
 - 1542 DR: *(winter)* Many Deno'qai die of exposure and starvation in the north, cut off by Cha'mutte's armies
 - 1542 DR: *(summer)* The surviving Shu'anra and Ko'zula Deno'qai tribes flee into the mountains, abandoning the lowland forests to Cha'mutte's armies

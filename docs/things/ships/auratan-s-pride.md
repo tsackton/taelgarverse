@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/vehicle]
+tags: [object]
 displayDefaults: {wHome: 'Home port: <home>', ruledBy: '<affiliationtitle:t>: <name> <(of )primary>'}
 ancestry: Chardonian
 typeOf: vehicle
@@ -13,7 +13,7 @@ title: Auratan's Pride
 ---
 # The Auratan's Pride
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __[Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) Ship__  
+- :octicons-info-24:{ .lg .middle } __([Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) ship)__  
    Home port: [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../gazetteer/greater-chardon/greater-chardon.md>)  
 </div>
 

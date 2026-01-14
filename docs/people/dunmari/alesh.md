@@ -20,10 +20,10 @@ title: Alesh
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1727 (22 years old)  
+    Born DR 1727 (23 years old)  
     { .bio }
 
-    Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of December 26th, 1748): [Central Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
@@ -47,7 +47,7 @@ title: Alesh
 - Mar 23, 1748 DR: Arrives in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
 - Mar 28, 1748 DR: Leaves to collect news and rumors from the herders to the north and east. 
 - Apr 02, 1748 DR: Returns to Karawa with news from the north and east. 
-- Apr 04, 1748 DR Leaves [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to scout the [Nashtkar](<../../gazetteer/greater-dunmar/hara-basin/nashtkar.md>) and edges of the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
+- Apr 04, 1748 DR Leaves [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to scout the [Nashtkar](<../../gazetteer/greater-dunmar/nashtkar.md>) and edges of the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 - Apr 18, 1748 DR: Returns to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
 - 26 Apr 1748 - 18 May 1748: Travel between [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) and [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) and back to bring messages, check on refugees. 
 - 18 May 1748 - 31 May 1748: In [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) waiting for news. 

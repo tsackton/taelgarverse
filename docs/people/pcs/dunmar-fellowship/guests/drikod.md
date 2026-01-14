@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest]
+tags: [person]
 campaignInfo:
 name: Drikod
 born:
@@ -8,7 +8,9 @@ species: stoneborn
 ancestry:
 gender: male
 player: John Leeker
+displayDefaults: {aNoDate: Traveled with <affiliations>}
 affiliations:
+- {org: Dunmar Fellowship, title: Guest"}
 whereabouts: Kunda
 excludePublish: [clee]
 dm_owner: tim
@@ -20,6 +22,7 @@ title: Drikod
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [stoneborn](<../../../../creatures/species/stoneborn.md>) (he/him)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
     Based in [Kunda](<../../../../gazetteer/central-highlands/kunda.md>), [Indalas](<../../../../gazetteer/sentinel-range.md>)

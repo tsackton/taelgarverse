@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [holiday, religion/mosnumena]
+tags: [background, religion/mosnumena]
+typeOf: holiday
 name: Festival of the Bridge
 fc-date: {day: 3, month: 11}
 dm_owner: mike
 dm_notes: color
 title: Festival of the Bridge
 ---
-# The Festival of the Bridge
+# Festival of the Bridge
 
 A [Mos Numena](<../religions/mos-numena/mos-numena.md>) feast day, celebrated on November 3rd each winter in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and the surrounding towns. It commemorates an ancient miracle when a single patrol of guards, led by a blessed priest of the Warlord, Robert Sonneboar, held the bridge for three days against a [orc](<../../creatures/species/orcs.md>) horde without reinforcements.
 

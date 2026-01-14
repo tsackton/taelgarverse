@@ -6,7 +6,7 @@ DR_end: 1748-08-25
 name: Chronicles of the Quest to Defeat the Cursed Cold
 title: Chronicles of the Quest to Defeat the Cursed Cold
 ---
-# The Chronicles of the Quest to Defeat the Cursed Cold
+# Chronicles of the Quest to Defeat the Cursed Cold
 
 Fresh off their victory over the hag Morgana Stoneclaw, the party, now calling themselves the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>), finds themselves facing some of the more terrible monsters of the land. While returning to [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), they learn a black [dragon](<../../../creatures/species/dragons.md>) is disrupting the [Northern Provinces](<../../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>), causing conflict between the [~Voltara East Border Fort~](<../../../gazetteer/northwest-coast/northern-provinces/voltara-east-border-fort.md>) and a local bullywug population. Proving their growing power, the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>) kill the dragon, Nymthrax, and loot the riches of its lair. Returning to [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), they leave to explore the ruins far beneath [Goldpeak Mountain](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mountain.md>), (re)uniting with some Chardonian explorers and finding the lair of a beholder, Vilaxes. Defeating the beholder, the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>) return to [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), extremely wealthy and in need a long break, during which [Brelith](<../../../people/pcs/silver-tempests/brelith.md>) opens a restaurant and retires. Their break is interrupted, however, by the arrival of [Mabist](<../../../people/pcs/silver-tempests/mabist.md>) with the news that Dinia has been captured by the Havoc Host. The [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>) ride forth in anger, freeing Dinia from the control of an aboleth, Ithu’rax, near the village of [Suwi](<../../../gazetteer/northwest-coast/suwi.md>). 
 
@@ -79,9 +79,9 @@ A few weeks later, they arrive back in [Voltara](<../../../gazetteer/northwest-c
 ### Session 57
 
 The party spends some time in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). They sell treasure, decorate their manor, and purchase an extradimensional vault from an [eccentric dwarven artificer](<../../../people/dwarves/eldeth-redhammer.md>). They also receive letters: 
-- from Dinia, saying that Airion’s Tower is gone; 
+- from Dinia, saying that [Airion’s Tower](<../../../gazetteer/northwest-coast/fiamatara-mountains/airions-tower.md>) is gone; 
 - from Iara, the lizardfolk, saying her people are heading south to [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>); 
-- from Archivist [Lyra](<../../../people/chardonians/lyra.md>), saying that the elemental scrolls were well-received, that should they find any more of Arion’s treasure they should come to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) to sell it, and also asking if they would look into the disappearance of another group of adventurers in the Goldpeak Mines. 
+- from Archivist [Lyra](<../../../people/chardonians/lyra.md>), saying that the elemental scrolls were well-received, that should they find any more of Arion’s treasure they should come to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) to sell it, and also asking if they would look into the disappearance of another group of adventurers in the [Goldpeak Mines](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>).
 
 With their treasure protected by magic and with [Julius](<../../../people/chardonians/julius-of-voltara.md>) paid and the manor restocked, the party heads out to [Goldpeak Mines](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>), where they find a mysterious abandoned camp with dead bodies.
 

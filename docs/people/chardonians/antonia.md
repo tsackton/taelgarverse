@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/needswork/gameupdate]
+tags: [person, testcase, status/gameupdate/dufr]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: imprisoned, format: '<met:U> by <person:Q> on <target>, in <current:3Qr>'}
 name: Antonia
@@ -9,7 +9,6 @@ species: human
 ancestry: Chardonian
 gender: female
 pronunciation: An-ton-ia
-pageTargetDate: 1748-12-09
 affiliations:
 - {org: Society of the Open Scroll}
 whereabouts:
@@ -26,7 +25,7 @@ title: Antonia
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1714 (35 years old)  
+    Born DR 1714 (36 years old)  
     Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
     { .bio }
 

@@ -2,12 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Roscombe
-typeOf: town
-subtypeOf: market
+typeOf: settlement
 whereabouts: Carlinshire
 dm_notes: important
 dm_owner: tim
 population: 762
+typeOfAlias: market town
 title: Roscombe
 ---
 # Roscombe

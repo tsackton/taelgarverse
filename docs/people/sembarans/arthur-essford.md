@@ -25,7 +25,7 @@ title: Arthur Essford
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Bybets](<../../groups/sembaran-noble-houses/bybets.md>)  
-    Born DR 1682 (67 years old)  
+    Born DR 1682 (68 years old)  
     Lord Consort of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>) (since DR 1706)  
     { .bio }
 
@@ -33,7 +33,7 @@ title: Arthur Essford
     Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+:octicons-location-24:{ .lg .middle } Currently in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
 

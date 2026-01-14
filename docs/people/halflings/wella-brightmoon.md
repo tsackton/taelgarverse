@@ -22,8 +22,8 @@ title: Wella Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the Brightmoons  
-    Born DR 1639 (110 years old)  
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Brightmoons](<../../groups/halfling-families/brightmoons.md>)  
+    Born DR 1639 (111 years old)  
     Captain of the [Wave Dancer](<../../things/ships/wave-dancer.md>)  
     { .bio }
 
@@ -36,7 +36,7 @@ title: Wella Brightmoon
 
 
 
-:octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), in the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
+:octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
 
 
 Wella is an elderly halfling woman with curly white hair, and the captain of the [Wave Dancer](<../../things/ships/wave-dancer.md>). She is married to [Rose Brightmoon](<./rose-brightmoon.md>), and is the matriarch of the Brightmoon clan. 

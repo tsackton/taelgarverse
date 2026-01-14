@@ -3,12 +3,13 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {endStatus: Abandoned in}
 name: Narazara
-typeOf: village
+typeOf: settlement
 ancestry: dwarven
 destroyed: 1746
 whereabouts: Yuvanti Mountains
 dm_owner: none
 dm_notes: none
+typeOfAlias: village
 title: Narazara
 ---
 # Narazara

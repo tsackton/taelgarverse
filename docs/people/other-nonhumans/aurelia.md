@@ -19,7 +19,7 @@ title: Aurelia
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [centaur](<../../creatures/species/centaurs.md>) (she/her)  
-    Born DR 1703 (46 years old)  
+    Born DR 1703 (47 years old)  
     { .bio }
 
     Originally from: Unknown

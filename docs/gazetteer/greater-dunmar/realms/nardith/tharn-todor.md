@@ -4,11 +4,12 @@ tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Tharn Todor
-typeOf: city
+typeOf: settlement
 ancestry: dwarven
 whereabouts: Nardith
 dm_notes: color
 dm_owner: tim
+typeOfAlias: city
 title: Tharn Todor
 ---
 # Tharn Todor

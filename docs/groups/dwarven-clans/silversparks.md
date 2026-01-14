@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub]
+tags: [group]
 name: Silverspark Clan
 typeOf: clan
 ancestry: dwarven
-dm_notes: important
+dm_notes: none
 dm_owner: tim
 title: Silverspark Clan
 ---
@@ -13,4 +13,13 @@ title: Silverspark Clan
 -
    :octicons-info-24:{ .lg .middle } A [dwarven](<../../creatures/species/dwarves.md>) clan  
 </div>
+
+
+The Silversparks are a historically minor dwarven clan from [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>). The most prominent member of the clan, [Nora Silverspark](<../../people/dwarves/nora-silverspark.md>), was a decorated warrior, but vanished in DR 1575 with the rest of the dwarves who had traveled north to aid refugees still trapped in [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>) after the [Great War](<../../events/1500s/great-war.md>). Subsequent to her disappearance, the clan fell into obscurity. 
+
+
+More recently, the clan has seen renewed prominence due to their associated with the famous dwarven hero [Riswynn Brawnanvil](<../../people/pcs/dunmar-fellowship/riswynn.md>), particularly through [Kethra Silverspark](<../../people/dwarves/kethra.md>).
+
+
+### Current and Former Members
 

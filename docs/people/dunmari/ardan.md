@@ -21,7 +21,7 @@ dm_notes: important
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1695 (54 years old)  
+    Born DR 1695 (55 years old)  
     Chief Archivist of the [Archives of Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) (since DR 1737)  
     { .bio }
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest]
+tags: [person]
 name: Izzarak
 born:
 species: lizardfolk
@@ -8,6 +8,9 @@ ancestry:
 gender: male
 player: Eric Rosenbaum
 excludePublish: [clee]
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+affiliations:
+- {org: Dunmar Fellowship, title: Guest"}
 dm_owner: player
 dm_notes: important
 title: Izzarak
@@ -17,6 +20,7 @@ title: Izzarak
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [lizardfolk](<../../../../creatures/species/lizardfolk.md>) (he/him)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

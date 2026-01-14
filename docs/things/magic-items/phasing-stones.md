@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ''}
-tags: [item]
+tags: [object]
 aliases: [Phasing Stone]
 ancestry: giant
 typeOf: stone
@@ -11,7 +11,7 @@ dm_notes: important
 title: Phasing Stones
 ---
 # Phasing Stones
-:octicons-info-24:{ .lg .middle } **[Giant](<../../creatures/species/giants.md>) Magic Stone**  
+:octicons-info-24:{ .lg .middle } **([giant](<../../creatures/species/giants.md>) magic stone)**  
 
 Phasing stones are ancient fragments of magical energy that power the reality-twisting constructions of the giants. Each phasing stone is a unique construction, that embeds something of another plane into its very fabric, and allows the attuned user, with enough skill and practice, to manipulate that planar energy in a potent way. 
 

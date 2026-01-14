@@ -19,7 +19,7 @@ title: Thomas Hawke
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1716 (33 years old)  
+    Born DR 1716 (34 years old)  
     Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>)  
     { .bio }
 

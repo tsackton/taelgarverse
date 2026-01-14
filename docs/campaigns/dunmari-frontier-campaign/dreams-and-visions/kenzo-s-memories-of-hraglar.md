@@ -1,6 +1,8 @@
 ---
-{title: Kenzo's Memories of Hraglar}
+tags: [source]
+title: Kenzo's Memories of Hraglar
 ---
+
 # Kenzo's Memories of Hraglar
 
 As the party plans and begins to discuss how to make their way safely into the storm, you reach out, testing the waters, seeing if you can calm [Hralgar](<../../../people/giants/hralgar.md>), drawing on your connection to his soul developed the last time you were in this place. 

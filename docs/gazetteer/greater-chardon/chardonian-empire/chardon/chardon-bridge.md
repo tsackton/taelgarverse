@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: bridge
+typeOf: infrastructure
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: none
+typeOfAlias: bridge
 title: Chardon Bridge
 ---
 # The Chardon Bridge

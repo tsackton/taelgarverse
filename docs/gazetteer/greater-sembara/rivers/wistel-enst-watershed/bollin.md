@@ -22,7 +22,7 @@ title: Bollin
 
 A major river in [Ardlas](<../../ardlas.md>) and western [Sembara](<../../sembara/sembara.md>) that joins the [Wistel](<./wistel.md>) near [Ainwick](<../../sembara/barony-of-ainwick/ainwick.md>). The Bollin is cold and rocky and shallow for much of its length, and is not navigable save for the 30 miles or so upriver of the confluence with the [Wistel](<./wistel.md>). It has three major tributaries:
 
-* The Cambril, which joins just north of the Aine Hills
-* The Vardell, which flows east from [Khatridun](<../../../central-highlands/dwarven-kingdoms/khatridun.md>)
-* The Wethlin, which flows south near the headwaters of the Bollin
+* The [Cambril](<./cambril.md>), which joins just north of the Aine Hills
+* The [Vardell](<./vardell.md>), which flows east from [Khatridun](<../../../central-highlands/dwarven-kingdoms/khatridun.md>)
+* The [Wethlin](<./wethlin.md>), which flows south near the headwaters of the Bollin
 

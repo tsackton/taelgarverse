@@ -4,13 +4,14 @@ tags: [place]
 pronunciation: PRAZ-niht-skee
 campaignInfo:
 name: Praznitsky
-typeOf: city
-subTypeOf: trading
+typeOf: settlement
+subTypeOf:
 ancestry: Urskan
 whereabouts:
 - {type: home, location: Ursk, startFilter: f}
 dm_owner: tim
 dm_notes: important
+typeOfAlias: trading city
 title: Praznitsky
 ---
 # Praznitsky

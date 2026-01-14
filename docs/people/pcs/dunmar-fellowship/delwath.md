@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/dunmarfrontier, status/active, status/cleanup/image]
+tags: [person, status/cleanup/image]
 campaignInfo:
 name: Delwath
 born: 1472
@@ -22,8 +22,8 @@ title: Delwath
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../creatures/species/elves.md>) (he/him), of [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) 36)  
-    Born DR 1472 (277 years old)  
+    An [elf](<../../../creatures/species/elves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) 36)  
+    Born DR 1472 (278 years old)  
     { .bio }
 
     Originally from: [Ainumarya](<../../../gazetteer/central-highlands/ainumarya.md>)

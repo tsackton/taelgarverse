@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/gameupdate]
+tags: [person, status/gameupdate/clee]
 name: Isabeau d'Aslain
 born: 1672
 species: human
@@ -21,7 +21,7 @@ dm_owner: mike
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her), of the [d'Aslains](<../../groups/sembaran-noble-houses/d-aslains.md>)  
-    Born DR 1672 (77 years old)  
+    Born DR 1672 (78 years old)  
     Baroness of the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) (since April 1719)  
     { .bio }
 

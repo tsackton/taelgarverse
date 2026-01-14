@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 name: Cha'mutte's Shadow Armband
 whereabouts: Seeker
 typeOf: wonderous item
@@ -9,7 +9,7 @@ title: Cha'mutte's Shadow Armband
 ---
 # The Cha'mutte's Shadow Armband
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Legendary Wonderous Item__  
+- :octicons-info-24:{ .lg .middle } __(legendary wonderous item)__  
    Owned by [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)  
 </div>
 

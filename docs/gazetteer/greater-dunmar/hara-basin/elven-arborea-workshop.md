@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Ruined Elven Workshop (near Tokra)
-typeOf: ruin
+typeOf: building
 whereabouts: Lakan Monastery
 dm_notes: important
 dm_owner: tim
+typeOfAlias: ruin
 title: Ruined Elven Workshop (near Tokra)
 ---
 # The Ruined Elven Workshop (near Tokra)

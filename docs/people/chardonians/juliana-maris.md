@@ -17,7 +17,7 @@ title: Juliana Maris
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1691 (58 years old)  
+    Born DR 1691 (59 years old)  
     { .bio }
 
     Based in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Nayan
-typeOf: river
+typeOf: waterway
 whereabouts: Nayan Floodplains
 dm_owner: none
 dm_notes: color
+typeOfAlias: river
 title: Nayan
 ---
 # Nayan

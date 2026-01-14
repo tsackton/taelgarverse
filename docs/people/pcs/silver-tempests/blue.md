@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: human
 subspecies: plane-touched, fiendish
 ancestry: Isinguer
@@ -8,6 +8,7 @@ name: Blue
 gender: female
 born: 1622
 affiliations:
+- {org: Silver Tempests}
 whereabouts:
 - {type: home, end: 1644, location: Maseau}
 - {type: away, start: 1644, end: 1746, location: Plaguelands}
@@ -21,7 +22,8 @@ title: Blue
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Isinguer](<../../../history/historical-realms/istabor-alliance.md>) [human](<../../../creatures/species/humans.md>) (plane-touched, fiendish) (she/her)  
-    Born DR 1622 (127 years old)  
+    Born DR 1622 (128 years old)  
+    Member of the [Silver Tempests](<./silver-tempests.md>)  
     { .bio }
 
     Originally from: [Maseau](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
@@ -44,15 +46,15 @@ title: Blue
 >
 >Blue does remember, of course, the day she escaped, nearly two years ago now. The hobgoblins had pushed her over the years to use the crystal, drawing on some kind of chaotic magic locked within, to create new sorcerers. Sometimes she was able to channel the chaos into a hobgoblin, or sometimes prisoner. They often died, but when they didn't, they could channel magic, although rarely with any real control. More often, she was not able to affect any change in her target, and she was punished. The day she escaped, though, as she pulled on the magic of the crystal, she felt a scream growing in her mind, until it could not be contained and she was shouting in a language she could not understand, until she blacked out. 
 >
->When she awoke, Blue found herself on a beach, blue sky above, sand in her mouth, the sound of gentle waves in the distance, and the fading echoes of a vivid dream in her mind, all of which she could remember was powerful sense of fear and danger associated with the name the Umbral Covenant. With no idea even what year it was, much less where she had ended up, Blue wandered, keeping to herself, but always on the lookout for any kind of information or clues about the Umbral Covenant. 
+>When she awoke, Blue found herself on a beach, blue sky above, sand in her mouth, the sound of gentle waves in the distance, and the fading echoes of a vivid dream in her mind, all of which she could remember was powerful sense of fear and danger associated with the name the [Umbral Covenant](<../../../groups/umbral-covenant.md>). With no idea even what year it was, much less where she had ended up, Blue wandered, keeping to herself, but always on the lookout for any kind of information or clues about the Umbral Covenant. 
 >
 >Over the course of the next year, she was run out of more villages than she could count. She learned that she had appeared in a place called the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>), a realm far to the west of her homeland in [Maseau](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and that it was nearly 100 years after she had been captured, although she did not feel like she had aged at all in captivity. She also grew strong, learning to channel magic through her connection to the crystal in her skull, although she could not always control completely, and when he threw herself into her magic completely, her appearance became even stranger somehow. 
 >
->During her wanderings, the one thing she held on to was the Umbral Covenant, and the whispers of anger, danger, and fear from her crystal, warning about them. She learned that the Umbral Covenant had the agressors in a war against the famous city of [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the War of the Dark Rift, and were defeated more than 100 years ago, before she was even captured, despite having captured much of the [Apporian Peninsula](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>). She learned that the Umbral Covenant had emerged from deep in the mountains of [Apporia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>), from a kingdom called Enderra, now assumed completed destroyed. She learned that the Umbral Covenant had corrupted dwarves and turned them into nightmare shadow servants, forcing them to fight. She heard many rumors of how shadows had emerged from the mountains, sweeping down into the coastal cities of [Apporia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>) with armies of ghostly dwarves who bled darkness and who could not be killed by mundane weapons. But every tale she heard told the same fate: the Umbral Covenant launched a Shadow Armanda against Chardon, and were destroyed, utterly and completely. And no tale seemed to explain why the crystal still seemed terrified of a threat that was defeated so long ago. 
+>During her wanderings, the one thing she held on to was the [Umbral Covenant](<../../../groups/umbral-covenant.md>), and the whispers of anger, danger, and fear from her crystal, warning about them. She learned that the Umbral Covenant had the agressors in a war against the famous city of [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [War of the Dark Rift](<../../../events/1500s/war-of-the-dark-rift.md>), and were defeated more than 100 years ago, before she was even captured, despite having captured much of the [Apporian Peninsula](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>). She learned that the [Umbral Covenant](<../../../groups/umbral-covenant.md>) had emerged from deep in the mountains of [Apporia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>), from a kingdom called [Enderra](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/enderra.md>), now assumed completed destroyed. She learned that the [Umbral Covenant](<../../../groups/umbral-covenant.md>) had corrupted dwarves and turned them into nightmare shadow servants, forcing them to fight. She heard many rumors of how shadows had emerged from the mountains, sweeping down into the coastal cities of [Apporia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>) with armies of ghostly dwarves who bled darkness and who could not be killed by mundane weapons. But every tale she heard told the same fate: the Umbral Covenant launched a Shadow Armanda against Chardon, and were destroyed, utterly and completely. And no tale seemed to explain why the crystal still seemed terrified of a threat that was defeated so long ago. 
 >
->A few weeks ago, lingering along the most desolate section of the trade road to Voltara, Blue stumbled across the body of a messenger and his horse, who had apparently fallen in a ravine and died, unnoticed. Uncannily, in his messenger bag was a long letter, addressed to the [Silver Tempests](<./silver-tempests.md>) in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), containing research concerning strange sigils and a possible connection to the Umbral Covenant. Intrigued, Blue decided to deliver the letter herself.
+>A few weeks ago, lingering along the most desolate section of the trade road to Voltara, Blue stumbled across the body of a messenger and his horse, who had apparently fallen in a ravine and died, unnoticed. Uncannily, in his messenger bag was a long letter, addressed to the [Silver Tempests](<./silver-tempests.md>) in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), containing research concerning strange sigils and a possible connection to the [Umbral Covenant](<../../../groups/umbral-covenant.md>). Intrigued, Blue decided to deliver the letter herself.
 
 
 ### Chronology of Blue's Life
 - Jul 03, 1748 DR: Blue heads north towards [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>) and the frontier
-- Aug 30, 1748 DR: Blue finds a dead messenger on the road north of [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>), with a letter about the Umbral Covenant addressed to the [Silver Tempests](<./silver-tempests.md>) in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), and decides to deliver the message herself
+- Aug 30, 1748 DR: Blue finds a dead messenger on the road north of [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>), with a letter about the [Umbral Covenant](<../../../groups/umbral-covenant.md>) addressed to the [Silver Tempests](<./silver-tempests.md>) in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), and decides to deliver the message herself

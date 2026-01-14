@@ -1,15 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest]
+tags: [person]
 campaignInfo:
 name: Aristaea
 born:
 species: stoneborn
 ancestry:
 gender: female
-affiliations:
 player: Kate Sackton
 excludePublish: [clee]
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+affiliations:
+- {org: Dunmar Fellowship, title: Guest"}
 dm_owner: player
 dm_notes: important
 title: Aristaea
@@ -19,6 +21,7 @@ title: Aristaea
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [stoneborn](<../../../../creatures/species/stoneborn.md>) (she/her)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

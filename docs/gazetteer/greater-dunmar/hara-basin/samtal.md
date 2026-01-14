@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-typeOf: plain
+typeOf: grassland
 whereabouts: Eastern Dunmar
 name: Samtal
 aliases: [plains of Karawa]
@@ -11,7 +11,7 @@ title: Samtal
 ---
 # Samtal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A plain in [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A grassland in [Eastern Dunmar](<../realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../realms/dunmar/dunmar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
 </div>
 
 

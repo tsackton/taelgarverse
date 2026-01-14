@@ -31,7 +31,7 @@ The [Green Sea](<../green-sea.md>) itself dominates this region, and the current
 * Stretching for 2000 miles from south to north, the ~Eastern Islands~ form a barrier between the [Green Sea](<../green-sea.md>) and the ~Eastern Ocean~. Many say these islands are magical, and the weather in this region is know to be chaotic and unsettled
 * In the far north, is another great peninsula with cold, with long winters and short summers, and no reports have come west of who or what might live there
 ## Civilizations and Cultures
-This is a land of many cultures and civilizations, but few are well-attested in the west. Most geographers believe that the cities of [Medju](<./medju.md>) are real, and shipwrecked sailors from the Republic of Svolhas on [Irrla](<./irrla.md>) have been seen on the Cymean Peninsula. But few really know what strange cultures this region holds, or what strange gods they worship.
+This is a land of many cultures and civilizations, but few are well-attested in the west. Most geographers believe that the cities of [Medju](<./medju.md>) are real, and shipwrecked sailors from the [Republic of Svolhas](<./republic-of-svolhas.md>) on [Irrla](<./irrla.md>) have been seen on the [Cymean Peninsula](<../western-green-sea/cymean-peninsula.md>). But few really know what strange cultures this region holds, or what strange gods they worship.
 ## Climate
 _See more: [Green Sea](<../green-sea.md>)_
 
@@ -39,5 +39,5 @@ The climate of this region is dominated by the influence of the [Green Sea](<../
 
 
 ## Major Historical Eras
-Little is known of the history of this region, although the [Skaer](<../western-green-sea/realms/skaer.md>) and other ancient mariner cultures speak of their journeys through the eastern [Green Sea](<../green-sea.md>) in their legends and tales, and scholars agree that the ~Mariners~ were the first humans to settle in this region, sailing from [Hkar](<../../history/historical-realms/hkar.md>), although whether across the [Endless Ocean](<../endless-ocean.md>) or from some other path, history does not say. All agree that the human settlement spread from east to west, and that in the ancient days before the [Downfall](<../../events/ancient/the-downfall.md>) much of the [Green Sea](<../green-sea.md>) was covered by the enormous ~Ancient Lizardfolk Swamp~.
+Little is known of the history of this region, although the [Skaer](<../western-green-sea/realms/skaer.md>) and other ancient mariner cultures speak of their journeys through the eastern [Green Sea](<../green-sea.md>) in their legends and tales, and scholars agree that the ~Mariners~ were the first humans to settle in this region, sailing from [Hkar](<../../history/historical-realms/hkar.md>), although whether across the [Endless Ocean](<../endless-ocean.md>) or from some other path, history does not say. All agree that the human settlement spread from east to west, and that in the ancient days before the Downfall much of the [Green Sea](<../green-sea.md>) was covered by the enormous ~Ancient Lizardfolk Swamp~.
 

@@ -22,7 +22,7 @@ title: Pearl Copperharp
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Copperharps](<../../groups/halfling-families/copperharps.md>)  
-    Born DR 1693 (56 years old)  
+    Born DR 1693 (57 years old)  
     Cook of the [Emerald Song](<../../things/ships/emerald-song.md>) (since DR 1726)  
     { .bio }
 

@@ -32,7 +32,7 @@ title: Samerki
 
 
 
-:octicons-location-24:{ .lg .middle } Killed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 29th, 1748 in [Shakun’s Wellspring](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>), the [Red Mesa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Killed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 29th, 1748 in [Shakun’s Wellspring](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>), the [Red Mesa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 A servant of [Agata](<../fey/agata.md>). 

@@ -23,7 +23,7 @@ title: Lyle Honeyhill
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Honeyhills](<../../groups/halfling-families/honeyhills.md>)  
-    Born DR 1703 (46 years old)  
+    Born DR 1703 (47 years old)  
     Navigator of the [Emerald Song](<../../things/ships/emerald-song.md>) (since DR 1744)  
     { .bio }
 

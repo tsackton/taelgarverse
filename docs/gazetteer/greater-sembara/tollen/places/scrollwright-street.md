@@ -3,15 +3,16 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
 name: Scrollwright Street
-typeOf: street
+typeOf: road
 whereabouts: Tollen
 dm_notes: none
 dm_owner: none
+typeOfAlias: street
 title: Scrollwright Street
 ---
 # Scrollwright Street
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A street [Tollen](<../tollen.md>)  
+-    :octicons-location-24:{ .lg .middle } A street in the [Free City of Tollen](<../tollen.md>), the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>)  
 </div>
 
 

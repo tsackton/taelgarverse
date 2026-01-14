@@ -4,10 +4,11 @@ tags: [place]
 name: Barony of Montsé
 whereabouts: Borderlands
 aliases: [Barony of Montsé]
-typeOf: barony
+typeOf: realm
 pronunciation: Mohn-say
 dm_owner: none
 dm_notes: none
+typeOfAlias: barony
 title: Barony of Montsé
 ---
 # The Barony of Montsé

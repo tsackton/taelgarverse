@@ -1,17 +1,18 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: river
+typeOf: waterway
 whereabouts: Ursk
 pronunciation: BEY-eel
 dm_owner: none
 dm_notes: color
+typeOfAlias: river
 title: Beyil
 ---
 # Beyil
 :speaker:{ .middle } *(BEY-eel)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A river [Ursk](<../ursk/ursk.md>)  
+-    :octicons-location-24:{ .lg .middle } A river in [Ursk](<../ursk/ursk.md>), the [Northern Green Sea](<../northern-green-sea.md>)  
 </div>
 
 

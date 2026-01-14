@@ -6,7 +6,7 @@ campaignInfo:
 name: Agnés of Evis
 born: 1690-04-03
 species: human
-ancestry: Maseaun
+ancestry: Mazeanne
 aliases: [Agnés of Evis]
 gender: female
 whereabouts:
@@ -22,7 +22,7 @@ title: Agnés of Evis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Maseaun](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    A [Mazeanne](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born April 3rd, 1690 (59 years old)  
     { .bio }
 

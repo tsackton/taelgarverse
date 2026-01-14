@@ -22,7 +22,7 @@ title: Dunmari Frontier - Session 2
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeats giant lizards at [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>), uncovers signs of unnatural disturbances, and battles skeletons at a [ruined fort](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>).
 ## Session Info
 
-***Character advancement: the party reaches level 2 crossing the [Daraar Canyon](<../../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>) and entering the [Nashtkar](<../../../gazetteer/greater-dunmar/hara-basin/nashtkar.md>)***
+***Character advancement: the party reaches level 2 crossing the [Daraar Canyon](<../../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>) and entering the [Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>)***
 ### Summary
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives at [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>), fights and kills three giant lizards.
 - They meet [Akan](<../../../people/dunmari/akan.md>), a survivor, who recounts his family's deadly encounter with the lizards during the Festival of Rebirth preparations.
@@ -30,7 +30,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - Upon reaching a [ruined fort](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>), the party is attacked by skeletons emerging from a disturbed mound, hinting at recent activity.
 ### Timeline
 - Mar 22, 1748 DR, evening: Kill three giant lizards at the [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>) and camp for the night
-- Mar 23, 1748 DR, morning: Meet [Akan](<../../../people/dunmari/akan.md>) at the [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>) in the morning, a survivor of the giant lizard attack. After, turn east into the [Nashtkar](<../../../gazetteer/greater-dunmar/hara-basin/nashtkar.md>).
+- Mar 23, 1748 DR, morning: Meet [Akan](<../../../people/dunmari/akan.md>) at the [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>) in the morning, a survivor of the giant lizard attack. After, turn east into the [Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>).
 - Mar 23, 1748 DR, late afteroon: Arrive at the [Daraar Canyon](<../../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>), camp. 
 - Mar 24, 1748 DR: Cross the [Daraar Canyon](<../../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>) heading east into the desert. 
 - Mar 25, 1748 DR, morning: Reach the [abandoned Dunmari fort](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>) east of the [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>). Kill skeletons that emergy from the ground. 

@@ -1,0 +1,21 @@
+---
+headerVersion: 2023.11.25
+tags: [group]
+displayDefaults: {boxInfo: '<ancestry:UA> <typeof:UA> of <partof:UA>', partOf: ''}
+name: Faculty of Theology
+typeOf: faculty
+partOf: University of Chardon
+whereabouts: Chardon
+dm_owner: tim
+dm_notes: none
+title: Faculty of Theology
+---
+# The Faculty of Theology
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+-
+   :octicons-info-24:{ .lg .middle } A faculty of the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>)  
+    :octicons-location-24:{ .lg .middle } Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../gazetteer/greater-chardon/greater-chardon.md>)  
+</div>
+
+
+The Faculty of Theology is one of the five graduate faculties of the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>). 

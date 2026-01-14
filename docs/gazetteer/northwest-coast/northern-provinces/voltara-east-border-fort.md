@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place, status/check/name]
 name: Voltara East Border Fort
-typeOf: fort
+typeOf: building
 whereabouts:
 - {type: primary, location: Northern Provinces}
 dm_owner: none
 dm_notes: none
+typeOfAlias: fort
 unlisted: true
 title: Voltara East Border Fort
 ---

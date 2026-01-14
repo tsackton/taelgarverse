@@ -17,8 +17,9 @@ title: Tyrwinghan Watershed
 
 Tyrwingha is a small land nestled between the [Mostreve Hills](<../../mostreve-hills.md>) in the south and west, the [Western Gulf](<../../western-gulf.md>), in the east, and the two lizardfolk swamps [Ozabal](<../../ozabal.md>) and [Latazaro](<../../latazaro.md>), in the north-west and east, respectively. In between these boundaries a number of rivers flow from the [Mostreve Hills](<../../mostreve-hills.md>) to the [Western Gulf](<../../western-gulf.md>), the most important of which are:
 
-* The [Rhewin](<./rhewin.md>), in the north
-* The [Aben](<./aben.md>), which, joined by the [Trellyn](<./trellyn.md>) and the Daran, flows past [Tafolwern](<../../tyrwingha/tafolwern.md>) into the [Tywynn Bay](<../../tyrwingha/tywynn-bay.md>), a narrow bay of the [Western Gulf](<../../western-gulf.md>)
-* The Llanfen, in the west, on the edges of [Latazaro](<../../latazaro.md>)
+* The [Rhewin](<./rhewin.md>), in the west
+* The [Aben](<./aben.md>), which, joined by the [Trellyn](<./trellyn.md>) and the [Daran](<./daran.md>), flows past [Tafolwern](<../../tyrwingha/tafolwern.md>) into the [Tywynn Bay](<../../tyrwingha/tywynn-bay.md>), a narrow bay of the [Western Gulf](<../../western-gulf.md>)
+* The [Llanfen](<./llanfen.md>), in the east, on the edges of [Latazaro](<../../latazaro.md>)
 
-The watershed also includes a number of smaller rivers and brooks, especeially north of the [Rhewin](<./rhewin.md>), where high ground separates the [Aure](<../wistel-enst-watershed/aure.md>) and [Enst](<../wistel-enst-watershed/enst.md>) watersheds from Tyrwingha.
+The watershed also includes a number of smaller rivers and brooks, especeially northweset of the [Rhewin](<./rhewin.md>), where high ground separates the [Aure](<../wistel-enst-watershed/aure.md>) and [Enst](<../wistel-enst-watershed/enst.md>) watersheds from Tyrwingha.
+

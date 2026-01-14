@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/mawar]
+tags: [person]
 campaignInfo:
 name: Trok
 born:
@@ -9,6 +9,7 @@ subspecies: salt
 gender: male
 player: Eric Rosenbaum
 affiliations:
+- {org: Adventurers of Mawar}
 excludePublish: [clee]
 dm_owner: player
 dm_notes: important
@@ -19,6 +20,7 @@ title: Trok
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (salt) (he/him)  
+    Member of the Adventurers of Mawar  
     { .bio }
 
 </div>

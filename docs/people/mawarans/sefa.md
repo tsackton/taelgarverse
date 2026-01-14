@@ -17,7 +17,7 @@ title: Sefa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Mawaran [human](<../../creatures/species/humans.md>) (she/her)  
+    A [Mawaran](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Died August 5th, 1747  
     { .bio }
 

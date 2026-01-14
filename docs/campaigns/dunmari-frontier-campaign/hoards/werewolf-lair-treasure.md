@@ -1,6 +1,9 @@
 ---
-{title: Werewolf Lair Treasure}
+tags: [meta]
+typeOf: hoard
+title: Werewolf Lair Treasure
 ---
+
 ## Magic Items
 
 - Vicious Shortsword (rare major item) 

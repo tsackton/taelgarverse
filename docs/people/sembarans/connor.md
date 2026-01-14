@@ -17,7 +17,7 @@ title: Connor
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1684 (65 years old)  
+    Born DR 1684 (66 years old)  
     Guardsman of the Asineau Manor Guard  
     { .bio }
 

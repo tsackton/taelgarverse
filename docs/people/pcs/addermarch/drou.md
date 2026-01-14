@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/addermarch, person, status/active]
+tags: [person]
 species: elf
 gender: female
 ddbLink: https://www.dndbeyond.com/characters/131356005
 player: Kate Sackton
 ka: 37
+affiliations:
+- {type: primary, org: Addermarch Mercenaries}
 dm_owner: player
 dm_notes: none
 whereabouts:
@@ -17,10 +19,10 @@ title: Drou
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../creatures/species/elves.md>) (she/her), ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
+    An [elf](<../../../creatures/species/elves.md>) (she/her), of the [Addermarch Mercenaries](<./addermarch-mercenaries.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
     { .bio }
 
-    Originally from: [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>)
+    Originally from: [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)
     Based in [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>)
     :simple-dungeonsanddragons:{ .middle} [Character Sheet](https://www.dndbeyond.com/characters/131356005) 
 </div>

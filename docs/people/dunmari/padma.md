@@ -18,7 +18,7 @@ title: Padma
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1720 (29 years old)  
+    Born DR 1720 (30 years old)  
     { .bio }
 
     Based an unnamed caravanserai, the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

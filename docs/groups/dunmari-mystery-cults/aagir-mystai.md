@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
-displayDefaults: {partOf: '', boxInfo: '<ancestry:UA> <typeof:UA> of <deity:UA>'}
+tags: [group]
 name: Aagiri
 typeOf: mystery cult
 ancestry: Dunmari
-deity: Aagir
+affiliations:
+- {type: primary, org: Aagir}
 dm_owner: tim
 dm_notes: important
 title: Aagiri
@@ -13,7 +13,7 @@ title: Aagiri
 # Aagiri
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
-   :octicons-info-24:{ .lg .middle } A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) mystery cult of [Aagir](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/aagir.md>)  
+   :octicons-info-24:{ .lg .middle } A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) mystery cult, of [Aagir](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/aagir.md>)  
 </div>
 
 

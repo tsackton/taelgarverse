@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/needswork/gameupdate]
-campaignInfo: []
+tags: [person, status/gameupdate/dufr]
 name: Nayan Karnas
 aliases: [Karnas]
 born: 1716
@@ -23,7 +22,7 @@ dm_owner: tim
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)  
-    Born DR 1716 (33 years old)  
+    Born DR 1716 (34 years old)  
     Samraat of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (since DR 1740)  
     { .bio }
 

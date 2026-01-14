@@ -36,7 +36,7 @@ In the aftermath of victory, the [Dunmar Fellowship](<../../../people/pcs/dunmar
 - Jan 24, 1749 DR: Meet [Nuzkar](<../../../people/orcs/nuzkar.md>) and [Aygul](<../../../people/orcs/aygul.md>), [orc](<../../../creatures/species/orcs.md>) sisters who join the crew of [Vindristjarna](<../../../things/ships/vindristjarna.md>). Depart west.
 - Jan 25, 1749 DR: Travel west across the [Garamjala](<../../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), passing over [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>). Stop and explore.
 - Jan 26, 1749 DR: Burn Grash's orc warren in a holy ritual, freeing souls of the plague dead who died on this spot. Turn west in the afternoon, departing [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>).
-- Jan 27, 1749 DR: Travel west across the [Nashtkar](<../../../gazetteer/greater-dunmar/hara-basin/nashtkar.md>).
+- Jan 27, 1749 DR: Travel west across the [Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>).
 - Jan 28, 1749 DR: Arrive at [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/hara-basin/pava-and-avaras-house.md>). Meet [Kethra](<../../../people/dwarves/kethra.md>), a [dwarven](<../../../creatures/species/dwarves.md>) smith who has sought out [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) to be her mentor.
 - Jan 29, 1749 DR: Stay with [Pava](<../../../people/dunmari/pava.md>), [Avaras](<../../../people/dunmari/avaras.md>), and [Amil](<../../../people/dunmari/amil.md>).
 - Jan 30, 1749 DR: (morning) Discuss the situation in [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) with [Pava](<../../../people/dunmari/pava.md>) and consider whether to intervene somehow. 

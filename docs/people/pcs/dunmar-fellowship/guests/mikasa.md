@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest]
-campaignInfo: []
+tags: [person]
 name: Mikasa
 born:
 species: fey
@@ -9,6 +8,9 @@ ancestry:
 gender: female
 player: David Kong
 excludePublish: [clee]
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+affiliations:
+- {org: Dunmar Fellowship, title: Guest"}
 dm_owner: player
 dm_notes: important
 title: Mikasa
@@ -18,6 +20,7 @@ title: Mikasa
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [fey](<../../../../creatures/fey/fey.md>) (she/her)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

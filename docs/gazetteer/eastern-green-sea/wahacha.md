@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Wahacha
-typeOf: town
-subTypeOf: port
+typeOf: settlement
+subTypeOf:
 whereabouts: Vermillion Isles
 ancestry: kenku
 dm_owner: none
 dm_notes: none
+typeOfAlias: port town
 title: Wahacha
 ---
 # Wahacha

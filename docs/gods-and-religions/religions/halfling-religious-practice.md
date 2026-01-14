@@ -1,5 +1,5 @@
 ---
-tags: [background, religion/halflings, status/needswork/wip]
+tags: [background, religion/halflings, status/check/errors]
 dm_owner: joint
 dm_notes: none
 title: Halfling Religious Practice
@@ -21,8 +21,4 @@ History-bearers, those halflings who through practice or divine inspiration have
 Halflings build no temples, rarely settling in one place for long enough to be concerned with the construction of physical monuments to the gods. But halfling shrines dot the landscape, often in natural places that capture particular experiences, that evoke the feelings of an aesthetic that embraces life-as-it-is, not life as something artificially made to be perfect. A small, out of the way path off a main trade road, that leads to a particular ravine or grove of tree or waterfall may turn out to be a sacred halfling shrine.
 
 
-## Afterlife
- 
-Halflings, when they die, do not long linger as individual, distinct souls. Instead, they slowly fade into the halfling soulmind, their memories and personalities becoming diffuse and indistinct, a part of the great ocean of halfling souls. 
 
-In this way, the Divine Realm of the First Ones is less a place than a memory, a superposition of all the experiences, hopes, and dreams of halflings since the dawn of time. 

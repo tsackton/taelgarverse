@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/old]
+tags: [place]
 name: Skepwalk
-typeOf: ward
+typeOf: neighborhood
 whereabouts: Tollen
-dm_notes: color
-dm_owner: tim
+dm_notes: none
+dm_owner: none
+typeOfAlias: ward
 title: Skepwalk
 ---
 # Skepwalk
@@ -14,4 +15,5 @@ title: Skepwalk
 </div>
 
 
-An ancient ward of Tollen, possibly the site of the original settlement in this area. It is home to the largeset deepwater harbors of the [Port of Tollen](<../port-of-tollen.md>). 
+An ancient ward of Tollen, often claimed to be the site of the original settlement in this area. It is home to the largest deepwater harbors of the [Port of Tollen](<../port-of-tollen.md>). 
+

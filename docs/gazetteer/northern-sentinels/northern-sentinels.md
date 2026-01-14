@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place]
 typeOf: region
 whereabouts:
 - {type: home, location: Taelgar, linkText: in}
@@ -12,8 +12,6 @@ title: Northern Sentinels
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A region in Taelgar  
 </div>
-
-
 
 
 Even among the halflings, few reliable tales come from the northern reaches of the great [Sentinel Range](<../sentinel-range.md>). This is a wild and unpeopled land, haunted by the scars of the [Great War](<../../events/1500s/great-war.md>), and spoken of uncertainly, in hushed tones even among the adventurous. What stories do drift south speak of vast pine forests, uninhabitable bogs, and the tall mountain peaks of the [northern Sentinels](<../sentinel-range.md#northern-sentinels>), painting a picture of a rugged and beautiful, but inhospitable and dangerous, landscape. 
@@ -53,8 +51,6 @@ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" >
 
 ## Topography and Major Features
 
-
-
 Even among the halflings, few have dared to map this region, nestled on the west side of the [Sentinel Range](<../sentinel-range.md>), and even among the most daring traders, few find profit traveling these dangerous lands. Much of the region dominated by the northern [Sentinels](<../sentinel-range.md>) and the forests and rivers on their western slopes, making travel slope and difficult. The mountains themselves are snowy and rocky, with the highest peaks cold and frozen year round. 
 
 The information reported here largely derives from the scattered human tribes in the area speak of the dangerous forests and swamps:
@@ -69,17 +65,15 @@ There are two major river systems that originate in this region:
 - The [Nahadi](<../major-rivers/chasa-nahadi-watershed/nahadi.md>) in the local language, and translated by halflings at the Great River, flows from its origins in the [Blackwater Fens](<./blackwater-fens.md>) south to [Lake Valandros](<../greater-chardon/lake-valandros.md>) and beyond. 
 ## Civilizations and Cultures
 
-
-
 There are few humans in this region, although the northern Deno'qai tribes make their home here. The dwarven kingdom of [Fahnukan](<./fahnukan.md>) lies beneath the northern Sentinels, and [stoneborn](<../../creatures/species/stoneborn.md>) are known to live in the highlands and foothills of the [Sentinels](<../sentinel-range.md>).
 
 
 ## Major Historical Eras
-_See more: Pandar_
+_See more: [Pandar](<../../history/historical-realms/pandar.md>)_
 
-In the ancient days before [The Downfall](<../../events/ancient/the-downfall.md>) it is said that the northerners crossed the [Sentinels](<../sentinel-range.md>) at the ~Unnamed North Sentinel Pass~  in their eastward migrations, but the truth of this is unclear.
+In the ancient days before The Downfall it is said that the northerners crossed the [Sentinels](<../sentinel-range.md>) at the ~Unnamed North Sentinel Pass~  in their eastward migrations, but the truth of this is unclear.
 
-In the long years leading up to the [Great War](<../../events/1500s/great-war.md>) the land of Pandar was [Cha'mutte's](<../../people/extraplanar-powers/cha-mutte.md>) home, and hobgoblins and enslaved [kenku](<../../creatures/species/kenku.md>) were common sights. Since the [Great War](<../../events/1500s/great-war.md>) this area has been lightly populated and full of dangers.
+In the long years leading up to the [Great War](<../../events/1500s/great-war.md>) the land of [Pandar](<../../history/historical-realms/pandar.md>) was [Cha'mutte's](<../../people/extraplanar-powers/cha-mutte.md>) home, and hobgoblins and enslaved [kenku](<../../creatures/species/kenku.md>) were common sights. Since the [Great War](<../../events/1500s/great-war.md>) this area has been lightly populated and full of dangers.
 ## Climate
 The mountains here are snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. The forests and fens to the west are marked by cold, snowy winters and short, wet summers. There is little farmable land here.
 

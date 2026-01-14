@@ -23,7 +23,7 @@ title: Nogu
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [orc](<../../creatures/species/orcs.md>) (she/her), of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
-    Born DR 1662 (87 years old)  
+    Born DR 1662 (88 years old)  
     { .bio }
 
     Based in [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)

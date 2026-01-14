@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
-ddblink: https://www.dndbeyond.com/magic-items/7676659-binding-stones-of-amloch
+tags: [object]
+ddbLink: https://www.dndbeyond.com/magic-items/7676659-binding-stones-of-amloch
 name: Binding Stones of Amloch
 whereabouts: Seeker
 typeOf: wonderous item
@@ -10,12 +10,13 @@ title: Binding Stones of Amloch
 ---
 # The Binding Stones of Amloch
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Legendary Wonderous Item__  
+- :octicons-info-24:{ .lg .middle } __(legendary wonderous item)__  
    Owned by [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)  
+    :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/7676659-binding-stones-of-amloch) 
 </div>
 
 
-![Binding Stones](../../../assets/binding-stones.jpg){align="right"; width="400"}A set of five crystals, each a different color, dating from before the [Downfall](<../../../events/ancient/the-downfall.md>) to the early days of [Hkar](<../../../history/historical-realms/hkar.md>), constructed by the wizard Amloch. 
+![Binding Stones](../../../assets/binding-stones.jpg){align="right"; width="400"}A set of five crystals, each a different color, dating from before the Downfall to the early days of [Hkar](<../../../history/historical-realms/hkar.md>), constructed by the wizard Amloch. 
 While little is known for certain about their magic, they are powerful in entrapment and imprisonment, and in manipulating extraplanar creatures. 
 
 The binding stones are known to have been used by the Drankorian wizard [Eudomes](<../../../people/historical-figures/eudomes.md>), a member of the [Occulta Ludum](<../../../groups/drankorian-societies/occulta-ludum.md>), to bind the storm giant [Hralgar](<../../../people/giants/hralgar.md>) at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>). They were removed from the tower in DR 1748 by [Dee Wildcloak](<../../../people/halflings/dee-wildcloak.md>), [Dain Goldhammer](<../../../people/dwarves/dain-goldhammer.md>), and companions, eventually finding their way into the possession of the wizard [Fausto](<../../../people/chardonians/fausto.md>), and [later the Dunmar Fellowship](<../session-notes/session-48-dufr.md>).

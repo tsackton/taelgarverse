@@ -28,7 +28,7 @@ title: Garret Tealeaf
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)  
-    Born DR 1656 (93 years old)  
+    Born DR 1656 (94 years old)  
     { .bio }
 
     Originally from: [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

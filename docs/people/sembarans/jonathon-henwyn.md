@@ -21,7 +21,7 @@ title: Jonathon Henwyn
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1680 (69 years old)  
+    Born DR 1680 (70 years old)  
     Steward of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)  
     Member of the [Lord's Council of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-council-of-cleenseau.md>)  
     { .bio }

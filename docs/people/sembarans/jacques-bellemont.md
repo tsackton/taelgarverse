@@ -17,7 +17,7 @@ dm_owner: mike
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1659 (90 years old)  
+    Born DR 1659 (91 years old)  
     Duke of the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>) (since DR 1700)  
     { .bio }
 

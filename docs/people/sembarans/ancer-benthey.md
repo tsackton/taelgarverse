@@ -22,7 +22,7 @@ title: Ancer Benthey
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1689 (60 years old)  
+    Born DR 1689 (61 years old)  
     Sergeant of the Bridge Patrol, and the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) (since November 20th, 1719)  
     { .bio }
 

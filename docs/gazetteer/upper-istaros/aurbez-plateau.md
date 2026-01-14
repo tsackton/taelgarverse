@@ -2,7 +2,8 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Aurbez Plateau
-typeOf: region
+typeOf: topographical feature
+typeOfAlias: plateau
 whereabouts: Aurbez and the Andonne
 dm_owner: none
 dm_notes: none
@@ -10,7 +11,7 @@ title: Aurbez Plateau
 ---
 # The Aurbez Plateau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in the [Aurbez and the Andonne](<./aurbez-and-the-andonne.md>), the [Istaros Watershed](<../major-rivers/istaros-watershed/istaros-watershed.md>)  
+-    :octicons-location-24:{ .lg .middle } A plateau in the [Aurbez and the Andonne](<./aurbez-and-the-andonne.md>), the [Upper Istaros](<./upper-istaros.md>)  
 </div>
 
 

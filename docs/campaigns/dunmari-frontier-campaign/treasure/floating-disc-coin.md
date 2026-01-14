@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: coin
 subTypeOf: magic
 ddbLink: https://www.dndbeyond.com/magic-items/1872181-floating-coin
@@ -8,7 +8,7 @@ title: Floating Disc Coin
 ---
 # The Floating Disc Coin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __Magic Coin__  
+- :octicons-info-24:{ .lg .middle } __(magic coin)__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/1872181-floating-coin) 
 </div>
 

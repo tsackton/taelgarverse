@@ -7,12 +7,14 @@ affiliations:
 - {org: The Rangers}
 dm_owner: tim
 dm_notes: none
+species: unknown
 title: Cadan
 ---
 # Cadan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
+    An unknown  
     Died DR 1387  
     Member of [The Rangers](<../../groups/the-rangers.md>) (until DR 1387)  
     { .bio }

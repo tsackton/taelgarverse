@@ -27,8 +27,8 @@ The Plane of Creation plays a meaningful role in the magic of Taelgar, as the ul
 - Soulstuff
 - Discord Chat - Multiverse
 - Discord Chat - Divine Power in Taelgar
-- [Riving](<../events/ancient/riving.md>)
-- [Riving](<../events/ancient/riving.md>)
+- Riving
+- Riving
 
 The basic vibe, whatever the exact details, is that the Plane of Creation is the divine counterpart to the Plane of Magic, the source of all divine magic, and the home -- in whatever sense they have of home -- of the [Divine Presence](<../gods-and-religions/gods/high-gods/divine-presence.md>), and that the Divine Presence is an effectively (or actually) infinite source of divine magic / Soulstuff etc. 
 

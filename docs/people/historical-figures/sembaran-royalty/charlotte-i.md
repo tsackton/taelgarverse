@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [person]
 name: Charlotte I
 born: 1460
 species: human
@@ -8,14 +8,13 @@ ancestry: Sembaran
 gender: female
 died: 1519
 title: Queen Charlotte I
-leaderOf:
+affiliations:
+- {org: House of Sewick, type: primary}
 - {place: Tyrwingha, start: 1496}
 - {place: Sembara, start: 1496}
 - {place: Ardlas, start: 1499}
 - {place: Lavnoch, start: 1501}
 - {place: Breva, start: 1506}
-affiliations:
-- {org: House of Sewick, type: primary}
 dm_notes: none
 dm_owner: none
 ---

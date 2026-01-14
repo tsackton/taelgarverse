@@ -3,11 +3,12 @@ headerVersion: 2023.11.25
 tags: [place]
 campaignInfo:
 name: Telham
-typeOf: city
+typeOf: settlement
 whereabouts: Duchy of Telham
 population: 12000
 dm_owner: none
 dm_notes: none
+typeOfAlias: city
 title: Telham
 ---
 # Telham

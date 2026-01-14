@@ -3,10 +3,10 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: plane
 whereabouts:
-- {type: home, location: Echo Realms, wHome: 'A <subtypeOf> <typeOf> in <home:1>'}
-subtypeOf: rumored
+- {type: home, location: Echo Realms, wHome: 'A <typeOf> in <home:1>'}
 dm_owner: none
 dm_notes: none
+typeOfAlias: rumored plane
 title: Mirror Realm
 ---
 # The Mirror Realm

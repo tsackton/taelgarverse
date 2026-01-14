@@ -4,12 +4,13 @@ tags: [place, status/cleanup/text]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Dwarven Outpost (Raven's Hold)
-typeOf: fort
+typeOf: building
 ancestry: dwarven
 subTypeOf: ruined
 whereabouts: Sentinel Range
 dm_notes: important
 dm_owner: tim
+typeOfAlias: fort
 title: Dwarven Outpost (Raven's Hold)
 ---
 # Dwarven Outpost (Raven's Hold)

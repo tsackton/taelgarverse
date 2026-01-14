@@ -3,15 +3,16 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
 name: Eastern Dunmar
-typeOf: subregion
+typeOf: region
 whereabouts: Dunmar
 dm_notes: color
 dm_owner: tim
+typeOfAlias:
 title: Eastern Dunmar
 ---
 # Eastern Dunmar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A subregion in [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
 </div>
 
 

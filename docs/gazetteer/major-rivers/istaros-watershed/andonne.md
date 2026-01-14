@@ -4,10 +4,11 @@ tags: [place]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Andonne
-typeOf: river
+typeOf: waterway
 whereabouts: Greater Sembara
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 title: Andonne
 ---
 # The Andonne

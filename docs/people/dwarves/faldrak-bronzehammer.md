@@ -9,7 +9,8 @@ species: dwarf
 ancestry:
 gender: male
 aliases: [Faldrak]
-family: Bronzehammer
+affiliations:
+- {org: Bronzehammers, type: primary}
 whereabouts:
 - {type: home, start: '', end: 1693-01-01, location: Fahnukan}
 - {type: away, start: 1693-01-01, end: '', location: Feywild}
@@ -25,8 +26,8 @@ title: Faldrak Bronzehammer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
-    Born DR 1516 (233 years old)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of Bronzehammers  
+    Born DR 1516 (234 years old)  
     { .bio }
 
     Originally from: [Fahnukan](<../../gazetteer/northern-sentinels/fahnukan.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)

@@ -1,5 +1,6 @@
 ---
-tags: [species, status/needswork/old]
+tags: [creature, status/wip]
+aliases: [kobold]
 dm_owner: joint
 dm_notes: important
 title: Kobolds

@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: mountain range
+typeOf: topographical feature
 whereabouts: Greater Chardon
 name: Chataan Mountains
 pronunciation: cha-TAWN
 dm_owner: none
 dm_notes: none
+typeOfAlias: mountain range
 title: Chataan Mountains
 ---
 # The Chataan Mountains

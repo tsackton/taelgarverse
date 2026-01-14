@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, person, status/needswork/gameupdate]
+tags: [person, status/gameupdate/dufr]
 name: Kyr
 species: lizardfolk
 gender: male
 player: Eric Rosenbaum
-affiliations: [Heroes of the Great War]
+affiliations:
+- {type: primary, org: Heroes of the Great War}
 dm_notes: important
 dm_owner: player
 title: Kyr
@@ -14,8 +15,7 @@ title: Kyr
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (he/him)  
-    Member of the [Heroes of the Great War](<./heroes-of-the-great-war.md>)  
+    A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (he/him), of the [Heroes of the Great War](<./heroes-of-the-great-war.md>)  
     { .bio }
 
 </div>

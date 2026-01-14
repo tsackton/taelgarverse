@@ -25,6 +25,6 @@ Major tributaries include:
 * West of [Ainwick](<../../sembara/barony-of-ainwick/ainwick.md>), the Tarnslow, which meanders north and west from the north edge of the  [Cleenseau Wood](<../../sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>)
 * From the [Aine Hills](<../../sembara/aine-hills.md>), numerous small brooks, the most prominent of which are the Wetherburn and the Mereburn
 * the [Bollin](<./bollin.md>), with a confluence near [Ainwick](<../../sembara/barony-of-ainwick/ainwick.md>)
-* West of [Gowerbourne](<../../sembara/heartlands/gowerbourne.md>), the Chemelle which flows south from the [Aine Hills](<../../sembara/aine-hills.md>), and the [Rindle](<./rindle.md>), which flows north from Wisford
-* Between [Gowerbourne](<../../sembara/heartlands/gowerbourne.md>) and [Wisford](<../../sembara/heartlands/wisford.md>): the Lanting, and several small brooks, the most prominent of which are Holling Brook and Ashwell Brook
-* East of [Wisford](<../../sembara/heartlands/wisford.md>): the Brunebeck, which joins the Wistel at Wisford
+* West of [Gowerbourne](<../../sembara/heartlands/gowerbourne.md>), the [Chemelle](<./chemelle.md>) which flows south from the [Aine Hills](<../../sembara/aine-hills.md>), and the [Rindle](<./rindle.md>), which flows north from Wisford
+* Between [Gowerbourne](<../../sembara/heartlands/gowerbourne.md>) and [Wisford](<../../sembara/heartlands/wisford.md>): the [Lanting](<./lanting.md>), and several small brooks, the most prominent of which are Holling Brook and Ashwell Brook
+* East of [Wisford](<../../sembara/heartlands/wisford.md>): the [Brunebeck](<./brunebeck.md>), which joins the Wistel at Wisford

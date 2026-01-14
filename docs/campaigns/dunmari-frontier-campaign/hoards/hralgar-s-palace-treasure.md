@@ -1,6 +1,9 @@
 ---
-{title: Hralgar's Palace Treasure}
+tags: [meta]
+typeOf: hoard
+title: Hralgar's Palace Treasure
 ---
+
 # Treasure from Hralgar's Palace
 
 - [Hralgar's Phasing Stone](<../treasure/hralgar-s-phasing-stone.md>) (powers [Vindristjarna](<../../../things/ships/vindristjarna.md>), party), recovered from Hralgar's ancient, now abandoned, palace in the southern part of the [Sentinel Range](<../../../gazetteer/sentinel-range.md>). 

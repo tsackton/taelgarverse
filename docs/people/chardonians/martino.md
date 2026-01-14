@@ -19,7 +19,7 @@ title: Martino
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1681 (68 years old)  
+    Born DR 1681 (69 years old)  
     { .bio }
 
     Originally from: [Artevus](<../../gazetteer/greater-chardon/chardonian-empire/apporia/artevus.md>), [Portalia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/portalia.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

@@ -20,7 +20,7 @@ title: Gnaeus
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1701 (48 years old)  
+    Born DR 1701 (49 years old)  
     Member of the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>), and [Sibyl's Hall](<../../groups/chardonian-organizations/sibyl-s-hall.md>)  
     { .bio }
 

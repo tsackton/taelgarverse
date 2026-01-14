@@ -3,16 +3,17 @@ headerVersion: 2023.11.25
 tags: [place, status/check/mike]
 displayDefaults: {defArt: the}
 name: Great Chasm
-typeOf: gorge
+typeOf: topographical feature
 typeOfAlias: chasm
 whereabouts: Zimkova
 dm_notes: none
 dm_owner: none
+subTypeOf: gorge
 title: Great Chasm
 ---
 # The Great Chasm
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A chasm in [Zimkova](<./zimkova.md>), [Greater Sembara](<../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A gorge chasm in [Zimkova](<./zimkova.md>), [Greater Sembara](<../greater-sembara.md>)  
 </div>
 
 
@@ -26,7 +27,7 @@ A massive chasm near the headwaters of the [Teft](<../rivers/teft-watershed/teft
 
 The chasm, as far as anyone knows, has no bottom. The depths of the chasm sometimes appear to have massive spires, and but at other times they are not visible. Weather often comes from the chasm - cold winds and snow, blowing up out of the depths, in winter, and soaking rains, thunder, and the occasional hot wind in the summer, though stranger storms also blow through and once in a blue moon the chasm brings snow in summer. The cliffs of the chasm are home to strange plants, clinging to the sides of the chasm, said to have come from the depths. 
 
-About midway through the Chasm, on the north side, is the Kemeko Monastery, built by giants, it is assumed in ancient days. About a thousand feet below the river channel, it is hard to reach except by huge steps carved by giants, into which smaller human-sized steps have been carved. It usually takes a full day or more to climb down the thousands of steps, and there are several good places to camp.
+About midway through the Chasm, on the north side, is the [Kemeko Monastery](<./kemeko-monastery.md>), built by giants, it is assumed in ancient days. About a thousand feet below the river channel, it is hard to reach except by huge steps carved by giants, into which smaller human-sized steps have been carved. It usually takes a full day or more to climb down the thousands of steps, and there are several good places to camp.
 
 What else lurks in the depths of the chasm is not known, though rumors speak of strange planar connections: Ishara Venn claimed in The Seams Between Worlds that the chasm likely had no bottom and attracted elemental vortexes regularly, such that any traveler foolish enough to seek the chasm floor would eventually find themselves wandering the [Elemental Plane of Air](<../../../cosmology/energy-realms/elemental-plane-of-air.md>), or perhaps some other elemental plane. But no reliable confirmation of this claim exists. 
 

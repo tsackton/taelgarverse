@@ -1,9 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person, status/cleanup/metadata]
 name: Mavdyr
 species: giant
 subspecies: fire giant
+died: 1
 gender: male
 dm_notes: important
 dm_owner: tim
@@ -13,10 +14,13 @@ title: Mavdyr
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [giant](<../../creatures/species/giants.md>) ([fire giant](<../../creatures/species/giants.md>)) (he/him)  
+    A [giant](<../../creatures/species/giants.md>) (fire giant) (he/him)  
+    Died  
     { .bio }
 
 </div>
+
+
 
 
 

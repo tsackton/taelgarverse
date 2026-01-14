@@ -9,6 +9,7 @@ whereabouts: Tyrwingha
 pronunciation: CLOW-in
 dm_notes: color
 dm_owner: mike
+subTypeOf:
 title: Clawyn
 ---
 # Clawyn

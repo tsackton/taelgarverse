@@ -1,16 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/incomplete]
+tags: [place, status/gameupdate/dufr]
 displayDefaults: {dPast: ''}
 destroyed: 1545
 ancestry: Dunmari
 name: Kharsan
-typeOf: city
+typeOf: settlement
 whereabouts:
 - {type: home, end: 1544, location: Dunmar, wOrigin: 'Originally part of <origin:1><(, )endstatus> <(in )enddate>'}
 - {type: home, start: 1545, location: Garamjala Desert, wPastHome: 'Ruined <ancestry> <typeOf> <home:2qr>'}
 dm_owner: tim
 dm_notes: important
+typeOfAlias: city
 title: Kharsan
 ---
 # Kharsan
