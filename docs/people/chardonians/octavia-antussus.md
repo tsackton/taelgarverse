@@ -20,5 +20,12 @@ title: Octavia Antussus
 </div>
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1698 (52 years old)  
+    { .bio }
+
+</div>
+
+
 An advisor to [Mitus Verina Auratan](<./mitus-verina-auratan.md>). 
 

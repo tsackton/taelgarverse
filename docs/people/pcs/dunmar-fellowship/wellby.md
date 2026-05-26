@@ -26,6 +26,13 @@ title: Wellby
 </div>
 
 
+    A [halfling](<../../../creatures/species/halflings.md>) (he/him), of the [Goodbarrels](<../../../groups/halfling-families/goodbarrels.md>)  
+    Member of the [Dunmar Fellowship](<./dunmar-fellowship.md>)  
+    { .bio }
+
+</div>
+
+
 ![Welby Full](../../../assets/welby-full.jpg)
 
 ## Pre-Campaign Events

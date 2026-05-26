@@ -36,5 +36,18 @@ dm_notes: color
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Dyer's Guildhall](<../../gazetteer/greater-sembara/tollen/places/dyer-s-guildhall.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
+    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (she/her), of the the Chapmans  
+    Born DR 1715 (35 years old)  
+    Member of the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>)  
+    { .bio }
+
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Dyer's Guildhall](<../../gazetteer/greater-sembara/tollen/places/dyer-s-guildhall.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
+
+
 ![Jane Chapman Portrait](../../assets/jane-chapman-portrait.png){align="right"; width="320"}A Tollender-born woman in her early 30s, from the well-off and well-established Chapman merchant family, Jane became a Dyer's Guild captain known for her skill and her luck at sea.  
 

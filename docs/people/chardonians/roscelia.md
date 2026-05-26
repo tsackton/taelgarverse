@@ -26,6 +26,15 @@ title: Roscelia
 </div>
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1677 (73 years old)  
+    Member of the [Faculty of Magic](<../../groups/chardonian-organizations/faculty-of-magic.md>), the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>), and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
+    { .bio }
+
+    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+</div>
+
+
 
 
 An elderly magician, prim and proper, a member of the Faculty of Magic at the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>) and [Kaeso](<./kaeso.md>)'s mentor.

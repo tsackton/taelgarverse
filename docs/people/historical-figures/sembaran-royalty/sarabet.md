@@ -22,5 +22,12 @@ title: Sarabet
 </div>
 
 
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (she/her)  
+    b. DR 1488 - d. DR 1529, died at age 41 years  
+    { .bio }
+
+</div>
+
+
 The first wife of [Derik III](<./derik-iii.md>).
 

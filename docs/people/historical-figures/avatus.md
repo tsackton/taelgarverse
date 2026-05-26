@@ -20,6 +20,12 @@ dm_owner: joint
 </div>
 
 
+    A [human](<../../creatures/species/humans.md>) (he/him)  
+    { .bio }
+
+</div>
+
+
 
 
 The ruler of an autocracy established on the southern edge of Sembara in the DR 1420s. Commissioned the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>). 

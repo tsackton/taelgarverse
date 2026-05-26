@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/stub, status/check/ai]
+tags: [group]
 displayDefaults: {defArt: the}
 name: Tealeafs
 typeOf: family
@@ -16,16 +16,10 @@ title: Tealeafs
 </div>
 
 
-The Tealeafs are a halfling trading family known for long caravan circuits between [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). In recent decades, they are most closely associated with the patriarch [Garret Tealeaf](<../../people/halflings/garret-tealeaf.md>) and with the far‑reaching routes their wagons once traveled through [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), and [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>).
+The Tealeafs are a halfling trading family based in the [Greater Dunmar](<../../gazetteer/greater-dunmar/greater-dunmar.md>) area. They were a rich and prominent family of long-distance traders,  known for long overland caravan circuits between [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), and [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), in first decades of the DR 1700s. 
 
-In DR 1737 the Tealeaf caravan was attacked by [Agata](<../../people/fey/agata.md>) and [Dustthorn Horde](<../orc-hordes/dustthorn-horde.md>) raiders. Garret was captured and held for eleven years, until he was freed by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>); the surviving Tealeafs altered their routes in the aftermath of the attack.
+In DR 1737 the Tealeaf caravan was attacked by [Agata](<../../people/fey/agata.md>) and [Dustthorn Horde](<../orc-hordes/dustthorn-horde.md>) orc raiders. [Garret Tealeaf](<../../people/halflings/garret-tealeaf.md>), the patriarch of the family, was captured, and the family wealth was scattered among the survivors, who turned to shorter, safer, and less profitable routes. 
 
-## Sources
-
-- [Garret Tealeaf](<../../people/halflings/garret-tealeaf.md>)
-- [Oswalt Tealeaf](<../../people/halflings/oswalt-tealeaf.md>)
-
-
-
+Garret was freed eleven years later, in DR 1748, by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), though was left changed by his imprisonment, and the family has not recovered its former wealth and prominence. 
 
 

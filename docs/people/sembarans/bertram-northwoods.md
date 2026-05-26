@@ -22,4 +22,12 @@ title: Bertram Northwoods
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1673 (77 years old)  
+    { .bio }
+
+    Based in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>), the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
 ![Bertram Northwoods 2](../../assets/bertram-northwoods-2.png){align="right"; width="320"}The groom and stablemaster for [Lorin Valbert](<./lorin-valbert.md>). A cousin of [Phillipa Northwood](<./phillipa-northwood.md>).

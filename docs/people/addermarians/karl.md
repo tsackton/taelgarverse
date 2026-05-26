@@ -30,6 +30,18 @@ title: Karl
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
+    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1678 (72 years old)  
+    { .bio }
+
+    Based in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
+
+
 A soot‑stained charcoal burner of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>); father of [Bran](<./bran.md>) and husband of [Isolde of Haldrenn](<./isolde-of-haldrenn.md>).
 
 

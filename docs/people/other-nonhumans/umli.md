@@ -34,6 +34,19 @@ title: Umli the Exile
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
+    A [stoneborn](<../../creatures/species/stoneborn.md>) (she/her)  
+    Born DR 1666 (84 years old)  
+    { .bio }
+
+    Exiled from the Sivnjo Mountains in DR 1731
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) (for 18 years)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
+
+
 ![Umli the Exile Portrait](../../assets/umli-the-exile-portrait.png){align="right"; width="320"}Umli is tall, imposing stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork and intense obsidian-like eyes. She is a master metalworker and smith, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire. 
 
 Born in the southern [Svinjo Mountains](<../../gazetteer/northern-green-sea/svinjo-mountains.md>), she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) since DR 1732. 

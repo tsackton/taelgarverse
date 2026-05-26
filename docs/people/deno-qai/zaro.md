@@ -8,6 +8,8 @@ species: human
 ancestry: Deno'qai
 gender: male
 whereabouts: Bek'eni village
+affiliations:
+- {org: Bek'eni, type: primary}
 dm_owner: none
 dm_notes: color
 title: Zaro
@@ -16,7 +18,18 @@ title: Zaro
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him)  
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Bek'eni  
+    { .bio }
+
+    Based in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 6th, 1748 in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
+
+
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Bek'eni  
     { .bio }
 
     Based in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)

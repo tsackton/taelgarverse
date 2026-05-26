@@ -24,5 +24,12 @@ title: Derik
 </div>
 
 
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
+    b. DR 1573 - d. DR 1633, died at age 60 years  
+    { .bio }
+
+</div>
+
+
 The third child of [Elaine I](<./elaine-i.md>) and [Cynan](<./cynan.md>), and the founder of the cadet branch of the house, the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>). His great-granddaughter, [Elaine II](<./elaine-ii.md>), eventually became queen of Sembara.
 

@@ -35,7 +35,7 @@ The adventurers prepare in [Roscombe](<../../gazetteer/greater-sembara/addermarc
 - **[Drou](<../../people/pcs/addermarch/drou.md>)** – [elven](<../../creatures/species/elves.md>) bard-monk, star-touched performer and scout
 - **[Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)** – [human](<../../creatures/species/humans.md>) warlock-alchemist with a pseudodragon familiar
 - **[Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>)** – [halfling](<../../creatures/species/halflings.md>) wild-magic sorcerer and erstwhile painter
-- **[Owen Tavish](<../../people/addermarians/owen-tavish.md>)** – kindly priest of [the Sibyl](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>), chess enthusiast
+- **[Owen Tavish](<../../people/addermarians/owen-tavish.md>)** – kindly priest of the Sibyl, chess enthusiast
 - **[Isolde of Roscombe](<../../people/addermarians/isolde-of-roscombe.md>)** – pragmatic steward of the Temple of the Sibyl
 - **[Caradoc](<../../people/addermarians/caradoc.md>)** – eccentric hill-country alchemist; employer of the party
 - **Lady [Elowen Duval](<../../people/addermarians/elowen-duval.md>)** – castellan of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), patron of local heroes

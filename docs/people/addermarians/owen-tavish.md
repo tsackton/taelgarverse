@@ -31,6 +31,18 @@ title: Owen Tavish
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 6th, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
+    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    [Priest](<../../gods-and-religions/gods/embodied-gods/bahrazel/fanrukel.md>) of the Temple of the Sibyl (Roscombe)  
+    { .bio }
+
+    Based in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 6th, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+
+
 Owen Tavish is a priest of the [The Sibyl](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>), based out of the Temple of the Sibyl in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>). He leads the temple’s religious and scholarly work, advising [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)’s leadership as best he can. He is a warm, friendly man, although competitive at times; he enjoys games and scholarly discussion, which he sometimes sees as a game. 
 
 ## Events

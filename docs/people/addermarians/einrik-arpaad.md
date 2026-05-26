@@ -38,6 +38,23 @@ name: Einrik Arpaad
 :octicons-location-24:{ .lg .middle } Laid to rest [Owen Tavish](<./owen-tavish.md>) on May 6th, 1715 in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)  
 
 
+    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Died April 1st, 1715  
+    Commander of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>) (until April 1st, 1715)  
+    { .bio }
+
+    Lived in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Confronted by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on April 28th, 1715 in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Laid to rest [Owen Tavish](<./owen-tavish.md>) on May 6th, 1715 in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)  
+
+
 Sir Einrik Arpaad was the commander of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>) whose fall to the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) left him a wrathful ghost later laid to rest by [Owen Tavish](<./owen-tavish.md>).
 ## Overview
 Sir Einrik Arpaad commanded [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), the frontier fort protecting the sometimes-dangerous road through the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), connecting [Valcroix](<../../gazetteer/greater-sembara/addermarch/valcroix.md>) and [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>). Trusted for decades of service, he fell when the cursed [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) twisted his will, driving him to slaughter his garrison and, in turn, binding him as the fort’s wrathful ghost. The [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) escaped his haunt, and cleric [Owen Tavish](<./owen-tavish.md>) later laid the spirit to rest, leaving only a cautionary tale about the dagger’s malign influence.

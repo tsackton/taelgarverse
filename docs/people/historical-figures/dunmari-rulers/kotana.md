@@ -26,6 +26,14 @@ dm_owner: tim
 </div>
 
 
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Aatmaji dynasty](<../../../groups/dunmari-dynasties/aatmaji-dynasty.md>)  
+    Died DR 1250  
+    Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1187 - DR 1250)  
+    { .bio }
+
+</div>
+
+
 
 
 Son of [Bhishma](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>), second Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 

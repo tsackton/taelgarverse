@@ -31,6 +31,17 @@ title: Amil
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
 
 
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1731 (19 years old)  
+    Member of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
+
+
 
 
 ![Amil Final](../../assets/amil-final.jpg){align="right"; width="400"}A young monk, in training as an apprentice of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [Pava](<./pava.md>) and [Avaras](<./avaras.md>), on the edge of the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) in the blasted plains. 

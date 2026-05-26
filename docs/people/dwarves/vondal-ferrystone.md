@@ -21,4 +21,11 @@ title: Vondal Ferrystone
 </div>
 
 
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Ferrystones](<../../groups/dwarven-clans/ferrystones.md>)  
+    { .bio }
+
+    Based in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 ![Vondal Ferrystone](../../assets/vondal-ferrystone.png){align="left"; width="200"}

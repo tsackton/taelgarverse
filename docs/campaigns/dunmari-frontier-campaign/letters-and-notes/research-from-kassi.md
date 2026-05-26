@@ -5,7 +5,6 @@ title: Research from Kassi
 ---
 # Research from Kassi
 
-
 ## On Rai
 
 There are of course many legends of the heroes of the [Great War](<../../../events/1500s/great-war.md>), of their deeds in the desperate battles of that time, of the final battle at [Urlich Pass](<../../../gazetteer/central-highlands/urlich-pass.md>) and the destruction, at great cost, of [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>). But little is recorded in our lore of the lives of these heroes after the [Great War](<../../../events/1500s/great-war.md>).

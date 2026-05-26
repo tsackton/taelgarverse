@@ -21,4 +21,11 @@ title: Primrose Merriweather
 </div>
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Merriweathers](<../../groups/halfling-families/merriweathers.md>)  
+    { .bio }
+
+    Based in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 ![Primrose Merriweather](../../assets/primrose-merriweather.png){align="left"; width="200"}

@@ -16,7 +16,15 @@ title: Cadan
 
     An unknown  
     Died DR 1387  
-    Member of [The Rangers](<../../groups/the-rangers.md>) (until DR 1387)  
+    Member of the The Rangers (until DR 1387)  
+    { .bio }
+
+</div>
+
+
+    An unknown  
+    Died DR 1387  
+    Member of the The Rangers (until DR 1387)  
     { .bio }
 
 </div>

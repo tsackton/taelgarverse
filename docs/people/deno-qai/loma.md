@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/metadata]
 campaignInfo:
 - {campaign: GL, type: met, date: 1747-11-23}
 name: Loma
@@ -23,6 +23,17 @@ title: Loma
 
     Based in [Raha](<../../gazetteer/central-highlands/raha.md>), the [Highveil Forest](<../../gazetteer/central-highlands/highveil-forest.md>)
 </div>
+
+
+
+    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1733 (17 years old)  
+    { .bio }
+
+    Based in [Raha](<../../gazetteer/central-highlands/raha.md>), the [Highveil Forest](<../../gazetteer/central-highlands/highveil-forest.md>)
+</div>
+
+
 
 
 

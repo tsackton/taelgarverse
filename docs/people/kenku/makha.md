@@ -32,6 +32,18 @@ title: Makha
 :octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the ~Eastern Islands~  
 
 
+    An [Islander](<../../gazetteer/eastern-green-sea/vermillion-isles.md>) [kenku](<../../creatures/species/kenku.md>) (he/him)  
+    Born DR 1712 (38 years old)  
+    { .bio }
+
+    Based in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the ~Eastern Islands~
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the ~Eastern Islands~  
+
+
 ![Makha](../../assets/makha.png){align="right"; width="320"}The port master and unofficial town spokesperson for the kenku settlement of [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>).  
 ## Relationships:
 Makha knows the people of Wahacha well, including:

@@ -24,5 +24,12 @@ title: Hugh
 </div>
 
 
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [House of Wisenfold](<../../../groups/sembaran-noble-houses/house-of-wisenfold.md>)  
+    b. DR 1509 - d. DR 1562, died at age 53 years  
+    { .bio }
+
+</div>
+
+
 The founder of the [House of Wisenfold](<../../../groups/sembaran-noble-houses/house-of-wisenfold.md>), an important cadet branch of the royal Sembaran line, now based in the [Duchy of Wisford](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>). The second child of [Derik III](<./derik-iii.md>) and [Sarabet](<./sarabet.md>).
 

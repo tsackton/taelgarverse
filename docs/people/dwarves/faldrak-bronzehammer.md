@@ -40,6 +40,20 @@ title: Faldrak Bronzehammer
 :octicons-location-24:{ .lg .middle } First met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of Bronzehammers  
+    Born DR 1516 (234 years old)  
+    { .bio }
+
+    Originally from: [Fahnukan](<../../gazetteer/northern-sentinels/fahnukan.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } First met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
+
+
 ![Faldrak Portrait 1](../../assets/faldrak-portrait-1.png){align="right"; width="400"}Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
 ## Overview
 Faldrak Bronzehammer, with his eccentric blend of traditional dwarven craftsmanship and fey magic, has become a subject of both admiration and curiosity. Born in [Fahnukan](<../../gazetteer/northern-sentinels/fahnukan.md>), a strange northern dwarven kingdom, his life took an unexpected turn during an accidental sojourn in the [Feywild](<../../cosmology/feywild.md>). Although he emerged with peculiar behaviors, his enhanced craft bearing fey enchantments has left many in awe. 

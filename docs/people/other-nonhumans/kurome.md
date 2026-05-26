@@ -31,5 +31,18 @@ title: Kurome
 :octicons-location-24:{ .lg .middle } Seen in dreams by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 24th, 1748 in [Hralgar's Palace](<../../gazetteer/central-highlands/hralgar-s-palace.md>), the [Sentinel Range](<../../gazetteer/sentinel-range.md>)  
 
 
+    A dream being (he/him)  
+    { .bio }
+
+    Originally from: the [Nightmare Realm](<../../cosmology/demiplanes-and-echo-realms/nightmare-realm.md>), the [Echo Realms](<../../cosmology/demiplanes-and-echo-realms/echo-realms.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of November 24th, 1748): [Hralgar's Palace](<../../gazetteer/central-highlands/hralgar-s-palace.md>), the [Sentinel Range](<../../gazetteer/sentinel-range.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Seen in dreams by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 24th, 1748 in [Hralgar's Palace](<../../gazetteer/central-highlands/hralgar-s-palace.md>), the [Sentinel Range](<../../gazetteer/sentinel-range.md>)  
+
+
 A creature of dreams and nightmares. 
 

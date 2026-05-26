@@ -27,5 +27,13 @@ dm_owner: tim
 </div>
 
 
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Nayan dynasty](<../../../groups/dunmari-dynasties/nayan-dynasty.md>)  
+    Died DR 1630  
+    Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1603 - DR 1630)  
+    { .bio }
+
+</div>
+
+
 The ruler of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) during and after the [Northern War](<../../../events/1600s/northern-war.md>).
 

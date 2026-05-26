@@ -19,6 +19,12 @@ dm_owner: tim
 </div>
 
 
+    A [human](<../../../creatures/species/humans.md>) (he/him)  
+    { .bio }
+
+</div>
+
+
 
 
 A Drankorian emperor, supposedly [Helea](<./helea.md>)'s successor.

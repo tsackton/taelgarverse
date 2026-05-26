@@ -27,6 +27,15 @@ title: Armand
 :octicons-location-24:{ .lg .middle } Last known location (as of January 14th, 1720): [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    { .bio }
+
+    Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of January 14th, 1720): [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+
+
 
 
 ![Armand Night Queen New](../../assets/armand-night-queen-new.png){align="right"; width="400"}A warrior and disciple of the Night Queen. 

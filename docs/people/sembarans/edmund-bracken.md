@@ -22,4 +22,12 @@ title: Edmund Bracken
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1686 (64 years old)  
+    { .bio }
+
+    Based in [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>), the [Manor of Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-beury.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
 ![Edmund Bracken](../../assets/edmund-bracken.png){align="right"; width="320"}The chamberlain and valet of [Erick Murtha](<./erick-murtha.md>).

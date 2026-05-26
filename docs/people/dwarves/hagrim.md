@@ -29,6 +29,15 @@ title: Hagrim of Morkalan
 </div>
 
 
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
+    Died DR 1748  
+    { .bio }
+
+    Originally from: [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
+    Lived in [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), [Shadowfolds](<../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>), the [Echo Realms](<../../cosmology/demiplanes-and-echo-realms/echo-realms.md>)
+</div>
+
+
 
 
 ![Hagrim Portrait](../../assets/hagrim-portrait.png){align="right"; width="400"}A dwarf, once known as Hagrim Firebrand, who made a name for himself in the [Great War](<../../events/1500s/great-war.md>), but was unable to forget or move past the horrors he saw in battle against mind flayers and the aberrations of the deep, fighting under the halls of [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>). Whether he was broken by battle or his mind was corrupted by those evils, he returned a changed man. 

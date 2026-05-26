@@ -19,5 +19,11 @@ dm_owner: tim
 </div>
 
 
+    A [human](<../../../creatures/species/humans.md>) (she/her)  
+    { .bio }
+
+</div>
+
+
 A Drankorian emperor, supposedly assassinated by the [Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>).
 

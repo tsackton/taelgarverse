@@ -27,6 +27,15 @@ title: Harold Stonebridge
 
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>)  
+    Born DR 1708 (42 years old)  
+    { .bio }
+
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
+
 A halfling child, he is the errand boy of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). His older brothers liked to scare him with stories of ghosts and worse in the basement of the Crossroads Inn. 
 
 

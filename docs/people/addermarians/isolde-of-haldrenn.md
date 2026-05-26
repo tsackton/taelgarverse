@@ -30,6 +30,18 @@ title: Isolde of Haldrenn
 :octicons-location-24:{ .lg .middle } Mentioned to by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
+    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1684 (66 years old)  
+    { .bio }
+
+    Based in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Mentioned to by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
+
+
 A villager of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>); wife of [Karl](<./karl.md>) and mother of [Bran](<./bran.md>).
 
 

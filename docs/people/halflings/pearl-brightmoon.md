@@ -37,6 +37,22 @@ title: Pearl Brightmoon
 :octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Brightmoons](<../../groups/halfling-families/brightmoons.md>)  
+    First Mate of the [Wave Dancer](<../../things/ships/wave-dancer.md>)  
+    { .bio }
+
+    Based in the [Wave Dancer](<../../things/ships/wave-dancer.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on September 30th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), sailing to [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
+
+
 Pearl is a halfing woman in her prime, who serves as the captain of the guard and first mate on the Wave Dancer. She is well-muscled, and clearly good with a rapier. 
 ## Relationships
 - [Wella Brightmoon](<./wella-brightmoon.md>), cousin

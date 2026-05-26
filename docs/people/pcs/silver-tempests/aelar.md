@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/gameupdate/gl]
 species: elf
 name: Aelar
 gender: male
@@ -19,6 +19,17 @@ title: Aelar
 # Aelar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    An [elf](<../../../creatures/species/elves.md>) (he/him), ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
+    Born DR 1645 (105 years old)  
+    Member of the [Silver Tempests](<./silver-tempests.md>) (until May 1st, 1748)  
+    { .bio }
+
+    Originally from: [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of May 1st, 1748): the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>), [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>)
+
 
     An [elf](<../../../creatures/species/elves.md>) (he/him), ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
     Born DR 1645 (105 years old)  

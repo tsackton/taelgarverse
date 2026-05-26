@@ -4,16 +4,9 @@ dm_owner: shared,tim
 dm_notes: important
 title: Northern Folk Religions
 ---
-
-
-
-
 # Northern Folk Religions
 
-The first human emigrants from [Hkar](<../../../history/historical-realms/hkar.md>) brought with them an early intercessory religion, a belief that the spirits of the land would carry prayers to the [Divine Presence](<../../gods/high-gods/divine-presence.md>). As these people spread across the west and north, these beliefs developed in various ways. 
-## The Small Gods Religions
-
-Today, the northern folk religious traditions survive most distinctively in a number of religious practices that share a common worship of small, local gods, who bring prayers to the [Divine Presence](<../../gods/high-gods/divine-presence.md>): [Tanshi Worship](<./tanshi-worship.md>), the [Kestavo](<./kestavo.md>), and the [Zariya](<./zariya.md>). 
+The first human emigrants from [Hkar](<../../../history/historical-realms/hkar.md>) brought with them an early intercessory religion, a belief that the spirits of the land would carry prayers to the [Divine Presence](<../../gods/high-gods/divine-presence.md>). As these people spread across the west and north, these beliefs developed in various ways. Today, the northern folk religious traditions survive most distinctively in a number of religious practices that share a common worship of small, local gods, who bring prayers to the [Divine Presence](<../../gods/high-gods/divine-presence.md>): [Tanshi Worship](<./tanshi-worship.md>), the [Kestavo](<./kestavo.md>), and the [Zariya](<./zariya.md>). 
 
 
 

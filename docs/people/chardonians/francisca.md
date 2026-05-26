@@ -22,5 +22,13 @@ title: Francisca
 </div>
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1699 (51 years old)  
+    { .bio }
+
+    Based in the [Chalyte Levels](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chalyte-levels.md>), the [North Bank](<../../gazetteer/greater-chardon/chardonian-empire/chardon/north-bank.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)
+</div>
+
+
 Francisca, mother of [Xavier](<./xavier.md>) and [Adina](<./adina.md>), is a poor seamstress who does piece-work sewing and mending out of her small apartment near the [Foundry Market](<../../gazetteer/greater-chardon/chardonian-empire/chardon/foundry-market.md>). 
 

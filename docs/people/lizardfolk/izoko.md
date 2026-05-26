@@ -27,4 +27,13 @@ title: Izoko
 
 
 
+    A [lizardfolk](<../../creatures/species/lizardfolk.md>) (he/him)  
+    Born DR 1688 (62 years old)  
+    { .bio }
+
+    Based in [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
+
 ![Lizardfolk Izoko](../../assets/lizardfolk-izoko.png){align="right"; width="320"}A young lizardfolk, sweet on [Gentza](<./gentza.md>). He is a skilled fisherman but not so skilled at keeping secrets. 

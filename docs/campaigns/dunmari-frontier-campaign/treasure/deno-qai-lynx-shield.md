@@ -15,7 +15,7 @@ title: Deno'qai Lynx Shield
 ---
 # Deno'qai Lynx Shield
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __(legendary Deno'qai magical shield)__  
+- :octicons-info-24:{ .lg .middle } __(legendary the Deno'qai magical shield)__  
    Owned Dewalth  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield) 
 </div>

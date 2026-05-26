@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-name: Umber
+name: Umber of Dunmar
 born:
 species: human
 ancestry: Dunmari
@@ -10,11 +10,19 @@ died: 1748
 whereabouts: Tokra
 dm_notes: color
 dm_owner: none
-title: Umber
+title: Umber of Dunmar
 ---
-# Umber
+# Umber of Dunmar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Died DR 1748  
+    { .bio }
+
+    Lived in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Died DR 1748  

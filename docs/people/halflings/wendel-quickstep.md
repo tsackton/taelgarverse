@@ -45,6 +45,28 @@ title: Wendel Quickstep
 :octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 28th, 1748 in [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>), [Fiskurth](<../../gazetteer/greater-sembara/tollen/wards/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Quicksteps](<../../groups/halfling-families/quicksteps.md>)  
+    Born DR 1671 (79 years old)  
+    Proprietor of [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>) (since DR 1718)  
+    { .bio }
+
+    Originally from: Unknown
+    Based in [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>), [Fiskurth](<../../gazetteer/greater-sembara/tollen/wards/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on DR 1738 in [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>), [Fiskurth](<../../gazetteer/greater-sembara/tollen/wards/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 16th, 1748 in [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>), [Fiskurth](<../../gazetteer/greater-sembara/tollen/wards/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 28th, 1748 in [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>), [Fiskurth](<../../gazetteer/greater-sembara/tollen/wards/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
+
+
 Wendel is the long-time proprietor of *The Windward Sail*, a busy sailor's tavern in [Fiskurth](<../../gazetteer/greater-sembara/tollen/wards/fiskurth.md>). Known as a place for tales and stories - some true, many not - and a place for gossip, as well as a place to find a crew. Has a few dirty, cramped rooms stacked with "human sized" bunks, and some slightly more comfortable halfling rooms. 
 ## Relationships
 Wendel knows several regulars of [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>) well, including:

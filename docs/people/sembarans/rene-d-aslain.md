@@ -21,4 +21,10 @@ title: Rene D'Aslain
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [d'Aslains](<../../groups/sembaran-noble-houses/d-aslains.md>)  
+    { .bio }
+
+</div>
+
+
 A nephew of [Isabeau D'Aslain](<./isabeau-d-aslain.md>) noted for artistic skill. 

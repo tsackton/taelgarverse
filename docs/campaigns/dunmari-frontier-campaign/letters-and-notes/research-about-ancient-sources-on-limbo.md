@@ -5,7 +5,6 @@ title: Research about Ancient Sources on Limbo
 ---
 # Research About Ancient Sources on Limbo
 
-
 None of the most notable ancient works on Limbo has survived completely, but three works survive in pieces. Together, they paint a strange picture of a place with no fixed rules.
 
 ## The Unstable Sphere
@@ -22,7 +21,7 @@ All is not hopeless, though, for the traveler to Limbo. It is recorded that the 
 
 Gaius Devarro, who lived in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) during the waning days of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>), and was an early scholar at the [Faculty of Metaphysics](<../../../groups/chardonian-organizations/faculty-of-metaphysics.md>), collected numerous fragments of tales, poems, and other oddities thought to be the words of those who had traveled to Limbo. 
 
-It is from Gauis' magnum opus on Limbo, On Minds and Chaos, that the most vivid descriptions come. For example, one tale speaks of burning water, that leapt like fire from rock to rock across a jumbled landscape of boulders floating in emptiness, the fire consuming the rock and leaving glittering snow behind, which slowly melted to dust and blew away on the wind. Many of the anonymous writers collected in this work seem to be unable to describe in concrete terms what they saw.
+It is from Gauis' magnum opus on Limbo, [On Minds and Chaos](<../../../things/books/on-minds-and-chaos.md>), that the most vivid descriptions come. For example, one tale speaks of burning water, that leapt like fire from rock to rock across a jumbled landscape of boulders floating in emptiness, the fire consuming the rock and leaving glittering snow behind, which slowly melted to dust and blew away on the wind. Many of the anonymous writers collected in this work seem to be unable to describe in concrete terms what they saw.
 
 A few fragments speak of more solid things. Sanctuaries, of a kind, held solid by acts of impossible concentration by intellects of iron. Massive rocks floating like icebergs in empty space, never changing, hollowed out into laboratories of transmutation. Impossible towers that twist in space, stretching to pinnacles of elemental power. No tale collected by Gaius speaks with authority on the content of these sanctuaries, however.
 

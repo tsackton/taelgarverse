@@ -1,23 +1,31 @@
 ---
 headerVersion: 2023.11.25
 tags: [object]
+displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>', startStatus: completed in}
 name: On the Lost People of the Forests
 typeOf: book
+typeOfAlias: geographical treatise
 ancestry: Chardonian
 dm_owner: none
 dm_notes: color
+created: 1725
+author: Gnaeus
 title: On the Lost People of the Forests
 ---
-# The On the Lost People of the Forests
-:octicons-info-24:{ .lg .middle } **([Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) book)**  
+# On the Lost People of the Forests
+<div class="grid cards ext-narrow-margin ext-one-column" markdown>
+- :octicons-info-24:{ .lg .middle } __A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) geographical treatise, by [Gnaeus](<../../people/chardonians/gnaeus.md>)__  
+   Completed in DR 1725 (25 years ago)  
+</div>
 
 
 
-Written by the scholar [Gnaeus](<../../people/chardonians/gnaeus.md>), of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), disgraced for using enchanment magic in his research. 
+
+Written by the scholar [Gnaeus](<../../people/chardonians/gnaeus.md>), of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), disgraced for using enchanment magic in his research.
 
 "In a book by Chardonian scholar, [Gnaeus](<../../people/chardonians/gnaeus.md>), written about a generation ago (maybe 20ish years), recently acquired from a book trader, [Kassi](<../../people/dunmari/kassi.md>) finds a mention of [Rai](<../../people/pcs/great-war/rai.md>). The book is a record/catalog of surviving people of the forests of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). He describes a story of a group of people, northerners, who live upriver from [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) in the great forest, mysterious, few tales of them. But he found a way in, he used magic to convince one to speak of their secret religion, and learned it was a cult dedicated to the Demigod of Magic [Rai](<../../people/pcs/great-war/rai.md>), who speaks through the dreams of the high priest."
 
-This book records the details of [Gnaeus](<../../people/chardonians/gnaeus.md>)' journey to the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>): 
+This book records the details of [Gnaeus](<../../people/chardonians/gnaeus.md>)' journey to the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>):
 
 "25 years ago, as a young student, [Gnaeus](<../../people/chardonians/gnaeus.md>) was intrigued by the stories and mysteries of the great forest, known as variously [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>) (from the original elvish name, meaning the home of the first gods, referring to the whole stretch) and more recently the surviving pieces are named the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), the [Crimson Forest](<../../gazetteer/central-highlands/crimson-forest.md>) (after the rumors that the trees ran red with the blood of the elves), and the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), from south to north.
 

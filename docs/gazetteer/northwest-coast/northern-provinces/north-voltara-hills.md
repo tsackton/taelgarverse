@@ -17,5 +17,5 @@ title: North Voltara Hills
 </div>
 
 
-The rich, rolling hills north of [Voltara](<voltara/voltara.md>), a major source of chalyte that underwrites the city’s prosperity. Functionally marks the northern extent of effective Chardonian control on the [Erbalta Plains](<../erbalta-plains/erbalta-plains.md>).
+The rich, rolling hills north of [Voltara](<voltara/voltara.md>), a major source of [chalyte](<../../../things/materials/chalyte.md>) that underwrites the city’s prosperity. Functionally marks the northern extent of effective Chardonian control on the [Erbalta Plains](<../erbalta-plains/erbalta-plains.md>).
 

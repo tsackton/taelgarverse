@@ -32,6 +32,16 @@ dm_owner: none
 </div>
 
 
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
+    Born DR 1702 (48 years old)  
+    King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), and [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (since DR 1745)  
+    { .bio }
+
+    Originally from: [Tafolwern](<../../../gazetteer/greater-sembara/tyrwingha/tafolwern.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
+    Based in [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 
 A young princeling of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), he is a quite and mild-mannered child who is said to particularly love stories about his namesake, [Arryn I](<./arryn-i.md>). 
 

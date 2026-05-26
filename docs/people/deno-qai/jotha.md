@@ -12,6 +12,8 @@ whereabouts:
 - {type: home, end: 1743, location: Ko'zula village}
 - {type: home, start: 1743, end: 1749-03-21, location: ~Northern Boreal Forest~}
 - {type: away, start: 1749-03-21, end: 9999, location: Vindristjarna}
+affiliations:
+- {org: Ko'zula, type: primary}
 dm_owner: tim
 dm_notes: color
 title: Jotha
@@ -21,7 +23,17 @@ title: Jotha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
+    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her), of the Ko'zula  
+    Born DR 1719 (31 years old)  
+    { .bio }
+
+    Originally from: the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
+
+
+    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her), of the Ko'zula  
     Born DR 1719 (31 years old)  
     { .bio }
 

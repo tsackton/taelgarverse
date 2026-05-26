@@ -27,6 +27,15 @@ title: Grumella the Vengeful
 </div>
 
 
+    An [orc](<../../creatures/species/orcs.md>) (she/her)  
+    Died DR 1747  
+    Leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>) (until DR 1747)  
+    { .bio }
+
+    Lived in the [Erbalta Plains](<../../gazetteer/northwest-coast/erbalta-plains/erbalta-plains.md>)
+</div>
+
+
 
 
 The commander and leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), a large group of [orcs](<../../creatures/species/orcs.md>) that occupied the plains north of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in the spring and summer of 1747. Grumella was defeated by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) and their allies in the [Battle of Voltara](<../../events/1700s/1747/10/battle-of-voltara.md>). 

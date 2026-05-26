@@ -38,6 +38,21 @@ title: Alban
 :octicons-location-24:{ .lg .middle } Grave discovered by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on April 15th, 1748 in [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    b. DR 1719 - d. March 18th, 1748, died at age 29 years  
+    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) (until March 18th, 1748)  
+    { .bio }
+
+    Lived in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Died in [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Grave discovered by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on April 15th, 1748 in [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
 
 
 An adventurer associated with the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 

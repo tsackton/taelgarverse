@@ -19,5 +19,12 @@ title: Zephyra
 </div>
 
 
+    An [elemental](<../../creatures/extraplanar/elementals.md>) ([efreeti](<../../creatures/extraplanar/efreeti.md>))  
+    { .bio }
+
+    Based in the [Elemental Plane of Fire](<../../cosmology/energy-realms/elemental-plane-of-fire.md>), the [Energy Realms](<../../cosmology/energy-realms/energy-realms.md>)
+</div>
+
+
 
 

@@ -19,4 +19,10 @@ title: Emilia Vetella
 </div>
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    { .bio }
+
+</div>
+
+
 Lord Admiral of the Chardonian Navy. Trusted advisor to [Mitus Verina Auratan](<./mitus-verina-auratan.md>).

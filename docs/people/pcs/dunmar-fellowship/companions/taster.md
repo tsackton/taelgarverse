@@ -29,4 +29,13 @@ title: Taster
 :octicons-location-24:{ .lg .middle } Currently missing and presumed dead
 
 
+    A rabbit (they/them)  
+    Companion of the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
+    { .bio }
+
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently missing and presumed dead
+
+
 Taster, a brave rabbit, was briefly used as water taster and all around safety inspector by the [Dunmar Fellowship](<../dunmar-fellowship.md>) during their adventures in and around [Raven's Hold](<../../../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>). Since lost, and now presumed dead.

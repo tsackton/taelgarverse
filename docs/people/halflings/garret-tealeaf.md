@@ -45,6 +45,24 @@ title: Garret Tealeaf
 :octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 9th, 1748 in [The Red Lily Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-red-lily-inn.md>), [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)  
+    Born DR 1656 (94 years old)  
+    { .bio }
+
+    Originally from: [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of August 13th, 1748): [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Freed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 2nd, 1748 in [Agata's Lair](<../../gazetteer/greater-dunmar/hara-basin/agata-s-lair.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 9th, 1748 in [The Red Lily Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-red-lily-inn.md>), [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
 ![Garret Tealeaf](../../assets/garret-tealeaf.jpg){align="right"; width="300"}Garret Tealeaf grew up traveling the roads of Dunmar with the Tealeaf trading family, eventually becoming the patriarch of a group of 5 well-armed and defended caravans that regularly made the circuit from Chardon, east to [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), Tokra, and Karawa, before turning south across the Yuvanti Mountains to Nayahar, and then north along the coast to Darba, and back to Chardon. 
 
 ## Relationships

@@ -176,7 +176,7 @@ At the bottom, a rough passage stretches **40 ft** to a **rune-covered stone pil
 * The guardian exists solely to keep the scroll from falling into the wrong hands.
 
 ### Ways to Proceed
-* **Deception:** Convince the guardian the party represents *Arion*.  
+* **Deception:** Convince the guardian the party represents *Airion*.
 * **Persuasion:** Argue (Int or Cha) for rightful custody or safe-keeping.  
 * **Intimidation:** Extremely difficult.  
 * **Trade:** Offer something valuable; suggesting the guardian may step down if the scroll is secured can be persuasive.

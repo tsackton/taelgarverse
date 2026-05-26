@@ -32,4 +32,14 @@ title: Adam
 
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1691 (59 years old)  
+    Soldier of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)  
+    { .bio }
+
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
+
 A solider in the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), who went into the forest with the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) after the spider attacks on [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). He greatly admires [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>).

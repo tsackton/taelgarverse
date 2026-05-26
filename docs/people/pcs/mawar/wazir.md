@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/text, status/check/mike]
 name: Wazir
 born:
 species: human
@@ -21,7 +21,16 @@ title: Wazir
 
     A [Mawaran](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
     Owner of the [Leviathan Inn](<../../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>)  
-    Member of the Adventurers of Mawar  
+    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
+    { .bio }
+
+    Based in [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
+</div>
+
+
+    A [Mawaran](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
+    Owner of the [Leviathan Inn](<../../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>)  
+    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
     { .bio }
 
     Based in [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)

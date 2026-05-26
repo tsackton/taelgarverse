@@ -25,6 +25,14 @@ title: Asuddha
 </div>
 
 
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    b. DR 1136 - d. DR 1208, died at age 72 years  
+    { .bio }
+
+    Lived in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+
 A warrior and general of the Dunmari during the [Founding of Dunmar](<../../primary-sources/founding-of-dunmar.md>). The brother of [Bhishma](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>). Known for leading the first army of the Dunmari, that swept across the land renewed by [Jeevali](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/jeevali.md>)'s sacrifice, claiming it to be their own kingdom. 
 
 Born before the The Exodus of the Dunmarifrom their ancestral homelands in the south.

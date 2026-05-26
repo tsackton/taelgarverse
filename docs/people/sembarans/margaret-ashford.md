@@ -27,4 +27,13 @@ title: Margaret Ashford
 
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1676 (74 years old)  
+    { .bio }
+
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
+
 A midwife, who was tending to [Béatrix Thorne](<./beatrix-thorne.md>) when the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) broke out.

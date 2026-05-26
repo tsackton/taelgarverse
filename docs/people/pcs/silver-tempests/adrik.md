@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/gameupdate/gl]
 species: dwarf
 name: Adrik Boulderbeard
 gender: male
@@ -20,6 +20,16 @@ title: Adrik Boulderbeard
 # Adrik Boulderbeard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Boulderbeard Clan](<../../../groups/dwarven-clans/boulderbeards.md>)  
+    Born DR 1660 (90 years old)  
+    Member of the [Silver Tempests](<./silver-tempests.md>), and the [Stoneworker Thuhr](<../../../groups/dwarven-thuhr/stoneworker-thuhr.md>)  
+    { .bio }
+
+    Originally from: [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
+    Based in the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>), [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>)
+</div>
+
 
     A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Boulderbeard Clan](<../../../groups/dwarven-clans/boulderbeards.md>)  
     Born DR 1660 (90 years old)  

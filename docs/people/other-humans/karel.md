@@ -18,6 +18,12 @@ title: Karel
 </div>
 
 
+    An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    { .bio }
+
+</div>
+
+
 
 
 Karel is a merchant who regularly travels between [Zvervinka](<../../gazetteer/northern-green-sea/ursk/zvervinka.md>) and [Praznitsky](<../../gazetteer/northern-green-sea/ursk/praznitsky.md>), bringing goods from the monster markets to the port for sale. 

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/metadata]
+tags: [person, status/cleanup/image, status/cleanup/metadata, status/cleanup/text]
+knownTo: [Mawar]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
 name: Kaeso
@@ -38,9 +39,25 @@ title: Kaeso
 :octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 12th, 1748 in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)  
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1691 (59 years old)  
+    Member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>)  
+    { .bio }
+
+    Originally from: [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 12th, 1748 in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)  
+
+
 
 
 [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s mentor and friend. A Chardonian, but widely traveled. Former student of [Roscelia](<./roscelia.md>) and member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), but expelled for keeping secrets, specifically about Dunmari magic. 
 
 Secretly a member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>). 
+
+
+
 

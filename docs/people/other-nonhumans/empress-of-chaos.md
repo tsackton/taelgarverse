@@ -32,6 +32,19 @@ title: Empress of Chaos
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 6th, 1749 in the [Plaguelands](<../../gazetteer/upper-istaros/plaguelands.md>)  
 
 
+    A [hobgoblin](<../../creatures/species/hobgoblins.md>) (she/her)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of August 6th, 1749): the [Plaguelands](<../../gazetteer/upper-istaros/plaguelands.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 6th, 1749 in the [Plaguelands](<../../gazetteer/upper-istaros/plaguelands.md>)  
+
+
 ![Emrpess of Chaos](../../assets/emrpess-of-chaos.png){align="right"; width="400"}The Empress of Chaos is the leader of the Iron Fang hobgoblin clan. 
 
 

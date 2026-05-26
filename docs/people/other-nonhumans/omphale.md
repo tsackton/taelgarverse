@@ -18,3 +18,10 @@ title: Omphale
 </div>
 
 
+    A [centaur](<../../creatures/species/centaurs.md>)  
+    { .bio }
+
+    Based in the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+

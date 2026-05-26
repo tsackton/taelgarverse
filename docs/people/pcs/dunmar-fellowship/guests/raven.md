@@ -26,4 +26,11 @@ title: Raven
 </div>
 
 
+    A [fey](<../../../../creatures/fey/fey.md>) (they/them)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
+    { .bio }
+
+</div>
+
+
 A fae warrior and martial arts fighter, from the Fey realm of [Shimmersong](<../../../../gazetteer/extraplanar/feywild/shimmersong.md>), one of the Winter Knights who protects the realm during the cold days of the Winter Court, when the [Lightdancer](<../../../extraplanar-powers/archfey/lightdancer.md>) hibernates. Returned to [Shimmersong](<../../../../gazetteer/extraplanar/feywild/shimmersong.md>) after helping [Seeker](<../seeker.md>) stop the wild magic storm and travel through [Amberglow](<../../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>) to the fey crossing at [Lastlight Falls](<../../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>). 

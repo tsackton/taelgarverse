@@ -24,6 +24,12 @@ title: Seeker
 </div>
 
 
+    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>)  
+    { .bio }
+
+</div>
+
+
 ![Seeker](../../../assets/seeker.jpg){align="right"; width="400"}
 
 ## Pre-Campaign Events

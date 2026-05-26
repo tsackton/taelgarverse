@@ -9,11 +9,11 @@ title: Merfolk Quest Treasure
 - 6 potions of transformation, plus 6 doses of antidote. The potions of transformation are literally that, transformations. While under the effects, you gain gills but lose lungs. You can now breath water, but not air. Have no effect on swim speed, and last until the antidote is taken or the magical transformation is dispelled. A gift from [Kazuro](<../../../people/other-nonhumans/kazuro.md>) in exchange for a [promise to return and help him build a monastery and find a student](<../session-notes/session-99-dufr.md>).
 ## Treasure Acquired in [Omi](<../../../gazetteer/faraway-places/omi.md>)
 
-- A large (10 foot long) trident, taken from the herald of Gazankoa protecting the portal in [Omi](<../../../gazetteer/faraway-places/omi.md>). Abandoned in the temple of Gazankoa during the merfolk fight.
+- A large (10 foot long) trident, taken from the herald of [Gazankoa](<../../../people/extraplanar-powers/gazankoa.md>) protecting the portal in [Omi](<../../../gazetteer/faraway-places/omi.md>). Abandoned in the temple of Gazankoa during the merfolk fight.
 ## Treasure Acquired in Buruli's Kingdom
 
 - A small humming piece of metal, which sounds like the ocean, found connected to the [Jade Piece of Rai's Hand](<../treasure/jade-piece-of-rai-s-hand.md>) inside a shell in Buruli's temple to Gazankoa. 
-- 17 amulets of Gazankoa. Each amulet has a pearl in the center, with eight tentacles curling off in a spiral pattern. They are made of a variety of materials: 6 of shell, 7 of some kind of resin, 3 of ivory, and 1 of silver. Taken from various merfolk guards. 
+- 17 amulets of [Gazankoa](<../../../people/extraplanar-powers/gazankoa.md>). Each amulet has a pearl in the center, with eight tentacles curling off in a spiral pattern. They are made of a variety of materials: 6 of shell, 7 of some kind of resin, 3 of ivory, and 1 of silver. Taken from various merfolk guards. 
 - 241 small pieces of coral, smoothed and marked with signs, that look like currency of some kind. Taken from various merfolk guards. 
 - 112 silver Chardonian coins 
 - 14 dwarven gold coins

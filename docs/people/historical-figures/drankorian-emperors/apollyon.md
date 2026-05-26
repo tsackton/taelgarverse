@@ -30,6 +30,15 @@ dm_owner: tim
 :octicons-location-24:{ .lg .middle } Last known location (as of DR 1059): [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)
 
 
+    lich (undead), he/him  
+    { .bio }
+
+    Originally from: [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of DR 1059): [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)
+
+
 The last emperor of Drankor, who is said to have wanted to become a god. Creator of the [Scepter of Command](<../../../things/artifacts-of-power/scepter-of-command.md>), and perhaps other artifacts of power. Was a very successful general and commander. 
 
 Originally allied with [Cha'mutte](<../../extraplanar-powers/cha-mutte.md>), although towards the end of his reign this relationship turned to conflict and when he died, he was imprisoned and prevented from resurrection by [Cha'mutte](<../../extraplanar-powers/cha-mutte.md>). 

@@ -33,6 +33,19 @@ title: Agon
 :octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748  
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1694 (56 years old)  
+    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
+    { .bio }
+
+    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748  
+
+
 
 
 [Vola](<./vola.md>)'s mentor, a member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) and scholar in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). 

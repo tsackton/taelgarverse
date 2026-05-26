@@ -6,6 +6,8 @@ born: 1699
 species: human
 ancestry: Deno'qai
 gender: male
+affiliations:
+- {org: Ko'zula, type: primary}
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
 dm_owner: none
@@ -16,7 +18,15 @@ title: Kaslan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him)  
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Ko'zula  
+    Born DR 1699 (51 years old)  
+    { .bio }
+
+    Based in the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Ko'zula  
     Born DR 1699 (51 years old)  
     { .bio }
 

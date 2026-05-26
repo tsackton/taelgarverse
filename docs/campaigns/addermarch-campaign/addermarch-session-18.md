@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: Addermarch
 sessionNumber: 18
 realWorldDate: 2026-01-02
@@ -8,13 +8,13 @@ DR: 1715-05-26
 DR_end: 1715-05-27
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 18
-tagline: in which the party clears the fort and descends into a blocked mine
+tagline: in which the fights skeletons and finds the mine blocked
 descTitle: Into the Mine
 title: Addermarch Campaign - Session 18
 ---
 # Addermarch Campaign - Session 18
 
->[!info] Into the Mine: n which the party clears the fort and descends into a blocked mine
+>[!info] Into the Mine: in which the fights skeletons and finds the mine blocked
 > *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
 > *In Taelgar: May 26, 1715 DR - May 27, 1715 DR*
 > *On Earth: Friday January 2, 2026*

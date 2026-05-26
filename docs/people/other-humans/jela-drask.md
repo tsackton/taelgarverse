@@ -25,4 +25,12 @@ title: Jela Drask
 </div>
 
 
+    An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Member of [Rodnya Nivik](<../../groups/urskan-magical-organizations/rodnya-nivik.md>)  
+    { .bio }
+
+    Based in [Zvervinka](<../../gazetteer/northern-green-sea/ursk/zvervinka.md>), [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>)
+</div>
+
+
 Jela is a wizard and member of the [Rodnya Nivik](<../../groups/urskan-magical-organizations/rodnya-nivik.md>), based in [Zvervinka](<../../gazetteer/northern-green-sea/ursk/zvervinka.md>). 

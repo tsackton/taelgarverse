@@ -31,6 +31,19 @@ title: Safri
 :octicons-location-24:{ .lg .middle } Visited by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 25th, 1748 in the forest valleys of the [Sentinel Range](<../../gazetteer/sentinel-range.md>)  
 
 
+    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of October 25th, 1748): the [Sentinel Range](<../../gazetteer/sentinel-range.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Visited by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 25th, 1748 in the forest valleys of the [Sentinel Range](<../../gazetteer/sentinel-range.md>)  
+
+
 ![Safri](../../assets/safri.png){align="right"; width="320"}An old Deno'qai druid with many stories and rumors to her name. Many claim to have met her, but most speak of her in animal form, a deer that acts unusually intelligent and leads a lost traveler back to a path, or a hawk that drops a brace of rabbits on the camp of a hungry family who have had bad luck with the hunt.
 
 

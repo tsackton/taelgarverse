@@ -25,6 +25,15 @@ title: The Midnight Lady
 :octicons-location-24:{ .lg .middle } Currently in [Peydon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
+    A [fey](<../../creatures/fey/fey.md>) (hag)  
+    { .bio }
+
+    Based in Duskmire, the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently in [Peydon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+
+
 A mysterious fey recently arrived in [Peydon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md>). Known by many in the village as the Night Witch. Her real name is Moriel.
 
 

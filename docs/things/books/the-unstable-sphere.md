@@ -1,18 +1,19 @@
 ---
 headerVersion: 2023.11.25
 tags: [object]
-displayDefaults: {defArt: ''}
+displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>', startStatus: completed in}
 typeOf: book
+typeOfAlias: cosmological treatise
+ancestry: Hkaran
 subTypeOf: lost
 dm_owner: none
 dm_notes: none
+written: before [[The Downfall]]
 title: The Unstable Sphere
 ---
 # The Unstable Sphere
-:octicons-info-24:{ .lg .middle } **(lost book)**  
+:octicons-info-24:{ .lg .middle } **A [Hkaran](<../../history/historical-realms/hkar.md>) cosmological treatise, written before The Downfall**  
 
-The Unstable Sphere is an ancient work on [Limbo](<../../cosmology/spiritual-realms/limbo.md>), already a lost tome even during the height of Drankorian scholarship. Though some ascribe it an [elven](<../../creatures/species/elves.md>) origin, most arcane cosmologists consider it a relic of [Hkar](<../../history/historical-realms/hkar.md>). Only fragments survive, most notably in the compilations of Marcion of Iridel. 
+The Unstable Sphere is an ancient work on [Limbo](<../../cosmology/spiritual-realms/limbo.md>), already a lost tome even during the height of Drankorian scholarship. Though some ascribe it an [elven](<../../creatures/species/elves.md>) origin, most arcane cosmologists consider it a relic of [Hkar](<../../history/historical-realms/hkar.md>). Only fragments survive, most notably in the compilations of Marcion of Iridel.
 
 The text depicts [Limbo](<../../cosmology/spiritual-realms/limbo.md>) as utterly unstable, with solid matter and even the air itself prone to sudden transformation, trapping travelers unless held in check by extraordinary concentration. Much of its argument concerns whether Limbo’s instability lies in mutable geometry or in ceaseless metamorphosis of substance, themes that shaped later metaphysical debates.
-
-

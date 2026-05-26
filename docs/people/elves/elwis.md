@@ -37,6 +37,20 @@ title: Elwis
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 2nd, 1749 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
+    An [elf](<../../creatures/species/elves.md>) (she/her), ([ka](<../../background/elven-cycle-of-generations.md>) 37)  
+    Born DR 1634 (116 years old)  
+    { .bio }
+
+    Based in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 2nd, 1749 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
+
+
 Elwis is a female elf and painter from [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>). 
 
 

@@ -30,5 +30,17 @@ title: Rurik
 :octicons-location-24:{ .lg .middle } Met by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) on August 25th, 1748 in [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>), [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), [Shadowfolds](<../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>)  
 
 
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
+    { .bio }
+
+    Originally from: [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>), [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), [Shadowfolds](<../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>)
+    Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) on August 25th, 1748 in [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>), [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), [Shadowfolds](<../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>)  
+
+
 Rurik is a dwarf, of indeterminant age, who remembers little of his life in [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>) except his close connection to his son, [Tak](<./tak.md>), who he cares for deeply and worries over constantly. 
 

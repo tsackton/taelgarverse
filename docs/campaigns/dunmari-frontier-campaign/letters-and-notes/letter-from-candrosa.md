@@ -5,7 +5,6 @@ title: Letter from Candrosa
 ---
 # Letter from Candrosa
 
-
 Dear friends,
 
 I hope I may call you friends, although I fear my words did not go over as well as I hoped when we spoke last night. It is hard to know who to trust in these perilous times, and when four dangerous strangers appear in my town, for unclear reasons, it was easy to be suspicious. But I have prayed and prayed and despite the silence from Shakun I now believe your paths led to us in our moment of need because you have the skill and the generosity of spirit to aid us.

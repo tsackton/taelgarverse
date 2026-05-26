@@ -18,6 +18,12 @@ title: William Forester
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    { .bio }
+
+</div>
+
+
 ![William Forester Aveil](../../assets/william-forester-aveil.png){align="left"; width="200"}
 
 A lumberjack and leading person in [Ashcombe](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/ashcombe.md>)

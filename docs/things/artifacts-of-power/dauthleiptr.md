@@ -21,7 +21,7 @@ title: Dauðleiptr
 </div>
 
 
-Dauðleiptr, literally "Death Lightning" in the Giant tongue, is a chalyte-powered death ray constructed by the stone giant [Dhrukmir](<../../people/giants/dhrukmir.md>) to protect his territory in the [Chataan Mountains](<../../gazetteer/greater-chardon/chataan-mountains.md>). Capable of vaporizing dozens and dozens of soldiers, and with a scrying-based ability to target enemies at some large distance away, Dauðleiptr kept the chalyte mines of [Ulgrathar](<../../gazetteer/greater-chardon/ulgrathar.md>) in [Dhrukmir](<../../people/giants/dhrukmir.md>)'s hands for many years.
+Dauðleiptr, literally "Death Lightning" in the Giant tongue, is a chalyte-powered death ray constructed by the stone giant [Dhrukmir](<../../people/giants/dhrukmir.md>) to protect his territory in the [Chataan Mountains](<../../gazetteer/greater-chardon/chataan-mountains.md>). Capable of vaporizing dozens and dozens of soldiers, and with a scrying-based ability to target enemies at some large distance away, Dauðleiptr kept the chalyte mines of [Ulgrathar](<../../gazetteer/greater-chardon/chardonian-empire/alta-tonaro/ulgrathar.md>) in [Dhrukmir](<../../people/giants/dhrukmir.md>)'s hands for many years.
 
 
 In DR 1749, Dauðleiptr was destroyed by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), on a quest to discover new chalyte resources for [Mitus Verina Auratan](<../../people/chardonians/mitus-verina-auratan.md>).

@@ -26,7 +26,7 @@ Following clues to the cursed [Serpentine Battleaxe](<../../things/magic-items/s
 
 - May 24, 1715 DR, **evening**: The party camps on the road into the Highmoor, following the trail of [Duncan of Haldrenn](<../../people/addermarians/duncan-of-haldrenn.md>) toward [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>) and the cursed [Serpentine Battleaxe](<../../things/magic-items/serpentine-battleaxe.md>).
 - May 25, 1715 DR: Uneventful travel across the moors; the party camps in the foothills of [Westcliff](<../../gazetteer/greater-sembara/addermarch/westcliff.md>).
-- May 26, 1715 DR: Walk for the morning; in the afternoon, reach an old road that climbs to [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>). Following the trail, the party passes a warning marker from [The Rangers](<../../groups/the-rangers.md>), fights a mass of skeletons, and begins exploring the ruins, finding recent disturbed earth, old scorch marks, and a broken mine map.
+- May 26, 1715 DR: Walk for the morning; in the afternoon, reach an old road that climbs to [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>). Following the trail, the party passes a warning marker from [Rangers](<../../groups/rangers.md>), fights a mass of skeletons, and begins exploring the ruins, finding recent disturbed earth, old scorch marks, and a broken mine map.
 
 ## Cast of Characters
 
@@ -41,7 +41,7 @@ Following clues to the cursed [Serpentine Battleaxe](<../../things/magic-items/s
 
 - **[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>)**  -  Moorland road the party follows north toward Serethwyn Tor.
 - **[Westcliff](<../../gazetteer/greater-sembara/addermarch/westcliff.md>)**  -  Foothills and peaks where they camp before the climb.
-- **[Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>)**  -  Ruined hill-fort sealed by order of [The Rangers](<../../groups/the-rangers.md>) and defended by skeletons.
+- **[Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>)**  -  Ruined hill-fort sealed by order of [Rangers](<../../groups/rangers.md>) and defended by skeletons.
 
 ## Narrative
 
@@ -55,7 +55,7 @@ The next morning is a fine spring day, a beautiful day of uneventful travel on t
 
 ### Wednesday, May 26th, 2 Robert I
 
-After a morning of walking and quick lunch, the party climbs into the hills following an old abandoned road. By early afternoon, the road peters out and an old track leads up into the peaks of [Westcliff](<../../gazetteer/greater-sembara/addermarch/westcliff.md>) to the hill fort of [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>). After a couple of hours hiking on the along the old track, the party sees the walls of the fort, partially ruined, about a 1000 feet ahead. A marker, written in three languages (Sembaran, Elvish, and Stoneborn) warns the fort ahead is dangerous, and sealed by order of [The Rangers](<../../groups/the-rangers.md>). The party approaches, with Fazoth's pseudodragon flying ahead to scout - only to be killed by a large group of skeletons on the other side of the wall.
+After a morning of walking and quick lunch, the party climbs into the hills following an old abandoned road. By early afternoon, the road peters out and an old track leads up into the peaks of [Westcliff](<../../gazetteer/greater-sembara/addermarch/westcliff.md>) to the hill fort of [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>). After a couple of hours hiking on the along the old track, the party sees the walls of the fort, partially ruined, about a 1000 feet ahead. A marker, written in three languages (Sembaran, Elvish, and Stoneborn) warns the fort ahead is dangerous, and sealed by order of [Rangers](<../../groups/rangers.md>). The party approaches, with Fazoth's pseudodragon flying ahead to scout - only to be killed by a large group of skeletons on the other side of the wall.
 
 Fazoth, Yvan, and Drou join the fight against about 40 skeletons, including a large group of foot soldiers with sargents, and a few captains with ogre skeleton bodyguards. Yvan launches multiple fireballs, mowing down the ranks of the weaker skeletons, while arrows rain down around Yvan, Drou, and Fazoth. Drou takes the brunt of the attacks, some dodging arrows but many find their mark. She cracks skeletons with her flashing fists and thunder spells, which rip through the ranks as well. Fazoth attempts to pin down one of the captain's with Witch Bolt, but loses concentration on the spell. However, Fazoth's summoned fey ally is strong, and Drou responds to near-death by tossing her new Staff of the Python on the ground, as it turns into a giant constructor snake to fight for her.
 

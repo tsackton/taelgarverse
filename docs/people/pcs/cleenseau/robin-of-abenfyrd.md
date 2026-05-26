@@ -37,6 +37,18 @@ title: Robin of Abenfyrd
 :octicons-location-24:{ .lg .middle } Last known location (as of January 16th, 1720): [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
+    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
+    Born DR 1700 (50 years old)  
+    Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Acting Captain of the [Lord's Guard of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since January 3rd, 1720)  
+    { .bio }
+
+    Originally from: [Abenfyrd](<../../../gazetteer/greater-sembara/tyrwingha/abenfyrd.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of January 16th, 1720): [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
+
+
 ![Robin of Abenfyrd No Armor](../../../assets/robin-of-abenfyrd-no-armor.png){align="right"; width="320"}![New Robin](../../../assets/new-robin.png){align="right"; width="320"}Robin of Abenfyrd is a young man of about twenty, a paladin of [The Wanderer](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>), and hails from [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>). He has a friendly, if shy, demeanor and at times seems embarrassed by his own talents. His armor looks weathered and well used (he was probably not the first owner) but well maintained. His clothing looks a bit more appropriate to a bard than a traveling warrior, and while again not the fanciest, tends to be rather colorful and a bit flamboyant even. He keeps a small lantern on him that sheds a perpetual warm glow that reminds one of home and pleasant things. His other most prized possession is a lute (not the fanciest instrument ever, but it is clearly well cared for) for that he plays with the skill of a well practiced musician. Often appearing a bit awkward when first interacting with others, he seems far more relaxed while he plays
 
 ### Items
@@ -52,7 +64,7 @@ title: Robin of Abenfyrd
 > 
 > Life continued in [Abenfyrd](<../../../gazetteer/greater-sembara/tyrwingha/abenfyrd.md>), where little happened, the seasons passed, the festivals were celebrated, and Robin stayed on the sidelines. In his seventeenth year (1718), however, the spring came late, and the cold lingered. 
 > 
-> One evening, after the moonset, in the quietest part of the night, Robin awakened suddenly. He had a tingle on the back of his neck and just knew, via some divine sense from the Wanderer, that something was wrong. He went outside and saw a dark shape -- a warg -- stalking a man. He shouted a warning and ran forward, and the man drew a sword and killed the warg. And thus he was introduced to Gareth Wolfsbane, a member of [the Rangers](<../../../groups/the-rangers.md>) based out of the Aben Garrison of the [Army of Mostreve](<../../../groups/sembaran-army/army-of-mostreve.md>). The man was very grateful, and they talked for some time the next morning. At his encouragement, Robin went to the garrison and spent some time training. He learned to fight with there, being especially drawn to a hammer as a weapon of choice. But he never felt satisfied with the life of a solider, and never actually joined the army. 
+> One evening, after the moonset, in the quietest part of the night, Robin awakened suddenly. He had a tingle on the back of his neck and just knew, via some divine sense from the Wanderer, that something was wrong. He went outside and saw a dark shape -- a warg -- stalking a man. He shouted a warning and ran forward, and the man drew a sword and killed the warg. And thus he was introduced to Gareth Wolfsbane, a member of [Rangers](<../../../groups/rangers.md>) based out of the Aben Garrison of the [Army of Mostreve](<../../../groups/sembaran-army/army-of-mostreve.md>). The man was very grateful, and they talked for some time the next morning. At his encouragement, Robin went to the garrison and spent some time training. He learned to fight with there, being especially drawn to a hammer as a weapon of choice. But he never felt satisfied with the life of a solider, and never actually joined the army. 
 > 
 > Nevertheless, he did go on several patrols, and spent the better part of a year there. His sense of the Wanderer grew stronger as well.
 > 

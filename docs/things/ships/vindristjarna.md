@@ -37,6 +37,9 @@ title: Vindristjarna
 :octicons-location-24:{ .lg .middle } Owned
 
 
+:octicons-location-24:{ .lg .middle } Owned
+
+
 ![Vindristjarna V1](../../assets/vindristjarna-v1.jpg)
 
 ## History

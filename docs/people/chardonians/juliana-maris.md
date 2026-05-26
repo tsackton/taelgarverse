@@ -28,6 +28,18 @@ title: Juliana Maris
 :octicons-location-24:{ .lg .middle } Met the Seeker and Delwath on May 7th, 1749 in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1691 (59 years old)  
+    { .bio }
+
+    Based in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met the Seeker and Delwath on May 7th, 1749 in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
+
+
 An elegant woman with striking silver hair and a preference for wearing elegant imported silk robes, Juliana is widely known as a collector of merfolk artifacts and treasures. Her home is a veritable museum of oceanic curiosities, and she obsesses over the provenance and meaning of each piece. 
 
 She rarely speaks of her past, but it is well known that she was the only daughter of rich parents, and she inherited significant wealth, which she has used primarily to build her collection of treasures. 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/gameupdate/gl]
 name: Greater Voltara
 displayDefaults: {defArt: ''}
 whereabouts:
@@ -19,9 +19,9 @@ title: Greater Voltara
 </div>
 
 
-Greater Voltara is the richest and most powerful of the [Northern Provinces](<./northern-provinces.md>) of the [Chardonian Empire](<../../greater-chardon/chardonian-empire/chardonian-empire.md>). The primary city and provincial seat is [Voltara](<voltara/voltara.md>), a walled city enriched by nearby chalyte deposits, and the seat of power of proconsul [Anton Lavernia](<../../../people/chardonians/anton-lavernia.md>). 
+Greater Voltara is the richest and most powerful of the [Northern Provinces](<./northern-provinces.md>) of the [Chardonian Empire](<../../greater-chardon/chardonian-empire/chardonian-empire.md>). The primary city and provincial seat is [Voltara](<voltara/voltara.md>), a walled city enriched by nearby [chalyte](<../../../things/materials/chalyte.md>) deposits, and the seat of power of proconsul [Anton Lavernia](<../../../people/chardonians/anton-lavernia.md>). 
 
-Greater Voltara extends in the east to the [Snake River](<../../major-rivers/chasa-nahadi-watershed/snake-river.md>), in the west to the [Fiatara Mountains](<../fiamatara-mountains/fiatara-mountains.md>), and in the south to the [Kelvaros](<../../major-rivers/chasa-nahadi-watershed/kelvaros.md>) river area. The northern border of Greater Voltara is not well‑defined, but functionally includes the [hills north of Voltara](<./north-voltara-hills.md>) (a rich source of chalyte), and the southern edge of the [Fiatara Mountains](<../fiamatara-mountains/fiatara-mountains.md>).
+Greater Voltara extends in the east to the [Snake River](<../../major-rivers/chasa-nahadi-watershed/snake-river.md>), in the west to the [Fiatara Mountains](<../fiamatara-mountains/fiatara-mountains.md>), and in the south to the [Kelvaros](<../../major-rivers/chasa-nahadi-watershed/kelvaros.md>) river area. The northern border of Greater Voltara is not well‑defined, but functionally includes the [hills north of Voltara](<./north-voltara-hills.md>) (a rich source of [chalyte](<../../../things/materials/chalyte.md>)), and the southern edge of the [Fiatara Mountains](<../fiamatara-mountains/fiatara-mountains.md>).
 
 ## Settlements and Sites
 

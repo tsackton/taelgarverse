@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/stub, status/check/ai]
+tags: [group, status/gameupdate/dufr]
 ancestry: Urskan
 displayDefaults: {defArt: ''}
 typeOf: magical bloodline
@@ -20,13 +20,4 @@ The Rodnya Voknaz is one of the eight [rodnye](<./rodnya.md>) that rule [Ursk](<
 
 The Rodnya’s headquarters is the [Voknaz Manor](<../../gazetteer/northern-green-sea/ursk/voknaz-manor.md>), a heavily warded estate that includes at least one extraplanar portal to the [Frostfell](<../../cosmology/energy-realms/frostfell.md>).
 
-## Notable members
 
-- [Branek Mirov](<../../people/other-humans/branek-mirov.md>)
-
-## Sources
-
-- [Branek Mirov](<../../people/other-humans/branek-mirov.md>)
-- [Rodnya](<./rodnya.md>)
-- [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>)
-- [Voknaz Manor](<../../gazetteer/northern-green-sea/ursk/voknaz-manor.md>)

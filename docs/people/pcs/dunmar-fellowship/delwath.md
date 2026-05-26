@@ -32,6 +32,16 @@ title: Delwath
 :octicons-location-24:{ .lg .middle } Last known location (as of DR 1538): [Ainumarya](<../../../gazetteer/central-highlands/ainumarya.md>)
 
 
+    An [elf](<../../../creatures/species/elves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) 36)  
+    Born DR 1472 (278 years old)  
+    { .bio }
+
+    Originally from: [Ainumarya](<../../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of DR 1538): [Ainumarya](<../../../gazetteer/central-highlands/ainumarya.md>)
+
+
 
 
 ![Delwath Portrait](../../../assets/delwath-portrait.jpg)
@@ -115,7 +125,7 @@ title: Delwath
 > 
 > In any case, both [Alesh](<../../dunmari/alesh.md>) and [Havdar](<../../dunmari/havdar.md>) think Delwath should take it, given he fought in that war as well, and pass it along with their blessing. 
 > 
-> [Jasu](<../../dunmari/jasu.md>) is happy to work on the [Dunmari Heirloom Shield](<../../../campaigns/dunmari-frontier-campaign/treasure/dunmari-heirloom-shield.md>), and in addition to strengthening it with adamantine, he cleans and repairs the insignia, and works some of the magical stone and powder from the mesa into it as well, so it will resist fading and damage. 
+> [Jasu](<../../dunmari/jasu.md>) is happy to work on the [Dunmari Heirloom Shield](<../../../campaigns/dunmari-frontier-campaign/treasure/dunmari-heirloom-shield.md>), and in addition to strengthening it with [adamantine](<../../../things/materials/adamantine.md>), he cleans and repairs the insignia, and works some of the magical stone and powder from the mesa into it as well, so it will resist fading and damage. 
 > 
 > ### Closing Affairs
 > 

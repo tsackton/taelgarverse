@@ -28,4 +28,15 @@ title: Finellen Silverstone
 :octicons-location-24:{ .lg .middle } Met by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) on August 9th, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
+    A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of Silverstones  
+    { .bio }
+
+    Based in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) on August 9th, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
 A dwarven antiquities dealer in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).

@@ -29,7 +29,7 @@ They were particularly prevalent in [Amani](<../history/historical-realms/amani.
 ## People and Sites
 
 - Galius Filuso — Priest of the Night Queen based in [Voltara](<../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). Acts as an advocate for restoring the Order of Twilight in the north; recruited [allies](<../people/pcs/silver-tempests/silver-tempests.md>) to cleanse the ruined [Order of Twilight Temple (Voltara)](<../gazetteer/northwest-coast/northern-provinces/order-of-twilight-temple-voltara.md>). Serves as a liaison to the Mos Numena establishment and can speak to the Proconsul on the order’s behalf.
-- Xameia the Forsworn — Former paladin of the order bound by a curse after betraying her oaths. Her tomb lies at [Pykolon Lake](<../gazetteer/major-rivers/chasa-nahadi-watershed/pykolon-lake.md>). She found peace with the aid of the [Silver Tempests](<../people/pcs/silver-tempests/silver-tempests.md>), after restitution was made through restoration of the Voltara temple.
+- [Xameia the Forsworn](<../people/other-humans/xameia.md>) — Former paladin of the order bound by a curse after betraying her oaths. Her tomb lies at [Pykolon Lake](<../gazetteer/major-rivers/chasa-nahadi-watershed/pykolon-lake.md>). She found peace with the aid of the [Silver Tempests](<../people/pcs/silver-tempests/silver-tempests.md>), after restitution was made through restoration of the Voltara temple.
 
 ## Symbols and relics
 

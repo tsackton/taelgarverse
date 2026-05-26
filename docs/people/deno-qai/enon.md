@@ -8,6 +8,8 @@ ancestry: Deno'qai
 gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
+affiliations:
+- {org: Ko'zula, type: primary}
 dm_owner: none
 dm_notes: color
 title: Enon
@@ -16,7 +18,15 @@ title: Enon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him)  
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Ko'zula  
+    Born DR 1688 (62 years old)  
+    { .bio }
+
+    Based in the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Ko'zula  
     Born DR 1688 (62 years old)  
     { .bio }
 

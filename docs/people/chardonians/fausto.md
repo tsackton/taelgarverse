@@ -29,6 +29,16 @@ title: Fausto
 </div>
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1714 (36 years old)  
+    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), and [The Cleansed](<../../groups/the-cleansed.md>)  
+    { .bio }
+
+    Originally from: Unknown
+    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+</div>
+
+
 
 
 

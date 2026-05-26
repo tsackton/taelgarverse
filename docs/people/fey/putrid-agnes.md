@@ -30,6 +30,19 @@ title: Putrid Agnes
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 3rd, 1749 in [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>)  
 
 
+    A [fey](<../../creatures/fey/fey.md>) (hag)  
+    { .bio }
+
+    Originally from: the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of May 3rd, 1749): [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 3rd, 1749 in [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>)  
+
+
 Putrid Agnes is a hag with a morbid fascination with beets. She lived for some time on the outskirts of [Shadowkeep](<../../gazetteer/northern-green-sea/shadowkeep.md>) under the protection of [Rhodar von Glauer](<../other-nonhumans/rhodar-von-glauer.md>), feasting on the minds of those deemed unworthy of being turned to vampire spawn. 
 
 She is rumored to have spend time in Ursk, but was driven out by [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>) some time ago, and her beet necklace stolen and locked away in [Voknaz Manor](<../../gazetteer/northern-green-sea/ursk/voknaz-manor.md>), which she is desperate to recover. 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/gameupdate/gl]
 species: lizardfolk
 name: Samso
 gender: male
@@ -18,6 +18,16 @@ title: Samso
 # Samso
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (he/him)  
+    Born DR 1716 (34 years old)  
+    Member of the [Silver Tempests](<./silver-tempests.md>)  
+    { .bio }
+
+    Originally from: [Urkabi](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/urkabi.md>), [Portalia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/portalia.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Based in the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>), [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>)
+</div>
+
 
     A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (he/him)  
     Born DR 1716 (34 years old)  

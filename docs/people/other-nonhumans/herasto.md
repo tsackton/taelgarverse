@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/stub]
 activeYear: 1745
 name: Herasto
 species: centaur
@@ -14,6 +14,15 @@ title: Herasto
 # Herasto
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [centaur](<../../creatures/species/centaurs.md>) (he/him)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently the southern Voltara Plains
+
 
     A [centaur](<../../creatures/species/centaurs.md>) (he/him)  
     { .bio }

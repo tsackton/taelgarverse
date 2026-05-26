@@ -8,6 +8,8 @@ born: 1717
 species: human
 ancestry: Deno'qai
 gender: female
+affiliations:
+- {org: Bek'eni, type: primary}
 whereabouts:
 - {type: home, end: 1748-09-06, location: Bek'eni village}
 - {type: away, start: 1748-09-07, end: 1748-09-09, location: Dunmar Fellowship}
@@ -21,7 +23,19 @@ title: Theba
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
+    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her), of the Bek'eni  
+    Born DR 1717 (33 years old)  
+    { .bio }
+
+    Based in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22th, 1748 in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
+
+
+    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her), of the Bek'eni  
     Born DR 1717 (33 years old)  
     { .bio }
 

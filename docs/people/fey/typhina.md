@@ -24,6 +24,14 @@ title: Typhina
 </div>
 
 
+    A [fey](<../../creatures/fey/fey.md>) (she/her)  
+    Killed by [Agata](<./agata.md>)  
+    { .bio }
+
+    Lived in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+</div>
+
+
 
 
 A member of the court of the [Cloudspinner](<../extraplanar-powers/archfey/cloudspinner.md>) and guardian of the [Heartwood Grove](<../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>). She was killed by [Agata](<./agata.md>), who later stole her identity while hiding in the [Ring of the Warded Mind](<../../campaigns/dunmari-frontier-campaign/treasure/ring-of-the-warded-mind.md>).

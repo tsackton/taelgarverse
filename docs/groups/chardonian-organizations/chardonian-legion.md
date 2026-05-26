@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/stub, status/check/ai]
+tags: [group, status/gameupdate/gl]
 name: Chardonian Legion
 typeOf: army
 ancestry: Chardonian
@@ -17,18 +17,11 @@ title: Chardonian Legion
 </div>
 
 
-The army of the Chardonian Empire.
 
 
+The famed Chardonian Legion is the military force of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>), and one of the chief instruments of imperial power, allowing Chardon to project force far beyond the settled core of the Empire. The Legion is subdivided into a variety of numbered field formations, local garrisons, road guards, frontier forts, border detachments, and other forces assigned to protect imperial interests. Commanders of its major formations report through the military hierarchy to the [Magistros](<../../people/chardonians/mitus-verina-auratan.md>), rather than to local proconsuls, making the Legion an agent of central control as much as provincial defense.
 
-The Chardonian Legion is the standing army of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). It garrisons forts across the imperial frontier and is the instrument by which the empire enforces its borders and projects power.
+The Legion also incorporates elite mageguard and battle-mage units. While the details of these forces are not widely publized, but Chardonian military power is closely tied to [chalyte](<../../things/materials/chalyte.md>), which is said to fuel the feats of the Legion's war wizards. 
 
-In the wake of [Grumella's War](<../../events/1700s/grumella-s-war.md>), the legion is recorded as leading raids from northern forts to break the disorganized remnants of [Grumella's Horde](<../orc-hordes/grumella-s-horde.md>). Chardonian military power is also closely tied to [Chalyte](<../../things/materials/chalyte.md>), which is said to fuel the feats of the legion’s war wizards.
-
-## Sources
-
-- [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-- [Grumella's War](<../../events/1700s/grumella-s-war.md>)
-- [Chalyte](<../../things/materials/chalyte.md>)
 
 

@@ -4,7 +4,7 @@ tags: [place]
 name: Free City of Tollen
 typeOf: settlement
 whereabouts: Western Green Sea
-aliases: [Free City of Tollen, Tollen, Tollender]
+aliases: [Free City of Tollen, Tollen, Tollender, Tollish]
 dm_owner: tim
 dm_notes: important
 typeOfAlias: city
@@ -20,7 +20,7 @@ title: Free City of Tollen
 
 Tollen is a bustling port on the [Volta](<../rivers/volta-watershed/volta.md>), a growing naval power, a cultural mixing ground, and an entrepôt where goods from across the [Green Sea](<../../green-sea.md>) are traded. Founded thousands of years ago, it has navigated the politics of the region and maintained its independence for centuries. It is a haven for merchants, traders, intellectuals, mages, poets, writers, and scholars, known for the [University of Tollen](<places/university-of-tollen.md>) and its powerful guilds. 
 
-Tollen is a cosmopolitan city, where humans, halflings, dwarves, stoneborn, lizardfolk, [kenku](<../../../creatures/species/kenku.md>), [elves](<../../../creatures/species/elves.md>), and more can be found living together, and where temples to many gods can be found, most prominently the [Eight Divines](<../../../gods-and-religions/religions/mos-numena/mos-numena.md>) and the Skaer ocean goddess [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>). 
+Tollen is a cosmopolitan city, where [humans](<../../../creatures/species/humans.md>), [halflings](<../../../creatures/species/halflings.md>), [dwarves](<../../../creatures/species/dwarves.md>), [stoneborn](<../../../creatures/species/stoneborn.md>), [lizardfolk](<../../../creatures/species/lizardfolk.md>), [kenku](<../../../creatures/species/kenku.md>), [elves](<../../../creatures/species/elves.md>), and more can be found living together, and where temples to many gods can be found, most prominently the [Eight Divines](<../../../gods-and-religions/religions/mos-numena/mos-numena.md>) and the Skaer ocean goddess [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>). 
 
 Tollen is also a city of guilds: the various trade associations, craft guilds, and producer's compacts are the center of economic and political power in the city. Particularly notable guilds include the [Dyer's Guild](<../../../groups/tollen-guilds/dyer-s-guild.md>), controlling the magical tattoo trade, and the mysterious [Ancient and Honorable Guild of Philosophers](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>), but many other guilds exist in the city. 
 
@@ -71,7 +71,7 @@ By long custom, Tollen is an open city. No tolls are levied for entering the cit
 
 
 
-City laws bar strangers from wearing armor or carrying war-blades larger than a dagger within the walls. In practice, the gate-guards will generally turn a blind eye to single swords and the odd mail shirt, so long as no one marches in file or clanks about in full harness. By custom, dwarves, elves, and stoneborn are treated as city residents and rarely questioned over armor or weapons, even in full plate, though city guards may ask pointed questions of armed groups of any species. 
+City laws bar strangers from wearing armor or carrying war-blades larger than a dagger within the walls. In practice, the gate-guards will generally turn a blind eye to single swords and the odd mail shirt, so long as no one marches in file or clanks about in full harness. By custom, [dwarves](<../../../creatures/species/dwarves.md>), [elves](<../../../creatures/species/elves.md>), and [stoneborn](<../../../creatures/species/stoneborn.md>) are treated as city residents and rarely questioned over armor or weapons, even in full plate, though city guards may ask pointed questions of armed groups of any species. 
 
 
 

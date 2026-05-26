@@ -216,7 +216,7 @@ These are the common and uncommon items recovered from [Ra'ghemdros' Hoard](<hoa
 #### Other Jewelry
 - An elaborate amulet of Gazankoa, made of ivory and gold, decorated with sapphires, taken from Buruli as part of the [Merfolk Quest Treasure](<hoards/merfolk-quest-treasure.md>)
 - Three silver armbands, each finely worked and decorated with pearls, taken from Buruli as part of the [Merfolk Quest Treasure](<hoards/merfolk-quest-treasure.md>)
-- 17 amulets of Gazankoa. Each amulet has a pearl in the center, with eight tentacles curling off in a spiral pattern. They are made of a variety of materials: 6 of shell, 7 of some kind of resin, 3 of ivory, and 1 of silver. Taken from various merfolk guards, as part of the [Merfolk Quest Treasure](<hoards/merfolk-quest-treasure.md>)
+- 17 amulets of [Gazankoa](<../../people/extraplanar-powers/gazankoa.md>). Each amulet has a pearl in the center, with eight tentacles curling off in a spiral pattern. They are made of a variety of materials: 6 of shell, 7 of some kind of resin, 3 of ivory, and 1 of silver. Taken from various merfolk guards, as part of the [Merfolk Quest Treasure](<hoards/merfolk-quest-treasure.md>)
 - Four projects in various states of completion recovered from the jeweler's workshop at the [Elemental Forge](<hoards/elemental-forge-hoard.md>). All would require further finishing work before being enchanted or sold. 
 	- A delicate gold necklace with a pendant setting designed to hold a gemstone, but empty 
 	- A pair of silver bracelets, one of which has an intricate set of etched symbols, the other looks half-finished 
@@ -284,7 +284,7 @@ These are the common and uncommon items recovered from [Ra'ghemdros' Hoard](<hoa
 
 ### Unusual Materials or Components
 - [Forge Components](<treasure/forge-components.md>) from [Apollyon's Tower Treasure](<hoards/apollyon-s-tower-treasure.md>), found near the magical forge in the basement. 
-- A half-pound or so of [adamantine](<../../things/materials/adamantine.md>) scraps, from [Apollyon's Tower Treasure](<hoards/apollyon-s-tower-treasure.md>), the remains of the materials used to construct his phylactery.
+- A half-pound or so of adamantine scraps, from [Apollyon's Tower Treasure](<hoards/apollyon-s-tower-treasure.md>), the remains of the materials used to construct his phylactery.
 - Two small metallic flies, about two inches across and made of a strange black metal, perhaps some kind of unusual iron. Inert. From [Apollyon's Tower Treasure](<hoards/apollyon-s-tower-treasure.md>).
 - Two cracked pieces of once-magical crystal that powered the constructs, from [Apollyon's Tower Treasure](<hoards/apollyon-s-tower-treasure.md>).
 - Four magical glass lenses of a variety of sizes, once apparently part of a telescope. From the [Tower of the Colossus Treasure](<hoards/tower-of-the-colossus-treasure.md>). 

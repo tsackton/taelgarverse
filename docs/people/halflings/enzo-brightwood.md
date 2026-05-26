@@ -22,7 +22,17 @@ title: Enzo Brightwood
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (he/him), of Brightwoods  
-    Member of [The Rangers](<../../groups/the-rangers.md>)  
+    Member of the The Rangers  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of January 18th, 1720): [Champimont](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+
+
+    A [halfling](<../../creatures/species/halflings.md>) (he/him), of Brightwoods  
+    Member of the The Rangers  
     { .bio }
 
     Originally from: Unknown

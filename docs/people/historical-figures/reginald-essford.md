@@ -31,6 +31,16 @@ dm_owner: none
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)  
+    b. DR 1619 - d. DR 1689, died at age 70 years  
+    Lord of the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>) (DR 1651 - DR 1689)  
+    { .bio }
+
+    Originally from: Unknown
+    Lived in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
 The father of [Wymar Essford](<../sembarans/wymar-essford.md>) and the founder of [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). The husband of [Celine Essford](<./celine-essford.md>). He was granted the lordship of the newly recreated [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>) for valiant service during the [hobgoblin wars](<../../events/1600s/third-hobgoblin-war-sembara.md>). 
 
 He was known as a careful steward of the town, and Cleenseau thrived and grew under his leadership. He was generous with lease terms and other land grants of relatively large and intact buildings in the Garrison Quarter, especially in the 1660s, as a well to reestablish a wealthy clientele in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) after the devastation of the wars. 

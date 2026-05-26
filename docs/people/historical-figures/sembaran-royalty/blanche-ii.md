@@ -27,6 +27,14 @@ dm_owner: none
 </div>
 
 
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
+    b. DR 1570 - d. DR 1602, died at age 32 years  
+    Queen of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), and [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (DR 1600 - DR 1602)  
+    { .bio }
+
+</div>
+
+
 The second child of [Elaine I](<./elaine-i.md>) and [Cynan](<./cynan.md>). Her son, [Arryn II](<./arryn-ii.md>), succeeds her to the united crowns.
 
 

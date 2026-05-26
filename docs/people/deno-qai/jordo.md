@@ -7,6 +7,8 @@ species: human
 ancestry: Deno'qai
 gender: male
 died: 1744
+affiliations:
+- {org: Te'kula, type: primary}
 whereabouts:
 - {type: home, location: Te'kula village}
 dm_owner: none
@@ -17,7 +19,15 @@ title: Jordo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him)  
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Te'kula  
+    b. DR 1672 - d. DR 1744, died at age 72 years  
+    { .bio }
+
+    Lived in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Te'kula  
     b. DR 1672 - d. DR 1744, died at age 72 years  
     { .bio }
 

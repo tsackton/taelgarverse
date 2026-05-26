@@ -25,5 +25,12 @@ title: Thror
 </div>
 
 
+    A [dwarf](<../../../../creatures/species/dwarves.md>) (he/him)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
+    { .bio }
+
+</div>
+
+
 A sailor and a pirate and a storm sorceror, feeling remose and praying to the [Bahrazel](<../../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>) to give him another chance, and nearly instantly pulled away to aid [Riswynn](<../riswynn.md>). 
 

@@ -17,7 +17,16 @@ title: Oswald Greensborn
 
     A [human](<../../creatures/species/humans.md>) (he/him)  
     Died DR 1692  
-    Member of [The Rangers](<../../groups/the-rangers.md>) (until DR 1692)  
+    Member of the The Rangers (until DR 1692)  
+    { .bio }
+
+    Lived in the [Barony of Vaubonne](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-vaubonne.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
+    A [human](<../../creatures/species/humans.md>) (he/him)  
+    Died DR 1692  
+    Member of the The Rangers (until DR 1692)  
     { .bio }
 
     Lived in the [Barony of Vaubonne](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-vaubonne.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

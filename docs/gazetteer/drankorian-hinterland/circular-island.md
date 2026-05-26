@@ -15,7 +15,6 @@ title: Circular Island
 </div>
 
 
-
 # Circular Island
 >[!info]+ Information  
 >   

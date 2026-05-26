@@ -29,6 +29,15 @@ dm_owner: mike
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1689 (61 years old)  
+    Sergeant of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)  
+    { .bio }
+
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
 
 
 ![Eveyln Totteridge](../../assets/eveyln-totteridge.png){align="right"; width="320"}The sergeant of the [River Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), Evelyn is a talented solider and particularly strong and brutal with her favored weapon, a two-handed waraxe.

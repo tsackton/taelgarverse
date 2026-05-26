@@ -29,6 +29,16 @@ title: Gnaeus
 </div>
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1701 (49 years old)  
+    Member of the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>), and [Sibyl's Hall](<../../groups/chardonian-organizations/sibyl-s-hall.md>)  
+    { .bio }
+
+    Originally from: [Arendum](<../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/arendum.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+</div>
+
+
 
 
 A disgraced historian and scholar, expelled from the Faculty for using enchantment magic to aid his research, now making a poor living as a tutor. 

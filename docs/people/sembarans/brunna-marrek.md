@@ -22,4 +22,12 @@ title: Brunna Marrek
 </div>
 
 
+    A [human](<../../creatures/species/humans.md>) (she/her)  
+    Proprietor of the [Granite Mug](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/granite-mug.md>)  
+    { .bio }
+
+    Based in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 A gruff woman who runs the [Granite Mug](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/granite-mug.md>) in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>). She is fond of gossip and quick to lean on a heavy wooden ladle she keeps at hand. Known to be practical, not especially trusting of nobility, and surprisingly well-informed about local guard movements. 

@@ -19,11 +19,17 @@ title: Kaleho
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [human](<../../../creatures/species/humans.md>) (he/him)  
-    Member of the Adventurers of Mawar  
+    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
     { .bio }
 
 </div>
 
 
-A sailor who regularly passes through Hamri, obsessed with rumors of merfolk.
+    A [human](<../../../creatures/species/humans.md>) (he/him)  
+    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
+    { .bio }
 
+</div>
+
+
+Kaleho is a sailor who regularly passes through Hamri, obsessed with rumors of merfolk.

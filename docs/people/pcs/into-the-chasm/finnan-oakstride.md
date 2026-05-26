@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+aliases: [Finnan]
 dm_owner: player
 dm_notes: important
 species: halfling
@@ -18,7 +19,16 @@ title: Finnan Oakstride
 
     A [halfling](<../../../creatures/species/halflings.md>) (he/him), of the [Oakstrides](<../../../groups/halfling-families/oakstrides.md>)  
     Born DR 1678 (72 years old)  
-    Member of the Chasm Explorers  
+    Member of the [Chasm Explorers](<./chasm-explorers.md>)  
+    { .bio }
+
+    Based in [Zimkova](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>)
+</div>
+
+
+    A [halfling](<../../../creatures/species/halflings.md>) (he/him), of the [Oakstrides](<../../../groups/halfling-families/oakstrides.md>)  
+    Born DR 1678 (72 years old)  
+    Member of the [Chasm Explorers](<./chasm-explorers.md>)  
     { .bio }
 
     Based in [Zimkova](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>)
@@ -35,4 +45,4 @@ As he grew into his young adulthood, he kept pushing to go to smaller and smalle
 
 In DR 1706, during the golden age of [Cece I](<../../historical-figures/sembaran-royalty/cece-i.md>), when Finnan was 28, he amicably parted ways with his family and headed into the highland woods, on the eastern slopes of the [Sentinels](<../../../gazetteer/sentinel-range.md>). Over the next 18 years, he wandered widely, traveling through [Zimkova](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>), [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>), [Ardlas](<../../../gazetteer/greater-sembara/ardlas.md>), and the [Lavnoch Plateau](<../../../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>); exploring inland [Vostok](<../../../gazetteer/greater-sembara/vostok/vostok.md>) and the upper [Volta](<../../../gazetteer/greater-sembara/rivers/volta-watershed/volta.md>); crossing the [Sentinels](<../../../gazetteer/sentinel-range.md>) via [Nidzahar](<../../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>) and traveling among the Deno'qai in the [Highveil Forest](<../../../gazetteer/central-highlands/highveil-forest.md>); and even journeying to the high peaks and traveling among the [Stoneborn](<../../../creatures/species/stoneborn.md>) in the [Sentinels](<../../../gazetteer/sentinel-range.md>). During this time, he grew stronger, and learned how to shape arcane energy with his stories. But he always loved most the highland forests of [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) and [Zimkova](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>), and eventually found his way back to this part of the world. 
 
-In DR 1724, when Finnan was 46, he found himself spending more and more time among the [Zimkovans](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>), beginning to systematically gather their stories and songs and legends. Soon after, he met Justas Rhostrin, a local priest of the [Kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>), and for the past five years he has largely traveled with Justas, gathering songs and stories and legends. 
+In DR 1724, when Finnan was 46, he found himself spending more and more time among the [Zimkovans](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>), beginning to systematically gather their stories and songs and legends. Soon after, he met [Justas Rhostrin](<./justas-rhostrin.md>), a local priest of the [Kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>), and for the past five years he has largely traveled with Justas, gathering songs and stories and legends. 

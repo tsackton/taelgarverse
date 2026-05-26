@@ -28,3 +28,12 @@ dm_notes: color
 </div>
 
 
+    A [Hkaran](<../../../history/historical-realms/hkar.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
+    Died DR 991  
+    Emperor of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>) (DR 980 - DR 991)  
+    { .bio }
+
+    Lived in [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)
+</div>
+
+

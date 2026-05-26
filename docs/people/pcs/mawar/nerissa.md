@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/text]
 campaignInfo:
 name: Nerissa
 born:
@@ -19,10 +19,18 @@ title: Nerissa
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [human](<../../../creatures/species/humans.md>) (she/her)  
-    Member of the Adventurers of Mawar  
+    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
+    { .bio }
+
+</div>
+
+
+    A [human](<../../../creatures/species/humans.md>) (she/her)  
+    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
     { .bio }
 
 </div>
 
 
 An older woman, not from Mawar but from the north, who retired to Hamri after a long adventuring career to listen and learn the songs of the ocean.
+

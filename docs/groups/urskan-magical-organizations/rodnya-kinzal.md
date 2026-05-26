@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/stub, status/check/ai]
+tags: [group, status/gameupdate/dufr]
 ancestry: Urskan
 displayDefaults: {defArt: ''}
 typeOf: magical bloodline
@@ -18,7 +18,3 @@ title: Rodnya Kinzal
 
 The Rodnya Kinzal is one of the eight [rodnye](<./rodnya.md>) that rule [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>). Kinzal is most closely associated with enchantment and illusion magic, and in modern Urskan politics is known for its hostility toward the [novja](<../../gazetteer/northern-green-sea/ursk/ursk.md#the-people-of-ursk>).
 
-## Sources
-
-- [Rodnya](<./rodnya.md>)
-- [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>)

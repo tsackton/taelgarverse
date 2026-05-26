@@ -17,6 +17,12 @@ title: Kazuro
 </div>
 
 
+    A [stoneborn](<../../creatures/species/stoneborn.md>) (he/him)  
+    { .bio }
+
+</div>
+
+
 
 
 A stoneborn hermit living somewhere on the coast of [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>), known for his skill in alchemy and attunement to the ocean. 

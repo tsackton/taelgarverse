@@ -24,4 +24,14 @@ title: Lambert Talwrey
 :octicons-location-24:{ .lg .middle } Died in [Cranford](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cranford.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
+    A [human](<../../creatures/species/humans.md>)  
+    Died February 16th, 1720  
+    { .bio }
+
+    Lived in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Died in [Cranford](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cranford.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+
+
 

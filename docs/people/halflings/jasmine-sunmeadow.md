@@ -40,6 +40,23 @@ title: Jasmine Sunmeadow
 :octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Sunmeadows](<../../groups/halfling-families/sunmeadows.md>)  
+    { .bio }
+
+    Originally from: [The Green Leaf](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/the-green-leaf.md>), [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of August 22th, 1748): [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 9th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
+
+
 Jasmine Sunmeadow is a halfling adventurer with a strong connection to the natural world. She grew up in Darba, the daughter of the innkeepers of [The Green Leaf](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/the-green-leaf.md>), but always longed for adventure, and even as a child she could sense the weather and make flowers bloom.
 
 Recently, she married [Oswalt Tealeaf](<./oswalt-tealeaf.md>), and they booked passage on the [Emerald Song](<../../things/ships/emerald-song.md>) together, to travel north and explore the world. Jasmine has always felt a close connection to [Jemghari](<../../gods-and-religions/gods/embodied-gods/first-ones/jemghari.md>), and a stewardship over the natural places where she feels the presence of the ancestors most strongly, so now, with her new husband is journeying to go out in the world and find these places and tell their stories.

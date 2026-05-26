@@ -35,6 +35,20 @@ dm_owner: none
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 10th, 1749 in [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
 
 
+    An [orc](<../../creatures/species/orcs.md>) (she/her)  
+    Born DR 1716 (34 years old)  
+    Member of [Hezguli](<../../groups/hezguli.md>), and the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
+    { .bio }
+
+    Originally from: [Nashtkar](<../../gazetteer/greater-dunmar/nashtkar.md>)
+    Based in [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 10th, 1749 in [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
+
+
 Murook, an [orc](<../../creatures/species/orcs.md>) woman from the [Plaguelands](<../../gazetteer/upper-istaros/plaguelands.md>), was freed from [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)'s curse in childhood by [Lubash](<./lubash.md>)'s father, Karguk. She now serves as the general of [Lubash](<./lubash.md>)'s army, and the unofficial leader of the [Hezguli](<../../groups/hezguli.md>), the reborn [orcs](<../../creatures/species/orcs.md>) who've been similarly freed. 
 ## Overview
 

@@ -29,6 +29,16 @@ title: Mabist
 </div>
 
 
+    A [fey](<../../../creatures/fey/fey.md>) (changeling) (they/them)  
+    Born DR 1717 (33 years old)  
+    Member of the [Silver Tempests](<./silver-tempests.md>)  
+    { .bio }
+
+    Originally from: the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)
+    Based in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Northern Provinces](<../../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>)
+</div>
+
+
 Mabist is a changeling of uncertain origin. Their first clear memory was waking on a straw bed in a quiet cottage in the mountains, the scent of herbs thick in the air. Their rescuer, Dinia, called them “soldier” before they even spoke; their stance made it plain. While they cannot recall the details of their past life, images sometimes come to them in flashes: a forest of silver leaves glinting the brilliant mid-morning sun; the sound and pulse of waves crashing like drums; banners of war fluttering in the winds. 
 
 They know they are a fey, that they grew up in the Feywild, and were a solider and a knight, but who they fought for, and why, and even the faces of their life before slip away when Mabist tries to grasp them. Their dreams drift between echoes of two voices: one like bells in sunlight, the other like deep water pressing on their skull. They wake with fists clenched and tears on their cheeks, not knowing which voice to fear.

@@ -32,6 +32,20 @@ title: Martino
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 6th, 1749 in [Artevus](<../../gazetteer/greater-chardon/chardonian-empire/apporia/artevus.md>), [Portalia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/portalia.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1681 (69 years old)  
+    { .bio }
+
+    Originally from: [Artevus](<../../gazetteer/greater-chardon/chardonian-empire/apporia/artevus.md>), [Portalia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/portalia.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of May 11th, 1749): the [Summer's Breeze](<../../things/ships/summer-s-breeze.md>), the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 6th, 1749 in [Artevus](<../../gazetteer/greater-chardon/chardonian-empire/apporia/artevus.md>), [Portalia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/portalia.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
+
+
 ![Martino Portrait](../../assets/martino-portrait.jpg){align="right"; width="400"}Martino is a retired sailor, fisherman, and navigator. He once sailed widely along the coasts of [Apporia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>), seeking the best fishing grounds, until he was hurt in a storm and lost most of the use of his right hand. 
 
 He is extremely knowledgeable about the waters and coasts of [Apporia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>), but now spends his days hanging around [Artevus](<../../gazetteer/greater-chardon/chardonian-empire/apporia/artevus.md>), gazing out to sea. 

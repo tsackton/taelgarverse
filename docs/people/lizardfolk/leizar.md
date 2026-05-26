@@ -33,6 +33,18 @@ title: Leizar
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 7th, 1749 in the [Aursen Marshes](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/aursen-marshes.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
 
 
+    A [lizardfolk](<../../creatures/species/lizardfolk.md>) (he/him)  
+    Born DR 1737 (13 years old)  
+    { .bio }
+
+    Based in the [Aursen Marshes](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/aursen-marshes.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 7th, 1749 in the [Aursen Marshes](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/aursen-marshes.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
+
+
 ![Leizar](../../assets/leizar.png){align="right"; width="400"}Leizar is an eager lizardfolk boy, adventurous and inquisitive, who loves stories of heroes. 
 
 

@@ -22,6 +22,13 @@ pronunciation: ak-AH-nen
 </div>
 
 
+    A [human](<../../creatures/species/humans.md>) (he/him)  
+    { .bio }
+
+    Based in [Medju](<../../gazetteer/eastern-green-sea/medju.md>)
+</div>
+
+
 One of the Spice Lords of Medju, and a collector of rarities, especially the weird, wild, and wonderful. He is especially interested in collecting rare monster parts, and is reasonably well known for this across the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>).
 
 

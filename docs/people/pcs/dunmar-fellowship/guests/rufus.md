@@ -26,5 +26,12 @@ title: Rufus
 </div>
 
 
+    A [kenku](<../../../../creatures/species/kenku.md>) (he/him)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
+    { .bio }
+
+</div>
+
+
 ![Rufus](../../../../assets/rufus.png){align="right"; width="320"}Kenku monster hunter and unofficial protector of [Wahacha](<../../../../gazetteer/eastern-green-sea/wahacha.md>). Excellent with bow and arrow. Helped kill the aboleth. Now returned to [Wahacha](<../../../../gazetteer/eastern-green-sea/wahacha.md>), continuing to guard against monsters of the deeps. Hates crabs. 
 

@@ -20,4 +20,11 @@ title: Rowena Chemare
 </div>
 
 
+    A [Tollender](<../../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../../creatures/species/humans.md>) (she/her)  
+    Died DR 1715  
+    { .bio }
+
+</div>
+
+
 The wife of [Robert I](<./robert-i.md>), she was killed by bandits in the [Aine Hills](<../../../gazetteer/greater-sembara/sembara/aine-hills.md>).

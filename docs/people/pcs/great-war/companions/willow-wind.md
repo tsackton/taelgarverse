@@ -23,4 +23,11 @@ title: Willow Wind
 </div>
 
 
+    A fox (spirit) (he/him)  
+    Companion of the [Heroes of the Great War](<../heroes-of-the-great-war.md>)  
+    { .bio }
+
+</div>
+
+
 A mystical fox spirit, the companion of [Beryl](<../beryl.md>)

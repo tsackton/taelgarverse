@@ -25,4 +25,12 @@ title: Gyles
 </div>
 
 
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
+    b. DR 1541 - d. DR 1632, died at age 91 years  
+    Leader of the [House of Teckberg](<../../../groups/sembaran-noble-houses/house-of-teckberg.md>) (until DR 1632)  
+    { .bio }
+
+</div>
+
+
 The fifth child of [Reginald](<./reginald.md>), Gyles founded the great House of Teckberg, based in the [Highlands](<../../../gazetteer/greater-sembara/sembara/highlands/highlands.md>).  

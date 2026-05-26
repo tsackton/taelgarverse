@@ -26,5 +26,13 @@ title: Eudomes
 </div>
 
 
+    A [Drankorian](<../../history/historical-realms/drankorian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Died  
+    Member of the [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>)  
+    { .bio }
+
+</div>
+
+
 A wizard from the last days of the [Drankorian Empire](<../../history/historical-realms/drankorian-empire.md>). Trapped the storm giant [Hralgar](<../giants/hralgar.md>) using powerful magic. 
 

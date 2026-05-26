@@ -33,6 +33,19 @@ dm_owner: none
 :octicons-location-24:{ .lg .middle } Body recovered by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on April 28th, 1715 in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
+    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Died April 1st, 1715  
+    Marshal of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>) (until April 1st, 1715)  
+    { .bio }
+
+    Lived in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Body recovered by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on April 28th, 1715 in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+
+
 Hildo is the marshal of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>). He serves as Sir Einrik’s second, overseeing discipline, patrol schedules, and the garrison’s morale. As the Serpentine Dagger’s curse spread through the fort, Brask tried to keep order and coordinate with [Wulfram](<./wulfram.md>) and [Bartoz](<./bartoz.md>); he was murdered when the dagger took hold of Einrik. Devout and steadfast, he led by example and relied on his faith in [The Mother](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-mother.md>).
 
 ## Relationships

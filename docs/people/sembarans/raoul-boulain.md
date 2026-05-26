@@ -20,3 +20,10 @@ title: Raoul Boulain
 
 </div>
 
+
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    b. January 22th, 1652 - d. March 20th, 1720, died at age 68 years  
+    { .bio }
+
+</div>
+

@@ -18,7 +18,7 @@ title: The Purple Pig
 
 A modest inn situated in the settlement outside the walls of [Voltara](<./voltara.md>), serving caravan guards, merchants, prospectors from the northern hills, and messengers moving between the city and the frontier. The Purple Pig is a reliable, unpretentious house, and a convenient neutral ground for arranging meetings between travelers and city contacts. 
 
-The inn is operated by its proprietor, Dravia, who maintains a well‑run common room and is known for keeping abreast of news on the roads. During the unrest that culminated in [Grumella's War](<../../../../events/1700s/grumella-s-war.md>) and the [Battle of Voltara](<../../../../events/1700s/1747/10/battle-of-voltara.md>) (DR 1747), the Purple Pig was destroyed in the fighting on the outskirts of the city; it was rebuild with the aid of the [Silver Tempests](<../../../../people/pcs/silver-tempests/silver-tempests.md>) in the following months. 
+The inn is operated by its proprietor, [Dravia](<../../../../people/chardonians/dravia.md>), who maintains a well‑run common room and is known for keeping abreast of news on the roads. During the unrest that culminated in [Grumella's War](<../../../../events/1700s/grumella-s-war.md>) and the [Battle of Voltara](<../../../../events/1700s/1747/10/battle-of-voltara.md>) (DR 1747), the Purple Pig was destroyed in the fighting on the outskirts of the city; it was rebuild with the aid of the [Silver Tempests](<../../../../people/pcs/silver-tempests/silver-tempests.md>) in the following months. 
 
 ## Location and Layout
 
@@ -26,7 +26,7 @@ Located in the outer settlement along the south road below the city walls, the i
 
 ## Proprietor
 
-- Dravia — proprietor and barkeep; locally known for arranging introductions between visitors and caravan masters when coin or goodwill merited it.
+- [Dravia](<../../../../people/chardonians/dravia.md>) — proprietor and barkeep; locally known for arranging introductions between visitors and caravan masters when coin or goodwill merited it.
 
 
 

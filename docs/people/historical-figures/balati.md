@@ -6,12 +6,12 @@ born: 1520
 species: human
 ancestry: Deno'qai
 gender: male
-died: 1544
+died: 1543
 affiliations:
 - {org: Ko'zula, type: primary}
 whereabouts:
 - {type: home, location: Forest of Dreams}
-- {type: away, start: 1544, end: 9999, location: Forest of Nightmares}
+- {type: away, start: 1543, end: 9999, location: Forest of Nightmares}
 dm_owner: none
 dm_notes: color
 title: Balati
@@ -21,7 +21,17 @@ title: Balati
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Ko'zula  
-    b. DR 1520 - d. DR 1544, died at age 24 years  
+    b. DR 1520 - d. DR 1543, died at age 23 years  
+    { .bio }
+
+    Lived in the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Died in the [Forest of Nightmares](<../../gazetteer/northern-sentinels/forest-of-nightmares.md>)
+
+
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Ko'zula  
+    b. DR 1520 - d. DR 1543, died at age 23 years  
     { .bio }
 
     Lived in the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)

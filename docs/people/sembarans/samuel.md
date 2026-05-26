@@ -26,4 +26,13 @@ title: Samuel
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1705 (45 years old)  
+    Kitchen Boy of the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>)  
+    { .bio }
+
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
 A kitchen boy in [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>), witnessed the birth of [Viepuck's](<../pcs/cleenseau/viepuck.md>) familiar, [Estiasilos](<../pcs/cleenseau/estiasilos.md>).

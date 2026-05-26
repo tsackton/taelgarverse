@@ -20,6 +20,7 @@ title: Hamri
 
 
 
+
 Hamri is blessed with a sheltered, deep water harbor within a protected bay, and a source of sweet fresh water in the [Mirmir](<../rivers/mirmir.md>) River that cascades from the interior over a series of rapids and waterfalls before emptying into the [Endless Ocean](<../../endless-ocean.md>). These resources have made it prosper, and it is now a major town of 3,500 residents, and one of the economic centers of the western coast of the [Mawakel Peninsula](<./mawakel-peninsula.md>).
 
 ![Hamri Map](../../../assets/hamri-map.png)
@@ -47,7 +48,7 @@ By evening, the second rush comes in, and the market is again a bustling place.
 
 Near the top of the Cliffside District, set off the main road from the Low District, a wide, flat terrace opens up. This terrace looks like a massive gash in the side of the cliff, torn from the rock as if by some enormous creature or weapon. No one knows how it was made, but it is a perfectly smooth terrace, about 200' by 200', set on the side of the cliff. The ground sparkles -- as if from flecks of quartz embedded in the rock -- and it appears smooth and polished. The surface of the terrace seems undamageable, or at least, in hundreds of years nothing has seemed to scratch it. During the full moon, the sparkles seem to grow brighter, and at times, during especially high tides, they drift through the rock toward the ocean, almost like they are trying to go home.
 
-Built along the front of the terrace is a fountain and small garden. Along the back, are four magnificent houses, said to be the grandest in the town. Of course, the Mawar are an egalitarian people, such as it goes, and these are not palaces or the homes of royalty. But wealth still does buy the finer things in life. The largest of the four houses is the Sayani family mansion. The Sayani’s have long been important leaders of the town, and their house is richly decorated with artifacts dating back to the [Great War](<../../../events/1500s/great-war.md>). One of the houses is the home of Hirshim Anwafi, the head of an important fishing family, and his sister, Yadria, unmarried and openly rumored to be one of the main sources of illicit gatza in Hamri. The third house is the home of [Sulfi Mahadra](<../../../people/mawarans/sulfi-mahadra.md>) and her partner Iesha. Known as the Queen of Ships, Sulfi owns what at times seems like half the fishing fleet in Hamri, and is the most important boat builder in the region. The fourth and smallest house, set at the eastern edge of the terrace where the views over the ocean are most pronounced, is the guildhall of the Society of Ocean Watchers.
+Built along the front of the terrace is a fountain and small garden. Along the back, are four magnificent houses, said to be the grandest in the town. Of course, the Mawar are an egalitarian people, such as it goes, and these are not palaces or the homes of royalty. But wealth still does buy the finer things in life. The largest of the four houses is the Sayani family mansion. The Sayani’s have long been important leaders of the town, and their house is richly decorated with artifacts dating back to the [Great War](<../../../events/1500s/great-war.md>). One of the houses is the home of Hirshim Anwafi, the head of an important fishing family, and his sister, Yadria, unmarried and openly rumored to be one of the main sources of illicit gatza in Hamri. The third house is the home of [Sulfi Mahadra](<../../../people/mawarans/sulfi-mahadra.md>) and her partner Iesha. Known as the Queen of Ships, Sulfi owns what at times seems like half the fishing fleet in Hamri, and is the most important boat builder in the region. The fourth and smallest house, set at the eastern edge of the terrace where the views over the ocean are most pronounced, is the guildhall of the [Society of Ocean Watchers](<../../../groups/society-of-ocean-watchers.md>).
 
 ### The North Dock
 
@@ -62,4 +63,5 @@ The Stormy Maiden is a popular fry shack and drinking hole catering to a cheaper
 At the southern end of the dock area, the Shark's Dock is rundown and in relatively poor repair. The harbor here is shallow and the shoals tricky to navigate, and newer docks have been built in the years since the Shark's Dock was built. Unpopular and ramshackle, this dock has little going for it commercially. It is, however, the docks closest to the Shark's Teeth, and in the warmest months, a popular place to swim. 
 
 A handful of collapsing warehouses also provide a good clandestine meeting spot, especially for someone coming by sea.
+
 

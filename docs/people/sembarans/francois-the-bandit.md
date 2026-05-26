@@ -26,4 +26,12 @@ title: François the Bandit
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    b. DR 1681 - d. November 5th, 1719, killed himself in remorse at age 38 years  
+    { .bio }
+
+    Lived in the [Cleenseau Region](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-region.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 A ruffian and ne'er do well, he was a key figure in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). 

@@ -22,7 +22,7 @@ The story of their second mission, recovering an alchemical recipe stolen by a l
 - [Addermarch - Session 04](<./addermarch-session-04.md>)
 - [Addermarch - Session 05](<./addermarch-session-05.md>)
 
-The story of their third and most ambitious mission to date, tracking down the mysterious [uligium](<../../things/materials/uligium.md>) for [Caradoc](<../../people/addermarians/caradoc.md>), is told in:
+The story of their third and most ambitious mission to date, tracking down the mysterious uligium for [Caradoc](<../../people/addermarians/caradoc.md>), is told in:
 - [Addermarch - Session 06](<./addermarch-session-06.md>)
 - [Addermarch - Session 07](<./addermarch-session-07.md>)
 - [Addermarch - Session 08](<./addermarch-session-08.md>)

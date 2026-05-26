@@ -21,4 +21,12 @@ title: Gaston Tremaine
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>)  
+    Born DR 1700 (50 years old)  
+    { .bio }
+
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
 A young farmer who lives in the North Close. His sweetheart, [Henry Blackwell](<./henry-blackwell.md>) was killed during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) and he has not taken it well. He only survived due to the quick thinking and timely warning from the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>).

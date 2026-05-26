@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags: [place, status/cleanup/text, status/gameupdate/gl]
 campaignInfo: []
 name: Voltara
 typeOf: settlement
@@ -61,7 +61,7 @@ A comfortable inn just outside the town gates, in what passes for a small Dwarve
 
 [The Wandering Toad](<./the-wandering-toad.md>)
 
-A small inn just inside the city gates, modest in size but welcoming and friendly. Considered comfortable accommodations, 2 gp for food, drink, lodging. Known for wild game, mushrooms, and ale. Run by a charming and friendly, and unusually large, halfling man known as Finoc Small.
+A small inn just inside the city gates, modest in size but welcoming and friendly. Considered comfortable accommodations, 2 gp for food, drink, lodging. Known for wild game, mushrooms, and ale. Run by a charming and friendly, and unusually large, halfling man known as [Finoc Small](<../../../../people/halflings/finoc-small.md>).
 
 The Ruby Flask
 

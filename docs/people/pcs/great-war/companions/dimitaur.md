@@ -24,6 +24,13 @@ title: Dimitaur
 </div>
 
 
+    A dragonet (he/him)  
+    Companion of the [Heroes of the Great War](<../heroes-of-the-great-war.md>)  
+    { .bio }
+
+</div>
+
+
 A small flying lizard, companion to [Rai](<../rai.md>).
 
 

@@ -17,6 +17,12 @@ title: Milo Thistlefoot
 </div>
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (he/him)  
+    { .bio }
+
+</div>
+
+
 
 
 The missing captain of the [Stormdancer](<../../things/ships/stormdancer.md>). 

@@ -28,7 +28,7 @@ title: The Ciphered Scroll
 
 
  
-*(6)* Nadine is back! I have reached the western coast of the Mawakel peninsula, I am staying in the small town of Medin. Many pass through here, and there is even a small Chardonian trade mission. It is a good place for me. Just north is a salt lizardfolk town so access to gatza, and the gatza-addled, is easy, and there is enough coming and going that they are rarely missed. But the secrets of Airion’s research do not seem to have helped, for I have had four more failures. Nadine assures me she was safe while I was gone, and the boys are with her. But I must hurry. 
+*(6)* Nadine is back! I have reached the western coast of the Mawakel peninsula, I am staying in the small town of Mendin. Many pass through here, and there is even a small Chardonian trade mission. It is a good place for me. Just north is a salt lizardfolk town so access to gatza, and the gatza-addled, is easy, and there is enough coming and going that they are rarely missed. But the secrets in Airion's books do not seem to have helped, for I have had four more failures. Nadine assures me she was safe while I was gone, and the boys are with her. But I must hurry. 
 
 
 
@@ -49,4 +49,5 @@ title: The Ciphered Scroll
 
  
 *(11)* Success! The Yi’weti has worked! It took three tries, but the poor babbling creature lives, although she speaks gibberish most of the time and water seems to pour from her at every moment. It is not Nadine, this I know, but now I just need to refine the ritual. At least the failures will obey me. I have enough Yi’weti for at least five more attempts, and probably more, as long as that thing Nimessa summoned keeps it safe. Soon I will have my dear Nadine and our boys back, I can feel it. I am so close. 
+
 

@@ -16,6 +16,6 @@ title: The Wandering Toad
 </div>
 
 
-A small, welcoming inn just inside the city walls of [Voltara](<./voltara.md>). Known for wild game, mushrooms, and ale, and run by the unusually large halfling Finoc Small. 
+A small, welcoming inn just inside the city walls of [Voltara](<./voltara.md>). Known for wild game, mushrooms, and ale, and run by the unusually large halfling [Finoc Small](<../../../../people/halflings/finoc-small.md>). 
 
 

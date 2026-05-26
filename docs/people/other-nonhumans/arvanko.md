@@ -20,7 +20,20 @@ title: Arvanko
 
     A [stoneborn](<../../creatures/species/stoneborn.md>) (he/him)  
     Born DR 1445 (305 years old)  
-    Member of [The Rangers](<../../groups/the-rangers.md>)  
+    Member of the The Rangers  
+    { .bio }
+
+    Based in [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 23th, 1715 in [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+
+
+    A [stoneborn](<../../creatures/species/stoneborn.md>) (he/him)  
+    Born DR 1445 (305 years old)  
+    Member of the The Rangers  
     { .bio }
 
     Based in [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)

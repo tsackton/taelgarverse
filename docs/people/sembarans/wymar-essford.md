@@ -31,6 +31,16 @@ dm_owner: mike
 
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him), of Essords  
+    b. DR 1652 - d. February 11th, 1720, died at age 68 years  
+    Lord of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) (DR 1689 - February 11th, 1720)  
+    { .bio }
+
+    Lived in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
+
 ![Wymarofclenseau](../../assets/wymarofclenseau.jpeg){align="right"; width="320"}The aging and senile lord of the manor in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). The son of [Reginald Essford](<../historical-figures/reginald-essford.md>) and [Celine Essford](<../historical-figures/celine-essford.md>). He is rarely involved in the day to day events of the town. His children are [Rosalind Essford](<./rosalind-essford.md>) and [Rinault Essford](<./rinault-essford.md>). Since March 1719, he has been suffering from increasingly significant dementia and his daughter has largely taken over the management of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). 
 
 ### Wymar's Story of Childhood

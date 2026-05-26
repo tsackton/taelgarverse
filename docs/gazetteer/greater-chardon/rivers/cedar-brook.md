@@ -13,7 +13,7 @@ title: Cedar Brook
 ---
 # Cedar Brook
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A brook in [Alta Tonaro](<../chardonian-empire/alta-tonaro.md>), the [Chardonian Empire](<../chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../greater-chardon.md>)  
+-    :octicons-location-24:{ .lg .middle } A brook in [Alta Tonaro](<../chardonian-empire/alta-tonaro/alta-tonaro.md>), the [Chardonian Empire](<../chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../greater-chardon.md>)  
     :octicons-location-24:{ .lg .middle } Located in the [Yeraad Watershed](<../../major-rivers/yeraad-watershed/yeraad-watershed.md>)  
 </div>
 

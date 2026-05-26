@@ -29,6 +29,16 @@ title: Alesh
 :octicons-location-24:{ .lg .middle } Last known location (as of December 26th, 1748): [Central Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 
 
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1727 (23 years old)  
+    { .bio }
+
+    Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of December 26th, 1748): [Central Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/central-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+
+
 
 
 ![Alesh Portrait](../../assets/alesh-portrait.jpg){align="right"; width="400"}A short, quick-footed woman, with a nondescript face, short, black hair and light brown/tan skin. An extremely skilled rider, often serving as a scout or messenger for the people of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Bubbly, cheerful person, endlessly fascinated by Dunmari history. She collects rumors of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) of old and collects arrowheads and other artifacts she can find in her travels. She is especially interested in ancient battle sites.

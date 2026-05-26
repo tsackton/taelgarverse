@@ -23,5 +23,13 @@ title: Koldo
 </div>
 
 
+    A [lizardfolk](<../../creatures/species/lizardfolk.md>) (he/him)  
+    Born DR 1512 (238 years old)  
+    { .bio }
+
+    Based in [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 ![Lizardfolk Koldo](../../assets/lizardfolk-koldo.png){align="right"; width="320"}A reclusive druid, very rarely talks to outsiders.
 

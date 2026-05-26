@@ -38,6 +38,22 @@ title: Corrin Wildheart
 :octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), a [halfling](<../../creatures/species/halflings.md>) boat, moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), in the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Wildhearts](<../../groups/halfling-families/wildhearts.md>)  
+    Navigator of the [Wave Dancer](<../../things/ships/wave-dancer.md>)  
+    { .bio }
+
+    Based in the [Wave Dancer](<../../things/ships/wave-dancer.md>), a [halfling](<../../creatures/species/halflings.md>) boat
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on September 30th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), a [halfling](<../../creatures/species/halflings.md>) boat, sailing to [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), in the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), a [halfling](<../../creatures/species/halflings.md>) boat, moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), in the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
+
+
 Corrin Wildheart is a navigator with a touch of weather magic, part of the crew of the halfling trading ship the [Wave Dancer](<../../things/ships/wave-dancer.md>). He has bright blond unkempt hair, and tends towards yellow and red clothes.
 ## Relationships
 Corrin married into the [Brightmoon trading family](<../../groups/halfling-families/brightmoons.md>), and now sails with them, along with his younger brother [Lerry Wildheart](<./lerry-wildheart.md>).

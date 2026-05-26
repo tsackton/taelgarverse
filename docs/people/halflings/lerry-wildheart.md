@@ -38,6 +38,22 @@ title: Lerry Wildheart
 :octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Wildhearts](<../../groups/halfling-families/wildhearts.md>)  
+    Quartermaster of the [Wave Dancer](<../../things/ships/wave-dancer.md>) (since DR 1746)  
+    { .bio }
+
+    Sails in the [Wave Dancer](<../../things/ships/wave-dancer.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on September 30th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), sailing to [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
+
+
 Lerry Wildheart is the quartermaster of the halfling trading ship the [Wave Dancer](<../../things/ships/wave-dancer.md>), promoted to the role a few years ago. 
 ## Relationships
 - [Corrin Wildheart](<./corrin-wildheart.md>), older brother

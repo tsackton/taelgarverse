@@ -36,6 +36,20 @@ title: Havdar
 :octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), on December 27th, 1748  
 
 
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1724 (26 years old)  
+    Commander of [Havdar's Warband](<../../groups/havdar-s-warband.md>)  
+    { .bio }
+
+    Originally from: [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), on December 27th, 1748  
+
+
 
 
 ![Havdar](../../assets/havdar.jpg){align="right"; width="350"}Havdar, a brash and confident warrior, made a name for himself as a war leader in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), before joining with Nayan [Sura](<./sura.md>) in support of her claim to the leadership of the Dunmari people. 

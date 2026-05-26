@@ -21,6 +21,13 @@ title: Callie Riverstone
 </div>
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Riverstones](<../../groups/halfling-families/riverstones.md>)  
+    { .bio }
+
+    Based in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 ![Callie Riverstone](../../assets/callie-riverstone.jpg){align="right"; width="200"}A leatherworker specializing in fine colors.
 
 

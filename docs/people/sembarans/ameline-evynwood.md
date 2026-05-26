@@ -23,5 +23,12 @@ title: Ameline Evynwood
 </div>
 
 
+    A [human](<../../creatures/species/humans.md>) (she/her)  
+    { .bio }
+
+    Based in [Ashcombe](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/ashcombe.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 ![Lady Ameline Evynwood](../../assets/lady-ameline-evynwood.png){align="left"; width="200"} 
 

@@ -48,7 +48,7 @@ In DR 1059, the [First Plague](<../events/1000s/1059/first-plague.md>) came and 
 
 
 ###
-* (1142 DR): Adrian establishes himself in [Embry](<../gazetteer/greater-sembara/sembara/heartlands/embry.md>) as the first [Duke of Sembara](<../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>) 
+* (1142 DR): [Adrian of Embry](<../people/historical-figures/sembaran-royalty/adrian-of-embry.md>) establishes himself in [Embry](<../gazetteer/greater-sembara/sembara/heartlands/embry.md>) as the first [Duke of Sembara](<../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>) 
 
 ## The Six Duchies
 DR 1250 - DR 1400
@@ -183,7 +183,7 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - 1574 DR: The [First Hobgoblin War](<../events/1500s/first-hobgoblin-war-sembara.md>) begins. 
 - 1578 DR: The [First Hobgoblin War](<../events/1500s/first-hobgoblin-war-sembara.md>) ends. A substantial portion of the [Shattered Ice Clan](<../groups/hobgoblin-clans/shattered-ice-clan.md>) remains established in the [Marches of Enford](<../gazetteer/greater-sembara/sembara/western-marches/marches-of-enford.md>) and western [Maseau](<../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
 - 1582 DR: [Wisym I](<../people/historical-figures/sembaran-royalty/wisym-i.md>) dies. [Anne](<../people/historical-figures/sembaran-royalty/anne.md>) [attempts to *geas*](<../events/1500s/1582/attempted-geas-of-elaine-i.md>) [Elaine I](<../people/historical-figures/sembaran-royalty/elaine-i.md>) to prevent her from wishing to take the throne, but the spell fails. [Elaine I](<../people/historical-figures/sembaran-royalty/elaine-i.md>) is crowned queen and [Anne](<../people/historical-figures/sembaran-royalty/anne.md>) executed, and her children exiled
-- 1583 DR: The [Cursed Cold](<../events/1500s/cursed-cold.md>) spreads from the Plaguelands for five months, until [The Rangers](<../groups/the-rangers.md>) and others heal the land. Rumors spread that this was divine retribution for [Anne's](<../people/historical-figures/sembaran-royalty/anne.md>) sins
+- 1583 DR: The [Cursed Cold](<../events/1500s/cursed-cold.md>) spreads from the Plaguelands for five months, until [Rangers](<../groups/rangers.md>) and others heal the land. Rumors spread that this was divine retribution for [Anne's](<../people/historical-figures/sembaran-royalty/anne.md>) sins
 - 1590 DR: The [Shattered Ice Clan](<../groups/hobgoblin-clans/shattered-ice-clan.md>) launches significant raids across [Maseau](<../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), which sends an embassy to Sembara for aid
 - 1590 DR, fall: [Elaine I](<../people/historical-figures/sembaran-royalty/elaine-i.md>) sends the [Army of Mostreve](<../groups/sembaran-army/army-of-mostreve.md>) and the [Army of the South](<../groups/sembaran-army/army-of-the-south.md>) to aid [Maseau](<../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>). The [Second Hobgoblin War](<../events/1500s/second-hobgoblin-war-sembara.md>) begins
 - 1602 DR: [Blanche II](<../people/historical-figures/sembaran-royalty/blanche-ii.md>) dies in childbirth, and her great uncle, Percival Wynthrope, becomes regent for her young son

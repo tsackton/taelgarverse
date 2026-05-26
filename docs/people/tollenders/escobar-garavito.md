@@ -29,6 +29,16 @@ title: Escobar Garavito
 </div>
 
 
+    A [Cymean](<../../gazetteer/western-green-sea/realms/cymea.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1727 (23 years old)  
+    Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>), and the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>)  
+    { .bio }
+
+    Originally from: [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>)
+    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
+</div>
+
+
 
 
 ![Escobar Garavito](../../assets/escobar-garavito.png){align="right"; width="400"}A young and charismatic student at the University of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), Escobar's journey from the humble village of [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>) in [Cymea](<../../gazetteer/western-green-sea/realms/cymea.md>) to the bustling streets of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) showcases his adaptability and determination.

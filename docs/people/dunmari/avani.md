@@ -31,4 +31,16 @@ title: Avani
 :octicons-location-24:{ .lg .middle } Cured of lycanthropy by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) on July 3rd, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Member of the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>) (April 1748 - July 3rd, 1748)  
+    { .bio }
+
+    Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Cured of lycanthropy by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) on July 3rd, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
 The unnamed woman who was cured of lycanthropy by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>), one of the few survivors of the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>). 

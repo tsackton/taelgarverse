@@ -24,5 +24,13 @@ title: Eldeth Redhammer
 </div>
 
 
-Eldeth is a talented, if eccentric, artificer. She is known locally in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) as a reputable buyer of gemstones, and is part of a loose community of scholars, wizards, and others attempted to better understand the exact nature of chalyte. 
+    A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of the [Redhammers](<../../groups/dwarven-clans/redhammers.md>)  
+    Born DR 1711 (39 years old)  
+    { .bio }
+
+    Based in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>)
+</div>
+
+
+Eldeth is a talented, if eccentric, artificer. She is known locally in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) as a reputable buyer of gemstones, and is part of a loose community of scholars, wizards, and others attempted to better understand the exact nature of [chalyte](<../../things/materials/chalyte.md>). 
 

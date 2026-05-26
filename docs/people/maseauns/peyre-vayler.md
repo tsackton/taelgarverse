@@ -26,4 +26,13 @@ dm_owner: none
 </div>
 
 
+    A [Mazeanne](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1655 (95 years old)  
+    Lord of [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>)  
+    { .bio }
+
+    Based in [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>), the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
+</div>
+
+
 The Lord of [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>), he is known as a fair and just lord, although his two daughters are bitter rivals and his inability to choose an heir has left Evis paralyzed somewhat over the last year or two as his health has declined.

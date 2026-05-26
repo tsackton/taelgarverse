@@ -6,6 +6,8 @@ name: Obel
 born: 1688
 species: human
 ancestry: Deno'qai
+affiliations:
+- {org: Te'kula, type: primary}
 gender: male
 whereabouts: Te'kula village
 dm_owner: none
@@ -16,7 +18,15 @@ title: Obel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him)  
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Te'kula  
+    Born DR 1688 (62 years old)  
+    { .bio }
+
+    Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Te'kula  
     Born DR 1688 (62 years old)  
     { .bio }
 

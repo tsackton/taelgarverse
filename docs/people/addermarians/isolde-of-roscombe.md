@@ -31,6 +31,18 @@ title: Isolde of Roscombe
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 6th, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
+    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Temple Steward of the Temple of the Sibyl  
+    { .bio }
+
+    Based in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 6th, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+
+
 Isolde is the temple steward of the Temple of the Sibyl in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>). She manages the day‑to‑day affairs of the Temple of the Sibyl in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), handling visitors, records, and logistics so [Owen Tavish](<./owen-tavish.md>) can focus on scholarship and ritual. She keeps the sanctuary secure, curates relics, and ensures sensitive items—such as the cursed [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>)—are catalogued and protected.
 
 Practical and composed, Isolde prizes order and preparedness. She has little patience for theatrics in sacred spaces, yet treats guests with cordial efficiency. Her calm demeanor steadies the clerical staff during crises, and her meticulous records prove invaluable when odd relics surface.

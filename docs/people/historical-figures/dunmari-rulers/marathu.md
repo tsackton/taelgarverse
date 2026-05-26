@@ -25,3 +25,11 @@ dm_owner: tim
 
 </div>
 
+
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Nayan dynasty](<../../../groups/dunmari-dynasties/nayan-dynasty.md>)  
+    b. DR 1668 - d. DR 1740, died at age 72 years  
+    Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1728 - DR 1740)  
+    { .bio }
+
+</div>
+

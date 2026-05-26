@@ -23,7 +23,16 @@ title: Aram
     Member of [Havdar's Warband](<../../groups/havdar-s-warband.md>)  
     { .bio }
 
-    Based with [Havdar's Warband](<../../groups/havdar-s-warband.md>)
+    Based with [Havdar's Warband](<../../groups/havdar-s-warband.md>), in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1717 (33 years old)  
+    Member of [Havdar's Warband](<../../groups/havdar-s-warband.md>)  
+    { .bio }
+
+    Based with [Havdar's Warband](<../../groups/havdar-s-warband.md>), in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 

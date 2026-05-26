@@ -20,5 +20,12 @@ title: Olen Vrask
 </div>
 
 
+    An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Member of [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>)  
+    { .bio }
+
+</div>
+
+
 ![Olen Vrask Portrait](../../assets/olen-vrask-portrait.jpg){align="right"; width="400"}Olen is a secretary and scribe for [Branek Mirov](<./branek-mirov.md>).
 

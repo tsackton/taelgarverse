@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [Mawar]
 campaignInfo: []
+aliases: [Khathayi the Flametongue]
 name: Khathayi the Flametongue
 species: unknown
 speciesAlias: mysterious creature
@@ -20,6 +22,15 @@ title: Khathayi the Flametongue
 
 </div>
 
+
+    A mysterious creature  
+    Died  
+    { .bio }
+
+</div>
+
+
+A mysterious ancient being, apparently buried in, or at least associated with, a monument in the north of the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>); associated with elemental fire. 
 
 
 

@@ -10,6 +10,7 @@ dm_owner: player
 dm_notes: none
 affiliations:
 - {type: primary, org: Addermarch Mercenaries}
+- {org: de Brunes, type: primary}
 tags: [person]
 whereabouts:
 - {type: home, location: Eskbridge}
@@ -20,7 +21,16 @@ title: Fazoth de Brune
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Addermarch Mercenaries](<./addermarch-mercenaries.md>)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Addermarch Mercenaries](<./addermarch-mercenaries.md>), and the [de Brunes](<../../../groups/sembaran-noble-houses/de-brunes.md>)  
+    { .bio }
+
+    Originally from: [Eskbridge](<../../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>), the [Duchy of Wisford](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
+    Based in [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>)
+    :simple-dungeonsanddragons:{ .middle} [Character Sheet](https://www.dndbeyond.com/characters/131334028) 
+</div>
+
+
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Addermarch Mercenaries](<./addermarch-mercenaries.md>), and the [de Brunes](<../../../groups/sembaran-noble-houses/de-brunes.md>)  
     { .bio }
 
     Originally from: [Eskbridge](<../../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>), the [Duchy of Wisford](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)

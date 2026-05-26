@@ -26,4 +26,14 @@ title: Willow Copperharp
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (she/her)  
+    Born DR 1696 (54 years old)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
+
+
 ![Willow Copperharp](../../assets/willow-copperharp.jpg){align="right"; width="250"}Willow Copperharp is a halfling sailor, formerly part of the crew of the [Stormdancer](<../../things/ships/stormdancer.md>), who joined the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) out of a desire to witness and document their quest to end [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>). She is a storyteller, a poet; serious and soft-spoken, but eloquent. She is religious as halflings go, devoted to the [First Ones](<../../gods-and-religions/gods/embodied-gods/first-ones/first-ones.md>). 

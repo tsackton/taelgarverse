@@ -22,3 +22,11 @@ title: Marcel de Valarin
 </div>
 
 
+    An [Isinguer](<../../history/historical-realms/istabor-alliance.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Died DR 1688  
+    { .bio }
+
+    Lived in [Valarin](<../../gazetteer/greater-sembara/duchy-of-maseau/valarin.md>), the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
+</div>
+
+

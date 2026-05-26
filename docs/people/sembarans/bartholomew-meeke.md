@@ -16,3 +16,9 @@ title: Bartholomew Meeke
 </div>
 
 
+    A [human](<../../creatures/species/humans.md>)  
+    { .bio }
+
+</div>
+
+

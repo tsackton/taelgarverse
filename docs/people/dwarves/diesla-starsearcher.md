@@ -28,4 +28,13 @@ title: Diesla Starsearcher
 </div>
 
 
+    A [dwarf](<../../creatures/species/dwarves.md>) (she/her)  
+    Born DR 1512 (238 years old)  
+    { .bio }
+
+    Originally from: [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
+    Based in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
 [Brot Starsearcher](<./brot-starsearcher.md>)'s wife, a respected metalsmith in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). A patient and loving companion to her somewhat scatterbrained spouse.

@@ -69,7 +69,7 @@ The group plans their approach to Apollyon's tower, deciding how to best navigat
 ### Defenses at Apollyon's Tower
 The group encounters resistance as they approach the top of Apollyon's tower, facing unexpected defenses.
 - The party approaches the tower after flying over the rocky terrain, noting an increasingly oppressive atmosphere around the structure.
-- Seeker briefly lands to animate a rope [ladder](<../../../people/pcs/dunmar-fellowship/companions/ladder.md>), transforming it into an osprey to follow him in bird form.
+- Seeker briefly lands to animate a rope ladder, transforming it into an osprey to follow him in bird form.
 - Upon nearing the top, they observe two large statues on a mid-level platform, which suddenly become active, firing darts at the party.
 - Several members are hit, forcing them out of their animal forms and causing them to land at the top of the tower.
 - They notice a trapdoor at the top with no obvious way to open it, and debate using a chime of opening versus maintaining silence.
@@ -81,7 +81,7 @@ The party faces off against the magical constructs as they descend into Apollyon
 - Seeker identifies the manacles as part of a ritual used to rip souls from victims and feed a lich's phylactery, hinting at [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>)'s dark past.
 - The constructs pursue the party, entering the tower from the doors below and coming up the spiral stairs. The party fights to hold them back, using the narrow stairs and strategic positioning to their advantage.
 - [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) uses his deflection abilities to mitigate damage from the constructs' attacks, showcasing impressive defensive skills.
-- [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) casts Sanctuary on the animated rope [ladder](<../../../people/pcs/dunmar-fellowship/companions/ladder.md>) to help block the constructs, effectively using the environment to their advantage.
+- [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) casts Sanctuary on the animated rope ladder to help block the constructs, effectively using the environment to their advantage.
 - [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) consistently targets the constructs' eyes, successfully blinding them multiple times to gain the upper hand.
 - The party uses a combination of melee attacks and defensive spells, with Wellby effectively blinding the constructs to slow their advance, despite the constructs seeming immunity to many spells. 
 - After a prolonged battle, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) deliver the final blows, bringing the constructs down and securing a moment of calm.
@@ -123,7 +123,7 @@ The party continues their exploration, descending further into the basement, whe
 The party continues exploring the newly cleared area of the basement.
 - After the battle, the party dismisses [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s Sickening Radiance and begins cautiously searching the basement area. The forge is a large stone circular pedestal in the center of the room, with silver threads etched into the sides that run in a chaotic network of lines to a silver panel on the wall. There are four evenly spaced openings in the pedestal. 
 - They find two smaller rooms branching off from the main basement hall, each filled with different materials and artifacts.
-- One room contains hundreds of metal bars—some mundane, others quite rare, like silver and [mithril](<../../../things/materials/mithril.md>). The party takes as many of the rare metals as they can carry.
+- One room contains hundreds of metal bars—some mundane, others quite rare, like silver and mithril. The party takes as many of the rare metals as they can carry.
 - In another room, they discover a stone basin filled with various chemicals, glass vials, and fine metal shavings, hinting at a workshop for alchemical or magical crafting.
 - [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) uses Tremor Sense to ensure that no hidden threats remain, confirming that the area is secure.
 - The group discovers a large stone chest, cleverly concealed in one of the rooms. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) checks for traps, finding none, and successfully unlocks the chest.

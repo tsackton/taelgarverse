@@ -34,6 +34,20 @@ title: Guy Marchand
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in [Nordgate](<../../gazetteer/greater-sembara/tollen/wards/nordgate.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
+    An [Isinguer](<../../history/historical-realms/istabor-alliance.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1687 (63 years old)  
+    Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>)  
+    { .bio }
+
+    Originally from: the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
+    Based in [Nordgate](<../../gazetteer/greater-sembara/tollen/wards/nordgate.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in [Nordgate](<../../gazetteer/greater-sembara/tollen/wards/nordgate.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
+
+
 Guy Marchand is a mapmaker from [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), known for his meticulous craftsmanship and his thriving shop in [Nordgate](<../../gazetteer/greater-sembara/tollen/wards/nordgate.md>).
 ## Overview
 

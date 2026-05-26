@@ -4,7 +4,7 @@ tags: [place]
 name: Eskorola
 typeOf: settlement
 ancestry: lizardfolk
-whereabouts: Mawar Confederacy
+whereabouts: Tzingola
 pronunciation: es-ko-ROH-lah
 dm_owner: none
 dm_notes: color
@@ -14,9 +14,12 @@ title: Eskorola
 # Eskorola
 :speaker:{ .middle } *(es-ko-ROH-lah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../creatures/species/lizardfolk.md>) village in the [Mawar Confederacy](<./mawar-confederacy.md>), the [Mawakel Peninsula](<./mawakel-peninsula.md>), the [Northwest Coast](<../northwest-coast.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../creatures/species/lizardfolk.md>) village in [Tzingola](<./tzingola.md>), the [Mawakel Peninsula](<./mawakel-peninsula.md>), the [Northwest Coast](<../northwest-coast.md>)  
 </div>
 
 
-The lizardfolk village, Eskorola, is a small community of maybe 50 huts nestled on the southern end of an extensive salt marsh (formed on the coastal side of a chain of barrier islands), most built on stilts but relying on the vegetation to protect from storm surges. Some huts are connected by wooden walkways or swinging bridges, but many require swimming. A few larger communal buildings cluster near the center of the village, set on a small artificial island, surrounded by marsh grass. Oyster farms dot the mouth of the bay and a tidal pool provides a harbor of sorts for the few larger boats (although most lizardfolk just use canoes kept by each hut, or swim). 
+Eskorola is a small community nestled on the southern end of the [Tzingola Marshes](<./tzingola.md>), an extensive coastal salt marsh north of [Hamri](<./hamri.md>). About 50-60 huts and scattered outlying dwellings, mostly built on stilts above marsh channels and relying on the vegetation to protect them from storm surges, house a hundred or so lizardfolk inhabitants. 
+
+Eskorola is a village close to the ocean. Though some huts are connected by wooden walkways or swinging bridges, many require swimming to reach. A few larger communal buildings cluster near the center of the village, set on a small artificial island, surrounded by marsh grass. Oyster farms dot the mouth of the bay and a tidal pool provides a harbor of sorts for the few larger boats, though most lizardfolk just use canoes kept by each hut, or swim. 
+
 

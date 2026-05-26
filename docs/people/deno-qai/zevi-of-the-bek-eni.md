@@ -10,6 +10,8 @@ ancestry: Deno'qai
 gender: male
 died: 1748-09-06
 whereabouts: Elderwood
+affiliations:
+- {org: Bek'eni, type: primary}
 activeYear: 1745
 dm_owner: none
 dm_notes: color
@@ -19,7 +21,15 @@ title: Zevi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him)  
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Bek'eni  
+    Killed by [Grimbaskal](<../other-nonhumans/mezzar.md>) on September 6th, 1748  
+    { .bio }
+
+    Lived in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+
+    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Bek'eni  
     Killed by [Grimbaskal](<../other-nonhumans/mezzar.md>) on September 6th, 1748  
     { .bio }
 

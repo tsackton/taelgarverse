@@ -38,6 +38,23 @@ title: Dani Silversong
 :octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Silversongs](<../../groups/halfling-families/silversongs.md>)  
+    Born DR 1712 (38 years old)  
+    Quartermaster of the [Emerald Song](<../../things/ships/emerald-song.md>)  
+    { .bio }
+
+    Based in the [Emerald Song](<../../things/ships/emerald-song.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 9th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
+
+
 Quartermaster and chief trader on the [Emerald Song](<../../things/ships/emerald-song.md>). Dani Silversong serves as the main spokesperson for the family and is the face of the Emerald Song.
 ## Relationships
 - [Ewen Silversong](<./ewen-silversong.md>), her grandfather

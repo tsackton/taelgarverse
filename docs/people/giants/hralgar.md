@@ -33,6 +33,19 @@ title: Hralgar
 :octicons-location-24:{ .lg .middle } Freed from [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), November 23th, 1748  
 
 
+    A [giant](<../../creatures/species/giants.md>) (storm giant) (he/him)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of November 23th, 1748): [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Freed from [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), November 23th, 1748  
+
+
 
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.

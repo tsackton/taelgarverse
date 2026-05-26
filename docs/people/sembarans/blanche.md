@@ -22,4 +22,12 @@ title: Blanche
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1687 (63 years old)  
+    { .bio }
+
+    Based in [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>), the [Manor of Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-beury.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
 ![Blanche of Beury](../../assets/blanche-of-beury.png){align="right"; width="320"}[Lionel's](<./lionel-mortagne.md>) right hand, and the magistrate of [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). 

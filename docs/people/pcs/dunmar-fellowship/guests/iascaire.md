@@ -11,6 +11,7 @@ excludePublish: [clee]
 displayDefaults: {aNoDate: Traveled with <affiliations>}
 affiliations:
 - {org: Dunmar Fellowship, title: Guest"}
+- {org: Ko'zula, type: primary}
 dm_owner: tim
 dm_notes: important
 title: Iascaire
@@ -19,7 +20,14 @@ title: Iascaire
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../../../creatures/species/humans.md>) (he/him)  
+    A Deno'qai [human](<../../../../creatures/species/humans.md>) (he/him), of the Ko'zula  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
+    { .bio }
+
+</div>
+
+
+    A Deno'qai [human](<../../../../creatures/species/humans.md>) (he/him), of the Ko'zula  
     Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 

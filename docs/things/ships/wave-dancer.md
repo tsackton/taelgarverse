@@ -22,6 +22,9 @@ title: Wave Dancer
 :octicons-location-24:{ .lg .middle } Last known location (as of October 14th, 1748): moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)
 
 
+:octicons-location-24:{ .lg .middle } Last known location (as of October 14th, 1748): moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)
+
+
 A halfling ship plying the trade routes of the eastern Green Sea, regularly visiting [Praznitsky](<../../gazetteer/northern-green-sea/ursk/praznitsky.md>), [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), and [Medju](<../../gazetteer/eastern-green-sea/medju.md>).  
 ## Crew
 [Wella Brightmoon](<../../people/halflings/wella-brightmoon.md>), captain and matriach of the family

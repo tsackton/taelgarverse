@@ -32,6 +32,18 @@ title: Ealwen
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1748 in [Erelion](<../../gazetteer/upper-istaros/orenlas/erelion.md>), [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)  
 
 
+    An [elf](<../../creatures/species/elves.md>) (she/her), ([ka](<../../background/elven-cycle-of-generations.md>) 37)  
+    Born DR 1712 (38 years old)  
+    { .bio }
+
+    Based in [Erelion](<../../gazetteer/upper-istaros/orenlas/erelion.md>), [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1748 in [Erelion](<../../gazetteer/upper-istaros/orenlas/erelion.md>), [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)  
+
+
 ![Ealwen Portrait](../../assets/ealwen-portrait.png){align="right"; width="400"}Ealwen is a gardener and herbalist, who lives in Erelion. She is an expert in tending to plants, especially the magical plants of Orenlas from which all the elves need grow. She is fascinated with plants, and is spending her first leya trying to deeply understand their minds and ways of thinking and feeling. 
 
 She has also taken on the role of [Arheste](<./arheste.md>)'s caretaker, and often visits her, soothing her injuries as best she can. 

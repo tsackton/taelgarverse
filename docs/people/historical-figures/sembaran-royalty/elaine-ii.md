@@ -28,6 +28,15 @@ title: Elaine II
 </div>
 
 
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (she/her), of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>)  
+    b. DR 1673 - d. DR 1745, died at age 72 years  
+    Queen of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) (September 12th, 1713 - DR 1745)  
+    Queen of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) (June 15th, 1720 - DR 1745)  
+    { .bio }
+
+</div>
+
+
 
 
 The first monarch of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), descended from, Derik, the youngest son of [Elaine I](<./elaine-i.md>), and [Morgaine](<./morgaine.md>), a Tyrwinghan [oracle](<../../../groups/oracle-of-the-riven.md>).

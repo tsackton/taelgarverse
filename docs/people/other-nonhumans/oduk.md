@@ -27,6 +27,17 @@ title: Oduk
 :octicons-location-24:{ .lg .middle } The Banished back to the Abyss by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on April 12th, 1748 in [Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>), the [Sentinel Range](<../../gazetteer/sentinel-range.md>)  
 
 
+    A [demon](<../../creatures/extraplanar/demons.md>) (he/him)  
+    { .bio }
+
+    Based in [Abyss](<../../cosmology/spiritual-realms/abyss.md>), [Spiritual Realms](<../../cosmology/spiritual-realms/spiritual-realms.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } The Banished back to the Abyss by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on April 12th, 1748 in [Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>), the [Sentinel Range](<../../gazetteer/sentinel-range.md>)  
+
+
 Oduk is a demon created with the ability to corrupt animals into gnolls. 
 
 

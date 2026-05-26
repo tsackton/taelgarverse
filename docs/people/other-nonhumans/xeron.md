@@ -20,6 +20,13 @@ title: Xeron
 </div>
 
 
+    An aboleth  
+    { .bio }
+
+    Based in the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
+</div>
+
+
 Xeron is an ancient aboleth entombed within the rock beneath the Yuvanti Mountains, near Tharn Todor. The being is believed to have mineralized, and is now more stone than flesh. Reports from explorers indicate it shows no evident interest in meddling with affairs beyond its cavern.
 
 

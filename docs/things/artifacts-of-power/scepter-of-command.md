@@ -32,6 +32,13 @@ title: Scepter of Command
 :octicons-location-24:{ .lg .middle } Destroyed owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 25th, 1748 in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>)  
 
 
+:octicons-location-24:{ .lg .middle } Destroyed in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Destroyed owned by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 25th, 1748 in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>)  
+
+
 ![Scepter of Command](../../assets/scepter-of-command.jpg){align="right"; width="300"}
 
 This scepter is about a foot long and is constructed in silver, with loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 

@@ -9,7 +9,7 @@ dm_notes: important
 dm_owner: tim
 title: Lakan Mystai
 ---
-# Lakan Mystai
+# The Lakan Mystai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
    :octicons-info-24:{ .lg .middle } A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) mystery cult, of [Laka](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>)  

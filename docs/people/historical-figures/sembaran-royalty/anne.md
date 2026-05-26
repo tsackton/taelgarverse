@@ -10,7 +10,6 @@ gender: female
 died: 1583-02-14
 affiliations:
 - {org: House of Sewick, type: primary}
-- {place: Breva, title: Queen, start: 1568}
 dm_notes: none
 dm_owner: none
 title: Anne of Sewick
@@ -21,7 +20,13 @@ title: Anne of Sewick
 
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
     b. DR 1539 - d. February 14th, 1583, died at age 44 years  
-    Queen of [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1568 - February 14th, 1583)  
+    { .bio }
+
+</div>
+
+
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
+    b. DR 1539 - d. February 14th, 1583, died at age 44 years  
     { .bio }
 
 </div>
@@ -29,8 +34,6 @@ title: Anne of Sewick
 
 
 
-The twin sister of [Elaine I](<./elaine-i.md>) and daughter of [Reginald](<./reginald.md>), she was executed for treason after attempting to force her sister to abdicate he throne by magic.
-
-Her three children were allowed to live in exile: Wilhema and Eloise in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), and her youngest, Peregrin, in Chardon.
+The twin sister of [Elaine I](<./elaine-i.md>) and daughter of [Reginald](<./reginald.md>), she was executed for treason after attempting to force her sister to abdicate he throne by magic. Her three children were allowed to live in exile: Wilhema and Eloise in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), and her youngest, Peregrin, in Chardon.
 
 

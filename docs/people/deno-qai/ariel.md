@@ -4,12 +4,15 @@ tags: [person]
 campaignInfo:
 - {campaign: DuFr, type: met, date: 1748-09-11}
 name: Ariel
-born: 1674
+born: 1667
 species: human
 ancestry: Deno'qai
 gender: female
+affiliations:
+- {org: Te'kula, type: primary}
+- {org: Shu'anra, type: formerly}
 whereabouts:
-- {type: home, location: Forest of Dreams, alias: Shu'anra village in the Forest of Dreams}
+- {type: home, location: Forest of Dreams}
 - {type: home, location: Te'kula village}
 dm_owner: none
 dm_notes: color
@@ -19,11 +22,26 @@ title: Ariel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1674 (76 years old)  
+    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her), of the Te'kula  
+    Born DR 1667 (83 years old)  
+    Formerly of the Shu'anra  
     { .bio }
 
-    Originally from: the [Shu'anra village in the Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Originally from: the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 11th, 1748 in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
+
+
+    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her), of the Te'kula  
+    Born DR 1667 (83 years old)  
+    Formerly of the Shu'anra  
+    { .bio }
+
+    Originally from: the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
     Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 

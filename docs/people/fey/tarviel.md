@@ -20,4 +20,11 @@ title: Tarviel
 </div>
 
 
+    A [fey](<../../creatures/fey/fey.md>) (satyr) (they/them)  
+    { .bio }
+
+    Based in [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+</div>
+
+
 Tarviel is a satyr of [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), who can frequently be found dancing near the [Bitterwine Oak](<../../gazetteer/extraplanar/feywild/emberwine/bitterwine-oak.md>) portal. 

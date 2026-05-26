@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/gameupdate/gl]
 displayDefaults: {defArt: ''}
 name: Pykolon Lake
 typeOf: lake
@@ -25,4 +25,4 @@ A small lake nestling in a hilly region on the western edge of the [Erbalta Plai
 
 The name derives from the Drankorian for "spring-hill", and is sometimes referred to as Lake Pegokolonos in historical works. 
 
-The tomb of Xameia the Forsworn is located on this lake, and it is a place with some historical significance to the [Order of Twilight](<../../../groups/order-of-twilight.md>). 
+The tomb of [Xameia](<../../../people/other-humans/xameia.md>) the Forsworn is located on this lake, and it is a place with some historical significance to the [Order of Twilight](<../../../groups/order-of-twilight.md>). 

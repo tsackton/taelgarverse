@@ -23,6 +23,14 @@ title: Tak
 </div>
 
 
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
+    { .bio }
+
+    Originally from: [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>), [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), [Shadowfolds](<../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>)
+    Based in [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
+</div>
+
+
 
 
 A young dwarf, living in [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>) but hoping for something better and wondering about the lives of [Dwarves](<../../creatures/species/dwarves.md>) outside [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), even before he knew such [Dwarves](<../../creatures/species/dwarves.md>) existed. 

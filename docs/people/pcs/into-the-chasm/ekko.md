@@ -10,7 +10,13 @@ title: Ekko
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    Member of the Chasm Explorers  
+    Member of the [Chasm Explorers](<./chasm-explorers.md>)  
+    { .bio }
+
+</div>
+
+
+    Member of the [Chasm Explorers](<./chasm-explorers.md>)  
     { .bio }
 
 </div>

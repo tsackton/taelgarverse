@@ -41,6 +41,23 @@ title: Oswalt Tealeaf
 :octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Tealeafs](<../../groups/halfling-families/tealeafs.md>)  
+    { .bio }
+
+    Originally from: [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of August 22th, 1748): [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 9th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
+
+
 Oswalt Tealeaf is a halfling adventurer, archer, and scout. He grew up traveling the roads of Dunmar with the Tealeaf clan. 
 
 After the Tealeaf clan encountered trouble with Agata Dustmother, and lost Garret Tealeaf, Oswalt decided to learn to defend himself, and picked up the shortbow. After spending several years traveling with his family on safe roads far from the frontier, he met and fell in love with Jasmine Sunmeadow in Darba, who also wanted to adventure, and they left together for the north on the [Emerald Song](<../../things/ships/emerald-song.md>). 

@@ -23,4 +23,12 @@ title: Nicole Darrow
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    b. DR 1700 - d. October 21th, 1719, died at age 19 years  
+    { .bio }
+
+    Lived in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
 The youngest daughter of [Hugh Darrow](<./hugh-darrow.md>), and his favorite. She was killed during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>), but [Hugh Darrow](<./hugh-darrow.md>) is thankful to the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) for recovering her body. 

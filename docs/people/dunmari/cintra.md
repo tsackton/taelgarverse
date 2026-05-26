@@ -26,6 +26,15 @@ title: Cintra
 </div>
 
 
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1705 (45 years old)  
+    Member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>)  
+    { .bio }
+
+    Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+</div>
+
+
 Supreme Oracle of Shakun.
 
 ![Cintra](../../assets/cintra.jpg)

@@ -21,6 +21,12 @@ title: Shandar
 </div>
 
 
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    { .bio }
+
+</div>
+
+
 
 
 

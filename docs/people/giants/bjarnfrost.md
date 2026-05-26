@@ -22,6 +22,13 @@ dm_notes: important
 </div>
 
 
+    A [giant](<../../creatures/species/giants.md>) (frost) (he/him)  
+    King of [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>) (until DR 1511)  
+    { .bio }
+
+</div>
+
+
 
 
 A powerful frost giant king who ruled the frost giant realm of [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>) in its heyday. He established [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>) as a refugee for the people of the north, and led his armies in many battles against dragons and other creatures of the north to keep the [~Northern Boreal Forest~](<../../gazetteer/northern-green-sea/northern-boreal-forest.md>) safe. 

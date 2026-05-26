@@ -14,7 +14,7 @@ title: Elemental Plane of Earth
 </div>
 
 
-The Elemental Plane of Earth, as described in the revered dwarven saga _The Song of the Eternal Earth_, is a realm of solid stone, where the walls of endless caverns press in, and the weight of rock dampens even the loudest echos. It is a land of endless stone, soil, and crystal formations in every imaginable hue, where labyrinthine tunnels twist and turn, glowing faintly with veins of precious minerals, leading to vast subterranean chambers. Although _The Song of Eternal Earth_ speaks of a "sunless sky", few scholars believe there is, in fact, a surface above the endless caverns of the Plane of Earth. 
+The Elemental Plane of Earth, as described in the revered dwarven saga _[The Song of the Eternal Earth](<../../things/books/the-song-of-the-eternal-earth.md>)_, is a realm of solid stone, where the walls of endless caverns press in, and the weight of rock dampens even the loudest echos. It is a land of endless stone, soil, and crystal formations in every imaginable hue, where labyrinthine tunnels twist and turn, glowing faintly with veins of precious minerals, leading to vast subterranean chambers. Although _The Song of Eternal Earth_ speaks of a "sunless sky", few scholars believe there is, in fact, a surface above the endless caverns of the Plane of Earth. 
 
 > [!quote] An excerpt from _The Song of Eternal Earth_  
 > Beneath the stone, where shadows lie  
@@ -44,7 +44,7 @@ The great geomancer Khevaris Stoneweaver studied planar access to the Elemental 
 Less predictable but more common are the [elemental vortexes](<../planar-concepts/elemental-vortex.md>), which occur deep underground, and in areas of extreme seismic activity. Khevaris recorded accounts of miners uncovering strange rifts that led directly into this vast plane, often at great peril to themselves. Unlike the Plane of Air, where portals flicker and shift, the Plane of Earth is said to hold its connections more firmly, though they may be hidden deep beneath the surface of the [Material Plane](<../material-plane.md>). Many dwarves believe that the deepest caverns below the mountains blend seamlessly with the Elemental Plane of Earth, those who were lost explore deep beneath the earth, never to return, may have wandered across a planar boundary.
 ## Traveling on the Plane of Earth
 
-Traveling within the Elemental Plane of Earth is as challenging as it is fascinating. While those with the ability to move through stone can navigate it with relative ease, most travelers must contend with narrow tunnels, immense caverns, and sudden shifts in the ground. For, despite the feeling of solidity of the immensity of stone present in this realm, the Plane of Earth is not static. Reliable reports collected by the planar geographer Balrik Frostbeard suggest that tremors and quakes constantly reshape its passages, sometimes creating spectacular new vistas and other times collapsing entire routes. These seismic shifts can reveal buried treasures, such as veins of adamantine or chambers of glimmering quartz, but they can also trap the unwary in eternal darkness.
+Traveling within the Elemental Plane of Earth is as challenging as it is fascinating. While those with the ability to move through stone can navigate it with relative ease, most travelers must contend with narrow tunnels, immense caverns, and sudden shifts in the ground. For, despite the feeling of solidity of the immensity of stone present in this realm, the Plane of Earth is not static. Reliable reports collected by the planar geographer Balrik Frostbeard suggest that tremors and quakes constantly reshape its passages, sometimes creating spectacular new vistas and other times collapsing entire routes. These seismic shifts can reveal buried treasures, such as veins of [adamantine](<../../things/materials/adamantine.md>) or chambers of glimmering quartz, but they can also trap the unwary in eternal darkness.
 
 ## Inhabitants of the Plane of Earth
 
@@ -54,7 +54,7 @@ The [Dao](<../../creatures/extraplanar/elementals.md>) are probably the most fam
 
 Other creatures of stone and earth also populate the plane. Elementals formed of raw rock and soil roam its depths, from towering, lumbering beings of granite to smaller, sharper constructs of flint and obsidian. While most of these elementals are said to take on the humanoid forms often seen among summoned creatures, Lyrannis of Aquilona recorded descriptions of creatures that retained an almost boulder-like appearance, and others with bizarre forms, such as the three-legged xorn. 
 
-Unconfirmed rumors speak of massive creatures of stone and earth, as big as a mountain, that roam the surface above the caverns of the Plane of Earth, but, as there is no evidence that the Plane of Earth has a surface, Lyrannis of Aquilona is more than happy to dismiss these claims as mere flights of fancy in her seminal work, On Elemental Forms.
+Unconfirmed rumors speak of massive creatures of stone and earth, as big as a mountain, that roam the surface above the caverns of the Plane of Earth, but, as there is no evidence that the Plane of Earth has a surface, Lyrannis of Aquilona is more than happy to dismiss these claims as mere flights of fancy in her seminal work, [On Elemental Forms](<../../things/books/on-elemental-forms.md>).
 
 ## Landmarks on the Plane of Earth
 

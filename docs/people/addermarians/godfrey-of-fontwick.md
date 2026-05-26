@@ -28,6 +28,17 @@ title: Godfrey of Fontwick
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 11th, 1715 in [Fontwick](<../../gazetteer/greater-sembara/addermarch/fontwick.md>), the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
+    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    { .bio }
+
+    Based in [Fontwick](<../../gazetteer/greater-sembara/addermarch/fontwick.md>), the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 11th, 1715 in [Fontwick](<../../gazetteer/greater-sembara/addermarch/fontwick.md>), the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
+
+
 Godfrey runs a dairy farm on the outskirts of [Fontwick](<../../gazetteer/greater-sembara/addermarch/fontwick.md>) with his wife [Samatha of Fontwick](<./samatha-of-fontwick.md>), supplying cheese and milk to markets as far as [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>). When an ankheg devastated their herd, Godfrey rode hard for Lady [Elowen Duval](<./elowen-duval.md>)’s aid, crossing paths with the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>)who ultimately slew the creature.
 
 ## Relationships

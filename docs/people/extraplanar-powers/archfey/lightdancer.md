@@ -21,5 +21,8 @@ title: Lightdancer
 :octicons-location-24:{ .lg .middle } Met by [Seeker](<../../pcs/dunmar-fellowship/seeker.md>) on November 10th, 1748 in [Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>), the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)  
 
 
+:octicons-location-24:{ .lg .middle } Met by [Seeker](<../../pcs/dunmar-fellowship/seeker.md>) on November 10th, 1748 in [Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>), the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)  
+
+
 Lord Egon, the Lightdancer, is the ruler of the domain of [Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>). Most of the time, they are vibrant, vivacious, obsessed with color and light and the beauty of the realm, but they have a dark side. For some time each year the Lightdancer retreats to hidden caves underground, and color fades from [Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>), while the Winter Knights patrol the borders protecting the realm from dangers.
 

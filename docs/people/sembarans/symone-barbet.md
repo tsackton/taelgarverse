@@ -27,4 +27,13 @@ dm_owner: mike
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Born November 15th, 1683 (66 years old)  
+    Major of the [Dunfry Regiment](<../../groups/sembaran-army/dunfry-regiment.md>)  
+    { .bio }
+
+    Based in the [Barony of Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/barony-of-dunfry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 An important military leader in [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>). She has a tendency to work within the hierarchy and prefers following the rules and working within the chain of command.

@@ -30,5 +30,14 @@ title: Shoal
 </div>
 
 
+    An [elf](<../../../../creatures/species/elves.md>) (sea) (he/him), ([ka](<../../../../background/elven-cycle-of-generations.md>) 37)  
+    Born DR 1652 (98 years old)  
+    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
+    { .bio }
+
+    Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), the ~Eastern Islands~, the [Green Sea](<../../../../gazetteer/green-sea.md>)
+</div>
+
+
 Young sea elf warrior, from the [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), to the south. Adventuring to win renown and the attention of a lady. After [helping kill the aboleth and rescue Arryn](<../../../../campaigns/dunmari-frontier-campaign/session-notes/session-60-dufr.md>), returned south. 
 

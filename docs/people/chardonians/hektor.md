@@ -28,6 +28,16 @@ title: Hektor
 :octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>)
 
 
+    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1716 (34 years old)  
+    { .bio }
+
+    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>)
+
+
 
 
 A barbarian. A huge Chardonian man, muscled and over 6 feet tall. Silent. Does not wear any armor, just a simple sailor’s cloak, and carries a clearly well-loved and dangerous-looking halberd. 

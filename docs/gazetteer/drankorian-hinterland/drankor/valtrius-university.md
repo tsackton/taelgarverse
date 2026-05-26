@@ -16,7 +16,6 @@ title: Valtrius University
 </div>
 
 
-
 # Valtrius University
 >[!info]+ Information  
 >   

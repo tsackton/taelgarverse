@@ -24,4 +24,12 @@ title: Claire of Fellburn
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    { .bio }
+
+    Originally from: the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+    Based with the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>), in [Fellburn](<../../gazetteer/greater-sembara/sembara/heartlands/fellburn.md>), the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>)
+</div>
+
+
 ![Claire of Fellburn](../../assets/claire-of-fellburn.jpg){align="right"; width="320"}The sergeant of the Eagle Patrol of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>). 

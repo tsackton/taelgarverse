@@ -42,6 +42,24 @@ title: Chenna Goodbarrel
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Goodbarrels](<../../groups/halfling-families/goodbarrels.md>)  
+    Born DR 1688 (62 years old)  
+    Proprietor of [The Singing Fox](<../../gazetteer/greater-sembara/tollen/places/the-singing-fox.md>)  
+    { .bio }
+
+    Originally from: [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+    Based at [The Singing Fox](<../../gazetteer/greater-sembara/tollen/places/the-singing-fox.md>), in [Fairgate Outer](<../../gazetteer/greater-sembara/tollen/wards/fairgate-outer.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) around DR 1730 at [The Singing Fox](<../../gazetteer/greater-sembara/tollen/places/the-singing-fox.md>), in [Fairgate Outer](<../../gazetteer/greater-sembara/tollen/wards/fairgate-outer.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
+
+
 ![Chenna Goodbarrel Portrait](../../assets/chenna-goodbarrel-portrait.png){align="right"; width="400"}Chenna Goodbarrel owns a small and charming halfling tavern in [Fairgate Outer](<../../gazetteer/greater-sembara/tollen/wards/fairgate-outer.md>) called *[The Singing Fox](<../../gazetteer/greater-sembara/tollen/places/the-singing-fox.md>)*, with her wife [Harriet](<./harriet-goodbarrel.md>). Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
 ## Relationships
 - [Harriet Goodbarrel](<./harriet-goodbarrel.md>), wife

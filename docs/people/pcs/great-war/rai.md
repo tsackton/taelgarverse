@@ -23,5 +23,11 @@ title: Rai
 </div>
 
 
+    An [elf](<../../../creatures/species/elves.md>) (peronar) (he/him), of the [Heroes of the Great War](<./heroes-of-the-great-war.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) unknown)  
+    { .bio }
+
+</div>
+
+
 Hero of the [Great War](<../../../events/1500s/great-war.md>). 
 

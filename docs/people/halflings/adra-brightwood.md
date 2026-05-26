@@ -22,7 +22,17 @@ title: Adra Brightwood
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (she/her), of Brightwoods  
-    Member of [The Rangers](<../../groups/the-rangers.md>)  
+    Member of the The Rangers  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of February 1st, 1720): the [Aveil Ridge](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aveil-ridge.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+
+
+    A [halfling](<../../creatures/species/halflings.md>) (she/her), of Brightwoods  
+    Member of the The Rangers  
     { .bio }
 
     Originally from: Unknown

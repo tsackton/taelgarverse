@@ -32,5 +32,18 @@ title: Kaya
 :octicons-location-24:{ .lg .middle } [Freed](<../../campaigns/dunmari-frontier-campaign/session-notes/session-31-dufr.md>) from living wood by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 5th, 1748 in [Bas Udda](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
+    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    { .bio }
+
+    Originally from: Unknown
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } [Freed](<../../campaigns/dunmari-frontier-campaign/session-notes/session-31-dufr.md>) from living wood by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 5th, 1748 in [Bas Udda](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+
+
 A young Dunmari woman, trapped for many, many years as [Agata](<../fey/agata.md>)'s chair. 
 

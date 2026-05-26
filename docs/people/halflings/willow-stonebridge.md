@@ -27,4 +27,13 @@ title: Willow Stonebridge
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>)  
+    Born DR 1634 (116 years old)  
+    Proprietor of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>)  
+    { .bio }
+
+    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
 An elderly halfling and one of the owners of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) along with [Marigold Stonebridge](<./marigold-stonebridge.md>) and [Venra Stonebridge](<./venra-stonebridge.md>). Often called Grandfather Willow. 

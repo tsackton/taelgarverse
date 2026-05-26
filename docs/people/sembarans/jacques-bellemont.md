@@ -25,5 +25,14 @@ dm_owner: mike
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Born DR 1659 (91 years old)  
+    Duke of the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>) (since DR 1700)  
+    { .bio }
+
+    Based in the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 ![Duke of Wisford 2](../../assets/duke-of-wisford-2.png){align="right"; width="320"}The Duke of Wisford is energetic for his age, and is an active campaigner and astute political observer. 
 

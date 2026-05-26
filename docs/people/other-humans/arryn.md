@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person]
 campaignInfo:
 - {campaign: dufr, person: Wellby, type: 'rescued from the [[Mirror Realm]]', date: 1748-11-13}
-name: Arryn
+name: Arryn of Tollen
 born:
 species: human
 ancestry: Tollender
@@ -13,11 +13,24 @@ whereabouts:
 - {type: away, start: '', end: '', location: Eastern Green Sea}
 dm_owner: tim
 dm_notes: important
-title: Arryn
+title: Arryn of Tollen
 ---
-# Arryn
+# Arryn of Tollen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    { .bio }
+
+    Originally from: the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
+</div>
+
+:octicons-location-24:{ .lg .middle } Currently in the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>)
+
+
+
+:octicons-location-24:{ .lg .middle } The rescued from the [Mirror Realm](<../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>) by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on November 13th, 1748 in the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>)  
+
 
     A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }

@@ -22,4 +22,12 @@ title: Emma Marston
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>)  
+    Magistrate of [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>)  
+    { .bio }
+
+    Based in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 ![Emma Marston](../../assets/emma-marston.png){align="left"; width="200"}

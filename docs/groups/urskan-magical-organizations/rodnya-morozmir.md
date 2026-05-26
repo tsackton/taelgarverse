@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/stub, status/check/ai]
+tags: [group]
 ancestry: Urskan
 displayDefaults: {defArt: ''}
 typeOf: magical bloodline
@@ -18,7 +18,4 @@ title: Rodnya Morozmir
 
 The Rodnya Morozmir is one of the eight [rodnye](<./rodnya.md>) that rule [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>). Morozmir is based in the southeast of the country and is best known for defensive magic; it is often credited with involvement in the vast arcane wards that protect much of Ursk.
 
-## Sources
 
-- [Rodnya](<./rodnya.md>)
-- [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>)

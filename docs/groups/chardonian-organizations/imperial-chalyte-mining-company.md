@@ -18,6 +18,6 @@ title: Imperial Chalyte Mining Company
 </div>
 
 
-The Imperial Chalyte Mining Company was proclaimed by [Mitus Verina Auratan](<../../people/chardonians/mitus-verina-auratan.md>) in DR 1749, as an imperial charter with monopoly rights to prospect and extract chalyte in the [Chataan Mountains](<../../gazetteer/greater-chardon/chataan-mountains.md>). The charter followed the reassertion of imperial control on the range’s northern slopes, after the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) destroyed the stone giant tyrant [Dhrukmir](<../../people/giants/dhrukmir.md>). 
+The Imperial Chalyte Mining Company was proclaimed by [Mitus Verina Auratan](<../../people/chardonians/mitus-verina-auratan.md>) in DR 1749, as an imperial charter with monopoly rights to prospect and extract [chalyte](<../../things/materials/chalyte.md>) in the [Chataan Mountains](<../../gazetteer/greater-chardon/chataan-mountains.md>). The charter followed the reassertion of imperial control on the range’s northern slopes, after the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) destroyed the stone giant tyrant [Dhrukmir](<../../people/giants/dhrukmir.md>). 
 
 

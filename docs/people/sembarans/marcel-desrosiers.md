@@ -23,4 +23,12 @@ title: Marcel Desrosiers
 </div>
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
+    Captain of the Duke's Guard of the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>)  
+    { .bio }
+
+    Based in the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
+</div>
+
+
 ![Marcel Desrosiers](../../assets/marcel-desrosiers.jpg){align="right"; width="420"}

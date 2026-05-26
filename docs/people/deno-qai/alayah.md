@@ -25,6 +25,14 @@ title: Alayah
 </div>
 
 
+    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
+    Born DR 1725 (25 years old)  
+    { .bio }
+
+    Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+</div>
+
+
 The young Godcaller of the Te'kula tribe in the Elderwood. Dreamed of [Rai](<../pcs/great-war/rai.md>) and [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>). 
 
 Gave her [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>) to [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) after [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) defeated the green dragon [Grimbaskal](<../other-nonhumans/mezzar.md>). 

@@ -5,7 +5,6 @@ title: Letter from Dee WIldcloak
 ---
 # Letter from Dee WIldcloak
 
-
 19 October 1748
 [The Green Leaf](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/the-green-leaf.md>) Inn, [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)
   

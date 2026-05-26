@@ -28,4 +28,13 @@ title: Oudine
 
 
 
+    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    b. DR 1692 - d. January 4th, 1720, died at age 28 years  
+    { .bio }
+
+    Lived in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
+</div>
+
+
+
 A washerwoman from [Underhill](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/underhill.md>), who died when her baby turned into a zombie and exploded. Some of the people think she has had several children with various different men, and lived at [Tumbledown Farm](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/tumbledown-farm.md>).

@@ -4,6 +4,7 @@ tags: [status/cleanup/metadata, person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-10, type: met}
 name: Lubash
+knownTo: [DuFr]
 born: 1691
 activeYear: 1735
 species: orc
@@ -20,6 +21,20 @@ dm_notes: important
 # Chief Lubash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
+
+    An [orc](<../../creatures/species/orcs.md>) (he/him)  
+    Born DR 1691 (59 years old)  
+    Member of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
+    Chief of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>) (since DR 1745)  
+    { .bio }
+
+    Based in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 10th, 1748 in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
+
 
     An [orc](<../../creatures/species/orcs.md>) (he/him)  
     Born DR 1691 (59 years old)  
@@ -53,4 +68,10 @@ Lubash has a pale green complexion and is bald. His features are striking, chara
 
 - Came to power in DR 1745 after his older brother's family was killed by hill [Giants](<../../creatures/species/giants.md>).
 - In DR 1748-1749, led the [Orcs](<../../creatures/species/orcs.md>) of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>) in the war against [Grash](<../other-nonhumans/grash.md>), aided by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+
+## Campaign Interactions
+
+
+
+
 

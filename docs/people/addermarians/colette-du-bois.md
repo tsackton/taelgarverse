@@ -36,6 +36,21 @@ title: Colette Du Bois
 :octicons-location-24:{ .lg .middle } Discussed caves with the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 10th, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
+    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    { .bio }
+
+    Based in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
+</div>
+
+
+
+:octicons-location-24:{ .lg .middle } Rescued from goblin captivity by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 8th, 1715 in [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+
+
+
+:octicons-location-24:{ .lg .middle } Discussed caves with the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 10th, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
+
+
 Colette Du Bois is a squire of in [Elowen Duval](<./elowen-duval.md>)'s household guard, apprenticed to Sir [Gareth Howell](<./gareth-howell.md>).
 ## Overview
 Colette du Bois serves as a squire in Lady [Elowen Duval](<./elowen-duval.md>)’s household guard, apprenticed to Sir [Gareth Howell](<./gareth-howell.md>). Restless and eager to prove herself, she scouted the goblin tunnels of the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) ahead of official orders and was captured for her boldness. Freed by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>), she quickly returned to duty, sharing her hard‑won knowledge of the western [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>) to aid further expeditions.

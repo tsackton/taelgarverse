@@ -1,0 +1,70 @@
+---
+headerVersion: 2023.11.25
+tags: [session-note]
+campaign: Mawar Adventures
+sessionNumber: 4
+realWorldDate: 2021-12-27
+DR: 1747-11-08
+DR_end: 1747-11-09
+players: [Ryu, Nerissa, Ander]
+name: Mawar Adventures Episode 04
+descTitle: The Chained Beast
+tagline: In which Ander, Nerissa, and Ryu battle to save a captive dragon turtle.
+sessionKey: mawar-adventures-session-4
+template: mawar-template.md
+title: Mawar Adventures Episode 04
+---
+# Mawar Adventures Episode 04
+
+>[!info] The Chained Beast: In which Ander, Nerissa, and Ryu battle to save a captive dragon turtle.
+> *Featuring: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Nerissa](<../../../people/pcs/mawar/nerissa.md>), [Ander](<../../../people/pcs/mawar/ander.md>)*
+> *In Taelgar: Nov 08, 1747 DR to Nov 09, 1747 DR*
+> *On Earth: Monday, December 27, 2021*
+> *[Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), and the [Tzingola Marshes](<../../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>)*
+
+[Ryu](<../../../people/pcs/mawar/ryu.md>), [Nerissa](<../../../people/pcs/mawar/nerissa.md>), and [Ander](<../../../people/pcs/mawar/ander.md>) investigate killings near [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), battle fire cultists, and free the dragon turtle [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) from a mage seeking to contact [Khathayi the Flametongue](<../../../people/other-humans/khathayi.md>).
+
+# Timeline
+
+- Nov 01, 1747 DR: [Ander](<../../../people/pcs/mawar/ander.md>), a recently retired [Chardonian](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) soldier, returns to [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) after twenty years away.
+- Nov 08, 1747 DR, morning: [Ander](<../../../people/pcs/mawar/ander.md>) finds [Ryu](<../../../people/pcs/mawar/ryu.md>) at his cliff tower in [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). Their reunion is interrupted by [Jaeson](<../../../people/mawarans/jaeson.md>) with a rumor that a beast is killing lizardfolk near [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>).
+- Nov 08, 1747 DR, afternoon: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Ander](<../../../people/pcs/mawar/ander.md>), and [Nerissa](<../../../people/pcs/mawar/nerissa.md>) travel to [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), where [Itzal](<../../../people/lizardfolk/itzal.md>) describes burned bodies and a note demanding that the village leave its [gatza](<../../../things/materials/gatza.md>) tribute on a harbor barge in three days. [Amaya](<../../../people/lizardfolk/amaya.md>) guides the party into the [Tzingola Marshes](<../../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>), where they find an enormous claw print and signs of scalding heat.
+- Nov 09, 1747 DR, morning: The party enters [Tzingola](<../../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>) by canoe, survives an attack in the fog, and finds [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) under a fire mage's control. The party frees [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) and kills the fire mage.
+- Nov 09, 1747 DR, afternoon: [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) departs for the [Endless Ocean](<../../../gazetteer/endless-ocean.md>), escorted by [Turk](<../../../people/pcs/mawar/turk.md>), while the party returns to [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>).
+
+## Cast of Characters
+
+- [Jaeson](<../../../people/mawarans/jaeson.md>) (he/him, [Mawaran](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) human): rumor source.
+- [Itzal](<../../../people/lizardfolk/itzal.md>) (he/him, salt lizardfolk): village elder.
+- [Amaya](<../../../people/lizardfolk/amaya.md>) (she/her, salt lizardfolk): young scout and guide.
+- [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) (dragon turtle): captive dragon turtle.
+- [Khathayi the Flametongue](<../../../people/other-humans/khathayi.md>) (mysterious creature): dead fire-linked figure sought by the mage.
+
+## Places
+
+- [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) (town in the [Mawar Confederacy](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)): coastal [Mawaran](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) town where [Ryu](<../../../people/pcs/mawar/ryu.md>) keeps a cliffside tower and where the investigation begins and ends. Session context includes: Ryu's tower on the cliffs above the bay and return from [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>) and [Tzingola](<../../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>).
+- [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>) (*es-ko-ROH-lah*; village in the [Mawar Confederacy](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)): salt lizardfolk village near the southern end of [Tzingola](<../../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>), threatened by a predator demanding gatza. Session context includes: village harbor, Itzal's briefing, and route into the marsh.
+- [Tzingola](<../../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>) (*tseen-GOH-lah*; salt marshes in the [Mawar Confederacy](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)): extensive salt marshes north of [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) and around [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), where the fire cultist hid [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) in a mist-covered nest. Session context includes: marsh-side attack site, canoe channels, mist-covered mound, underwater tunnel mouth, rotting mound roof, and mist-nest interior pool.
+
+## Narrative
+
+[Ander](<../../../people/pcs/mawar/ander.md>) climbs to Ryu's cliffside tower outside [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), where [Ryu](<../../../people/pcs/mawar/ryu.md>) is keeping warm by the fire and watching the sea with [Blu](<../../../people/pcs/mawar/blu.md>) nearby. The old friends trade recognition, jokes, and fragments of what has changed in the years since [Ander](<../../../people/pcs/mawar/ander.md>) left, including Ryu's bond with the ocean and gatza. Their reunion is interrupted by [Jaeson](<../../../people/mawarans/jaeson.md>), who arrives with a lead from the coast: lizardfolk near [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>) are being killed by something monstrous, and the creature appears to be demanding a full tribute of gatza. [Jaeson](<../../../people/mawarans/jaeson.md>) frames the crisis as a chance to corner the gatza market and hints that [Ryu](<../../../people/pcs/mawar/ryu.md>) could make money by stealing the tribute.
+
+[Ryu](<../../../people/pcs/mawar/ryu.md>) and [Ander](<../../../people/pcs/mawar/ander.md>) decide the rumor is worth pursuing and draw [Nerissa](<../../../people/pcs/mawar/nerissa.md>) into the plan before taking a half-day sail north along the coast to the salt lizardfolk village of [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>). There, they meet [Itzal](<../../../people/lizardfolk/itzal.md>), who explains that villagers have been killed by something that looks and sounds more like a sea beast than a normal predator. A burned body washed ashore with a written warning, and the village is being told to leave its gatza in the harbor as tribute.
+
+With [Itzal](<../../../people/lizardfolk/itzal.md>)'s permission, the young scout [Amaya](<../../../people/lizardfolk/amaya.md>) ferries the party through [Tzingola](<../../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>) to the shoreline where the most recent attack happened. Ryu's examination finds a claw print far too large for an ordinary local beast, and vegetation scorched as if by blasts of boiling water. [Blu](<../../../people/pcs/mawar/blu.md>)'s later reconnaissance spots a vast mound hidden in the fog, giving the party a target. As the sun is setting and there is not enough daylight to risk an immediate assault, the party decides to settle in [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>) for the night.
+
+At dawn, the party returns to [Tzingola](<../../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>) by canoe, following the channel torn through the vegetation north from [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>). Cold rain turns warmer as they approach the steam cloud, and [Turk](<../../../people/pcs/mawar/turk.md>) scouts ahead until flying steam creatures attack him near a giant tunnel or passage. With that warning, the party paddles forward carefully; visibility falls to only a few feet as the canoe edges into the pool at the mound's edge. With no clear target in sight, [Nerissa](<../../../people/pcs/mawar/nerissa.md>) quietly prepares Faerie Fire and aims it ahead and slightly right of the boat.
+
+Nerissa's Faerie Fire goes off just before the ambush lands. Her spell catches two steam imps in faint green light, but other winged attackers remain hidden in the fog around the canoe as combat begins. The party fights from the canoe and shallow water, holding position through scalding steam and poor visibility as the canoe starts taking damage. Then the larger guardian emerges from the mist, a cracked, burning humanoid in armor with a flaming spear. After trying to capsize and pierce the canoe, he dies in a blast of metal shrapnel that badly wounds [Ryu](<../../../people/pcs/mawar/ryu.md>) and [Nerissa](<../../../people/pcs/mawar/nerissa.md>).
+
+With the outer defenders dead and the canoe damaged, the party pauses to patch their wounds and choose a safer route into the nest. The tunnel descends into deep water, so they climb over the unstable mound instead and find a weak point in the roof. From this vantage point, they see a hidden pool below. On the inner shore stands a fire mage, apparently commanding a dragon turtle who swims in the inner pool, a burning black spear lodged deep in his neck.
+
+Combat begins when the mage blasts fire up through the hole and shouts another command to [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>). The fight then turns on freeing the dragon turtle rather than killing him: [Ryu](<../../../people/pcs/mawar/ryu.md>) drops onto Chaessenth's back and burns his hands loosening the spear, [Blu](<../../../people/pcs/mawar/blu.md>) works it farther free, and [Nerissa](<../../../people/pcs/mawar/nerissa.md>) uses Misty Step to reach [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) and yank it out. The relief is incomplete, but [Nerissa](<../../../people/pcs/mawar/nerissa.md>) calms and soothes [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) enough for him to fight the spell and force out that the mage's concentration still binds him. [Ander](<../../../people/pcs/mawar/ander.md>) crashes through the roof and cuts into the mage until the spell breaks; when the mage answers with a dazzling pattern that catches [Nerissa](<../../../people/pcs/mawar/nerissa.md>) and [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>), [Blu](<../../../people/pcs/mawar/blu.md>) wakes the dragon turtle in time for [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) to lunge from the water and finish him.
+
+With the fire mage dead, [Nerissa](<../../../people/pcs/mawar/nerissa.md>) heals [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) and translates a calmer conversation in Draconic. [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) names himself, says the fire is gone but still hurts, and reveals that he is young, no more than about twenty, and has been captive for as long as he can remember, probably since he was an egg. He explains that the mage wanted gatza to speak with [Khathayi the Flametongue](<../../../people/other-humans/khathayi.md>), who is buried or associated with a lost tomb on an island north of the peninsula. [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) also speaks of the [Wanui Teora](<../../../people/extraplanar-powers/sentient-ocean.md>)'s ocean songs, the stars below, and the dazzling lights of the deep sea; when he sings one, [Nerissa](<../../../people/pcs/mawar/nerissa.md>) begins to pick up the melody. The party notices that the mage's [golden amulet](<../items-and-treasure/amulet-of-khathayi.md>) matches the symbol on [Hiyasa's treasure map](<../items-and-treasure/hiyasa-s-treasure-map.md>) and points toward that same island, then rides [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) back to the lizardfolk village before [Turk](<../../../people/pcs/mawar/turk.md>) swims west to escort him to the deep ocean, and the rest of the group returns to [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>).
+
+## Combat
+
+- Marsh Tunnel Ambush: steam imps, fire cult guardian. The party defeats the steam imps and fire cult guardian at the tunnel mouth, but the guardian's death blast leaves them wounded.
+- Freeing [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>): fire mage. The party removes the black spear, breaks the fire mage's control, and [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) kills the mage.
