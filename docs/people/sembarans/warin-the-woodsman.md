@@ -24,14 +24,6 @@ title: Warin the Woodsman
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1671 (79 years old)  
-    { .bio }
-
-    Based in [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), the [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-valit.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
-</div>
-
-
 ![Warin the Woodsman](../../assets/warin-the-woodsman.png){align="right"; width="320"}A tracker and woodsman from [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), and confidant of [Sabine de Brune](<./sabine-de-brune.md>).
 
 

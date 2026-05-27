@@ -28,12 +28,4 @@ title: Rothfis
 </div>
 
 
-    A [dwarf](<../../../../creatures/species/dwarves.md>)  
-    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
-    { .bio }
-
-    Based in [Chardon](<../../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-
 A dwarven monk, retired adventurer, and barkeep; owner of a bar in Chardon. Summoned to repay a debt he owned through marriage, from his now ex-wife's clan, the Ironcorns. Not happy about it. 

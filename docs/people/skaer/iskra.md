@@ -37,23 +37,6 @@ dm_notes: none
 :octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 5th, 1749 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
-    A [Skaer](<../../gazetteer/western-green-sea/realms/skaer.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1724 (26 years old)  
-    { .bio }
-
-    Originally from: [Pikkua](<../../gazetteer/western-green-sea/skaerhem/pikkua.md>)
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Courted by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on December 30th, 1748  
-
-
-
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 5th, 1749 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
-
-
 ![Laivan Iskra](../../assets/laivan-iskra.png){align="right"; width="500"}A young woman and priestess of [Kaikkea](<../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>) in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>). She speaks with the power of the ocean, and has a deep connection to [Kaikkea](<../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>).
 
 

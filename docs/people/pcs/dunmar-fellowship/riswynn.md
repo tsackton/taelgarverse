@@ -24,12 +24,6 @@ title: Riswynn
 </div>
 
 
-    A [dwarf](<../../../creatures/species/dwarves.md>) (she/her), of the [Dunmar Fellowship](<./dunmar-fellowship.md>)  
-    { .bio }
-
-</div>
-
-
 ![Riswynn](../../../assets/riswynn.png)
 
 ## Pre-Campaign Events

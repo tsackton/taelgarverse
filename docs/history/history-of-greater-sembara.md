@@ -8,6 +8,7 @@ title: History of Greater Sembara
 # History of Greater Sembara
 
 
+
 ## Migration Era
 _Until the Downfall_
 

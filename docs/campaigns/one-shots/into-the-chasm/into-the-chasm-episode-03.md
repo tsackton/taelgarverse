@@ -12,7 +12,7 @@ name: Into the Chasm - Episode 3
 descTitle: The Village in the Fog
 tagline: in which Melusa opens below
 sessionKey: into-the-chasm-session-3
-template: into-the-chasm-template.md
+session-template: into-the-chasm-template.md
 title: Into the Chasm - Episode 3
 ---
 # Into the Chasm - Episode 3

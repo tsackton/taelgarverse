@@ -23,13 +23,6 @@ title: Orden
 </div>
 
 
-    A [Mawaran](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-    Based in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
-</div>
-
-
 ![Orden](../../assets/orden.png){align="right"; width="300"}
 Orden is a beach-dwelling Mawaran who lives in a shack north of the main port of [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). He was born into a prominent local family, but now lives as an outcast, making do with salvage, fishing, scavenging, and whatever work the shore provides. He is short and stocky, with great bushy hair, a bushy beard, many piercings, and proud eyes.
 

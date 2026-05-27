@@ -30,17 +30,5 @@ dm_notes: important
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 18th, 1749 in [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>), [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>), [Hrimthur](<../../gazetteer/northern-green-sea/svinjo-mountains.md>)  
 
 
-    A [giant](<../../creatures/species/giants.md>) (frost) (he/him)  
-    King of [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>)  
-    { .bio }
-
-    Based in [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>), [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>), [Hrimthur](<../../gazetteer/northern-green-sea/svinjo-mountains.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 18th, 1749 in [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>), [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>), [Hrimthur](<../../gazetteer/northern-green-sea/svinjo-mountains.md>)  
-
-
 ![Brimskarda](../../assets/brimskarda.png){align="right"; width="400"}Brimskarda is a frost giant king, the ruler of the Kingdom of [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>), centered in the northern half of the [Svinjo Mountains](<../../gazetteer/northern-green-sea/svinjo-mountains.md>). Though violent and prone to see the world in terms of strength of arms alone, he is also protective of his kingdom and those who have exchanged their service for his protection (not always willingly), and there have been no large-scale dragon attacks on [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>) since he established himself as king. 
 

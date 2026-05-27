@@ -33,19 +33,6 @@ title: Hugo Dupont
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in [Magus Street](<../../gazetteer/greater-sembara/tollen/wards/magus-street.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
-    An [Isinguer](<../../history/historical-realms/istabor-alliance.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1691 (59 years old)  
-    Member of the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>)  
-    { .bio }
-
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in [Magus Street](<../../gazetteer/greater-sembara/tollen/wards/magus-street.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
-
-
 ![Hugo Dupont Portrait](../../assets/hugo-dupont-portrait.png){align="right"; width="320"}Hugo Dupont is scholar and theologian, and a lecturer at the university, known for his classes on comparative divinity and theological science, particularly a series of lectures and scholastic discourse on the nature of intercessionary prayer, and the intertwined divinities of the [Eight Divines](<../../gods-and-religions/religions/mos-numena/mos-numena.md>). 
 
 He is well-known in the Isinguese community, and also well connected across the non-human community, including with [Caelynn](<../fey/caelynn.md>). 

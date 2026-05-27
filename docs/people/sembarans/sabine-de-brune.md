@@ -27,15 +27,6 @@ title: Sabine de Brune
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her), of the [de Brunes](<../../groups/sembaran-noble-houses/de-brunes.md>)  
-    Born DR 1662 (88 years old)  
-    Castellan of [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>) (until February 15th, 1720)  
-    { .bio }
-
-    Based in [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), the [Manor of Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-valit.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
-</div>
-
-
 
 
 ![Sabine de Brune Valit](../../assets/sabine-de-brune-valit.png){align="right"; width="320"}The aging castellan of [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), a vassal of the [Baron of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>). Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth. She is also the magistrate for the village of Valit.

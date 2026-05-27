@@ -31,16 +31,6 @@ title: Enzo Brightwood
 :octicons-location-24:{ .lg .middle } Last known location (as of January 18th, 1720): [Champimont](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-    A [halfling](<../../creatures/species/halflings.md>) (he/him), of Brightwoods  
-    Member of the The Rangers  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of January 18th, 1720): [Champimont](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-
-
 ![Enzo Brightwood](../../assets/enzo-brightwood.png){align="right"; width="400"}A skirmisher and scout. Young, to be on the road. Cousin of [Adra Brightwood](<./adra-brightwood.md>).
 
 

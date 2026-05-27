@@ -27,15 +27,6 @@ title: Aram
 </div>
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1717 (33 years old)  
-    Member of [Havdar's Warband](<../../groups/havdar-s-warband.md>)  
-    { .bio }
-
-    Based with [Havdar's Warband](<../../groups/havdar-s-warband.md>), in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
 
 
 A holy warrior of [Aagir](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/aagir.md>) in [Havdar](<./havdar.md>)'s service, and unofficial spiritual leader of [Havdar's Warband](<../../groups/havdar-s-warband.md>).

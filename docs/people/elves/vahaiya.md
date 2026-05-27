@@ -39,20 +39,6 @@ title: Vahaiya
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 15th, 1748 in [Erelion](<../../gazetteer/upper-istaros/orenlas/erelion.md>), [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)  
 
 
-    An [elf](<../../creatures/species/elves.md>) (they/them), ([ka](<../../background/elven-cycle-of-generations.md>) 36)  
-    Born DR 1532 (218 years old)  
-    Member of the The Rangers (DR 1640 - DR 1720)  
-    { .bio }
-
-    Originally from: [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-    Based in [Erelion](<../../gazetteer/upper-istaros/orenlas/erelion.md>), [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 15th, 1748 in [Erelion](<../../gazetteer/upper-istaros/orenlas/erelion.md>), [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)  
-
-
 ![Vahaiya Portrait](../../assets/vahaiya-portrait.png){align="right"; width="400"}Vahaiya is a warrior, traveler, adventurer, and veteran of the [Great War](<../../events/1500s/great-war.md>). They fought with the Sembaran Army in the in the [Battle of Urlich Pass](<../../events/1500s/1545/battle-of-urlich-pass.md>), and survived. After the Great War, they traveled extensively around [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), the [Aurbez Plateau](<../../gazetteer/upper-istaros/aurbez-plateau.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and other Sembaran borderlands for many years. They made a name for themselves in the Sembaran hobgoblin wars.
 
 

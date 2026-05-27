@@ -31,17 +31,6 @@ title: Vola Forena
 :octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>)
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1721 (29 years old)  
-    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>)  
-    { .bio }
-
-    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>)
-
-
 Vola was born on the streets of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), living a life of squalor, disease, and poverty. She grew up in the [Riverside](<../../gazetteer/greater-chardon/chardonian-empire/chardon/riverside-quarter.md>) slurms, near the chalyte refineries.  Eventually, she was discovered by [Agon](<./agon.md>), who helped her grow into her power and fulfill her potential.  She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [Agon](<./agon.md>) and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 
 
 She is dedicated to the cause of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), believing in their mission to secure dangerous knowledge from those who would use it for harm, and to preserve magic for future generations.

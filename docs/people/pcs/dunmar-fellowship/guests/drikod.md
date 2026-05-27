@@ -29,14 +29,6 @@ title: Drikod
 </div>
 
 
-    A [stoneborn](<../../../../creatures/species/stoneborn.md>) (he/him)  
-    Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
-    { .bio }
-
-    Based in [Kunda](<../../../../gazetteer/central-highlands/kunda.md>), [Indalas](<../../../../gazetteer/sentinel-range.md>)
-</div>
-
-
 ![Drikod Portrait](../../../../assets/drikod-portrait.jpg){align="right"; width="400"}A stoneborn druid who spent some time investigating troubles in Dunmar. 
 
 ## Pre-Campaign Events

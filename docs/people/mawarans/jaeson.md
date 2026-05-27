@@ -22,13 +22,6 @@ title: Jaeson
 </div>
 
 
-    A [Mawaran](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-    Based in the [North Cliffs](<../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
-</div>
-
-
 Jaeson is a somewhat shady cliffside resident of the [North Cliffs](<../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>), across the sheltered bay from [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). He is a neighbor and occasional associate of [Ryu](<../pcs/mawar/ryu.md>), and also knows [Trok](<../pcs/mawar/trok.md>) from the same small cliffside community. He keeps mostly to himself, but trades in rumors and small favors, especially when Ryu can pay him in fish. Rumors claim he is also an occasional gatza dealer and smuggler. 
 
 In DR 1747, [Ryu](<../pcs/mawar/ryu.md>) and [Trok](<../pcs/mawar/trok.md>) questioned Jaeson while [investigating the recent occupant](<../../campaigns/mawar-adventures/episodes/mawar-adventures-episode-02.md>) of [Airion's](<../other-humans/airion.md>) ruined tower in the [North Cliffs](<../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>), eventually leading to a worn older man later revealed as [Azar the Lost](<./azar-the-lost.md>), who had been using the tower, smoking [gatza](<../../things/materials/gatza.md>), and asking around about lead.

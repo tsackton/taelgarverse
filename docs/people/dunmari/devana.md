@@ -28,17 +28,6 @@ title: Devana
 :octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 29th, 1748  
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-    Based in the [~Karawa Desert~](<../../gazetteer/greater-dunmar/hara-basin/karawa-desert.md>), the Dunmari Basin
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 29th, 1748  
-
-
 
 
 A Dunmari pastoralist.

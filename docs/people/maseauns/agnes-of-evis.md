@@ -31,13 +31,4 @@ title: Agnés of Evis
 
 
 
-    A [Mazeanne](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born April 3rd, 1690 (59 years old)  
-    { .bio }
-
-    Based in [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>), the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
-</div>
-
-
-
 Agnés is a tough-as-nails but somewhat lazy caravan guard, who has struggled to find work recently. She distinguished herself in the recent [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>)

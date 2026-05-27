@@ -22,11 +22,4 @@ title: Giselle Marineau
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    { .bio }
-
-    Based in [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
 The Captain of the West Gate of Rinburg. 

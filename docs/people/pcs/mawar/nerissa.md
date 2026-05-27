@@ -25,12 +25,5 @@ title: Nerissa
 </div>
 
 
-    A [human](<../../../creatures/species/humans.md>) (she/her)  
-    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
-    { .bio }
-
-</div>
-
-
 An older woman, not from Mawar but from the north, who retired to Hamri after a long adventuring career to listen and learn the songs of the ocean.
 

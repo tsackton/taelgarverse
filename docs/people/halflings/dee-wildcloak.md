@@ -50,25 +50,6 @@ title: Dee Wildcloak
 :octicons-location-24:{ .lg .middle } Received a [Letter from Dee WIldcloak](<../../campaigns/dunmari-frontier-campaign/letters-and-notes/letter-from-dee-wildcloak.md>) on November 15th, 1748  
 
 
-    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Wildcloaks](<../../groups/halfling-families/wildcloaks.md>)  
-    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) (until September 12th, 1748)  
-    { .bio }
-
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 22th, 1748 [The Thirsty Scholar](<../../gazetteer/greater-chardon/chardonian-empire/chardon/the-thirsty-scholar.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 21th, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Received a [Letter from Dee WIldcloak](<../../campaigns/dunmari-frontier-campaign/letters-and-notes/letter-from-dee-wildcloak.md>) on November 15th, 1748  
-
-
 Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon. 
 ## Relationships
 - Dee has traveled and adventured with the dwarf [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) and the Chardonian [Alban](<../chardonians/alban.md>). 

@@ -44,24 +44,6 @@ title: Callie Charmheart
 :octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 9th, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-    A [halfling](<../../creatures/species/halflings.md>) (she/her), of the [Charmhearts](<../../groups/halfling-families/charmhearts.md>)  
-    Born DR 1722 (28 years old)  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of August 13th, 1748): [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 29th, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 9th, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
 One of the Charmhearts, a halfling family of long-distance merchants and traders, who make a living trading between [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) and [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). 
 
 ## Relationships

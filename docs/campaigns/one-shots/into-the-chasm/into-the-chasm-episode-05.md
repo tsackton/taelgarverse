@@ -11,7 +11,7 @@ name: Descent Through the Broken Mechanism
 descTitle: The God Caller Below
 tagline: in which Eidrikas sends them under
 sessionKey: into-the-chasm-session-5
-template: into-the-chasm-template.md
+session-template: into-the-chasm-template.md
 title: Descent Through the Broken Mechanism
 ---
 # Descent Through the Broken Mechanism

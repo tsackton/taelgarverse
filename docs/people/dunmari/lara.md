@@ -26,14 +26,5 @@ dm_owner: tim
 </div>
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1688 (62 years old)  
-    Speaker of the [Lakan Mystai](<../../groups/dunmari-mystery-cults/lakan-mystai.md>)  
-    { .bio }
-
-    Based in the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
 The leader of the [Lakan Mystai](<../../groups/dunmari-mystery-cults/lakan-mystai.md>) in Tokra.
 

@@ -26,13 +26,6 @@ title: Trok
 </div>
 
 
-    A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (salt) (he/him)  
-    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
-    { .bio }
-
-</div>
-
-
 Trok is an outcast lizardfolk warrior, covered in tattoos, with an unhealthy relationship to [Gatza](<../../../things/materials/gatza.md>): he is something of a recovering addict, who remains  somewhat estranged from his family. He lives on the beach north of the Drowned Flats neighborhood of Hamri. He is a skilled tattoo artist, and his animal tattoos give him strength and power. 
 
 He grew up in a nearby lizardfolk salt marsh village, a promising young star. The family for generations has specialized in ritual wrestling matches that accompany a traditional rite of passage among the salt lizardfolk of the western [Mawakel Peninsula](<../../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>), when a young lizardfolk warrior receives their first tattoo. Trok was well-known as a talented wrestler and was gaining a reputation and name for himself in the community for his feats. 

@@ -22,14 +22,6 @@ title: Amelia
 </div>
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1728 (22 years old)  
-    { .bio }
-
-    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-
 Amelia is a mid-level official, part of the [Chamber of Stamps](<../../groups/chardonian-organizations/chamber-of-stamps.md>), involved in the work of managing the [chalyte](<../../things/materials/chalyte.md>) monopoly. 
 
 

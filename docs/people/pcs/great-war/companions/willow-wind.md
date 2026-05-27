@@ -17,14 +17,7 @@ title: Willow Wind
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A fox (spirit) (he/him)  
-    Companion of the [Heroes of the Great War](<../heroes-of-the-great-war.md>)  
-    { .bio }
-
-</div>
-
-
-    A fox (spirit) (he/him)  
-    Companion of the [Heroes of the Great War](<../heroes-of-the-great-war.md>)  
+    Companion of [Heroes of the Great War](<../heroes-of-the-great-war.md>)  
     { .bio }
 
 </div>

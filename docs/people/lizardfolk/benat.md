@@ -25,14 +25,6 @@ title: Benat
 </div>
 
 
-    A salt [lizardfolk](<../../creatures/species/lizardfolk.md>) (he/him)  
-    Born DR 1677 (73 years old)  
-    { .bio }
-
-    Based in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
-</div>
-
-
 Benat is a lizardfolk man, in the prime of his life, who lives in Hamri in a small neat house with a great terrace above North Dock, near the waterfall on the [Mirmir](<../../gazetteer/northwest-coast/rivers/mirmir.md>). He serves as an informal liaison between the town and the various salt lizardfolk communities of the coast. He is a tall, striking man, with clear blue-green scales and bright gold/brown eyes, though he walks slowly and rubs his pains to relieve the pain of a joint condition. 
 
 He is both curious and knowledgable about local history and often serves as an informal repository of local lore. 

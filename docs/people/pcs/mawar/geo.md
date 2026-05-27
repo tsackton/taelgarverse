@@ -21,11 +21,4 @@ title: Geo
 </div>
 
 
-    A bear (spirit)  
-    Companion of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
-    { .bio }
-
-</div>
-
-
 Geo is one form of [Ryu](<./ryu.md>)'s shapeshifting beast companion, a primal spirit also known as [Turk](<./turk.md>) in shark form and [Blu](<./blu.md>) in osprey form.

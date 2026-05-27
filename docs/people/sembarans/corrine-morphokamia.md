@@ -16,12 +16,6 @@ title: Corrine Morphokamia
 </div>
 
 
-    A [human](<../../creatures/species/humans.md>)  
-    { .bio }
-
-</div>
-
-
 
 
 ![Corrine Healthy](../../assets/corrine-healthy.png)

@@ -35,17 +35,4 @@ title: Szoltár
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 6th, 1749 in the [Plaguelands](<../../gazetteer/upper-istaros/plaguelands.md>)  
 
 
-    A [hobgoblin](<../../creatures/species/hobgoblins.md>) (he/him)  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-:octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>)
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 6th, 1749 in the [Plaguelands](<../../gazetteer/upper-istaros/plaguelands.md>)  
-
-
 ![Szoltar](../../assets/szoltar.png){align="right"; width="400"}A captured solider in the army of the [Empress of Chaos](<./empress-of-chaos.md>). 

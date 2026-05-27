@@ -26,15 +26,6 @@ dm_notes: none
 </div>
 
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
-    Died  
-    Duke of the [Duchy of Sembara](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>)  
-    { .bio }
-
-    Lived in [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
 Adrian of Embry was the first [Duke of Sembara](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>). 
 
 

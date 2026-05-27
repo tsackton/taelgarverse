@@ -29,16 +29,6 @@ title: Samso
 </div>
 
 
-    A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (he/him)  
-    Born DR 1716 (34 years old)  
-    Member of the [Silver Tempests](<./silver-tempests.md>)  
-    { .bio }
-
-    Originally from: [Urkabi](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/urkabi.md>), [Portalia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/portalia.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-    Based in the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>), [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>)
-</div>
-
-
 Samso was born in the small, isolated village of [Urkabi](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/urkabi.md>), nestled near the source of the [Zurrua](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/zurrua.md>), a minor river west of the [Old Chardon Canal](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/old-chardon-canal.md>) in the [Chardonian](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) provence of [Portalia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/portalia.md>), on the [Apporian Peninsula](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>). It was a great place for a young lizardling to grow up, with endless hidden forests to explore in the foothills, and there was nothing that Samso enjoyed more than exploring the woods and streams of [Urkabi](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/urkabi.md>) and the surrounding land. As Samso grew, he spent longer and longer away from home, learning the paths and thoughts of the plants and animals of the [Zurrua](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/zurrua.md>) valley. 
 
 One year, returning to his village after exploring for several days, Samso was shocked to find [Urkabi](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/urkabi.md>) gone,  a black rot clinging to the trees and polluting the streams. Everybody he knew and loved was gone. The only clue left behind was a shimmering green sigil on the ground, that slowly faded as Samso watched.

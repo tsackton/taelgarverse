@@ -26,12 +26,4 @@ title: Diesa Shockstone
 
 
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of the [Shockstones](<../../groups/dwarven-clans/shockstones.md>)  
-    { .bio }
-
-    Based in [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
-</div>
-
-
-
 Diesa is a prominent and wealthy dwarf, one of the elite of [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>). She is also [Brelith](<../pcs/silver-tempests/brelith.md>)'s mother and Osrik's wife. 

@@ -26,15 +26,6 @@ title: Loma
 
 
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1733 (17 years old)  
-    { .bio }
-
-    Based in [Raha](<../../gazetteer/central-highlands/raha.md>), the [Highveil Forest](<../../gazetteer/central-highlands/highveil-forest.md>)
-</div>
-
-
-
 
 
 Loma is a young Deno’qai scout from the village of [Raha](<../../gazetteer/central-highlands/raha.md>), quick and quiet in the woods and familiar with paths along the Sentinel foothills. Locals say she is favored by Wenba, and leaves small offerings before dangerous journeys. 

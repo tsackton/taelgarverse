@@ -27,15 +27,6 @@ dm_owner: none
 </div>
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1703 (47 years old)  
-    Commander of the [Voltara East Border Fort](<../../gazetteer/northwest-coast/northern-provinces/voltara-east-border-fort.md>)  
-    { .bio }
-
-    Based in the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-
 General Soria Caronius is the current commander of the [~Voltara East Border Fort~](<../../gazetteer/northwest-coast/northern-provinces/voltara-east-border-fort.md>), the northeastern-most fortification in the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). 
 
 She is a middle aged woman, heavily armored and tough, with a bit of a chip on her shoulder about the challenges and value of defending this forgotten corner of the world. 

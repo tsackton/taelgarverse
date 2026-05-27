@@ -25,14 +25,6 @@ title: Xameia the Forsworn
 </div>
 
 
-    A [human](<../../creatures/species/humans.md>) (she/her)  
-    Died  
-    Paladin of the [Order of Twilight](<../../groups/order-of-twilight.md>)  
-    { .bio }
-
-</div>
-
-
 Xameia the Forsworn was a paladin of the [Order of Twilight](<../../groups/order-of-twilight.md>), a religious order of [The Night Queen](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-night-queen.md>). The order provided hospice care and tended many at the end of their life, with care and dignity, and as a result often received significant bequests. Xameia grew jealous of the wealth passing to the Order, and eventually broke, stealing a large amount of gold and leaving several dead acolytes in her wake. 
 
 She was killed for her crimes, and buried in a tomb near [Pykolon Lake](<../../gazetteer/major-rivers/chasa-nahadi-watershed/pykolon-lake.md>). But her soul could not rest until restitution was made for her crimes, and her curse eventually lead to the poisoning of the waters of the lake. 

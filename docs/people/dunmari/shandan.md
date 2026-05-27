@@ -29,13 +29,4 @@ title: Shandan
 </div>
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1692 (58 years old)  
-    Leader of the Shandan's Warband  
-    { .bio }
-
-    Based in the [plains of Songara](<../../gazetteer/greater-dunmar/hara-basin/songara-plains.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
 A charismatic leader of a Dunmari warband based near [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>). 

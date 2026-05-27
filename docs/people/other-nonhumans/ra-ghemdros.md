@@ -23,11 +23,3 @@ title: Ra'ghemdros
 </div>
 
 
-    A [dragon](<../../creatures/species/dragons.md>) (black dragon) (she/her)  
-    Died May 21th, 1749  
-    { .bio }
-
-    Lived the ~Circular Island~
-</div>
-
-

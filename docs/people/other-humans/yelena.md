@@ -22,13 +22,5 @@ title: Yelena
 </div>
 
 
-    An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Member of [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>)  
-    { .bio }
-
-    Based in [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>)
-</div>
-
-
 The sister of [Radomir](<./radomir.md>). 
 

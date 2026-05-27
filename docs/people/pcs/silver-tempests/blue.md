@@ -32,17 +32,6 @@ title: Blue
 :octicons-location-24:{ .lg .middle } Currently in the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 
 
-    An [Isinguer](<../../../history/historical-realms/istabor-alliance.md>) [human](<../../../creatures/species/humans.md>) (plane-touched, fiendish) (she/her)  
-    Born DR 1622 (128 years old)  
-    Member of the [Silver Tempests](<./silver-tempests.md>)  
-    { .bio }
-
-    Originally from: [Maseau](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Currently in the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-
-
 > [!warning]- Blue's Secret Backstory
 > 
 >Blue, as she calls herself, was born about 120 years ago, somewhere in the [Duchy of Maseau](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>). She doesn't quite remember where, exactly, having only fragmented memories of her childhood. She just remembers images: walking along the dusty [Great South Road](<../../../gazetteer/greater-sembara/roads/great-south-road.md>); ash storms that would blow in from the [Plaguelands](<../../../gazetteer/upper-istaros/plaguelands.md>) and force everyone to take shelter; the fortified ranches of the Marcher Lords to the south where cattle and sheep could shelter in great courtyards when raiders came. 

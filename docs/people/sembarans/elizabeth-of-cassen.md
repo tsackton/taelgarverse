@@ -25,14 +25,6 @@ title: Elizabeth of Cassen
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    { .bio }
-
-    Originally from: [Champimont](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-    Based in [Cassen](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cassen.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
 ![Elizabeth of Cassen](../../assets/elizabeth-of-cassen.png){align="right"; width="420"}A middle aged woman, who became a solider in her later life. She worked for the lord of [Cassen](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cassen.md>) until the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) decimated her village.
 
 Her story is here.

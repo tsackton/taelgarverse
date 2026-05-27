@@ -35,18 +35,5 @@ title: Samerki
 :octicons-location-24:{ .lg .middle } Killed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 29th, 1748 in [Shakun’s Wellspring](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>), the [Red Mesa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-    oni ([giant](<../../creatures/species/giants.md>)), he/him  
-    Killed May 29th, 1748  
-    { .bio }
-
-    Originally from: Unknown
-    Lived in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Killed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 29th, 1748 in [Shakun’s Wellspring](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>), the [Red Mesa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
 A servant of [Agata](<../fey/agata.md>). 
 

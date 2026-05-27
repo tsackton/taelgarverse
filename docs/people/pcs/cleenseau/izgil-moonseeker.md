@@ -34,17 +34,6 @@ title: Izgil Moonseeker
 :octicons-location-24:{ .lg .middle } Last known location (as of January 16th, 1720): [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Gemcrafters](<../../../groups/dwarven-clans/gemcrafters.md>)  
-    Born DR 1453 (297 years old)  
-    Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
-    { .bio }
-
-    Originally from: [Nidzahar](<../../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>), [Labkhan](<../../../gazetteer/sentinel-range.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of January 16th, 1720): [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
-
-
 ![Izgil Moonseeker](../../../assets/izgil-moonseeker.png){align="right"; width="420"}Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [Gemcrafters](<../../../groups/dwarven-clans/gemcrafters.md>) clan in [Nidzahar](<../../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>).
 
 > [!INFO]- Izgil's Background (For Matt's Eyes Only)

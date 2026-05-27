@@ -12,7 +12,7 @@ name: The Safe Gash
 descTitle: The Druid in the Circuit
 tagline: in which Malquin bargains and Eidrikas endures
 sessionKey: into-the-chasm-session-4
-template: into-the-chasm-template.md
+session-template: into-the-chasm-template.md
 title: The Safe Gash
 ---
 # The Safe Gash

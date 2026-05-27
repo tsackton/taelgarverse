@@ -24,12 +24,4 @@ title: Umber of Dunmar
 </div>
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Died DR 1748  
-    { .bio }
-
-    Lived in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
 A Dunmari suffering under the curse of lycanthropy caused by the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>), killed by the party in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 

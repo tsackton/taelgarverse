@@ -19,12 +19,6 @@ title: Ilanar
 </div>
 
 
-    An unknown  
-    { .bio }
-
-</div>
-
-
 A name spoken by a ghost from [Cairn Dor](<../../gazetteer/extraplanar/shadowfolds/cairn-dor.md>). 
 
 

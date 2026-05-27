@@ -25,11 +25,4 @@ title: Baxter
 </div>
 
 
-    An axebeak  
-    Companion of the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
-    { .bio }
-
-</div>
-
-
 ![Baxter Portrait](../../../../assets/baxter-portrait.jpg){align="right"; width="320"} [Wellby](<../wellby.md>)'s reliable mount, now well-trained in battle and exploration. 

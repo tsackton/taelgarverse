@@ -29,14 +29,6 @@ dm_owner: none
 </div>
 
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
-    b. DR 1537 - d. January 17th, 1561, died at age 24 years  
-    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>), and [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1555 - January 17th, 1561)  
-    { .bio }
-
-</div>
-
-
 The eldest child of [Reginald](<./reginald.md>), he was a ruler of Sembara in the 1550s. 
 
 

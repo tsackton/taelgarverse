@@ -31,18 +31,6 @@ title: Caradoc
 :octicons-location-24:{ .lg .middle } Hired the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 2nd, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
-    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1653 (97 years old)  
-    { .bio }
-
-    Based in [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Hired the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 2nd, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
-
-
 A reclusive alchemist of the [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) hinterlands who works out of a cottage laboratory near the small village of [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>).
 ## Overview
 Caradoc is a reclusive alchemist who maintains a cottage laboratory outside [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>), trading coin and commissions for rare reagents while keeping his discoveries close. Despite his sixty‑plus years, he moves with crisp focus. He has white hair cut short, and keen green eyes, always measuring the worth of a sample. He bankrolls expeditions rather than traveling himself, relying on proven agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [uligium](<../../things/materials/uligium.md>).

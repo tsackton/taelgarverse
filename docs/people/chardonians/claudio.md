@@ -31,18 +31,6 @@ title: Claudio
 :octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 8th, 1749  
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1719 (31 years old)  
-    { .bio }
-
-    Based in [Luminatia](<../../gazetteer/greater-chardon/chardonian-empire/luminatia.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 8th, 1749  
-
-
 
 
 Claudio in a Chardonian man, from the village of [Luminatia](<../../gazetteer/greater-chardon/chardonian-empire/luminatia.md>) near [Lake Valandros](<../../gazetteer/greater-chardon/lake-valandros.md>). He is [Lucius](<./lucius.md>)'s father, but does not currently live with his family. 

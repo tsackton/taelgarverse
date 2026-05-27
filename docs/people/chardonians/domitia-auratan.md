@@ -20,11 +20,4 @@ title: Domitia Auratan
 </div>
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>)  
-    Died DR 1723  
-    { .bio }
-
-</div>
-
-
 The mother of the current Magistros of Chardon, [Mitus Verina Auratan](<./mitus-verina-auratan.md>). Died shortly after giving birth.

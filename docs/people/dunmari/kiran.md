@@ -25,13 +25,6 @@ title: Kiran
 </div>
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-    Based on the [plains north of Tokra](<../../gazetteer/greater-dunmar/hara-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
 
 
 A member of a family of goat herders that wander across the upper reaches of the [Hara](<../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>) river, north of Tokra. 

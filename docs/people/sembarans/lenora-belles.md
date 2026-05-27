@@ -22,13 +22,6 @@ title: Lenora Belles
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    { .bio }
-
-    Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
 A paladin of the Night Queen. Saved [Viepuck](<../pcs/cleenseau/viepuck.md>).
 
 ![Lenora Belles](../../assets/lenora-belles.png)

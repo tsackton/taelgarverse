@@ -22,11 +22,4 @@ title: Blu
 </div>
 
 
-    An osprey (spirit)  
-    Companion of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
-    { .bio }
-
-</div>
-
-
 Blu is one form of [Ryu](<./ryu.md>)'s shapeshifting beast companion, a primal spirit also known as [Turk](<./turk.md>) in shark form and [Geo](<./geo.md>) in bear form.

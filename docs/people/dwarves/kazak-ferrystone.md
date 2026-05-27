@@ -24,11 +24,4 @@ title: Kazak Ferrystone
 </div>
 
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Ferrystones](<../../groups/dwarven-clans/ferrystones.md>)  
-    { .bio }
-
-    Based in [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
 ![Kazak Ferrystone](../../assets/kazak-ferrystone.png){align="left"; width="200"}

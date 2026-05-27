@@ -19,10 +19,4 @@ title: Rala
 </div>
 
 
-    A beast (hawk) (she/her)  
-    { .bio }
-
-</div>
-
-
 Rala is [Jrain Fanlish](<./jrain-fanlish.md>)'s hawk companion. 

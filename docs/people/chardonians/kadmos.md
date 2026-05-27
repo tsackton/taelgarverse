@@ -42,22 +42,6 @@ title: Kadmos
 :octicons-location-24:{ .lg .middle } Encountered by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 8th, 1748 in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    b. DR 1711 - d. December 8th, 1748, killed at age 37 years  
-    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) (until December 8th, 1748)  
-    Cultist of [The Cleansed](<../../groups/the-cleansed.md>) (until December 8th, 1748)  
-    { .bio }
-
-    Lived in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Killed in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
-
-
-
-:octicons-location-24:{ .lg .middle } Encountered by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 8th, 1748 in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
-
-
 
 
 ![Kadmos Portrait](../../assets/kadmos-portrait.png){align="right"; width="320"}A mysterious figure who doesn't speak unless necessary, the leader of this company, with [Hektor](<./hektor.md>), [Marcella](<./marcella.md>), [Antonia](<./antonia.md>), and [Casian](<./casian.md>). 

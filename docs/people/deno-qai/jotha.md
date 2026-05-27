@@ -33,16 +33,6 @@ title: Jotha
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
 
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her), of the Ko'zula  
-    Born DR 1719 (31 years old)  
-    { .bio }
-
-    Originally from: the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
-
-
 ![Jotha](../../assets/jotha.jpg){align="right"; width="300"}Jotha is a warrior, serious and sometimes distant, who relies on her connection to the [Tanshi](<../../gods-and-religions/gods/tanshi/tanshi.md>) to make sense of the dangers and evils she has faced. She prefers to listen instead of talk, and enjoys hearing stories. While eventually she intends to return to her homeland, for now she travels seeking to deepen her connection to the tanshi. 
 ## Background
 Jotha was born to the Ko'zula, one of the northern Deno'qai tribes. From a young age, she displayed a talent for the sword and spear, and seemed to have the favor of the [Tanshi](<../../gods-and-religions/gods/tanshi/tanshi.md>). She trained as a holy warrior, and for many years she served as a scout and defender of the villages of the Ko'zula on the slopes of the [Northern Sentinels](<../../gazetteer/northern-sentinels/northern-sentinels.md>). 

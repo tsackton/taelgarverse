@@ -29,17 +29,6 @@ title: Zaro
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 6th, 1748 in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
 
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Bek'eni  
-    { .bio }
-
-    Based in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 6th, 1748 in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
-
-
 Zaro is an older man, hale and hearty with a commanding voice. He is bald, with a gray beard, blue eyes, and a prominent nose. He is the chief of the largest Bek'eni village in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>). 
 
 

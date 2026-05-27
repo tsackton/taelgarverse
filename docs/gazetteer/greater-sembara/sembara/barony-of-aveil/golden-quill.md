@@ -14,4 +14,5 @@ title: Golden Quill
 </div>
 
 
+
 An inn in [Veltor](<./veltor.md>) frequented by law clerks, scribes, and administrative aides. Quieter than the [Granite Mug](<./granite-mug.md>), with better lighting, thin ale, and ample writing surfaces.

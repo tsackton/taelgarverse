@@ -12,7 +12,7 @@ name: Into the Chasm - Episode 2
 descTitle: The Labyrinth
 tagline: in which the party navigates an ever-shifting maze
 sessionKey: into-the-chasm-session-2
-template: into-the-chasm-template.md
+session-template: into-the-chasm-template.md
 title: Into the Chasm - Episode 2
 ---
 # Into the Chasm - Episode 2

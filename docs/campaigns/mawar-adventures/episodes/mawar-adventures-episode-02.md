@@ -12,7 +12,7 @@ name: Mawar Adventures Episode 2
 descTitle: The Tragedy of Azar
 tagline: in which a grieving killer is unmasked
 sessionKey: mawar-adventures-session-2
-template: mawar-template.md
+session-template: mawar-template.md
 title: Mawar Adventures Episode 2
 ---
 # Mawar Adventures Episode 2

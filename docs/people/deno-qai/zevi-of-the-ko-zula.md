@@ -27,12 +27,4 @@ title: Zevi
 </div>
 
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Ko'zula  
-    Born DR 1734 (16 years old)  
-    { .bio }
-
-    Based in the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-</div>
-
-
 Guide who brought [Delwath](<../pcs/dunmar-fellowship/delwath.md>) to the Ko’zula village and later to meet [Aristaea](<../pcs/dunmar-fellowship/guests/aristaea.md>) and [Iascaire](<../pcs/dunmar-fellowship/guests/iascaire.md>).

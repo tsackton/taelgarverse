@@ -30,15 +30,6 @@ dm_owner: tim
 </div>
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1697 (53 years old)  
-    Senior Archivist of the [Great Library](<../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>)  
-    { .bio }
-
-    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-
 
 
 A senior Archivist at the [Great Library](<../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>), in charge of external mercenary contracts, with general responsibility for organizing missions to recover lost treasures for the Great Library. 

@@ -26,13 +26,4 @@ title: Betsy Thorne
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her), of the [Thornes of Cleenseau](<../../groups/sembaran-noble-houses/thornes-of-cleenseau.md>)  
-    Born DR 1697 (53 years old)  
-    Guardswoman of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>)  
-    { .bio }
-
-    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
-</div>
-
-
 The daughter of [Jon Thorne](<./jon-thorne.md>), cousin of [Beatrix Thorne](<./beatrix-thorne.md>) and a member of the Cleenseau town watch.

@@ -28,16 +28,6 @@ title: Frankar
 :octicons-location-24:{ .lg .middle } Last known location (as of DR 1730): [Darakan](<../../gazetteer/central-highlands/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/central-highlands/dwarven-kingdoms/khatridun.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
 
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
-    Born DR 1714 (36 years old)  
-    { .bio }
-
-    Originally from: [Darakan](<../../gazetteer/central-highlands/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/central-highlands/dwarven-kingdoms/khatridun.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of DR 1730): [Darakan](<../../gazetteer/central-highlands/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/central-highlands/dwarven-kingdoms/khatridun.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
-
-
 
 
 A dwarf from the city of Darakan, in the kingdom of [Khatridun](<../../gazetteer/central-highlands/dwarven-kingdoms/khatridun.md>), fascinated with mechanical devices and runic magic. 

@@ -12,7 +12,7 @@ name: Labyrinths of the Lost - Session 3
 descTitle: Grimstone's Last Experiment
 tagline: in which Grimstone's lab falls
 sessionKey: labyrinths-of-the-lost-session-3
-template: lablost-template.md
+session-template: lablost-template.md
 title: Labyrinths of the Lost - Session 3
 ---
 # Labyrinths of the Lost - Session 3

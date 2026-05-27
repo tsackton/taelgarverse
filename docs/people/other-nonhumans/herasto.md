@@ -24,14 +24,5 @@ title: Herasto
 :octicons-location-24:{ .lg .middle } Currently the southern Voltara Plains
 
 
-    A [centaur](<../../creatures/species/centaurs.md>) (he/him)  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-:octicons-location-24:{ .lg .middle } Currently the southern Voltara Plains
-
-
 
 

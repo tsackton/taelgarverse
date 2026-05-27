@@ -25,14 +25,6 @@ title: Hada
 </div>
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    b. DR 1719 - d. DR 1748, died at age 29 years  
-    { .bio }
-
-    Lived in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
 
 
 The head scribe of the military section of the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>). He was researching, with [Govir](<./govir.md>), the events surrounding [Exile of Fraternity of the Empty Moon](<../../events/1600s/exile-of-fraternity-of-the-empty-moon.md>) in DR 1625 from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) in the [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), in support of [Govir](<./govir.md>)'s planned treatise on the miracles of the [Dunmari Religion](<../../gods-and-religions/religions/five-siblings/dunmari-religion.md>) in aid of the Nayan dynasty. 

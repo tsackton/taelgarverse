@@ -27,15 +27,6 @@ title: Txarro
 </div>
 
 
-    A [lizardfolk](<../../../../creatures/species/lizardfolk.md>) (he/him)  
-    Born DR 1717 (33 years old)  
-    { .bio }
-
-    Originally from: the [Greywash](<../../../../gazetteer/greater-sembara/rivers/volta-watershed/greywash.md>), the [Free City of Tollen](<../../../../gazetteer/greater-sembara/tollen/tollen.md>)
-    Based in the [Free City of Tollen](<../../../../gazetteer/greater-sembara/tollen/tollen.md>)
-</div>
-
-
 ![Txarro](../../../../assets/txarro.png){align="right"; width="350"}Txarro was born in a small lizardfolk village along the Greywash. His community was fairly isolated, even from other lizardfolk, in a marshy curve about a day and a half walk from Tollen. The Greywash provided a rich abundance for his village, and has a child and young adult he rarely interacted with other species, preferring to wander upriver along the marshy banks of the river, searching for hidden life among the reeds and rushes. He discovered he had some skill with animals, and could often charm small birds into his hand, or convince the shy mammals of the riverbank to be still in his presence. 
 
 Over the years, he often wandered further and further afield, traveling for days along the Volta and its tributaries, exploring aimlessly, never sure what he was looking for. He learned to observe quietly, coax animals to do his bidding, and even began to sense the flow of extraplanar energy moving through Taelgar, experimenting with channeling the ambient soulstuff that accretes in small quantities to all sentient things. Slowly, through these experiments, he began to learn a bit of magic, and increasingly spent his time wandering, often venturing a week or more from home, sometimes to the dismay of the elders of his village who wished for him to contribute more productively to the community. 

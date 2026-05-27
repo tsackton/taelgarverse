@@ -21,12 +21,5 @@ title: Orsino
 </div>
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-    Based in the [Chalyte Levels](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chalyte-levels.md>), the [North Bank](<../../gazetteer/greater-chardon/chardonian-empire/chardon/north-bank.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)
-</div>
-
-
 An informal leader of day-laborers in the Chalyte Levels.
 

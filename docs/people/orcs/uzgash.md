@@ -23,12 +23,5 @@ title: Uzgash
 </div>
 
 
-    An [orc](<../../creatures/species/orcs.md>) (he/him), of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
-    Died  
-    { .bio }
-
-</div>
-
-
 A revered leader of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>), who recovered the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>) and founded the kingdom of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>).
 

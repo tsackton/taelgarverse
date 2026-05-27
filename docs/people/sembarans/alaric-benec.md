@@ -23,13 +23,5 @@ title: Alaric Benec
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Lord Mayor of [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>)  
-    { .bio }
-
-    Based in [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
 
 ![Alaric Benec](../../assets/alaric-benec.png){align="right"; width="400"}

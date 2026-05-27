@@ -28,17 +28,6 @@ title: Norman the Wanderer
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 13th, 1715 in the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
-    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-    Based in the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 13th, 1715 in the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
-
-
 Norman is a a rag‑clad, eccentric hermit who typically wanders the western [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), living off the land and observing the comings and goings of monsters, hunters, and travelers. Eccentric yet sharp-eyed, Norman jealously guards “his hills” but can be persuaded to help those who show respect. He distrusts civilization’s rules, preferring the freedom and constant watchfulness of the wilds. His speech drifts between rambling stories and unexpectedly precise warnings.
 
 ## Events

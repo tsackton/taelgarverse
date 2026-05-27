@@ -33,19 +33,6 @@ title: Bartoz
 :octicons-location-24:{ .lg .middle } Undead form destroyed by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on April 28th, 1715 in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)  
 
 
-    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Died April 1st, 1715  
-    Master Smith of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>) (until April 1st, 1715)  
-    { .bio }
-
-    Lived in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Undead form destroyed by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on April 28th, 1715 in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)  
-
-
 Bartoz was the master smith of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), who opposed the presence of the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) and later rose as an undead guardian at the forge in the keep. 
 ## Overview
 Bartoz served as the master smith and informal quartermaster of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), keeping the garrison’s arms battle‑ready and the gate winches oiled even through winter storms. When the cursed [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) surfaced, he insisted it be locked away and sought temple steward [Wulfram](<./wulfram.md>)’s guidance. Sir [Einrik Arpaad](<./einrik-arpaad.md>) fell to the weapon’s malice regardless, and Bartoz paid with his life stopping his commander’s rampage, only to rise again as the fort’s undead smith until the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) cut him down.

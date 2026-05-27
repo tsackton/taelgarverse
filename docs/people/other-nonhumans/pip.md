@@ -19,10 +19,3 @@ title: Pip
 </div>
 
 
-    A talking fruit bat (she/her)  
-    { .bio }
-
-    Based in the [Awakened Jungle](<../../gazetteer/drankorian-hinterland/awakened-jungle.md>)
-</div>
-
-

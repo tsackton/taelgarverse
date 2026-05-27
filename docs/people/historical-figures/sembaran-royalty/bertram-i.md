@@ -31,15 +31,6 @@ dm_owner: none
 </div>
 
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
-    b. DR 1538 - d. DR 1552, died at age 14 years  
-    High King of [Vostok](<../../../gazetteer/greater-sembara/vostok/vostok.md>) (DR 1549 - DR 1551)  
-    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Ardlas](<../../../gazetteer/greater-sembara/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>), and [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>) (DR 1549 - DR 1552)  
-    { .bio }
-
-</div>
-
-
 Bertam I, [Derik III’s](<./derik-iii.md>) youngest son, came to the throne in December of 1549, a boy of 11. His mother, [Jane of Tollen](<./jane-of-tollen.md>), was appointed regent, and Bertram’s entire kingship is dominated by her, a shrewd woman who disliked waste.
 
 He did not live long enough to have children. He is believed to have died of the effects of the [Blood Plague](<../../../events/1500s/blood-plague.md>).

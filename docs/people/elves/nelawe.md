@@ -18,11 +18,5 @@ title: Nelawe
 </div>
 
 
-    An [elf](<../../creatures/species/elves.md>) (she/her), ([ka](<../../background/elven-cycle-of-generations.md>) 31)  
-    { .bio }
-
-</div>
-
-
 A poet and author of [Lyrics of a New Age](<../../things/books/lyrics-of-a-new-age.md>).
 

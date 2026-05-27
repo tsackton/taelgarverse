@@ -28,13 +28,4 @@ title: Robert
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    b. DR 1685 - d. November 3rd, 1719, killed by an ankheg at age 34 years  
-    { .bio }
-
-    Originally from: Unknown
-    Lived in the [Cleenseau Region](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-region.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
 One of the bandits involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). He died of wounds inflicted by the enraged ankheg outside his hideout.

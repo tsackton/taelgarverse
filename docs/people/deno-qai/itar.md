@@ -27,13 +27,5 @@ title: Itar
 </div>
 
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Bek'eni  
-    Born DR 1716 (34 years old)  
-    { .bio }
-
-    Based in the largest Bek'eni village, in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-</div>
-
-
 The Godcaller of the Bek'eni tribe of Deno'qai, under the sway of [Mezzar](<../other-nonhumans/mezzar.md>).
 

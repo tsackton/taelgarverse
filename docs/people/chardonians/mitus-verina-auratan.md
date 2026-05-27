@@ -22,14 +22,6 @@ dm_owner: tim
 </div>
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>)  
-    Born DR 1723 (27 years old)  
-    { .bio }
-
-    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-
 The current Magistros of Chardon and ruler of the Chardonian Empire. 
 
 

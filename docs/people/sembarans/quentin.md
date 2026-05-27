@@ -29,13 +29,4 @@ title: Quetin
 
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Member of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>)  
-    { .bio }
-
-    Based in [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>), the [Barony of Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/barony-of-dunfry.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
-
 Quetin is a messenger and a member of the Army of the West.

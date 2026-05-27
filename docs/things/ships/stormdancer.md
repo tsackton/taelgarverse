@@ -21,9 +21,6 @@ title: Stormdancer
 :octicons-location-24:{ .lg .middle } Last known location (as of April 13th, 1748): [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 
 
-:octicons-location-24:{ .lg .middle } Last known location (as of April 13th, 1748): [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-
-
 
 
 A fast, sleek ship, crewed and equipped for long voyages into the unknown, and captained by a daring adventurer, [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>). 

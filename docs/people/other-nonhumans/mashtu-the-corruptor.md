@@ -26,17 +26,6 @@ title: Mashtu the Corruptor
 :octicons-location-24:{ .lg .middle } Banished to the [Abyss](<../../cosmology/spiritual-realms/abyss.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 22th, 1748 in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>)  
 
 
-    A [demon](<../../creatures/extraplanar/demons.md>)  
-    { .bio }
-
-    Based in [Abyss](<../../cosmology/spiritual-realms/abyss.md>), [Spiritual Realms](<../../cosmology/spiritual-realms/spiritual-realms.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Banished to the [Abyss](<../../cosmology/spiritual-realms/abyss.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 22th, 1748 in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>)  
-
-
 ![Mashtu the Corrupter](../../assets/mashtu-the-corrupter.png){align="right"; width="420"}A powerful demon of the [Abyss](<../../cosmology/spiritual-realms/abyss.md>), known for desiring the defiling of sacred waters across the [Green Sea](<../../gazetteer/green-sea.md>).  
 
 

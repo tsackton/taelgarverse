@@ -27,17 +27,6 @@ title: Livia
 :octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 8th, 1749  
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    { .bio }
-
-    Based in [Luminatia](<../../gazetteer/greater-chardon/chardonian-empire/luminatia.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 8th, 1749  
-
-
 
 
 [Lucius](<./lucius.md>)'s mother.

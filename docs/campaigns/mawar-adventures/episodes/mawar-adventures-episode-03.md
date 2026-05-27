@@ -11,7 +11,7 @@ name: Mawar Adventures Episode 03
 descTitle: The Tomb of Yerkir-khor
 tagline: in which a missing treasure hunter leads to a hidden tomb
 sessionKey: mawar-adventures-session-3
-template: mawar-template.md
+session-template: mawar-template.md
 title: Mawar Adventures Episode 03
 ---
 # Mawar Adventures Episode 03

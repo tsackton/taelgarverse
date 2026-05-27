@@ -31,17 +31,4 @@ title: Aurelia
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
-    A [centaur](<../../creatures/species/centaurs.md>) (she/her)  
-    Born DR 1703 (47 years old)  
-    { .bio }
-
-    Originally from: Unknown
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
-
-
 Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who settled in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) in the 1730s. 

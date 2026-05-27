@@ -21,13 +21,6 @@ title: Mavdyr
 </div>
 
 
-    A [giant](<../../creatures/species/giants.md>) (fire giant) (he/him)  
-    Died  
-    { .bio }
-
-</div>
-
-
 
 
 

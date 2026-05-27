@@ -11,7 +11,7 @@ name: Labyrinths of the Lost - Session 1
 descTitle: The Smithy Escape
 tagline: in which captives turn on their goblin guards
 sessionKey: labyrinths-of-the-lost-session-1
-template: lablost-template.md
+session-template: lablost-template.md
 title: Labyrinths of the Lost - Session 1
 ---
 # Labyrinths of the Lost - Session 1

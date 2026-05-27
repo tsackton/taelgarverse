@@ -19,18 +19,7 @@ title: Scordith
 
     A [human](<../../../creatures/species/humans.md>) (she/her)  
     Born DR 1730 (20 years old)  
-    Member of the [Silver Tempests](<./silver-tempests.md>) (until June 9th, 1747)  
-    { .bio }
-
-    Originally from: [Paisa](<../../../gazetteer/northwest-coast/northern-provinces/paisa.md>), the [Northern Provinces](<../../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of June 9th, 1747): [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>), the [Northern Provinces](<../../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>)
-
-
-    A [human](<../../../creatures/species/humans.md>) (she/her)  
-    Born DR 1730 (20 years old)  
-    Member of the [Silver Tempests](<./silver-tempests.md>) (until June 9th, 1747)  
+    Member of [Silver Tempests](<./silver-tempests.md>) (until June 9th, 1747)  
     { .bio }
 
     Originally from: [Paisa](<../../../gazetteer/northwest-coast/northern-provinces/paisa.md>), the [Northern Provinces](<../../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

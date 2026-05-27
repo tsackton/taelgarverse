@@ -29,17 +29,6 @@ title: Lirien
 :octicons-location-24:{ .lg .middle } Died on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 
 
-    A [fey](<../../creatures/fey/fey.md>) (she/her)  
-    Died May 30th, 1749  
-    { .bio }
-
-    Originally from: [Redsun Watch](<../../gazetteer/extraplanar/feywild/amberglow/redsun-watch.md>), [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>)
-    Lived in [Everlight's Bloom](<../../gazetteer/extraplanar/feywild/everlight-s-bloom.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Died on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
-
-
 Lirien is a willowy, flame-haired fae with a presence that flickers between fierce determination and quiet sorrow. Her hair shifts in hue, from the deep gold of sunset to the dying embers of a hearth, its glow dimming or flaring in response to her emotions. Her eyes are a molten amber, catching and reflecting light like polished gold, though in moments of despair, they dull to the color of old brass. She wears a cloak of deep red and umber, tattered at the edges as if burned away by time, and carries a lantern wrought from delicate silver filigree, within which a single, flickering light still struggles to shine. 
 
 She is the last Lanternkeeper of [Redsun Watch](<../../gazetteer/extraplanar/feywild/amberglow/redsun-watch.md>), a minor member of [Redsun Watch](<../../gazetteer/extraplanar/feywild/amberglow/redsun-watch.md>), charged with using the [Amberlight](<../../gazetteer/extraplanar/feywild/amberglow/amberlight.md>) to seal cracks in the Sunset Gate that would sometimes appear from [Darkfall](<../../gazetteer/extraplanar/feywild/darkfall.md>). When [Redsun Watch](<../../gazetteer/extraplanar/feywild/amberglow/redsun-watch.md>) finally fell, she fled, taking the [Amberlight](<../../gazetteer/extraplanar/feywild/amberglow/amberlight.md>) with her and running to [Everlight's Bloom](<../../gazetteer/extraplanar/feywild/everlight-s-bloom.md>). 

@@ -21,11 +21,5 @@ title: Aerin
 </div>
 
 
-    A [kenku](<../../../creatures/species/kenku.md>) (he/him), of the [Heroes of the Great War](<./heroes-of-the-great-war.md>)  
-    { .bio }
-
-</div>
-
-
 A kenku, rogue, and traveler. Current whereabouts are unknown. 
 

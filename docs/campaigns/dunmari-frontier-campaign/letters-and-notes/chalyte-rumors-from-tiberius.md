@@ -5,6 +5,7 @@ title: Chalyte Rumors from Tiberius
 ---
 # Chalyte Rumors from Tiberius
 
+
 During the course of the evening, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) learn more about chalyte politics from Tiberius, the Windcaller of the [Auratan's Pride](<../../../things/ships/auratan-s-pride.md>), one of the [Magistros](<../../../people/chardonians/mitus-verina-auratan.md>)’ naval flagships.
 
 Tiberius is not a politician, and clearly has some strong opinions about the use and misuse of chalyte. He explains the basics, though:  

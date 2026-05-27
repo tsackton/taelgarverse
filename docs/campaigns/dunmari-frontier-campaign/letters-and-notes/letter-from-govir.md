@@ -5,6 +5,7 @@ title: Letter from Govir
 ---
 # Letter from Govir
 
+
 Dear friends,
 
 Let us rejoice in the light of the Divine, and give thanks to [Laka](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>) and his siblings for their continued guidance, and the [Bahrazel](<../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>) for their healing power. I still hear the echoes of their forges sometimes when I sleep, and it brings me great comfort, for they and their servant [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) banished the nightmares from my mind. 

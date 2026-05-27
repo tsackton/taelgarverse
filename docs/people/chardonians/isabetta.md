@@ -20,12 +20,5 @@ title: Isabetta
 </div>
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1731 (19 years old)  
-    { .bio }
-
-</div>
-
-
 ![Isabetta](../../assets/isabetta.png){align="right"; width="400"}A young woman with a beautiful voice, who frequently sings at [The Drunken Dolphin](<../../gazetteer/greater-chardon/chardonian-empire/apporia/the-drunken-dolphin.md>) in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>). 
 

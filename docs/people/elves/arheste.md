@@ -34,19 +34,6 @@ title: Arheste
 :octicons-location-24:{ .lg .middle } Visited by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1749 in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)  
 
 
-    An [elf](<../../creatures/species/elves.md>) (she/her), ([ka](<../../background/elven-cycle-of-generations.md>) 31)  
-    Born DR 747 (1003 years old)  
-    { .bio }
-
-    Originally from: [Rostaurë](<../../gazetteer/drankorian-hinterland/rostaure.md>)
-    Based in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Visited by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 16th, 1749 in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)  
-
-
 Arheste is an ancient [elf](<../../creatures/species/elves.md>), with silver hair and piercing eyes, originally born during the days of the Drankorian Empire. He right arm is withered, cramped, and useless, usually worn in a sling, and she looks worn in a way that is very unusual for [Elves](<../../creatures/species/elves.md>). She spent much of the first several hundred years of her life in Drankor first as an ally of the emperors, and then, during Apollyon's reign, as a prisoner. After the [First Plague](<../../events/1000s/1059/first-plague.md>), which she survived, albeit damaged and sick, she fled north and eventually settled in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>). 
 
 

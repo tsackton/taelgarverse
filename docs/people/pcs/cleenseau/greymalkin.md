@@ -19,15 +19,7 @@ title: Greymalkin
 
     A [fey](<../../../creatures/fey/fey.md>) (griffin) (he/him)  
     Appeared from the Feywild on January 7th, 1720 (29 years old)  
-    Companion of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
-    { .bio }
-
-</div>
-
-
-    A [fey](<../../../creatures/fey/fey.md>) (griffin) (he/him)  
-    Appeared from the Feywild on January 7th, 1720 (29 years old)  
-    Companion of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Companion of [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
     { .bio }
 
 </div>

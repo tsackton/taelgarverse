@@ -17,9 +17,3 @@ title: Jrain Fanlish
 </div>
 
 
-    Member of the [Chasm Explorers](<./chasm-explorers.md>)  
-    { .bio }
-
-</div>
-
-

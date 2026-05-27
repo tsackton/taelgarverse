@@ -30,14 +30,6 @@ title: Nora Silverspark
 </div>
 
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of the [Silverspark Clan](<../../groups/dwarven-clans/silversparks.md>)  
-    Passed on November 23th, 1748  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-
 
 
 A dwarven warrior, once a ghost in [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>) and now passed on. The first victim of [Hagrim](<./hagrim.md>)'s betrayal. 

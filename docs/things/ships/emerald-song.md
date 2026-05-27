@@ -25,9 +25,6 @@ title: Emerald Song
 :octicons-location-24:{ .lg .middle } Last known location (as of August 21th, 1748): [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 
 
-:octicons-location-24:{ .lg .middle } Last known location (as of August 21th, 1748): [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-
-
 The halfling ship Emerald Song is a fast, lanteen-rigged, three-masted trading ship owned by the Silversong clan, rigged with a single square mast and two fore-and-aft masts, at least typically. It typically sails between Chardon and points on the Nevos Sea with a crew of 22 and room for up to 12 passengers, more if they are halflings.
 
 The ship is designed to run fast with relatively light, high value cargo, and optimized for all-season sailing with the ability to sail close into the wind, allowing flexible routing even during the monsoon. However, it is vulnerable to storms, so tends to hug the coast in the Endless Ocean, and does not trade north of Chardon. 

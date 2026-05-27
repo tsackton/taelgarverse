@@ -32,18 +32,4 @@ title: Geoffrey
 :octicons-location-24:{ .lg .middle } Discovered as a corpse by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 19th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
-    A [human](<../../creatures/species/humans.md>) (he/him)  
-    Died May 3rd, 1715  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-:octicons-location-24:{ .lg .middle } Died in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)
-
-
-
-:octicons-location-24:{ .lg .middle } Discovered as a corpse by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 19th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
-
-
 Geoffrey, possibly a false name, was an traveler who arrived in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) from [Valcroix](<../../gazetteer/greater-sembara/addermarch/valcroix.md>) in the autumn of 1714, taking a room at [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>) for roughly six months. According to [Bertrand LeBlanc](<../addermarians/bertrand-leblanc.md>) and [Emma Cole](<../addermarians/emma-cole.md>), he kept largely to himself, ate alone with his nose in a book, and made repeated solo excursions into the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), sometimes staying out for a week at a time. Shortly before the spring thaw he outfitted himself with ropes, ladders, and other climbing gear, and left for parts unknown.

@@ -16,10 +16,4 @@ title: Dhrukmir
 </div>
 
 
-    A [giant](<../../creatures/species/giants.md>)  
-    { .bio }
-
-</div>
-
-
 The ruler of [Ulgrathar](<../../gazetteer/greater-chardon/chardonian-empire/alta-tonaro/ulgrathar.md>), obsessed with [chalyte](<../../things/materials/chalyte.md>). 

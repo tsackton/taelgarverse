@@ -25,15 +25,6 @@ title: Kalima
 :octicons-location-24:{ .lg .middle } Last known location (as of January 25th, 1730): the [Zeyfa's Labyrinth](<../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>), the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>)
 
 
-    A Zimka [human](<../../creatures/species/humans.md>) (she/her)  
-    { .bio }
-
-    Originally from: Unknown
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of January 25th, 1730): the [Zeyfa's Labyrinth](<../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>), the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>)
-
-
 
 
 Kalima is a Zimkovan woman from a hidden people bound to [Zeyfa](<../../gods-and-religions/gods/kestavo/zeyfa.md>) and [Zeyfa's Labyrinth](<../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>). She emerged from the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>) near [Kemeko Monastery](<../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>) in late January 1730, terrified of kenku and speaking Old Zimkovan.

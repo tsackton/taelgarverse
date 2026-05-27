@@ -40,21 +40,6 @@ title: Arcus
 :octicons-location-24:{ .lg .middle } Discovered as a statue by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 25th, 1748 in the [Dunmari Fort (Gomat)](<../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>)  
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    b. DR 1723 - d. March 15th, 1748, petrified at age 25 years  
-    Member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) (until March 15th, 1748)  
-    { .bio }
-
-    Lived in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Petrified in the [Dunmari Fort (Gomat)](<../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>)
-
-
-
-:octicons-location-24:{ .lg .middle } Discovered as a statue by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 25th, 1748 in the [Dunmari Fort (Gomat)](<../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>)  
-
-
 
 
 An adventurer and treasure hunter from the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), now petrified in the fort east of [Gomat](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>). 

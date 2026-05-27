@@ -16,10 +16,4 @@ title: Sokara
 </div>
 
 
-    A salt [lizardfolk](<../../creatures/species/lizardfolk.md>) (she/her)  
-    { .bio }
-
-</div>
-
-
 [Trok](<../pcs/mawar/trok.md>)'s great-grandmother and a famous tattoo artist. Deceased. 

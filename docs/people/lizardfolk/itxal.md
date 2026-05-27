@@ -32,17 +32,6 @@ title: Itxal
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 7th, 1749 in the [Aursen Marshes](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/aursen-marshes.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
 
 
-    A [lizardfolk](<../../creatures/species/lizardfolk.md>) (she/her)  
-    { .bio }
-
-    Based in the [Aursen Marshes](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/aursen-marshes.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 7th, 1749 in the [Aursen Marshes](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/aursen-marshes.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
-
-
 ![Ixtal](../../assets/ixtal.png){align="right"; width="400"}Itxal is an elderly lizardfolk matriach of the Aursen Marshes, protective of her people. 
 
 

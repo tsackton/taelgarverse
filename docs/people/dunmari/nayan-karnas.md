@@ -31,16 +31,6 @@ dm_owner: tim
 </div>
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)  
-    Born DR 1716 (34 years old)  
-    Samraat of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (since DR 1740)  
-    { .bio }
-
-    Originally from: [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-    Based in [Nayahar](<../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
 
 
 

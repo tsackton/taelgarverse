@@ -28,15 +28,4 @@ title: Eleuha
 :octicons-location-24:{ .lg .middle } Met by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on November 6th, 1748 in [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), [Orekatu](<../../gazetteer/faraway-places/orekatu.md>)  
 
 
-    A dryad ([fey](<../../creatures/fey/fey.md>)), she/her  
-    { .bio }
-
-    Based in [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), [Orekatu](<../../gazetteer/faraway-places/orekatu.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on November 6th, 1748 in [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), [Orekatu](<../../gazetteer/faraway-places/orekatu.md>)  
-
-
 Eleuha is a dryad, who was born and lives in the great jungle of [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>). She is one of the many daughters of the forest who watch over the lands, friend to the spirit of the jungle, [Lengau](<../other-nonhumans/lengau.md>). 

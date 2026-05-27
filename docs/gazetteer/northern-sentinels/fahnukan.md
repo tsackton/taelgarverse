@@ -13,7 +13,7 @@ title: Fahnukan
 ---
 # Fahnukan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [dwarven](<../../creatures/species/dwarves.md>) realm in [Labkhan](<../sentinel-range.md>)  
+-    :octicons-location-24:{ .lg .middle } A [dwarven](<../../creatures/species/dwarves.md>) realm Labkhan  
     :octicons-location-24:{ .lg .middle } Located in the [Northern Sentinels](<./northern-sentinels.md>)  
 </div>
 

@@ -27,17 +27,6 @@ title: Lady Eventide
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 1st, 1748 in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
 
 
-    A [fey](<../../creatures/fey/fey.md>) (she/her)  
-    { .bio }
-
-    Based in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 1st, 1748 in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
-
-
 Lady Eventide is a fey who once held significant influence in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>) as a member of the [Cloudspinner](<../extraplanar-powers/archfey/cloudspinner.md>)'s court. Now, she remains as one of the few notable fey figures, working diligently to preserve the remnants of the realm.
 ## Overview
 

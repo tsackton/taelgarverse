@@ -13,8 +13,8 @@ title: Three Wells
 ---
 # Three Wells
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A meeting place in the [Refounded Alliance of Aurbez](<./refounded-alliance-of-aurbez.md>), the [Upper Istaros](<../upper-istaros.md>)  
-    :octicons-location-24:{ .lg .middle } Located in the [Aurbez Plateau](<../aurbez-plateau.md>), the [Aurbez and the Andonne](<../aurbez-and-the-andonne.md>), the [Upper Istaros](<../upper-istaros.md>)  
+-    :octicons-location-24:{ .lg .middle } A meeting place in the [Refounded Alliance of Aurbez](<./refounded-alliance-of-aurbez.md>), [Upper Istaros](<../upper-istaros.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Aurbez Plateau](<../aurbez-plateau.md>), the [Aurbez and the Andonne](<../aurbez-and-the-andonne.md>), [Upper Istaros](<../upper-istaros.md>)  
 </div>
 
 

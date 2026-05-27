@@ -21,11 +21,4 @@ title: Ladder
 </div>
 
 
-    A construct  
-    Companion of the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
-    { .bio }
-
-</div>
-
-
 One of several animated ladders created by [Seeker](<../seeker.md>)'s magic, usually the best warrior in the party. 

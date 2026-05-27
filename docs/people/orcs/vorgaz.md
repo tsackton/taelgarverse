@@ -37,19 +37,6 @@ dm_owner: tim
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 4th, 1748 in [Khumarz](<../../gazetteer/upper-istaros/xurkhaz/khumarz.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
 
 
-    An [orc](<../../creatures/species/orcs.md>) (he/him), of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
-    b. DR 1707 - d. December 7th, 1748, killed in battle against [Grash's](<../other-nonhumans/grash.md>) armies at age 41 years  
-    { .bio }
-
-    Originally from: [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
-    Lived in [Khumarz](<../../gazetteer/upper-istaros/xurkhaz/khumarz.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 4th, 1748 in [Khumarz](<../../gazetteer/upper-istaros/xurkhaz/khumarz.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
-
-
 Vorgaz was a skilled [orc](<../../creatures/species/orcs.md>) warrior and the commander of the garrison at [Khumarz](<../../gazetteer/upper-istaros/xurkhaz/khumarz.md>), on the western border of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), known for his tactical brilliance but lack of political acumen. 
 
 

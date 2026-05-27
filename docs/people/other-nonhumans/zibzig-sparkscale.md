@@ -29,18 +29,6 @@ title: Zibzig Sparkscale
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 13th, 1715 in the [West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>), the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
-    A [kobold](<../../creatures/species/kobolds.md>) (he/him)  
-    { .bio }
-
-    Originally from: Unknown
-    Based in the [West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>), the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 13th, 1715 in the [West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>), the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
-
-
 Zibzig is an eccentric kobold wizard, styling himself the “Master of Light and Shadow" while living in a small two‑room lair along the underground river in the [West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>).  
 
 Though wary of travelers and outsiders, he is often lonely and will eagerly chat with visitors who don't seem to pose a threat. He is obsessed with inventing a signature spell that will make him famous, and is frequently tinkering with magic. 

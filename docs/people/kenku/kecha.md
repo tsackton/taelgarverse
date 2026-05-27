@@ -21,13 +21,6 @@ title: Kecha
 </div>
 
 
-    A [kenku](<../../creatures/species/kenku.md>) (he/him)  
-    { .bio }
-
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
-</div>
-
-
 ![Kecha Portrait Final](../../assets/kecha-portrait-final.png){align="right"; width="400"}Kecha is a young kenku scout, a wanderer and traveler who loves the forests and mountains.  
 
 

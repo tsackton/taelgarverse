@@ -22,14 +22,5 @@ title: The Hunter
 :octicons-location-24:{ .lg .middle } Currently in [Ashcombe](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/ashcombe.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-    A [fey](<../../creatures/fey/fey.md>)  
-    { .bio }
-
-    Based in Duskmire, the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Currently in [Ashcombe](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/ashcombe.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-
-
 His real name is Kiastíōn Hēmiárktos (_Kee-as-TEE-ōn_ Hay-mee-ARK-tos)
 

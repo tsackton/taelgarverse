@@ -16,4 +16,3 @@ title: Lake Pekul
 -    :octicons-location-24:{ .lg .middle } A lake in the [Kem](<./kem.md>), [Vostok](<./vostok.md>), [Greater Sembara](<../greater-sembara.md>)  
 </div>
 
-

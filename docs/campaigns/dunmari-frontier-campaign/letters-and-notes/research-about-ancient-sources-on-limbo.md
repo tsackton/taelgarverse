@@ -5,6 +5,7 @@ title: Research about Ancient Sources on Limbo
 ---
 # Research About Ancient Sources on Limbo
 
+
 None of the most notable ancient works on Limbo has survived completely, but three works survive in pieces. Together, they paint a strange picture of a place with no fixed rules.
 
 ## The Unstable Sphere

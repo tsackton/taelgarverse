@@ -25,12 +25,3 @@ title: Narrisa de Abadelle
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1682 (68 years old)  
-    Member of the [Order of the Charitable Wanderer](<../../groups/order-of-the-charitable-wanderer.md>)  
-    { .bio }
-
-    Based in the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
-</div>
-
-

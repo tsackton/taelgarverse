@@ -35,18 +35,6 @@ title: Theba
 :octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22th, 1748 in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
 
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her), of the Bek'eni  
-    Born DR 1717 (33 years old)  
-    { .bio }
-
-    Based in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22th, 1748 in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
-
-
 
 
 The formely disgraced Godcaller of the Bek'eni, out of favor due to [Mezzar](<../other-nonhumans/mezzar.md>)'s influence. Aided the party in their travels and fights in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), and agreed to take charge of rebuilding the relations among the Deno'qai after [Mezzar](<../other-nonhumans/mezzar.md>)'s meddling. This seems to be going well, in Oct 1748 at least. 

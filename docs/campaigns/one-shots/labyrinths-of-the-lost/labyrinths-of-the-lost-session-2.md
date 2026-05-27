@@ -11,7 +11,7 @@ name: Labyrinths of the Lost - Session 2
 descTitle: The Chapel Route
 tagline: in which a ghost points below
 sessionKey: labyrinths-of-the-lost-session-2
-template: lablost-template.md
+session-template: lablost-template.md
 title: Labyrinths of the Lost - Session 2
 ---
 # Labyrinths of the Lost - Session 2

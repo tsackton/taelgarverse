@@ -32,16 +32,6 @@ title: Delwath
 :octicons-location-24:{ .lg .middle } Last known location (as of DR 1538): [Ainumarya](<../../../gazetteer/central-highlands/ainumarya.md>)
 
 
-    An [elf](<../../../creatures/species/elves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) 36)  
-    Born DR 1472 (278 years old)  
-    { .bio }
-
-    Originally from: [Ainumarya](<../../../gazetteer/central-highlands/ainumarya.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of DR 1538): [Ainumarya](<../../../gazetteer/central-highlands/ainumarya.md>)
-
-
 
 
 ![Delwath Portrait](../../../assets/delwath-portrait.jpg)

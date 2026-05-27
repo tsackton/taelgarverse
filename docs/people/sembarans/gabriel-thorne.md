@@ -25,12 +25,4 @@ title: Gabriel Thorne
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Thornes of Cleenseau](<../../groups/sembaran-noble-houses/thornes-of-cleenseau.md>)  
-    Born DR 1690 (60 years old)  
-    { .bio }
-
-    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
-</div>
-
-
 ![Gabriel Thorne](../../assets/gabriel-thorne.png){align="right"; width="320"}The son of [Gideon Thorne](<./gideon-thorne.md>) and husband to [Beatrix](<./beatrix-thorne.md>). A yeoman.

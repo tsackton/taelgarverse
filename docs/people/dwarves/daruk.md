@@ -30,17 +30,6 @@ title: Daruk
 :octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 22th, 1748  
 
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Runecrafter Thuhr](<../../groups/dwarven-thuhr/runecrafter-thuhr.md>)  
-    b. DR 1323 - d. DR 1533, died at age 210 years  
-    { .bio }
-
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 22th, 1748  
-
-
 
 
 A dwarven scholar, who lived and died before the [Great War](<../../events/1500s/great-war.md>), and was fascinated with lost runic magic. Rumors and tales say he traveled the [Feywild](<../../cosmology/feywild.md>), and to many other exotic places, seeking to understand how to create runic magic that would permanently change the essence of things. 

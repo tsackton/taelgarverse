@@ -5,6 +5,7 @@ title: Papers from the Fraternity of the Empty Moon
 ---
 # Papers from the Fraternity of the Empty Moon
 
+
 (written in a strange language, a variant of Abyssal)
 
 - Pages and pages of calendars with notes and calculations on them, tracking phases of the moon. Most of these seem to be newer, written in the same handwriting.

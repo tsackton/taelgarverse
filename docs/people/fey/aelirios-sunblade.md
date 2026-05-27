@@ -23,13 +23,5 @@ title: Aelirios Sunblade
 </div>
 
 
-    A [fey](<../../creatures/fey/fey.md>) (he/him)  
-    Died  
-    { .bio }
-
-    Lived in the [Refuge of the Gossamer Veil](<../../gazetteer/extraplanar/feywild/amberglow/refuge-of-the-gossamer-veil.md>), [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>)
-</div>
-
-
 A fey warrior and knight. The original companion to [Greymalkin](<../pcs/cleenseau/greymalkin.md>), and forger of the Lantern of the Bright Hearth.
 

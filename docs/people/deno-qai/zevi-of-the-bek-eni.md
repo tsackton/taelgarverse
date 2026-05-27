@@ -29,14 +29,6 @@ title: Zevi
 </div>
 
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Bek'eni  
-    Killed by [Grimbaskal](<../other-nonhumans/mezzar.md>) on September 6th, 1748  
-    { .bio }
-
-    Lived in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-</div>
-
-
 
 
 A scout and warrior of the Bek'eni. 

@@ -5,6 +5,7 @@ title: Research about Planar Connections
 ---
 # Research About Planar Connections
 
+
 The subject of planar connections -- the various ways in which the multiverse is connected together, allowing power, influence, material, and creatures to travel between planes -- have been the subject of extensive scholarly work and debate since the earliest recorded works of scholarship. 
 
 ## Types of Planar Connections

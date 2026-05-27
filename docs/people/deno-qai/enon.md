@@ -26,14 +26,6 @@ title: Enon
 </div>
 
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Ko'zula  
-    Born DR 1688 (62 years old)  
-    { .bio }
-
-    Based in the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-</div>
-
-
 
 
 Godcaller of the Ko’zula Deno’qai. 

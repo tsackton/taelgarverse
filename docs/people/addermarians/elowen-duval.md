@@ -43,26 +43,6 @@ pronunciation: EL-oh-wen doo-VAL
 :octicons-location-24:{ .lg .middle } Hosted a dinner including the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 7th, 1715 [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)  
 
 
-    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Castellan of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)  
-    { .bio }
-
-    Based in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 1st, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Rewarded the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 4th, 1715 [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Hosted a dinner including the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 7th, 1715 [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)  
-
-
 Elowen Duval is the castellan of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), overseeing the isolated uplands of [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>) with measured resolve.
 ## Overview
 Lady Elowen Duval governs [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and its surrounding hinterlands, coordinating defense, trade, and relief for outlying farms and hamlets. She favors reliable agents and public support for those who safeguard the marches, using targeted commissions to stabilize the frontier. Though formally sworn to the lord of [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>) and the Earl of Westcliff, Roscombe often skipped during the earl's circuits due to its isolation. 

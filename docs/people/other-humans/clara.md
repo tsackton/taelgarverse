@@ -26,13 +26,4 @@ title: Clara
 
 
 
-    A [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1733 (17 years old)  
-    { .bio }
-
-    Based in [Suwi](<../../gazetteer/northwest-coast/suwi.md>)
-</div>
-
-
-
 Clara is a teenage girl from [Suwi](<../../gazetteer/northwest-coast/suwi.md>), a coastal village near the ~North Bay~. 

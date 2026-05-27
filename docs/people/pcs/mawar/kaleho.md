@@ -25,11 +25,4 @@ title: Kaleho
 </div>
 
 
-    A [human](<../../../creatures/species/humans.md>) (he/him)  
-    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
-    { .bio }
-
-</div>
-
-
 Kaleho is a sailor who regularly passes through Hamri, obsessed with rumors of merfolk.

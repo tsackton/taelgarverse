@@ -21,12 +21,5 @@ title: Cedric Cyfenwid
 </div>
 
 
-    A [Tyrwinghan](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Died DR 1535  
-    { .bio }
-
-</div>
-
-
 A paladin of [The Wildling](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wildling.md>) and friend to the fey, although born in [Tyrwingha](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) he spent much of his life in [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and the [Sembaran Borderlands](<../../gazetteer/greater-sembara/sembara/borderlands/borderlands.md>).
 

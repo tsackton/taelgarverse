@@ -19,11 +19,5 @@ title: Tristan Brighteyes
 </div>
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-</div>
-
-
 A young Windcaller and advisor to [Mitus Verina Auratan](<./mitus-verina-auratan.md>). 
 

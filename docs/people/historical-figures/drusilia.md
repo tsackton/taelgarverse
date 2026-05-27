@@ -23,14 +23,6 @@ title: Drusilia
 </div>
 
 
-    A [Drankorian](<../../history/historical-realms/drankorian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Died  
-    Member of the [Occulta Ludum](<../../groups/drankorian-societies/occulta-ludum.md>)  
-    { .bio }
-
-</div>
-
-
  
 
 A Drankorian woman, presumably long dead, who at one point lived at the [Edge of Echoes](<../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>).

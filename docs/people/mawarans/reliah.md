@@ -25,11 +25,4 @@ title: Reliah
 </div>
 
 
-    A [Mawaran](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    { .bio }
-
-    Based in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
-</div>
-
-
 ![Reliah](../../assets/reliah.png){align="right"; width="300"}Reliah, the twin sister of [Samar](<./samar.md>), is an orphaned girl who lives in the Drowned Flats in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). [Wazir](<../pcs/mawar/wazir.md>) feeds her and her sister once a week, and in turn they keep an ear to the ground for him.

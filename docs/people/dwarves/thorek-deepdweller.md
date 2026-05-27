@@ -28,13 +28,4 @@ title: Thorek Deepdweller
 
 
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Deepdwellers](<../../groups/dwarven-clans/deepdwellers.md>)  
-    Born DR 1515 (235 years old)  
-    { .bio }
-
-    Based [outside Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), in [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-
-
 Thorek Deepdweller is an elderly dwarven hermit living outside [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), devoted to the memory of lost [Enderra](<../../gazetteer/greater-chardon/chardonian-empire/apporia/enderra.md>). Gruff and sorrowful, he preserves old dwarven lore of the [War of the Dark Rift](<../../events/1500s/war-of-the-dark-rift.md>) and the old customs and tales of [Enderra](<../../gazetteer/greater-chardon/chardonian-empire/apporia/enderra.md>). 

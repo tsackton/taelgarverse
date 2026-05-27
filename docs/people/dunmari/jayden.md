@@ -30,18 +30,6 @@ title: Jayden
 :octicons-location-24:{ .lg .middle } Beaten in staff dancing competition by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on April 2nd, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1729 (21 years old)  
-    { .bio }
-
-    Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Beaten in staff dancing competition by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on April 2nd, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
 
 
 A quick and aerobatic Dunmari woman from Karawa. 

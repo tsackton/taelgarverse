@@ -23,10 +23,3 @@ title: Soraine
 </div>
 
 
-    A [Mazeanne](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
-    Born DR 1650 (100 years old)  
-    { .bio }
-
-</div>
-
-

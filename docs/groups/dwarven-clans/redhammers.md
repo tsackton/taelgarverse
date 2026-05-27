@@ -15,4 +15,3 @@ title: Redhammers
    :octicons-info-24:{ .lg .middle } A [dwarven](<../../creatures/species/dwarves.md>) clan  
 </div>
 
-

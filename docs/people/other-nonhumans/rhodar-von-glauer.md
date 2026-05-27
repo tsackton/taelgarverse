@@ -20,13 +20,6 @@ dm_owner: tim
 </div>
 
 
-    An undead (vampire)  
-    Died May 3rd, 1749  
-    { .bio }
-
-</div>
-
-
 
 
 

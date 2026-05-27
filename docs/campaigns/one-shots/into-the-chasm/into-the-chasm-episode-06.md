@@ -11,7 +11,7 @@ name: The Rescue of Melusa
 descTitle: The Portal Narrows
 tagline: in which the willing escape Melusa
 sessionKey: into-the-chasm-session-6
-template: into-the-chasm-template.md
+session-template: into-the-chasm-template.md
 title: The Rescue of Melusa
 ---
 # The Rescue of Melusa

@@ -30,15 +30,6 @@ title: Guy de Varan
 
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1693 (57 years old)  
-    { .bio }
-
-    Based in [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>), the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
-</div>
-
-
-
 ![Guy de Varan Maseau](../../assets/guy-de-varan-maseau.png){align="right"; width="320"}A traveler and caravan expediter, he is relatively well-known along [Bandit's Way](<../../gazetteer/greater-sembara/roads/bandit-s-way.md>) as a man who can help find guards and organize supplies. The de Varan family is well-known in [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) and was originally from far southern [Isingue](<../../gazetteer/upper-istaros/isingue.md>) before the Great War. 
 
 

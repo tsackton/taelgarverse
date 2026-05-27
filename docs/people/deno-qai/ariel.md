@@ -36,20 +36,6 @@ title: Ariel
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 11th, 1748 in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
 
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her), of the Te'kula  
-    Born DR 1667 (83 years old)  
-    Formerly of the Shu'anra  
-    { .bio }
-
-    Originally from: the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-    Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 11th, 1748 in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
-
-
 An elderly woman with stark white hair pulled back in a loose pony tail and wrinkled skin. While she is arthritic and slow, her mind is sharp and she has a clear memory of the stories of her youth, the tales of the [Meswati](<../../gods-and-religions/gods/tanshi/meswati/meswati.md>) and the [Great War](<../../events/1500s/great-war.md>)
 
 She is a member of the Shu'anra tribe, who make their home far to the north, in the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), between the[Blackwater Fens](<../../gazetteer/northern-sentinels/blackwater-fens.md>) and the [Sentinel Range](<../../gazetteer/sentinel-range.md>). 

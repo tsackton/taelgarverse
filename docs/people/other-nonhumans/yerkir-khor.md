@@ -18,12 +18,6 @@ title: Yerkir-khor
 </div>
 
 
-    An [elemental](<../../creatures/extraplanar/elementals.md>)  
-    { .bio }
-
-</div>
-
-
 A mysterious ancient being associated with the [Tomb of Yerkir-Khor](<../../gazetteer/northwest-coast/mawar-confederacy/tomb-of-yerkir-khor.md>), an ancient, pre-Mawar monument or tomb on the [Mirmir](<../../gazetteer/northwest-coast/rivers/mirmir.md>), a few days upstream from [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). 
 
 

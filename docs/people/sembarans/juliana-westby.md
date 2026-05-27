@@ -20,13 +20,6 @@ title: Juliana Westby
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    { .bio }
-
-    Based in [Cranford](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cranford.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
 ![Juliana Westby](../../assets/juliana-westby.png){align="left"; width="200"}
 
 

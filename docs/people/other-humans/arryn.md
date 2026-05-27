@@ -32,19 +32,6 @@ title: Arryn of Tollen
 :octicons-location-24:{ .lg .middle } The rescued from the [Mirror Realm](<../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>) by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on November 13th, 1748 in the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>)  
 
 
-    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-    Originally from: the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Currently in the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>)
-
-
-
-:octicons-location-24:{ .lg .middle } The rescued from the [Mirror Realm](<../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>) by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on November 13th, 1748 in the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>)  
-
-
 ![Arryn the Wanderer Portrait](../../assets/arryn-the-wanderer-portrait.png){align="right"; width="400"}A wizard of significant power. Originally from [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), but now dwells in a tower in the northern part of the ~Eastern Islands~. Fascinated by other dimensions, recently the hypothesized [Mirror Realm](<../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>) in particular. 
 
 

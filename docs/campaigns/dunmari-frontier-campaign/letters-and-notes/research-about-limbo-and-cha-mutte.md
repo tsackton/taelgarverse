@@ -5,6 +5,7 @@ title: Research about Limbo and Cha'mutte
 ---
 # Research About Limbo and Cha'mutte
 
+
 The Great War is a fertile topic for scholars, philosophers, poets, and playwrights in Tollen, and there are many sources that touch upon aspects of the [Great War](<../../../events/1500s/great-war.md>), [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>), and the [Heroes](<../../../people/pcs/great-war/heroes-of-the-great-war.md>) who defeated him. For the purposes of your research, you focus most deeply on the connection between Cha'mutte and [Limbo](<../../../cosmology/spiritual-realms/limbo.md>).
 
 The exact metaphysical nature of the great enemy, [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>), is much debated. Surviving eyewitness accounts of the [Battle of Urlich Pass](<../../../events/1500s/1545/battle-of-urlich-pass.md>) describe him as a gargantuan dragon, made of shadow; the few reports from his slaves and servants that escaped the destruction of [Pandar](<../../../history/historical-realms/pandar.md>) refer to him as a dragon; and scattered claims of Cha'mutte's dragonspawn strongly imply a draconic nature. Yet many arcanists believe [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>) to have been more, even, than one of the ancient greatwyrms. 

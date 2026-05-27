@@ -36,20 +36,6 @@ dm_notes: important
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 10th, 1748 in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
 
 
-    An [orc](<../../creatures/species/orcs.md>) (he/him)  
-    Born DR 1691 (59 years old)  
-    Member of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
-    Chief of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>) (since DR 1745)  
-    { .bio }
-
-    Based in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 10th, 1748 in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
-
-
 
 
 Chief Lubash is the stern and protective ruler of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), and by extension the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>). He is also the bearer of the [Cloak of Rainbows](<../../things/artifacts-of-power/cloak-of-rainbows.md>).  Lubash holds immense pride for his kingdom, [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), and resides in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>).

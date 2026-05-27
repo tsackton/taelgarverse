@@ -18,9 +18,3 @@ title: Chirce
 </div>
 
 
-    An [Illorian](<../../gazetteer/nevos-and-apporia/illoria.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-</div>
-
-

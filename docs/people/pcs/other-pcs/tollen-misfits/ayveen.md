@@ -25,11 +25,3 @@ title: Ayveen
     Based in the [Free City of Tollen](<../../../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
-
-    A [Tollish](<../../../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../../../creatures/species/humans.md>) (she/her)  
-    Born DR 1727 (23 years old)  
-    { .bio }
-
-    Based in the [Free City of Tollen](<../../../../gazetteer/greater-sembara/tollen/tollen.md>)
-</div>
-

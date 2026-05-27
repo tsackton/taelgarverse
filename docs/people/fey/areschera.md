@@ -25,15 +25,5 @@ title: Areschera
 :octicons-location-24:{ .lg .middle } Died in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-    A [fey](<../../creatures/fey/fey.md>) (she/her)  
-    Died February 20th, 1720  
-    { .bio }
-
-    Lived in Duskmire, the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Died in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-
-
 ![Areschera](../../assets/areschera.jpg){align="right"; width="400"}A servant of [Lord Umbraeth](<../extraplanar-powers/archfey/lord-umbraeth.md>), and a shapeshifter. Mischievous and cruel, she especially enjoys using her disguises and shapeshifting to bring ruin to mortals.
 

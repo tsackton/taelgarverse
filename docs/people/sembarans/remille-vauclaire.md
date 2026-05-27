@@ -33,15 +33,5 @@ title: Remille Vauclaire
 :octicons-location-24:{ .lg .middle } Currently in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-    A [human](<../../creatures/species/humans.md>) (she/her)  
-    Member of the The Rangers  
-    { .bio }
-
-    Based in [Adderfell](<../../gazetteer/greater-sembara/addermarch/adderfell.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Currently in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-
-
 ![Remille Vauclaire](../../assets/remille-vauclaire.png){align="right"; width="400"}A swordswoman. 
 

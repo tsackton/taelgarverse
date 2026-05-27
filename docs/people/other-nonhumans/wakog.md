@@ -22,14 +22,6 @@ title: Wakog
 </div>
 
 
-    An ogre (he/him)  
-    Killed in battle by The Heroes of Cleenseau on December 6th, 1719  
-    { .bio }
-
-    Lived in [Wakog's Camp](<../../gazetteer/greater-sembara/duchy-of-maseau/wakog-s-camp.md>), the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
-</div>
-
-
 ![Wakog](../../assets/wakog.jpg){align="right"; width="320"}An ogre of unclear origin. 
 
 Managed to organize a small horde of orcs in the northern parts of the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and attempted to overrun [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), but was stopped by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>).

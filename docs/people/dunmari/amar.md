@@ -35,20 +35,6 @@ title: Amar
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 19th, 1748 in the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>), on the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1710 (40 years old)  
-    Master of the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>)  
-    { .bio }
-
-    Originally from: the Hara River Valley
-    Based in the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>), on the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 19th, 1748 in the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>), on the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
 The innkeeper of the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>), a fortified waystation and caravanserai on the road from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) to [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), near the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>). 
 
 

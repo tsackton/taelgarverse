@@ -18,12 +18,5 @@ title: Pierre the Guard
 </div>
 
 
-    A [human](<../../creatures/species/humans.md>)  
-    { .bio }
-
-    Based in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
 A guardsman in the service of the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), typically working night duty in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>).
 

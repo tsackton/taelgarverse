@@ -19,12 +19,5 @@ title: Ampelos
 </div>
 
 
-    A [fey](<../../creatures/fey/fey.md>) (satyr)  
-    { .bio }
-
-    Based in [Tyrwingha](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
-</div>
-
-
 A satyr, fond of humans, wine, and music.
 

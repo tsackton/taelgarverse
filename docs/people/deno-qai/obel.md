@@ -26,12 +26,4 @@ title: Obel
 </div>
 
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Te'kula  
-    Born DR 1688 (62 years old)  
-    { .bio }
-
-    Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-</div>
-
-
 An old ranger of the Te'kula who volunteered to fight [Grimbaskal](<../other-nonhumans/mezzar.md>) with the party. Miraculously survived. 

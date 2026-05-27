@@ -21,12 +21,5 @@ title: Fin Merriweather
 </div>
 
 
-    A [halfling](<../../creatures/species/halflings.md>) (he/him), of the [Merriweathers](<../../groups/halfling-families/merriweathers.md>)  
-    { .bio }
-
-    Based in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
 ![Fin Merriweather](../../assets/fin-merriweather.jpg){align="right"; width="200"}A halfling musician who sings at [The Setting Sun](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/the-setting-sun.md>) in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), and likes to collect colorful leather clothes. Friendly, if somewhat more focused on his music than people at times.
 

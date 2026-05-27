@@ -13,7 +13,7 @@ title: Great Chasm
 ---
 # The Great Chasm
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A gorge chasm in [Zimkova](<./zimkova.md>), [Greater Sembara](<../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A gorge chasm [Zimkova](<./zimkova.md>)  
 </div>
 
 

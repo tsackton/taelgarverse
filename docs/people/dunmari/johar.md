@@ -64,40 +64,6 @@ title: Johar
 :octicons-location-24:{ .lg .middle } Reunited with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on February 1st, 1749 in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1721 (29 years old)  
-    { .bio }
-
-    Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of March 2nd, 1749): traveling to [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-
-
-
-:octicons-location-24:{ .lg .middle } First met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 30th, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Began traveling with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 16th, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Parted ways with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 8th, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22th, 1748 in [Nayahar](<../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Reached by Sending cast by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) on November 17th, 1748 in [Nayahar](<../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Reunited with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on February 1st, 1749 in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
 Johar is a confidant and close friend of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s from the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). He works in the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), primary interested in documenting the miracles of [Laka](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>), and the history of the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) and the community there. 
 
 

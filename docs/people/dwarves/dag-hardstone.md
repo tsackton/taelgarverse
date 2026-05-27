@@ -31,18 +31,6 @@ title: Dag Hardstone
 :octicons-location-24:{ .lg .middle } The Cured of lycanthropy by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on July 1st, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Hardstone Clan](<../../groups/dwarven-clans/hardstones.md>)  
-    Born DR 1729 (21 years old)  
-    { .bio }
-
-    Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } The Cured of lycanthropy by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on July 1st, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
 Dag is the youngest member of the Hardstone clan, an extended family of dwarves that have lived at and worked for the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) for generations, helping to maintain the building. 
 
 

@@ -24,12 +24,6 @@ title: Kenzo
 </div>
 
 
-    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>)  
-    { .bio }
-
-</div>
-
-
 ![Kenzo Full](../../../assets/kenzo-full.jpg)
 
 ## Pre-Campaign Events

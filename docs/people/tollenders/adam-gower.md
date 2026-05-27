@@ -21,11 +21,4 @@ title: Adam Gower
 </div>
 
 
-    A [Tollender](<../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-    Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)
-</div>
-
-
 ![Adam Gower](../../assets/adam-gower.jpg){align="right"; width="300"}Factor, treasurer, and agent for the[Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Tollen

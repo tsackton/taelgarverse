@@ -30,15 +30,6 @@ title: Azar
 :octicons-location-24:{ .lg .middle } Last known location (as of August 9th, 1747): the [a lizardfolk village south of Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
 
 
-    A [Mawaran](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-    Originally from: the [eastern coast of the Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of August 9th, 1747): the [a lizardfolk village south of Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
-
-
 Azar, later called Azar the Lost, was a fisherman from a small village on the eastern coast of the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>). After his wife [Nadine](<./nadine.md>) and their two sons drowned in DR 1741, he turned to [gatza](<../../things/materials/gatza.md>) in grief and became lost in the gatza-world of the voices of his dead family, until some time later he heard a new voice, promising to help. 
 
 That new voice led him to [Gazankoa](<../extraplanar-powers/gazankoa.md>), the [Blood Knife](<../../things/magic-items/blood-knife.md>), and a series of murderous rituals meant to restore the drowned dead. He later sought out the lore of [Airion the Mistspeaker](<../other-humans/airion.md>), recovered [several annotated books from Airion's library](<../../campaigns/mawar-adventures/items-and-treasure/airion-s-elemental-research.md>) and other artifacts, and learned of [Yi'weti](<../extraplanar-powers/sentient-ocean.md>), the living water he believed could make the ritual succeed. Through Airion's ring, he compelled the marid [Nimessa](<../other-nonhumans/nimessa.md>) to steal a fragment of the [Sentient Ocean](<../extraplanar-powers/sentient-ocean.md>) and bring it to [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>).

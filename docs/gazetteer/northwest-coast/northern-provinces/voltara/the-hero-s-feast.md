@@ -16,7 +16,7 @@ title: The Hero's Feast
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Founded August 7th, 1748 (16 months ago)  
-    :octicons-location-24:{ .lg .middle } A restaurant in [Voltara](<./voltara.md>), [Greater Voltara](<../greater-voltara.md>)  
+    :octicons-location-24:{ .lg .middle } A restaurant [Voltara](<./voltara.md>)  
 </div>
 
 

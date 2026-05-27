@@ -15,9 +15,3 @@ title: Eolo
 
 </div>
 
-
-    Member of the [Chasm Explorers](<./chasm-explorers.md>)  
-    { .bio }
-
-</div>
-

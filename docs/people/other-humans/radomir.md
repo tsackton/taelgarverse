@@ -25,14 +25,6 @@ title: Radomir
 </div>
 
 
-    An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1710 (40 years old)  
-    { .bio }
-
-    Based in [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>)
-</div>
-
-
 A man from a strange place to the east.
 
 ## Safri's Tale 

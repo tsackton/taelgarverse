@@ -11,7 +11,7 @@ title: Chalyte Levels
 ---
 # The Chalyte Levels
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A neighborhood in the [North Bank](<./north-bank.md>), [Chardon](<./chardon.md>), the [Chardonian Empire](<../chardonian-empire.md>)  
+-    :octicons-location-24:{ .lg .middle } A neighborhood [North Bank](<./north-bank.md>)  
 </div>
 
 

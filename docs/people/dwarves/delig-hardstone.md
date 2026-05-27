@@ -25,12 +25,5 @@ title: Delig Hardstone
 </div>
 
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Hardstone Clan](<../../groups/dwarven-clans/hardstones.md>)  
-    { .bio }
-
-    Based in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
 Patriach of the Hardstone clan, father to [Dag Hardstone](<./dag-hardstone.md>). 
 

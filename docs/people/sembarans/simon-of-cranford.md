@@ -23,14 +23,6 @@ title: Simon of Cranford
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1659 (91 years old)  
-    { .bio }
-
-    Based in [Cranford](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cranford.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
 ![Simon of Cranford](../../assets/simon-of-cranford.png){align="right"; width="200"} The toll keeper for the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) in Cranford and an important figure in town.
 
 

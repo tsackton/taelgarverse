@@ -31,16 +31,6 @@ title: Adrik Boulderbeard
 </div>
 
 
-    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Boulderbeard Clan](<../../../groups/dwarven-clans/boulderbeards.md>)  
-    Born DR 1660 (90 years old)  
-    Member of the [Silver Tempests](<./silver-tempests.md>), and the [Stoneworker Thuhr](<../../../groups/dwarven-thuhr/stoneworker-thuhr.md>)  
-    { .bio }
-
-    Originally from: [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
-    Based in the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>), [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>)
-</div>
-
-
 Adrik was born in [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the Dwarven kingdom in the [Yuvanti Mountains](<../../../gazetteer/greater-dunmar/yuvanti-mountains.md>), to a small branch of the [Boulderbeards](<../../../groups/dwarven-clans/boulderbeards.md>), living near the surface and tending goats and sheep on the high peaks. He was the oldest of three children, and the wildest, spending his childhood outside and away from the cities below. Adrik loved the high mountain peaks and open skies of his home, the small dwarven village of [Narazara](<../../../gazetteer/greater-dunmar/realms/nardith/narazara.md>). 
  
 As a boy in the mountains, Adrik caught the attention of Morgana Stoneclaw, an annis hag. She appeared to him as a elderly Dwarven woman, slowly getting him to do worse and worse things, until one day he ran off from home in a rage, and in his anger saw through the hag's illusion and had a vision of her true form. He ran off shouting "It's a monster!" Morgana Stoneclaw was driven off by the villagers, and Adrik recovered, but the experience left him forever suspicious of authority. 

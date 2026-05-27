@@ -12,7 +12,7 @@ name: Mawar Adventures Episode 1
 descTitle: The Merfolk Visitor
 tagline: in which a stolen drop of ocean is returned
 sessionKey: mawar-adventures-session-1
-template: mawar-template.md
+session-template: mawar-template.md
 title: Mawar Adventures Episode 1
 ---
 # Mawar Adventures Episode 1

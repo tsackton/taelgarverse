@@ -21,16 +21,7 @@ title: Taster
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A rabbit (they/them)  
-    Companion of the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
-    { .bio }
-
-</div>
-
-:octicons-location-24:{ .lg .middle } Currently missing and presumed dead
-
-
-    A rabbit (they/them)  
-    Companion of the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
+    Companion of [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

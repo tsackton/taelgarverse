@@ -33,16 +33,5 @@ title: Tristan Vaudrillard
 :octicons-location-24:{ .lg .middle } Last known location (as of January 14th, 1720): [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1698 (52 years old)  
-    Member of the The Rangers  
-    { .bio }
-
-    Originally from: [Tafolwern](<../../gazetteer/greater-sembara/tyrwingha/tafolwern.md>), [Tyrwingha](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of January 14th, 1720): [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-
-
 ![Tristan Vaudrillard](../../assets/tristan-vaudrillard.png){align="right"; width="400"}A devotee of [The Sibyl](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>) and student of magic.
 

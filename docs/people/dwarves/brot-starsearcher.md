@@ -27,13 +27,4 @@ title: Brot Starsearcher
 </div>
 
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (they/them)  
-    Born DR 1579 (171 years old)  
-    { .bio }
-
-    Originally from: [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
-    Based in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
-</div>
-
-
 ![Brot Portrait](../../assets/brot-portrait.png){align="right"; width="320"}A dwarven astronomer and tinkerer known for their clever telescope designs who lives in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>), a small village on the outskirts of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). 

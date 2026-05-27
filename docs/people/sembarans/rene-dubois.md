@@ -24,12 +24,4 @@ title: Rene Dubois
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    { .bio }
-
-    Originally from: the [Barony of Brumecliff](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-brumecliff.md>), the [Borderlands](<../../gazetteer/greater-sembara/sembara/borderlands/borderlands.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-    Based with the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>), in [Fellburn](<../../gazetteer/greater-sembara/sembara/heartlands/fellburn.md>), the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>)
-</div>
-
-
 ![Rene the Scout](../../assets/rene-the-scout.png){align="right"; width="320"}A scout and skirmisher with the Eagle Patrol of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>), skilled at spotting unusual events.

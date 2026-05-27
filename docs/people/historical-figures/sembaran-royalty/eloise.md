@@ -24,13 +24,6 @@ title: Eloise
 </div>
 
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
-    b. DR 1486 - d. DR 1562, died at age 76 years  
-    { .bio }
-
-</div>
-
-
 The youngest daughter of [Charlotte I](<./charlotte-i.md>), she lived a long life and had eight children, who married into many of the noble families of Sembara and Tyrwingha.
 
 Her eldest son, [Wisym I](<./wisym-i.md>), briefly ruled the kingdom after the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>), as a compromise between the warring camps of his cousins, the twin sisters [Anne](<./anne.md>) and [Elaine I](<./elaine-i.md>). 

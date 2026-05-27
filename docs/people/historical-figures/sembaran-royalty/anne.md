@@ -25,13 +25,6 @@ title: Anne of Sewick
 </div>
 
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (she/her), of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>)  
-    b. DR 1539 - d. February 14th, 1583, died at age 44 years  
-    { .bio }
-
-</div>
-
-
 
 
 The twin sister of [Elaine I](<./elaine-i.md>) and daughter of [Reginald](<./reginald.md>), she was executed for treason after attempting to force her sister to abdicate he throne by magic. Her three children were allowed to live in exile: Wilhema and Eloise in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), and her youngest, Peregrin, in Chardon.

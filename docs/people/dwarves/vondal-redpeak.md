@@ -28,15 +28,4 @@ title: Vondal Redpeak
 :octicons-location-24:{ .lg .middle } Met the Seeker and Riswynn on August 8th, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Redpeaks](<../../groups/dwarven-clans/redpeaks.md>)  
-    { .bio }
-
-    Based in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met the Seeker and Riswynn on August 8th, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
 A member of the Redpeaks of Darba, a mason fascinated with the history of Darba's stonework. 

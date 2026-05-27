@@ -25,15 +25,6 @@ title: El
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (they/them)  
-    Born DR 1683 (67 years old)  
-    { .bio }
-
-    Originally from: [Gowerbourne](<../../gazetteer/greater-sembara/sembara/heartlands/gowerbourne.md>), the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-    Based in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>), the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
-</div>
-
-
 ![El Wyrdling](../../assets/el-wyrdling.png){align="right"; width="320"}A disciple of the Wyrdling, recently blessed with several miracles. They grew up the child of a rich merchant in [Gowerbourne](<../../gazetteer/greater-sembara/sembara/heartlands/gowerbourne.md>), and found the Wyrdling in mid-life. 
 
 Their story is here.

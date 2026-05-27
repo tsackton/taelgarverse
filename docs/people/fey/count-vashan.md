@@ -23,14 +23,6 @@ title: Count Vashan
 </div>
 
 
-    A [fey](<../../creatures/fey/fey.md>) (he/him)  
-    { .bio }
-
-    Originally from: [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
-    Based in [Sunwine Hall](<../../gazetteer/extraplanar/feywild/emberwine/sunwine-hall.md>), [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), the [Feywild](<../../cosmology/feywild.md>)
-</div>
-
-
 Count Vashan, who calls himself by the epithet "The Broken Mask", is a drunken hanger-on in the court of [Lord Soven](<../extraplanar-powers/archfey/lord-soven.md>). He does not recall his origin any longer, and most have ceased to ask, leaving him to his forgetfulness. Persistent rumors claim that he was once a respected member of the [Cloudspinner](<../extraplanar-powers/archfey/cloudspinner.md>)'s court, long ago.
 
 

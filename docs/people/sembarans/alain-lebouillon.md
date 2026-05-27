@@ -22,12 +22,4 @@ title: Alain LeBouillon
 </div>
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1659 (91 years old)  
-    { .bio }
-
-    Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
-</div>
-
-
 An apothecary with a shop in the South Close. He is well known for assisting [Margaret Ashford](<./margaret-ashford.md>) in her midwifery by providing brews and remedies for morning sickness and other ailments of pregnancy.

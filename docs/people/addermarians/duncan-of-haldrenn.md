@@ -25,14 +25,6 @@ title: Duncan of Haldrenn
 </div>
 
 
-    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1692 (58 years old)  
-    { .bio }
-
-    Based in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)
-</div>
-
-
 A boastful villager from [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>) who claimed to know the location of hidden wealth; he vanished into the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) hills in early DR 1715.
 
 

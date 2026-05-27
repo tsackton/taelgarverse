@@ -11,7 +11,7 @@ name: Mawar Adventures Episode 05
 descTitle: The Lost Legacy
 tagline: in which the ocean's lost song is freed
 sessionKey: mawar-adventures-session-5
-template: mawar-template.md
+session-template: mawar-template.md
 title: Mawar Adventures Episode 05
 ---
 # Mawar Adventures Episode 05

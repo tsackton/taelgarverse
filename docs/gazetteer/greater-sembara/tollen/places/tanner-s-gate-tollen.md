@@ -14,4 +14,3 @@ title: Tanner's Gate
 -    :octicons-location-24:{ .lg .middle } A gate in the [Free City of Tollen](<../tollen.md>), the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>)  
 </div>
 
-

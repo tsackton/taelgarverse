@@ -26,14 +26,6 @@ title: Kaslan
 </div>
 
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Ko'zula  
-    Born DR 1699 (51 years old)  
-    { .bio }
-
-    Based in the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-</div>
-
-
 
 
 Experienced in woodcraft; leader of the hunting camp [Delwath](<../pcs/dunmar-fellowship/delwath.md>) first found after arriving in the north. 

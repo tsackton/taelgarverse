@@ -14,8 +14,8 @@ title: Raziolo
 # Raziolo
 :speaker:{ .middle } *(ra-TSYO-lo)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A province in the [Chardonian Empire](<../chardonian-empire.md>)  
-    :octicons-location-24:{ .lg .middle } Located in [Apporia](<./apporia.md>)  
+-    :octicons-location-24:{ .lg .middle } A province in the [Chardonian Empire](<../chardonian-empire.md>), [Greater Chardon](<../../greater-chardon.md>)  
+    :octicons-location-24:{ .lg .middle } Located in [Apporia](<./apporia.md>), [Greater Chardon](<../../greater-chardon.md>)  
 </div>
 
 

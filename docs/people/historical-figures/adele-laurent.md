@@ -28,13 +28,3 @@ title: Adèle Laurent
 </div>
 
 
-    An [Isinguer](<../../history/historical-realms/istabor-alliance.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Died DR 1689  
-    Member of the The Rangers (until DR 1689)  
-    { .bio }
-
-    Originally from: Unknown
-    Lived in [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-

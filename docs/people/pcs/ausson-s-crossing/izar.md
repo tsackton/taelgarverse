@@ -21,11 +21,4 @@ title: Izar
 </div>
 
 
-    A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (they/them)  
-    Born DR 1579 (171 years old)  
-    { .bio }
-
-</div>
-
-
 A retired adventure, now serving as an accountant, scribe, and occasional trade facilitator to the inhabitants of the [Ausson's Crossing](<../../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>) region.

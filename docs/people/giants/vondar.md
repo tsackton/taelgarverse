@@ -26,12 +26,4 @@ title: Vondar
 </div>
 
 
-    A [giant](<../../creatures/species/giants.md>) (cursed) (he/him)  
-    { .bio }
-
-    Originally from: Unknown
-    Based in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
-</div>
-
-
 A cursed giant who guards the passes from [Shimmersong](<../../gazetteer/extraplanar/feywild/shimmersong.md>) into [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), asking for a toll of a memory in order to pass. Killed, but presumably not permanently, by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) and friends.

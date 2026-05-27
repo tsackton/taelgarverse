@@ -25,14 +25,6 @@ title: Itzal
 </div>
 
 
-    A [lizardfolk](<../../creatures/species/lizardfolk.md>) (salt) (he/him)  
-    Born DR 1551 (199 years old)  
-    { .bio }
-
-    Based in [Eskorola](<../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), [Tzingola](<../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)
-</div>
-
-
 Itzal is a lizardfolk elder and the village spokesman of [Eskorola](<../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), a small lizardfolk village in [Tzingola](<../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>). He is very old, probably 200 at least, with skin a uniform light blue that doesn't glisten.
 
 

@@ -37,18 +37,6 @@ title: Robin of Abenfyrd
 :octicons-location-24:{ .lg .middle } Last known location (as of January 16th, 1720): [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-    A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
-    Born DR 1700 (50 years old)  
-    Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
-    Acting Captain of the [Lord's Guard of Cleenseau](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since January 3rd, 1720)  
-    { .bio }
-
-    Originally from: [Abenfyrd](<../../../gazetteer/greater-sembara/tyrwingha/abenfyrd.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
-</div>
-
-:octicons-location-24:{ .lg .middle } Last known location (as of January 16th, 1720): [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
-
-
 ![Robin of Abenfyrd No Armor](../../../assets/robin-of-abenfyrd-no-armor.png){align="right"; width="320"}![New Robin](../../../assets/new-robin.png){align="right"; width="320"}Robin of Abenfyrd is a young man of about twenty, a paladin of [The Wanderer](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>), and hails from [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>). He has a friendly, if shy, demeanor and at times seems embarrassed by his own talents. His armor looks weathered and well used (he was probably not the first owner) but well maintained. His clothing looks a bit more appropriate to a bard than a traveling warrior, and while again not the fanciest, tends to be rather colorful and a bit flamboyant even. He keeps a small lantern on him that sheds a perpetual warm glow that reminds one of home and pleasant things. His other most prized possession is a lute (not the fanciest instrument ever, but it is clearly well cared for) for that he plays with the skill of a well practiced musician. Often appearing a bit awkward when first interacting with others, he seems far more relaxed while he plays
 
 ### Items

@@ -27,15 +27,6 @@ title: Amus
 
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>)  
-    Born DR 1726 (24 years old)  
-    { .bio }
-
-    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-
-
 Amus is a young, brash man, a swift rider who serves the Great Library as a messenger. 
 
 

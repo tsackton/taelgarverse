@@ -8,7 +8,7 @@ realWorldDate: 2026-05-14
 descTitle: Welcome to Dandelion House
 tagline: in which the party enters a mysterious tunnel
 sessionKey: lost-in-the-feywild-session-1
-template: feywild-template.md
+session-template: feywild-template.md
 title: Lost in the Feywild Episode 01
 ---
 # Lost in the Feywild - Episode 01

@@ -20,11 +20,4 @@ title: Brunnar
 </div>
 
 
-    A [giant](<../../creatures/species/giants.md>) (stone) (he/him)  
-    { .bio }
-
-    Based in [Ulgrathar](<../../gazetteer/greater-chardon/chardonian-empire/alta-tonaro/ulgrathar.md>), the [Chataan Mountains](<../../gazetteer/greater-chardon/chataan-mountains.md>)
-</div>
-
-
 A stone giant living under the rule of [Dhrukmir](<./dhrukmir.md>) in [Ulgrathar](<../../gazetteer/greater-chardon/chardonian-empire/alta-tonaro/ulgrathar.md>). 

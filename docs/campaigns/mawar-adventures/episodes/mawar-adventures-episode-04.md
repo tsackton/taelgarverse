@@ -11,7 +11,7 @@ name: Mawar Adventures Episode 04
 descTitle: The Chained Beast
 tagline: In which Ander, Nerissa, and Ryu battle to save a captive dragon turtle.
 sessionKey: mawar-adventures-session-4
-template: mawar-template.md
+session-template: mawar-template.md
 title: Mawar Adventures Episode 04
 ---
 # Mawar Adventures Episode 04

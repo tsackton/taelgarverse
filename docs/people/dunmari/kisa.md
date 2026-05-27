@@ -24,14 +24,6 @@ title: Kisa
 </div>
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1680 (70 years old)  
-    { .bio }
-
-    Based in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
 
 
 Kisa is a short elderly woman with graying hair and a limp, known affectionately as Elder Kisa. She is one of the respected elders of Karawa and serves as an unofficial leader of the village. She is a slow and deliberate speaker, always thinking first of the safety of the village and its people. 

@@ -12,7 +12,7 @@ name: Into the Chasm - Episode 1
 descTitle: Into the Chasm
 tagline: in which a storm flings five strangers into Zeyfa's maze
 sessionKey: into-the-chasm-session-1
-template: into-the-chasm-template.md
+session-template: into-the-chasm-template.md
 title: Into the Chasm - Episode 1
 ---
 # Into the Chasm - Episode 1

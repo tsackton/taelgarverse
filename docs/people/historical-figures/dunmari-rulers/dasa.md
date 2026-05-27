@@ -27,14 +27,6 @@ dm_owner: tim
 </div>
 
 
-    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Aatmaji dynasty](<../../../groups/dunmari-dynasties/aatmaji-dynasty.md>)  
-    Died DR 1395  
-    Samraat of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (DR 1385 - DR 1395)  
-    { .bio }
-
-</div>
-
-
 The last Samraat of the [Aatmaji Dynasty](<../../../groups/dunmari-dynasties/aatmaji-dynasty.md>). 
 
 His tomb is among the monuments in Kharsan. 

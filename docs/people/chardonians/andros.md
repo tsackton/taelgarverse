@@ -22,13 +22,5 @@ title: Andros
 </div>
 
 
-    A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1717 (33 years old)  
-    { .bio }
-
-    Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
-</div>
-
-
 A friend of [Xavier](<./xavier.md>)'s involved in the [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>).
 

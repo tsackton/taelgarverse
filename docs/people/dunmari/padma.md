@@ -29,18 +29,6 @@ title: Padma
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 26th, 1748 an unnamed caravanserai, the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-    A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1720 (30 years old)  
-    { .bio }
-
-    Based an unnamed caravanserai, the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 26th, 1748 an unnamed caravanserai, the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
-
-
 An innkeeper and master of a caravanserai waystation on the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>), running one of the first waystations on the west side of the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>).  Generally well positioned to receive and pass along news. 
 
 

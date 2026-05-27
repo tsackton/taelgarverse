@@ -30,18 +30,6 @@ title: Bran
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
-    An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    Born DR 1706 (44 years old)  
-    { .bio }
-
-    Based in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)
-</div>
-
-
-
-:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
-
-
 A villager of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), child of the charcoal‑maker [Karl](<./karl.md>) and [Isolde of Haldrenn](<./isolde-of-haldrenn.md>).
 ## Events
 - May 17, 1715 DR: [Reported the Hollow Men rhyme](<../../campaigns/addermarch-campaign/addermarch-session-11.md>) and the disappearance of [Rowena](<./rowena.md>) to [visitors](<../pcs/addermarch/addermarch-mercenaries.md>) in Haldrenn.

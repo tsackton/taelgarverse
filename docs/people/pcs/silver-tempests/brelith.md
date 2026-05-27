@@ -31,16 +31,6 @@ title: Brelith Shockstone
 </div>
 
 
-    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Shockstones](<../../../groups/dwarven-clans/shockstones.md>)  
-    Born DR 1707 (43 years old)  
-    Member of the [Silver Tempests](<./silver-tempests.md>), and the [Priest Thuhr](<../../../groups/dwarven-thuhr/priest-thuhr.md>)  
-    { .bio }
-
-    Originally from: [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), [Am'khazar](<../../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), [Labkhan](<../../../gazetteer/sentinel-range.md>)
-    Based in the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>), [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>)
-</div>
-
-
 Brelith was born in [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), the City of Gems in the dwarven kingdom of [Am'khazar](<../../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), the third child of a rich and powerful Dwarven family, part of the [Shockstones](<../../../groups/dwarven-clans/shockstones.md>), the ruling clan of [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>). Brelith's childhood was uneventful, full of study of history and religion, learning from the best tutors under the proud eyes of his parents, [Diesa](<../../dwarves/diesa.md>) and Osrik. It was a peaceful and priviledged, but boring, childhood, and Brelith often longed for more excitement in his life. After reaching adulthood, and discovering his connection to the [Bahrâzel](<../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>) and membership in the [Priest Thuhr](<../../../groups/dwarven-thuhr/priest-thuhr.md>), he decided to leave home to seek adventure and glory in the name of the [Bahrâzel](<../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>).
 
 Leaving [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>) and wandering with no particular aim, Brelith eventually met [Cato Stormtouched](<../../other-humans/cato-stormtouched.md>), an itinerant priest of the Wildling, a human with some skill in the arts of divine magic. Travelingn with Cato for several years, Brelith learned to channel the power of the storm himself, drawing on his connection to the [Bahrâzel](<../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>). 

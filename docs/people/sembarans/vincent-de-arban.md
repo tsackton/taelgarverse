@@ -30,13 +30,4 @@ title: Vincent de Arban
 
 
 
-    A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Garay Family](<../../groups/sembaran-noble-houses/garay-family.md>)  
-    Born May 18th, 1677 (72 years old)  
-    { .bio }
-
-    Based in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
-</div>
-
-
-
 Vincent de Arban is an agent of [Susanne Garay](<./susanne-garay.md>). He visited [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) to investigate [Viepuck](<../pcs/cleenseau/viepuck.md>) (when he was masquerading as [Najeer Garay](<../pcs/cleenseau/viepuck.md>)).  He was extremely interested in Viepuck's spider silk scheme, and may return to see how it is faring. 
