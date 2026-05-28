@@ -21,6 +21,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Bree Charmheart
+hide_toc: true
 ---
 # Bree Charmheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -47,10 +48,8 @@ title: Bree Charmheart
 The matriarch of the Charmheart trading clan of halflings.
 
 ## Relationships
-- [Callie Charmheart](<./callie-charmheart.md>), granddaughter
-- [Ander Charmheart](<./ander-charmheart.md>), grandson
-
-- [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion
+- [Callie Charmheart](<callie-charmheart.md>), granddaughter
+- [Ander Charmheart](<ander-charmheart.md>), grandson
 
 
 

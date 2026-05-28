@@ -14,12 +14,13 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Itar
+hide_toc: true
 ---
 # Itar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Bek'eni  
+    A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Bek'eni](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/bek-eni.md>)  
     Born DR 1716 (34 years old)  
     { .bio }
 
@@ -27,5 +28,5 @@ title: Itar
 </div>
 
 
-The Godcaller of the Bek'eni tribe of Deno'qai, under the sway of [Mezzar](<../other-nonhumans/mezzar.md>).
+The Godcaller of the [Bek'eni](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/bek-eni.md>) tribe of Deno'qai, under the sway of [Mezzar](<../other-nonhumans/mezzar.md>).
 

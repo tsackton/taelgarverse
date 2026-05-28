@@ -10,6 +10,7 @@ pronunciation: Tee-eh-ree
 dm_notes: color
 dm_owner: none
 title: Thierry
+hide_toc: true
 ---
 # Thierry
 :speaker:{ .middle } *(Tee-eh-ree)*  

@@ -8,7 +8,7 @@ title: High Gods
 ---
 # High Gods
 
-The most powerful and most distant divinities are known as the High Gods, or sometimes the Creator Gods. For most folk of Taelgar, the Creator is synonymous with the [Divine Presence](<./divine-presence.md>). However, some speak of darker powers: the [Three Despairs](<./three-despairs.md>), the fragments of the [Void Mind](<./void-mind.md>), who seek to end all existence. These powers, too, are High Gods. 
+The most powerful and most distant divinities are known as the High Gods, or sometimes the Creator Gods. For most folk of Taelgar, the Creator is synonymous with the [Divine Presence](<divine-presence.md>). However, some speak of darker powers: the [Three Despairs](<three-despairs.md>), the fragments of the [Void Mind](<void-mind.md>), who seek to end all existence. These powers, too, are High Gods. 
 
 The story of High Gods is told in the myths of Mos Numena:
 

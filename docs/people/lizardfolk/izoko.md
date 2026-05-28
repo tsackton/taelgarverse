@@ -13,6 +13,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Izoko
+hide_toc: true
 ---
 # Izoko
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,4 +28,4 @@ title: Izoko
 
 
 
-![Lizardfolk Izoko](../../assets/lizardfolk-izoko.png){align="right"; width="320"}A young lizardfolk, sweet on [Gentza](<./gentza.md>). He is a skilled fisherman but not so skilled at keeping secrets. 
+![Lizardfolk Izoko](../../assets/lizardfolk-izoko.png){align="right"; width="320"}A young lizardfolk, sweet on [Gentza](<gentza.md>). He is a skilled fisherman but not so skilled at keeping secrets. 

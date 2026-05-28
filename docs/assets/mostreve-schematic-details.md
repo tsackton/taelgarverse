@@ -30,5 +30,5 @@ O ^k114LKa5
 1 ^W2x2HSjk
 
 ## Embedded Files
-8b58c1543ee48278d58cfcf1f352c32a3078e327: [Mostreve Schematic Base Map](./mostreve-schematic-base-map.jpg)
+8b58c1543ee48278d58cfcf1f352c32a3078e327: [Mostreve Schematic Base Map](mostreve-schematic-base-map.jpg)
 

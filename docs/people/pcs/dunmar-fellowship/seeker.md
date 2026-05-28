@@ -13,12 +13,13 @@ dm_notes: important
 affiliations:
 - {org: Dunmar Fellowship, type: primary}
 title: Seeker
+hide_toc: true
 ---
 # Seeker
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>)  
+    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Dunmar Fellowship](<dunmar-fellowship.md>)  
     { .bio }
 
 </div>

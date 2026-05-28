@@ -11,6 +11,7 @@ dm_owner: none
 dm_notes: none
 pronunciation: AYD-ree-kahs
 title: Eidrikas
+hide_toc: true
 ---
 # Eidrikas
 :speaker:{ .middle } *(AYD-ree-kahs)*  

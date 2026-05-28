@@ -17,7 +17,7 @@ title: Honeybloom
 
 A fey realm, described in [The Lore of the Feywild](<../../../things/books/the-lore-of-the-feywild.md>) as a realm of rolling orchards, golden meadows, and drowsy glades, where the scent of ripe fruit lingers in the air, lulling visitors into languid contentment—but those who linger too long often forget why they came, or how to leave.
 
-Honeybloom is located northwest of [Fortune's Rest](<./fortune-s-rest.md>), and northeast of [Gleamwater](<./gleamwater.md>).
+Honeybloom is located northwest of [Fortune's Rest](<fortune-s-rest.md>), and northeast of [Gleamwater](<gleamwater.md>).
 
 
 

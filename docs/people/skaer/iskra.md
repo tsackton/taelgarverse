@@ -15,6 +15,7 @@ whereabouts:
 - {type: home, start: 1743, location: Tollen}
 dm_owner: tim
 dm_notes: none
+hide_toc: true
 ---
 # Laivan Iskra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

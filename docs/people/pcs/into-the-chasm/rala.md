@@ -8,6 +8,7 @@ gender: female
 dm_owner: none
 dm_notes: none
 title: Rala
+hide_toc: true
 ---
 # Rala
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -19,4 +20,4 @@ title: Rala
 </div>
 
 
-Rala is [Jrain Fanlish](<./jrain-fanlish.md>)'s hawk companion. 
+Rala is [Jrain Fanlish](<jrain-fanlish.md>)'s hawk companion. 

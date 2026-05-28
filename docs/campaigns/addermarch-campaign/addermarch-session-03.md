@@ -74,5 +74,5 @@ After having brought everything outside, the party departs for [Roscombe](<../..
 
 ### Tuesday, May 4th, 2 Robert I
 
-The party detours to [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>), to give the cockatrice gizzard to [Caradoc](<../../people/addermarians/caradoc.md>), and then returns to [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), where they give [Elowen Duval](<../../people/addermarians/elowen-duval.md>) back the treasure they found, learning it was stolen by a bandit two years ago. Lady Duval pays them the still-outstanding bounty for the capture or death of the bandit, and wishes them luck. We end that evening, back at the Traveler's Rest. 
+The party detours to [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>), to give the cockatrice gizzard to [Caradoc](<../../people/addermarians/caradoc.md>), and then returns to [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), where they give [Elowen Duval](<../../people/addermarians/elowen-duval.md>) back the treasure they found, learning it was stolen by a bandit two years ago. Lady Duval pays them the still-outstanding bounty for the capture or death of the bandit, and wishes them luck. We end that evening, back at [the Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>). 
 

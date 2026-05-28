@@ -31,7 +31,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) senses extraplanar energy and they find a summoning circle on a bridge, which births a demonic creature.
 - After a fight, they cure [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)'s poisoning, destroy the circle, and cleanse the river, removing the Abyssal corruption.
 - [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) persuades the trapped animals to leave; Wellby rides a lion into the valley.
-- They explore the [dwarven outpost](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>) as they depart, obtaining adamantine and finding a damaged, yet defiant, dwarvish stone construct.
+- They explore the [dwarven outpost](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>) as they depart, obtaining [adamantine](<../../../things/materials/adamantine.md>) and finding a damaged, yet defiant, dwarvish stone construct.
 
 ### Timeline
 - Apr 13, 1748 DR, late morning: Explore [Raven's Hold](<../../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>) and recover treasure. 

@@ -13,6 +13,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 title: Karl
+hide_toc: true
 ---
 # Karl
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -30,6 +31,6 @@ title: Karl
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
-A soot‑stained charcoal burner of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>); father of [Bran](<./bran.md>) and husband of [Isolde of Haldrenn](<./isolde-of-haldrenn.md>).
+A soot‑stained charcoal burner of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>); father of [Bran](<bran.md>) and husband of [Isolde of Haldrenn](<isolde-of-haldrenn.md>).
 
 

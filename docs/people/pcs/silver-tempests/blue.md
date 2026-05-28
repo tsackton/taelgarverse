@@ -16,6 +16,7 @@ whereabouts:
 dm_owner: player
 dm_notes: none
 title: Blue
+hide_toc: true
 ---
 # Blue
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -23,7 +24,7 @@ title: Blue
 
     An [Isinguer](<../../../history/historical-realms/istabor-alliance.md>) [human](<../../../creatures/species/humans.md>) (plane-touched, fiendish) (she/her)  
     Born DR 1622 (128 years old)  
-    Member of the [Silver Tempests](<./silver-tempests.md>)  
+    Member of the [Silver Tempests](<silver-tempests.md>)  
     { .bio }
 
     Originally from: [Maseau](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>)
@@ -38,7 +39,7 @@ title: Blue
 >
 >As young as she can remember, people treated her differently, made worse by her pale blue skin and strange eyes. She was accused of carrying a curse from the [Plaguelands](<../../../gazetteer/upper-istaros/plaguelands.md>), of being a fey witch. The only people who didn't look at her funny or run her out of town were the mercenaries and soldiers who would ride out from the fortified castles when enemies were spotted. 
 >
->So she drifted from place to place, earning some coin as a scout. From these war bands, she found community in the worship of the Warlord. But it wasn't until she connected with [Rangers](<../../../groups/rangers.md>), and met Landrel, that she really felt at home. From Landrel, she learned many things, about scouting and survival and how to handle her strange background and appearance. 
+>So she drifted from place to place, earning some coin as a scout. From these war bands, she found community in the worship of [the Warlord](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>). But it wasn't until she connected with [Rangers](<../../../groups/rangers.md>), and met Landrel, that she really felt at home. From Landrel, she learned many things, about scouting and survival and how to handle her strange background and appearance. 
 >
 >When the [Third Hobgoblin War (Sembara)](<../../../events/1600s/third-hobgoblin-war-sembara.md>) started with a surprise attack by the [Shattered Ice](<../../../groups/hobgoblin-clans/shattered-ice-clan.md>) [Hobgoblins](<../../../creatures/species/hobgoblins.md>), she found herself on the front lines, with [Rangers](<../../../groups/rangers.md>) and the scattered armies that could be quickly fielded by the [Maseau](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), among people who cared more about her talents than her supernatural appearance. However, she never got to see how the war turned out. She was captured in an early skirmish, and taken prisoner.
 >
@@ -52,9 +53,9 @@ title: Blue
 >
 >During her wanderings, the one thing she held on to was the [Umbral Covenant](<../../../groups/umbral-covenant.md>), and the whispers of anger, danger, and fear from her crystal, warning about them. She learned that the [Umbral Covenant](<../../../groups/umbral-covenant.md>) had the agressors in a war against the famous city of [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [War of the Dark Rift](<../../../events/1500s/war-of-the-dark-rift.md>), and were defeated more than 100 years ago, before she was even captured, despite having captured much of the [Apporian Peninsula](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>). She learned that the [Umbral Covenant](<../../../groups/umbral-covenant.md>) had emerged from deep in the mountains of [Apporia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>), from a kingdom called [Enderra](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/enderra.md>), now assumed completed destroyed. She learned that the [Umbral Covenant](<../../../groups/umbral-covenant.md>) had corrupted dwarves and turned them into nightmare shadow servants, forcing them to fight. She heard many rumors of how shadows had emerged from the mountains, sweeping down into the coastal cities of [Apporia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>) with armies of ghostly dwarves who bled darkness and who could not be killed by mundane weapons. But every tale she heard told the same fate: the [Umbral Covenant](<../../../groups/umbral-covenant.md>) launched a Shadow Armanda against Chardon, and were destroyed, utterly and completely. And no tale seemed to explain why the crystal still seemed terrified of a threat that was defeated so long ago. 
 >
->A few weeks ago, lingering along the most desolate section of the trade road to Voltara, Blue stumbled across the body of a messenger and his horse, who had apparently fallen in a ravine and died, unnoticed. Uncannily, in his messenger bag was a long letter, addressed to the [Silver Tempests](<./silver-tempests.md>) in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), containing research concerning strange sigils and a possible connection to the [Umbral Covenant](<../../../groups/umbral-covenant.md>). Intrigued, Blue decided to deliver the letter herself.
+>A few weeks ago, lingering along the most desolate section of the trade road to Voltara, Blue stumbled across the body of a messenger and his horse, who had apparently fallen in a ravine and died, unnoticed. Uncannily, in his messenger bag was a long letter, addressed to the [Silver Tempests](<silver-tempests.md>) in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), containing research concerning strange sigils and a possible connection to the [Umbral Covenant](<../../../groups/umbral-covenant.md>). Intrigued, Blue decided to deliver the letter herself.
 
 
 ### Chronology of Blue's Life
 - Jul 03, 1748 DR: Blue heads north towards [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>) and the frontier
-- Aug 30, 1748 DR: Blue finds a dead messenger on the road north of [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>), with a letter about the [Umbral Covenant](<../../../groups/umbral-covenant.md>) addressed to the [Silver Tempests](<./silver-tempests.md>) in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), and decides to deliver the message herself
+- Aug 30, 1748 DR: Blue finds a dead messenger on the road north of [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>), with a letter about the [Umbral Covenant](<../../../groups/umbral-covenant.md>) addressed to the [Silver Tempests](<silver-tempests.md>) in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), and decides to deliver the message herself

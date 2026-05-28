@@ -15,6 +15,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Grimbaskal
+hide_toc: true
 ---
 # Grimbaskal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

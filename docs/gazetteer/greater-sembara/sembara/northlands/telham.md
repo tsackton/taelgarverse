@@ -15,7 +15,7 @@ title: Telham
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 12,000  
-    :octicons-location-24:{ .lg .middle } A city in the [Duchy of Telham](<./duchy-of-telham.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } A city in the [Duchy of Telham](<duchy-of-telham.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

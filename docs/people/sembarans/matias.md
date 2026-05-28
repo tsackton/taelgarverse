@@ -11,6 +11,7 @@ affiliations:
 dm_owner: none
 dm_notes: none
 title: Matias
+hide_toc: true
 ---
 # Matias
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

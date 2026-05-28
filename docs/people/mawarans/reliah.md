@@ -12,6 +12,7 @@ dm_owner: none
 dm_notes: color
 pronunciation: reh-LEE-ah
 title: Reliah
+hide_toc: true
 ---
 # Reliah
 :speaker:{ .middle } *(reh-LEE-ah)*  
@@ -25,4 +26,4 @@ title: Reliah
 </div>
 
 
-![Reliah](../../assets/reliah.png){align="right"; width="300"}Reliah, the twin sister of [Samar](<./samar.md>), is an orphaned girl who lives in the Drowned Flats in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). [Wazir](<../pcs/mawar/wazir.md>) feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
+![Reliah](../../assets/reliah.png){align="right"; width="300"}Reliah, the twin sister of [Samar](<samar.md>), is an orphaned girl who lives in the Drowned Flats in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). [Wazir](<../pcs/mawar/wazir.md>) feeds her and her sister once a week, and in turn they keep an ear to the ground for him.

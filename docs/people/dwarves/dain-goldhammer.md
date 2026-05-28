@@ -14,6 +14,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Dain Goldhammer
+hide_toc: true
 ---
 # Dain Goldhammer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

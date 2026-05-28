@@ -14,6 +14,7 @@ image: alesh-portrait.jpg
 dm_notes: color
 dm_owner: tim
 title: Alesh
+hide_toc: true
 ---
 # Alesh
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -36,13 +37,13 @@ title: Alesh
 
 
 ## Relationships
-- Friendly with most people of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), but fairly independent and not particularly associated with either [Havdar](<./havdar.md>)'s warriors or [Candrosa](<./candrosa.md>) and the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>). Finds [Havdar](<./havdar.md>) a bit brash. 
+- Friendly with most people of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), but fairly independent and not particularly associated with either [Havdar](<havdar.md>)'s warriors or [Candrosa](<candrosa.md>) and the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>). Finds [Havdar](<havdar.md>) a bit brash. 
 - Knows by sight and name, if not well, many of the families that travel across the eastern plains of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 - Her extended family are traditional goat herders who travel mostly to the north and west of [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
-- Served as a scout and messenger for [Sura](<./sura.md>) during the lead up to the [Sibling War](<../../events/1700s/sibling-war.md>), although she did not fight in the conflict. 
+- Served as a scout and messenger for [Sura](<sura.md>) during the lead up to the [Sibling War](<../../events/1700s/sibling-war.md>), although she did not fight in the conflict. 
 
 ## Chronology
-- Mar 21, 1748 DR: Spends the night at the [Gomat](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>) oasis with [Akan](<./akan.md>) and his family
+- Mar 21, 1748 DR: Spends the night at the [Gomat](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>) oasis with [Akan](<akan.md>) and his family
 - Mar 22, 1748 DR: Meets [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on the road, while returning to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from [Gomat](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>).
 - Mar 23, 1748 DR: Arrives in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)
 - Mar 28, 1748 DR: Leaves to collect news and rumors from the herders to the north and east. 

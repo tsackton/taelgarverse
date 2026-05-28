@@ -15,6 +15,7 @@ pronunciation: SKAHL-me
 dm_notes: color
 dm_owner: none
 title: Skalme
+hide_toc: true
 ---
 # Skalme
 :speaker:{ .middle } *(SKAHL-me)*  

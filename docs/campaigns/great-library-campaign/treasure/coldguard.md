@@ -14,4 +14,4 @@ title: Coldguard
 # Coldguard
 :octicons-info-24:{ .lg .middle } **([dwarven](<../../../creatures/species/dwarves.md>) magical shield)**  
 
-A magical shield of dwarven make, recovered alongside [Thunderbrand](<./thunderbrand.md>) in the [Goldpeak Mines](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>) under [Goldpeak Mountain](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mountain.md>). 
+A magical shield of dwarven make, recovered alongside [Thunderbrand](<thunderbrand.md>) in the [Goldpeak Mines](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>) under [Goldpeak Mountain](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mountain.md>). 

@@ -13,6 +13,7 @@ whereabouts: Chardon
 dm_owner: tim
 dm_notes: important
 title: Galen
+hide_toc: true
 ---
 # Galen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

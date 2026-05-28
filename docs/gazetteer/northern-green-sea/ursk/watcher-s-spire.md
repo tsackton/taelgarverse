@@ -10,14 +10,14 @@ title: Watcher's Spire
 ---
 # The Watcher's Spire
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A tower in [Zvervinka](<./zvervinka.md>), [Ursk](<./ursk.md>), the [Northern Green Sea](<../northern-green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } A tower in [Zvervinka](<zvervinka.md>), [Ursk](<ursk.md>), the [Northern Green Sea](<../northern-green-sea.md>)  
 </div>
 
 
-The Watcher’s Spire rises above [Zvervinka](<./zvervinka.md>)’s upper city, a fortress‑tower of rune‑scribed stone serving the [Watchers](<../../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>). More than a symbol, the Spire functions as a seat of training and oversight for those who guard Ursk against supernatural threats. Its wards glow faintly by night, and its halls are said to contain a modest archive of reports, maps, and occult references relevant to frontier defense.
+The Watcher’s Spire rises above [Zvervinka](<zvervinka.md>)’s upper city, a fortress‑tower of rune‑scribed stone serving the [Watchers](<../../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>). More than a symbol, the Spire functions as a seat of training and oversight for those who guard Ursk against supernatural threats. Its wards glow faintly by night, and its halls are said to contain a modest archive of reports, maps, and occult references relevant to frontier defense.
 
 Visitors—when admitted—are required to deposit detectable magic in sealed chests at the entry vestibule, a practice intended to keep the tower’s inner sanctums free of stray enchantments. Formal hospitality within the Spire is austere but precise: tea is served, interviews are structured, and business is conducted with attention to the safety of the city beyond the tower’s doors.
 
-From the market quarters along the [Ket](<../rivers/ket.md>) to the gatehouses of the lower city, the Spire’s presence is a constant reminder that [Zvervinka](<./zvervinka.md>) stands where civilization meets the wild. While many citizens view the Watchers with respect, a few grumble at their secrets and influence; nonetheless, in winters when ice‑spawn and worse press downriver, the Spire’s wards and messengers are decisive.
+From the market quarters along the [Ket](<../rivers/ket.md>) to the gatehouses of the lower city, the Spire’s presence is a constant reminder that [Zvervinka](<zvervinka.md>) stands where civilization meets the wild. While many citizens view the Watchers with respect, a few grumble at their secrets and influence; nonetheless, in winters when ice‑spawn and worse press downriver, the Spire’s wards and messengers are decisive.
 
 

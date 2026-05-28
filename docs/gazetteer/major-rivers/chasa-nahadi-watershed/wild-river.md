@@ -13,8 +13,8 @@ title: Wild River
 # The Wild River
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A river the Erblata Plains  
-    :octicons-location-24:{ .lg .middle } Located in the [Chasa-Nahadi Watershed](<./chasa-nahadi-watershed.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Chasa-Nahadi Watershed](<chasa-nahadi-watershed.md>)  
 </div>
 
 
-The Wild River is a tributary of the [Snake River](<./snake-river.md>), cutting across the plains northeast of [Voltara](<../../northwest-coast/northern-provinces/voltara/voltara.md>). 
+The Wild River is a tributary of the [Snake River](<snake-river.md>), cutting across the plains northeast of [Voltara](<../../northwest-coast/northern-provinces/voltara/voltara.md>). 

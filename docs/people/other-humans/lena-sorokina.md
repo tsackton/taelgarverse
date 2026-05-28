@@ -9,6 +9,7 @@ whereabouts: Zvervinka
 dm_owner: tim
 dm_notes: important
 title: Lena Sorokina
+hide_toc: true
 ---
 # Lena Sorokina
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

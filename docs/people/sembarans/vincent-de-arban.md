@@ -16,6 +16,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Vincent de Arban
+hide_toc: true
 ---
 # Vincent de Arban
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -30,4 +31,4 @@ title: Vincent de Arban
 
 
 
-Vincent de Arban is an agent of [Susanne Garay](<./susanne-garay.md>). He visited [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) to investigate [Viepuck](<../pcs/cleenseau/viepuck.md>) (when he was masquerading as [Najeer Garay](<../pcs/cleenseau/viepuck.md>)).  He was extremely interested in Viepuck's spider silk scheme, and may return to see how it is faring. 
+Vincent de Arban is an agent of [Susanne Garay](<susanne-garay.md>). He visited [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) to investigate [Viepuck](<../pcs/cleenseau/viepuck.md>) (when he was masquerading as [Najeer Garay](<../pcs/cleenseau/viepuck.md>)).  He was extremely interested in Viepuck's spider silk scheme, and may return to see how it is faring. 

@@ -12,6 +12,7 @@ whereabouts:
 dm_notes: none
 dm_owner: tim
 title: Asuddha
+hide_toc: true
 ---
 # Asuddha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

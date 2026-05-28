@@ -13,6 +13,7 @@ whereabouts:
 - {type: away, start: 1714-09-11, end: 1715-03-15, location: Roscombe}
 - {type: away, start: 1715-05-03, end: 1715-05-20, location: Haldrenn}
 title: Geoffrey
+hide_toc: true
 ---
 # Geoffrey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

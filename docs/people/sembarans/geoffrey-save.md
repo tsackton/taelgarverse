@@ -11,6 +11,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Geoffrey Save
+hide_toc: true
 ---
 # Geoffrey Save
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,6 +26,6 @@ title: Geoffrey Save
 </div>
 
 
-![Geoffrey Save](../../assets/geoffrey-save.png){align="right"; width="320"}A compatriot of [Rinault](<./rinault-essford.md>), his family came to [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) when he was a young boy as part of [Wymar's](<./wymar-essford.md>) efforts to attract a larger market population. Recently inherited a thriving brewery and bakehouse from his parents at an unexpectedly young age, and also a significant landlord in [Underhill](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/underhill.md>). 
+![Geoffrey Save](../../assets/geoffrey-save.png){align="right"; width="320"}A compatriot of [Rinault](<rinault-essford.md>), his family came to [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) when he was a young boy as part of [Wymar's](<wymar-essford.md>) efforts to attract a larger market population. Recently inherited a thriving brewery and bakehouse from his parents at an unexpectedly young age, and also a significant landlord in [Underhill](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/underhill.md>). 
 
-His wife Annabelle, has been ill frequently, and miscarried twice recently. Geoffrey has spent much time with [Rinault](<./rinault-essford.md>) instead of caring for his holdings, and often talks about how his family is cursed, although is cousin Roland is thriving in [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>).
+His wife Annabelle, has been ill frequently, and miscarried twice recently. Geoffrey has spent much time with [Rinault](<rinault-essford.md>) instead of caring for his holdings, and often talks about how his family is cursed, although is cousin Roland is thriving in [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>).

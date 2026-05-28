@@ -8,6 +8,7 @@ ancestry: Sembaran
 dm_notes: color
 dm_owner: mike
 title: Susanna Northwoods
+hide_toc: true
 ---
 # Susanna Northwoods
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -20,4 +21,4 @@ title: Susanna Northwoods
 </div>
 
 
-![Susanna Northwords](../../assets/susanna-northwords.jpg){align="right"; width="320"}The steward and secretary for the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>), and the wife of [Bertram Northwoods](<./bertram-northwoods.md>).
+![Susanna Northwords](../../assets/susanna-northwords.jpg){align="right"; width="320"}The steward and secretary for the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>), and the wife of [Bertram Northwoods](<bertram-northwoods.md>).

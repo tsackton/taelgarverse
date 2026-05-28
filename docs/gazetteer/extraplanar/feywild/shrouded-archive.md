@@ -14,5 +14,5 @@ title: Shrouded Archive
 </div>
 
 
-The Shrouded Archive is a hidden library, rumored to be located on the border between [Everlight's Bloom](<./everlight-s-bloom.md>), [Amberglow](<amberglow/amberglow.md>), and [Emberwine](<emberwine/emberwine.md>), where it is said that any secret ever spoken or written down can be found, for a price. 
+The Shrouded Archive is a hidden library, rumored to be located on the border between [Everlight's Bloom](<everlight-s-bloom.md>), [Amberglow](<amberglow/amberglow.md>), and [Emberwine](<emberwine/emberwine.md>), where it is said that any secret ever spoken or written down can be found, for a price. 
 

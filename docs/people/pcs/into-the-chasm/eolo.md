@@ -5,12 +5,13 @@ dm_owner: player
 dm_notes: important
 affiliations: [Chasm Explorers]
 title: Eolo
+hide_toc: true
 ---
 # Eolo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    Member of the [Chasm Explorers](<./chasm-explorers.md>)  
+    Member of the [Chasm Explorers](<chasm-explorers.md>)  
     { .bio }
 
 </div>

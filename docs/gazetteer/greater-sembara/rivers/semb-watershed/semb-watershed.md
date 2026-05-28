@@ -15,7 +15,7 @@ title: Semb Watershed
 </div>
 
 
-The Semb watershed gathers the waters of the [Semb](<./semb.md>) and its tributaries, draining the highlands and foothills of [Greater Sembara](<../../greater-sembara.md>) into the [Western Gulf](<../../western-gulf.md>). In its upper reaches, the Semb flows past [Lake Derwent](<./lake-derwent.md>) in [Ardlas](<../../ardlas.md>); downriver, it becomes one of the principal waterways of Sembara.
+The Semb watershed gathers the waters of the [Semb](<semb.md>) and its tributaries, draining the highlands and foothills of [Greater Sembara](<../../greater-sembara.md>) into the [Western Gulf](<../../western-gulf.md>). In its upper reaches, the Semb flows past [Lake Derwent](<lake-derwent.md>) in [Ardlas](<../../ardlas.md>); downriver, it becomes one of the principal waterways of Sembara.
 
 The city of [Embry](<../../sembara/heartlands/embry.md>) stands above the Semb and serves as one of the great river ports of the Sembaran heartlands, where goods from upriver are gathered and traded.
 

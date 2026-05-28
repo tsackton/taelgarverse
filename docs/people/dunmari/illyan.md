@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Illyan
+hide_toc: true
 ---
 # Illyan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -32,5 +33,5 @@ title: Illyan
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 2nd, 1748 camped near [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-A commander in the army of [Nayan Karnas](<./nayan-karnas.md>). Stationed outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) during the [Summer Gnoll Raids of 1748](<../../events/1700s/1748/summer-gnoll-raids-of-1748.md>) and the [Sibling War](<../../events/1700s/sibling-war.md>). Fought in the [Battle of Tokra](<../../events/1700s/1748/12/battle-of-tokra.md>). 
+A commander in the army of [Nayan Karnas](<nayan-karnas.md>). Stationed outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) during the [Summer Gnoll Raids of 1748](<../../events/1700s/1748/summer-gnoll-raids-of-1748.md>) and the [Sibling War](<../../events/1700s/sibling-war.md>). Fought in the [Battle of Tokra](<../../events/1700s/1748/12/battle-of-tokra.md>). 
 

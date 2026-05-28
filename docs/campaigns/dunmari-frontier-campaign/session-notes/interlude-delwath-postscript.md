@@ -11,7 +11,7 @@ title: 'Interlude: Delwath''s Journey South'
 ---
 ## Timeline
 
-- Oct 14, 1748 DR - Oct 21, 1748 DR: Rest, gather information, celebrate, and commune with the [Meswati](<../../../gods-and-religions/gods/tanshi/meswati/meswati.md>) at the Ko'zula village.
+- Oct 14, 1748 DR - Oct 21, 1748 DR: Rest, gather information, celebrate, and commune with the [Meswati](<../../../gods-and-religions/gods/tanshi/meswati/meswati.md>) at the [Ko'zula](<../../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) village.
 - Oct 21, 1748 DR - Oct 23, 1748 DR:Wander into the mountains, looking for [Safri](<../../../people/deno-qai/safri.md>). Find a likely place to camp in the afternoon of Oct 23.
 - Oct 24, 1748 DR:Wait at camp.
 - Oct 25, 1748 DR:Meet [Safri](<../../../people/deno-qai/safri.md>), in deer form. Descend to [Safri](<../../../people/deno-qai/safri.md>)'s valley, and speak with her. 
@@ -28,7 +28,7 @@ title: 'Interlude: Delwath''s Journey South'
 
 #### With the Deno'qai
 
-After returning from the [Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) spends some time with the Ko'zula, and in communion with the Meswati, learning about the lost tanshi who have now been found, about the history of this place and these people, about the stories that tie them to the tanshi, before leaving to seek out a way to reunite with his companions. 
+After returning from the [Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) spends some time with the [Ko'zula](<../../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>), and in communion with the Meswati, learning about the lost tanshi who have now been found, about the history of this place and these people, about the stories that tie them to the tanshi, before leaving to seek out a way to reunite with his companions. 
 
 ![Kozula Village](../../../assets/kozula-village.png)
 

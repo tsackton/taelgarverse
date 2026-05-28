@@ -11,6 +11,7 @@ dm_notes: none
 whereabouts:
 - {type: home, location: Tollen}
 title: Tarek
+hide_toc: true
 ---
 # Tarek
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -12,6 +12,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 title: Clara
+hide_toc: true
 ---
 # Clara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

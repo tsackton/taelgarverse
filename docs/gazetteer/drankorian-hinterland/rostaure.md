@@ -19,7 +19,7 @@ title: Rostaurë
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Pillaged by [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>) DR 1051  
-    :octicons-location-24:{ .lg .middle } An [elven](<../../creatures/species/elves.md>) forest realm in the [Drankorian Hinterland](<./drankorian-hinterland.md>)  
+    :octicons-location-24:{ .lg .middle } An [elven](<../../creatures/species/elves.md>) forest realm in the [Drankorian Hinterland](<drankorian-hinterland.md>)  
 </div>
 
 

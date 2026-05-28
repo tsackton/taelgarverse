@@ -12,22 +12,22 @@ title: Mawar Confederacy
 ---
 # The Mawar Confederacy
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A realm in the [Mawakel Peninsula](<./mawakel-peninsula.md>), the [Northwest Coast](<../northwest-coast.md>)  
+-    :octicons-location-24:{ .lg .middle } A realm in the [Mawakel Peninsula](<mawakel-peninsula.md>), the [Northwest Coast](<../northwest-coast.md>)  
 </div>
 
 
 ## Overview
 
-North of [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>), hugging the coast of the rocky, inhospitable [Mawakel Peninsula](<./mawakel-peninsula.md>), the Mawar people have lived symbiotically with the ocean for generations uncounted. They preserve an ancient culture and language, as well as a  distinct Mawaran form of [Mos Numena](<../../../gods-and-religions/religions/mos-numena/mos-numena.md>) centered on saintly ancestors and local heroes
+North of [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>), hugging the coast of the rocky, inhospitable [Mawakel Peninsula](<mawakel-peninsula.md>), the Mawar people have lived symbiotically with the ocean for generations uncounted. They preserve an ancient culture and language, as well as a  distinct Mawaran form of [Mos Numena](<../../../gods-and-religions/religions/mos-numena/mos-numena.md>) centered on saintly ancestors and local heroes
 
 ## History
 _See more: [Timeline of the Mawar](<../../../history/timeline-of-the-mawar.md>)_
 
 
 
- Mawaran tradition traces their ancestry to the first peoples to leave [Hkar](<../../../history/historical-realms/hkar.md>) ages ago, and the Mawar once settled widely across the coastal plains and shores north of [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>), as far as the northern coast of the Great Bay. But when the Drankorians spread north, they ceded the southern lands and settled largely on the [Mawakel Peninsula](<./mawakel-peninsula.md>) and the near-shore islands, maintaining an uneasy peace within the Drankorian sphere of influence.
+ Mawaran tradition traces their ancestry to the first peoples to leave [Hkar](<../../../history/historical-realms/hkar.md>) ages ago, and the Mawar once settled widely across the coastal plains and shores north of [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>), as far as the northern coast of the Great Bay. But when the Drankorians spread north, they ceded the southern lands and settled largely on the [Mawakel Peninsula](<mawakel-peninsula.md>) and the near-shore islands, maintaining an uneasy peace within the Drankorian sphere of influence.
 
-After the fall of [Drankor](<../../../history/historical-realms/drankorian-empire.md>), the Mawar became a significant coastal and trading power, and Mawar ships could be seen plying coastal trade routes as far south as [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>) and as far north as the far northern shores beyond the Great Bay. All this changed with the expansion of [Pandar](<../../../history/historical-realms/pandar.md>) and the coming of Cha'mutte's armies. The Mawar survived the [Great War](<../../../events/1500s/great-war.md>) and the [chaos afterward](<../../../events/1500s/blood-years.md>) by retreating to their coastal villages, relying on the protection of the difficult terrain of the [Mawakel Peninsula](<./mawakel-peninsula.md>) and the magic of the [Fog of Mawar](<../../../events/1500s/fog-of-mawar.md>). 
+After the fall of [Drankor](<../../../history/historical-realms/drankorian-empire.md>), the Mawar became a significant coastal and trading power, and Mawar ships could be seen plying coastal trade routes as far south as [Chardon](<../../greater-chardon/chardonian-empire/chardon/chardon.md>) and as far north as the far northern shores beyond the Great Bay. All this changed with the expansion of [Pandar](<../../../history/historical-realms/pandar.md>) and the coming of Cha'mutte's armies. The Mawar survived the [Great War](<../../../events/1500s/great-war.md>) and the [chaos afterward](<../../../events/1500s/blood-years.md>) by retreating to their coastal villages, relying on the protection of the difficult terrain of the [Mawakel Peninsula](<mawakel-peninsula.md>) and the magic of the [Fog of Mawar](<../../../events/1500s/fog-of-mawar.md>). 
 
 After the [Fog of Mawar](<../../../events/1500s/fog-of-mawar.md>) lifted, the Mawar entered a renaissance of renewed trade and classical Mawaran institutions. The [Mindknife Wars](<../../../history/timeline-of-the-mawar.md#the-mindknife-wars>) ended that golden age, and the later expansion of the [Chardonian Empire](<../../greater-chardon/chardonian-empire/chardonian-empire.md>) brought both stability and competition. The Mawar Confederacy remains one of the few northern civilizations to have survived the [Blood Years](<../../../events/1500s/blood-years.md>), but its recent history is marked by retrenchment, wary independence, and a struggle to maintain its place in the trade of the northern coast.
 

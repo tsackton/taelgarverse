@@ -15,13 +15,13 @@ title: Essenmer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 540  
-    :octicons-location-24:{ .lg .middle } A village in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } A village in the [Barony of Aveil](<barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 
-A village on the [Great South Road](<../../roads/great-south-road.md>), known for its grand inn. A common stopping spot for travelers between [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>) and [Rinburg](<./rinburg.md>).
+A village on the [Great South Road](<../../roads/great-south-road.md>), known for its grand inn. A common stopping spot for travelers between [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>) and [Rinburg](<rinburg.md>).
 
 _Distances:_
-* to [Rinburg](<./rinburg.md>), 12 miles
-* to [Champimont](<./champimont.md>), 15 miles
+* to [Rinburg](<rinburg.md>), 12 miles
+* to [Champimont](<champimont.md>), 15 miles
 * to [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>), 48 miles

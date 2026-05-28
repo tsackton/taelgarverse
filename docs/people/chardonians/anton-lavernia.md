@@ -10,6 +10,7 @@ gender: male
 dm_notes: none
 dm_owner: none
 whereabouts: Voltara
+hide_toc: true
 ---
 # Proconsul Anton Lavernia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

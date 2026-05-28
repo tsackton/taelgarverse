@@ -14,6 +14,7 @@ affiliations:
 - {org: Dunmar, start: 1603, end: 1630, type: leader}
 dm_notes: color
 dm_owner: tim
+hide_toc: true
 ---
 # Samraat Nayan Yarad
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

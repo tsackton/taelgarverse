@@ -10,6 +10,7 @@ affiliations:
 dm_owner: none
 dm_notes: color
 title: Roman
+hide_toc: true
 ---
 # Roman
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

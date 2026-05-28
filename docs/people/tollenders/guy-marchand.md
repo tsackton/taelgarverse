@@ -15,6 +15,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: color
 title: Guy Marchand
+hide_toc: true
 ---
 # Guy Marchand
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -47,6 +48,6 @@ Guy, an aging man in his mid-60s, looks young for his age; he has lived a comfor
 
 - **The Isinguese Diaspora:** Guy has established himself at the center of a loose, informal network of Isinguese in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>). While some dream of rebuilding [Isingue](<../../gazetteer/upper-istaros/isingue.md>), Guy and his circle are content preserving the memory and traditions of their fallen homeland.
 - **Wanderers and Explorers:** While Guy himself doesn't travel, his insatiable curiosity about distant places has made him a friend of many wanderers. He exchanges tales, rumors, and knowledge about far-off lands with them, enriching his mapmaking skills, and making his shop something of a center for rumors and information. 
-- **[Wellby](<../pcs/dunmar-fellowship/wellby.md>):** Guy remembers [Wellby](<../pcs/dunmar-fellowship/wellby.md>) fondly. 
+- **[People/PCs/Dunmar Fellowship/Wellby](<../pcs/dunmar-fellowship/wellby.md>):** Guy remembers [Wellby](<../pcs/dunmar-fellowship/wellby.md>) fondly. 
 - **Sarah de Grey:** Sarah frequently dines at Guy's shop, with a few other local Isinguese.
 

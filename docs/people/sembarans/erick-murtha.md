@@ -12,6 +12,7 @@ affiliations:
 whereabouts: Beury
 dm_notes: color
 dm_owner: mike
+hide_toc: true
 ---
 # Lord Erick Murtha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

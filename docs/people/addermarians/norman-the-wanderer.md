@@ -12,6 +12,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Norman the Wanderer
+hide_toc: true
 ---
 # Norman the Wanderer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

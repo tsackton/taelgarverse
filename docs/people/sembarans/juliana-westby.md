@@ -8,6 +8,7 @@ species: human
 ancestry: Sembaran
 gender: female
 title: Juliana Westby
+hide_toc: true
 ---
 # Juliana Westby
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

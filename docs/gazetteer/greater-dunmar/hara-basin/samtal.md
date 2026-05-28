@@ -15,4 +15,4 @@ title: Samtal
 </div>
 
 
-The Samtal is the Dunmari name for the northern plains that stretch from the [Hara Basin](<./hara-basin.md>) east along the foothills of the [Sentinels](<../../sentinel-range.md>), north of the [~Karawa Desert~](<./karawa-desert.md>).
+The Samtal is the Dunmari name for the northern plains that stretch from the [Hara Basin](<hara-basin.md>) east along the foothills of the [Sentinels](<../../sentinel-range.md>), north of the [~Karawa Desert~](<karawa-desert.md>).

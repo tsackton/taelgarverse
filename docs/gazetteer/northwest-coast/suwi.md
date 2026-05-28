@@ -13,7 +13,7 @@ title: Suwi
 ---
 # Suwi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A village in the [Northwest Coast](<./northwest-coast.md>)  
+-    :octicons-location-24:{ .lg .middle } A village in the [Northwest Coast](<northwest-coast.md>)  
 </div>
 
 

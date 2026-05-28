@@ -13,10 +13,10 @@ title: Goldpeak Mines
 ---
 # Goldpeak Mines
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A mine in [Goldpeak Mountain](<./goldpeak-mountain.md>), the Fiamatara Mountains  
+-    :octicons-location-24:{ .lg .middle } A mine in [Goldpeak Mountain](<goldpeak-mountain.md>), the Fiamatara Mountains  
 </div>
 
 
-An extensive network of ancient Dwarven works under [Goldpeak Mountain](<./goldpeak-mountain.md>) and adjacent peaks in the [Fiatara Mountains](<./fiatara-mountains.md>), abandoned during or shortly after the [Great War](<../../../events/1500s/great-war.md>) and later occupied by monsters.
+An extensive network of ancient Dwarven works under [Goldpeak Mountain](<goldpeak-mountain.md>) and adjacent peaks in the [Fiatara Mountains](<fiatara-mountains.md>), abandoned during or shortly after the [Great War](<../../../events/1500s/great-war.md>) and later occupied by monsters.
 
 

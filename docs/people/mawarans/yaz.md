@@ -12,6 +12,7 @@ whereabouts: Hamri
 dm_owner: none
 dm_notes: none
 title: Yaz
+hide_toc: true
 ---
 # Yaz
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -35,5 +36,5 @@ Yaz preserves fragments of lore about the [Sentient Ocean](<../extraplanar-power
 
 
 
-In early February DR 1749, [Delwath](<../pcs/dunmar-fellowship/delwath.md>) scried [Kaeso](<../chardonians/kaeso.md>) sitting quietly with [Yaz](<./yaz.md>) on top of a tower overlooking the ocean, watching a storm crash against the cliffs. The vision showed Kaeso at peace.
+In early February DR 1749, [Delwath](<../pcs/dunmar-fellowship/delwath.md>) scried [Kaeso](<../chardonians/kaeso.md>) sitting quietly with [Yaz](<yaz.md>) on top of a tower overlooking the ocean, watching a storm crash against the cliffs. The vision showed Kaeso at peace.
 

@@ -15,7 +15,7 @@ title: Embry
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 25,000  
-    :octicons-location-24:{ .lg .middle } A city in the [Duchy of Sembara](<./duchy-of-sembara.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } A city in the [Duchy of Sembara](<duchy-of-sembara.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

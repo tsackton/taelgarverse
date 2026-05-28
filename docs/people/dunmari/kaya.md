@@ -14,6 +14,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Kaya
+hide_toc: true
 ---
 # Kaya
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -16,6 +16,7 @@ excludePublish: [clee]
 dm_owner: tim
 dm_notes: important
 title: Drikod
+hide_toc: true
 ---
 # Drikod
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

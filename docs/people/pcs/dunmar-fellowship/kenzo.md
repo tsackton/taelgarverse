@@ -13,12 +13,13 @@ player: David Kong
 dm_owner: player
 dm_notes: important
 title: Kenzo
+hide_toc: true
 ---
 # Kenzo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>)  
+    A [Dunmari](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Dunmar Fellowship](<dunmar-fellowship.md>)  
     { .bio }
 
 </div>
@@ -237,7 +238,7 @@ title: Kenzo
 > 
 > #### Letter from [Kaeso](<../../chardonians/kaeso.md>) to Kenzo, [Session 67 (DuFr)](<../../../campaigns/dunmari-frontier-campaign/session-notes/session-67-dufr.md>)
 > 
-> this is a letter that [Riswynn](<./riswynn.md>) got from [Rishi](<../../dunmari/rishi.md>), in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), still sealed, addressed to Kenzo, and written in Dunmari
+> this is a letter that [Riswynn](<riswynn.md>) got from [Rishi](<../../dunmari/rishi.md>), in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), still sealed, addressed to Kenzo, and written in Dunmari
 > 
 > 10 September, in the 1748th year of the Drankorian reckoning
 > 

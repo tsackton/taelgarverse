@@ -14,6 +14,6 @@ title: Cha'mutte's Plague
 ---
 # Cha'mutte's Plague
 
-During the closing stages of the [Great War](<./great-war.md>), [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>) created a magical plague of red mist that spread through parts of the [Upper Istaros](<../../gazetteer/upper-istaros/upper-istaros.md>) and [Greater Dunmar](<../../gazetteer/greater-dunmar/greater-dunmar.md>). The plague choked the land and the aftereffects led to the destruction of [Isingue](<../../gazetteer/upper-istaros/isingue.md>) and many of the great cities of eastern [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), such as [Kharsan](<../../gazetteer/greater-dunmar/hara-basin/kharsan.md>). 
+During the closing stages of the [Great War](<great-war.md>), [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>) created a magical plague of red mist that spread through parts of the [Upper Istaros](<../../gazetteer/upper-istaros/upper-istaros.md>) and [Greater Dunmar](<../../gazetteer/greater-dunmar/greater-dunmar.md>). The plague choked the land and the aftereffects led to the destruction of [Isingue](<../../gazetteer/upper-istaros/isingue.md>) and many of the great cities of eastern [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), such as [Kharsan](<../../gazetteer/greater-dunmar/hara-basin/kharsan.md>). 
 
 

@@ -16,5 +16,5 @@ title: Rodnya Kinzal
 </div>
 
 
-The Rodnya Kinzal is one of the eight [rodnye](<./rodnya.md>) that rule [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>). Kinzal is most closely associated with enchantment and illusion magic, and in modern Urskan politics is known for its hostility toward the [novja](<../../gazetteer/northern-green-sea/ursk/ursk.md#the-people-of-ursk>).
+The Rodnya Kinzal is one of the eight [rodnye](<rodnya.md>) that rule [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>). Kinzal is most closely associated with enchantment and illusion magic, and in modern Urskan politics is known for its hostility toward the [novja](<../../gazetteer/northern-green-sea/ursk/ursk.md#the-people-of-ursk>).
 

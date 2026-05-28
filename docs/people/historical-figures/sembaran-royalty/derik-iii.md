@@ -18,6 +18,7 @@ title: King Derik III
 died: 1549
 dm_notes: none
 dm_owner: none
+hide_toc: true
 ---
 # King Derik III
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -34,12 +35,12 @@ dm_owner: none
 
 
 
-The king of Sembara during the [Great War](<../../../events/1500s/great-war.md>); of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>). He reigned from his mother [Charlotte I's](<./charlotte-i.md>) death in DR 1519 until his death, shortly after the end of the Great War, in DR 1549. 
+The king of Sembara during the [Great War](<../../../events/1500s/great-war.md>); of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>). He reigned from his mother [Charlotte I's](<charlotte-i.md>) death in DR 1519 until his death, shortly after the end of the Great War, in DR 1549. 
 
 He is known as one of the greatest kings in Sembaran history, a hero and legendary commander during the Great War, and the savior of his kingdom.
 
-He had two sons ([Reginald](<./reginald.md>) and [Hugh](<./hugh-of-wisenfold.md>)) with his first wife, [Sarabet](<./sarabet.md>), and one son ([Bertram](<./bertram-i.md>)) with his second wife, [Jane of Tollen](<./jane-of-tollen.md>). 
+He had two sons ([Reginald](<reginald.md>) and [Hugh](<hugh-of-wisenfold.md>)) with his first wife, [Sarabet](<sarabet.md>), and one son ([Bertram](<bertram-i.md>)) with his second wife, [Jane of Tollen](<jane-of-tollen.md>). 
 
-Mostly due to the influence of his powerful second wife, [Bertram](<./bertram-i.md>) succeeds him upon his death.
+Mostly due to the influence of his powerful second wife, [Bertram](<bertram-i.md>) succeeds him upon his death.
 
 

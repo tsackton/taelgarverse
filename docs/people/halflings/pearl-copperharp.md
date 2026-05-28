@@ -16,6 +16,7 @@ whereabouts: Emerald Song
 dm_owner: none
 dm_notes: color
 title: Pearl Copperharp
+hide_toc: true
 ---
 # Pearl Copperharp
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -38,4 +39,4 @@ title: Pearl Copperharp
 :octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
 
 
-Pearl is a flirtatious woman in middle age, who has sailed with the [Silversongs](<../../groups/halfling-families/silversongs.md>) on the [Emerald Song](<../../things/ships/emerald-song.md>) for many years. She is the primary cook on board, and often plays the lute with [Harol Silversong](<./harol-silversong.md>) in the evenings. 
+Pearl is a flirtatious woman in middle age, who has sailed with the [Silversongs](<../../groups/halfling-families/silversongs.md>) on the [Emerald Song](<../../things/ships/emerald-song.md>) for many years. She is the primary cook on board, and often plays the lute with [Harol Silversong](<harol-silversong.md>) in the evenings. 

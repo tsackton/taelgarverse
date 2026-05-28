@@ -10,6 +10,7 @@ whereabouts:
 - {type: home, location: Embry}
 - {type: away}
 title: Lenora Belles
+hide_toc: true
 ---
 # Lenora Belles
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

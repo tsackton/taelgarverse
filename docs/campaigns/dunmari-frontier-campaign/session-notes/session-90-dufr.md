@@ -47,7 +47,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - Feb 13, 1749 DR: Travel across [Latazaro](<../../../gazetteer/greater-sembara/latazaro.md>) swamp and the [Western Gulf](<../../../gazetteer/greater-sembara/western-gulf.md>) towards [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>).
 - Feb 14, 1749 DR: Cross the [Western Gulf](<../../../gazetteer/greater-sembara/western-gulf.md>) and the ~Gulf of Tollen~, traveling towards [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>).
 - Feb 15, 1749 DR: Arrive outside [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>) in the morning. Contact [Adam Gower](<../../../people/tollenders/adam-gower.md>) and others, and dock [Vindristjarna](<../../../things/ships/vindristjarna.md>) for construction.
-- Feb 16, 1749 DR - Mar 08, 1749 DR: [Downtime in Tollen](<./interlude-tollen-downtime.md>).
+- Feb 16, 1749 DR - Mar 08, 1749 DR: [Downtime in Tollen](<interlude-tollen-downtime.md>).
 - Mar 09, 1749 DR: Meet the [kenku](<../../../creatures/species/kenku.md>) scout [Kecha](<../../../people/kenku/kecha.md>) on [Vindristjarna](<../../../things/ships/vindristjarna.md>). Shadow hunter attack well after midnight. 
 ### Mirror of the Past
 - Feb 02, 1749 DR: The history of [Nayan Marathu's Letter](<../letters-and-notes/nayan-marathu-s-letter.md>) is reveled in [Nayan Marathu's Letter Vision](<../mirror-visions/nayan-marathu-s-letter-vision.md>) recharge mirror
@@ -83,7 +83,7 @@ Finally, over Kenzo's qualms, the party decides to show the letter to the [Mirro
 
 The party spends the next day tying up loose ends to help the negotiations get started, with Kenzo leaving carved wooden figurines of a united brother and sister for both Sura and Karnas. On February 4th, they depart on Vindristjarna, heading east for Orenlas, and then Tollen, arriving at Tollen in mid-February. 
 
-During this time, the party recruits a [gardener](<../../../people/elves/egnir.md>) in [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>), and [gathers information](<./interlude-tollen-downtime.md>). 
+During this time, the party recruits a [gardener](<../../../people/elves/egnir.md>) in [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>), and [gathers information](<interlude-tollen-downtime.md>). 
 
 On March 9th, in Tollen, the party meets [Kecha](<../../../people/kenku/kecha.md>), the kenku scout who has volunteered to lead them across the northern wilds, to the inland border of [Ursk](<../../../gazetteer/northern-green-sea/ursk/ursk.md>). He tells them of the dangers they may face: frost giants in the mountains; dragons in the icy north; rumors of a vampire kingdom; ice worms that tear through the forest; and changelings who turn into bears. 
 

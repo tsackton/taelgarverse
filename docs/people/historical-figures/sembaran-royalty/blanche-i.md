@@ -16,6 +16,7 @@ affiliations:
 - {org: House of Sewick, type: primary}
 dm_notes: none
 dm_owner: none
+hide_toc: true
 ---
 # Queen Blanche I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,5 +30,5 @@ dm_owner: none
 </div>
 
 
-A ruler of Sembara during the 1560s, she was the second child of [Reginald](<./reginald.md>). Her death launched the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>), as her sisters, [Anne](<./anne.md>) and [Elaine I](<./elaine-i.md>) disputed the succession.
+A ruler of Sembara during the 1560s, she was the second child of [Reginald](<reginald.md>). Her death launched the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>), as her sisters, [Anne](<anne.md>) and [Elaine I](<elaine-i.md>) disputed the succession.
 

@@ -9,6 +9,7 @@ gender: male
 dm_notes: none
 dm_owner: none
 title: Walter of Cleenseau
+hide_toc: true
 ---
 # Walter of Cleenseau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,4 +25,4 @@ title: Walter of Cleenseau
 
 ![Walter Cleenseau](../../assets/walter-cleenseau.png){align="right"; width="320"}An older man, who used to work at the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) helping maintain the barracks and other similar clerking activities. Now retired, although he still lives at the garrison and acts as a sort-of unofficial cleaner.
 
-He is very fond of [Emmeline Duval's](<./emmeline-duval.md>) baking.
+He is very fond of [Emmeline Duval's](<emmeline-duval.md>) baking.

@@ -14,7 +14,7 @@ title: Enad
 # Enad
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A brook in [Tyrwingha](<../../tyrwingha/tyrwingha.md>)  
-    :octicons-location-24:{ .lg .middle } Located [Tyrwinghan Watershed](<./tyrwinghan-watershed.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Tyrwinghan Watershed](<tyrwinghan-watershed.md>)  
 </div>
 
 
@@ -22,5 +22,5 @@ title: Enad
 
 
 
-The Enad is a small brook of northwestern [Tyrwingha](<../../tyrwingha/tyrwingha.md>). It joins the [Rhewin](<./rhewin.md>) just north of the [Tyrwinghan Road](<../../roads/tyrwinghan-road.md>), near [Caerenad](<../../tyrwingha/caerenad.md>).
+The Enad is a small brook of northwestern [Tyrwingha](<../../tyrwingha/tyrwingha.md>). It joins the [Rhewin](<rhewin.md>) just north of the [Tyrwinghan Road](<../../roads/tyrwinghan-road.md>), near [Caerenad](<../../tyrwingha/caerenad.md>).
 

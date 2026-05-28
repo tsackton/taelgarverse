@@ -12,6 +12,7 @@ whereabouts:
 dm_notes: color
 dm_owner: none
 title: Celine Essford
+hide_toc: true
 ---
 # Celine Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -26,4 +27,4 @@ title: Celine Essford
 </div>
 
 
-The wife of [Reginald Essford](<./reginald-essford.md>) and mother of [Wymar Essford](<../sembarans/wymar-essford.md>).
+The wife of [Reginald Essford](<reginald-essford.md>) and mother of [Wymar Essford](<../sembarans/wymar-essford.md>).

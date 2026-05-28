@@ -15,6 +15,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Edur
+hide_toc: true
 ---
 # Edur
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -30,4 +31,4 @@ title: Edur
 :octicons-location-24:{ .lg .middle } Killed by spiders in the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-The brother of [Erdu](<./erdu.md>).
+The brother of [Erdu](<erdu.md>).

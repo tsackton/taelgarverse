@@ -11,6 +11,7 @@ whereabouts: Karawa
 dm_owner: none
 dm_notes: important
 title: Kisa
+hide_toc: true
 ---
 # Kisa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

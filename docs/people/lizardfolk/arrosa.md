@@ -14,6 +14,7 @@ whereabouts: Bedez
 dm_owner: none
 dm_notes: color
 title: Arrosa
+hide_toc: true
 ---
 # Arrosa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

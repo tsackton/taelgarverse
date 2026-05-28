@@ -15,6 +15,7 @@ whereabouts:
 dm_notes: color
 dm_owner: none
 title: Emilie
+hide_toc: true
 ---
 # Emilie
 :speaker:{ .middle } *(Ay-mee-lee)*  

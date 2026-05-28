@@ -7,6 +7,7 @@ gender: male
 dm_owner: none
 dm_notes: color
 title: Karel
+hide_toc: true
 ---
 # Karel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

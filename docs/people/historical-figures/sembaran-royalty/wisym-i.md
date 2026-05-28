@@ -14,6 +14,7 @@ affiliations:
 - {place: Sembara, start: 1568}
 dm_notes: none
 dm_owner: none
+hide_toc: true
 ---
 # King Wisym I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,4 +28,4 @@ dm_owner: none
 </div>
 
 
-The eldest son of [Eloise](<./eloise.md>), he ruled Sembara after the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>). He was a mostly ineffectual king and was partly selected as a compromise because he had no children and thus no immediate heir. He was known to be close to his husband, Alfred. 
+The eldest son of [Eloise](<eloise.md>), he ruled Sembara after the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>). He was a mostly ineffectual king and was partly selected as a compromise because he had no children and thus no immediate heir. He was known to be close to his husband, Alfred. 

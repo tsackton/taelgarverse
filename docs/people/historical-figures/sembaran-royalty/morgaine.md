@@ -13,6 +13,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Morgaine
+hide_toc: true
 ---
 # Morgaine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -15,6 +15,7 @@ whereabouts:
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: Dunfry}
 dm_notes: important
 dm_owner: mike
+hide_toc: true
 ---
 # Sergeant Eveyln Totteridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

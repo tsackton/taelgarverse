@@ -12,6 +12,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Susanne Garay
+hide_toc: true
 ---
 # Susanne Garay
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

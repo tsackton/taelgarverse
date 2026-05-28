@@ -10,6 +10,7 @@ whereabouts: Elemental Plane of Water
 dm_owner: none
 dm_notes: none
 title: Nimessa
+hide_toc: true
 ---
 # Nimessa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -16,12 +16,13 @@ whereabouts:
 - {type: home, location: Eskbridge}
 - {type: home, location: Addermarch}
 title: Fazoth de Brune
+hide_toc: true
 ---
 # Fazoth de Brune
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Addermarch Mercenaries](<./addermarch-mercenaries.md>), and the [de Brunes](<../../../groups/sembaran-noble-houses/de-brunes.md>)  
+    A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him), of the [Addermarch Mercenaries](<addermarch-mercenaries.md>), and the [de Brunes](<../../../groups/sembaran-noble-houses/de-brunes.md>)  
     { .bio }
 
     Originally from: [Eskbridge](<../../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>), the [Duchy of Wisford](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)

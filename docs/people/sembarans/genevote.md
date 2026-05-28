@@ -8,6 +8,7 @@ ancestry: Isinguer
 dm_notes: none
 dm_owner: none
 title: Genevote
+hide_toc: true
 ---
 # Genevote
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

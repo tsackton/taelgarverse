@@ -18,7 +18,7 @@ title: Yuvanti Mountains
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Rose from the ground in DR 1546 (204 years ago)  
-    :octicons-location-24:{ .lg .middle } A mountain range in [Greater Dunmar](<./greater-dunmar.md>)  
+    :octicons-location-24:{ .lg .middle } A mountain range in [Greater Dunmar](<greater-dunmar.md>)  
 </div>
 
 

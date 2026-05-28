@@ -30,4 +30,4 @@ Orenlas proper occupies the forest southeast of ~Lake Cymea~ and southwest of th
 
 Walking through the forest, however, creates a sense of timelessness. The days turn to nights, but hours don't seem to pass at a constant rate, and it is easy for a week to feel like a day, or a day a week. The seasons and the weather are only loosely related to the outside world. There is a faint echo here of the days of creation, before time began, and when the gods still walked the earth. 
 
-While many [Elves](<../../../creatures/species/elves.md>) live in small settlements in Orenlas, there is one major city, called [Erelion](<./erelion.md>), that is claimed to be the oldest continually occupied settlement on Taelgar. 
+While many [Elves](<../../../creatures/species/elves.md>) live in small settlements in Orenlas, there is one major city, called [Erelion](<erelion.md>), that is claimed to be the oldest continually occupied settlement on Taelgar. 

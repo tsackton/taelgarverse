@@ -18,6 +18,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Wendel Quickstep
+hide_toc: true
 ---
 # Wendel Quickstep
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

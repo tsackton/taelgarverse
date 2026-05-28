@@ -17,11 +17,11 @@ title: Pykolon Lake
 :speaker:{ .middle } *(PIE-koh-lon)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A lake in the [Erbalta Plains](<../../northwest-coast/erbalta-plains/erbalta-plains.md>), the [Northwest Coast](<../../northwest-coast/northwest-coast.md>)  
-    :octicons-location-24:{ .lg .middle } Located in the [Chasa-Nahadi Watershed](<./chasa-nahadi-watershed.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Chasa-Nahadi Watershed](<chasa-nahadi-watershed.md>)  
 </div>
 
 
-A small lake nestling in a hilly region on the western edge of the [Erbalta Plains](<../../northwest-coast/erbalta-plains/erbalta-plains.md>); the source of the [Kelvaros](<./kelvaros.md>) and a frequent stop-over place for migrating [Centaurs](<../../../creatures/species/centaurs.md>). 
+A small lake nestling in a hilly region on the western edge of the [Erbalta Plains](<../../northwest-coast/erbalta-plains/erbalta-plains.md>); the source of the [Kelvaros](<kelvaros.md>) and a frequent stop-over place for migrating [Centaurs](<../../../creatures/species/centaurs.md>). 
 
 The name derives from the Drankorian for "spring-hill", and is sometimes referred to as Lake Pegokolonos in historical works. 
 

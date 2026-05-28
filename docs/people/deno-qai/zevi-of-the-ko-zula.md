@@ -14,12 +14,13 @@ affiliations:
 dm_owner: none
 dm_notes: color
 title: Zevi
+hide_toc: true
 ---
 # Zevi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Ko'zula  
+    A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Ko'zula](<../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>)  
     Born DR 1734 (16 years old)  
     { .bio }
 

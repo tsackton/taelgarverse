@@ -16,6 +16,7 @@ whereabouts:
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
 title: Viepuck
+hide_toc: true
 ---
 # Viepuck
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -23,7 +24,7 @@ title: Viepuck
 
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
     Born October 1st, 1706 (43 years old)  
-    Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Member of the [Heroes of Cleenseau](<heroes-of-cleenseau.md>)  
     { .bio }
 
     Originally from: [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
@@ -95,7 +96,8 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 > ![[Treph screenshot.[](Nardith.md)**Sarlana Silversword** (she/her)
 > A human warrior and aspiring paladin from [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>). Confident bordering on overconfident and wearing well-taken-care-of brigandine armor. Braid comes out from under her helm, otherwise only her stern jaw is visible. 
 > 
-> ![Sarlana Screenshot 1](../../../assets/sarlana-screenshot-1.png)
+> ![Sarlana Screenshot (1)](../../../assets/sarlana-screenshot-1.png)
 
 ### Items
-
+| Image | Name | Type | Mechanics |
+| ----- | ---- | ---- | --------- |

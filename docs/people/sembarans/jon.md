@@ -12,6 +12,7 @@ whereabouts: Cleenseau
 dm_notes: none
 dm_owner: none
 title: Jon
+hide_toc: true
 ---
 # Jon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -26,4 +27,4 @@ title: Jon
 </div>
 
 
-A deputy of [Ysabel](<./ysabel.md>) and gateguard; strong and quick with a spear. He was on the bridge during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) and distinguished himself. A strong supporter of [Béatrix Thorne](<./beatrix-thorne.md>).
+A deputy of [Ysabel](<ysabel.md>) and gateguard; strong and quick with a spear. He was on the bridge during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) and distinguished himself. A strong supporter of [Béatrix Thorne](<beatrix-thorne.md>).

@@ -16,6 +16,6 @@ title: Gold Street
 </div>
 
 
-Gold Street is one of the 17 wards of [Tollen](<../tollen.md>), located on the north bank of the [Volta](<../../rivers/volta-watershed/volta.md>) river, west [Bridgeward](<./bridgeward.md>). The now-covered [Fat Brook](<../../rivers/volta-watershed/fat-brook.md>) flows under the ward. The eponymous Gold Street runs east to west parallel to the river, home to merchant estates and banks.
+Gold Street is one of the 17 wards of [Tollen](<../tollen.md>), located on the north bank of the [Volta](<../../rivers/volta-watershed/volta.md>) river, west [Bridgeward](<bridgeward.md>). The now-covered [Fat Brook](<../../rivers/volta-watershed/fat-brook.md>) flows under the ward. The eponymous Gold Street runs east to west parallel to the river, home to merchant estates and banks.
 
 

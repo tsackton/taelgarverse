@@ -11,12 +11,12 @@ title: Ragwater Basin
 ---
 # Ragwater Basin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A neighborhood in the [North Bank](<./north-bank.md>), [Chardon](<./chardon.md>), the [Chardonian Empire](<../chardonian-empire.md>)  
+-    :octicons-location-24:{ .lg .middle } A neighborhood in the [North Bank](<north-bank.md>), [Chardon](<chardon.md>), the [Chardonian Empire](<../chardonian-empire.md>)  
 </div>
 
 
-Ragwater Basin, usually just called the Basin, is a neighborhood downriver from the [North Wall](<./north-wall-chardon.md>). Historically, this was the center of the Chardonian paper-making industry, but in the past 80 years the old paper mills have been converted to [chalyte](<../../../../things/materials/chalyte.md>) refineries, and the [Mill Channel](<./mill-channel.md>) repurposed to carry ore barges from the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>). 
+Ragwater Basin, usually just called the Basin, is a neighborhood downriver from the [North Wall](<north-wall-chardon.md>). Historically, this was the center of the Chardonian paper-making industry, but in the past 80 years the old paper mills have been converted to [chalyte](<../../../../things/materials/chalyte.md>) refineries, and the [Mill Channel](<mill-channel.md>) repurposed to carry ore barges from the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>). 
 
-This is a dirty, stinking area, and only the poorest of the poor actually live here. The nearby [Riverside Quarter](<./riverside-quarter.md>), huddled against the banks of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), is only marginally more pleasant. 
+This is a dirty, stinking area, and only the poorest of the poor actually live here. The nearby [Riverside Quarter](<riverside-quarter.md>), huddled against the banks of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), is only marginally more pleasant. 
 
 Together, the Basin and Riverside make up Precinct XVII.  

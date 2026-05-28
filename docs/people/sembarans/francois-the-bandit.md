@@ -13,6 +13,7 @@ whereabouts: Cleenseau Region
 dm_notes: none
 dm_owner: none
 title: François the Bandit
+hide_toc: true
 ---
 # François the Bandit
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

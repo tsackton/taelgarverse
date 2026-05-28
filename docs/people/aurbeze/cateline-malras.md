@@ -18,6 +18,7 @@ dm_owner: tim
 dm_notes: none
 pronunciation: KAT-eh-leen mahl-RAH
 title: Cateline Malras
+hide_toc: true
 ---
 # Cateline Malras
 :speaker:{ .middle } *(KAT-eh-leen mahl-RAH)*  

@@ -8,7 +8,7 @@ title: Political Organization of Tyrwingha
 
 
 
-Tyrwingha is a rural place, with no cities of any size outside of [Tafolwern](<./tafolwern.md>), and most people live in small villages and market towns of between 50 and 1000 people. 
+Tyrwingha is a rural place, with no cities of any size outside of [Tafolwern](<tafolwern.md>), and most people live in small villages and market towns of between 50 and 1000 people. 
 
 Unlike in [Sembara](<../sembara/sembara.md>), where the manor is the main unit of political organization, Tyrwingha is fundamentally organized, from the bottom, around the village, and from the top, around the earls. 
 

@@ -10,10 +10,10 @@ title: Enderra
 ---
 # Enderra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A lost realm in [Apporia](<./apporia.md>), [Greater Chardon](<../../greater-chardon.md>)  
+-    :octicons-location-24:{ .lg .middle } A lost realm in [Apporia](<apporia.md>), [Greater Chardon](<../../greater-chardon.md>)  
 </div>
 
 
-Enderra a stoneborn realm that once existed in the interior mountains of the [Apporian Peninsula](<./apporia.md>). It was destroyed during the [War of the Dark Rift](<../../../../events/1500s/war-of-the-dark-rift.md>).
+Enderra a stoneborn realm that once existed in the interior mountains of the [Apporian Peninsula](<apporia.md>). It was destroyed during the [War of the Dark Rift](<../../../../events/1500s/war-of-the-dark-rift.md>).
 
 

@@ -14,6 +14,7 @@ campaignInfo:
 dm_owner: player
 dm_notes: none
 title: Agnor
+hide_toc: true
 ---
 # Agnor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

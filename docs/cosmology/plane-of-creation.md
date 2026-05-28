@@ -12,8 +12,8 @@ title: Plane of Creation
 ---
 # The Plane of Creation
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A plane in the [multiverse](<./multiverse.md>)  
-    :octicons-location-24:{ .lg .middle } Sometimes considered part of the [Astral Plane](<./astral-plane.md>)  
+-    :octicons-location-24:{ .lg .middle } A plane in the [multiverse](<multiverse.md>)  
+    :octicons-location-24:{ .lg .middle } Sometimes considered part of the [Astral Plane](<astral-plane.md>)  
 </div>
 
 

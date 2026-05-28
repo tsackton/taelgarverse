@@ -16,6 +16,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Adra Brightwood
+hide_toc: true
 ---
 # Adra Brightwood
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -31,6 +32,6 @@ title: Adra Brightwood
 :octicons-location-24:{ .lg .middle } Last known location (as of February 1st, 1720): the [Aveil Ridge](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aveil-ridge.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-![Adra Brightwood](../../assets/adra-brightwood.jpg){align="right"; width="400"} A wanderer, woodswalker, and skilled swordswoman. Cousin of [Enzo Brightwood](<./enzo-brightwood.md>).
+![Adra Brightwood](../../assets/adra-brightwood.jpg){align="right"; width="400"} A wanderer, woodswalker, and skilled swordswoman. Cousin of [Enzo Brightwood](<enzo-brightwood.md>).
 
 

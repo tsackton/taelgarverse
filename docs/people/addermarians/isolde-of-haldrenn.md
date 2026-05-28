@@ -13,6 +13,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 title: Isolde of Haldrenn
+hide_toc: true
 ---
 # Isolde of Haldrenn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -30,6 +31,6 @@ title: Isolde of Haldrenn
 :octicons-location-24:{ .lg .middle } Mentioned to by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
-A villager of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>); wife of [Karl](<./karl.md>) and mother of [Bran](<./bran.md>).
+A villager of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>); wife of [Karl](<karl.md>) and mother of [Bran](<bran.md>).
 
 

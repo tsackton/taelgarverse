@@ -10,4 +10,4 @@ title: Flaming Tempest Log Books
 
 The log books of the[Flaming Tempest](<../../../things/ships/flaming-tempest.md>). [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), using his experience in navigation, was able to reconstruct the path of the Flaming Tempest based on these logs:
 
-![Flaming Tempest](<../../../things/ships/flaming-tempest.md#travels>)
+![Flaming Tempest#Travels](<../../../things/ships/flaming-tempest.md#travels>)

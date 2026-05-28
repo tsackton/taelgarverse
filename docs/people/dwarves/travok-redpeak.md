@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Travok Redpeak
+hide_toc: true
 ---
 # Travok Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -15,6 +15,7 @@ image: nuzkar-small.png
 dm_notes: color
 dm_owner: tim
 title: Nuzkar
+hide_toc: true
 ---
 # Nuzkar
 :speaker:{ .middle } *(NUZ-car)*  
@@ -34,9 +35,7 @@ title: Nuzkar
 
 ![Nuzkar Potrait](../../assets/nuzkar-potrait.png){align="right"; width="320"}An orc scholar, loremaster, and archivist, seeking stories, rumors, and information about other free orcs, about how [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)'s enslavement works, and how to free more of her people. 
 
-She has a twin sister, [Aygul](<./aygul.md>), as well as a husband and large family in Uzgukhar. 
+She has a twin sister, [Aygul](<aygul.md>), as well as a husband and large family in Uzgukhar. 
 
-
-Inspired by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) and the [Battle for Uzgukhar](<../../events/1700s/1749/battle-for-uzgukhar.md>) to rededicate herself to her childhood dream of doing more for all orcs who suffer, unfree, in [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)'s control. 
 
 

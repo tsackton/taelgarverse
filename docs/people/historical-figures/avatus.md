@@ -9,6 +9,7 @@ title: Emperor Avatus
 gender: male
 dm_notes: none
 dm_owner: joint
+hide_toc: true
 ---
 # Emperor Avatus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

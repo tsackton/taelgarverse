@@ -20,6 +20,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: color
 title: Harriet Goodbarrel
+hide_toc: true
 ---
 # Harriet Goodbarrel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -45,11 +46,11 @@ title: Harriet Goodbarrel
 
 ![Harriet Goodbarrel](../../assets/harriet-goodbarrel.png){align="right"; width="300"}
 
-Harriet's melodious voice graces *[The Singing Fox](<../../gazetteer/greater-sembara/tollen/places/the-singing-fox.md>)* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [Chenna](<./chenna-goodbarrel.md>), she's made the tavern a warm haven for many.
+Harriet's melodious voice graces *[The Singing Fox](<../../gazetteer/greater-sembara/tollen/places/the-singing-fox.md>)* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [Chenna](<chenna-goodbarrel.md>), she's made the tavern a warm haven for many.
 
 Harriet married into the [Goodbarrel clan](<../../groups/halfling-families/goodbarrels.md>); while she never had her own children, she feels a matronly duty to all the scattered Goodbarrel youth. 
 ## Relationships
-- [Chenna Goodbarrel](<./chenna-goodbarrel.md>), wife
+- [Chenna Goodbarrel](<chenna-goodbarrel.md>), wife
 - [Wellby](<../pcs/dunmar-fellowship/wellby.md>), a distant relation, something like a third cousin once removed by marriage
 
 

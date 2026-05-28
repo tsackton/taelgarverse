@@ -10,7 +10,7 @@ title: Blackwater Fens
 ---
 # The Blackwater Fens
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A fen in the [Northern Sentinels](<./northern-sentinels.md>)  
+-    :octicons-location-24:{ .lg .middle } A fen in the [Northern Sentinels](<northern-sentinels.md>)  
 </div>
 
 
@@ -28,5 +28,5 @@ Winters are long, cold, and wet, with frequent ground mists and occasional crust
 
 ## Ecology
 
-Vegetation transitions from open conifer woodland on better‑drained rises to blankets of bog shrubs, sedges, and mosses across the peat flats. Amphibians and wetland fauna are common. Communities of bullywugs occupy portions of the wetlands, especially near reliable fishing grounds and sheltered pools.
+Vegetation transitions from open conifer woodland on better‑drained rises to blankets of bog shrubs, sedges, and mosses across the peat flats. Amphibians and wetland fauna are common. Communities of [bullywugs](<../../creatures/unsorted/bullywugs.md>) occupy portions of the wetlands, especially near reliable fishing grounds and sheltered pools.
 

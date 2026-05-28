@@ -9,6 +9,7 @@ whereabouts:
 - {type: home, location: Wickerley}
 - {type: home, location: Tollen}
 title: Edric
+hide_toc: true
 ---
 # Edric
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

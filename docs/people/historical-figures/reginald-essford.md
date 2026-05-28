@@ -16,6 +16,7 @@ whereabouts:
 - {type: home, location: Cleenseau, start: 1651}
 dm_notes: color
 dm_owner: none
+hide_toc: true
 ---
 # Lord Reginald Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -31,7 +32,7 @@ dm_owner: none
 </div>
 
 
-The father of [Wymar Essford](<../sembarans/wymar-essford.md>) and the founder of [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). The husband of [Celine Essford](<./celine-essford.md>). He was granted the lordship of the newly recreated [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>) for valiant service during the [hobgoblin wars](<../../events/1600s/third-hobgoblin-war-sembara.md>). 
+The father of [Wymar Essford](<../sembarans/wymar-essford.md>) and the founder of [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). The husband of [Celine Essford](<celine-essford.md>). He was granted the lordship of the newly recreated [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>) for valiant service during the [hobgoblin wars](<../../events/1600s/third-hobgoblin-war-sembara.md>). 
 
 He was known as a careful steward of the town, and Cleenseau thrived and grew under his leadership. He was generous with lease terms and other land grants of relatively large and intact buildings in the Garrison Quarter, especially in the 1660s, as a well to reestablish a wealthy clientele in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) after the devastation of the wars. 
 

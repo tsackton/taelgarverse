@@ -15,6 +15,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Agon
+hide_toc: true
 ---
 # Agon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -35,6 +36,6 @@ title: Agon
 
 
 
-[Vola](<./vola.md>)'s mentor, a member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) and scholar in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). 
+[Vola](<vola.md>)'s mentor, a member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>) and scholar in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). 
 
 

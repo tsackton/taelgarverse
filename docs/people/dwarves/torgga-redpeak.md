@@ -12,6 +12,7 @@ whereabouts: Darba
 dm_owner: none
 dm_notes: color
 title: Torgga Redpeak
+hide_toc: true
 ---
 # Torgga Redpeak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

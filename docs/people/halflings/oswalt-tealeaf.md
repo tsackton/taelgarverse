@@ -19,6 +19,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: color
 title: Oswalt Tealeaf
+hide_toc: true
 ---
 # Oswalt Tealeaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -45,11 +46,11 @@ Oswalt Tealeaf is a halfling adventurer, archer, and scout. He grew up traveling
 
 After the Tealeaf clan encountered trouble with Agata Dustmother, and lost Garret Tealeaf, Oswalt decided to learn to defend himself, and picked up the shortbow. After spending several years traveling with his family on safe roads far from the frontier, he met and fell in love with Jasmine Sunmeadow in Darba, who also wanted to adventure, and they left together for the north on the [Emerald Song](<../../things/ships/emerald-song.md>). 
 ## Relationships
-- [Garret Tealeaf](<./garret-tealeaf.md>), cousin
-- [Jasmine Sunmeadow](<./jasmine-sunmeadow.md>), wife
+- [Garret Tealeaf](<garret-tealeaf.md>), cousin
+- [Jasmine Sunmeadow](<jasmine-sunmeadow.md>), wife
 ## Events
-- 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.
-- 1747 DR: Oswalt meets and falls in love with [Jasmine Sunmeadow](<./jasmine-sunmeadow.md>) in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)
+- 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<garret-tealeaf.md>) is captured.
+- 1747 DR: Oswalt meets and falls in love with [Jasmine Sunmeadow](<jasmine-sunmeadow.md>) in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)
 - 1748 DR: Jasmine and Oswalt are married
 - Aug 09, 1748 DR: Jasmine and Oswalt leave Darba together on the Emerald Song, heading for adventure
 

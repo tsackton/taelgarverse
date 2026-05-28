@@ -10,6 +10,7 @@ whereabouts: Castrella
 dm_owner: tim
 dm_notes: color
 title: Tullus
+hide_toc: true
 ---
 # Tullus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

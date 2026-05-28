@@ -17,7 +17,7 @@ During the journey from the [Copper Hills](<../../../gazetteer/greater-dunmar/da
 - Does [Rodnya Voknaz](<../../../groups/urskan-magical-organizations/rodnya-voknaz.md>) currently have a jade piece of Rai’s hand? **UNKNOWN**
 - Is [Radomir](<../../../people/other-humans/radomir.md>)’s sister [Yelena](<../../../people/other-humans/yelena.md>) a member of the Rodnya Voknaz? **YES**
 - Is Lord [Rhodar von Glauer](<../../../people/other-nonhumans/rhodar-von-glauer.md>) a vampire? **YES**
-- Are the Vargaldi human? **UNCERTAIN**
+- Are the [Vargaldi](<../../../groups/cultures/vargaldi.md>) human? **UNCERTAIN**
 
 ## Bastion Information
 

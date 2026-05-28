@@ -14,6 +14,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Robert
+hide_toc: true
 ---
 # Robert
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -13,6 +13,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 title: Alewyn
+hide_toc: true
 ---
 # Alewyn
 :speaker:{ .middle } *(EYE-loo-in)*  

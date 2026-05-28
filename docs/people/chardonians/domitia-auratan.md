@@ -8,6 +8,7 @@ died: 1723
 dm_notes: important
 dm_owner: tim
 title: Domitia Auratan
+hide_toc: true
 ---
 # Domitia Auratan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -20,4 +21,4 @@ title: Domitia Auratan
 </div>
 
 
-The mother of the current Magistros of Chardon, [Mitus Verina Auratan](<./mitus-verina-auratan.md>). Died shortly after giving birth.
+The mother of the current Magistros of Chardon, [Mitus Verina Auratan](<mitus-verina-auratan.md>). Died shortly after giving birth.

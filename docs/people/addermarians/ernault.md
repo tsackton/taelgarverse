@@ -13,6 +13,7 @@ whereabouts:
 - {type: home, location: Roscombe}
 dm_owner: none
 dm_notes: none
+hide_toc: true
 ---
 # Master Ernault
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -30,5 +31,5 @@ dm_notes: none
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 22th, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
-Master Ernault serves as chief clerk in Lady [Elowen Duval](<./elowen-duval.md>)’s household. An older man with a study overflowing with papers and ledgers, he maintains records of [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>) dating back to its creation in the wars against [Avatus](<../historical-figures/avatus.md>). He walks with a cane, but has a sharp mind.
+Master Ernault serves as chief clerk in Lady [Elowen Duval](<elowen-duval.md>)’s household. An older man with a study overflowing with papers and ledgers, he maintains records of [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>) dating back to its creation in the wars against [Avatus](<../historical-figures/avatus.md>). He walks with a cane, but has a sharp mind.
 

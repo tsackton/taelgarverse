@@ -12,6 +12,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Kurome
+hide_toc: true
 ---
 # Kurome
 :speaker:{ .middle } *(ku-ROW-may)*  

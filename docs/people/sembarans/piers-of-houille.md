@@ -9,6 +9,7 @@ dm_notes: none
 dm_owner: none
 species: human
 title: Piers of Houille
+hide_toc: true
 ---
 # Piers of Houille
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

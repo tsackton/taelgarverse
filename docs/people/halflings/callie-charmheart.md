@@ -21,6 +21,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Callie Charmheart
+hide_toc: true
 ---
 # Callie Charmheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -47,10 +48,8 @@ title: Callie Charmheart
 One of the Charmhearts, a halfling family of long-distance merchants and traders, who make a living trading between [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) and [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). 
 
 ## Relationships
-- [Ander Charmheart](<./ander-charmheart.md>), younger brother and traveling companion
-- [Bree Charmheart](<./bree-charmheart.md>), grandmother and traveling companion
-
-- [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion 
+- [Ander Charmheart](<ander-charmheart.md>), younger brother and traveling companion
+- [Bree Charmheart](<bree-charmheart.md>), grandmother and traveling companion
 
 
 

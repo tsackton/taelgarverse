@@ -13,6 +13,7 @@ displayDefaults: {aNoDate: Traveled with <affiliations>}
 affiliations:
 - {org: Dunmar Fellowship, title: Guest"}
 title: Merash
+hide_toc: true
 ---
 # Merash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

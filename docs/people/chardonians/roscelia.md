@@ -12,6 +12,7 @@ whereabouts: Chardon
 dm_notes: important
 dm_owner: tim
 title: Roscelia
+hide_toc: true
 ---
 # Roscelia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -28,7 +29,7 @@ title: Roscelia
 
 
 
-An elderly magician, prim and proper, a member of the Faculty of Magic at the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>) and [Kaeso](<./kaeso.md>)'s mentor.
+An elderly magician, prim and proper, a member of the Faculty of Magic at the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>) and [Kaeso](<kaeso.md>)'s mentor.
 
-Still somewhat friendly with [Kaeso](<./kaeso.md>), despite her disappointment in his path and refusal to share secrets with the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 
+Still somewhat friendly with [Kaeso](<kaeso.md>), despite her disappointment in his path and refusal to share secrets with the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 
 

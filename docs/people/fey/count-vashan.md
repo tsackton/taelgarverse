@@ -10,6 +10,7 @@ aliases: [The Broken Mask]
 dm_notes: none
 dm_owner: none
 title: Count Vashan
+hide_toc: true
 ---
 # Count Vashan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

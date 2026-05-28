@@ -11,7 +11,7 @@ title: Darakan
 ---
 # Darakan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../creatures/species/dwarves.md>) city in [Khatridun](<./khatridun.md>), [Labkhan](<../../sentinel-range.md>)  
+-    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../creatures/species/dwarves.md>) city in [Khatridun](<khatridun.md>), [Labkhan](<../../sentinel-range.md>)  
 </div>
 
 

@@ -13,6 +13,7 @@ affiliations:
 - {org: Dunmar, start: 1728, end: 1740, type: leader}
 dm_notes: important
 dm_owner: tim
+hide_toc: true
 ---
 # Samraat Nayan Marathu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

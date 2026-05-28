@@ -11,6 +11,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Govir
+hide_toc: true
 ---
 # Govir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

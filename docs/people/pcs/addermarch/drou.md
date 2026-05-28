@@ -14,12 +14,13 @@ whereabouts:
 - {type: home, location: Orenlas}
 - {type: home, location: Addermarch}
 title: Drou
+hide_toc: true
 ---
 # Drou
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../creatures/species/elves.md>) (she/her), of the [Addermarch Mercenaries](<./addermarch-mercenaries.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
+    An [elf](<../../../creatures/species/elves.md>) (she/her), of the [Addermarch Mercenaries](<addermarch-mercenaries.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) 37)  
     { .bio }
 
     Originally from: [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)

@@ -9,6 +9,7 @@ whereabouts: Chardon
 dm_notes: none
 dm_owner: none
 title: Amelia
+hide_toc: true
 ---
 # Amelia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,4 +26,4 @@ title: Amelia
 Amelia is a mid-level official, part of the [Chamber of Stamps](<../../groups/chardonian-organizations/chamber-of-stamps.md>), involved in the work of managing the [chalyte](<../../things/materials/chalyte.md>) monopoly. 
 
 
-Amelia was controlled for some time by [Fausto](<./fausto.md>) using the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>), and when that control was broken she was left adrift and lost in her own mind, clinging strangely to Dwarven prayers for comfort. 
+Amelia was controlled for some time by [Fausto](<fausto.md>) using the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>), and when that control was broken she was left adrift and lost in her own mind, clinging strangely to Dwarven prayers for comfort. 

@@ -11,6 +11,7 @@ whereabouts: Hamri
 dm_owner: none
 dm_notes: none
 title: Sulfi Mahadra
+hide_toc: true
 ---
 # Sulfi Mahadra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

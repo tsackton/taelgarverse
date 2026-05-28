@@ -75,7 +75,7 @@ DR 1173 - DR 1395
 
 *See also: Timeline of the Aatmaji Dynasty*
 
-The first Samraat of Dunmar, the blessed [Bhishma](<../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>) who became a deity after her death, founded the ruling Aatmaji dynasty, which ruled Dunmar for 212 years. During this time, [Kharsan](<../../hara-basin/kharsan.md>) was the chief administrative headquarters of the realm, and the heartland of Dunmar was centered on the Khartja river valley. The greatest dangers that threatened the new kingdom came out of the swamps of [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>), a cursed land still. The Aatmaji Dynasty ended when the Samraat Aatmaji [Dasa](<../../../../people/historical-figures/dunmari-rulers/dasa.md>), the last of the Aatmaji rulers attempted to invade [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>), and failed, disastrously, never to return. 
+The first Samraat of Dunmar, the blessed [Bhishma](<../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>) who became a deity after her death, founded the ruling [Aatmaji dynasty](<../../../../groups/dunmari-dynasties/aatmaji-dynasty.md>), which ruled Dunmar for 212 years. During this time, [Kharsan](<../../hara-basin/kharsan.md>) was the chief administrative headquarters of the realm, and the heartland of Dunmar was centered on the Khartja river valley. The greatest dangers that threatened the new kingdom came out of the swamps of [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>), a cursed land still. The Aatmaji Dynasty ended when the Samraat Aatmaji [Dasa](<../../../../people/historical-figures/dunmari-rulers/dasa.md>), the last of the Aatmaji rulers attempted to invade [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>), and failed, disastrously, never to return. 
 
 ### Dharajun Dynasty
 DR 1403 - DR 1545
@@ -108,13 +108,13 @@ In the 191st year of the Nayan Dynasty (DR 1748), Sura was freed from captivity 
 
 ### Culture
 
-The Dunmari have long been a nomadic people, traditionally moving seasonally with their horses and herds, and only returning to permanent settlements and temples for major festivals. They are known for skill with animals, prowess in battle, and a close connection to their gods, the [Dunmari Religion](<../../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>). The traditional focus of Dunmari settlement on religious, monumental, and administrative buildings has led to a variety of distinctive [Dunmari architectural styles](<./dunmari-architecture.md>). 
+The Dunmari have long been a nomadic people, traditionally moving seasonally with their horses and herds, and only returning to permanent settlements and temples for major festivals. They are known for skill with animals, prowess in battle, and a close connection to their gods, the [Dunmari Religion](<../../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>). The traditional focus of Dunmari settlement on religious, monumental, and administrative buildings has led to a variety of distinctive [Dunmari architectural styles](<dunmari-architecture.md>). 
 
 During the Nayan Dynasty, a more sedentary culture has developed on the fertile [Nayan Floodplains](<../../nayan-floodplains.md>) and [Darba Highlands](<../../darba-highlands/darba-highlands.md>). 
 
 ### Political Organization
 
-*See more: [Dunmari Government](<./dunmari-government.md>)*
+*See more: [Dunmari Government](<dunmari-government.md>)*
 
 Dunmar is a theocratic monarchy, in which all power ultimately flows from the gods. The land of Dunmar itself is held in trust for the gods, and cannot be owned in a formal sense by mortals. The Samraat is the representative of the [Dunmari Religion](<../../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>) on Taelgar, and is formally both the head of state and the head of the temple organization in Dunmar, which are traditionally considered the same office. 
 
@@ -150,7 +150,7 @@ In general, the practice of magic by those who are not priests or mystai is frow
 
 ### Economy, Trade, and Foreign Relations
 
-*See also: [Dunmari Economy](<./dunmari-economy.md>)*
+*See also: [Dunmari Economy](<dunmari-economy.md>)*
 
 Dunmar is largely agrarian, with an economy dominated by animal production. Dunmari horses are highly sought after, most notably, but the Dunmari are also known for leather products, wool, hides, and fur. Some seasonal crops are grown in the [Hara Basin](<../../hara-basin/hara-basin.md>), as well as near the oases of the [Red Mesa](<eastern-dunmar/red-mesa.md>).
 

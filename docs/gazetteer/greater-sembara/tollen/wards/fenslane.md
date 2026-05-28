@@ -15,5 +15,5 @@ title: Fenslane
 </div>
 
 
-Fenslane is one of the newer wards of the city, on drained marshland on the south bank of the [Volta](<../../rivers/volta-watershed/volta.md>) west of [Southbridge](<./southbridge.md>), where damp lanes, sheds, and cheap lodgings crowd along drainage ditches and the lower reaches of the [Muddy River](<../../../extraplanar/shadowfolds/morkalan/muddy-river.md>). 
+Fenslane is one of the newer wards of the city, on drained marshland on the south bank of the [Volta](<../../rivers/volta-watershed/volta.md>) west of [Southbridge](<southbridge.md>), where damp lanes, sheds, and cheap lodgings crowd along drainage ditches and the lower reaches of the [Muddy River](<../../../extraplanar/shadowfolds/morkalan/muddy-river.md>). 
 

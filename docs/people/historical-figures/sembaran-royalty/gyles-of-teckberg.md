@@ -12,6 +12,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Gyles
+hide_toc: true
 ---
 # Gyles
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,4 +26,4 @@ title: Gyles
 </div>
 
 
-The fifth child of [Reginald](<./reginald.md>), Gyles founded the great House of Teckberg, based in the [Highlands](<../../../gazetteer/greater-sembara/sembara/highlands/highlands.md>).  
+The fifth child of [Reginald](<reginald.md>), Gyles founded the great House of Teckberg, based in the [Highlands](<../../../gazetteer/greater-sembara/sembara/highlands/highlands.md>).  

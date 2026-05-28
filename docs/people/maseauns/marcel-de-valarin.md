@@ -9,6 +9,7 @@ whereabouts: Valarin
 dm_notes: none
 dm_owner: mike
 title: Marcel de Valarin
+hide_toc: true
 ---
 # Marcel de Valarin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -17,6 +17,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Corrin Wildheart
+hide_toc: true
 ---
 # Corrin Wildheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -40,4 +41,4 @@ title: Corrin Wildheart
 
 Corrin Wildheart is a navigator with a touch of weather magic, part of the crew of the halfling trading ship the [Wave Dancer](<../../things/ships/wave-dancer.md>). He has bright blond unkempt hair, and tends towards yellow and red clothes.
 ## Relationships
-Corrin married into the [Brightmoon trading family](<../../groups/halfling-families/brightmoons.md>), and now sails with them, along with his younger brother [Lerry Wildheart](<./lerry-wildheart.md>).
+Corrin married into the [Brightmoon trading family](<../../groups/halfling-families/brightmoons.md>), and now sails with them, along with his younger brother [Lerry Wildheart](<lerry-wildheart.md>).

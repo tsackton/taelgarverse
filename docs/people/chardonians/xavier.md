@@ -9,6 +9,7 @@ whereabouts: Chardon
 dm_notes: none
 dm_owner: none
 title: Xavier
+hide_toc: true
 ---
 # Xavier
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

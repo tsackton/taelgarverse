@@ -17,6 +17,7 @@ whereabouts:
 dm_notes: color
 dm_owner: tim
 title: Samerki
+hide_toc: true
 ---
 # Samerki
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

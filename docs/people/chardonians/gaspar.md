@@ -8,6 +8,7 @@ whereabouts: Nera Domains
 dm_notes: important
 dm_owner: tim
 title: Gaspar
+hide_toc: true
 ---
 # Gaspar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -20,4 +21,4 @@ title: Gaspar
 </div>
 
 
-Gaspar is a prominent member of the [Chamber of Stamps](<../../groups/chardonian-organizations/chamber-of-stamps.md>), involved in the Chalyte Council. He is currently recovering, slowly, from many years living under [Fausto](<./fausto.md>)'s control. 
+Gaspar is a prominent member of the [Chamber of Stamps](<../../groups/chardonian-organizations/chamber-of-stamps.md>), involved in the Chalyte Council. He is currently recovering, slowly, from many years living under [Fausto](<fausto.md>)'s control. 

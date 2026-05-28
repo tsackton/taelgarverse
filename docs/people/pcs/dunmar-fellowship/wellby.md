@@ -14,13 +14,14 @@ affiliations:
 - {org: Dunmar Fellowship}
 - {org: Goodbarrels, type: primary}
 title: Wellby
+hide_toc: true
 ---
 # Wellby
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../../creatures/species/halflings.md>) (he/him), of the [Goodbarrels](<../../../groups/halfling-families/goodbarrels.md>)  
-    Member of the [Dunmar Fellowship](<./dunmar-fellowship.md>)  
+    Member of the [Dunmar Fellowship](<dunmar-fellowship.md>)  
     { .bio }
 
 </div>
@@ -51,7 +52,7 @@ title: Wellby
 > 
 > The Year of Singing Grass (1747 DE): Wellby leaves his family to travel in August, wandering around but gradually moving south. Arrives at the mountain passes too late to cross this season.
 > 
-> The Year of Shadowed Dreams (1748 DE): Wellby crosses the mountains as soon as the passes clear, and arrives in [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), meeting [Kenzo](<./kenzo.md>), [Seeker](<./seeker.md>), [Delwath](<./delwath.md>) and [Riswynn](<./riswynn.md>) in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) in March.
+> The Year of Shadowed Dreams (1748 DE): Wellby crosses the mountains as soon as the passes clear, and arrives in [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), meeting [Kenzo](<kenzo.md>), [Seeker](<seeker.md>), [Delwath](<delwath.md>) and [Riswynn](<riswynn.md>) in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) in March.
 
 > [!warning]- Memories and Dreams from the Halfing Ancestral Mind
 > 
@@ -83,7 +84,7 @@ title: Wellby
 > 
 > A cold morning on a wavy beach, waking at dawn, offering a word of thanks to Sigga the giant beneath the waves, a wild storm passing offshore, flashes of lightning and peals of thunder seeming to acknowledge your presence, as if the storm itself were the manifestation of Sigga herself.
 > 
-> *Holding a shortbow summoned from shadow by [Delwath](<./delwath.md>), [Session 26 (DuFr)](<../../../campaigns/dunmari-frontier-campaign/session-notes/session-26-dufr.md>)*
+> *Holding a shortbow summoned from shadow by [Delwath](<delwath.md>), [Session 26 (DuFr)](<../../../campaigns/dunmari-frontier-campaign/session-notes/session-26-dufr.md>)*
 > A very brief memory. A clear pool, deep in the woods, the shadows of the forest around you, calm, peace, the twilight above.
 > 
 > *Halfling patriarch traveling, [Session 27 (DuFr)](<../../../campaigns/dunmari-frontier-campaign/session-notes/session-27-dufr.md>)*

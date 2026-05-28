@@ -16,6 +16,7 @@ affiliations:
 - {place: Tyrwingha, start: 1589, title: Queen}
 dm_notes: none
 dm_owner: mike
+hide_toc: true
 ---
 # Queen Elaine I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -32,11 +33,11 @@ dm_owner: mike
 </div>
 
 
-The twin sister of [Anne](<./anne.md>), her disputes with her sister over the throne dominated the 1560s and 1580s.
+The twin sister of [Anne](<anne.md>), her disputes with her sister over the throne dominated the 1560s and 1580s.
 
-Elaine spent much of the 1570s in Tyrwingha, and married the King of Tyrwingha, [Cynan](<./cynan.md>), thus reuniting the crowns that had been sundered on [Derik III's](<./derik-iii.md>) death at the end of the Great War. 
+Elaine spent much of the 1570s in Tyrwingha, and married the King of Tyrwingha, [Cynan](<cynan.md>), thus reuniting the crowns that had been sundered on [Derik III's](<derik-iii.md>) death at the end of the Great War. 
 
-Her three children were: [Arryn I](<./arryn-i.md>), [Blanche II](<./blanche-ii.md>), and [Derik](<./derik-of-lils.md>). 
+Her three children were: [Arryn I](<arryn-i.md>), [Blanche II](<blanche-ii.md>), and [Derik](<derik-of-lils.md>). 
 
 
 

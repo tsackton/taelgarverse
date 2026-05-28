@@ -10,6 +10,7 @@ gender: male
 dm_notes: important
 dm_owner: tim
 title: Odim Mavdyrson
+hide_toc: true
 ---
 # Odim Mavdyrson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,4 +25,4 @@ title: Odim Mavdyrson
 
 
 
-A fire giant, the son of [Mavdyr](<./mavdyr.md>) (who was killed in the [Fire War](<../../events/1500s/fire-war.md>)). Sought [Dwarves](<../../creatures/species/dwarves.md>) for revenge; killed in the process but not before seeing [Hagrim](<../dwarves/hagrim.md>) turn on [Nora](<../dwarves/nora-silverspark.md>). 
+A fire giant, the son of [Mavdyr](<mavdyr.md>) (who was killed in the [Fire War](<../../events/1500s/fire-war.md>)). Sought [Dwarves](<../../creatures/species/dwarves.md>) for revenge; killed in the process but not before seeing [Hagrim](<../dwarves/hagrim.md>) turn on [Nora](<../dwarves/nora-silverspark.md>). 

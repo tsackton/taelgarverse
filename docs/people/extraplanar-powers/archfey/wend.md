@@ -13,7 +13,7 @@ title: Wend
 ---
 # Wend
 
-Wend, the Silence That Follows, an archfey and the ruler of [Hollowdark](<../../../gazetteer/extraplanar/feywild/hollowdark.md>). She is often spoken of in the same sentence as [Harrow](<./harrow.md>), the Shadow That Looms, ruler of [Darkfall](<../../../gazetteer/extraplanar/feywild/darkfall.md>); whether these are truly two separate entities, or two aspects of the same dread, is not known. 
+Wend, the Silence That Follows, an archfey and the ruler of [Hollowdark](<../../../gazetteer/extraplanar/feywild/hollowdark.md>). She is often spoken of in the same sentence as [Harrow](<harrow.md>), the Shadow That Looms, ruler of [Darkfall](<../../../gazetteer/extraplanar/feywild/darkfall.md>); whether these are truly two separate entities, or two aspects of the same dread, is not known. 
 
 
 

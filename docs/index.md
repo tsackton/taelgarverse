@@ -2,7 +2,7 @@
 rooted: true
 hide: [navigation]
 template: home.html
-title: Index
+title: Home
 ---
 
 This is the "Campaign Bible" for Taelgar, a collection of notes, information, and facts about the world that have been introduced in play. 

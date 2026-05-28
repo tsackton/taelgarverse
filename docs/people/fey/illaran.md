@@ -15,6 +15,7 @@ affiliations:
 dm_owner: none
 dm_notes: important
 title: Illaran
+hide_toc: true
 ---
 # Illaran
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

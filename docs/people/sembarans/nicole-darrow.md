@@ -10,6 +10,7 @@ whereabouts: Taviose
 dm_owner: none
 dm_notes: none
 title: Nicole Darrow
+hide_toc: true
 ---
 # Nicole Darrow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -23,4 +24,4 @@ title: Nicole Darrow
 </div>
 
 
-The youngest daughter of [Hugh Darrow](<./hugh-darrow.md>), and his favorite. She was killed during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>), but [Hugh Darrow](<./hugh-darrow.md>) is thankful to the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) for recovering her body. 
+The youngest daughter of [Hugh Darrow](<hugh-darrow.md>), and his favorite. She was killed during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>), but [Hugh Darrow](<hugh-darrow.md>) is thankful to the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) for recovering her body. 

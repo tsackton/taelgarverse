@@ -12,13 +12,13 @@ title: Highveil Forest
 ---
 # The Highveil Forest
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A forest in the [Central Highlands](<./central-highlands.md>)  
+-    :octicons-location-24:{ .lg .middle } A forest in the [Central Highlands](<central-highlands.md>)  
 </div>
 
 
-A light, open forest on the western foothills of the [Sentinels](<../sentinel-range.md>), north of the [Crimson Forest](<./crimson-forest.md>) and south of the [Forest of Nightmares](<../northern-sentinels/forest-of-nightmares.md>).  While once this forest was occupied by many elves, it is now only lightly settled by Deno'qai tribes. 
+A light, open forest on the western foothills of the [Sentinels](<../sentinel-range.md>), north of the [Crimson Forest](<crimson-forest.md>) and south of the [Forest of Nightmares](<../northern-sentinels/forest-of-nightmares.md>).  While once this forest was occupied by many elves, it is now only lightly settled by [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) tribes. 
 
-Called Saharlûn (sa-har-LOON) by the Deno'qai, and Taurelóme (TAU-re-LO-meh) by the elves. 
+Called Saharlûn (sa-har-LOON) by the [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>), and Taurelóme (TAU-re-LO-meh) by the elves. 
 
 
 

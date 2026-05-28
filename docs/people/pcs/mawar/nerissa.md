@@ -13,13 +13,14 @@ affiliations:
 dm_owner: player
 dm_notes: important
 title: Nerissa
+hide_toc: true
 ---
 # Nerissa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [human](<../../../creatures/species/humans.md>) (she/her)  
-    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
+    Member of the [Adventurers of Mawar](<adventurers-of-mawar.md>)  
     { .bio }
 
 </div>

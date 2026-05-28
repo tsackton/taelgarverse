@@ -10,6 +10,7 @@ gender: male
 dm_notes: important
 dm_owner: tim
 title: Karmana
+hide_toc: true
 ---
 # Karmana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

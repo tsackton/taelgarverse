@@ -13,6 +13,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Elbeth
+hide_toc: true
 ---
 # Elbeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -13,6 +13,7 @@ whereabouts: Karawa
 dm_owner: tim
 dm_notes: color
 title: Jasu
+hide_toc: true
 ---
 # Jasu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

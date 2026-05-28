@@ -19,6 +19,7 @@ whereabouts:
 - {type: home, start: 1741-01-01, location: Khumarz}
 dm_notes: color
 dm_owner: tim
+hide_toc: true
 ---
 # Commander Vorgaz
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

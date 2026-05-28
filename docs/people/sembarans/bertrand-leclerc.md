@@ -11,6 +11,7 @@ whereabouts:
 dm_notes: color
 dm_owner: mike
 title: Bertrand Leclerc
+hide_toc: true
 ---
 # Bertrand Leclerc
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

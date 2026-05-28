@@ -11,6 +11,7 @@ died: 1545
 dm_owner: none
 dm_notes: color
 title: Zegron
+hide_toc: true
 ---
 # Zegron
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

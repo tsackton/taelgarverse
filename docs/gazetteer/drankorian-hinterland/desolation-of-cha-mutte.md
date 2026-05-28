@@ -10,7 +10,7 @@ title: Desolation of Cha'mutte
 ---
 # The Desolation of Cha'mutte
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in the [Drankorian Hinterland](<./drankorian-hinterland.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in the [Drankorian Hinterland](<drankorian-hinterland.md>)  
 </div>
 
 

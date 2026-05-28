@@ -18,13 +18,13 @@ The Darba Highlands are warm, monsoonal rocky highlands of isolated forests in s
 
 
 
-Geographically, the Darba Highlands transition to the [Hara Basin](<../hara-basin/hara-basin.md>) at the height of land in the [~Yuvanti Gap~](<./yuvanti-gap.md>), between the Yuvanti and the [Chataan Mountains](<../../greater-chardon/chataan-mountains.md>), but culturally, this region typically stretches as far as the [Copper Hills](<./copper-hills.md>).
+Geographically, the Darba Highlands transition to the [Hara Basin](<../hara-basin/hara-basin.md>) at the height of land in the [~Yuvanti Gap~](<yuvanti-gap.md>), between the Yuvanti and the [Chataan Mountains](<../../greater-chardon/chataan-mountains.md>), but culturally, this region typically stretches as far as the [Copper Hills](<copper-hills.md>).
 
-The largest and most significant river is the [Rudhan](<../rivers/rudhan.md>), which flows from the [~Yuvanti Gap~](<./yuvanti-gap.md>) to the [Nevos Sea](<../../nevos-and-apporia/nevos-sea.md>), and passes by the city of [Darba](<../realms/dunmar/coastal-dunmar/darba/darba.md>). But numerous other small rivers dot the landscape, and many more appear during the monsoon rains. 
+The largest and most significant river is the [Rudhan](<../rivers/rudhan.md>), which flows from the [~Yuvanti Gap~](<yuvanti-gap.md>) to the [Nevos Sea](<../../nevos-and-apporia/nevos-sea.md>), and passes by the city of [Darba](<../realms/dunmar/coastal-dunmar/darba/darba.md>). But numerous other small rivers dot the landscape, and many more appear during the monsoon rains. 
 
 
 
-The Darba Highlands have a strong hydrological gradient, with the area around the [~Yuvanti Gap~](<./yuvanti-gap.md>) arid and rocky, and the terrain getting increasingly wet and lush to the west and south, heading towards the [Nevos Sea](<../../nevos-and-apporia/nevos-sea.md>). The monsoons have a large impact, as the rains tend to lessen as they pass over the highlands.
+The Darba Highlands have a strong hydrological gradient, with the area around the [~Yuvanti Gap~](<yuvanti-gap.md>) arid and rocky, and the terrain getting increasingly wet and lush to the west and south, heading towards the [Nevos Sea](<../../nevos-and-apporia/nevos-sea.md>). The monsoons have a large impact, as the rains tend to lessen as they pass over the highlands.
 
 In the northwest, the Darba Highlands are a region of coastal mountains, where the constant sea breezes and the impact of the [Chataan Mountains](<../../greater-chardon/chataan-mountains.md>) results in a more even rainfall pattern across the year. 
 

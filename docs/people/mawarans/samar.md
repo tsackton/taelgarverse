@@ -12,6 +12,7 @@ dm_owner: none
 dm_notes: none
 pronunciation: sah-MAHR
 title: Samar
+hide_toc: true
 ---
 # Samar
 :speaker:{ .middle } *(sah-MAHR)*  
@@ -25,4 +26,4 @@ title: Samar
 </div>
 
 
-![Samar](../../assets/samar.png){align="right"; width="300"}Samar, the twin sister of [Reliah](<./reliah.md>), is an orphaned girl who lives in the Drowned Flats. [Wazir](<../pcs/mawar/wazir.md>) feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
+![Samar](../../assets/samar.png){align="right"; width="300"}Samar, the twin sister of [Reliah](<reliah.md>), is an orphaned girl who lives in the Drowned Flats. [Wazir](<../pcs/mawar/wazir.md>) feeds her and her sister once a week, and in turn they keep an ear to the ground for him.

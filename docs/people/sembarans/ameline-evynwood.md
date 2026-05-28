@@ -10,6 +10,7 @@ whereabouts:
 - {type: home, location: Ashcombe}
 - {type: away, location: Aslain, start: 1720-02-15, end: 1720-02-18}
 title: Ameline Evynwood
+hide_toc: true
 ---
 # Ameline Evynwood
 :speaker:{ .middle } *(Am-leen Evan-wood)*  

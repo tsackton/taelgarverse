@@ -14,6 +14,6 @@ title: Volganis
 </div>
 
 
-Volganis, like [Amani](<./amani.md>), is a prominent realm from before the [Great War](<../../events/1500s/great-war.md>), that did not survive the [Blood Years](<../../events/1500s/blood-years.md>). 
+Volganis, like [Amani](<amani.md>), is a prominent realm from before the [Great War](<../../events/1500s/great-war.md>), that did not survive the [Blood Years](<../../events/1500s/blood-years.md>). 
 
 

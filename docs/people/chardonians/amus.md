@@ -13,6 +13,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 title: Amus
+hide_toc: true
 ---
 # Amus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

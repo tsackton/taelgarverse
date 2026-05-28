@@ -15,6 +15,7 @@ whereabouts:
 pronunciation: CRIS-pus
 dm_notes: important
 dm_owner: tim
+hide_toc: true
 ---
 # Crispus
 :speaker:{ .middle } *(CRIS-pus)*  

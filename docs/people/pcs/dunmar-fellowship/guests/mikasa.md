@@ -14,6 +14,7 @@ affiliations:
 dm_owner: player
 dm_notes: important
 title: Mikasa
+hide_toc: true
 ---
 # Mikasa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

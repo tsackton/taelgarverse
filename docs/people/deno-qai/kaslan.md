@@ -13,12 +13,13 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Kaslan
+hide_toc: true
 ---
 # Kaslan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Ko'zula  
+    A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Ko'zula](<../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>)  
     Born DR 1699 (51 years old)  
     { .bio }
 

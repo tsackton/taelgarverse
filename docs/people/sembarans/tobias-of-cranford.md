@@ -9,6 +9,7 @@ born: 1695
 dm_notes: important
 dm_owner: mike
 title: Tobias of Cranford
+hide_toc: true
 ---
 # Tobias of Cranford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

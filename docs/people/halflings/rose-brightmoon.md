@@ -17,6 +17,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Rose Brightmoon
+hide_toc: true
 ---
 # Rose Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -40,5 +41,5 @@ title: Rose Brightmoon
 
 Rose in an elderly halfling woman who sails with the Wave Dancer as a musician. She is a brilliant guitarist.
 ## Relationships
-- [Wella Brightmoon](<./wella-brightmoon.md>), wife
-- [Pearl Brightmoon](<./pearl-brightmoon.md>), cousin by marriage
+- [Wella Brightmoon](<wella-brightmoon.md>), wife
+- [Pearl Brightmoon](<pearl-brightmoon.md>), cousin by marriage

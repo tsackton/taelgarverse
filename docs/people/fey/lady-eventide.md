@@ -11,6 +11,7 @@ whereabouts: Amberglow
 dm_owner: tim
 dm_notes: important
 title: Lady Eventide
+hide_toc: true
 ---
 # Lady Eventide
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

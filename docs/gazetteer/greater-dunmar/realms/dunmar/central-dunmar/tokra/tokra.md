@@ -27,7 +27,7 @@ title: Tokra
 
 *While much of the city is hidden behind the walls, three large buildings dominate the skyline. The dome of a large temple rises in the center of town, presumably the main temple of [Dunmari Religion](<../../../../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>) in Tokra, and also the center of the civil adminstration of the city. Near the temple, two other buildings, both tinged with Dwarven architectural elements stand. Rising over all the buildings in Tokra is a great tree, hundreds of feet tall and seemingly made of stone. 
 
-*To the south, the land rises in a series of small hills, with the [Lakan Monastery](<./lakan-monastery.md>) visible on a hill overlooking the city and the river, perhaps five miles south of Tokra.
+*To the south, the land rises in a series of small hills, with the [Lakan Monastery](<lakan-monastery.md>) visible on a hill overlooking the city and the river, perhaps five miles south of Tokra.
 
 ### Markets
 
@@ -41,11 +41,11 @@ The City Market, south of [Jita](<../../../../../../people/historical-figures/du
 
 ### Jita's Square
 
-The large, central plaza on which the temple, [Archives](<./archives.md>), and palace sit is known as [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>)'s Square. In the center of the plaza is a statue/fountain of [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>) riding a horse, [Chidya](<../../../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/chidya.md>) standing in front with her hands raised, guiding [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>).
+The large, central plaza on which the temple, [Archives](<archives.md>), and palace sit is known as [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>)'s Square. In the center of the plaza is a statue/fountain of [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>) riding a horse, [Chidya](<../../../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/chidya.md>) standing in front with her hands raised, guiding [Jita](<../../../../../../people/historical-figures/dunmari-rulers/jita.md>).
 
 ### Temple
 
-The temple is the largest building in Tokra, topped with a large dome that rises 300 feet into the sky, towered over the nearby buildings, even the palace and the [Archives](<./archives.md>).
+The temple is the largest building in Tokra, topped with a large dome that rises 300 feet into the sky, towered over the nearby buildings, even the palace and the [Archives](<archives.md>).
 
 Actually a temple complex. The main worship space is a pentagonal space beneath the dome, with significant altars to [Dunmari Religion](<../../../../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>). There is also an entryway area, and private prayer space, clerical offices, and storerooms in the upper floors and the basement levels.
 
@@ -55,9 +55,9 @@ The temple was constructed during the early years of the Dharajun dynasty, and s
 
 ### Palace 
 
-The palace is a large rectangular building with a large central courtyard, originally constructed at the same time as the [Archives](<./archives.md>) for the use of the traveling court of the Darajun dynastic court. During the [Great War](<../../../../../../events/1500s/great-war.md>), this was used as the headquarters of the western army of the Dunmari, coordinating defenses against the eldritch horrors in the mountains to the north. During this time it was expanded and used as a barracks as well, so it is a bit of a clash of architectural styles, with a older "Dharajunic" building and a newer more utilitarian design.
+The palace is a large rectangular building with a large central courtyard, originally constructed at the same time as the [Archives](<archives.md>) for the use of the traveling court of the Darajun dynastic court. During the [Great War](<../../../../../../events/1500s/great-war.md>), this was used as the headquarters of the western army of the Dunmari, coordinating defenses against the eldritch horrors in the mountains to the north. During this time it was expanded and used as a barracks as well, so it is a bit of a clash of architectural styles, with a older "Dharajunic" building and a newer more utilitarian design.
 
-During the [Fire War](<../../../../../../events/1500s/fire-war.md>) it was damaged, but not as badly as the [Archives](<./archives.md>), and required only cosmetic repairs, which were done in a Dwarvish style.
+During the [Fire War](<../../../../../../events/1500s/fire-war.md>) it was damaged, but not as badly as the [Archives](<archives.md>), and required only cosmetic repairs, which were done in a Dwarvish style.
 
 
 
@@ -65,14 +65,14 @@ During the [Fire War](<../../../../../../events/1500s/fire-war.md>) it was damag
 
 Tokra was originally the site of a Drankorian settlement, a river crossing and trade post associated with a pair of forts guarding [extraplanar weak points](<../../../../../../cosmology/planar-concepts/extraplanar-weak-point.md>) to the north and south. After the [First Plague](<../../../../../../events/1000s/1059/first-plague.md>) and the Settlement of Dunmar, was resettled by the Dunmari but remained little more than a small village associated with the monastery, until Tokra became the center of administration of the Dharajun. After surviving the [Great War](<../../../../../../events/1500s/great-war.md>) relatively unscathed, Tokra was severely damaged in the [Fire War](<../../../../../../events/1500s/fire-war.md>), but rebuilt and became a notable center of administration during the Nayan dynasty. 
 
-- 1183 DR *(Tokra)*: Resettled as a minor outpost by Dunmari settlers
-- 1184 DR *(Tokra)*: The Lakan Monastery is founded slightly to the south of Tokra
-- 1405 DR *(Tokra)*: Tokra is established as the central court for the Dharajun dynasty, and construction on a large temple complex, a palace, and an archives is begun.
-- 1409 DR *(Tokra)*: Construction on the palace of Tokra is complete. 
-- 1411 DR *(Tokra)*: Construction is completed on the [Archives](<./archives.md>)
-- 1434 DR *(Tokra)*: The grand temple complex in Tokra is completed
-- 1552 DR *(Tokra)*: The [Fire War](<../../../../../../events/1500s/fire-war.md>) begins
-- 1553 DR *(Tokra)*: The [Fire War](<../../../../../../events/1500s/fire-war.md>) ends
+- 1183 DR: Resettled as a minor outpost by Dunmari settlers
+- 1184 DR: The Lakan Monastery is founded slightly to the south of Tokra
+- 1405 DR: Tokra is established as the central court for the Dharajun dynasty, and construction on a large temple complex, a palace, and an archives is begun.
+- 1409 DR: Construction on the palace of Tokra is complete. 
+- 1411 DR: Construction is completed on the [Archives](<archives.md>)
+- 1434 DR : The grand temple complex in Tokra is completed
+- 1552 DR: The [Fire War](<../../../../../../events/1500s/fire-war.md>) begins
+- 1553 DR: The [Fire War](<../../../../../../events/1500s/fire-war.md>) ends
 
 
 

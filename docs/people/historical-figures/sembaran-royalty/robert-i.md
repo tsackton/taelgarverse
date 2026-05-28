@@ -13,6 +13,7 @@ affiliations:
 - {place: Sembara, start: 1713-09-12}
 dm_notes: none
 dm_owner: mike
+hide_toc: true
 ---
 # King Robert I
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -26,6 +27,6 @@ dm_owner: mike
 </div>
 
 
-A ruler of Sembara, son of [Cece I](<./cece-i.md>).  He was never crowned king of Tyrwingha when his mother died, that honor going to his cousin [Elaine II](<./elaine-ii.md>). 
+A ruler of Sembara, son of [Cece I](<cece-i.md>).  He was never crowned king of Tyrwingha when his mother died, that honor going to his cousin [Elaine II](<elaine-ii.md>). 
 
 

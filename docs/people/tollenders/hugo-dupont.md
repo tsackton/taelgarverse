@@ -15,6 +15,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Hugo Dupont
+hide_toc: true
 ---
 # Hugo Dupont
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

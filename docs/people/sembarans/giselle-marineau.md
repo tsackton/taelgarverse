@@ -9,6 +9,7 @@ whereabouts: Rinburg
 dm_notes: none
 dm_owner: none
 title: Giselle Marineau
+hide_toc: true
 ---
 # Giselle Marineau
 :speaker:{ .middle } *(Zhee-zell Mah-ree-no)*  

@@ -8,6 +8,7 @@ ancestry:
 gender: female
 dm_notes: important
 dm_owner: tim
+hide_toc: true
 ---
 # Emperor Helea
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

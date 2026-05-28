@@ -14,6 +14,7 @@ whereabouts: Hall of Stories
 dm_notes: color
 dm_owner: tim
 title: Sajan
+hide_toc: true
 ---
 # Sajan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

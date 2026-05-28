@@ -8,6 +8,7 @@ gender: female
 dm_notes: none
 dm_owner: none
 title: Octavia Antussus
+hide_toc: true
 ---
 # Octavia Antussus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -20,5 +21,5 @@ title: Octavia Antussus
 </div>
 
 
-An advisor to [Mitus Verina Auratan](<./mitus-verina-auratan.md>). 
+An advisor to [Mitus Verina Auratan](<mitus-verina-auratan.md>). 
 

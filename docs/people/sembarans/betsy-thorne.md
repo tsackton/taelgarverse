@@ -12,6 +12,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Betsy Thorne
+hide_toc: true
 ---
 # Betsy Thorne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -26,4 +27,4 @@ title: Betsy Thorne
 </div>
 
 
-The daughter of [Jon Thorne](<./jon-thorne.md>), cousin of [Beatrix Thorne](<./beatrix-thorne.md>) and a member of the Cleenseau town watch.
+The daughter of [Jon Thorne](<jon-thorne.md>), cousin of [Beatrix Thorne](<beatrix-thorne.md>) and a member of the Cleenseau town watch.

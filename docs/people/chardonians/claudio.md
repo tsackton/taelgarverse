@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Claudio
+hide_toc: true
 ---
 # Claudio
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -33,4 +34,4 @@ title: Claudio
 
 
 
-Claudio in a Chardonian man, from the village of [Luminatia](<../../gazetteer/greater-chardon/chardonian-empire/luminatia.md>) near [Lake Valandros](<../../gazetteer/greater-chardon/lake-valandros.md>). He is [Lucius](<./lucius.md>)'s father, but does not currently live with his family. 
+Claudio in a Chardonian man, from the village of [Luminatia](<../../gazetteer/greater-chardon/chardonian-empire/luminatia.md>) near [Lake Valandros](<../../gazetteer/greater-chardon/lake-valandros.md>). He is [Lucius](<lucius.md>)'s father, but does not currently live with his family. 

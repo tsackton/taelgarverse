@@ -8,6 +8,7 @@ displayDefaults: {defArt: ''}
 dm_notes: none
 dm_owner: none
 title: Tristan Brighteyes
+hide_toc: true
 ---
 # Tristan Brighteyes
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -19,5 +20,5 @@ title: Tristan Brighteyes
 </div>
 
 
-A young Windcaller and advisor to [Mitus Verina Auratan](<./mitus-verina-auratan.md>). 
+A young Windcaller and advisor to [Mitus Verina Auratan](<mitus-verina-auratan.md>). 
 

@@ -11,6 +11,7 @@ whereabouts:
 - {type: home, location: Tollen, start: 1714}
 dm_owner: none
 dm_notes: important
+hide_toc: true
 ---
 # Godfrey of Marburgh
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -18,7 +18,5 @@ Chalyte is extremely rare, however, and is almost never found in pure form, desp
 Rumors speak of chalyte zombies, the empty husks of those who abuse chalyte, whose excessive use burned out their mental capacity, leaving only an empty shell of what was once a person. Although many will say this is rare, more commonly chalyte abuse leads to magical surges that can burn away the ability of the user to channel magic of any kind. 
 
 
-In the DR 1680s, Chardonian explorers found chalyte in the mountains near Voltara, triggering a massive explosion of investment. Since then, the Chardonian Empire solidified its control over the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>), especially [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), establishing a series of chalyte mines. This allowed chalyte to become central to the might and magic of the Chardonian Empire. Chalyte fuels the artificers and crafters of Chardon, whose elaborate enspelled enchantments command astronomical prices and bring riches to the city and the empire. Chalyte fuels the Windcallers, whose mastery over the ocean winds makes the Chardonian navy the most feared on the Endless Ocean. And chalyte is a critical component of magic of the war wizards of the Chardonian Legion, allowing them to perform feats far beyond their natural power. 
-
 
 

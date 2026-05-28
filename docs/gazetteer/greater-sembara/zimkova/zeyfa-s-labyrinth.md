@@ -14,7 +14,7 @@ title: Zeyfa's Labyrinth
 ---
 # The Zeyfa's Labyrinth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A labyrinth in the [Great Chasm](<./great-chasm.md>), [Zimkova](<./zimkova.md>), [Greater Sembara](<../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A labyrinth in the [Great Chasm](<great-chasm.md>), [Zimkova](<zimkova.md>), [Greater Sembara](<../greater-sembara.md>)  
 </div>
 
 
@@ -29,7 +29,7 @@ Kalima says her people fled an ancient catastrophe into or near this place and n
 
 ## Known Features
 
-- The floating ice platform where the party first awakens after being swept from the [Great Chasm](<./great-chasm.md>).
+- The floating ice platform where the party first awakens after being swept from the [Great Chasm](<great-chasm.md>).
 - Narrow ice bridges guarded by ice-wolf figures.
 - A snow-chamber entrance below the bridge ends, with four branching tunnels leading deeper into the maze.
 - The beast deeper in the labyrinth, known from Kalima's warnings but not yet seen in session 1.

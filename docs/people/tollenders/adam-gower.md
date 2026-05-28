@@ -9,6 +9,7 @@ whereabouts: Tollen
 dm_owner: tim
 dm_notes: color
 title: Adam Gower
+hide_toc: true
 ---
 # Adam Gower
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

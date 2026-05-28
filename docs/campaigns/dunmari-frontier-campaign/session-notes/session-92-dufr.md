@@ -19,24 +19,24 @@ title: Dunmari Frontier - Session 92
 > *On Earth: Tuesday Feb 06, 2024*
 > *[Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) and the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>) river valley*
 
-The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) gains King [Brimskarda](<../../../people/giants/brimskarda.md>)'s favor at [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) and forges an alliance with the Vargaldi after a fierce battle with an ice worm.
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) gains King [Brimskarda](<../../../people/giants/brimskarda.md>)'s favor at [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) and forges an alliance with the [Vargaldi](<../../../groups/cultures/vargaldi.md>) after a fierce battle with an ice worm.
 ## Session Info
 ### Summary
-- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives at [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) to meet Frost Giant King [Brimskarda](<../../../people/giants/brimskarda.md>) and gain intelligence on the Vargaldi and the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>) river valley
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives at [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) to meet Frost Giant King [Brimskarda](<../../../people/giants/brimskarda.md>) and gain intelligence on the [Vargaldi](<../../../groups/cultures/vargaldi.md>) and the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>) river valley
 - They impress [Brimskarda](<../../../people/giants/brimskarda.md>) with gifts and tales, learning of Frost Giant history and gaining his favor.
 - They meet and persuade [Algerd](<../../../people/giants/algerd.md>), a frost giant historian, to journey with them in search of his sister.
 - After several uneventful days traveling east, an ice worm attack leads to a battle; [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) is nearly digested before the creature is defeated.
-- The party rescues two Vargaldi shape-shifters, who invite them to their hidden camp.
+- The party rescues two [Vargaldi](<../../../groups/cultures/vargaldi.md>) shape-shifters, who invite them to their hidden camp.
 
 ### Timeline
 - Mar 18, 1749 DR, evening: Meet [Brimskarda](<../../../people/giants/brimskarda.md>), speak about dragons and giants. Feast with Brimskarda's court at [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>).
 - Mar 19, 1749 DR, morning: Meet [Algerd](<../../../people/giants/algerd.md>), recruit him to journey east. Leave [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>).
 - Mar 19, 1749 DR, afternoon: Reach the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>), follow the frozen river east. 
 - Mar 20, 1749 DR: Travel east along the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>)
-- Mar 21, 1749 DR: Fight and defeat an ice worm, rescuing two Vargaldi. 
-- Mar 21, 1749 DR, early afternoon: Reach Vargald camp south of the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>)
+- Mar 21, 1749 DR: Fight and defeat an ice worm, rescuing two [Vargaldi](<../../../groups/cultures/vargaldi.md>). 
+- Mar 21, 1749 DR, early afternoon: Reach [Vargald](<../../../groups/cultures/vargaldi.md>) camp south of the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>)
 ## Narrative
-We begin as the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) makes a cautious approach towards the formidable and frost-laden steading of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), the court of [Brimskarda](<../../../people/giants/brimskarda.md>), king of the frost giant kingdom of [Kaldhalla](<../../../gazetteer/northern-green-sea/kaldhalla.md>). The party's primary goal was to both introduce themselves and pry for crucial intelligence regarding the enigmatic Vargald, a people who live in the frozen wastes of the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>) river valley. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) steers the skyship through the massive ice gates of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), where they are greeted by an animated statue bidding them to introduce themselves. Arriving inside the steading of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), carved in the bowl of a massive glacier, the party moors their ship at a respectful distance and use the rainbow bridge to make their descent. 
+We begin as the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) makes a cautious approach towards the formidable and frost-laden steading of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), the court of [Brimskarda](<../../../people/giants/brimskarda.md>), king of the frost giant kingdom of [Kaldhalla](<../../../gazetteer/northern-green-sea/kaldhalla.md>). The party's primary goal was to both introduce themselves and pry for crucial intelligence regarding the enigmatic [Vargald](<../../../groups/cultures/vargaldi.md>), a people who live in the frozen wastes of the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>) river valley. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) steers the skyship through the massive ice gates of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), where they are greeted by an animated statue bidding them to introduce themselves. Arriving inside the steading of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), carved in the bowl of a massive glacier, the party moors their ship at a respectful distance and use the rainbow bridge to make their descent. 
 
 ![Steading Entrance](../../../assets/steading-entrance.jpg)
 
@@ -48,11 +48,11 @@ The feast that ensued was a spectacle of giant customs, the hall filled with Bri
 
 The next morning, the party met [Algerd](<../../../people/giants/algerd.md>), a socially-awkward historian without much status under Brimskarda's rule, which values might over knowledge. The party persuaded Algerd to travel east with them, in part with the hope that he could find his sister, who was driven out of the steading years ago. 
 
-Departing [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) with [Algerd](<../../../people/giants/algerd.md>) in tow, the party journeyed east for two uneventful days. The afternoon of the third day, they spotted the rumblings of an ice worm, moving through the forest and bearing down on two elk. Suspecting the elk may be Vargaldi, the party entered into battle. The ice worm proved to be a formidable foe, swallowed and nearly digesting [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), but was defeated. 
+Departing [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) with [Algerd](<../../../people/giants/algerd.md>) in tow, the party journeyed east for two uneventful days. The afternoon of the third day, they spotted the rumblings of an ice worm, moving through the forest and bearing down on two elk. Suspecting the elk may be [Vargaldi](<../../../groups/cultures/vargaldi.md>), the party entered into battle. The ice worm proved to be a formidable foe, swallowed and nearly digesting [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), but was defeated. 
 
-![ice-worm.webp](<../../../assets/ice-worm.webp>)
+![Ice Worm](../../../assets/ice-worm.webp)
 
-The confrontation not only tested the party's skill in battle, but also led to an unexpected alliance with the Vargaldi, shape-shifting beings from a hidden village. The party's victory over the Ice Worm, marked by strategic combat and skillful extraction of the creature's valuable parts, forged a bond with the shape-shifters, who guiding the party to their concealed abode where a medley of villagers awaited, heralding the beginning of a new chapter in their adventure.
+The confrontation not only tested the party's skill in battle, but also led to an unexpected alliance with the [Vargaldi](<../../../groups/cultures/vargaldi.md>), shape-shifting beings from a hidden village. The party's victory over the Ice Worm, marked by strategic combat and skillful extraction of the creature's valuable parts, forged a bond with the shape-shifters, who guiding the party to their concealed abode where a medley of villagers awaited, heralding the beginning of a new chapter in their adventure.
 
 
 ## Transcript

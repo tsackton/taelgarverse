@@ -10,6 +10,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: color
 title: Tak
+hide_toc: true
 ---
 # Tak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

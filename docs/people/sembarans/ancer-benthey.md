@@ -16,6 +16,7 @@ whereabouts:
 dm_notes: none
 dm_owner: mike
 title: Ancer Benthey
+hide_toc: true
 ---
 # Ancer Benthey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -32,4 +33,4 @@ title: Ancer Benthey
 :octicons-location-24:{ .lg .middle } Currently with the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>)
 
 
-![Ancer Benthey Portrait](../../assets/ancer-benthey-portrait.png){align="right"; width="320"}The nephew of [Ames Benthey](<./ames-benthey.md>), recently appointed sergeant of the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) after [Odo Cordwaner](<./odo-cordwaner.md>) was dismissed. He is untested and rumored to be somewhat stern, and not very close to his uncle. 
+![Ancer Benthey Portrait](../../assets/ancer-benthey-portrait.png){align="right"; width="320"}The nephew of [Ames Benthey](<ames-benthey.md>), recently appointed sergeant of the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) after [Odo Cordwaner](<odo-cordwaner.md>) was dismissed. He is untested and rumored to be somewhat stern, and not very close to his uncle. 

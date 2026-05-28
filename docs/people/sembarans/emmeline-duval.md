@@ -10,6 +10,7 @@ died: 1720-01-04
 dm_notes: none
 dm_owner: none
 title: Emmeline Duval
+hide_toc: true
 ---
 # Emmeline Duval
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

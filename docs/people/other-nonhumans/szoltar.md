@@ -16,6 +16,7 @@ dm_owner: tim
 dm_notes: important
 pronunciation: SOHL-tahr
 title: Szoltár
+hide_toc: true
 ---
 # Szoltár
 :speaker:{ .middle } *(SOHL-tahr)*  
@@ -35,4 +36,4 @@ title: Szoltár
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 6th, 1749 in the [Plaguelands](<../../gazetteer/upper-istaros/plaguelands.md>)  
 
 
-![Szoltar](../../assets/szoltar.png){align="right"; width="400"}A captured solider in the army of the [Empress of Chaos](<./empress-of-chaos.md>). 
+![Szoltar](../../assets/szoltar.png){align="right"; width="400"}A captured solider in the army of the [Empress of Chaos](<empress-of-chaos.md>). 

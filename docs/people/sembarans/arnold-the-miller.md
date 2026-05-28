@@ -12,6 +12,7 @@ whereabouts: Asineau
 dm_notes: none
 dm_owner: none
 title: Arnold the Miller
+hide_toc: true
 ---
 # Arnold the Miller
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

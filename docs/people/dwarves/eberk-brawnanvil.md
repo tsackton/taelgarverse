@@ -12,6 +12,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Eberk Brawnanvil
+hide_toc: true
 ---
 # Eberk Brawnanvil
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

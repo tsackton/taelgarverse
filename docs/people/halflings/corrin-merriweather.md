@@ -9,6 +9,7 @@ affiliations:
 dm_notes: color
 dm_owner: mike
 title: Corrin Merriweather
+hide_toc: true
 ---
 # Corrin Merriweather
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

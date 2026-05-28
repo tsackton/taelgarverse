@@ -13,6 +13,7 @@ whereabouts:
 - {type: home, end: 1749-02-11, location: Orenlas}
 - {type: away, start: 1749-02-11, end: 9999, location: Vindristjarna}
 title: Égnir
+hide_toc: true
 ---
 # Égnir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

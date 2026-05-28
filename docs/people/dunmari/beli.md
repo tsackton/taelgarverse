@@ -13,6 +13,7 @@ whereabouts: Karawa
 dm_owner: none
 dm_notes: color
 title: Beli
+hide_toc: true
 ---
 # Beli
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -10,12 +10,13 @@ affiliations:
 dm_notes: important
 dm_owner: player
 title: Kyr
+hide_toc: true
 ---
 # Kyr
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (he/him), of the [Heroes of the Great War](<./heroes-of-the-great-war.md>)  
+    A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (he/him), of the [Heroes of the Great War](<heroes-of-the-great-war.md>)  
     { .bio }
 
 </div>

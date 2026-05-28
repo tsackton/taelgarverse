@@ -36,17 +36,11 @@ Much later, after the [Third Hobgoblin War (Sembara)](<../../../events/1600s/thi
 For a generation, these cultures mixed along the hard frontier, supported each other, and argued about the future of the Aurbeze, about whether [Isingue](<../isingue.md>) was an inheritance to be reclaimed, about whether the longing for the past blinded people to the potential of the future. Some felt the [Aurbez Plateau](<../aurbez-plateau.md>) was home; others just a way point, even after generations, where they were waiting until they could return to the [Istaros](<../../major-rivers/istaros-watershed/istaros.md>) and reclaim the glory and power of [isingue](<../isingue.md>). 
 
 
-In DR 1720, the [War of the Ashen Horde](<../../../events/1700s/war-of-the-ashen-horde.md>) swept across the Aurbez, threatening to destroy everyone. Out of the danger of that time, a new united identity was forged, a conscious refounding of the [Istabor Alliance](<../../../history/historical-realms/istabor-alliance.md>) to provide for the common defense. While some still talk of returning to their ancient homelands along the [Upper Istaros](<../upper-istaros.md>), many more speak of the alliance reborn in a new home. 
-
 
 ## Governance and Defense
 
 The Alliance has no single ruler. It functions as a network of self-governing towns and independent homesteads, held together by a web of oath and customary obligations. Local and regional councils meet as necessary to resolve disputes and provide for organization and coordination across households and communities. [Rangers](<../../../groups/rangers.md>) move among these communities as scouts and messengers, advising and coordinating, and keeping the most dangerous ways between settlements as safe as they can.
 
-
-The [Rangers](<../../../groups/rangers.md>) coordinate and lead the defense of the land, but they are not a standing army. Each settlement maintains its own watch and militia, and in times of need communities muster together under a mutual defense pact, serving under leaders chosen at war councils for their ability to command the trust of those who serve under them. 
-
-The [Rangers](<../../../groups/rangers.md>) also maintain a series of fortified waystations at strategic points, both along the road below the plateau and at key plateau access points. Built of stone, with stout gates and protected by garrisons of militia and Rangers, these waystations serve a crucial role during war, guarding the ascend to the plateau. In peace time, they double as hubs for trade and news. 
 
 ## Economy and Trade
 
@@ -55,18 +49,16 @@ The Aurbez supports small-scale farming where water allows it, fishing along the
 Trade follows the [Maseau - Dunmar Road](<../maseau-dunmar-road.md>), moving south to [Dunmar](<../../greater-dunmar/realms/dunmar/dunmar.md>) and north to the [March of Andonne](<../../greater-sembara/duchy-of-maseau/march-of-andonne.md>), [Maseau](<../../greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and eventually [Sembara](<../../greater-sembara/sembara/sembara.md>). 
 
 
-The road’s traffic grows year after year, especially since the construction of a stone bridge across the [Aursen](<../../major-rivers/istaros-watershed/aursen.md>) in DR 1732. The market town of [Aursenbourg](<./aursenbourg.md>) has grown around the bridge, to become a central depot on the route, with a large market. 
-
 ## Settlements
 
 Many Aurbeze live in small, isolated farmsteads, or small clusters of a handful of households. Houses are sturdy and defensible, with thick walls, small windows, and steep roofs to shed snow. These folk are largely self-sufficient, producing their own food, tools, and clothing, with perhaps a few trips to seasonal fairs to supplement their needs. 
 
 Nonetheless there are some larger settlements and villages. These mostly lie near the marshy upper [Aursen](<../../major-rivers/istaros-watershed/aursen.md>), where the river slows and meanders across the plateau before spilling off the escarpment in a series of large waterfalls, and along the [Maseau - Dunmar Road](<../maseau-dunmar-road.md>), below the plateau. These include:
 
-- [Aursen Marshes](<./aursen-marshes.md>): A marshy basin on the upper [Aursen](<../../major-rivers/istaros-watershed/aursen.md>), home to lizardfolk communities and productive farms on the drier edges.
-- [Aursenbourg](<./aursenbourg.md>): A walled market town at the Aursen crossing, grown up around the road and the bridge.
-- [Three Wells](<./three-wells.md>): A fortified gathering place on the plateau, where councils meet and where a watchtower maintained by [Rangers](<../../../groups/rangers.md>) keeps vigil over the approaches.
-- [Laicon](<./laicon.md>): A small village along the road, known as a trading point for goods brought down from the plateau, and home to a famous inn, [Ausson's Crossing](<./ausson-s-crossing.md>). 
+- [Aursen Marshes](<aursen-marshes.md>): A marshy basin on the upper [Aursen](<../../major-rivers/istaros-watershed/aursen.md>), home to lizardfolk communities and productive farms on the drier edges.
+- [Aursenbourg](<aursenbourg.md>): A walled market town at the Aursen crossing, grown up around the road and the bridge.
+- [Three Wells](<three-wells.md>): A fortified gathering place on the plateau, where councils meet and where a watchtower maintained by [Rangers](<../../../groups/rangers.md>) keeps vigil over the approaches.
+- [Laicon](<laicon.md>): A small village along the road, known as a trading point for goods brought down from the plateau, and home to a famous inn, [Ausson's Crossing](<ausson-s-crossing.md>). 
 
 ## History
 
@@ -78,8 +70,8 @@ For many years, before the [Great War](<../../../events/1500s/great-war.md>), th
 
 For the first sixty years after the [Great War](<../../../events/1500s/great-war.md>), the [Aurbez Plateau](<../aurbez-plateau.md>) is an isolated frontier, beset by dangers on all sides, but still safer than trying to live in the [Plaguelands](<../plaguelands.md>). 
 
-- 1545 DR - 1555 DR: In the immediate aftermath of the Great War, the [Aurbez Plateau](<../aurbez-plateau.md>) saw an influx of refugees, mostly humans from [Isingue](<../isingue.md>) and [Lizardfolk](<../../../creatures/species/lizardfolk.md>). Most of the first refugees settle along the [Aursen Marshes](<./aursen-marshes.md>) and the nearby plateau, gradually moving north along the plateau heights. Conflicts with remnant hobgoblins are common. 
-- 1547 DR: The Heartroot is hidden in a secret valley northwest of the [Aursen Marshes](<./aursen-marshes.md>). 
+- 1545 DR - 1555 DR: In the immediate aftermath of the Great War, the [Aurbez Plateau](<../aurbez-plateau.md>) saw an influx of refugees, mostly humans from [Isingue](<../isingue.md>) and [Lizardfolk](<../../../creatures/species/lizardfolk.md>). Most of the first refugees settle along the [Aursen Marshes](<aursen-marshes.md>) and the nearby plateau, gradually moving north along the plateau heights. Conflicts with remnant hobgoblins are common. 
+- 1547 DR: The Heartroot is hidden in a secret valley northwest of the [Aursen Marshes](<aursen-marshes.md>). 
 - 1555 DR - 1557 DR:  [Three Kin's War](<../../../events/1500s/three-kin-s-war.md>) is fought between an alliance of stoneborn, lizardfolk, and humans against hobgoblins, and finally drives hobgoblins off the plateau entirely. 
 
 After the [Three Kin's War](<../../../events/1500s/three-kin-s-war.md>), the population slowly grows. Hobgoblins raids from the north and the south, and greater dangers from the [Plaguelands](<../plaguelands.md>), are a constant problem, but settlements on the plateau are, if not completely safe, at least reasonably defensible. The population slowly grows, and the [Rangers](<../../../groups/rangers.md>) grow in prominence locally. 

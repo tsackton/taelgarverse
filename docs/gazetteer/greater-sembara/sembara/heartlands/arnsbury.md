@@ -14,9 +14,9 @@ title: Arnsbury
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 4,500  
-    :octicons-location-24:{ .lg .middle } A city in the [Duchy of Arnsbury](<./duchy-of-arnsbury.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } A city in the [Duchy of Arnsbury](<duchy-of-arnsbury.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 
-The largest city in the [Duchy of Arnsbury](<./duchy-of-arnsbury.md>) and the seat of the Duke. Although smaller than [Fellburn](<./fellburn.md>), [Telham](<../northlands/telham.md>), and [Embry](<./embry.md>), it is larger that most other cities in Sembara and has ancient roots.
+The largest city in the [Duchy of Arnsbury](<duchy-of-arnsbury.md>) and the seat of the Duke. Although smaller than [Fellburn](<fellburn.md>), [Telham](<../northlands/telham.md>), and [Embry](<embry.md>), it is larger that most other cities in Sembara and has ancient roots.
 

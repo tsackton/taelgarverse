@@ -14,6 +14,7 @@ affiliations:
 aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
 dm_notes: important
 dm_owner: tim
+hide_toc: true
 ---
 # Samraat Aatmaj Dasa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

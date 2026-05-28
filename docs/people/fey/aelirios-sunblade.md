@@ -9,6 +9,7 @@ dm_owner: mike
 dm_notes: none
 pronunciation: Ah-ler-ee-os Sun-blade
 title: Aelirios Sunblade
+hide_toc: true
 ---
 # Aelirios Sunblade
 :speaker:{ .middle } *(Ah-ler-ee-os Sun-blade)*  

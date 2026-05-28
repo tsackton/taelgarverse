@@ -8,6 +8,7 @@ displayDefaults: {defArt: ''}
 dm_notes: important
 dm_owner: tim
 title: Emilia Vetella
+hide_toc: true
 ---
 # Emilia Vetella
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -19,4 +20,4 @@ title: Emilia Vetella
 </div>
 
 
-Lord Admiral of the Chardonian Navy. Trusted advisor to [Mitus Verina Auratan](<./mitus-verina-auratan.md>).
+Lord Admiral of the Chardonian Navy. Trusted advisor to [Mitus Verina Auratan](<mitus-verina-auratan.md>).

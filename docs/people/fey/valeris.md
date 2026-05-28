@@ -10,6 +10,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Valeris
+hide_toc: true
 ---
 # Valeris
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

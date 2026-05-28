@@ -16,6 +16,7 @@ whereabouts:
 - {type: home, start: 1738, location: Nayahar}
 dm_notes: important
 dm_owner: tim
+hide_toc: true
 ---
 # Samraat Nayan Karnas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -34,5 +35,5 @@ dm_owner: tim
 
 
 
-The current Samraat of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), of the Nayan dynasty. Brother to [Sura](<./sura.md>), whom he thought dead. 
+The current Samraat of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), of the Nayan dynasty. Brother to [Sura](<sura.md>), whom he thought dead. 
 

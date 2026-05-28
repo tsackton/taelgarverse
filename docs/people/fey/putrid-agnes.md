@@ -12,6 +12,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Putrid Agnes
+hide_toc: true
 ---
 # Putrid Agnes
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

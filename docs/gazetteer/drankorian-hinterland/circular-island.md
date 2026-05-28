@@ -11,7 +11,7 @@ title: Circular Island
 ---
 # The Circular Island
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An island in the [Drankorian Hinterland](<./drankorian-hinterland.md>)  
+-    :octicons-location-24:{ .lg .middle } An island in the [Drankorian Hinterland](<drankorian-hinterland.md>)  
 </div>
 
 
@@ -19,9 +19,9 @@ title: Circular Island
 # Circular Island
 >[!info]+ Information  
 >   
->> 
+>> An island in the [Drankorian Hinterland](<drankorian-hinterland.md>)
 
-The Circular Island is a strange island in the [Drankorian Hinterland](<./drankorian-hinterland.md>), named for its unnaturally regular shape. In modern accounts it is best known for dangerous ruins along its shores and for [Apollyon's Tower](<./apollyon-s-tower.md>)—a black spire that still stands warded, “looming over the island’s storm‑lashed shore.”
+The Circular Island is a strange island in the [Drankorian Hinterland](<drankorian-hinterland.md>), named for its unnaturally regular shape. In modern accounts it is best known for dangerous ruins along its shores and for [Apollyon's Tower](<apollyon-s-tower.md>)—a black spire that still stands warded, “looming over the island’s storm‑lashed shore.”
 
 
 

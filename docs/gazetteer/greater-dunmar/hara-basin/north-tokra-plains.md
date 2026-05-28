@@ -8,7 +8,6 @@ displayDefaults: {linkText: true, ltPlace: true}
 dm_owner: tim
 dm_notes: important
 typeOfAlias: grassland
-unlisted: true
 title: ~North Tokra Plains~
 ---
 # The ~North Tokra Plains~

@@ -11,7 +11,7 @@ The system of feudal lords in Sembara is maintained by a series of financial obl
 
 Broadly taxes in Sembara are divided into five categories:
 
-* Property taxes, collected on [crownland](<./land-holding-in-sembara.md>) only: the deca, the nonem, the hearth tax, and any manorial or city taxes on inns or taverns
+* Property taxes, collected on [crownland](<land-holding-in-sembara.md>) only: the deca, the nonem, the hearth tax, and any manorial or city taxes on inns or taverns
 * Tolls, collected from travelers
 * Market taxes, collected from merchants selling goods at market
 * Noble taxes: the honorus
@@ -19,7 +19,7 @@ Broadly taxes in Sembara are divided into five categories:
 ## Yearly Taxes
 There are five formal taxes that are levied regularly:
 
-* The *deca* is a tax on the produce of the land. It is collected annually at the harvest, and is fixed at 1/10th of the goods harvested. This is collected primarily on grains, and only on the product of [crownhold land](<./land-holding-in-sembara.md>), and is retained by the lord of the manor for the support of the manor and the local community, primarily the temple
+* The *deca* is a tax on the produce of the land. It is collected annually at the harvest, and is fixed at 1/10th of the goods harvested. This is collected primarily on grains, and only on the product of [crownhold land](<land-holding-in-sembara.md>), and is retained by the lord of the manor for the support of the manor and the local community, primarily the temple
 * The *nonem* is a second tax on the produce of the land, also collected annually at harvest. It is 1/9th of the goods harvested, and is due to the crown, although it is collected by the lord of the manor as well. Like the deca, this is collected primarily on grains, and only on the produce of crownhold land.
 * The *hearth tax* is collected every spring, the week after ~Some Spring Holiday~, from the lord of the manor, on behalf of the crown. The hearth tax is collected at the rate of ~tbd~ in the spring. Poor homes without a hearth do not have to pay the hearth tax, and large estates, with multiple hearths, must pay for each hearth. This is also only collected on crownhold land, and in cities or towns outside a manor, the city leadership is responsible for collecting the hearth tax and remitting it to the duke or monarch, in place of a manorial lord
 * The *honorus* is collected in August and December, from the manors to the baron. This varies between manors, and is fixed as an agreement between the baron and the manorial lord, when the manor is created. It is often renegotiated when the manor is inherited. 
@@ -47,7 +47,7 @@ The peerage of Sembara has a few other less formal sources of additional revenue
 * gifts at major events
 * host and guest gifts
 
-Although there is no formal inheritance tax, and encumbering [freehold](<./land-holding-in-sembara.md>) property is illegal, [leasehold](<./land-holding-in-sembara.md>) property, as well as manors and baronies can have fees associated with inheritance. Additionally, in many circumstances, if no suitably close heir can be found (usually the heir is expected to be either within three degrees of relationship or of longstanding friendship) the property reverts to the lord (or the manor to the baron, or the barony to the sovereign or duke).
+Although there is no formal inheritance tax, and encumbering [freehold](<land-holding-in-sembara.md>) property is illegal, [leasehold](<land-holding-in-sembara.md>) property, as well as manors and baronies can have fees associated with inheritance. Additionally, in many circumstances, if no suitably close heir can be found (usually the heir is expected to be either within three degrees of relationship or of longstanding friendship) the property reverts to the lord (or the manor to the baron, or the barony to the sovereign or duke).
 
 Additionally the feudal lords, including the lords of the manor, can generally expect gifts, often considered mandatory, at significant occasions, including marriage and the birth of a child. A significant portion of these gifts, in many cases, is used to fund temple building, devotions, and celebrations. These gifts are one of the major sources of funding for the crown from the nobility, and the occasions and amounts of this type of gift is subject only to custom, not law. 
 
@@ -61,7 +61,7 @@ See Law in Sembara for more information.
 ## Minting of Coins
 The crown also retains a royal monopoly on the minting of coins, and gains some profit from this, although dwarven coins are also in wide circulation. The profit is usually gained from a fee for minting coins, taken from the raw silver or gold provided (seigniorage). Sembara does not usually debase coins.
 
-See [Coinage of Sembara](<./coinage-of-sembara.md>) for more information.
+See [Coinage of Sembara](<coinage-of-sembara.md>) for more information.
 ## Non-Humans and Foreigners
 These laws and customs apply to all Sembaran humans, but the rules and customs with non-humans vary. 
 ### Foreigners
@@ -69,7 +69,7 @@ Generally, Sembaran law makes no distinction between a resident Sembaran and a r
 
 Gifts and other similar expectations are based on place of residence, and in general, being an absentee landlord, for example, brings no social obligations to the place you own land. That is, merely owning  land in a manor brings no expectation of gifts to the lord. Living in a manor does.
 ### Lizardfolk
-Lizardfolk consider all lizardfolk land [folkland](<./land-holding-in-sembara.md>) and thus do not pay property taxes on it, although this is sometimes disputed when the provenance of the land is unclear. Lizardfolk pay tolls and market taxes as usual, although many lizardfolk would, for example, swim a river rather than pay a bridge toll. Lizardfolk do not pay market taxes in their own villages, of course, nor do they respect local monopolies within their villages, but there is no formal exception for lizardfolk outside their villages and lands. 
+Lizardfolk consider all lizardfolk land [folkland](<land-holding-in-sembara.md>) and thus do not pay property taxes on it, although this is sometimes disputed when the provenance of the land is unclear. Lizardfolk pay tolls and market taxes as usual, although many lizardfolk would, for example, swim a river rather than pay a bridge toll. Lizardfolk do not pay market taxes in their own villages, of course, nor do they respect local monopolies within their villages, but there is no formal exception for lizardfolk outside their villages and lands. 
 
 Lizardfolk are not expected to pay gifts to local lords, and rarely do. Lizardfolk are legally exempt from war taxes.
 ### Dwarves

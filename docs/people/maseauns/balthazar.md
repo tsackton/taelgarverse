@@ -13,6 +13,7 @@ whereabouts:
 dm_notes: none
 dm_owner: mike
 title: Balthazar
+hide_toc: true
 ---
 # Balthazar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

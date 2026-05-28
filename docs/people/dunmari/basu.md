@@ -14,6 +14,7 @@ whereabouts: Lakan Monastery
 dm_owner: tim
 dm_notes: important
 title: Basu
+hide_toc: true
 ---
 # Basu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -38,7 +39,7 @@ title: Basu
 
 The grumpy craftsman of the Lakan monks, known for creating magic items that channel extradimensional space, like bags of holding and portable holes. 
 
-Romantically involved with [Kassi](<./kassi.md>), although not formally married. 
+Romantically involved with [Kassi](<kassi.md>), although not formally married. 
 
 
 Constructed a the [Portable Hole](<../../campaigns/dunmari-frontier-campaign/treasure/portable-hole.md>) for the Dunmar Fellowship, after they helped him gather extraplanar energy of [Arborea](<../../cosmology/spiritual-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/hara-basin/elven-arborea-workshop.md>) beneath the monastery. 

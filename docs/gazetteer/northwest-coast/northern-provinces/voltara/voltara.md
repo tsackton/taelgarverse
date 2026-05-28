@@ -14,7 +14,7 @@ title: Voltara
 ---
 # Voltara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A city [Greater Voltara](<../greater-voltara.md>)  
+-    :octicons-location-24:{ .lg .middle } A city in [Greater Voltara](<../greater-voltara.md>), the [Northern Provinces](<../northern-provinces.md>), the [Chardonian Empire](<../../../greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../../greater-chardon/greater-chardon.md>)  
     :octicons-location-24:{ .lg .middle } Located in the [Northwest Coast](<../../northwest-coast.md>)  
 </div>
 
@@ -51,7 +51,7 @@ Inside the walls, Voltara is a rich city, made wealthy on the chalyte trade. It 
 
 ## Inns 
 
-[The Purple Pig](<./the-purple-pig.md>)
+[The Purple Pig](<the-purple-pig.md>)
 
 A modest accommodation outside the city walls, run by Dravia. Modest accomodations, 1 gp per day. Destroyed by [Grumella](<../../../../people/orcs/grumella.md>). 
 
@@ -59,7 +59,7 @@ The Sage and Spear
 
 A comfortable inn just outside the town gates, in what passes for a small Dwarven district here. The innkeeper is a retired dwarven solider named Orin Stonekeeper. It is a two story stone building with two wings, and a large common room that tends to attract artisans and dwarves. Known for sausages.
 
-[The Wandering Toad](<./the-wandering-toad.md>)
+[The Wandering Toad](<the-wandering-toad.md>)
 
 A small inn just inside the city gates, modest in size but welcoming and friendly. Considered comfortable accommodations, 2 gp for food, drink, lodging. Known for wild game, mushrooms, and ale. Run by a charming and friendly, and unusually large, halfling man known as [Finoc Small](<../../../../people/halflings/finoc-small.md>).
 

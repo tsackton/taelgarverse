@@ -15,6 +15,7 @@ dm_owner: tim
 dm_notes: important
 pronunciation: zeem-KAH-lah
 title: Zimkala
+hide_toc: true
 ---
 # Zimkala
 :speaker:{ .middle } *(zeem-KAH-lah)*  

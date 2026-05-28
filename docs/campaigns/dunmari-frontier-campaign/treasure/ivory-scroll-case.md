@@ -11,6 +11,6 @@ An elaborate ivory scroll case. This once contained a scroll of demon summoning,
 
 One end of this scroll case was found by the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) outside Raven's Hold on [April 13, 1748](<../session-notes/session-13-dufr.md>). The remaining case and cap were found by the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) in the lair of the [Fraternity of the Empty Moon](<../../../groups/fraternity-of-the-empty-moon.md>) in[Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). The intact case was sold in [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) for 80 gp.
 
-Some of its history was revealed by [Mirror of the Past](<./mirror-of-the-past.md>): 
+Some of its history was revealed by [Mirror of the Past](<mirror-of-the-past.md>): 
 
 ![Ivory Scroll Cap Vision](<../mirror-visions/ivory-scroll-cap-vision.md>)

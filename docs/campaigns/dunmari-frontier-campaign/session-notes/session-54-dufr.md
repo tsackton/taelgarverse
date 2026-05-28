@@ -19,7 +19,7 @@ title: Dunmari Frontier - Delwath Solo Session 2
 > *On Earth: Friday Aug 05, 2022*
 > *[Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>)*
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and companions journey through the [Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>), confronting haunted battlefields and freeing [Tanshi](<../../../gods-and-religions/gods/tanshi/tanshi.md>) bound by cursed armbands.
+[People/PCs/Dunmar Fellowship/Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and companions journey through the [Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>), confronting haunted battlefields and freeing [Gods and Religions/Gods/Tanshi/Tanshi](<../../../gods-and-religions/gods/tanshi/tanshi.md>) bound by cursed armbands.
 
 ## Session Info
 ### Summary
@@ -33,7 +33,7 @@ title: Dunmari Frontier - Delwath Solo Session 2
 - Oct 06, 1748 DR: Arrive at the hunting camp, meet [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>) Mountainhands and [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>)
 - Oct 07, 1748 DR: Set off with [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>) and [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) for the [Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>). Arrive at the battlefield of the Battle without Hope. Fight haunted spirits, uncover the location of a shadow armband, destroy it, freeing [Yalik'i](<../../../gods-and-religions/gods/tanshi/meswati/yalik-i.md>) and [Nisir](<../../../gods-and-religions/gods/tanshi/meswati/nisir.md>). 
 - Oct 07, 1748 DR, late afternoon: Depart battlefield of the Battle without Hope. Walk through the night.
-- Oct 08, 1748 DR, mid-morning: Arrive at the site of the Battle of Darkfire. Remove the armband from the dead body of a massive demon while fighting demonic beasts and trees. Destroy armband, freeing [Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>). Head back to safety of Ko'zula land to rest.
+- Oct 08, 1748 DR, mid-morning: Arrive at the site of the Battle of Darkfire. Remove the armband from the dead body of a massive demon while fighting demonic beasts and trees. Destroy armband, freeing [Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>). Head back to safety of [Ko'zula](<../../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) land to rest.
 
 
 ## Narrative
@@ -51,4 +51,4 @@ This continues, exploring the village and fighting with nightmare visions of the
 
 After a short rest, the party then heads to the Battle of Darkfire. Approaching the battlefield, the party sees the vast body of a dead demon lying a clearing, [Cha'mutte’s Shadow Armband](<../treasure/cha-muttes-shadow-armband.md>) around his wrist. Beginning to approach, the trees and beasts of the forest, flush with demonic energy, attack. The trees are vulnerable to [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>)'s fire, and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) uses the magic of [Narengril](<../treasure/narengril.md>) to create a magic circle impenetrable by demons. Still, the battle is difficult, as the armband cannot be harmed by fire while on the demon's wrist. Eventually, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s shadow beast severs the armband from the demon's wrist, and [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) is able to destroy the armband with fire before the party is overwhelmed, freeing [Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>). 
 
-We end the session as the party retreats to rest in the safety of the Ko'zula forests. 
+We end the session as the party retreats to rest in the safety of the [Ko'zula](<../../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) forests. 

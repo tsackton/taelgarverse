@@ -10,6 +10,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Ra'ghemdros
+hide_toc: true
 ---
 # Ra'ghemdros
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

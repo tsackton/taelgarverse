@@ -6,6 +6,7 @@ gender: male
 dm_notes: color
 dm_owner: tim
 title: Kazuro
+hide_toc: true
 ---
 # Kazuro
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

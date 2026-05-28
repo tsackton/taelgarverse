@@ -12,6 +12,7 @@ whereabouts: Hamri
 dm_owner: none
 dm_notes: color
 title: Benat
+hide_toc: true
 ---
 # Benat
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

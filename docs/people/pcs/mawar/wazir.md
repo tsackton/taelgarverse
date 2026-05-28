@@ -14,6 +14,7 @@ whereabouts: Hamri
 dm_owner: player
 dm_notes: important
 title: Wazir
+hide_toc: true
 ---
 # Wazir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -21,7 +22,7 @@ title: Wazir
 
     A [Mawaran](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
     Owner of the [Leviathan Inn](<../../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>)  
-    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
+    Member of the [Adventurers of Mawar](<adventurers-of-mawar.md>)  
     { .bio }
 
     Based in [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)

@@ -16,19 +16,19 @@ title: Rinburg
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 2,341  
-    :octicons-location-24:{ .lg .middle } A free city in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } A free city in the [Barony of Aveil](<barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 
-A trading town at the head of navigation of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). A busy ferry crosses the river here, and it is the only place to cross the Enst until [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>), sixty miles further west. The landscape around Rinburg is pastoral fields and farms, and there is much good sheep pasture within two days ride. Rinburg is named for [Lake Rin](<./lake-rin.md>), a large lake just upriver, which is also a rich source of fish. 
+A trading town at the head of navigation of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). A busy ferry crosses the river here, and it is the only place to cross the Enst until [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>), sixty miles further west. The landscape around Rinburg is pastoral fields and farms, and there is much good sheep pasture within two days ride. Rinburg is named for [Lake Rin](<lake-rin.md>), a large lake just upriver, which is also a rich source of fish. 
 
-Rinburg is a free city, not under the control of any baron, and owes taxes and allegiance to the [Duchy of Wisford](<../heartlands/duchy-of-wisford.md>), rather than the [Barony of Aveil](<./barony-of-aveil.md>). The town hosts a bustling market as well as a robust ceramic industry and a productive timber industry.
+Rinburg is a free city, not under the control of any baron, and owes taxes and allegiance to the [Duchy of Wisford](<../heartlands/duchy-of-wisford.md>), rather than the [Barony of Aveil](<barony-of-aveil.md>). The town hosts a bustling market as well as a robust ceramic industry and a productive timber industry.
 
 The economic strength of Rinburg is derived from three areas:
 
 * A thriving ceramics trade, particularly focused on jars and similar storage items
 * A robust local industry in timber and masonry
-* A center of trade within the [Barony of Aveil](<./barony-of-aveil.md>), primarily in leathers, grain, beef, and wool
+* A center of trade within the [Barony of Aveil](<barony-of-aveil.md>), primarily in leathers, grain, beef, and wool
 
 There are three major guilds:
 
@@ -41,7 +41,7 @@ The most notable building in town is the large Temple of the Night Queen. There 
 The current Lord Mayor is [Alaric Benec](<../../../../people/sembarans/alaric-benec.md>). 
 
 ### History
-Although the shores of [Lake Rin](<./lake-rin.md>) have been settled for time immemorial, the current city is quite new, having been founded by a royal grant on [Viatela](<../../../../gods-and-religions/holidays-and-festivals/viatela.md>) in 1648. The previous city, known locally as "the ruins", still stands 2000 feet downriver although it has been much ransacked for building supplies. When the hobgoblins were retreating from the old city of Rinburg in the face of the [Radiant Alliance](<../../../../groups/radiant-alliance.md>), they lit massive fires, and by the time the city was recaptured there was little to save and rebuilding seemed more prudent. The old city had a bridge over the Enst, but it has never been rebuilt. Local superstition holds that the bridge was part of why Rinburg fell during the [the hobgoblin wars](<../../../../events/1600s/third-hobgoblin-war-sembara.md>) and there is significant local resistance to ever rebuilding it.
+Although the shores of [Lake Rin](<lake-rin.md>) have been settled for time immemorial, the current city is quite new, having been founded by a royal grant on [Viatela](<../../../../gods-and-religions/holidays-and-festivals/viatela.md>) in 1648. The previous city, known locally as "the ruins", still stands 2000 feet downriver although it has been much ransacked for building supplies. When the hobgoblins were retreating from the old city of Rinburg in the face of the [Radiant Alliance](<../../../../groups/radiant-alliance.md>), they lit massive fires, and by the time the city was recaptured there was little to save and rebuilding seemed more prudent. The old city had a bridge over the Enst, but it has never been rebuilt. Local superstition holds that the bridge was part of why Rinburg fell during the [the hobgoblin wars](<../../../../events/1600s/third-hobgoblin-war-sembara.md>) and there is significant local resistance to ever rebuilding it.
 
 Rinburg grew quickly during the golden years of [Cece's](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>) reign and is today prosperous and bustling, with a sense of possibility.
 ### Local Environment
@@ -72,7 +72,7 @@ The wards of Rinburg are:
 *Distances
 		to [Fellburn](<../heartlands/fellburn.md>), 95 miles
 		to [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>), 60 miles
-		to [Dallet](<./dallet.md>), 40 miles
+		to [Dallet](<dallet.md>), 40 miles
 
 
 

@@ -9,6 +9,7 @@ whereabouts: Cleenseau
 dm_notes: color
 dm_owner: mike
 title: Harold Bybet
+hide_toc: true
 ---
 # Harold Bybet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,5 +23,5 @@ title: Harold Bybet
 </div>
 
 
-![Harold Bybet](../../assets/harold-bybet.png){align="right"; width="320"}The husband of [Annet Bybet](<./annet-bybet.md>), he is a dear friend from childhood of [Rinault](<./rinault-essford.md>) and a keen hunter and horseman. He lives at [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). 
+![Harold Bybet](../../assets/harold-bybet.png){align="right"; width="320"}The husband of [Annet Bybet](<annet-bybet.md>), he is a dear friend from childhood of [Rinault](<rinault-essford.md>) and a keen hunter and horseman. He lives at [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). 
 

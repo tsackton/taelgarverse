@@ -15,6 +15,7 @@ dm_owner: tim
 dm_notes: important
 pronunciation: EHZ-tine
 title: Eztain
+hide_toc: true
 ---
 # Eztain
 :speaker:{ .middle } *(EHZ-tine)*  

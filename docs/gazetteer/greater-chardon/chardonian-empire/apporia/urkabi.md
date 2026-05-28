@@ -17,10 +17,10 @@ title: Urkabi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Mysteriously vanished in DR 1737  
-    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../../creatures/species/lizardfolk.md>) village in [Portalia](<./portalia.md>), the [Chardonian Empire](<../chardonian-empire.md>), [Greater Chardon](<../../greater-chardon.md>)  
+    :octicons-location-24:{ .lg .middle } A [Lizardfolk](<../../../../creatures/species/lizardfolk.md>) village in [Portalia](<portalia.md>), the [Chardonian Empire](<../chardonian-empire.md>), [Greater Chardon](<../../greater-chardon.md>)  
 </div>
 
 
-A small lizardfolk village on the [Apporian Peninsula](<./apporia.md>), on the [Zurrua](<./zurrua.md>). In DR 1737, all the inhabitants of the village, [save one](<../../../../people/pcs/silver-tempests/samso.md>), mysteriously vanished.  
+A small lizardfolk village on the [Apporian Peninsula](<apporia.md>), on the [Zurrua](<zurrua.md>). In DR 1737, all the inhabitants of the village, [save one](<../../../../people/pcs/silver-tempests/samso.md>), mysteriously vanished.  
 
 

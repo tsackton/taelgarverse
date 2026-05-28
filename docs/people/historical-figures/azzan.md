@@ -8,6 +8,7 @@ died: 1
 dm_owner: tim
 dm_notes: none
 title: Azzan
+hide_toc: true
 ---
 # Azzan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

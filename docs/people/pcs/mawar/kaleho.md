@@ -13,13 +13,14 @@ affiliations:
 dm_owner: player
 dm_notes: important
 title: Kaleho
+hide_toc: true
 ---
 # Kaleho
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [human](<../../../creatures/species/humans.md>) (he/him)  
-    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
+    Member of the [Adventurers of Mawar](<adventurers-of-mawar.md>)  
     { .bio }
 
 </div>

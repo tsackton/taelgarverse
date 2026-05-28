@@ -13,12 +13,13 @@ whereabouts: Te'kula village
 dm_owner: none
 dm_notes: color
 title: Obel
+hide_toc: true
 ---
 # Obel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Te'kula  
+    A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>)  
     Born DR 1688 (62 years old)  
     { .bio }
 
@@ -26,4 +27,4 @@ title: Obel
 </div>
 
 
-An old ranger of the Te'kula who volunteered to fight [Grimbaskal](<../other-nonhumans/mezzar.md>) with the party. Miraculously survived. 
+An old ranger of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) who volunteered to fight [Grimbaskal](<../other-nonhumans/mezzar.md>) with the party. Miraculously survived. 

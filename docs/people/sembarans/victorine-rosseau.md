@@ -10,6 +10,7 @@ affiliations:
 dm_notes: important
 dm_owner: mike
 title: Victorine Rosseau
+hide_toc: true
 ---
 # Victorine Rosseau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -7,6 +7,7 @@ gender: female
 dm_owner: none
 dm_notes: none
 title: Nelawe
+hide_toc: true
 ---
 # Nelawe
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

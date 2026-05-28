@@ -12,6 +12,7 @@ died: 1719-10-21
 dm_notes: none
 dm_owner: none
 title: Denis Moss
+hide_toc: true
 ---
 # Denis Moss
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,4 +26,4 @@ title: Denis Moss
 </div>
 
 
-The father of [Abigail Moss](<./abigail-moss.md>) and her two sisters, he was killed by spiders during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>), as was his wife and two of his daughters. 
+The father of [Abigail Moss](<abigail-moss.md>) and her two sisters, he was killed by spiders during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>), as was his wife and two of his daughters. 

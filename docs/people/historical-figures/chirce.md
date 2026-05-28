@@ -7,6 +7,7 @@ gender: male
 dm_owner: tim
 dm_notes: important
 title: Chirce
+hide_toc: true
 ---
 # Chirce
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

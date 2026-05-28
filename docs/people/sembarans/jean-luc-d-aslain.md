@@ -13,6 +13,7 @@ affiliations:
 dm_notes: color
 dm_owner: mike
 title: Jean Luc D'Aslain
+hide_toc: true
 ---
 # Jean-Luc D'Aslain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,4 +28,4 @@ title: Jean Luc D'Aslain
 </div>
 
 
-![Jean Luc D Aslain](../../assets/jean-luc-d-aslain.png){align="right"; width="320"}A disciple of the Father, splitting time between [Dallet](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/dallet.md>) and [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). A cousin of the current baron, Isabeau d'Aslain.
+![Jean Luc D'aslain](../../assets/jean-luc-d-aslain.png){align="right"; width="320"}A disciple of the Father, splitting time between [Dallet](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/dallet.md>) and [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). A cousin of the current baron, [Isabeau d'Aslain](<isabeau-d-aslain.md>).

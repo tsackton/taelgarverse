@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Helen of Haldrenn
+hide_toc: true
 ---
 # Helen of Haldrenn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -32,6 +33,6 @@ title: Helen of Haldrenn
 
 Helen is the temple administrator for the small temple to [The Mother](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-mother.md>) in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), and a collector of fey lore. She presides over community rites and maintains oral histories of fey activity in the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), including tales of the Briarheart.
 ## Events
-- May 17, 1715 DR: Presided over the funeral rites for [Olay](<./olay.md>), which were interrupted by a [worg attack](<../../campaigns/addermarch-campaign/addermarch-session-12.md>). 
+- May 17, 1715 DR: Presided over the funeral rites for [Olay](<olay.md>), which were interrupted by a [worg attack](<../../campaigns/addermarch-campaign/addermarch-session-12.md>). 
 
 

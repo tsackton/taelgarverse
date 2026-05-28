@@ -16,6 +16,7 @@ affiliations:
 dm_owner: none
 dm_notes: color
 title: Amar
+hide_toc: true
 ---
 # Amar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

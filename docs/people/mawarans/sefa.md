@@ -11,6 +11,7 @@ whereabouts: Hamri
 dm_owner: none
 dm_notes: none
 title: Sefa
+hide_toc: true
 ---
 # Sefa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -26,6 +27,4 @@ title: Sefa
 
 Sefa is an older woman, poor and addicted to [Gatza](<../../things/materials/gatza.md>), who lives alone in the Drowned Flats, in Hamri. 
 
-
-She was killed by [Azar the Lost](<./azar-the-lost.md>), in misguided quest to restore his dead wife using the waters of the [Sentient Ocean](<../extraplanar-powers/sentient-ocean.md>). 
 

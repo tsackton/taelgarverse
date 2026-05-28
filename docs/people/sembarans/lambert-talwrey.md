@@ -9,6 +9,7 @@ species: human
 dm_notes: none
 dm_owner: none
 title: Lambert Talwrey
+hide_toc: true
 ---
 # Lambert Talwrey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

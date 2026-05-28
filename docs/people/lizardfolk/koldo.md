@@ -10,6 +10,7 @@ whereabouts: Ganboa
 dm_notes: none
 dm_owner: none
 title: Koldo
+hide_toc: true
 ---
 # Koldo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

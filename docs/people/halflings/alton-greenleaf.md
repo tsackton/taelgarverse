@@ -16,6 +16,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Alton Greenleaf
+hide_toc: true
 ---
 # Alton Greenleaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -36,4 +37,4 @@ title: Alton Greenleaf
 
 A halfling wanderer, traveling with only his brother. 
 ## Relationships
-- [Lyle Greenleaf](<./lyle-greenleaf.md>), brother and traveling companion. 
+- [Lyle Greenleaf](<lyle-greenleaf.md>), brother and traveling companion. 

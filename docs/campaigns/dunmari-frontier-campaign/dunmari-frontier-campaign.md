@@ -10,11 +10,11 @@ The events begin in the 191st year of the Nayan Dynasty in Dunmar, or DR 1748 as
 
 You might start with:
 - The index of session notes: Great Library Session Tracking
-- A timeline of campaign events: [Dunmari Frontier Timeline](<./dunmari-frontier-timeline.md>)
-- A list of treasure gained: [Party Treasure](<./party-treasure.md>)
-- The index of visions seen in the [Mirror of the Past](<treasure/mirror-of-the-past.md>): [Mirror Visions](<./mirror-visions.md>)
-- Information about [Vindristjarna](<../../things/ships/vindristjarna.md>), its [control mechanics](<./vindristjarna-mechanics.md>) and its [special facilities](<./vindristjarna-bastion-rules.md>).
-- Information about [companions, followers, and hirelings](<./dunmar-fellowship-associates.md>). 
+- A timeline of campaign events: [Dunmari Frontier Timeline](<dunmari-frontier-timeline.md>)
+- A list of treasure gained: [Party Treasure](<party-treasure.md>)
+- The index of visions seen in the [Mirror of the Past](<treasure/mirror-of-the-past.md>): [Mirror Visions](<mirror-visions.md>)
+- Information about [Vindristjarna](<../../things/ships/vindristjarna.md>), its [control mechanics](<vindristjarna-mechanics.md>) and its [special facilities](<vindristjarna-bastion-rules.md>).
+- Information about [companions, followers, and hirelings](<dunmar-fellowship-associates.md>). 
 
 The most recent session with published notes is [Session 130 (DuFr)](<session-notes/session-130-dufr.md>). 
 

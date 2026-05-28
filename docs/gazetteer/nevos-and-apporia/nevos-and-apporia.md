@@ -26,9 +26,9 @@ _See more: {links}_
 
 {descriptive text of topography and major features}
 ## Civilizations and Cultures
-_See more: [Illoria](<./illoria.md>)_
+_See more: [Illoria](<illoria.md>)_
 
-The pirate realm of [Illoria](<./illoria.md>) is the major culture of the [Nevos Sea](<./nevos-sea.md>), although since its conquest by the [Chardonian Empire](<../greater-chardon/chardonian-empire/chardonian-empire.md>) the southern (unconquered) islands have splinted somewhat. Historically, [Castrella](<../greater-chardon/chardonian-empire/apporia/castrella.md>) was a major realm in the region, although it has been part of the [Chardonian Empire](<../greater-chardon/chardonian-empire/chardonian-empire.md>) for over a hundred years now.
+The pirate realm of [Illoria](<illoria.md>) is the major culture of the [Nevos Sea](<nevos-sea.md>), although since its conquest by the [Chardonian Empire](<../greater-chardon/chardonian-empire/chardonian-empire.md>) the southern (unconquered) islands have splinted somewhat. Historically, [Castrella](<../greater-chardon/chardonian-empire/apporia/castrella.md>) was a major realm in the region, although it has been part of the [Chardonian Empire](<../greater-chardon/chardonian-empire/chardonian-empire.md>) for over a hundred years now.
 
 
 ## Climate

@@ -5,7 +5,6 @@ typeOf: road
 whereabouts: Dunmar
 dm_notes: none
 dm_owner: tim
-unlisted: true
 title: ~Darba Songara Road~
 ---
 # The ~Darba-Songara Road~
@@ -14,4 +13,4 @@ title: ~Darba Songara Road~
 </div>
 
 
-The ancient [Drankorian](<../../../history/historical-realms/drankorian-empire.md>) road that leads north from [Darba](<../realms/dunmar/coastal-dunmar/darba/darba.md>), joining the [Stoneway](<./stoneway.md>) near [Songara](<../realms/dunmar/central-dunmar/songara.md>). 
+The ancient [Drankorian](<../../../history/historical-realms/drankorian-empire.md>) road that leads north from [Darba](<../realms/dunmar/coastal-dunmar/darba/darba.md>), joining the [Stoneway](<stoneway.md>) near [Songara](<../realms/dunmar/central-dunmar/songara.md>). 

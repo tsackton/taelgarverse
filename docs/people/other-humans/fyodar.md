@@ -8,6 +8,7 @@ whereabouts: Zvervinka
 dm_owner: tim
 dm_notes: color
 title: Fyodar
+hide_toc: true
 ---
 # Fyodar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

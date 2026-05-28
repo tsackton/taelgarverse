@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: color
 title: Kaupa
+hide_toc: true
 ---
 # Kaupa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

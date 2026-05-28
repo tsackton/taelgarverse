@@ -6,7 +6,6 @@ typeOf: grassland
 dm_owner: tim
 dm_notes: color
 typeOfAlias: scrubland
-unlisted: true
 title: ~Lower Hara Valley~
 ---
 # The ~Lower Hara Valley~

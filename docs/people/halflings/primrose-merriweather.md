@@ -9,6 +9,7 @@ affiliations:
 dm_notes: color
 dm_owner: mike
 title: Primrose Merriweather
+hide_toc: true
 ---
 # Primrose Merriweather
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

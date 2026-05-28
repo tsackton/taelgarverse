@@ -36,7 +36,16 @@ The north bank is less marshy than the south, and there are several weirs and wa
 - 1558 DR: The Samraat Nayan Kundar drives the Illorian from Darba and reclaims the city 
 - 1644 DR: A massive new public market is constructed in Darba by dwarven craftsfolk, commissioned by the Samraat to reflect the growing importance of Darba as a center of trade
 
-
-
+| Person                             | Info                                                | Current Location                                   | Home      |
+| ---------------------------------- | --------------------------------------------------- | -------------------------------------------------- | --------- |
+| [Albus](<../../../../../../people/chardonians/albus.md>) (he/him)                 | [Chardonian](<../../../../../greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../../../../../creatures/species/humans.md>) | [Darba](<darba.md>), [Coastal Dunmar](<../coastal-dunmar.md>) (January 1st, 1750)  | [Darba](<darba.md>) |
+| [Finellen Silverstone](<../../../../../../people/dwarves/finellen-silverstone.md>) (she/her) | [dwarf](<../../../../../../creatures/species/dwarves.md>)                                  | [Darba](<darba.md>), [Coastal Dunmar](<../coastal-dunmar.md>) (January 1st, 1750)  | [Darba](<darba.md>) |
+| [Torgga Redpeak](<../../../../../../people/dwarves/torgga-redpeak.md>) (she/her)       | [dwarf](<../../../../../../creatures/species/dwarves.md>)                                  | [Darba](<darba.md>), [Coastal Dunmar](<../coastal-dunmar.md>) (January 1st, 1750)  | [Darba](<darba.md>) |
+| [Vondal Redpeak](<../../../../../../people/dwarves/vondal-redpeak.md>) (he/him)        | [dwarf](<../../../../../../creatures/species/dwarves.md>)                                  | [Darba](<darba.md>), [Coastal Dunmar](<../coastal-dunmar.md>) (January 1st, 1750)  | [Darba](<darba.md>) |
+| [Ander Charmheart](<../../../../../../people/halflings/ander-charmheart.md>) (he/him)      | [halfling](<../../../../../../creatures/species/halflings.md>)                             | [Darba](<darba.md>), [Coastal Dunmar](<../coastal-dunmar.md>) (August 13th, 1748)  | Unknown   |
+| [Bree Charmheart](<../../../../../../people/halflings/bree-charmheart.md>) (she/her)      | [halfling](<../../../../../../creatures/species/halflings.md>)                             | [Darba](<darba.md>), [Coastal Dunmar](<../coastal-dunmar.md>) (August 13th, 1748)  | Unknown   |
+| [Callie Charmheart](<../../../../../../people/halflings/callie-charmheart.md>) (she/her)    | [halfling](<../../../../../../creatures/species/halflings.md>)                             | [Darba](<darba.md>), [Coastal Dunmar](<../coastal-dunmar.md>) (August 13th, 1748)  | Unknown   |
+| [Dee Wildcloak](<../../../../../../people/halflings/dee-wildcloak.md>) (she/her)        | [halfling](<../../../../../../creatures/species/halflings.md>)                             | [Darba](<darba.md>), [Coastal Dunmar](<../coastal-dunmar.md>) (October 21th, 1748) | Unknown   |
+| [Garret Tealeaf](<../../../../../../people/halflings/garret-tealeaf.md>) (he/him)        | [halfling](<../../../../../../creatures/species/halflings.md>)                             | [Darba](<darba.md>), [Coastal Dunmar](<../coastal-dunmar.md>) (August 13th, 1748)  | Unknown   |
 
 

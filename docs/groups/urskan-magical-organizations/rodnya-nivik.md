@@ -16,6 +16,6 @@ title: Rodnya Nivik
 </div>
 
 
-The Rodnya Nivik is one of the eight [rodnye](<./rodnya.md>) that rule [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>). Nivik is most closely associated with conjuration magic, and especially with teleportation.
+The Rodnya Nivik is one of the eight [rodnye](<rodnya.md>) that rule [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>). Nivik is most closely associated with conjuration magic, and especially with teleportation.
 
 

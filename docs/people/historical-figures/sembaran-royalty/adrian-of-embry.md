@@ -12,6 +12,7 @@ affiliations:
 - {place: Duchy of Sembara, title: Duke, start: 1142}
 dm_owner: none
 dm_notes: none
+hide_toc: true
 ---
 # Duke Adrian of Embry
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

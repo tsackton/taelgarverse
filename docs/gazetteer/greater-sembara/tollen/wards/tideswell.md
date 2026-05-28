@@ -15,5 +15,5 @@ title: Tideswell
 </div>
 
 
-Tideswell is one of the newest wards of [Tollen](<../tollen.md>), and like [Fenslane](<./fenslane.md>), sits on reclaimed marshland, near the confluence of the [Muddy River](<../../../extraplanar/shadowfolds/morkalan/muddy-river.md>) and the [Volta](<../../rivers/volta-watershed/volta.md>). 
+Tideswell is one of the newest wards of [Tollen](<../tollen.md>), and like [Fenslane](<fenslane.md>), sits on reclaimed marshland, near the confluence of the [Muddy River](<../../../extraplanar/shadowfolds/morkalan/muddy-river.md>) and the [Volta](<../../rivers/volta-watershed/volta.md>). 
 

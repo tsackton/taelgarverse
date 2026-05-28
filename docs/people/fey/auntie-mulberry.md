@@ -10,6 +10,7 @@ whereabouts: Emberwine
 dm_notes: color
 dm_owner: none
 title: Auntie Mulberry
+hide_toc: true
 ---
 # Auntie Mulberry
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -19,6 +19,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Agata Dustmother
+hide_toc: true
 ---
 # Agata Dustmother
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -53,7 +54,7 @@ Agata takes the appearance of a withered old woman, with dry, dusty skin, wearin
 - In the early 1740s, Agata imprisoned Nayan [Sura](<../dunmari/sura.md>) in a magic mirror, triggering a chain of events that led to the ascension of [Nayan Karnas](<../dunmari/nayan-karnas.md>), [Sura](<../dunmari/sura.md>)'s brother, to the Dunmari throne, for mysterious ends.
 - Acquired the [Scepter of Command](<../../things/artifacts-of-power/scepter-of-command.md>) from the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>) sometime in 1747 or early 1748, in exchange for assisting the Fraternity in their plan to draw the energy of [Pandemonium](<../../cosmology/spiritual-realms/pandemonium.md>) closer to Taelgar, strengthening the curse of lycanthropy and causing madness to spread across [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 - Thought to be killed by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) at [Shakun’s Wellspring](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>) on [May 29th, 1748](<../../campaigns/dunmari-frontier-campaign/session-notes/session-28-dufr.md>).
-- Masqueraded for months as a fey named [Typhina](<./typhina.md>) in the [Ring of the Warded Mind](<../../campaigns/dunmari-frontier-campaign/treasure/ring-of-the-warded-mind.md>), recounting [Typhina](<./typhina.md>)'s story to [Seeker](<../pcs/dunmar-fellowship/seeker.md>).
+- Masqueraded for months as a fey named [Typhina](<typhina.md>) in the [Ring of the Warded Mind](<../../campaigns/dunmari-frontier-campaign/treasure/ring-of-the-warded-mind.md>), recounting [Typhina](<typhina.md>)'s story to [Seeker](<../pcs/dunmar-fellowship/seeker.md>).
 - Was finally imprisoned in the [Heartwood Grove](<../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>) in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>) in the [Feywild](<../../cosmology/feywild.md>) in [November 1748](<../../campaigns/dunmari-frontier-campaign/session-notes/session-67-dufr.md>).
 
 

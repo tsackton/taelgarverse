@@ -6,7 +6,6 @@ typeOf: topographical feature
 dm_owner: none
 dm_notes: none
 typeOfAlias: gorge
-unlisted: true
 title: ~Hara River Gorge~
 ---
 # The ~Hara River Gorge~
@@ -15,4 +14,4 @@ title: ~Hara River Gorge~
 </div>
 
 
-The ~Hara River Gorge~ is a steep-sided canyon, where the [Hara](<../rivers/hara-watershed/hara.md>) River flows out of the [Hara Basin](<./hara-basin.md>). 
+The ~Hara River Gorge~ is a steep-sided canyon, where the [Hara](<../rivers/hara-watershed/hara.md>) River flows out of the [Hara Basin](<hara-basin.md>). 

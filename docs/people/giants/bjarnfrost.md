@@ -10,6 +10,7 @@ affiliations:
 - {place: Kaldhalla, title: King, type: leader, end: 1511}
 dm_owner: tim
 dm_notes: important
+hide_toc: true
 ---
 # King Bjarnfrost
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

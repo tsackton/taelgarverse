@@ -12,6 +12,7 @@ whereabouts: Cleenseau
 dm_notes: none
 dm_owner: mike
 title: Conrad
+hide_toc: true
 ---
 # Conrad
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -26,7 +27,7 @@ title: Conrad
 
 
 
-![Conrard Cleenseau](../../assets/conrard-cleenseau.png){align="right"; width="320"}[Anselm's](<./anselm.md>) assistant at the Temple of the Warlord. A young, rather shy man, who looks up to Anselm but has become fascinated by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>). He is the main organizer of the temple's charity, and knows the people of Beggar's Way relatively well. 
+![Conrard Cleenseau](../../assets/conrard-cleenseau.png){align="right"; width="320"}[Anselm's](<anselm.md>) assistant at the Temple of the Warlord. A young, rather shy man, who looks up to Anselm but has become fascinated by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>). He is the main organizer of the temple's charity, and knows the people of Beggar's Way relatively well. 
 
 
 

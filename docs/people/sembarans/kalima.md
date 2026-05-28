@@ -11,12 +11,13 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Kalima
+hide_toc: true
 ---
 # Kalima
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Zimka [human](<../../creatures/species/humans.md>) (she/her)  
+    A [Zimka](<../../groups/cultures/zimka.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     { .bio }
 
     Originally from: Unknown

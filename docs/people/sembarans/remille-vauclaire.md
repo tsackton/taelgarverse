@@ -17,6 +17,7 @@ whereabouts:
 dm_notes: none
 dm_owner: mike
 title: Remille Vauclaire
+hide_toc: true
 ---
 # Remille Vauclaire
 :speaker:{ .middle } *(Ruh-mee Voh-klair)*  

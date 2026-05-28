@@ -15,6 +15,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Vola Forena
+hide_toc: true
 ---
 # Vola Forena
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -31,7 +32,7 @@ title: Vola Forena
 :octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>)
 
 
-Vola was born on the streets of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), living a life of squalor, disease, and poverty. She grew up in the [Riverside](<../../gazetteer/greater-chardon/chardonian-empire/chardon/riverside-quarter.md>) slurms, near the chalyte refineries.  Eventually, she was discovered by [Agon](<./agon.md>), who helped her grow into her power and fulfill her potential.  She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [Agon](<./agon.md>) and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 
+Vola was born on the streets of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), living a life of squalor, disease, and poverty. She grew up in the [Riverside](<../../gazetteer/greater-chardon/chardonian-empire/chardon/riverside-quarter.md>) slurms, near the chalyte refineries.  Eventually, she was discovered by [Agon](<agon.md>), who helped her grow into her power and fulfill her potential.  She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [Agon](<agon.md>) and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 
 
 She is dedicated to the cause of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), believing in their mission to secure dangerous knowledge from those who would use it for harm, and to preserve magic for future generations.
 
@@ -39,13 +40,13 @@ She is dedicated to the cause of the [Society of the Open Scroll](<../../groups/
 ## Relationships
 
 - Friendly with [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), especially with [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), who had a similar childhood in Chardon. Somewhat awed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>). Less friendy with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>), largely because or [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>)'s distain. 
-- Friendly with other adventurers for the Society of the Open Scroll, in particular [Dee Wildcloak](<../halflings/dee-wildcloak.md>), [Dain Goldhammer](<../dwarves/dain-goldhammer.md>), and [Alban](<./alban.md>)
-- Looks up to her mentor, [Agon](<./agon.md>)
-- Knows many other Chardonians, including [Kadmos](<./kadmos.md>), [Marcella](<./marcella.md>), [Hektor](<./hektor.md>), [Antonia](<./antonia.md>), and [Casian](<./casian.md>), whom she traveled with in early 1748, and [Crispus](<./crispus.md>) and [Fausto](<./fausto.md>), who are the funders of expeditions she has been on or knows of. Particularly friendly with [Marcella](<./marcella.md>). Dislikes [Casian](<./casian.md>), whom she considers an arrogant snob who believes he can take whatever he wants. 
+- Friendly with other adventurers for the Society of the Open Scroll, in particular [Dee Wildcloak](<../halflings/dee-wildcloak.md>), [Dain Goldhammer](<../dwarves/dain-goldhammer.md>), and [Alban](<alban.md>)
+- Looks up to her mentor, [Agon](<agon.md>)
+- Knows many other Chardonians, including [Kadmos](<kadmos.md>), [Marcella](<marcella.md>), [Hektor](<hektor.md>), [Antonia](<antonia.md>), and [Casian](<casian.md>), whom she traveled with in early 1748, and [Crispus](<crispus.md>) and [Fausto](<fausto.md>), who are the funders of expeditions she has been on or knows of. Particularly friendly with [Marcella](<marcella.md>). Dislikes [Casian](<casian.md>), whom she considers an arrogant snob who believes he can take whatever he wants. 
 
 ## Chronology
 
-- late 1747 - early 1748: travels with [Kadmos](<./kadmos.md>), [Marcella](<./marcella.md>), [Hektor](<./hektor.md>), [Antonia](<./antonia.md>), and [Casian](<./casian.md>), leaving Chardon, crossing Nevos Sea, traveling to Nayahar and then across the Yuvanti mountains to [Askandi](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/askandi.md>).  
+- late 1747 - early 1748: travels with [Kadmos](<kadmos.md>), [Marcella](<marcella.md>), [Hektor](<hektor.md>), [Antonia](<antonia.md>), and [Casian](<casian.md>), leaving Chardon, crossing Nevos Sea, traveling to Nayahar and then across the Yuvanti mountains to [Askandi](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/askandi.md>).  
 
 - 5 Mar 1748: Leaves [Askandi](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/askandi.md>) for Raven's Hold
 - 31 Mar 1748: Vola arrives at Raven's Hold. 

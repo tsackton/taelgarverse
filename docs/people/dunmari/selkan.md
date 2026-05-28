@@ -12,6 +12,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Selkan
+hide_toc: true
 ---
 # Selkan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

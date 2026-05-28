@@ -15,6 +15,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Daisy Lightfoot
+hide_toc: true
 ---
 # Daisy Lightfoot
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -12,7 +12,7 @@ title: Lavnoch Plateau
 ---
 # The Lavnoch Plateau
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A plateau in [Zimkova](<./zimkova.md>), [Greater Sembara](<../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A plateau in [Zimkova](<zimkova.md>), [Greater Sembara](<../greater-sembara.md>)  
 </div>
 
 
@@ -37,7 +37,7 @@ Lavnoch is only sparsely populated, home to scattered Zimka clans and small fort
  Not sure about this names, placeholders for now, except I like the Dornach 
 
 ### Borders
-The plateau is bordered in the west by the foothills of the [Sentinel Range](<../../sentinel-range.md>) which rise from western Lavnoch to great peaks over 10,000' tall.  In the east, it is bordered by the [Braebein](<../sembara/braebein.md>) - a series of mountainous hills with a few peaks over 6,000' - and the Lauswald, an eerie forest said to be haunted by the children of [Zeyfa](<../../../gods-and-religions/gods/kestavo/zeyfa.md>). In the north, the terrain rises to over 5,000' before descending in a series of more gentle foothills to the land around the [Great Chasm](<./great-chasm.md>). In the south, a series of sharp, rocky hills separate the edge of the plateau from the [Semb](<../rivers/semb-watershed/semb.md>) river valley.
+The plateau is bordered in the west by the foothills of the [Sentinel Range](<../../sentinel-range.md>) which rise from western Lavnoch to great peaks over 10,000' tall.  In the east, it is bordered by the [Braebein](<../sembara/braebein.md>) - a series of mountainous hills with a few peaks over 6,000' - and the Lauswald, an eerie forest said to be haunted by the children of [Zeyfa](<../../../gods-and-religions/gods/kestavo/zeyfa.md>). In the north, the terrain rises to over 5,000' before descending in a series of more gentle foothills to the land around the [Great Chasm](<great-chasm.md>). In the south, a series of sharp, rocky hills separate the edge of the plateau from the [Semb](<../rivers/semb-watershed/semb.md>) river valley.
 
 
 

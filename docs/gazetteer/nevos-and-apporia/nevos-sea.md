@@ -17,7 +17,7 @@ title: Nevos Sea
 </div>
 
 
-The sea on the west coast of [Dunmar](<../greater-dunmar/realms/dunmar/dunmar.md>), and where the islands of [Illoria](<./illoria.md>) can be found. 
+The sea on the west coast of [Dunmar](<../greater-dunmar/realms/dunmar/dunmar.md>), and where the islands of [Illoria](<illoria.md>) can be found. 
 
 
 

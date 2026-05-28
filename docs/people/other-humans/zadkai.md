@@ -12,6 +12,7 @@ campaignInfo:
 dm_owner: tim
 dm_notes: important
 title: Zadkai
+hide_toc: true
 ---
 # Zadkai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,7 +28,7 @@ title: Zadkai
 
 
 
-Zadkai is a warlock devoted to a powerful being of the [Elemental Plane of Air](<../../cosmology/energy-realms/elemental-plane-of-air.md>). He sought the Skyborn Scroll, one of [Airion the Mistspeaker](<./airion.md>)'s elemental scrolls, believing it should be destroyed or returned to the Plane of Air rather than remain in human hands.
+Zadkai is a warlock devoted to a powerful being of the [Elemental Plane of Air](<../../cosmology/energy-realms/elemental-plane-of-air.md>). He sought the Skyborn Scroll, one of [Airion the Mistspeaker](<airion.md>)'s elemental scrolls, believing it should be destroyed or returned to the Plane of Air rather than remain in human hands.
 
 He is especially associated with [Airion’s Floating Tower](<../../gazetteer/northwest-coast/fiamatara-mountains/airions-floating-tower.md>), where he used illusion to impersonate Airion and tried to seize the scroll. His appearance there suggested unnatural age or alteration, but the source of his condition is uncertain. Zadkai escaped after the scroll was recovered, and his later whereabouts are unknown.
 

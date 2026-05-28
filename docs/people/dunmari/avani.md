@@ -14,6 +14,7 @@ whereabouts: Tokra
 dm_owner: none
 dm_notes: color
 title: Avani
+hide_toc: true
 ---
 # Avani
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

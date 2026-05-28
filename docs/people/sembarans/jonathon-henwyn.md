@@ -15,6 +15,7 @@ affiliations:
 dm_notes: color
 dm_owner: mike
 title: Jonathon Henwyn
+hide_toc: true
 ---
 # Jonathon Henwyn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -32,6 +33,6 @@ title: Jonathon Henwyn
 
 ![Jonathon Henwyn](../../assets/jonathon-henwyn.png){align="right"; width="320"}The steward of the [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), Jonathon is responsible for its bookkeeping and upkeep, as well as collecting the rents from farmers and other manorial administration. 
 
-He has a keen interest in history, and is a competent clerk and accountant. He took over as steward from his father-in-law in 1715. His wife is a childhood friend of [Rosalind](<./rosalind-essford.md>) and assists him. They and their three children live at [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). 
+He has a keen interest in history, and is a competent clerk and accountant. He took over as steward from his father-in-law in 1715. His wife is a childhood friend of [Rosalind](<rosalind-essford.md>) and assists him. They and their three children live at [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). 
 
  

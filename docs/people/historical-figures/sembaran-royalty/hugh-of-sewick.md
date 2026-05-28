@@ -12,6 +12,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Hugh of Sewick
+hide_toc: true
 ---
 # Hugh of Sewick
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,5 +25,5 @@ title: Hugh of Sewick
 </div>
 
 
-Hugh was the eldest son of [Charlotte I](<./charlotte-i.md>). 
+Hugh was the eldest son of [Charlotte I](<charlotte-i.md>). 
 

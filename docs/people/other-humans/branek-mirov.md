@@ -10,6 +10,7 @@ whereabouts: Voknaz Manor
 dm_notes: important
 dm_owner: tim
 title: Branek Mirov
+hide_toc: true
 ---
 # Branek Mirov
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

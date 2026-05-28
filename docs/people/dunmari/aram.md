@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Aram
+hide_toc: true
 ---
 # Aram
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,4 +30,4 @@ title: Aram
 
 
 
-A holy warrior of [Aagir](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/aagir.md>) in [Havdar](<./havdar.md>)'s service, and unofficial spiritual leader of [Havdar's Warband](<../../groups/havdar-s-warband.md>).
+A holy warrior of [Aagir](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/aagir.md>) in [Havdar](<havdar.md>)'s service, and unofficial spiritual leader of [Havdar's Warband](<../../groups/havdar-s-warband.md>).

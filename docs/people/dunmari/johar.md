@@ -25,6 +25,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Johar
+hide_toc: true
 ---
 # Johar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

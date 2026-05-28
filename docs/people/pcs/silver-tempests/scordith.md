@@ -12,6 +12,7 @@ whereabouts:
 - {type: home, end: 1736, location: Paisa}
 - {type: away, start: 1747-03-01, end: 1747-06-09, location: Voltara}
 title: Scordith
+hide_toc: true
 ---
 # Scordith
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -19,7 +20,7 @@ title: Scordith
 
     A [human](<../../../creatures/species/humans.md>) (she/her)  
     Born DR 1730 (20 years old)  
-    Member of [Silver Tempests](<./silver-tempests.md>) (until June 9th, 1747)  
+    Member of the [Silver Tempests](<silver-tempests.md>) (until June 9th, 1747)  
     { .bio }
 
     Originally from: [Paisa](<../../../gazetteer/northwest-coast/northern-provinces/paisa.md>), the [Northern Provinces](<../../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
@@ -32,5 +33,5 @@ Scordith was born in [Paisa](<../../../gazetteer/northwest-coast/northern-provin
 
 When she turned 16, she tried to flee the monastery, but the monks had other ideas, and tried to stop her. At this moment, a divine spark awoke in Scordith, and she barely escaped through her new-found connection to [The Sibyl](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>). Fleeing north, she found herself in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), where she met [Lyra](<../../chardonians/lyra.md>) and started working for the [Great Library](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>). 
 
-After traveling to help some centaurs deal with a curse with [Adrik](<./adrik.md>), [Samso](<./samso.md>), [Brelith](<./brelith.md>), and [Aglath](<./aglath.md>), she returned to [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) alone, and was never seen from again.
+After traveling to help some centaurs deal with a curse with [Adrik](<adrik.md>), [Samso](<samso.md>), [Brelith](<brelith.md>), and [Aglath](<aglath.md>), she returned to [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) alone, and was never seen from again.
 

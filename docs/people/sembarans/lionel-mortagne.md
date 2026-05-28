@@ -11,6 +11,7 @@ born: 1686
 dm_notes: none
 dm_owner: none
 title: Lionel Mortagne
+hide_toc: true
 ---
 # Lionel Mortagne
 :speaker:{ .middle } *(Li-o-nel Mor-tahn-yeh)*  
@@ -25,4 +26,4 @@ title: Lionel Mortagne
 </div>
 
 
-![Lionel Mortagne](../../assets/lionel-mortagne.png){align="right"; width="320"}The captain of [Lord Murtha's](<./erick-murtha.md>) household guard.
+![Lionel Mortagne](../../assets/lionel-mortagne.png){align="right"; width="320"}The captain of [Lord Murtha's](<erick-murtha.md>) household guard.

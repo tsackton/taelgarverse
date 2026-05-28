@@ -14,6 +14,7 @@ died: 991
 whereabouts: Drankor
 dm_owner: tim
 dm_notes: color
+hide_toc: true
 ---
 # Emperor Akaston
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

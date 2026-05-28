@@ -13,6 +13,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Margaret Ashford
+hide_toc: true
 ---
 # Margaret Ashford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,4 +28,4 @@ title: Margaret Ashford
 
 
 
-A midwife, who was tending to [Béatrix Thorne](<./beatrix-thorne.md>) when the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) broke out.
+A midwife, who was tending to [Béatrix Thorne](<beatrix-thorne.md>) when the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) broke out.

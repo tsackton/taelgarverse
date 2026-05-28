@@ -10,6 +10,7 @@ affiliations:
 dm_owner: tim
 dm_notes: important
 title: Drusilia
+hide_toc: true
 ---
 # Drusilia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

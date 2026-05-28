@@ -11,6 +11,7 @@ whereabouts:
 - {type: away, location: Plane of Water}
 - {type: away, start: 1749-05-21, end: 9999, location: Vindristjarna}
 title: Willow Copperharp
+hide_toc: true
 ---
 # Willow Copperharp
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -10,10 +10,10 @@ title: Pikkua
 ---
 # Pikkua
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An island [Skaerhem](<./skaerhem.md>)  
+-    :octicons-location-24:{ .lg .middle } An island in [Skaerhem](<skaerhem.md>), the [Western Green Sea](<../western-green-sea.md>)  
 </div>
 
 
-Pikkua is a small island community in [the Skaer Islands](<./skaerhem.md>) of the [Western Green Sea](<../western-green-sea.md>). Isolated and self‑reliant, it is home to a few hundred [Skaer](<../realms/skaer.md>) who live following the rhythm of the sea. 
+Pikkua is a small island community in [the Skaer Islands](<skaerhem.md>) of the [Western Green Sea](<../western-green-sea.md>). Isolated and self‑reliant, it is home to a few hundred [Skaer](<../realms/skaer.md>) who live following the rhythm of the sea. 
 
 

@@ -12,6 +12,7 @@ whereabouts: Tokra
 dm_owner: none
 dm_notes: color
 title: Ashar
+hide_toc: true
 ---
 # Ashar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

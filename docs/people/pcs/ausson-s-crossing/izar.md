@@ -9,6 +9,7 @@ player: Kiya Nicoll
 dm_owner: player
 dm_notes: important
 title: Izar
+hide_toc: true
 ---
 # Izar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -22,6 +22,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Garret Tealeaf
+hide_toc: true
 ---
 # Garret Tealeaf
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -48,18 +49,19 @@ title: Garret Tealeaf
 ![Garret Tealeaf](../../assets/garret-tealeaf.jpg){align="right"; width="300"}Garret Tealeaf grew up traveling the roads of Dunmar with the Tealeaf trading family, eventually becoming the patriarch of a group of 5 well-armed and defended caravans that regularly made the circuit from Chardon, east to [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>), Tokra, and Karawa, before turning south across the Yuvanti Mountains to Nayahar, and then north along the coast to Darba, and back to Chardon. 
 
 ## Relationships
+
 - [Charmhearts](<../../groups/halfling-families/charmhearts.md>), occasional traveling companions after being freed from imprisonment in [Agata's Lair](<../../gazetteer/greater-dunmar/hara-basin/agata-s-lair.md>). 
 - [Agata](<../fey/agata.md>), his captor and tormentor
 - [Seeker](<../pcs/dunmar-fellowship/seeker.md>), who freed him from his wooden puppet form
 - [Wellby](<../pcs/dunmar-fellowship/wellby.md>), who introduced him to the Charmhearts
-- [Oswalt Tealeaf](<./oswalt-tealeaf.md>), a cousin
+- [Oswalt Tealeaf](<oswalt-tealeaf.md>), a cousin
 ## Events
-In DR 1737, the Tealeaf family fought of an orc attack from the [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>), associated with [Agata](<../fey/agata.md>). In revenge, [Agata](<../fey/agata.md>) herself attacked, killing a number of Tealeafs, and then capturing Garret, and using her magic to turn him into a wooden puppet, forced to serve her. She promised the surviving Tealeafs, including [Oswalt Tealeaf](<./oswalt-tealeaf.md>), that if they did not come east of the Hara River for 15 years, she would return Garret to them. 
+In DR 1737, the Tealeaf family fought of an orc attack from the [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>), associated with [Agata](<../fey/agata.md>). In revenge, [Agata](<../fey/agata.md>) herself attacked, killing a number of Tealeafs, and then capturing Garret, and using her magic to turn him into a wooden puppet, forced to serve her. She promised the surviving Tealeafs, including [Oswalt Tealeaf](<oswalt-tealeaf.md>), that if they did not come east of the Hara River for 15 years, she would return Garret to them. 
 
 The [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) saw a vision of this attack in the [Soul Lantern Vision](<../../campaigns/dunmari-frontier-campaign/mirror-visions/soul-lantern-vision.md>). 
 
 Garret spent the next 11 years in servitude, as a wooden scarecrow, until he was rescued by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). Since then, he has slowly come back to himself, although he reminds extremely nervous around magic, and especially any treasure claimed from Agata herself. 
 
- - 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<./garret-tealeaf.md>) is captured.
-  - Jun 02, 1748 DR:  [Garret Tealeaf](<./garret-tealeaf.md>) is freed from his imprisonment as a wooden scarecrow by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 
+ - 1737 DR: Tealeaf clan fights off [Dustthorn Horde](<../../groups/orc-hordes/dustthorn-horde.md>) orcs, but are then ambushed by [Agata](<../fey/agata.md>). [Garret Tealeaf](<garret-tealeaf.md>) is captured.
+  - Jun 02, 1748 DR:  [Garret Tealeaf](<garret-tealeaf.md>) is freed from his imprisonment as a wooden scarecrow by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 
 

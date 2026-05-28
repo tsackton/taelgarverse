@@ -10,13 +10,13 @@ title: Tanshi Worship
 
 
 
-Among the Deno'qai, the ancient northerner culture west of the [Sentinels](<../../../gazetteer/sentinel-range.md>), the primary religious tradition is the worship of the [Tanshi Worship](<./tanshi-worship.md>), in the small gods tradition of the [Northern Folk Religions](<./northern-folk-religions.md>). 
+Among the Deno'qai, the ancient northerner culture west of the [Sentinels](<../../../gazetteer/sentinel-range.md>), the primary religious tradition is the worship of the [Tanshi Worship](<tanshi-worship.md>), in the small gods tradition of the [Northern Folk Religions](<northern-folk-religions.md>). 
 
 ## Tanshi
 
-The Deno'qai worship hundreds of minor deities, called the [Tanshi Worship](<./tanshi-worship.md>). These divinities are individually weak, and like other small gods in the northern folk traditions, primarily serve to carry prayers from humanity to the [Divine Presence](<../../gods/high-gods/divine-presence.md>), known as [Anida](<../../gods/high-gods/divine-presence.md>), the "First and the Last", in the Deno'qai tradition. 
+The Deno'qai worship hundreds of minor deities, called the [Tanshi Worship](<tanshi-worship.md>). These divinities are individually weak, and like other small gods in the northern folk traditions, primarily serve to carry prayers from humanity to the [Divine Presence](<../../gods/high-gods/divine-presence.md>), known as [Anida](<../../gods/high-gods/divine-presence.md>), the "First and the Last", in the Deno'qai tradition. 
 
-The Deno'qai believe that the natural world is full of these minor deities, and most of the [Tanshi Worship](<./tanshi-worship.md>) have small domains associated with natural phenomena: [Deni](<../../gods/tanshi/deni.md>), the tanshi of redwoods; [Nisir](<../../gods/tanshi/meswati/nisir.md>), the tanshi of eagles and hawks; and [Wenzi](<../../gods/tanshi/wenzi.md>), the tanshi of flowing water, are representative. 
+The Deno'qai believe that the natural world is full of these minor deities, and most of the [Tanshi Worship](<tanshi-worship.md>) have small domains associated with natural phenomena: [Deni](<../../gods/tanshi/deni.md>), the tanshi of redwoods; [Nisir](<../../gods/tanshi/meswati/nisir.md>), the tanshi of eagles and hawks; and [Wenzi](<../../gods/tanshi/wenzi.md>), the tanshi of flowing water, are representative. 
 
 ## Prayer and Worship
 

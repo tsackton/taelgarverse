@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Frankar
+hide_toc: true
 ---
 # Frankar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -31,8 +32,6 @@ title: Frankar
 
 
 A dwarf from the city of Darakan, in the kingdom of [Khatridun](<../../gazetteer/central-highlands/dwarven-kingdoms/khatridun.md>), fascinated with mechanical devices and runic magic. 
-
-Mysteriously vanished in a storm in DR 1730.  
 
 
 [Seeker](<../pcs/dunmar-fellowship/seeker.md>)'s brother. [Seeker](<../pcs/dunmar-fellowship/seeker.md>) told his story on [April 16, 1748](<../../campaigns/dunmari-frontier-campaign/session-notes/session-17-dufr.md>), after surviving the storms caused by Hralgar around Stormcaller Tower. 

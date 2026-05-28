@@ -36,7 +36,7 @@ The adventurers rescue Colette, defeat the goblin queen, and destroy the Serpent
 - **[Colette du Bois](<../../people/addermarians/colette-du-bois.md>)** – missing squire of Sir [Gareth Howell](<../../people/addermarians/gareth-howell.md>), rescued from Goblins
 - **Goblin Queen** – leader of the bandit clan, slain in her throne room
 - **[Caradoc](<../../people/addermarians/caradoc.md>)** – eccentric alchemist; supplier of Trueflame
-- **[Owen Tavish](<../../people/addermarians/owen-tavish.md>)** – priest of the Sibyl who supervises the dagger’s destruction
+- **[Owen Tavish](<../../people/addermarians/owen-tavish.md>)** – priest of [the Sibyl](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>) who supervises the dagger’s destruction
 
 ## Places
 - **Goblin Lair** – trapped tunnel complex in the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) north of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), now cleared

@@ -17,6 +17,7 @@ pronunciation: tha-RAN-dros
 dm_owner: tim
 dm_notes: important
 title: Tharandros
+hide_toc: true
 ---
 # Tharandros
 :speaker:{ .middle } *(tha-RAN-dros)*  

@@ -14,6 +14,7 @@ affiliations:
 dm_notes: color
 dm_owner: none
 title: Dag Hardstone
+hide_toc: true
 ---
 # Dag Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

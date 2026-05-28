@@ -14,8 +14,8 @@ title: Barony of Mostrevé
 # The Barony of Mostrevé
 :speaker:{ .middle } *(moh-strev-AY)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A barony in the [Borderlands](<./borderlands.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A barony in the [Borderlands](<borderlands.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 
-Mostrevé is one of several small border baronies south of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). It was founded by [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>) in the aftermath of the [hobgoblin wars](<../../../../events/1600s/third-hobgoblin-war-sembara.md>) in land that was historically part of the [Barony of Vaubonne](<./barony-of-vaubonne.md>).
+Mostrevé is one of several small border baronies south of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>). It was founded by [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>) in the aftermath of the [hobgoblin wars](<../../../../events/1600s/third-hobgoblin-war-sembara.md>) in land that was historically part of the [Barony of Vaubonne](<barony-of-vaubonne.md>).

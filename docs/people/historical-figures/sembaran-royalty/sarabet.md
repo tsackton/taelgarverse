@@ -10,6 +10,7 @@ died: 1529
 dm_notes: none
 dm_owner: none
 title: Sarabet
+hide_toc: true
 ---
 # Sarabet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,5 +23,5 @@ title: Sarabet
 </div>
 
 
-The first wife of [Derik III](<./derik-iii.md>).
+The first wife of [Derik III](<derik-iii.md>).
 

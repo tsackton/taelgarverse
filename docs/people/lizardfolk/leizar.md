@@ -15,6 +15,7 @@ dm_owner: tim
 dm_notes: important
 pronunciation: LAY-zhar
 title: Leizar
+hide_toc: true
 ---
 # Leizar
 :speaker:{ .middle } *(LAY-zhar)*  

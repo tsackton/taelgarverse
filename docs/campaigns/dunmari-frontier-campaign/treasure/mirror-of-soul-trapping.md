@@ -32,7 +32,7 @@ An extradimensional cell is an infinite expanse filled with thick fog that reduc
 Any creature that sees its reflection in the mirror while within 30 feet of it must make a DC 15 Charisma save or be trapped in one of the cells. This saving throw is made with advantage if the creature is aware of the nature of the mirror. 
 
 
-Seen in [Mirror of the Past](<./mirror-of-the-past.md>): 
+Seen in [Mirror of the Past](<mirror-of-the-past.md>): 
 
 ![Mirror of Soul Trapping Vision](<../mirror-visions/mirror-of-soul-trapping-vision.md>)
 #### Command Words

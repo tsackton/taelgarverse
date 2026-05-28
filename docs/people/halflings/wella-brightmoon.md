@@ -17,6 +17,7 @@ whereabouts: Wave Dancer
 dm_owner: none
 dm_notes: none
 title: Wella Brightmoon
+hide_toc: true
 ---
 # Wella Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -39,11 +40,9 @@ title: Wella Brightmoon
 :octicons-location-24:{ .lg .middle } Last seen by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in the [Wave Dancer](<../../things/ships/wave-dancer.md>), moored in the [main port of Wacahca](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>)  
 
 
-Wella is an elderly halfling woman with curly white hair, and the captain of the [Wave Dancer](<../../things/ships/wave-dancer.md>). She is married to [Rose Brightmoon](<./rose-brightmoon.md>), and is the matriarch of the Brightmoon clan. 
-
-Although now getting old and stiff and sometimes slow on her feet, she has been sailing all her life, and her weather sense is deeply respected by the crew of the [Wave Dancer](<../../things/ships/wave-dancer.md>). 
+Wella is an elderly halfling woman with curly white hair, and the captain of the [Wave Dancer](<../../things/ships/wave-dancer.md>). She is married to [Rose Brightmoon](<rose-brightmoon.md>), and is the matriarch of the Brightmoon clan. 
 
 ## Relationships
-- [Rose Brightmoon](<./rose-brightmoon.md>), wife
-- [Pearl Brightmoon](<./pearl-brightmoon.md>), cousin
-- [Corrin Wildheart](<./corrin-wildheart.md>), cousin-in-law
+- [Rose Brightmoon](<rose-brightmoon.md>), wife
+- [Pearl Brightmoon](<pearl-brightmoon.md>), cousin
+- [Corrin Wildheart](<corrin-wildheart.md>), cousin-in-law

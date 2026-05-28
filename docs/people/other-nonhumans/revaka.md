@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Revaka
+hide_toc: true
 ---
 # Revaka
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

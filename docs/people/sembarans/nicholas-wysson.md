@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: mike
 dm_notes: color
 title: Nicholas Wysson
+hide_toc: true
 ---
 # Nicholas Wysson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

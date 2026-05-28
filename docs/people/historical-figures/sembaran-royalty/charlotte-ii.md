@@ -14,6 +14,7 @@ affiliations:
 - {org: House of Sewick, type: primary}
 dm_notes: none
 dm_owner: none
+hide_toc: true
 ---
 # Queen Charlotte II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,5 +28,5 @@ dm_owner: none
 </div>
 
 
-A ruler of Sembara and Tyrwingha. Succeeded by her sister, [Cece I](<./cece-i.md>).
+A ruler of Sembara and Tyrwingha. Succeeded by her sister, [Cece I](<cece-i.md>).
 

@@ -19,12 +19,12 @@ title: Dunmari Frontier - Session 109
 > *On Earth: Friday Sep 27, 2024*
 > *[Apollyon's Tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>) on the [Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>) *
 
-The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) infiltrates Apollyon's tower, uncovers its secrets, and returns with valuable treasures and knowledge.
+The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) infiltrates [Apollyon's tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>), uncovers its secrets, and returns with valuable treasures and knowledge.
 ## Session Info
 
 ***Find  [Apollyon's Tower Treasure](<../hoards/apollyon-s-tower-treasure.md>)***
 ### Summary
-- The party transforms into ospreys to reach Apollyon's tower covertly.
+- The party transforms into ospreys to reach [Apollyon's tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>) covertly.
 - Upon arrival, they face defensive statues and enter the tower through a trapdoor.
 - Inside, they defeat magical constructs and explore decaying workshops and libraries.
 - They discover [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>)'s ritual room and learn about his lich transformation.
@@ -32,9 +32,9 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - They gather treasures and return to [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>), who destroys the necromancy book.
 
 ### Timeline
-- May 19, 1749 DR, morning: Depart west for Apollyon's tower across the [Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)
-- May 19, 1749 DR, noon: Reach Apollyon's tower as ospreys; fight constructs
--  May 19, 1749 DR, afternoon: Explore Apollyon's tower; find lich chamber; destroy undead in the grand hall
+- May 19, 1749 DR, morning: Depart west for [Apollyon's tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>) across the [Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)
+- May 19, 1749 DR, noon: Reach [Apollyon's tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>) as ospreys; fight constructs
+-  May 19, 1749 DR, afternoon: Explore [Apollyon's tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>); find lich chamber; destroy undead in the grand hall
 -  May 19, 1749 DR, evening: Find Apollyon's forge, destroy void sword protecting it. Load Apollyon's throne into Portable Hole, along with [Apollyon's Tower Treasure](<../hoards/apollyon-s-tower-treasure.md>). Teleport back to [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>) at the summit of the mountain.  
 ### Mirror of the Past
 - May 19, 1749 DR: Look at [Apollyon's Soulbinding Manacles](<../../../things/artifacts-of-power/apollyon-s-soulbinding-manacles.md>) in the [Mirror of the Past](<../treasure/mirror-of-the-past.md>), seeing [Apollyon's Soulbinding Manacles Vision](<../mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) recharge mirror
@@ -42,7 +42,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 ## Narrative
 The party begins their journey at dawn, observing the black marble tower on the coast from a mountain peak. They weigh different approaches, ultimately transforming into ospreys using [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s Animal Shapes spell to covertly navigate the terrain. As they fly westward, they cross over forests and rocky plains, reaching the tower.
 
-Upon arriving near the top of Apollyon's tower, they encounter unexpected defenses in the form of large statues that fire darts. After being forced out of their animal forms, they attempt to assess the area while under continued attack. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) dive through a trapdoor to escape, while [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) faces off against the statues.
+Upon arriving near the top of [Apollyon's tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>), they encounter unexpected defenses in the form of large statues that fire darts. After being forced out of their animal forms, they attempt to assess the area while under continued attack. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) dive through a trapdoor to escape, while [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) faces off against the statues.
 
 Inside the tower, the group finds themselves in a ritual space and is soon pursued by magical constructs. They use strategic positioning on the narrow stairs to hold back the advancing constructs. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) showcases his defensive skills, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) casts Sanctuary to protect them, and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) blinds the constructs repeatedly. Eventually, the group manages to bring down the constructs, securing a moment of calm.
 
@@ -59,7 +59,7 @@ In the aftermath, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) cr
 ## Detailed Summary
 
 ### Approach to Apollyon's Tower
-The group plans their approach to Apollyon's tower, deciding how to best navigate the treacherous terrain.
+The group plans their approach to [Apollyon's tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>), deciding how to best navigate the treacherous terrain.
 - The party observes the landscape from the mountain peak at dawn, noting the distinctive black marble tower on the coast, smooth and imposing in the distance.
 - They discuss potential methods to reach the tower, weighing the use of magical flight versus other travel options.
 - [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) uses his aura sense to scout the area and confirms there are no living creatures detected near the tower, but there may be magical constructs or corporeal undead.
@@ -67,21 +67,21 @@ The group plans their approach to Apollyon's tower, deciding how to best navigat
 - They begin their journey westward, flying over the forest and rocky plains towards the tower.
 
 ### Defenses at Apollyon's Tower
-The group encounters resistance as they approach the top of Apollyon's tower, facing unexpected defenses.
+The group encounters resistance as they approach the top of [Apollyon's tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>), facing unexpected defenses.
 - The party approaches the tower after flying over the rocky terrain, noting an increasingly oppressive atmosphere around the structure.
-- Seeker briefly lands to animate a rope ladder, transforming it into an osprey to follow him in bird form.
+- Seeker briefly lands to animate a rope [ladder](<../../../people/pcs/dunmar-fellowship/companions/ladder.md>), transforming it into an osprey to follow him in bird form.
 - Upon nearing the top, they observe two large statues on a mid-level platform, which suddenly become active, firing darts at the party.
 - Several members are hit, forcing them out of their animal forms and causing them to land at the top of the tower.
 - They notice a trapdoor at the top with no obvious way to open it, and debate using a chime of opening versus maintaining silence.
 - As they attempt to assess their surroundings, the statues continue their assault, forcing [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) to grab [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and dive into the tower through the trapdoor, while [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) faces off against the statues.
 
 ### Battling the Constructs
-The party faces off against the magical constructs as they descend into Apollyon's tower.
+The party faces off against the magical constructs as they descend into [Apollyon's tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>).
 - The group finds themselves in a small, dark room with manacles and an anvil, indicating a ritual space tied to necromancy.
 - Seeker identifies the manacles as part of a ritual used to rip souls from victims and feed a lich's phylactery, hinting at [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>)'s dark past.
 - The constructs pursue the party, entering the tower from the doors below and coming up the spiral stairs. The party fights to hold them back, using the narrow stairs and strategic positioning to their advantage.
 - [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) uses his deflection abilities to mitigate damage from the constructs' attacks, showcasing impressive defensive skills.
-- [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) casts Sanctuary on the animated rope ladder to help block the constructs, effectively using the environment to their advantage.
+- [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) casts Sanctuary on the animated rope [ladder](<../../../people/pcs/dunmar-fellowship/companions/ladder.md>) to help block the constructs, effectively using the environment to their advantage.
 - [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) consistently targets the constructs' eyes, successfully blinding them multiple times to gain the upper hand.
 - The party uses a combination of melee attacks and defensive spells, with Wellby effectively blinding the constructs to slow their advance, despite the constructs seeming immunity to many spells. 
 - After a prolonged battle, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) deliver the final blows, bringing the constructs down and securing a moment of calm.
@@ -123,14 +123,14 @@ The party continues their exploration, descending further into the basement, whe
 The party continues exploring the newly cleared area of the basement.
 - After the battle, the party dismisses [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s Sickening Radiance and begins cautiously searching the basement area. The forge is a large stone circular pedestal in the center of the room, with silver threads etched into the sides that run in a chaotic network of lines to a silver panel on the wall. There are four evenly spaced openings in the pedestal. 
 - They find two smaller rooms branching off from the main basement hall, each filled with different materials and artifacts.
-- One room contains hundreds of metal bars—some mundane, others quite rare, like silver and mithril. The party takes as many of the rare metals as they can carry.
+- One room contains hundreds of metal bars—some mundane, others quite rare, like silver and [mithril](<../../../things/materials/mithril.md>). The party takes as many of the rare metals as they can carry.
 - In another room, they discover a stone basin filled with various chemicals, glass vials, and fine metal shavings, hinting at a workshop for alchemical or magical crafting.
 - [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) uses Tremor Sense to ensure that no hidden threats remain, confirming that the area is secure.
 - The group discovers a large stone chest, cleverly concealed in one of the rooms. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) checks for traps, finding none, and successfully unlocks the chest.
 - Inside the chest, they find three items: a silver rod with a spiraling motif holding an orb, twenty small boxes each marked with different sigils and containing mysterious powders, and three braided gold rings set with different gemstones—an emerald, a sapphire, and a ruby.
 
 ### Aftermath
-The party prepares to leave Apollyon's tower, making important decisions about the items they found and how to proceed.
+The party prepares to leave [Apollyon's tower](<../../../gazetteer/drankorian-hinterland/apollyon-s-tower.md>), making important decisions about the items they found and how to proceed.
 - Seeker uses Performance of Creation to forge a lead box, providing a safe container for the necromancy book to prevent any lingering magical influence from affecting the party.
 - They discuss whether to take Apollyon's throne as a bargaining chip with the dragon, ultimately turning into elephants with Seeker's Animal Shapes spell to drag it into the [Portable Hole](<../treasure/portable-hole.md>). 
 - Wellby uses the Chime of Opening to open the locked book, and is hit with a Befuddlement spell. Resisting the worst effects of the spell, he turns the book over to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), who learns it contains notes about the use of the forge and about lich transformations, though much of it is written in cipher.

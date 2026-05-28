@@ -17,6 +17,7 @@ whereabouts:
 dm_owner: none
 dm_notes: important
 title: Nora Silverspark
+hide_toc: true
 ---
 # Nora Silverspark
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -32,4 +33,4 @@ title: Nora Silverspark
 
 
 
-A dwarven warrior, once a ghost in [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>) and now passed on. The first victim of [Hagrim](<./hagrim.md>)'s betrayal. 
+A dwarven warrior, once a ghost in [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>) and now passed on. The first victim of [Hagrim](<hagrim.md>)'s betrayal. 

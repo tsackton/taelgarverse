@@ -13,6 +13,7 @@ whereabouts: Tollen
 dm_owner: none
 dm_notes: color
 title: Delios the Sage
+hide_toc: true
 ---
 # Delios the Sage
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

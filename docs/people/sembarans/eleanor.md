@@ -9,6 +9,7 @@ born: 1659
 dm_notes: color
 dm_owner: mike
 title: Eleanor
+hide_toc: true
 ---
 # Eleanor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

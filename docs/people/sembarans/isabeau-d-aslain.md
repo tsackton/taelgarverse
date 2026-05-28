@@ -15,6 +15,7 @@ affiliations:
 - {org: d'Aslains, type: primary}
 dm_notes: important
 dm_owner: mike
+hide_toc: true
 ---
 # Baroness Isabeau D'Aslain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

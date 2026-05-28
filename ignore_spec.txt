@@ -10,3 +10,4 @@ Campaigns/*
 !Campaigns/Great*
 !Campaigns/One*
 Worldbuilding/*
+AGENTS.md

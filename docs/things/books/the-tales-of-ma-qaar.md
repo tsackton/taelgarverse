@@ -10,8 +10,8 @@ dm_notes: none
 title: The Tales of Ma'qaar
 ---
 # The Tales of Ma'qaar
-:octicons-info-24:{ .lg .middle } **A Deno'qai epic poem**  
+:octicons-info-24:{ .lg .middle } **A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) epic poem**  
 
-*The Tales of Ma'qaar* is a Deno'qai epic known from one of the rare sources collected in [The Lore of the Feywild](<./the-lore-of-the-feywild.md>). Ulfgar Frostbeard's *Fey Discourses* preserves one of the only recorded versions, pieced together from the unpublished notes of Eukos the Wanderer.
+*The Tales of Ma'qaar* is a [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) epic known from one of the rare sources collected in [The Lore of the Feywild](<the-lore-of-the-feywild.md>). Ulfgar Frostbeard's *Fey Discourses* preserves one of the only recorded versions, pieced together from the unpublished notes of Eukos the Wanderer.
 
 

@@ -11,19 +11,19 @@ title: Hara
 ---
 # Hara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A river in the [Hara Watershed](<./hara-watershed.md>), the [Hara Basin](<../../hara-basin/hara-basin.md>), [Greater Dunmar](<../../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A river in the [Hara Watershed](<hara-watershed.md>), the [Hara Basin](<../../hara-basin/hara-basin.md>), [Greater Dunmar](<../../greater-dunmar.md>)  
 </div>
 
 
 The Hara flows 750 miles through the [Hara Basin](<../../hara-basin/hara-basin.md>), from its source in the foothills of the [Sentinel Range](<../../../sentinel-range.md>) to the [~Hara River Gorge~](<../../hara-basin/hara-river-gorge.md>). Once, it flowed more than twice that length in total, joining the [Istaros](<../../../major-rivers/istaros-watershed/istaros.md>) north of [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>). Whether it still does after the cataclysms and upheavals following the [Great War](<../../../../events/1500s/great-war.md>), no one knows.
 
-At its source, the Hara is a swift flowing mountain river, descending to the  flat plains of the [Hara Basin](<../../hara-basin/hara-basin.md>). As the Hara enters the [Hara Basin](<../../hara-basin/hara-basin.md>), it slows and widens as it meanders south towards [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>), joined first by the [Sone](<./sone.md>) and then by the [Thandar](<./thandar.md>), along with several minor tributaries. 
+At its source, the Hara is a swift flowing mountain river, descending to the  flat plains of the [Hara Basin](<../../hara-basin/hara-basin.md>). As the Hara enters the [Hara Basin](<../../hara-basin/hara-basin.md>), it slows and widens as it meanders south towards [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>), joined first by the [Sone](<sone.md>) and then by the [Thandar](<thandar.md>), along with several minor tributaries. 
 
-South of the confluence with the [Thandar](<./thandar.md>), the Hara turns broad and sluggish as it flows through the [~North Tokra Plains~](<../../hara-basin/north-tokra-plains.md>). Here, the Hara frequently floods during the monsoon season. 
+South of the confluence with the [Thandar](<thandar.md>), the Hara turns broad and sluggish as it flows through the [~North Tokra Plains~](<../../hara-basin/north-tokra-plains.md>). Here, the Hara frequently floods during the monsoon season. 
 
 The region in the immediate vicinity of [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>) is rocky and hard, especially just south of the city, where the rocky land of the [Darba Highlands](<../../darba-highlands/darba-highlands.md>) protrudes into the [Hara Basin](<../../hara-basin/hara-basin.md>). Here, the river widens again as it passes beneath the ~Tokra Bridge~. 
 
-South of [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>), the river passes through a series of small canyons on the rugged [~Southern Tokra Plains~](<../../hara-basin/southern-tokra-plains.md>). The [Sukal](<./sukal.md>) joins between [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>) and [Askandi](<../../realms/dunmar/central-dunmar/askandi.md>), and a number of dry washes and seasonal rivers flow into the Hara in this stretch during the monsoon. 
+South of [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>), the river passes through a series of small canyons on the rugged [~Southern Tokra Plains~](<../../hara-basin/southern-tokra-plains.md>). The [Sukal](<sukal.md>) joins between [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>) and [Askandi](<../../realms/dunmar/central-dunmar/askandi.md>), and a number of dry washes and seasonal rivers flow into the Hara in this stretch during the monsoon. 
 
 Just north of [Askandi](<../../realms/dunmar/central-dunmar/askandi.md>), the terrain levels, and the Hara pursues a slow, twisting path southeast. [Askandi](<../../realms/dunmar/central-dunmar/askandi.md>) sits on the floodplains of the [~Lower Hara Valley~](<../../hara-basin/lower-hara-valley.md>), a wide flat basin between the [Yuvanti Mountains](<../../yuvanti-mountains.md>) and the [Garamjala](<../../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) Plateau. Here, virtually no rain falls, even during the monsoon, but the flood of the Hara, swollen from monsoon rains to the north, sustains a rich riparian ecosystem and the city of [Askandi](<../../realms/dunmar/central-dunmar/askandi.md>) itself. 
 

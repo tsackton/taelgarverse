@@ -5,19 +5,18 @@ dm_owner: none
 dm_notes: none
 typeOf: forest
 whereabouts: Northern Green Sea
-unlisted: true
 title: ~Northern Boreal Forest~
 ---
 # The ~Northern Boreal Forest~
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A forest in the [Northern Green Sea](<./northern-green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } A forest in the [Northern Green Sea](<northern-green-sea.md>)  
 </div>
 
 
-A vast belt of taiga, muskeg, and river‑laced lowlands, the Northern Boreal Forest runs from the lee of the [Svinjo Mountains](<./svinjo-mountains.md>) toward the [Green Sea](<../green-sea.md>). Long winters, brief riotous summers, and broad, cold rivers dominant the land here, lending the forest an austere beauty.
+A vast belt of taiga, muskeg, and river‑laced lowlands, the Northern Boreal Forest runs from the lee of the [Svinjo Mountains](<svinjo-mountains.md>) toward the [Green Sea](<../green-sea.md>). Long winters, brief riotous summers, and broad, cold rivers dominant the land here, lending the forest an austere beauty.
 
 ## Terrain and Geography
-A vast boreal woodland stretches for hundreds of miles east from of the [Svinjo Mountains](<./svinjo-mountains.md>) across taiga, muskeg, and river‑laced lowlands. Drumlins and low moraines shape long lines of spruce and larch; between them lie peat bogs and black‑water ponds. Great rivers such as the [Ket](<rivers/ket.md>) gather snowmelt and wind toward the [Green Sea](<../green-sea.md>), while innumerable creeks braid through willow flats and beaver marsh.
+A vast boreal woodland stretches for hundreds of miles east from of the [Svinjo Mountains](<svinjo-mountains.md>) across taiga, muskeg, and river‑laced lowlands. Drumlins and low moraines shape long lines of spruce and larch; between them lie peat bogs and black‑water ponds. Great rivers such as the [Ket](<rivers/ket.md>) gather snowmelt and wind toward the [Green Sea](<../green-sea.md>), while innumerable creeks braid through willow flats and beaver marsh.
 
 ## Climate and Seasons
 Winters are long, dry, and severe; snow hardens into wind‑sculpted crust and lake ice booms at night. Spring arrives in a rush: thawed rivers run high and fast, tracks turn to mire, and the air fills with mosquitoes and midges. Summers are short, bright, and blooming; autumn comes early with frosts that redden dwarf birch and drop cones from the high spruce.
@@ -30,6 +29,6 @@ Beneath the muskeg, massive ice worms swim the permafrost, heaving the ground in
 Above all, white dragons rule the highest aeries, hunting river corridors and open taiga,  stooping anything that moves. Dragon breath fuses wet bog to season‑long frostglass and scours favored grounds into bleached dragon fields. 
 
 ## Peoples 
-People are sparse in the forests, though the deep woods are home to a northern peoples, the Vargaldi, whose ancestors crossed the Svinjo into these reaches. Camps shift with season and game, with few permanent buildings due to the danger of dragons. What camps last are usually hidden in deep forests, out of sight of flying eyes. While the hardships of the land keep population densities low, those who learn to hunt the dangerous inhabitants of the northern forests can make a tidy profit at the markets of [Zvervinka](<ursk/zvervinka.md>). 
+People are sparse in the forests, though the deep woods are home to a northern peoples, the [Vargaldi](<../../groups/cultures/vargaldi.md>), whose ancestors crossed the Svinjo into these reaches. Camps shift with season and game, with few permanent buildings due to the danger of dragons. What camps last are usually hidden in deep forests, out of sight of flying eyes. While the hardships of the land keep population densities low, those who learn to hunt the dangerous inhabitants of the northern forests can make a tidy profit at the markets of [Zvervinka](<ursk/zvervinka.md>). 
 
 

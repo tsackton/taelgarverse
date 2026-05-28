@@ -24,8 +24,6 @@ The Hetaeri Magica is an ancient magical society, founded in DR 1125 to coordina
 Beyond the university district, the Hetaeri is also entangled with Chardon’s most lucrative trade. In recent years it has become almost the sole purchaser of refined [chalyte](<../../things/materials/chalyte.md>), reselling it onward to artisans and other crafters in the city; this arrangement is a regular subject of rumor and speculation. 
 
 
-Secretly, however, the Hetaeri Magica had been infiltrated by members of [The Cleansed](<../the-cleansed.md>), aided by [Fausto](<../../people/chardonians/fausto.md>)'s control of the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>) which allowed several key members to be mind-controlled. With the death of [Fausto](<../../people/chardonians/fausto.md>) and the collapse of [The Cleansed](<../the-cleansed.md>) in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), this corruption was exposed, revealing that the Hetaeri Magica had maintained control over the [Chalyte](<../../things/materials/chalyte.md>) trade through coercion and bribery, using the lucrative profits to funnel money into the search for [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>)'s relics, among other goals. Now, the Hetaeri Magica and the academic institutions associated with it are in disarray, and it remains unclear what will emerge from the new imperial order represented by the [Windcallers](<./windcallers.md>), the Guild of Chalyte Workers, and the Chalyte Refining Corporation. 
-
 
 
 

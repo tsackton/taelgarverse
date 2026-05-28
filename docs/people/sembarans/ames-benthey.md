@@ -19,6 +19,7 @@ whereabouts:
 dm_notes: color
 dm_owner: mike
 title: Ames Benthey
+hide_toc: true
 ---
 # Ames Benthey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

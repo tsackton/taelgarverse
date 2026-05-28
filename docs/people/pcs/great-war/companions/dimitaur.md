@@ -12,6 +12,7 @@ affiliations:
 dm_owner: tim
 dm_notes: important
 title: Dimitaur
+hide_toc: true
 ---
 # Dimitaur
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

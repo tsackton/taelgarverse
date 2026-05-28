@@ -11,11 +11,11 @@ title: Plaguelands
 ---
 # The Plaguelands
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in the [Upper Istaros](<./upper-istaros.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in the [Upper Istaros](<upper-istaros.md>)  
 </div>
 
 
-The Plaguelands are a region centered around the upper [Istaros](<../major-rivers/istaros-watershed/istaros.md>) and the ruined city of [Isingue](<./isingue.md>) that was heavily affected by [Cha'mutte's Plague](<../../events/1500s/cha-mutte-s-plague.md>) at the end of the [Great War](<../../events/1500s/great-war.md>). What few tales come out of the Plaguelands hint at strange magic, unnatural features, and chaotic monstrosities. 
+The Plaguelands are a region centered around the upper [Istaros](<../major-rivers/istaros-watershed/istaros.md>) and the ruined city of [Isingue](<isingue.md>) that was heavily affected by [Cha'mutte's Plague](<../../events/1500s/cha-mutte-s-plague.md>) at the end of the [Great War](<../../events/1500s/great-war.md>). What few tales come out of the Plaguelands hint at strange magic, unnatural features, and chaotic monstrosities. 
 
 Although the exact borders of the Plaguelands are not precisely defined, the region is generally considered to stretch east from the banks of the [Douren](<../major-rivers/istaros-watershed/douren.md>) and south from a line running from the southern edges of the [March of Andonne](<../greater-sembara/duchy-of-maseau/march-of-andonne.md>) and the [Darkwood](<../greater-sembara/addermarch/darkwood.md>) to the ~Orenlas Tributary Lake~. The eastern and southern extent of the Plaguelands is not well mapped. 
 

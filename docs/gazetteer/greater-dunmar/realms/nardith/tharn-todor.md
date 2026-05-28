@@ -14,11 +14,11 @@ title: Tharn Todor
 ---
 # Tharn Todor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../../creatures/species/dwarves.md>) city in [Nardith](<./nardith.md>), the [Yuvanti Mountains](<../../yuvanti-mountains.md>), [Greater Dunmar](<../../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../../creatures/species/dwarves.md>) city in [Nardith](<nardith.md>), the [Yuvanti Mountains](<../../yuvanti-mountains.md>), [Greater Dunmar](<../../greater-dunmar.md>)  
 </div>
 
 
 
 
-The first city and capital of the Dwarven kingdom of [Nardith](<./nardith.md>), in the [Yuvanti Mountains](<../../yuvanti-mountains.md>). 
+The first city and capital of the Dwarven kingdom of [Nardith](<nardith.md>), in the [Yuvanti Mountains](<../../yuvanti-mountains.md>). 
 

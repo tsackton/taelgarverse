@@ -15,6 +15,7 @@ gender: female
 dm_owner: tim
 dm_notes: important
 title: Arheste
+hide_toc: true
 ---
 # Arheste
 :speaker:{ .middle } *(AR-hes-teh)*  

@@ -17,6 +17,7 @@ whereabouts:
 - {type: home, location: Tokra}
 dm_owner: tim
 dm_notes: color
+hide_toc: true
 ---
 # Samraat Dharajun Jita
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

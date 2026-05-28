@@ -18,6 +18,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: color
 title: Jasmine Sunmeadow
+hide_toc: true
 ---
 # Jasmine Sunmeadow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -42,11 +43,11 @@ title: Jasmine Sunmeadow
 
 Jasmine Sunmeadow is a halfling adventurer with a strong connection to the natural world. She grew up in Darba, the daughter of the innkeepers of [The Green Leaf](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/the-green-leaf.md>), but always longed for adventure, and even as a child she could sense the weather and make flowers bloom.
 
-Recently, she married [Oswalt Tealeaf](<./oswalt-tealeaf.md>), and they booked passage on the [Emerald Song](<../../things/ships/emerald-song.md>) together, to travel north and explore the world. Jasmine has always felt a close connection to [Jemghari](<../../gods-and-religions/gods/embodied-gods/first-ones/jemghari.md>), and a stewardship over the natural places where she feels the presence of the ancestors most strongly, so now, with her new husband is journeying to go out in the world and find these places and tell their stories.
+Recently, she married [Oswalt Tealeaf](<oswalt-tealeaf.md>), and they booked passage on the [Emerald Song](<../../things/ships/emerald-song.md>) together, to travel north and explore the world. Jasmine has always felt a close connection to [Jemghari](<../../gods-and-religions/gods/embodied-gods/first-ones/jemghari.md>), and a stewardship over the natural places where she feels the presence of the ancestors most strongly, so now, with her new husband is journeying to go out in the world and find these places and tell their stories.
 ## Relationships
-- [Oswalt Tealeaf](<./oswalt-tealeaf.md>), husband
+- [Oswalt Tealeaf](<oswalt-tealeaf.md>), husband
 ## Events
-- 1747 DR: Jasmine meets and falls in love with [Oswalt Tealeaf](<./oswalt-tealeaf.md>) in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)
+- 1747 DR: Jasmine meets and falls in love with [Oswalt Tealeaf](<oswalt-tealeaf.md>) in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)
 - 1748 DR: Jasmine and Oswalt are married
 - Aug 09, 1748 DR: Jasmine and Oswalt leave Darba together on the Emerald Song, heading for adventure
 

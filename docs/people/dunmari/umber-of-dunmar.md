@@ -11,6 +11,7 @@ whereabouts: Tokra
 dm_notes: color
 dm_owner: none
 title: Umber of Dunmar
+hide_toc: true
 ---
 # Umber of Dunmar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

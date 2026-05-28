@@ -10,6 +10,7 @@ player: Chris Kelly
 dm_notes: important
 dm_owner: player
 title: Roe DoTorka
+hide_toc: true
 ---
 # Roe DoTorka
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

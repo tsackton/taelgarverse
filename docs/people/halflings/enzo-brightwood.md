@@ -16,6 +16,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Enzo Brightwood
+hide_toc: true
 ---
 # Enzo Brightwood
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -31,7 +32,7 @@ title: Enzo Brightwood
 :octicons-location-24:{ .lg .middle } Last known location (as of January 18th, 1720): [Champimont](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-![Enzo Brightwood](../../assets/enzo-brightwood.png){align="right"; width="400"}A skirmisher and scout. Young, to be on the road. Cousin of [Adra Brightwood](<./adra-brightwood.md>).
+![Enzo Brightwood](../../assets/enzo-brightwood.png){align="right"; width="400"}A skirmisher and scout. Young, to be on the road. Cousin of [Adra Brightwood](<adra-brightwood.md>).
 
 
 

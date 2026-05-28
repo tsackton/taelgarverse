@@ -14,14 +14,14 @@ title: Erelion
 # Erelion
 :speaker:{ .middle } *(air-LEE-on)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An [elven](<../../../creatures/species/elves.md>) city in [Orenlas](<./orenlas.md>), the [Istaros Watershed](<../../major-rivers/istaros-watershed/istaros-watershed.md>)  
+-    :octicons-location-24:{ .lg .middle } An [elven](<../../../creatures/species/elves.md>) city in [Orenlas](<orenlas.md>), the [Istaros Watershed](<../../major-rivers/istaros-watershed/istaros-watershed.md>)  
 </div>
 
 
 ## Overview
-An ancient elven city in the kingdom of [Orenlas](<./orenlas.md>), claimed by many [Elves](<../../../creatures/species/elves.md>) to be the oldest continually occupied settlement on Taelgar. 
+An ancient elven city in the kingdom of [Orenlas](<orenlas.md>), claimed by many [Elves](<../../../creatures/species/elves.md>) to be the oldest continually occupied settlement on Taelgar. 
 
-Erelion is a living city, growing in and among the ancient forest of [Orenlas](<./orenlas.md>). Elaborate towers appear to grow from the surrounding trees and landscapes, their walls adorned with vines, leaves, and flowers. Bridges woven from living vines connect various parts of the city, allowing [Elves](<../../../creatures/species/elves.md>) to traverse the canopy with grace. At night, the paths of the city are lit by bioluminescent plants and animals, their soft, soothing glow casting a dreamlike aura over the city.
+Erelion is a living city, growing in and among the ancient forest of [Orenlas](<orenlas.md>). Elaborate towers appear to grow from the surrounding trees and landscapes, their walls adorned with vines, leaves, and flowers. Bridges woven from living vines connect various parts of the city, allowing [Elves](<../../../creatures/species/elves.md>) to traverse the canopy with grace. At night, the paths of the city are lit by bioluminescent plants and animals, their soft, soothing glow casting a dreamlike aura over the city.
 
 ![Erelion 4 Overview C](../../../assets/erelion-4-overview-c.png)
 *The city and the forest are intertwined around each other.*

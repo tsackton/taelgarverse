@@ -15,6 +15,6 @@ title: Volta Watershed
 </div>
 
 
-The Volta Watershed is the drainage basin of the [Volta](<./volta.md>) and its tributaries, including the waterways that pass through [Tollen](<../../tollen/tollen.md>) and the upper lake country around [Lake Kamchak](<./lake-kamchak.md>). 
+The Volta Watershed is the drainage basin of the [Volta](<volta.md>) and its tributaries, including the waterways that pass through [Tollen](<../../tollen/tollen.md>) and the upper lake country around [Lake Kamchak](<lake-kamchak.md>). 
 
 

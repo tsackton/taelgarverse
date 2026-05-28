@@ -12,6 +12,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Eloise
+hide_toc: true
 ---
 # Eloise
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,6 +25,6 @@ title: Eloise
 </div>
 
 
-The youngest daughter of [Charlotte I](<./charlotte-i.md>), she lived a long life and had eight children, who married into many of the noble families of Sembara and Tyrwingha.
+The youngest daughter of [Charlotte I](<charlotte-i.md>), she lived a long life and had eight children, who married into many of the noble families of Sembara and Tyrwingha.
 
-Her eldest son, [Wisym I](<./wisym-i.md>), briefly ruled the kingdom after the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>), as a compromise between the warring camps of his cousins, the twin sisters [Anne](<./anne.md>) and [Elaine I](<./elaine-i.md>). 
+Her eldest son, [Wisym I](<wisym-i.md>), briefly ruled the kingdom after the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>), as a compromise between the warring camps of his cousins, the twin sisters [Anne](<anne.md>) and [Elaine I](<elaine-i.md>). 

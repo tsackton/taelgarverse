@@ -13,6 +13,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Armand
+hide_toc: true
 ---
 # Armand
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

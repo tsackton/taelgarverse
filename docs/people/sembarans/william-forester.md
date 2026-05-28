@@ -7,6 +7,7 @@ species: human
 gender: male
 ancestry: Sembaran
 title: William Forester
+hide_toc: true
 ---
 # William Forester
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

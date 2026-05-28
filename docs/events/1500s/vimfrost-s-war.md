@@ -16,5 +16,5 @@ A war fought between the allies and minions of the ancient white dragon Vimfrost
 
 Ultimately, the united forces under [Derik III](<../../people/historical-figures/sembaran-royalty/derik-iii.md>) and [Bjarnfrost](<../../people/giants/bjarnfrost.md>) defeated Vimfrost, albeit at great cost, including the death of [Bjarnfrost](<../../people/giants/bjarnfrost.md>). 
 
-During the course of [Vimfrost's War](<./vimfrost-s-war.md>), the vast, ancient wall that stretches across much of northern [Vostok](<../../gazetteer/greater-sembara/vostok/vostok.md>), known as the [Gråstenvakt](<../../gazetteer/greater-sembara/vostok/grastenvakt.md>), was rediscovered and partially repaired.
+During the course of [Vimfrost's War](<vimfrost-s-war.md>), the vast, ancient wall that stretches across much of northern [Vostok](<../../gazetteer/greater-sembara/vostok/vostok.md>), known as the [Gråstenvakt](<../../gazetteer/greater-sembara/vostok/grastenvakt.md>), was rediscovered and partially repaired.
 

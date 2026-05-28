@@ -51,10 +51,10 @@ title: Gifts and Purchases
 ## Purchases
 
 **Te'kula village**
-- Hat of Vermin (common minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
-- Clockwork Amulet (common minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
-- Immovable rod (uncommon minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
-- Cloak of the mantra ray (uncommon minor item, acquired from the Te'kula village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
+- Hat of Vermin (common minor item, acquired from the [Te'kula](<../../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
+- Clockwork Amulet (common minor item, acquired from the [Te'kula](<../../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
+- Immovable rod (uncommon minor item, acquired from the [Te'kula](<../../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
+- Cloak of the mantra ray (uncommon minor item, acquired from the [Te'kula](<../../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) village in [the Elderwood](<../../../gazetteer/central-highlands/elderwood.md>))
 
 **Tollen, from Umli**
 - 9 quivers of Skaer arrows, constructed by [Umli](<../../../people/other-nonhumans/umli.md>)

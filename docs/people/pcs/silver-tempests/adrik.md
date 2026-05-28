@@ -16,6 +16,7 @@ whereabouts:
 dm_owner: player
 dm_notes: none
 title: Adrik Boulderbeard
+hide_toc: true
 ---
 # Adrik Boulderbeard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -23,7 +24,7 @@ title: Adrik Boulderbeard
 
     A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Boulderbeard Clan](<../../../groups/dwarven-clans/boulderbeards.md>)  
     Born DR 1660 (90 years old)  
-    Member of the [Silver Tempests](<./silver-tempests.md>), and the [Stoneworker Thuhr](<../../../groups/dwarven-thuhr/stoneworker-thuhr.md>)  
+    Member of the [Silver Tempests](<silver-tempests.md>), and the [Stoneworker Thuhr](<../../../groups/dwarven-thuhr/stoneworker-thuhr.md>)  
     { .bio }
 
     Originally from: [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../../gazetteer/greater-dunmar/yuvanti-mountains.md>)

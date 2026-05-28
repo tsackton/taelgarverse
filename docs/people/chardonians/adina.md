@@ -9,6 +9,7 @@ whereabouts: Chalyte Levels
 dm_notes: none
 dm_owner: none
 title: Adina
+hide_toc: true
 ---
 # Adina
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,7 +23,7 @@ title: Adina
 </div>
 
 
-Adina is a Chardonian woman from the slums of the [North Bank](<../../gazetteer/greater-chardon/chardonian-empire/chardon/north-bank.md>). She has short, shoulder-length curly black hair, and a skinny build. She is the older sister of [Xavier](<./xavier.md>), and daughter of [Francisca](<./francisca.md>). 
+Adina is a Chardonian woman from the slums of the [North Bank](<../../gazetteer/greater-chardon/chardonian-empire/chardon/north-bank.md>). She has short, shoulder-length curly black hair, and a skinny build. She is the older sister of [Xavier](<xavier.md>), and daughter of [Francisca](<francisca.md>). 
 
 She helps her mother with piece-work mending, but dreams of seeing faraway places. 
 

@@ -13,6 +13,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 title: Arturo
+hide_toc: true
 ---
 # Arturo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -28,5 +29,5 @@ title: Arturo
 
 
 
-Arturo is an orphan living in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>). After fleeing trouble along the upper [Kedron](<../../gazetteer/greater-chardon/chardonian-empire/apporia/kedron.md>) with [Camile](<./camile.md>), he found work and refuge at [The Whale's Spout](<../../gazetteer/greater-chardon/chardonian-empire/apporia/the-whale-s-spout.md>), a tavern run by Old Leo and known for taking in orphans.
+Arturo is an orphan living in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>). After fleeing trouble along the upper [Kedron](<../../gazetteer/greater-chardon/chardonian-empire/apporia/kedron.md>) with [Camile](<camile.md>), he found work and refuge at [The Whale's Spout](<../../gazetteer/greater-chardon/chardonian-empire/apporia/the-whale-s-spout.md>), a tavern run by Old Leo and known for taking in orphans.
 

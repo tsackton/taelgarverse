@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: player
 dm_notes: none
 title: Samso
+hide_toc: true
 ---
 # Samso
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -21,7 +22,7 @@ title: Samso
 
     A [lizardfolk](<../../../creatures/species/lizardfolk.md>) (he/him)  
     Born DR 1716 (34 years old)  
-    Member of the [Silver Tempests](<./silver-tempests.md>)  
+    Member of the [Silver Tempests](<silver-tempests.md>)  
     { .bio }
 
     Originally from: [Urkabi](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/urkabi.md>), [Portalia](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/portalia.md>), the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)

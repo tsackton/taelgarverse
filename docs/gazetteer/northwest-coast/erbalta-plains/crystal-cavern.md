@@ -12,7 +12,7 @@ title: Crystal Cavern
 ---
 # The Crystal Cavern
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A cave in the [Erbalta Plains](<./erbalta-plains.md>), the [Northwest Coast](<../northwest-coast.md>)  
+-    :octicons-location-24:{ .lg .middle } A cave in the [Erbalta Plains](<erbalta-plains.md>), the [Northwest Coast](<../northwest-coast.md>)  
     :octicons-location-24:{ .lg .middle } Located in the [Northern Provinces](<../northern-provinces/northern-provinces.md>), the [Chardonian Empire](<../../greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../greater-chardon/greater-chardon.md>)  
 </div>
 

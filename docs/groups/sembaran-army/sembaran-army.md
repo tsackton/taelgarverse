@@ -22,7 +22,7 @@ title: Sembaran Army
 The defense of the realm and the people within it is a key concern of the nobility and the lords of the manor. The defenses of the realm are broadly organized in two ways:
 
 -   The lord of the manor is obligated to maintain defenses for their village or town. The deca (the tenth of the harvest tax due annually) is dedicated to this purpose
--   The monarchy maintains a professional fighting force of about 7,000 soldiers, divided into four armies: the [Army of Mostreve](<./army-of-mostreve.md>), the [Army of the West](<./army-of-the-west.md>), the [Army of the South](<./army-of-the-south.md>), and the [Army of the North](<./army-of-the-north.md>), plus a small navy of about 20 vessels  
+-   The monarchy maintains a professional fighting force of about 7,000 soldiers, divided into four armies: the [Army of Mostreve](<army-of-mostreve.md>), the [Army of the West](<army-of-the-west.md>), the [Army of the South](<army-of-the-south.md>), and the [Army of the North](<army-of-the-north.md>), plus a small navy of about 20 vessels  
 
 These armies are professional, well-equipped, and well-trained and can be brought together into a large fighting force when a serious threat emerges on the border.  In addition to the major garrisons, a number of border castles and fortifications (including the [Western Wall of Sembara](<../../gazetteer/greater-sembara/sembara/western-marches/western-wall-of-sembara.md>)) are staffed by the military, mostly in the west.
 

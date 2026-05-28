@@ -10,6 +10,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: color
 title: Oona Stonebridge
+hide_toc: true
 ---
 # Oona Stonebridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

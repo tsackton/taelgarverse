@@ -9,6 +9,7 @@ affiliations:
 dm_owner: none
 dm_notes: none
 title: Callie Riverstone
+hide_toc: true
 ---
 # Callie Riverstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

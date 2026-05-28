@@ -11,11 +11,11 @@ title: Coastlands
 ---
 # The Coastlands
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A region in the [Chardonian Empire](<./chardonian-empire.md>), [Greater Chardon](<../greater-chardon.md>)  
+-    :octicons-location-24:{ .lg .middle } A region in the [Chardonian Empire](<chardonian-empire.md>), [Greater Chardon](<../greater-chardon.md>)  
 </div>
 
 
-The Coastlands is the colloquial name for the coastal region of the Chardonian Empire, stretching from the borders of [Portalia](<apporia/portalia.md>) in the south to the ~Mawakel Border Mountains~ in the north, and bounded inland by the [~Lake Valandros Hills~](<../lake-valandros-hills.md>) and the [~Chardon Hills~](<./chardon-hills.md>). 
+The Coastlands is the colloquial name for the coastal region of the Chardonian Empire, stretching from the borders of [Portalia](<apporia/portalia.md>) in the south to the ~Mawakel Border Mountains~ in the north, and bounded inland by the [~Lake Valandros Hills~](<../lake-valandros-hills.md>) and the [~Chardon Hills~](<chardon-hills.md>). 
 
 The Low Coast, the portion of coastlands south of [Chardon](<chardon/chardon.md>), is hot and dry in the summer, with mild winters and extensive coastal wetlands. 
 
@@ -31,7 +31,11 @@ Five major rivers, and several smaller ones, flow through the coastlands. From s
 - [Breakrock](<../rivers/breakrock.md>)
 
 ## Places in the Coastlands
-
-
+| Place                              | Type Of |
+| ---------------------------------- | ------- |
+| the [Breakrock River](<../rivers/breakrock.md>) | river   |
+| [Corvessa](<../rivers/corvessa.md>) (kor-VESS-uh)         | river   |
+| [Sevros](<../rivers/sevros.md>) (SEV-ros)               | river   |
+| [Zar](<../rivers/zar.md>) (ZAR)                      | river   |
 
 

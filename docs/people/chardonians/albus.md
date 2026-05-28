@@ -14,6 +14,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Albus
+hide_toc: true
 ---
 # Albus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -35,5 +36,5 @@ title: Albus
 A Chardonian bookseller who lives and works in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>). Well connected to the local academic community. 
 
  
-In August 1748, came to the attention of [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) when he purchased the [Lyrics of a New Age](<../../things/books/lyrics-of-a-new-age.md>) (a book of elvish poetry by [Nelawe](<../elves/nelawe.md>)) from [Delwath](<../pcs/dunmar-fellowship/delwath.md>), and passed along rumors of [Servius](<./servius.md>). 
+In August 1748, came to the attention of [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) when he purchased the [Lyrics of a New Age](<../../things/books/lyrics-of-a-new-age.md>) (a book of elvish poetry by [Nelawe](<../elves/nelawe.md>)) from [Delwath](<../pcs/dunmar-fellowship/delwath.md>), and passed along rumors of [Servius](<servius.md>). 
 

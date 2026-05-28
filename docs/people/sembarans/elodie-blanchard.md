@@ -5,6 +5,7 @@ species: human
 dm_notes: none
 dm_owner: none
 title: Elodie Blanchard
+hide_toc: true
 ---
 # Elodie Blanchard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

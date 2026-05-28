@@ -12,7 +12,7 @@ title: Ainumarya
 # Ainumarya
 :speaker:{ .middle } *(EYE-new-mar-ya)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A forest in the [Central Highlands](<./central-highlands.md>)  
+-    :octicons-location-24:{ .lg .middle } A forest in the [Central Highlands](<central-highlands.md>)  
 </div>
 
 

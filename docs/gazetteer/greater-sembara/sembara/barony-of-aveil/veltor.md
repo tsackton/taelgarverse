@@ -17,9 +17,9 @@ title: Veltor
 -  
     :octicons-people-24: pop. 699  
    :material-calendar: Founded DR 1121 (629 years ago)  
-    :octicons-location-24:{ .lg .middle } A fortified village in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } A fortified village in the [Barony of Aveil](<barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 
-Veltor is an ancient fortified village at the base of the [Aveil Ridge](<./aveil-ridge.md>), sitting astride the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>). It is the seat of the Baron of Aveil. The most prominent building, other than the keep, is the ancient Temple of the Warlord.
+Veltor is an ancient fortified village at the base of the [Aveil Ridge](<aveil-ridge.md>), sitting astride the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>). It is the seat of the Baron of Aveil. The most prominent building, other than the keep, is the ancient Temple of the Warlord.
 

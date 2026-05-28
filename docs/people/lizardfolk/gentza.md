@@ -12,6 +12,7 @@ whereabouts:
 dm_notes: color
 dm_owner: mike
 title: Gentza
+hide_toc: true
 ---
 # Gentza
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,8 +28,6 @@ title: Gentza
 
 ![Lizardfolk Gentza](../../assets/lizardfolk-gentza.png){align="right"; width="320"}An apprentice lizardfolk herbalist, said to be skilled at experimenting with remedies. She is a regular at the [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) market where she sells herbal cures to humans, and is always interested in new maladies or remedies for them. She often sells to [Mermin Stonebridge](<../halflings/mermin-stonebridge.md>), a budding halfling merchant.
 
-
-In October of 1719, she was working on a new remedy for stomach aliments in humans, which was unfortunately mostly causing, rather than curing, sickness in her early tests. She was murdered by [François the Bandit](<../sembarans/francois-the-bandit.md>) and his accomplices as part of the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>), when she refused to accept their bribe to misuse a remedy of hers. 
 
 
 

@@ -12,6 +12,7 @@ pronouns: it/they/him/her
 dm_owner: player
 dm_notes: important
 title: Es\*tiasilos
+hide_toc: true
 ---
 # Es\*tiasilos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -19,10 +20,10 @@ title: Es\*tiasilos
 
     A mysterious abberation (it/they/him/her)  
     Hatched from an egg on November 5th, 1719 (30 years old)  
-    Companion of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Companion of the [Heroes of Cleenseau](<heroes-of-cleenseau.md>)  
     { .bio }
 
 </div>
 
 
-A strange egg hatched by [Viepuck](<./viepuck.md>) into a mysterious flying octopus creature. Curious but very alien.
+A strange egg hatched by [Viepuck](<viepuck.md>) into a mysterious flying octopus creature. Curious but very alien.

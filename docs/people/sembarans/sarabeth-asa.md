@@ -11,6 +11,7 @@ whereabouts:
 dm_notes: important
 dm_owner: mike
 title: Sarabeth Asa
+hide_toc: true
 ---
 # Sarabeth Asa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -14,6 +14,7 @@ affiliations:
 - {org: House of Sewick, type: primary}
 dm_notes: none
 dm_owner: none
+hide_toc: true
 ---
 # Queen Blanche II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,7 +28,7 @@ dm_owner: none
 </div>
 
 
-The second child of [Elaine I](<./elaine-i.md>) and [Cynan](<./cynan.md>). Her son, [Arryn II](<./arryn-ii.md>), succeeds her to the united crowns.
+The second child of [Elaine I](<elaine-i.md>) and [Cynan](<cynan.md>). Her son, [Arryn II](<arryn-ii.md>), succeeds her to the united crowns.
 
 
 

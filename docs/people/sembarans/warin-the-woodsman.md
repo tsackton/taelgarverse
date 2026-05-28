@@ -11,6 +11,7 @@ whereabouts: Valit
 dm_notes: color
 dm_owner: mike
 title: Warin the Woodsman
+hide_toc: true
 ---
 # Warin the Woodsman
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,6 +25,6 @@ title: Warin the Woodsman
 </div>
 
 
-![Warin the Woodsman](../../assets/warin-the-woodsman.png){align="right"; width="320"}A tracker and woodsman from [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), and confidant of [Sabine de Brune](<./sabine-de-brune.md>).
+![Warin the Woodsman](../../assets/warin-the-woodsman.png){align="right"; width="320"}A tracker and woodsman from [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), and confidant of [Sabine de Brune](<sabine-de-brune.md>).
 
 

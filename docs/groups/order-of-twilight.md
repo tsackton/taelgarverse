@@ -17,8 +17,6 @@ title: Order of Twilight
 The Order of Twilight is a monastic order devoted to [The Night Queen](<../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-night-queen.md>), historically known for hospice and healing. It was once a powerful force across the lands west of the [Sentinels](<../gazetteer/sentinel-range.md>), especially the lands north of [Lake Valandros](<../gazetteer/greater-chardon/lake-valandros.md>). It was largely destroyed in the aftermath of the [Great War](<../events/1500s/great-war.md>). 
 
 
-In the DR 1730s and 1740s, several dedicated individuals have worked to restore and regrow the Order, led most prominently by Galius Filuso. 
-
 
 ## History and Purpose
 

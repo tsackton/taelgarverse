@@ -22,11 +22,11 @@ To create your plane-touched character, consider the nature of the plane that to
 
 Consider also the cause of your plane-touched nature. Do you know what happened to you, or do you still wonder? How does your character view their plane-touched nature? Is it a curse, a blessing, or something more complicated?
 
-Finally, consider where you came from, perhaps referencing the [Playing a Human](<./playing-a-human.md>) document for ideas. After all, you must have been born into a human family, somewhere in the world. Does your family known your plane-touched nature? Do they accept you, or are you an outcast?
+Finally, consider where you came from, perhaps referencing the [Playing a Human](<playing-a-human.md>) document for ideas. After all, you must have been born into a human family, somewhere in the world. Does your family known your plane-touched nature? Do they accept you, or are you an outcast?
 
 ### Plane-touched Names
 
-Many plane-touched humans will have names derived from the culture they were born into; see [Playing a Human](<./playing-a-human.md>) for more ideas here. 
+Many plane-touched humans will have names derived from the culture they were born into; see [Playing a Human](<playing-a-human.md>) for more ideas here. 
 
 Consider whether you might have taken on a different name when you realized your plane-touched nature. 
 
@@ -45,7 +45,7 @@ The species traits you use are determined by the nature of the plane that touche
 - If you are touched by one of the [Divine Realms](<../../cosmology/spiritual-realms/divine-realms.md>), use the [Aasimar](https://www.dndbeyond.com/species/1751434-aasimar) species traits. 
 - If you are touched by one of the Spiritual Realms, but not divine, use the Plane-Touched traits below. This could be a fiendish plane like the [Abyss](<../../cosmology/spiritual-realms/abyss.md>) or the Nine Hells, or it could be something like [Arborea](<../../cosmology/spiritual-realms/arborea.md>) or [Limbo](<../../cosmology/spiritual-realms/limbo.md>). 
 - If you are touched by an elemental plane, such as the [Plane of Fire](<../../cosmology/energy-realms/elemental-plane-of-fire.md>) or the [Elemental Plane of Air](<../../cosmology/energy-realms/elemental-plane-of-air.md>), use the Elemental-Touched traits below. 
-- You also have the option of using the [Human](<./playing-a-human.md>) species traits, and reflecting your plane touched nature in your class, e.g. as a sorcerer or warlock with an origin appropriate to your plane-touched nature. 
+- You also have the option of using the [Human](<playing-a-human.md>) species traits, and reflecting your plane touched nature in your class, e.g. as a sorcerer or warlock with an origin appropriate to your plane-touched nature. 
 
 
 

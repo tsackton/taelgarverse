@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Kiran
+hide_toc: true
 ---
 # Kiran
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

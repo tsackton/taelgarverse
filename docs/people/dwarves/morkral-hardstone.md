@@ -12,6 +12,7 @@ affiliations:
 dm_owner: none
 dm_notes: color
 title: Morkral Hardstone
+hide_toc: true
 ---
 # Morkral Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,5 +25,5 @@ title: Morkral Hardstone
 </div>
 
 
-[Fallthra Hardstone](<./fallthra-hardstone.md>)'s brother. 
+[Fallthra Hardstone](<fallthra-hardstone.md>)'s brother. 
 

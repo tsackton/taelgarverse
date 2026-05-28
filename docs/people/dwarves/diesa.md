@@ -13,6 +13,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 title: Diesa Shockstone
+hide_toc: true
 ---
 # Diesa Shockstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

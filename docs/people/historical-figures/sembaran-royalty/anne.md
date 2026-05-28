@@ -13,6 +13,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Anne of Sewick
+hide_toc: true
 ---
 # Anne of Sewick
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,6 +28,6 @@ title: Anne of Sewick
 
 
 
-The twin sister of [Elaine I](<./elaine-i.md>) and daughter of [Reginald](<./reginald.md>), she was executed for treason after attempting to force her sister to abdicate he throne by magic. Her three children were allowed to live in exile: Wilhema and Eloise in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), and her youngest, Peregrin, in Chardon.
+The twin sister of [Elaine I](<elaine-i.md>) and daughter of [Reginald](<reginald.md>), she was executed for treason after attempting to force her sister to abdicate he throne by magic. Her three children were allowed to live in exile: Wilhema and Eloise in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), and her youngest, Peregrin, in Chardon.
 
 

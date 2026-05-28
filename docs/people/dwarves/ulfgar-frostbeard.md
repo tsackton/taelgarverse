@@ -13,6 +13,7 @@ whereabouts: Chardon
 dm_notes: color
 dm_owner: tim
 title: Ulfgar Frostbeard
+hide_toc: true
 ---
 # Ulfgar Frostbeard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

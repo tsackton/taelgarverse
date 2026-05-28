@@ -11,6 +11,7 @@ player: Matt Rand
 dm_owner: player
 dm_notes: important
 title: Soraine
+hide_toc: true
 ---
 # Soraine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

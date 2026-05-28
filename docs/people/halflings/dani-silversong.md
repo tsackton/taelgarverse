@@ -16,6 +16,7 @@ whereabouts: Emerald Song
 dm_owner: none
 dm_notes: color
 title: Dani Silversong
+hide_toc: true
 ---
 # Dani Silversong
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -40,5 +41,5 @@ title: Dani Silversong
 
 Quartermaster and chief trader on the [Emerald Song](<../../things/ships/emerald-song.md>). Dani Silversong serves as the main spokesperson for the family and is the face of the Emerald Song.
 ## Relationships
-- [Ewen Silversong](<./ewen-silversong.md>), her grandfather
-- [Harol Silversong](<./harol-silversong.md>), her uncle
+- [Ewen Silversong](<ewen-silversong.md>), her grandfather
+- [Harol Silversong](<harol-silversong.md>), her uncle

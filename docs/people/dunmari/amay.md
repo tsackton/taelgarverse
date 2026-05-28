@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: none
 dm_notes: important
 title: Amay
+hide_toc: true
 ---
 # Amay
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -31,11 +32,7 @@ title: Amay
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 2nd, 1748 camped near [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-A captain in the Dunmari army, in service of [Illyan](<./illyan.md>) and ultimately the Samraat [Nayan Karnas](<./nayan-karnas.md>). 
+A captain in the Dunmari army, in service of [Illyan](<illyan.md>) and ultimately the Samraat [Nayan Karnas](<nayan-karnas.md>). 
 
-
-## Chronology
-- Jun 03, 1748 DR: Arrives in Tokra with the first wave of [Nayan Karnas](<./nayan-karnas.md>)'s army, under the command of [Illyan](<./illyan.md>). 
-- Jul 02, 1748 DR: Briefly encounters [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Tokra while escorting them to [Illyan](<./illyan.md>)'s camp. 
 
 

@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Martino
+hide_toc: true
 ---
 # Martino
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

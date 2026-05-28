@@ -19,7 +19,7 @@ title: Arryn's Tower
 
 
 
-Arryn’s Tower stands on a small isle among the ~Eastern Islands~ of the far [Green Sea](<./eastern-green-sea.md>), a neat stone shaft with a lantern‑top and weathered galleries looking over pine and coral shallows. A long timber dock and a well‑kept footpath lead to a reinforced door with sigils of welcome.
+Arryn’s Tower stands on a small isle among the ~Eastern Islands~ of the far [Green Sea](<eastern-green-sea.md>), a neat stone shaft with a lantern‑top and weathered galleries looking over pine and coral shallows. A long timber dock and a well‑kept footpath lead to a reinforced door with sigils of welcome.
 
 Within, the tower serves both as residence and laboratory: a modest library of travelogues and planar treatises; a workroom given to transitive magics; and, at the crown, an observatory whose lenses and mirrored instruments are used for scrying tides of other realms. Those with legitimate scholarly purpose sometimes find passage or advice here on matters of crossings, most notably along ways that border the [Feywild](<../../cosmology/feywild.md>).
 

@@ -30,7 +30,7 @@ title: Agata's Raven Whistle
 
 
 
-Seen in the [Mirror of the Past](<./mirror-of-the-past.md>):
+Seen in the [Mirror of the Past](<mirror-of-the-past.md>):
 
 ![Raven Whistle Vision](<../mirror-visions/raven-whistle-vision.md>)
 

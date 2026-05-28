@@ -50,16 +50,16 @@ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" >
 
 
 ## Topography and Major Features
-~North Ursk Border Mountains~, [Ket](<rivers/ket.md>), [Svinjo Mountains](<./svinjo-mountains.md>), [~Northern Boreal Forest~](<./northern-boreal-forest.md>)
+~North Ursk Border Mountains~, [Ket](<rivers/ket.md>), [Svinjo Mountains](<svinjo-mountains.md>), [~Northern Boreal Forest~](<northern-boreal-forest.md>)
 
 ## Civilizations and Cultures
-_See more: [Ursk](<ursk/ursk.md>), Vargaldi_
+_See more: [Ursk](<ursk/ursk.md>), [Vargaldi](<../../groups/cultures/vargaldi.md>)_
 
 The northern coasts of the [Green Sea](<../green-sea.md>) are a cold and unforgiving land, and it is a place to be careful and on your guard. The land of [Ursk](<ursk/ursk.md>) is closed to outsiders, and halfling traders report much fear and suspicion of anyone expressing interest in venturing beyond the trading enclaves of [Praznitsky](<ursk/praznitsky.md>) and [Zakat](<ursk/zakat.md>). The wizards rulers of Ursk, the halflings warn, are not to be disobeyed lightly. 
 
-To the north and west of [Ursk](<ursk/ursk.md>) the forests stretch for hundreds of miles, and there is little safety here. Halflings bring tales of giant bats, dragons breathing frost, and ice worms the size of small boats. Along the [Ket](<rivers/ket.md>) there are whispered tales of scattered humans known as the Vargaldi - but the halflings say they are skittish, and are unwilling to spill their secrets. 
+To the north and west of [Ursk](<ursk/ursk.md>) the forests stretch for hundreds of miles, and there is little safety here. Halflings bring tales of giant bats, dragons breathing frost, and ice worms the size of small boats. Along the [Ket](<rivers/ket.md>) there are whispered tales of scattered humans known as the [Vargaldi](<../../groups/cultures/vargaldi.md>) - but the halflings say they are skittish, and are unwilling to spill their secrets. 
 
-The [Svinjo Mountains](<./svinjo-mountains.md>), the halflings say, should be explored cautiously. The dwarves and stoneborn living here are mostly indentured to the frost giants of [Kaldhalla](<./kaldhalla.md>), who are not forgiving of questioning outsiders. Little profitable trade can be had here and it is best to avoid the area. 
+The [Svinjo Mountains](<svinjo-mountains.md>), the halflings say, should be explored cautiously. The dwarves and stoneborn living here are mostly indentured to the frost giants of [Kaldhalla](<kaldhalla.md>), who are not forgiving of questioning outsiders. Little profitable trade can be had here and it is best to avoid the area. 
 ## Climate
 
 

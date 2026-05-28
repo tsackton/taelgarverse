@@ -13,6 +13,7 @@ affiliations:
 dm_owner: tim
 dm_notes: color
 title: Kassi
+hide_toc: true
 ---
 # Kassi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,5 +28,5 @@ title: Kassi
 </div>
 
 
-The librarian at the Lakan monastery in Tokra. In a relationship with [Basu](<./basu.md>).
+The librarian at the Lakan monastery in Tokra. In a relationship with [Basu](<basu.md>).
 

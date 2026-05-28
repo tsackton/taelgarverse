@@ -14,11 +14,11 @@ The followers of [Mos Numena](<../../../religions/mos-numena/mos-numena.md>) wor
 
 The Eight Divines are:
 
-* [The Mother](<./the-mother.md>) (goddess of birth, fertility, spring, healing, wisdom, associated with the moon)
-* [The Father](<./the-father.md>) (god of light, order, justice, summer, associated with the sun)
-* [The Night Queen](<./the-night-queen.md>) (goddess of darkness, death, sleep, winter, associated with the night)
-* [The Warlord](<./the-warlord.md>) (god of war, vengeance, smiths, autumn, associated with day)
-* [The Sibyl](<./the-sibyl.md>) (goddess of magic, knowledge, love, beauty) 
-* [The Wanderer](<./the-wanderer.md>) (god of travel, trade, strangers, and outcasts)
-* [The Wyrdling](<./the-wyrdling.md>) (nonbinary deity of chaos, luck, and fate)
-* [The Wildling](<./the-wildling.md>) (nonbinary deity of nature and elements)
+* [The Mother](<the-mother.md>) (goddess of birth, fertility, spring, healing, wisdom, associated with the moon)
+* [The Father](<the-father.md>) (god of light, order, justice, summer, associated with the sun)
+* [The Night Queen](<the-night-queen.md>) (goddess of darkness, death, sleep, winter, associated with the night)
+* [The Warlord](<the-warlord.md>) (god of war, vengeance, smiths, autumn, associated with day)
+* [The Sibyl](<the-sibyl.md>) (goddess of magic, knowledge, love, beauty) 
+* [The Wanderer](<the-wanderer.md>) (god of travel, trade, strangers, and outcasts)
+* [The Wyrdling](<the-wyrdling.md>) (nonbinary deity of chaos, luck, and fate)
+* [The Wildling](<the-wildling.md>) (nonbinary deity of nature and elements)

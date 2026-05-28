@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: none
 pronunciation: GAR-eth HOW-ell
+hide_toc: true
 ---
 # Sir Gareth Howell
 :speaker:{ .middle } *(GAR-eth HOW-ell)*  
@@ -31,16 +32,16 @@ pronunciation: GAR-eth HOW-ell
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on April 30th, 1715 in the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
-Gareth Howell is the captain of Lady [Elowen Duval](<./elowen-duval.md>)’s household guard, responsible for patrols and protection of the uplands. 
+Gareth Howell is the captain of Lady [Elowen Duval](<elowen-duval.md>)’s household guard, responsible for patrols and protection of the uplands. 
 ## Overview
 Sir Gareth Howell leads Roscombe’s armed response to frontier threats. He first met the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) while investigating [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)’s silence and later coordinated efforts to address the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) goblin stronghold and the rescue of his squire.
 ## Events
 - Apr 30, 1715 DR: Met the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) south of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) while marching to relieve [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>).
 - May 07, 1715 DR: Shared intelligence with the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) at Lady Duval’s dinner regarding a missing squire and goblin activity.
-- May 08, 1715 DR: Received news of [Colette du Bois](<./colette-du-bois.md>)’s rescue and the recovery of a stolen poison recipe from the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>). 
+- May 08, 1715 DR: Received news of [Colette du Bois](<colette-du-bois.md>)’s rescue and the recovery of a stolen poison recipe from the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>). 
 ## Relationships
-- [Elowen Duval](<./elowen-duval.md>) — Castellan he serves; provides candid assessments of regional threats.
-- [Colette du Bois](<./colette-du-bois.md>) — Squire under his mentorship.
+- [Elowen Duval](<elowen-duval.md>) — Castellan he serves; provides candid assessments of regional threats.
+- [Colette du Bois](<colette-du-bois.md>) — Squire under his mentorship.
 - [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) — Trusted partners for missions beyond regular patrol capacity.
 
 ## Personality

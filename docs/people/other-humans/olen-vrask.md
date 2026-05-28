@@ -8,6 +8,7 @@ affiliations: [Rodnya Voknaz]
 dm_owner: tim
 dm_notes: important
 title: Olen Vrask
+hide_toc: true
 ---
 # Olen Vrask
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -20,5 +21,5 @@ title: Olen Vrask
 </div>
 
 
-![Olen Vrask Portrait](../../assets/olen-vrask-portrait.jpg){align="right"; width="400"}Olen is a secretary and scribe for [Branek Mirov](<./branek-mirov.md>).
+![Olen Vrask Portrait](../../assets/olen-vrask-portrait.jpg){align="right"; width="400"}Olen is a secretary and scribe for [Branek Mirov](<branek-mirov.md>).
 

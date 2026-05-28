@@ -15,7 +15,7 @@ title: Queen’s Own Home for Children
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: existed DR 1673 - June 30th, 1720, destroyed after 47 years  
-    :octicons-location-24:{ .lg .middle } An orphanage in [Embry](<./embry.md>), the [Duchy of Sembara](<./duchy-of-sembara.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } An orphanage in [Embry](<embry.md>), the [Duchy of Sembara](<duchy-of-sembara.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 
@@ -23,8 +23,6 @@ Founded by [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece
 
 Soon after Cece I's death, in 1713, the north dormitory was sold and all older children were dismissed. 
 
-
-During [Robert I's](<../../../../people/historical-figures/sembaran-royalty/robert-i.md>) reign it suffered for lack of funds, and the remaining dormitory building was sold in the summer of 1720 and the orphanage closed. 
 
 
 

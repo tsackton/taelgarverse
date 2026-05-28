@@ -15,6 +15,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Abha
+hide_toc: true
 ---
 # Abha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -39,4 +40,4 @@ title: Abha
 Abha, like [Sonkar](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/sonkar.md>), sometimes appears cold and distant, but her isolating demeanor masks a deep concern for the world and for [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 
 
-During the [Sibling War](<../../events/1700s/sibling-war.md>), Abha served as an ally and advisor to [Nayan Karnas](<./nayan-karnas.md>), using her divine powers to attempt to disentangle the truth, or lies, of rumors of [Agata](<../fey/agata.md>)'s influence on [Sura](<./sura.md>). She was increasingly discredited by [Nayan Karnas](<./nayan-karnas.md>) as he descended into paranoia, until the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) was able to at least partially get through to him. In the aftermath, she helped negotiate the end of the [Sibling War](<../../events/1700s/sibling-war.md>) between [Nayan Sura](<./sura.md>) and [Nayan Karnas](<./nayan-karnas.md>). 
+During the [Sibling War](<../../events/1700s/sibling-war.md>), Abha served as an ally and advisor to [Nayan Karnas](<nayan-karnas.md>), using her divine powers to attempt to disentangle the truth, or lies, of rumors of [Agata](<../fey/agata.md>)'s influence on [Sura](<sura.md>). She was increasingly discredited by [Nayan Karnas](<nayan-karnas.md>) as he descended into paranoia, until the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) was able to at least partially get through to him. In the aftermath, she helped negotiate the end of the [Sibling War](<../../events/1700s/sibling-war.md>) between [Nayan Sura](<sura.md>) and [Nayan Karnas](<nayan-karnas.md>). 

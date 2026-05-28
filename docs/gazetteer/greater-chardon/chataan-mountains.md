@@ -13,7 +13,7 @@ title: Chataan Mountains
 # The Chataan Mountains
 :speaker:{ .middle } *(cha-TAWN)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A mountain range in [Greater Chardon](<./greater-chardon.md>)  
+-    :octicons-location-24:{ .lg .middle } A mountain range in [Greater Chardon](<greater-chardon.md>)  
 </div>
 
 

@@ -15,23 +15,23 @@ title: Eastern Green Sea
 </div>
 
 
-East of the well-traveled ports of [Tollen](<../greater-sembara/tollen/tollen.md>) and [Cymea](<../western-green-sea/realms/cymea.md>) lies a vast expanse of the [Green Sea](<../green-sea.md>). Many rumors come west from these lands: on halfling ships carrying exotic goods from [Medju](<./medju.md>); or on [Tollen](<../greater-sembara/tollen/tollen.md>) merchant ships, chartered by the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>) to bring exotic dyes from [Ursk](<../northern-green-sea/ursk/ursk.md>); or from restless [Skaer](<../western-green-sea/realms/skaer.md>) sailors, far from their home islands. These rumors tell of many things: islands that move from season to season; cities made of gold and emeralds that sparkle in the desert sun; flying [kenku](<../../creatures/species/kenku.md>) living in cliffside roosts on islands red like blood; stoneborn rafts, kept afloat by will alone, drifting from island to island; hobgoblin pirates who eat the hearts of their victims; strange gods of pleasure who bring waking bliss to their acolytes; clerics who worship the [Divine Presence](<../../gods-and-religions/gods/high-gods/divine-presence.md>) itself and can summon food and water by merely thinking a prayer. 
+East of the well-traveled ports of [Tollen](<../greater-sembara/tollen/tollen.md>) and [Cymea](<../western-green-sea/realms/cymea.md>) lies a vast expanse of the [Green Sea](<../green-sea.md>). Many rumors come west from these lands: on halfling ships carrying exotic goods from [Medju](<medju.md>); or on [Tollen](<../greater-sembara/tollen/tollen.md>) merchant ships, chartered by the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>) to bring exotic dyes from [Ursk](<../northern-green-sea/ursk/ursk.md>); or from restless [Skaer](<../western-green-sea/realms/skaer.md>) sailors, far from their home islands. These rumors tell of many things: islands that move from season to season; cities made of gold and emeralds that sparkle in the desert sun; flying [kenku](<../../creatures/species/kenku.md>) living in cliffside roosts on islands red like blood; stoneborn rafts, kept afloat by will alone, drifting from island to island; hobgoblin pirates who eat the hearts of their victims; strange gods of pleasure who bring waking bliss to their acolytes; clerics who worship the [Divine Presence](<../../gods-and-religions/gods/high-gods/divine-presence.md>) itself and can summon food and water by merely thinking a prayer. 
 
 Are these rumors true? Surely some are, the people of [Tollen](<../greater-sembara/tollen/tollen.md>) say, but few dare speculate on what is fact or fiction.
 ## Map
 
 ## Topography and Major Features
-_See also: [Green Sea](<../green-sea.md>), [Irrla](<./irrla.md>), ~Eastern Islands~, ~Eastern Ocean~_
+_See also: [Green Sea](<../green-sea.md>), [Irrla](<irrla.md>), ~Eastern Islands~, ~Eastern Ocean~_
 
 The [Green Sea](<../green-sea.md>) itself dominates this region, and the currents and winds of the [Green Sea](<../green-sea.md>) are a major determinant of the climate. The coasts of the Green Sea define this region:
 
-* [Irrla](<./irrla.md>), the large island in the center of the [Green Sea](<../green-sea.md>), 500 miles across, lies at the western boundary of this region
+* [Irrla](<irrla.md>), the large island in the center of the [Green Sea](<../green-sea.md>), 500 miles across, lies at the western boundary of this region
 * The south coast of the Green Sea, from the mountains near Cymea to the mountains east of Medju, is characterized by a large peninsula known to be the home of diverse cultures
 * West of the mountains near Medju is the far eastern coast, away from the influences of the [Green Sea](<../green-sea.md>) and seen as strange even by those of this region
 * Stretching for 2000 miles from south to north, the ~Eastern Islands~ form a barrier between the [Green Sea](<../green-sea.md>) and the ~Eastern Ocean~. Many say these islands are magical, and the weather in this region is know to be chaotic and unsettled
 * In the far north, is another great peninsula with cold, with long winters and short summers, and no reports have come west of who or what might live there
 ## Civilizations and Cultures
-This is a land of many cultures and civilizations, but few are well-attested in the west. Most geographers believe that the cities of [Medju](<./medju.md>) are real, and shipwrecked sailors from the [Republic of Svolhas](<./republic-of-svolhas.md>) on [Irrla](<./irrla.md>) have been seen on the [Cymean Peninsula](<../western-green-sea/cymean-peninsula.md>). But few really know what strange cultures this region holds, or what strange gods they worship.
+This is a land of many cultures and civilizations, but few are well-attested in the west. Most geographers believe that the cities of [Medju](<medju.md>) are real, and shipwrecked sailors from the [Republic of Svolhas](<republic-of-svolhas.md>) on [Irrla](<irrla.md>) have been seen on the [Cymean Peninsula](<../western-green-sea/cymean-peninsula.md>). But few really know what strange cultures this region holds, or what strange gods they worship.
 ## Climate
 _See more: [Green Sea](<../green-sea.md>)_
 

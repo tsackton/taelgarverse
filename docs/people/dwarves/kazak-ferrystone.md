@@ -12,6 +12,7 @@ whereabouts:
 dm_notes: color
 dm_owner: mike
 title: Kazak Ferrystone
+hide_toc: true
 ---
 # Kazak Ferrystone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

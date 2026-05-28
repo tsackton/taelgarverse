@@ -16,6 +16,7 @@ whereabouts:
 - {type: away, start: 1060}
 dm_notes: important
 dm_owner: tim
+hide_toc: true
 ---
 # Emperor Apollyon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

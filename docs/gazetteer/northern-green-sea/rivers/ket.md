@@ -18,5 +18,5 @@ The Ket is the most significant river of the [~Northern Boreal Forest~](<../nort
 
 ![Ket Landscape](../../../assets/ket-landscape.jpg){align="right"; width="400"}The river's climate is harsh and highly seasonal. For much of its length, the Ket freezes solid from late October to early April, with the ice reaching up to four feet thick during the coldest months. Spring is dramatic, as melting ice from the river and nearby mountains causes the river to swell, flooding nearby lowlands and creating temporary marshes teeming with life. By early June, the ice has cleared, and the river runs swift and cold, carrying meltwater and sediment toward the Green Sea.
 
-The most significant settlement on the Ket is the [Urskan](<../ursk/ursk.md>) city of [Zvervinka](<../ursk/zvervinka.md>), near the river mouth, less than 100 miles inland from the coast. The Ket is also the lifeblood of the Vargaldi who call the [~Northern Boreal Forest~](<../northern-boreal-forest.md>) their home. 
+The most significant settlement on the Ket is the [Urskan](<../ursk/ursk.md>) city of [Zvervinka](<../ursk/zvervinka.md>), near the river mouth, less than 100 miles inland from the coast. The Ket is also the lifeblood of the [Vargaldi](<../../../groups/cultures/vargaldi.md>) who call the [~Northern Boreal Forest~](<../northern-boreal-forest.md>) their home. 
 

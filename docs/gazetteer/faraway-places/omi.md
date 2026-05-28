@@ -12,11 +12,11 @@ title: Omi
 ---
 # Omi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A Merfolk underwater city in the [Endless Ocean](<../endless-ocean.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Merfolk](<../../creatures/unsorted/merfolk.md>) underwater city in the [Endless Ocean](<../endless-ocean.md>)  
 </div>
 
 
-Omi is an important and ancient merfolk city in the western [Endless Ocean](<../endless-ocean.md>), in the deep waters west of [Apporia](<../greater-chardon/chardonian-empire/apporia/apporia.md>) and [Tamaro Bay](<../greater-chardon/chardonian-empire/apporia/tamaro-bay.md>). Surface sailors know it chiefly through Apporian songs of the Jade Garden, but among the merfolk it is an important city of kelp forests, coral craft, manta rays, and communal memory watched over by the [Sentient Ocean](<../../people/extraplanar-powers/sentient-ocean.md>). 
+Omi is an important and ancient [merfolk](<../../creatures/unsorted/merfolk.md>) city in the western [Endless Ocean](<../endless-ocean.md>), in the deep waters west of [Apporia](<../greater-chardon/chardonian-empire/apporia/apporia.md>) and [Tamaro Bay](<../greater-chardon/chardonian-empire/apporia/tamaro-bay.md>). Surface sailors know it chiefly through Apporian songs of the Jade Garden, but among the merfolk it is an important city of kelp forests, coral craft, manta rays, and communal memory watched over by the [Sentient Ocean](<../../people/extraplanar-powers/sentient-ocean.md>). 
 ## City of Kelp
 
 Omi is built in and around a vast kelp forest. Its buildings are woven from living kelp, coral, shell, and stone, with roads and clearings winding through the undersea growth. Like other western merfolk settlements, Omi has little contact with surface peoples. The merfolk of Omi do not use a conventional land-dweller alphabet, but do record history and lore using pictograph glyphs, mosaics, and other visual signs.
@@ -40,7 +40,7 @@ When the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowsh
 
 The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeated the Herald of Gazankoa, entered the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>), rescued [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>), Tilly Brineheart, and surviving members of the [Stormdancer](<../../things/ships/stormdancer.md>) crew, and recovered the [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>) from Buruli on May 12, 1749 DR. 
 
-The defeat of Buruli and recovery of the jade collapsed the portal in Omi. Since then, merfolk have slowly returned and begun to rebuild and restore Omi to its former glory. 
+The defeat of Buruli and recovery of the jade collapsed the portal in Omi. Since then, [merfolk](<../../creatures/unsorted/merfolk.md>) have slowly returned and begun to rebuild and restore Omi to its former glory. 
 
 
 

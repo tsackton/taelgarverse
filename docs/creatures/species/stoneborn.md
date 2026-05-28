@@ -48,7 +48,7 @@ Those that do leave the mountains are generally either outcasts, departing their
 >[!tip] Strange and Foreign
 >Stoneborn tend to find the ambitions and greed that drive other races hard to understand, and rarely live among such folk. While they appreciate a desire for mastery, and the ambition to be the best at something is one that many Stoneborn feel, for them the skill is reward enough, and a desire for fame and fortune is foreign to them.
 >
->The exception is the dwarves, who despite their rigid, hierarchical society and lust for mineral wealth, share a long history of being allies in wars against the [Orcs](<./orcs.md>) and hobgoblins. Stoneborn still find dwarven society incomprehensible, but the proven loyalty and prowess in war of the dwarven armies has ensured a trusting, if not exactly warm and friendly, alliance.
+>The exception is the dwarves, who despite their rigid, hierarchical society and lust for mineral wealth, share a long history of being allies in wars against the [Orcs](<orcs.md>) and hobgoblins. Stoneborn still find dwarven society incomprehensible, but the proven loyalty and prowess in war of the dwarven armies has ensured a trusting, if not exactly warm and friendly, alliance.
 >
 >Stoneborn also tend to get along well with lizardfolk, who share some of their attitude towards the natural world and their love of their homeland, although Stoneborn find the lizardfolk love of swamps, forests, and and green living things to be strange.
 
@@ -57,7 +57,7 @@ Stoneborn names are a living, changing part of their identity. All Stoneborn hav
 
 Use names typically either reflect a skill, or the name of a master. For example, a skilled stonemason may take the use name Stonebreaker or Stonecarver; a skilled warrior may take the use name Quickblade or Strongaxe; or a skilled teacher may take the use name Loremaster or Mindshaper. Alternatively, a use name may reflect the lineage of the master a Stoneborn trained under. For example, a student of the master Maumak Ironforger may take the use name Maumakandi or Maumakundi (student of Maumak). It is also common to adopt the use name of your master, so if your master is Maumak Ironforger, you may also take the Ironforger use name. 
 
-Like [dwarves](<./dwarves.md>) Stoneborn ascribe meaning to their use names as therefore often introduce themselves with use names in the trade tongues. But some may not follow this custom. And some may invent new names for themselves when they travel outside their homeland. 
+Like [dwarves](<dwarves.md>) Stoneborn ascribe meaning to their use names as therefore often introduce themselves with use names in the trade tongues. But some may not follow this custom. And some may invent new names for themselves when they travel outside their homeland. 
 
 **Birth Names:** Arvid, Aglath, Anathi, Bomika, Cebo, Dumoth, Elethu, Ivak, Kamva, Lumiko, Luvoth, Malimi, Maumak, Masandith, Nandi, Onako, Saliza, Songath, Sumeyad, Thandeka, Themba, Unathid, Yandisa, Zola
 

@@ -17,6 +17,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Lyle Honeyhill
+hide_toc: true
 ---
 # Lyle Honeyhill
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

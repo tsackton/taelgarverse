@@ -15,6 +15,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Hiyasa
+hide_toc: true
 ---
 # Hiyasa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,6 +28,6 @@ title: Hiyasa
 </div>
 
 
-Hiyasa is [Orden's](<./orden.md>) daughter, a Mawaran thief and treasure hunter from [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) who spent roughly a decade away from home, mostly traveling around [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>).
+Hiyasa is [Orden's](<orden.md>) daughter, a Mawaran thief and treasure hunter from [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) who spent roughly a decade away from home, mostly traveling around [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>).
 
 In DR 1747, she returned to Hamri, destitute but carrying maps and rumors of old treasure, apparently acquired in Chardon somehow. Eager to see herself and her dad in a better situation, she soon left to explore one of the ruins on her treasure map, but got into trouble and had to be rescued by the [Adventurers of Mawar](<../pcs/mawar/adventurers-of-mawar.md>).

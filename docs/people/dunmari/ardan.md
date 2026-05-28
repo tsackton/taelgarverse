@@ -15,6 +15,7 @@ affiliations:
 - {type: leader, place: Archives, start: 1737}
 dm_owner: tim
 dm_notes: important
+hide_toc: true
 ---
 # Chief Archivist Ardan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -38,7 +39,5 @@ dm_notes: important
 
 
 The middle-aged Dunmari Head Archivist at the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>). Cautious to a fault and rather uninterested in administration, allowing many basic functions of the [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) to drift into disorganization and uselessness through lack of attention during his tenure. 
-
-As of mid-July 1748, he has allowed [Govir](<./govir.md>) to take over some of the administrative burden at the Archives, at the urging of [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), and has secured funds for [Govir](<./govir.md>) to hire additional scribes and clerks. 
 
 

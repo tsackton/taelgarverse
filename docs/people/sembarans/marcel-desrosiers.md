@@ -10,6 +10,7 @@ affiliations:
 - {org: Duchy of Wisford, title: Captain of the Duke's Guard}
 gender: male
 title: Marcel Desrosiers
+hide_toc: true
 ---
 # Marcel Desrosiers
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

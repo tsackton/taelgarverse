@@ -18,14 +18,14 @@ title: Refuge of the Gossamer Veil
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Existed DR 1050 - DR 1570, conquered by [Lord Umbraeth](<../../../../people/extraplanar-powers/archfey/lord-umbraeth.md>) after 520 years  
-    :octicons-location-24:{ .lg .middle } A former [fey](<../../../../creatures/fey/fey.md>) realm of [Amberglow](<./amberglow.md>)  
+    :octicons-location-24:{ .lg .middle } A former [fey](<../../../../creatures/fey/fey.md>) realm of [Amberglow](<amberglow.md>)  
     :octicons-location-24:{ .lg .middle } Now part of Duskmire, the [Feywild](<../../../../cosmology/feywild.md>)  
 </div>
 
 
 
 
-The Refuge of the Gossamer Veil was a hidden redoubt in [Amberglow](<./amberglow.md>), remembered in stories as one of the last pockets of safety after the realm began to fade after [Cloudspinner](<../../../../people/extraplanar-powers/archfey/cloudspinner.md>)'s disappearance. 
+The Refuge of the Gossamer Veil was a hidden redoubt in [Amberglow](<amberglow.md>), remembered in stories as one of the last pockets of safety after the realm began to fade after [Cloudspinner](<../../../../people/extraplanar-powers/archfey/cloudspinner.md>)'s disappearance. 
 
 
 

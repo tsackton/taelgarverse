@@ -12,6 +12,7 @@ whereabouts:
 - {type: away, location: on the road to Aslain, start: 1720-02-08, end: 1720-02-10}
 - {type: away, location: Aslain, start: 1720-02-10, end: 9999}
 title: Bolgrim Ferrystone
+hide_toc: true
 ---
 # Bolgrim Ferrystone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

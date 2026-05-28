@@ -13,6 +13,7 @@ whereabouts:
 dm_notes: color
 dm_owner: mike
 title: Brot Starsearcher
+hide_toc: true
 ---
 # Brot Starsearcher
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

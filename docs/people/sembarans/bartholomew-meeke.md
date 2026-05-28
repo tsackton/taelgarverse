@@ -5,6 +5,7 @@ species: human
 dm_notes: color
 dm_owner: mike
 title: Bartholomew Meeke
+hide_toc: true
 ---
 # Bartholomew Meeke
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

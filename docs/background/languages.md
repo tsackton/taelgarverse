@@ -96,12 +96,12 @@ The language spoken in the [Mawakel Peninsula](<../gazetteer/northwest-coast/maw
 _Real world analog_: Arabic
 _Alphabet_: In the modern day Mawaran is written using the Drankorian alphabet.
 ##### Deno'qai
-A group of mutually understandable dialects and languages spoken by the Deno'qai people. It is an ancient language, surviving largely without outside influences.
+A group of mutually understandable dialects and languages spoken by the [Deno'qai](<../groups/cultures/deno-qai-tribes/deno-qai.md>) people. It is an ancient language, surviving largely without outside influences.
 
 _Real world analog_: Hebrew or Arabic
 _Alphabet_: Unknown. 
 ##### Vargaldi
-The language spoken by the Vargaldi people of the [~Northern Boreal Forest~](<../gazetteer/northern-green-sea/northern-boreal-forest.md>). Although ancestrally a Northos language that retains the basic Northros grammar, Vargaldi has numerous loan word from Eastros.
+The language spoken by the [Vargaldi](<../groups/cultures/vargaldi.md>) people of the [~Northern Boreal Forest~](<../gazetteer/northern-green-sea/northern-boreal-forest.md>). Although ancestrally a Northos language that retains the basic Northros grammar, Vargaldi has numerous loan word from Eastros.
 
 _Real world analog_: Not defined, although many names are Slavic reflecting Eastros influences. 
 _Alphabet_: Unknown. 
@@ -141,13 +141,13 @@ A number of mutually understandable languages and dialects spoken in Sembara, Ty
 
 _Real world analog_: French (more prevalent in the South) and English (more prevalent in the north and Addermarch)
 _Alphabet_: Sembaran is written using the Drankorian alphabet
-*Intelligibility*: Tollish is mutually intelligible with Sembaran. There are numerous cognates between Sembaran and [Isinguese](<./languages.md#isinguese>), but they have a very different grammar. An Isinguese speaker can sometimes pick out some meaning from Sembaran.
+*Intelligibility*: Tollish is mutually intelligible with Sembaran. There are numerous cognates between Sembaran and [Isinguese](<languages.md#isinguese>), but they have a very different grammar. An Isinguese speaker can sometimes pick out some meaning from Sembaran.
 ##### Tollish
 The language spoken in Tollen and parts of the Tollen spheres of influence. It is closely related to Sembaran, and developed from a similar mix of Old Tollish and Drankorian. 
 
 _Real world analog:_ English, with some Germanic or Slavic loan words
 _Alphabet_: Sembaran is written using the Drankorian alphabet
-*Intelligibility*: Tollish is mutually intelligible with Sembaran. There are many cognates between Tollish and [Isinguese](<./languages.md#isinguese>), but they have a very different grammar. An Isinguese speaker can sometimes pick out some meaning from Tollish.
+*Intelligibility*: Tollish is mutually intelligible with Sembaran. There are many cognates between Tollish and [Isinguese](<languages.md#isinguese>), but they have a very different grammar. An Isinguese speaker can sometimes pick out some meaning from Tollish.
 
 
 ## Miscellaneous Languages
@@ -277,7 +277,7 @@ Time and space do not work on the other planes as they do on the material plane,
 The most common extra-planar language spoken in Taelgar, and the language of the [Feywild](<../cosmology/feywild.md>). Commonly spoken by fairies, satyrs, and other fey inhabitants of Taelgar, as well as elves, Tyrwinghans, and others who have substantial dealings with the fey. It is a lilting and musical language and hints at magical power.
 
 _Real world analog_: None, specifically, but it should sound lyrical. Many existing Fey names use Classic Greek, but Polynesian or Hawaiian might be interesting places for inspiration.
-_Alphabet_: Commonly written in Elvish, but with a complex magical writing system as well (see [Sylvan Writing](<./sylvan-writing.md>) for more details)
+_Alphabet_: Commonly written in Elvish, but with a complex magical writing system as well (see [Sylvan Writing](<sylvan-writing.md>) for more details)
 ##### Primordial
 The language family of the [Energy Realms](<../cosmology/energy-realms/energy-realms.md>). At least four dialects are known: Aquan, Auran, Ignan, and Terran, but more dialects may exist. Not commonly learned by natives of other planes, but occasionally studied by wizards, druids, or others regularly interact with elementals. 
 

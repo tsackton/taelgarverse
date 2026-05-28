@@ -19,12 +19,12 @@ title: Dunmar Fellowship
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
 
 Consists of:
-- The elven warlock [Delwath](<./delwath.md>)
-- The halfling scout [Wellby](<./wellby.md>) and his axebeak mount and companion [Baxter](<companions/baxter.md>)
-- The dwarven bard, scholar, and rune master [Seeker](<./seeker.md>)
-- The human monk [Kenzo](<./kenzo.md>)
+- The elven warlock [Delwath](<delwath.md>)
+- The halfling scout [Wellby](<wellby.md>) and his axebeak mount and companion [Baxter](<companions/baxter.md>)
+- The dwarven bard, scholar, and rune master [Seeker](<seeker.md>)
+- The human monk [Kenzo](<kenzo.md>)
 
-They frequently travel with the dwarven cleric [Riswynn](<./riswynn.md>). The stoneborn druid [Drikod](<guests/drikod.md>) traveled with them from May 23 1748 through June 20 1748. 
+They frequently travel with the dwarven cleric [Riswynn](<riswynn.md>). The stoneborn druid [Drikod](<guests/drikod.md>) traveled with them from May 23 1748 through June 20 1748. 
 
 In the fall of 1748, they were split up due to magical effects. During this time, they traveled alone.
 

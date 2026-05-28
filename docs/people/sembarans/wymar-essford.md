@@ -16,6 +16,7 @@ affiliations:
 whereabouts: Cleenseau
 dm_notes: color
 dm_owner: mike
+hide_toc: true
 ---
 # Lord Wymar Essford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -31,7 +32,7 @@ dm_owner: mike
 
 
 
-![Wymarofclenseau](../../assets/wymarofclenseau.jpeg){align="right"; width="320"}The aging and senile lord of the manor in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). The son of [Reginald Essford](<../historical-figures/reginald-essford.md>) and [Celine Essford](<../historical-figures/celine-essford.md>). He is rarely involved in the day to day events of the town. His children are [Rosalind Essford](<./rosalind-essford.md>) and [Rinault Essford](<./rinault-essford.md>). Since March 1719, he has been suffering from increasingly significant dementia and his daughter has largely taken over the management of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). 
+![WymarOfClenseau](../../assets/wymarofclenseau.jpeg){align="right"; width="320"}The aging and senile lord of the manor in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). The son of [Reginald Essford](<../historical-figures/reginald-essford.md>) and [Celine Essford](<../historical-figures/celine-essford.md>). He is rarely involved in the day to day events of the town. His children are [Rosalind Essford](<rosalind-essford.md>) and [Rinault Essford](<rinault-essford.md>). Since March 1719, he has been suffering from increasingly significant dementia and his daughter has largely taken over the management of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). 
 
 ### Wymar's Story of Childhood
 

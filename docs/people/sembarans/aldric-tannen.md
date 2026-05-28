@@ -12,6 +12,7 @@ whereabouts: Cleenseau
 dm_notes: none
 dm_owner: none
 title: Aldric Tannen
+hide_toc: true
 ---
 # Aldric Tannen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

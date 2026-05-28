@@ -16,7 +16,7 @@ title: House of Teckberg
 </div>
 
 
-A cadet branch of the [House of Sewick](<./house-of-sewick.md>). 
+A cadet branch of the [House of Sewick](<house-of-sewick.md>). 
 
 
 

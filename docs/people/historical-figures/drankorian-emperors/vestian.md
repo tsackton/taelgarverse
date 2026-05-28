@@ -8,6 +8,7 @@ gender: male
 title: Emperor Vestian
 dm_notes: important
 dm_owner: tim
+hide_toc: true
 ---
 # Emperor Vestian
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -21,5 +22,5 @@ dm_owner: tim
 
 
 
-A Drankorian emperor, supposedly [Helea](<./helea.md>)'s successor.
+A Drankorian emperor, supposedly [Helea](<helea.md>)'s successor.
 

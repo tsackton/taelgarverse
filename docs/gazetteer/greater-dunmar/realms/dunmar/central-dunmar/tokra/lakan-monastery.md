@@ -14,11 +14,11 @@ title: Lakan Monastery
 ---
 # The Lakan Monastery
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Dunmari](<../../dunmar.md>) monastery of [Laka](<../../../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>) in [Tokra](<./tokra.md>), [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>), [Greater Dunmar](<../../../../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Dunmari](<../../dunmar.md>) monastery of [Laka](<../../../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>) in [Tokra](<tokra.md>), [Central Dunmar](<../central-dunmar.md>), [Dunmar](<../../dunmar.md>), [Greater Dunmar](<../../../../greater-dunmar.md>)  
 </div>
 
 
-The Lakan monastery is set on a hill about 3 1/2 miles south of [Tokra](<./tokra.md>), overlooking the River [Hara](<../../../../rivers/hara-watershed/hara.md>). The ancient road from [Tokra](<./tokra.md>) winds up the cliffs approaching the monastery.
+The Lakan monastery is set on a hill about 3 1/2 miles south of [Tokra](<tokra.md>), overlooking the River [Hara](<../../../../rivers/hara-watershed/hara.md>). The ancient road from [Tokra](<tokra.md>) winds up the cliffs approaching the monastery.
 
 The monastery itself consists of a large, main building, containing the temple of [Laka](<../../../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>), a cloister around an open practice ground / stone garden, kitchens, dining hall, dormitories, a chapter house and meeting space, a significant library, storerooms, and a well to bring water from the river below.
 
@@ -26,7 +26,7 @@ The entrance to the grounds is controlled by a gatehouse on the road, although t
 
 Arranged in a circle around the main monastery are the twelve shrines of [Laka](<../../../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>). The shrines are connected by a walkway, which also encircles the Monastery.
 
-In between the shrines and the main building to the north, on the other side of [Tokra](<./tokra.md>), are three workshops. These are largely used to construct magic items - the [Lakan Mystai](<../../../../../../groups/dunmari-mystery-cults/lakan-mystai.md>) specialize in the manipulations of planar energy, so construct bags of holding and other items connected to extradimensional spaces, as well as sending stones and similar items. 
+In between the shrines and the main building to the north, on the other side of [Tokra](<tokra.md>), are three workshops. These are largely used to construct magic items - the [Lakan Mystai](<../../../../../../groups/dunmari-mystery-cults/lakan-mystai.md>) specialize in the manipulations of planar energy, so construct bags of holding and other items connected to extradimensional spaces, as well as sending stones and similar items. 
 
 The largest workshop is built, in part, on the ruins of the [Elven Arborea Workshop](<../../../../hara-basin/elven-arborea-workshop.md>), an old elven workshop constructed around an [Extraplanar Weak Point](<../../../../../../cosmology/planar-concepts/extraplanar-weak-point.md>), a place where the wild, unbounded natural energy of [Arborea](<../../../../../../cosmology/spiritual-realms/arborea.md>) flows into the material plane
 

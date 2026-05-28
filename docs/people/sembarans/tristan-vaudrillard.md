@@ -16,6 +16,7 @@ whereabouts:
 dm_notes: none
 dm_owner: mike
 title: Tristan Vaudrillard
+hide_toc: true
 ---
 # Tristan Vaudrillard
 :speaker:{ .middle } *(Tris-tan Voh-dree-yar)*  

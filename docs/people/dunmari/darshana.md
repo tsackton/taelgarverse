@@ -14,6 +14,7 @@ affiliations:
 dm_owner: none
 dm_notes: color
 title: Darshana
+hide_toc: true
 ---
 # Darshana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

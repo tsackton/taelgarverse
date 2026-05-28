@@ -17,6 +17,7 @@ whereabouts:
 dm_notes: none
 dm_owner: mike
 title: Annet Bybet
+hide_toc: true
 ---
 # Annet Bybet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -33,4 +34,4 @@ title: Annet Bybet
 </div>
 
 
-![Annet Bybet](../../assets/annet-bybet.png){align="right"; width="320"}A cousin of [Arthur Essford](<./arthur-essford.md>) and the chamberlain of the [Essford](<../../groups/sembaran-noble-houses/essfords.md>) household.
+![Annet Bybet](../../assets/annet-bybet.png){align="right"; width="320"}A cousin of [Arthur Essford](<arthur-essford.md>) and the chamberlain of the [Essford](<../../groups/sembaran-noble-houses/essfords.md>) household.

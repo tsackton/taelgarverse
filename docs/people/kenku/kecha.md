@@ -9,6 +9,7 @@ image: kecha-small.png
 dm_notes: important
 dm_owner: tim
 title: Kecha
+hide_toc: true
 ---
 # Kecha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

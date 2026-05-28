@@ -14,12 +14,13 @@ affiliations:
 dm_notes: color
 dm_owner: none
 title: Ninu
+hide_toc: true
 ---
 # Ninu
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her), of the Ko'zula  
+    A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) [human](<../../creatures/species/humans.md>) (she/her), of the [Ko'zula](<../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>)  
     Born DR 1703 (47 years old)  
     { .bio }
 
@@ -27,4 +28,4 @@ title: Ninu
 </div>
 
 
-Chief of the largest of the Ko'zula villages; told [Delwath](<../pcs/dunmar-fellowship/delwath.md>) the story of the [armbands of Cha’mutte](<../../campaigns/dunmari-frontier-campaign/treasure/cha-muttes-shadow-armband.md>) and the lost tanshi.
+Chief of the largest of the [Ko'zula](<../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) villages; told [Delwath](<../pcs/dunmar-fellowship/delwath.md>) the story of the [armbands of Cha’mutte](<../../campaigns/dunmari-frontier-campaign/treasure/cha-muttes-shadow-armband.md>) and the lost tanshi.

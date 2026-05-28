@@ -14,6 +14,7 @@ affiliations:
 dm_notes: none
 dm_owner: mike
 title: Elaine II
+hide_toc: true
 ---
 # Elaine II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -30,12 +31,8 @@ title: Elaine II
 
 
 
-The first monarch of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), descended from, Derik, the youngest son of [Elaine I](<./elaine-i.md>), and [Morgaine](<./morgaine.md>), a Tyrwinghan [oracle](<../../../groups/oracle-of-the-riven.md>).
+The first monarch of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), descended from, Derik, the youngest son of [Elaine I](<elaine-i.md>), and [Morgaine](<morgaine.md>), a Tyrwinghan [oracle](<../../../groups/oracle-of-the-riven.md>).
 
-
-Her reign was a time of peace and prospertity, and an intentional throwback to the glorious years of [Cece I](<./cece-i.md>). 
-
-She was succeeded by her son [Arryn III](<./arryn-iii.md>)
 
 
 

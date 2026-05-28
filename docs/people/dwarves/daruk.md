@@ -14,6 +14,7 @@ affiliations:
 dm_owner: tim
 dm_notes: important
 title: Daruk
+hide_toc: true
 ---
 # Daruk
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -15,6 +15,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: none
 title: Martin Strongbow
+hide_toc: true
 ---
 # Martin Strongbow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

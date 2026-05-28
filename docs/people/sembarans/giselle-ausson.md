@@ -11,6 +11,7 @@ affiliations:
 dm_notes: color
 dm_owner: mike
 title: Giselle Ausson
+hide_toc: true
 ---
 # Giselle Ausson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

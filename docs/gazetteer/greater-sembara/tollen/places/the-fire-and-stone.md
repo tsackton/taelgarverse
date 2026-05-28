@@ -17,4 +17,4 @@ title: The Fire and Stone
 </div>
 
 
-A quiet tavern near the [University of Tollen](<./university-of-tollen.md>), with a reputation for good food and ale. 
+A quiet tavern near the [University of Tollen](<university-of-tollen.md>), with a reputation for good food and ale. 

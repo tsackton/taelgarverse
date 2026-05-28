@@ -11,6 +11,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Eldeth Redhammer
+hide_toc: true
 ---
 # Eldeth Redhammer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

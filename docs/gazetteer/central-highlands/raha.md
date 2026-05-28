@@ -11,7 +11,7 @@ title: Raha
 ---
 # Raha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A Deno'qai village in the [Highveil Forest](<./highveil-forest.md>), the [Central Highlands](<./central-highlands.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) village in the [Highveil Forest](<highveil-forest.md>), the [Central Highlands](<central-highlands.md>)  
 </div>
 
 

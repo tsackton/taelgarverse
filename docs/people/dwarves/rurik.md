@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Rurik
+hide_toc: true
 ---
 # Rurik
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -30,5 +31,5 @@ title: Rurik
 :octicons-location-24:{ .lg .middle } Met by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) on August 25th, 1748 in [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>), [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), [Shadowfolds](<../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>)  
 
 
-Rurik is a dwarf, of indeterminant age, who remembers little of his life in [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>) except his close connection to his son, [Tak](<./tak.md>), who he cares for deeply and worries over constantly. 
+Rurik is a dwarf, of indeterminant age, who remembers little of his life in [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>) except his close connection to his son, [Tak](<tak.md>), who he cares for deeply and worries over constantly. 
 

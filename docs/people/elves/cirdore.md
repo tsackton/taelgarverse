@@ -13,6 +13,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: color
 title: Cirdore
+hide_toc: true
 ---
 # Cirdore
 :speaker:{ .middle } *(KEER-doh-reh)*  

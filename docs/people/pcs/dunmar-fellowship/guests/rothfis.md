@@ -15,6 +15,7 @@ affiliations:
 dm_owner: tim
 dm_notes: important
 title: Rothfis
+hide_toc: true
 ---
 # Rothfis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

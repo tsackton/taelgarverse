@@ -17,6 +17,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Harol Silversong
+hide_toc: true
 ---
 # Harol Silversong
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -40,8 +41,8 @@ title: Harol Silversong
 
 Captain of the [Emerald Song](<../../things/ships/emerald-song.md>). He is tough and wiry, tall for a halfling, with olive-brown skin and curly white hair, with bright silver eyes. Although not very talkative for a halfling, he has a good singing voice and often takes up the bass viol in the evenings.
 ## Relationships
-- [Ewen Silversong](<./ewen-silversong.md>), his uncle
-- [Dani Silversong](<./dani-silversong.md>), his niece
+- [Ewen Silversong](<ewen-silversong.md>), his uncle
+- [Dani Silversong](<dani-silversong.md>), his niece
 
 
 

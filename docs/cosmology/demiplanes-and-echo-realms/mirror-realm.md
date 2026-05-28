@@ -11,7 +11,7 @@ title: Mirror Realm
 ---
 # The Mirror Realm
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A rumored plane in the [Echo Realms](<./echo-realms.md>)  
+-    :octicons-location-24:{ .lg .middle } A rumored plane in the [Echo Realms](<echo-realms.md>)  
 </div>
 
 

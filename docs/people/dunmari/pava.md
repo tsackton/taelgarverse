@@ -15,6 +15,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Pava
+hide_toc: true
 ---
 # Pava
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

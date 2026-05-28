@@ -17,12 +17,13 @@ whereabouts:
 - {type: home, end: 1538, location: Ainumarya}
 - {type: away}
 title: Delwath
+hide_toc: true
 ---
 # Delwath
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [elf](<../../../creatures/species/elves.md>) (he/him), of the [Dunmar Fellowship](<./dunmar-fellowship.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) 36)  
+    An [elf](<../../../creatures/species/elves.md>) (he/him), of the [Dunmar Fellowship](<dunmar-fellowship.md>) ([ka](<../../../background/elven-cycle-of-generations.md>) 36)  
     Born DR 1472 (278 years old)  
     { .bio }
 
@@ -159,7 +160,7 @@ title: Delwath
 >
 >**Rumors from out east**
 >
->Few people travel east of [Gomat](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>), and even fewer since you've been in the village. However, there is one strange thing. As word spreads that you are asking around about traveling out east, an older Dunmari man approaches you one morning, and tells you that he heard you were asking about rumors from the east, and if you knew that the book [Seeker](<./seeker.md>) carries is from the desert? He continues: he was the one who gave the book to [Ikram](<../../dunmari/ikram.md>) for [Seeker](<./seeker.md>), thinking a dwarf might like this strange, blank book with a cover decorated with Dwarven ruins. His cousin found it in the desert, he says, along with two other books with strange writing in them. He sold the other books at the market before the attacks, to an old Chardonian man collecting stories and history just before the [Festival of Rebirth](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>), named [Servius](<../../chardonians/servius.md>). [Servius](<../../chardonians/servius.md>) traveled with the refugees to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), but this man isn't sure where he went after that. He also says that if you want to talk to his cousin, he should be back in town by the [Feast of Bhishma](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>). 
+>Few people travel east of [Gomat](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>), and even fewer since you've been in the village. However, there is one strange thing. As word spreads that you are asking around about traveling out east, an older Dunmari man approaches you one morning, and tells you that he heard you were asking about rumors from the east, and if you knew that the book [Seeker](<seeker.md>) carries is from the desert? He continues: he was the one who gave the book to [Ikram](<../../dunmari/ikram.md>) for [Seeker](<seeker.md>), thinking a dwarf might like this strange, blank book with a cover decorated with Dwarven ruins. His cousin found it in the desert, he says, along with two other books with strange writing in them. He sold the other books at the market before the attacks, to an old Chardonian man collecting stories and history just before the [Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>), named [Servius](<../../chardonians/servius.md>). [Servius](<../../chardonians/servius.md>) traveled with the refugees to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), but this man isn't sure where he went after that. He also says that if you want to talk to his cousin, he should be back in town by the [Feast of Bhishma](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>). 
 
 > [!WARNING]- Delwath's Dream Staff Journey, Session 32
 > 
@@ -169,7 +170,7 @@ title: Delwath
 > 
 > [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to meet him at the top of the mesa, at dusk. When Delwath arrives, [Candrosa](<../../dunmari/candrosa.md>) is waiting, holding his dream staff, the same staff of white ash with a silver crescent design on the top. He seems relaxed and at peace in a way that you have not seen before. The staff seems to shimmer slightly -- somehow the return of [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>)'s Heart has added to its power, allowing it to recharge. [Candrosa](<../../dunmari/candrosa.md>) asks you to focus on an image, an anchor that will guide and shape your experience in the [Dreamworld](<../../../cosmology/dreamworld.md>). 
 > 
-> [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to sit and empty his mind of everything but the image. Delwath settles down on the top of the mesa, concentrating on the vision of a clear pool in a deep forest, lit by moonlight that [Wellby](<./wellby.md>) showed him telepathically earlier that day, somehow associated with his pact weapons.
+> [Candrosa](<../../dunmari/candrosa.md>) asks Delwath to sit and empty his mind of everything but the image. Delwath settles down on the top of the mesa, concentrating on the vision of a clear pool in a deep forest, lit by moonlight that [Wellby](<wellby.md>) showed him telepathically earlier that day, somehow associated with his pact weapons.
 > 
 > He brings the staff down, and it seems to pass through you. Looking down, your body is translucent, and you are floating, the light rapidly fading from the sky. You float, or are pulled, rapidly upward, the ground below vanishing, only a thin line of energy stretching back towards your distant body below. As you ascend, lights begin to appear, almost like stars, but full of dazzling color. They surround you in all directions -- above, below, to all sides -- moving and shifting in a hypnotic pattern. As you stare, dazed, you can hear [Candrosa](<../../dunmari/candrosa.md>)'s voice in the back of your mind, "Concentrate on your anchor!"
 > 
@@ -183,7 +184,7 @@ title: Delwath
 > 
 > Watching this display below, you take a breath and find you can move. Delwath concentrates for a moment, watching the sky, and leaps after a red golden flash. Time does not seem to work normally here, and as you leap into the sky the world slows down, almost frozen, the motion of the sparks through the sky nearly halted. A wind lifts you up as you cast Fly, and with each step through the air, a shower of silver sparks rains down on the forest below. 
 > 
-> You find yourself looking down on a swiftly running stream through the forest, filling a natural pool of deep water in the center of a clearing before cascading over rocks. On the edge of the pool, a cairn has been constructed, almost resembling an altar. While it rises to a conical point perhaps 8-10' off the ground, on the side facing away from the pool a flat stone platform forms a table at about waist height. This is the place that [Wellby](<./wellby.md>) showed you, except the cairn was not there in [Wellby](<./wellby.md>)'s vision. 
+> You find yourself looking down on a swiftly running stream through the forest, filling a natural pool of deep water in the center of a clearing before cascading over rocks. On the edge of the pool, a cairn has been constructed, almost resembling an altar. While it rises to a conical point perhaps 8-10' off the ground, on the side facing away from the pool a flat stone platform forms a table at about waist height. This is the place that [Wellby](<wellby.md>) showed you, except the cairn was not there in [Wellby](<wellby.md>)'s vision. 
 > 
 > In front of the cairn, two people are kneeling, perhaps in prayer. Their features keep shifting, one moment young, the next old, changing gender and hairstyle and clothing. But they are clearly human. Beside them, a dead deer lays on the ground, its heart cut out. Another human is standing, holding the freshly butchered heart of the deer, placing it in a fire burning on the stone table. His features seem fixed, and he is praying in a language that you cannot place, but you can understand clearly.
 > 
@@ -234,7 +235,7 @@ title: Delwath
 > 
 > [Cintra](<../../dunmari/cintra.md>) will pull Delwath aside and say that, yes, [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) is a place that is close to the Divine, and indeed could almost be said to be Divine itself, for the mesa is, in some sense, the body of [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>) made manifest. She will also clarify that, while [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>) speaks clearly from the mesa, she is not sure that this will be true of the elven gods, because of how tied the mesa is to [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>). She will say that she believes this place, the oasis of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), has an ancient connection to the gods, being a place that was close to the Divine even before the Dunmari arrived, perhaps even before humans settled the lands. She sometimes sees a great forest covering spreading across what are now plains and deserts, full of ancient trees that reach the sky. A few miles west of [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) there is a place where a natural stone arch stands isolated in the rocky desert, and when she has traveled there, the arch is not stone, but living wood, ancient and full of some mysterious divine echo. She suggests this may be a better place to commune with elven gods. 
 > 
-> Delwath will set out pre-dawn one morning into the desert. He will leave all of his things with the party (and I'll send a separate email to the group about the details, he is also going to speak to [Kenzo](<./kenzo.md>) separately) save for two waterskins, a day's worth of food, and a belt pouch with the mote of fate and some red healing mud, he will set out into the desert.
+> Delwath will set out pre-dawn one morning into the desert. He will leave all of his things with the party (and I'll send a separate email to the group about the details, he is also going to speak to [Kenzo](<kenzo.md>) separately) save for two waterskins, a day's worth of food, and a belt pouch with the mote of fate and some red healing mud, he will set out into the desert.
 > 
 > He will head to the arch [Cintra](<../../dunmari/cintra.md>) described. He finds the arch clear enough: it is a large stone arch, but as it catches the rays of the morning sun, it seems to shift to curling roots of some great, immense tree. It is well positioned for the ritual you imagine. 
 > 
@@ -266,7 +267,7 @@ title: Delwath
 > 
 > Then, after a moment, in deeper darkness, the darkest black you have seen: "Bear witness!"
 > 
-> In your trance, your vision shifts. It feels like when [Wellby](<./wellby.md>) shares an image with you telepathically, like something is projecting images into your mind, but far more intense and vivid than any you have experienced before. 
+> In your trance, your vision shifts. It feels like when [Wellby](<wellby.md>) shares an image with you telepathically, like something is projecting images into your mind, but far more intense and vivid than any you have experienced before. 
 > 
 > ---
 > 

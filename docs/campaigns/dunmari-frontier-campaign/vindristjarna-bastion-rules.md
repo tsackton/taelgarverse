@@ -70,10 +70,10 @@ These followers are available to tend to Bastion facilities:
 [Adam Gower](<../../people/tollenders/adam-gower.md>) (he/him). Tollender human. Adam does not tend a specific facility, but if [Vindristjarna](<../../things/ships/vindristjarna.md>) is in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) for a Bastion Turn, he can carry out any number of ***Trade*** orders. 
 
 Each PC is also able to tend Bastion facilities:
-[Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>): ***Sanctuary***, ***Gardens and Greenhouse***, ***Demiplane***
+[People/PCs/Dunmar Fellowship/Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>): ***Sanctuary***, ***Gardens and Greenhouse***, ***Demiplane***
 [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>): ***Observatory***, ***Workshop***, ***Tools Trainer (Game Room)***, ***Archives***, ***Demiplane***
 [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>): ***Gardens and Greenhouse***, ***Elven Tree***, ***Hall of Stories***, ***Battle Defense (Sparring Room or Game Room)*** or ***Unarmed Attack (Sparring Room)*** trainer.
-[Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>): ***Map Room***, ***Stable***, ***Storehouse***, ***Pub***
+[People/PCs/Dunmar Fellowship/Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>): ***Map Room***, ***Stable***, ***Storehouse***, ***Pub***
 
 ## Bastion Turns
 
@@ -112,7 +112,7 @@ A Bastion Turn represents a period of time, usually around 7 days, of uninterrup
 
 The upper deck consists of, from stern to prow:
 
-* the shrine to the [Tanshi](<../../gods-and-religions/gods/tanshi/tanshi.md>)
+* the shrine to the [Gods and Religions/Gods/Tanshi/Tanshi](<../../gods-and-religions/gods/tanshi/tanshi.md>)
 * the elven garden and greenhouse
 * the elven tree, grown from seed by [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>)
 * the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>), [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>), [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../people/pcs/dunmar-fellowship/seeker.md>), [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>), the map room, and the pub
@@ -306,7 +306,7 @@ The upper deck consists of, from stern to prow:
 
 
 > [!info]+ Control Room
-> >Game Effect: See [Vindristjarna Mechanics](<./vindristjarna-mechanics.md>)
+> >Game Effect: See [Vindristjarna Mechanics](<vindristjarna-mechanics.md>)
 > >Size: 12 squares
 >
 > The Control Room houses [Hralgar's Phasing Stone](<treasure/hralgar-s-phasing-stone.md>) and allows the ship to be flown.

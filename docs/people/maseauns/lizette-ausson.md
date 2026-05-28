@@ -12,6 +12,7 @@ whereabouts: Laicon
 dm_notes: important
 dm_owner: mike
 title: Lizette Ausson
+hide_toc: true
 ---
 # Lizette Ausson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

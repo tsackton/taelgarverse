@@ -12,6 +12,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Derik
+hide_toc: true
 ---
 # Derik
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,5 +25,5 @@ title: Derik
 </div>
 
 
-The third child of [Elaine I](<./elaine-i.md>) and [Cynan](<./cynan.md>), and the founder of the cadet branch of the house, the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>). His great-granddaughter, [Elaine II](<./elaine-ii.md>), eventually became queen of Sembara.
+The third child of [Elaine I](<elaine-i.md>) and [Cynan](<cynan.md>), and the founder of the cadet branch of the house, the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>). His great-granddaughter, [Elaine II](<elaine-ii.md>), eventually became queen of Sembara.
 

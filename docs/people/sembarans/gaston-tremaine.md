@@ -8,6 +8,7 @@ born: 1700
 dm_notes: none
 dm_owner: none
 title: Gaston Tremaine
+hide_toc: true
 ---
 # Gaston Tremaine
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -21,4 +22,4 @@ title: Gaston Tremaine
 </div>
 
 
-A young farmer who lives in the North Close. His sweetheart, [Henry Blackwell](<./henry-blackwell.md>) was killed during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) and he has not taken it well. He only survived due to the quick thinking and timely warning from the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>).
+A young farmer who lives in the North Close. His sweetheart, [Henry Blackwell](<henry-blackwell.md>) was killed during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) and he has not taken it well. He only survived due to the quick thinking and timely warning from the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>).

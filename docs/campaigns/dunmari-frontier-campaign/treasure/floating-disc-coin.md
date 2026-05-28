@@ -19,7 +19,7 @@ A small golden coin, unusually heavy for its size, and without a recognizable ma
 
 Found by the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) near the petrified form of [Arcus](<../../../people/chardonians/arcus.md>) in the fort east of [Gomat](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>). 
 
-Viewed in [Mirror of the Past](<./mirror-of-the-past.md>): 
+Viewed in [Mirror of the Past](<mirror-of-the-past.md>): 
 
 ![Floating Disc Coin Vision](<../mirror-visions/floating-disc-coin-vision.md>)
 

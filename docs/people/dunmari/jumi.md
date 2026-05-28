@@ -11,6 +11,7 @@ whereabouts: Karawa
 dm_owner: tim
 dm_notes: important
 title: Jumi
+hide_toc: true
 ---
 # Jumi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -26,10 +27,8 @@ title: Jumi
 
 
 
-![Jumi](../../assets/jumi.jpg){align="right"; width="300"}[Cintra](<./cintra.md>)'s young daughter, and a magical prodigy, blessed by the spirit of [Shakun](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>). 
+![Jumi](../../assets/jumi.jpg){align="right"; width="300"}[Cintra](<cintra.md>)'s young daughter, and a magical prodigy, blessed by the spirit of [Shakun](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>). 
 
-
-In the spring of 1748, Jumi was kidnapped by the hag [Agata](<../fey/agata.md>), and partially turned to wood. She was [freed](<../../campaigns/dunmari-frontier-campaign/session-notes/session-29-dufr.md>) by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) after the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) [defeated Agata](<../../campaigns/dunmari-frontier-campaign/session-notes/session-28-dufr.md>).
 
 
 

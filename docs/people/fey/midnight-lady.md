@@ -11,6 +11,7 @@ subspecies: hag
 dm_owner: mike
 dm_notes: important
 title: The Midnight Lady
+hide_toc: true
 ---
 # The Midnight Lady
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

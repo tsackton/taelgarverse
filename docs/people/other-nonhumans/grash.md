@@ -20,6 +20,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Grash
+hide_toc: true
 ---
 # Grash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

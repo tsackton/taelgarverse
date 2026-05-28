@@ -11,6 +11,7 @@ whereabouts: Castrella
 dm_owner: tim
 dm_notes: important
 title: Juliana Maris
+hide_toc: true
 ---
 # Juliana Maris
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

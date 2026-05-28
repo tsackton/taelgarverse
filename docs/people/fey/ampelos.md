@@ -7,6 +7,7 @@ whereabouts: Tyrwingha
 dm_notes: none
 dm_owner: mike
 title: Ampelos
+hide_toc: true
 ---
 # Ampelos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

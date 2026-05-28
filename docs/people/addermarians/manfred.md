@@ -13,6 +13,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 title: Manfred
+hide_toc: true
 ---
 # Manfred
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -30,6 +31,6 @@ title: Manfred
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
-A burly villager of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), father to [Rowena](<./rowena.md>) and one of the hamlet’s informal leaders.
+A burly villager of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), father to [Rowena](<rowena.md>) and one of the hamlet’s informal leaders.
 
 

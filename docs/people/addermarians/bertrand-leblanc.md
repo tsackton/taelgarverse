@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Bertrand LeBlanc
+hide_toc: true
 ---
 # Bertrand LeBlanc
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

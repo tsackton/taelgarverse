@@ -23,7 +23,7 @@ And then the sensor is dispelled. 
 
 ## Chardon
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) spends a significant amount of time scrying [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), both people and especially a number of places, to get a sense of the city. 
+[People/PCs/Dunmar Fellowship/Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) spends a significant amount of time scrying [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), both people and especially a number of places, to get a sense of the city. 
 
 For the most part, [the events in Dunmar](<../../../events/1700s/sibling-war.md>) don’t seem to have had a dramatic impact on Chardon. You catch the occasional discussion of news from the east, a variety of garbled rumors about hags and civil war. In many of them, you feature as allies of the hag and instigators of chaos - you seem to have some notoriety in Chardon. However, no one in Chardon seems too concerned with Dunmar and there does not seem to be a drumbeat for war.
 
@@ -33,7 +33,7 @@ Nonetheless, there does seem to be a growing undercurrent of distrust of the Dun
 
 ## Marcella
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) scries on [Marcella](<../../../people/chardonians/marcella.md>) three times: once, the scry fails, but the other two succeed. 
+[People/PCs/Dunmar Fellowship/Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) scries on [Marcella](<../../../people/chardonians/marcella.md>) three times: once, the scry fails, but the other two succeed. 
 
 In mid-February, he sees her traveling with three other people, moving quietly and quickly in single file along a barren, ashy plain. All are dressed in cloaks and breastplates, and carry swords and bows - these are clearly not mere commoners. They seem to be following the footprints of something, for they often stop to search the ground. Marcella goes last: her footsteps leave the footprints of the metal boots of a hobgoblin solider. 
 
@@ -49,7 +49,7 @@ A few weeks later, at the end of February, [Kaeso](<../../../people/chardonians/
 
 ## Johar
 
-[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) scries on [Johar](<../../../people/dunmari/johar.md>) several times, hoping to gain insight into the state of Sura’s camp. 
+[People/PCs/Dunmar Fellowship/Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) scries on [Johar](<../../../people/dunmari/johar.md>) several times, hoping to gain insight into the state of Sura’s camp. 
 
 Around the middle of February, a week or so after you left the camp, most of Sura’s army departs, heading north. You see [Johar](<../../../people/dunmari/johar.md>), standing with [Sura](<../../../people/dunmari/sura.md>), watching many soldiers on horseback riding north in a long train. From the way they are standing together, you have the impression that there is someone else here, but you cannot see them, for some reason. 
 

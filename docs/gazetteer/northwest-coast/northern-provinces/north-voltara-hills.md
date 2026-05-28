@@ -8,7 +8,6 @@ whereabouts: Erbalta Plains
 dm_owner: none
 dm_notes: none
 typeOfAlias: line of hills
-unlisted: true
 title: North Voltara Hills
 ---
 # The North Voltara Hills

@@ -15,5 +15,5 @@ title: Fate's Ruin
 </div>
 
 
-A fey realm west of [Fortune's Rest](<./fortune-s-rest.md>), described in [The Lore of the Feywild](<../../../things/books/the-lore-of-the-feywild.md>) as a place steeped in decay, a land where all things, no matter how great, crumble to dust in time. Travelers whisper of a mysterious Baron, whose mere touch hastens the inevitable withering of all to dust, yet none dare to speak his name aloud, lest they draw his gaze.
+A fey realm west of [Fortune's Rest](<fortune-s-rest.md>), described in [The Lore of the Feywild](<../../../things/books/the-lore-of-the-feywild.md>) as a place steeped in decay, a land where all things, no matter how great, crumble to dust in time. Travelers whisper of a mysterious Baron, whose mere touch hastens the inevitable withering of all to dust, yet none dare to speak his name aloud, lest they draw his gaze.
 

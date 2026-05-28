@@ -7,6 +7,7 @@ whereabouts: Awakened Jungle
 dm_owner: tim
 dm_notes: color
 title: Pip
+hide_toc: true
 ---
 # Pip
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

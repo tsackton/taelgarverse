@@ -13,12 +13,13 @@ whereabouts: Dwarven Outpost (Raven's Hold)
 dm_owner: none
 dm_notes: color
 title: Inakara
+hide_toc: true
 ---
 # Inakara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A derro (she/her)  
+    A [derro](<../../creatures/unsorted/derro.md>) (she/her)  
     b. DR 1702 - d. July 1748, killed by [Magran Boulderbeard](<../dwarves/magran-boulderbeard.md>) at age 46 years  
     { .bio }
 

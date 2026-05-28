@@ -9,6 +9,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Brunna Marrek
+hide_toc: true
 ---
 # Brunna Marrek
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

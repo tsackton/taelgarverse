@@ -5,7 +5,6 @@ typeOf: desert
 whereabouts: Dunmari Basin
 dm_owner: tim
 dm_notes: important
-unlisted: true
 title: ~Karawa Desert~
 ---
 # The ~Karawa Desert~

@@ -14,6 +14,7 @@ affiliations:
 - {place: Tyrwingha, start: 1602}
 dm_notes: none
 dm_owner: none
+hide_toc: true
 ---
 # King Arryn II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,6 +28,6 @@ dm_owner: none
 </div>
 
 
-The only child of [Blanche II](<./blanche-ii.md>). His two daughters, [Charlotte II](<./charlotte-ii.md>) and [Cece I](<./cece-i.md>) both rule the united realm of Sembara and Tyrwingha.
+The only child of [Blanche II](<blanche-ii.md>). His two daughters, [Charlotte II](<charlotte-ii.md>) and [Cece I](<cece-i.md>) both rule the united realm of Sembara and Tyrwingha.
 
 

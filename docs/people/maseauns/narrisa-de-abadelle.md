@@ -11,6 +11,7 @@ whereabouts: Duchy of Maseau
 dm_notes: important
 dm_owner: mike
 title: Narrisa de Abadelle
+hide_toc: true
 ---
 # Narrisa de Abadelle
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

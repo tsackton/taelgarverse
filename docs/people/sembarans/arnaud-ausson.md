@@ -11,6 +11,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Arnaud Ausson
+hide_toc: true
 ---
 # Arnaud Ausson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,6 +28,6 @@ title: Arnaud Ausson
 
 ![Arnaud Ausson](../../assets/arnaud-ausson.png){align="right"; width="320"}A prominent merchant in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), his grandmother, [Lizette Ausson](<../maseauns/lizette-ausson.md>), traces her family to [Isingue](<../../gazetteer/upper-istaros/isingue.md>) and he and his wife Alessia are the heart of a small community of Isinguen transplants in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). He is well connected with the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>) and well known to the merchant caravans that come from places like [Laicon](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/laicon.md>) with recovered dwarven metals. 
 
-He remains close to his aunt, [Giselle Ausson](<./giselle-ausson.md>), who runs [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>), and important inn in [Laicon](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/laicon.md>).
+He remains close to his aunt, [Giselle Ausson](<giselle-ausson.md>), who runs [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>), and important inn in [Laicon](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/laicon.md>).
 
 

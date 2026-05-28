@@ -23,7 +23,7 @@ The Auratan Family is among the most prominent, wealthy, and influential familie
 
 The children of Verina Auratan, Appius' middle son, rose to prominence in Chardonian politics, with Seva Auratan, Verina's daughter and Appius' granddaughter, becoming Magistros in DR 1720. After a long 26-year reign, she was succeeded by her nephew, [Mitus Verina Auratan](<../../people/chardonians/mitus-verina-auratan.md>), in DR 1746. 
 
-The other branches of the family grew rich as the most prominent and powerful of the [Chalyte Oligarchs of Chardon](<./chalyte-oligarchs-of-chardon.md>). 
+The other branches of the family grew rich as the most prominent and powerful of the [Chalyte Oligarchs of Chardon](<chalyte-oligarchs-of-chardon.md>). 
 
 
 

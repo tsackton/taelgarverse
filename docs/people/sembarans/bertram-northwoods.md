@@ -9,6 +9,7 @@ ancestry: Sembaran
 dm_notes: color
 dm_owner: none
 title: Bertram Northwoods
+hide_toc: true
 ---
 # Bertram Northwoods
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,4 +23,4 @@ title: Bertram Northwoods
 </div>
 
 
-![Bertram Northwoods 2](../../assets/bertram-northwoods-2.png){align="right"; width="320"}The groom and stablemaster for [Lorin Valbert](<./lorin-valbert.md>). A cousin of [Phillipa Northwood](<./phillipa-northwood.md>).
+![Bertram Northwoods 2](../../assets/bertram-northwoods-2.png){align="right"; width="320"}The groom and stablemaster for [Lorin Valbert](<lorin-valbert.md>). A cousin of [Phillipa Northwood](<phillipa-northwood.md>).

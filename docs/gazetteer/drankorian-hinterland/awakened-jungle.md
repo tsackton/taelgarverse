@@ -10,7 +10,7 @@ title: Awakened Jungle
 ---
 # The Awakened Jungle
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A jungle [Drankorian Hinterland](<./drankorian-hinterland.md>)  
+-    :octicons-location-24:{ .lg .middle } A jungle in the [Drankorian Hinterland](<drankorian-hinterland.md>)  
 </div>
 
 

@@ -11,6 +11,7 @@ whereabouts: Eskorola
 dm_owner: none
 dm_notes: none
 title: Amaya
+hide_toc: true
 ---
 # Amaya
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

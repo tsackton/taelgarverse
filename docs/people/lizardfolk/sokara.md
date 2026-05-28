@@ -5,6 +5,7 @@ species: lizardfolk
 gender: female
 ancestry: salt
 title: Sokara
+hide_toc: true
 ---
 # Sokara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

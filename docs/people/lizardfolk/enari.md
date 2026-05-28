@@ -18,6 +18,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Enari
+hide_toc: true
 ---
 # Enari
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -14,6 +14,7 @@ whereabouts:
 dm_notes: none
 dm_owner: mike
 title: Ysabel
+hide_toc: true
 ---
 # Ysabel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -28,7 +29,7 @@ title: Ysabel
 </div>
 
 
-![Ysabel](../../assets/ysabel.png){align="right"; width="420"} A striking and comely woman with a rough scar running from her eye to her neck. She is the sheriff of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and leads a part of the [Lord's Guard](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>). She has many opinions about her employers, in particular [Rinault Essford](<./rinault-essford.md>), and does not always successfully keep them to herself.
+![Ysabel](../../assets/ysabel.png){align="right"; width="420"} A striking and comely woman with a rough scar running from her eye to her neck. She is the sheriff of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and leads a part of the [Lord's Guard](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>). She has many opinions about her employers, in particular [Rinault Essford](<rinault-essford.md>), and does not always successfully keep them to herself.
 
 She grew in skill of arms and bravery during an unsettled period in late 1719, but died fighting zombies during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).
 

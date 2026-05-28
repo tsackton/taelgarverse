@@ -8,6 +8,7 @@ whereabouts: Ulgrathar
 dm_notes: none
 dm_owner: none
 title: Brunnar
+hide_toc: true
 ---
 # Brunnar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -20,4 +21,4 @@ title: Brunnar
 </div>
 
 
-A stone giant living under the rule of [Dhrukmir](<./dhrukmir.md>) in [Ulgrathar](<../../gazetteer/greater-chardon/chardonian-empire/alta-tonaro/ulgrathar.md>). 
+A stone giant living under the rule of [Dhrukmir](<dhrukmir.md>) in [Ulgrathar](<../../gazetteer/greater-chardon/chardonian-empire/alta-tonaro/ulgrathar.md>). 

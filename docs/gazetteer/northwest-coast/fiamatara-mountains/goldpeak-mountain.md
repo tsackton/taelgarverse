@@ -17,4 +17,4 @@ title: Goldpeak Mountain
 </div>
 
 
-One of the southernmost major peaks of the [Fiatara Mountains](<./fiatara-mountains.md>), notable for the [extensive dwarven mines](<./goldpeak-mines.md>) beneath it. 
+One of the southernmost major peaks of the [Fiatara Mountains](<fiatara-mountains.md>), notable for the [extensive dwarven mines](<goldpeak-mines.md>) beneath it. 

@@ -19,6 +19,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: color
 title: Chenna Goodbarrel
+hide_toc: true
 ---
 # Chenna Goodbarrel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -42,9 +43,9 @@ title: Chenna Goodbarrel
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
-![Chenna Goodbarrel Portrait](../../assets/chenna-goodbarrel-portrait.png){align="right"; width="400"}Chenna Goodbarrel owns a small and charming halfling tavern in [Fairgate Outer](<../../gazetteer/greater-sembara/tollen/wards/fairgate-outer.md>) called *[The Singing Fox](<../../gazetteer/greater-sembara/tollen/places/the-singing-fox.md>)*, with her wife [Harriet](<./harriet-goodbarrel.md>). Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
+![Chenna Goodbarrel Portrait](../../assets/chenna-goodbarrel-portrait.png){align="right"; width="400"}Chenna Goodbarrel owns a small and charming halfling tavern in [Fairgate Outer](<../../gazetteer/greater-sembara/tollen/wards/fairgate-outer.md>) called *[The Singing Fox](<../../gazetteer/greater-sembara/tollen/places/the-singing-fox.md>)*, with her wife [Harriet](<harriet-goodbarrel.md>). Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
 ## Relationships
-- [Harriet Goodbarrel](<./harriet-goodbarrel.md>), wife
+- [Harriet Goodbarrel](<harriet-goodbarrel.md>), wife
 - [Wellby](<../pcs/dunmar-fellowship/wellby.md>), a distant relation, something like a third cousin once removed
 
 

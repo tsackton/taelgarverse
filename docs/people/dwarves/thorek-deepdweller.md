@@ -14,6 +14,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 title: Thorek Deepdweller
+hide_toc: true
 ---
 # Thorek Deepdweller
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

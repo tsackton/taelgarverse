@@ -12,6 +12,7 @@ pronunciation: AY-veen
 whereabouts:
 - {type: home, location: Tollen}
 title: Ayveen
+hide_toc: true
 ---
 # Ayveen
 :speaker:{ .middle } *(AY-veen)*  

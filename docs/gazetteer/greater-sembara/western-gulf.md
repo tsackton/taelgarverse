@@ -20,5 +20,3 @@ The Western Gulf is an inland sea at the far western edge of the [Green Sea](<..
 While most of the Western Gulf is a relatively shallow sea, mariners speak of the rare deep canyon that may hold unusual mysteries in the depths. Indeed, the [Tollish](<tollen/tollen.md>) scholar Ishara Venn, writing in her most prominent treatise [The Seams Between Worlds](<../../things/books/the-seams-between-worlds.md>), claimed that connections to the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) could be found in the deep canyons of the Western Gulf, though no reliable firsthand reports confirm such rumors. 
 
 
-Over its long history, the Western Gulf has seen many maritime powers, from the [Skaer](<../western-green-sea/realms/skaer.md>) to the [Drankorian Empire](<../../history/historical-realms/drankorian-empire.md>) to the [Cymeans](<../western-green-sea/realms/cymea.md>), lay claim to its waterways. In the current day, it is largely controlled by the navy of the [Free City of Tollen](<tollen/tollen.md>), which extensively patrols and interdicts pirates, keeping shipping lanes safe. 
-

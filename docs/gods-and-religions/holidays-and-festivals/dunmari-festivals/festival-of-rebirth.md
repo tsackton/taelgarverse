@@ -9,7 +9,7 @@ title: Festival of Rebirth
 ---
 # The Festival of Rebirth
 
-The Festival of Rebirth is a major religious event in the Dunmari calendar, the most significant feast day of the goddess [Jeevali](<../../gods/incorporeal-gods/dunmari-pantheon/jeevali.md>). It is celebrated on the first full moon after the vernal equinox, marking the beginning of summer. It is the remembrance and thanks of Jeevali's resurrection during the [Founding of Dunmar](<../../../primary-sources/founding-of-dunmar.md>). As one of the most important festivals in the [Dunmari religious calendar](<./dunmari-festivals.md>), it is typically always associated with large communal fairs and celebrations around temples, and the coming together of dispersed communities, especially in the more nomadic [Eastern Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). 
+The Festival of Rebirth is a major religious event in the Dunmari calendar, the most significant feast day of the goddess [Jeevali](<../../gods/incorporeal-gods/dunmari-pantheon/jeevali.md>). It is celebrated on the first full moon after the vernal equinox, marking the beginning of summer. It is the remembrance and thanks of Jeevali's resurrection during the [Founding of Dunmar](<../../../primary-sources/founding-of-dunmar.md>). As one of the most important festivals in the [Dunmari religious calendar](<dunmari-festivals.md>), it is typically always associated with large communal fairs and celebrations around temples, and the coming together of dispersed communities, especially in the more nomadic [Eastern Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). 
 
 ## The Miracle of Jeevali's Resurrection
 

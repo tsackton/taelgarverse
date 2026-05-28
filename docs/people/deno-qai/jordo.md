@@ -14,12 +14,13 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Jordo
+hide_toc: true
 ---
 # Jordo
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (he/him), of the Te'kula  
+    A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>)  
     b. DR 1672 - d. DR 1744, died at age 72 years  
     { .bio }
 
@@ -29,6 +30,6 @@ title: Jordo
 
 
 
-The Godcaller of the Te'kula, who found a [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>). Refused to turn it over to [Grimbaskal](<../other-nonhumans/mezzar.md>), prompting Grimbaskal to attack and Rai and the tanshi [Aasimti](<../../gods-and-religions/gods/tanshi/aasimti.md>) to work together to protect the Te'kula in a pocket dimension. 
+The Godcaller of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>), who found a [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>). Refused to turn it over to [Grimbaskal](<../other-nonhumans/mezzar.md>), prompting Grimbaskal to attack and Rai and the tanshi [Aasimti](<../../gods-and-religions/gods/tanshi/aasimti.md>) to work together to protect the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) in a pocket dimension. 
 
 Some of his stories were recorded by [Gnaeus](<../chardonians/gnaeus.md>) in [On the Lost People of the Forests](<../../things/books/on-the-lost-people-of-the-forests.md>). 

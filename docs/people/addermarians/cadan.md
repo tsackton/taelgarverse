@@ -9,6 +9,7 @@ dm_owner: tim
 dm_notes: none
 species: unknown
 title: Cadan
+hide_toc: true
 ---
 # Cadan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

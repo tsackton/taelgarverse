@@ -8,6 +8,7 @@ born: 1686
 dm_notes: color
 dm_owner: mike
 title: Giselle
+hide_toc: true
 ---
 # Giselle
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

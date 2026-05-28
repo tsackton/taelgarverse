@@ -13,6 +13,7 @@ affiliations:
 whereabouts: Barony of Dunfry
 dm_notes: none
 dm_owner: mike
+hide_toc: true
 ---
 # Major Symone Barbet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

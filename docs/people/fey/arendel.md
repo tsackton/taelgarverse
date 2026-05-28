@@ -8,6 +8,7 @@ pronunciation: AARON-dell
 dm_notes: none
 dm_owner: none
 title: Arendel
+hide_toc: true
 ---
 # Arendel
 :speaker:{ .middle } *(AARON-dell)*  

@@ -17,4 +17,4 @@ title: Tywynn Bay
 </div>
 
 
-A narrow tidal estuary of the [Western Gulf](<../western-gulf.md>), on the coast of [Tyrwingha](<./tyrwingha.md>). The [Aben](<../rivers/tyrwinghan-watershed/aben.md>) drains into Tywynn Bay.
+A narrow tidal estuary of the [Western Gulf](<../western-gulf.md>), on the coast of [Tyrwingha](<tyrwingha.md>). The [Aben](<../rivers/tyrwinghan-watershed/aben.md>) drains into Tywynn Bay.

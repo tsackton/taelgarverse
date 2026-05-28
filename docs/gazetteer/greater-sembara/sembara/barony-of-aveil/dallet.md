@@ -17,7 +17,7 @@ title: Dallet
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 308  
-    :octicons-location-24:{ .lg .middle } A village in the [Barony of Aveil](<./barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } A village in the [Barony of Aveil](<barony-of-aveil.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 
@@ -32,5 +32,5 @@ The current lord is Lady [Elodie Blanchard](<../../../../people/sembarans/elodie
 _Distances:_
 * to [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>), 20 miles
 * to [Beury](<cleenseau-region/beury.md>), 15 miles
-* to [Champimont](<./champimont.md>), 13 miles
-* to [Rinburg](<./rinburg.md>), 40 miles
+* to [Champimont](<champimont.md>), 13 miles
+* to [Rinburg](<rinburg.md>), 40 miles

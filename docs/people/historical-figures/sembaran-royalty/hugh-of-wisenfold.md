@@ -12,6 +12,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Hugh
+hide_toc: true
 ---
 # Hugh
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,5 +25,5 @@ title: Hugh
 </div>
 
 
-The founder of the [House of Wisenfold](<../../../groups/sembaran-noble-houses/house-of-wisenfold.md>), an important cadet branch of the royal Sembaran line, now based in the [Duchy of Wisford](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>). The second child of [Derik III](<./derik-iii.md>) and [Sarabet](<./sarabet.md>).
+The founder of the [House of Wisenfold](<../../../groups/sembaran-noble-houses/house-of-wisenfold.md>), an important cadet branch of the royal Sembaran line, now based in the [Duchy of Wisford](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>). The second child of [Derik III](<derik-iii.md>) and [Sarabet](<sarabet.md>).
 

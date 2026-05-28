@@ -12,12 +12,13 @@ whereabouts: Raha
 dm_owner: none
 dm_notes: none
 title: Loma
+hide_toc: true
 ---
 # Loma
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
+    A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1733 (17 years old)  
     { .bio }
 

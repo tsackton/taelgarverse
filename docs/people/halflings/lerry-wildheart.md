@@ -17,6 +17,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Lerry Wildheart
+hide_toc: true
 ---
 # Lerry Wildheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -40,4 +41,4 @@ title: Lerry Wildheart
 
 Lerry Wildheart is the quartermaster of the halfling trading ship the [Wave Dancer](<../../things/ships/wave-dancer.md>), promoted to the role a few years ago. 
 ## Relationships
-- [Corrin Wildheart](<./corrin-wildheart.md>), older brother
+- [Corrin Wildheart](<corrin-wildheart.md>), older brother

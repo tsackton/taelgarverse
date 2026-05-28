@@ -6,6 +6,7 @@ gender: male
 dm_owner: tim
 dm_notes: important
 title: Milo Thistlefoot
+hide_toc: true
 ---
 # Milo Thistlefoot
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

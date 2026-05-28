@@ -9,6 +9,6 @@ title: Mad One
 ---
 # The Mad One
 
-Little is known about the Mad One, other than that they are the patron deity of lycanthropes, and are associated with the plane of [Pandemonium](<../../../cosmology/spiritual-realms/pandemonium.md>). Theologically, they are one of the [Embodied Gods](<./embodied-gods.md>), like the Firstborn divinities of the elves, dwarves, and others,  given physical form independent of the belief of their worshippers. 
+Little is known about the Mad One, other than that they are the patron deity of lycanthropes, and are associated with the plane of [Pandemonium](<../../../cosmology/spiritual-realms/pandemonium.md>). Theologically, they are one of the [Embodied Gods](<embodied-gods.md>), like the Firstborn divinities of the elves, dwarves, and others,  given physical form independent of the belief of their worshippers. 
 
 The Mad One was created by [Jinnik](<../high-gods/jinnik.md>), one of the [Three Despairs](<../high-gods/three-despairs.md>), the god-like entities born of the [Void Mind](<../high-gods/void-mind.md>).

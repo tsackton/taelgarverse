@@ -9,6 +9,7 @@ dm_owner: tim
 dm_notes: none
 whereabouts: Medju
 pronunciation: ak-AH-nen
+hide_toc: true
 ---
 # Lord Akanen
 :speaker:{ .middle } *(ak-AH-nen)*  

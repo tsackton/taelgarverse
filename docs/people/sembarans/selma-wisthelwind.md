@@ -15,12 +15,13 @@ whereabouts:
 dm_notes: none
 dm_owner: mike
 title: Selma Wisthelwind
+hide_toc: true
 ---
 # Selma Wisthelwind
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Zimka [human](<../../creatures/species/humans.md>) (she/her)  
+    A [Zimka](<../../groups/cultures/zimka.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1644 (106 years old)  
     Proprietor of [The Fox’s Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>) (since DR 1712)  
     { .bio }

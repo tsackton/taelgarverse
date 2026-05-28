@@ -13,12 +13,13 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Safri
+hide_toc: true
 ---
 # Safri
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her)  
+    A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     { .bio }
 
     Originally from: Unknown

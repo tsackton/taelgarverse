@@ -16,6 +16,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Guy de Varan
+hide_toc: true
 ---
 # Guy de Varan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -32,8 +33,6 @@ title: Guy de Varan
 
 ![Guy de Varan Maseau](../../assets/guy-de-varan-maseau.png){align="right"; width="320"}A traveler and caravan expediter, he is relatively well-known along [Bandit's Way](<../../gazetteer/greater-sembara/roads/bandit-s-way.md>) as a man who can help find guards and organize supplies. The de Varan family is well-known in [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) and was originally from far southern [Isingue](<../../gazetteer/upper-istaros/isingue.md>) before the Great War. 
 
-
-He was captured by [Wakog](<../other-nonhumans/wakog.md>) in the late fall of 1720, and his escape to [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) was the trigger that lead to the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>) and [Wakog's](<../other-nonhumans/wakog.md>) defeat.
 
 
 

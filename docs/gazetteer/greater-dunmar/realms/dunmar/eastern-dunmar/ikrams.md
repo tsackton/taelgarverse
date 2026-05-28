@@ -13,11 +13,11 @@ title: Ikram's
 ---
 # Ikram's
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Dunmari](<../dunmar.md>) caravanserai in [Karawa](<./karawa.md>), [Eastern Dunmar](<./eastern-dunmar.md>), [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Dunmari](<../dunmar.md>) caravanserai in [Karawa](<karawa.md>), [Eastern Dunmar](<eastern-dunmar.md>), [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
 </div>
 
 
-A large caravanserai, inn, and trading post in [Karawa](<./karawa.md>). It is on the northern outskirts of the village, a large square building with an open courtyard, rooms for travelers, and space for merchants and animals. This is a center of commence in the village when the market is deserted, and many things can be acquired from [Ikram](<../../../../../people/dunmari/ikram.md>), the proprietor. 
+A large caravanserai, inn, and trading post in [Karawa](<karawa.md>). It is on the northern outskirts of the village, a large square building with an open courtyard, rooms for travelers, and space for merchants and animals. This is a center of commence in the village when the market is deserted, and many things can be acquired from [Ikram](<../../../../../people/dunmari/ikram.md>), the proprietor. 
 
 ![Ikram Caravanserai Rebuilt](../../../../../assets/ikram-caravanserai-rebuilt.jpg)
 
@@ -32,6 +32,6 @@ Popular menu items include:
 
 ## Events
 
-- Apr 12, 1748 DR*([Karawa](<./karawa.md>)):* [Ikram's caravanseri](<./ikrams.md>) is destroyed when gnolls set fire to much of the village. 
-- Jun 02, 1748 DR *([Karawa](<./karawa.md>)):* [Ikram](<../../../../../people/dunmari/ikram.md>) begins rebuilding a new, better fortified [caravanserai](<./ikrams.md>)
-- Jan 11, 1749 DR *([Karawa](<./karawa.md>)):* The new [Ikram’s](<./ikrams.md>) is completed
+- Apr 12, 1748 DR*([Karawa](<karawa.md>)):* [Ikram's caravanseri](<ikrams.md>) is destroyed when gnolls set fire to much of the village. 
+- Jun 02, 1748 DR *([Karawa](<karawa.md>)):* [Ikram](<../../../../../people/dunmari/ikram.md>) begins rebuilding a new, better fortified [caravanserai](<ikrams.md>)
+- Jan 11, 1749 DR *([Karawa](<karawa.md>)):* The new [Ikram’s](<ikrams.md>) is completed

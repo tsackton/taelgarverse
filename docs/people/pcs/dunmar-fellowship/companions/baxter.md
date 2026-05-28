@@ -13,6 +13,7 @@ excludePublish: [clee]
 dm_owner: player
 dm_notes: important
 title: Baxter
+hide_toc: true
 ---
 # Baxter
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Perrin Du Bois
+hide_toc: true
 ---
 # Perrin Du Bois
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

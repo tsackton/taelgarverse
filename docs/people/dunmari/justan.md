@@ -16,6 +16,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Justan
+hide_toc: true
 ---
 # Justan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

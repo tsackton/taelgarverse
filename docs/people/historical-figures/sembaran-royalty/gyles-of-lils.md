@@ -12,6 +12,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Gyles
+hide_toc: true
 ---
 # Gyles
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,4 +25,4 @@ title: Gyles
 </div>
 
 
-A cousin of the Sembaran royal [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>), he lived during the reign of [Cece I](<./cece-i.md>).
+A cousin of the Sembaran royal [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>), he lived during the reign of [Cece I](<cece-i.md>).

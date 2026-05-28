@@ -12,6 +12,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Samuel
+hide_toc: true
 ---
 # Samuel
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

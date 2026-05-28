@@ -9,6 +9,7 @@ whereabouts: Chardon
 dm_notes: none
 dm_owner: none
 title: Andros
+hide_toc: true
 ---
 # Andros
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,5 +23,5 @@ title: Andros
 </div>
 
 
-A friend of [Xavier](<./xavier.md>)'s involved in the [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>).
+A friend of [Xavier](<xavier.md>)'s involved in the [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>).
 

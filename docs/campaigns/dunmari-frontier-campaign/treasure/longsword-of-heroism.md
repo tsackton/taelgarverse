@@ -19,5 +19,5 @@ title: Longsword of Heroism
 
 This longsword is elegantly designed with the crest of the [Dharajun Dynasty](<../../../groups/dunmari-dynasties/dharajun-dynasty.md>) engraved on the hilt. It was found, broken, by the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) in the ruins of the palace in[Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>), and repaired by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and [Kethra](<../../../people/dwarves/kethra.md>). 
 
-Seen in the [Mirror of the Past](<./mirror-of-the-past.md>): 
+Seen in the [Mirror of the Past](<mirror-of-the-past.md>): 
 ![Broken Dunmari Sword Vision](<../mirror-visions/broken-dunmari-sword-vision.md>). 

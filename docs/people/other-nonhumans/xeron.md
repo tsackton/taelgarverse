@@ -8,6 +8,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Xeron
+hide_toc: true
 ---
 # Xeron
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

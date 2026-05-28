@@ -18,6 +18,7 @@ whereabouts:
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
 title: Izgil Moonseeker
+hide_toc: true
 ---
 # Izgil Moonseeker
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,7 +26,7 @@ title: Izgil Moonseeker
 
     A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Gemcrafters](<../../../groups/dwarven-clans/gemcrafters.md>)  
     Born DR 1453 (297 years old)  
-    Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Member of the [Heroes of Cleenseau](<heroes-of-cleenseau.md>)  
     { .bio }
 
     Originally from: [Nidzahar](<../../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>), [Labkhan](<../../../gazetteer/sentinel-range.md>)
@@ -65,4 +66,5 @@ title: Izgil Moonseeker
 
 
 ### Items
-
+| Image | Name | Type | Mechanics |
+| ----- | ---- | ---- | --------- |

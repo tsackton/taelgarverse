@@ -16,6 +16,7 @@ whereabouts: Wave Dancer
 dm_owner: none
 dm_notes: color
 title: Pearl Brightmoon
+hide_toc: true
 ---
 # Pearl Brightmoon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -39,5 +40,5 @@ title: Pearl Brightmoon
 
 Pearl is a halfing woman in her prime, who serves as the captain of the guard and first mate on the Wave Dancer. She is well-muscled, and clearly good with a rapier. 
 ## Relationships
-- [Wella Brightmoon](<./wella-brightmoon.md>), cousin
-- [Rose Brightmoon](<./rose-brightmoon.md>), cousin by marriage
+- [Wella Brightmoon](<wella-brightmoon.md>), cousin
+- [Rose Brightmoon](<rose-brightmoon.md>), cousin by marriage

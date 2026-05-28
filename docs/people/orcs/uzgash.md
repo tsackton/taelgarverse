@@ -11,6 +11,7 @@ affiliations:
 dm_owner: tim
 dm_notes: important
 title: Uzgash
+hide_toc: true
 ---
 # Uzgash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

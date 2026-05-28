@@ -13,6 +13,7 @@ affiliations:
 dm_owner: tim
 dm_notes: important
 title: Alimash
+hide_toc: true
 ---
 # Alimash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

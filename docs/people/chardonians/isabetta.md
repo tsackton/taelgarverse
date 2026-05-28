@@ -8,6 +8,7 @@ born: 1731
 dm_owner: none
 dm_notes: color
 title: Isabetta
+hide_toc: true
 ---
 # Isabetta
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

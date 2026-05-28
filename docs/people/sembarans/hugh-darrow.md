@@ -10,6 +10,7 @@ whereabouts: Taviose
 dm_notes: none
 dm_owner: none
 title: Hugh Darrow
+hide_toc: true
 ---
 # Hugh Darrow
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -23,5 +24,5 @@ title: Hugh Darrow
 </div>
 
 
-![Hugh Darrow](../../assets/hugh-darrow.png){align="right"; width="320"}A charcoal maker in Taviose, and the son of [Remy Darrow](<./remy-darrow.md>). He was one of the leaders of the villagers during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>).
+![Hugh Darrow](../../assets/hugh-darrow.png){align="right"; width="320"}A charcoal maker in Taviose, and the son of [Remy Darrow](<remy-darrow.md>). He was one of the leaders of the villagers during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>).
 

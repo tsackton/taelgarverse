@@ -15,6 +15,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Hralgar
+hide_toc: true
 ---
 # Hralgar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

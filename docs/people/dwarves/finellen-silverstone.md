@@ -12,6 +12,7 @@ affiliations:
 dm_owner: none
 dm_notes: color
 title: Finellen Silverstone
+hide_toc: true
 ---
 # Finellen Silverstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

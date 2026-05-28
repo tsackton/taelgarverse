@@ -14,6 +14,7 @@ pronunciation: Shun-dhun
 dm_owner: none
 dm_notes: none
 title: Shandan
+hide_toc: true
 ---
 # Shandan
 :speaker:{ .middle } *(Shun-dhun)*  

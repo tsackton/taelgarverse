@@ -18,7 +18,7 @@ A demigod associated with the [the Five Siblings](<../../../religions/five-sibli
 
 Bhishma was born a mortal human. In life, she was the founder of [Dunmar](<../../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), the first Samraat (ruler) and the revered mother of the country, who led the Dunmari to safety and cleansed their new homeland of the lingering curse of the [plague that destroyed Drankor](<../../../../events/1000s/1059/first-plague.md>). Her story is told in more detail in the [legend of the founding of Dunmar](<../../../../primary-sources/founding-of-dunmar.md>). 
 
-Bhishma bore two children by the god [Laka](<./laka.md>): [Shakun](<./shakun.md>), who became divine, and [Kotana](<../../../../people/historical-figures/dunmari-rulers/kotana.md>), who followed her as ruler of the Dunmari and ushered in the first Dunmari golden age of peace and prosperity. 
+Bhishma bore two children by the god [Laka](<laka.md>): [Shakun](<shakun.md>), who became divine, and [Kotana](<../../../../people/historical-figures/dunmari-rulers/kotana.md>), who followed her as ruler of the Dunmari and ushered in the first Dunmari golden age of peace and prosperity. 
 
 After her death, she was raised to divinity by the [Dunmari Religion](<../../../religions/five-siblings/dunmari-religion.md>) and by the power of the prayers and wishes of the Dunmari people. She is worshipped as the goddess of the Dunmari people, the protector of the stories and memories of the people, the guardian of the soul of the country. 
 

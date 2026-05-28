@@ -11,11 +11,11 @@ title: Frostfell
 ---
 # Frostfell
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A plane in the [Energy Realms](<./energy-realms.md>)  
+-    :octicons-location-24:{ .lg .middle } A plane in the [Energy Realms](<energy-realms.md>)  
 </div>
 
 
-Frostfell, also known as the Elemental Plane of Ice, and identified with [Airion](<../../people/other-humans/airion.md>)'s Compound Elemental Realm of Cold, is a hypothesized Energy Realm, or perhaps a region of either the [Elemental Plane of Air](<./elemental-plane-of-air.md>) or the [Elemental Plane of Water](<./elemental-plane-of-water.md>), associated with cold and ice. 
+Frostfell, also known as the Elemental Plane of Ice, and identified with [Airion](<../../people/other-humans/airion.md>)'s Compound Elemental Realm of Cold, is a hypothesized Energy Realm, or perhaps a region of either the [Elemental Plane of Air](<elemental-plane-of-air.md>) or the [Elemental Plane of Water](<elemental-plane-of-water.md>), associated with cold and ice. 
 
 The famous Drankorian work [On the Nature of Heat](<../../things/books/on-the-nature-of-heat.md>), although primarily a text of natural history, provides the best summary of Frostfell: *It is a land of bitter cold, with vast ice fields dotted with freezing pools of liquid colder than ice, giving way to glaciers on the edge of an ocean filled with icebergs and endless bitter storms of freezing wind and howling snow.*
 

@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: player
 dm_notes: none
 title: Mabist
+hide_toc: true
 ---
 # Mabist
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -21,7 +22,7 @@ title: Mabist
 
     A [fey](<../../../creatures/fey/fey.md>) (changeling) (they/them)  
     Born DR 1717 (33 years old)  
-    Member of the [Silver Tempests](<./silver-tempests.md>)  
+    Member of the [Silver Tempests](<silver-tempests.md>)  
     { .bio }
 
     Originally from: the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)
@@ -39,7 +40,7 @@ Over the course of a month, Mabist stayed with Dinia, their training coming back
 
 - Jul 16, 1748 DR: Mabist wakes up in Dinia's cottage in the mountains. 
 - Aug 17, 1748 DR: Dinia and Mabist attacked by the Havoc Host; Dinia captured. Mabist flees
-- Aug 22, 1748 DR: Mabist arrives in Voltara, seeking the [Silver Tempests](<./silver-tempests.md>). 
+- Aug 22, 1748 DR: Mabist arrives in Voltara, seeking the [Silver Tempests](<silver-tempests.md>). 
 
 ---
 

@@ -18,6 +18,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Antonia
+hide_toc: true
 ---
 # Antonia
 :speaker:{ .middle } *(An-ton-ia)*  
@@ -44,9 +45,9 @@ title: Antonia
 ![Antonia Portrait](../../assets/antonia-portrait.jpg){align="right"; width="320"}A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 
 
-Seemed to have mixed feelings about [Kadmos](<./kadmos.md>) actions to charm the party in [Session 44 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-44-dufr.md>), and was not involved in the battle in [Session 45 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-45-dufr.md>). 
+Seemed to have mixed feelings about [Kadmos](<kadmos.md>) actions to charm the party in [Session 44 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-44-dufr.md>), and was not involved in the battle in [Session 45 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-45-dufr.md>). 
 
-As far as you know, still traveling with [Kadmos](<./kadmos.md>). 
+As far as you know, still traveling with [Kadmos](<kadmos.md>). 
 
 
 

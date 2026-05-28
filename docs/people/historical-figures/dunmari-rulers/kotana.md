@@ -13,6 +13,7 @@ title: Samraat Aatmaji Kotana
 aliases: [Samraat Kotana]
 dm_notes: important
 dm_owner: tim
+hide_toc: true
 ---
 # Samraat Aatmaji Kotana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

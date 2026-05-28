@@ -14,6 +14,7 @@ excludePublish: [clee]
 dm_owner: player
 dm_notes: important
 title: Raven
+hide_toc: true
 ---
 # Raven
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

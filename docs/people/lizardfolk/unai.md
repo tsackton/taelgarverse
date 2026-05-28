@@ -10,6 +10,7 @@ whereabouts: Ganboa
 dm_notes: color
 dm_owner: none
 title: Unai
+hide_toc: true
 ---
 # Unai
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -23,5 +24,5 @@ title: Unai
 </div>
 
 
-![Lizardfolk Unai](../../assets/lizardfolk-unai.png){align="right"; width="320"}An herbalist and healer, teacher of [Gentza](<./gentza.md>). She is well-known in the region, but unlike her student, does not usually sell her remedies or bring them to human markets. 
+![Lizardfolk Unai](../../assets/lizardfolk-unai.png){align="right"; width="320"}An herbalist and healer, teacher of [Gentza](<gentza.md>). She is well-known in the region, but unlike her student, does not usually sell her remedies or bring them to human markets. 
 

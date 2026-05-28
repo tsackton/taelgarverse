@@ -11,8 +11,8 @@ title: Suhaya
 ---
 # Suhaya
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A town in the [Mawar Confederacy](<./mawar-confederacy.md>), the [Mawakel Peninsula](<./mawakel-peninsula.md>), the [Northwest Coast](<../northwest-coast.md>)  
+-    :octicons-location-24:{ .lg .middle } A town in the [Mawar Confederacy](<mawar-confederacy.md>), the [Mawakel Peninsula](<mawakel-peninsula.md>), the [Northwest Coast](<../northwest-coast.md>)  
 </div>
 
 
-The largest town at the mouth of the [Sulqat](<../rivers/sulqat.md>) River. A busy port for the [Mawar Confederacy](<./mawar-confederacy.md>), sustained by salmon runs and river trade to the interior. 
+The largest town at the mouth of the [Sulqat](<../rivers/sulqat.md>) River. A busy port for the [Mawar Confederacy](<mawar-confederacy.md>), sustained by salmon runs and river trade to the interior. 

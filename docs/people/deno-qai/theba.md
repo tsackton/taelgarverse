@@ -18,12 +18,13 @@ whereabouts:
 dm_notes: important
 dm_owner: none
 title: Theba
+hide_toc: true
 ---
 # Theba
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A Deno'qai [human](<../../creatures/species/humans.md>) (she/her), of the Bek'eni  
+    A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) [human](<../../creatures/species/humans.md>) (she/her), of the [Bek'eni](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/bek-eni.md>)  
     Born DR 1717 (33 years old)  
     { .bio }
 
@@ -37,4 +38,4 @@ title: Theba
 
 
 
-The formely disgraced Godcaller of the Bek'eni, out of favor due to [Mezzar](<../other-nonhumans/mezzar.md>)'s influence. Aided the party in their travels and fights in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), and agreed to take charge of rebuilding the relations among the Deno'qai after [Mezzar](<../other-nonhumans/mezzar.md>)'s meddling. This seems to be going well, in Oct 1748 at least. 
+The formely disgraced Godcaller of the [Bek'eni](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/bek-eni.md>), out of favor due to [Mezzar](<../other-nonhumans/mezzar.md>)'s influence. Aided the party in their travels and fights in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), and agreed to take charge of rebuilding the relations among the Deno'qai after [Mezzar](<../other-nonhumans/mezzar.md>)'s meddling. This seems to be going well, in Oct 1748 at least. 

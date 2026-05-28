@@ -15,6 +15,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: color
 title: Resenna
+hide_toc: true
 ---
 # Resenna
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -34,4 +35,4 @@ title: Resenna
 :octicons-location-24:{ .lg .middle } Rescued from imprisonment in an aboleth's lair by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 14th, 1748 in the ~Eastern Ocean~  
 
 
-![Resenna](../../assets/resenna.png){align="right"; width="320"}Young woman, from Medju. Apprentice to [Arryn](<./arryn.md>). Fled when he vanished into [Mirror Realm](<../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>); was trapped and enslaved by aboleth. Now dwelling with sea elves until aboleth curse can be removed. 
+![Resenna](../../assets/resenna.png){align="right"; width="320"}Young woman, from Medju. Apprentice to [Arryn](<arryn.md>). Fled when he vanished into [Mirror Realm](<../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>); was trapped and enslaved by aboleth. Now dwelling with sea elves until aboleth curse can be removed. 

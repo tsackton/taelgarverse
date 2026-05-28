@@ -15,6 +15,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Terry the Bandit
+hide_toc: true
 ---
 # Terry the Bandit
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -31,4 +32,4 @@ title: Terry the Bandit
 
 
 
-One of the bandits involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). Local to [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), he fell on hard times during the winter of 1718-1719 and was recruited to banditry by [François](<./francois-the-bandit.md>).  He was killed by an enraged Ankheg during the battle outside the bandit lair on November 3rd. 
+One of the bandits involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). Local to [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), he fell on hard times during the winter of 1718-1719 and was recruited to banditry by [François](<francois-the-bandit.md>).  He was killed by an enraged Ankheg during the battle outside the bandit lair on November 3rd. 

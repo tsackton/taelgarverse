@@ -11,6 +11,7 @@ whereabouts: Zvervinka
 dm_owner: tim
 dm_notes: important
 title: Jela Drask
+hide_toc: true
 ---
 # Jela Drask
 :speaker:{ .middle } *(YEH-lah DRask)*  

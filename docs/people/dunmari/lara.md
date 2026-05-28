@@ -12,6 +12,7 @@ affiliations:
 whereabouts: Lakan Monastery
 dm_notes: color
 dm_owner: tim
+hide_toc: true
 ---
 # Speaker Lara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -11,6 +11,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Eutus
+hide_toc: true
 ---
 # Eutus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

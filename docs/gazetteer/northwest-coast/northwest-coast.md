@@ -51,7 +51,7 @@ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" >
 
 
 ## Topography and Major Features
-_See more: [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), ~Mawakel Border Mountains~, [Tawir Forest](<./tawir-forest.md>), [Erbalta Plains](<erbalta-plains/erbalta-plains.md>), ~North Bay~
+_See more: [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), ~Mawakel Border Mountains~, [Tawir Forest](<tawir-forest.md>), [Erbalta Plains](<erbalta-plains/erbalta-plains.md>), ~North Bay~
 
 
 

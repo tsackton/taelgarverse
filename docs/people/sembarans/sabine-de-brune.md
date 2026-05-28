@@ -13,6 +13,7 @@ whereabouts: Valit
 dm_owner: mike
 dm_notes: none
 title: Sabine de Brune
+hide_toc: true
 ---
 # Sabine de Brune
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -31,12 +32,10 @@ title: Sabine de Brune
 
 ![Sabine de Brune Valit](../../assets/sabine-de-brune-valit.png){align="right"; width="320"}The aging castellan of [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), a vassal of the [Baron of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>). Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth. She is also the magistrate for the village of Valit.
 
-The de Brune family has long roots in the Enst river valley, and although [Eskbridge](<../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>) is their primary area of operations, there are several outposts along the Enst including a longstanding one in the Cleenseau region. Recently, the family under [Catherine de Brune](<./catherine-de-brune.md>) has grown to include some more diverse mercantile interests in this region.
+The de Brune family has long roots in the Enst river valley, and although [Eskbridge](<../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>) is their primary area of operations, there are several outposts along the Enst including a longstanding one in the Cleenseau region. Recently, the family under [Catherine de Brune](<catherine-de-brune.md>) has grown to include some more diverse mercantile interests in this region.
 
-She was appointed as the castellan by [Reginald Rusebek](<./reginald-rusebek.md>) and still feels disgust and guilt that she was such a loyal supporter of his. She doesn't like to talk about baronial affairs much, and focuses on the village and doing her duties diligently. 
+She was appointed as the castellan by [Reginald Rusebek](<reginald-rusebek.md>) and still feels disgust and guilt that she was such a loyal supporter of his. She doesn't like to talk about baronial affairs much, and focuses on the village and doing her duties diligently. 
 
-
-In early February of 1720, she was summoned by [Isabeau D'Aslain](<./isabeau-d-aslain.md>) to [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>) and never returned to [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>). Although the reasons for her disappearance are unclear, rumors suggest that her health is poor and she returned to Eskbridge to die.
 
 
 

@@ -12,6 +12,7 @@ affiliations:
 dm_owner: none
 dm_notes: none
 title: Finoc Small
+hide_toc: true
 ---
 # Finoc Small
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

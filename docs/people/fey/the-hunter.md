@@ -8,6 +8,7 @@ whereabouts:
 - {type: home, location: Duskmire}
 - {type: away, location: Ashcombe, start: 1719-01, end: 9999}
 title: The Hunter
+hide_toc: true
 ---
 # The Hunter
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -19,7 +19,7 @@ title: Dunmari Frontier - Wellby Solo Session 2
 > *On Earth: Friday Oct 28, 2022*
 > *Underwater lair in the ~Eastern Ocean~ near [Wahacha](<../../../gazetteer/eastern-green-sea/wahacha.md>)*
 
-[Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and his companions successfully defeat an aboleth and its minions, liberating the enchanted prisoners.
+[People/PCs/Dunmar Fellowship/Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and his companions successfully defeat an aboleth and its minions, liberating the enchanted prisoners.
 
 ## Session Info
 

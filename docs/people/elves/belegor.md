@@ -19,6 +19,7 @@ timelineDescriptor: Belegor
 dm_notes: color
 dm_owner: none
 title: Belegor
+hide_toc: true
 ---
 # Belegor
 :speaker:{ .middle } *(beh-leh-GOR)*  
@@ -50,6 +51,6 @@ Belegor is a tall, ageless [elf](<../../creatures/species/elves.md>), with mediu
 
 - Jun 1748 DR, Belegor met the green dragon [Grimbaskal](<../other-nonhumans/mezzar.md>), who was posing as an [elf](<../../creatures/species/elves.md>), [Mezzar](<../other-nonhumans/mezzar.md>), at the time, in [the Elderwood](<../../gazetteer/central-highlands/elderwood.md>). 
 - Jul 1748 DR. Belegor fled from [Grimbaskal](<../other-nonhumans/mezzar.md>), realizing his deception. 
-- Aug 1748 DR. Belegor sought refuge in a Te'kula village, hidden in the Elderwood.  
-- Sep 11, 1748 DR. Belegor and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) meet in the hidden Te'kula village.
+- Aug 1748 DR. Belegor sought refuge in a [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) village, hidden in the Elderwood.  
+- Sep 11, 1748 DR. Belegor and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) meet in the hidden [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) village.
 

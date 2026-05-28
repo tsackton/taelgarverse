@@ -11,7 +11,7 @@ title: Ainwick
 ---
 # Ainwick
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A town in the [Barony of Ainwick](<./barony-of-ainwick.md>), the [Western Marches](<../western-marches/western-marches.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A town in the [Barony of Ainwick](<barony-of-ainwick.md>), the [Western Marches](<../western-marches/western-marches.md>), [Sembara](<../sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 

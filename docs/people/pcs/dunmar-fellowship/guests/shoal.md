@@ -16,6 +16,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Shoal
+hide_toc: true
 ---
 # Shoal
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

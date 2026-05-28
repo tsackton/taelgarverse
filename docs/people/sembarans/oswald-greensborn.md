@@ -10,6 +10,7 @@ affiliations:
 dm_owner: none
 dm_notes: none
 title: Oswald Greensborn
+hide_toc: true
 ---
 # Oswald Greensborn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

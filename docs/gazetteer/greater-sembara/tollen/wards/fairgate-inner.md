@@ -15,5 +15,5 @@ title: Fairgate Inner
 </div>
 
 
-Fairgate Inner is one of the gate-wards of [Tollen](<../tollen.md>), clustered around the inner side of the [Fair Gate](<../places/fair-gate.md>). Its streets form a busy link between the out-wall markets of [Fairgate Outer](<./fairgate-outer.md>) and the richer commercial districts to the south and east.
+Fairgate Inner is one of the gate-wards of [Tollen](<../tollen.md>), clustered around the inner side of the [Fair Gate](<../places/fair-gate.md>). Its streets form a busy link between the out-wall markets of [Fairgate Outer](<fairgate-outer.md>) and the richer commercial districts to the south and east.
 

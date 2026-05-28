@@ -12,6 +12,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Jasper
+hide_toc: true
 ---
 # Jasper
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,4 +26,4 @@ title: Jasper
 </div>
 
 
-![Jasper of Beury](../../assets/jasper-of-beury.png){align="right"; width="320"}A robber and highwayman in his youth on the stretch of the [Great South Road](<../../gazetteer/greater-sembara/roads/great-south-road.md>) between [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>) and [Dallet](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/dallet.md>), he was caught and fined. He has since reformed and worked as a crown messenger for many years. In the last few years he has returned to Beury for reasons he is generally silent about and has worked as hired labor as well as occasionally doing jobs for [Erick Murtha](<./erick-murtha.md>).
+![Jasper of Beury](../../assets/jasper-of-beury.png){align="right"; width="320"}A robber and highwayman in his youth on the stretch of the [Great South Road](<../../gazetteer/greater-sembara/roads/great-south-road.md>) between [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>) and [Dallet](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/dallet.md>), he was caught and fined. He has since reformed and worked as a crown messenger for many years. In the last few years he has returned to Beury for reasons he is generally silent about and has worked as hired labor as well as occasionally doing jobs for [Erick Murtha](<erick-murtha.md>).

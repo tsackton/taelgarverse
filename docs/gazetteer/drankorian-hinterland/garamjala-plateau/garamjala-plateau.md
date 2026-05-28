@@ -15,4 +15,4 @@ title: Garamjala Plateau
 
 The high interior plateau in the rain shadow of the [Yuvanti Mountains](<../../greater-dunmar/yuvanti-mountains.md>), uplifted in the chaos at the end of the Great War. 
 
-Almost entirely a high, extremely arid desert, known as the [Garamjala Desert](<./garamjala-desert.md>). 
+Almost entirely a high, extremely arid desert, known as the [Garamjala Desert](<garamjala-desert.md>). 

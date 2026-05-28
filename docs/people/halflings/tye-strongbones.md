@@ -16,6 +16,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Tye Strongbones
+hide_toc: true
 ---
 # Tye Strongbones
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -35,6 +36,6 @@ title: Tye Strongbones
 
 
 ## Relationships
-- [Wes Strongbones](<./wes-strongbones.md>), father
-- [Cade Strongbones](<./cade-strongbones.md>), twin brother
+- [Wes Strongbones](<wes-strongbones.md>), father
+- [Cade Strongbones](<cade-strongbones.md>), twin brother
 

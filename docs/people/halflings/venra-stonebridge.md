@@ -13,6 +13,7 @@ whereabouts: Cleenseau
 dm_notes: none
 dm_owner: none
 title: Venra Stonebridge
+hide_toc: true
 ---
 # Venra Stonebridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -27,4 +28,4 @@ title: Venra Stonebridge
 </div>
 
 
-An elderly halfling and one of the owners of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) along with [Willow Stonebridge](<./willow-stonebridge.md>) and [Marigold Stonebridge](<./marigold-stonebridge.md>). Often called Grandmother Venra.
+An elderly halfling and one of the owners of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) along with [Willow Stonebridge](<willow-stonebridge.md>) and [Marigold Stonebridge](<marigold-stonebridge.md>). Often called Grandmother Venra.

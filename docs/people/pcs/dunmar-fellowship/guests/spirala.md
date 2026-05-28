@@ -13,6 +13,7 @@ player: Kate Sackton
 dm_owner: player
 dm_notes: important
 title: Spirala
+hide_toc: true
 ---
 # Spirala
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

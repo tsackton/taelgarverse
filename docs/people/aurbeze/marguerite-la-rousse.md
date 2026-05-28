@@ -16,6 +16,7 @@ dm_owner: none
 dm_notes: none
 pronunciation: mar-guh-REET la ROUSE
 title: Marguerite La Rousse
+hide_toc: true
 ---
 # Marguerite La Rousse
 :speaker:{ .middle } *(mar-guh-REET la ROUSE)*  

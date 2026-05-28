@@ -12,6 +12,7 @@ knownTo: [GL]
 dm_owner: none
 dm_notes: none
 title: Xameia the Forsworn
+hide_toc: true
 ---
 # Xameia the Forsworn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

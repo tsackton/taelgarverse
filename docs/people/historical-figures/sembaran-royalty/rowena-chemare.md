@@ -8,6 +8,7 @@ died: 1715
 dm_notes: none
 dm_owner: none
 title: Rowena Chemare
+hide_toc: true
 ---
 # Rowena Chemare
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -20,4 +21,4 @@ title: Rowena Chemare
 </div>
 
 
-The wife of [Robert I](<./robert-i.md>), she was killed by bandits in the [Aine Hills](<../../../gazetteer/greater-sembara/sembara/aine-hills.md>).
+The wife of [Robert I](<robert-i.md>), she was killed by bandits in the [Aine Hills](<../../../gazetteer/greater-sembara/sembara/aine-hills.md>).

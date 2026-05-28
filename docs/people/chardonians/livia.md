@@ -11,6 +11,7 @@ ancestry: Chardonian
 dm_owner: none
 dm_notes: none
 title: Livia
+hide_toc: true
 ---
 # Livia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,4 +30,4 @@ title: Livia
 
 
 
-[Lucius](<./lucius.md>)'s mother.
+[Lucius](<lucius.md>)'s mother.

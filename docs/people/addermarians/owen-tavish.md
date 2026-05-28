@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Owen Tavish
+hide_toc: true
 ---
 # Owen Tavish
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -38,10 +39,10 @@ Owen Tavish is a priest of the [The Sibyl](<../../gods-and-religions/gods/incorp
 - May 09, 1715 DR: Supervised the application of [Trueflame](<../../things/materials/trueflame.md>) that unmade the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>).
 
 ## Relationships
-- [Elowen Duval](<./elowen-duval.md>) — Provides counsel on spiritual matters affecting governance.
-- [Isolde of Roscombe](<./isolde-of-roscombe.md>) — Steward who manages temple operations.
+- [Elowen Duval](<elowen-duval.md>) — Provides counsel on spiritual matters affecting governance.
+- [Isolde of Roscombe](<isolde-of-roscombe.md>) — Steward who manages temple operations.
 - Addermarch Mercenaries — Entrusted with the relic’s containment and destruction.
-- [Gareth Howell](<./gareth-howell.md>) — Collaborator on frontier missions requiring holy wards.
+- [Gareth Howell](<gareth-howell.md>) — Collaborator on frontier missions requiring holy wards.
 
 
 

@@ -5,6 +5,7 @@ species: giant
 dm_notes: important
 dm_owner: tim
 title: Dhrukmir
+hide_toc: true
 ---
 # Dhrukmir
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

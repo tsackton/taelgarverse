@@ -17,6 +17,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 pronunciation: EL-oh-wen doo-VAL
+hide_toc: true
 ---
 # Lady Elowen Duval
 :speaker:{ .middle } *(EL-oh-wen doo-VAL)*  
@@ -48,13 +49,13 @@ Elowen Duval is the castellan of [Roscombe](<../../gazetteer/greater-sembara/add
 Lady Elowen Duval governs [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and its surrounding hinterlands, coordinating defense, trade, and relief for outlying farms and hamlets. She favors reliable agents and public support for those who safeguard the marches, using targeted commissions to stabilize the frontier. Though formally sworn to the lord of [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>) and the Earl of Westcliff, Roscombe often skipped during the earl's circuits due to its isolation. 
 
 ## Events
-- May 01, 1715 DR: Received a report on [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>); commissioned further investigation and urged consultation with [Owen Tavish](<./owen-tavish.md>).
+- May 01, 1715 DR: Received a report on [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>); commissioned further investigation and urged consultation with [Owen Tavish](<owen-tavish.md>).
 - May 04, 1715 DR: Rewarded the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) for the return of Duval family jewels recovered from a cockatrice lair.
 - May 07, 1715 DR: Hosted a manor dinner for the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>), which including discussion of regarding goblin activity in the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>). 
 
 ## Relationships
-- [Gareth Howell](<./gareth-howell.md>) — Commanding knight and chief of her household guard; she relies on his tactical assessments.
-- [Owen Tavish](<./owen-tavish.md>) — Spiritual adviser on supernatural matters such as the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>).
+- [Gareth Howell](<gareth-howell.md>) — Commanding knight and chief of her household guard; she relies on his tactical assessments.
+- [Owen Tavish](<owen-tavish.md>) — Spiritual adviser on supernatural matters such as the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>).
 - [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) — Trusted troubleshooters invited to court functions and entrusted with sensitive missions.
 
 ## Personality
@@ -63,6 +64,6 @@ Pragmatic and unflappable; favors diplomacy and delegation. Values competence, l
 ## Capabilities & Resources
 - Castellan authority over Roscombe’s defenses, courts, and levies.
 - Treasury allocation for bounties, relief loans, and commissioned expeditions.
-- Household guard under [Gareth Howell](<./gareth-howell.md>) for patrol and rapid response.
+- Household guard under [Gareth Howell](<gareth-howell.md>) for patrol and rapid response.
 
 

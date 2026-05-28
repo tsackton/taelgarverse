@@ -8,6 +8,7 @@ gender: male
 dm_owner: tim
 dm_notes: color
 title: Algerd
+hide_toc: true
 ---
 # Algerd
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -15,8 +15,8 @@ title: Enst (North Fork)
 # The Enst (North Fork)
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A river in the [Western Marches](<../../sembara/western-marches/western-marches.md>), [Sembara](<../../sembara/sembara.md>), [Greater Sembara](<../../greater-sembara.md>)  
-    :octicons-location-24:{ .lg .middle } Located in the [Wistel–Enst Watershed](<./wistel-enst-watershed.md>), [Greater Sembara](<../../greater-sembara.md>)  
+    :octicons-location-24:{ .lg .middle } Located in the [Wistel–Enst Watershed](<wistel-enst-watershed.md>), [Greater Sembara](<../../greater-sembara.md>)  
 </div>
 
 
-One of the three rivers (the others being the [South Fork](<./enst-south-fork.md>) and [Middle Fork](<./enst-middle-fork.md>)) that join to form the [Enst](<./enst.md>) just west of Lysandale.
+One of the three rivers (the others being the [South Fork](<enst-south-fork.md>) and [Middle Fork](<enst-middle-fork.md>)) that join to form the [Enst](<enst.md>) just west of Lysandale.

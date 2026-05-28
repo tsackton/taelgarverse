@@ -13,6 +13,7 @@ affiliations:
 dm_notes: important
 dm_owner: mike
 title: Marguerite Deschamps
+hide_toc: true
 ---
 # Marguerite Deschamps
 :speaker:{ .middle } *(mahr-guh-REET deh-SHAHN)*  

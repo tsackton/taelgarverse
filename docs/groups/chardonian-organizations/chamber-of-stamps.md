@@ -14,4 +14,4 @@ title: Chamber of Stamps
 </div>
 
 
-The Chamber of Stamps is a crucial part of the bureaucracy of the Chardonian Empire. The officials of the Chamber of Stamps regulate the five charter monopolies controlled by the [Curia of 42](<./curia-of-42.md>) (chalyte, salt, spell inks, alchemical reagents, and charcoal).
+The Chamber of Stamps is a crucial part of the bureaucracy of the Chardonian Empire. The officials of the Chamber of Stamps regulate the five charter monopolies controlled by the [Curia of 42](<curia-of-42.md>) (chalyte, salt, spell inks, alchemical reagents, and charcoal).

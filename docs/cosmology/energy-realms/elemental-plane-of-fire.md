@@ -11,14 +11,14 @@ title: Elemental Plane of Fire
 ---
 # The Elemental Plane of Fire
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A plane in the [Energy Realms](<./energy-realms.md>)  
+-    :octicons-location-24:{ .lg .middle } A plane in the [Energy Realms](<energy-realms.md>)  
 </div>
 
 
 > [!info]+ Information  
 > 
 > 
-> > 
+> > A plane in the [Energy Realms](<energy-realms.md>)
 
 The Elemental Plane of Fire is described in one of the few surviving fragments of the *[Compendium of Fire](<../../things/books/compendium-of-fire.md>)* as a realm of unrelenting heat and ceaseless flame. It is a place where the ground itself blazes with molten rock, rivers of lava carve paths through burning wastelands, and the air shimmers with an oppressive heat that few can endure. The sky above is alight with a permanent glow, that grows to a white hot furnace during the day, and dims to a red fiery twilight at night. Travelers who enter this plane unprepared for the supernatural heat of this real are doomed to perish, their bodies scorched beyond recognition. 
 

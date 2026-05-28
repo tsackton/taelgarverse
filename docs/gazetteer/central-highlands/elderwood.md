@@ -12,9 +12,9 @@ title: Elderwood
 ---
 # The Elderwood
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A forest in [Ainumarya](<./ainumarya.md>), the [Central Highlands](<./central-highlands.md>)  
+-    :octicons-location-24:{ .lg .middle } A forest in [Ainumarya](<ainumarya.md>), the [Central Highlands](<central-highlands.md>)  
 </div>
 
 
-Once the southern extent of [Ainumarya](<./ainumarya.md>); now inhabited by several Deno'qai tribes: Te'kula, Baz'aku, Bek'eni.
+Once the southern extent of [Ainumarya](<ainumarya.md>); now inhabited by several Deno'qai tribes: [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>), [Baz'aku](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/baz-aku.md>), [Bek'eni](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/bek-eni.md>).
 

@@ -22,6 +22,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Ander Charmheart
+hide_toc: true
 ---
 # Ander Charmheart
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -47,10 +48,8 @@ title: Ander Charmheart
 
 A young, rambunctious and excessively curious halfling, traveling with the Charmheart trading caravan as a scout and general hand. 
 ## Relationships
-- [Callie Charmheart](<./callie-charmheart.md>), older sister and traveling companion
-- [Bree Charmheart](<./bree-charmheart.md>), grandmother and traveling companion
-
-- [Garret Tealeaf](<./garret-tealeaf.md>), occasional traveling companion 
+- [Callie Charmheart](<callie-charmheart.md>), older sister and traveling companion
+- [Bree Charmheart](<bree-charmheart.md>), grandmother and traveling companion
 
 
 

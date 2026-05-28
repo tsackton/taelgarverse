@@ -21,7 +21,7 @@ title: House of Sewick
 </div>
 
 
-The founding royal house of modern [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), the House of Sewick ruled between the 1420s and the 1720s. A cadet branch, the [House of Lils](<./house-of-lils.md>) rules today.
+The founding royal house of modern [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), the House of Sewick ruled between the 1420s and the 1720s. A cadet branch, the [House of Lils](<house-of-lils.md>) rules today.
 
 
 ```mermaid 

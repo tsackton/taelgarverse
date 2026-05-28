@@ -10,6 +10,7 @@ ancestry: Sembaran
 dm_notes: none
 dm_owner: none
 title: Constance Farnham
+hide_toc: true
 ---
 # Constance Farnham
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

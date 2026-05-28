@@ -20,7 +20,7 @@ title: Dunmari Frontier - Wellby Solo Session 1 (Prequel)
 > *On Earth: Friday Oct 14, 2022*
 > *Aboard the [Wave Dancer](<../../../things/ships/wave-dancer.md>), [Eastern Green Sea](<../../../gazetteer/eastern-green-sea/eastern-green-sea.md>)*
 
-[Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) helps a halfling ship escape pirates and learns of kidnapped [Kenku](<../../../creatures/species/kenku.md>) experts on the [Feywild](<../../../cosmology/feywild.md>) in [Wahacha](<../../../gazetteer/eastern-green-sea/wahacha.md>).
+[People/PCs/Dunmar Fellowship/Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) helps a halfling ship escape pirates and learns of kidnapped [Kenku](<../../../creatures/species/kenku.md>) experts on the [Feywild](<../../../cosmology/feywild.md>) in [Wahacha](<../../../gazetteer/eastern-green-sea/wahacha.md>).
 
 ## Session Info
 

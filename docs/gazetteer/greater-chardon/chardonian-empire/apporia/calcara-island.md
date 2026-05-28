@@ -10,9 +10,9 @@ title: Calcara Island
 ---
 # Calcara Island
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An island in [Apporia](<./apporia.md>), [Greater Chardon](<../../greater-chardon.md>)  
+-    :octicons-location-24:{ .lg .middle } An island in [Apporia](<apporia.md>), [Greater Chardon](<../../greater-chardon.md>)  
 </div>
 
 
- Calcara is a small, rocky island off the coast of [Castrella](<./castrella.md>). 
+ Calcara is a small, rocky island off the coast of [Castrella](<castrella.md>). 
 

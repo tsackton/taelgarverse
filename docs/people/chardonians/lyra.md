@@ -18,6 +18,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Lyra
+hide_toc: true
 ---
 # Lyra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -42,5 +43,5 @@ title: Lyra
 
 An archivist with the Great Library, responsible for arranging adventuring expeditions to recover magic, knowledge, and treasure. Spend considerable time in the north of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>).
 
-Friends with [Roscelia](<./roscelia.md>).
+Friends with [Roscelia](<roscelia.md>).
 

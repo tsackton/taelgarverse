@@ -25,25 +25,25 @@ Tollen is a cosmopolitan city, where [humans](<../../../creatures/species/humans
 Tollen is also a city of guilds: the various trade associations, craft guilds, and producer's compacts are the center of economic and political power in the city. Particularly notable guilds include the [Dyer's Guild](<../../../groups/tollen-guilds/dyer-s-guild.md>), controlling the magical tattoo trade, and the mysterious [Ancient and Honorable Guild of Philosophers](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>), but many other guilds exist in the city. 
 
 ## Geography and Hydrology
-_See more: [Hydrology of Tollen](<./hydrology-of-tollen.md>)_
+_See more: [Hydrology of Tollen](<hydrology-of-tollen.md>)_
 
 Tollen sits astride the [Volta](<../rivers/volta-watershed/volta.md>) river, though most development is on the north side, which is generally rockier, less marshy, and generally less prone to flooding. Five tributaries of the Volta flow through the city and its environs, from west to east: the [Little River](<../rivers/volta-watershed/little-river.md>), the [Muddy River](<../../extraplanar/shadowfolds/morkalan/muddy-river.md>) (the only tributary that joins the Volta on the south bank), [Fat Brook](<../rivers/volta-watershed/fat-brook.md>), the [Carnbrook](<../rivers/volta-watershed/carnbrook.md>), and the [Greywash](<../rivers/volta-watershed/greywash.md>). The area around the confluence of the Volta, Little, and Muddy rivers is swampy and prone to flooding; the area around the confluence of the Greywash and the Volta, east of the city proper, is even more so. The difficult terrain around the Greywash has long discouraged eastern expansion of the city. 
 
  
 
 ## City Layout
-_See more: [Port of Tollen](<./port-of-tollen.md>)_, _[Map of Tollen](<./map-of-tollen.md>)_
+_See more: [Port of Tollen](<port-of-tollen.md>)_, _[Map of Tollen](<map-of-tollen.md>)_
 
 
 
 Tollen sprawls astride the Volta, although most settlement is on the north bank. The oldest parts of the city are the eastern wards, which tend to have small, cramped streets and are home to the docks and the shipbuilding industry. The central part of the city, especially around the [Tollen Bridge](<places/tollen-bridge.md>), and extending west, is a major commercial hub, with markets, guildhalls, and broad boulevards. The western part of the city, clustered around the Little and Muddy rivers, is home to tanners, leatherworkers, dye-makers, and other industry; most of the recent expansion has been in this direction, including many sprawling slums outside the walls. 
 
 ### Wards of Tollen
-_See more: [Wards of Tollen](<./wards-of-tollen.md>)_
+_See more: [Wards of Tollen](<wards-of-tollen.md>)_
 
 Tollen is divided into 17 wards, mostly on the north bank of the [Volta](<../rivers/volta-watershed/volta.md>) and largely contained within the city walls, though as the population has grown in recent years the city has swelled beyond its walls, particularly to the west. 
 
-The oldest parts of the city -- the wards of [Fiskurth](<wards/fiskurth.md>), [Aesganstrad](<wards/aesganstrad.md>), and [Skepwalk](<wards/skepwalk.md>) -- are clustered along the banks of the Volta in the eastern (ocean-ward) part of [Tollen](<./tollen.md>), reflecting the city's heritage as a Skaer port long ago. 
+The oldest parts of the city -- the wards of [Fiskurth](<wards/fiskurth.md>), [Aesganstrad](<wards/aesganstrad.md>), and [Skepwalk](<wards/skepwalk.md>) -- are clustered along the banks of the Volta in the eastern (ocean-ward) part of [Tollen](<tollen.md>), reflecting the city's heritage as a Skaer port long ago. 
 
 [Magus Street](<wards/magus-street.md>), where the [University of Tollen](<places/university-of-tollen.md>) is located; [Bridgeward](<wards/bridgeward.md>), on the north side of the [Tollen Bridge](<places/tollen-bridge.md>); and [Nordgate](<wards/nordgate.md>), now home to a substantial dwarven population, surround this inner core. The rich commercial districts of [Gold Street](<wards/gold-street.md>) and [Guildgate](<wards/guildgate.md>); [Godshome](<wards/godshome.md>), with many temples; [Fairgate](<wards/fairgate.md>), with many markets; [Southbridge](<wards/southbridge.md>), on the south bank of the Volta across from [Bridgeward](<wards/bridgeward.md>); [Haurhill](<wards/haurhill.md>), on the height of land above the [Little River](<../rivers/volta-watershed/little-river.md>) and the site of an ancient Drankorian fort; and [Battery](<wards/battery.md>), home to extensive naval fortifications, make up the rest of the city as it stood at the time of the [Great War](<../../../events/1500s/great-war.md>). 
 
@@ -53,7 +53,7 @@ More recently, as Tollen's prominence has grown, the marshy land on the south ba
 
 Only one bridge spans the [Volta](<../rivers/volta-watershed/volta.md>): the [Tollen Bridge](<places/tollen-bridge.md>), originally constructed by the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>). This broad stone span of many arches is a major commercial hub, lined with shops, houses, and activity, and also a defensive structure, with gatehouses at either end. Tall-masted oceanic ships cannot pass under the bridge. 
 
-While the [walls of Tollen](<./walls-of-tollen.md>) have expanded many times during its history, there are ten gates in the current walls, from east to west: Old Gate, Fort Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, [Fair Gate](<places/fair-gate.md>), [Tanner's Gate](<places/tanner-s-gate-tollen.md>), River Gate, and West Gate. 
+While the [walls of Tollen](<walls-of-tollen.md>) have expanded many times during its history, there are ten gates in the current walls, from east to west: Old Gate, Fort Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, [Fair Gate](<places/fair-gate.md>), [Tanner's Gate](<places/tanner-s-gate-tollen.md>), River Gate, and West Gate. 
 
 ### Landmarks
 

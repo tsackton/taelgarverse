@@ -14,6 +14,7 @@ affiliations:
 dm_owner: player
 dm_notes: important
 title: Izzarak
+hide_toc: true
 ---
 # Izzarak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

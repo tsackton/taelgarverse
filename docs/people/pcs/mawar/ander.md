@@ -12,6 +12,7 @@ affiliations:
 dm_owner: player
 dm_notes: important
 title: Ander
+hide_toc: true
 ---
 # Ander
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -19,7 +20,7 @@ title: Ander
 
     A [Mawaran](<../../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
     Born DR 1712 (38 years old)  
-    Member of the [Adventurers of Mawar](<./adventurers-of-mawar.md>)  
+    Member of the [Adventurers of Mawar](<adventurers-of-mawar.md>)  
     { .bio }
 
 </div>

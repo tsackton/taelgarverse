@@ -22,6 +22,7 @@ whereabouts:
 - {type: away, start: 1719-10-17, end: 1720-01-12, location: Cleenseau}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
 title: Celyn
+hide_toc: true
 ---
 # Celyn
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,7 +30,7 @@ title: Celyn
 
     A [Tyrwinghan](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
     Born DR 1697 (53 years old)  
-    Member of the [Heroes of Cleenseau](<./heroes-of-cleenseau.md>)  
+    Member of the [Heroes of Cleenseau](<heroes-of-cleenseau.md>)  
     Member of [Mahaut's Miracle Players](<../../../groups/mahaut-s-miracle-players.md>) (December 1717 - June 29th, 1719)  
     { .bio }
 
@@ -66,14 +67,14 @@ He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [
 >  He is not entirely blown by the wind; he trusts his intuition profoundly, along with the guidance of the fey and his god.  (Which puts him in a good position to be at the whims of higher powers.)  It’s likely he wandered out of his home turf a bit ago, following some impulse or other, and those impulses and occasional directives from the Wyrdling or friendly fey eventually steered him to where he is.
 
 ### Items
-
-
+| Image | Name | Type | Mechanics |
+| ----- | ---- | ---- | --------- |
 ### Stories about Celyn
 There are a number of stories about Celyn, but please only read these if they have been revealed in game.
 
 * Celyn's Story of His Adolescence
 * Celyn's Story of Getting His Name, as told to [El](<../../sembarans/el.md>)
-* Celyn's Miracle Story, as told to [Robin](<./robin-of-abenfyrd.md>)
+* Celyn's Miracle Story, as told to [Robin](<robin-of-abenfyrd.md>)
 * Celyn's Story of Leaving Home
 * Celyn's Musings on Magic
 * Celyn and Mahaut’s Miracle Players

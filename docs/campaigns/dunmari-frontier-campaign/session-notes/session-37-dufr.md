@@ -27,7 +27,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - The party defeats enchanted animal statues guarding a  lair.
 - They rescue [Govir](<../../../people/dunmari/govir.md>), a prisoner who reveals he was captured by werewolves for his knowledge of the Pandemonium ruins.
 - [Govir](<../../../people/dunmari/govir.md>) fears he has been turned into a werewolf and killed [Hada](<../../../people/dunmari/hada.md>), the head scribe.
-- The party sets a trap and defeats two werewolf guards with the help of an animated ladder.
+- The party sets a trap and defeats two werewolf guards with the help of an animated [ladder](<../../../people/pcs/dunmar-fellowship/companions/ladder.md>).
 - A fierce battle with the werewolf leader and his minions ensues.
 - Despite injuries and bites, the party emerges victorious, with the leader killed during his escape attempt.
 ### Timeline

@@ -9,6 +9,7 @@ born: 1686
 dm_notes: none
 dm_owner: none
 title: Edmund Bracken
+hide_toc: true
 ---
 # Edmund Bracken
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,4 +23,4 @@ title: Edmund Bracken
 </div>
 
 
-![Edmund Bracken](../../assets/edmund-bracken.png){align="right"; width="320"}The chamberlain and valet of [Erick Murtha](<./erick-murtha.md>).
+![Edmund Bracken](../../assets/edmund-bracken.png){align="right"; width="320"}The chamberlain and valet of [Erick Murtha](<erick-murtha.md>).

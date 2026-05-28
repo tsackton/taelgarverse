@@ -12,6 +12,7 @@ affiliations:
 dm_notes: none
 dm_owner: none
 title: Annabeth
+hide_toc: true
 ---
 # Annabeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -24,6 +25,6 @@ title: Annabeth
 </div>
 
 
-The eldest daughter and third children of [Derik of Lils](<./derik-of-lils.md>), she is principally famous for marrying [Morgaine](<./morgaine.md>), and for being the grandmother of [Elaine II](<./elaine-ii.md>). 
+The eldest daughter and third children of [Derik of Lils](<derik-of-lils.md>), she is principally famous for marrying [Morgaine](<morgaine.md>), and for being the grandmother of [Elaine II](<elaine-ii.md>). 
 
 

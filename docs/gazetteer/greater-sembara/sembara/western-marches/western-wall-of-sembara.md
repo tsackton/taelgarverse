@@ -14,6 +14,6 @@ title: Western Wall of Sembara
 </div>
 
 
-The Western Wall of Sembara is an impressive chain of fortifications, including extensive stone curtain walls, towers, and redoubts, supported by long a series of ditches. It runs across the western marches, anchored by the garrison towns of [Dunfry](<./dunfry.md>) in the south and [Dunmore](<./dunmore.md>) in the north.
+The Western Wall of Sembara is an impressive chain of fortifications, including extensive stone curtain walls, towers, and redoubts, supported by long a series of ditches. It runs across the western marches, anchored by the garrison towns of [Dunfry](<dunfry.md>) in the south and [Dunmore](<dunmore.md>) in the north.
 
 

@@ -12,6 +12,7 @@ campaignInfo:
 dm_owner: tim
 dm_notes: none
 title: Zibzig Sparkscale
+hide_toc: true
 ---
 # Zibzig Sparkscale
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

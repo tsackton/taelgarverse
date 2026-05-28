@@ -16,10 +16,10 @@ We begin on the road to [Chardon](<../../../gazetteer/greater-chardon/chardonian
 
 ### Session 0
 
-[Samso](<../../../people/pcs/silver-tempests/samso.md>) and [Adrik](<../../../people/pcs/silver-tempests/adrik.md>) meet on the road to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), both seeking adventure. Finding a dead horse, they chase some Bullywugs into a swamp and recover a message bag from a messenger.
+[Samso](<../../../people/pcs/silver-tempests/samso.md>) and [Adrik](<../../../people/pcs/silver-tempests/adrik.md>) meet on the road to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), both seeking adventure. Finding a dead horse, they chase some [Bullywugs](<../../../creatures/unsorted/bullywugs.md>) into a swamp and recover a message bag from a messenger.
 ### Events
 
-- Feb 16, 1747 DR: [Samso](<../../../people/pcs/silver-tempests/samso.md>) and [Adrik](<../../../people/pcs/silver-tempests/adrik.md>) meet on the road south of [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and retrieve a lost messenger bag from a messenger killed by Bullywugs. 
+- Feb 16, 1747 DR: [Samso](<../../../people/pcs/silver-tempests/samso.md>) and [Adrik](<../../../people/pcs/silver-tempests/adrik.md>) meet on the road south of [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and retrieve a lost messenger bag from a messenger killed by [Bullywugs](<../../../creatures/unsorted/bullywugs.md>). 
 ## Adventure 1: The Flamekeeper Scroll
 ### Session 1
 

@@ -10,6 +10,7 @@ ancestry: Sembaran
 dm_notes: color
 dm_owner: mike
 title: Alaric Benec
+hide_toc: true
 ---
 # Alaric Benec
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

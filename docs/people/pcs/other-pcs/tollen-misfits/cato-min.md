@@ -10,6 +10,7 @@ whereabouts:
 - {type: home, location: Orenlas}
 - {type: home, location: Tollen}
 title: Cato Min
+hide_toc: true
 ---
 # Cato Min
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

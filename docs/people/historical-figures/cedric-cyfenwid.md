@@ -9,6 +9,7 @@ gender: male
 dm_notes: none
 dm_owner: mike
 title: Cedric Cyfenwid
+hide_toc: true
 ---
 # Cedric Cyfenwid
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

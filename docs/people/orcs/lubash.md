@@ -17,6 +17,7 @@ affiliations:
 whereabouts: Uzgukhar
 dm_owner: tim
 dm_notes: important
+hide_toc: true
 ---
 # Chief Lubash
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -47,9 +48,9 @@ Chief Lubash ascended to the throne of [Xurkhaz](<../../gazetteer/upper-istaros/
 Lubash has a pale green complexion and is bald. His features are striking, characterized by a long, stern face and a notably large nose.
 ## Relationships
 
-- **[Uzgul](<./uzgul.md>)**: Lubash's nephew, the son of his younger sister, and his heir. Lubash is deeply protective of [Uzgul](<./uzgul.md>) since his sister passed away due to sickness when [Uzgul](<./uzgul.md>) was young.
-- **[Murook](<./murook.md>)**: Lubash's chief general and confidante. 
-- **[Azogar](<./azogar.md>)**: Lubash's loremaster and confidante. 
+- **[Uzgul](<uzgul.md>)**: Lubash's nephew, the son of his younger sister, and his heir. Lubash is deeply protective of [Uzgul](<uzgul.md>) since his sister passed away due to sickness when [Uzgul](<uzgul.md>) was young.
+- **[Murook](<murook.md>)**: Lubash's chief general and confidante. 
+- **[Azogar](<azogar.md>)**: Lubash's loremaster and confidante. 
 ## Events
 
 - Came to power in DR 1745 after his older brother's family was killed by hill [Giants](<../../creatures/species/giants.md>).
@@ -57,7 +58,12 @@ Lubash has a pale green complexion and is bald. His features are striking, chara
 
 ## Campaign Interactions
 
-
-
+### [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+First encountered: [The People of the Rainbow](<../../campaigns/dunmari-frontier-campaign/session-notes/session-76-dufr.md>)
+Most recent encounter: [The Battle for Uzgukhar](<../../campaigns/dunmari-frontier-campaign/session-notes/session-88-dufr.md>)
+Other mentions:
+- [Strategic Alliances](<../../campaigns/dunmari-frontier-campaign/session-notes/session-77-dufr.md>)
+- [Palace Attack](<../../campaigns/dunmari-frontier-campaign/session-notes/session-78-dufr.md>)
+- [Aftermath of Victory](<../../campaigns/dunmari-frontier-campaign/session-notes/session-79-dufr.md>)
 
 

@@ -8,6 +8,7 @@ born: 1697
 dm_notes: important
 dm_owner: tim
 title: Dorian Almare
+hide_toc: true
 ---
 # Dorian Almare
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

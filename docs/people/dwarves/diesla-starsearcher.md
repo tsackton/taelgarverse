@@ -14,6 +14,7 @@ whereabouts:
 dm_notes: color
 dm_owner: none
 title: Diesla Starsearcher
+hide_toc: true
 ---
 # Diesla Starsearcher
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -28,4 +29,4 @@ title: Diesla Starsearcher
 </div>
 
 
-[Brot Starsearcher](<./brot-starsearcher.md>)'s wife, a respected metalsmith in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). A patient and loving companion to her somewhat scatterbrained spouse.
+[Brot Starsearcher](<brot-starsearcher.md>)'s wife, a respected metalsmith in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). A patient and loving companion to her somewhat scatterbrained spouse.

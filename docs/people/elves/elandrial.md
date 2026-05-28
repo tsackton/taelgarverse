@@ -17,6 +17,7 @@ pronunciation: eh-LAN-dree-ahl
 dm_owner: tim
 dm_notes: important
 title: Elandrial
+hide_toc: true
 ---
 # Elandrial
 :speaker:{ .middle } *(eh-LAN-dree-ahl)*  

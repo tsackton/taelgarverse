@@ -15,6 +15,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Nika Hyne
+hide_toc: true
 ---
 # Nika Hyne
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

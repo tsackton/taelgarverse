@@ -13,6 +13,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 title: Julius of Voltara
+hide_toc: true
 ---
 # Julius of Voltara
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

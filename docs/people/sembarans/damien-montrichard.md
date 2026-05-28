@@ -15,6 +15,7 @@ whereabouts:
 dm_notes: important
 dm_owner: mike
 title: Damien Montrichard
+hide_toc: true
 ---
 # Damien Montrichard
 :speaker:{ .middle } *(Dah-mee-en Mon-tree-shar)*  

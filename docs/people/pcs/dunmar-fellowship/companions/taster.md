@@ -15,13 +15,14 @@ whereabouts:
 dm_owner: tim
 dm_notes: color
 title: Taster
+hide_toc: true
 ---
 # Taster
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A rabbit (they/them)  
-    Companion of [Dunmar Fellowship](<../dunmar-fellowship.md>)  
+    Companion of the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
 </div>

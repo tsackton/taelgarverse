@@ -13,6 +13,7 @@ affiliations:
 dm_notes: color
 dm_owner: none
 title: Delig Hardstone
+hide_toc: true
 ---
 # Delig Hardstone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,5 +26,5 @@ title: Delig Hardstone
 </div>
 
 
-Patriach of the Hardstone clan, father to [Dag Hardstone](<./dag-hardstone.md>). 
+Patriach of the Hardstone clan, father to [Dag Hardstone](<dag-hardstone.md>). 
 

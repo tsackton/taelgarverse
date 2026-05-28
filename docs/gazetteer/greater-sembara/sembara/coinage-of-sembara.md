@@ -7,7 +7,7 @@ title: Coinage of Sembara
 ---
 # Coinage of Sembara
 
-The economy of Sembara is fully monetized, and most large transactions take place using coins. Although barter does occur in smaller villages, and the major [taxes](<./taxes-in-sembara.md>) (especially the deca and nonem) are typically paid in kind, coinage is common throughout the Sembaran region.
+The economy of Sembara is fully monetized, and most large transactions take place using coins. Although barter does occur in smaller villages, and the major [taxes](<taxes-in-sembara.md>) (especially the deca and nonem) are typically paid in kind, coinage is common throughout the Sembaran region.
 
 The Sembaran crown mints gold and silver coins, called royals, crowns and bits, which commonly circulate in several denominations:
 

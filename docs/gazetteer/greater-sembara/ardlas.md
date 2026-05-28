@@ -10,7 +10,7 @@ title: Ardlas
 ---
 # Ardlas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A realm in [Greater Sembara](<./greater-sembara.md>)  
+-    :octicons-location-24:{ .lg .middle } A realm in [Greater Sembara](<greater-sembara.md>)  
 </div>
 
 
@@ -18,12 +18,12 @@ title: Ardlas
 
 
 
-Ardlas is a region in the highlands of Greater Sembara. Originally settled by Zimka migrants, it straddles the upper [Semb](<rivers/semb-watershed/semb.md>) and has closer cultural ties to the Sembaran lowlands than the Zimkovan highlands.
+Ardlas is a region in the highlands of Greater Sembara. Originally settled by [Zimka](<../../groups/cultures/zimka.md>) migrants, it straddles the upper [Semb](<rivers/semb-watershed/semb.md>) and has closer cultural ties to the Sembaran lowlands than the Zimkovan highlands.
 ### Geography and Climate
 
 Ardlas is a land of highland forests and river valleys. It is defined by the three river systems: the [Semb](<rivers/semb-watershed/semb.md>), in the north, and the [Bollin](<rivers/wistel-enst-watershed/bollin.md>), in central Ardlas, and the [Cambril](<rivers/wistel-enst-watershed/cambril.md>) in the south. 
 
-The Semb flows beneath the rough hills that form the southern edge of the [Lavnoch Plateau](<zimkova/lavnoch-plateau.md>), and is navigable all the way from the [Western Gulf](<./western-gulf.md>) to [Lake Derwent](<rivers/semb-watershed/lake-derwent.md>). Much of the population of northern Ardlas lives along the banks of the Semb and its tributaries. South of the Semb the land rises from around 1000' in the Semb valley to over 2000' and grows more forested. The land descends again towards the [Bollin](<rivers/wistel-enst-watershed/bollin.md>) river valley, a broad and gentle valley through which the shallow and rocky Bollin River flows.
+The Semb flows beneath the rough hills that form the southern edge of the [Lavnoch Plateau](<zimkova/lavnoch-plateau.md>), and is navigable all the way from the [Western Gulf](<western-gulf.md>) to [Lake Derwent](<rivers/semb-watershed/lake-derwent.md>). Much of the population of northern Ardlas lives along the banks of the Semb and its tributaries. South of the Semb the land rises from around 1000' in the Semb valley to over 2000' and grows more forested. The land descends again towards the [Bollin](<rivers/wistel-enst-watershed/bollin.md>) river valley, a broad and gentle valley through which the shallow and rocky Bollin River flows.
 
 After the confluence with the [Vardell](<rivers/wistel-enst-watershed/vardell.md>) the [Bollin](<rivers/wistel-enst-watershed/bollin.md>) turns more easterly, and the land south of the Bollin begins to rise. The Cambril cuts through the high ground, often in forming gorges or rocky cascades as it runs swiftly towards the Bollin. This is the southern limits of Ardlas, and south of the Cambril the land rises even higher towards the great peaks of the [Sentinels](<../sentinel-range.md>).
 

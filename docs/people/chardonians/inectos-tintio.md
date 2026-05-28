@@ -11,6 +11,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 title: Inectos Tintio
+hide_toc: true
 ---
 # Inectos Tintio
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

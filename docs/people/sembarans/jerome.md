@@ -16,6 +16,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Jerome
+hide_toc: true
 ---
 # Jerome
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -32,4 +33,4 @@ title: Jerome
 
 
 
-A professional outlaw and bandit involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). He was caught by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) and executed under sentence from [Nicholas Wysson](<./nicholas-wysson.md>). 
+A professional outlaw and bandit involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). He was caught by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) and executed under sentence from [Nicholas Wysson](<nicholas-wysson.md>). 

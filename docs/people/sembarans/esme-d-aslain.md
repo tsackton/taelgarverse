@@ -10,6 +10,7 @@ dm_notes: color
 affiliations:
 - {org: d'Aslains, type: primary}
 title: Esme D'Aslain
+hide_toc: true
 ---
 # Esme D'Aslain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -21,4 +22,4 @@ title: Esme D'Aslain
 </div>
 
 
-A niece of [Isabeau D'Aslain](<./isabeau-d-aslain.md>), residing part-time in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>) as a fostered family member. Curious about magic yet apprehensive of its moral risks.
+A niece of [Isabeau D'Aslain](<isabeau-d-aslain.md>), residing part-time in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>) as a fostered family member. Curious about magic yet apprehensive of its moral risks.

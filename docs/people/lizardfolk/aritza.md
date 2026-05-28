@@ -15,6 +15,7 @@ dm_owner: tim
 dm_notes: important
 pronunciation: ah-REET-sah
 title: Aritza
+hide_toc: true
 ---
 # Aritza
 :speaker:{ .middle } *(ah-REET-sah)*  

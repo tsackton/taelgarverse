@@ -12,6 +12,7 @@ gender: male
 pronunciation: erd-HEEN
 dm_owner: none
 dm_notes: none
+hide_toc: true
 ---
 # Caretaker Erdhin
 :speaker:{ .middle } *(erd-HEEN)*  

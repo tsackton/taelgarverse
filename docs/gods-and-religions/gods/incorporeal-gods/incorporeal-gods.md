@@ -25,5 +25,5 @@ The divine spark that gives the incorporeal gods life and power is a living thin
 
 Some demigods attract belief, and grow in power, and become the focus of worship themselves, raising themselves to full godhood. Some even overthrow their divine creators, and become in the eyes of their followers the true divinity. Others, however, never attract divine belief, and so never grow beyond the strength originally imbued in them by their creators. 
 
-A number of demigods dot the landscape of Taelgar. Some, like [Shakun](<dunmari-pantheon/shakun.md>) and [Bhishma](<dunmari-pantheon/bhishma.md>) of the Dunmari pantheon, are minor gods in the story of larger religions. Others, like the [Fox and Hunter](<./fox-and-hunter.md>), are heroes gifted the status of the divine in rewards for their great deeds. Still others have origins that remain shrouded in mystery, such as Vorshitaal, the god of the kenku. 
+A number of demigods dot the landscape of Taelgar. Some, like [Shakun](<dunmari-pantheon/shakun.md>) and [Bhishma](<dunmari-pantheon/bhishma.md>) of the Dunmari pantheon, are minor gods in the story of larger religions. Others, like the [Fox and Hunter](<fox-and-hunter.md>), are heroes gifted the status of the divine in rewards for their great deeds. Still others have origins that remain shrouded in mystery, such as Vorshitaal, the god of the kenku. 
 

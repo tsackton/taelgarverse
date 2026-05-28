@@ -13,6 +13,7 @@ affiliations:
 dm_notes: color
 dm_owner: tim
 title: Caulaus
+hide_toc: true
 ---
 # Caulaus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

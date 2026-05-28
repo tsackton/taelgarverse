@@ -11,6 +11,6 @@ title: Sentinel Range War
 ---
 # The Sentinel Range War
 
-A war fought in the western highlands in the years after the [Great War](<./great-war.md>). 
+A war fought in the western highlands in the years after the [Great War](<great-war.md>). 
 
 

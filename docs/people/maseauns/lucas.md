@@ -10,6 +10,7 @@ whereabouts: Evis
 dm_notes: none
 dm_owner: none
 title: Lucas
+hide_toc: true
 ---
 # Lucas
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

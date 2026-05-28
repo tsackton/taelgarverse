@@ -15,12 +15,13 @@ whereabouts:
 - {type: home, location: Sembara}
 - {type: home, location: Addermarch}
 title: Yvan Greenrabbit
+hide_toc: true
 ---
 # Yvan Greenrabbit
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [halfling](<../../../creatures/species/halflings.md>) (he/him), of Greenrabbits, and the [Addermarch Mercenaries](<./addermarch-mercenaries.md>)  
+    A [halfling](<../../../creatures/species/halflings.md>) (he/him), of Greenrabbits, and the [Addermarch Mercenaries](<addermarch-mercenaries.md>)  
     { .bio }
 
     Originally from: [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)

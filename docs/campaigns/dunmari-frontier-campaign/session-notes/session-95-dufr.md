@@ -26,7 +26,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 A popular Urskan folk song, sung at the campfire while traveling with [Karel](<../../../people/other-humans/karel.md>), called [Spring's A Come](<../../../primary-sources/songs/spring-s-a-come.md>).
 
-![mp3](/assets/audio/ursk-sings-of-spring.mp3)
+![mp3](/taelgarverse/assets/audio/ursk-sings-of-spring.mp3)
 
 ## Summary
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) prepares for departure in [Zvervinka](<../../../gazetteer/northern-green-sea/ursk/zvervinka.md>), gathering supplies and purchasing magic items.

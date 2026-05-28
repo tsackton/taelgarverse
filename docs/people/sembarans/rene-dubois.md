@@ -11,6 +11,7 @@ whereabouts:
 dm_notes: color
 dm_owner: mike
 title: Rene Dubois
+hide_toc: true
 ---
 # Rene Dubois
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

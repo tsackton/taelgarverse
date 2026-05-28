@@ -16,4 +16,4 @@ title: Scrollwright Street
 </div>
 
 
-A major thoroughfare linking [Magus Street](<../wards/magus-street.md>) and the [University of Tollen](<./university-of-tollen.md>) to the temples of [Godshome](<../wards/godshome.md>). Home to numerous paper sellers, printers, mapmakers, booksellers, and scroll makers, including [Guy Marchand](<../../../../people/tollenders/guy-marchand.md>).
+A major thoroughfare linking [Magus Street](<../wards/magus-street.md>) and the [University of Tollen](<university-of-tollen.md>) to the temples of [Godshome](<../wards/godshome.md>). Home to numerous paper sellers, printers, mapmakers, booksellers, and scroll makers, including [Guy Marchand](<../../../../people/tollenders/guy-marchand.md>).

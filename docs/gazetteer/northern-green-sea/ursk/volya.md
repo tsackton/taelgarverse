@@ -12,7 +12,7 @@ title: Volya
 # Volya
 :speaker:{ .middle } *(VOH-leeah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A trading post in [Ursk](<./ursk.md>), the [Northern Green Sea](<../northern-green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } A trading post in [Ursk](<ursk.md>), the [Northern Green Sea](<../northern-green-sea.md>)  
 </div>
 
 

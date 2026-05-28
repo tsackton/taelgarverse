@@ -15,6 +15,7 @@ dm_owner: tim
 dm_notes: important
 pronunciation: EET-shahl
 title: Itxal
+hide_toc: true
 ---
 # Itxal
 :speaker:{ .middle } *(EET-shahl)*  

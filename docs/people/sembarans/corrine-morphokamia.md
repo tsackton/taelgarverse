@@ -5,6 +5,7 @@ species: human
 dm_notes: color
 dm_owner: mike
 title: Corrine Morphokamia
+hide_toc: true
 ---
 # Corrine Morphokamia
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

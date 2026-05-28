@@ -16,6 +16,7 @@ whereabouts: Emerald Song
 dm_owner: none
 dm_notes: color
 title: Ewen Silversong
+hide_toc: true
 ---
 # Ewen Silversong
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -40,6 +41,6 @@ title: Ewen Silversong
 
 Songmaster and storyteller on the [Emerald Song](<../../things/ships/emerald-song.md>).
 ## Relationships
-- [Harol Silversong](<./harol-silversong.md>), his nephew
-- [Dani Silversong](<./dani-silversong.md>), his granddaughter
+- [Harol Silversong](<harol-silversong.md>), his nephew
+- [Dani Silversong](<dani-silversong.md>), his granddaughter
 

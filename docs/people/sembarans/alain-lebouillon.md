@@ -9,6 +9,7 @@ born: 1659
 dm_notes: none
 dm_owner: none
 title: Alain LeBouillon
+hide_toc: true
 ---
 # Alain LeBouillon
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,4 +23,4 @@ title: Alain LeBouillon
 </div>
 
 
-An apothecary with a shop in the South Close. He is well known for assisting [Margaret Ashford](<./margaret-ashford.md>) in her midwifery by providing brews and remedies for morning sickness and other ailments of pregnancy.
+An apothecary with a shop in the South Close. He is well known for assisting [Margaret Ashford](<margaret-ashford.md>) in her midwifery by providing brews and remedies for morning sickness and other ailments of pregnancy.

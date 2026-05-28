@@ -14,5 +14,5 @@ title: Curia of 42
 </div>
 
 
-The Curia of 42 is the elected assembly of Chardon. Although the Curia has limited political power, with the vast civil bureaucracy of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) functionally controlled by the Magistros, it still retains the power to regulate the charter monopolies via the [Chamber of Stamps](<./chamber-of-stamps.md>). 
+The Curia of 42 is the elected assembly of Chardon. Although the Curia has limited political power, with the vast civil bureaucracy of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) functionally controlled by the Magistros, it still retains the power to regulate the charter monopolies via the [Chamber of Stamps](<chamber-of-stamps.md>). 
 

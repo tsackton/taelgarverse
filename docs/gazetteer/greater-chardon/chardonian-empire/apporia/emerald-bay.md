@@ -14,6 +14,6 @@ title: Emerald Bay
 </div>
 
 
-Emerald Bay is a broad bay in the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>), south of [the Apporian Peninsula](<./apporia.md>). The [Yeraad](<../../rivers/yeraad.md>) reaches the sea here, and the southern entrance to the [Old Chardon Canal](<./old-chardon-canal.md>) opens onto the bay near [Pergia](<./pergia.md>).
+Emerald Bay is a broad bay in the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>), south of [the Apporian Peninsula](<apporia.md>). The [Yeraad](<../../rivers/yeraad.md>) reaches the sea here, and the southern entrance to the [Old Chardon Canal](<old-chardon-canal.md>) opens onto the bay near [Pergia](<pergia.md>).
 
 This area is dotted with small islands, and has significant merchant traffic. 

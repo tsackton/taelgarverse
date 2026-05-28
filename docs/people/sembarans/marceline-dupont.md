@@ -10,6 +10,7 @@ whereabouts: Veltor
 dm_notes: important
 dm_owner: mike
 title: Marceline Dupont
+hide_toc: true
 ---
 # Marceline Dupont
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

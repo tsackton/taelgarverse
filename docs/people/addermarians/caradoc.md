@@ -14,6 +14,7 @@ whereabouts:
 dm_notes: none
 dm_owner: tim
 title: Caradoc
+hide_toc: true
 ---
 # Caradoc
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -44,7 +45,7 @@ Caradoc is a reclusive alchemist who maintains a cottage laboratory outside [Bra
 
 ## Relationships
 - [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) — Employs [Fazoth de Brune](<../pcs/addermarch/fazoth-de-brune.md>), [Drou](<../pcs/addermarch/drou.md>), and [Yvan Greenrabbit](<../pcs/addermarch/yvan-greenrabbit.md>) for hazardous ingredient retrievals, trusting their reliability.
-- [Elowen Duval](<./elowen-duval.md>) — Maintains a cordial distance from [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)’s court, preferring to keep noble oversight out of his dealings.
+- [Elowen Duval](<elowen-duval.md>) — Maintains a cordial distance from [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)’s court, preferring to keep noble oversight out of his dealings.
 
 ## Personality
 Pragmatic, exacting, and politely distant; weighs every bargain against the risks of stirring up fey or frontier politics. Dislikes attention, preferring discreet operatives and prompt results. Though rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy as both scholarly calling and civic duty, rewarding competence with generous pay.

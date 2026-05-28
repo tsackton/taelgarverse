@@ -10,7 +10,7 @@ title: Vetta
 ---
 # Vetta
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An island in [Skaerhem](<./skaerhem.md>), [Western Green Sea](<../western-green-sea.md>)  
+-    :octicons-location-24:{ .lg .middle } An island in [Skaerhem](<skaerhem.md>), the [Western Green Sea](<../western-green-sea.md>)  
 </div>
 
 
@@ -18,9 +18,9 @@ title: Vetta
 
 Vetta is a small volcanic island, perhaps 3 miles across, with steep cliffs on most of its sides, no trees, and abundant bird life. Even in winter it does not snow a huge amount, but most life is gone and the island looks barren and gray.
 
-It is a sacred island to [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>): according to Skaer law, only those blessed by the hakeasa of [Pyhlla](<./pyhlla.md>) can step onto the island. Those that are not will, according to legend, be marked by [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>), and will be unlucky at sea until they atone. Whether this curse is true or not is unclear.
+It is a sacred island to [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>): according to Skaer law, only those blessed by the hakeasa of [Pyhlla](<pyhlla.md>) can step onto the island. Those that are not will, according to legend, be marked by [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>), and will be unlucky at sea until they atone. Whether this curse is true or not is unclear.
 
-Only an hour's sail from [Pyhlla](<./pyhlla.md>), it has never supported a major village: everyone who lives and works here, in service to [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>), is formally part of the [Pyhlla](<./pyhlla.md>) district. 
+Only an hour's sail from [Pyhlla](<pyhlla.md>), it has never supported a major village: everyone who lives and works here, in service to [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>), is formally part of the [Pyhlla](<pyhlla.md>) district. 
 
 # Layout
 

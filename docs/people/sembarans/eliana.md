@@ -7,6 +7,7 @@ whereabouts: Cleenseau
 dm_notes: none
 dm_owner: none
 title: Eliana
+hide_toc: true
 ---
 # Eliana
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

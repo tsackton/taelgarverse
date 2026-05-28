@@ -21,7 +21,7 @@ Looted from [Agata's hut](<../../../gazetteer/greater-dunmar/hara-basin/agata-s-
 
 Carried by [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>). 
 
-Seen in [Mirror of the Past](<./mirror-of-the-past.md>): 
+Seen in [Mirror of the Past](<mirror-of-the-past.md>): 
 
 ![Chardon Fan Vision](<../mirror-visions/chardon-fan-vision.md>)
 

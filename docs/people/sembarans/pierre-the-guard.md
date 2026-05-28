@@ -6,6 +6,7 @@ dm_notes: none
 dm_owner: none
 whereabouts: Veltor
 title: Pierre the Guard
+hide_toc: true
 ---
 # Pierre the Guard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

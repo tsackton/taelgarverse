@@ -10,11 +10,11 @@ title: Hall of Stories
 ---
 # The Hall of Stories
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A building in the [Monastery of Bhishma](<./monastery-of-bhishma.md>), the [Garamjala Desert](<../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../drankorian-hinterland/desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../../drankorian-hinterland/drankorian-hinterland.md>)  
+-    :octicons-location-24:{ .lg .middle } A building in the [Monastery of Bhishma](<monastery-of-bhishma.md>), the [Garamjala Desert](<../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../drankorian-hinterland/desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../../drankorian-hinterland/drankorian-hinterland.md>)  
 </div>
 
 
-The Hall of Stories is a a large structure, part of the [Monastery of Bhishma](<./monastery-of-bhishma.md>), that houses the stories of the Dunmari. 
+The Hall of Stories is a a large structure, part of the [Monastery of Bhishma](<monastery-of-bhishma.md>), that houses the stories of the Dunmari. 
 
 The building itself is a large, rectangular chamber, more than 20 feet tall, with an connected five story tower on the western end, set in the center of the monastery grounds. The outside of the hall is decorated with thousands of intricate carvings of scenes of Dunmari life. The two doors are reinforced, elaborately carved wood, again depicting scenes of the Dunmari.
 

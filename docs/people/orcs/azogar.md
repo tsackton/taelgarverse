@@ -16,6 +16,7 @@ whereabouts: Uzgukhar
 excludePublish: [clee]
 dm_notes: color
 dm_owner: none
+hide_toc: true
 ---
 # Loremaster Azogar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -41,5 +42,5 @@ dm_owner: none
 
 Azogar is an old [orc](<../../creatures/species/orcs.md>) loremaster from [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), one of the unchained [orcs](<../../creatures/species/orcs.md>) of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>). He has dark green skin, which is almost black in patches, and long, but thinning white hair. He is frail and uses a cane to walk. Generally prefers simple robes and understated dress. Although he speaks with a wavering voice, he is clear and precise in this language. 
 
-Azogar is very knowledgeable about the history of his people, and can tell many stories of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>), both before and after the founding of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>). He serves as one of the primary advisors to [Lubash](<./lubash.md>), the chief of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>). 
+Azogar is very knowledgeable about the history of his people, and can tell many stories of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>), both before and after the founding of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>). He serves as one of the primary advisors to [Lubash](<lubash.md>), the chief of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>). 
 

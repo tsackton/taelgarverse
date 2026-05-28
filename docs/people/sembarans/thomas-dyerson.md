@@ -12,6 +12,7 @@ whereabouts:
 dm_notes: color
 dm_owner: mike
 title: Thomas Dyerson
+hide_toc: true
 ---
 # Thomas Dyerson
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,4 +26,4 @@ title: Thomas Dyerson
 </div>
 
 
-![Thomas Dyerson](../../assets/thomas-dyerson.png){align="right"; width="200"}One of three assistants to [Victorine Rosseau](<./victorine-rosseau.md>), Thomas is an important magistrate in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) and often travels to investigate and adjudicate crimes on behalf of the Barony. He is dedicated to his job, if a bit uncreative, and willing to look beyond the obvious when pushed.
+![Thomas Dyerson](../../assets/thomas-dyerson.png){align="right"; width="200"}One of three assistants to [Victorine Rosseau](<victorine-rosseau.md>), Thomas is an important magistrate in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) and often travels to investigate and adjudicate crimes on behalf of the Barony. He is dedicated to his job, if a bit uncreative, and willing to look beyond the obvious when pushed.

@@ -17,6 +17,6 @@ title: Solas Abbey
 </div>
 
 
-Solas Abbey is a partially ruined religious house on the upper road of the [Chasa River Valley](<./chasa-river-valley.md>), once the home of the Solatine Order, a now-defunct itinerant order devoted to [The Wyrdling](<../../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>). 
+Solas Abbey is a partially ruined religious house on the upper road of the [Chasa River Valley](<chasa-river-valley.md>), once the home of the Solatine Order, a now-defunct itinerant order devoted to [The Wyrdling](<../../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>). 
 
 

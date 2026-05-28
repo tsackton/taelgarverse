@@ -13,6 +13,7 @@ title: Hakeasa Vaallinen
 whereabouts: Pyhlla
 dm_notes: color
 dm_owner: tim
+hide_toc: true
 ---
 # Hakeasa Vaallinen
 :speaker:{ .middle } *(va-lin-en)*  

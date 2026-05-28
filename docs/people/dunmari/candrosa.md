@@ -17,6 +17,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Candrosa
+hide_toc: true
 ---
 # Candrosa
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

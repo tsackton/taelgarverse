@@ -11,6 +11,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Cato Stormtouched
+hide_toc: true
 ---
 # Cato Stormtouched
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

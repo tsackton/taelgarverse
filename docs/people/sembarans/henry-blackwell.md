@@ -10,6 +10,7 @@ gender: male
 dm_notes: none
 dm_owner: none
 title: Henry Blackwell
+hide_toc: true
 ---
 # Henry Blackwell
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -23,4 +24,4 @@ title: Henry Blackwell
 </div>
 
 
-The apprentice of [Avelina Smith](<./avelina-smith.md>) and a talented metalworker. He died in the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).
+The apprentice of [Avelina Smith](<avelina-smith.md>) and a talented metalworker. He died in the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).

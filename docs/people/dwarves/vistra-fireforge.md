@@ -15,6 +15,7 @@ whereabouts:
 dm_notes: color
 dm_owner: none
 title: Vistra Fireforge
+hide_toc: true
 ---
 # Vistra Fireforge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -1,48 +1,101 @@
 #!/bin/zsh
+set -euo pipefail
 
-## autobuild Taelgarverse website
+eval "$(mamba shell hook --shell zsh)"
+mamba activate taelgar-utils
 
-## set variables
-## path of the source vault, relative to the root of the website repo
-SOURCE_PATH="taelgar"
-## path to the autobuild python script, relative to the root of the website repo
-RUN_SCRIPT="taelgar-utils/website/build_mkdocs_site.py"
-## assumes this script is in the root of the website repo
-BUILD_PATH=$(pwd)
+WEBSITE_ROOT="${TAELGAR_WEBSITE_ROOT:-${0:A:h}}"
+VAULT_ROOT="${TAELGAR_VAULT_ROOT:-/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar}"
+STATIC_OUT="${TAELGAR_STATIC_OUT:-$WEBSITE_ROOT/taelgar-static}"
+MATERIALIZER="${TAELGAR_MATERIALIZER:-$VAULT_ROOT/_scripts/materialize-dataview/materialize-dataview.mjs}"
+BUILD_SITE="${TAELGAR_BUILD_SITE:-$WEBSITE_ROOT/taelgar-utils/website/build_site.py}"
+WEBSITE_CONFIG="${TAELGAR_WEBSITE_CONFIG:-$WEBSITE_ROOT/website.json}"
+OBSIDIAN_VAULT="${TAELGAR_OBSIDIAN_VAULT:-84d8c2b4070c9a2c}"
+PYTHON_BIN="${PYTHON_BIN:-python}"
+NODE_BIN="${NODE_BIN:-node}"
+HEADER_TYPE="${TAELGAR_HEADER_TYPE:-website}"
+MATERIALIZE_TIMEOUT="${TAELGAR_MATERIALIZE_TIMEOUT:-600}"
+MATERIALIZE_STRICT="${TAELGAR_MATERIALIZE_STRICT:-false}"
 
-# convert relative paths to absolute paths
-SOURCE_PATH="$BUILD_PATH/$SOURCE_PATH"
-RUN_SCRIPT="$BUILD_PATH/$RUN_SCRIPT"
-
-## check if needed files are present: autobuild.json, website.json
-if [ ! -f autobuild.json ]; then
-    echo "autobuild.json not found"
-    exit 1
+if [[ "$#" -eq 0 ]]; then
+    set -- build
 fi
 
-if [ ! -f website.json ]; then
-    echo "website.json not found"
-    exit 1
-fi
+usage() {
+    cat <<EOF
+Usage: ./autobuild_website.sh COMMAND [ARGS...]
 
-## clean source
-cd $SOURCE_PATH
-git reset --hard
-# update submodules
-cd $BUILD_PATH
-git submodule update --remote --rebase
+Commands:
+  materialize     Run the Obsidian materializer into taelgar-static.
+  export          Export taelgar-static into docs.
+  refresh-export  Run materialize, then export.
+  build           Run materialize, export, and mkdocs build.
+  serve           Export taelgar-static, build MkDocs, then serve locally.
+  deploy          Run materialize, export, mkdocs build, commit, and push.
+  publish         Run mkdocs build, commit, and push without materialize/export.
+EOF
+}
 
-# autoupdate session notes index
-python taelgar-utils/generate_index_page.py "$SOURCE_PATH/Campaigns/Dunmari Frontier Campaign/Session Notes/" --link_style wiki --sort_order DR --tie_breaker realWorldDate --template "- **{descTitle}** ({link_text}, {event_date_str}): {tagline} ({people_str})" > "$SOURCE_PATH/Campaigns/Dunmari Frontier Campaign/Sessions.md"
+clear_static_out() {
+    if [[ -z "$STATIC_OUT" || "$STATIC_OUT" == "/" || "$STATIC_OUT" == "$WEBSITE_ROOT" ]]; then
+        echo "Refusing to clear unsafe TAELGAR_STATIC_OUT: $STATIC_OUT" >&2
+        exit 1
+    fi
 
-# run autobuild
-python $RUN_SCRIPT
+    rm -rf "$STATIC_OUT"
+}
 
-# optionally run mkdocs serve or deploy
-if [ "$1" = "serve" ]; then
-    mkdocs serve
-elif [ "$1" = "deploy" ]; then
-    git add --all
-    git commit -m "autobuild"
-    git push
-fi
+run_static_build() {
+    local strict_arg="--no-strict"
+    if [[ "$MATERIALIZE_STRICT" == "true" || "$MATERIALIZE_STRICT" == "1" ]]; then
+        strict_arg="--strict"
+    fi
+
+    clear_static_out
+
+    "$NODE_BIN" "$MATERIALIZER" \
+        --vault "$VAULT_ROOT" \
+        --out "$STATIC_OUT" \
+        --header-type "$HEADER_TYPE" \
+        --obsidian-vault "$OBSIDIAN_VAULT" \
+        "$strict_arg" \
+        --timeout "$MATERIALIZE_TIMEOUT"
+}
+
+run_site_build() {
+    "$PYTHON_BIN" "$BUILD_SITE" --config "$WEBSITE_CONFIG" "$@"
+}
+
+command="$1"
+shift
+
+case "$command" in
+    materialize)
+        run_static_build
+        ;;
+    export)
+        run_site_build export "$@"
+        ;;
+    refresh-export)
+        run_static_build
+        run_site_build export "$@"
+        ;;
+    build)
+        run_static_build
+        run_site_build build "$@"
+        ;;
+    serve)
+        run_site_build serve "$@"
+        ;;
+    deploy)
+        run_static_build
+        run_site_build deploy "$@"
+        ;;
+    publish)
+        run_site_build publish "$@"
+        ;;
+    *)
+        usage >&2
+        exit 2
+        ;;
+esac

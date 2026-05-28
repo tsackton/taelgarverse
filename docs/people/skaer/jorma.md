@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: none
 dm_notes: color
 title: Jorma
+hide_toc: true
 ---
 # Jorma
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,4 +30,4 @@ title: Jorma
 
 
 
-Jorma, a Skaer priest in his early 30s, served as the Priest of the Waters in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>). He was killed by [Urgall the Black](<./urgall-the-black.md>) in May 1748.
+Jorma, a Skaer priest in his early 30s, served as the Priest of the Waters in [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>). He was killed by [Urgall the Black](<urgall-the-black.md>) in May 1748.

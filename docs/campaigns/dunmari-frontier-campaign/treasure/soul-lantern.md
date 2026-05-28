@@ -10,7 +10,7 @@ title: Soul Lantern
 
 This hooded lantern seems to constantly murmur and moan in a strange language just faint enough to not be clearly heard, and radiates necromancy magic. 
 
-Seen in [Mirror of the Past](<./mirror-of-the-past.md>): [Soul Lantern Vision](<../mirror-visions/soul-lantern-vision.md>)
+Seen in [Mirror of the Past](<mirror-of-the-past.md>): [Soul Lantern Vision](<../mirror-visions/soul-lantern-vision.md>)
 
 
 

@@ -7,6 +7,7 @@ died: 1
 dm_notes: color
 dm_owner: none
 title: Fides Lucaris Spy
+hide_toc: true
 ---
 # Fides Lucaris Spy
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

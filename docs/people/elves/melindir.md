@@ -14,6 +14,7 @@ pronunciation: meh-LIN-deer
 dm_owner: none
 dm_notes: color
 title: Melindir
+hide_toc: true
 ---
 # Melindir
 :speaker:{ .middle } *(meh-LIN-deer)*  

@@ -10,6 +10,7 @@ whereabouts: Cranford
 dm_notes: color
 dm_owner: none
 title: Simon of Cranford
+hide_toc: true
 ---
 # Simon of Cranford
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

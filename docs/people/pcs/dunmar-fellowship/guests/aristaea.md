@@ -15,6 +15,7 @@ affiliations:
 dm_owner: player
 dm_notes: important
 title: Aristaea
+hide_toc: true
 ---
 # Aristaea
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

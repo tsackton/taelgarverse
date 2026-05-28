@@ -10,6 +10,7 @@ dm_notes: important
 affiliations:
 - {org: d'Aslains, type: primary}
 title: Rene D'Aslain
+hide_toc: true
 ---
 # Rene D'Aslain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -21,4 +22,4 @@ title: Rene D'Aslain
 </div>
 
 
-A nephew of [Isabeau D'Aslain](<./isabeau-d-aslain.md>) noted for artistic skill. 
+A nephew of [Isabeau D'Aslain](<isabeau-d-aslain.md>) noted for artistic skill. 

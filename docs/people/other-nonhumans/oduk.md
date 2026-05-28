@@ -11,6 +11,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Oduk
+hide_toc: true
 ---
 # Oduk
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -31,8 +32,6 @@ Oduk is a demon created with the ability to corrupt animals into gnolls.
 
 
 
-
-He was summoned into the material plane, in the abandoned Dunmari stronghold of [Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>), in the spring of 1748, where he was charged by his summoner to spawn as many gnoll warbands as possible and release them into the Dunmari frontier. He was [banished back to the Abyss](<../../campaigns/dunmari-frontier-campaign/session-notes/session-11-dufr.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in April, 1748 DR. 
 
 
 

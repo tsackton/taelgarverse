@@ -13,6 +13,7 @@ player: David Schwartz
 dm_notes: important
 dm_owner: player
 title: Thror
+hide_toc: true
 ---
 # Thror
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

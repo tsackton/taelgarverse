@@ -13,6 +13,7 @@ affiliations:
 whereabouts: Isenborg
 dm_owner: tim
 dm_notes: important
+hide_toc: true
 ---
 # King Brimskarda
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

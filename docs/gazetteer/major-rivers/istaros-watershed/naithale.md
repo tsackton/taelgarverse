@@ -14,11 +14,11 @@ title: Naithalë
 # Naithalë
 :speaker:{ .middle } *(NY-thah-lay)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A river in the [Istaros Watershed](<./istaros-watershed.md>)  
+-    :octicons-location-24:{ .lg .middle } A river in the [Istaros Watershed](<istaros-watershed.md>)  
 </div>
 
 
-The Naithalë flows south from the [Mostreve Hills](<../../greater-sembara/mostreve-hills.md>) to [Lathirion Lake](<./lathirion-lake.md>) through largely uninhabited and desolate land. It is a border of sorts for the elves, and the elves of [Orenlas](<../../upper-istaros/orenlas/orenlas.md>) rarely cross the Naithalë, or if they do, only with strength of arms and magic. 
+The Naithalë flows south from the [Mostreve Hills](<../../greater-sembara/mostreve-hills.md>) to [Lathirion Lake](<lathirion-lake.md>) through largely uninhabited and desolate land. It is a border of sorts for the elves, and the elves of [Orenlas](<../../upper-istaros/orenlas/orenlas.md>) rarely cross the Naithalë, or if they do, only with strength of arms and magic. 
 
 
 ### Names

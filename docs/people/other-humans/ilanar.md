@@ -7,6 +7,7 @@ dm_notes: none
 pronunciation: ee-lah-NAHR
 species: unknown
 title: Ilanar
+hide_toc: true
 ---
 # Ilanar
 :speaker:{ .middle } *(ee-lah-NAHR)*  

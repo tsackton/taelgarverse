@@ -17,6 +17,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Sarabeth
+hide_toc: true
 ---
 # Sarabeth
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -33,4 +34,4 @@ title: Sarabeth
 </div>
 
 
-A senior guardswoman under [Ysabel](<./ysabel.md>) and veteran of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>). She was wounded twice during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).
+A senior guardswoman under [Ysabel](<ysabel.md>) and veteran of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>). She was wounded twice during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).

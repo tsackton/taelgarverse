@@ -9,6 +9,7 @@ ancestry: Sembaran
 dm_notes: none
 dm_owner: none
 title: Yvette
+hide_toc: true
 ---
 # Yvette
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,4 +23,4 @@ title: Yvette
 </div>
 
 
-![Yvette](../../assets/yvette.png){align="right"; width="320"}A caretaker and nurse in Essford Manor, currently caring for [Wymar Essford](<./wymar-essford.md>) in his illness. Previously a cook, and with an unusual connection to the Night Queen. She tends the small shrine to the Night Queen in Essford Manor while [Eremon](<./eremon.md>) is travelling.
+![Yvette](../../assets/yvette.png){align="right"; width="320"}A caretaker and nurse in Essford Manor, currently caring for [Wymar Essford](<wymar-essford.md>) in his illness. Previously a cook, and with an unusual connection to the Night Queen. She tends the small shrine to the Night Queen in Essford Manor while [Eremon](<eremon.md>) is travelling.

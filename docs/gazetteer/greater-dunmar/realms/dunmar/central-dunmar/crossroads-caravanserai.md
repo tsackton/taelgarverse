@@ -6,7 +6,6 @@ typeOf: inn
 whereabouts: Stoneway
 dm_owner: none
 dm_notes: color
-unlisted: true
 title: ~Crossroads Caravanserai~
 ---
 # The ~Crossroads Caravanserai~
@@ -17,4 +16,4 @@ title: ~Crossroads Caravanserai~
 
 
 
-A caravanserai at the crossroads of the [Stoneway](<../../../roads/stoneway.md>) and the [Tokra-Darba Road](<../../../roads/tokra-darba-road.md>). It is often a busy place with travelers, and a good place to collect information. One of the larger caravanserai between [Tokra](<tokra/tokra.md>) and [Songara](<./songara.md>) along the [Stoneway](<../../../roads/stoneway.md>), with what amounts to a small village around the caravanserai structure itself. During in the months after the monsoon, when the grass in the surrounding plains is lush, grows to a few hundred people or more, but empties out during the heat of summer. 
+A caravanserai at the crossroads of the [Stoneway](<../../../roads/stoneway.md>) and the [Tokra-Darba Road](<../../../roads/tokra-darba-road.md>). It is often a busy place with travelers, and a good place to collect information. One of the larger caravanserai between [Tokra](<tokra/tokra.md>) and [Songara](<songara.md>) along the [Stoneway](<../../../roads/stoneway.md>), with what amounts to a small village around the caravanserai structure itself. During in the months after the monsoon, when the grass in the surrounding plains is lush, grows to a few hundred people or more, but empties out during the heat of summer. 

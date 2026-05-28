@@ -14,6 +14,7 @@ born: 1709
 dm_owner: none
 dm_notes: none
 title: Rowena
+hide_toc: true
 ---
 # Rowena
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -31,7 +32,7 @@ title: Rowena
 :octicons-location-24:{ .lg .middle } Rescued by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 17th, 1715 in [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
-A villager and forager from [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>); daughter of [Manfred](<./manfred.md>).
+A villager and forager from [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>); daughter of [Manfred](<manfred.md>).
 ## Events
 - May 17, 1715 DR: Rescued by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) from a bee‑filled cave east of Haldrenn shortly before a worg attack on the hamlet.
 

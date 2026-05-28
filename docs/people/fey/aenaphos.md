@@ -10,6 +10,7 @@ whereabouts: Emberwine
 dm_notes: none
 dm_owner: none
 title: Aenaphos
+hide_toc: true
 ---
 # Aenaphos
 :speaker:{ .middle } *(AYN-ah-fohs)*  

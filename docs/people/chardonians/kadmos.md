@@ -21,6 +21,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Kadmos
+hide_toc: true
 ---
 # Kadmos
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -44,7 +45,7 @@ title: Kadmos
 
 
 
-![Kadmos Portrait](../../assets/kadmos-portrait.png){align="right"; width="320"}A mysterious figure who doesn't speak unless necessary, the leader of this company, with [Hektor](<./hektor.md>), [Marcella](<./marcella.md>), [Antonia](<./antonia.md>), and [Casian](<./casian.md>). 
+![Kadmos Portrait](../../assets/kadmos-portrait.png){align="right"; width="320"}A mysterious figure who doesn't speak unless necessary, the leader of this company, with [Hektor](<hektor.md>), [Marcella](<marcella.md>), [Antonia](<antonia.md>), and [Casian](<casian.md>). 
 
 A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather armor, without obvious weapons. A spellcaster, who took on an undead visage in combat and whose spirit seems touched by a darkness. 
 

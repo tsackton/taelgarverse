@@ -10,6 +10,7 @@ whereabouts: Chardon
 dm_owner: none
 dm_notes: none
 title: Iveila the Red
+hide_toc: true
 ---
 # Iveila the Red
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

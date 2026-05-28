@@ -12,6 +12,7 @@ title: King Cynan
 died: 1589
 dm_notes: none
 dm_owner: none
+hide_toc: true
 ---
 # King Cynan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -25,5 +26,5 @@ dm_owner: none
 </div>
 
 
-A king of Tyrwingha who, by marrying [Elaine I](<./elaine-i.md>), reunited the crowns of Sembara and Tyrwingha. He married [Elaine I](<./elaine-i.md>) in DR 1567. 
+A king of Tyrwingha who, by marrying [Elaine I](<elaine-i.md>), reunited the crowns of Sembara and Tyrwingha. He married [Elaine I](<elaine-i.md>) in DR 1567. 
 

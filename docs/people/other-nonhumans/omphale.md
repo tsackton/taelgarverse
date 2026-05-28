@@ -6,6 +6,7 @@ dm_notes: none
 dm_owner: mike
 whereabouts: Cleenseau Wood
 title: Omphale
+hide_toc: true
 ---
 # Omphale
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

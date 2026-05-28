@@ -15,6 +15,7 @@ timelineDescriptor: Motua
 dm_owner: tim
 dm_notes: none
 title: Motua
+hide_toc: true
 ---
 # Motua
 :speaker:{ .middle } *(moh-TOO-ah)*  
@@ -31,10 +32,10 @@ title: Motua
 ![Motua](../../assets/motua.png){align="right"; width="400"}One of the guardians of the [Land of the Dead](<../../cosmology/land-of-the-dead.md>), a [Gidari](<../../creatures/extraplanar/gidari.md>), who is native to the [Land of the Dead](<../../cosmology/land-of-the-dead.md>) and serves as a guide and protector of souls on their journey beyond the veil. 
 
 
-In DR 1747, Motua fought [Grash](<./grash.md>) in the [Land of the Dead](<../../cosmology/land-of-the-dead.md>), and was wounded, and driven to the material plane. They arrived at the [Footprint of the Gods](<../../gazetteer/faraway-places/azta-lekua.md>), in pain, wracked by spiritual chains created by the [Ring of Undying](<../../things/artifacts-of-power/ring-of-undying.md>), and unconsciously draining the spiritual essence of [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), the Footprint of the Gods. Motua was healed by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) and his [lizardfolk](<../../creatures/species/lizardfolk.md>) allies in DR 1748.
+In DR 1747, Motua fought [Grash](<grash.md>) in the [Land of the Dead](<../../cosmology/land-of-the-dead.md>), and was wounded, and driven to the material plane. They arrived at the [Footprint of the Gods](<../../gazetteer/faraway-places/azta-lekua.md>), in pain, wracked by spiritual chains created by the [Ring of Undying](<../../things/artifacts-of-power/ring-of-undying.md>), and unconsciously draining the spiritual essence of [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), the Footprint of the Gods. Motua was healed by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) and his [lizardfolk](<../../creatures/species/lizardfolk.md>) allies in DR 1748.
 
-- Jun 11, 1747 DR [Grash](<./grash.md>) enters the [Land of the Dead](<../../cosmology/land-of-the-dead.md>) to activate the [Ring of Undying](<../../things/artifacts-of-power/ring-of-undying.md>), and encounters [Motua](<./motua.md>). They fight, and [Motua](<./motua.md>) is wounded.
-- Jul 02, 1747 DR [Motua](<./motua.md>) lands, disoriented, in the [Footprint of the Gods](<../../gazetteer/faraway-places/azta-lekua.md>).
-- Nov 06, 1748 DR [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>), and [Enari](<../lizardfolk/enari.md>) heal [Motua](<./motua.md>).
+- Jun 11, 1747 DR [Grash](<grash.md>) enters the [Land of the Dead](<../../cosmology/land-of-the-dead.md>) to activate the [Ring of Undying](<../../things/artifacts-of-power/ring-of-undying.md>), and encounters [People/Other Nonhumans/Motua](<motua.md>). They fight, and [People/Other Nonhumans/Motua](<motua.md>) is wounded.
+- Jul 02, 1747 DR [People/Other Nonhumans/Motua](<motua.md>) lands, disoriented, in the [Footprint of the Gods](<../../gazetteer/faraway-places/azta-lekua.md>).
+- Nov 06, 1748 DR [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>), and [Enari](<../lizardfolk/enari.md>) heal [People/Other Nonhumans/Motua](<motua.md>).
 
 

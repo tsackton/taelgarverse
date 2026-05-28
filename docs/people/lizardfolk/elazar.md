@@ -14,6 +14,7 @@ activeYear: 1735
 dm_owner: tim
 dm_notes: important
 title: Elazar
+hide_toc: true
 ---
 # Elazar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -37,8 +38,5 @@ title: Elazar
 
 ![Elazar Portrait](../../assets/elazar-portrait.png){align="right"; width="400"}A lizardfolk man in the prime of his life, a prophet, seer, and spirit guide who has deeply felt visions and exceptional perception into the spirit realms. A bit of an outcast in his village, seen as someone who sees trouble in everything.
 
-
-- 1748 DR. Elazar began to acquire a reputation as far-sighted and wise, after he warned of the troubles of the [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>). 
-- Sep 30, 1748 DR. Elazar met [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) when [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) appeared in [Orekatu](<../../gazetteer/faraway-places/orekatu.md>). Taught [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) the lizardfolk language and introduced him to lizardfolk spiritual practices over the next month.
 
 

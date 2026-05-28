@@ -12,6 +12,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Abelard
+hide_toc: true
 ---
 # Abelard
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

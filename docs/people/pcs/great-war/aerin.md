@@ -10,12 +10,13 @@ affiliations:
 dm_owner: player
 dm_notes: important
 title: Aerin
+hide_toc: true
 ---
 # Aerin
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [kenku](<../../../creatures/species/kenku.md>) (he/him), of the [Heroes of the Great War](<./heroes-of-the-great-war.md>)  
+    A [kenku](<../../../creatures/species/kenku.md>) (he/him), of the [Heroes of the Great War](<heroes-of-the-great-war.md>)  
     { .bio }
 
 </div>

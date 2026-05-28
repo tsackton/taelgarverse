@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: none
 dm_notes: important
 title: Caelynn the Seer
+hide_toc: true
 ---
 # Caelynn the Seer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

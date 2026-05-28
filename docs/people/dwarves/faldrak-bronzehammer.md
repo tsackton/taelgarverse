@@ -21,6 +21,7 @@ image: faldrak-small.png
 dm_notes: important
 dm_owner: tim
 title: Faldrak Bronzehammer
+hide_toc: true
 ---
 # Faldrak Bronzehammer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

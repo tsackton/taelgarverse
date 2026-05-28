@@ -8,6 +8,7 @@ died: 1749-05-03
 name: Rhodar von Glauer
 dm_notes: important
 dm_owner: tim
+hide_toc: true
 ---
 # Lord Rhodar Von Glauer
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

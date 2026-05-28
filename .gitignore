@@ -140,6 +140,9 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/taelgar-static
+/taelgar/
+/.website-build
 
 # mypy
 .mypy_cache/

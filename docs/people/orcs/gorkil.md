@@ -15,6 +15,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Gorkil
+hide_toc: true
 ---
 # Gorkil
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

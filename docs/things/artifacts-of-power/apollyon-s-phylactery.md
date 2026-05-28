@@ -18,7 +18,7 @@ title: Apollyon's Phylactery
 Apollyon's Phylactery was the soul vessel of the lich [Apollyon](<../../people/historical-figures/drankorian-emperors/apollyon.md>). It took the form of a simple, unmarked dagger forged of [adamantine](<../materials/adamantine.md>), forged by the binding of seven innocent souls in a dark rite. Through it, Apollyon anchored his undeath and sustained his power.
 
 
-The dagger was forged by Apollyon in his tower, using layered metal and [adamantine](<../materials/adamantine.md>), and [fed by sacrifices](<../../campaigns/dunmari-frontier-campaign/mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) restrained in [Apollyon's Soulbinding Manacles](<./apollyon-s-soulbinding-manacles.md>). 
+The dagger was forged by Apollyon in his tower, using layered metal and [adamantine](<../materials/adamantine.md>), and [fed by sacrifices](<../../campaigns/dunmari-frontier-campaign/mirror-visions/apollyon-s-soulbinding-manacles-vision.md>) restrained in [Apollyon's Soulbinding Manacles](<apollyon-s-soulbinding-manacles.md>). 
 
 Long hidden and protected by [Rai](<../../people/pcs/great-war/rai.md>) within the ruins of the [Temple of the Eight Divines](<../../gazetteer/drankorian-hinterland/drankor/temple-of-the-eight-divines.md>) in [Drankor](<../../gazetteer/drankorian-hinterland/drankor/drankor.md>), the phylactery was recovered in DR 1749 by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>). The dagger was later carried into the [Land of the Dead](<../../cosmology/land-of-the-dead.md>), where mementos tied to each soul helped them remember who they were, and pass on. With their release, the phylactery unraveled and ceased to exist.
 

@@ -10,7 +10,7 @@ title: Elemental Plane of Air
 ---
 # The Elemental Plane of Air
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A plane in the [Energy Realms](<./energy-realms.md>)  
+-    :octicons-location-24:{ .lg .middle } A plane in the [Energy Realms](<energy-realms.md>)  
 </div>
 
 
@@ -36,7 +36,7 @@ The endless hymn of cloud and sky.
 
 The elementalist [Airion the Mistspeaker](<../../people/other-humans/airion.md>) extensively studied planar travel and connections between the planes. While much of his important work was lost during the [Blood Years](<../../events/1500s/blood-years.md>), a careful study of what fragments of his work do remain has allowed planar geographers to reconstruct some information about likely connections between the Plane of Air and other planes. 
 
-First, like all Energy Realms, the most straightforward, if challenging, way to reach the Plane of Air is via the [Ethereal Plane](<../ethereal-plane.md>), which surrounds all the [Energy Realms](<./energy-realms.md>). Airion, quoting a lost fragment of a text written by an unknown Drankorian explorer of the [Ethereal Plane](<../ethereal-plane.md>), reports that portals to the Elemental Plane of Air from the [Ethereal Plane](<../ethereal-plane.md>) resemble shimmering curtains of blue mist. Far more dangerous, but easier to access, are the [elemental vortexes](<../planar-concepts/elemental-vortex.md>) that sometimes appear in the center of particularly dangerous and powerful storms, or at the summit of the highest peaks of the [Sentinels](<../../gazetteer/sentinel-range.md>), which sweep travelers, willing or unwilling, across the planes. 
+First, like all Energy Realms, the most straightforward, if challenging, way to reach the Plane of Air is via the [Ethereal Plane](<../ethereal-plane.md>), which surrounds all the [Energy Realms](<energy-realms.md>). Airion, quoting a lost fragment of a text written by an unknown Drankorian explorer of the [Ethereal Plane](<../ethereal-plane.md>), reports that portals to the Elemental Plane of Air from the [Ethereal Plane](<../ethereal-plane.md>) resemble shimmering curtains of blue mist. Far more dangerous, but easier to access, are the [elemental vortexes](<../planar-concepts/elemental-vortex.md>) that sometimes appear in the center of particularly dangerous and powerful storms, or at the summit of the highest peaks of the [Sentinels](<../../gazetteer/sentinel-range.md>), which sweep travelers, willing or unwilling, across the planes. 
 
 Airion claimed that, due to the ever-changing and impermanent nature of the Plane of Air, no permanent portals between the [Material Plane](<../material-plane.md>) and the Plane of Air could exist, but whether this is merely speculation, or a fundamental cosmological truth, no one knows.  
 

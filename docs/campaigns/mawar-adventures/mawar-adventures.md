@@ -14,7 +14,7 @@ The Mawar Adventures have largely taken place around the port town of [Hamri](<.
 - [Ander](<../../people/pcs/mawar/ander.md>), a warrior from Hamri, who was away for twenty years serving in the Chardon legions, and has recently returned
 - [Kaleho](<../../people/pcs/mawar/kaleho.md>), a sailor and rogue who often visits the port of Hamri on his journeys
 
-So far, the [adventures to date](<./mawar-adventures-timeline.md>) have included:
+So far, the [adventures to date](<mawar-adventures-timeline.md>) have included:
 - [Mawar Adventures Episode 01](<episodes/mawar-adventures-episode-01.md>), The Merfolk Visitor
 - [Mawar Adventures Episode 02](<episodes/mawar-adventures-episode-02.md>), The Tragedy of Azar
 - [Mawar Adventures Episode 03](<episodes/mawar-adventures-episode-03.md>), The Tomb of Yerkir-khor

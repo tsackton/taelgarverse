@@ -20,7 +20,7 @@ title: Northern Provinces
 
 The Northern Provinces refer to the collection of provinces of the [Chardonian Empire](<../../greater-chardon/chardonian-empire/chardonian-empire.md>) north of [Lake Valandros](<../../greater-chardon/lake-valandros.md>). With the exception of the immediate vicinity around the north shore of the lake (south of the confluence of the [Snake River](<../../major-rivers/chasa-nahadi-watershed/snake-river.md>) and the [Zarnato](<../../major-rivers/chasa-nahadi-watershed/zarnato.md>)), this is largely lightly settled frontier land, repopulated by Chardonian settlers over the last century. The major economic engine of the Northern Provinces is [chalyte](<../../../things/materials/chalyte.md>), mined extensively near [Voltara](<voltara/voltara.md>). 
 
-By far the wealthiest and most significant of the Northern Provinces is [Greater Voltara](<./greater-voltara.md>). The remaining provinces are generally either minor border provinces primarily occupied for defense against hobgoblins, orcs, and other dangers of the far north, or the relatively impoverished provinces of the north shore of [Lake Valandros](<../../greater-chardon/lake-valandros.md>). 
+By far the wealthiest and most significant of the Northern Provinces is [Greater Voltara](<greater-voltara.md>). The remaining provinces are generally either minor border provinces primarily occupied for defense against hobgoblins, orcs, and other dangers of the far north, or the relatively impoverished provinces of the north shore of [Lake Valandros](<../../greater-chardon/lake-valandros.md>). 
 
 
 

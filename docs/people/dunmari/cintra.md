@@ -12,6 +12,7 @@ whereabouts: Karawa
 dm_notes: important
 dm_owner: tim
 title: Cintra
+hide_toc: true
 ---
 # Cintra
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -16,6 +16,6 @@ title: Airion’s Floating Tower
 -</div>
 
 
-The floating tower of [Airion Mistspeaker](<../../../people/other-humans/airion.md>). For many years after the [Great War](<../../../events/1500s/great-war.md>), it could be found on [Blacksilver Peak](<./blacksilver-peak.md>), in the [Fiatara Mountains](<./fiatara-mountains.md>), but it vanished in early DR 1748. 
+The floating tower of [Airion Mistspeaker](<../../../people/other-humans/airion.md>). For many years after the [Great War](<../../../events/1500s/great-war.md>), it could be found on [Blacksilver Peak](<blacksilver-peak.md>), in the [Fiatara Mountains](<fiatara-mountains.md>), but it vanished in early DR 1748. 
 
 

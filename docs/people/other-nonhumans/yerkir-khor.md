@@ -7,6 +7,7 @@ species: elemental
 dm_owner: tim
 dm_notes: important
 title: Yerkir-khor
+hide_toc: true
 ---
 # Yerkir-khor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

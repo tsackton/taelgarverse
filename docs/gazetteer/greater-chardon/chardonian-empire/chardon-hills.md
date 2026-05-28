@@ -6,12 +6,11 @@ whereabouts: Chardonian Empire
 dm_notes: none
 dm_owner: none
 typeOfAlias: line of hills
-unlisted: true
 title: ~Chardon Hills~
 ---
 # The ~Chardon Hills~
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A line of hills in the [Chardonian Empire](<./chardonian-empire.md>), [Greater Chardon](<../greater-chardon.md>)  
+-    :octicons-location-24:{ .lg .middle } A line of hills in the [Chardonian Empire](<chardonian-empire.md>), [Greater Chardon](<../greater-chardon.md>)  
 </div>
 
 

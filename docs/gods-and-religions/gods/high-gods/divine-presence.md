@@ -19,7 +19,7 @@ All religious traditions on Taelgar agree that the Divine Presence, or Presences
 
 The [Northern Folk Religions](<../../religions/northern-folk-religions/northern-folk-religions.md>) tend to interpret the Divine Presence as a single creator deity, and believe this creator deity is the source of divine magic, and the divinity to which the small gods bring their prayers. 
 
-The Deno'qai speak of Anida, called the "the First and the Last", the creator deity and the source of the [tanshi's](<../tanshi/tanshi.md>) magic and power. 
+The [Deno'qai](<../../../groups/cultures/deno-qai-tribes/deno-qai.md>) speak of Anida, called the "the First and the Last", the creator deity and the source of the [tanshi's](<../tanshi/tanshi.md>) magic and power. 
 
 In the [Kestavo](<../../religions/northern-folk-religions/kestavo.md>) tradition, one creator god is acknowledged, known as Ako. The small gods, the [Kestavo](<../../religions/northern-folk-religions/kestavo.md>), carry the prayers of their communities to Ako, who grants blessings. It is from Ako that the power of the [Kestavo](<../../religions/northern-folk-religions/kestavo.md>) flow to their worshippers.
 ## Human Pantheonic Traditions

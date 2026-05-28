@@ -16,6 +16,7 @@ affiliations:
 - {org: House of Sewick, type: primary}
 dm_notes: none
 dm_owner: none
+hide_toc: true
 ---
 # King Bertram II
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -29,6 +30,6 @@ dm_owner: none
 </div>
 
 
-The eldest child of [Reginald](<./reginald.md>), he was a ruler of Sembara in the 1550s. 
+The eldest child of [Reginald](<reginald.md>), he was a ruler of Sembara in the 1550s. 
 
 

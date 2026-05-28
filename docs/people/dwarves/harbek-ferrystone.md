@@ -9,6 +9,7 @@ whereabouts: Rinburg
 dm_owner: none
 dm_notes: none
 title: Harbek Ferrystone
+hide_toc: true
 ---
 # Harbek Ferrystone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

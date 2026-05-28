@@ -16,6 +16,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Nicholas the Beggar
+hide_toc: true
 ---
 # Nicholas the Beggar
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

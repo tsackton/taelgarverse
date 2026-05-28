@@ -9,6 +9,7 @@ whereabouts: Chalyte Levels
 dm_notes: none
 dm_owner: none
 title: Francisca
+hide_toc: true
 ---
 # Francisca
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,5 +23,5 @@ title: Francisca
 </div>
 
 
-Francisca, mother of [Xavier](<./xavier.md>) and [Adina](<./adina.md>), is a poor seamstress who does piece-work sewing and mending out of her small apartment near the [Foundry Market](<../../gazetteer/greater-chardon/chardonian-empire/chardon/foundry-market.md>). 
+Francisca, mother of [Xavier](<xavier.md>) and [Adina](<adina.md>), is a poor seamstress who does piece-work sewing and mending out of her small apartment near the [Foundry Market](<../../gazetteer/greater-chardon/chardonian-empire/chardon/foundry-market.md>). 
 

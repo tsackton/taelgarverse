@@ -13,6 +13,7 @@ dm_owner: tim
 dm_notes: important
 whereabouts: Carlinshire
 title: Arvanko
+hide_toc: true
 ---
 # Arvanko
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

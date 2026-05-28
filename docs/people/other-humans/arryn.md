@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Arryn of Tollen
+hide_toc: true
 ---
 # Arryn of Tollen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

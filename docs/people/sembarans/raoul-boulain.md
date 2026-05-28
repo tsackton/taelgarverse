@@ -9,6 +9,7 @@ dm_notes: important
 born: 1652-01-22
 died: 1720-03-20
 title: Raoul Boulain
+hide_toc: true
 ---
 # Raoul Boulain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

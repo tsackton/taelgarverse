@@ -15,6 +15,7 @@ dm_owner: none
 dm_notes: none
 pronunciation: GHEE-yem duh PONT
 title: Guilhem Du Pont
+hide_toc: true
 ---
 # Guilhem Du Pont
 :speaker:{ .middle } *(GHEE-yem duh PONT)*  

@@ -9,6 +9,7 @@ whereabouts: Ursk
 dm_notes: color
 dm_owner: tim
 title: Yelena
+hide_toc: true
 ---
 # Yelena
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -22,5 +23,5 @@ title: Yelena
 </div>
 
 
-The sister of [Radomir](<./radomir.md>). 
+The sister of [Radomir](<radomir.md>). 
 

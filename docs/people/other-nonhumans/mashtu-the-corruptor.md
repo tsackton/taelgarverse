@@ -10,6 +10,7 @@ whereabouts:
 dm_notes: important
 dm_owner: tim
 title: Mashtu the Corruptor
+hide_toc: true
 ---
 # Mashtu the Corruptor
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

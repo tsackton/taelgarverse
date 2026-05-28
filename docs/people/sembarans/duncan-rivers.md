@@ -11,6 +11,7 @@ whereabouts: The Bandit’s End
 dm_notes: none
 dm_owner: mike
 title: Duncan Rivers
+hide_toc: true
 ---
 # Duncan Rivers
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

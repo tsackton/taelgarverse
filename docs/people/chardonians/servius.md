@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Servius
+hide_toc: true
 ---
 # Servius
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
@@ -30,5 +31,5 @@ title: Servius
 :octicons-location-24:{ .lg .middle } Last known location (as of November 23th, 1748): [Illoria](<../../gazetteer/nevos-and-apporia/illoria.md>), the [Nevos Sea](<../../gazetteer/nevos-and-apporia/nevos-sea.md>)
 
 
-A wandering scholar and historian, funded by [Fausto](<./fausto.md>) to find rumors of treasure. 
+A wandering scholar and historian, funded by [Fausto](<fausto.md>) to find rumors of treasure. 
 

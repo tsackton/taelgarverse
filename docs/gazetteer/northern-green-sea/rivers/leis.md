@@ -16,4 +16,4 @@ title: Leis
 </div>
 
 
-A swift-flowing river that runs from the mountains near [Vedmakov](<../ursk/vedmakov.md>) until it joins the [Beyil](<./beyil.md>) near the village of [Volya](<../ursk/volya.md>). A road runs parallel to the Leis for much of its length, but the river itself is unnavigable, except when frozen in the depths of winter. 
+A swift-flowing river that runs from the mountains near [Vedmakov](<../ursk/vedmakov.md>) until it joins the [Beyil](<beyil.md>) near the village of [Volya](<../ursk/volya.md>). A road runs parallel to the Leis for much of its length, but the river itself is unnavigable, except when frozen in the depths of winter. 

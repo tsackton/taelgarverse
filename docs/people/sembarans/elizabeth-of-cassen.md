@@ -12,6 +12,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Elizabeth of Cassen
+hide_toc: true
 ---
 # Elizabeth of Cassen
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

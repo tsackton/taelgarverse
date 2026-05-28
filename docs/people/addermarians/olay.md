@@ -13,6 +13,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 title: Olay
+hide_toc: true
 ---
 # Olay
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -9,6 +9,7 @@ gender: male
 dm_notes: color
 dm_owner: mike
 title: Vondal Ferrystone
+hide_toc: true
 ---
 # Vondal Ferrystone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

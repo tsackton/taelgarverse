@@ -14,6 +14,7 @@ whereabouts:
 dm_owner: tim
 dm_notes: important
 title: Sh’shethis
+hide_toc: true
 ---
 # Sh’shethis
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

@@ -15,4 +15,4 @@ title: Haurhill
 </div>
 
 
-Haurhill is a ward of [Tollen](<../tollen.md>) built on the low rise west of the old city, overlooking the course of the [Little River](<../../rivers/volta-watershed/little-river.md>). This height of land was once the site of a Drankorian fort guarding the western approach and the Brooklawn suburbs, though the fort no longer stands intact. Narrow lanes climb the hill from [Brooklawn Inner](<./brooklawn-inner.md>) and [Fairgate Inner](<./fairgate-inner.md>). 
+Haurhill is a ward of [Tollen](<../tollen.md>) built on the low rise west of the old city, overlooking the course of the [Little River](<../../rivers/volta-watershed/little-river.md>). This height of land was once the site of a Drankorian fort guarding the western approach and the Brooklawn suburbs, though the fort no longer stands intact. Narrow lanes climb the hill from [Brooklawn Inner](<brooklawn-inner.md>) and [Fairgate Inner](<fairgate-inner.md>). 

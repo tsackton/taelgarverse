@@ -15,6 +15,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 title: Mermin Stonebridge
+hide_toc: true
 ---
 # Mermin Stonebridge
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>

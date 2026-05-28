@@ -9,6 +9,7 @@ gender: male
 dm_notes: important
 dm_owner: tim
 title: Mavdyr
+hide_toc: true
 ---
 # Mavdyr
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
