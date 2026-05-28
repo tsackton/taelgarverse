@@ -25,7 +25,7 @@ The four most numerous playable species in Taelgar, by a wide margin, are [human
 | Species                 | Key Question(s)                                                     | **Details**                                    | Starting Languages |
 | ----------------------- | ------------------------------------------------------------------- | ---------------------------------------------- | ------------------ |
 | [Human](<species/humans.md>)       | What is your cultural and religious background?                     | [Playing a Human](<mechanics/playing-a-human.md>)                            | 4                  |
-| [Halfling](<species/halflings.md>) | Did you grow up nomadic, or not? How did it impact you?             | [Playing a Halfing](<mechanics/playing-a-halfing.md>)                          | 5                  |
+| [Halfling](<species/halflings.md>) | Did you grow up nomadic, or not? How did it impact you?             | [Playing a Halfling](<mechanics/playing-a-halfling.md>)                          | 5                  |
 | [Dwarf](<species/dwarves.md>)      | What is your thuhr, and how did it impact (or not) your life?       | [Playing a Dwarf](<mechanics/playing-a-dwarf.md>)           | 4                  |
 | [Lizardfolk](<species/lizardfolk.md>)          | What is your relationship to the elders and ancestors of your home? | [Playing a Lizardfolk](<mechanics/playing-a-lizardfolk.md>) | 4                  |
 

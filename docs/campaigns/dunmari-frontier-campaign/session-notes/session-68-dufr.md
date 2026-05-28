@@ -37,7 +37,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 ### Letters Received
 - [Letter from Speaker Lara](<../letters-and-notes/letter-from-speaker-lara.md>)
 - [Letter from Govir](<../letters-and-notes/letter-from-govir.md>)
-- [Letter from Dee WIldcloak](<../letters-and-notes/letter-from-dee-wildcloak.md>)
+- [Letter from Dee Wildcloak](<../letters-and-notes/letter-from-dee-wildcloak.md>)
 - [Wellby's Letter](<../../../people/pcs/dunmar-fellowship/wellby.md#3c01eb>) **(personal)**
 - [Kenzo's Letter](<../../../people/pcs/dunmar-fellowship/kenzo.md#21d014>) **(personal)**
 

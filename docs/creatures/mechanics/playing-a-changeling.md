@@ -4,21 +4,9 @@ dm_owner: joint
 dm_notes: none
 title: Playing a Changeling
 ---
-# (XXX) Species Details
-*See more: links to relevant pages*
-D&D Beyond Link: [Changeling](lhttps://www.dndbeyond.com/species/1026382-changeling)
+# Changeling Species Details
 
-(SHORT DESCRIPTION, 1-2 PARAGRAPHS)
 
----
-## Creating Your (XXX) Character
-
-(1-2 PARAGRAPH; ROLE PLAYING AND BACKSTORY CONSIDERATIONS)
-(Ideally include an "if you don't want to engage with lore" option)
-
-### (Species) Names
-
-(Generic naming rules if player wants to use "typical" choices)
 
 ---
 ## Basic Traits
@@ -50,4 +38,3 @@ Thanks to your connection to the fey realm, you gain proficiency with two of the
 #### Shapechanger
 
 As an action, you can change your appearance and your voice. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight and can change your size between Medium and Small. You can make yourself appear as a member of another race, though none of your game statistics change. You can’t duplicate the appearance of an individual you’ve never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren’t changed by this trait.
-

@@ -1,3 +1,8 @@
+---
+title: Toc
+search:
+  exclude: true
+---
 - [Home](index.md)
 - [Current Campaigns](people/pcs/pcs.md)
     - Lost in the Feywild
@@ -144,7 +149,7 @@
                 - [Hobgoblin Notes from Raven's Hold](campaigns/dunmari-frontier-campaign/letters-and-notes/hobgoblin-notes-from-raven-s-hold.md)
                 - [Lakan Monk Letter](campaigns/dunmari-frontier-campaign/letters-and-notes/lakan-monk-letter.md)
                 - [Letter from Candrosa](campaigns/dunmari-frontier-campaign/letters-and-notes/letter-from-candrosa.md)
-                - [Letter from Dee WIldcloak](campaigns/dunmari-frontier-campaign/letters-and-notes/letter-from-dee-wildcloak.md)
+                - [Letter from Dee Wildcloak](campaigns/dunmari-frontier-campaign/letters-and-notes/letter-from-dee-wildcloak.md)
                 - [Letter from Govir](campaigns/dunmari-frontier-campaign/letters-and-notes/letter-from-govir.md)
                 - [Letter from Speaker Lara](campaigns/dunmari-frontier-campaign/letters-and-notes/letter-from-speaker-lara.md)
                 - [Nayan Marathu's Letter](campaigns/dunmari-frontier-campaign/letters-and-notes/nayan-marathu-s-letter.md)
@@ -353,7 +358,7 @@
                 - [Upon the Fractured Earth](things/books/upon-the-fractured-earth.md)
                 - [Verdant Canticles](things/books/verdant-canticles.md)
                 - [Zharuk Akhal](things/books/zharuk-akhal.md)
-- People
+- [People](people/people.md)
     - Humans
         - Chardonians
             - [Adina](people/chardonians/adina.md)
@@ -1064,7 +1069,7 @@
             - [Rodnya Zoryana](groups/urskan-magical-organizations/rodnya-zoryana.md)
             - [Rodnye](groups/urskan-magical-organizations/rodnya.md)
     - [Languages](background/languages.md)
-- [Gazetteer](background/player-s-guide.md)
+- [Gazetteer](gazetteer/geography-of-taelgar.md)
     - [World of Taelgar](gazetteer/geography-of-taelgar.md)
         - [Map of Taelgar](gazetteer/world-of-taelgar.md)
         - [Central Highlands](gazetteer/central-highlands/central-highlands.md)
@@ -1903,7 +1908,7 @@
             - [Playing a Fae](creatures/mechanics/playing-a-fae.md)
             - [Playing a Fairy](creatures/mechanics/playing-a-fairy.md)
             - [Playing a Free Orc](creatures/mechanics/playing-a-free-orc.md)
-            - [Playing a Halfing](creatures/mechanics/playing-a-halfing.md)
+            - [Playing a Halfling](creatures/mechanics/playing-a-halfling.md)
             - [Playing a Human](creatures/mechanics/playing-a-human.md)
             - [Playing a Kenku](creatures/mechanics/playing-a-kenku.md)
             - [Playing a Kobold](creatures/mechanics/playing-a-kobold.md)

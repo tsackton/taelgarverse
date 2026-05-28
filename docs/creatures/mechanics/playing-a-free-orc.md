@@ -5,24 +5,12 @@ dm_notes: none
 title: Playing a Free Orc
 ---
 
-# (XXX) Species Details
-*See more: links to relevant pages*
-D&D Beyond Link: [Species Name](link)
+# Free Orc Species Details
 
-(SHORT DESCRIPTION, 1-2 PARAGRAPHS)
+
 
 ---
-## Creating Your (XXX) Character
-
-(1-2 PARAGRAPH; ROLE PLAYING AND BACKSTORY CONSIDERATIONS)
-(Ideally include an "if you don't want to engage with lore" option)
-
-### (Species) Names
-
-(Generic naming rules if player wants to use "typical" choices)
-
----
-## Orc Traits
+## Basic Traits
 
 **Creature Type:**  Humanoid
 **Size:** Your size is Medium

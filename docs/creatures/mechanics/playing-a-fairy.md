@@ -6,21 +6,9 @@ title: Playing a Fairy
 ---
 
 
-# (XXX) Species Details
-*See more: links to relevant pages*
-D&D Beyond Link: 
+# Fairy Species Details
 
-(SHORT DESCRIPTION, 1-2 PARAGRAPHS)
 
----
-## Creating Your (XXX) Character
-
-(1-2 PARAGRAPH; ROLE PLAYING AND BACKSTORY CONSIDERATIONS)
-(Ideally include an "if you don't want to engage with lore" option)
-
-### (Species) Names
-
-(Generic naming rules if player wants to use "typical" choices)
 
 ---
 ## Basic Traits

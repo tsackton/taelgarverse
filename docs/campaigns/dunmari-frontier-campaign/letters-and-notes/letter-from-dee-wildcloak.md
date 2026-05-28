@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [source]
-title: Letter from Dee WIldcloak
+title: Letter from Dee Wildcloak
 ---
-# Letter from Dee WIldcloak
+# Letter from Dee Wildcloak
 
 
 19 October 1748

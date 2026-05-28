@@ -5,20 +5,8 @@ dm_notes: none
 title: Playing a Beastfolk
 ---
 # Beastfolk Species Details
-*See more: links to relevant pages*
-D&D Beyond Link: 
 
-(SHORT DESCRIPTION, 1-2 PARAGRAPHS)
 
----
-## Creating Your Beastfolk Character
-
-(1-2 PARAGRAPH; ROLE PLAYING AND BACKSTORY CONSIDERATIONS)
-(Ideally include an "if you don't want to engage with lore" option)
-
-### Beastfolk Names
-
-(Generic naming rules if player wants to use "typical" choices)
 
 ---
 ## Basic Traits

@@ -15,6 +15,8 @@
 
 Any autobuild step that includes materialize, such as `materialize`, `build`, or `deploy`, is risky for routine validation: materialization is slow, often around 10 minutes, and destructive because it erases the previous `taelgar-static/` directory before regenerating it. That is correct tool behavior, but materialization errors are slow to recover from because the pipeline must run again.
 
+Before running any command that would run materialize, ask the user for explicit confirmation in the current conversation. This includes `./autobuild_website.sh materialize`, `./autobuild_website.sh build`, `./autobuild_website.sh deploy`, or any direct invocation of the materializer script.
+
 Prefer targeted checks unless the source vault or Dataview materialization itself changed:
 
 - `python taelgar-utils/website/build_site.py --config website.json check` validates config, links, assets, and nav without writing files.

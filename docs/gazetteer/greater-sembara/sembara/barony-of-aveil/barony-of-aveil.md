@@ -48,8 +48,8 @@ There is a maintained road the length of the [Auberonne](<../../rivers/wistel-en
 | [Ashcombe](<ashcombe.md>)                   | the [Barony of Aveil](<barony-of-aveil.md>)    | logging village   | pop. 237   |
 | [Aslain](<aslain.md>) (Ahz-lane)          | the [Barony of Aveil](<barony-of-aveil.md>)    | town              | pop. 1,187 |
 | [Beldor](<beldor.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | mining village    |            |
-| [Champimont](<champimont.md>) (Sham-PEE-mohn) | the [Barony of Aveil](<barony-of-aveil.md>)    | market town       | pop. 971   |
 | [Cassen](<cassen.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 35    |
+| [Champimont](<champimont.md>) (Sham-PEE-mohn) | the [Barony of Aveil](<barony-of-aveil.md>)    | market town       | pop. 971   |
 | [Ganboa](<cleenseau-region/ganboa.md>) (Gan-bo-a)          | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 62    |
 | [Cranford](<cranford.md>) (Cran-ford)       | the [Barony of Aveil](<barony-of-aveil.md>)    | town              | pop. 654   |
 | [Dallet](<dallet.md>) (da-LEH)            | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 308   |
