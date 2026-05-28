@@ -8,28 +8,29 @@ Taelgar Obsidian vault. The source vault is no longer tracked here as the
 
 ## Build
 
-Run the full local build from the repository root:
+Refresh the static export and generated docs from the repository root:
 
 ```sh
-./autobuild_website.sh
+./autobuild_website.sh build
 ```
 
 The wrapper defines the vault/materializer/site-build paths, refreshes
 `taelgar-static`, then runs:
 
 ```sh
-python taelgar-utils/website/build_site.py --config website.json build
+python taelgar-utils/website/build_site.py --config website.json export
 ```
 
-`build_site.py build` exports `taelgar-static` into `docs/` and runs
-`mkdocs build`.
+`build_site.py export` exports `taelgar-static` into `docs/`.
+
+Running `./autobuild_website.sh` without a command prints usage and exits
+without touching `taelgar-static`.
 
 Commands:
 
 ```sh
 ./autobuild_website.sh materialize
 ./autobuild_website.sh export
-./autobuild_website.sh refresh-export
 ./autobuild_website.sh build
 ./autobuild_website.sh serve
 ./autobuild_website.sh deploy

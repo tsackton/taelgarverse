@@ -1,6 +1,25 @@
 #!/bin/zsh
 set -euo pipefail
 
+usage() {
+    cat <<EOF
+Usage: ./autobuild_website.sh COMMAND [ARGS...]
+
+Commands:
+  materialize     Run the Obsidian materializer into taelgar-static.
+  export          Export taelgar-static into docs.
+  build           Run materialize, then export.
+  serve           Export taelgar-static, then serve locally.
+  deploy          Run materialize, export, and deploy.
+  publish         Run export, then deploy.
+EOF
+}
+
+if [[ "$#" -eq 0 ]]; then
+    usage >&2
+    exit 2
+fi
+
 eval "$(mamba shell hook --shell zsh)"
 mamba activate taelgar-utils
 
@@ -13,28 +32,10 @@ WEBSITE_CONFIG="${TAELGAR_WEBSITE_CONFIG:-$WEBSITE_ROOT/website.json}"
 OBSIDIAN_VAULT="${TAELGAR_OBSIDIAN_VAULT:-84d8c2b4070c9a2c}"
 PYTHON_BIN="${PYTHON_BIN:-python}"
 NODE_BIN="${NODE_BIN:-node}"
+MKDOCS_BIN="${MKDOCS_BIN:-mkdocs}"
 HEADER_TYPE="${TAELGAR_HEADER_TYPE:-website}"
 MATERIALIZE_TIMEOUT="${TAELGAR_MATERIALIZE_TIMEOUT:-600}"
 MATERIALIZE_STRICT="${TAELGAR_MATERIALIZE_STRICT:-false}"
-
-if [[ "$#" -eq 0 ]]; then
-    set -- build
-fi
-
-usage() {
-    cat <<EOF
-Usage: ./autobuild_website.sh COMMAND [ARGS...]
-
-Commands:
-  materialize     Run the Obsidian materializer into taelgar-static.
-  export          Export taelgar-static into docs.
-  refresh-export  Run materialize, then export.
-  build           Run materialize, export, and mkdocs build.
-  serve           Export taelgar-static, build MkDocs, then serve locally.
-  deploy          Run materialize, export, mkdocs build, commit, and push.
-  publish         Run mkdocs build, commit, and push without materialize/export.
-EOF
-}
 
 clear_static_out() {
     if [[ -z "$STATIC_OUT" || "$STATIC_OUT" == "/" || "$STATIC_OUT" == "$WEBSITE_ROOT" ]]; then
@@ -66,6 +67,10 @@ run_site_build() {
     "$PYTHON_BIN" "$BUILD_SITE" --config "$WEBSITE_CONFIG" "$@"
 }
 
+run_mkdocs() {
+    "$MKDOCS_BIN" "$@"
+}
+
 command="$1"
 shift
 
@@ -76,23 +81,20 @@ case "$command" in
     export)
         run_site_build export "$@"
         ;;
-    refresh-export)
+    build)
         run_static_build
         run_site_build export "$@"
         ;;
-    build)
-        run_static_build
-        run_site_build build "$@"
-        ;;
     serve)
-        run_site_build serve "$@"
+        run_site_build export
+        run_mkdocs serve "$@"
         ;;
     deploy)
         run_static_build
         run_site_build deploy "$@"
         ;;
     publish)
-        run_site_build publish "$@"
+        run_site_build deploy "$@"
         ;;
     *)
         usage >&2
