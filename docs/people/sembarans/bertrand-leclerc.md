@@ -25,4 +25,4 @@ hide_toc: true
 </div>
 
 
-![Bertrand Leclerc](../../assets/bertrand-leclerc.jpg){align="right"; width="320"}A sergeant of the Swordsguard of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>), he is a second cousin of Colonel Claude Leclerc, of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>). He is young and ambitious and is eager to prove himself.
+![Bertrand Leclerc](../../assets/bertrand-leclerc.webp){align="right"; width="320"}A sergeant of the Swordsguard of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>), he is a second cousin of Colonel Claude Leclerc, of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>). He is young and ambitious and is eager to prove himself.

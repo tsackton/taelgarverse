@@ -19,7 +19,7 @@ The Heart of the Mountain is the home of the [Bahrazel](<../../gods-and-religion
 
 >*A vast cavern hundreds and hundreds of feet across, with endless tunnels that leave the cave in all directions, many wide and brightly lit by crystal lanterns, others narrow, some nearly vanished into the shadows. Small motes of light that float in the air, causing the flecks of white gemstones and silver veins that run through the walls of the cave to glitter and sparkle. In the center of the open space is a perfectly smooth pool of water, deep and dark. The only sound is the distant, rhythmic clang of hammer on iron, ringing almost like a bell, the tempo slow but steady.*
 
-![Heart of the Mountain](../../assets/heart-of-the-mountain.png)
+![Heart of the Mountain](../../assets/heart-of-the-mountain.webp)
 
 ## The Forge of Names
 

@@ -32,7 +32,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
-![Thomas Hawke](../../assets/thomas-hawke.png){align="right"; width="400"}Thomas Hawke is Professor of Rhetoric, a playwright, and a rising star at the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>), recognized more for his dramatic flair than his academic pursuits. He is a handsome man in his mid-30s, well-dressed and exuding confidence. 
+![Thomas Hawke](../../assets/thomas-hawke.webp){align="right"; width="400"}Thomas Hawke is Professor of Rhetoric, a playwright, and a rising star at the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>), recognized more for his dramatic flair than his academic pursuits. He is a handsome man in his mid-30s, well-dressed and exuding confidence. 
 ## Overview
 Born and raised in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), Thomas Hawke is an ambitious scholar at the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>). While he holds a lectureship in rhetoric, his true passion leans more towards drama than academia. He is captivated by the allure of legends and tales, and has a passion for stories he can borrow from in his plays. His work, notably the locally famous play "[Luminastra's Gift](<../../things/books/luminastra-s-gift.md>)," has showcased his potential and marked him as an influential figure in the theatrical world.
 ## Relationships

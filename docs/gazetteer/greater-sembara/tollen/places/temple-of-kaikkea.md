@@ -22,4 +22,4 @@ An ancient building in [Godshome](<../wards/godshome.md>) in [Tollen](<../tollen
 
 The temple is a striking circular building of brilliant white marble shaped like undulating wave.
 
-![Tollen Kaikkea V2](../../../../assets/tollen-kaikkea-v2.png)
+![Tollen Kaikkea V2](../../../../assets/tollen-kaikkea-v2.webp)

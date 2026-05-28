@@ -44,5 +44,5 @@ hide_toc: true
 
 
 
-![Vahaiya 2](../../assets/vahaiya-2.jpg){align="right"; width="400"} 
+![Vahaiya 2](../../assets/vahaiya-2.webp){align="right"; width="400"} 
 

@@ -26,4 +26,4 @@ hide_toc: true
 </div>
 
 
-![Baxter Portrait](../../../../assets/baxter-portrait.jpg){align="right"; width="320"} [Wellby](<../wellby.md>)'s reliable mount, now well-trained in battle and exploration. 
+![Baxter Portrait](../../../../assets/baxter-portrait.webp){align="right"; width="320"} [Wellby](<../wellby.md>)'s reliable mount, now well-trained in battle and exploration. 

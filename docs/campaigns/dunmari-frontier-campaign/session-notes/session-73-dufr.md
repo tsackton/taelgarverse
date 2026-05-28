@@ -48,7 +48,7 @@ As the rest ends, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) ha
 
 In the library, the party does not find the phasing stone, but does find a strange doorway that shifts appearance based on whomever looks at it. When [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s moth scout enters but does not return, the party ventures into the doorway, which opens into a long hallway that seems to continue endlessly in both directions. 
 
-![Nightmare Maze Corridor](../../../assets/nightmare-maze-corridor.png)
+![Nightmare Maze Corridor](../../../assets/nightmare-maze-corridor.webp)
 
 The corridor leads to an empty throne room, with an empty small side chamber next to it. As the party begins to better understand this place and realize they can attempt to shape it with their thoughts and wishes, a silver bowl of shaved ice appears that [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) tries to eat. The party experiments a bit with keeping [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) from the ice, and then decides to try to clear their minds.
 
@@ -56,11 +56,11 @@ The corridor leads to an empty throne room, with an empty small side chamber nex
 
 [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), along with the heroic [Ladder](<../../../people/pcs/dunmar-fellowship/companions/ladder.md>) now sporting a dozen or more medals of honor, leaps to head in that direction, and the party follows. As the wind grows more intense, flashes of imagines can be seen, people struggling against snow and ice, freezing slowly until a round pulsating stone, the phasing stone, falls out of one of their hands. 
 
-![Phasing Stone](../../../assets/phasing-stone.png)
+![Phasing Stone](../../../assets/phasing-stone.webp)
 
 The party dives through the floor into an empty space, in which the phasing stone floats. 
 
-![Nightmare Empty](../../../assets/nightmare-empty.png)
+![Nightmare Empty](../../../assets/nightmare-empty.webp)
 
 After a few failed attempts to capture it, the party realizes that working together is the only way to outdream [Kurome](<../../../people/other-nonhumans/kurome.md>). [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) dreams a storm of hail and snow pelting the stone, which bursts into flame; [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) dreams a giant hunting bird of water, dowsing the stone, which turns to ice; [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) then dreams a wall of fire scorching the ice, and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) adds a lightning storm with flying boulders crushing it. The stone turns to solid volcanic rock, and falls through the water bird, into [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)'s dreaming: the [Portable Hole](<../treasure/portable-hole.md>). 
 

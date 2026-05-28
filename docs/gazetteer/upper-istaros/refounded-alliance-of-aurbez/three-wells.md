@@ -22,7 +22,7 @@ Three Wells is a meeting place and fortified camp on the [Aurbez Plateau](<../au
 
 At the valley’s heart sit three old stone wells in a tight triangle; between them, a pillar holds a communal bowl of clear water and a ladle. Above the valley, a watchtower is maintained by [Rangers](<../../../groups/rangers.md>)
 
-![Three Wells](../../../assets/three-wells.png)
+![Three Wells](../../../assets/three-wells.webp)
 *Three Wells occupied by Aurbeze gathering to discuss the invasion of the Iron Fang hobgoblins*
 
 Three Wells gets its name, and significance, from the [Three Kin's War](<../../../events/1500s/three-kin-s-war.md>), when lizardfolk, human, and stoneborn fought together against hobgoblin invaders and worse. The three wells honor each of the three kin who fought in the war. 

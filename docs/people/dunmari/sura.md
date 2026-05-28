@@ -50,7 +50,7 @@ Nayan Sura is the younger sister of Samraat [Nayan Karnas](<nayan-karnas.md>). O
 Sura was born in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), but traveled widely in her youth, including spending several years at the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). From a young age, she was seen as god-touched, and perceived as a potential heir to the Dunmari throne, one who could unite the eastern and western factions of the divided country. Her future was cut short in DR 1740, when she was just 20 years old: she was trapped by [Agata](<../fey/agata.md>) Dustmother in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), and vanished. In DR 1748, she was freed by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), and began to contemplate reclaiming the throne, especially in light of her perception that Karnas had neglected the east, most notably in his decision to leave the eastern nomads to their fate during the [Summer Gnoll Raids of 1748](<../../events/1700s/1748/summer-gnoll-raids-of-1748.md>). In December of DR 1748, she defeated a small force of Karnas' warriors and their Chardonian allies in the [Battle of Tokra](<../../events/1700s/1748/12/battle-of-tokra.md>), laying claim to central and [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). 
 ## Description
 
-![Sura](../../assets/sura.png)
+![Sura](../../assets/sura.webp)
 
 Sura is a tall, striking Dunmari woman, with high cheekbones, light brown skin, medium length dark hair, and a regal bearing. 
 ## Events
@@ -64,4 +64,5 @@ Sura is a tall, striking Dunmari woman, with high cheekbones, light brown skin, 
 
 ## Timeline
 _No events found._
+
 

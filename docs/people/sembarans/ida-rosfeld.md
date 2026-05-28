@@ -32,5 +32,5 @@ hide_toc: true
 </div>
 
 
-![Ida Rosfeld](../../assets/ida-rosfeld.png){align="right"; width="320"}Ida is the captain of the [Cleenseau Garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>). She is a no-nonsense commander who respects very few people other than [Rosalind Essford](<rosalind-essford.md>) and is known for her sharp tongue.
+![Ida Rosfeld](../../assets/ida-rosfeld.webp){align="right"; width="320"}Ida is the captain of the [Cleenseau Garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>). She is a no-nonsense commander who respects very few people other than [Rosalind Essford](<rosalind-essford.md>) and is known for her sharp tongue.
 

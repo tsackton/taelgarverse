@@ -24,4 +24,4 @@ hide_toc: true
 </div>
 
 
-![Marceline Dupont](../../assets/marceline-dupont.jpg){align="left"; width="200"}
+![Marceline Dupont](../../assets/marceline-dupont.webp){align="left"; width="200"}

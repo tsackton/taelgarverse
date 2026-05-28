@@ -14,7 +14,7 @@ title: Cha'mutte's Shadow Armband
 </div>
 
 
-![Shadow Armband](../../../assets/shadow-armband.png){align="right"; width="400"}An armband created by Cha’mutte and used to open portals to shadow realms during the [Great War](<../../../events/1500s/great-war.md>). The armbands were created in pairs, with each pair attuned to a particular shadow realm, allowing portals to be opened a great distance apart in Taelgar that could be spanned in a short amount of time by crossing through the pocket dimension. 
+![Shadow Armband](../../../assets/shadow-armband.webp){align="right"; width="400"}An armband created by Cha’mutte and used to open portals to shadow realms during the [Great War](<../../../events/1500s/great-war.md>). The armbands were created in pairs, with each pair attuned to a particular shadow realm, allowing portals to be opened a great distance apart in Taelgar that could be spanned in a short amount of time by crossing through the pocket dimension. 
 
 
 [People/PCs/Dunmar Fellowship/Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) recovered one armband during his [adventures in the north](<../session-notes/session-55-dufr.md>). This is one of a pair, which is connected to a shadow dimension where a large hobgoblin army has been trapped since the [Great War](<../../../events/1500s/great-war.md>). The paired armband connected to the same shadow dimension has been lost. Activating the portal requires attunement to the armband. In [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)'s experience, being attuned drains you and weakens you, however.

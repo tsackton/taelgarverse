@@ -31,6 +31,6 @@ hide_toc: true
 </div>
 
 
-![Baroness Isabeau](../../assets/baroness-isabeau.png){align="right"; width="320"}The baroness of the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>). 
+![Baroness Isabeau](../../assets/baroness-isabeau.webp){align="right"; width="320"}The baroness of the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>). 
 
 

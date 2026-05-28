@@ -1,7 +1,8 @@
 ---
-tags: [meta]
+tags: [meta, search/exclude]
 typeOf: timeline
 title: Mawar Adventures Timeline
+search: {exclude: true}
 ---
 
 # Mawar Adventures Timelines

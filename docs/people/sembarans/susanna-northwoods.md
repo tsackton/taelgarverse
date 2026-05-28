@@ -21,4 +21,4 @@ hide_toc: true
 </div>
 
 
-![Susanna Northwords](../../assets/susanna-northwords.jpg){align="right"; width="320"}The steward and secretary for the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>), and the wife of [Bertram Northwoods](<bertram-northwoods.md>).
+![Susanna Northwords](../../assets/susanna-northwords.webp){align="right"; width="320"}The steward and secretary for the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>), and the wife of [Bertram Northwoods](<bertram-northwoods.md>).

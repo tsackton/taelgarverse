@@ -36,6 +36,6 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Rescued by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 14th, 1748 from the aboleth lair east of the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), in the ~Eastern Islands~, the [Green Sea](<../../gazetteer/green-sea.md>)  
 
 
-![Nahto](../../assets/nahto.png){align="right"; width="400"}Kenku man in late middle age. Tinkerer, traveler, explorer; Nahto wanders over the islands of the Eastern [Green Sea](<../../gazetteer/green-sea.md>) with his partner, Skoda. 
+![Nahto](../../assets/nahto.webp){align="right"; width="400"}Kenku man in late middle age. Tinkerer, traveler, explorer; Nahto wanders over the islands of the Eastern [Green Sea](<../../gazetteer/green-sea.md>) with his partner, Skoda. 
 
 

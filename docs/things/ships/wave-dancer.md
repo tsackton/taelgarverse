@@ -30,5 +30,5 @@ A halfling ship plying the trade routes of the eastern Green Sea, regularly visi
 [Corrin Wildheart](<../../people/halflings/corrin-wildheart.md>), navigator
 [Lerry Wildheart](<../../people/halflings/lerry-wildheart.md>), quartermaster
 
-![Wave Dancer 1](../../assets/wave-dancer-1.png)
+![Wave Dancer 1](../../assets/wave-dancer-1.webp)
 

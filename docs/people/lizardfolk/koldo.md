@@ -24,5 +24,5 @@ hide_toc: true
 </div>
 
 
-![Lizardfolk Koldo](../../assets/lizardfolk-koldo.png){align="right"; width="320"}A reclusive druid, very rarely talks to outsiders.
+![Lizardfolk Koldo](../../assets/lizardfolk-koldo.webp){align="right"; width="320"}A reclusive druid, very rarely talks to outsiders.
 

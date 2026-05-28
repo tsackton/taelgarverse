@@ -29,5 +29,5 @@ hide_toc: true
 </div>
 
 
-![Drou Large](../../../assets/drou-large.png){align="right"; width="400"}Drou is a graceful dancer, singer, and musician from [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>), who has wandering around [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) and [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>) bringing joy to people's lives through music and dance. 
+![Drou Large](../../../assets/drou-large.webp){align="right"; width="400"}Drou is a graceful dancer, singer, and musician from [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>), who has wandering around [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) and [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>) bringing joy to people's lives through music and dance. 
 

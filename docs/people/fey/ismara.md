@@ -24,5 +24,5 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Last known location (as of June 10th, 1749): [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
 
 
-![Ismara](../../assets/ismara.jpg){align="right"; width="300"}Ismara is a wanderer and a scholar of humanity, an archivist of the [Mundane World](<../../cosmology/material-plane.md>). She is curious and bright, and prone to travel where fate takes her, although she tends to shy from danger. 
+![Ismara](../../assets/ismara.webp){align="right"; width="300"}Ismara is a wanderer and a scholar of humanity, an archivist of the [Mundane World](<../../cosmology/material-plane.md>). She is curious and bright, and prone to travel where fate takes her, although she tends to shy from danger. 
 

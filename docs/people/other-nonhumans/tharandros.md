@@ -41,7 +41,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on June 1st, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-![Tharandros Final](../../assets/tharandros-final.png){align="right"; width="400"}A centaur, the leader of a wandering herd, of indeterminate age. Wise and knowledgable.
+![Tharandros Final](../../assets/tharandros-final.webp){align="right"; width="400"}A centaur, the leader of a wandering herd, of indeterminate age. Wise and knowledgable.
 
 
 The Dunmar Fellowship met Tharandros and his herd traveling across the [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), the northern plains of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), and convinced them to aid [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), which proved crucial in driving off gnoll attacks. 

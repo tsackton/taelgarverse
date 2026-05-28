@@ -8,6 +8,6 @@ hide_toc: true
 
 
 
-![Elise Moreau](../../assets/elise-moreau.jpg){align="left"; width="400"}
+![Elise Moreau](../../assets/elise-moreau.webp){align="left"; width="400"}
 
 

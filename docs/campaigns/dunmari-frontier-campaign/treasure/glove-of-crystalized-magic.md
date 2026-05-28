@@ -19,6 +19,6 @@ title: Glove of Crystalized Magic
 </div>
 
 
-![Glove of Crystallized Magic](../../../assets/glove-of-crystallized-magic.jpg){align="right"; width="400"}A glove constructed by [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) in [Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>), from shards of crystalized magic gifted to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) by [Illaran](<../../../people/fey/illaran.md>). These shards allow you to manipulate magic as you cast spells, currently either by changing the range of spells, or by shifting the elemental effects of a spell. 
+![Glove of Crystallized Magic](../../../assets/glove-of-crystallized-magic.webp){align="right"; width="400"}A glove constructed by [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) in [Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>), from shards of crystalized magic gifted to [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) by [Illaran](<../../../people/fey/illaran.md>). These shards allow you to manipulate magic as you cast spells, currently either by changing the range of spells, or by shifting the elemental effects of a spell. 
 
 Improved by [Faldrak](<../../../people/dwarves/faldrak-bronzehammer.md>) at the Elemental Forge. 

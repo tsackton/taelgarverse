@@ -11,13 +11,13 @@ title: Wards of Tollen
 
 (2) **[Fiskurth](<wards/fiskurth.md>)** is the fishing ward, a cramped stretch of low docks, fish-stalls, and sailor’s inns where the inshore fleets bring their catch ashore at dawn.
 
-![Tollen Fiskurth](../../../assets/tollen-fiskurth.png)
+![Tollen Fiskurth](../../../assets/tollen-fiskurth.webp)
 
 (3) **[Aesganstrad](<wards/aesganstrad.md>)** is the ancient core of Tollen, a tangle of narrow streets, leaning houses, and strange old statues to forgotten heroes. 
 
 (4) **[Magus Street](<wards/magus-street.md>)** is the university district, crowded with bookshops, lecture halls, boarding houses, and student taverns spilling arguments and minor magic into the lanes.
 
-![Magnus Street](../../../assets/magnus-street.png)
+![Magnus Street](../../../assets/magnus-street.webp)
 
 (5) **[Nordgate](<wards/nordgate.md>)** is the dwarven-leaning craft ward around the old north gate, full of stone-fronted workshops and forges.
 
@@ -27,7 +27,7 @@ title: Wards of Tollen
 
 (8) **[Godshome](<wards/godshome.md>)** is the temple district, its streets winding between crowded shrines, great houses of the Eight Divines, the [Temple of Kaikkea](<places/temple-of-kaikkea.md>), and smaller, stranger faiths.
 
-![Temple of Wanderer V2](../../../assets/temple-of-wanderer-v2.png)
+![Temple of Wanderer V2](../../../assets/temple-of-wanderer-v2.webp)
 (9) **[Guildgate](<wards/guildgate.md>)** is the hill of guildhalls and merchant houses, where rich guilds keep their meeting rooms, gardens, and courts and send delegates to the Great Council.
 
 (10) **[Gold Street](<wards/gold-street.md>)** is the main commercial avenue of Tollen, a district of broad streets, counting-houses, and moneylenders where large deals are struck and recorded.
@@ -35,7 +35,7 @@ title: Wards of Tollen
 (11) **[Fairgate](<wards/fairgate.md>)**, split into [Fairgate Inner](<wards/fairgate-inner.md>) and [Fairgate Outer](<wards/fairgate-outer.md>) is the western gate district, a mix of markets, caravan inns, and halfling homes linked to the [Fairgrounds](<places/fairgrounds-tollen.md>) and the farms of [Fairgate Outer](<wards/fairgate-outer.md>).
 
 [Fairgate Outer](<wards/fairgate-outer.md>)
-![Fairgate Outer V1](../../../assets/fairgate-outer-v1.png)
+![Fairgate Outer V1](../../../assets/fairgate-outer-v1.webp)
 
 
 (12) **[Haurhill](<wards/haurhill.md>)** is the rise above the [Little River](<../rivers/volta-watershed/little-river.md>), built around the remains of an old Drankorian fort.

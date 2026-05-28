@@ -21,7 +21,7 @@ title: Driftglobe
 
 A driftglobe is a magical crystal, usually around 4 inches across, that floats and creates light. These crystal spheres are of Dwarven creation, originally enchanted to light their caverns underground, but many have found their way out of dwarven cities and across the world. 
 
-![Dwarven Driftglobe 1](../../assets/dwarven-driftglobe-1.jpg){align="right"; width="300"}![Dwarven Driftglobe 2](../../assets/dwarven-driftglobe-2.jpg){align="left"; width="300"}
+![Dwarven Driftglobe 1](../../assets/dwarven-driftglobe-1.webp){align="right"; width="300"}![Dwarven Driftglobe 2](../../assets/dwarven-driftglobe-2.webp){align="left"; width="300"}
 
 
 

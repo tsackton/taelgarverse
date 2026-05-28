@@ -39,14 +39,13 @@ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" >
             //  - [0,0]
             //  - [100,100]
 
-            var bounds = [[[0, 0], [1423, 3341]]];
+            var bounds = [[0, 0], [1423, 3341]];
+            var imageBounds = L.latLngBounds(bounds);
 
-            // this has to be the path, i.e. what was working for me was /assets/world-map-01-02.png
-            var image = L.imageOverlay('/taelgarverse/assets/north-green-sea-region.png', bounds).addTo(map);
+            var image = L.imageOverlay('/taelgarverse/assets/north-green-sea-region.png', imageBounds).addTo(map);
             map.setView( [697, 1700], -2);
         })
 </script>
-
 
 
 ## Topography and Major Features

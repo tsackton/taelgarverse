@@ -32,5 +32,5 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Currently in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>), the [Duchy of Sembara](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-![Eremon](../../assets/eremon.png){align="right"; width="320"}A newcomer to town and acolyte of the Night Queen. Eremon is well-travelled and a personal friend of [Rosalind's](<rosalind-essford.md>). He walks with a pronounced limp.  He was from [Fellburn](<../../gazetteer/greater-sembara/sembara/heartlands/fellburn.md>) originally and left shortly after [Cece I](<../historical-figures/sembaran-royalty/cece-i.md>) died. What he has been doing for the last seven years is not clear.
+![Eremon](../../assets/eremon.webp){align="right"; width="320"}A newcomer to town and acolyte of the Night Queen. Eremon is well-travelled and a personal friend of [Rosalind's](<rosalind-essford.md>). He walks with a pronounced limp.  He was from [Fellburn](<../../gazetteer/greater-sembara/sembara/heartlands/fellburn.md>) originally and left shortly after [Cece I](<../historical-figures/sembaran-royalty/cece-i.md>) died. What he has been doing for the last seven years is not clear.
 

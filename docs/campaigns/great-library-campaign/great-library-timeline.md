@@ -1,9 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+tags: [meta, search/exclude]
 typeOf: timeline
 name: Great Library Campaign Timeline
 title: Great Library Campaign Timeline
+search: {exclude: true}
 ---
 # Great Library Campaign Timeline
 

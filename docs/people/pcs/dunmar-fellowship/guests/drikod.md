@@ -30,7 +30,7 @@ hide_toc: true
 </div>
 
 
-![Drikod Portrait](../../../../assets/drikod-portrait.jpg){align="right"; width="400"}A stoneborn druid who spent some time investigating troubles in Dunmar. 
+![Drikod Portrait](../../../../assets/drikod-portrait.webp){align="right"; width="400"}A stoneborn druid who spent some time investigating troubles in Dunmar. 
 
 ## Pre-Campaign Events
 

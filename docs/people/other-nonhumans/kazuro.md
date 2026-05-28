@@ -22,5 +22,5 @@ hide_toc: true
 
 A stoneborn hermit living somewhere on the coast of [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>), known for his skill in alchemy and attunement to the ocean. 
 
-![Kazuro Portrait](../../assets/kazuro-portrait.png)
+![Kazuro Portrait](../../assets/kazuro-portrait.webp)
 

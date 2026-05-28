@@ -34,7 +34,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Last known location (as of January 19th, 1720): heading towards the [Borderlands](<../../gazetteer/greater-sembara/sembara/borderlands/borderlands.md>), in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), [Greater Sembara](<../../gazetteer/greater-sembara/greater-sembara.md>)
 
 
-![Lorin Valbet](../../assets/lorin-valbet.png){align="right"; width="320"}Lorin Valbert is the lord of [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>). He is a cousin of the old lord, [Lucas Asa](<lucas-asa.md>) ,via Lucas' biological father. Lorin did not expect to inherit a manorial lordship, and regards it as beneath his station, being a backwater far from the centers of power. 
+![Lorin Valbet](../../assets/lorin-valbet.webp){align="right"; width="320"}Lorin Valbert is the lord of [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>). He is a cousin of the old lord, [Lucas Asa](<lucas-asa.md>) ,via Lucas' biological father. Lorin did not expect to inherit a manorial lordship, and regards it as beneath his station, being a backwater far from the centers of power. 
 
 He has a wife and two young children who often reside in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>).
 

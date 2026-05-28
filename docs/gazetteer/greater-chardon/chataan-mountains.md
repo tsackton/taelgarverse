@@ -21,4 +21,4 @@ The Chataans are a rugged, rocky mountain chain that rise from the hills and cli
 
 To the northeast, the Chataans merge with the rugged hills of the [Myraeni Gap](<../greater-dunmar/myraeni-gap.md>); to the southeast, across the [~Yuvanti Gap~](<../greater-dunmar/darba-highlands/yuvanti-gap.md>), is the imposing bulk of the [Yuvanti Mountains](<../greater-dunmar/yuvanti-mountains.md>).
 
-![Chataan Landscape](../../assets/chataan-landscape.jpg)
+![Chataan Landscape](../../assets/chataan-landscape.webp)

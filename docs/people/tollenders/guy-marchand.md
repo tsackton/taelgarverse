@@ -41,7 +41,7 @@ Guy Marchand is a mapmaker from [Tollen](<../../gazetteer/greater-sembara/tollen
 Guy Marchand, a mapmaker and bookseller, resides in the [Nordgate](<../../gazetteer/greater-sembara/tollen/wards/nordgate.md>) district of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), where he runs a shop on the bustling [Scrollwright Street](<../../gazetteer/greater-sembara/tollen/places/scrollwright-street.md>). This major thoroughfare connects [Magus Street](<../../gazetteer/greater-sembara/tollen/wards/magus-street.md>) and [Godshome](<../../gazetteer/greater-sembara/tollen/wards/godshome.md>), and is the heart of book production and related trades in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>). He is of Isinguese ancestry, and his shop doubles as a local center for the Isinguer diaspora in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>). 
 ## Description
 
-![Guy Marchand](../../assets/guy-marchand.png)
+![Guy Marchand](../../assets/guy-marchand.webp)
 
 Guy, an aging man in his mid-60s, looks young for his age; he has lived a comfortable life. His attire is modest but well-crafted, reflecting his middle-class merchant roots. He lives and works in a spacious, if cluttered, mapmaking shop on [Scrollwright Street](<../../gazetteer/greater-sembara/tollen/places/scrollwright-street.md>).
 ## Relationships

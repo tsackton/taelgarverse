@@ -23,5 +23,5 @@ hide_toc: true
 </div>
 
 
-![Eleanor](../../assets/eleanor.png){align="right"; width="320"}A temple administrator of the Wyrdling, and well-known in the region. Has been mostly bedridden since the spring of 1719. 
+![Eleanor](../../assets/eleanor.webp){align="right"; width="320"}A temple administrator of the Wyrdling, and well-known in the region. Has been mostly bedridden since the spring of 1719. 
 

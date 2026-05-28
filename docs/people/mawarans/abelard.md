@@ -26,7 +26,7 @@ hide_toc: true
 </div>
 
 
-![Abelard](../../assets/abelard.png){align="right"; width="300"}Abelard is a storyteller, singer, and tavern performer who hangs around the [Leviathan Inn](<../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>) in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). He is originally from a small town in the hinterland of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>), but has been a familiar presence in Hamri for the past ten years.
+![Abelard](../../assets/abelard.webp){align="right"; width="300"}Abelard is a storyteller, singer, and tavern performer who hangs around the [Leviathan Inn](<../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>) in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). He is originally from a small town in the hinterland of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>), but has been a familiar presence in Hamri for the past ten years.
 
 Abelard is a singer, gossip, and general hanger-on. He is known for extravagant stories of distant places, disasters, monsters, and improbable adventures, many of them likely embellished or wholly invented. But he tells his tales with a sharp wit and disarming smile, and his singing voice is strong. 
 

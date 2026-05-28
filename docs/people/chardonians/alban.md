@@ -47,15 +47,6 @@ An adventurer associated with the [Society of the Open Scroll](<../../groups/cha
 Traveled with [Dee Wildcloak](<../halflings/dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) to [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), where he was killed. 
 ## Chronology
 
-- Dec 23, 1747 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban leave Chardon together, on a mission to find treasure for the Society of the Open Scroll, funded by [Fausto](<fausto.md>).
-- Feb 02, 1748 DR: Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban arrive in [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>).
-- Feb 03, 1748 DR: Dee Wildcloak, Dain Goldhammer, and Alban leave across plains to the north, parting ways with Arcus and Servius.
-- Feb 03, 1748 DR *(Alban)*: Leaves Songara with Dee and Dain heading east across the plains.
-- Mar 13, 1748 DR: Dee Wildcloak, Dain Goldhammer, and Alban find the [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), and make plans to explore.
-- Mar 13, 1748 DR *(Alban)*: Finds Eudomes' tower. Makes plan to explore.
-- Mar 18, 1748 DR: Alban, Dee Wildcloak, and Dain Goldhammer loot [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), taking [Hralgar's Eyes](<../../campaigns/dunmari-frontier-campaign/treasure/hralgar-s-eyes.md>) and the [Binding Stones](<../../campaigns/dunmari-frontier-campaign/treasure/binding-stones.md>), which awakens [Hralgar](<../giants/hralgar.md>) in a confused, disturbed state. In the chaos of fleeing, Alban is killed.
-- Mar 18, 1748 DR *(Alban)*: Killed in watchtower as lightning storm grows after taking Hralgar's Eyes and Binding Stones from the tower, which awakens Hralgar in a confused state.
-- Mar 19, 1748 DR: Dee Wildcloak and Dain Goldhammer bury Alban outside Stormcaller Tower, and depart for Chardon
-- Apr 15, 1748 DR *(Alban)*: Grave discovered by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) and uncovered, reburied.
-- Aug 22, 1748 DR *(Alban)*: [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) learns his name from [People/Halflings/Dee Wildcloak](<../halflings/dee-wildcloak.md>) in Chardon.
+
+
 

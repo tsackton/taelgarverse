@@ -19,6 +19,6 @@ hide_toc: true
 
 
 
-![Corrine Healthy](../../assets/corrine-healthy.png)
+![Corrine Healthy](../../assets/corrine-healthy.webp)
 
-![Corrine Ill](../../assets/corrine-ill.png)
+![Corrine Ill](../../assets/corrine-ill.webp)

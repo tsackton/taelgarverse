@@ -65,7 +65,7 @@ We begin as the party settles in for the night outside [Lastlight Falls](<../../
 
 Over the course of the next week, the party falls into a routine as they hurry across the plains of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), now sprung to life with the monsoon rains.
 
-![Dunmar November 1748](../../../assets/dunmar-november-1748.jpg)
+![Dunmar November 1748](../../../assets/dunmar-november-1748.webp)
 
 [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) prays each morning to the Baharazel, asking them to free [Havdar](<../../../people/dunmari/havdar.md>) of the curse that binds him to the [Medusa Blade](<../treasure/medusa-blade.md>), taken from [Agata's Lair](<../../../gazetteer/greater-dunmar/hara-basin/agata-s-lair.md>) and gifted to [Havdar](<../../../people/dunmari/havdar.md>) by the party. As the party travels, they send messages to [Johar](<../../../people/dunmari/johar.md>) via sending, and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) keeps an eye on the movements of [Kadmos](<../../../people/chardonians/kadmos.md>) and company via scrying. 
 
@@ -77,7 +77,7 @@ The next day, the [Bahrazel](<../../../gods-and-religions/gods/embodied-gods/bah
 
 A week after leaving the camp at [Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>), the party arrives outside the [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), where [Hralgar](<../../../people/giants/hralgar.md>)'s storm has grown in strength and size, now stretching several miles across the plains. The rain has turned the ground to mud and water pools everywhere. 
 
-![Hralgar Storm Nov 1748](../../../assets/hralgar-storm-nov-1748.png)
+![Hralgar Storm Nov 1748](../../../assets/hralgar-storm-nov-1748.webp)
 
 Between [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s clairvoyance and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)'s ability to commune with nature and the land, it is clear that [Hralgar](<../../../people/giants/hralgar.md>) is lost more deeply in his mind than before, and the storm is more intense. The eye that previously left the tower open to the sky is gone, and lightning and thunder echos from the clouds. 
 

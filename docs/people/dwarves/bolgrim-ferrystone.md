@@ -27,5 +27,5 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Currently in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-![Bolgrim Ferrystone](../../assets/bolgrim-ferrystone.jpg){align="left"; width="200"}
+![Bolgrim Ferrystone](../../assets/bolgrim-ferrystone.webp){align="left"; width="200"}
 

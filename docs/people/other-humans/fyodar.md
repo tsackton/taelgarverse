@@ -21,6 +21,6 @@ hide_toc: true
 </div>
 
 
-![Fyodar Portrait](../../assets/fyodar-portrait.png){align="right"; width="400"}Fyodar is a large, burly man with a thick beard and a ready smile. He is a member of the Zvervinkan Guard, tasked with guarding the city gates and approving the entry of visitors and travelers coming to trade in [Zvervinka](<../../gazetteer/northern-green-sea/ursk/zvervinka.md>)'s markets. 
+![Fyodar Portrait](../../assets/fyodar-portrait.webp){align="right"; width="400"}Fyodar is a large, burly man with a thick beard and a ready smile. He is a member of the Zvervinkan Guard, tasked with guarding the city gates and approving the entry of visitors and travelers coming to trade in [Zvervinka](<../../gazetteer/northern-green-sea/ursk/zvervinka.md>)'s markets. 
 
 He is well-connected among the city merchants and often has useful tips on where and what to buy, or sell. 

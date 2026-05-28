@@ -22,7 +22,7 @@ hide_toc: true
 </div>
 
 
-![Corrin Merriweather](../../assets/corrin-merriweather.png){align="left"; width="200"}
+![Corrin Merriweather](../../assets/corrin-merriweather.webp){align="left"; width="200"}
 
 
 

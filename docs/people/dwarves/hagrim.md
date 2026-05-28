@@ -32,7 +32,7 @@ hide_toc: true
 
 
 
-![Hagrim Portrait](../../assets/hagrim-portrait.png){align="right"; width="400"}A dwarf, once known as Hagrim Firebrand, who made a name for himself in the [Great War](<../../events/1500s/great-war.md>), but was unable to forget or move past the horrors he saw in battle against mind flayers and the aberrations of the deep, fighting under the halls of [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>). Whether he was broken by battle or his mind was corrupted by those evils, he returned a changed man. 
+![Hagrim Portrait](../../assets/hagrim-portrait.webp){align="right"; width="400"}A dwarf, once known as Hagrim Firebrand, who made a name for himself in the [Great War](<../../events/1500s/great-war.md>), but was unable to forget or move past the horrors he saw in battle against mind flayers and the aberrations of the deep, fighting under the halls of [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>). Whether he was broken by battle or his mind was corrupted by those evils, he returned a changed man. 
 
 He reluctantly left his retirement to help lead a group of warriors, including the young solider [Nora Silverspark](<nora-silverspark.md>), on a rescue mission to find refugees in [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), bringing the [Chalice of the Runepriest](<../../things/artifacts-of-power/chalice-of-the-runepriest.md>) to aid in the question. 
 

@@ -22,4 +22,4 @@ hide_toc: true
 
 The missing captain of the [Stormdancer](<../../things/ships/stormdancer.md>). 
 
-![Milo Thistlefoot](../../assets/milo-thistlefoot.jpg)
+![Milo Thistlefoot](../../assets/milo-thistlefoot.webp)

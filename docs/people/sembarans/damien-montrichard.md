@@ -34,5 +34,5 @@ hide_toc: true
 
 
 
-![Damien Montrichard](../../assets/damien-montrichard.jpg){align="right"; width="400"}A storyteller and musician, with a keen eye for lore.
+![Damien Montrichard](../../assets/damien-montrichard.webp){align="right"; width="400"}A storyteller and musician, with a keen eye for lore.
 

@@ -44,7 +44,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
-![Harriet Goodbarrel](../../assets/harriet-goodbarrel.png){align="right"; width="300"}
+![Harriet Goodbarrel](../../assets/harriet-goodbarrel.webp){align="right"; width="300"}
 
 Harriet's melodious voice graces *[The Singing Fox](<../../gazetteer/greater-sembara/tollen/places/the-singing-fox.md>)* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [Chenna](<chenna-goodbarrel.md>), she's made the tavern a warm haven for many.
 

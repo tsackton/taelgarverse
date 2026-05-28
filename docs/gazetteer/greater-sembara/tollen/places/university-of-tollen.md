@@ -19,5 +19,5 @@ The University of Tollen is a cluster of faculties and halls along [Magus Street
 
 The University supports faculties in rhetoric, natural philosophy, history, magic, and metaphysics, among others, with a particular emphasis on literary arts. Debates spill from lecture halls into taverns, student troupes stage plays that sometimes mock their own professors, and illusionists host shows of wonder in the courtyards of the University. 
 
-![University of Tollen V1](../../../../assets/university-of-tollen-v1.png)
+![University of Tollen V1](../../../../assets/university-of-tollen-v1.webp)
 

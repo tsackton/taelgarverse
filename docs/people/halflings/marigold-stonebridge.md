@@ -34,6 +34,6 @@ hide_toc: true
 
 
 
-![Marigold Stonebridge](../../assets/marigold-stonebridge.png){align="right"; width="320"}An old, wrinkled halfling, often quiet and sleepy, but with surprising wit. The most important of the three current inn keepers of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) along with [Venra Stonebridge](<venra-stonebridge.md>) and [Willow Stonebridge](<willow-stonebridge.md>). Often called Grandmother Marigold, she is considered the matriarch and wisest of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>). 
+![Marigold Stonebridge](../../assets/marigold-stonebridge.webp){align="right"; width="320"}An old, wrinkled halfling, often quiet and sleepy, but with surprising wit. The most important of the three current inn keepers of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) along with [Venra Stonebridge](<venra-stonebridge.md>) and [Willow Stonebridge](<willow-stonebridge.md>). Often called Grandmother Marigold, she is considered the matriarch and wisest of the [Stonebridges](<../../groups/halfling-families/stonebridges.md>). 
 
 She knows much of the history of The Crossroads Inn and is proud of its ancient heritage. 

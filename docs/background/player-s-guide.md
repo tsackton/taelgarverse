@@ -21,7 +21,57 @@ Taelgar is a world of good and evil, where valiant heroes strive against the for
 
 The known world of Taelgar stretches 2,500 miles from the great city of [Chardon](<../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) in the West, to the shores of [Green Sea](<../gazetteer/green-sea.md>) in the east.
 
-![Player Map](../assets/player-map.png)
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" ></script>
+
+
+<div id="player-guide-world-map" class="ext-map-container"></div>
+
+<script type="text/javascript">
+    document.addEventListener("DOMContentLoaded", function () {
+
+            var map = L.map('player-guide-world-map', {
+                crs: L.CRS.Simple,
+                minZoom: -3,
+                maxZoom: 2
+            });
+
+            
+            // this bounds must be in the form [y,x], [y,x]
+            // it will typically be, in the yaml, 
+            // bounds:
+            //  - [0,0]
+            //  - [100,100]
+
+            var bounds = [[0, 0], [5156.7, 6636.233]];
+            var imageBounds = L.latLngBounds(bounds);
+
+            var tileBaseUrl = '/taelgarverse/assets/tiles/taelgar-world-map';
+var blankTile = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==';
+var TaelgarTileLayer = L.TileLayer.extend({
+    getTileUrl: function (coords) {
+        var row = coords.y + 11;
+        var col = coords.x;
+        if (col < 0 || col >= 13 || row < 0 || row >= 11) {
+            return blankTile;
+        }
+        return tileBaseUrl + '/' + coords.z + '/' + col + '/' + row + '.webp';
+    }
+});
+var tiles = new TaelgarTileLayer('', {
+    tileSize: 512,
+    minZoom: map.getMinZoom(),
+    maxZoom: map.getMaxZoom(),
+    minNativeZoom: 0,
+    maxNativeZoom: 0,
+    noWrap: true,
+    bounds: imageBounds
+}).addTo(map);
+map.setMaxBounds(imageBounds.pad(0.05));
+            map.setView( [3333, 3000], -2);
+        })
+</script>
+
 
 - In the west, the vast [Chardonian Empire](<../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) extends north, east, and south from the imperial capital of [Chardon](<../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), growing rich and powerful on its magical scholarship and the might of its armies. 
 - On the outskirts of the [Chardonian Empire](<../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) dwell various scattered northerners, the descendants of the earliest [Humans](<../creatures/species/humans.md>) to settle Taelgar. 

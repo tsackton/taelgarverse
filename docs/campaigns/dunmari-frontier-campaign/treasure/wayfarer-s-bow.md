@@ -19,7 +19,7 @@ title: Wayfarer's Bow
 </div>
 
 
-![Wayfarer Bow](../../../assets/wayfarer-bow.jpg){align="right"; width="400"}This wooden bow is made of an unusual dark wood, much harder than any mundane wood but incredibly light and flexible. 
+![Wayfarer Bow](../../../assets/wayfarer-bow.webp){align="right"; width="400"}This wooden bow is made of an unusual dark wood, much harder than any mundane wood but incredibly light and flexible. 
 
 
 This bow was part of the hoard of the black dragon [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>), kept on display as part of her collection of rare and unusual items. It is now carried by [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>).

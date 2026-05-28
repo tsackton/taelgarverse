@@ -19,7 +19,7 @@ hide_toc: true
 </div>
 
 
-![William Forester Aveil](../../assets/william-forester-aveil.png){align="left"; width="200"}
+![William Forester Aveil](../../assets/william-forester-aveil.webp){align="left"; width="200"}
 
 A lumberjack and leading person in [Ashcombe](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/ashcombe.md>)
 

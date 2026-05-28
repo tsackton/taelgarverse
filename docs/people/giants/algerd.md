@@ -21,4 +21,4 @@ hide_toc: true
 </div>
 
 
-![Algerd](../../assets/algerd.jpg){align="right"; width="250"}Algerd is a somewhat absent-minded frost giant historian, originally from [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>). He has a tendency to focus single-mindedly on whatever happens to be the focus of his attention. He has a sister, who vanished some time ago. 
+![Algerd](../../assets/algerd.webp){align="right"; width="250"}Algerd is a somewhat absent-minded frost giant historian, originally from [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>). He has a tendency to focus single-mindedly on whatever happens to be the focus of his attention. He has a sister, who vanished some time ago. 

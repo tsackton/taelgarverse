@@ -27,7 +27,7 @@ hide_toc: true
 
 
 
-![Jumi](../../assets/jumi.jpg){align="right"; width="300"}[Cintra](<cintra.md>)'s young daughter, and a magical prodigy, blessed by the spirit of [Shakun](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>). 
+![Jumi](../../assets/jumi.webp){align="right"; width="300"}[Cintra](<cintra.md>)'s young daughter, and a magical prodigy, blessed by the spirit of [Shakun](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>). 
 
 
 

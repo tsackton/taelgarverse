@@ -35,4 +35,4 @@ hide_toc: true
 
 Melindir is the Ambassador to [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) for the elven lands of [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>).
 
-![Melindir](../../assets/melindir.png)
+![Melindir](../../assets/melindir.webp)

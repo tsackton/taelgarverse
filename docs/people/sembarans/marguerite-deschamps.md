@@ -29,7 +29,7 @@ hide_toc: true
 </div>
 
 
-![Marguerite Deschamps](../../assets/marguerite-deschamps.png){align="right"; width="320"}The chief clerk of the Barony of Aveil, she is originally from [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>) and her family has longstanding ties to the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>). Her appointment was widely seen as an attempt to ensure the [d'Aslains](<../../groups/sembaran-noble-houses/d-aslains.md>) did not dominate the barony for their own benefit. 
+![Marguerite Deschamps](../../assets/marguerite-deschamps.webp){align="right"; width="320"}The chief clerk of the Barony of Aveil, she is originally from [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>) and her family has longstanding ties to the [Duchy of Wisford](<../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-wisford.md>). Her appointment was widely seen as an attempt to ensure the [d'Aslains](<../../groups/sembaran-noble-houses/d-aslains.md>) did not dominate the barony for their own benefit. 
 
 
 

@@ -40,7 +40,7 @@ The party investigates and defeats a colossal construct in the Tower of the Colo
 ## Narrative
 We begin the session under the relentless desert sun, as the party stands in tense anticipation of news from Kenzo's simulacrum, sent to battle the pirate Wellby doppleganger. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) casts scry at a predetermined time, revealing the Kenzo simulacrum aboard a pirate ship, surrounded by six pirates, and facing Wellby. An arrow from Wellby is deftly deflected by the clone, but he is quickly surrounded. As the skirmish ensues, the Kenzo simulacrum's agile maneuvers allow him to knock Wellby into the ocean with his fist of planar power. Pursuing Wellby into the water, after drinking his potion of transformation, Kenzo's clone forces the pirate Wellby underwater until he vanishes, and heads for [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) to continue his mission. The party continues their flight over a vast desert. In the evening, they pass over a shimmering, shallow lake swarms with something moving around the edges, appearing like a swarm of ants at this height. 
 
-![Zoom Garamjala Salt Flats](../../../assets/zoom-garamjala-salt-flats.png)
+![Zoom Garamjala Salt Flats](../../../assets/zoom-garamjala-salt-flats.webp)
 
 That night, the evening of May 15th, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) dreams vividly of the jade they seek, which cracks, turns into mist, and is carried into an ocean storm. Upon waking, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) realizes he can no longer sense the jade. Soon after sunrise, as they traverse the changing desert landscape, the party observes rocky cliffs and a partially buried white marble tower, and decide to investigate.
 
@@ -58,6 +58,6 @@ Inside a dusty, abandoned room with fragile scrolls and locked chests, [Seeker](
 
 This is easily done, as a single stone golem is no match for the combined might of the party. The next morning, after a rest, the party carefully explores, and retrieves the [treasure](<../hoards/tower-of-the-colossus-treasure.md>) in two large stone chests, although not before setting off a trap that removes the air from the room, forcing the party to work quickly before they run out of breath. Carefully retrieving scrolls and books, the party returns to [Vindristjarna](<../../../things/ships/vindristjarna.md>) with another successful teleport spell from [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>).
 
- ![Zoom Red Cliff Jungle](../../../assets/zoom-red-cliff-jungle.png)
+ ![Zoom Red Cliff Jungle](../../../assets/zoom-red-cliff-jungle.webp)
 
 As they arrive back on [Vindristjarna](<../../../things/ships/vindristjarna.md>), the ship has reached the jungles of the coast, with the [Sea of Storms](<../../../gazetteer/drankorian-hinterland/sea-of-storms.md>) visible not far on the southern horizon. The party decides to first investigate the red cliffs where the [Jade Piece of Rai's Hand](<../treasure/jade-piece-of-rai-s-hand.md>) once could be sensed, before turning south for the storms. 

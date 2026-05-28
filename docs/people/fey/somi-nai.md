@@ -28,7 +28,7 @@ hide_toc: true
 
 
 
-![Fire Spirit](../../assets/fire-spirit.png){align="right"; width="400"}Somi-nai, also known as Ember, or Sugarra among the [Lizardfolk](<../../creatures/species/lizardfolk.md>), stands as the personification of the volcanic essence and a spirit of the encompassing jungle. Representing the dual nature of creation and devastation, Somi-nai embodies the volatile energies of fire, lava, and the nurturing volcanic ash. This fire elemental is an intrinsic part of the jungle ecosystem, bringing both life and death through his powers.
+![Fire Spirit](../../assets/fire-spirit.webp){align="right"; width="400"}Somi-nai, also known as Ember, or Sugarra among the [Lizardfolk](<../../creatures/species/lizardfolk.md>), stands as the personification of the volcanic essence and a spirit of the encompassing jungle. Representing the dual nature of creation and devastation, Somi-nai embodies the volatile energies of fire, lava, and the nurturing volcanic ash. This fire elemental is an intrinsic part of the jungle ecosystem, bringing both life and death through his powers.
 ## Description
 Somi-nai manifests as a fiery spirit, pulsating with intense heat and radiating the aura of the volcanic caldera. His very presence can make the air sizzle, and his moods can sway the balance between a nurturing warmth and an all-consuming inferno.
 ## Events

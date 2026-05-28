@@ -21,7 +21,7 @@ hide_toc: true
 </div>
 
 
-![Juliana Westby](../../assets/juliana-westby.png){align="left"; width="200"}
+![Juliana Westby](../../assets/juliana-westby.webp){align="left"; width="200"}
 
 
 

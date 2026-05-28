@@ -11,4 +11,4 @@ Sir Istarias, the Squire of the Whispering Wind
 
 
 
-![Istarias Squire Fey](../../assets/istarias-squire-fey.jpg)
+![Istarias Squire Fey](../../assets/istarias-squire-fey.webp)

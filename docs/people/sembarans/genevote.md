@@ -21,4 +21,4 @@ hide_toc: true
 </div>
 
 
-![Genevote](../../assets/genevote.png){align="right"; width="320"}The stablemaster of Essford Manor. 
+![Genevote](../../assets/genevote.webp){align="right"; width="320"}The stablemaster of Essford Manor. 

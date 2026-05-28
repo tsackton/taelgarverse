@@ -27,7 +27,7 @@ hide_toc: true
 </div>
 
 
-![Welby Full](../../../assets/welby-full.jpg)
+![Welby Full](../../../assets/welby-full.webp)
 
 ## Pre-Campaign Events
 

@@ -35,7 +35,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on February 2nd, 1749 in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-![Abha V2](../../assets/abha-v2.jpg){align="right"; width="400"}Abha is a [mystai of Sonkar](<../../groups/dunmari-mystery-cults/sonkar-mystai.md>), a truthspeaker who has the divine ability to see the true nature of the world. She is a powerful spellcaster and is often called to resolve difficult or complicated requests for judgement and justice. 
+![Abha V2](../../assets/abha-v2.webp){align="right"; width="400"}Abha is a [mystai of Sonkar](<../../groups/dunmari-mystery-cults/sonkar-mystai.md>), a truthspeaker who has the divine ability to see the true nature of the world. She is a powerful spellcaster and is often called to resolve difficult or complicated requests for judgement and justice. 
 
 Abha, like [Sonkar](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/sonkar.md>), sometimes appears cold and distant, but her isolating demeanor masks a deep concern for the world and for [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 

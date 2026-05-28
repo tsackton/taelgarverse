@@ -21,5 +21,5 @@ hide_toc: true
 </div>
 
 
-![Olen Vrask Portrait](../../assets/olen-vrask-portrait.jpg){align="right"; width="400"}Olen is a secretary and scribe for [Branek Mirov](<branek-mirov.md>).
+![Olen Vrask Portrait](../../assets/olen-vrask-portrait.webp){align="right"; width="400"}Olen is a secretary and scribe for [Branek Mirov](<branek-mirov.md>).
 

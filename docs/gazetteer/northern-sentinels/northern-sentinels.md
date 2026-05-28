@@ -38,14 +38,13 @@ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" >
             //  - [0,0]
             //  - [100,100]
 
-            var bounds = [[[0, 0], [2503, 2188]]];
+            var bounds = [[0, 0], [2503, 2188]];
+            var imageBounds = L.latLngBounds(bounds);
 
-            // this has to be the path, i.e. what was working for me was /assets/world-map-01-02.png
-            var image = L.imageOverlay('/taelgarverse/assets/north-sentinels-map.png', bounds).addTo(map);
+            var image = L.imageOverlay('/taelgarverse/assets/north-sentinels-map.png', imageBounds).addTo(map);
             map.setView( [1250, 1150], -2);
         })
 </script>
-
 
 
 

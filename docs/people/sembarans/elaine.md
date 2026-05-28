@@ -21,4 +21,4 @@ hide_toc: true
 </div>
 
 
-![Elaine Cleenseau](../../assets/elaine-cleenseau.png){align="right"; width="320"}One of [Anselm](<anselm.md>) assistants. 
+![Elaine Cleenseau](../../assets/elaine-cleenseau.webp){align="right"; width="320"}One of [Anselm](<anselm.md>) assistants. 

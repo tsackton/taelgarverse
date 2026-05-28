@@ -26,4 +26,4 @@ hide_toc: true
 </div>
 
 
-![Gabriel Thorne](../../assets/gabriel-thorne.png){align="right"; width="320"}The son of [Gideon Thorne](<gideon-thorne.md>) and husband to [Beatrix](<beatrix-thorne.md>). A yeoman.
+![Gabriel Thorne](../../assets/gabriel-thorne.webp){align="right"; width="320"}The son of [Gideon Thorne](<gideon-thorne.md>) and husband to [Beatrix](<beatrix-thorne.md>). A yeoman.

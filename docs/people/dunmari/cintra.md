@@ -29,4 +29,4 @@ hide_toc: true
 
 Supreme Oracle of Shakun.
 
-![Cintra](../../assets/cintra.jpg)
+![Cintra](../../assets/cintra.webp)

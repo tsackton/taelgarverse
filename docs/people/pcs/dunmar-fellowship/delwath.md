@@ -35,7 +35,7 @@ hide_toc: true
 
 
 
-![Delwath Portrait](../../../assets/delwath-portrait.jpg)
+![Delwath Portrait](../../../assets/delwath-portrait.webp)
 
 ## Pre-Campaign Events
 

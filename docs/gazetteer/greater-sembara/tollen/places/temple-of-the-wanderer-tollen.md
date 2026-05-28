@@ -19,4 +19,4 @@ title: Temple of the Wanderer (Tollen)
 
 The Temple of the Wanderer in [Tollen](<../tollen.md>) is one of the largest and most ambitious Mos Numena temples in the city, a great stone church crowned by a massive spire and belltower that dominates the skyline of [Godshome](<../wards/godshome.md>).
 
-![Temple of Wanderer V2](../../../../assets/temple-of-wanderer-v2.png)
+![Temple of Wanderer V2](../../../../assets/temple-of-wanderer-v2.webp)

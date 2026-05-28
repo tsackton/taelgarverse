@@ -32,7 +32,7 @@ hide_toc: true
 
 
 
-![Escobar Garavito](../../assets/escobar-garavito.png){align="right"; width="400"}A young and charismatic student at the University of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), Escobar's journey from the humble village of [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>) in [Cymea](<../../gazetteer/western-green-sea/realms/cymea.md>) to the bustling streets of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) showcases his adaptability and determination.
+![Escobar Garavito](../../assets/escobar-garavito.webp){align="right"; width="400"}A young and charismatic student at the University of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), Escobar's journey from the humble village of [Lavila](<../../gazetteer/western-green-sea/cymea/lavila.md>) in [Cymea](<../../gazetteer/western-green-sea/realms/cymea.md>) to the bustling streets of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) showcases his adaptability and determination.
 
 He is supported by a scholarship from the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>), sponsored by [Cecilia Lister](<cecilia-lister.md>), and often does favors and errands for her and other senior [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>) leaders. 
 

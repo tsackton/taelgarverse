@@ -21,4 +21,4 @@ hide_toc: true
 
 
 
-![Elodie Blanchard](../../assets/elodie-blanchard.jpg)
+![Elodie Blanchard](../../assets/elodie-blanchard.webp)

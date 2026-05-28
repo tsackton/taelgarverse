@@ -36,7 +36,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 Our session begins at the  edge of night in the [Feywild](<../../../cosmology/feywild.md>), with the party paused on the border of [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>) near [Redsun Watch](<../../../gazetteer/extraplanar/feywild/amberglow/redsun-watch.md>). Here, the night of [Hollowdark](<../../../gazetteer/extraplanar/feywild/hollowdark.md>) had breached the Sunset Gate, forming a river of impenetrable shadow. The only sign of light is a distant tower, faintly glowing with a lingering ember of sunset. The group, wary of the dangers ahead, discusses the possibility of finding a clue about or beacon or guide to the [Prismwell](<../../../gazetteer/extraplanar/feywild/amberglow/prismwell.md>), a place tied to the [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>)’s lost power, hidden within the keep, as [Count Vashan](<../../../people/fey/count-vashan.md>) had described in a moment of lucidity. 
 
-![Redsun Watch in Shadow](../../../assets/redsun-watch-in-shadow.png)
+![Redsun Watch in Shadow](../../../assets/redsun-watch-in-shadow.webp)
 
 Scouting, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) reached out with his senses, detecting a powerful, malevolent presence in a nearby tower, shaping the darkness and extending its reach into [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>). Below, the courtyard seethed with fragments of terror—echoes of fear and whispers in the dark—while a patrol of cruel, lazy minds drifted through the gloom. Deciding on caution, the party left their mounts with the cursed satyr [Valeris](<../../../people/fey/valeris.md>), who refused to enter the darkness, and advanced on foot. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) sent a summoned bat ahead to scout, but as it crossed the ruined walls and entered the courtyard, it was destroyed by a sudden wave of power.
 
@@ -62,7 +62,7 @@ Deciding they had no other good options, the party advanced through a narrow tun
 
 The group debated how to disperse the darkness—considering airlocks, pressure changes, and magical light. Attempts to burn away the shadows with sacred flame proved fruitless. [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), after discussion, resolved to unleash her most powerful magic. She raised her shield, marked with the symbol of the [Bahrazel](<../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>), and called forth a Sunbeam. Brilliant sunlight erupted, reflecting from the crystals and the floor, illuminating the arches and passageways. The session ended as the sunlight echoed and reinforced itself, burning away the darkness that had long haunted the chamber. 
 
-![Prismwell Beacon Redsun Watch](../../../assets/prismwell-beacon-redsun-watch.png)
+![Prismwell Beacon Redsun Watch](../../../assets/prismwell-beacon-redsun-watch.webp)
 
 
 

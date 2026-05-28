@@ -34,7 +34,7 @@ hide_toc: true
 
 
 
-![Amil Final](../../assets/amil-final.jpg){align="right"; width="400"}A young monk, in training as an apprentice of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [Pava](<pava.md>) and [Avaras](<avaras.md>), on the edge of the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) in the blasted plains. 
+![Amil Final](../../assets/amil-final.webp){align="right"; width="400"}A young monk, in training as an apprentice of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [Pava](<pava.md>) and [Avaras](<avaras.md>), on the edge of the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) in the blasted plains. 
 
 
 ## Events
@@ -45,8 +45,8 @@ hide_toc: true
 - May 17, 1748 DR *(Amil)*: At Pava and Avaras' House when [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) spend the night
 
 ## Gallery
-![Amil Martial Arts](../../assets/amil-martial-arts.jpg)
+![Amil Martial Arts](../../assets/amil-martial-arts.webp)
 
-![Amil Snow Forest](../../assets/amil-snow-forest.jpg)
+![Amil Snow Forest](../../assets/amil-snow-forest.webp)
 
-![Amil Skyship Garden](../../assets/amil-skyship-garden.jpg)
+![Amil Skyship Garden](../../assets/amil-skyship-garden.webp)

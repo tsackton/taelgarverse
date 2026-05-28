@@ -25,4 +25,4 @@ A spritely halfling trader, sailing a meandering route around the [Gulf of Chard
 
 Unlike many halfling trading ships, this is not really a family operation.
 
-![Summers Breeze Underway](../../assets/summers-breeze-underway.jpg)
+![Summers Breeze Underway](../../assets/summers-breeze-underway.webp)

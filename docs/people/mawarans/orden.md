@@ -24,7 +24,7 @@ hide_toc: true
 </div>
 
 
-![Orden](../../assets/orden.png){align="right"; width="300"}
+![Orden](../../assets/orden.webp){align="right"; width="300"}
 Orden is a beach-dwelling Mawaran who lives in a shack north of the main port of [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). He was born into a prominent local family, but now lives as an outcast, making do with salvage, fishing, scavenging, and whatever work the shore provides. He is short and stocky, with great bushy hair, a bushy beard, many piercings, and proud eyes.
 
 Orden is a friend of [Trok](<../pcs/mawar/trok.md>). They sometimes work salvage together, and sometimes smoke [gatza](<../../things/materials/gatza.md>) on the beach late at night, each seeking their own solace. 

@@ -34,4 +34,4 @@ hide_toc: true
 </div>
 
 
-![Annet Bybet](../../assets/annet-bybet.png){align="right"; width="320"}A cousin of [Arthur Essford](<arthur-essford.md>) and the chamberlain of the [Essford](<../../groups/sembaran-noble-houses/essfords.md>) household.
+![Annet Bybet](../../assets/annet-bybet.webp){align="right"; width="320"}A cousin of [Arthur Essford](<arthur-essford.md>) and the chamberlain of the [Essford](<../../groups/sembaran-noble-houses/essfords.md>) household.

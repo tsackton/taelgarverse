@@ -24,4 +24,4 @@ hide_toc: true
 </div>
 
 
-![Constance Farnham](../../assets/constance-farnham.png){align="right"; width="320"}The innkeeper of [The River's Blessing](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-river-s-blessing.md>) along with her large family.
+![Constance Farnham](../../assets/constance-farnham.webp){align="right"; width="320"}The innkeeper of [The River's Blessing](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-river-s-blessing.md>) along with her large family.

@@ -75,7 +75,7 @@ The next day at lunchtime, the party uses the rainbow bridge to teleport to the 
 
 The party is led by Abha through Karnas' camp, to the main room of the caravanserai he has made into his hall. The party tells Karnas the story of the [War of the Cloak](<../../../events/1700s/war-of-the-cloak.md>), keeping the true nature of the [People of the Rainbow](<../../../groups/orc-hordes/people-of-the-rainbow.md>) a secret. Karnas seems uncertain, wondering if Agata had sway with these people, which turns the conversation to Agata and how they defeated her twice. 
 
-![Karnas Portrait](../../../assets/karnas-portrait.jpeg)
+![Karnas Portrait](../../../assets/karnas-portrait.webp)
 
 Convinced the party is not under Agata's sway, the conversation turns to Sura, and the evidence that Karnas has marshaled of Agata's meddling. Karnas seems obsessed with the letter from [Marathu](<../../../people/historical-figures/dunmari-rulers/marathu.md>), implicating Sura, that Johar mentioned. The party discusses using the [Mirror of the Past](<../treasure/mirror-of-the-past.md>) to learn about [Nayan Marathu's Letter](<../letters-and-notes/nayan-marathu-s-letter.md>), but makes a final attempt to convince Karnas to come see the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>) for himself, first. But he is unwilling to leave his camp and teleport away with strangers. 
 

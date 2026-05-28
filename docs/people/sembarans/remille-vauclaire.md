@@ -34,5 +34,5 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Currently in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-![Remille Vauclaire](../../assets/remille-vauclaire.png){align="right"; width="400"}A swordswoman. 
+![Remille Vauclaire](../../assets/remille-vauclaire.webp){align="right"; width="400"}A swordswoman. 
 

@@ -31,5 +31,5 @@ hide_toc: true
 </div>
 
 
-![Fazoth Full](../../../assets/fazoth-full.png){align="right"; width="400"}Fazoth de Brune, a younger scion of the wealthy de Brune family, grew up with a life of privilege on the outskirts of [Eskbridge](<../../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>), thanks to his family's wealth and position. At the age of 22, he left [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) for [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>). 
+![Fazoth Full](../../../assets/fazoth-full.webp){align="right"; width="400"}Fazoth de Brune, a younger scion of the wealthy de Brune family, grew up with a life of privilege on the outskirts of [Eskbridge](<../../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>), thanks to his family's wealth and position. At the age of 22, he left [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) for [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>). 
 

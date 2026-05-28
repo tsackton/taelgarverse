@@ -24,5 +24,5 @@ hide_toc: true
 </div>
 
 
-![Hugh Darrow](../../assets/hugh-darrow.png){align="right"; width="320"}A charcoal maker in Taviose, and the son of [Remy Darrow](<remy-darrow.md>). He was one of the leaders of the villagers during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>).
+![Hugh Darrow](../../assets/hugh-darrow.webp){align="right"; width="320"}A charcoal maker in Taviose, and the son of [Remy Darrow](<remy-darrow.md>). He was one of the leaders of the villagers during the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>).
 

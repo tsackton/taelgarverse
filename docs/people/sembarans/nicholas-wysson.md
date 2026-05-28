@@ -30,5 +30,5 @@ hide_toc: true
 </div>
 
 
-![Nicholas Wysson](../../assets/nicholas-wysson.png){align="right"; width="320"}The youngest nephew of a military captain, he was recently appointed magistrate despite having barely more than twenty summers. Clean-shaven and thin, he often appears somewhat lost in thought.
+![Nicholas Wysson](../../assets/nicholas-wysson.webp){align="right"; width="320"}The youngest nephew of a military captain, he was recently appointed magistrate despite having barely more than twenty summers. Clean-shaven and thin, he often appears somewhat lost in thought.
 

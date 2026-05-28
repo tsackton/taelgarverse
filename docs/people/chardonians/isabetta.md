@@ -21,5 +21,5 @@ hide_toc: true
 </div>
 
 
-![Isabetta](../../assets/isabetta.png){align="right"; width="400"}A young woman with a beautiful voice, who frequently sings at [The Drunken Dolphin](<../../gazetteer/greater-chardon/chardonian-empire/apporia/the-drunken-dolphin.md>) in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>). 
+![Isabetta](../../assets/isabetta.webp){align="right"; width="400"}A young woman with a beautiful voice, who frequently sings at [The Drunken Dolphin](<../../gazetteer/greater-chardon/chardonian-empire/apporia/the-drunken-dolphin.md>) in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>). 
 

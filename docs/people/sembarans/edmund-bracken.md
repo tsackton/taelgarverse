@@ -23,4 +23,4 @@ hide_toc: true
 </div>
 
 
-![Edmund Bracken](../../assets/edmund-bracken.png){align="right"; width="320"}The chamberlain and valet of [Erick Murtha](<erick-murtha.md>).
+![Edmund Bracken](../../assets/edmund-bracken.webp){align="right"; width="320"}The chamberlain and valet of [Erick Murtha](<erick-murtha.md>).

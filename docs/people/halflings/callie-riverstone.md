@@ -22,7 +22,7 @@ hide_toc: true
 </div>
 
 
-![Callie Riverstone](../../assets/callie-riverstone.jpg){align="right"; width="200"}A leatherworker specializing in fine colors.
+![Callie Riverstone](../../assets/callie-riverstone.webp){align="right"; width="200"}A leatherworker specializing in fine colors.
 
 
 

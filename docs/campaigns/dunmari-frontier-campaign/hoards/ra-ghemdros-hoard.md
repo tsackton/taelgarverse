@@ -182,7 +182,7 @@ Ra'ghemdros had selected a number of items for special display. These all seem t
 
 2. **Sapphire and Diamond Necklace**: A stunning necklace featuring a cascade of sapphires surrounded by diamonds. 
 
-3. ![Dragonet Statue Raghemdros Hoard](../../../assets/dragonet-statue-raghemdros-hoard.jpg){align="right"; width="300"}**Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and emerald eyes.  
+3. ![Dragonet Statue Raghemdros Hoard](../../../assets/dragonet-statue-raghemdros-hoard.webp){align="right"; width="300"}**Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and emerald eyes.  
 
 
 
@@ -190,7 +190,7 @@ Ra'ghemdros had selected a number of items for special display. These all seem t
 
 5. **Imperial Scepter**: An elaborately designed scepter made from gold and adorned with multiple sapphires.  
 
-6. ![Silver Plate Raghemdros Hoard](../../../assets/silver-plate-raghemdros-hoard.jpg){align="right"; width="300"}**Historic Silver Paten**: An intricately designed paten (plate) made of silver, clearly very old but unweathered and undamaged, with scenes of pastoral human life.  
+6. ![Silver Plate Raghemdros Hoard](../../../assets/silver-plate-raghemdros-hoard.webp){align="right"; width="300"}**Historic Silver Paten**: An intricately designed paten (plate) made of silver, clearly very old but unweathered and undamaged, with scenes of pastoral human life.  
 
 
 
@@ -204,14 +204,14 @@ Ra'ghemdros had selected a number of items for special display. These all seem t
 
 10. **Imperial Signet Ring**: A heavy gold ring featuring the Drankorian imperial crest, used for sealing important documents and symbols of authority. 
 
-11. ![Dragonet Ring Hoard](../../../assets/dragonet-ring-hoard.jpg){align="right"; width="300"}**Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting the mythology of dragnets, a rare work of art, eyes of rubies.  
+11. ![Dragonet Ring Hoard](../../../assets/dragonet-ring-hoard.webp){align="right"; width="300"}**Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting the mythology of dragnets, a rare work of art, eyes of rubies.  
 
 
 
 
 
 
-12. ![Floral Brooch Hoard](../../../assets/floral-brooch-hoard.jpg){align="right"; width="300"}**Exquisite Gemstone Brooch**: A brooch made from an array of precious stones set in a unique floral design, a treasured family heirloom.  
+12. ![Floral Brooch Hoard](../../../assets/floral-brooch-hoard.webp){align="right"; width="300"}**Exquisite Gemstone Brooch**: A brooch made from an array of precious stones set in a unique floral design, a treasured family heirloom.  
 
 
 

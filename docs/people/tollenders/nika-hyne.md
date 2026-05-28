@@ -33,7 +33,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 17th, 1748 in [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>), [Fiskurth](<../../gazetteer/greater-sembara/tollen/wards/fiskurth.md>), the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
-![Nika Hyne](../../assets/nika-hyne.png){align="right"; width="320"}Nika Hyne is a sly young woman in her early twenties known to frequent [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>), listening to stories and doing odd jobs for coin. She was briefly a student at the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>): although she dropped out, she knows the area and the people well. She is a bit of a hustler. 
+![Nika Hyne](../../assets/nika-hyne.webp){align="right"; width="320"}Nika Hyne is a sly young woman in her early twenties known to frequent [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>), listening to stories and doing odd jobs for coin. She was briefly a student at the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>): although she dropped out, she knows the area and the people well. She is a bit of a hustler. 
 
 
 

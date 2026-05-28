@@ -23,8 +23,8 @@ The Mother is usually pictured as a motherly woman, of child-bearing age, someti
 
 In art, the Mother is often depicted as the source of healing, and is associated with depictions of the cycle of seasons. She is often shown pregnant, and often associated with the bounty of life and the lushness of spring. Some illustrative art is show below:
 
-![The Mother Example Painting](../../../../assets/the-mother-example-painting.jpg)
+![The Mother Example Painting](../../../../assets/the-mother-example-painting.webp)
 
-![The Mother Example Stained Glass](../../../../assets/the-mother-example-stained-glass.png)
+![The Mother Example Stained Glass](../../../../assets/the-mother-example-stained-glass.webp)
 
 

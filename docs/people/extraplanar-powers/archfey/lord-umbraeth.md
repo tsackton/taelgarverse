@@ -19,4 +19,4 @@ title: Lord Umbraeth
 
 
 
-![Lord Umbraeth Potrait](../../../assets/lord-umbraeth-potrait.png){align="right"; width="320"}Lord Umbraeth, the Gloomshaper, is the ruler of Duskmire. 
+![Lord Umbraeth Potrait](../../../assets/lord-umbraeth-potrait.webp){align="right"; width="320"}Lord Umbraeth, the Gloomshaper, is the ruler of Duskmire. 

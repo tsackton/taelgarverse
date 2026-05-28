@@ -24,4 +24,4 @@ hide_toc: true
 </div>
 
 
-![Marcel Desrosiers](../../assets/marcel-desrosiers.jpg){align="right"; width="420"}
+![Marcel Desrosiers](../../assets/marcel-desrosiers.webp){align="right"; width="420"}

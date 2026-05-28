@@ -31,12 +31,32 @@ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" >
             //  - [0,0]
             //  - [100,100]
 
-            var bounds = [[[0, 0], [5156.7, 6636.233]]];
+            var bounds = [[0, 0], [5156.7, 6636.233]];
+            var imageBounds = L.latLngBounds(bounds);
 
-            // this has to be the path, i.e. what was working for me was /assets/world-map-01-02.png
-            var image = L.imageOverlay('/taelgarverse/assets/taelgar-world-map.png', bounds).addTo(map);
+            var tileBaseUrl = '/taelgarverse/assets/tiles/taelgar-world-map';
+var blankTile = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==';
+var TaelgarTileLayer = L.TileLayer.extend({
+    getTileUrl: function (coords) {
+        var row = coords.y + 11;
+        var col = coords.x;
+        if (col < 0 || col >= 13 || row < 0 || row >= 11) {
+            return blankTile;
+        }
+        return tileBaseUrl + '/' + coords.z + '/' + col + '/' + row + '.webp';
+    }
+});
+var tiles = new TaelgarTileLayer('', {
+    tileSize: 512,
+    minZoom: map.getMinZoom(),
+    maxZoom: map.getMaxZoom(),
+    minNativeZoom: 0,
+    maxNativeZoom: 0,
+    noWrap: true,
+    bounds: imageBounds
+}).addTo(map);
+map.setMaxBounds(imageBounds.pad(0.05));
             map.setView( [3333, 2000], -1);
         })
 </script>
-
 

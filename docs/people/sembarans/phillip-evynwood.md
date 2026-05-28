@@ -7,4 +7,4 @@ hide_toc: true
 ---
 
 
-![Phillip Evynwood](../../assets/phillip-evynwood.png){align="left"; width="200"}
+![Phillip Evynwood](../../assets/phillip-evynwood.webp){align="left"; width="200"}

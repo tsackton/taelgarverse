@@ -45,7 +45,7 @@ hide_toc: true
 
 
 
-![Lady Rosalind Essford](../../assets/lady-rosalind-essford.png){align="right"; width="320"}The daughter of [Wymar](<wymar-essford.md>), short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [Arthur Essford](<arthur-essford.md>) in 1706, and their match has been a good and popular one. 
+![Lady Rosalind Essford](../../assets/lady-rosalind-essford.webp){align="right"; width="320"}The daughter of [Wymar](<wymar-essford.md>), short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [Arthur Essford](<arthur-essford.md>) in 1706, and their match has been a good and popular one. 
 
 
 

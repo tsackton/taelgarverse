@@ -22,7 +22,7 @@ The Erbalta Plains are a large open steppe along the [Snake River](<../../major-
 
 The Erbalta Plains are too dry for extensive agriculture outside of irrigated fields in riparian valleys, though barley, flax, and drought-tolerant pulses are common, and hay from riparian meadows is crucial to support animal stock. The Erbalta is excellent grazeland, and hardy sheep and goats are a common sight on the plains. 
 
-![Erbalta Plains](../../../assets/erbalta-plains.png)
+![Erbalta Plains](../../../assets/erbalta-plains.webp)
 
 ## Borders
 

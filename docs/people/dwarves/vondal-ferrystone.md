@@ -22,4 +22,4 @@ hide_toc: true
 </div>
 
 
-![Vondal Ferrystone](../../assets/vondal-ferrystone.png){align="left"; width="200"}
+![Vondal Ferrystone](../../assets/vondal-ferrystone.webp){align="left"; width="200"}

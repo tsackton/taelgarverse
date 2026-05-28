@@ -40,13 +40,13 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 ## Narrative
 We begin at dusk, at site of the crashed [airship](<../../../things/ships/vindristjarna.md>), as the party settles in for the night and begins to determine what is necessary to repair [Vindristjarna](<../../../things/ships/vindristjarna.md>). From the notes and information gleaned in [Hralgar](<../../../people/giants/hralgar.md>)'s library, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) are able to determine that three steps are necessary to repair the ship: the construction of an [adamantine](<../../../things/materials/adamantine.md>) harness for the phasing stone; the construction of stone console to hold the phasing stone apparatus; and the construction of a gold and silver focus to channel the energy. 
 
-![Vindristjarna Crash Location](../../../assets/vindristjarna-crash-location.png)
+![Vindristjarna Crash Location](../../../assets/vindristjarna-crash-location.webp)
 
 Over the next two days, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) work to construct the [adamantine](<../../../things/materials/adamantine.md>) harness and the stone console to mount the phasing stone to, guided by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s magic and the knowledge of both the [Dwarves](<../../../creatures/species/dwarves.md>). During these days of work, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) tend the camp and keep watch, and Delawth scrys, seeing [Kadmos](<../../../people/chardonians/kadmos.md>) and company marching in the desert to the south, in the heart of the [Garamjala](<../../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>). 
 
 On the third day, November 27th, [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) construct considerable quantities of gold and silver thread with [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s magic, to shape and forge the final piece of the control apparatus for [Vindristjarna](<../../../things/ships/vindristjarna.md>). [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), however, sees a rider on the horizon, and heads to scout, finding [Alesh](<../../../people/dunmari/alesh.md>) riding towards the former site of the [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>).
 
-![Alesh Portrait](../../../assets/alesh-portrait.jpg)
+![Alesh Portrait](../../../assets/alesh-portrait.webp)
 
 From [Alesh](<../../../people/dunmari/alesh.md>), the party gets news about [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). She is riding from [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Sura](<../../../people/dunmari/sura.md>)'s camp, and stopped to investigate the weird lack of a storm near [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), called the Tower of the Wild Wind by the Dunmari. Among bits of personal gossip and historical trivia, the party learns that a band of [Orcs](<../../../creatures/species/orcs.md>) (the [Dustthorn Horde](<../../../groups/orc-hordes/dustthorn-horde.md>), the remnants of [Agata](<../../../people/fey/agata.md>)'s allies) attacked the border near [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), desperate for food. Several were captured and told their interrogators that [Agata](<../../../people/fey/agata.md>) was behind Karnas' ascension to the throne, and he was working for her. 
 
@@ -56,7 +56,7 @@ Meanwhile, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and [Risw
 
 The next day, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) continue to work on the channeling device, while [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) scries [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>) and sees [Grash](<../../../people/other-nonhumans/grash.md>)'s army leaving. 
 
-![Undead Orcs Marching](../../../assets/undead-orcs-marching.png)
+![Undead Orcs Marching](../../../assets/undead-orcs-marching.webp)
 
 That evening, the night of Nov 28th, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) has a dream, a shadow hunter threatening that he is coming soon for them. 
 
