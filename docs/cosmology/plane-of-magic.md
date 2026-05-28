@@ -30,6 +30,7 @@ The Plane of Magic is the name given by arcane cosmologists to the source of the
 
 
 Some brainstorming on:
+
 - Discord Chat - Multiverse
 - [Ley Lines](<planar-concepts/ley-lines.md>)
 

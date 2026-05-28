@@ -4,6 +4,8 @@ Prepared: 2026-05-28
 
 Scope: review of the published site at <https://tsackton.github.io/taelgarverse/> plus read-only inspection of the local MkDocs configuration and generated docs. No code changes are included in this plan.
 
+Status update, 2026-05-28: Priority 0 and the Phase 1 hygiene/navigation sequence are complete for the current scope. Redirect aliases were intentionally not added; instead, stale URL generation was checked at the source, and a base-path-safe custom 404 was added. Campaign navigation was completed as a single `Campaigns` top tab with current games, archive, and campaign-owned PC navigation.
+
 ## Pages Sampled
 
 - [Home](https://tsackton.github.io/taelgarverse/)
@@ -127,7 +129,26 @@ Acceptance criteria:
 - Public pages do not expose template instructions.
 - Build output reports unresolved placeholders before deploy.
 
-### 4. Fix stale-path 404 behavior
+### 4. Normalize Obsidian-style loose lists before export
+
+Observed:
+
+- Obsidian renders list markers immediately following paragraph text, but MkDocs/Python-Markdown treats them as literal paragraph text unless there is a blank line before the list.
+- This causes pages such as `Current Games` to show visible `-` prefixes instead of real bullet lists.
+
+Recommended fix:
+
+- Add an exporter Markdown normalizer that inserts a blank line before list markers such as `- `, `* `, `+ `, and ordered-list markers when they immediately follow paragraph text.
+- Preserve front matter, fenced code blocks, indented code, tables, existing valid lists, and intentionally escaped list markers.
+- Add focused tests using source Markdown that currently renders as literal hyphen-prefixed paragraphs.
+
+Acceptance criteria:
+
+- Exported Markdown has valid blank-line separation before lists.
+- MkDocs renders affected source-vault lists as `<ul>` or `<ol>`, not paragraphs containing literal hyphens.
+- Existing code blocks, tables, nav templates, and already-valid lists are unchanged.
+
+### 5. Fix stale-path 404 behavior
 
 The old URL `/taelgarverse/species/species/` returns a 404. On that 404 page, the top-nav links resolve without the `/taelgarverse/` base path, and the logo image points at `/assets/images/logo.png`, which is broken under GitHub Pages.
 

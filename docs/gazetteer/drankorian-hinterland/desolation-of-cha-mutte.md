@@ -19,6 +19,7 @@ title: Desolation of Cha'mutte
 The Desolation of Cha'mutte is a large area that is magically corrupted as a result of the [First Plague](<../../events/1000s/1059/first-plague.md>) and the [Great War](<../../events/1500s/great-war.md>). 
 
 The Desolation of Cha'mutte includes:
+
 - The area around the ruined city of [Drankor](<drankor/drankor.md>) itself, destroyed during the chaos of the [First Plague](<../../events/1000s/1059/first-plague.md>), and now deeply cursed and unexplored.  
 - The [Garamjala Desert](<garamjala-plateau/garamjala-desert.md>), on a high, arid plateau spanning the [Kharja](<../greater-dunmar/kharja.md>) and [Istaros](<../major-rivers/istaros-watershed/istaros.md>) river valleys, and including the orc realm of [Xurkhaz](<../upper-istaros/xurkhaz/xurkhaz.md>).
 - The [Nashtkar](<../greater-dunmar/nashtkar.md>), the blasted plains, north of the [Garamjala](<garamjala-plateau/garamjala-desert.md>) and east of [Dunmar](<../greater-dunmar/realms/dunmar/dunmar.md>), a land of rocky canyons, twisted hills, and little water, on the western edge of the [Plaguelands](<../upper-istaros/plaguelands.md>)

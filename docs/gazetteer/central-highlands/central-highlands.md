@@ -123,5 +123,6 @@ The Central Highlands includes the [Sentinel Range](<../sentinel-range.md>), as 
 The region is climatically dominated by the Sentinel Range, which forms a barrier between the east and west of Taelgar. Entirely inland, this region has a largely [continental climate](https://geodiode.com/climate/continental), generally with balanced rainfall or with wet winters and dry summers at the lower elevations. At higher elevations, the climate is temperate [highlands](https://geodiode.com/biomes/highlands), with the highest peaks covered in ice and snow year round.
 
 ***Real world analogs:***
+
 - Mountains of the Pacific Northwest, which have a similar north-south orientation, high peaks, and roughly equivalent latitude
 - Canadian Rockies, which mirror the northernmost section of the Sentinel Range

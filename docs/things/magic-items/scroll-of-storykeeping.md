@@ -19,6 +19,7 @@ With the proper rituals, these stories can be transferred from these scrolls to 
 
 
 [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) has recorded 9 stories with these scrolls:
+
 - [Kirian's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/kirian-s-story.md>)
 - [Amar's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/amar-s-story.md>)
 - [Justan's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/justan-s-story.md>)

@@ -30,6 +30,7 @@ The current lord is Lady [Elodie Blanchard](<../../../../people/sembarans/elodie
 
 
 _Distances:_
+
 * to [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>), 20 miles
 * to [Beury](<cleenseau-region/beury.md>), 15 miles
 * to [Champimont](<champimont.md>), 13 miles

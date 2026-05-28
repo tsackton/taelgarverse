@@ -68,6 +68,7 @@ During mawar renai; hobgoblins are stilla round the malakel entrance, but somewh
 #### Imperial Expansion
 _DR 1597 - present_
 three phases: 
+
 * apporia - 1597 - 1610 
 * 1650 - 1675 - conquest of hobgoblins; (mindknife war just after this)
 * 1690 - 1710 - chaylte

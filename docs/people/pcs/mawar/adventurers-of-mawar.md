@@ -8,7 +8,7 @@ title: Adventurers of Mawar
 
 A motley crew of occasional companions and adventurers, all based in [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). They include:
 
-- [Ryu](<ryu.md>), a hunter and ranger with a shapeshifting beast companion known as Turk, in shark form; Blu, in osprey form; and Geo in bear form. 
+- [Ryu](<ryu.md>), a hunter and ranger with a shapeshifting beast companion known as [Turk](<turk.md>), in shark form; [Blu](<blu.md>), in osprey form; and [Geo](<geo.md>) in bear form. 
 - [Trok](<trok.md>), a tattooed lizardfolk warrior, estranged from his village
 - [Wazir](<wazir.md>), an artificer and scholar, trained in Chardon, now owner of the [Leviathan Inn](<../../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>)
 - [Nerissa](<nerissa.md>), a singer and musician recently arrived in Hamri to learn the songs of the ocean

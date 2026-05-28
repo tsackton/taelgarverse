@@ -49,6 +49,7 @@ hide_toc: true
 Wendel is the long-time proprietor of *The Windward Sail*, a busy sailor's tavern in [Fiskurth](<../../gazetteer/greater-sembara/tollen/wards/fiskurth.md>). Known as a place for tales and stories - some true, many not - and a place for gossip, as well as a place to find a crew. Has a few dirty, cramped rooms stacked with "human sized" bunks, and some slightly more comfortable halfling rooms. 
 ## Relationships
 Wendel knows several regulars of [The Windward Sail](<../../gazetteer/greater-sembara/tollen/places/the-windward-sail.md>) well, including:
+
 - [Wellby](<../pcs/dunmar-fellowship/wellby.md>), an old acquaintance who frequented The Windward Sail in his youth
 - [Nika](<../tollenders/nika-hyne.md>), a collector of tales and legends, with connections to the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>)
 

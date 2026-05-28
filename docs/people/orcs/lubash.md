@@ -62,6 +62,7 @@ Lubash has a pale green complexion and is bald. His features are striking, chara
 First encountered: [The People of the Rainbow](<../../campaigns/dunmari-frontier-campaign/session-notes/session-76-dufr.md>)
 Most recent encounter: [The Battle for Uzgukhar](<../../campaigns/dunmari-frontier-campaign/session-notes/session-88-dufr.md>)
 Other mentions:
+
 - [Strategic Alliances](<../../campaigns/dunmari-frontier-campaign/session-notes/session-77-dufr.md>)
 - [Palace Attack](<../../campaigns/dunmari-frontier-campaign/session-notes/session-78-dufr.md>)
 - [Aftermath of Victory](<../../campaigns/dunmari-frontier-campaign/session-notes/session-79-dufr.md>)

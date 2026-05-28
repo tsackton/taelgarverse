@@ -120,6 +120,7 @@ Before they rested, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) 
 
 ### The View from the Wanderer
 The party climbs a statue to gain a better view of the surrounding island, discovering several key features.
+
 - Kenzo and Wellby climb a massive statue to get a better vantage point.
 - They notice the remains of a ruined pier nestled between the statue's legs.
 - The party sees other statues in the distance, identifying two as the Night Queen and [The Mother](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-mother.md>).
@@ -130,6 +131,7 @@ The party climbs a statue to gain a better view of the surrounding island, disco
 
 ### Dragonets and Dice
 The party approaches a ruined manor and tower, encountering small dragon-like creatures playing a dice game.
+
 - The group splits up, with Kenzo and Wellby sneaking ahead while Delwath and Seeker stay hidden in the forest.
 - They find a Victorian-style manor with a cracked tower and spot four dragonet creatures playing dice near the tower.
 - Kenzo uses Soul Sight, and guesses that one of the creatures is probably cheating at the game.
@@ -144,6 +146,7 @@ The party approaches a ruined manor and tower, encountering small dragon-like cr
 
 ### Megren and the Jade
 The party meets Megren at her tower, seeking information and alliances to further their mission.
+
 - Kenzo and Ghesh travel to Megren's tower, avoiding a nearby area that Ghesh describes as haunted by bad dreams of a red mist, and people dying and choking. 
 - During the flight to Megren's tower, Kenzo learns more about the dragonets' social structure. Ghesh reveals that many dragonets are simply trying to get by, while some are "true believers" in Ra'ghemdros's cause, who are more dangerous and less likely to cooperate.
 - Upon reaching Megren's tower, which is well-kept with a small village-like setup around it, Megren welcomes the party. Kenzo gifts Megren an elvish coin as a gesture of goodwill, and also presents small carved likenesses to Megren and Ghesh, further solidifying their alliance.
@@ -155,6 +158,7 @@ The party meets Megren at her tower, seeking information and alliances to furthe
 
 ### Planning the Dragon Encounter
 The party reunites to discuss their options for dealing with Ra'ghemdros, weighing the risks of different approaches.
+
 - The party considers four main strategies: sneaking into Ra'ghemdros's lair, fighting her directly, trading for the jade, or ignoring the dragon for now and gathering more information.
 - The idea of sneaking in and using magic, such as clairvoyance or dimension door, to bypass the dangers is debated, but concerns about the treacherous acidic environment and shadowy tendrils make it risky.
 - They discuss the potential of offering a large quantity of treasure to trade for the jade, though they fear Ra'ghemdros may simply kill them and take the treasure instead.
@@ -165,6 +169,7 @@ The party reunites to discuss their options for dealing with Ra'ghemdros, weighi
 
 ### Journey to the Elvish Forest
 The party travels invisibly to the elvish forest, facing new challenges and making key observations.
+
 - They move across the landscape, making their way to the edge of the forest while invisible, avoiding detection by a pair of dragonettes flying overhead.
 - The terrain they pass through is dry and arid, with occasional springs, scrubby grasses, and little sign of life apart from small lizards and insects.
 - Upon reaching the forest, the group finds it open and airy, with tall trees, flowers, and sunlight filtering through the canopy, creating an almost serene atmosphere.
@@ -178,6 +183,7 @@ The party travels invisibly to the elvish forest, facing new challenges and maki
 
 ### Elven Memorial and Memories
 The party encounters an ancient memorial at the edge of the forest, gaining insight into the island's history and making a significant connection.
+
 - They find a clearing where two unusually tall trees stand, with a curving piece of pale gray stone growing between them. The stone bears hundreds of names of elves in Elvish script that seems to drift through the stone like a living memorial.
 - When Delwath touches the stone, a name drifts toward his hand, and he experiences a vision of an elf in battle, providing a glimpse of the [Downfall Wars](<../../../events/ancient/downfall-wars.md>).
 - The trees speak to Kenzo, revealing that there have been no pilgrims for many years, dating back to the [Fall of Drankor](<../../../events/1000s/1059/fall-of-drankor.md>). The trees remember those who died in battle and offer glimpses into their past lives.
@@ -188,6 +194,7 @@ The party encounters an ancient memorial at the edge of the forest, gaining insi
 
 ### The Eldest Dragonet
 The party arrives at a mountaintop clearing where eight temples stand in a circle, each dedicated to a different deity, and they investigate the area.
+
 - The temples are arranged around a central courtyard, with a bell tower that has a lighthouse-like top and several administrative buildings nearby.
 - They find a large hostel where pilgrims would stay, along with a mess hall featuring stone benches and arcane circles for communal meals, suggesting the area once supported up to 100 people.
 - The party identifies the Temple of the Sibyl, dedicated to the deity of magic, knowledge, song, and love, and note that each temple has a single entrance facing the courtyard.
@@ -198,6 +205,7 @@ The party arrives at a mountaintop clearing where eight temples stand in a circl
 
 ### Meeting Dimitaur the Dragonet
 The party encounters the elderly dragonet Dimitaur, who tests their intentions and demands proof of their allegiance to Rai before sharing valuable information about their quest.
+
 - The party discusses the locations of the jade pieces: Elderwood, with merfolk, and in Ursk in the far north.
 - Dimitaur reveals he has limited knowledge of Rai's current state, but implies Rai is likely alive.
 - The party explains that they receive visions when finding jade pieces, revealing how Rai's hand shattered.

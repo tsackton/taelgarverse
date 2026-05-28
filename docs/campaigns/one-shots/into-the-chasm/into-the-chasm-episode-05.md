@@ -7,14 +7,14 @@ realWorldDate: 2026-01-15
 DR: 1730-01-29
 DR_end: 1730-01-29
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
-name: Descent Through the Broken Mechanism
+name: Into the Chasm - Episode 05
 descTitle: The God Caller Below
 tagline: in which Eidrikas sends them under
 sessionKey: into-the-chasm-session-5
 session-template: into-the-chasm-template.md
-title: Descent Through the Broken Mechanism
+title: Into the Chasm - Episode 05
 ---
-# Descent Through the Broken Mechanism
+# Into the Chasm - Episode 05
 
 >[!info] The God Caller Below: in which Eidrikas sends them under
 > *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*

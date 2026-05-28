@@ -21,6 +21,7 @@ title: Illoria
 A group of islands in the Nevos Sea, recently conquered by Chardon and now govered as a protectorate of the [Chardonian Empire](<../greater-chardon/chardonian-empire/chardonian-empire.md>). 
 
 There are two major islands:
+
 * [Burganos](<burganos.md>), the north island
 * [Silanus](<silanus.md>), the south island
 

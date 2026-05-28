@@ -30,10 +30,12 @@ The [Sentinel Range](<sentinel-range.md>) stretches 2300 miles from volcano moun
 
 ### Central Sentinels
  The middle section, roughly the area starting west of [Zimkova](<greater-sembara/zimkova/zimkova.md>) and running south to the desolation west of the [Western Marches](<greater-sembara/sembara/western-marches/western-marches.md>), is rocky and very tall, with extensive underground development associated with the [Dwarven Kingdoms](<central-highlands/dwarven-kingdoms/dwarven-kingdoms.md>), and more dangerous things. These are stereotypical high mountains. 
+
 		- ***Real world analogs:*** This region stretches from roughly 40 degrees N to 50 degrees N. This is a classic high mountain range, sharing features with the northern Rockies, the Alps, and Patagonia, but even the tallest peaks are unlikely to reach the heights of something like the Himalayas in the real world. 
 
 ### Southern Sentinels
 The southern section, covering the area that was once the dwarven kingdom of [Ardith](<central-highlands/dwarven-kingdoms/ardith.md>), from roughly west of [Maseau](<greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) or [Refounded Alliance of Aurbez](<upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>) to the end of the [Sentinel Range](<sentinel-range.md>) north of [Dunmar](<greater-dunmar/realms/dunmar/dunmar.md>), is full of high, barren peaks that rise sharply from the plains, and is generally dry, with arid regions to the west and south. 
+
 		- ***Real world analogs:*** This is warmer and further south, from approx. 34 degrees N to 38 degrees N. Probably shares some similarities with the dry Andes, or possibly some of the mountains in central Asia, such as Hindu Kush or Pamir Mountains. 
 	- The northern and middle sections are separated by a region of lower hills, a more habitable region with mixed forests and rocky slopes, but relatively easy passage between the west and east. This is likely the route by which the early northerners crossed into the Sembaran highlands. 
 		- ***Real world analogs***: Perhaps somewhat similar to something like the less mountainous Yellowstone / Montana, or even perhaps the Whites. 

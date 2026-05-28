@@ -25,6 +25,7 @@ The people of Ursk speak their own tongue. Common is rarely spoken, although the
 ## Rumors
 
 The northern coasts between Skaegenland and Ursk are inhospitable, with few or no safe harbors, generally sheer cliffs and rocky coasts, and no ports. Who or what lives there is anyone's guess, and no one has ventured into the interior and returned. But many rumors fly:
+
 - The Last Kingdom of the Giants
 - Fierce snow elves
 - Shapeshifters and changelings

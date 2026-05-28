@@ -8,6 +8,9 @@ _sessions/
 _templates/
 _scripts/
 Campaigns/*
+!Campaigns/Campaigns.md
+!Campaigns/Current Games.md
+!Campaigns/Campaign Archive.md
 !Campaigns/Dunmar*
 !Campaigns/Addermarch*
 !Campaigns/Mawar*

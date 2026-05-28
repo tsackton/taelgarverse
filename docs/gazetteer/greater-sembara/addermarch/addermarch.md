@@ -125,6 +125,7 @@ In these golden years last until DR 1720, when the [Undead Attacks in Sembara](<
 
 
 Natural features include:
+
 - The [Westcliff](<westcliff.md>), a significant escarpment running along the western and northwestern borders, steep hills, rough terrain, some relatively impassible mountain ridges here and sharp cliffs on the western border
 - [Darkwood](<darkwood.md>), to the south, haunted and fey-associated, colocated with the center of Duskmire in the [Feywild](<../../../cosmology/feywild.md>)
 - [Torvaine Forest](<torvaine-forest.md>), centered at mid and high elevations around the upper [Umber](<../rivers/wistel-enst-watershed/umber.md>) and [Velan](<../rivers/wistel-enst-watershed/velan.md>), and stretching in places into the lowlands. 
@@ -133,6 +134,7 @@ Natural features include:
 - [Aure](<../rivers/wistel-enst-watershed/aure.md>) river valley, including the [Aure](<../rivers/wistel-enst-watershed/aure.md>), which forms a lake + waterfall at [Adderfell](<adderfell.md>), and its major tributaries the [Velan](<../rivers/wistel-enst-watershed/velan.md>) and the [Branth](<../rivers/wistel-enst-watershed/branth.md>), each with their own tributaries. 
 
 Settlements include:
+
 - [Adderfell](<adderfell.md>), the largest settlement and only city in Addermarch, at the height of navigation of the [Aure](<../rivers/wistel-enst-watershed/aure.md>), center of apple farming and brandy production
 - [Tygate](<tygate.md>), a small market town near the southern border
 - [Valcroix](<valcroix.md>), a market town at the confluence of the [Umber](<../rivers/wistel-enst-watershed/umber.md>) and [Velan](<../rivers/wistel-enst-watershed/velan.md>)rivers
@@ -162,6 +164,7 @@ There are also a few hundred hereditary knights in Addermarch: while some of the
 
 
 The five Earls of Addermarch are known as:
+
 - The Earl of Adderfell, who, unlike other Earls, is the lord of the city of Adderfell (but includes some outlying villages in their demesne) 
 - The Earl of Westcliff, whose circuit includes all of the [Westcliff](<westcliff.md>), as well as parts of the upper Aure valley, especially on the western part of Addermarch. The Earl of Westcliff is the lord of three shires: [Bramshire](<bramshire.md>) (northern hills bordering [Sembaran Borderlands](<../sembara/borderlands/borderlands.md>)), [Carlinshire](<carlinshire.md>) (northwestern hills, upper reaches of [Umber](<../rivers/wistel-enst-watershed/umber.md>)), [Weskershire](<weskershire.md>) (West Cliff and south). These shires are each centered around major defenses on the western and northern border, and have hereditary lords. 
 - The Earl of Southmarch, whose circuit includes the southern Aure. 

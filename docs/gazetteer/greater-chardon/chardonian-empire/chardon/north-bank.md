@@ -30,6 +30,7 @@ The central part of the walled area, known as the [Bastion Quarter](<bastion-qua
 East (upriver) of the fortifications along the height of land of the [Mount Nera](<mount-nera.md>) spur, the land is hillier and dryer, and this region, known as the [Nera Domains](<nera-domains.md>), is dotted with elaborate manors of the rich and prosperous. 
 
 Two major bridges cross the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), connecting the North Bank to the bulk of the city to the south. 
+
 - The farthest downriver, connecting the [Bastion Quarter](<bastion-quarter.md>) to the [Precinct VII](<precinct-vii.md>), is the [River Bridge](<river-bridge-chardon.md>), a massive arching bridge, with an enchanted mechanism allowing the middle section to be be raised for tall-masted ships to pass under, and wide enough for four wagons to cross abreast. 
 - Upriver from the [River Bridge](<river-bridge-chardon.md>) is the [Chardon Bridge](<chardon-bridge.md>), marking the height of navigation on the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), and connecting the [Summit Quarter](<summit-quarter.md>) to  [Precinct VI](<precinct-vi.md>). 
 

@@ -8,14 +8,14 @@ DR: 1730-01-25
 DR_end: 1730-01-25
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
-name: Into the Chasm - Episode 2
+name: Into the Chasm - Episode 02
 descTitle: The Labyrinth
 tagline: in which the party navigates an ever-shifting maze
 sessionKey: into-the-chasm-session-2
 session-template: into-the-chasm-template.md
-title: Into the Chasm - Episode 2
+title: Into the Chasm - Episode 02
 ---
-# Into the Chasm - Episode 2
+# Into the Chasm - Episode 02
 
 >[!info] The Labyrinth: in which the party navigates an ever-shifting maze
 > *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*

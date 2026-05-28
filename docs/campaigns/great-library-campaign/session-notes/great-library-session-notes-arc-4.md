@@ -80,6 +80,7 @@ A few weeks later, they arrive back in [Voltara](<../../../gazetteer/northwest-c
 ### Session 57
 
 The party spends some time in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). They sell treasure, decorate their manor, and purchase an extradimensional vault from an [eccentric dwarven artificer](<../../../people/dwarves/eldeth-redhammer.md>). They also receive letters: 
+
 - from Dinia, saying that [Airion’s Floating Tower](<../../../gazetteer/northwest-coast/fiamatara-mountains/airions-floating-tower.md>) is gone; 
 - from Iara, the lizardfolk, saying her people are heading south to [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>); 
 - from Archivist [Lyra](<../../../people/chardonians/lyra.md>), saying that the elemental scrolls were well-received, that should they find any more of Airion’s treasure they should come to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) to sell it, and also asking if they would look into the disappearance of another group of adventurers in the [Goldpeak Mines](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>).

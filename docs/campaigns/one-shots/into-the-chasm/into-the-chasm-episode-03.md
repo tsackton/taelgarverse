@@ -8,14 +8,14 @@ DR: 1730-01-25
 DR_end: 1730-01-26
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
-name: Into the Chasm - Episode 3
+name: Into the Chasm - Episode 03
 descTitle: The Village in the Fog
 tagline: in which Melusa opens below
 sessionKey: into-the-chasm-session-3
 session-template: into-the-chasm-template.md
-title: Into the Chasm - Episode 3
+title: Into the Chasm - Episode 03
 ---
-# Into the Chasm - Episode 3
+# Into the Chasm - Episode 03
 
 >[!info] The Village in the Fog: in which Melusa opens below
 > *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*

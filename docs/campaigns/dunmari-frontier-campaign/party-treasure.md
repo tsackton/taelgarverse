@@ -211,6 +211,7 @@ These are the common and uncommon items recovered from [Ra'ghemdros' Hoard](<hoa
 - ![Dragonet Ring Hoard](../../assets/dragonet-ring-hoard.jpg){align="right"; width="300"}**Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting the mythology of dragnets, a rare work of art, eyes of rubies. 
 - **Exquisite Gemstone Brooch**: A brooch made from an array of precious stones set in a unique floral design, a treasured family heirloom.
 ![Floral Brooch Hoard](../../assets/floral-brooch-hoard.jpg){align="right"; width="300"}  
+
 - **Silver and Diamond Ring**. Etched in Elvish with a fragment of a poem about the stars. 
 - **Emerald Platinum Ring**. A platinum ring set with a massive emerald.  
 #### Other Jewelry

@@ -19,6 +19,7 @@ title: Dunmar Fellowship
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
 
 Consists of:
+
 - The elven warlock [Delwath](<delwath.md>)
 - The halfling scout [Wellby](<wellby.md>) and his axebeak mount and companion [Baxter](<companions/baxter.md>)
 - The dwarven bard, scholar, and rune master [Seeker](<seeker.md>)

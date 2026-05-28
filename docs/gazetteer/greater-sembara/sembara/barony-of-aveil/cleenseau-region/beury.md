@@ -42,6 +42,7 @@ A [small market](<manor-of-beury.md#economy>) is held in the caravan yard once a
 
 
 _Distances:_
+
 * to [Cleenseau](<cleenseau/cleenseau.md>), 5 miles
 * to [Dallet](<../dallet.md>), 15 miles
 * to [Rinburg](<../rinburg.md>), 55 miles

@@ -22,6 +22,7 @@ While little is known for certain about their magic, they are powerful in entrap
 The binding stones are known to have been used by the Drankorian wizard [Eudomes](<../../../people/historical-figures/eudomes.md>), a member of the [Occulta Ludum](<../../../groups/drankorian-societies/occulta-ludum.md>), to bind the storm giant [Hralgar](<../../../people/giants/hralgar.md>) at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>). They were removed from the tower in DR 1748 by [Dee Wildcloak](<../../../people/halflings/dee-wildcloak.md>), [Dain Goldhammer](<../../../people/dwarves/dain-goldhammer.md>), and companions, eventually finding their way into the possession of the wizard [Fausto](<../../../people/chardonians/fausto.md>), and [later the Dunmar Fellowship](<../session-notes/session-48-dufr.md>).
 
 The five crystals are named:
+
 - The Mirror Stone: a silvery, highly reflective stone; seems associated with reflecting and mirroring energy  
 - The Chaos Stone: a streaked stone of swirling colors, that seem to shift when you are not looking at it, primarily reds, blues, whites, and browns; perhaps associated with disorder, chaos, or raw elemental energy  
 - The Echo Stone: a pure white opaque stone, with an odd optical effect that it seems to contain echos or reflections of itself; perhaps associated with the Feywild, or with duplications and echoes  

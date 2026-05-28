@@ -37,5 +37,6 @@ Unlike [Spiritual Realms](<spiritual-realms/spiritual-realms.md>), this is not r
 In any case, the Plane of Creation is not a place where souls end up in any kind of afterlife, although perhaps souls "return" to the Plane of Creation in some metaphysical sense when they cease to exist in any kind of conscious, aware form. 
 
 Open questions:
+
 - Cosmology - Open Questions
 

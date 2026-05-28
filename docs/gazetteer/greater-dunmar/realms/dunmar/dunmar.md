@@ -92,6 +92,7 @@ DR 1557 -
 The [Great War](<../../../../events/1500s/great-war.md>) left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [Yuvanti Mountains](<../../yuvanti-mountains.md>) rising to the west, and the new lands of the [Nayan Floodplains](<../../nayan-floodplains.md>) emerging from the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>). The [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was founded in the west, establishing a new administrative center, [Nayahar](<western-dunmar/nayahar.md>), on the [Nayan](<../../rivers/nayan.md>) River, and slowly reclaims land as far east as the [~Karawa Desert~](<../../hara-basin/karawa-desert.md>). 
 
 The first 50 years of the [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was marked by a series of wars: 
+
 - The [Fire War](<../../../../events/1500s/fire-war.md>), against the fire giant [Mavdyr](<../../../../people/historical-figures/mavdyr.md>) and his allies
 - The [Bitter Knife War](<../../../../events/1500s/bitter-knife-war.md>), against the Bitter Knife hobgoblin nation based in the [Nashtkar](<../../nashtkar.md>)
 - The [Northern War](<../../../../events/1600s/northern-war.md>), against the [Blackened Claw](<../../../../groups/hobgoblin-clans/blackened-claw.md>) hobgoblin clan based in the [Samtal](<../../hara-basin/samtal.md>) and the upper reaches of the [Hara](<../../rivers/hara-watershed/hara.md>). 

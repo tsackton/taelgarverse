@@ -62,6 +62,7 @@ Also constructed are a well-equipped galley and kitchen, a dining hall, a map ro
 ## Mechanics
 
 More detail about the mechanical effects of Vindristjarna can be found here:
+
 - [Vindristjarna Mechanics](<../../campaigns/dunmari-frontier-campaign/vindristjarna-mechanics.md>)
 - [Vindristjarna Bastion Rules](<../../campaigns/dunmari-frontier-campaign/vindristjarna-bastion-rules.md>)
 

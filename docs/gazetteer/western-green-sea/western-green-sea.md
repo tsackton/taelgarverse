@@ -64,6 +64,7 @@ Halfling traders love this land, the coastal waters of their ancient home on the
 (_The geography of the Cymean Archipelago is still to be invented - Eds.)
 
 Separately, a variety of coastal lands are included here:
+
 * The shores around the [Skaer Islands](<skaerhem/skaerhem.md>), including the ~Skaer Northcoast Penisula~ and the ~Skaer Shores~ north of the ~Vostok Coastal River~ are mostly coastal flatlands with mountains behind them
 * The [Cymean Peninsula](<cymean-peninsula.md>) is divided by the [Plataca Hills](<cymea/plataca-hills.md>) and separated from the south by the ~Cymea Border Mountains~
 

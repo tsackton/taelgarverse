@@ -24,6 +24,7 @@ A large caravanserai, inn, and trading post in [Karawa](<karawa.md>). It is on t
 ## Food and Drink
 
 Popular menu items include:
+
 - Sweet, chilled date wine
 - Sharba, a popular Dunmari vodka-style drink fermented from milk
 - Spiced beer, sometimes available, as it is imported from [Nardith](<../../nardith/nardith.md>)

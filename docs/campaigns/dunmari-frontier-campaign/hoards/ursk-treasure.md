@@ -19,6 +19,7 @@ Three blood red rubies
 A Watcher's Dagger, function as a [Dagger of Blindsight](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)
 
 Five potions: 
+
 - Potion of clairvoyance 
 - Potion of heroism  
 - 2 potions of speed 

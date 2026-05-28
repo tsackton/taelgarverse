@@ -51,6 +51,7 @@ Rinburg itself is set at a wide point on the [Enst](<../../rivers/wistel-enst-wa
 
 ### Governance
 Rinburg is governed by a Lord Mayor, who is elected by the Council of Supervisors once every seven years. The Council of Supervisors consists of:
+
 * The head and deputy for each of the three major guilds
 * The head of each of the five minor guilds (the Baker's Guild, the Tanner's Guild, the Clothier's Guide, the Cooper's Guild and the Chandler's Guild)
 * The chief counselor of each ward

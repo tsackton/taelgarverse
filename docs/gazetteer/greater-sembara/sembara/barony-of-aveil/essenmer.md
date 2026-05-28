@@ -22,6 +22,7 @@ title: Essenmer
 A village on the [Great South Road](<../../roads/great-south-road.md>), known for its grand inn. A common stopping spot for travelers between [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>) and [Rinburg](<rinburg.md>).
 
 _Distances:_
+
 * to [Rinburg](<rinburg.md>), 12 miles
 * to [Champimont](<champimont.md>), 15 miles
 * to [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>), 48 miles

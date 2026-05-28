@@ -32,6 +32,7 @@ In DR 1749, upon [Fausto](<../../people/chardonians/fausto.md>)'s death, [it was
 
 
 SECRET` block and `_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/The Relics of Apollyon.md` describe the crown as “constructed by Apollyon” as part of a suite of relics tied to “Hkaran purity” and/or manipulation of the divine spark of humanity.
+
 - **Dating conflict:** `_DM_/Timelines/Cloak of Rainbows Timeline.md` includes “1058 DR: apollyon constructs Crown of Purity”, which conflicts with the “created: 1” frontmatter here and the Riving-era origin in the mirror vision.
 
 Open question for review: decide whether Apollyon *created* the crown outright, or *recovered/repurposed* a much older Riving-era circlet into the Crown of Purity as imperial regalia. Current notes support both framings.

@@ -36,6 +36,7 @@ The city walls are shaped like a bean, running north, then curving east before t
 * [Underhill](<underhill.md>) (E on the map), is the poorest neighborhood, and stretches along the base of the [Essford Manor](<essford-manor.md>) hill
 
 Three paths lead through the town:
+
 * A narrow dirt track (known as Char Street) runs along the interior of the southeast wall, lined with a number of small food stalls and shops (H). 
 * A paved road (Market Road) leads from east to west, between the Market Gate and the North Gate, and divides the North Close from the Garrison Quarter and [Underhill](<underhill.md>)
 * A narrow track (Underhill Way) along the edge of the raised [Essford Manor](<essford-manor.md>) provides a shortcut from south to north

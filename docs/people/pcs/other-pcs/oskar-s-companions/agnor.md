@@ -21,7 +21,7 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [dwarf](<../../../../creatures/species/dwarves.md>) (he/him)  
-    One of Oskar's Companions  
+    One of [Oskar's Companions](<oskar-s-companions.md>)  
     { .bio }
 
     Based in [Tharn Todor](<../../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../../../gazetteer/greater-dunmar/yuvanti-mountains.md>)

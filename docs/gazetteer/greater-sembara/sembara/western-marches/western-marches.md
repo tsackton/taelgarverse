@@ -17,6 +17,7 @@ title: Western Marches
 The Western Marches of Sembara encompass all of the lands west of the ancient baronies of [Ainwick](<../barony-of-ainwick/barony-of-ainwick.md>) and [Aveil](<../barony-of-aveil/barony-of-aveil.md>). The land suffered greatly in the [Great War](<../../../../events/1500s/great-war.md>), and the hobgoblin wars that followed, and has only slowly recovered. It is still sparsely populated, and the [Army of the West](<../../../../groups/sembaran-army/army-of-the-west.md>) is the dominant institution in the region. The two military baronies - [Usbourg](<barony-of-usbourg.md>) and [Dunfry](<barony-of-dunfry.md>) - were created during the reign of [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece-i.md>).
 
 The Western Marches are divided into three regions: 
+
 * the [Marches of Enford](<marches-of-enford.md>), in the foothills between the north and central branches of the River Enst 
 * the military baronies, amongst the flat lands north of the Enst
 * the [Marches of Brovna](<marches-of-brovna.md>), north of the Wistel. 

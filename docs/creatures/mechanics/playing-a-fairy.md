@@ -6,7 +6,7 @@ title: Playing a Fairy
 ---
 
 
-# Fairy Species Details
+# Playing a Fairy
 
 
 

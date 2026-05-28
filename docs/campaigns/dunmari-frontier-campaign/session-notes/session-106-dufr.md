@@ -56,6 +56,7 @@ Later that morning, [Milo Thistlefoot](<../../../people/halflings/milo-thistlefo
 #### Eldest Tree Corruption Battle
 (DR 1749-05-16, evening)
 The party faces the corrupted Eldest tree, attempting to eliminate the writhing vines that threaten the jungle's harmony.
+
 - The jungle is strangely silent, with none of the usual lively sounds [Pip](<../../../people/other-nonhumans/pip.md>) the bat described.
 - The party arrives at a tree called the Eldest, or Canopy, which is surrounded by corrupted, thorny vines.
 - [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) scouts the area and discovers a woody knot at the center of the vine mass, noting how it pulses faintly, as though it has a heartbeat of its own.
@@ -69,6 +70,7 @@ The party faces the corrupted Eldest tree, attempting to eliminate the writhing 
 #### Awakening the Eldest Tree
 (DR 1749-05-16, night)
 After defeating the corrupted vines, the party witnesses the Eldest tree awakening, grateful for their help.
+
 - As the vines crumble, the tree speaks in a slow, ponderous voice, thanking the party and referring to them as "big monkeys." The branches sway as if the tree is shaking off a bad dream.
 - The party checks on the tree's condition, with Delwath translating from Elvish, the language the forest seems to speak. The tree is confused but says it will heal in time.
 - The tree mentions a chaotic shrapnel that disturbed its dreams, describing visions of a giant rock, overgrown forests, and erupting volcanoes. It struggles to distinguish dreams from reality.
@@ -82,6 +84,7 @@ After defeating the corrupted vines, the party witnesses the Eldest tree awakeni
 #### Morning with the Eldest Tree
 (DR 1749-05-17, morning)
 The party returns to the Eldest tree after a night of rest, seeking answers about the jade and the recent disturbances.
+
 - The party wakes early on [Vindristjarna](<../../../things/ships/vindristjarna.md>), noticing a renewed energy in the jungle. They hear a distant song, faintly in Elvish, which seems to celebrate the dawn and the return of life.
 - Returning to the Eldest tree, they are greeted once more, and the tree thanks them, expressing regret for its confusion the previous day. It now seems more coherent and willing to help.
 - [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) explains their quest for the jade, describing the stone and asking if the tree can reach out to other beings in the jungle for information. The tree agrees, pondering for a moment.
@@ -95,6 +98,7 @@ The party returns to the Eldest tree after a night of rest, seeking answers abou
 #### Meeting the Coastal Monkeys
 (DR 1749-05-17, late morning)
 The party travels to the coast to meet the monkeys and learn more about the jade.
+
 - The Eldest tree, referred to by the other jungle inhabitants as "Canopy," directs the party to the coastal mangroves, where the howler monkeys live. The journey takes about two hours on [Vindristjarna](<../../../things/ships/vindristjarna.md>).
 - Upon arrival, the party finds the monkeys tending to their sick, feeding them fruit juice from leaf cups. The monkeys greet the party with a mix of curiosity and caution, eventually introducing Roar, a large howler who seems to speak for the group.
 - The monkeys reveal that they had been ill during the recent corruption, but they did see flying lizards from the ocean, which match the direction the jade seemed to have gone.
@@ -103,6 +107,7 @@ The party travels to the coast to meet the monkeys and learn more about the jade
 #### Encounter with the Storm
 (DR 1749-05-17, evening)
 The party takes to the sea in [Vindristjarna](<../../../things/ships/vindristjarna.md>), following the direction the monkeys pointed towards the jade.
+
 - The journey across the [sea of storms](<../../../gazetteer/drankorian-hinterland/sea-of-storms.md>) is initially calm, with strange conditions where waves crash violently despite the lack of strong winds. The party travels for about 7-8 hours, covering 80 miles off the coast.
 - As evening falls, the party encounters a massive storm—a dome of clouds rising hundreds of feet into the air and merging into a thick cloud bank, with the sea below churning violently.
 - Faldrick, captaining [Vindristjarna](<../../../things/ships/vindristjarna.md>), pauses as the storm comes into view, and the party discusses their options—whether to proceed into the storm or find another way around it.
@@ -115,6 +120,7 @@ The party takes to the sea in [Vindristjarna](<../../../things/ships/vindristjar
 #### Underwater Exploration Attempt
 (DR 1749-05-18, early morning)
 The party decides to investigate the storm from below, attempting to bypass the violent surface conditions by exploring underwater.
+
 - The party discusses the idea of exploring the interface between the storm and the water, suspecting that the storm might be a surface phenomenon with less chaotic conditions below.
 - [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) polymorphs into an orca and leaps off the ship to explore underwater, attempting to swim beneath the storm. However, midway through the swim, the spell unexpectedly ends, and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) reverts to his dwarf form.
 - Caught in the massive waves, Seeker begins to struggle. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) quickly dives in, using alter self to swim effectively and reach Seeker before he drowns. Together, they manage to return to Vindristjarna, though Seeker is left exhausted from the ordeal.
@@ -125,6 +131,7 @@ The party decides to investigate the storm from below, attempting to bypass the 
 #### Sailing Through the Storm
 (DR 1749-05-18, morning)
 The party, led by Milo, decides to sail through the storm using a folding boat, attempting to navigate through the massive waves and violent winds.
+
 - [Milo Thistlefoot](<../../../people/halflings/milo-thistlefoot.md>), with Tilly Brineheart by his side, suggests the party sail through the storm, using their folding boat, and volunteers to captain the mission. The party unfolds the larger version of the folding boat, a 24-foot vessel with a single mast.
 - The halfling crew, inspired by Milo's impassioned speech, volunteers to help row the boat. Everyone ties themselves to the vessel for safety, and they prepare to face the storm.
 - Wellby studies the storm, recognizing a pattern in the waves that could provide a brief window of opportunity to navigate through. He signals the crew to move during a calmer moment.

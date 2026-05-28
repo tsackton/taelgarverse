@@ -8,14 +8,14 @@ DR: 1730-01-26
 DR_end: 1730-01-29
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
-name: The Safe Gash
+name: Into the Chasm - Episode 04
 descTitle: The Druid in the Circuit
 tagline: in which Malquin bargains and Eidrikas endures
 sessionKey: into-the-chasm-session-4
 session-template: into-the-chasm-template.md
-title: The Safe Gash
+title: Into the Chasm - Episode 04
 ---
-# The Safe Gash
+# Into the Chasm - Episode 04
 
 >[!info] The Druid in the Circuit: in which Malquin bargains and Eidrikas endures
 > *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*

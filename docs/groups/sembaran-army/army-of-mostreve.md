@@ -23,6 +23,7 @@ The Army of Mostreve is the name used by many in Sembara for the three Guard Com
 Legend says that the Color Guard and the Twilight Guard date to ancient days, and were founded in the court of [Archfey Ethlenn](<../../people/extraplanar-powers/archfey/archfey-ethlenn.md>) herself. The army is responsible for the defense of the borders of Tyrwingha, and in times of need the monarch can summon their earls and swell the Iron Guard by thousands.
 
 In less troubled times, the three guard companies are established in five garrisons:
+
 * the garrison of Cyfarthfa, north of the [Rhewin](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/rhewin.md>), near the [Tyrwinghan Road](<../../gazetteer/greater-sembara/roads/tyrwinghan-road.md>)
 * the garrison of Garn Tyrn, in the [Maerwyns](<../../gazetteer/greater-sembara/maerwyn-mountains.md>) near the source of the [Daran](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/daran.md>)
 * the Maerwyn Garrison, in the southern [Maerwyns](<../../gazetteer/greater-sembara/maerwyn-mountains.md>) 

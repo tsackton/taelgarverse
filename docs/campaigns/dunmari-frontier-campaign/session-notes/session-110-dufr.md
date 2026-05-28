@@ -114,6 +114,7 @@ The session ends as the party sails back through the storm with Milo and Tilly, 
 
 ### Bargaining with the Hobgoblin in the Mirror
 The party attempts to negotiate with a hobgoblin imprisoned in a magical mirror, seeking information that could help them in their upcoming confrontation.
+
 - The group discusses what they can offer to the hobgoblin in exchange for her help, considering freedom or other potential promises.
 - The characters debate the morality of the hobgoblin's imprisonment, including arguments about restorative justice and whether hobgoblins have souls.
 - Kenzo, Delwath, and the others approach the hobgoblin cautiously, hoping to use shared enemies as a way to build an alliance.
@@ -125,6 +126,7 @@ The party attempts to negotiate with a hobgoblin imprisoned in a magical mirror,
 
 ### Planning the Dragon Ambush
 The party strategizes on how to deal with a powerful dragon, debating whether to lure her out of her lair or face her directly inside.
+
 - The group considers using rumors or indirect messages to draw the dragon out of her lair, hoping to avoid a confrontation in her heavily fortified territory.
 - They weigh the risks of fighting the dragon outside versus inside her lair, and whether they should negotiate for the jade or prepare for a direct fight.
 - Ultimately, the party decides to prepare for both negotiation and combat, using stealth and misdirection to their advantage.
@@ -132,6 +134,7 @@ The party strategizes on how to deal with a powerful dragon, debating whether to
 
 ### Journey to the Dragon's Lair
 The party sets their plan into motion, transforming into animals and traveling to meet Ghesh in hopes of securing an audience with the dragon Ra'ghemdros.
+
 - The group transforms into fast-flying birds to approach Ghesh, using the disguise to maintain secrecy and build rapport with him.
 - Kenzo convinces Ghesh to help arrange a meeting with Ra'ghemdros, hinting that he has discovered something important in the western region that the dragon would want to know about, potentially involving treasure that could be rescued for Ra'ghemdros. 
 - Ghesh agrees to send a message to Ra'ghemdros, and three dragonettes are assigned to escort the party to the dragon's lair. Kenzo jogs alongside the dragonettes, while the rest of the party travels in animal form.
@@ -139,6 +142,7 @@ The party sets their plan into motion, transforming into animals and traveling t
 
 ### Audience with Ra'ghemdros
 The party meets Ra'ghemdros, the powerful black dragon, in her lair amidst the ruins of an ancient villa of a lost Drankorian scholarly or magical society.
+
 - The party arrives at the thermal bath complex, where Ra'ghemdros is perched above, her massive pitch-black form marred by a scar shimmering in reds and oranges.
 - Ra'ghemdros begins by introducing herself: "I am Ra'ghemdros, daughter of Cha'mutte, I am the Light Stealer and the Final Shadow, the Devourer of Drankor, the Last Empress of Hkar, known as the Eternal Night and Enslaver of the Secret Sunset."
 - Kenzo bows deeply and addresses her respectfully: "The Final Shadow. It is an honor to be in your presence and to have this audience."
@@ -153,6 +157,7 @@ The party meets Ra'ghemdros, the powerful black dragon, in her lair amidst the r
 
 ### Scouting the Villa and Returning to Ra'ghemdros
 With two hours until their next meeting with Ra'ghemdros, the party decides to explore the nearby villa to gather more information.
+
 - They send a rat ahead to explore the ruins, discovering a cellar guarded by floating columns of acid and a large room with magical flames and statues depicting elegantly dressed individuals.
 - They use clairvoyance to investigate further, discovering a crypt lined with urns and a wall bearing a symbol of a flaming red eye surrounded by shadows.
 - The party discusses their findings, theorizing that the villa may contain hidden dangers or clues related to Cha'mutte and his connection to Ra'ghemdros.
@@ -164,6 +169,7 @@ With two hours until their next meeting with Ra'ghemdros, the party decides to e
 
 ### Confronting the Fiend in the Lava Chamber
 The party teleports into a dangerous intersection, preparing for a confrontation with a fiend in a lava-filled chamber.
+
 - After entering the villa using Dimension Door, the party appeared in a four-way intersection of the dungeon.
 - Delwath uses Ghostly Gaze to scout the room, revealing a hidden room in which a large fiend stands near a lava fountain, apparently on guard.
 - The party discusses positioning and tactics to avoid line effects from the fiend, identifying the threat as a balrog-like creature holding a whip and cloaked in shadow. They decide to use Scatter to teleport into the room, hoping to avoid Cha'mutte's eye and enter the lava chamber without needing to find the secret door.
@@ -171,6 +177,7 @@ The party teleports into a dangerous intersection, preparing for a confrontation
 
 ### Battle Against the Fiend
 The party engages in a fierce battle with a powerful fiend in the lava chamber, utilizing a mix of spells, attacks, and creative tactics.
+
 - Seeker attempts to destroy a massive scrying mirror that connects to Ra'ghemdros's lair but finds it too resilient to break easily. The mirror allows Ra'ghemdros to spy on them, and the party debates whether to destroy it or focus on the fiend.
 - The fiend, a balrog-like creature, retaliates with its fiery whip and multiple devastating attacks, focusing its ire on Delwath and his radiant sword.
 - Delwath delivers powerful strikes with his magical sword, which glows with radiant energy, preventing the fiend from regenerating its wounds. He uses smites to enhance his attacks, each strike unleashing bursts of radiant power that weaken the fiend, often scoring critical hits with his sword that seems eager to destroy the fiend. At one point, Delwath is pulled into the lava by the fiend's whip, but he manages to escape, continuing to fight despite his injuries. One particularly notable critical hit caused Delwath's sword to glow with an intense light, accompanied by a whispered Elvish chant, as the fiend recoiled in pain.
@@ -184,6 +191,7 @@ The party engages in a fierce battle with a powerful fiend in the lava chamber, 
 
 ### Aftermath in the Lava Chamber
 With the fiend defeated, the party takes stock of their situation and the room.
+
 - The fiend's body collapses, leaving behind only a large black iron key. The party recognizes it as similar to an item they found long ago, tied to Shemut's Holy Symbol.
 - Seeker shakes hands with the Clay Construct before it reverts to a lump of clay, its purpose fulfilled. The ladder, excited to be useful and to finally have a chance to destroy a mirror, instead of protecting them, proceeds to smash the scrying mirror, shattering it into pieces.
 - Delwath, battered and burned, casts Prayer of Healing to help the party recover. They take a short rest, replenishing their resources and discussing their next steps.
@@ -196,6 +204,7 @@ With the fiend defeated, the party takes stock of their situation and the room.
 
 ### Shadow Prison and the Rescue of Cloud Spinner
 The party passes through the portal into a small shadowy chamber, discovering a powerful artifact and a prisoner.
+
 - The chamber is a 20-foot square room with walls made of constantly shifting shadows. Four ropes of shadow hang from the corners, suspending a pale gray smoky crystal in the center of the room.
 - Through the crystal, they dimly see a woman with long hair, colored in brilliant reds and oranges, who seems to be in a suspended state, her chest rising and falling slowly.
 - Delwath attempts to cut the ropes of shadow holding the crystal, managing to partially sever them. The shadows retaliate, inflicting levels of exhaustion on the party members as they continue their efforts to break the bonds.
@@ -208,6 +217,7 @@ The party passes through the portal into a small shadowy chamber, discovering a 
 
 ### Arrival at Dimitar's Tower and New Challenges
 After defeating the fiend and rescuing Cloud Spinner, the party teleports to Dimitar's temple to rest.
+
 - Upon arrival at the temple, the party is greeted by Dimitar, who steps out from behind a statue, initially defensive but calms once he recognizes the group.
 - The party informs Dimitar of their recent encounters, including breaking a century-old curse and the potential threat posed by an angered dragon, Ra'ghemdros.
 - They reveal the last piece of jade and mention the crystal containing Cloud Spinner, an ancient archfey imprisoned for millennia.
@@ -220,6 +230,7 @@ After defeating the fiend and rescuing Cloud Spinner, the party teleports to Dim
 
 ### Preparing for the Dragon's Attack
 The party deals with an alarm spell going off during their rest and interrogates a pair of dragonettes to gather information, while strategizing for an upcoming confrontation with Ra'ghemdros.
+
 - The party takes time to rest and reflect at Dimitar's tower, preparing themselves for what lies ahead, and experiencing the [The Last Jade Vision](<../dreams-and-visions/the-last-jade-vision.md>).
 - An alarm spell is triggered, alerting the party to an intruder during their rest.
 - The party climbs out of the tunnels and encounters two dragonettes keeping watch.
@@ -232,6 +243,7 @@ The party deals with an alarm spell going off during their rest and interrogates
 
 ### Climbing the Tower and Preparing for Battle
 The party decides to climb up to the tower to investigate and prepare the lighthouse mechanism to aid in their upcoming battle with Ra'ghemdros.
+
 - The group climbs up to the top of the tower to inspect the lighthouse mechanism, hoping to use it as a beacon during their fight.
 - They discover that the crystal at the center of the lighthouse is damaged, with two facets broken and one misaligned.
 - Seeker manages to use Mending on the misaligned piece, and uses Performance of Creation to replace missing crystal chunks.
@@ -243,6 +255,7 @@ The party decides to climb up to the tower to investigate and prepare the lighth
 
 ### Battle with Minions Before the Dragon Arrives
 The party faces off against a wave of enemies—chimeras and dragonettes—before Ra'ghemdros makes its appearance.
+
 - Four chimeras and thirteen dragonettes approach, moving quickly towards the party's position.
 - The party positions themselves, using the lighthouse as a beacon, and distributes potions to prepare for the oncoming attack.
 - Seeker uses a Rune of Psychic Disruption to incapacitate one chimera, causing it to fall from the sky and take heavy damage.
@@ -253,6 +266,7 @@ The party faces off against a wave of enemies—chimeras and dragonettes—befor
 
 ### Battle with Ra'ghemdros
 The party engages in an intense and chaotic battle with Ra'ghemdros, an ancient dragon determined to reclaim its territory.
+
 - Ra'ghemdros begins the fight by turning visible and unleashing a breath weapon—a mixture of darkness and acid—hitting multiple party members, dealing significant damage to Delwath and Milo and destroying some constructs.
 - Delwath and Kenzo move into close range, while Seeker and Wellby use ranged attacks, trying to keep some distance.
 - The dragon shows its powerful breath weapon again, dealing a mix of necrotic and acid damage, forcing many saving throws. Milo's evasion helps him mitigate much of the damage, but others aren't as lucky.
@@ -278,6 +292,7 @@ The party engages in an intense and chaotic battle with Ra'ghemdros, an ancient 
 
 ### Raw Notes
 (begin: after a long rest, the next morning, May 20th in Taelgar)
+
 - talk to revaka; fairly useless, some argument about souls
 - debate how to approach Ra’ghemdros and get the jade
 - decide to offer trade, Kenzo pretending to have scouted Apollyon’s Tower and offer to teleport there and bring her treasure, and also insisting he has to meet outside lair because his magic won’t work if he leaves the [Material Plane](<../../../cosmology/material-plane.md>)
@@ -294,10 +309,12 @@ The party engages in an intense and chaotic battle with Ra'ghemdros, an ancient 
 - leads to a shadow dimension of Cha’mutte where cloudspinner is imprisoned trapped in impenetrable gray crystal
 - shadow dimension drains vitality quickly
 (recording 3)
+
 - teleport back to Dimitaur’s lair, short rest as sun sets while Ra’ghemdros rages
 - prepare for battle, sending messages to Tilly and Milo who insist on joining
 - long rest hidden in Dimitaur’s tunnels
 (on Taelgar, May 21st)
+
 - around 1 am, as long rest finishes, find two dragonet scouts
 - spread word that any dragonets who turn on Ra’ghemdros will be rewarded when the battle is over and she is dead
 - milo and tilly join, strategize over the fight

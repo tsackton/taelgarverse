@@ -18,6 +18,7 @@ title: Addermarch Mercenaries
 A group of three chance-met travelers, all currently in the employ of [Caradoc](<../../addermarians/caradoc.md>), a mysterious alchemist who lives in a small village outside the town of [Roscombe](<../../../gazetteer/greater-sembara/addermarch/roscombe.md>), in [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>).
 
 The Addermarch Mercenaries are:
+
 - [Drou](<drou.md>), an elven bard from [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>)
 - [Fazoth](<fazoth-de-brune.md>), a human warlock from [Eskbridge](<../../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>),
 - [Yvan](<yvan-greenrabbit.md>), a halfling sorcerer from the roads of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)

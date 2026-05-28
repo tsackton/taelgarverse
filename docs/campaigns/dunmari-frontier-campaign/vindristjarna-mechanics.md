@@ -31,6 +31,7 @@ While at least one person is attuned to Vindristjarna, the ship will not crash. 
 The planar prism is a fine hollow sphere made of wires of [Inkaye](<../../things/materials/inkaye.md>), in which a shimmering crystal prism is mounted. This item is magically linked to the [phasing stone](<../../things/magic-items/phasing-stones.md>) on [Vindristjarna](<../../things/ships/vindristjarna.md>): if you are attuned to the phasing stone, you are considered attuned to the rainbow prism, and vice versa. 
 
 While attuned to and holding the planar prism, you can use a Magic action to separate resonant extraplanar energy via the spectral prism, creating a bridge of rainbow light and magical energy. This bridge can connect to one of the following locations:
+
 - Using the inherent resonance of the plane of Taelgar, you can create a bridge to a point you can see. 
 - If there are extraplanar resonances present when you activate the prism, you can separate and fracture them, creating a bridge to a location on the resonant plane, determined by the local extraplanar geography. For example, if you attempted to use the Planar Prism while near the weak point between the material plane and Arborea outside Tokra, you could connect the bridge to the closest location on Arborea.
 - If you have an external source of extraplanar resonance, you can use that to tune and guide the prism, creating a bridge to a general location on that plane. You can attempt to guide the creation of the bridge to be near a landmark of interest, but cannot guarantee the endpoint of the bridge will be at a particular location on the other plane. 
@@ -46,6 +47,7 @@ Once you create a bridge, you cannot create another one until 7 days have passed
 The icicle turret is a silver and stone turrent mounted on the front of the ship, permanently coated in frost and ice from the embedded shard of eternal ice. This item is magically linked to the [phasing stone](<../../things/magic-items/phasing-stones.md>) on [Vindristjarna](<../../things/ships/vindristjarna.md>): if you are attuned to the phasing stone, you are considered attuned to the icicle turret, and vice versa.  
 
 The icicle turret has four charges, and regains all expended charges each day at dawn. As a Magic Action while touching the phasing stone, you can use one charge to create one of the following effects. If effect requires a saving throw, use your spell save DC if you have one, or 8 + your Proficiency Bonus + your Intelligence modifier otherwise. 
+
 - You cast the [Sleet Storm](https://www.dndbeyond.com/spells/2618998-sleet-storm) spell. You and anyone else attuned to Vindristjarna ignore the effects of the spell.  
 - Rain of Ice: You launch 8 sharp daggers of ice from the turret. For each dagger, choose a target you can see within 300 feet of the turret, and make a spell attack roll, doing 2d6 cold damage on a hit. 
 - Icicle Shield: You encase the entire ship in a globe of solid ice. Each 10 foot segment of ice has an AC 12, 30 hit points, and vulnerability to fire damage. The wall of ice crumbles if 10 segments are destroyed. Otherwise, it lasts for 1 hour.

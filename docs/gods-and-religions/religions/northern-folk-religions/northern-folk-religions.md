@@ -11,6 +11,7 @@ The first human emigrants from [Hkar](<../../../history/historical-realms/hkar.m
 
 
 While these traditions have diverged in many respects, they share a number of key tenets and practices:
+
 - These religions all see the [Divine Presence](<../../gods/high-gods/divine-presence.md>) as a single entity, a distant, all-powerful creator, who cannot or will not hear the prayers of mortals. It is only the small gods, the various local divinities worshipped in these religions, that can carry the prayers of humanity to the source of Divine Power, and thus allow miracles to flow into the material world.
 - The small gods of the northern folk religions are inevitably seen as local, and limited in their power. They do not grant miracles themselves; they are messengers, conduits, the channel through which the power of the [Divine Presence](<../../gods/high-gods/divine-presence.md>) flows. 
 - The small gods, given they are local and limited, are not omniscient. Their attention must be drawn before they can carry prayers. The way this is done various across traditions, but all the northern folk traditions share this need.

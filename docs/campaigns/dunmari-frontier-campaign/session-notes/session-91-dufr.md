@@ -68,6 +68,7 @@ Our session ends the next afternoon, as the party approached the steading of the
 ### Detailed Summary
 #### Scene 1
 (Shadow Hunter Combat, late at night on March 9th, 1749)
+
 - The party faces Shadow Hunters and their gloomstalker mounts in combat.
 - Delwath prepares for battle by considering armor and spells, ultimately deciding against medium armor due to time constraints.
 - Riswynn casts Death Ward on Kenzo.
@@ -84,6 +85,7 @@ Our session ends the next afternoon, as the party approached the steading of the
 - The last of the gloomstalkers and Shadow Hunters are dealt with, securing victory for the party.
 #### Scene 2
 (Aftermath in Tollen. Late at night on March 9th, 1749 to morning March 13th).
+
 - The party interacts with Tollen guards who arrive by rowboat, questioning the recent attack. Delwath explains they were attacked by hunters, assassins from Chardon, though specifics are avoided at Riswynn's suggestion.
 - Delwath informs the guard that the attackers were a faction within Chardon, and it should take their master weeks to create new assailants. The party plans to leave in three days, believing the threat is temporarily resolved.
 - Concern for the local casualties arises, with Delwath considering offering healing, but they realize some victims from the assault were beyond help.
@@ -97,6 +99,7 @@ Our session ends the next afternoon, as the party approached the steading of the
 
 #### Scene 3
 (Traveling north, starting on March 13th)
+
 - The party begins their northern journey on March 13th, crossing Vostok towards the mountains, encountering cold but clear weather initially.
 - On the second day of travel, they note storm clouds on the horizon and the snowy, cloud-covered mountains ahead.
 - Encountering storm clouds and a looming snowstorm the afternoon of March 15th, the party debates continuing or finding shelter. Delwath advises landing to avoid unnecessary risk in a snowstorm.
@@ -111,6 +114,7 @@ Our session ends the next afternoon, as the party approached the steading of the
 
 #### Scene 4
 (Approaching the Giants, on March 17th at 3 pm)
+
 - The party observes a mine guarded by two Frost Giants mounted on enormous woolly mammoths, wearing silver-plated armor and armed with ice-tipped javelins.
 - Kenzo attempts to commune with nature to discern the nature of the Frost Giants, determining they are indigenous to the land but not completely in harmony with it.
 - The group discusses strategies for approaching the giants and dwarves, considering the use of spells like clairvoyance and invisibility to gather more information without being detected.
@@ -123,6 +127,7 @@ Our session ends the next afternoon, as the party approached the steading of the
 
 #### Scene 5
 (Speaking with Giants and Dwarves, on March 17th at 3 pm)
+
 - Delwath casts a spell to understand the giant's language, and Kenzo advises against starting a fight.
 - Delwath, introducing himself and part of his crew, communicates with the giants, expressing peaceful intentions and inquiring about the appropriate contact for their visit.
 - The giant reveals they are on Brimskarda's land, a powerful figure and king of the local frost giants.

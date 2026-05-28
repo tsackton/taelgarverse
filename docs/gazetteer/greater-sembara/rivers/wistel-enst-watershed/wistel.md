@@ -22,6 +22,7 @@ title: Wistel
 A major river in [Sembara](<../../sembara/sembara.md>), the Wistel rises in the foothills of the [Sentinels](<../../../sentinel-range.md>) and flows east across the western marches before mingling with the [Enst](<enst.md>) through the wetlands of [Ozabal Swamp](<../../ozabal.md>). From there the combined waters reach the [Western Gulf](<../../western-gulf.md>) of the [Green Sea](<../../../green-sea.md>). 
 
 Major tributaries include:
+
 * West of [Ainwick](<../../sembara/barony-of-ainwick/ainwick.md>), the Tarnslow, which meanders north and west from the north edge of the  [Cleenseau Wood](<../../sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>)
 * From the [Aine Hills](<../../sembara/aine-hills.md>), numerous small brooks, the most prominent of which are the Wetherburn and the Mereburn
 * the [Bollin](<bollin.md>), with a confluence near [Ainwick](<../../sembara/barony-of-ainwick/ainwick.md>)

@@ -24,6 +24,7 @@ title: Champimont
 The current lord of the Manor of Champimont is Raoul Montagu.
 
 _Distances:_
+
 * to [Rinburg](<rinburg.md>), 27 miles
 * to [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>), 33 miles
 * to [Dallet](<dallet.md>), 13 miles

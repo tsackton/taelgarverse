@@ -45,6 +45,7 @@ Caelynn is an elegant elfin woman of ambiguous age, with long silver hair and st
 ## Rumors and Information
 
 Many rumors circulate about Caelynn
+
 - she has lived in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) since it was founded
 - she is just the latest in a long line of [Fey](<../../creatures/fey/fey.md>) living as Caelynn
 - she is actually the seer who founded the Ancient and Honorable Order of Shanachie (called the Shanachs, a philosopher's guild that supposedly dates to the original settling of [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>))

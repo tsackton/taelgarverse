@@ -20,6 +20,7 @@ The Flaming Tempest is a well-built, double-masted [Skaer](<../../gazetteer/west
 
 ## Travels
 The journeys of the Flaming Tempest were reconstructed from the log records by [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) as follows:
+
 - Apr 09, 1747 DR *(Flaming Tempest):* Departs Skaer Islands and begins raiding local shipping on the coast of Vostok, avoiding traditional Tollender and halfling shipping lanes
 - Jun 23, 1747 DR *(Flaming Tempest):* Departs Vostok coast, sailing east by northeast along the coast
 - Jul 30, 1747 DR *(Flaming Tempest):* Arrives in Irrla, after hugging the coast for a month with many stops in the barren lands between Skaerhem and Ursk

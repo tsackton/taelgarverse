@@ -47,6 +47,7 @@ The decisive moments of the battle saw the party focusing on Bizarro Riswynn and
 ## Detailed Summary
 ### Assault on Drankor
 The party strategizes and teleports into a massive tower, one of the Teeth of Drankor in the corrupted city of Drankor, initiating a risky assault against a doppelganger of Delwath.
+
 - The group surveys the layout of Drankor, noting landmarks and corrupted areas.
 - A plan is formed to teleport to the Sapphire Tower and hold their ground there.
 - The party uses invisibility and strategic positioning to maximize their advantage.
@@ -58,6 +59,7 @@ The party strategizes and teleports into a massive tower, one of the Teeth of Dr
 
 ### Bizarro Delwath Banished
 The party fights to incapacitate Bizarro Delwath and take control of the tower's magical defenses.
+
 - Delwath lands multiple powerful attacks, eventually casting Banishing Smite to banish Bizarro Delwath temporarily.
 - Seeker investigates the crystal controls while Delwath is banished, finding them complex and requiring further study.
 - The group positions themselves strategically for Bizarro Delwath's return, preparing actions to subdue him.
@@ -68,6 +70,7 @@ The party fights to incapacitate Bizarro Delwath and take control of the tower's
 
 ### Lightning Tower Assault
 The party immediately shifts their focus to a nearby group of enemies and prepares for another battle.
+
 - Delwath scries the group of enemies and the party decides to teleport to their location, avoiding traps and pressing forward quickly.
 - Using Dimension Door, the party teleports multiple members, with the ladder flying separately as an advance guard.
 - Upon arrival, they find a large battle map with strange dark versions of themselves, including a dark angel, a fiery metal golem, and dark constructs.
@@ -78,6 +81,7 @@ The party immediately shifts their focus to a nearby group of enemies and prepar
 
 ### Kenzo Confronts Bizarro Wellby
 Kenzo chases down Bizarro Wellby, engaging him in melee to prevent further sniping from the shadows.
+
 - Kenzo takes an opportunity attack from the dark ladder to reach Bizarro Wellby, who is hiding in a large tree.
 - After circling the tree, Kenzo finds Wellby hiding and attacks him, landing multiple strikes.
 - Kenzo uses a stunning strike, successfully stunning Bizarro Wellby and dealing significant damage.
@@ -87,6 +91,7 @@ Kenzo chases down Bizarro Wellby, engaging him in melee to prevent further snipi
 
 ### The Amulet Grab
 The party focuses on retrieving the amulet from Bizarro Wellby and dealing with the other threats.
+
 - The group discusses how best to retrieve the amulet before Bizarro Wellby is no longer stunned, with Riswynn ultimately using her new belt to tunnel through the ground and reach Wellby.
 - Riswynn successfully grabs the amulet from Bizarro Wellby, who remains stunned and unable to resist.
 - Bizarro Kenzo attacks Delwath, but Seeker incapacitates him using a Rune of Psychic Disruption.
@@ -97,6 +102,7 @@ The party focuses on retrieving the amulet from Bizarro Wellby and dealing with 
 
 ### The Battle Intensifies
 The party continues to fight against the dark versions of themselves, trying to maintain control of the situation.
+
 - Dark Ladder moves to attack Seeker, prompting an opportunity attack from the real Ladder, which hits and deals damage.
 - Seeker loses concentration on the construct, causing the amulet it held to fall to the ground.
 - Bizarro Wellby tries to escape, but Kenzo and Riswynn both land opportunity attacks, dealing significant damage.
@@ -107,6 +113,7 @@ The party continues to fight against the dark versions of themselves, trying to 
 
 ### Delwath's Bold Move
 Delwath gathers the group for a final push to defeat the remaining enemies, using spells and careful positioning.
+
 - Delwath proposes using a scatter spell to regroup and attack Bizarro Seeker, aiming to incapacitate him.
 - Riswynn moves closer and casts Wall of Fire around Bizarro Riswynn, causing her to take significant damage while maintaining concentration.
 - Bizarro Riswynn retaliates by moving through the Wall of Fire and attacking, blinding Seeker and Delwath with her spell.
@@ -117,6 +124,7 @@ Delwath gathers the group for a final push to defeat the remaining enemies, usin
 
 ### Final Assault on Bizarro Riswynn
 The party turns their focus to Bizarro Riswynn, aiming to end the battle decisively.
+
 - Delwath uses Distance Spell to cast Lesser Restoration at range, curing Seeker's blindness.
 - Seeker and Delwath attack Bizarro Seeker with support from the real ladder, ultimately retrieving the amulet from him.
 - Kenzo unleashes a flurry of blows on Bizarro Wellby, stunning him once again and dealing significant damage.
@@ -127,6 +135,7 @@ The party turns their focus to Bizarro Riswynn, aiming to end the battle decisiv
 
 ### Returning to the Skyship
 The party regroups after the intense battle, discussing their next steps and how to recover from the ordeal.
+
 - Seeker suggests using teleportation to return to the skyship, but the group decides to use the Rainbow Bridge instead to save resources.
 - The group jokes about the long and exhausting combat, agreeing that fighting dark versions of themselves was one of the toughest challenges they've faced.
 - The party returns to the skyship, battered and bruised, with most members in need of healing and rest.

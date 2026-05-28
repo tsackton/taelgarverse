@@ -5,7 +5,7 @@ dm_notes: none
 title: Playing a Free Orc
 ---
 
-# Free Orc Species Details
+# Playing a Free Orc
 
 
 

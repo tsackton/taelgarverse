@@ -4,7 +4,7 @@ dm_owner: joint
 dm_notes: none
 title: Playing a Beastfolk
 ---
-# Beastfolk Species Details
+# Playing a Beastfolk
 
 
 

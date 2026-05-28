@@ -28,6 +28,7 @@ This region experienced considerable upheaval after the [Great War](<../../event
 _See more: {links}_
 
 The Central Lowlands region is dominated by four major topographical features. 
+
 - The [Hara Basin](<hara-basin/hara-basin.md>) lies south of the Sentinels. This is a broad, flat plain, semi-arid, but with regular summer monsoons that bring rain and support expansive grassland. 
 	- To the northwest, the [Hara Basin](<hara-basin/hara-basin.md>) is separated from the Yeraad watershed by the Myraeni Gap, a line of rugged hills between the Sentinels and the [Chataan Mountains](<../greater-chardon/chataan-mountains.md>). 
 	- To the west, the [Hara Basin](<hara-basin/hara-basin.md>) is separated from the Nevos Sea by the [Darba Highlands](<darba-highlands/darba-highlands.md>) extending from the [Copper Hills](<darba-highlands/copper-hills.md>), and the Yuvanti Mountains

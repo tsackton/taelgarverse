@@ -36,11 +36,13 @@ The east-west hills are:
 - The ~Tyrwinghan Hills~ form a line of hills and valleys running roughly east-west from the [Maerwyns](<maerwyn-mountains.md>) to the ~Cymea Border Mountains~.  
 
 In between these ridge lines are several major gaps:
+
 * The [Aure](<rivers/wistel-enst-watershed/aure.md>) river flows north between the eastern edge of the [Westcliff](<addermarch/westcliff.md>) and the western edge of the [Maerwyn Mountains](<maerwyn-mountains.md>), forming a broad and fertile river valley fed by many small streams. 
 * The Darkwood creeps north between the [Westcliff](<addermarch/westcliff.md>) ridge and the [Valenfray Hills](<addermarch/valenfray-hills.md>), forming a hilly wildland on the southern borders of [Addermarch](<addermarch/addermarch.md>). The [Shadowmere](<addermarch/shadowmere.md>), a low-lying swampy depression, sits in this gap. 
 * Between the [Maerwyn Mountains](<maerwyn-mountains.md>) and the ~Cymea Border Mountains~, the land is hilly but there are few high ridgelines, and multiple passes cut through the ~Tyrwinghan Hills~ immediately northwest of [Orenlas](<../upper-istaros/orenlas/orenlas.md>). 
 
 The Mostreve Hills, then, can be divided into a number of overall regions based on these features:
+
 * The [Westcliff](<addermarch/westcliff.md>) Ridge and associated hills
 * The western Aure river valley, where the hills are gentler and rolling and typically wooded except where cleared for pasture and orchards. This is a land of rushing river valleys broken by rugged, hilly forests, but with few truly high peaks. 
 * The eastern Aure river valley and nearby foothills, between the [Valenfray Hills](<addermarch/valenfray-hills.md>) and the [Maerwyn Mountains](<maerwyn-mountains.md>), where the soil is poorer and the land is  grasslands mixed with rocky outcroppings

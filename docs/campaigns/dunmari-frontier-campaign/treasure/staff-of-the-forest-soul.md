@@ -32,8 +32,10 @@ The spiritual beings of the [Footprint of the Gods](<../../../gazetteer/faraway-
 - Ohana ki: When you score a critical hit against a creature with your staff, the creature must make a Wisdom saving throw against your ki save DC. Succeed or fail, the target takes an extra 1d6 necrotic damage. On a fail, they are also under the effects of the Slow spell; they can repeat the save at the end of each turn to end the effect. You also have a pool of Ohana ki, which does not regenerate. You can drain the Ohana ki to enhance your speed and reflexes, granting you the benefits of the Haste spell for the next minute. You do not need to maintain concentration on this effect
 
 The spirit of [Hralgar](<../../../people/giants/hralgar.md>) lingers in the staff, granting you access to storm giant ki. 
+
 - Storm giant ki: You can expend this ki to contact Hralgar or another storm giant elder whose name you know (if you meet/learn about any others). Doing so allows you to meld with the storm giant, allowing you to ask up to 5 questions, which can be answered with no more than a sentence or two. You must ask all your questions, and receive your answers, within no more than 10 minutes. When you break contact, you must make a DC 17 Wisdom saving throw, taking 2d6 lightning damage for each question asked on a failed save, and half as much on a successful save. Once you use this ki, it can be recharged after 24 hours have passed by taking at least 35 points of lightning damage at once.
 
 [Kaikkea](<../../../gods-and-religions/gods/incorporeal-gods/kaikkea.md>) briefly inhabited the staff while striking to destroy the scepter, granting you access to ocean ki.
+
 - Ocean ki: You can expend this ki to....
 

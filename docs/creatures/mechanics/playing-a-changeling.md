@@ -4,7 +4,7 @@ dm_owner: joint
 dm_notes: none
 title: Playing a Changeling
 ---
-# Changeling Species Details
+# Playing a Changeling
 
 
 

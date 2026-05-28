@@ -17,6 +17,7 @@ In ancient days, the title of Earl was said to be bestowed only on those human l
 Each earl has a circuit, which they ride, and a set of villages and towns on that circuit, for which they are responsible. The earl is obligated to provide, to their villages and towns, justice, defense, and charity. The villages are obligated to provide to the earl, labor service. This labor service is traditionally a year of labor for every ten hearths in the village. This can take many forms: in some cases, it is someone joining the earl's travelling court, or the Army of Mostreve. In other cases, it is working the earl's land, in which it is more usually divided up, i.e. six people working the land during harvest and planting, rather than one person for a whole year.
 
 The earl, in turn, is responsible for providing to each village:
+
 * Justice, in the form of appeals from the village Court of All (see below)
 * Defense, via their own force of arms, and their retainers
 * Charity, in the form of support in hard times, managing the redistribution of food and so on

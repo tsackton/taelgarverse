@@ -7,14 +7,14 @@ realWorldDate: 2026-02-04
 DR: 1730-01-29
 DR_end: 1730-01-29
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
-name: The Rescue of Melusa
+name: Into the Chasm - Episode 06
 descTitle: The Portal Narrows
 tagline: in which the willing escape Melusa
 sessionKey: into-the-chasm-session-6
 session-template: into-the-chasm-template.md
-title: The Rescue of Melusa
+title: Into the Chasm - Episode 06
 ---
-# The Rescue of Melusa
+# Into the Chasm - Episode 06
 
 >[!info] The Portal Narrows: in which the willing escape Melusa
 > *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*

@@ -36,6 +36,7 @@ To the south, the rocky shrubland dominates for a hundred miles, before reaching
 The region is self-sufficient in food. At a regional level, the major imports are: iron and other metals, mostly from [Maseau](<../../../duchy-of-maseau/duchy-of-maseau.md>); ceramics from [Rinburg](<../rinburg.md>); glass from [Ainwick](<../../barony-of-ainwick/ainwick.md>), and occasionally [Tyrwingha](<../../../tyrwingha/tyrwingha.md>), plus luxuries (foodstuffs, alcohol, fine clothes, furniture). The major exports are: weapons and armor and other finished metal goods from Cleenseau; grain (mostly sold west to the army), plus some charcoal to the villages east of the [East Bog](<east-bog.md>) with poorer wood supplies.  
 
 The major food crops are:
+
 * Grains are wheat (typically planted in fall and overwintered in the ground), barley (the largest crop), and millet (summer crop, grown on poorer soils). Millet greens are sometimes eaten in early summer. Hay is common and there is generally sufficient pasture if not always of very high quality. 
 * Livestock is mostly pigs and sheep, with some small cattle herds mostly for dairy, plus chickens and geese. 
 * Other protein sources include significant amounts of fish (shad and trout in spring and fall, eels in late fall/early winter), snails and crayfish, and a small amount of game (grouse/pheasant/turkey like ground birds, mostly, in the lands west of Cleenseau)
@@ -44,6 +45,7 @@ The major food crops are:
 Honey is a commonly used sweetener. Beer is brewed widely and is the main alcoholic drink, alongside some milard (millet-based clear alcohol with a strong earthy flavor and about 45% alcohol content).
 
 The lizardfolk in the region additionally eat a number of foods rarely consumed by humans, both of which grow wild along the marshy parts of the river:
+
 * marsh root, a tuber that grows in thickets along the marsher parts of the river
 * marsh millet, a rice-like plant with a nutty flavor
 

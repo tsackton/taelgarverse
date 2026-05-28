@@ -5,7 +5,7 @@ dm_notes: none
 title: Playing a Satyr
 ---
 
-# Satyr Species Details
+# Playing a Satyr
 
 
 

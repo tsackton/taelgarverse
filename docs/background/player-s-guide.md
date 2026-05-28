@@ -75,6 +75,7 @@ Many diverse deities can be found across the lands of Taelgar. The high gods, [A
 The direct creations of the Divine, the embodied gods were given physical form by the High Gods, given permanence and consciousness, and the Divine power to create. Not dependent upon belief for their power, the embodied gods created people in their image.
 
 The Firstborn, created by [Arha](<../gods-and-religions/gods/high-gods/divine-presence.md>) and [Malik](<../gods-and-religions/gods/high-gods/divine-presence.md>), gave rise to the Elder Folk: 
+
 - Aldanor and Elmerca, the Living Tree and the Wild Star of the [Elves](<../creatures/species/elves.md>)
 - Entamba, the Elder Mountain of the [Stoneborn](<../creatures/species/stoneborn.md>)
 - Hazkunde, Bero, Udazkena, and Negu, known as Spring, Summer, Autumn, and Winter, the four Tharzen Anzinakoa of the [Lizardfolk](<../creatures/species/lizardfolk.md>)
@@ -82,6 +83,7 @@ The Firstborn, created by [Arha](<../gods-and-religions/gods/high-gods/divine-pr
 - Nwana, called the Stranger-Child, Obito, called the Merchant-Musician, and Jemghari, called the Traveler-Storyteller, the two-faced First Ones of the [Halflings](<../creatures/species/halflings.md>).
 
 Evil creeps into the world through the children of the Three Despairs, the corrupted divinities of that which seeks to unmake creation:
+
 - [Thark](<../gods-and-religions/gods/embodied-gods/thark.md>), the God of War Without End, who gave rise to the [Orcs](<../creatures/species/orcs.md>), and through his compulsion drives them to violence for the sake of violence
 - Ghesyn, the Goddess of the End, also known as the Hopeless One, the Eater of Souls, and the protector of undeath
 - The Endless Chaos

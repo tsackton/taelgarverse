@@ -54,12 +54,14 @@ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" >
 _See more: [Mostreve Hills](<mostreve-hills.md>), [Western Gulf](<western-gulf.md>), [Wistel](<rivers/wistel-enst-watershed/wistel.md>), [Enst](<rivers/wistel-enst-watershed/enst.md>), [Volta](<rivers/volta-watershed/volta.md>), [Semb](<rivers/semb-watershed/semb.md>), [Kem](<vostok/kem.md>), Zimkova Highlands, ~North Vostok Mountains~, ~Vostok Plateau~_
 
 Five major river systems, fed by the summer rains, and melting snowpack and glaciers from the mountains, define the region: 
+
 * in the northeast, the [Kem](<vostok/kem.md>) and [Niva](<vostok/niva.md>) rivers spill down from the ~North Vostok Mountains~  and the ~Vostok Plateau~ to the [Green Sea](<../green-sea.md>)
 * further west, the mighty [Volta](<rivers/volta-watershed/volta.md>), wide and cold, flows past Tollen into the ~Gulf of Tollen~
 * south of the Volta the swift flowing [Teft](<rivers/teft-watershed/teft.md>), the placid [Semb](<rivers/semb-watershed/semb.md>) and the mighty [Wistel](<rivers/wistel-enst-watershed/wistel.md>) flow past [fertile farmland](<sembara/heartlands/heartlands.md>)
 * and finally in the south, the [Enst](<rivers/wistel-enst-watershed/enst.md>) defines the borders of the rich farmlands, as it flows from the [Sentinels](<../sentinel-range.md>) and the [Mostreve Hills](<mostreve-hills.md>) to merge with [Wistel](<rivers/wistel-enst-watershed/wistel.md>) before the great marshy delta of the [Ozabal Swamp](<ozabal.md>).
 
 The rise and fall of the land further defines the region:
+
 * in the west, the towering [Sentinel Range](<../sentinel-range.md>) rises thousands of feet into the air. Few travelers cross these high peaks, save on the guarded underground roads of the dwarves. 
 * east of the mountains lies the Zimkova Highlands, a rough land that slowly descends to a line of hills in western and northern Sembara: the [Aveil Ridge](<sembara/barony-of-aveil/aveil-ridge.md>), the [Aine Hills](<sembara/aine-hills.md>), the [Braebein](<sembara/braebein.md>), and the ~Volta Hills~, and which rises in the east to form the ~North Vostok Mountains~
 * east of the ~North Vostok Mountains~, the high ~Vostok Plateau~ is dry and cold and is home to the high altitude ~Lake Vostok~
@@ -69,6 +71,7 @@ The rise and fall of the land further defines the region:
 * in the far south, beyond the [Western Gulf](<western-gulf.md>), lie the [Mostreve Hills](<mostreve-hills.md>), a hilly and forested land that separates the region from the dangerous [Plaguelands](<../upper-istaros/plaguelands.md>) to the south
 
 Between these high points are three distinct lowland regions:
+
 * the fertile riverlands of Sembara lie between the [Mostreve Hills](<mostreve-hills.md>) in the south, the Zimkova Highlands in the west, and the [Volta](<rivers/volta-watershed/volta.md>) in the north
 * the plains and scrublands of [Maseau](<duchy-of-maseau/duchy-of-maseau.md>) lie north of the [Maseau Gap](<maseau-gap.md>), between the [Sentinels](<../sentinel-range.md>) to the west, the [Maseau Gap](<maseau-gap.md>) to the south, and the [Mostreve Hills](<mostreve-hills.md>) to the east
 * the coastal plains where the [Kem](<vostok/kem.md>) spills into the [Green Sea](<../green-sea.md>), and which gradually rise through forests and steppe to the Zimkova Highlands, the ~North Vostok Mountains~, and the ~Vostok Plateau~

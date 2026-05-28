@@ -62,6 +62,7 @@ As adult dwarf, you belong to one of seven thuhr: Ruler, Runecrafter, Priest, Wa
 
 #### Bahrazel's Blessing
 Your innate connection to the Bahrazel provides you with a supernatural blessing. Choose one of the following options: 
+
 - *Tarbaka's Blessing of Craft.* You learn the Mending cantrip. In addition, you have an uncanny ability to understand raw materials and how to shape them. You gain proficiency in two Artisan's Tool of your choice. When you Craft items with your chosen Tools, you require only half the time and raw materials that would normally be required. 
 - *Azar's Blessing of Resilience.* Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level. 
 - *Oshkir's Blessing of Aid.* You learn the Guidance and Spare the Dying cantrips. 

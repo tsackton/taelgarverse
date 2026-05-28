@@ -8,14 +8,14 @@ DR: 1730-01-25
 DR_end: 1730-01-25
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
-name: Into the Chasm - Episode 1
+name: Into the Chasm - Episode 01
 descTitle: Into the Chasm
 tagline: in which a storm flings five strangers into Zeyfa's maze
 sessionKey: into-the-chasm-session-1
 session-template: into-the-chasm-template.md
-title: Into the Chasm - Episode 1
+title: Into the Chasm - Episode 01
 ---
-# Into the Chasm - Episode 1
+# Into the Chasm - Episode 01
 
 >[!info] Into the Chasm: in which a storm flings five strangers into Zeyfa's maze
 > *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*

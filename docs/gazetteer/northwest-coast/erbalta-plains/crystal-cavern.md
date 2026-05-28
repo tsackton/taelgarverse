@@ -42,6 +42,7 @@ Should anyone replace the missing obsidian tube, the broken plinth is capable of
 ## Across the Grasslands
 
 The Crystal Chasm is hidden in a small cave complex at the far end of a canyon beyond open grasslands.  
+
 * **Orc presence:** Orc bands roam the plains; hiding is difficult.  
 * **Travel pace:**  
   * **Fast pace** – avoids notice.  
@@ -64,6 +65,7 @@ Once in the canyon, cover is better but the terrain is rough. A **trail of giant
 
 ### At the Cave Opening
 Signs of recent disturbance are everywhere—tracks lead directly inside.  
+
 * **Skill check:** DC 10 **Intelligence (Investigation or Survival)** identifies the tracks as orc.
 
 ### First Chamber
@@ -137,6 +139,7 @@ Carved into the floor; heavy lid rests nearby. Runes are etched on chest, lid, a
 
 ### Blooddrinker’s Fate
 When Slayermighty falls, the bear calms. When the curse expires, she convulses and will die in **2 rounds** unless saved.
+
 * **Save:** DC 10 **Wisdom (Medicine)** _or_ DC 15 **Intelligence (Arcana)**. Healing magic alone is insufficient.  
 * **Taming:** DC 10 **Wisdom (Handle Animal)** (one try per character). Success earns the *Blooddrinker the Bear* story award; she becomes a house-cat-sized, non-combat companion.
 

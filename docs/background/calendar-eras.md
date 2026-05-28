@@ -26,6 +26,7 @@ The system of time and years used by Dwarven historians, who count time since th
 ## Other Calendar Eras
 
 However, other calendar eras may occasionally be used, including:
+
 - Dunmari reckoning, which counts dynastic years, and counts the new year from the [Festival of the New Dawn](<../gods-and-religions/holidays-and-festivals/dunmari-festivals/festival-of-the-new-dawn.md>), on January 23rd. The current dynasty, the [Nayan dynasty](<../groups/dunmari-dynasties/nayan-dynasty.md>), began in 1557 DR, so the 1st year of the Nayan dynasty started on January 23rd, 1558 DR. Years are styled as *dynasty year*, so Nayan 192 is the 192nd year of the Nayan Dynasty. Many Dunmar in casual conversation will drop the dynastic label and just refer to e.g. Nayan 192 as the year 192. 
 - Sembaran reckoning, which counts regnal years, and counts each year from the monarch's coronation. Years are styled *year* *monarch*, i.e. 7 Robert I, is the 7th year of Robert I's reign.
 

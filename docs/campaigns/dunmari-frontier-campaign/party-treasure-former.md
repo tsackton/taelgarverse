@@ -98,6 +98,7 @@ title: Party Treasure Former
 ### Given to Milo and Tilly
 
 The following was given to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart when they departed from [Vindristjarna](<../../things/ships/vindristjarna.md>) in the [Sea of Storms](<../../gazetteer/drankorian-hinterland/sea-of-storms.md>). 
+
 - 100,000 silver coins and 2,500 gold coins from [Ra'ghemdros' Hoard](<hoards/ra-ghemdros-hoard.md>).
 - 700 silver torcs and bracelets, from [Ra'ghemdros' Hoard](<hoards/ra-ghemdros-hoard.md>)
 - The Folding Boat originally taken from [Kadmos](<hoards/kadmos-and-company-loot.md>).
@@ -113,6 +114,7 @@ The following was given to [Milo Thistlefoot](<../../people/halflings/milo-thist
 - 2 candlesticks that let you cast light at will, targeting the candlestick only, from [Ra'ghemdros' Hoard](<hoards/ra-ghemdros-hoard.md>)
 
 Other treasure returned to Milo and Tilly
+
 - An elegant wooden pipe, made of some strange dark wood you have not seen before, carved with the initials M. T., from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>).
 - A silver ring set with a small blue sapphire, engraved, "To my beloved Tilly" on the inside,  from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart.
 - A beautifully crafted brass compass, casing engraved with "Stormdancer". It does not work anymore, from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart.

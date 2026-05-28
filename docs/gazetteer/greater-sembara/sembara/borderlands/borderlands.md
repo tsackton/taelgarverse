@@ -19,6 +19,7 @@ title: Borderlands
 The Sembaran Borderlands is a name for the baronies between the [Aure](<../../rivers/wistel-enst-watershed/aure.md>) in the east, the [Enst](<../../rivers/wistel-enst-watershed/enst.md>) in the north, and the [Mostreve Hills](<../../mostreve-hills.md>) in the south. These baronies are mostly newly established since the [hobgoblin wars](<../../../../events/1600s/third-hobgoblin-war-sembara.md>), and are traditionally quite loyal to the crown. 
 
 They run, from west to east: 
+
 * [Barony of Estrive](<barony-of-estrive.md>), near [Lake Rin](<../barony-of-aveil/lake-rin.md>)
 * [Barony of Montsé](<barony-of-montse.md>), near [Fellburn](<../heartlands/fellburn.md>), to the west
 * [Barony of Vauclaire](<barony-of-vauclaire.md>), near [Fellburn](<../heartlands/fellburn.md>), to the east

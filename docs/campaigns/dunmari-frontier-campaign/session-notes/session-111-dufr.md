@@ -47,6 +47,7 @@ Upon reaching the outskirts of Drankor, the party spotted notable landmarks, suc
 
 ### Return to Vindristjarna
 The party returns to Vindristjarna after their recent adventures, reuniting with the crew and unloading their treasure.
+
 - The folding boat, crewed by Milo, Tilly, and halfling sailors, emerges from a supernatural storm and returns to Vindristjarna.
 - Riswynn returns alongside Kethra, radiating confidence from her recent connection with her gods.
 - The rest of the crew gathers on deck, eager to hear about the party's adventures.
@@ -57,6 +58,7 @@ The party returns to Vindristjarna after their recent adventures, reuniting with
 
 ### Departure from Vindristjarna
 The party sorts through their treasure and makes preparations for their next steps, deciding on their course towards Drankor.
+
 - Milo and Tilly prepare to leave the party, planning to sail west to track down their former crew and outfit a new ship.
 - Two halfling crew members, Willow Copperharp and her husband Micah, ask to stay with the party for a few weeks; Willow wants to witness and tell their story, while Micah is curious about what lies ahead.
 - The party says their goodbyes as Milo and Tilly sail off, and a calm settles over the group as they discuss their plans.
@@ -70,6 +72,7 @@ The party sorts through their treasure and makes preparations for their next ste
 
 ### Planning the Approach to Drankor
 As the ship begins moving towards Drankor, the party discusses their approach and the potential obstacles awaiting them.
+
 - The crew retreats inside as a brief afternoon thunderstorm breaks, with the treasure pile partially covered on deck.
 - The party debates their strategy for entering Drankor, including options for scrying and long-range scouting to gather information about the city.
 - They recall a past report describing Drankor as partially overgrown with jungle vines and inhabited by skeletal undead, possibly with lingering plague mist.
@@ -80,6 +83,7 @@ As the ship begins moving towards Drankor, the party discusses their approach an
 
 ### Preparations and Strategies for Drankor
 The party finalizes their preparations for their approach to Drankor, deciding on their tactics and discussing their upcoming challenges.
+
 - As night falls, the party decides to maintain their course towards Drankor, planning to reach the outskirts by dawn, about 20 miles away.
 - They debate who should be the target of a simulacrum spell, ultimately deciding on Delwath due to his versatility in both offensive and defensive roles.
 - The crew discusses their advantage of having additional magic items, Hero's Feast, and other spells that might improve their chances in the upcoming battle.
@@ -91,6 +95,7 @@ The party finalizes their preparations for their approach to Drankor, deciding o
 
 ### Arriving at the Outskirts of Drankor
 The party reaches the outskirts of Drankor and begins strategizing on how to approach their targets while minimizing risk.
+
 - As dawn breaks, the party finds themselves about 15 miles south of Drankor, with the jungle and river visible below them, and ruins of the city peeking through the dense trees.
 - They spot landmarks such as the Teeth of Drankor, tall towers with a crystal dome, and the massive dome of the Temple of the Eight Divines.
 - The party uses boosted clairvoyance and scrying to locate Delwath's doppelganger, discovering him on top of one of the Teeth of Drankor, surrounded by six arcane runic circles.
@@ -102,6 +107,7 @@ The party reaches the outskirts of Drankor and begins strategizing on how to app
 
 ### Final Preparations and the Ambush Plan
 The party makes final preparations for their confrontation in Drankor, deciding to lure out their enemies and gain the advantage.
+
 - The ship flies around the city, observing the terrain and attempting to scout potential landing zones while avoiding the dangerous red mist that fills a valley near Apollyon's tomb.
 - They identify landmarks such as the Grand Plaza, surrounded by statues and a large fountain, and the Temple of the Eight Divines, which appears undamaged.
 - The party discusses their plan to create a distraction using the Rainbow Bridge to lure the doppelgangers away from their positions and into a favorable battleground.

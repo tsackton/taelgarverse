@@ -17,6 +17,7 @@ A silver rod decorated with a spiraling motif holding a pearly orb, identified a
 A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches long, 4 inches wide, and 4 inches tall. Each is labeled in small, cramped Drankorian writing etched into the surface of the metal bar. 
 
 85 bars are non-magical metals, although many are rare:
+
 - 3 gold bars
 - 4 silver bars
 - 20 iron and steel bars of various mixtures and properties
@@ -39,6 +40,7 @@ A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches 
 - 1 tungsten (wolframite) bar
 
 The remaining 47 are magical or unusual metals:
+
 - 9 [Mithril](<../../../things/materials/mithril.md>) bars
 - 6 [Chalyte](<../../../things/materials/chalyte.md>) bars 
 - 5 fey steel bars 
@@ -51,6 +53,7 @@ The remaining 47 are magical or unusual metals:
 - 3 nocturium bars 
 #### Forge Powders
 A collection of twenty boxes, each containing a small quantity of a fine powder. Each box is marked with magical rune representing a word or phrase. They are:
+
 - **Death** – A black, ashy powder that smells faintly of decay.
 - **Fire** – A bright red powder that flickers with tiny sparks.
 - **Beauty** – A soft, shimmering rainbow powder.

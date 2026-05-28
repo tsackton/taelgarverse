@@ -27,6 +27,7 @@ The Army of the West guards the western borders, and is significant in Dunfry, A
 The South Watch's two regiments are the Enst Regiment and the Dunfry Regiment. The Center Watch has two regiments, named just the First and Second Regiments. The North Watch has the Regiment of the Wall and the Regiment of Dunmore. 
 
 The Enst Regiment is responsible for the garrisons along the river, as well as a major garrison in Enford, and is commanded by Major Edmund Hartwell. The Enst Regiment is 800 strong, divided into 5 garrisons and 3 companies
+
 * The [Army Garrison of Cleenseau](<army-garrison-of-cleenseau.md>), commanded by Captain Ida Rosfeld
 * The Enford Garrison, commanded by Captain Matilda Wycliffe
 * The North Fork Garrison, commanded by Captain Pierre Rochefort
@@ -35,6 +36,7 @@ The Enst Regiment is responsible for the garrisons along the river, as well as a
 * The First, Second, and Fourth Companies
 
 The Dunfry Regiment is responsible for the southern wall, and is commanded by [Major Symone Barbet](<../../people/sembarans/symone-barbet.md>). The Dunfry Regiment is divided into 4 garrisons and 4 companies:
+
 * The Dunfry Garrison, which guards the city of Dunfry itself
 * The Dawn Watch Garrison, which guards the wall
 * The Noon Watch Garrison, which guards the wall

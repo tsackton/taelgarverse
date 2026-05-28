@@ -12,17 +12,21 @@ In [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), tho
 ## Chapters
 
 The story of the eventful journey to [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), uncovering the mystery of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), is told in:
+
 - [Addermarch - Session 01](<addermarch-session-01.md>)
 - [Addermarch - Session 02](<addermarch-session-02.md>)
 
 The story of their first mission for [Caradoc](<../../people/addermarians/caradoc.md>), recovering a cockatrice gizzard from a nearby cave, is told in:
+
 - [Addermarch - Session 03](<addermarch-session-03.md>)
 
 The story of their second mission, recovering an alchemical recipe stolen by a local goblin tribe, is told in:
+
 - [Addermarch - Session 04](<addermarch-session-04.md>)
 - [Addermarch - Session 05](<addermarch-session-05.md>)
 
 The story of their third and most ambitious mission to date, tracking down the mysterious [uligium](<../../things/materials/uligium.md>) for [Caradoc](<../../people/addermarians/caradoc.md>), is told in:
+
 - [Addermarch - Session 06](<addermarch-session-06.md>)
 - [Addermarch - Session 07](<addermarch-session-07.md>)
 - [Addermarch - Session 08](<addermarch-session-08.md>)
@@ -30,7 +34,18 @@ The story of their third and most ambitious mission to date, tracking down the m
 - [Addermarch - Session 10](<addermarch-session-10.md>)
 
 The story of the mysterious fey events in the village of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>) is told in:
+
 - [Addermarch - Session 11](<addermarch-session-11.md>)
 - [Addermarch - Session 12](<addermarch-session-12.md>)
+- [Addermarch - Session 13](<addermarch-session-13.md>) 
+- [Addermarch - Session 14](<addermarch-session-14.md>)
+- [Addermarch - Session 15](<addermarch-session-15.md>)
 
+The story of the [Serpentine Battleaxe](<../../things/magic-items/serpentine-battleaxe.md>) is told in:
+
+- [Addermarch - Session 16](<addermarch-session-16.md>)
+- [Addermarch - Session 17](<addermarch-session-17.md>)
+- [Addermarch - Session 18](<addermarch-session-18.md>) 
+- [Addermarch - Session 19](<addermarch-session-19.md>)
+- [Addermarch - Session 20](<addermarch-session-20.md>) 
 
