@@ -1,10 +1,10 @@
 # Website build only. Utility, export, audio, and transcription dependencies
 # live in taelgar-utils/requirements.txt.
-mkdocs==1.6.1
+mkdocs==1.5.3
 mkdocs-backlinks==0.9.1
-mkdocs-callouts==1.16.1
-mkdocs-glightbox==0.5.2
-mkdocs-literate-nav==0.6.3
-mkdocs-material==9.7.6
-mkdocs-section-index==0.3.12
-pymdown-extensions==10.21.3
+mkdocs-callouts==1.10.0
+mkdocs-glightbox==0.3.6
+mkdocs-literate-nav==0.6.1
+mkdocs-material==9.5.3
+mkdocs-section-index==0.3.8
+pymdown-extensions==10.7
