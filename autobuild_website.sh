@@ -35,6 +35,7 @@ NODE_BIN="${NODE_BIN:-node}"
 MKDOCS_BIN="${MKDOCS_BIN:-mkdocs}"
 HEADER_TYPE="${TAELGAR_HEADER_TYPE:-website}"
 MATERIALIZE_STRICT="${TAELGAR_MATERIALIZE_STRICT:-false}"
+OBSIDIAN_COMMAND="${OBSIDIAN_COMMAND:-/Applications/Obsidian.app/Contents/MacOS/obsidian-cli}"
 
 clear_static_out() {
     if [[ -z "$STATIC_OUT" || "$STATIC_OUT" == "/" || "$STATIC_OUT" == "$WEBSITE_ROOT" ]]; then
@@ -57,6 +58,7 @@ run_static_build() {
         --vault "$VAULT_ROOT" \
         --out "$STATIC_OUT" \
         --header-type "$HEADER_TYPE" \
+        --obsidian-command "$OBSIDIAN_COMMAND" \
         --obsidian-vault "$OBSIDIAN_VAULT" \
         "$strict_arg"
 }

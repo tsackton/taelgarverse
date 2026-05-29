@@ -2,7 +2,7 @@
 
 ## Autobuild Pipeline
 
-- `./autobuild_website.sh materialize` runs the Obsidian materializer from the Taelgar vault into `taelgar-static/`. By default, the wrapper uses `TAELGAR_VAULT_ROOT` or `/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar`, and runs `_scripts/materialize-dataview/materialize-dataview.mjs`.
+- `./autobuild_website.sh materialize` runs the Obsidian materializer from the Taelgar vault into `taelgar-static/`. By default, the wrapper uses `TAELGAR_VAULT_ROOT` or `/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar`, runs `_scripts/materialize-dataview/materialize-dataview.mjs`, and invokes `/Applications/Obsidian.app/Contents/MacOS/obsidian-cli` unless `OBSIDIAN_COMMAND` is set.
 - `./autobuild_website.sh export` runs `python taelgar-utils/website/build_site.py --config website.json export`, exporting `taelgar-static/` into `docs/`.
 - `./autobuild_website.sh build` runs materialize, then export.
 - `./autobuild_website.sh serve` exports, then runs `mkdocs serve`.

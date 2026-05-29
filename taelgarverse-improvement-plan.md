@@ -166,6 +166,13 @@ Acceptance criteria:
 
 ## Priority 1: Reduce Performance Cost
 
+Status 2026-05-28:
+
+- Implemented `navigation.prune` with a local Material nav override so pruned sections with landing pages still link to their own pages. Current local samples are about 42-75 KB with roughly 43-88 links, down from about 808 KB and 2,300+ links.
+- Added `search_exclude_tags` exporter support and tagged low-value rollup pages in the source vault. The search-index size reduction is pending the next confirmed materialize run because those source-vault tag edits are not yet in `taelgar-static/`.
+- Added asset reporting and WebP optimization for eligible non-map raster images. Current generated `docs/` is about 300 MB, with remaining oversized assets reported non-blockingly.
+- Tiled `taelgar-world-map.png` for Leaflet map pages and removed `player-map.png` from the published build; the Player's Guide now uses a Leaflet codeblock pointing at the world map.
+
 ### 5. Shrink global navigation payload
 
 Observed:
