@@ -11,10 +11,10 @@ A halfling sea shanty popular among the halflings of the [Gulf of Chardon](<../.
 
 
 <audio controls>
-    <source src="/taelgarverse/assets/audio/merfolk-fortunes.mp3">
+    <source src="/taelgarverse/assets/audio/merfolk-fortunes.mp3" type="audio/mpeg">
 </audio>
 <audio controls>
-    <source src="/taelgarverse/assets/audio/merfolk-fortunes-alt.mp3">
+    <source src="/taelgarverse/assets/audio/merfolk-fortunes-alt.mp3" type="audio/mpeg">
 </audio>
 ## Lyrics
 

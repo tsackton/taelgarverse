@@ -21,35 +21,12 @@ title: Drankorian Hinterland
 ## Map
 
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" ></script>
-
-
-<div id="region-map-drankor" class="ext-map-container"></div>
-
-<script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function () {
-
-            var map = L.map('region-map-drankor', {
-                crs: L.CRS.Simple,
-                minZoom: -2,
-                maxZoom: 0
-            });
-
-            
-            // this bounds must be in the form [y,x], [y,x]
-            // it will typically be, in the yaml, 
-            // bounds:
-            //  - [0,0]
-            //  - [100,100]
-
-            var bounds = [[0, 0], [2232, 4429]];
-            var imageBounds = L.latLngBounds(bounds);
-
-            var image = L.imageOverlay('/taelgarverse/assets/region-drankorian-hinterland.png', imageBounds).addTo(map);
-            map.setView( [1122, 2122], -2);
-        })
-</script>
+<div
+  id="region-map-drankor"
+  class="ext-map-container taelgar-leaflet-map"
+  style="height: 600px;"
+  data-taelgar-leaflet="{&quot;id&quot;:&quot;region-map-drankor&quot;,&quot;bounds&quot;:[[0.0,0.0],[2232.0,4429.0]],&quot;minZoom&quot;:-2.0,&quot;maxZoom&quot;:0.0,&quot;defaultZoom&quot;:-2.0,&quot;fitBounds&quot;:false,&quot;center&quot;:[1122.0,2122.0],&quot;image&quot;:{&quot;url&quot;:&quot;/taelgarverse/assets/region-drankorian-hinterland.png&quot;}}"
+></div>
 
 
 ## Topography and Major Features

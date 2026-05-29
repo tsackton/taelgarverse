@@ -11,7 +11,7 @@ A praise song sung by the [People of the Rainbow](<../../groups/orc-hordes/peopl
 to celebrate the victory of the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) over [Grash](<../../people/other-nonhumans/grash.md>). 
 
 <audio controls>
-    <source src="/taelgarverse/assets/audio/heroes-of-uzgukhar.mp3">
+    <source src="/taelgarverse/assets/audio/heroes-of-uzgukhar.mp3" type="audio/mpeg">
 </audio>
 ## Lyrics
 

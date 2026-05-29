@@ -11,13 +11,13 @@ This is a collection of halfling sea shanties from the Western Green Sea
 
 ## Dyes of Tollen
 <audio controls>
-    <source src="/taelgarverse/assets/audio/dyes-of-tollen.mp3">
+    <source src="/taelgarverse/assets/audio/dyes-of-tollen.mp3" type="audio/mpeg">
 </audio>
 <audio controls>
-    <source src="/taelgarverse/assets/audio/dyes-of-tollen-v1.mp3">
+    <source src="/taelgarverse/assets/audio/dyes-of-tollen-v1.mp3" type="audio/mpeg">
 </audio>
 <audio controls>
-    <source src="/taelgarverse/assets/audio/dyes-of-tollen-v2.mp3">
+    <source src="/taelgarverse/assets/audio/dyes-of-tollen-v2.mp3" type="audio/mpeg">
 </audio>
 ### Lyrics
 
@@ -72,7 +72,7 @@ Ere the winds blow fiercely
 ## Green Sea Calls
 
 <audio controls>
-    <source src="/taelgarverse/assets/audio/green-sea-calls.mp3">
+    <source src="/taelgarverse/assets/audio/green-sea-calls.mp3" type="audio/mpeg">
 </audio>
 
 ### Lyrics
@@ -112,7 +112,7 @@ Singing our shanty, day by day.
 
 ## Roaming the Green Seas
 <audio controls>
-    <source src="/taelgarverse/assets/audio/roaming-the-green-seas.mp3">
+    <source src="/taelgarverse/assets/audio/roaming-the-green-seas.mp3" type="audio/mpeg">
 </audio>
 
 ### Lyrics

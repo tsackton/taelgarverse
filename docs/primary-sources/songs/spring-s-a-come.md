@@ -9,7 +9,7 @@ title: Spring's a Come
 
 An [Urskan](<../../gazetteer/northern-green-sea/ursk/ursk.md>) folk song, about the coming of spring.
 <audio controls>
-    <source src="/taelgarverse/assets/audio/ursk-sings-of-spring.mp3">
+    <source src="/taelgarverse/assets/audio/ursk-sings-of-spring.mp3" type="audio/mpeg">
 </audio>
 
 ## Lyrics

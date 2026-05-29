@@ -18,35 +18,12 @@ title: Greater Sembara
 Greater Sembara is an ancient land blessed with mild weather, ample rain, and rich fertile soil. Largely unchanged by the upheavals of the [Great War](<../../events/1500s/great-war.md>), farmers plant winter wheat and summer millet and soybeans largely as they have for thousands of years. The rolling hills and fertile river valleys are dotted with small cities and prosperous market towns, and halflings traders ply the roads and waterways. This is a land defined by its rivers: the [Kem](<vostok/kem.md>), [Volta](<rivers/volta-watershed/volta.md>), [Teft](<rivers/teft-watershed/teft.md>), [Semb](<rivers/semb-watershed/semb.md>), [Wisford](<sembara/heartlands/wisford.md>), and [Enst](<rivers/wistel-enst-watershed/enst.md>) in particular. 
 ## Map
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" ></script>
-
-
-<div id="region-map-taelgar" class="ext-map-container"></div>
-
-<script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function () {
-
-            var map = L.map('region-map-taelgar', {
-                crs: L.CRS.Simple,
-                minZoom: -2,
-                maxZoom: 0
-            });
-
-            
-            // this bounds must be in the form [y,x], [y,x]
-            // it will typically be, in the yaml, 
-            // bounds:
-            //  - [0,0]
-            //  - [100,100]
-
-            var bounds = [[0, 0], [2503, 2188]];
-            var imageBounds = L.latLngBounds(bounds);
-
-            var image = L.imageOverlay('/taelgarverse/assets/sembara-region-map.png', imageBounds).addTo(map);
-            map.setView( [911, 1100], -1);
-        })
-</script>
+<div
+  id="region-map-taelgar"
+  class="ext-map-container taelgar-leaflet-map"
+  style="height: 700px;"
+  data-taelgar-leaflet="{&quot;id&quot;:&quot;region-map-taelgar&quot;,&quot;bounds&quot;:[[0.0,0.0],[2503.0,2188.0]],&quot;minZoom&quot;:-2.0,&quot;maxZoom&quot;:0.0,&quot;defaultZoom&quot;:-1.0,&quot;fitBounds&quot;:false,&quot;center&quot;:[911.0,1100.0],&quot;image&quot;:{&quot;url&quot;:&quot;/taelgarverse/assets/sembara-region-map.png&quot;}}"
+></div>
 
 
 ## Topography and Major Features

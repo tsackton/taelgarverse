@@ -10,10 +10,10 @@ title: Fog and Fortune
 A popular folk song in [Apporia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>). 
 
 <audio controls>
-    <source src="/taelgarverse/assets/audio/fogbound-rescue.mp3">
+    <source src="/taelgarverse/assets/audio/fogbound-rescue.mp3" type="audio/mpeg">
 </audio>
 <audio controls>
-    <source src="/taelgarverse/assets/audio/fogbound-rescue-alt.mp3">
+    <source src="/taelgarverse/assets/audio/fogbound-rescue-alt.mp3" type="audio/mpeg">
 </audio>
 
 ## Lyrics

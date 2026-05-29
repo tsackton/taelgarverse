@@ -43,35 +43,12 @@ Sembara is a large and properous realm in the [Western Green Sea](<../../western
 
 ## Map
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" ></script>
-
-
-<div id="region-map-sembara" class="ext-map-container"></div>
-
-<script type="text/javascript">
-    document.addEventListener("DOMContentLoaded", function () {
-
-            var map = L.map('region-map-sembara', {
-                crs: L.CRS.Simple,
-                minZoom: -1,
-                maxZoom: 3
-            });
-
-            
-            // this bounds must be in the form [y,x], [y,x]
-            // it will typically be, in the yaml, 
-            // bounds:
-            //  - [0,0]
-            //  - [100,100]
-
-            var bounds = [[0, 0], [2468, 2308]];
-            var imageBounds = L.latLngBounds(bounds);
-
-            var image = L.imageOverlay('/taelgarverse/assets/sembara-regions.png', imageBounds).addTo(map);
-            map.setView( [1200, 1200], 0);
-        })
-</script>
+<div
+  id="region-map-sembara"
+  class="ext-map-container taelgar-leaflet-map"
+  style="height: 900px;"
+  data-taelgar-leaflet="{&quot;id&quot;:&quot;region-map-sembara&quot;,&quot;bounds&quot;:[[0.0,0.0],[2468.0,2308.0]],&quot;minZoom&quot;:-1.0,&quot;maxZoom&quot;:3.0,&quot;defaultZoom&quot;:0.0,&quot;fitBounds&quot;:false,&quot;center&quot;:[1200.0,1200.0],&quot;image&quot;:{&quot;url&quot;:&quot;/taelgarverse/assets/sembara-regions.png&quot;}}"
+></div>
 
 
 

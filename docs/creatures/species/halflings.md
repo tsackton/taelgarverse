@@ -55,12 +55,12 @@ Halfling music is often improvisational, extemporized over stable patterns, refl
 Many halfling songs are also practical, and sea shanties are common on halfling ships. These are two popular songs from the western Green Sea:
 
 The Green Sea Calls: <audio controls>
-    <source src="/taelgarverse/assets/audio/green-sea-calls.mp3">
+    <source src="/taelgarverse/assets/audio/green-sea-calls.mp3" type="audio/mpeg">
 </audio>
 The Dyes of Tollen:
 
 <audio controls>
-    <source src="/taelgarverse/assets/audio/dyes-of-tollen.mp3">
+    <source src="/taelgarverse/assets/audio/dyes-of-tollen.mp3" type="audio/mpeg">
 </audio>
 
 ## Historical Perspective

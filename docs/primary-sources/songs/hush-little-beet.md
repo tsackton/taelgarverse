@@ -9,7 +9,7 @@ title: Hush Little Beet
 
 The lullaby of [Putrid Agnes](<../../people/fey/putrid-agnes.md>)
 <audio controls>
-    <source src="/taelgarverse/assets/audio/hush-little-beet.mp3">
+    <source src="/taelgarverse/assets/audio/hush-little-beet.mp3" type="audio/mpeg">
 </audio>
 
 ## Lyrics
