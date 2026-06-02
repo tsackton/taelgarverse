@@ -19,7 +19,7 @@ The Silversparks are a historically minor dwarven clan from [Nardith](<../../gaz
 
 
 
-### Current and Former Members
+###  Members
 | Person                                   | Info               | Current Location                                               |
 | ---------------------------------------- | ------------------ | -------------------------------------------------------------- |
 | [Kethra Silverspark](<../../people/dwarves/kethra.md>) (she/her) | [dwarf](<../../creatures/species/dwarves.md>) | [Vindristjarna](<../../things/ships/vindristjarna.md>), the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>) (January 1st, 1750) |

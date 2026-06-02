@@ -19,7 +19,7 @@ title: Dunmari Frontier - Delwath Solo Session 2
 > *On Earth: Friday Aug 05, 2022*
 > *[Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>)*
 
-[People/PCs/Dunmar Fellowship/Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and companions journey through the [Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>), confronting haunted battlefields and freeing [Gods and Religions/Gods/Tanshi/Tanshi](<../../../gods-and-religions/gods/tanshi/tanshi.md>) bound by cursed armbands.
+[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and companions journey through the [Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>), confronting haunted battlefields and freeing [Tanshi](<../../../gods-and-religions/gods/tanshi/tanshi.md>) bound by cursed armbands.
 
 ## Session Info
 ### Summary

@@ -20,7 +20,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Deepdwellers](<../../groups/dwarven-clans/deepdwellers.md>)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Deepdweller Clan](<../../groups/dwarven-clans/deepdwellers.md>)  
     Born DR 1515 (235 years old)  
     { .bio }
 

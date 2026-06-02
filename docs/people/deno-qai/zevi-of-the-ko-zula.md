@@ -29,3 +29,5 @@ hide_toc: true
 
 
 Guide who brought [Delwath](<../pcs/dunmar-fellowship/delwath.md>) to the Ko’zula village and later to meet [Aristaea](<../pcs/dunmar-fellowship/guests/aristaea.md>) and [Iascaire](<../pcs/dunmar-fellowship/guests/iascaire.md>).
+
+He is a younger boy, maybe 14 at most, learning the hunting trade. 

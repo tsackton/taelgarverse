@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/metadata, status/stub]
+tags: [person, status/cleanup/metadata, status/stub]
 name: Govir
 born: 1708
 species: human
@@ -25,3 +25,4 @@ hide_toc: true
 </div>
 
 
+![Govir](../../assets/govir.webp){align="right"; width="400"}

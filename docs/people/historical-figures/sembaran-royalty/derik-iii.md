@@ -1,18 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/minor, status/check/errors, testcase]
+tags: [person, status/cleanup/metadata, status/review, testcase]
 name: Derik III
 born: 1484
 species: human
 ancestry: Sembaran
 gender: male
 affiliations:
-- {org: Vostok, type: leader, title: Prince of the North, start: 1508, end: 1519}
+- {org: Vostok, type: leader, title: Prince of the North, start: 1511, end: 1519}
 - {org: Sembara, type: leader, title: High King, start: 1519}
 - {org: Tyrwingha, type: leader, title: High King, start: 1519}
-- {org: Ardlas, type: leader, title: High King, start: 1519}
-- {org: Lavnoch, type: leader, title: High King, start: 1519}
-- {org: Breva, type: leader, title: High King, start: 1519}
 - {org: Vostok, type: leader, title: High King, start: 1519}
 title: King Derik III
 died: 1549
@@ -26,8 +23,8 @@ hide_toc: true
 
     A [Sembaran](<../../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
     b. DR 1484 - d. DR 1549, died at age 65 years  
-    Prince of the North of [Vostok](<../../../gazetteer/greater-sembara/vostok/vostok.md>) (DR 1508 - DR 1519)  
-    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), [Ardlas](<../../../gazetteer/greater-sembara/ardlas.md>), [Lavnoch](<../../../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>), [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>), and [Vostok](<../../../gazetteer/greater-sembara/vostok/vostok.md>) (DR 1519 - DR 1549)  
+    Prince of the North of [Vostok](<../../../gazetteer/greater-sembara/vostok/vostok.md>) (DR 1511 - DR 1519)  
+    High King of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), and [Vostok](<../../../gazetteer/greater-sembara/vostok/vostok.md>) (DR 1519 - DR 1549)  
     { .bio }
 
 </div>
@@ -42,5 +39,4 @@ He is known as one of the greatest kings in Sembaran history, a hero and legenda
 He had two sons ([Reginald](<reginald.md>) and [Hugh](<hugh-of-wisenfold.md>)) with his first wife, [Sarabet](<sarabet.md>), and one son ([Bertram](<bertram-i.md>)) with his second wife, [Jane of Tollen](<jane-of-tollen.md>). 
 
 Mostly due to the influence of his powerful second wife, [Bertram](<bertram-i.md>) succeeds him upon his death.
-
 

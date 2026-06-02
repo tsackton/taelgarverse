@@ -11,7 +11,7 @@ whereabouts:
 - {type: home, location: Ko'zula village}
 affiliations:
 - {org: Ko'zula, type: primary}
-dm_notes: color
+dm_notes: none
 dm_owner: none
 title: Ninu
 hide_toc: true
@@ -29,3 +29,5 @@ hide_toc: true
 
 
 Chief of the largest of the [Ko'zula](<../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) villages; told [Delwath](<../pcs/dunmar-fellowship/delwath.md>) the story of the [armbands of Cha’mutte](<../../campaigns/dunmari-frontier-campaign/treasure/cha-muttes-shadow-armband.md>) and the lost tanshi.
+
+She is in her late 40s/early 50s, with plenty of wrinkles and worry lines; her hair, which she wears loose and long, is still a dirty blonde, with hints of gray at the temples. She dresses in dyed buckskin, mostly reds and browns.

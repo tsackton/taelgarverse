@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [source]
+tags: [source, status/check/errors]
 title: Jorundr's Story
 ---
 # Jorundr's Story
+
+
 
 Jorundr's story starts east and north of here, in the [Green Sea](<../../../gazetteer/green-sea.md>). He was born to some of my kind of who live underwater there -- while many of our kind dwell in the high mountains among the clouds, others dwell deep below the sea. 
 
@@ -17,6 +19,6 @@ Jorundr did not have the powers that I do, he could not travel as the storm, so 
 
 Despite the glory of the time, I could see in the portents the seeds of [Drankor](<../../../history/historical-realms/drankorian-empire.md>)'s destruction and downfall, but Jorundr was an optimist. He did not see it. He preferred to believe in a new era, a new age of [Humans](<../../../creatures/species/humans.md>) and [Giants](<../../../creatures/species/giants.md>) and all the Elder Folk living in harmony. Even all the [Fey](<../../../creatures/fey/fey.md>) and [Dragons](<../../../creatures/species/dragons.md>) and [Elementals](<../../../creatures/extraplanar/elementals.md>) who had fled to other planes returning. Foolish, I guess. 
 
-He spent a hundred years with me, maybe more, and in that time much changed. When he left, war had broken out. [Helea](<../../../people/historical-figures/drankorian-emperors/helea.md>) was assassinated, Ysabel fought [Vestian](<../../../people/historical-figures/drankorian-emperors/vestian.md>) and lost, and the faction associated with the [Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>) took control. And soon after I was trapped. 
+He spent a hundred years with me, maybe more, and in that time much changed. When he left, war had broken out. [Helea](<../../../people/historical-figures/drankorian-emperors/helea.md>) was assassinated, [Ysabel](<../../../people/historical-figures/drankorian-emperors/ysabel-of-drankor.md>) fought [Vestian](<../../../people/historical-figures/drankorian-emperors/vestian.md>) and lost, and the faction associated with the [Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>) took control. And soon after I was trapped. 
 
 I think, from your memories [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), that Jorundr learned of this and came to try to save me. But failed, dying in the magical disaster that brought down [Drankor](<../../../history/historical-realms/drankorian-empire.md>). 

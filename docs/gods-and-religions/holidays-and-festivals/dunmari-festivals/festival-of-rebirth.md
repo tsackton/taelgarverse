@@ -15,7 +15,7 @@ The Festival of Rebirth is a major religious event in the Dunmari calendar, the 
 
 The central tale of the Festival of Rebirth is the story of Jeevali's Resurrection, strongly associated with the [Founding of Dunmar](<../../../primary-sources/founding-of-dunmar.md>). It is typically told as follows:
 
-![The Miracle of Jeevali's Ressurection](<../../../primary-sources/the-miracle-of-jeevali-s-ressurection.md>)
+![The Miracle of Jeevali's Resurrection](<../../../primary-sources/the-miracle-of-jeevali-s-resurrection.md>)
 
 ## Typical Celebration
 

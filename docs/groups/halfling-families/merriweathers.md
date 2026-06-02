@@ -17,7 +17,7 @@ title: Merriweathers
 
 
 
-The Merriweathers are a notable halfling family in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), especially plying the route along the [Auberonne](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/auberonne.md>) betwen [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>) and [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>). 
+The Merriweathers are a notable halfling family in the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), especially plying the route along the [Auberonne](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/auberonne.md>) between [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>) and [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>). 
 
 
 

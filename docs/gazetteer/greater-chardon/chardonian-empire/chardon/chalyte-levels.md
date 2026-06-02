@@ -15,6 +15,6 @@ title: Chalyte Levels
 </div>
 
 
-The Chalyte Levels is the low-lying riverbank area, nestled between the western part of the [North Wall](<north-wall-chardon.md>) and the banks of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>). This area is largely slums, with many decrepit dwellings converted from old barracks build during the [Blood Years](<../../../../events/1500s/blood-years.md>). 
+The Chalyte Levels is the low-lying riverbank area, nestled between the western part of the [North Wall](<north-wall-chardon.md>) and the banks of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>). This area is largely slums, with many decrepit dwellings converted from old barracks built during the [Blood Years](<../../../../events/1500s/blood-years.md>). 
 
 Precinct XVIII is entirely congruent with the traditional boundries of the Chalyte Levels. 

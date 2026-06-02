@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image]
+tags: [person, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, date: 1748-06-30, type: first met}
 - {campaign: DuFr, date: 1748-07-16, type: began traveling, format: '<met:U> with <person> on <target> <current:2qr>'}
@@ -65,6 +65,6 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Reunited with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on February 1st, 1749 in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-Johar is a confidant and close friend of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s from the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). He works in the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), primary interested in documenting the miracles of [Laka](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>), and the history of the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) and the community there. 
+![Johar](../../assets/johar.webp){align="left"; width="450"}Johar is a confidant and close friend of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s from the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). He works in the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), primary interested in documenting the miracles of [Laka](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>), and the history of the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) and the community there. 
 
 

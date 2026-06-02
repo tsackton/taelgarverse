@@ -26,7 +26,8 @@ Over a series of start-and-start campaigns over 60 years, the Drankorian armies 
 * 360 DR: Emperor Anates crosses the [Enst](<../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst.md>) and establishes a garrison at [Cleenseau](<../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>)
 * 402 DR: The [Treaty of Marhavn](<../events/400s/402/treaty-of-marhavn.md>) is signed by Emperor Goristo 
 * 423 DR: Emperor Goristo signs the [Treaty of Tyrwingha](<../events/400s/423/treaty-of-tyrwingha.md>) with [Ethlenn](<../people/extraplanar-powers/archfey/archfey-ethlenn.md>)
-* 468 DR: (The Drankorian [Highland Conquest Wars](<../events/400s/highland-conquest-wars.md>) end with a tactical retreat by Drankor) 
+
+
 
 ## The Drankorian Age
 DR 431 - DR 1059

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/check/minor]
+tags: [person, testcase]
 campaignInfo:
 - {campaign: DuFr, date: 1748-11-23, format: 'Freed from <current:2> by <person>, <target>'}
 name: Hralgar
@@ -32,8 +32,6 @@ hide_toc: true
 
 
 :octicons-location-24:{ .lg .middle } Freed from [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), November 23th, 1748  
-
-
 
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.

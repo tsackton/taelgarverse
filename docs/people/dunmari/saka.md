@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub, status/cleanup/image]
+tags: [person, status/stub]
 campaignInfo:
 - {campaign: DuFr, type: met, date: 1748-07-06}
 name: Saka
@@ -31,4 +31,5 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 6th, 1748 on the [plains north of Tokra](<../../gazetteer/greater-dunmar/hara-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
+![Saka](../../assets/saka.webp){align="right"; width="350"}
 

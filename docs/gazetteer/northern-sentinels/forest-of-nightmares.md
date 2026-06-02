@@ -20,3 +20,4 @@ A cursed forest, once home to many [Deno'qai](<../../groups/cultures/deno-qai-tr
 
 On the western border of the territory of the [Ko'zula](<../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) tribe.
 
+

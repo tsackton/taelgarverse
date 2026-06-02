@@ -28,7 +28,7 @@ hide_toc: true
 
 The priestess of the temple of [Dunmari Religion](<../../gods-and-religions/religions/five-siblings/dunmari-religion.md>) in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), a small institution often overshadowed by the [Temple of Shakun](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/temple-of-shakun.md>), but nonetheless an important focus of civic life and civil administration for the Karawa region. 
 
-Suma is a middle aged woman with dark, curly hair and soft, friendly features. She is a kind, generous person, welcoming of all, and genuinely interested in people, travelers and locals alike. Although a servant of all [Dunmari Religion](<../../gods-and-religions/religions/five-siblings/dunmari-religion.md>), she is particularly connected to [Jeevali](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/jeevali.md>) and deeply appreciates the [Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth](<../../gods-and-religions/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>).  
+Suma is a middle aged woman with dark, curly hair and soft, friendly features. She is a kind, generous person, welcoming of all, and genuinely interested in people, travelers and locals alike. Although a servant of all [Dunmari Religion](<../../gods-and-religions/religions/five-siblings/dunmari-religion.md>), she is particularly connected to [Jeevali](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/jeevali.md>) and deeply appreciates the [Festival of Rebirth](<../../gods-and-religions/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>).  
 
 
 

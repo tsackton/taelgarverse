@@ -24,7 +24,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Gemcrafters](<../../../groups/dwarven-clans/gemcrafters.md>)  
+    A [dwarf](<../../../creatures/species/dwarves.md>) (he/him), of the [Gemcrafter Clan](<../../../groups/dwarven-clans/gemcrafters.md>)  
     Born DR 1453 (297 years old)  
     Member of the [Heroes of Cleenseau](<heroes-of-cleenseau.md>)  
     { .bio }

@@ -20,4 +20,3 @@ The [Muddy River](<../rivers/volta-watershed/muddy-river-tollen.md>), a straight
 The [Carnbrook](<../rivers/volta-watershed/carnbrook.md>) runs through [Nordgate](<wards/nordgate.md>), and then along the dividing line between [Bridgeward](<wards/bridgeward.md>) and [Aesganstrad](<wards/aesganstrad.md>). It is a small brook that vanishes into covered culverts in the city. 
 
 East of the city is the [Greywash](<../rivers/volta-watershed/greywash.md>), a broad, silty, tidally-influenced tributary of the [Volta](<../rivers/volta-watershed/volta.md>), prone to flooding. A large marshlands spreads along the confluence of the Volta and the Greywash, forming a major barrier to eastward expansion of the city. 
-

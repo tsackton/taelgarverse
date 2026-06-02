@@ -5,13 +5,14 @@ campaignInfo:
 name: Riswynn
 born:
 species: dwarf
-ancestry:
+ancestry: Nardith
 gender: female
 player: Kate Sackton
 dm_owner: player
 dm_notes: important
 affiliations:
 - {org: Dunmar Fellowship, type: primary}
+- {org: Brawnanvils, type: primary}
 title: Riswynn
 hide_toc: true
 ---
@@ -19,7 +20,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../../creatures/species/dwarves.md>) (she/her), of the [Dunmar Fellowship](<dunmar-fellowship.md>)  
+    A [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) [dwarf](<../../../creatures/species/dwarves.md>) (she/her), of the [Dunmar Fellowship](<dunmar-fellowship.md>), and the [Brawnanvil Clan](<../../../groups/dwarven-clans/brawnanvils.md>)  
     { .bio }
 
 </div>

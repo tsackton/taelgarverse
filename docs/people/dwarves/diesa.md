@@ -19,7 +19,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of the [Shockstones](<../../groups/dwarven-clans/shockstones.md>)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (she/her), of the [Shockstone Clan](<../../groups/dwarven-clans/shockstones.md>)  
     { .bio }
 
     Based in [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)

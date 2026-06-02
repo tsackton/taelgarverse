@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/stub]
+tags: [group]
 displayDefaults: {defArt: the}
 name: Redhammers
 typeOf: clan
@@ -15,3 +15,8 @@ title: Redhammers
    :octicons-info-24:{ .lg .middle } A [dwarven](<../../creatures/species/dwarves.md>) clan  
 </div>
 
+
+###  Members
+| Person                         | Info               | Current Location                                     |
+| ------------------------------ | ------------------ | ---------------------------------------------------- |
+| [Eldeth Redhammer](<../../people/dwarves/eldeth-redhammer.md>) (she/her) | [dwarf](<../../creatures/species/dwarves.md>) | [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>) (January 1st, 1750) |

@@ -27,3 +27,4 @@ hide_toc: true
 
 
 A young dwarf, living in [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>) but hoping for something better and wondering about the lives of [Dwarves](<../../creatures/species/dwarves.md>) outside [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), even before he knew such [Dwarves](<../../creatures/species/dwarves.md>) existed. 
+

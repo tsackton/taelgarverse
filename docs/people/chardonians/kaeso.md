@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/metadata, status/cleanup/text]
-knownTo: [Mawar]
+tags: [person, status/cleanup/metadata, status/cleanup/text]
+knownTo: [Mawar, DuFr]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
 name: Kaeso
@@ -41,7 +41,7 @@ hide_toc: true
 
 
 
-
+![Kaeso](../../assets/kaeso.webp){align="right"; width="400"}
 [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s mentor and friend. A Chardonian, but widely traveled. Former student of [Roscelia](<roscelia.md>) and member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), but expelled for keeping secrets, specifically about Dunmari magic. 
 
 Secretly a member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>). 

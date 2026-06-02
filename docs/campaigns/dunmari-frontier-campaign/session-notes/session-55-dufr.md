@@ -19,7 +19,7 @@ title: Dunmari Frontier - Delwath Solo Session 3
 > *On Earth: Tuesday Aug 16, 2022*
 > *[Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>)*
 
-[People/PCs/Dunmar Fellowship/Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and his companions confront hobgoblin traitors in a shadow realm and battle an undead warlock at the Battle of Ye'mote while freeing the last of the [Meswati](<../../../gods-and-religions/gods/tanshi/meswati/meswati.md>).
+[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and his companions confront hobgoblin traitors in a shadow realm and battle an undead warlock at the Battle of Ye'mote while freeing the last of the [Meswati](<../../../gods-and-religions/gods/tanshi/meswati/meswati.md>).
 
 ## Session Info
 ### Summary

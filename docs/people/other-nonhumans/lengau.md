@@ -24,4 +24,4 @@ hide_toc: true
 </div>
 
 
-The spirit of the [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), often appearing as a jaguar. Protector of the jungle, but weakened and forced to flee by [People/Other Nonhumans/Motua](<motua.md>)’s pain and rage. Reborn again and again in a new form each generation; imbued the babies [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>) is protecting with part of his soul.
+The spirit of the [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), often appearing as a jaguar. Protector of the jungle, but weakened and forced to flee by [Motua](<motua.md>)’s pain and rage. Reborn again and again in a new form each generation; imbued the babies [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>) is protecting with part of his soul.

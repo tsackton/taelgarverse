@@ -7,7 +7,7 @@ species: dwarf
 gender: male
 affiliations: [Brawnanvils]
 whereabouts:
-- {type: home, location: Raven's Hold}
+- {type: home, end: 1544, location: Raven's Hold}
 - {type: home, start: 1547-01-01, end: '', location: Tharn Todor}
 dm_owner: none
 dm_notes: color
@@ -20,7 +20,7 @@ hide_toc: true
 
     A [dwarf](<../../creatures/species/dwarves.md>) (he/him)  
     Born DR 1502 (248 years old)  
-    Member of Brawnanvils  
+    Member of the [Brawnanvil Clan](<../../groups/dwarven-clans/brawnanvils.md>)  
     { .bio }
 
     Originally from: [Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

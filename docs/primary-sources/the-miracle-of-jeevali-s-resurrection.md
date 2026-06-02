@@ -2,7 +2,7 @@
 tags: [source]
 dm_owner: tim
 dm_notes: color
-title: The Miracle of Jeevali's Ressurection
+title: The Miracle of Jeevali's Resurrection
 ---
 
 

@@ -18,7 +18,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Ferrystones](<../../groups/dwarven-clans/ferrystones.md>)  
+    A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Ferrystone Clan](<../../groups/dwarven-clans/ferrystones.md>)  
     { .bio }
 
     Based in [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)

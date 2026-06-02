@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/errors]
 name: A Brief History of Taelgar
 dm_owner: none
 dm_notes: none
 title: A Brief History of Taelgar
 ---
 # A Brief History of Taelgar
+
+
 
 Long ago, in the ancient days of creation, the gods created sentient beings, first the Elder Folk, and later the [Humans](<../creatures/species/humans.md>), who grew and spread from their ancestral home on the now-lost continent of [Hkar](<historical-realms/hkar.md>). In the aftermath of the cataclysm that destroyed [Hkar](<historical-realms/hkar.md>), [human](<../creatures/species/humans.md>) refugees established the city of [Drankor](<../gazetteer/drankorian-hinterland/drankor/drankor.md>), south of what is now [Dunmar](<../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). From this humble beginning, a great empire grew, based on magic, known as the [Drankorian Empire](<historical-realms/drankorian-empire.md>). As the empire grew, it spread its language, [religion](<../gods-and-religions/religions/mos-numena/mos-numena.md>), and culture across large swaths of Taelgar. 
 

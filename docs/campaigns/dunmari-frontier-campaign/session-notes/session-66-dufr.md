@@ -19,7 +19,7 @@ title: Dunmari Frontier - Wellby Solo Session 3
 > *On Earth: Saturday Nov 19, 2022*
 > *[Arryn's Tower](<../../../gazetteer/eastern-green-sea/arryn-s-tower.md>)*
 
-[People/PCs/Dunmar Fellowship/Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and new allies defeat mirror entities and rescue the wizard [Arryn](<../../../people/other-humans/arryn.md>) from the [Mirror Realm](<../../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>), who then assists Wellby in journeying to the Feywild.
+[Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and new allies defeat mirror entities and rescue the wizard [Arryn](<../../../people/other-humans/arryn.md>) from the [Mirror Realm](<../../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>), who then assists Wellby in journeying to the Feywild.
 ## Session Info
 ### Summary
 - [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and companions recover from the aboleth's defeat, and [Artem](<../../../people/pcs/dunmar-fellowship/guests/artem-novolozek.md>) retrieves his remorhaz heart to aid his escape.

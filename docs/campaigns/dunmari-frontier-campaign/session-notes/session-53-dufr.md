@@ -19,7 +19,7 @@ title: Dunmari Frontier - Delwath Solo Session 1 (Prequel)
 > *On Earth: Sunday Jul 31, 2022*
 > *[Ko'zula village](<../../../gazetteer/central-highlands/ko-zula-village.md>) in the [Forest of Dreams](<../../../gazetteer/central-highlands/forest-of-dreams.md>)*
 
-[People/PCs/Dunmar Fellowship/Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) discovers that Cha'mutte's shadow armbands are key to freeing the trapped [Meswati](<../../../gods-and-religions/gods/tanshi/meswati/meswati.md>) and prepares to seek allies for his quest.
+[Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) discovers that Cha'mutte's shadow armbands are key to freeing the trapped [Meswati](<../../../gods-and-religions/gods/tanshi/meswati/meswati.md>) and prepares to seek allies for his quest.
 ## Session Info
 
 ***Delwath receives his Deno'qai [armor](<../treasure/deno-qai-scale-mail.md>) and  [shield](<../treasure/deno-qai-lynx-shield.md>), and learns to speak Deno'qai.***

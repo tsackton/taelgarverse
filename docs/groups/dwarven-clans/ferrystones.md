@@ -1,15 +1,16 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/cleanup/text, group]
+name: Ferrystone Clan
 typeOf: clan
 displayDefaults: {defArt: the}
 ancestry: dwarven
 whereabouts: Barony of Aveil
 dm_notes: none
 dm_owner: none
-title: Ferrystones
+title: Ferrystone Clan
 ---
-# The Ferrystones
+# The Ferrystone Clan
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -
    :octicons-info-24:{ .lg .middle } A [dwarven](<../../creatures/species/dwarves.md>) clan  
@@ -21,3 +22,10 @@ A fairly prominent dwarven clan with longstanding ties to [Rinburg](<../../gazet
 
 
 
+### Members
+
+| Person                          | Info               | Current Location                                         |
+| ------------------------------- | ------------------ | -------------------------------------------------------- |
+| [Bolgrim Ferrystone](<../../people/dwarves/bolgrim-ferrystone.md>) (he/him) | [dwarf](<../../creatures/species/dwarves.md>) | [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) (January 1st, 1750)  |
+| [Kazak Ferrystone](<../../people/dwarves/kazak-ferrystone.md>) (he/him)   | [dwarf](<../../creatures/species/dwarves.md>) | [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) (January 1st, 1750) |
+| [Vondal Ferrystone](<../../people/dwarves/vondal-ferrystone.md>) (he/him)  | [dwarf](<../../creatures/species/dwarves.md>) | [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) (January 1st, 1750)  |
