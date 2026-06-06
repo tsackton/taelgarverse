@@ -1,9 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 campaignInfo:
 - {campaign: adma, type: confronted, date: 1715-04-28}
-- {campaign: adma, type: laid to rest, person: Owen Tavish, date: 1715-05-06, wParty: '<met:u> <person> on <target> <current:1q>'}
+- {campaign: adma, type: laid to rest by, person: Owen Tavish, date: 1715-05-06, wParty: '<met:u> <person> on <target> <current:1q>'}
 species: human
 ancestry: Addermarian
 gender: male
@@ -36,20 +37,12 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Laid to rest [Owen Tavish](<owen-tavish.md>) on May 6th, 1715 in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)  
+:octicons-location-24:{ .lg .middle } Laid to rest by [Owen Tavish](<owen-tavish.md>) on May 6th, 1715 in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)  
 
 
-Sir Einrik Arpaad was the commander of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>) whose fall to the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) left him a wrathful ghost later laid to rest by [Owen Tavish](<owen-tavish.md>).
-## Overview
-Sir Einrik Arpaad commanded [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), the frontier fort protecting the sometimes-dangerous road through the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), connecting [Valcroix](<../../gazetteer/greater-sembara/addermarch/valcroix.md>) and [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>). Trusted for decades of service, he fell when the cursed [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) twisted his will, driving him to slaughter his garrison and, in turn, binding him as the fort’s wrathful ghost. The [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) escaped his haunt, and cleric [Owen Tavish](<owen-tavish.md>) later laid the spirit to rest, leaving only a cautionary tale about the dagger’s malign influence.
+Sir Einrik Arpaad commanded [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), the fort protecting the sometimes-dangerous road through the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), connecting [Valcroix](<../../gazetteer/greater-sembara/addermarch/valcroix.md>) and [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>). Trusted for decades of service, he fell when the cursed [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) twisted his will, driving him to slaughter his garrison and, in turn, binding him to the fort as a wrathful [ghost](<../../creatures/bestiary/undead.md>). The [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) escaped from his haunted menace, and the priest [Owen Tavish](<owen-tavish.md>) later laid his spirit to rest.
 
-## Personality & Outlook
-Einrik was a disciplined soldier who prized duty and order above all. The curse exaggerated those traits into paranoid absolutism, convincing him only he could protect the watch. Even in undeath his spectral vigilance centered on keeping the gates sealed, punishing anyone who touched the dagger or questioned his command.
-
-## Relationships
-- **Marshal [Hildo Brask](<hildo-brask.md>)** – Loyal second whose death at Einrik’s hands epitomizes the dagger’s corruption.  
-- **[Bartoz](<bartoz.md>)** – Smith who opposed the dagger’s presence and ultimately struck Einrik down.  
-- **[Owen Tavish](<owen-tavish.md>)** – Priest who faced Einrik’s ghost in prayer and released him from the dagger’s thrall.
+Einrik was a disciplined soldier who prized duty and order above all. The curse exaggerated those traits into paranoid absolutism, convincing him that only he could possibly protect the watch. Even in undeath, his ghostly vigilance centered on keeping the gates sealed, punishing anyone who touched the dagger or questioned his command.
 
 ## Events
 - Apr 01, 1715 DR: Succumbed to the Serpentine Dagger, murdered the garrison, and was slain by [Bartoz](<bartoz.md>).

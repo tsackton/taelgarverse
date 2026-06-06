@@ -25,3 +25,5 @@ Many communities keep additional feast days tied to local stories of divine inte
 - [Festival of the Miracle of the Mist](<festival-of-the-miracle-of-the-mist.md>) (Apr 18) in [Abenfyrd](<../../gazetteer/greater-sembara/tyrwingha/abenfyrd.md>).
 - [Miracle of the Hopeful Heat](<miracle-of-the-hopeful-heat.md>) (Jan 7) in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>).
 
+
+

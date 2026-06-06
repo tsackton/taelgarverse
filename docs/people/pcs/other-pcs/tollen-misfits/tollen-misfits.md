@@ -17,7 +17,7 @@ The Tollen Misfits are the player characters in [Lost in the Feywild](<../../../
 
 The group includes:
 
-- [Cato Min](<cato-min.md>), an elven performer and opportunist
+- [Kaito Min](<kaito-min.md>), an elven performer and opportunist
 - [Edric](<edric.md>), a generous wanderer devoted to [The Night Queen](<../../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-night-queen.md>)
 - [Tarek](<tarek.md>), a quick-handed traveler and salvager
 - [Ayveen](<ayveen.md>), a hopeful Tollish adventurer

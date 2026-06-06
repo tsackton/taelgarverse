@@ -16,4 +16,4 @@ title: The Red Shield
 </div>
 
 
-The Red Shield is a tavern in [Tharn Todor](<tharn-todor.md>), owned and run by the parents of the dwarven ranger Oskar, often serving as a meeting point for travelers to the city. 
+The Red Shield is a tavern in [Tharn Todor](<tharn-todor.md>), owned and run by the parents of the dwarven ranger [Oskar](<../../../../people/pcs/other-pcs/oskar-s-companions/oskar.md>), often serving as a meeting point for travelers to the city. 

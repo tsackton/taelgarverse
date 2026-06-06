@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/errors]
 name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
@@ -13,6 +13,8 @@ title: Addermarch
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A realm in [Greater Sembara](<../greater-sembara.md>)  
 </div>
+
+
 
 
 
@@ -94,11 +96,11 @@ During this time, Addermarch is incorporated into the [Drankorian Empire](<../..
 
 
 
-The fall of [Drankor](<../../../history/historical-realms/drankorian-empire.md>) is little noticed in Addermarch at first, although it soon becomes a dangerous time as the Drankorian wizards that once guarded against incursions from the [Darkwood](<darkwood.md>) slowly decline in number and effectiveness. During this time, as to the north the six duchies of [Sembara](<../sembara/sembara.md>) are becoming established, Addermarch, despite suffering a series of upheavals, develops many of the governance traditions that still guide the realm. In the DR 1300s, threat of the [Dominion of Avatus](<../../../history/historical-realms/dominion-of-avatus.md>) grows on the western borders of Addermarch. The Maseau Escarpment is heavily fortified, and a series of skirmishes are fought to a stalemate.
+The fall of [Drankor](<../../../history/historical-realms/drankorian-empire.md>) is little noticed in Addermarch at first, although it soon becomes a dangerous time as the Drankorian wizards that once guarded against incursions from the [Darkwood](<darkwood.md>) slowly decline in number and effectiveness. During this time, as to the north the six duchies of [Sembara](<../sembara/sembara.md>) are becoming established, Addermarch, despite suffering a series of upheavals, develops many of the governance traditions that still guide the realm. In the DR 1300s, the [Serpentine Wars](<../../../events/1300s/serpentine-wars.md>) bring the threat of the [Dominion of Avatus](<../../../history/historical-realms/dominion-of-avatus.md>) to the western borders of Addermarch. The Maseau Escarpment and western Addermarch are heavily fortified, and much of western Addermarch is occupied for a time before Addermarian resistance drives Avatus back.
 
 
 
-This long stasis shifts dramatically when [Avatus](<../../../people/historical-figures/avatus.md>) invades [Sembara](<../sembara/sembara.md>) in the early 1400s. Addermarch is nearly completely surrounded, kept from defeat only by the valiant efforts of guerilla warbands fighting in the rough hills of the escarpment. 
+After a few decades of uneasy peace, the region shifts dramatically again when [Avatus](<../../../people/historical-figures/avatus.md>) invades [Sembara](<../sembara/sembara.md>) in the early 1400s. Addermarch is nearly completely surrounded, kept from defeat only by the valiant efforts of guerilla warbands fighting in the rough hills of the escarpment.
 
 
 
@@ -177,4 +179,3 @@ Note these circuits are not strict lines on a map and often overlap, but each vi
 ### Economy, Trade, and Foreign Relations
 
 Addermarch does not have major trade connections to elsewhere, despite being rich in raw materials. The largest export industry is brandy, which is produced by a number of brandy houses based in Adderfell, and exported down river to Sembaran and beyond. 
-

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 campaignInfo:
 - {campaign: adma, type: undead form destroyed, date: 1715-04-28, wParty: '<met:u> <person:q> on <target> <current:1q>'}
 name: Bartoz
@@ -9,7 +10,7 @@ ancestry: Addermarian
 gender: male
 died: 1715-04-01
 affiliations:
-- {org: Torvaine Watch, title: master smith}
+- {org: Torvaine Watch, title: master smith, type: member}
 whereabouts:
 - {type: home, location: Torvaine Watch}
 dm_owner: none
@@ -34,17 +35,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Undead form destroyed by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on April 28th, 1715 in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)  
 
 
-Bartoz was the master smith of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), who opposed the presence of the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) and later rose as an undead guardian at the forge in the keep. 
-## Overview
-Bartoz served as the master smith and informal quartermaster of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), keeping the garrison’s arms battle‑ready and the gate winches oiled even through winter storms. When the cursed [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) surfaced, he insisted it be locked away and sought temple steward [Wulfram](<wulfram.md>)’s guidance. Sir [Einrik Arpaad](<einrik-arpaad.md>) fell to the weapon’s malice regardless, and Bartoz paid with his life stopping his commander’s rampage, only to rise again as the fort’s undead smith until the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) cut him down.
-
-## Personality & Outlook
-Plainspoken and dutiful, Bartoz valued discipline over rank and looked first to the welfare of the ordinary soldiers. He distrusted strange magic, yet when the watch faltered he confronted the crisis head-on. Even in undeath he clung to the forge, a grim echo of the responsibility he refused to abandon.
-
-## Relationships
-- **[Wulfram](<wulfram.md>)** – Spiritual confidant who helped him quarantine the dagger.  
-- **Marshal [Hildo Brask](<hildo-brask.md>)** – Partner in garrison logistics; Brask’s death hardened Bartoz’s resolve.  
-- **Sir [Einrik Arpaad](<einrik-arpaad.md>)** – Commander he respected until the curse forced Bartoz to strike him down.
+Bartoz was the master smith and informal quartermaster of [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>). When the cursed [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) surfaced, he insisted it be locked away and sought temple steward [Wulfram](<wulfram.md>)’s guidance, but was eventually killed by Sir [Einrik Arpaad](<einrik-arpaad.md>) under the weapon’s malign influence. He rose again as an [undead](<../../creatures/bestiary/undead.md>), clinging to the forge in a grim echo of the responsibility he refused to abandon, until the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) cut him down and put him permanently to rest. 
 
 ## Events
 - Apr 01, 1715 DR: Mortally wounded [Sir Einrik](<einrik-arpaad.md>) while defending [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), and fell in the smithy, only to rise again as an undead. 

@@ -22,7 +22,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    lich (undead), he/him  
+    lich ([undead](<../../../creatures/bestiary/undead.md>)), he/him  
     { .bio }
 
     Originally from: [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)

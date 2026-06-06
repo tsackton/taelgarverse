@@ -26,4 +26,4 @@ The Cleenseau game is run by Mike Sackton and is published separately at [Mike's
 - [Great War Campaign](<great-war-campaign/great-war-campaign.md>), an older campaign whose heroes and broad arc remain canonical.
 - [Labyrinths of the Lost](<one-shots/labyrinths-of-the-lost/labyrinths-of-the-lost.md>), a short adventure in [Western Cymea](<../gazetteer/western-green-sea/realms/western-cymea.md>).
 - [Into the Chasm](<one-shots/into-the-chasm/into-the-chasm.md>), a short adventure in and around the [Great Chasm](<../gazetteer/greater-sembara/zimkova/great-chasm.md>).
-- [Oskar in Tharn Todor](<one-shots/oskar-s-adventures/oskar-in-tharn-todor.md>), episodic adventures with Oskar, [Riswynn](<../people/pcs/dunmar-fellowship/riswynn.md>), and companions.
+- [Oskar in Tharn Todor](<one-shots/oskar-s-adventures/oskar-in-tharn-todor.md>), episodic adventures with [Oskar](<../people/pcs/other-pcs/oskar-s-companions/oskar.md>), [Riswynn](<../people/pcs/dunmar-fellowship/riswynn.md>), and companions.

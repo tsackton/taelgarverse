@@ -5,7 +5,7 @@ sessionNumber: 3
 realWorldDate: 2024-09-20
 DR: 1715-05-02
 DR_end: 1715-05-04
-players: [Yvan, Drou, Fazoth]
+players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 3
 tagline: in which the party explores a cockatrice lair
 descTitle: Cockatrice Hunt
@@ -28,7 +28,7 @@ The party hunts and kills a cockatrice, deals with a water nymph, and returns st
 - **May 03, 1715 DR, midday:** Inside they discover a petrified dwarf, a strange map, and fend off a shadow-animated skeleton.In the main cavern they defeat an adult cockatrice and its hatchlings amid a dormant fey gate and a lifelike statue of a shepherd boy. A furious naiad binds [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>) and [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) until they purge red algae tainting her pool; treasure—including Duval family jewels and an odd golden symbol of **[The Sibyl](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>)**—is recovered and the fey gate is destroyed.    
 - **May 03, 1715 DR, evening:** Laden with gizzard, eggs, and loot, the party camps on the road back toward [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>).
 - **May 04, 1715 DR, morning:** A detour to **[Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>)** lets them deliver the gizzard to [Caradoc](<../../people/addermarians/caradoc.md>).
-- **May 04, 1715 DR, evening:** Returning to [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) they present the recovered jewels to Lady Duval, claim the long-standing bounty on the thief who stole them, and settle again at The Traveler’s Rest.
+- **May 04, 1715 DR, evening:** Returning to [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) they present the recovered jewels to Lady [Elowen Duval](<../../people/addermarians/elowen-duval.md>), claim the long-standing bounty on the thief who stole them, and settle again at [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>).
 ## Cast of Characters
 
 - **[Drou](<../../people/pcs/addermarch/drou.md>)** – [elf](<../../creatures/species/elves.md>) adventurer and woodland guide

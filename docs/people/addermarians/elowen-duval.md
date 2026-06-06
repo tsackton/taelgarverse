@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 campaignInfo:
 - {campaign: adma, type: met, date: 1715-05-01}
 - {campaign: adma, type: rewarded, date: 1715-05-04, wParty: '<met:u> <person> on <target> <current:1>'}
@@ -12,6 +13,7 @@ gender: female
 title: Lady Elowen Duval
 affiliations:
 - {org: Roscombe, title: castellan, type: leader}
+- {org: Duval Household, title: head, type: leader}
 whereabouts:
 - {type: home, location: Roscombe}
 dm_notes: important
@@ -26,6 +28,7 @@ hide_toc: true
 
     An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Castellan of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)  
+    Head of the Duval Household  
     { .bio }
 
     Based in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
@@ -44,26 +47,26 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Hosted a dinner including the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 7th, 1715 [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)  
 
 
-Elowen Duval is the castellan of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), overseeing the isolated uplands of [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>) with measured resolve.
-## Overview
-Lady Elowen Duval governs [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and its surrounding hinterlands, coordinating defense, trade, and relief for outlying farms and hamlets. She favors reliable agents and public support for those who safeguard the marches, using targeted commissions to stabilize the frontier. Though formally sworn to the lord of [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>) and the Earl of Westcliff, Roscombe often skipped during the earl's circuits due to its isolation. 
+Elowen Duval is the castellan of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and head of the Duval Household, governing the town and its scattered upland hinterlands from Duval Manor. She oversees frontier defense, trade, civic administration, and the upkeep of Roscombe's old walls. Though formally she is a vassal of the Earl of Westcliff, he rarely ventures to Roscombe during his circuits, given Elowen unusual independence. 
+
+Lady Duval rules through practical delegation. She relies on Sir [Gareth Howell](<gareth-howell.md>) and the household guard for field matters, Master [Ernault](<ernault.md>) and the manor clerks for records and administration, and [Owen Tavish](<owen-tavish.md>) for counsel when religious or supernatural dangers touch Roscombe.
+
+![Duval Shield](../../assets/duval-shield.webp){align="right"; width="250"}
+## Heraldry
+
+The Duval seal shows a stylized valley between two mountains with an oak tree in the middle. The same mountain-and-oak motif appears on Duval family jewelry recovered from the [Kilrath Caves](<../../gazetteer/greater-sembara/addermarch/kilrath-caves.md>).
 
 ## Events
-- May 01, 1715 DR: Received a report on [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>); commissioned further investigation and urged consultation with [Owen Tavish](<owen-tavish.md>).
-- May 04, 1715 DR: Rewarded the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) for the return of Duval family jewels recovered from a cockatrice lair.
-- May 07, 1715 DR: Hosted a manor dinner for the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>), which including discussion of regarding goblin activity in the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>). 
+- Apr 30, 1715 DR: [Sent Sir Gareth Howell and a troop of soldiers](<../../campaigns/addermarch-campaign/addermarch-session-02.md>) to investigate the silence at [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>).
+- May 01, 1715 DR: [Received the Addermarch Mercenaries' report](<../../campaigns/addermarch-campaign/addermarch-session-02.md>) on [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), paid them for recovered arms and treasure, and urged them to consult [Owen Tavish](<owen-tavish.md>) about the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>).
+- May 02, 1715 DR: [Wrote to the Addermarch Mercenaries](<../../campaigns/addermarch-campaign/handouts/letter-from-elowen-duval.md>) thanking them for helping make the road safe, funding their stay at [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>), and inviting them to dinner at the manor.
+- May 04, 1715 DR: [Rewarded the Addermarch Mercenaries](<../../campaigns/addermarch-campaign/addermarch-session-03.md>) for returning Duval family jewels stolen by a bandit two years earlier.
+- May 07, 1715 DR: [Hosted a manor dinner](<../../campaigns/addermarch-campaign/addermarch-session-04.md>) for the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>), where [Drou](<../pcs/addermarch/drou.md>) performed and Sir [Gareth Howell](<gareth-howell.md>) discussed goblin activity and his missing squire.
+- May 22, 1715 DR: [Met with the Addermarch Mercenaries](<../../campaigns/addermarch-campaign/addermarch-session-16.md>) about [Geoffrey](<../other-humans/geoffrey.md>), confirmed his earlier interest in Carlinshire's founding records, and gave them access to Master [Ernault](<ernault.md>) and the manor archives.
 
 ## Relationships
-- [Gareth Howell](<gareth-howell.md>) — Commanding knight and chief of her household guard; she relies on his tactical assessments.
-- [Owen Tavish](<owen-tavish.md>) — Spiritual adviser on supernatural matters such as the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>).
-- [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) — Trusted troubleshooters invited to court functions and entrusted with sensitive missions.
-
-## Personality
-Pragmatic and unflappable; favors diplomacy and delegation. Values competence, listens closely to briefings, and pays promptly for results. Protective of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)’s folk, supporting bounties, loans to distressed farmers, and public recognition.
-
-## Capabilities & Resources
-- Castellan authority over Roscombe’s defenses, courts, and levies.
-- Treasury allocation for bounties, relief loans, and commissioned expeditions.
-- Household guard under [Gareth Howell](<gareth-howell.md>) for patrol and rapid response.
-
-
+- [Gareth Howell](<gareth-howell.md>) — Captain of her household guard and trusted field commander.
+- [Ernault](<ernault.md>) — Chief clerk of her household and keeper of Roscombe's old records.
+- [Owen Tavish](<owen-tavish.md>) — Priest of [The Sibyl](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>) whom she consults on spiritual and supernatural matters.
+- [Colette du Bois](<colette-du-bois.md>) — Squire in her household guard.
+- [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) — Capable outsiders whom she rewards, hosts, and treats as useful troubleshooters for sensitive local problems.

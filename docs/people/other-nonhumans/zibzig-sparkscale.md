@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 name: Zibzig Sparkscale
 species: kobold
 gender: male
@@ -36,6 +37,5 @@ Though wary of travelers and outsiders, he is often lonely and will eagerly chat
 
 ## Events
 - May 13, 1715 DR – Met the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) in the [West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>) and [negotiated for aid against a cave fisher](<../../campaigns/addermarch-campaign/addermarch-session-09.md>) blocking the river. Spent the night hosting the heroes after the fight. 
-
 
 

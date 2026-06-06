@@ -21,3 +21,5 @@ title: Nightsong Roots
 
 
 The Nightsong Roots are a fog-filled hollow around the roots of a massive fallen tree in the [Highmoor](<highmoor.md>), east of [Haldrenn](<haldrenn.md>). Its hanging roots chime with eerie, wind‑borne music that sometimes open a portal to the Feywild in the trunk.
+
+The far side of the crossing leads to the domain of the [Briarheart](<../../../people/extraplanar-powers/archfey/morlaith.md>).

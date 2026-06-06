@@ -20,7 +20,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A fae (he/him)  
+    A [fae](<../../creatures/fey/fae.md>) (he/him)  
     { .bio }
 
     Based in the [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)

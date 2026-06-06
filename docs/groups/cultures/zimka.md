@@ -10,6 +10,8 @@ title: Zimka
 ---
 # The Zimka
 
+
+
 The Zimka are branch of the [Northerners](<northerners.md>), living in the foothills, forests, plateaus, river valleys, bogs, and lakes between the [Sentinels](<../../gazetteer/sentinel-range.md>) and northern [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). This region, broadly, is known as [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>), and is closely associated with the Zimka culture, especially the upper [Volta](<../../gazetteer/greater-sembara/rivers/volta-watershed/volta.md>), the upper [Teft](<../../gazetteer/greater-sembara/rivers/teft-watershed/teft.md>), [Breva](<../../gazetteer/greater-sembara/zimkova/breva.md>), the [Lavnoch Plateau](<../../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>), and the isolated highlands north of the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>).
 
 The Zimka tell aModern Zimka identity is complex, and the Zimka do not form a single kingdom or unified culture. Instead, the shared inheritance of ancient tales of traveling from across the mountains, and discovering the [kestavo](<../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) among the bogs and lakes of the upper [Volta](<../../gazetteer/greater-sembara/rivers/volta-watershed/volta.md>), binds together scattered northern villages, Brevan forest communities, Lavnoch clans, and the more Sembaran-influenced people of [Ardlas](<../../gazetteer/greater-sembara/ardlas.md>). 

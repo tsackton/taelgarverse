@@ -15,5 +15,5 @@ The fragments of the Void Mind, who stole divine power, enough to reshape and mi
 The Three Despairs are:
 
 - [Jinnik](<jinnik.md>), known primarily through their embodied avatar the [Mad One](<../embodied-gods/mad-one.md>), associated with madness and the curse of lycanthropy
-- [Umidzka](<umidzka.md>), associated with emptiness and despair, and sometimes considered the creator of Undead
+- [Umidzka](<umidzka.md>), associated with emptiness and despair, and sometimes considered the creator of [Undead](<../../../creatures/bestiary/undead.md>)
 - [G'Zab](<g-zab.md>), called the All-Consuming, associated with selfishness, greed, destruction, and war

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 campaignInfo:
 - {campaign: adma, type: discovered as a corpse, date: 1715-05-19}
 name: Geoffrey
@@ -11,7 +12,7 @@ dm_owner: tim
 dm_notes: important
 whereabouts:
 - {type: away, start: 1714-09-11, end: 1715-03-15, location: Roscombe}
-- {type: away, start: 1715-05-03, end: 1715-05-20, location: Haldrenn}
+- {type: away, start: 1715-05-03, end: 9999, location: Haldrenn}
 title: Geoffrey
 hide_toc: true
 ---
@@ -34,3 +35,6 @@ hide_toc: true
 
 
 Geoffrey, possibly a false name, was an traveler who arrived in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) from [Valcroix](<../../gazetteer/greater-sembara/addermarch/valcroix.md>) in the autumn of 1714, taking a room at [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>) for roughly six months. According to [Bertrand LeBlanc](<../addermarians/bertrand-leblanc.md>) and [Emma Cole](<../addermarians/emma-cole.md>), he kept largely to himself, ate alone with his nose in a book, and made repeated solo excursions into the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), sometimes staying out for a week at a time. Shortly before the spring thaw he outfitted himself with ropes, ladders, and other climbing gear, and left for parts unknown.
+
+In May of DR 1715, his dead body was found by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) in [Duncan of Haldrenn](<../addermarians/duncan-of-haldrenn.md>)'s root cellar. The body showed signs of axe wounds and blunt-force trauma, and the cellar contained ancient coins, a pendant of [The Warlord](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>), and burned scraps of Duncan's notes. Later, Duncan's recovered letters later revealed that Geoffrey had been paid by an unknown patron to search for [serpentine](<../../things/materials/serpentine.md>).
+

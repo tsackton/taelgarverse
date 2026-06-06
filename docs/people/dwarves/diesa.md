@@ -27,4 +27,4 @@ hide_toc: true
 
 
 
-Diesa is a prominent and wealthy dwarf, one of the elite of [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>). She is also [Brelith](<../pcs/silver-tempests/brelith.md>)'s mother and Osrik's wife. 
+Diesa is a prominent and wealthy dwarf, one of the elite of [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>). She is also [Brelith](<../pcs/silver-tempests/brelith.md>)'s mother and [Osrik](<osrik.md>)'s wife. 

@@ -25,8 +25,8 @@ The Plane of Creation plays a meaningful role in the magic of Taelgar, as the ul
 
 - Magic in Taelgar
 - Soulstuff
-- Discord Chat - Multiverse
-- Discord Chat - Divine Power in Taelgar
+- 2024-07-18 - Deep History and the Multiverse; 2024-07-19 - Multiverse; 2024-07-26 - Species and Souls
+- 2025-01-21 - Divine Power in Taelgar
 - Riving
 - Riving
 

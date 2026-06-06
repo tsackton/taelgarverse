@@ -14,6 +14,6 @@ title: Oskar's Companions
 </div>
 
 
-Oskar's Companions are the adventurers connected to the dwaren ranger Oskar during his time [in Tharn Todor](<../../../../campaigns/one-shots/oskar-s-adventures/oskar-in-tharn-todor.md>) traveling and adventuring with [Riswynn](<../../dunmar-fellowship/riswynn.md>), during her separation from the [Dunmar Fellowship](<../../dunmar-fellowship/dunmar-fellowship.md>).
+Oskar's Companions are the adventurers connected to the dwaren ranger [Oskar](<oskar.md>) during his time [in Tharn Todor](<../../../../campaigns/one-shots/oskar-s-adventures/oskar-in-tharn-todor.md>) traveling and adventuring with [Riswynn](<../../dunmar-fellowship/riswynn.md>), during her separation from the [Dunmar Fellowship](<../../dunmar-fellowship/dunmar-fellowship.md>).
 
-In addition to Oskar, Stoneclaw, and [Riswynn](<../../dunmar-fellowship/riswynn.md>), other companions included [Agnor](<agnor.md>), [Ken-To](<ken-to.md>), [Ghemdorn](<ghemdorn.md>), and [Eva](<eva.md>).
+In addition to [Oskar](<oskar.md>), [Stoneclaw](<stoneclaw.md>), and [Riswynn](<../../dunmar-fellowship/riswynn.md>), other companions included [Agnor](<agnor.md>), [Ken-To](<ken-to.md>), [Ghemdorn](<ghemdorn.md>), and [Eva](<eva.md>).

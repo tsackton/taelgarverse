@@ -44,7 +44,7 @@ The party engages in battle with the giant spider in her lair. Shortly into the 
 ## Adventure 16: Why Is Everything So Cold?
 ### Session 42
 
-Entering the city of gems, [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), the party meets [Diesa](<../../../people/dwarves/diesa.md>) and Osrik, [Brelith](<../../../people/pcs/silver-tempests/brelith.md>)’s parents, and enjoys a feast. Afterward, they learn about the mystery of the freezing dwarven cities, and decide to go south to investigate. Coming to the now frozen and abandoned city of [Tumukhar](<../../../gazetteer/central-highlands/dwarven-kingdoms/tumukhar.md>), they encounter and fight a small group of ice mephits. 
+Entering the city of gems, [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), the party meets [Diesa](<../../../people/dwarves/diesa.md>) and [Osrik](<../../../people/dwarves/osrik.md>), [Brelith](<../../../people/pcs/silver-tempests/brelith.md>)’s parents, and enjoys a feast. Afterward, they learn about the mystery of the freezing dwarven cities, and decide to go south to investigate. Coming to the now frozen and abandoned city of [Tumukhar](<../../../gazetteer/central-highlands/dwarven-kingdoms/tumukhar.md>), they encounter and fight a small group of ice mephits. 
 
 ### Session 43
 
@@ -92,7 +92,7 @@ Return to the Dwarven city of [Zarkandur](<../../../gazetteer/central-highlands/
 
 ### Events
 
-- Dec 05, 1747 DR: Arrive in [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>). Meet [Diesa](<../../../people/dwarves/diesa.md>) and Osrik, [Brelith](<../../../people/pcs/silver-tempests/brelith.md>)'s parents. Feast. Learn about unnatural cold spreading from the south. Agree to investigate. 
+- Dec 05, 1747 DR: Arrive in [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>). Meet [Diesa](<../../../people/dwarves/diesa.md>) and [Osrik](<../../../people/dwarves/osrik.md>), [Brelith](<../../../people/pcs/silver-tempests/brelith.md>)'s parents. Feast. Learn about unnatural cold spreading from the south. Agree to investigate. 
 - Dec 06, 1747 DR: Learn more from people in [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>). 
 - Dec 07, 1747 DR: Leave, heading south, with an armed escort. Aiming for the now-abandoned and frozen city of [Tumukhar](<../../../gazetteer/central-highlands/dwarven-kingdoms/tumukhar.md>). 
 - Dec 13, 1747 DR: Arrive in [Tumukhar](<../../../gazetteer/central-highlands/dwarven-kingdoms/tumukhar.md>), explore. Fight ice mephits, snow golems, and an ice troll. Exit the city to the barren snowy wasteland of the [Sentinels](<../../../gazetteer/sentinel-range.md>). Find a sheltered place to camp. 

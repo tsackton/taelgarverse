@@ -32,5 +32,5 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by [Riswynn](<../../dunmar-fellowship/riswynn.md>) on May 9th, 1748 in [Tharn Todor](<../../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../../../gazetteer/greater-dunmar/yuvanti-mountains.md>)  
 
 
-Agnor is a dwarven warlock from [Tharn Todor](<../../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), who has occasionally adventured with Oskar and [Riswynn](<../../dunmar-fellowship/riswynn.md>). His magic is tied to mysterious ancient powers, and he is often accompanied by his familiar, Ravi.
+Agnor is a dwarven warlock from [Tharn Todor](<../../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), who has occasionally adventured with [Oskar](<oskar.md>) and [Riswynn](<../../dunmar-fellowship/riswynn.md>). His magic is tied to mysterious ancient powers, and he is often accompanied by his familiar, Ravi.
 

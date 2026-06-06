@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 campaignInfo:
 - {campaign: adma, type: discovered, date: 1715-04-28}
 name: Wulfram
@@ -34,11 +35,6 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Discovered by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on April 28th, 1715 in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), the [Torvaine Forest](<../../gazetteer/greater-sembara/addermarch/torvaine-forest.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
-Wulfram was the temple steward of [The Warlord](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>) at [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), who urged the containment of the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>) and is remembered through accounts of the fort’s fall. He tended the chapel and advised the garrison on matters of faith and honor. When the cursed dagger appeared, he urged it be locked away, but was killed in the  confrontation created by the dagger's cursed influence.
-## Relationships
-- [Hildo Brask](<hildo-brask.md>) — Partner in maintaining morale; they coordinated letters and relief for the troops’ families.
-- [Bartoz](<bartoz.md>) — Collaborated to secure the dagger and calm fears spreading through the barracks.
-- [Einrik Arpaad](<einrik-arpaad.md>) — Commander he tried to counsel.
-
+Wulfram was the temple steward of [The Warlord](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>) at [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>), who urged the containment of the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>). He tended the chapel and advised the garrison on matters of faith and honor. When the cursed dagger appeared, he urged it be locked away, but was killed in the  confrontation created by the dagger's cursed influence.
 
 

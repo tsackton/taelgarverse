@@ -2,6 +2,7 @@
   "source_dir": "taelgar-static",
   "docs_dir": "docs",
   "overrides_source": "taelgar-utils/website/overrides",
+  "session_artifact_roots": ["/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions"],
   "overrides_dir": "overrides",
   "slugify": true,
   "clean_docs": false,

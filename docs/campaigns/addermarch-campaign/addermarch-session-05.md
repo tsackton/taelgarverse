@@ -6,7 +6,7 @@ sessionNumber: 5
 DR: 1715-05-08
 DR_end: 1715-05-09
 realWorldDate: 2024-10-27
-players: [Yvan, Drou, Fazoth]
+players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 5
 tagline: in which a prisoner is freed and a queen defeated
 descTitle: Rescue and Confrontation

@@ -26,7 +26,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An undead (skeletal) (he/him)  
+    An [undead](<../../creatures/bestiary/undead.md>) (skeletal) (he/him)  
     Killed January 20th, 1749  
     { .bio }
 

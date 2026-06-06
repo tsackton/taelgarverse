@@ -1,14 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub]
-activeYear: 1745
+tags: [person, status/cleanup/metadata]
 name: Herasto
 species: centaur
 gender: male
-whereabouts:
-- {type: away, location: Voltara Plains, alias: southern Voltara Plains}
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 title: Herasto
 hide_toc: true
 ---
@@ -19,11 +16,12 @@ hide_toc: true
     A [centaur](<../../creatures/species/centaurs.md>) (he/him)  
     { .bio }
 
-    Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Currently the southern Voltara Plains
 
 
 
+Herasto is the leader of a centaur band, and Theopheia's partner. He cares deeply for his herd, and has kept them safe for many migrations. 
+
+His band spent some time south of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), and came to know the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>), who aided them on several occasions. During [the war against Grumella](<../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-2.md>), Herasto agreed to send centaur warriors to aid Voltara.
 

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person]
 name: Clara
 species: human
-born: 1733
+born: 1731
 gender: female
 whereabouts:
 - {type: home, location: Suwi}
@@ -19,7 +19,7 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [human](<../../creatures/species/humans.md>) (she/her)  
-    Born DR 1733 (17 years old)  
+    Born DR 1731 (19 years old)  
     { .bio }
 
     Based in [Suwi](<../../gazetteer/northwest-coast/suwi.md>)

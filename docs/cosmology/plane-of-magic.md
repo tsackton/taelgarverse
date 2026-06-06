@@ -31,7 +31,7 @@ The Plane of Magic is the name given by arcane cosmologists to the source of the
 
 Some brainstorming on:
 
-- Discord Chat - Multiverse
+- 2024-07-18 - Deep History and the Multiverse; 2024-07-19 - Multiverse; 2024-07-26 - Species and Souls
 - [Ley Lines](<planar-concepts/ley-lines.md>)
 
 Fundamentally, the source of arcane magic. However, the deeper metaphysics are almost entirely a blank slate. 

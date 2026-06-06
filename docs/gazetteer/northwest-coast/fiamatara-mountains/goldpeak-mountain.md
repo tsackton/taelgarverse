@@ -5,7 +5,7 @@ displayDefaults: {defArt: ''}
 name: Goldpeak Mountain
 typeOf: topographical feature
 whereabouts:
-- {type: primary, location: Fiamatara Mountains}
+- {type: primary, location: Fiatara Mountains}
 dm_owner: none
 dm_notes: none
 typeOfAlias: mountain
@@ -13,7 +13,7 @@ title: Goldpeak Mountain
 ---
 # Goldpeak Mountain
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A mountain the Fiamatara Mountains  
+-    :octicons-location-24:{ .lg .middle } A mountain in the [Fiatara Mountains](<fiatara-mountains.md>), the [Northwest Coast](<../northwest-coast.md>)  
 </div>
 
 

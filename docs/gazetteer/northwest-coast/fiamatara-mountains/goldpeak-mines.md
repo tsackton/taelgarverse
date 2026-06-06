@@ -13,7 +13,7 @@ title: Goldpeak Mines
 ---
 # Goldpeak Mines
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A mine in [Goldpeak Mountain](<goldpeak-mountain.md>), the Fiamatara Mountains  
+-    :octicons-location-24:{ .lg .middle } A mine in [Goldpeak Mountain](<goldpeak-mountain.md>), the [Fiatara Mountains](<fiatara-mountains.md>), the [Northwest Coast](<../northwest-coast.md>)  
 </div>
 
 

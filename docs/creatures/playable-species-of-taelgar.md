@@ -50,7 +50,7 @@ Although less numerous than some other species, [elves](<species/elves.md>), [st
 
 ## Fey Species
 
-Of all the planes, the [Feywild](<../cosmology/feywild.md>) is the closest and most accessible from the [Material Plane](<../cosmology/material-plane.md>), and it is not uncommon for natives of that plane to be seen across Taelgar. Although [fey](<fey/fey.md>) species (fae and fairies), especially those with more unusual appearances, may inspire fear, curiosity, distrust, excitement, or many other emotions in natives of the Material Plane, most people will at least have heard rumors of the fey and have context for which to understand members of this species (even if that context may be garbled or wrong).
+Of all the planes, the [Feywild](<../cosmology/feywild.md>) is the closest and most accessible from the [Material Plane](<../cosmology/material-plane.md>), and it is not uncommon for natives of that plane to be seen across Taelgar. Although [fey](<fey/fey.md>) species ([fae](<fey/fae.md>) and fairies), especially those with more unusual appearances, may inspire fear, curiosity, distrust, excitement, or many other emotions in natives of the Material Plane, most people will at least have heard rumors of the fey and have context for which to understand members of this species (even if that context may be garbled or wrong).
 
 *Fae* are the most common inhabitants of the Feywild, and are the most likely of the fey to be encountered on the Material Plane. Many of the fae take on the appearance of elegant humans with subtly unnatural features, though stories tell of diverse beastfolk (including the goat-like satyrs), changelings who are said to be able to shift their form at will, and many other forms among the fae. 
 
@@ -60,7 +60,7 @@ Of all the planes, the [Feywild](<../cosmology/feywild.md>) is the closest and m
 | --------------------------- | -------------------------------------------------------------------- | ------------------------ | ------------------ |
 | Satyr           | What made you leave the Feywild to adventure on the Material Plane?  | [Playing a Satyr](<mechanics/playing-a-satyr.md>)      | 4 + Sylvan         |
 | Changeling | What made you leave the Feywild to adventure on the Material Plane?  | [Playing a Changeling](<mechanics/playing-a-changeling.md>) | 4 + Sylvan         |
-| Fae                     | What made you leave the Feywild to adventure on the Material Plane?  | [Playing a Fae](<mechanics/playing-a-fae.md>)        | 4 + Sylvan         |
+| [Fae](<fey/fae.md>)                     | What made you leave the Feywild to adventure on the Material Plane?  | [Playing a Fae](<mechanics/playing-a-fae.md>)        | 4 + Sylvan         |
 | Fairy          | What made you leave the Feywild to adventure on the Material Plane?  | [Playing a Fairy](<mechanics/playing-a-fairy.md>)      | 4 + Sylvan         |
 | Beastfolk               | What made you leave the Feywild to adventure on the Material Plane?  | [Playing a Beastfolk](<mechanics/playing-a-beastfolk.md>)  | 4 + Sylvan         |
 See also: [Fey](<fey/fey.md>).

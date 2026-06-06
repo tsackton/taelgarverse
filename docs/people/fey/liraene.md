@@ -22,7 +22,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A fae (she/her)  
+    A [fae](<../../creatures/fey/fae.md>) (she/her)  
     Died May 16th, 1715  
     { .bio }
 
@@ -36,4 +36,4 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Found dead by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 18th, 1715 in the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
 
 
-A fae from [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>), companion of [Vaelithar](<vaelithar.md>). She died in Morlaith's domain, fighting a corrupted Singing Tree beyond the [Nightsong Roots](<../../gazetteer/greater-sembara/addermarch/nightsong-roots.md>). 
+A fae from [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>), companion of [Vaelithar](<vaelithar.md>). She died in [Morlaith](<../extraplanar-powers/archfey/morlaith.md>)'s domain, fighting a corrupted Singing Tree beyond the [Nightsong Roots](<../../gazetteer/greater-sembara/addermarch/nightsong-roots.md>). 

@@ -33,7 +33,7 @@ Starting from their resting place in the upper mine chambers, the party finds a 
 - **[Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)** - Warlock whose _Witch Bolt_ and quick _Misty Step_ keep the party moving in the tight passages.
 - **[Duncan of Haldrenn](<../../people/addermarians/duncan-of-haldrenn.md>)** - Missing shepherd; the party follows evidence of his movements into the lowest levels.
 - **Fazoth's pseudodragon** - Scout used to probe the ventilation shaft and harry enemies, though its poison proves ineffective.
-- **Serpentine ghouls** - Undead encountered on multiple levels, drawn to serpentine residue in the stone.
+- **[Serpentine](<../../things/materials/serpentine.md>) ghouls** - Undead encountered on multiple levels, drawn to serpentine residue in the stone.
 
 ## Places
 
@@ -47,9 +47,9 @@ Starting from their resting place in the upper mine chambers, the party finds a 
 
 After a long rest in the upper chambers, the party backtracks out of the mine, and scales the hill above the mine entrance, locating a ventilation shaft into the lower works. Fazoth's pseudodragon scouts ahead and spots serpentine ghouls below. The descent goes badly: a poorly anchored iron spike pulls free under the combined weight of Drou and Yvan, sending both tumbling down, and forcing Fazoth to descend with _Misty Step_.
 
-The ghouls are dispatched, though Drou's _Shatter_ rings through the rock and announces the party's presence to whatever waits below. They burn the bodies and pocket roughly 300 silver pieces before pressing on. Following the trail of Duncan's passage through scattered equipment and bodies that mercifully stay down, they push to the lowest level. 
+The ghouls are dispatched, though Drou's _Shatter_ rings through the rock and announces the party's presence to whatever waits below. They burn the bodies and pocket roughly 300 silver pieces before pressing on. Following the trail of Duncan's passage through scattered equipment and bodies that mercifully stay down, they push to the lowest level.
 
-Here, ghouls lick serpentine from the walls and turn to attack in the cramped tunnels. The fight is brutal. Drou's summoned constrictor snake absorbs punishment and is briefly paralyzed, while she works with daggers, fists, and _Starry Wisp_. Fazoth's _Witch Bolt_ crackles effectively, and Yvan seals the battle's end as he steps forward into darkness and launches a _Fireball_ that blasts the next wave ghouls moving towards the noise of combat. In the silence that follows, a rhythmic thudding echoes from the passage ahead; with the dungeon fully alerted and no safe rest in sight, the party advances as our session ends. 
+Here, ghouls lick [serpentine](<../../things/materials/serpentine.md>) from the walls and turn to attack in the cramped tunnels. The fight is brutal. Drou's summoned constrictor snake absorbs punishment and is briefly paralyzed, while she works with daggers, fists, and _Starry Wisp_. Fazoth's _Witch Bolt_ crackles effectively, and Yvan seals the battle's end as he steps forward into darkness and launches a _Fireball_ that blasts the next wave ghouls moving towards the noise of combat. In the silence that follows, a rhythmic thudding echoes from the passage ahead; with the dungeon fully alerted and no safe rest in sight, the party advances as our session ends.
 
 
 

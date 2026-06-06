@@ -23,7 +23,7 @@ The lands best known to scholars of northwestern Taelgar stretch roughly 2,500 m
   id="player-guide-world-map"
   class="ext-map-container taelgar-leaflet-map"
   style="height: 600px;"
-  data-taelgar-leaflet="{&quot;id&quot;:&quot;player-guide-world-map&quot;,&quot;bounds&quot;:[[0.0,0.0],[5156.7,6636.233]],&quot;minZoom&quot;:-3.0,&quot;maxZoom&quot;:2.0,&quot;defaultZoom&quot;:-2.0,&quot;fitBounds&quot;:false,&quot;center&quot;:[3333.0,3000.0],&quot;tile&quot;:{&quot;baseUrl&quot;:&quot;/taelgarverse/assets/tiles/taelgar-world-map&quot;,&quot;cacheKey&quot;:&quot;542f1cd937&quot;,&quot;extension&quot;:&quot;webp&quot;,&quot;tileSize&quot;:512,&quot;width&quot;:6637,&quot;height&quot;:5157,&quot;minNativeZoom&quot;:0,&quot;maxNativeZoom&quot;:1}}"
+  data-taelgar-leaflet="{&quot;id&quot;:&quot;player-guide-world-map&quot;,&quot;bounds&quot;:[[0.0,0.0],[5156.7,6636.233]],&quot;minZoom&quot;:-3.0,&quot;maxZoom&quot;:2.0,&quot;defaultZoom&quot;:-2.0,&quot;fitBounds&quot;:false,&quot;center&quot;:[3333.0,3000.0],&quot;tile&quot;:{&quot;baseUrl&quot;:&quot;/taelgarverse/assets/tiles/taelgar-world-map&quot;,&quot;cacheKey&quot;:&quot;a1cccd2881&quot;,&quot;extension&quot;:&quot;webp&quot;,&quot;tileSize&quot;:512,&quot;width&quot;:6637,&quot;height&quot;:5157,&quot;minNativeZoom&quot;:0,&quot;maxNativeZoom&quot;:1}}"
 ></div>
 
 

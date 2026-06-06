@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike, status/check/tim]
+tags: [person, status/check/mike]
 name: Elaine II
 born: 1673
 species: human
@@ -31,7 +31,7 @@ hide_toc: true
 
 
 
-The first monarch of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), descended from, Derik, the youngest son of [Elaine I](<elaine-i.md>), and [Morgaine](<morgaine.md>), a Tyrwinghan [oracle](<../../../groups/oracle-of-the-riven.md>).
+The first monarch of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), descended from, Derik, the youngest son of [Elaine I](<elaine-i.md>), and [Morgaine](<morgaine.md>), a Tyrwinghan [oracle](<../../../groups/oracle-of-the-riven.md>). She was succeeded by her son [Arryn III](<arryn-iii.md>) in DR 1745.
 
 
 

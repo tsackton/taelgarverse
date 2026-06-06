@@ -35,7 +35,7 @@ At [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>
 - **[Duncan of Haldrenn](<../../people/addermarians/duncan-of-haldrenn.md>)** - Missing shepherd; signs of his camp and footprints point to his passage through the mine.
 - **Summoned unicorn** - Appears during the mine battle and helps destroy undead; indicates the upper chambers are safe to rest in.
 - **Skeletons of Serethwyn Tor** - Barracks defenders whose deaths trigger dangerous explosions.
-- **Serpentine wights** - Undead guardians encountered in the mine near the cave-in.
+- **[Serpentine](<../../things/materials/serpentine.md>) wights** - Undead guardians encountered in the mine near the cave-in.
 
 ## Places
 
@@ -46,13 +46,13 @@ At [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>
 
 ### Wednesday, May 26th, 2 Robert I
 
-We begin in the late afternoon, as the party fights a group of skeletons in the officer's barracks. Several of them are immune to fire, which Yvan realizes after attempting to hit them with a sorcerous burst. Though this initially confounds Yvan's strategy, with Drou's giant constrictor snake and Fazoth's fey ally, the party avoids taking many hits from the skeletons. However, the snake is badly wounded in the fight, as skeletons keep exploding in shards of fire or bone when they die, though Drou is able to turn it back into a staff before it dies. 
+We begin in the late afternoon, as the party fights a group of skeletons in the officer's barracks. Several of them are immune to fire, which Yvan realizes after attempting to hit them with a sorcerous burst. Though this initially confounds Yvan's strategy, with Drou's giant constrictor snake and Fazoth's fey ally, the party avoids taking many hits from the skeletons. However, the snake is badly wounded in the fight, as skeletons keep exploding in shards of fire or bone when they die, though Drou is able to turn it back into a staff before it dies.
 
-After a quick search reveals no more enemies (along with signs of ancient fire damage, and some possible bodies of Rangers buried under collapsed stone), the party takes a breather. After a quick rest, and a short walk through the barracks uncovers nothing more interesting than [Avatus Symbol Sketch](../../assets/avatus-symbol-sketch.webp) on some gear, the party enters the mine area. Here, they quickly explore a work shed, finding what is probably Duncan's camp, before heading into the mine. 
+After a quick search reveals no more enemies (along with signs of ancient fire damage, and some possible bodies of Rangers buried under collapsed stone), the party takes a breather. After a quick rest, and a short walk through the barracks uncovers nothing more interesting than [Avatus Symbol Sketch](../../assets/avatus-symbol-sketch.webp) on some gear, the party enters the mine area. Here, they quickly explore a work shed, finding what is probably Duncan's camp, before heading into the mine.
 
-The mine cuts horizontally into the hill for a few hundred feet before it dead-ends in a massive cave-in. In the cave-in chamber, the party encounters skeletons and serpentine wights. Drou's _Hypnotic Pattern_ puts most of them to sleep as the battle opens, and Yvan's wild magic surge summons a unicorn, who makes quick work of the undead. Though the unicorn quickly departs, she shares that she can sense no more undead in these upper mine chambers, and suggests this would be a safe place to rest. 
+The mine cuts horizontally into the hill for a few hundred feet before it dead-ends in a massive cave-in. In the cave-in chamber, the party encounters skeletons and [serpentine](<../../things/materials/serpentine.md>) wights. Drou's _Hypnotic Pattern_ puts most of them to sleep as the battle opens, and Yvan's wild magic surge summons a unicorn, who makes quick work of the undead. Though the unicorn quickly departs, she shares that she can sense no more undead in these upper mine chambers, and suggests this would be a safe place to rest.
 
-The party takes advantage of this advice, and our session ends the next morning. 
+The party takes advantage of this advice, and our session ends the next morning.
 
 ### Thursday, May 27th, 2 Robert I
 

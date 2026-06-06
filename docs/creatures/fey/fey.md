@@ -13,7 +13,7 @@ All fey honor bargains, and the feywild runs on gifts and promises. But whether 
 
 The fey are a diverse folk, and many kinds of fey inhabit the [Feywild](<../../cosmology/feywild.md>):
 
-- The most common folk among the fey, are a folk generally human-like in appearance, but possessing an otherworldly elegance and an ethereal quality. These folk, usually called the fae, could pass as humans in the right circumstances, although their unusual eyes often give them away. Some of these folk can change their appearance at will, and are called changelings. 
+- The most common folk among the fey, are a folk generally human-like in appearance, but possessing an otherworldly elegance and an ethereal quality. These folk, usually called the [fae](<fae.md>), could pass as humans in the right circumstances, although their unusual eyes often give them away. Some of these folk can change their appearance at will, and are called changelings. 
 - The sometimes mischievous, sometimes helpful, and always magical flying fairies are also common among the people of the Feywild. These folk are usually small, and include creatures like the pixies, sprites, brownies, and other fairies.
 - Many kinds of beastfolk inhabit the Feywild. Most famous and most common are the horned satyrs, but many other diverse beastfolk can be found across the Feywild.
 - Throughout the feywild, there are also innumerable dryads, nymphs, and other spirits of the land. These fey are typically strongly tied to a particular place, rarely traveling. 

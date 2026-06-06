@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 campaignInfo:
 - {campaign: adma, type: met, date: 1715-05-22}
 name: Emma Cole
@@ -8,6 +9,8 @@ species: human
 ancestry: Addermarian
 gender: female
 born: 1694
+affiliations:
+- {org: The Traveler's Rest, title: chambermaid, type: member}
 whereabouts:
 - {type: home, location: Roscombe}
 dm_owner: none
@@ -21,6 +24,7 @@ hide_toc: true
 
     An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1694 (56 years old)  
+    Chambermaid of [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>)  
     { .bio }
 
     Based in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)
@@ -32,3 +36,4 @@ hide_toc: true
 
 
 Emma Cole is a curious and excitable young woman who works as a chambermaid at [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>) in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), alongside her uncle [Bertrand LeBlanc](<bertrand-leblanc.md>). 
+

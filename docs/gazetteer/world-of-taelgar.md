@@ -13,6 +13,6 @@ title: Map of Taelgar
   id="world-of-taelgar"
   class="ext-map-container taelgar-leaflet-map"
   style="height: 900px;"
-  data-taelgar-leaflet="{&quot;id&quot;:&quot;world-of-taelgar&quot;,&quot;bounds&quot;:[[0.0,0.0],[5156.7,6636.233]],&quot;minZoom&quot;:-2.0,&quot;maxZoom&quot;:2.0,&quot;defaultZoom&quot;:-1.0,&quot;fitBounds&quot;:false,&quot;center&quot;:[3333.0,2000.0],&quot;tile&quot;:{&quot;baseUrl&quot;:&quot;/taelgarverse/assets/tiles/taelgar-world-map&quot;,&quot;cacheKey&quot;:&quot;542f1cd937&quot;,&quot;extension&quot;:&quot;webp&quot;,&quot;tileSize&quot;:512,&quot;width&quot;:6637,&quot;height&quot;:5157,&quot;minNativeZoom&quot;:0,&quot;maxNativeZoom&quot;:1}}"
+  data-taelgar-leaflet="{&quot;id&quot;:&quot;world-of-taelgar&quot;,&quot;bounds&quot;:[[0.0,0.0],[5156.7,6636.233]],&quot;minZoom&quot;:-2.0,&quot;maxZoom&quot;:2.0,&quot;defaultZoom&quot;:-1.0,&quot;fitBounds&quot;:false,&quot;center&quot;:[3333.0,2000.0],&quot;tile&quot;:{&quot;baseUrl&quot;:&quot;/taelgarverse/assets/tiles/taelgar-world-map&quot;,&quot;cacheKey&quot;:&quot;a1cccd2881&quot;,&quot;extension&quot;:&quot;webp&quot;,&quot;tileSize&quot;:512,&quot;width&quot;:6637,&quot;height&quot;:5157,&quot;minNativeZoom&quot;:0,&quot;maxNativeZoom&quot;:1}}"
 ></div>
 
