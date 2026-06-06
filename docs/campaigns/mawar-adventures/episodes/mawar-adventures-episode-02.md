@@ -25,7 +25,7 @@ title: Mawar Adventures Episode 02
 
 Clues from [the Ciphered Scroll](<../notes/the-ciphered-scroll.md>) and the people of [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) lead [Ryu](<../../../people/pcs/mawar/ryu.md>), [Trok](<../../../people/pcs/mawar/trok.md>), [Wazir](<../../../people/pcs/mawar/wazir.md>), and [Kaleho](<../../../people/pcs/mawar/kaleho.md>) to [Azar the Lost](<../../../people/mawarans/azar-the-lost.md>), whose [Blood Knife](<../../../things/magic-items/blood-knife.md>) murders end after a dawn fight at Shark's Dock.
 
-# Timeline
+## Timeline
 
 - Aug 03, 1747 DR, evening: [Wazir](<../../../people/pcs/mawar/wazir.md>) presents the decoded [The Ciphered Scroll](<../notes/the-ciphered-scroll.md>) to [Ryu](<../../../people/pcs/mawar/ryu.md>), [Trok](<../../../people/pcs/mawar/trok.md>), and [Kaleho](<../../../people/pcs/mawar/kaleho.md>) at the [Leviathan Inn](<../../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>) in [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>).
 - Aug 04, 1747 DR: The party searches Airion's tower in the [North Cliffs](<../../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>), discovering older stonework beneath the ruined watchtower, then traces its recent occupant through Hamri's informants, uncovering evidence that [Azar the Lost](<../../../people/mawarans/azar-the-lost.md>) was living in hiding, likely tied to deaths among [gatza](<../../../things/materials/gatza.md>) addicts in the Drowned Flats, and seeking to purchase a lead-lined box from the smith [Ovina](<../../../people/dwarves/ovina.md>) on Shark's Dock.

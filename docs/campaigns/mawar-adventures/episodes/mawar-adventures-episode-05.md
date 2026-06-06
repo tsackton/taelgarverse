@@ -25,7 +25,7 @@ title: Mawar Adventures Episode 05
 
 Rayna's plea leads the party to a buried [shrine of Guzo](<../../../gazetteer/northwest-coast/mawar-confederacy/shrine-to-guzo-the-mariner.md>), where they kill a trapped marid and recover a [crystal fragment](<../items-and-treasure/crystallized-song-fragment.md>) singing the song of the [Sentient Ocean](<../../../people/extraplanar-powers/sentient-ocean.md>).
 
-# Timeline
+## Timeline
 
 - May 26, 1749 DR, evening: [Rayna](<../../../people/mawarans/rayna.md>) arrives in [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) and asks the party to find the ocean's lost song in a collapsed [shrine of Guzo](<../../../gazetteer/northwest-coast/mawar-confederacy/shrine-to-guzo-the-mariner.md>).
 - May 27, 1749 DR: The party sails with [Rayna](<../../../people/mawarans/rayna.md>) to the [North Cliffs](<../../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>), finds [Guzo's buried shrine](<../../../gazetteer/northwest-coast/mawar-confederacy/shrine-to-guzo-the-mariner.md>), kills the trapped [marid](<../../../creatures/extraplanar/marid.md>), and returns the freed [song fragment](<../items-and-treasure/crystallized-song-fragment.md>) to [Rayna](<../../../people/mawarans/rayna.md>).

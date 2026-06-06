@@ -25,7 +25,7 @@ title: Mawar Adventures Episode 03
 
 [Orden](<../../../people/mawarans/orden.md>) asks the party to find [Hiyasa](<../../../people/mawarans/hiyasa.md>), whose treasure map leads them from [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) into [Yerkir-khor's buried earth tomb](<../../../gazetteer/northwest-coast/mawar-confederacy/tomb-of-yerkir-khor.md>), where they survive traps, stone guardians, and a near-fatal fight before returning with her and the [tomb](<../../../gazetteer/northwest-coast/mawar-confederacy/tomb-of-yerkir-khor.md>)'s strange spoils.
 
-# Timeline
+## Timeline
 
 - Oct 23, 1747 DR, evening: [Orden](<../../../people/mawarans/orden.md>) asks [Trok](<../../../people/pcs/mawar/trok.md>) and [Kaleho](<../../../people/pcs/mawar/kaleho.md>) to find his daughter [Hiyasa](<../../../people/mawarans/hiyasa.md>), who recently returned to [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) after ten years away and has gone missing while seeking treasure.
 - Oct 24, 1747 DR, morning: [Trok](<../../../people/pcs/mawar/trok.md>) and [Kaleho](<../../../people/pcs/mawar/kaleho.md>) recruit [Ryu](<../../../people/pcs/mawar/ryu.md>) and [Nerissa](<../../../people/pcs/mawar/nerissa.md>) to help, gather rumors from [Abelard](<../../../people/mawarans/abelard.md>) at the [Leviathan Inn](<../../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>), and head up the [Mirmir](<../../../gazetteer/northwest-coast/rivers/mirmir.md>) following [Hiyasa](<../../../people/mawarans/hiyasa.md>)'s tracks.

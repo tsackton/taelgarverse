@@ -25,7 +25,7 @@ title: Mawar Adventures Episode 01
 
 After strange omens trouble Hamri's harbor, [Ryu](<../../../people/pcs/mawar/ryu.md>), [Wazir](<../../../people/pcs/mawar/wazir.md>), and [Trok](<../../../people/pcs/mawar/trok.md>) rescue a merfolk traveler, recover a stolen drop of the [Sentient Ocean](<../../../people/extraplanar-powers/sentient-ocean.md>) from a tidal cave in the [North Cliffs](<../../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>), and find a coded scroll pointing to a deeper mystery.
 
-# Timeline
+## Timeline
 
 - Jul 23, 1747 DR: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Wazir](<../../../people/pcs/mawar/wazir.md>), and [Trok](<../../../people/pcs/mawar/trok.md>) rescue [Illius](<../../../people/other-nonhumans/illius.md>), a merfolk traveler, from an elemental attack, and recover a stolen drop of the [Sentient Ocean](<../../../people/extraplanar-powers/sentient-ocean.md>) from a tidal cave in the [North Cliffs](<../../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>) across the bay from [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>).
 

@@ -25,7 +25,7 @@ title: Mawar Adventures Episode 04
 
 [Ryu](<../../../people/pcs/mawar/ryu.md>), [Nerissa](<../../../people/pcs/mawar/nerissa.md>), and [Ander](<../../../people/pcs/mawar/ander.md>) investigate killings near [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), battle fire cultists, and free the dragon turtle [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) from a mage seeking to contact [Khathayi the Flametongue](<../../../people/other-humans/khathayi.md>).
 
-# Timeline
+## Timeline
 
 - Nov 01, 1747 DR: [Ander](<../../../people/pcs/mawar/ander.md>), a recently retired [Chardonian](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) soldier, returns to [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) after twenty years away.
 - Nov 08, 1747 DR, morning: [Ander](<../../../people/pcs/mawar/ander.md>) finds [Ryu](<../../../people/pcs/mawar/ryu.md>) at his cliff tower in [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). Their reunion is interrupted by [Jaeson](<../../../people/mawarans/jaeson.md>) with a rumor that a beast is killing lizardfolk near [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>).
