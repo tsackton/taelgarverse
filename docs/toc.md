@@ -74,11 +74,11 @@ search:
                 - [Turk](people/pcs/mawar/turk.md)
                 - [Wazir](people/pcs/mawar/wazir.md)
             - Episodes
+                - [Mawar Adventures Episode 01](campaigns/mawar-adventures/episodes/mawar-adventures-episode-01.md)
+                - [Mawar Adventures Episode 02](campaigns/mawar-adventures/episodes/mawar-adventures-episode-02.md)
                 - [Mawar Adventures Episode 03](campaigns/mawar-adventures/episodes/mawar-adventures-episode-03.md)
                 - [Mawar Adventures Episode 04](campaigns/mawar-adventures/episodes/mawar-adventures-episode-04.md)
                 - [Mawar Adventures Episode 05](campaigns/mawar-adventures/episodes/mawar-adventures-episode-05.md)
-                - [Mawar Adventures Episode 1](campaigns/mawar-adventures/episodes/mawar-adventures-episode-01.md)
-                - [Mawar Adventures Episode 2](campaigns/mawar-adventures/episodes/mawar-adventures-episode-02.md)
             - [Timeline](campaigns/mawar-adventures/mawar-adventures-timeline.md)
             - Items and Treasure
                 - [Airion's Bowl of Commanding Water Elementals](campaigns/mawar-adventures/items-and-treasure/airion-s-bowl-of-commanding-water-elementals.md)
