@@ -22,6 +22,9 @@ fi
 
 eval "$(mamba shell hook --shell zsh)"
 mamba activate taelgar-utils
+cd taelgar-utils
+git pull --rebase
+cd ..
 
 WEBSITE_ROOT="${TAELGAR_WEBSITE_ROOT:-${0:A:h}}"
 VAULT_ROOT="${TAELGAR_VAULT_ROOT:-/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar}"
