@@ -25,7 +25,7 @@ title: Into the Chasm - Episode 04
 
 After [Kalima](<../../../people/sembarans/kalima.md>) disappears into Zahara's care, the party confronts Malquin for passage out of Melusa and finds [Eidrikas](<../../../people/sembarans/eidrikas.md>) holding the broken chasm mechanism together in the true [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>).
 
-# Timeline
+## Timeline
 
 - Jan 26, 1730 DR - Jan 27, 1730 DR, night: [Kalima](<../../../people/sembarans/kalima.md>) leaves Melusa under Zahara's cover while Malquin's guards search the village.
 - Jan 27, 1730 DR, morning: Samir reveals Taquin's memories before the party chooses a direct challenge to Malquin.

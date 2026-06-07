@@ -24,7 +24,7 @@ title: Into the Chasm - Episode 06
 
 The party recovers the keystone, delays the repair long enough to return to Melusa, rescues the villagers willing to flee, and begins arranging their survival in the true [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>).
 
-# Timeline
+## Timeline
 
 - Jan 29, 1730 DR, afternoon: The keystone is recovered and carried back to [Eidrikas](<../../../people/sembarans/eidrikas.md>) before the party delays the repair for Melusa.
 - Jan 29, 1730 DR, night: The party returns to Melusa, evacuates the willing through the wisp-choked portal, and begins arranging shelter.

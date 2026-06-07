@@ -25,7 +25,7 @@ title: Into the Chasm - Episode 01
 
 Drawn by omens around the [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>), five adventurers and a terrified Zimkovan woman are torn from the world by an impossible ice storm and awaken on a lone platform in [Zeyfa’s Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>), where ice wolves, wind-shaped shades, and chasm wisps test their resolve before they choose to leap into a maze that may be the only way out.
 
-# Timeline
+## Timeline
 
 - 1729 DR, August: An orcish horde lead by a fierce orc warrior calling herself the Ravager of Winter roars out of the [Sentinels](<../../../gazetteer/sentinel-range.md>) and across northern [Zimkova](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>)
 - Aug 28, 1729 DR: An army of dwarves from [Nidzahar](<../../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>) and a substantial [Stoneborn](<../../../creatures/species/stoneborn.md>) company defeat the Ravager in the forests east of the [Berze](<../../../gazetteer/greater-sembara/rivers/teft-watershed/berze.md>)

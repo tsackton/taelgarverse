@@ -25,7 +25,7 @@ title: Labyrinths of the Lost - Session 1
 
 Four prisoners break out of a smithy cell on the grounds of [Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>), kill two groups of goblin guards, capture [Folcan](<../../../people/other-nonhumans/folcan.md>), and learn about [Grimstone](<../../../people/other-humans/grimstone.md>), the leader of the kidnapping ring.
 
-# Timeline
+## Timeline
 
 - Oct 17, 1748 DR: [Four prisoners](<../../../people/pcs/other-pcs/labyrinth-prisoners/labyrinth-prisoners.md>) break out of their smithy cell, kill two goblin groups, capture the goblin leader [Folcan](<../../../people/other-nonhumans/folcan.md>), and learn of tunnel routes into the [manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>).
 

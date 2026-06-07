@@ -25,7 +25,7 @@ title: Into the Chasm - Episode 02
 
 The party pushes deeper into [Zeyfa’s Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>), surviving worsening cold and shifting paths, and learning clues from a dead man, until they emerge into a black‑stone chamber where a terrifying white beast awaits.
 
-# Timeline
+## Timeline
 
 - Jan 25, 1730 DR, afternoon: The party travels deeper into [Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>), learns of Melusa from a dead sacrifice, survives the maze's whiteout loops, and reaches the beast's chamber.
 

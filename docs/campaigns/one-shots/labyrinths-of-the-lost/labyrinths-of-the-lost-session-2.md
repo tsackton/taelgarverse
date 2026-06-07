@@ -25,7 +25,7 @@ title: Labyrinths of the Lost - Session 2
 
 After resting at the smithy, the party crosses [Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>) by stealth, defeats hobgoblins in the chapel crypt and ruined library, finds hidden records and a chained basilisk, and learns from a ghost that [Grimstone's lair](<../../../gazetteer/western-green-sea/cymea/grimstone-s-lair.md>) lies beneath the manor.
 
-# Timeline
+## Timeline
 
 - Oct 18, 1748 DR: The party crosses the manor grounds, defeats hobgoblins in the chapel crypt and ruined library, finds hidden records and a chained basilisk, and learns from a pirate's ghost that [Grimstone's lair](<../../../gazetteer/western-green-sea/cymea/grimstone-s-lair.md>) is below.
 

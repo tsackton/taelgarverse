@@ -25,7 +25,7 @@ title: Into the Chasm - Episode 03
 
 The party kills the shaggy white beast, escapes [Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>) through a new earthen passage, shelters with Kalima's family in Melusa, and discovers the Ice Palace moving against the village.
 
-# Timeline
+## Timeline
 
 - Jan 25, 1730 DR, afternoon: The party kills the shaggy white beast, escapes [Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>), and follows [Kalima](<../../../people/sembarans/kalima.md>) into Melusa.
 - Jan 25, 1730 DR, evening: Nura and Khaled shelter the party and explain Melusa's life of endurance, sacrifice, and half-remembered [Kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>).

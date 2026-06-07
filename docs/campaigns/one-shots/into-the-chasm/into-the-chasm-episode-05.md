@@ -24,7 +24,7 @@ title: Into the Chasm - Episode 05
 
 The party descends from Eidrikas's broken platform into the suspended chasm mechanism, bypasses a damaged custodian and lightning-filled conduit, and kills the Thark-marked god caller in the ruined chamber below.
 
-# Timeline
+## Timeline
 
 - Jan 29, 1730 DR, afternoon: Jan 29th, 1730, afternoon: [Eidrikas](<../../../people/sembarans/eidrikas.md>) sends the party below, where they kill the Thark-marked god caller in the ruined lower chamber.
 

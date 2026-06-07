@@ -24,7 +24,7 @@ title: Labyrinths of the Lost - Session 3
 
 The party descends into [Grimstone's lair](<../../../gazetteer/western-green-sea/cymea/grimstone-s-lair.md>) beneath [Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>), destroys undead pirates, bluffs and kills a human guard, and finally defeats [Grimstone](<../../../people/other-humans/grimstone.md>) and his stone constructs.
 
-# Timeline
+## Timeline
 
 - Oct 18, 1748 DR: The party descends below [Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>), destroys undead pirates and a guard, defeats [Grimstone](<../../../people/other-humans/grimstone.md>) and his stone constructs, and strips the laboratory of research and treasure.
 - Oct 19, 1748 DR, morning: The party escapes [Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>), and parts ways on the road.
