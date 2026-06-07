@@ -28,10 +28,13 @@ The party follows Alden to Dandelion House, where they accept Lord Holda's deal 
 	*What could go wrong?* - Kaito Min
 ## Audio Highlights
 
-- **Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** <audio controls>
+**Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** 
+<audio controls>
     <source src="/taelgarverse/assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-002.m4a" type="audio/mp4">
 </audio>
-- **The party descends through the manor basement into the root-covered lower cellar where Holda waits by the hidden door:** <audio controls>
+
+**The party descends through the manor basement into the root-covered lower cellar where Holda waits by the hidden door:** 
+<audio controls>
     <source src="/taelgarverse/assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-003.m4a" type="audio/mp4">
 </audio>
 
