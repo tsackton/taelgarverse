@@ -28,4 +28,4 @@ The Dunmari also acknowledge the power of the creator gods, [Shurat](<../../high
 
 ### Relationships among the Divine
 
-![Five Siblings Family Tree](../../../../assets/five-siblings-family-tree.png)
+![Five Siblings Family Tree](/taelgarverse/assets/five-siblings-family-tree.png)

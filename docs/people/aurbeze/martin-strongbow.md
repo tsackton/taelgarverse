@@ -36,7 +36,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 7th, 1749 in [Three Wells](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/three-wells.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
 
 
-![Martin](../../assets/martin.webp){align="right"; width="400"}Martin is an Isinguer human and a captain of the [Rangers](<../../groups/rangers.md>). He is a a seasoned tactician and often serves as the coordinator of Ranger operations within the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>).
+![Martin](/taelgarverse/assets/martin.webp){align="right"; width="400"}Martin is an Isinguer human and a captain of the [Rangers](<../../groups/rangers.md>). He is a a seasoned tactician and often serves as the coordinator of Ranger operations within the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>).
 
 ## Background
 

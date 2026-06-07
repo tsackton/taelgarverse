@@ -31,7 +31,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 7th, 1749 in [Three Wells](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/three-wells.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
 
 
-![Perrin Du Bois](../../assets/perrin-du-bois.webp){align="right"; width="400"}Perrin is an Aurbeze beekeeper, father of four, and smallholder, elected to represent the scattered smallholds and isolated farms across the [Aurbez Plateau](<../../gazetteer/upper-istaros/aurbez-plateau.md>) in Alliance councils. 
+![Perrin Du Bois](/taelgarverse/assets/perrin-du-bois.webp){align="right"; width="400"}Perrin is an Aurbeze beekeeper, father of four, and smallholder, elected to represent the scattered smallholds and isolated farms across the [Aurbez Plateau](<../../gazetteer/upper-istaros/aurbez-plateau.md>) in Alliance councils. 
 
 Perrin advocates for rural households and water‑rights concerns, lending a steady if anxious voice to Alliance deliberations. He is regarded as a practical delegate who presses for civilian safety and realistic defenses for outlying farms.
 

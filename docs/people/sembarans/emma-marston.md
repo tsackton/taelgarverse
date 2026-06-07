@@ -23,4 +23,4 @@ hide_toc: true
 </div>
 
 
-![Emma Marston](../../assets/emma-marston.webp){align="left"; width="200"}
+![Emma Marston](/taelgarverse/assets/emma-marston.webp){align="left"; width="200"}

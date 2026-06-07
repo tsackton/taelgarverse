@@ -57,7 +57,7 @@ As dinner ends, [Harol Silversong](<../../../people/halflings/harol-silversong.m
 
 Lyle's chart:
 
-![Halfling Chart](../../../assets/halfling-chart.png)
+![Halfling Chart](/taelgarverse/assets/halfling-chart.png)
 
 The next days pass quietly in the routine of the ship. While a few vessels are spotted – Chardonians and other traders – none come close or threaten to board. After a few days sailing, the [Emerald Song](<../../../things/ships/emerald-song.md>) approaches the [Old Chardon Canal](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/old-chardon-canal.md>) that connects the [Nevos Sea](<../../../gazetteer/nevos-and-apporia/nevos-sea.md>) to the [Endless Ocean](<../../../gazetteer/endless-ocean.md>) to the north, and cuts many weeks off the sailing time between [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) and [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). Originally built by the Drankorians, it is now managed and run by the [Chardonian Empire](<../../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). 
 

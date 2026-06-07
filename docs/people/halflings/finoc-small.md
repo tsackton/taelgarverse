@@ -26,4 +26,4 @@ hide_toc: true
 </div>
 
 
-![Finoc Small](../../assets/finoc-small.webp){align="right"; width="300"}An unusually tall and cheerful halfling, and the owner of [The Wandering Toad](<../../gazetteer/northwest-coast/northern-provinces/voltara/the-wandering-toad.md>), an inn in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) known for wild game, mushrooms, and ale. [Brelith](<../pcs/silver-tempests/brelith.md>) apprenticed with the chef there before opening [The Hero's Feast](<../../gazetteer/northwest-coast/northern-provinces/voltara/the-hero-s-feast.md>).
+![Finoc Small](/taelgarverse/assets/finoc-small.webp){align="right"; width="300"}An unusually tall and cheerful halfling, and the owner of [The Wandering Toad](<../../gazetteer/northwest-coast/northern-provinces/voltara/the-wandering-toad.md>), an inn in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) known for wild game, mushrooms, and ale. [Brelith](<../pcs/silver-tempests/brelith.md>) apprenticed with the chef there before opening [The Hero's Feast](<../../gazetteer/northwest-coast/northern-provinces/voltara/the-hero-s-feast.md>).

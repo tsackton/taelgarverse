@@ -9,7 +9,7 @@ title: An Annotated (Partial) Map of Drankor
 
 *I have not been able to reconstruct the full report, much less the original text, as too many pages are missing. However, it seems that prior to attacking [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>), the Nayan Aatmaji [Dasa](<../../../people/historical-figures/dunmari-rulers/dasa.md>) sought as much information as possible and hoped that at least a partially accurate map of [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>) could be produced. I have reproduced as much of the Dunmari map as I could, with annotations.*
 
-![Drankor Map](../../../assets/drankor-map.png)
+![Drankor Map](/taelgarverse/assets/drankor-map.png)
 
 *I believe there are four major areas seen on this map. In the northwest corner, the docks. In the northeast corner, the great plaza mentioned in the [Report of the Aagiri to Samraat Dasa](<report-of-the-aagiri-to-samraat-dasa.md>). In the center to the south, an illustration of the street grid apparently common in parts of [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>), and the southwest, something seemingly referred to by the Dunmari as the Teeth of [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>). I have endeavored to copy what notes I can describing each of these places: what follows are the Dunmari notes I was able to reconstruct.*
 

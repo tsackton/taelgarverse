@@ -32,5 +32,5 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 7th, 1749 in [Three Wells](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/three-wells.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
 
 
-![Daisy Lightfoot](../../assets/daisy-lightfoot.webp){align="right"; width="400"} Daisy Lightfoot is a halfling scout master and member of the [Rangers](<../../groups/rangers.md>).  She has a prominent scar on her cheek and is eager to fight hobgoblins.
+![Daisy Lightfoot](/taelgarverse/assets/daisy-lightfoot.webp){align="right"; width="400"} Daisy Lightfoot is a halfling scout master and member of the [Rangers](<../../groups/rangers.md>).  She has a prominent scar on her cheek and is eager to fight hobgoblins.
 

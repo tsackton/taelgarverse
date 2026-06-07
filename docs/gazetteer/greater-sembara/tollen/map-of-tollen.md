@@ -7,7 +7,7 @@ title: Map of Tollen
 ---
 # Map of Tollen
 
-![Tollen Current](../../../assets/tollen-current.png)
+![Tollen Current](/taelgarverse/assets/tollen-current.png)
 
 ## Wards
 Numbered from 1 to 17:

@@ -24,7 +24,7 @@ hide_toc: true
 </div>
 
 
-![Pippa Greenbarrow Portrait](../../assets/pippa-greenbarrow-portrait.webp){align="right"; width="400"}Pippa is a cheerful halfling woman, with a warm, welcoming smile, often seen wearing a wide-brimmed hat. She has a love of good food, great ale, and great company, and attracts like-minded crew to her ship, the [Summer's Breeze](<../../things/ships/summer-s-breeze.md>). 
+![Pippa Greenbarrow Portrait](/taelgarverse/assets/pippa-greenbarrow-portrait.webp){align="right"; width="400"}Pippa is a cheerful halfling woman, with a warm, welcoming smile, often seen wearing a wide-brimmed hat. She has a love of good food, great ale, and great company, and attracts like-minded crew to her ship, the [Summer's Breeze](<../../things/ships/summer-s-breeze.md>). 
 
 She has no fixed route or typical path, but is welcome is every port along the [Apporian Peninsula](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>) for her genial nature, and her tendency to throw impromptu parties on deck. 
 

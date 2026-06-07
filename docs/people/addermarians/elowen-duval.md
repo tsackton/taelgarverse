@@ -51,7 +51,7 @@ Elowen Duval is the castellan of [Roscombe](<../../gazetteer/greater-sembara/add
 
 Lady Duval rules through practical delegation. She relies on Sir [Gareth Howell](<gareth-howell.md>) and the household guard for field matters, Master [Ernault](<ernault.md>) and the manor clerks for records and administration, and [Owen Tavish](<owen-tavish.md>) for counsel when religious or supernatural dangers touch Roscombe.
 
-![Duval Shield](../../assets/duval-shield.webp){align="right"; width="250"}
+![Duval Shield](/taelgarverse/assets/duval-shield.webp){align="right"; width="250"}
 ## Heraldry
 
 The Duval seal shows a stylized valley between two mountains with an oak tree in the middle. The same mountain-and-oak motif appears on Duval family jewelry recovered from the [Kilrath Caves](<../../gazetteer/greater-sembara/addermarch/kilrath-caves.md>).

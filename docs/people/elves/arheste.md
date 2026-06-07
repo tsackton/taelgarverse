@@ -66,10 +66,10 @@ Over the cycles, as [Cha'mutte](<../extraplanar-powers/cha-mutte.md>)'s genocida
 But as this leya began, something changed. The bindings broke. [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>) is free, although still weak from long imprisonment, I believe. I do not know if I can survive another ka in my state, but I will do whatever I can, as long as it can be done, to ensure [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>)'s ultimate defeat. 
 
 
-![Arheste Portrait Healthy](../../assets/arheste-portrait-healthy.png)
+![Arheste Portrait Healthy](/taelgarverse/assets/arheste-portrait-healthy.png)
 *Arheste in an earlier time, before the [First Plague](<../../events/1000s/1059/first-plague.md>).*
 
-![Arheste Portrait Sick](../../assets/arheste-portrait-sick.png)
+![Arheste Portrait Sick](/taelgarverse/assets/arheste-portrait-sick.png)
 *Arheste in [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>).*
 
 

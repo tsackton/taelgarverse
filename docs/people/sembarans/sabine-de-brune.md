@@ -30,7 +30,7 @@ hide_toc: true
 
 
 
-![Sabine de Brune Valit](../../assets/sabine-de-brune-valit.webp){align="right"; width="320"}The aging castellan of [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), a vassal of the [Baron of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>). Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth. She is also the magistrate for the village of Valit.
+![Sabine de Brune Valit](/taelgarverse/assets/sabine-de-brune-valit.webp){align="right"; width="320"}The aging castellan of [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>), a vassal of the [Baron of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>). Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth. She is also the magistrate for the village of Valit.
 
 The de Brune family has long roots in the Enst river valley, and although [Eskbridge](<../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>) is their primary area of operations, there are several outposts along the Enst including a longstanding one in the Cleenseau region. Recently, the family under [Catherine de Brune](<catherine-de-brune.md>) has grown to include some more diverse mercantile interests in this region.
 

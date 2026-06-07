@@ -30,7 +30,7 @@ hide_toc: true
 
 
 
-![Armand Night Queen New](../../assets/armand-night-queen-new.webp){align="right"; width="400"}A warrior and disciple of the Night Queen. 
+![Armand Night Queen New](/taelgarverse/assets/armand-night-queen-new.webp){align="right"; width="400"}A warrior and disciple of the Night Queen. 
 
 
 

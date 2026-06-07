@@ -22,4 +22,4 @@ hide_toc: true
 </div>
 
 
-![Giselle](../../assets/giselle.webp){align="right"; width="320"}The secretary and land clerk in [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>).
+![Giselle](/taelgarverse/assets/giselle.webp){align="right"; width="320"}The secretary and land clerk in [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>).

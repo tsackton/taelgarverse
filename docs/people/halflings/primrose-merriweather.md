@@ -22,4 +22,4 @@ hide_toc: true
 </div>
 
 
-![Primrose Merriweather](../../assets/primrose-merriweather.webp){align="left"; width="200"}
+![Primrose Merriweather](/taelgarverse/assets/primrose-merriweather.webp){align="left"; width="200"}

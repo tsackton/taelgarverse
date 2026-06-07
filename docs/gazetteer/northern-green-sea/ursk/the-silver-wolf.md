@@ -14,7 +14,7 @@ title: The Silver Wolf
 </div>
 
 
-![Silver Wolf Inn](../../../assets/silver-wolf-inn.webp){align="right"; width="450"}The Silver Wolf is an upscale inn and restaurant in [Zvervinka](<zvervinka.md>), primarily catering to wealthy merchants in town for the large market. It is known for its extensive larder and skilled chef. 
+![Silver Wolf Inn](/taelgarverse/assets/silver-wolf-inn.webp){align="right"; width="450"}The Silver Wolf is an upscale inn and restaurant in [Zvervinka](<zvervinka.md>), primarily catering to wealthy merchants in town for the large market. It is known for its extensive larder and skilled chef. 
 
 
 

@@ -36,7 +36,7 @@ The Dunmar Fellowship scouts the underwater city of Omi, locates a portal, and f
 ## Narrative
 The session begins underwater, as the party begins to sink, the water growing darker and more surreal as the party descends below the surface, using their magical gills from [Kazuro](<../../../people/other-nonhumans/kazuro.md>)'s potion to breath (except [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), who has his cloak of the mantra ray). 
 
-![Sentient Ocean](../../../assets/sentient-ocean.webp)
+![Sentient Ocean](/taelgarverse/assets/sentient-ocean.webp)
 
 As the party passes into the protective cocoon of the [Sentient Ocean](<../../../people/extraplanar-powers/sentient-ocean.md>), a barrier keeping the merfolk city of [Omi](<../../../gazetteer/faraway-places/omi.md>), below, sealed off from the rest of the ocean, they are presented with a [series of visions](<../dreams-and-visions/visions-of-the-sentient-ocean.md>), telling something of the history of the [Sentient Ocean](<../../../people/extraplanar-powers/sentient-ocean.md>), and probing the history of [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>). As the ocean and the party trade [stories of their pasts](<../dreams-and-visions/visions-of-the-sentient-ocean.md>), the party slowly passes through the barrier and emerges above [Omi](<../../../gazetteer/faraway-places/omi.md>).
 

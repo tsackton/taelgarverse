@@ -53,7 +53,7 @@ Once the storm cleared, they debated their route, considering the rumored [frost
 
 Mid-afternoon the next day, on March 17th, the party spotted a group of dwarves emerging from a mine, under the watchful eye of two frost giants mounted on woolly mammoths. 
 
-![Frost Giant on Mammoth Session 91](../../../assets/frost-giant-on-mammoth-session-91.webp)
+![Frost Giant on Mammoth Session 91](/taelgarverse/assets/frost-giant-on-mammoth-session-91.webp)
 
 The party debated what to do, as [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)'s communion with nature suggested that while the frost giants were indigenous to this land, they were not wholly in harmony with it. Deciding to talk, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) sent his lynx messenger with a note requesting parlay. The giant -- curious but also on edge -- approached to speak as [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) snuck off under an invisibility spell to try to talk to the dwarves. 
 

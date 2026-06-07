@@ -13,13 +13,13 @@ During the course of the week, one thing [Delwath](<../../../people/pcs/dunmar-f
 
 *[Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)*: You look in on [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) several times over the course of the week. Once, you see him in what looks like a homely and comfortable hut, sitting and drinking tea with a lizardfolk man, speaking two different languages, neither of which you understand. It seems like the lizardfolk is teaching one of the languages to [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), and they both know the other language, but it is not one you have heard [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) speak much before. The scene is comfortable, and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) seems at peace. Another time, you see [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) walking through a village in a jungle, of many small huts, lush plant life, flowers, arriving at a lake filled with lily pads that float peacefully in the evening light, a huge beast, a reptile of sorts with a massively long neck and a larger body than any you've seen before grazing in the water peacefully. Based on the time different of the light, you think this must be very far to the east. 
 
-![Bedez Village](../../../assets/bedez-village.webp)
-![Bedez River](../../../assets/bedez-river.webp)
+![Bedez Village](/taelgarverse/assets/bedez-village.webp)
+![Bedez River](/taelgarverse/assets/bedez-river.webp)
 
 *[Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*: You look in on [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) several times as well. The first time you see him, he is in a small boat crowded with many people: several kenku, humans dressed in strange clothes, a human warrior, sailors, and an [Elves](<../../../creatures/species/elves.md>) but one who looks at home in the ocean, wearing armor with sea motifs. Again, judging by the light, he is very far to the east. The next time you see him, he is soaring in the air, flying on spectral bird wings, over an island of dry scrub and vibrant red rock pillars, dotted with hidden homes perched high on cliffs that no human could reach.
 
-![Wahacha Coast](../../../assets/wahacha-coast.webp)
-![Wahacha Village](../../../assets/wahacha-village.webp)
+![Wahacha Coast](/taelgarverse/assets/wahacha-coast.webp)
+![Wahacha Village](/taelgarverse/assets/wahacha-village.webp)
 
 #### Part 2: Visions of allies. 
 

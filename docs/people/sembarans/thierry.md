@@ -25,4 +25,4 @@ hide_toc: true
 </div>
 
 
-![Thierry](../../assets/thierry.webp){align="right"; width="320"}A local boatbuilder in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>), he served in the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>) in his younger days. 
+![Thierry](/taelgarverse/assets/thierry.webp){align="right"; width="320"}A local boatbuilder in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>), he served in the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>) in his younger days. 

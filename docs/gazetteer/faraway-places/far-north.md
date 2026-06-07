@@ -19,7 +19,7 @@ title: Far North
 Far north, beyond the northern lands of [Vostok](<../greater-sembara/vostok/vostok.md>) and [Ursk](<../northern-green-sea/ursk/ursk.md>) lies a mysterious land of long winters and bitter cold. Rarely visited, even rumors from this region rarely reach the populated lands of the south. The stories that do reach the south tell of frost-breathing dragons, obsidian statues as tall as the hills, and singing caves of ice that devour unwary travelers. More prosaic stories of wooly mammoths with heavy ivory tusks and short summers filled with rushing snowmelt and clouds of gnats as far as the eye can see have also come south. Who is to say which stories are true?
 ## Map
 
-![Far North Map](../../assets/far-north-map.png)
+![Far North Map](/taelgarverse/assets/far-north-map.png)
 
 ## Topography and Major Features
 Few have mapped this region, and little is known about the lands. A few features are well-attested:

@@ -28,4 +28,4 @@ hide_toc: true
 
 
 
-![Lizardfolk Izoko](../../assets/lizardfolk-izoko.webp){align="right"; width="320"}A young lizardfolk, sweet on [Gentza](<gentza.md>). He is a skilled fisherman but not so skilled at keeping secrets. 
+![Lizardfolk Izoko](/taelgarverse/assets/lizardfolk-izoko.webp){align="right"; width="320"}A young lizardfolk, sweet on [Gentza](<gentza.md>). He is a skilled fisherman but not so skilled at keeping secrets. 

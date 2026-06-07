@@ -19,6 +19,6 @@ title: Temple of the Sibyl (Tollen)
 
 The Temple of the Sibyl in [Tollen](<../tollen.md>) is a vast domed temple in [Godshome](<../wards/godshome.md>), its graceful, colorful dome one of the most prominent landmarks on the city’s skyline. Inside, light from high stained‑glass windows spills across tiled marble floors in shifting bands of color, an effect much remarked on by visitors and clergy alike.
 
-![Dome of the Sibyl](../../../../assets/dome-of-the-sibyl.webp)
+![Dome of the Sibyl](/taelgarverse/assets/dome-of-the-sibyl.webp)
 
-![Temple of Sibyl Interior](../../../../assets/temple-of-sibyl-interior.webp)
+![Temple of Sibyl Interior](/taelgarverse/assets/temple-of-sibyl-interior.webp)

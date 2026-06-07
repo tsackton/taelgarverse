@@ -5,7 +5,7 @@ title: Kenzo Spirit Journey in Bedez
 
 # Kenzo Spirit Journey in Bedez
 
-![Plane of Consciousness](../../../assets/plane-of-consciousness.webp)
+![Plane of Consciousness](/taelgarverse/assets/plane-of-consciousness.webp)
 
 As you step into the water, a voice, [Elazar](<../../../people/lizardfolk/elazar.md>)’s voice but also more than just his voice, begins to chant. In the beginning there was everything and nothing in this formless vastness in which thought had no meeting, came the Divine, who we call Bakar, embodied creation and destruction, life and death, form and void.
 

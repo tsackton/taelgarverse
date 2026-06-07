@@ -35,5 +35,5 @@ hide_toc: true
 
 A master of the Order of the Awakened Soul, an old man, bald, with striking blue eyes and surprising agility.
 
-![Pava](../../assets/pava.webp)
+![Pava](/taelgarverse/assets/pava.webp)
 

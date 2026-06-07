@@ -27,4 +27,4 @@ hide_toc: true
 </div>
 
 
-![Ayveen](../../../../assets/ayveen.webp)
+![Ayveen](/taelgarverse/assets/ayveen.webp)

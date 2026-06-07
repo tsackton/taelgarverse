@@ -32,5 +32,5 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Last known location (as of January 14th, 1720): [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-![Emilie Adderfell](../../assets/emilie-adderfell.webp){align="right"; width="400"}A fighter.
+![Emilie Adderfell](/taelgarverse/assets/emilie-adderfell.webp){align="right"; width="400"}A fighter.
 

@@ -23,14 +23,14 @@ An ancient elven city in the kingdom of [Orenlas](<orenlas.md>), claimed by many
 
 Erelion is a living city, growing in and among the ancient forest of [Orenlas](<orenlas.md>). Elaborate towers appear to grow from the surrounding trees and landscapes, their walls adorned with vines, leaves, and flowers. Bridges woven from living vines connect various parts of the city, allowing [Elves](<../../../creatures/species/elves.md>) to traverse the canopy with grace. At night, the paths of the city are lit by bioluminescent plants and animals, their soft, soothing glow casting a dreamlike aura over the city.
 
-![Erelion 4 Overview C](../../../assets/erelion-4-overview-c.webp)
+![Erelion 4 Overview C](/taelgarverse/assets/erelion-4-overview-c.webp)
 *The city and the forest are intertwined around each other.*
 
 Erelion is not organized around any plan or into distinct districts; it has an organic and magical feeling, where path part to reveal hidden gardens and secret pools. However, there are a few primary features and places in the city.
 ## The Gates of Erelion
 All vistors to Erelion, no matter the direction they approach from, find themselves at the gates of Erelion. Those who are welcome find themselves expected; those who are not, find the city closed to them. 
 
-![Erelion 2 Gate](../../../assets/erelion-2-gate.webp)
+![Erelion 2 Gate](/taelgarverse/assets/erelion-2-gate.webp)
 *The gates of Erelion greet all visitors to the city.*
 
 ## The Elder Tree
@@ -38,7 +38,7 @@ A vast tree, standing at least 600 feet heigh, and measuring over 100 feet in di
 
 The upper reaches of the Elder Tree are where the young elves, still in their dreaming spend the [mela](<../../../background/elven-cycle-of-generations.md>) of their birth. 
 
-![Erelion Twilight Dreams 2](../../../assets/erelion-twilight-dreams-2.webp)
+![Erelion Twilight Dreams 2](/taelgarverse/assets/erelion-twilight-dreams-2.webp)
 *The space for prayer and reflection in the great elder tree at the center of Erelion.*
 
 ## Fey Gardens

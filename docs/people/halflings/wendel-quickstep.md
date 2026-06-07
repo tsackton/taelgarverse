@@ -55,4 +55,4 @@ Wendel knows several regulars of [The Windward Sail](<../../gazetteer/greater-se
 
 
 
-![Wendel Quickstep](../../assets/wendel-quickstep.webp)
+![Wendel Quickstep](/taelgarverse/assets/wendel-quickstep.webp)

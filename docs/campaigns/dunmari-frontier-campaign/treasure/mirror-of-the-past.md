@@ -17,7 +17,7 @@ aliases: [Eudomes' Mirror]
 
 
 
-![Mirror of the Past](../../../assets/mirror-of-the-past.webp){align="right"; width="400"}A large ornate wall mirror, originally mounted in [Eudomes](<../../../people/historical-figures/eudomes.md>)' bedroom in [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>). The mirror is about 4 feet tall and 1 foot wide, and mounted in a heavy gold filigree frame. 
+![Mirror of the Past](/taelgarverse/assets/mirror-of-the-past.webp){align="right"; width="400"}A large ornate wall mirror, originally mounted in [Eudomes](<../../../people/historical-figures/eudomes.md>)' bedroom in [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>). The mirror is about 4 feet tall and 1 foot wide, and mounted in a heavy gold filigree frame. 
 
 When an object is shown to the mirror and a question is asked, the mirror shows scenes of the item, potentially reflecting the question asked, depending on the insight and willpower of the question asker.
 

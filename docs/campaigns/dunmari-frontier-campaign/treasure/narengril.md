@@ -22,7 +22,7 @@ title: Narëngril
 </div>
 
 
-![Narengril](../../../assets/narengril.webp){align="right"; width="200"}An elven sword, finely made and carved with Elvish script warding against fiends. 
+![Narengril](/taelgarverse/assets/narengril.webp){align="right"; width="200"}An elven sword, finely made and carved with Elvish script warding against fiends. 
 
 
 Found by the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) in [Grimbaskal's Hoard](<../hoards/grimbaskal-s-hoard.md>), and now used by [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)

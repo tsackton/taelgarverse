@@ -26,4 +26,4 @@ hide_toc: true
 </div>
 
 
-![Lionel Mortagne](../../assets/lionel-mortagne.webp){align="right"; width="320"}The captain of [Lord Murtha's](<erick-murtha.md>) household guard.
+![Lionel Mortagne](/taelgarverse/assets/lionel-mortagne.webp){align="right"; width="320"}The captain of [Lord Murtha's](<erick-murtha.md>) household guard.

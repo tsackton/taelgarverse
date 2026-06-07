@@ -25,4 +25,4 @@ hide_toc: true
 </div>
 
 
-![Govir](../../assets/govir.webp){align="right"; width="400"}
+![Govir](/taelgarverse/assets/govir.webp){align="right"; width="400"}

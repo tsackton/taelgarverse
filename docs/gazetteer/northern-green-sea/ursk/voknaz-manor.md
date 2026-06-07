@@ -18,4 +18,4 @@ The Voknaz Manor serves as the headquarters of the [Rodnya Voknaz](<../../../gro
 
 The inner keep sits on a small artificial lake, surrounded by a permanent wall of fire. The entire complex is surrounded by a wall of stone; a number of support buildings and other structures are located on the shore of the lake, and are used to entertain visitors, among other things. 
 
-![Voknaz Manor 1](../../../assets/voknaz-manor-1.webp)
+![Voknaz Manor 1](/taelgarverse/assets/voknaz-manor-1.webp)

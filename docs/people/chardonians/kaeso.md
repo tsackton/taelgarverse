@@ -41,7 +41,7 @@ hide_toc: true
 
 
 
-![Kaeso](../../assets/kaeso.webp){align="right"; width="400"}
+![Kaeso](/taelgarverse/assets/kaeso.webp){align="right"; width="400"}
 [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s mentor and friend. A Chardonian, but widely traveled. Former student of [Roscelia](<roscelia.md>) and member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), but expelled for keeping secrets, specifically about Dunmari magic. 
 
 Secretly a member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>). 

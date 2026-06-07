@@ -38,7 +38,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Imprisoned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 15th, 1748 in the [Heartwood Grove](<../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>), [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>)  
 
 
-![Agata V2](../../assets/agata-v2.webp){align="right"; width="300"}Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), near [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). 
+![Agata V2](/taelgarverse/assets/agata-v2.webp){align="right"; width="300"}Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), near [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). 
 ## Overview
 
 Agata Dustmother, known as the Old Woman of the Dusts, is an ancient fey [hag](<../../primary-sources/story-about-hags.md>) renowned for her plotting and deal-making skills, who always seems to emerge victorious in her bargains. She has dwelt at the edge of the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), for as long as anyone can remember, luring the desperate and unwary into bargains. She is fascinated by strange and especially gruesome magic, and is a collector of magic items, from the common to the extraordinary. 
@@ -46,7 +46,7 @@ Agata Dustmother, known as the Old Woman of the Dusts, is an ancient fey [hag](<
 In DR 1748, she was imprisoned in the [Heartwood Grove](<../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>) in the [Feywild](<../../cosmology/feywild.md>) realm of [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>) by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 
 ## Description
 
-![Agata V1](../../assets/agata-v1.webp){align="left"; width="300"}
+![Agata V1](/taelgarverse/assets/agata-v1.webp){align="left"; width="300"}
 Agata takes the appearance of a withered old woman, with dry, dusty skin, wearing white robes. Her lair is magical and seemingly un-scryable hut hidden on the edge of the desert, surrounded by brambles and rocks, and only approachable if one follows the correct path. 
 ## Events
 

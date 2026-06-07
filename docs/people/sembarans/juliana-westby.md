@@ -21,7 +21,7 @@ hide_toc: true
 </div>
 
 
-![Juliana Westby](../../assets/juliana-westby.webp){align="left"; width="200"}
+![Juliana Westby](/taelgarverse/assets/juliana-westby.webp){align="left"; width="200"}
 
 
 

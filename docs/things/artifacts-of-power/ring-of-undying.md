@@ -18,7 +18,7 @@ title: Ring of Undying
 </div>
 
 
-![Ring of Undying](../../assets/ring-of-undying.webp){align="right"; width="400"}A ring, worn by [Grash](<../../people/other-nonhumans/grash.md>), that supposedly lets one cheat death forever, and control death around you. Presumably the source of [Grash](<../../people/other-nonhumans/grash.md>)'s ability to resurrect dead [Orcs](<../../creatures/species/orcs.md>) into undead. 
+![Ring of Undying](/taelgarverse/assets/ring-of-undying.webp){align="right"; width="400"}A ring, worn by [Grash](<../../people/other-nonhumans/grash.md>), that supposedly lets one cheat death forever, and control death around you. Presumably the source of [Grash](<../../people/other-nonhumans/grash.md>)'s ability to resurrect dead [Orcs](<../../creatures/species/orcs.md>) into undead. 
 
 The ring was rumored to have been created by an ancient elven wizard from the early days of the world, before humans walked Taelgar. It was made by binding the very substance of the [Land of the Dead](<../../cosmology/land-of-the-dead.md>) into a ring, that gave one power over life and death itself. 
 

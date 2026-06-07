@@ -27,6 +27,6 @@ hide_toc: true
 
 
 
-![Remy Darrow](../../assets/remy-darrow.webp){align="right"; width="320"}Grandpa Remy is well-liked for his off-color jokes and his fondness for apple brandy. He was saved from death by [Izgil's](<../pcs/cleenseau/izgil-moonseeker.md>) magic and has become one of the biggest boosters of the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>). 
+![Remy Darrow](/taelgarverse/assets/remy-darrow.webp){align="right"; width="320"}Grandpa Remy is well-liked for his off-color jokes and his fondness for apple brandy. He was saved from death by [Izgil's](<../pcs/cleenseau/izgil-moonseeker.md>) magic and has become one of the biggest boosters of the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>). 
 
 He is the patriarch of the Darrow family, who are well known for charcoal making. His granddaughter [Nicole Darrow](<nicole-darrow.md>) died in the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>). His the father of [Hugh Darrow](<hugh-darrow.md>).

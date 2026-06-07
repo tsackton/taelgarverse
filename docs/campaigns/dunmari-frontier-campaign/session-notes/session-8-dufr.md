@@ -40,7 +40,7 @@ The session begins on the road, at the edge of the mountains, with the party con
 
 [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s map of the [Dwarven Outpost (Raven's Hold)](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>):
 
-![Raven Hold Dwarves](../../../assets/raven-hold-dwarves.png)
+![Raven Hold Dwarves](/taelgarverse/assets/raven-hold-dwarves.png)
 
 The area here is rough hilly terrain, with various loose erratic boulders and stones. Just before getting to the mountain stream flowing into the plains, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) notices a volcanic boulder that seems very out of place, as there don’t seem to be active volcanoes here. Searching, he finds a faint impression of Dwarven runes, indicating the number 2300, and also realizes the boulder was probably not naturally deposited here. With some searching, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) (assisted by [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)) finds another out of place stone, this time marked with the number 2100. Continuing to search up the river valley, they find stones every few hundred feet, counting down what seems to be a distance. When the numbers get down to about 500, the fast-flowing stream turns into a high sided mountain gorge and heads into the mountain. Instead of a number, Dwarven runes spelling “enter” are carved here.
 

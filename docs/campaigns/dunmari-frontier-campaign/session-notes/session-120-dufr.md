@@ -40,7 +40,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 Our session begins in [Emberwine](<../../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>) as the party follows [Auntie Mulberry](<../../../people/fey/auntie-mulberry.md>)'s enchanting flute melody through [Emberwine](<../../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>). [Lady Eventide](<../../../people/fey/lady-eventide.md>), speaking through [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)'s possessed form, reminisces about [Lord Soven](<../../../people/extraplanar-powers/archfey/lord-soven.md>) as they approach the massive pavilion bathed in golden light, and slip into the current of the dance after being greeted by a steward offering refreshments. 
 
-![Emberwine Party 1](../../../assets/emberwine-party-1.webp)
+![Emberwine Party 1](/taelgarverse/assets/emberwine-party-1.webp)
 
 Drifting through the crowd, the party meets [Lord Soven](<../../../people/extraplanar-powers/archfey/lord-soven.md>) himself, a seven-foot-tall figure with antlered head, who invites [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) to dance while they speak. When Delwath mentions Cloudspinner's imprisonment, Lord Soven falters noticeably, shocked: "None of us ever thought the [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>) could return," he admits.
 

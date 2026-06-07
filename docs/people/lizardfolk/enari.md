@@ -41,6 +41,6 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Last seen by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on November 13th, 1748 in [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), [Orekatu](<../../gazetteer/faraway-places/orekatu.md>)  
 
 
-![Enari Portrait](../../assets/enari-portrait.webp){align="right"; width="400"}A well-muscled lizardfolk hunter and wanderer, who earned a reputation and honor traveling among the villages of the kingdom of [Orekatu](<../../gazetteer/faraway-places/orekatu.md>). 
+![Enari Portrait](/taelgarverse/assets/enari-portrait.webp){align="right"; width="400"}A well-muscled lizardfolk hunter and wanderer, who earned a reputation and honor traveling among the villages of the kingdom of [Orekatu](<../../gazetteer/faraway-places/orekatu.md>). 
 
 Guided [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) and [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>) to the [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), the [Footprint of the Gods](<../../gazetteer/faraway-places/azta-lekua.md>), and returned to [Bedez](<../../gazetteer/faraway-places/bedez.md>) after they succeeded in their quest, to report to the elders of the kingdom. 

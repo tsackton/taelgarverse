@@ -16,7 +16,7 @@ title: Abyss
 
 Although the demons of the Abyss loom large in legends, few scholars dare study the Abyss in depth, for even the study of its nature is said to taint the mind. Most who claim to have seen the Abyss are presumed to be liars, madmen, or worse, and even the most credible accounts contradict each other. In the most comprehensive collection of tales of the Abyss, [The Chronicle of Ruin](<../../things/books/the-chronicle-of-ruin.md>), it is described as a place of endless decay, where fortresses fall to ruin overnight, kingdoms dissolve into filth, and rivers of blood carve paths through landscapes that shift and crumble with every breath. And yet the Chronicle also describes endless layers spiraling downward into the domains of the demon lords, who shape their dominions into nightmarish echos of themselves, endless and eternal. 
 
-![Abyss Abstract Painting](../../assets/abyss-abstract-painting.webp)
+![Abyss Abstract Painting](/taelgarverse/assets/abyss-abstract-painting.webp)
 *A painting of the Abyss as imagined by Aveline of Isingue*
 ## Origins of the Abyss
 

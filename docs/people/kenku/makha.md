@@ -33,7 +33,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 12th, 1748 in [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>), the [Vermillion Isles](<../../gazetteer/eastern-green-sea/vermillion-isles.md>), the ~Eastern Islands~  
 
 
-![Makha](../../assets/makha.webp){align="right"; width="320"}The port master and unofficial town spokesperson for the kenku settlement of [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>).  
+![Makha](/taelgarverse/assets/makha.webp){align="right"; width="320"}The port master and unofficial town spokesperson for the kenku settlement of [Wahacha](<../../gazetteer/eastern-green-sea/wahacha.md>).  
 ## Relationships:
 Makha knows the people of Wahacha well, including:
 

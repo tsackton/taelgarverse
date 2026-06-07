@@ -38,19 +38,19 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 ## Narrative
 We begin as the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) makes a cautious approach towards the formidable and frost-laden steading of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), the court of [Brimskarda](<../../../people/giants/brimskarda.md>), king of the frost giant kingdom of [Kaldhalla](<../../../gazetteer/northern-green-sea/kaldhalla.md>). The party's primary goal was to both introduce themselves and pry for crucial intelligence regarding the enigmatic [Vargald](<../../../groups/cultures/vargaldi.md>), a people who live in the frozen wastes of the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>) river valley. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) steers the skyship through the massive ice gates of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), where they are greeted by an animated statue bidding them to introduce themselves. Arriving inside the steading of [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>), carved in the bowl of a massive glacier, the party moors their ship at a respectful distance and use the rainbow bridge to make their descent. 
 
-![Steading Entrance](../../../assets/steading-entrance.webp)
+![Steading Entrance](/taelgarverse/assets/steading-entrance.webp)
 
 The party enters the steading's main hall, a cavernous space carved from the heart of a glacier and bathed in an eerily dim blue light, with tapestries on the walls depicting the heroic deeds of [Brimskarda](<../../../people/giants/brimskarda.md>) and his giant warriors. King [Brimskarda](<../../../people/giants/brimskarda.md>) receives them with a guarded attitude, but with an openness to host these diminutive guests with numerous heroic deeds to their names. The party, seizing the opportunity, lavished [Brimskarda](<../../../people/giants/brimskarda.md>) with gifts — an enormous meat pastry sculpted in the likeness of a mythical beast and a resplendent horn. Their offerings and recounted tales of dragon slayings and battles against the forces of darkness aimed to cement their place in Brimskarda's regard. The Frost Giant King reciprocated with stories of his own conquests and imparted wisdom on combating the lethal iceworms.
 
 The feast that ensued was a spectacle of giant customs, the hall filled with Brimskarda's kin, all partaking in the hearty offerings with a blend of curiosity and intrigue towards their guests. Dewalth's subtle inquiries unveiled the layers of Frost Giant history, especially the history of [Vimfrost's War](<../../../events/1500s/vimfrost-s-war.md>), the great king [Bjarnfrost](<../../../people/giants/bjarnfrost.md>), and the eventual transition of power to Brimskarda. 
 
-![Brimskarda Palace Interior](../../../assets/brimskarda-palace-interior.webp)
+![Brimskarda Palace Interior](/taelgarverse/assets/brimskarda-palace-interior.webp)
 
 The next morning, the party met [Algerd](<../../../people/giants/algerd.md>), a socially-awkward historian without much status under Brimskarda's rule, which values might over knowledge. The party persuaded Algerd to travel east with them, in part with the hope that he could find his sister, who was driven out of the steading years ago. 
 
 Departing [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) with [Algerd](<../../../people/giants/algerd.md>) in tow, the party journeyed east for two uneventful days. The afternoon of the third day, they spotted the rumblings of an ice worm, moving through the forest and bearing down on two elk. Suspecting the elk may be [Vargaldi](<../../../groups/cultures/vargaldi.md>), the party entered into battle. The ice worm proved to be a formidable foe, swallowed and nearly digesting [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), but was defeated. 
 
-![Ice Worm](../../../assets/ice-worm.webp)
+![Ice Worm](/taelgarverse/assets/ice-worm.webp)
 
 The confrontation not only tested the party's skill in battle, but also led to an unexpected alliance with the [Vargaldi](<../../../groups/cultures/vargaldi.md>), shape-shifting beings from a hidden village. The party's victory over the Ice Worm, marked by strategic combat and skillful extraction of the creature's valuable parts, forged a bond with the shape-shifters, who guiding the party to their concealed abode where a medley of villagers awaited, heralding the beginning of a new chapter in their adventure.
 

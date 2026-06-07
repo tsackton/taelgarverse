@@ -20,7 +20,7 @@ Dreamhaven is an ancient forest, full of hidden paths, secret groves, and unexpe
 
 Dreamhaven is ruled by Lady Seraphine, Warden of the Wood and Guardian of the Living Dream. She has long maintained alliances with the elves of Taelgar, and draws to her court those who see clearly the hidden messages of the forest. 
 
-![Lady Seraphine Portrait](../../../assets/lady-seraphine-portrait.webp)
+![Lady Seraphine Portrait](/taelgarverse/assets/lady-seraphine-portrait.webp)
 
 The people of Dreamhaven live in small enclaves, usually hidden out of sight. The court of the Lady is no grand place, but rather a clearing, an outdoor feast, that moves with her, as the trees of her forest step aside to allow her to pass. 
 
@@ -32,13 +32,13 @@ Dreamhaven is roughly congruent with the  ancient elven kingdom of [Ainumarya](<
 
 ## Visual Inspiration
 
-![Dreamhaven Scene 3](../../../assets/dreamhaven-scene-3.webp)
-![Dreamhaven Scene 1](../../../assets/dreamhaven-scene-1.webp)
+![Dreamhaven Scene 3](/taelgarverse/assets/dreamhaven-scene-3.webp)
+![Dreamhaven Scene 1](/taelgarverse/assets/dreamhaven-scene-1.webp)
 
-![Dreamhaven Scene 2](../../../assets/dreamhaven-scene-2.webp)
+![Dreamhaven Scene 2](/taelgarverse/assets/dreamhaven-scene-2.webp)
 
-![Dreamhaven Scene 4](../../../assets/dreamhaven-scene-4.webp)
+![Dreamhaven Scene 4](/taelgarverse/assets/dreamhaven-scene-4.webp)
 
-![Dreamhaven Scene 5](../../../assets/dreamhaven-scene-5.webp)
+![Dreamhaven Scene 5](/taelgarverse/assets/dreamhaven-scene-5.webp)
 
-![Dreamhaven Scene 6](../../../assets/dreamhaven-scene-6.webp)
+![Dreamhaven Scene 6](/taelgarverse/assets/dreamhaven-scene-6.webp)

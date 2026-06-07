@@ -25,6 +25,6 @@ title: Raven's Hold
 An old Dunmari fort in the mountains. Captured by hobgoblins and used as a base of operations for the [Blackened Claw](<../../../groups/hobgoblin-clans/blackened-claw.md>) hobgoblins during the [Northern War](<../../../events/1600s/northern-war.md>). 
 
 Wellby's map of Raven's Hold:
-![Wellby Ravens Hold Map](../../../assets/wellby-ravens-hold-map.png)
+![Wellby Ravens Hold Map](/taelgarverse/assets/wellby-ravens-hold-map.png)
 
 

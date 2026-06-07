@@ -24,6 +24,6 @@ hide_toc: true
 </div>
 
 
-![Simon of Cranford](../../assets/simon-of-cranford.webp){align="right"; width="200"} The toll keeper for the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) in Cranford and an important figure in town.
+![Simon of Cranford](/taelgarverse/assets/simon-of-cranford.webp){align="right"; width="200"} The toll keeper for the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) in Cranford and an important figure in town.
 
 

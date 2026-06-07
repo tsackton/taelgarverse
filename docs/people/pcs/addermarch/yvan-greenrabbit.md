@@ -30,5 +30,5 @@ hide_toc: true
 </div>
 
 
-![Yvan](../../../assets/yvan.webp){align="right"; width="400"}Yvan Greenrabbit is a [halfling](<../../../creatures/species/halflings.md>), originally from [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), who left his family caravan to travel, eventually finding his way to [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>).
+![Yvan](/taelgarverse/assets/yvan.webp){align="right"; width="400"}Yvan Greenrabbit is a [halfling](<../../../creatures/species/halflings.md>), originally from [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), who left his family caravan to travel, eventually finding his way to [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>).
 

@@ -23,4 +23,4 @@ hide_toc: true
 </div>
 
 
-![Blanche of Beury](../../assets/blanche-of-beury.webp){align="right"; width="320"}[Lionel's](<lionel-mortagne.md>) right hand, and the magistrate of [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). 
+![Blanche of Beury](/taelgarverse/assets/blanche-of-beury.webp){align="right"; width="320"}[Lionel's](<lionel-mortagne.md>) right hand, and the magistrate of [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). 

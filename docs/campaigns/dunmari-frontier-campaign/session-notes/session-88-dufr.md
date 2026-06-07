@@ -40,7 +40,7 @@ Arriving a few hours after sunrise on January 20, 1748, the bombardment of [Uzgu
 
 The party quickly leaps into action. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) creates a massive boulder, ten feet on a side, as [Vindristjarna](<../../../things/ships/vindristjarna.md>) rises to 300 feet above the battlefield. Even as shades and specters rush to intercept the ship, the boulder (decorated to look like a ladder) launches itself from the deck. Never before has a boulder fallen so precisely from such a great height. With a mighty crack, the flying boulder-ladder hits the center of the long arm of the trebuchet directly, splintering into hundreds of pieces and utterly destroying the siege machine and itself in the process. Later, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) will build a memorial to the short-lived hero: "Lord Boulder, hero of the [Battle for Uzgukhar](<../../../events/1700s/1749/battle-for-uzgukhar.md>) smasher of the trebuchet, liberator of the missile stones, star among rocks”. 
 
-![Battle for Uzgukhar](../../../assets/battle-for-uzgukhar.webp)
+![Battle for Uzgukhar](/taelgarverse/assets/battle-for-uzgukhar.webp)
 
 With the trebuchet destroyed, the party fights off a group of shades and specters, and turns to find [Grash](<../../../people/other-nonhumans/grash.md>). He is standing, watching the battle, seemingly unconcerned with the arrival of a flying skyship, and is ready, waiting, for the party.
 

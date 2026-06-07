@@ -23,4 +23,4 @@ hide_toc: true
 </div>
 
 
-![Bertram Northwoods 2](../../assets/bertram-northwoods-2.webp){align="right"; width="320"}The groom and stablemaster for [Lorin Valbert](<lorin-valbert.md>). A cousin of [Phillipa Northwood](<phillipa-northwood.md>).
+![Bertram Northwoods 2](/taelgarverse/assets/bertram-northwoods-2.webp){align="right"; width="320"}The groom and stablemaster for [Lorin Valbert](<lorin-valbert.md>). A cousin of [Phillipa Northwood](<phillipa-northwood.md>).

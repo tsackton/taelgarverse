@@ -25,4 +25,4 @@ hide_toc: true
 </div>
 
 
-![Kazak Ferrystone](../../assets/kazak-ferrystone.webp){align="left"; width="200"}
+![Kazak Ferrystone](/taelgarverse/assets/kazak-ferrystone.webp){align="left"; width="200"}

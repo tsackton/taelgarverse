@@ -35,5 +35,5 @@ A barbarian. A huge Chardonian man, muscled and over 6 feet tall. Silent. Does n
 
 According to [Marcella](<marcella.md>), he was once a sweet sailor with a beautiful singing voice, but was turned somehow by [Kadmos](<kadmos.md>) and now is his devoted servant. 
 
-![Hektor](../../assets/hektor.webp){align="right"; width="320"}
+![Hektor](/taelgarverse/assets/hektor.webp){align="right"; width="320"}
 

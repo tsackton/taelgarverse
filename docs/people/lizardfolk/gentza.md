@@ -26,7 +26,7 @@ hide_toc: true
 </div>
 
 
-![Lizardfolk Gentza](../../assets/lizardfolk-gentza.webp){align="right"; width="320"}An apprentice lizardfolk herbalist, said to be skilled at experimenting with remedies. She is a regular at the [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) market where she sells herbal cures to humans, and is always interested in new maladies or remedies for them. She often sells to [Mermin Stonebridge](<../halflings/mermin-stonebridge.md>), a budding halfling merchant.
+![Lizardfolk Gentza](/taelgarverse/assets/lizardfolk-gentza.webp){align="right"; width="320"}An apprentice lizardfolk herbalist, said to be skilled at experimenting with remedies. She is a regular at the [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) market where she sells herbal cures to humans, and is always interested in new maladies or remedies for them. She often sells to [Mermin Stonebridge](<../halflings/mermin-stonebridge.md>), a budding halfling merchant.
 
 
 

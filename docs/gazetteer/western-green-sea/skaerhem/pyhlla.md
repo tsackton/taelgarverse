@@ -48,4 +48,4 @@ All pilgrims to [Vetta](<vetta.md>) must accept the blessing of [Kaikkea](<../..
 
 
 
-![Pyhlla Village Church](../../../assets/pyhlla-village-church.webp)
+![Pyhlla Village Church](/taelgarverse/assets/pyhlla-village-church.webp)

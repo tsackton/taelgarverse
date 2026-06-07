@@ -19,7 +19,7 @@ title: University of Chardon
 </div>
 
 
-![University of Chardon](../../../../assets/university-of-chardon.webp)
+![University of Chardon](/taelgarverse/assets/university-of-chardon.webp)
 
 The University of Chardon is a famous center of learning and teaching, renowned as one of the great centers of magical knowledge in the world. It occupies much of [Precinct IV](<precinct-iv.md>) in Chardon, and is among the oldest and most powerful institutions in the city. The university is closely affiliated with the [Great Library](<great-library.md>), as well as the [Hetaeri Magica](<../../../../groups/chardonian-organizations/hetaeri-magica.md>) and the [Society of the Open Scroll](<../../../../groups/chardonian-organizations/society-of-the-open-scroll.md>), but has its own independent rules and governance. 
 

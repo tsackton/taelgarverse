@@ -22,7 +22,7 @@ title: Ring of Displacement
 </div>
 
 
-![Delwath Ring of Displacement](../../../assets/delwath-ring-of-displacement.webp){align="right"; width="320"}An unadorned ring of made of three entwined golden braids, that radiates illusion magic. It was possessed by [Agata](<../../../people/fey/agata.md>) for many years, and carried on her person. Taken by [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) after [Agata](<../../../people/fey/agata.md>) was slain by [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) in 1748. 
+![Delwath Ring of Displacement](/taelgarverse/assets/delwath-ring-of-displacement.webp){align="right"; width="320"}An unadorned ring of made of three entwined golden braids, that radiates illusion magic. It was possessed by [Agata](<../../../people/fey/agata.md>) for many years, and carried on her person. Taken by [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) after [Agata](<../../../people/fey/agata.md>) was slain by [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) in 1748. 
 
 Seen in [Mirror of the Past](<mirror-of-the-past.md>): 
 

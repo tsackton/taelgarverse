@@ -14,7 +14,7 @@ title: Darba Highlands
 </div>
 
 
-![Darba Highlands Dry Gap](../../../assets/darba-highlands-dry-gap.webp){align="left"; width="450"}The Darba Highlands are warm, monsoonal rocky highlands of isolated forests in sheltered valleys, and broad grasslands and savannas that flood during the monsoon rains. The Darba Highlands are bordered by the [Yuvanti Mountains](<../yuvanti-mountains.md>) to the southeast, the [Chataan Mountains](<../../greater-chardon/chataan-mountains.md>) to the north, the [Nevos Sea](<../../nevos-and-apporia/nevos-sea.md>) to the west, and the [Hara Basin](<../hara-basin/hara-basin.md>) to the northeast, stretching 200 miles or more inland, and covering the 170 or so miles between the bordering mountain ranges. 
+![Darba Highlands Dry Gap](/taelgarverse/assets/darba-highlands-dry-gap.webp){align="left"; width="450"}The Darba Highlands are warm, monsoonal rocky highlands of isolated forests in sheltered valleys, and broad grasslands and savannas that flood during the monsoon rains. The Darba Highlands are bordered by the [Yuvanti Mountains](<../yuvanti-mountains.md>) to the southeast, the [Chataan Mountains](<../../greater-chardon/chataan-mountains.md>) to the north, the [Nevos Sea](<../../nevos-and-apporia/nevos-sea.md>) to the west, and the [Hara Basin](<../hara-basin/hara-basin.md>) to the northeast, stretching 200 miles or more inland, and covering the 170 or so miles between the bordering mountain ranges. 
 
 
 
@@ -26,7 +26,7 @@ The largest and most significant river is the [Rudhan](<../rivers/rudhan.md>), w
 
 The Darba Highlands have a strong hydrological gradient, with the area around the [~Yuvanti Gap~](<yuvanti-gap.md>) arid and rocky, and the terrain getting increasingly wet and lush to the west and south, heading towards the [Nevos Sea](<../../nevos-and-apporia/nevos-sea.md>). The monsoons have a large impact, as the rains tend to lessen as they pass over the highlands.
 
-![Darba Highlands River Monsoon](../../../assets/darba-highlands-river-monsoon.webp)
+![Darba Highlands River Monsoon](/taelgarverse/assets/darba-highlands-river-monsoon.webp)
 *The [Rudhan](<../rivers/rudhan.md>) after the monsoon.*
 
 In the northwest, the Darba Highlands are a region of coastal mountains, where the constant sea breezes and the impact of the [Chataan Mountains](<../../greater-chardon/chataan-mountains.md>) results in a more even rainfall pattern across the year. 

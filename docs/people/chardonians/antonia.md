@@ -42,7 +42,7 @@ hide_toc: true
 
 
 
-![Antonia Portrait](../../assets/antonia-portrait.webp){align="right"; width="320"}A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
+![Antonia Portrait](/taelgarverse/assets/antonia-portrait.webp){align="right"; width="320"}A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 
 
 Seemed to have mixed feelings about [Kadmos](<kadmos.md>) actions to charm the party in [Session 44 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-44-dufr.md>), and was not involved in the battle in [Session 45 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-45-dufr.md>). 

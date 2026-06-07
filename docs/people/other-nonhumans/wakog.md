@@ -23,6 +23,6 @@ hide_toc: true
 </div>
 
 
-![Wakog](../../assets/wakog.webp){align="right"; width="320"}An ogre of unclear origin. 
+![Wakog](/taelgarverse/assets/wakog.webp){align="right"; width="320"}An ogre of unclear origin. 
 
 

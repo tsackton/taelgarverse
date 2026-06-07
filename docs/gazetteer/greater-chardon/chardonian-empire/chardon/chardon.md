@@ -22,7 +22,7 @@ Founded as a small outpost of the [Drankorian Empire](<../../../../history/histo
 
 ## Description
 
-![Chardon Towers 1](../../../../assets/chardon-towers-1.webp){align="right"; width="400"}As the coastal fog lifts, the first thing you see is the great black bulk of [Mount Nera](<mount-nera.md>) looming over the city to the north, the occasional glint of light highlighting the obsidian flows that dot the distant slopes of this long extinct volcano. A spur of [Mount Nera](<mount-nera.md>) cuts south towards the [Chasa River](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), which spreads into a wide estuary and fertile floodplain towards the coast to the west. 
+![Chardon Towers 1](/taelgarverse/assets/chardon-towers-1.webp){align="right"; width="400"}As the coastal fog lifts, the first thing you see is the great black bulk of [Mount Nera](<mount-nera.md>) looming over the city to the north, the occasional glint of light highlighting the obsidian flows that dot the distant slopes of this long extinct volcano. A spur of [Mount Nera](<mount-nera.md>) cuts south towards the [Chasa River](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), which spreads into a wide estuary and fertile floodplain towards the coast to the west. 
 
 The bustle of the busy port on the [South Bank](<south-bank.md>) dominates the soundscape of the city - the cries of sailors, the crack and snap of rigging and sails being set, the creak of ships sailing on the morning tide. Downriver of the mercantile wharves rises the Arsenal’s inner mole, sealing off a separate naval basin whose slipways are hidden from prying eyes.
 

@@ -33,6 +33,6 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
 
 
-![Aygul Portrait](../../assets/aygul-portrait.png){align="right"; width="320"}An orc brawler and fighter, who sees herself as a defender of her people and especially her twin sister, [Nuzkar](<nuzkar.md>). A loner, with no other family.
+![Aygul Portrait](/taelgarverse/assets/aygul-portrait.png){align="right"; width="320"}An orc brawler and fighter, who sees herself as a defender of her people and especially her twin sister, [Nuzkar](<nuzkar.md>). A loner, with no other family.
 
 

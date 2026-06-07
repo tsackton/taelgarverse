@@ -21,4 +21,4 @@ House of [Avaras](<../../../people/dunmari/avaras.md>) and [Pava](<../../../peop
 
 A small compound, sandstone building, courtyard, well and oasis with a garden, goats and chickens nearby, penned in with hay and seed.
 
-![Pava Avaras House](../../../assets/pava-avaras-house.webp)
+![Pava Avaras House](/taelgarverse/assets/pava-avaras-house.webp)

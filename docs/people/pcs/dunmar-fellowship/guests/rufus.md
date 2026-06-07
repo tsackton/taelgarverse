@@ -27,5 +27,5 @@ hide_toc: true
 </div>
 
 
-![Rufus](../../../../assets/rufus.webp){align="right"; width="320"}Kenku monster hunter and unofficial protector of [Wahacha](<../../../../gazetteer/eastern-green-sea/wahacha.md>). Excellent with bow and arrow. Helped kill the aboleth. Now returned to [Wahacha](<../../../../gazetteer/eastern-green-sea/wahacha.md>), continuing to guard against monsters of the deeps. Hates crabs. 
+![Rufus](/taelgarverse/assets/rufus.webp){align="right"; width="320"}Kenku monster hunter and unofficial protector of [Wahacha](<../../../../gazetteer/eastern-green-sea/wahacha.md>). Excellent with bow and arrow. Helped kill the aboleth. Now returned to [Wahacha](<../../../../gazetteer/eastern-green-sea/wahacha.md>), continuing to guard against monsters of the deeps. Hates crabs. 
 

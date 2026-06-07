@@ -32,7 +32,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
-![Delios the Sage](../../assets/delios-the-sage.webp){align="right"; width="400"}An agile elder of nearly 80, Delios is a wise human of Tollender ancestry, famously affiliated with the [Ancient and Honorable Guild of Philosophers](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>)
+![Delios the Sage](/taelgarverse/assets/delios-the-sage.webp){align="right"; width="400"}An agile elder of nearly 80, Delios is a wise human of Tollender ancestry, famously affiliated with the [Ancient and Honorable Guild of Philosophers](<../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>)
 
 Carries what appears to be a magic scroll, allowing him to query some kind of library or source of information. 
 

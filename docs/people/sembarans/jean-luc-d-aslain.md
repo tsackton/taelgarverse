@@ -28,4 +28,4 @@ hide_toc: true
 </div>
 
 
-![Jean Luc D'aslain](../../assets/jean-luc-d-aslain.webp){align="right"; width="320"}A disciple of the Father, splitting time between [Dallet](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/dallet.md>) and [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). A cousin of the current baron, [Isabeau d'Aslain](<isabeau-d-aslain.md>).
+![Jean Luc D'aslain](/taelgarverse/assets/jean-luc-d-aslain.webp){align="right"; width="320"}A disciple of the Father, splitting time between [Dallet](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/dallet.md>) and [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). A cousin of the current baron, [Isabeau d'Aslain](<isabeau-d-aslain.md>).

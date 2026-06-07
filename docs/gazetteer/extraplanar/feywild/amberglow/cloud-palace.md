@@ -18,4 +18,4 @@ title: Cloud Palace
 
 Once the majestic floating palace of the [Cloudspinner](<../../../../people/extraplanar-powers/archfey/cloudspinner.md>), lit with the brilliant hues of sunset, the Cloud Palace is now little more than a gray, washed out ruin, haunted by the lingering members of Cloudspinner's court who refuse to leave, led by [Lady Eventide](<../../../../people/fey/lady-eventide.md>).
 
-![Amberglow Cloud Palace](../../../../assets/amberglow-cloud-palace.webp)
+![Amberglow Cloud Palace](/taelgarverse/assets/amberglow-cloud-palace.webp)

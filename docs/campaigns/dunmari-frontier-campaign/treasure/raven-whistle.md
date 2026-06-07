@@ -24,7 +24,7 @@ title: Agata's Raven Whistle
 </div>
 
 
-![Raven Whistle Kenzo](../../../assets/raven-whistle-kenzo.webp){align="right"; width="200"}A whistle carved from the bone of a giant bird, radiating transmutation magic. 
+![Raven Whistle Kenzo](/taelgarverse/assets/raven-whistle-kenzo.webp){align="right"; width="200"}A whistle carved from the bone of a giant bird, radiating transmutation magic. 
 
 
 

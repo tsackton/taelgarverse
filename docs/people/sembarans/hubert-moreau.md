@@ -8,4 +8,4 @@ hide_toc: true
 
 
 
-![Hubert Moreau](../../assets/hubert-moreau.webp){align="left"; width="400"}
+![Hubert Moreau](/taelgarverse/assets/hubert-moreau.webp){align="left"; width="400"}

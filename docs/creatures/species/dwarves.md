@@ -13,7 +13,7 @@ title: Dwarves
 
 
 
-![Dwarven Hall of Gems](../../assets/dwarven-hall-of-gems.webp)
+![Dwarven Hall of Gems](/taelgarverse/assets/dwarven-hall-of-gems.webp)
 
 !!! quote "Dwarven Prayer of Naming, excerpt"
 	*Far under the mountains, long ago the First were made from solid stone. Born to delve and craft and seek, the [Bahrazel](<../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>) made our mountain homes: Uzdan, the Ruler, leader of people; [Karthel](<../../gods-and-religions/gods/embodied-gods/bahrazel/karthel.md>), the Runecrafter, shaper of magic; [Fanrukel](<../../gods-and-religions/gods/embodied-gods/bahrazel/fanrukel.md>), the Priest, keeper of lore; [Tarbaka](<../../gods-and-religions/gods/embodied-gods/bahrazel/tarbaka.md>), the Stoneworker, lord of the forge; [Azar](<../../gods-and-religions/gods/embodied-gods/bahrazel/azar.md>), the Warrior, defender of cities; [Maganna](<../../gods-and-religions/gods/embodied-gods/bahrazel/maganna.md>), the Traveler, delver and miner; and [Oshkir](<../../gods-and-religions/gods/embodied-gods/bahrazel/oshkir.md>), the Farmer, provider and healer. May their wisdom and protection guide you to your name and place. See now the past and the future as one.*
@@ -72,7 +72,7 @@ In the west of Taelgar, there are five great [Dwarven Kingdoms](<../../gazetteer
 - [Khatridun](<../../gazetteer/central-highlands/dwarven-kingdoms/khatridun.md>), a small but ancient kingdom south of [Nidzahar](<../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>) and east of [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), the remnants of one of the great dwarven empires from the days of old, now much reduced due to the losses and destruction of the [Great War](<../../events/1500s/great-war.md>)
 - [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), far to the south in the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>), a new kingdom founded by refugees fleeing the devastation of the [Great War](<../../events/1500s/great-war.md>) and the lost kingdom of [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), now growing rich on trade with [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) and [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>).
 
-![Dwarven Unnamed Fortress](../../assets/dwarven-unnamed-fortress.webp)
+![Dwarven Unnamed Fortress](/taelgarverse/assets/dwarven-unnamed-fortress.webp)
 
 
 

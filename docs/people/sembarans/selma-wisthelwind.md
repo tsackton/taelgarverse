@@ -31,4 +31,4 @@ hide_toc: true
 </div>
 
 
-![Selma Wisthelwind](../../assets/selma-wisthelwind.webp){align="right"; width="320"}Selma bought The Fox's Flagon for cash 8 years ago, and seems to enjoy running the inn as a retirement of sorts. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [Kestavo](<../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) religion of [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>).
+![Selma Wisthelwind](/taelgarverse/assets/selma-wisthelwind.webp){align="right"; width="320"}Selma bought The Fox's Flagon for cash 8 years ago, and seems to enjoy running the inn as a retirement of sorts. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [Kestavo](<../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) religion of [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>).

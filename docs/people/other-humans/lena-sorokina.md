@@ -22,5 +22,5 @@ hide_toc: true
 </div>
 
 
-![Lena Portrait V5](../../assets/lena-portrait-v5.webp){align="right"; width="400"}Lena is a member of the magical [Watchers](<../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>), known for her political connection among several of the [rodnye](<../../groups/urskan-magical-organizations/rodnya.md>). She is also well-connected among the elite of [Zvervinka](<../../gazetteer/northern-green-sea/ursk/zvervinka.md>), though what her actual title and position in the [Watchers](<../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>) is is not clear.
+![Lena Portrait V5](/taelgarverse/assets/lena-portrait-v5.webp){align="right"; width="400"}Lena is a member of the magical [Watchers](<../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>), known for her political connection among several of the [rodnye](<../../groups/urskan-magical-organizations/rodnya.md>). She is also well-connected among the elite of [Zvervinka](<../../gazetteer/northern-green-sea/ursk/zvervinka.md>), though what her actual title and position in the [Watchers](<../../groups/urskan-magical-organizations/eyes-of-vedmakov.md>) is is not clear.
 

@@ -25,4 +25,4 @@ hide_toc: true
 
 A paladin of the Night Queen. Saved [Viepuck](<../pcs/cleenseau/viepuck.md>).
 
-![Lenora Belles](../../assets/lenora-belles.webp)
+![Lenora Belles](/taelgarverse/assets/lenora-belles.webp)

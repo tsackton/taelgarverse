@@ -22,7 +22,7 @@ title: Kenku Glamoured Armor
 </div>
 
 
-![Kenku Glamoured Armor Wellby](../../../assets/kenku-glamoured-armor-wellby.webp){align="right"; width="400"}This suit of studded leather armor is glamoured with illusion magic. While worn, its appearance adapts to wearer, and can be controlled at will when attuned. 
+![Kenku Glamoured Armor Wellby](/taelgarverse/assets/kenku-glamoured-armor-wellby.webp){align="right"; width="400"}This suit of studded leather armor is glamoured with illusion magic. While worn, its appearance adapts to wearer, and can be controlled at will when attuned. 
 
 This suit was found [Grimbaskal's Hoard](<../hoards/grimbaskal-s-hoard.md>), and later enhanced by [Nahto](<../../../people/kenku/nahto.md>), the kenku tinkerer, to be able to summon glamoured wings and allow the wearer to fly for a few hours a day. 
 

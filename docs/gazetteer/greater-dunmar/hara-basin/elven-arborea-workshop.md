@@ -20,7 +20,7 @@ title: Ruined Elven Workshop (near Tokra)
 Under the [Lakan Monastery](<../realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) is the ruins of an ancient elven workshop, which is located on a weak point where the energy of [Arborea](<../../../cosmology/spiritual-realms/arborea.md>) leaks into the material plane. 
 
 Kassi's map of the ruins:
-![Elven Ruins Map](../../../assets/elven-ruins-map.png)
+![Elven Ruins Map](/taelgarverse/assets/elven-ruins-map.png)
 
 ## History
 Thousands of years ago, when [Dunmar](<../realms/dunmar/dunmar.md>) was a great elven forest, there was a low hill where the [Lakan Monastery](<../realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) is now, and at the center of the hill was a place where the connection to the outer plane of [Arborea](<../../../cosmology/spiritual-realms/arborea.md>), a place of wild, uncontrolled nature, was particularly strong.

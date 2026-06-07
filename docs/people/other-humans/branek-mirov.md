@@ -25,7 +25,7 @@ hide_toc: true
 </div>
 
 
-![Branek Mirov Portrait V2](../../assets/branek-mirov-portrait-v2.webp){align="right"; width="400"}Branek is a powerful wizard and high-ranking member of the [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>), based at the Voknaz Manor, the headquarters of the rodnya. 
+![Branek Mirov Portrait V2](/taelgarverse/assets/branek-mirov-portrait-v2.webp){align="right"; width="400"}Branek is a powerful wizard and high-ranking member of the [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>), based at the Voknaz Manor, the headquarters of the rodnya. 
 
 He is devoted to the [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>), and has dedicated his life to the organization. 
 

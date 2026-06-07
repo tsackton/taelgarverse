@@ -14,7 +14,7 @@ title: Chardon Fan
 </div>
 
 
-![Chardon Fan](../../../assets/chardon-fan.webp){align="right"; width="250"}A cotton and bamboo hand fan depicting the towers of [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the intricate design painted onto the fan by a very skilled artist.
+![Chardon Fan](/taelgarverse/assets/chardon-fan.webp){align="right"; width="250"}A cotton and bamboo hand fan depicting the towers of [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the intricate design painted onto the fan by a very skilled artist.
 
 
 Looted from [Agata's hut](<../../../gazetteer/greater-dunmar/hara-basin/agata-s-lair.md>) by [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>). Probably worth 10-180 gp.

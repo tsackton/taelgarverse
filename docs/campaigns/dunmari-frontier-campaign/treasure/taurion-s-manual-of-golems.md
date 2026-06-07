@@ -21,5 +21,5 @@ title: Taurion's Manual of Stone Golems
 </div>
 
 
-![Taurion Manual of Golems](../../../assets/taurion-manual-of-golems.webp){width="right"}
+![Taurion Manual of Golems](/taelgarverse/assets/taurion-manual-of-golems.webp){width="right"}
 

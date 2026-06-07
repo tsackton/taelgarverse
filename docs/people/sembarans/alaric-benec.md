@@ -25,4 +25,4 @@ hide_toc: true
 
 
 
-![Alaric Benec](../../assets/alaric-benec.webp){align="right"; width="400"}
+![Alaric Benec](/taelgarverse/assets/alaric-benec.webp){align="right"; width="400"}

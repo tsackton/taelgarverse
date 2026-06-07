@@ -26,7 +26,7 @@ hide_toc: true
 </div>
 
 
-![Riswynn](../../../assets/riswynn.png)
+![Riswynn](/taelgarverse/assets/riswynn.png)
 
 ## Pre-Campaign Events
 - Mar 10, 1748 DR: Riswynn leaves Tharn Todar, heading north for Raven's Hold

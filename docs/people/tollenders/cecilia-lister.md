@@ -39,4 +39,4 @@ An elegant older woman, very precise, who runs an unmarked but well-known tattoo
 
 
 
-![Cecilia Lister Portrait](../../assets/cecilia-lister-portrait.png)
+![Cecilia Lister Portrait](/taelgarverse/assets/cecilia-lister-portrait.png)

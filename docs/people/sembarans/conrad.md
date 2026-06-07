@@ -27,7 +27,7 @@ hide_toc: true
 
 
 
-![Conrard Cleenseau](../../assets/conrard-cleenseau.webp){align="right"; width="320"}[Anselm's](<anselm.md>) assistant at the Temple of the Warlord. A young, rather shy man, who looks up to Anselm but has become fascinated by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>). He is the main organizer of the temple's charity, and knows the people of Beggar's Way relatively well. 
+![Conrard Cleenseau](/taelgarverse/assets/conrard-cleenseau.webp){align="right"; width="320"}[Anselm's](<anselm.md>) assistant at the Temple of the Warlord. A young, rather shy man, who looks up to Anselm but has become fascinated by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>). He is the main organizer of the temple's charity, and knows the people of Beggar's Way relatively well. 
 
 
 

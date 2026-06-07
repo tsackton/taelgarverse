@@ -19,6 +19,6 @@ hide_toc: true
 
 
 
-![Corrine Healthy](../../assets/corrine-healthy.webp)
+![Corrine Healthy](/taelgarverse/assets/corrine-healthy.webp)
 
-![Corrine Ill](../../assets/corrine-ill.webp)
+![Corrine Ill](/taelgarverse/assets/corrine-ill.webp)

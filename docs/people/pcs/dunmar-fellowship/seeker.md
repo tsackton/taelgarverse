@@ -25,7 +25,7 @@ hide_toc: true
 </div>
 
 
-![Seeker](../../../assets/seeker.webp){align="right"; width="400"}
+![Seeker](/taelgarverse/assets/seeker.webp){align="right"; width="400"}
 
 ## Pre-Campaign Events
 

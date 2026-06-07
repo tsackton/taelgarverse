@@ -23,7 +23,7 @@ title: Hamri
 
 Hamri is blessed with a sheltered, deep water harbor within a protected bay, and a source of sweet fresh water in the [Mirmir](<../rivers/mirmir.md>) River that cascades from the interior over a series of rapids and waterfalls before emptying into the [Endless Ocean](<../../endless-ocean.md>). These resources have made it prosper, and it is now a major town of 3,500 residents, and one of the economic centers of the western coast of the [Mawakel Peninsula](<mawakel-peninsula.md>).
 
-![Hamri Map](../../../assets/hamri-map.png)
+![Hamri Map](/taelgarverse/assets/hamri-map.png)
 
 ## Overview
 Hamri is divided into three districts. Much of the town is clustered on stone quays built over the tidal flats of the [Mirmir](<../rivers/mirmir.md>). Known as Low Town, this is the economic powerhouse of Hamri. Warehouses set into the steep cliffs, jumbled houses, inns, and taverns, shipyards and racks full of drying fish mark this bustling district. 

@@ -25,4 +25,4 @@ hide_toc: true
 </div>
 
 
-![Rene the Scout](../../assets/rene-the-scout.webp){align="right"; width="320"}A scout and skirmisher with the Eagle Patrol of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>), skilled at spotting unusual events.
+![Rene the Scout](/taelgarverse/assets/rene-the-scout.webp){align="right"; width="320"}A scout and skirmisher with the Eagle Patrol of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>), skilled at spotting unusual events.

@@ -40,4 +40,4 @@ hide_toc: true
 
 
 
-![Valius](../../assets/valius.webp){align="right"; width="300"}A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [Fausto](<fausto.md>) and trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>). Alongside his twin, [Vargus](<vargus.md>), he once sought treasures and wealth, but now seeks only to free his brother from [Fausto](<fausto.md>)'s curse.
+![Valius](/taelgarverse/assets/valius.webp){align="right"; width="300"}A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [Fausto](<fausto.md>) and trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>). Alongside his twin, [Vargus](<vargus.md>), he once sought treasures and wealth, but now seeks only to free his brother from [Fausto](<fausto.md>)'s curse.

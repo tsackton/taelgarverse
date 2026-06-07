@@ -24,5 +24,5 @@ hide_toc: true
 </div>
 
 
-![Lady Ameline Evynwood](../../assets/lady-ameline-evynwood.webp){align="left"; width="200"} 
+![Lady Ameline Evynwood](/taelgarverse/assets/lady-ameline-evynwood.webp){align="left"; width="200"} 
 

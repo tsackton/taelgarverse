@@ -24,5 +24,5 @@ hide_toc: true
 </div>
 
 
-![Lizardfolk Unai](../../assets/lizardfolk-unai.webp){align="right"; width="320"}An herbalist and healer, teacher of [Gentza](<gentza.md>). She is well-known in the region, but unlike her student, does not usually sell her remedies or bring them to human markets. 
+![Lizardfolk Unai](/taelgarverse/assets/lizardfolk-unai.webp){align="right"; width="320"}An herbalist and healer, teacher of [Gentza](<gentza.md>). She is well-known in the region, but unlike her student, does not usually sell her remedies or bring them to human markets. 
 

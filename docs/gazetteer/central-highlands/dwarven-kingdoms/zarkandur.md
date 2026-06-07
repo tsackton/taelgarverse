@@ -25,7 +25,7 @@ title: Zarkandur
 **People**: Am’khazar, being fully underground, is a city of dwarves.
 
 
-![Zarkandur City Full](../../../assets/zarkandur-city-full.webp)
+![Zarkandur City Full](/taelgarverse/assets/zarkandur-city-full.webp)
 
 ## Description
 

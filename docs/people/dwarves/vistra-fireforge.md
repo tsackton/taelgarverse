@@ -33,11 +33,11 @@ hide_toc: true
 
 
 
-![Vistra Fireforge Innkeeper](../../assets/vistra-fireforge-innkeeper.webp){align="right"; width="250"}A dwarven blacksmith, trader, innkeep, and adventurer. She is of the Traveler thuhr and originally from [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>). She was born after the [Great War](<../../events/1500s/great-war.md>) and has always been eager to work with humans. She is charming and pleasant enough, but perhaps not that bright and she sometimes makes mistakes in her trades, although she rarely wants to believe it.
+![Vistra Fireforge Innkeeper](/taelgarverse/assets/vistra-fireforge-innkeeper.webp){align="right"; width="250"}A dwarven blacksmith, trader, innkeep, and adventurer. She is of the Traveler thuhr and originally from [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>). She was born after the [Great War](<../../events/1500s/great-war.md>) and has always been eager to work with humans. She is charming and pleasant enough, but perhaps not that bright and she sometimes makes mistakes in her trades, although she rarely wants to believe it.
 
 
 
-![Vistra Fireforge Smith](../../assets/vistra-fireforge-smith.webp){align="left"; width="300"}
+![Vistra Fireforge Smith](/taelgarverse/assets/vistra-fireforge-smith.webp){align="left"; width="300"}
 In her youth she was a blacksmith and trader in [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>) a crossroads inn south of [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). She is now settled in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) where she runs the dwarven inn, [The Iron Swan](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-iron-swan.md>).
 
 

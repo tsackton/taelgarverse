@@ -18,7 +18,7 @@ title: Bitterwine Oak
 </div>
 
 
-![Bitterwine Oak Portal](../../../../assets/bitterwine-oak-portal.webp){align="right"; width="500"}The Bitterwine Oak is a massive oak tree, growing seemingly without need for water, in the [Garamjala Desert](<../../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), along the banks of the now-dry lower [Hara](<../../../greater-dunmar/rivers/hara-watershed/hara.md>), a few hundred miles northwest of the ruins of [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>).
+![Bitterwine Oak Portal](/taelgarverse/assets/bitterwine-oak-portal.webp){align="right"; width="500"}The Bitterwine Oak is a massive oak tree, growing seemingly without need for water, in the [Garamjala Desert](<../../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), along the banks of the now-dry lower [Hara](<../../../greater-dunmar/rivers/hara-watershed/hara.md>), a few hundred miles northwest of the ruins of [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>).
 
 Among the tangled roots of the tree are sparkling pools of sweet-smelling wine, seeping from the roots in shallow basins. Golden ivy and pale white blossoms line the lower reaches of the massive tree, and give off an intoxicating scent. 
 

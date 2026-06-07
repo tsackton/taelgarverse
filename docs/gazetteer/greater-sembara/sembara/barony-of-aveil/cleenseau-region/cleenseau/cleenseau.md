@@ -51,7 +51,7 @@ On the south bank of the Enst, across the bridge, stands a large ruined garrison
 
 On the north bank, outside of the walls and west of the town, is a small cluster of single-room huts, often called Beggar’s Way (N). It is where the very poorest in the town eek out a living as day laborers.
 `
-![Cleenseau Town Map](../../../../../../assets/cleenseau-town-map.jpg)
+![Cleenseau Town Map](/taelgarverse/assets/cleenseau-town-map.jpg)
 
 
 

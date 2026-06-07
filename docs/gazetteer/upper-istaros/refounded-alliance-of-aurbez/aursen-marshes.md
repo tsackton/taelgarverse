@@ -19,4 +19,4 @@ title: Aursen Marshes
 
 The Aursen Marshes are a marshy area of the [Aursen River](<../../major-rivers/istaros-watershed/aursen.md>), predominantly occupying a basin and depression near the edge of the [Aurbez Plateau](<../aurbez-plateau.md>) escarpment. The marshes themselves are largely inhabited by [lizardfolk](<../../../creatures/species/lizardfolk.md>) and the occasional homesteader who does not mind the flooding the spring snowmelt brings. The area itself is a productive agricultural region and the edges of the marshes are intensively farmed by the people of the [Refounded Alliance of Aurbez](<refounded-alliance-of-aurbez.md>). 
 
-![Aursen Marshes](../../../assets/aursen-marshes.webp)
+![Aursen Marshes](/taelgarverse/assets/aursen-marshes.webp)

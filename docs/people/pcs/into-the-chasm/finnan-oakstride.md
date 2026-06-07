@@ -27,7 +27,7 @@ hide_toc: true
 </div>
 
 
-![Finnan Oakstride](../../../assets/finnan-oakstride.webp){align="right"; width="360"}Finnan Oakstride is a halfling storyteller, a wanderer, and a collector of tales. 
+![Finnan Oakstride](/taelgarverse/assets/finnan-oakstride.webp){align="right"; width="360"}Finnan Oakstride is a halfling storyteller, a wanderer, and a collector of tales. 
 
 Finnan was born on the road outside [Telham](<../../../gazetteer/greater-sembara/sembara/northlands/telham.md>), and spend his childhood on the road, like many halflings. His parents were not merchants, or traders. Instead, they told tales, sang songs, and did some juggling and acrobatics, traveling with a group about about 10 other halflings in three small wagons, sometimes trading them for a riverboat. They moved around, usually drifting among the small towns along the [Teft](<../../../gazetteer/greater-sembara/rivers/teft-watershed/teft.md>) and [Volta](<../../../gazetteer/greater-sembara/rivers/volta-watershed/volta.md>), sometimes as far east as coastal [Vostok](<../../../gazetteer/greater-sembara/vostok/vostok.md>), occasionally as far northwest as [Breva](<../../../gazetteer/greater-sembara/zimkova/breva.md>). In most small towns, they could at least get a good night's dinner for their time, and sometimes a place to sleep, if there was space -- but when there wasn't, the wagons sufficed. 
 

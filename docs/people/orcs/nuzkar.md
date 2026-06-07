@@ -33,7 +33,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
 
 
-![Nuzkar Potrait](../../assets/nuzkar-potrait.png){align="right"; width="320"}An orc scholar, loremaster, and archivist, seeking stories, rumors, and information about other free orcs, about how [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)'s enslavement works, and how to free more of her people. 
+![Nuzkar Potrait](/taelgarverse/assets/nuzkar-potrait.png){align="right"; width="320"}An orc scholar, loremaster, and archivist, seeking stories, rumors, and information about other free orcs, about how [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)'s enslavement works, and how to free more of her people. 
 
 She has a twin sister, [Aygul](<aygul.md>), as well as a husband and large family in Uzgukhar. 
 

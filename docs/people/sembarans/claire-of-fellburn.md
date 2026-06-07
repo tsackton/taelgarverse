@@ -25,4 +25,4 @@ hide_toc: true
 </div>
 
 
-![Claire of Fellburn](../../assets/claire-of-fellburn.webp){align="right"; width="320"}The sergeant of the Eagle Patrol of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>). 
+![Claire of Fellburn](/taelgarverse/assets/claire-of-fellburn.webp){align="right"; width="320"}The sergeant of the Eagle Patrol of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>). 

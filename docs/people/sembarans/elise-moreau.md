@@ -8,6 +8,6 @@ hide_toc: true
 
 
 
-![Elise Moreau](../../assets/elise-moreau.webp){align="left"; width="400"}
+![Elise Moreau](/taelgarverse/assets/elise-moreau.webp){align="left"; width="400"}
 
 

@@ -33,7 +33,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 30th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
-![Kaupa](../../assets/kaupa.webp){align="right"; width="420"}A diligent representative of the Skaer Trade Mission, Kaupa's role in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) is vital in ensuring that trade relations between [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) and [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) remain strong and beneficial for both parties.
+![Kaupa](/taelgarverse/assets/kaupa.webp){align="right"; width="420"}A diligent representative of the Skaer Trade Mission, Kaupa's role in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) is vital in ensuring that trade relations between [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>) and [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) remain strong and beneficial for both parties.
 
 Kaupa serves as the informal center of the small Skaer community in Tollen, and generally knows, or at least knows someone who knows, all the Skaer who make Tollen their home. 
 

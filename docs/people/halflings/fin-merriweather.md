@@ -22,5 +22,5 @@ hide_toc: true
 </div>
 
 
-![Fin Merriweather](../../assets/fin-merriweather.webp){align="right"; width="200"}A halfling musician who sings at [The Setting Sun](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/the-setting-sun.md>) in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), and likes to collect colorful leather clothes. Friendly, if somewhat more focused on his music than people at times.
+![Fin Merriweather](/taelgarverse/assets/fin-merriweather.webp){align="right"; width="200"}A halfling musician who sings at [The Setting Sun](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/the-setting-sun.md>) in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>), and likes to collect colorful leather clothes. Friendly, if somewhat more focused on his music than people at times.
 

@@ -39,7 +39,7 @@ We begin as [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) arrives 
 
 The court itself is a vast, elegant outdoor casino, staffed by beautiful [Fey](<../../../creatures/fey/fey.md>) in white robes, and filled with games of chance of all kinds. A band of satyrs plays a lively tune, and food and drink flow freely. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) wanders, avoiding food and drink and watching the games, until eventually watching a lizard race and deciding to bet. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) bets on one of the losers, and suffers an explosion of black sticky ooze in his face with a rancid, bitter taste as a consequence, but manages to avoid any more severe effects. 
 
-![Prince of Luck Court](../../../assets/prince-of-luck-court.png)
+![Prince of Luck Court](/taelgarverse/assets/prince-of-luck-court.png)
 
 Eventually [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) begins to wander towards the palace in the center of the gardens, although it seems difficult to leave the games and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) ends up wandering for some unknown stretch of time before finding himself in a formal garden just outside the palace. The flowers here do not have normal flowers, but rather dense lobes of light of burnished gold, glowing. Somewhat impulsively, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) reaches out and touches one, which bursts in a flash of light, blinding him.
 

@@ -47,7 +47,7 @@ Rinburg grew quickly during the golden years of [Cece's](<../../../../people/his
 ### Local Environment
 Rinburg itself is set at a wide point on the [Enst](<../../rivers/wistel-enst-watershed/enst.md>), where the river runs deep on the north bank and boats can dock. The river is wide here, almost a quarter mile across, although it narrows substantially near the ruined old town.
 
-![Rinburg Local Region](../../../../assets/rinburg-local-region.jpg)
+![Rinburg Local Region](/taelgarverse/assets/rinburg-local-region.jpg)
 
 ### Governance
 Rinburg is governed by a Lord Mayor, who is elected by the Council of Supervisors once every seven years. The Council of Supervisors consists of:

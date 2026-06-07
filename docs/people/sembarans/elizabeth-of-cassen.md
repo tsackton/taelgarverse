@@ -26,7 +26,7 @@ hide_toc: true
 </div>
 
 
-![Elizabeth of Cassen](../../assets/elizabeth-of-cassen.webp){align="right"; width="420"}A middle aged woman, who became a solider in her later life. She worked for the lord of [Cassen](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cassen.md>) until the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) decimated her village.
+![Elizabeth of Cassen](/taelgarverse/assets/elizabeth-of-cassen.webp){align="right"; width="420"}A middle aged woman, who became a solider in her later life. She worked for the lord of [Cassen](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cassen.md>) until the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) decimated her village.
 
 Her story is here.
 

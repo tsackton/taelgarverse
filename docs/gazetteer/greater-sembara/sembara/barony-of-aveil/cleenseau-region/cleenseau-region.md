@@ -30,7 +30,7 @@ Further west, the recently abandoned [Gastant Farm](<gastant-farm.md>), and sits
 
 To the south, the rocky shrubland dominates for a hundred miles, before reaching the rolling valleys near [Valarin](<../../../duchy-of-maseau/valarin.md>), where most of the people of [Maseau](<../../../duchy-of-maseau/duchy-of-maseau.md>) live. The road used to be dotted with inns and waystations, but these have fallen into disrepair since the Great War. This stretch of road is often called [Bandit's Way](<../../../roads/bandit-s-way.md>), and many ex-soliders make a living escorting caravans between [Cleenseau](<cleenseau/cleenseau.md>) and [Evis](<../../../duchy-of-maseau/evis.md>), the northernmost settlement in [Maseau](<../../../duchy-of-maseau/duchy-of-maseau.md>) along the [Great South Road](<../../../roads/great-south-road.md>).
 
-![Cleenseau Region Map](../../../../../assets/cleenseau-region-map.jpg)
+![Cleenseau Region Map](/taelgarverse/assets/cleenseau-region-map.jpg)
 
 ### Economy
 The region is self-sufficient in food. At a regional level, the major imports are: iron and other metals, mostly from [Maseau](<../../../duchy-of-maseau/duchy-of-maseau.md>); ceramics from [Rinburg](<../rinburg.md>); glass from [Ainwick](<../../barony-of-ainwick/ainwick.md>), and occasionally [Tyrwingha](<../../../tyrwingha/tyrwingha.md>), plus luxuries (foodstuffs, alcohol, fine clothes, furniture). The major exports are: weapons and armor and other finished metal goods from Cleenseau; grain (mostly sold west to the army), plus some charcoal to the villages east of the [East Bog](<east-bog.md>) with poorer wood supplies.  

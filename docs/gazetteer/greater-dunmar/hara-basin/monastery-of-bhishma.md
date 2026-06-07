@@ -29,7 +29,7 @@ The monastery served as the headquarters of the Bhishma Mystai, also known as th
 
 In 1748, [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) came to the monastery, seeking to learn more about the history of the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>), among other things. While there, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) documented the buildings, and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) mapped the complex. Their notes are reproduced below:
 
-![Monastery Backdrop](../../../assets/monastery-backdrop.png)
+![Monastery Backdrop](/taelgarverse/assets/monastery-backdrop.png)
 
 
 

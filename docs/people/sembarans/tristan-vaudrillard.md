@@ -34,5 +34,5 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Last known location (as of January 14th, 1720): [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-![Tristan Vaudrillard](../../assets/tristan-vaudrillard.webp){align="right"; width="400"}A devotee of [The Sibyl](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>) and student of magic.
+![Tristan Vaudrillard](/taelgarverse/assets/tristan-vaudrillard.webp){align="right"; width="400"}A devotee of [The Sibyl](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>) and student of magic.
 

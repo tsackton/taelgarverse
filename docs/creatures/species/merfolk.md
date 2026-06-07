@@ -11,7 +11,7 @@ title: Merfolk
 
 At home in the depths of the ocean, swimming beneath the waves, merfolk tend kelp gardens and flocks of manta rays, hidden from the surface world. They are the people of the ocean, alien and strange to land-dwellers, in tune with the changeable moods of the ocean.
 ## Waterborn
-![Merfolk Portrait 1](../../assets/merfolk-portrait-1.webp){align="right"; width="200"}Despite a basic bipedal body plan, merfolk are extremely adapted to living underwater. Able to breath water and air with equal ease, merfolk have long webbed fingers, elongated, flipper-like feet, and large eyes adapted to the murky light of the deep ocean. Beyond these basic features, merfolk are as diverse and variable as the fish of the ocean.
+![Merfolk Portrait 1](/taelgarverse/assets/merfolk-portrait-1.webp){align="right"; width="200"}Despite a basic bipedal body plan, merfolk are extremely adapted to living underwater. Able to breath water and air with equal ease, merfolk have long webbed fingers, elongated, flipper-like feet, and large eyes adapted to the murky light of the deep ocean. Beyond these basic features, merfolk are as diverse and variable as the fish of the ocean.
 ## Children of the Ocean
 Merfolk trace their origin to the [Sentient Ocean](<../../people/extraplanar-powers/sentient-ocean.md>), a powerful psychic alien entity from an unknown plane. Created by the sentient ocean in the days of legend when magic was strong, the merfolk retain an intimate connection to the magic of the sentient ocean. It is said that merfolk can speak to each other across vast distances, control water and storms, and can even act together with uncanny coordination. 
 ## At Home Underwater

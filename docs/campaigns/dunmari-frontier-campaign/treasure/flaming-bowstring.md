@@ -19,7 +19,7 @@ title: Flaming Bowstring
 </div>
 
 
-![Flaming Bowstring Wellby](../../../assets/flaming-bowstring-wellby.webp){align="right"; width="400"}This Dunmari bowstring is made of a fine silk thread, enchanted and blessed by [Aagir](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/aagir.md>). The magic of the thread means it can be attached to any bow or crossbow, and will grow or shrink as needed to fit. 
+![Flaming Bowstring Wellby](/taelgarverse/assets/flaming-bowstring-wellby.webp){align="right"; width="400"}This Dunmari bowstring is made of a fine silk thread, enchanted and blessed by [Aagir](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/aagir.md>). The magic of the thread means it can be attached to any bow or crossbow, and will grow or shrink as needed to fit. 
 
 Originally the weapon of [Camana](<../../../people/dunmari/camana.md>), the leader of [Havdar](<../../../people/dunmari/havdar.md>)'s scouts, who died in battle against the [Orcs](<../../../creatures/species/orcs.md>) of [Grash's Horde](<../../../groups/orc-hordes/grash-s-horde.md>), in the [Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>). After the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) [aided](<../session-notes/session-20-dufr.md>) [Havdar](<../../../people/dunmari/havdar.md>) in battle, was [gifted](<../session-notes/session-21-dufr.md>)to [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>). 
 

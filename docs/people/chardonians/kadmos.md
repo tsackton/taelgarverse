@@ -45,7 +45,7 @@ hide_toc: true
 
 
 
-![Kadmos Portrait](../../assets/kadmos-portrait.webp){align="right"; width="320"}A mysterious figure who doesn't speak unless necessary, the leader of this company, with [Hektor](<hektor.md>), [Marcella](<marcella.md>), [Antonia](<antonia.md>), and [Casian](<casian.md>). 
+![Kadmos Portrait](/taelgarverse/assets/kadmos-portrait.webp){align="right"; width="320"}A mysterious figure who doesn't speak unless necessary, the leader of this company, with [Hektor](<hektor.md>), [Marcella](<marcella.md>), [Antonia](<antonia.md>), and [Casian](<casian.md>). 
 
 A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather armor, without obvious weapons. A spellcaster, who took on an undead visage in combat and whose spirit seems touched by a darkness. 
 

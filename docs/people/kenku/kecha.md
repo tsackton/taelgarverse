@@ -22,6 +22,6 @@ hide_toc: true
 </div>
 
 
-![Kecha Portrait Final](../../assets/kecha-portrait-final.webp){align="right"; width="400"}Kecha is a young kenku scout, a wanderer and traveler who loves the forests and mountains.  
+![Kecha Portrait Final](/taelgarverse/assets/kecha-portrait-final.webp){align="right"; width="400"}Kecha is a young kenku scout, a wanderer and traveler who loves the forests and mountains.  
 
 

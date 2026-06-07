@@ -71,7 +71,7 @@ Over time, you get a better sense of the place where he lives. It seems to be on
 
 Once, you see another person. A woman, wearing white furs, gloves, with elegant features, blue eyes, somewhat younger than Radomir. She rides up to Radomir’s house on a horse, looks around as she dismounts, calling a greeting to Radomir, who is outside stacking wood. 
 
-![Radomir Sister Portrait](../../../assets/radomir-sister-portrait.webp)
+![Radomir Sister Portrait](/taelgarverse/assets/radomir-sister-portrait.webp)
 
   
 She walks up to him purposefully, and speaks quietly in a strange language (which Delwath quickly casts Tongues to decipher). 

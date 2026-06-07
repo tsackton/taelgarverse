@@ -7,12 +7,12 @@ title: Player's Guide
 
 This short guide provides an overview to the inhabitants of Taelgar, its magic and religions, and basic geography, places, and history. It is written loosely from the perspective of an educated commoner in the 1740s, by the  [common reckoning of human scholars](<calendar-eras.md#drankorian-reckoning>), or the 5880s, as the [dwarves count the years of the world](<calendar-eras.md#dwarven-count-of-years>). 
 
-!!! tip ""
+!!! tip " "
 	The world of Taelgar is free of misogyny, racism, homophobia and gender panics. Characters should be men, women, or something else without fear it will limit their opportunities or that villagers will have historically accurate attitudes. It's a magical place created by the made up gods. Realistic sexism, homophobia, transphobia, and racism is pointless and unfun.
 
 Taelgar is a world of good and evil, where valiant heroes strive against the forces of darkness, created by evil gods seeking to undo all existence. While there is room in Taelgar for all kinds of stories and many shades of gray, many tales in Taelgar feature unredeemable evil, unambiguous villains, and noble heroes. Taelgar draws inspiration from many sources, especially classic D&D settings, high fantasy, and world history. Magic is rare and powerful, but once was much more common; while [Humans](<../creatures/species/humans.md>) dominate much of the world, they live alongside [Dwarves](<../creatures/species/dwarves.md>), [Halflings](<../creatures/species/halflings.md>), and other [sentient species](<../creatures/creatures-of-taelgar.md>).
 
-!!! info ""
+!!! info " "
 	This document and the links here contain a huge amount of information, representing years of playing and worldbuilding. While you are welcome to browse whatever you like, nothing in this document or in the links that it contains is required reading to play in Taelgar. The lore of Taelgar grows by the role-playing decisions of its players as much as the world building of its DMs. 
 
 ## Geography and Culture
@@ -23,7 +23,7 @@ The lands best known to scholars of northwestern Taelgar stretch roughly 2,500 m
   id="player-guide-world-map"
   class="ext-map-container taelgar-leaflet-map"
   style="height: 600px;"
-  data-taelgar-leaflet="{&quot;id&quot;:&quot;player-guide-world-map&quot;,&quot;bounds&quot;:[[0.0,0.0],[5156.7,6636.233]],&quot;minZoom&quot;:-3.0,&quot;maxZoom&quot;:2.0,&quot;defaultZoom&quot;:-2.0,&quot;fitBounds&quot;:false,&quot;center&quot;:[3333.0,3000.0],&quot;tile&quot;:{&quot;baseUrl&quot;:&quot;/taelgarverse/assets/tiles/taelgar-world-map&quot;,&quot;cacheKey&quot;:&quot;a1cccd2881&quot;,&quot;extension&quot;:&quot;webp&quot;,&quot;tileSize&quot;:512,&quot;width&quot;:6637,&quot;height&quot;:5157,&quot;minNativeZoom&quot;:0,&quot;maxNativeZoom&quot;:1}}"
+  data-taelgar-leaflet="{&quot;id&quot;:&quot;player-guide-world-map&quot;,&quot;bounds&quot;:[[0.0,0.0],[5156.7,6636.233]],&quot;minZoom&quot;:-3.0,&quot;maxZoom&quot;:2.0,&quot;defaultZoom&quot;:-2.0,&quot;fitBounds&quot;:false,&quot;center&quot;:[3333.0,3000.0],&quot;tile&quot;:{&quot;baseUrl&quot;:&quot;/taelgarverse/assets/tiles/taelgar-world-map&quot;,&quot;cacheKey&quot;:&quot;b45ee1a1c8&quot;,&quot;extension&quot;:&quot;webp&quot;,&quot;tileSize&quot;:512,&quot;width&quot;:6637,&quot;height&quot;:5157,&quot;minNativeZoom&quot;:0,&quot;maxNativeZoom&quot;:1}}"
 ></div>
 
 

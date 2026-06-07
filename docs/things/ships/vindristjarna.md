@@ -37,7 +37,7 @@ title: Vindristjarna
 :octicons-location-24:{ .lg .middle } Owned
 
 
-![Vindristjarna V1](../../assets/vindristjarna-v1.webp)
+![Vindristjarna V1](/taelgarverse/assets/vindristjarna-v1.webp)
 
 ## History
 

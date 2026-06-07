@@ -20,7 +20,7 @@ title: Horn of Silent Alarm (Dunmari)
 
 A common magic item created in large numbers by the Dunmari during the [Dharajun Dynasty](<../../groups/dunmari-dynasties/dharajun-dynasty.md>), especially in the years before and during the [Great War](<../../events/1500s/great-war.md>). Typically carried by Dunmari scouts and outriders, and used to alert trailing forces of danger. These items are often associated with the blessings of [Chidya](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/chidya.md>). Although a variety of designs are common, all feature a horse motif.
 
-![Horn of Warning 1](../../assets/horn-of-warning-1.png){align="left"; width="300"}![Horn of Warning 2](../../assets/horn-of-warning-2.png){align="right"; width="300"}
+![Horn of Warning 1](/taelgarverse/assets/horn-of-warning-1.png){align="left"; width="300"}![Horn of Warning 2](/taelgarverse/assets/horn-of-warning-2.png){align="right"; width="300"}
 
 
 

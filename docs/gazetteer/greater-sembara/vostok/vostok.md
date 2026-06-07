@@ -33,5 +33,5 @@ Few people live in the forests and hills of the northern plateaus, the region ca
 
 Far to the north, the border of Vostok is demarcated with a massive and ancient wall. Stretching 400 miles from the [Sentinel Range](<../../sentinel-range.md>) to the [Svinjo Mountains](<../../northern-green-sea/svinjo-mountains.md>), this wall is no longer maintained or defended by the people of Vostok or anyone else. It was built in some distant mythical past, so long ago that none now remember its purpose, except perhaps among the elves. Yet, due to the skill and magic woven into its construction, it still stands nearly as strong as ever today. 
 
-![Vostok Map](../../../assets/vostok-map.jpg)
+![Vostok Map](/taelgarverse/assets/vostok-map.jpg)
 

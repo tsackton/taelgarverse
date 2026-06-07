@@ -22,4 +22,4 @@ hide_toc: true
 </div>
 
 
-![Adam Gower](../../assets/adam-gower.webp){align="right"; width="300"}Factor, treasurer, and agent for the[Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Tollen
+![Adam Gower](/taelgarverse/assets/adam-gower.webp){align="right"; width="300"}Factor, treasurer, and agent for the[Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Tollen
