@@ -31,9 +31,9 @@ title: Zarkandur
 
 Zarkandur, the city of gems, is largely contained within a series of three large caverns that have been carefully tended and expanded by the dwarves over the centuries. The approach to the city, from the west along the Long Road, follows a wide passage to an enormous gate marking the entrance to the first cavern of Am’khazar. While the gate stands open except in times of danger or war, it is guarded and non-dwarves are questioned about their business. 
 
->[!info] A note on districts and names
->
-> *Am’khazar is spread over three large caverns. The first and biggest, home to much of the government and finance of the city, is known as Highside (for its size and feeling of space, and also buildings and streets that head up the walls); the second, where a lot of the history and upper class estates are, is known as Brightcave (for the lights and beauty); the third, with the academy and the densest cave formations, is known as Crystalrun. Within these three ‘main’ districts there may be smaller neighborhood names.*
+!!! info "A note on districts and names"
+	
+	*Am’khazar is spread over three large caverns. The first and biggest, home to much of the government and finance of the city, is known as Highside (for its size and feeling of space, and also buildings and streets that head up the walls); the second, where a lot of the history and upper class estates are, is known as Brightcave (for the lights and beauty); the third, with the academy and the densest cave formations, is known as Crystalrun. Within these three ‘main’ districts there may be smaller neighborhood names.*
 
   
 ### Highside

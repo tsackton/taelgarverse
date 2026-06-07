@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 45
 ---
 # Dunmari Frontier - Session 45
 
->[!info] Onward to Darba: in which the party recovers from battle, and finally reaches Darba
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Jul 23, 1748 DR to Aug 08, 1748 DR*
-> *On Earth: Thursday May 05, 2022*
-> *From [Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>) to the outskirts of [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)*
+!!! info "Onward to Darba: in which the party recovers from battle, and finally reaches Darba"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Jul 23, 1748 DR to Aug 08, 1748 DR*
+	*On Earth: Thursday May 05, 2022*
+	*From [Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>) to the outskirts of [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), after a narrow escape, traps a poison troll, and journeys to the outskirts of [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).
 

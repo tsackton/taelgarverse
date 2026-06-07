@@ -13,11 +13,11 @@ title: Dunmari Frontier - Seeker Solo Session 3
 ---
 # Dunmari Frontier - Seeker Solo Session 3
 
->[!info] The Sunset Thread: in which Seeker trades color for guidance
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), [Caulaus](<../../../people/pcs/dunmar-fellowship/guests/caulaus.md>)*
-> *In Taelgar: Oct 13, 1748 DR to Nov 13, 1748 DR*
-> *On Earth: Saturday Nov 12, 2022*
-> *[Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>) and [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>)*
+!!! info "The Sunset Thread: in which Seeker trades color for guidance"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), [Caulaus](<../../../people/pcs/dunmar-fellowship/guests/caulaus.md>)*
+	*In Taelgar: Oct 13, 1748 DR to Nov 13, 1748 DR*
+	*On Earth: Saturday Nov 12, 2022*
+	*[Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>) and [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>)*
 
 [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) crafts a [magical glove](<../treasure/glove-of-crystalized-magic.md>), defeats a [cursed giant](<../../../people/giants/vondar.md>), and trades with [Lady Eventide](<../../../people/fey/lady-eventide.md>) for passage to [Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>).
 

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 17
 ---
 # Dunmari Frontier - Session 17
 
->[!info] Karawa's Plight: in which the party returns to Karawa amid the aftermath of gnoll attacks
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Apr 16, 1748 DR to Apr 24, 1748 DR*
-> *On Earth: Friday Jan 22, 2021*
-> *From [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>) to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+!!! info "Karawa's Plight: in which the party returns to Karawa amid the aftermath of gnoll attacks"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Apr 16, 1748 DR to Apr 24, 1748 DR*
+	*On Earth: Friday Jan 22, 2021*
+	*From [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>) to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) combats gnolls, arrives in a devastated [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), and uncovers ominous signs, including an enigmatic figure known as [Agata](<../../../people/fey/agata.md>) Dustmother.
 

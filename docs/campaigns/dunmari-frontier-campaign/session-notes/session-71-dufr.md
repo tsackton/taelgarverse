@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 71
 ---
 # Dunmari Frontier - Session 71
 
->[!info] Storm's End: in which Hralgar's chains are broken and the tower falls
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Nov 23, 1748 DR*
-> *On Earth: Tuesday Feb 21, 2023*
-> *[Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>)*
+!!! info "Storm's End: in which Hralgar's chains are broken and the tower falls"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Nov 23, 1748 DR*
+	*On Earth: Tuesday Feb 21, 2023*
+	*[Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) battles a spectral [Hralgar](<../../../people/giants/hralgar.md>), breaks his bonds with an ancient elven poem, and watches as he liberates himself by destroying [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>).
 

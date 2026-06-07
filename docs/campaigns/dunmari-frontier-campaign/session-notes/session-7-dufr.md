@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 7
 ---
 # Dunmari Frontier - Session 7
 
->[!info] Northward Bound: in which the party heads to Raven's Hold
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Apr 07, 1748 DR to Apr 12, 1748 DR*
-> *On Earth: Sunday Aug 16, 2020*
-> *From [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Raven's Hold](<../../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>)*
+!!! info "Northward Bound: in which the party heads to Raven's Hold"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Apr 07, 1748 DR to Apr 12, 1748 DR*
+	*On Earth: Sunday Aug 16, 2020*
+	*From [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Raven's Hold](<../../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) heads north, encountering refugees and [centaurs](<../../../creatures/species/centaurs.md>), and survives a gnoll ambush as they approach [Raven's Hold](<../../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>).
 

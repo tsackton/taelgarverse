@@ -13,11 +13,11 @@ title: Dunmari Frontier - Seeker Solo Session 1 (Prequel)
 ---
 # Dunmari Frontier - Seeker Solo Session 1 (Prequel)
 
->[!info] Court of Chance: in which Seeker gambles with fate in the Feywild
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Sep 30, 1748 DR to Oct 03, 1748 DR*
-> *On Earth: Monday Oct 24, 2022*
-> *[Fortune's Rest](<../../../gazetteer/extraplanar/feywild/fortune-s-rest.md>), [Feywild](<../../../cosmology/feywild.md>)*
+!!! info "Court of Chance: in which Seeker gambles with fate in the Feywild"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Sep 30, 1748 DR to Oct 03, 1748 DR*
+	*On Earth: Monday Oct 24, 2022*
+	*[Fortune's Rest](<../../../gazetteer/extraplanar/feywild/fortune-s-rest.md>), [Feywild](<../../../cosmology/feywild.md>)*
 
 [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) navigates the whimsical perils of the [Feywild](<../../../cosmology/feywild.md>)'s [Fortune's Rest](<../../../gazetteer/extraplanar/feywild/fortune-s-rest.md>), earning the [Prince of Luck](<../../../people/extraplanar-powers/archfey/prince-of-luck.md>)'s favor through a daring dice game.
 ## Session Info

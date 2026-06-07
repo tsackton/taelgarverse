@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 131
 ---
 # Dunmari Frontier - Session 131
 
->[!info] Guerilla Warfare: in which the hobgoblins are harrassed on their march
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Aug 08, 1749 DR to Aug 10, 1749 DR*
-> *On Earth: Thursday Sep 11, 2025*
-> *Location: [Aurbez Plateau](<../../../gazetteer/upper-istaros/aurbez-plateau.md>) and the [Plaguelands](<../../../gazetteer/upper-istaros/plaguelands.md>)*
+!!! info "Guerilla Warfare: in which the hobgoblins are harrassed on their march"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Aug 08, 1749 DR to Aug 10, 1749 DR*
+	*On Earth: Thursday Sep 11, 2025*
+	*Location: [Aurbez Plateau](<../../../gazetteer/upper-istaros/aurbez-plateau.md>) and the [Plaguelands](<../../../gazetteer/upper-istaros/plaguelands.md>)*
 
 Across three days, the party battered the Iron Fang—tsunami, earthquake, infiltration—mauling the host as the Empress pushed relentlessly toward the Heartroot.
 ## Session Info

@@ -13,11 +13,11 @@ title: Addermarch Campaign - Session 8
 ---
 # Addermarch Campaign - Session 8
 
->[!info] Entering the Caverns: in which the party battles skeletons and oozes
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 13, 1715 DR*
-> *On Earth: Sunday Jan 05, 2025*
-> *[West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>)*
+!!! info "Entering the Caverns: in which the party battles skeletons and oozes"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 13, 1715 DR*
+	*On Earth: Sunday Jan 05, 2025*
+	*[West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>)*
 
 The adventurers face battles with a skeleton and gray oozes, uncovering ancient secrets and collecting [uligium](<../../things/materials/uligium.md>) underground.
 

@@ -20,10 +20,10 @@ title: Mournebrook
 
 
 # Mournebrook
->[!info]+ Information  
->   
->> A brook in [Addermarch](<../../addermarch/addermarch.md>)
->> Located in the [Wistel–Enst Watershed](<wistel-enst-watershed.md>)
+???+ info "Information"
+	  
+		A brook in [Addermarch](<../../addermarch/addermarch.md>)
+		Located in the [Wistel–Enst Watershed](<wistel-enst-watershed.md>)
 
 
 

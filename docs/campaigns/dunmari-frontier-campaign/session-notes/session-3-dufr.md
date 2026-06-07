@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 3
 ---
 # Dunmari Frontier - Session 3
 
->[!info] Fort Investigation: in which an old fort reveals its secrets
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
-> *In Taelgar: Mar 25, 1748 DR*
-> *On Earth: Thursday Jul 02, 2020*
-> *[Dunmari Fort (Gomat)](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>)*
+!!! info "Fort Investigation: in which an old fort reveals its secrets"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
+	*In Taelgar: Mar 25, 1748 DR*
+	*On Earth: Thursday Jul 02, 2020*
+	*[Dunmari Fort (Gomat)](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) explores a [ruined fort](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>), battles creatures, and uncovers magical items while putting an end to a curse.
 ## Session Info

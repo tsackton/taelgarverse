@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 129
 ---
 # Dunmari Frontier - Session 129
 
->[!info] Desperate Pleas: in which grave danger threatens Aurbez 
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Jul 05, 1749 DR to Aug 07, 1749 DR*
-> *On Earth: Monday Aug 11, 2025*
-> *Location: [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), [Aurbez Plateau](<../../../gazetteer/upper-istaros/aurbez-plateau.md>), and the [Plaguelands](<../../../gazetteer/upper-istaros/plaguelands.md>)*
+!!! info "Desperate Pleas: in which grave danger threatens Aurbez"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Jul 05, 1749 DR to Aug 07, 1749 DR*
+	*On Earth: Monday Aug 11, 2025*
+	*Location: [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), [Aurbez Plateau](<../../../gazetteer/upper-istaros/aurbez-plateau.md>), and the [Plaguelands](<../../../gazetteer/upper-istaros/plaguelands.md>)*
 
 After reshaping [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)'s [chalyte](<../../../things/materials/chalyte.md>) order, the party receives a desperate plea for aid from [Marcella](<../../../people/chardonians/marcella.md>), teleports to the [Aurbez Plateau](<../../../gazetteer/upper-istaros/aurbez-plateau.md>), scouts an ash‑shrouded hobgoblin host, and learns of the [Empress of Chaos](<../../../people/other-nonhumans/empress-of-chaos.md>)'s plan to spear the plateau's secret heart.
 

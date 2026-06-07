@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 2
 ---
 # Dunmari Frontier - Session 2
 
->[!info] Into the Desert: in which lizards are defeated and the party heads east
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
-> *In Taelgar: Mar 22, 1748 DR to Mar 25, 1748 DR*
-> *On Earth: Friday Jun 12, 2020*
-> *From [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>) to the [abandoned Dunmari fort](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>)*
+!!! info "Into the Desert: in which lizards are defeated and the party heads east"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
+	*In Taelgar: Mar 22, 1748 DR to Mar 25, 1748 DR*
+	*On Earth: Friday Jun 12, 2020*
+	*From [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>) to the [abandoned Dunmari fort](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeats giant lizards at [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>), uncovers signs of unnatural disturbances, and battles skeletons at a [ruined fort](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>).
 ## Session Info

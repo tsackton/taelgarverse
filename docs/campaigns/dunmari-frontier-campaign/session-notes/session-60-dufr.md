@@ -14,11 +14,11 @@ title: Dunmari Frontier - Wellby Solo Session 1 (Prequel)
 ---
 # Dunmari Frontier - Wellby Solo Session 1 (Prequel)
 
->[!info] Smoke and Secrets: in which Wellby aids in an escape and gathers tales
-> *Featuring: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: Sep 30, 1748 DR to Oct 12, 1748 DR*
-> *On Earth: Friday Oct 14, 2022*
-> *Aboard the [Wave Dancer](<../../../things/ships/wave-dancer.md>), [Eastern Green Sea](<../../../gazetteer/eastern-green-sea/eastern-green-sea.md>)*
+!!! info "Smoke and Secrets: in which Wellby aids in an escape and gathers tales"
+	*Featuring: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: Sep 30, 1748 DR to Oct 12, 1748 DR*
+	*On Earth: Friday Oct 14, 2022*
+	*Aboard the [Wave Dancer](<../../../things/ships/wave-dancer.md>), [Eastern Green Sea](<../../../gazetteer/eastern-green-sea/eastern-green-sea.md>)*
 
 [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) helps a halfling ship escape pirates and learns of kidnapped [Kenku](<../../../creatures/species/kenku.md>) experts on the [Feywild](<../../../cosmology/feywild.md>) in [Wahacha](<../../../gazetteer/eastern-green-sea/wahacha.md>).
 

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 117
 ---
 # Dunmari Frontier - Session 117
 
->[!info] The Last Emperor: in which the party defeats Apollyon
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 24, 1749 DR to May 30, 1749 DR*
-> *On Earth: Thursday Jan 02, 2025*
-> *[Apollyon's Temple](<../../../gazetteer/drankorian-hinterland/drankor/apollyon-s-temple.md>), [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)*
+!!! info "The Last Emperor: in which the party defeats Apollyon"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 24, 1749 DR to May 30, 1749 DR*
+	*On Earth: Thursday Jan 02, 2025*
+	*[Apollyon's Temple](<../../../gazetteer/drankorian-hinterland/drankor/apollyon-s-temple.md>), [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) battles and defeats Apollyon, then debates the future of the [Crown of Purity](<../../../things/artifacts-of-power/crown-of-purity.md>).
 ## Session Info

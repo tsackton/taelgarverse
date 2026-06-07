@@ -13,11 +13,11 @@ title: Dunmari Frontier - Delwath Solo Session 1 (Prequel)
 ---
 # Dunmari Frontier - Delwath Solo Session 1 (Prequel)
 
->[!info] Armbands of Entrapment: in which Delwath uncovers the secret of the Meswati
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
-> *In Taelgar: Sep 30, 1748 DR to Oct 06, 1748 DR*
-> *On Earth: Sunday Jul 31, 2022*
-> *[Ko'zula village](<../../../gazetteer/central-highlands/ko-zula-village.md>) in the [Forest of Dreams](<../../../gazetteer/central-highlands/forest-of-dreams.md>)*
+!!! info "Armbands of Entrapment: in which Delwath uncovers the secret of the Meswati"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
+	*In Taelgar: Sep 30, 1748 DR to Oct 06, 1748 DR*
+	*On Earth: Sunday Jul 31, 2022*
+	*[Ko'zula village](<../../../gazetteer/central-highlands/ko-zula-village.md>) in the [Forest of Dreams](<../../../gazetteer/central-highlands/forest-of-dreams.md>)*
 
 [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) discovers that Cha'mutte's shadow armbands are key to freeing the trapped [Meswati](<../../../gods-and-religions/gods/tanshi/meswati/meswati.md>) and prepares to seek allies for his quest.
 ## Session Info

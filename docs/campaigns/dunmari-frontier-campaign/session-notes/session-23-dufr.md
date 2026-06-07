@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 23
 ---
 # Dunmari Frontier - Session 23
 
->[!info] The Hall of Stories: in which the party travels through mystic memories and learns of the Order's past
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: May 11, 1748 DR*
-> *On Earth: Friday Apr 23, 2021*
-> *[Monastery of Bhishma](<../../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>)*
+!!! info "The Hall of Stories: in which the party travels through mystic memories and learns of the Order's past"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: May 11, 1748 DR*
+	*On Earth: Friday Apr 23, 2021*
+	*[Monastery of Bhishma](<../../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>)*
 
 [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)'s initiation at the monastery leads to a quest for a [missing artifact](<../../../things/artifacts-of-power/heart-of-shakun.md>), while the party learns of the land's dark history through magical memories.
 ## Session Info

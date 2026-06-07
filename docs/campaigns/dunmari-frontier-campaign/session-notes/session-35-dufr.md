@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 35
 ---
 # Dunmari Frontier - Session 35
 
->[!info] Tokra Mysteries: in which the party investigates a puzzling disappearance 
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Jul 01, 1748 DR*
-> *On Earth: Monday Dec 06, 2021*
-> *[Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)*
+!!! info "Tokra Mysteries: in which the party investigates a puzzling disappearance"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Jul 01, 1748 DR*
+	*On Earth: Monday Dec 06, 2021*
+	*[Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) researches mystical lore, delves into puzzling local affairs in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), and contemplates the enigma of lycanthropy as they plan their next move.
 ## Session Info

@@ -13,11 +13,11 @@ title: Addermarch Campaign - Session 1
 ---
 # Addermarch Campaign - Session 1
 
->[!info] Desolation at Torvaine Watch: in which the party battles zombies
-> *Featuring: [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: Apr 25, 1715 DR to Apr 28, 1715 DR*
-> *On Earth: Sunday Sep 08, 2024*
-> *[Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)*
+!!! info "Desolation at Torvaine Watch: in which the party battles zombies"
+	*Featuring: [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: Apr 25, 1715 DR to Apr 28, 1715 DR*
+	*On Earth: Sunday Sep 08, 2024*
+	*[Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>)*
 
 The adventurers face unexpected dangers on the road, and encounter zombies in [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>) while escorting a merchant to [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>).
 ## Timeline

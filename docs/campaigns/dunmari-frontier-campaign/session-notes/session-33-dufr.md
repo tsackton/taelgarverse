@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 33
 ---
 # Dunmari Frontier - Session 33
 
->[!info] The Road West: in which the party encounters magic and peril
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Jun 20, 1748 DR to Jun 30, 1748 DR*
-> *On Earth: Sunday Oct 24, 2021*
-> *From [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), following the [Stoneway](<../../../gazetteer/greater-dunmar/roads/stoneway.md>)*
+!!! info "The Road West: in which the party encounters magic and peril"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Jun 20, 1748 DR to Jun 30, 1748 DR*
+	*On Earth: Sunday Oct 24, 2021*
+	*From [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), following the [Stoneway](<../../../gazetteer/greater-dunmar/roads/stoneway.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)'s journey to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) is marked by a conversation with a strange fey named [Typhina](<../../../people/fey/typhina.md>), and magical encounters both wondrous and dangerous. 
 

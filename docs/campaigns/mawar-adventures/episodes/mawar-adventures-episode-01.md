@@ -17,11 +17,11 @@ title: Mawar Adventures Episode 01
 ---
 # Mawar Adventures Episode 01
 
->[!info] The Merfolk Visitor: in which a stolen drop of ocean is returned
-> *Featuring: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Wazir](<../../../people/pcs/mawar/wazir.md>), [Trok](<../../../people/pcs/mawar/trok.md>)*
-> *In Taelgar: Jul 23, 1747 DR*
-> *On Earth: Saturday, July 24, 2021*
-> *[Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) and [North Cliffs](<../../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>)*
+!!! info "The Merfolk Visitor: in which a stolen drop of ocean is returned"
+	*Featuring: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Wazir](<../../../people/pcs/mawar/wazir.md>), [Trok](<../../../people/pcs/mawar/trok.md>)*
+	*In Taelgar: Jul 23, 1747 DR*
+	*On Earth: Saturday, July 24, 2021*
+	*[Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) and [North Cliffs](<../../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>)*
 
 After strange omens trouble Hamri's harbor, [Ryu](<../../../people/pcs/mawar/ryu.md>), [Wazir](<../../../people/pcs/mawar/wazir.md>), and [Trok](<../../../people/pcs/mawar/trok.md>) rescue a merfolk traveler, recover a stolen drop of the [Sentient Ocean](<../../../people/extraplanar-powers/sentient-ocean.md>) from a tidal cave in the [North Cliffs](<../../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>), and find a coded scroll pointing to a deeper mystery.
 

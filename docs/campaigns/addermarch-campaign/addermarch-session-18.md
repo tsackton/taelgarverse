@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 18
 ---
 # Addermarch Campaign - Session 18
 
->[!info] Into the Mine: in which the fights skeletons and finds the mine blocked
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 26, 1715 DR - May 27, 1715 DR*
-> *On Earth: Friday January 2, 2026*
-> *[Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>)*
+!!! info "Into the Mine: in which the fights skeletons and finds the mine blocked"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 26, 1715 DR - May 27, 1715 DR*
+	*On Earth: Friday January 2, 2026*
+	*[Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>)*
 
 At [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>), the party clears the officer's barracks and pushes into the mine, where an intentional cave-in blocks the main tunnel and serpentine undead guard the way.
 

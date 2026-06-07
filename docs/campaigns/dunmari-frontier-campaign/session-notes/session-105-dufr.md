@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 105
 ---
 # Dunmari Frontier - Session 105
 
->[!info] The Cave of the Talking Bats: in which the party navigates elemental dangers
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: May 16, 1749 DR*
-> *On Earth: Tuesday Aug 20, 2024*
-> *[Awakened Jungle](<../../../gazetteer/drankorian-hinterland/awakened-jungle.md>)*
+!!! info "The Cave of the Talking Bats: in which the party navigates elemental dangers"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: May 16, 1749 DR*
+	*On Earth: Tuesday Aug 20, 2024*
+	*[Awakened Jungle](<../../../gazetteer/drankorian-hinterland/awakened-jungle.md>)*
 
 The Dunmar Fellowship battles chaos elementals in a cave and learns of the jungle's disturbance from talking bats, leading them to Canopy.
 ## Session Info

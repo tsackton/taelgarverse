@@ -21,8 +21,8 @@ title: Feywild
 
 The Feywild, classified as echo of the [Material Plane](<material-plane.md>) by the [Faculty of Metaphysics](<../groups/chardonian-organizations/faculty-of-metaphysics.md>), but given many other names and descriptions by countless poets, travelers, scholars, and storytellers, is a land of magic and emotion, a place of contrasts and mystery where the truth is rarely what it seems. Countless legends, songs, and whispered tales speak of fleeting, or not-so-fleeting, encounters with its strange, beautiful, and dangerous denizens, only a small handful of which are recorded here. While scholars debate the exact nature of the Feywild, its undeniable presence permeates the arts, folklore, and even the politics of Taelgar.
 
-> [!quote] *Beneath the Boughs*, one of the many sonnets written by [Thomas Hawke](<../people/tollenders/thomas-hawke.md>)
-> Beneath the boughs where twilight shadows play,  
+!!! quote "*Beneath the Boughs*, one of the many sonnets written by [Thomas Hawke](<../people/tollenders/thomas-hawke.md>)"
+	Beneath the boughs where twilight shadows play,  
 The fey spin bright, their songs a siren’s call.  
 Through glens of gold and meadows wrapped in gray,  
 Their laughter weaves a spell to bind us all.  

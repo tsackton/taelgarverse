@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 21
 ---
 # Dunmari Frontier - Session 21
 
->[!info] Rumors of the East: in which the party uncovers orcish plots and learns of Grash
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: May 05, 1748 DR to May 11, 1748 DR*
-> *On Earth: Saturday Mar 13, 2021*
-> *[Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>)*
+!!! info "Rumors of the East: in which the party uncovers orcish plots and learns of Grash"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: May 05, 1748 DR to May 11, 1748 DR*
+	*On Earth: Saturday Mar 13, 2021*
+	*[Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>)*
 
 The Dunmar Fellowship interrogates an [orc cleric](<../../../people/orcs/gorkil.md>), attends a funeral for fallen warriors, and begins a covert journey to the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>).
 ## Session Info

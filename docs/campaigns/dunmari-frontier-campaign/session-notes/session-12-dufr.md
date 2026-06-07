@@ -14,12 +14,12 @@ title: Dunmari Frontier - Session 12
 ---
 # Dunmari Frontier - Session 12
 
->[!info] Desperate Defense: in which the party repels a gnoll attack
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *Companions: [Vola](<../../../people/chardonians/vola.md>)*
-> *In Taelgar: Apr 13, 1748 DR*
-> *On Earth: Sunday Nov 08, 2020*
-> *[Raven's Hold](<../../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>)*
+!!! info "Desperate Defense: in which the party repels a gnoll attack"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*Companions: [Vola](<../../../people/chardonians/vola.md>)*
+	*In Taelgar: Apr 13, 1748 DR*
+	*On Earth: Sunday Nov 08, 2020*
+	*[Raven's Hold](<../../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) successfully repels waves of gnoll attacks, and then investigate [Raven's Hold](<../../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>), finding clues to its history. 
 ## Session Info

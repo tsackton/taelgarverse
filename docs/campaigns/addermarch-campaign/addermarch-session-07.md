@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 7
 ---
 # Addermarch Campaign - Session 7
 
->[!info] Into the Cave: in which the party discovers a cave dweller
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 12, 1715 DR to May 13, 1715 DR*
-> *On Earth: Sunday Dec 01, 2024*
-> *[Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>)*
+!!! info "Into the Cave: in which the party discovers a cave dweller"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 12, 1715 DR to May 13, 1715 DR*
+	*On Earth: Sunday Dec 01, 2024*
+	*[Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>)*
 
 The party navigates a forest, meets Norman, and enters a cave occupied by a giant and his wolf.
 

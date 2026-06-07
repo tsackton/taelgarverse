@@ -16,11 +16,11 @@ title: Labyrinths of the Lost - Session 3
 ---
 # Labyrinths of the Lost - Session 3
 
->[!info] Grimstone's Last Experiment: in which the party defeats Grimstone and escapes the manor
-> *Featuring: [Acescale](<../../../people/pcs/other-pcs/labyrinth-prisoners/acescale.md>), [Gaudin](<../../../people/pcs/other-pcs/labyrinth-prisoners/gaudin.md>), [Loria](<../../../people/pcs/other-pcs/labyrinth-prisoners/loria-underbough.md>), [Dilion](<../../../people/pcs/other-pcs/labyrinth-prisoners/dilion.md>)*
-> *In Taelgar: Oct 18, 1748 DR to Oct 19, 1748 DR*
-> *On Earth: Sunday, December 10, 2023*
-> *[Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>), [Grimstone's lair](<../../../gazetteer/western-green-sea/cymea/grimstone-s-lair.md>), and mountain road below [Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>)*
+!!! info "Grimstone's Last Experiment: in which the party defeats Grimstone and escapes the manor"
+	*Featuring: [Acescale](<../../../people/pcs/other-pcs/labyrinth-prisoners/acescale.md>), [Gaudin](<../../../people/pcs/other-pcs/labyrinth-prisoners/gaudin.md>), [Loria](<../../../people/pcs/other-pcs/labyrinth-prisoners/loria-underbough.md>), [Dilion](<../../../people/pcs/other-pcs/labyrinth-prisoners/dilion.md>)*
+	*In Taelgar: Oct 18, 1748 DR to Oct 19, 1748 DR*
+	*On Earth: Sunday, December 10, 2023*
+	*[Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>), [Grimstone's lair](<../../../gazetteer/western-green-sea/cymea/grimstone-s-lair.md>), and mountain road below [Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>)*
 
 The party descends into [Grimstone's lair](<../../../gazetteer/western-green-sea/cymea/grimstone-s-lair.md>) beneath [Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>), destroys undead pirates, bluffs and kills a human guard, and finally defeats [Grimstone](<../../../people/other-humans/grimstone.md>) and his stone constructs.
 

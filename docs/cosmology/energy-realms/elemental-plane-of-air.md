@@ -16,8 +16,8 @@ title: Elemental Plane of Air
 
 The Elemental Plane of Air, as described in the ancient elven poem [The Lay of Estar](<../../things/books/the-lay-of-estar.md>), is a realm of endless skies, of varied hues, across which vast clouds drift on the endless winds. It is a realm of extremes, from the soft, sweet-smelling summer's breeze blowing gentle clouds, to the howling winds and violence of a hurricane. While there is no ground on the Plane of Air, motes of earth float like islands in the sky, some as small as boulders, others miles upon miles across, and some cloud are solid enough to support great cities of djinni and other inhabitants of this plane. 
 
->[!quote] *An excerpt from The Lay of Estar*
->Endless skies of azure spread,  
+!!! quote "*An excerpt from The Lay of Estar*"
+	Endless skies of azure spread,  
 Where light and shadow softly wed;  
 No earth below, no bound nor shore,  
 A realm of winds that ever soar.

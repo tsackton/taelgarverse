@@ -14,12 +14,12 @@ title: Dunmari Frontier - Session 123
 ---
 # Dunmari Frontier - Session 123
 
->[!info] The Prismwell: in which Cloudspinner is freed and Amberglow redeemed
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In the Feywild: Late Afternoon*
-> *In Taelgar: Jun 13, 1749 DR to Jun 14, 1749 DR*
-> *On Earth: Thursday May 01, 2025*
-> *Location: Prismwell, Amberglow*
+!!! info "The Prismwell: in which Cloudspinner is freed and Amberglow redeemed"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In the Feywild: Late Afternoon*
+	*In Taelgar: Jun 13, 1749 DR to Jun 14, 1749 DR*
+	*On Earth: Thursday May 01, 2025*
+	*Location: Prismwell, Amberglow*
 
 The party narrowly escapes shadowy pursuit, frees the archfey [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>) at the [Prismwell](<../../../gazetteer/extraplanar/feywild/amberglow/prismwell.md>), and restores hope to [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>) before journeying home.
 

@@ -57,8 +57,8 @@ As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. 
 #### Thuhr
 As adult dwarf, you belong to one of seven thuhr: Ruler, Runecrafter, Priest, Warrior, Traveler, Stoneworker, Farmer. Your thuhr does not limit your choice of class or profession. Rather, it reflects your role and place in dwarven society. While your thuhr has no direct mechanical effects, if you wish to represent a typical life experience for a dwarf of your thuhr, you may select a special Background representing each thuhr.
 
->[!note] Binthuhr Dwarves
->If you are a binthuhr dwarf (a young dwarf who has not visited the Heart of the Mountain, or an adult who failed to complete their pilgrimage), you do not have a Thuhr, Baharezel's Blessing, or the Dwarven Rune Crafting trait. You may instead choose one 1st level feat to reflect your upbringing.
+!!! note "Binthuhr Dwarves"
+	If you are a binthuhr dwarf (a young dwarf who has not visited the Heart of the Mountain, or an adult who failed to complete their pilgrimage), you do not have a Thuhr, Baharezel's Blessing, or the Dwarven Rune Crafting trait. You may instead choose one 1st level feat to reflect your upbringing.
 
 #### Bahrazel's Blessing
 Your innate connection to the Bahrazel provides you with a supernatural blessing. Choose one of the following options: 

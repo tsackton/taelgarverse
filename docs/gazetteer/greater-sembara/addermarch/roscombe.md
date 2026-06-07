@@ -40,9 +40,9 @@ The central plaza contains a well and fountain, and supports daily local trade, 
 
 ## Inns and Taverns
 
->[!info]+ 
-> ***[The Traveler's Rest](<the-traveler-s-rest.md>).*** The only inn in Roscombe, a well-built two story building against the wall, near the South Gate, where the road from [Valcroix](<valcroix.md>) enters town. Run by [Bertrand LeBlanc](<../../../people/addermarians/bertrand-leblanc.md>), a charming middle-aged man with a personal connection to the Traveler. Efficient and organized, and a decent cook as well.
-> 
-> ***The Raven's Roost.*** A popular alehouse on the market square, where the locals hang out. Run by Madeline Brewer, a young woman, daughter of the old tavern keeper who died unexpectedly a few years ago. Madeline took over the family business and has been thriving. Known for their beer, and the primary brewer in town. 
-> 
-> ***The Toad.*** A slightly run down alehouse, also on the market square. Known for music but a bit seedy. Run by Rhys Dafydd *(REES DAV-ith)*, an older man who's lived here forever and knows all the stories, but doesn't really put much effort into maintenance and has no (living) children (won't talk about family). 
+???+ info ""
+	***[The Traveler's Rest](<the-traveler-s-rest.md>).*** The only inn in Roscombe, a well-built two story building against the wall, near the South Gate, where the road from [Valcroix](<valcroix.md>) enters town. Run by [Bertrand LeBlanc](<../../../people/addermarians/bertrand-leblanc.md>), a charming middle-aged man with a personal connection to the Traveler. Efficient and organized, and a decent cook as well.
+	
+	***The Raven's Roost.*** A popular alehouse on the market square, where the locals hang out. Run by Madeline Brewer, a young woman, daughter of the old tavern keeper who died unexpectedly a few years ago. Madeline took over the family business and has been thriving. Known for their beer, and the primary brewer in town. 
+	
+	***The Toad.*** A slightly run down alehouse, also on the market square. Known for music but a bit seedy. Run by Rhys Dafydd *(REES DAV-ith)*, an older man who's lived here forever and knows all the stories, but doesn't really put much effort into maintenance and has no (living) children (won't talk about family). 

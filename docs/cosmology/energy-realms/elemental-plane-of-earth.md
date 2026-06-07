@@ -16,26 +16,26 @@ title: Elemental Plane of Earth
 
 The Elemental Plane of Earth, as described in the revered dwarven saga _[The Song of the Eternal Earth](<../../things/books/the-song-of-the-eternal-earth.md>)_, is a realm of solid stone, where the walls of endless caverns press in, and the weight of rock dampens even the loudest echos. It is a land of endless stone, soil, and crystal formations in every imaginable hue, where labyrinthine tunnels twist and turn, glowing faintly with veins of precious minerals, leading to vast subterranean chambers. Although _The Song of Eternal Earth_ speaks of a "sunless sky", few scholars believe there is, in fact, a surface above the endless caverns of the Plane of Earth. 
 
-> [!quote] An excerpt from _The Song of Eternal Earth_  
-> Beneath the stone, where shadows lie  
-> And mountains touch a sunless sky  
-> The halls of earth stretch deep and wide  
-> A timeless realm where echoes die  
-> 
-> No breath of wind, no waters fall  
-> Just silence vast, that cloaks it all   
-> The ground holds firm beneath its weight   
-> An endless force, unshaken, tall 
->
-> Through crystal halls where treasures gleam  
-> With veins of gold and amber’s beam   
-> The earth keeps secrets, cold and still   
-> In depths beyond the brightest dream 
->
-> Beware the depths where stone may fall    
-> And shifting ground may bury all  
-> Its ancient will does not relent    
-> A silent power, vast and tall 
+!!! quote "An excerpt from _The Song of Eternal Earth_"
+	Beneath the stone, where shadows lie  
+	And mountains touch a sunless sky  
+	The halls of earth stretch deep and wide  
+	A timeless realm where echoes die  
+	
+	No breath of wind, no waters fall  
+	Just silence vast, that cloaks it all   
+	The ground holds firm beneath its weight   
+	An endless force, unshaken, tall 
+	
+	Through crystal halls where treasures gleam  
+	With veins of gold and amber’s beam   
+	The earth keeps secrets, cold and still   
+	In depths beyond the brightest dream 
+	
+	Beware the depths where stone may fall    
+	And shifting ground may bury all  
+	Its ancient will does not relent    
+	A silent power, vast and tall 
 
 ## Portals to the Plane of Earth
 

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 84
 ---
 # Dunmari Frontier - Session 84
 
->[!info] New Beginnings: in which the party gathers information
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: Jan 01, 1749 DR to Jan 03, 1749 DR*
-> *On Earth: Monday Sep 11, 2023*
-> *[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>)*
+!!! info "New Beginnings: in which the party gathers information"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: Jan 01, 1749 DR to Jan 03, 1749 DR*
+	*On Earth: Monday Sep 11, 2023*
+	*[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) exchanges artifacts for lore and strikes a deal to journey to the Edge of Echoes with [Faldrak Bronzehammer](<../../../people/dwarves/faldrak-bronzehammer.md>).
 ## Session Info

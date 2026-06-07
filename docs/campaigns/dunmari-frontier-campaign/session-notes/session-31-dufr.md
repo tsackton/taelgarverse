@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 31
 ---
 # Dunmari Frontier - Session 31
 
->[!info] Mirror of Liberation: in which the party frees a lost heir
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
-> *In Taelgar: Jun 04, 1748 DR to Jun 08, 1748 DR*
-> *On Earth: Friday Sep 24, 2021*
-> *From [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+!!! info "Mirror of Liberation: in which the party frees a lost heir"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
+	*In Taelgar: Jun 04, 1748 DR to Jun 08, 1748 DR*
+	*On Earth: Friday Sep 24, 2021*
+	*From [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
 
 The Dunmar Fellowship thwarts an attack by Agata's allies, safeguards treasure, and liberates [Nayan Sura](<../../../people/dunmari/sura.md>), the lost heir to [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), from an [enchanted mirror](<../treasure/mirror-of-soul-trapping.md>).
 

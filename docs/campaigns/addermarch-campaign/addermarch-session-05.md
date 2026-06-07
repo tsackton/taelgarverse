@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 5
 ---
 # Addermarch Campaign - Session 5
 
->[!info] Rescue and Confrontation: in which a prisoner is freed and a queen defeated
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 08, 1715 DR to May 09, 1715 DR*
-> *On Earth: Sunday Oct 27, 2024*
-> *The [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)*
+!!! info "Rescue and Confrontation: in which a prisoner is freed and a queen defeated"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 08, 1715 DR to May 09, 1715 DR*
+	*On Earth: Sunday Oct 27, 2024*
+	*The [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)*
 
 The adventurers rescue Colette, defeat the goblin queen, and destroy the Serpentine Dagger.
 

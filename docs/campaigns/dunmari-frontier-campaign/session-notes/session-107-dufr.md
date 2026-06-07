@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 107
 ---
 # Dunmari Frontier - Session 107
 
->[!info] Welcome to the Circular Island: in which the party explores a strange place
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: May 18, 1749 DR*
-> *On Earth: Thursday Sep 26, 2024*
-> *[Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)*
+!!! info "Welcome to the Circular Island: in which the party explores a strange place"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: May 18, 1749 DR*
+	*On Earth: Thursday Sep 26, 2024*
+	*[Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)*
 
 The Dunmar Fellowship explores the [Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>), uncovering its past as a refuge and a pilgrimage site.
 ## Session Info

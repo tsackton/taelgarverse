@@ -17,11 +17,11 @@ title: Into the Chasm - Episode 01
 ---
 # Into the Chasm - Episode 01
 
->[!info] Into the Chasm: in which a storm flings five strangers into Zeyfa's maze
-> *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
-> *In Taelgar: Jan 25, 1730 DR*
-> *On Earth: Monday, November 17, 2025*
-> *[Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) and [Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>)*
+!!! info "Into the Chasm: in which a storm flings five strangers into Zeyfa's maze"
+	*Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
+	*In Taelgar: Jan 25, 1730 DR*
+	*On Earth: Monday, November 17, 2025*
+	*[Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) and [Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>)*
 
 Drawn by omens around the [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>), five adventurers and a terrified Zimkovan woman are torn from the world by an impossible ice storm and awaken on a lone platform in [Zeyfa’s Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>), where ice wolves, wind-shaped shades, and chasm wisps test their resolve before they choose to leap into a maze that may be the only way out.
 

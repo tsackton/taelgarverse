@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 108
 ---
 # Dunmari Frontier - Session 108
 
->[!info] Meeting Dragonets: in which the party discovers possible allies on the island
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: May 18, 1749 DR to May 19, 1749 DR*
-> *On Earth: Friday Sep 27, 2024*
-> *[Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)*
+!!! info "Meeting Dragonets: in which the party discovers possible allies on the island"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: May 18, 1749 DR to May 19, 1749 DR*
+	*On Earth: Friday Sep 27, 2024*
+	*[Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) navigates alliances with Dragonets, explores ancient memorials, and seeks a way to address [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>) and [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>)'s threats.
 
@@ -63,52 +63,52 @@ Identifying the Temple of the Sibyl, dedicated to the deity of magic, knowledge,
 
 Once inside, they heard a booming voice emanating from the statue of the [Sibyl](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>), demanding proof of their allegiance to [Rai](<../../../people/pcs/great-war/rai.md>) before they could proceed. Delwath and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) exchanged glances, suspecting that the voice might be more mundane in origin than divine. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) used his tremorsense to locate movement below and discovered a dragonet hiding in a tunnel beneath the statue. With this knowledge, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) addressed the booming voice, recognizing the dragonet as [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>)—an elder who had once been in the presence of Rai. Kenzo spoke of his connection to [Rai](<../../../people/pcs/great-war/rai.md>) and presented a piece of jade, revealing their shared purpose.
 
->[!quote]+ Meeting Dimitaur
->
->Dimitaur: (speaking in a booming voice from inside the statue of the Sibyl) "Halt, or the gods will punish you!"
->
->Kenzo: (addressing Dimitaur) "Elder dragon, I've seen you before in the presence of Rai. I remember a vision with you—Rai as a statue, being visited by monks of my order. I've carried a piece of jade my entire life, given to me by my parents when I was born. I think you know what that is. Over the past year and a half, my companions and I have found more of these pieces, which we believe are connected to Rai's quest."
->
->Dimitaur: (booming voice) "The gods demand proof that you are friends and allies of this great wizard before they will speak to you."
->
->Delwath: (gesturing) "Didn't we just prove ourselves by coming here?"
->
->Dimitaur: "You might be thieves."
->
->Seeker: (quietly to the group) "I mean, we might be. Should I just dispel this thing with magic?"
->
->Delwath: "Sure, go ahead."
->
->Kenzo: (to the group) "It's just Dimitaur behind all this, but it's fine. We share Rai's purpose—to keep Apollyon captive."
->
->Seeker: (putting hands to the stone floor) "Let me use Tremorsense...there's something moving about ten feet below us, in a tunnel."
->
->Wellby: "We're friends."
->
->Delwath: "What proof would you accept if what we've done isn't enough?"
->
->Dimitaur: (pauses, considering, still speaking in a booming voice) "The gods are thinking for a moment."
->
->Seeker: "Wait, can you see us right now? Can you see the staff? We have four pieces of jade."
->
->Delwath: "Can you see it?"
->
->
->Dimitaur: (pausing) "The gods can only hear."
->
->Seeker: (dramatically) "Walk forward into our presence."
->
->Wellby: (gestures subtly) "There’s a peephole at the base of the statue… See it?"
->
->Kenzo: (laughing) "That would have been a much more dramatic reveal if we’d noticed earlier."
->
->Dimitaur: "The gods do not appreciate your sense of timing."
->
->Seeker: "Forgive us, almighty gods, for our poor timing."
->
->(They hear scraping from behind the altar—someone moving a stone tile, and then climbing up. An ancient, elderly dragonet appears, grayish with age, carrying a short staff in one hand and a wand in the other. He walks slowly, blinking a little.)
->
->Dimitaur: (in a softer voice now) "I would know the story of where you got those."
+???+ quote "Meeting Dimitaur"
+	
+	Dimitaur: (speaking in a booming voice from inside the statue of the Sibyl) "Halt, or the gods will punish you!"
+	
+	Kenzo: (addressing Dimitaur) "Elder dragon, I've seen you before in the presence of Rai. I remember a vision with you—Rai as a statue, being visited by monks of my order. I've carried a piece of jade my entire life, given to me by my parents when I was born. I think you know what that is. Over the past year and a half, my companions and I have found more of these pieces, which we believe are connected to Rai's quest."
+	
+	Dimitaur: (booming voice) "The gods demand proof that you are friends and allies of this great wizard before they will speak to you."
+	
+	Delwath: (gesturing) "Didn't we just prove ourselves by coming here?"
+	
+	Dimitaur: "You might be thieves."
+	
+	Seeker: (quietly to the group) "I mean, we might be. Should I just dispel this thing with magic?"
+	
+	Delwath: "Sure, go ahead."
+	
+	Kenzo: (to the group) "It's just Dimitaur behind all this, but it's fine. We share Rai's purpose—to keep Apollyon captive."
+	
+	Seeker: (putting hands to the stone floor) "Let me use Tremorsense...there's something moving about ten feet below us, in a tunnel."
+	
+	Wellby: "We're friends."
+	
+	Delwath: "What proof would you accept if what we've done isn't enough?"
+	
+	Dimitaur: (pauses, considering, still speaking in a booming voice) "The gods are thinking for a moment."
+	
+	Seeker: "Wait, can you see us right now? Can you see the staff? We have four pieces of jade."
+	
+	Delwath: "Can you see it?"
+	
+	
+	Dimitaur: (pausing) "The gods can only hear."
+	
+	Seeker: (dramatically) "Walk forward into our presence."
+	
+	Wellby: (gestures subtly) "There’s a peephole at the base of the statue… See it?"
+	
+	Kenzo: (laughing) "That would have been a much more dramatic reveal if we’d noticed earlier."
+	
+	Dimitaur: "The gods do not appreciate your sense of timing."
+	
+	Seeker: "Forgive us, almighty gods, for our poor timing."
+	
+	(They hear scraping from behind the altar—someone moving a stone tile, and then climbing up. An ancient, elderly dragonet appears, grayish with age, carrying a short staff in one hand and a wand in the other. He walks slowly, blinking a little.)
+	
+	Dimitaur: (in a softer voice now) "I would know the story of where you got those."
 
 After some tense back and forth, the party eventually befriended [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>), who emerged from the hidden tunnel. He was an ancient dragonet, gray with age, carrying a short staff in one hand and a wand in the other. Initially defensive, [Dimitaur](<../../../people/pcs/great-war/companions/dimitaur.md>) warmed to the party when they showed their genuine connection to Rai and shared their purpose. He spoke of [Rai](<../../../people/pcs/great-war/rai.md>), the island, and the dragonets, and [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>), as the party told stories of the jade pieces they had found. They also discussed Apollyon's impending escape, which was expected to occur in just 10 days, and Dimitaur revealed that Ra'ghemdros, the daughter of [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>), was tasked with guarding something important on the island. 
 

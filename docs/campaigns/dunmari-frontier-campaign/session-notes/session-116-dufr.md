@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 116
 ---
 # Dunmari Frontier - Session 116
 
->[!info] Battle for the Crown: in which the party defeats Fausto and enters Apollyon's domain
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 24, 1749 DR*
-> *On Earth: Wednesday Jan 01, 2025*
-> *[Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)*
+!!! info "Battle for the Crown: in which the party defeats Fausto and enters Apollyon's domain"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 24, 1749 DR*
+	*On Earth: Wednesday Jan 01, 2025*
+	*[Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)*
 
 The Dunmar Fellowship battles Fausto in Drankor, claims the Crown of Purity, and enters [Apollyon's temple](<../../../gazetteer/drankorian-hinterland/drankor/apollyon-s-temple.md>). 
 ## Session Info

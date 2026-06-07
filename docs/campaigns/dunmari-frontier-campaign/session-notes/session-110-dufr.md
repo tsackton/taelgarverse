@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 110
 ---
 # Dunmari Frontier - Session 110
 
->[!info] Ra'ghemdros' Fall: in which the party frees a prisoner and defeats a dragon
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: May 19, 1749 DR to May 21, 1749 DR*
-> *On Earth: Saturday Sep 28, 2024*
-> *[Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)*
+!!! info "Ra'ghemdros' Fall: in which the party frees a prisoner and defeats a dragon"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: May 19, 1749 DR to May 21, 1749 DR*
+	*On Earth: Saturday Sep 28, 2024*
+	*[Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) acquires the last fragment of jade, frees the [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>) from [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>)'s prison, and defeats the dragon [Ra'ghemdros](<../../../people/other-nonhumans/ra-ghemdros.md>), securing a significant victory and treasure for their quest.
 ## Session Info
@@ -52,19 +52,19 @@ Taking to the skies in the forms of swift birds, the party traveled westward, th
 
 The party reached the ruins of the villa where Ra'ghemdros made her lair by early afternoon. Above them, Ra'ghemdros perched, her presence imposing. Her black scales were interrupted only by the scar that shimmered in deep red hues. After a brief and obsequious conversation with Kenzo, she agreed to the trade, and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) offered to return in two hours with Apollyon's Throne. 
 
->[!quote]+ Ra'ghemdros' Negotiation
->
->Ra'ghemdros begins by introducing herself: "I am Ra'ghemdros, daughter of Cha'mutte, I am the Light Stealer and the Final Shadow, the Devourer of Drankor, the Last Empress of Hkar, known as the Eternal Night and Enslaver of the Secret Sunset."
->
->Kenzo bows deeply and addresses her respectfully: "The Final Shadow. It is an honor to be in your presence and to have this audience."
->
->Ra'ghemdros acknowledges them and listens to Kenzo's claim of having traveled to the western tower, her interest piqued. "Do you know of this place, the tower to the west?" Kenzo asks, to which she replies, "Of course. I know of everything in my domain."
->
->Ra'ghemdros expresses interest in what lies within the tower: "I would dearly love his throne, and I would be willing to trade. What is this you wish? The smallest trinket, a piece of jade?" Kenzo queries, "If I bring you his throne, you'd be willing to make that trade?" "Yes, I would", Ra'ghemdros replies. 
->
->When asked if they could obtain safe passage, Ra'ghemdros agrees but warns, "As soon as you take the jade, you must leave immediately. You will be no longer welcome. I would not have you lingering in my domain--I would not wish to draw Apollyon's Eye."
->
->Ra'ghemdros also warns of Apollyon's looming threat, stating, "All prisons fail..." while glancing at the nearby villa, which seems to be always at the forefront of her attention. 
+???+ quote "Ra'ghemdros' Negotiation"
+	
+	Ra'ghemdros begins by introducing herself: "I am Ra'ghemdros, daughter of Cha'mutte, I am the Light Stealer and the Final Shadow, the Devourer of Drankor, the Last Empress of Hkar, known as the Eternal Night and Enslaver of the Secret Sunset."
+	
+	Kenzo bows deeply and addresses her respectfully: "The Final Shadow. It is an honor to be in your presence and to have this audience."
+	
+	Ra'ghemdros acknowledges them and listens to Kenzo's claim of having traveled to the western tower, her interest piqued. "Do you know of this place, the tower to the west?" Kenzo asks, to which she replies, "Of course. I know of everything in my domain."
+	
+	Ra'ghemdros expresses interest in what lies within the tower: "I would dearly love his throne, and I would be willing to trade. What is this you wish? The smallest trinket, a piece of jade?" Kenzo queries, "If I bring you his throne, you'd be willing to make that trade?" "Yes, I would", Ra'ghemdros replies. 
+	
+	When asked if they could obtain safe passage, Ra'ghemdros agrees but warns, "As soon as you take the jade, you must leave immediately. You will be no longer welcome. I would not have you lingering in my domain--I would not wish to draw Apollyon's Eye."
+	
+	Ra'ghemdros also warns of Apollyon's looming threat, stating, "All prisons fail..." while glancing at the nearby villa, which seems to be always at the forefront of her attention. 
 
 With two hours to spare, the party set out to explore the villa that Ra'ghemdros had been eyeing, and where the fiend Kenzo sensed seemed to be. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) sent a rat to scout, uncovering a cellar guarded by floating acid columns, and in the cellar a room filled with statues and magical flames, until the rat was burned to a crisp by a fire trap. [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) then used clairvoyance, discovering a crypt with urns and a symbol of a flaming red eye surrounded by shadows—signs of Cha'mutte’s influence. 
 

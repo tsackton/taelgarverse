@@ -13,11 +13,11 @@ title: Addermarch Campaign - Session 3
 ---
 # Addermarch Campaign - Session 3
 
->[!info] Cockatrice Hunt: in which the party explores a cockatrice lair
-> *Featuring: [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 02, 1715 DR to May 04, 1715 DR*
-> *On Earth: Friday Sep 20, 2024*
-> *[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>)*
+!!! info "Cockatrice Hunt: in which the party explores a cockatrice lair"
+	*Featuring: [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 02, 1715 DR to May 04, 1715 DR*
+	*On Earth: Friday Sep 20, 2024*
+	*[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>)*
 
 The party hunts and kills a cockatrice, deals with a water nymph, and returns stolen treasure to [Elowen Duval](<../../people/addermarians/elowen-duval.md>).
 

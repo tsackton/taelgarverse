@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 88
 ---
 # Dunmari Frontier - Session 88
 
->[!info] The Battle for Uzgukhar: in which Grash is defeated and the Ring of Undying is destroyed
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Jan 17, 1749 DR to Jan 20, 1749 DR*
-> *On Earth: Tuesday Nov 21, 2023*
-> *[Uzgukhar](<../../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>)*
+!!! info "The Battle for Uzgukhar: in which Grash is defeated and the Ring of Undying is destroyed"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Jan 17, 1749 DR to Jan 20, 1749 DR*
+	*On Earth: Tuesday Nov 21, 2023*
+	*[Uzgukhar](<../../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>)*
 
 The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) destroys a trebuchet, defeats [Grash](<../../../people/other-nonhumans/grash.md>), and ends the undead siege on [Uzgukhar](<../../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), with [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) being killed and resurrected.
 

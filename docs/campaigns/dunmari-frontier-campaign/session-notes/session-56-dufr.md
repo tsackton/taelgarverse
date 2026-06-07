@@ -13,11 +13,11 @@ title: Dunmari Frontier - Riswynn Solo Session 1
 ---
 # Dunmari Frontier - Riswynn Solo Session 1
 
->[!info] Chalice of Redemption: in which debts to the gods are repaid
-> *Featuring: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Rothfis](<../../../people/pcs/dunmar-fellowship/guests/rothfis.md>), [Merash](<../../../people/pcs/dunmar-fellowship/guests/merash.md>), [Thror](<../../../people/pcs/dunmar-fellowship/guests/thror.md>)*
-> *In Taelgar: Aug 24, 1748 DR to Aug 25, 1748 DR*
-> *On Earth: Monday Sep 12, 2022*
-> *[Heart of the Mountain](<../../../cosmology/spiritual-realms/heart-of-the-mountain.md>) and [Morkalan](<../../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>)*
+!!! info "Chalice of Redemption: in which debts to the gods are repaid"
+	*Featuring: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Rothfis](<../../../people/pcs/dunmar-fellowship/guests/rothfis.md>), [Merash](<../../../people/pcs/dunmar-fellowship/guests/merash.md>), [Thror](<../../../people/pcs/dunmar-fellowship/guests/thror.md>)*
+	*In Taelgar: Aug 24, 1748 DR to Aug 25, 1748 DR*
+	*On Earth: Monday Sep 12, 2022*
+	*[Heart of the Mountain](<../../../cosmology/spiritual-realms/heart-of-the-mountain.md>) and [Morkalan](<../../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>)*
 
 [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) meets three other [Dwarves](<../../../creatures/species/dwarves.md>) in the [Heart of the Mountain](<../../../cosmology/spiritual-realms/heart-of-the-mountain.md>), all indebted to the [Bahrazel](<../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>), and they embark on a quest to redeem an evil dwarf in the [Shadowfolds](<../../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>) realm of [Morkalan](<../../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>). 
 ## Session Info

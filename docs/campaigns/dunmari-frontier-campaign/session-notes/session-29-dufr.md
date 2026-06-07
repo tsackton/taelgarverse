@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 29
 ---
 # Dunmari Frontier - Session 29
 
->[!info] Gnolls and Gratitude: in which a curse is lifted and a new path is chosen
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
-> *In Taelgar: May 29, 1748 DR to Jun 01, 1748 DR*
-> *On Earth: Wednesday Jul 28, 2021*
-> *[Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>) and [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+!!! info "Gnolls and Gratitude: in which a curse is lifted and a new path is chosen"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
+	*In Taelgar: May 29, 1748 DR to Jun 01, 1748 DR*
+	*On Earth: Wednesday Jul 28, 2021*
+	*[Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>) and [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) cures [Jumi](<../../../people/dunmari/jumi.md>), defeats a gnoll ambush, and returns to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), resolving to venture to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) for lore.
 ## Session Info

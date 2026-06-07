@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 20
 ---
 # Addermarch Campaign - Session 20
 
->[!info] The Heart Beneath Serethwyn Tor: in which the axe is unmade
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 27, 1715 DR - May 28, 1715 DR*
-> *On Earth: Sunday March 8, 2026*
-> *[Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>) and the mine below*
+!!! info "The Heart Beneath Serethwyn Tor: in which the axe is unmade"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 27, 1715 DR - May 28, 1715 DR*
+	*On Earth: Sunday March 8, 2026*
+	*[Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>) and the mine below*
 
 The party defeats the serpentine warlock beneath [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>), recovers [Duncan of Haldrenn](<../../people/addermarians/duncan-of-haldrenn.md>)'s letters and the stolen fey heart, uses [Trueflame](<../../things/materials/trueflame.md>) to destroy the [Serpentine Battleaxe](<../../things/magic-items/serpentine-battleaxe.md>), learns more of the [Avatus wars](<../../events/1300s/serpentine-wars.md>) from a dead ranger, and sets out for [Caradoc](<../../people/addermarians/caradoc.md>)'s to seek a way back into the [Feywild](<../../cosmology/feywild.md>).
 

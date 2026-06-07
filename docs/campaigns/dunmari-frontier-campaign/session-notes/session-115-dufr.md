@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 115
 ---
 # Dunmari Frontier - Session 115
 
->[!info] Freeing the Seven Souls: in which Apollyon's phylactery is destroyed in the Land of the Dead
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 23, 1749 DR to May 24, 1749 DR*
-> *On Earth: Sunday Dec 22, 2024*
-> *[Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>) and [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>)*
+!!! info "Freeing the Seven Souls: in which Apollyon's phylactery is destroyed in the Land of the Dead"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 23, 1749 DR to May 24, 1749 DR*
+	*On Earth: Sunday Dec 22, 2024*
+	*[Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>) and [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>)*
 
 The Dunmar Fellowship liberates seven souls and destroys Apollyon's phylactery, then counters Fausto's manipulation of their airship crew.
 ## Session Info

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 8
 ---
 # Dunmari Frontier - Session 8
 
->[!info] Under the Mountains: in which the party discovers a hidden entrance and faces a roper
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Apr 12, 1748 DR*
-> *On Earth: Thursday Sep 03, 2020*
-> *[Ruined Dwarven Outpost](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>)*
+!!! info "Under the Mountains: in which the party discovers a hidden entrance and faces a roper"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Apr 12, 1748 DR*
+	*On Earth: Thursday Sep 03, 2020*
+	*[Ruined Dwarven Outpost](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>)*
 
 The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) uncovers a secret mountain passage and combats a roper to gain passage through the [ruined Dwarven trading post](<../../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>).
 

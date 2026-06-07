@@ -13,11 +13,11 @@ title: Addermarch Campaign - Session 9
 ---
 # Addermarch Campaign - Session 9
 
->[!info]  An Unexpected Meeting Underground: in which the party befriends a kobold inventor and defeats a cave fisher
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 13, 1715 DR*
-> *On Earth: Sunday Jan 19, 2025*
-> *[West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>)*
+!!! info "An Unexpected Meeting Underground: in which the party befriends a kobold inventor and defeats a cave fisher"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 13, 1715 DR*
+	*On Earth: Sunday Jan 19, 2025*
+	*[West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>)*
 
 The party explores dangerous caverns, retrieves [uligium](<../../things/materials/uligium.md>), meets [Zibzig Sparkscale](<../../people/other-nonhumans/zibzig-sparkscale.md>), and defeats a cave fisher to aid him.
 

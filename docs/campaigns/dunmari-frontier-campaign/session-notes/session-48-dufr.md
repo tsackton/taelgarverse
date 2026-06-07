@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 48
 ---
 # Dunmari Frontier - Session 48
 
->[!info] Chardonian Connections: in which the party navigates secrets and rumors in Chardon
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Aug 21, 1748 DR to Aug 22, 1748 DR*
-> *On Earth: Wednesday Jun 22, 2022*
-> *[Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
+!!! info "Chardonian Connections: in which the party navigates secrets and rumors in Chardon"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Aug 21, 1748 DR to Aug 22, 1748 DR*
+	*On Earth: Wednesday Jun 22, 2022*
+	*[Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
 
 In Chardon, the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) learns about the dangers of [Chalyte](<../../../things/materials/chalyte.md>), speaks with friends old and new, and hears about [Fausto](<../../../people/chardonians/fausto.md>)'s wealth and influence. 
 ## Session Info

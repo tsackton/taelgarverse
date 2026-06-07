@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 103
 ---
 # Dunmari Frontier - Session 103
 
->[!info] Doppelganger Threats: in which clones and chaos abound
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 12, 1749 DR to May 14, 1749 DR*
-> *On Earth: Tuesday Jul 16, 2024*
-> *Uzgukhar and the Garamjala Desert*
+!!! info "Doppelganger Threats: in which clones and chaos abound"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 12, 1749 DR to May 14, 1749 DR*
+	*On Earth: Tuesday Jul 16, 2024*
+	*Uzgukhar and the Garamjala Desert*
 
 The party learns of doppelganger threats, resurrects fallen allies, and splits up to address multiple crises.
 

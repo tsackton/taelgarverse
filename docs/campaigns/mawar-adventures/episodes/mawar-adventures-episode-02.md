@@ -17,11 +17,11 @@ title: Mawar Adventures Episode 02
 ---
 # Mawar Adventures Episode 02
 
->[!info] The Tragedy of Azar: in which a grieving killer is unmasked
-> *Featuring: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Wazir](<../../../people/pcs/mawar/wazir.md>), [Trok](<../../../people/pcs/mawar/trok.md>), [Kaleho](<../../../people/pcs/mawar/kaleho.md>)*
-> *In Taelgar: Aug 03, 1747 DR to Aug 09, 1747 DR*
-> *On Earth: Thursday, August 19, 2021*
-> *[Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) and the [North Cliffs](<../../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>)*
+!!! info "The Tragedy of Azar: in which a grieving killer is unmasked"
+	*Featuring: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Wazir](<../../../people/pcs/mawar/wazir.md>), [Trok](<../../../people/pcs/mawar/trok.md>), [Kaleho](<../../../people/pcs/mawar/kaleho.md>)*
+	*In Taelgar: Aug 03, 1747 DR to Aug 09, 1747 DR*
+	*On Earth: Thursday, August 19, 2021*
+	*[Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) and the [North Cliffs](<../../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>)*
 
 Clues from [the Ciphered Scroll](<../notes/the-ciphered-scroll.md>) and the people of [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) lead [Ryu](<../../../people/pcs/mawar/ryu.md>), [Trok](<../../../people/pcs/mawar/trok.md>), [Wazir](<../../../people/pcs/mawar/wazir.md>), and [Kaleho](<../../../people/pcs/mawar/kaleho.md>) to [Azar the Lost](<../../../people/mawarans/azar-the-lost.md>), whose [Blood Knife](<../../../things/magic-items/blood-knife.md>) murders end after a dawn fight at Shark's Dock.
 

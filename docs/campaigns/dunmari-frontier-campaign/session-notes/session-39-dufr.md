@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 39
 ---
 # Dunmari Frontier - Session 39
 
->[!info] Pandemonium Confrontation: in which the party ends the werewolf threat in Tokra
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Jul 03, 1748 DR*
-> *On Earth: Sunday Feb 06, 2022*
-> *[Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) and surroundings* 
+!!! info "Pandemonium Confrontation: in which the party ends the werewolf threat in Tokra"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Jul 03, 1748 DR*
+	*On Earth: Sunday Feb 06, 2022*
+	*[Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) and surroundings* 
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) battles werewolves at a fort ruin, uncovers cult plots, and captures prisoners for interrogation before splitting up.
 

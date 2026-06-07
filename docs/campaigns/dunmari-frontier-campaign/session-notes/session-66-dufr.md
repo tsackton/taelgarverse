@@ -13,11 +13,11 @@ title: Dunmari Frontier - Wellby Solo Session 3
 ---
 # Dunmari Frontier - Wellby Solo Session 3
 
->[!info] Reflections of Danger: in which Wellby and companions face the Mirror Realm
-> *Featuring: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Alimash](<../../../people/pcs/dunmar-fellowship/guests/alimash.md>), [Shoal](<../../../people/pcs/dunmar-fellowship/guests/shoal.md>)*
-> *In Taelgar: Oct 14, 1748 DR to Nov 13, 1748 DR*
-> *On Earth: Saturday Nov 19, 2022*
-> *[Arryn's Tower](<../../../gazetteer/eastern-green-sea/arryn-s-tower.md>)*
+!!! info "Reflections of Danger: in which Wellby and companions face the Mirror Realm"
+	*Featuring: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Alimash](<../../../people/pcs/dunmar-fellowship/guests/alimash.md>), [Shoal](<../../../people/pcs/dunmar-fellowship/guests/shoal.md>)*
+	*In Taelgar: Oct 14, 1748 DR to Nov 13, 1748 DR*
+	*On Earth: Saturday Nov 19, 2022*
+	*[Arryn's Tower](<../../../gazetteer/eastern-green-sea/arryn-s-tower.md>)*
 
 [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and new allies defeat mirror entities and rescue the wizard [Arryn](<../../../people/other-humans/arryn.md>) from the [Mirror Realm](<../../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>), who then assists Wellby in journeying to the Feywild.
 ## Session Info

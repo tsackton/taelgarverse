@@ -17,11 +17,11 @@ title: Addermarch Campaign - Session 15
 
 # Addermarch Campaign - Session 15
 
->[!info] The Haunted Cottage: in which the party confronts a ghost and gathers clues
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 19, 1715 DR - May 21, 1715 DR*
-> *On Earth: Sunday November 16, 2025*
-> *[Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>) and [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)*
+!!! info "The Haunted Cottage: in which the party confronts a ghost and gathers clues"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 19, 1715 DR - May 21, 1715 DR*
+	*On Earth: Sunday November 16, 2025*
+	*[Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>) and [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)*
 
 The party investigates [Duncan of Haldrenn](<../../people/addermarians/duncan-of-haldrenn.md>)'s cottage, defeats a haunted shade, gathers clues, and returns to [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) to speak with [Caradoc](<../../people/addermarians/caradoc.md>). 
 

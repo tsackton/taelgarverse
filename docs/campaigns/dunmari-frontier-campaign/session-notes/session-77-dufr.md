@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 77
 ---
 # Dunmari Frontier - Session 77
 
->[!info] Strategic Alliances: in which secrets are revealed and plans made
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Dec 05, 1748 DR to Dec 06, 1748 DR*
-> *On Earth: Sunday May 21, 2023*
-> *[Uzgukhar](<../../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>)*
+!!! info "Strategic Alliances: in which secrets are revealed and plans made"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Dec 05, 1748 DR to Dec 06, 1748 DR*
+	*On Earth: Sunday May 21, 2023*
+	*[Uzgukhar](<../../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) discusses strategies and learns of the history and powers of the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>), while planning a trap for [Kadmos](<../../../people/chardonians/kadmos.md>)'s forces.
 

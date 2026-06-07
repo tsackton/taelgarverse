@@ -8,12 +8,12 @@ title: Vindristjarna Mechanics
 
 Vindristjarna can be controlled by manipulation of [Hralgar's Phasing Stone](<treasure/hralgar-s-phasing-stone.md>), which is installed in the Control Room. This outlines the basic mechanics of controlling [Vindristjarna](<../../things/ships/vindristjarna.md>) and the permanent magic that can be controlled via the phasing stone (the Planar Prism and the Icicle Turret). 
 
-> [!info]+ Attunement
->In order to use any of the magic of Vindristjarna, one must be attuned to the phasing stone. Unlike the normal rules for attunement, your attunement to Vindristjarna only ends if any of the following conditions are met:
-> - You die
-> - You spend a Short Rest ending your attunement
->
->Up to three creatures who have spent 6 weeks training to control the phasing stone, and up to one additional creature, can be attuned to the phasing stone at the same time. If another creature attempts to attune beyond these limits, the attunement fails. 
+???+ info "Attunement"
+	In order to use any of the magic of Vindristjarna, one must be attuned to the phasing stone. Unlike the normal rules for attunement, your attunement to Vindristjarna only ends if any of the following conditions are met:
+	- You die
+	- You spend a Short Rest ending your attunement
+	
+	Up to three creatures who have spent 6 weeks training to control the phasing stone, and up to one additional creature, can be attuned to the phasing stone at the same time. If another creature attempts to attune beyond these limits, the attunement fails. 
 
 ## Flying Vindristjarna
 

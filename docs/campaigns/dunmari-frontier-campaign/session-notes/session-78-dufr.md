@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 78
 ---
 # Dunmari Frontier - Session 78
 
->[!info] Palace Attack: in which Kadmos is defeated
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Dec 06, 1748 DR to Dec 08, 1748 DR*
-> *On Earth: Thursday Jun 01, 2023*
-> *[Uzgukhar](<../../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>)*
+!!! info "Palace Attack: in which Kadmos is defeated"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Dec 06, 1748 DR to Dec 08, 1748 DR*
+	*On Earth: Thursday Jun 01, 2023*
+	*[Uzgukhar](<../../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>)*
 
 The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) successfully defend the palace against [Kadmos](<../../../people/chardonians/kadmos.md>)'s attack and secure the [Cloak of Rainbows](<../../../things/artifacts-of-power/cloak-of-rainbows.md>).
 

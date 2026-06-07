@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 46
 ---
 # Dunmari Frontier - Session 46
 
->[!info] Darba Days: in which the party tackles errands and prepares for new quests
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Aug 08, 1748 DR to Aug 09, 1748 DR*
-> *On Earth: Friday May 13, 2022*
-> *[Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)*
+!!! info "Darba Days: in which the party tackles errands and prepares for new quests"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Aug 08, 1748 DR to Aug 09, 1748 DR*
+	*On Earth: Friday May 13, 2022*
+	*[Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) conducts various activities in [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) before setting sail for [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), leaving behind unexplored mysteries.
 

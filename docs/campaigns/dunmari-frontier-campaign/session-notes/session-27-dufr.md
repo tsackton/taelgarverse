@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 27
 ---
 # Dunmari Frontier - Session 27
 
->[!info] The Wellspring Standoff: in which the party faces gnolls and a cruel creature
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
-> *In Taelgar: May 24, 1748 DR to May 27, 1748 DR*
-> *On Earth: Wednesday Jul 07, 2021*
-> *[Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>)*
+!!! info "The Wellspring Standoff: in which the party faces gnolls and a cruel creature"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
+	*In Taelgar: May 24, 1748 DR to May 27, 1748 DR*
+	*On Earth: Wednesday Jul 07, 2021*
+	*[Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) embarks on a journey to [Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>), where they avoid gnolls, meet [Cintra](<../../../people/dunmari/cintra.md>), and hide from [Samerki](<../../../people/other-nonhumans/samerki.md>).
 ## Session Info

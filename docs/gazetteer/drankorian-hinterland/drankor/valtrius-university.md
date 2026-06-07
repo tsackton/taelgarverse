@@ -18,9 +18,9 @@ title: Valtrius University
 
 
 # Valtrius University
->[!info]+ Information  
->   
->> A ruined university in [Drankor](<drankor.md>)
+???+ info "Information"
+	  
+		A ruined university in [Drankor](<drankor.md>)
 
 Valtrius University was one of the three major universities of [Drankor](<drankor.md>) in the late empire, alongside the [Imperial University](<imperial-university.md>) and the [University of the Blessed Waters](<university-of-the-blessed-waters.md>).
 

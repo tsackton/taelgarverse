@@ -13,12 +13,12 @@ title: Dunmari Frontier - Session 120
 ---
 # Dunmari Frontier - Session 120
 
->[!info] The Revel in Emberwine: in which the party mingles at Sunwine Hall
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In the Feywild: Late Afternoon*
-> *In Taelgar: May 31, 1749 DR to June 7, 1749 DR*
-> *On Earth: Wednesday Mar 05, 2025*
-> *[Sunwine Hall](<../../../gazetteer/extraplanar/feywild/emberwine/sunwine-hall.md>), [Emberwine](<../../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>)*
+!!! info "The Revel in Emberwine: in which the party mingles at Sunwine Hall"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In the Feywild: Late Afternoon*
+	*In Taelgar: May 31, 1749 DR to June 7, 1749 DR*
+	*On Earth: Wednesday Mar 05, 2025*
+	*[Sunwine Hall](<../../../gazetteer/extraplanar/feywild/emberwine/sunwine-hall.md>), [Emberwine](<../../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) attends a celebration at [Sunwine Hall](<../../../gazetteer/extraplanar/feywild/emberwine/sunwine-hall.md>), in [Emberwine](<../../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), gaining allies and information for their quest to restore the [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>).
 ## Session Info

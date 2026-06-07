@@ -16,11 +16,11 @@ title: Into the Chasm - Episode 05
 ---
 # Into the Chasm - Episode 05
 
->[!info] The God Caller Below: in which Eidrikas sends them under
-> *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
-> *In Taelgar: Jan 29, 1730 DR*
-> *On Earth: Thursday, January 15, 2026*
-> *[Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) and [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) suspended structure*
+!!! info "The God Caller Below: in which Eidrikas sends them under"
+	*Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
+	*In Taelgar: Jan 29, 1730 DR*
+	*On Earth: Thursday, January 15, 2026*
+	*[Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) and [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) suspended structure*
 
 The party descends from Eidrikas's broken platform into the suspended chasm mechanism, bypasses a damaged custodian and lightning-filled conduit, and kills the Thark-marked god caller in the ruined chamber below.
 

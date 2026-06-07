@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 93
 ---
 # Dunmari Frontier - Session 93
 
->[!info] Dragon's Defeat: in which a dragon threat to the Vargaldi is vanquished
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Mar 21, 1749 DR*
-> *On Earth: Sunday Feb 11, 2024*
-> *Vargald camp, [~Northern Boreal Forest~](<../../../gazetteer/northern-green-sea/northern-boreal-forest.md>)*
+!!! info "Dragon's Defeat: in which a dragon threat to the Vargaldi is vanquished"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Mar 21, 1749 DR*
+	*On Earth: Sunday Feb 11, 2024*
+	*Vargald camp, [~Northern Boreal Forest~](<../../../gazetteer/northern-green-sea/northern-boreal-forest.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) protects the [Vargaldi](<../../../groups/cultures/vargaldi.md>) camp from a dragon, emerging victorious and strengthening ties with the community.
 ## Session Info

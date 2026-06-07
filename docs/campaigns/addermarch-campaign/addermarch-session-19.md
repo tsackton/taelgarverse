@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 19
 ---
 # Addermarch Campaign - Session 19
 
->[!info] The Depths of Serenwyth Tor: in which the party descends through the mines
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 27, 1715 DR - May 27, 1715 DR*
-> *On Earth: Monday February 16, 2026*
-> *[Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>) and the mine below*
+!!! info "The Depths of Serenwyth Tor: in which the party descends through the mines"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 27, 1715 DR - May 27, 1715 DR*
+	*On Earth: Monday February 16, 2026*
+	*[Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>) and the mine below*
 
 Starting from their resting place in the upper mine chambers, the party finds a ventilation shaft into deeper levels, survives a careless fall, and fights serpentine ghouls as they press deeper into the mines below Serethwyn Tor.
 

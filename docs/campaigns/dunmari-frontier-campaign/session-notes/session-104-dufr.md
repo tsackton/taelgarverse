@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 104
 ---
 # Dunmari Frontier - Session 104
 
->[!info] The Tower of the Colossus: in which the party defeats a giant construct
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: May 14, 1749 DR to May 16, 1749 DR*
-> *On Earth: Thursday Aug 08, 2024*
-> *Tower of the Colossus*
+!!! info "The Tower of the Colossus: in which the party defeats a giant construct"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: May 14, 1749 DR to May 16, 1749 DR*
+	*On Earth: Thursday Aug 08, 2024*
+	*Tower of the Colossus*
 
 The party investigates and defeats a colossal construct in the Tower of the Colossus, retrieves hidden treasures, and returns to Vindristjarna to continue their quest.
 ## Session Info

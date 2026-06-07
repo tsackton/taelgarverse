@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 17
 ---
 # Addermarch Campaign - Session 17
 
->[!info] Skeletons at Serethwyn Tor: in which the party defeats a skeleton host
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 24, 1715 DR - May 26, 1715 DR*
-> *On Earth: Sunday December 28, 2025*
-> *[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Westcliff](<../../gazetteer/greater-sembara/addermarch/westcliff.md>), and [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>)*
+!!! info "Skeletons at Serethwyn Tor: in which the party defeats a skeleton host"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 24, 1715 DR - May 26, 1715 DR*
+	*On Earth: Sunday December 28, 2025*
+	*[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Westcliff](<../../gazetteer/greater-sembara/addermarch/westcliff.md>), and [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>)*
 
 Following clues to the cursed [Serpentine Battleaxe](<../../things/magic-items/serpentine-battleaxe.md>), the party crosses the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), reaches [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>), fights a large skeleton force, and uncovers signs of recent disturbance and a broken mine map pointing deeper underground.
 

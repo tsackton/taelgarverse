@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 106
 ---
 # Dunmari Frontier - Session 106
 
->[!info] Journey to the Mysterious Island: in which the party battles corruption and sails a storm
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: May 16, 1749 DR to May 18, 1749 DR*
-> *On Earth: Thursday Sep 12, 2024*
-> *The [Awakened Jungle](<../../../gazetteer/drankorian-hinterland/awakened-jungle.md>) and a [mysterious island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)*
+!!! info "Journey to the Mysterious Island: in which the party battles corruption and sails a storm"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: May 16, 1749 DR to May 18, 1749 DR*
+	*On Earth: Thursday Sep 12, 2024*
+	*The [Awakened Jungle](<../../../gazetteer/drankorian-hinterland/awakened-jungle.md>) and a [mysterious island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)*
 
 The Dunmar Fellowship battles corruption at the Eldest tree and navigates a tumultuous storm to reach a mysterious island.
 ## Session Info

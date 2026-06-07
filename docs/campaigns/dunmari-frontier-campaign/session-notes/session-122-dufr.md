@@ -14,12 +14,12 @@ title: Dunmari Frontier - Session 122
 ---
 # Dunmari Frontier - Session 122
 
->[!info] Shadows Beneath Redsun Watch: in which the party banishes ancient darkness
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In the Feywild: Evening*
-> *In Taelgar: June 13, 1749 DR*
-> *On Earth: Thursday Apr 03, 2025*
-> *Location: [Redsun Watch](<../../../gazetteer/extraplanar/feywild/amberglow/redsun-watch.md>), [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>)*
+!!! info "Shadows Beneath Redsun Watch: in which the party banishes ancient darkness"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In the Feywild: Evening*
+	*In Taelgar: June 13, 1749 DR*
+	*On Earth: Thursday Apr 03, 2025*
+	*Location: [Redsun Watch](<../../../gazetteer/extraplanar/feywild/amberglow/redsun-watch.md>), [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) overcomes supernatural darkness and deadly foes to cleanse the depths beneath [Redsun Watch](<../../../gazetteer/extraplanar/feywild/amberglow/redsun-watch.md>), activating a long-lost beacon.
 

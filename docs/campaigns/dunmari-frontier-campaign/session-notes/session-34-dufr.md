@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 34
 ---
 # Dunmari Frontier - Session 34
 
->[!info] The Essence of Arborea: in which the party tames extraplanar chaos
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Jun 30, 1748 DR to Jul 01, 1748 DR*
-> *On Earth: Sunday Nov 07, 2021*
-> *[Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) and [Elven Arborea Workshop](<../../../gazetteer/greater-dunmar/hara-basin/elven-arborea-workshop.md>)*
+!!! info "The Essence of Arborea: in which the party tames extraplanar chaos"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Jun 30, 1748 DR to Jul 01, 1748 DR*
+	*On Earth: Sunday Nov 07, 2021*
+	*[Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) and [Elven Arborea Workshop](<../../../gazetteer/greater-dunmar/hara-basin/elven-arborea-workshop.md>)*
 
 The Dunmar Fellowship collects extraplanar energy from a connection to [Arborea](<../../../cosmology/spiritual-realms/arborea.md>) beneath the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) while contending with dangerous creatures.
 

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 26
 ---
 # Dunmari Frontier - Session 26
 
->[!info] The Crumbling Mesa: in which secrets and shadows emerge
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
-> *In Taelgar: May 23, 1748 DR to May 24, 1748 DR*
-> *On Earth: Tuesday Jun 01, 2021*
-> *[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+!!! info "The Crumbling Mesa: in which secrets and shadows emerge"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
+	*In Taelgar: May 23, 1748 DR to May 24, 1748 DR*
+	*On Earth: Tuesday Jun 01, 2021*
+	*[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
 
 The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) meets [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>), learns of the dire consequences of the missing [Heart of Shakun](<../../../things/artifacts-of-power/heart-of-shakun.md>), and battles shadows during an initiation ritual.
 ## Session Info

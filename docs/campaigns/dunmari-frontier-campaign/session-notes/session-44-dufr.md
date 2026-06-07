@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 44
 ---
 # Dunmari Frontier - Session 44
 
->[!info] Charm and Conflict: in which bitter battles are fought with Chardonians
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Jul 23, 1748 DR*
-> *On Earth: Thursday Apr 14, 2022*
-> *[Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>), [Copper Hills](<../../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>)*
+!!! info "Charm and Conflict: in which bitter battles are fought with Chardonians"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Jul 23, 1748 DR*
+	*On Earth: Thursday Apr 14, 2022*
+	*[Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>), [Copper Hills](<../../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>)*
 
 The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) engages in combat with charmed allies and adversaries, leading to a tense negotiation, a failed theft attempt, and a bitter truce in [Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>).
 ## Session Info

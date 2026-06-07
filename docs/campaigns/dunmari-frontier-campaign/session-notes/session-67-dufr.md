@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 67
 ---
 # Dunmari Frontier - Session 67
 
->[!info] Feywild Deception: in which the party confronts Agata Dustmother for a second time
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Caulaus](<../../../people/pcs/dunmar-fellowship/guests/caulaus.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: Nov 13, 1748 DR to Nov 15, 1748 DR*
-> *On Earth: Sunday Dec 04, 2022*
-> *[Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>) and the [Heartwood Grove](<../../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>)*
+!!! info "Feywild Deception: in which the party confronts Agata Dustmother for a second time"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Caulaus](<../../../people/pcs/dunmar-fellowship/guests/caulaus.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: Nov 13, 1748 DR to Nov 15, 1748 DR*
+	*On Earth: Sunday Dec 04, 2022*
+	*[Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>) and the [Heartwood Grove](<../../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) discovers Typhina's true identity as [Agata Dustmother](<../../../people/fey/agata.md>) and defeats her, with [Caulaus](<../../../people/pcs/dunmar-fellowship/guests/caulaus.md>) becoming the guardian of [Heartwood Grove](<../../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>).
 

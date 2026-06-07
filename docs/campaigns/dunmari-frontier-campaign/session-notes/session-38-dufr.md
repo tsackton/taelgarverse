@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 38
 ---
 # Dunmari Frontier - Session 38
 
->[!info] The Betrayer Moon: in which the party battles werewolves and uncovers secrets
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Jul 02, 1748 DR to Jul 03, 1748 DR*
-> *On Earth: Sunday Jan 23, 2022*
-> *[Lair of the Fraternity of the Empty Moon](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lair-of-the-fraternity-of-the-empty-moon.md>), [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)*
+!!! info "The Betrayer Moon: in which the party battles werewolves and uncovers secrets"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Jul 02, 1748 DR to Jul 03, 1748 DR*
+	*On Earth: Sunday Jan 23, 2022*
+	*[Lair of the Fraternity of the Empty Moon](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lair-of-the-fraternity-of-the-empty-moon.md>), [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) reunites with [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) who is hunting werewolves, and uncovers the secrets of the [Fraternity of the Empty Moon](<../../../groups/fraternity-of-the-empty-moon.md>) after a tense battle.
 

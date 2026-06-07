@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 43
 ---
 # Dunmari Frontier - Session 43
 
->[!info] Ambushes and Alliances: in which bandits are intimidated and wyverns subdued
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Jul 19, 1748 DR to Jul 23, 1748 DR*
-> *On Earth: Friday Mar 25, 2022*
-> *[Tokra-Darba Road](<../../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>)*
+!!! info "Ambushes and Alliances: in which bandits are intimidated and wyverns subdued"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Jul 19, 1748 DR to Jul 23, 1748 DR*
+	*On Earth: Friday Mar 25, 2022*
+	*[Tokra-Darba Road](<../../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) thwarts a bandit ambush, recruits the bandits, survives a wyvern attack, and confronts Chardonians.
 

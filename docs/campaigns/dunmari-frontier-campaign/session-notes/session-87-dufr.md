@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 87
 ---
 # Dunmari Frontier - Session 87
 
->[!info] Erelion's Secrets: in which the party uncovers hidden lore in Erelion
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: Jan 08, 1749 DR to Jan 16, 1749 DR*
-> *On Earth: Wednesday Nov 08, 2023*
-> *[Erelion](<../../../gazetteer/upper-istaros/orenlas/erelion.md>), [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>)*
+!!! info "Erelion's Secrets: in which the party uncovers hidden lore in Erelion"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: Jan 08, 1749 DR to Jan 16, 1749 DR*
+	*On Earth: Wednesday Nov 08, 2023*
+	*[Erelion](<../../../gazetteer/upper-istaros/orenlas/erelion.md>), [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>)*
 
 In the elven city of [Erelion](<../../../gazetteer/upper-istaros/orenlas/erelion.md>), the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) learns about [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>) and [Apollyon](<../../../people/historical-figures/drankorian-emperors/apollyon.md>) from the ailing elder [Arheste](<../../../people/elves/arheste.md>), before receiving an urgent plea to aid besieged [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>).
 

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 124
 ---
 # Dunmari Frontier - Session 124
 
->[!info] Rumors and Riots: in which the party catches up on news and heads for Chardon
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Jun 14, 1749 DR to Jun 27, 1749 DR*
-> *On Earth: Tuesday May 13, 2025*
-> *Location: Traveling from [Eastern Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>) to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
+!!! info "Rumors and Riots: in which the party catches up on news and heads for Chardon"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Jun 14, 1749 DR to Jun 27, 1749 DR*
+	*On Earth: Tuesday May 13, 2025*
+	*Location: Traveling from [Eastern Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>) to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
 
 Returning to [Vindristjarna](<../../../things/ships/vindristjarna.md>), the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) enjoys a rare respite, bids farewell to [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) and her companions, and learns of turmoil brewing in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) en route to the city. 
 ## Session Info

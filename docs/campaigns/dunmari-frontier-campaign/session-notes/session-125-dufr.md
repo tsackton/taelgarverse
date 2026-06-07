@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 125
 ---
 # Dunmari Frontier - Session 125
 
->[!info]  Return to Chardon: in which the party confronts suspicion and seeds revolution
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: Jun 27, 1749 DR*
-> *On Earth: Tuesday Jun 03, 2025*
-> *Location: [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
+!!! info "Return to Chardon: in which the party confronts suspicion and seeds revolution"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: Jun 27, 1749 DR*
+	*On Earth: Tuesday Jun 03, 2025*
+	*Location: [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
 
 The party returns to a riot-torn [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), connects with resistance leaders, and undergoes a tense interrogation.
 ## Session Info

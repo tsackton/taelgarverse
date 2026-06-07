@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 130
 ---
 # Dunmari Frontier - Session 130
 
->[!info] Council at Three Wells: in which the defense of the Heartroot is sworn
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Aug 07, 1749 DR*
-> *On Earth: Monday Aug 18, 2025*
-> *Location: [Three Wells](<../../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/three-wells.md>)*
+!!! info "Council at Three Wells: in which the defense of the Heartroot is sworn"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Aug 07, 1749 DR*
+	*On Earth: Monday Aug 18, 2025*
+	*Location: [Three Wells](<../../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/three-wells.md>)*
 
 At [Three Wells](<../../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/three-wells.md>), the Fellowship exposes the [Empress of Chaos](<../../../people/other-nonhumans/empress-of-chaos.md>)’ plan to corrupt the Heartroot, learns its secret from [Cateline Malras](<../../../people/aurbeze/cateline-malras.md>), receives a favorable omen, and commits the Alliance to defend the hidden valley while harrying the Iron Fang and hunting the Empress.
 ## Session Info

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Seeker Solo Session 2
 ---
 # Dunmari Frontier - Seeker Solo Session 2
 
->[!info] Crystal Peak Chaos: in which a wild magic storm is quelled
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), [Mikasa](<../../../people/pcs/dunmar-fellowship/guests/mikasa.md>)*
-> *In Taelgar: Oct 03, 1748 DR to Oct 12, 1748 DR*
-> *On Earth: Saturday Nov 05, 2022*
-> *[Crystal Peak](<../../../gazetteer/extraplanar/feywild/crystal-peak.md>) in the [Feywild](<../../../cosmology/feywild.md>)*
+!!! info "Crystal Peak Chaos: in which a wild magic storm is quelled"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), [Mikasa](<../../../people/pcs/dunmar-fellowship/guests/mikasa.md>)*
+	*In Taelgar: Oct 03, 1748 DR to Oct 12, 1748 DR*
+	*On Earth: Saturday Nov 05, 2022*
+	*[Crystal Peak](<../../../gazetteer/extraplanar/feywild/crystal-peak.md>) in the [Feywild](<../../../cosmology/feywild.md>)*
 
 Seeker and his companions subdue a wild magic storm at [Crystal Peak](<../../../gazetteer/extraplanar/feywild/crystal-peak.md>), receive mysterious gifts, and set off for further adventures.
 ## Session Info

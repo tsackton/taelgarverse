@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 83
 ---
 # Dunmari Frontier - Session 83
 
->[!info] Pyravela on Vindristjarna: in which the party gains knowledge and hosts a party
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: Dec 30, 1748 DR to Jan 01, 1749 DR*
-> *On Earth: Wednesday Aug 23, 2023*
-> *[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>)*
+!!! info "Pyravela on Vindristjarna: in which the party gains knowledge and hosts a party"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: Dec 30, 1748 DR to Jan 01, 1749 DR*
+	*On Earth: Wednesday Aug 23, 2023*
+	*[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>)*
 
 During the [Pyravela](<../../../gods-and-religions/holidays-and-festivals/pyravela.md>) festival, the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) attends celebrations, hosts a party, and acquires information.
 

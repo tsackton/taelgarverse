@@ -14,12 +14,12 @@ title: Dunmari Frontier - Session 86
 ---
 # Dunmari Frontier - Session 86
 
->[!info] Elemental Liberation: in which an ancient elemental is freed
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *Companions: [Faldrak](<../../../people/dwarves/faldrak-bronzehammer.md>)*
-> *In Taelgar: Jan 08, 1749 DR*
-> *On Earth: Monday Oct 16, 2023*
-> *[Drankorian ruins](<../../../gazetteer/western-green-sea/cymea/elemental-forge.md>)*
+!!! info "Elemental Liberation: in which an ancient elemental is freed"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*Companions: [Faldrak](<../../../people/dwarves/faldrak-bronzehammer.md>)*
+	*In Taelgar: Jan 08, 1749 DR*
+	*On Earth: Monday Oct 16, 2023*
+	*[Drankorian ruins](<../../../gazetteer/western-green-sea/cymea/elemental-forge.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) frees an elemental from ancient bindings in the [Drankorian ruins](<../../../gazetteer/western-green-sea/cymea/elemental-forge.md>), and learns its storied past.
 

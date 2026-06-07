@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 37
 ---
 # Dunmari Frontier - Session 37
 
->[!info] Moonlit Mayhem: in which the party confronts werewolves
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Jul 02, 1748 DR*
-> *On Earth: Monday Jan 03, 2022*
-> *[Lair of the Fraternity of the Empty Moon](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lair-of-the-fraternity-of-the-empty-moon.md>), [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)*
+!!! info "Moonlit Mayhem: in which the party confronts werewolves"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Jul 02, 1748 DR*
+	*On Earth: Monday Jan 03, 2022*
+	*[Lair of the Fraternity of the Empty Moon](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lair-of-the-fraternity-of-the-empty-moon.md>), [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) battles werewolves in their lair, rescues the imprisoned [Govir](<../../../people/dunmari/govir.md>), and defeats the pack's leader.
 ## Session Info

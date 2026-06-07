@@ -17,11 +17,11 @@ title: Labyrinths of the Lost - Session 1
 ---
 # Labyrinths of the Lost - Session 1
 
->[!info] The Smithy Escape: in which four captives escape their goblin jailers
-> *Featuring: [Acescale](<../../../people/pcs/other-pcs/labyrinth-prisoners/acescale.md>), [Gaudin](<../../../people/pcs/other-pcs/labyrinth-prisoners/gaudin.md>), [Loria](<../../../people/pcs/other-pcs/labyrinth-prisoners/loria-underbough.md>), [Dilion](<../../../people/pcs/other-pcs/labyrinth-prisoners/dilion.md>)*
-> *In Taelgar: Oct 17, 1748 DR*
-> *On Earth: Sunday, November 12, 2023*
-> *[Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>)*
+!!! info "The Smithy Escape: in which four captives escape their goblin jailers"
+	*Featuring: [Acescale](<../../../people/pcs/other-pcs/labyrinth-prisoners/acescale.md>), [Gaudin](<../../../people/pcs/other-pcs/labyrinth-prisoners/gaudin.md>), [Loria](<../../../people/pcs/other-pcs/labyrinth-prisoners/loria-underbough.md>), [Dilion](<../../../people/pcs/other-pcs/labyrinth-prisoners/dilion.md>)*
+	*In Taelgar: Oct 17, 1748 DR*
+	*On Earth: Sunday, November 12, 2023*
+	*[Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>)*
 
 Four prisoners break out of a smithy cell on the grounds of [Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>), kill two groups of goblin guards, capture [Folcan](<../../../people/other-nonhumans/folcan.md>), and learn about [Grimstone](<../../../people/other-humans/grimstone.md>), the leader of the kidnapping ring.
 

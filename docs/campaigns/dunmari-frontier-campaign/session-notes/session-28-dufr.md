@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 28
 ---
 # Dunmari Frontier - Session 28
 
->[!info] The Wellspring Trap: in which the party defeats Agata and Samerki
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
-> *In Taelgar: May 27, 1748 DR to May 29, 1748 DR*
-> *On Earth: Monday Jul 19, 2021*
-> *[Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>)*
+!!! info "The Wellspring Trap: in which the party defeats Agata and Samerki"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
+	*In Taelgar: May 27, 1748 DR to May 29, 1748 DR*
+	*On Earth: Monday Jul 19, 2021*
+	*[Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) successfully ambushes and defeats [Agata Dustmother](<../../../people/fey/agata.md>) and her servant [Samerki](<../../../people/other-nonhumans/samerki.md>) by setting a trap at [Shakun’s Wellspring](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/shakuns-wellspring.md>).
 

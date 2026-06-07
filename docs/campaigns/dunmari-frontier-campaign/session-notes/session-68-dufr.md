@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 68
 ---
 # Dunmari Frontier - Session 68
 
->[!info] Reunion: in which the party reunites and shares tales
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Nov 15, 1748 DR*
-> *On Earth: Thursday Jan 05, 2023*
-> *[Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>)*
+!!! info "Reunion: in which the party reunites and shares tales"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Nov 15, 1748 DR*
+	*On Earth: Thursday Jan 05, 2023*
+	*[Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) reunites, shares their extraordinary experiences, and plans their next moves amidst looming threats. 
 ## Session Info

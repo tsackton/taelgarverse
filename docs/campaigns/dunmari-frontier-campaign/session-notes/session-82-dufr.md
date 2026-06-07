@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 82
 ---
 # Dunmari Frontier - Session 82
 
->[!info] Pyravela Festivities: in which the party returns to Tollen for Pyravela
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: Dec 25, 1748 DR to Dec 30, 1748 DR*
-> *On Earth: Wednesday Aug 09, 2023*
-> *[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>)*
+!!! info "Pyravela Festivities: in which the party returns to Tollen for Pyravela"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: Dec 25, 1748 DR to Dec 30, 1748 DR*
+	*On Earth: Wednesday Aug 09, 2023*
+	*[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>)*
 
 The Dunmar Fellowship engages in [Pyravela](<../../../gods-and-religions/holidays-and-festivals/pyravela.md>) celebrations in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), exchanges stories, and uncovers clues about a magical jade garden.
 

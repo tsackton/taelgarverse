@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 81
 ---
 # Dunmari Frontier - Session 81
 
->[!info] Scepter's End: in which a cursed scepter is finally destroyed
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: Dec 17, 1748 DR to Dec 25, 1748 DR*
-> *On Earth: Friday Jul 28, 2023*
-> *[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), [Antaka](<../../../gazetteer/western-green-sea/skaerhem/antaka.md>), and [Vetta](<../../../gazetteer/western-green-sea/skaerhem/vetta.md>)*
+!!! info "Scepter's End: in which a cursed scepter is finally destroyed"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: Dec 17, 1748 DR to Dec 25, 1748 DR*
+	*On Earth: Friday Jul 28, 2023*
+	*[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), [Antaka](<../../../gazetteer/western-green-sea/skaerhem/antaka.md>), and [Vetta](<../../../gazetteer/western-green-sea/skaerhem/vetta.md>)*
 
 The Dunmar Fellowship defeats Urgall the Black and a demonic entity in Vetta, ultimately destroying the cursed Scepter of Command.
 

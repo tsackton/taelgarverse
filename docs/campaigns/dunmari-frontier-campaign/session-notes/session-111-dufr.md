@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 111
 ---
 # Dunmari Frontier - Session 111
 
->[!info] Approaching Drankor: in which the party plans their attack on their dopplegangers
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 21, 1749 DR to May 22, 1749 DR*
-> *On Earth: Thursday Oct 24, 2024*
-> *[Vindristjarna](<../../../things/ships/vindristjarna.md>) and outskirts of [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)*
+!!! info "Approaching Drankor: in which the party plans their attack on their dopplegangers"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 21, 1749 DR to May 22, 1749 DR*
+	*On Earth: Thursday Oct 24, 2024*
+	*[Vindristjarna](<../../../things/ships/vindristjarna.md>) and outskirts of [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) prepares to cautiously enter Drankor and deal with undead threats and doppelgangers.
 ## Session Info

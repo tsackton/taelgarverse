@@ -9,7 +9,7 @@ title: Orcs
 ---
 # Orcs
 
->[!quote] The Blood Binding, excerpt
+!!! quote "The Blood Binding, excerpt"
 *Thark, Master of Unbreakable Chains, in your fire we temper this soul. Bind it to your will, so it may never know peace, only the insatiable hunger for strife and turmoil.*
 
 

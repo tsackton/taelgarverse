@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 92
 ---
 # Dunmari Frontier - Session 92
 
->[!info] Giants, Ice Worms, and Shapeshifers: in which a battle forges a new alliance
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Mar 18, 1749 DR to Mar 21, 1749 DR*
-> *On Earth: Tuesday Feb 06, 2024*
-> *[Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) and the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>) river valley*
+!!! info "Giants, Ice Worms, and Shapeshifers: in which a battle forges a new alliance"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Mar 18, 1749 DR to Mar 21, 1749 DR*
+	*On Earth: Tuesday Feb 06, 2024*
+	*[Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) and the [Ket](<../../../gazetteer/northern-green-sea/rivers/ket.md>) river valley*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) gains King [Brimskarda](<../../../people/giants/brimskarda.md>)'s favor at [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) and forges an alliance with the [Vargaldi](<../../../groups/cultures/vargaldi.md>) after a fierce battle with an ice worm.
 ## Session Info

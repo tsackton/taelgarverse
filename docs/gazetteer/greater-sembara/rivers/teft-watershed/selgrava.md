@@ -20,10 +20,10 @@ title: Selgrava
 </div>
 
 
->[!info]+ Information  
->   
->> A river in [Breva](<../../zimkova/breva.md>), [Zimkova](<../../zimkova/zimkova.md>), [Greater Sembara](<../../greater-sembara.md>)
->> Located in the [Teft Watershed](<teft-watershed.md>), [Greater Sembara](<../../greater-sembara.md>)
+???+ info "Information"
+	  
+		A river in [Breva](<../../zimkova/breva.md>), [Zimkova](<../../zimkova/zimkova.md>), [Greater Sembara](<../../greater-sembara.md>)
+		Located in the [Teft Watershed](<teft-watershed.md>), [Greater Sembara](<../../greater-sembara.md>)
 
 The Selgrava is a small river in [Breva](<../../zimkova/breva.md>) that joins the [Teft](<teft.md>). It is the first river to join the Teft south of the [Great Chasm](<../../zimkova/great-chasm.md>), and the forests around the confluence with the Teft is home to the Vejo Vaikai.
 

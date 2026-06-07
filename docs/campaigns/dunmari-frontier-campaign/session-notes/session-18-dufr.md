@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 18
 ---
 # Dunmari Frontier - Session 18
 
->[!info] Questions and Doubt: in which mystical realms and strange silences are discussed
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Apr 24, 1748 DR*
-> *On Earth: Friday Feb 05, 2021*
-> *[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+!!! info "Questions and Doubt: in which mystical realms and strange silences are discussed"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Apr 24, 1748 DR*
+	*On Earth: Friday Feb 05, 2021*
+	*[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) delves into discussions of otherworldly planes and strange enemies, and decides to travel east into the desert to learn more. 
 

@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 19
 ---
 # Dunmari Frontier - Session 19
 
->[!info] Desert Travels: in which the party aids a monk and battles desert threats
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Apr 25, 1748 DR to May 02, 1748 DR*
-> *On Earth: Saturday Feb 13, 2021*
-> *From [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) and [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/hara-basin/pava-and-avaras-house.md>)*
+!!! info "Desert Travels: in which the party aids a monk and battles desert threats"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Apr 25, 1748 DR to May 02, 1748 DR*
+	*On Earth: Saturday Feb 13, 2021*
+	*From [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) and [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/hara-basin/pava-and-avaras-house.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)assists a [monk](<../../../people/dunmari/amil.md>) with funeral rites in [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>) and battles ogres en route to the [home](<../../../gazetteer/greater-dunmar/hara-basin/pava-and-avaras-house.md>) of two desert monks.
 

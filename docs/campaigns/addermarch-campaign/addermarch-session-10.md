@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 10
 ---
 # Addermarch Campaign - Session 10
 
->[!info] Battle with Darkmantles: in which the party fights darkmantles for [Uligium](<../../things/materials/uligium.md>).
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 14, 1715 DR to May 15, 1715 DR*
-> *On Earth: Sunday Feb 16, 2025*
-> *[West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>)*
+!!! info "Battle with Darkmantles: in which the party fights darkmantles for [Uligium](<../../things/materials/uligium.md>)."
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 14, 1715 DR to May 15, 1715 DR*
+	*On Earth: Sunday Feb 16, 2025*
+	*[West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>)*
 
 The party battles darkmantles for [uligium](<../../things/materials/uligium.md>) and travels back towards [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>).
 

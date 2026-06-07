@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 25
 ---
 # Dunmari Frontier - Session 25
 
->[!info] Desert Pursuits: in which the party evades orcs and shadows
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: May 13, 1748 DR to May 23, 1748 DR*
-> *On Earth: Monday May 17, 2021*
-> *From [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>) to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) via [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/hara-basin/pava-and-avaras-house.md>)*
+!!! info "Desert Pursuits: in which the party evades orcs and shadows"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: May 13, 1748 DR to May 23, 1748 DR*
+	*On Earth: Monday May 17, 2021*
+	*From [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>) to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) via [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/hara-basin/pava-and-avaras-house.md>)*
 
 The Dunmar Fellowship escapes orcs, battles night shadows, consults allies, and safely returns to Karawa.
 

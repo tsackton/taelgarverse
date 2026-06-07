@@ -7,13 +7,13 @@ title: Player's Guide
 
 This short guide provides an overview to the inhabitants of Taelgar, its magic and religions, and basic geography, places, and history. It is written loosely from the perspective of an educated commoner in the 1740s, by the  [common reckoning of human scholars](<calendar-eras.md#drankorian-reckoning>), or the 5880s, as the [dwarves count the years of the world](<calendar-eras.md#dwarven-count-of-years>). 
 
->[!tip] 
->The world of Taelgar is free of misogyny, racism, homophobia and gender panics. Characters should be men, women, or something else without fear it will limit their opportunities or that villagers will have historically accurate attitudes. It's a magical place created by the made up gods. Realistic sexism, homophobia, transphobia, and racism is pointless and unfun.
+!!! tip ""
+	The world of Taelgar is free of misogyny, racism, homophobia and gender panics. Characters should be men, women, or something else without fear it will limit their opportunities or that villagers will have historically accurate attitudes. It's a magical place created by the made up gods. Realistic sexism, homophobia, transphobia, and racism is pointless and unfun.
 
 Taelgar is a world of good and evil, where valiant heroes strive against the forces of darkness, created by evil gods seeking to undo all existence. While there is room in Taelgar for all kinds of stories and many shades of gray, many tales in Taelgar feature unredeemable evil, unambiguous villains, and noble heroes. Taelgar draws inspiration from many sources, especially classic D&D settings, high fantasy, and world history. Magic is rare and powerful, but once was much more common; while [Humans](<../creatures/species/humans.md>) dominate much of the world, they live alongside [Dwarves](<../creatures/species/dwarves.md>), [Halflings](<../creatures/species/halflings.md>), and other [sentient species](<../creatures/creatures-of-taelgar.md>).
 
->[!info] 
->This document and the links here contain a huge amount of information, representing years of playing and worldbuilding. While you are welcome to browse whatever you like, nothing in this document or in the links that it contains is required reading to play in Taelgar. The lore of Taelgar grows by the role-playing decisions of its players as much as the world building of its DMs. 
+!!! info ""
+	This document and the links here contain a huge amount of information, representing years of playing and worldbuilding. While you are welcome to browse whatever you like, nothing in this document or in the links that it contains is required reading to play in Taelgar. The lore of Taelgar grows by the role-playing decisions of its players as much as the world building of its DMs. 
 
 ## Geography and Culture
 

@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 6
 ---
 # Addermarch Campaign - Session 6
 
->[!info] The Ankheg of Fontwick: in which the party faces a burrowing menace
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 09, 1715 DR to May 12, 1715 DR*
-> *On Earth: Sunday Nov 17, 2024*
-> *[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and [Fontwick](<../../gazetteer/greater-sembara/addermarch/fontwick.md>)*
+!!! info "The Ankheg of Fontwick: in which the party faces a burrowing menace"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 09, 1715 DR to May 12, 1715 DR*
+	*On Earth: Sunday Nov 17, 2024*
+	*[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and [Fontwick](<../../gazetteer/greater-sembara/addermarch/fontwick.md>)*
 
 The party agrees to a quest to retrieve [Uligium](<../../things/materials/uligium.md>), defeats an ankheg terrorizing farmers, and is rewarded for their aid.
 

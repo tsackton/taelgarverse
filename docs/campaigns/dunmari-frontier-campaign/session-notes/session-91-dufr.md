@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 91
 ---
 # Dunmari Frontier - Session 91
 
->[!info] Into the Cold: in which the party negotiates with frost giants
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Mar 09, 1749 DR to Mar 18, 1749 DR*
-> *On Earth: Friday Jan 12, 2024*
-> *[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>) and the [Svinjo Mountains](<../../../gazetteer/northern-green-sea/svinjo-mountains.md>)*
+!!! info "Into the Cold: in which the party negotiates with frost giants"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Mar 09, 1749 DR to Mar 18, 1749 DR*
+	*On Earth: Friday Jan 12, 2024*
+	*[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>) and the [Svinjo Mountains](<../../../gazetteer/northern-green-sea/svinjo-mountains.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeats more shadow hunters, traverses the [Svinjo Mountains](<../../../gazetteer/northern-green-sea/svinjo-mountains.md>), and negotiates with frost giants, securing an audience with their king.
 ## Session Info

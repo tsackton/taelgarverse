@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 95
 ---
 # Dunmari Frontier - Session 95
 
->[!info] Decisions at Voknaz Manor: in which the party navigates Urskan politics and faces a crucial choice
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Apr 15, 1749 DR to May 02, 1749 DR*
-> *On Earth: Tuesday Mar 26, 2024*
-> *[Zvervinka](<../../../gazetteer/northern-green-sea/ursk/zvervinka.md>) to [Voknaz Manor](<../../../gazetteer/northern-green-sea/ursk/voknaz-manor.md>)*
+!!! info "Decisions at Voknaz Manor: in which the party navigates Urskan politics and faces a crucial choice"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Apr 15, 1749 DR to May 02, 1749 DR*
+	*On Earth: Tuesday Mar 26, 2024*
+	*[Zvervinka](<../../../gazetteer/northern-green-sea/ursk/zvervinka.md>) to [Voknaz Manor](<../../../gazetteer/northern-green-sea/ursk/voknaz-manor.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), after engaging with local politics and acquiring new magic, must choose between a perilous resurrection mission or assassinating a vampire lord.
 ## Session Info

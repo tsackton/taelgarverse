@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 97
 ---
 # Dunmari Frontier - Session 97
 
->[!info] Shadowkeep's Fall: in which the party vanquishes Rhodar von Glauer
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 03, 1749 DR to May 05, 1749 DR*
-> *On Earth: Sunday Apr 21, 2024*
-> *[Shadowkeep](<../../../gazetteer/northern-green-sea/shadowkeep.md>) and [Voknaz Manor](<../../../gazetteer/northern-green-sea/ursk/voknaz-manor.md>)*
+!!! info "Shadowkeep's Fall: in which the party vanquishes Rhodar von Glauer"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 03, 1749 DR to May 05, 1749 DR*
+	*On Earth: Sunday Apr 21, 2024*
+	*[Shadowkeep](<../../../gazetteer/northern-green-sea/shadowkeep.md>) and [Voknaz Manor](<../../../gazetteer/northern-green-sea/ursk/voknaz-manor.md>)*
 
 The Dunmar Fellowship defeats vampire Rhodar von Glauer, escapes the collapsing Shadowkeep, and advances their quest against Apollyon.
 

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 132
 ---
 # Dunmari Frontier - Session 132
 
->[!info] Defense of Aurbez: in which the heroes race to shield the Heartroot
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Aug 10, 1749 DR to Aug 12, 1749 DR*
-> *On Earth: Thursday Sep 25, 2025*
-> *Location: [Aurbez Plateau](<../../../gazetteer/upper-istaros/aurbez-plateau.md>)*
+!!! info "Defense of Aurbez: in which the heroes race to shield the Heartroot"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Aug 10, 1749 DR to Aug 12, 1749 DR*
+	*On Earth: Thursday Sep 25, 2025*
+	*Location: [Aurbez Plateau](<../../../gazetteer/upper-istaros/aurbez-plateau.md>)*
 
 The Dunmar Fellowship seizes a huge snake make of chaos metal, plan the defense of the Heartroot, battle hobgoblin fliers over Vindristjarna, and teleport to confront the Empress of Chaos and protect the Heartroot from her corruption.
 

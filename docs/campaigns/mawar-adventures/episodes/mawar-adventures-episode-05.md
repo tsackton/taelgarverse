@@ -17,11 +17,11 @@ title: Mawar Adventures Episode 05
 ---
 # Mawar Adventures Episode 05
 
->[!info] The Lost Legacy: in which the ocean's lost song is freed
-> *Featuring: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Wazir](<../../../people/pcs/mawar/wazir.md>), [Trok](<../../../people/pcs/mawar/trok.md>), [Nerissa](<../../../people/pcs/mawar/nerissa.md>), [Ander](<../../../people/pcs/mawar/ander.md>)*
-> *In Taelgar: May 26, 1749 DR to May 27, 1749 DR*
-> *On Earth: Tuesday, March 10, 2026*
-> *[Leviathan Inn](<../../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>), [North Cliffs](<../../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>), and [Shrine to Guzo the Mariner](<../../../gazetteer/northwest-coast/mawar-confederacy/shrine-to-guzo-the-mariner.md>)*
+!!! info "The Lost Legacy: in which the ocean's lost song is freed"
+	*Featuring: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Wazir](<../../../people/pcs/mawar/wazir.md>), [Trok](<../../../people/pcs/mawar/trok.md>), [Nerissa](<../../../people/pcs/mawar/nerissa.md>), [Ander](<../../../people/pcs/mawar/ander.md>)*
+	*In Taelgar: May 26, 1749 DR to May 27, 1749 DR*
+	*On Earth: Tuesday, March 10, 2026*
+	*[Leviathan Inn](<../../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>), [North Cliffs](<../../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>), and [Shrine to Guzo the Mariner](<../../../gazetteer/northwest-coast/mawar-confederacy/shrine-to-guzo-the-mariner.md>)*
 
 Rayna's plea leads the party to a buried [shrine of Guzo](<../../../gazetteer/northwest-coast/mawar-confederacy/shrine-to-guzo-the-mariner.md>), where they kill a trapped marid and recover a [crystal fragment](<../items-and-treasure/crystallized-song-fragment.md>) singing the song of the [Sentient Ocean](<../../../people/extraplanar-powers/sentient-ocean.md>).
 

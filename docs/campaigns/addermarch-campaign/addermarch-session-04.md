@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 4
 ---
 # Addermarch Campaign - Session 4
 
->[!info] Goblin Lair Assault: in which the party confronts goblins and traps
-> *Featuring: [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 05, 1715 DR to May 08, 1715 DR*
-> *On Earth: Sunday Oct 13, 2024*
-> *[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>)*
+!!! info "Goblin Lair Assault: in which the party confronts goblins and traps"
+	*Featuring: [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 05, 1715 DR to May 08, 1715 DR*
+	*On Earth: Sunday Oct 13, 2024*
+	*[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>)*
 
 The adventurers prepare in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), attend a manor dinner, and then successfully infiltrate and defeat some Goblins at their lair.
 

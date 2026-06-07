@@ -14,11 +14,11 @@ title: Dunmari Frontier - Kenzo Solo Session 1 (Prequel)
 ---
 # Dunmari Frontier - Kenzo Solo Session 1 (Prequel)
 
->[!info] Spiritual Sojourn: in which Kenzo aids and learns from lizardfolk
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)*
-> *In Taelgar: Sep 30, 1748 DR to Nov 02, 1748 DR*
-> *On Earth: Monday Sep 19, 2022*
-> *[Orekatu](<../../../gazetteer/faraway-places/orekatu.md>)*
+!!! info "Spiritual Sojourn: in which Kenzo aids and learns from lizardfolk"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)*
+	*In Taelgar: Sep 30, 1748 DR to Nov 02, 1748 DR*
+	*On Earth: Monday Sep 19, 2022*
+	*[Orekatu](<../../../gazetteer/faraway-places/orekatu.md>)*
 
 [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) saves a [Lizardfolk](<../../../creatures/species/lizardfolk.md>) named [Elazar](<../../../people/lizardfolk/elazar.md>), learns of a land's spiritual crisis, and embarks on an enlightening spirit journey with newfound allies.
 ## Session Info

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Delwath Solo Session 3
 ---
 # Dunmari Frontier - Delwath Solo Session 3
 
->[!info] Echoes of the Great War: in which the last of the trapped tanshi are freed
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>), [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>)*
-> *In Taelgar: Oct 09, 1748 DR to Oct 14, 1748 DR*
-> *On Earth: Tuesday Aug 16, 2022*
-> *[Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>)*
+!!! info "Echoes of the Great War: in which the last of the trapped tanshi are freed"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>), [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>)*
+	*In Taelgar: Oct 09, 1748 DR to Oct 14, 1748 DR*
+	*On Earth: Tuesday Aug 16, 2022*
+	*[Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>)*
 
 [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and his companions confront hobgoblin traitors in a shadow realm and battle an undead warlock at the Battle of Ye'mote while freeing the last of the [Meswati](<../../../gods-and-religions/gods/tanshi/meswati/meswati.md>).
 

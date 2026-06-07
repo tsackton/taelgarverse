@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 69
 ---
 # Dunmari Frontier - Session 69
 
->[!info] Rituals and Revelations: in which curses are broken and storms grow wild
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Nov 15, 1748 DR to Nov 23, 1748 DR*
-> *On Earth: Monday Jan 16, 2023*
-> *[Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>) to [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>)*
+!!! info "Rituals and Revelations: in which curses are broken and storms grow wild"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Nov 15, 1748 DR to Nov 23, 1748 DR*
+	*On Earth: Monday Jan 16, 2023*
+	*[Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>) to [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) breaks curses afflicting [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) and [Havdar](<../../../people/dunmari/havdar.md>), learns of allies' fates, and faces an intensified storm at [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>).
 ## Session Info

@@ -13,11 +13,11 @@ title: Addermarch Campaign - Session 2
 ---
 # Addermarch Campaign - Session 2
 
->[!info] The Cursed Dagger's Tale: in which a cursed dagger wreaks havoc
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: Apr 28, 1715 DR to May 01, 1715 DR*
-> *On Earth: Sunday Sep 15, 2024*
-> *[Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>) and [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)*
+!!! info "The Cursed Dagger's Tale: in which a cursed dagger wreaks havoc"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: Apr 28, 1715 DR to May 01, 1715 DR*
+	*On Earth: Sunday Sep 15, 2024*
+	*[Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>) and [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>)*
 
 The party discovers and grapples with the dangers of a cursed dagger, leading to tragic revelations and new allies in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>).
 

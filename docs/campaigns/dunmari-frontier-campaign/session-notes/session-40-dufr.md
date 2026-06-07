@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 40
 ---
 # Dunmari Frontier - Session 40
 
->[!info] Saka's Revelations: in which the past collides with advice for the future
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Jul 03, 1748 DR to Jul 06, 1748 DR*
-> *On Earth: Thursday Feb 17, 2022*
-> *[~North Tokra Plains~](<../../../gazetteer/greater-dunmar/hara-basin/north-tokra-plains.md>)*
+!!! info "Saka's Revelations: in which the past collides with advice for the future"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Jul 03, 1748 DR to Jul 06, 1748 DR*
+	*On Earth: Thursday Feb 17, 2022*
+	*[~North Tokra Plains~](<../../../gazetteer/greater-dunmar/hara-basin/north-tokra-plains.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) learns of [past tragedies](<../../../events/1700s/1718/awakened-soul-disaster.md>) and receives a cautionary tale from the elusive [Saka](<../../../people/dunmari/saka.md>).
 

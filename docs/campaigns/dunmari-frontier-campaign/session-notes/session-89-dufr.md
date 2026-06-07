@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 89
 ---
 # Dunmari Frontier - Session 89
 
->[!info] Cleansing Kharsan: in which the party explores Kharsan and recruits followers
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Jan 20, 1749 DR to Jan 30, 1749 DR*
-> *On Earth: Thursday Nov 30, 2023*
-> *From [Uzgukhar](<../../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>) to [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/hara-basin/pava-and-avaras-house.md>) via [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>)*
+!!! info "Cleansing Kharsan: in which the party explores Kharsan and recruits followers"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Jan 20, 1749 DR to Jan 30, 1749 DR*
+	*On Earth: Thursday Nov 30, 2023*
+	*From [Uzgukhar](<../../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>) to [Pava and Avaras' House](<../../../gazetteer/greater-dunmar/hara-basin/pava-and-avaras-house.md>) via [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>)*
 
 In the aftermath of victory, the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) is honored in [Uzgukhar](<../../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), explores and cleanses [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>), and recruits new followers, while contemplating their next move.
 ## Session Info

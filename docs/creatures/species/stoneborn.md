@@ -45,12 +45,12 @@ Rarely do Stoneborn venture down from the summits of the high places of the worl
 
 Those that do leave the mountains are generally either outcasts, departing their homes due to a disagreement, tragedy, or some other unusual circumstance, or individuals seeking training, knowledge, and skill not available except in the outside world.
 
->[!tip] Strange and Foreign
->Stoneborn tend to find the ambitions and greed that drive other races hard to understand, and rarely live among such folk. While they appreciate a desire for mastery, and the ambition to be the best at something is one that many Stoneborn feel, for them the skill is reward enough, and a desire for fame and fortune is foreign to them.
->
->The exception is the dwarves, who despite their rigid, hierarchical society and lust for mineral wealth, share a long history of being allies in wars against the [Orcs](<orcs.md>) and hobgoblins. Stoneborn still find dwarven society incomprehensible, but the proven loyalty and prowess in war of the dwarven armies has ensured a trusting, if not exactly warm and friendly, alliance.
->
->Stoneborn also tend to get along well with lizardfolk, who share some of their attitude towards the natural world and their love of their homeland, although Stoneborn find the lizardfolk love of swamps, forests, and and green living things to be strange.
+!!! tip "Strange and Foreign"
+	Stoneborn tend to find the ambitions and greed that drive other races hard to understand, and rarely live among such folk. While they appreciate a desire for mastery, and the ambition to be the best at something is one that many Stoneborn feel, for them the skill is reward enough, and a desire for fame and fortune is foreign to them.
+	
+	The exception is the dwarves, who despite their rigid, hierarchical society and lust for mineral wealth, share a long history of being allies in wars against the [Orcs](<orcs.md>) and hobgoblins. Stoneborn still find dwarven society incomprehensible, but the proven loyalty and prowess in war of the dwarven armies has ensured a trusting, if not exactly warm and friendly, alliance.
+	
+	Stoneborn also tend to get along well with lizardfolk, who share some of their attitude towards the natural world and their love of their homeland, although Stoneborn find the lizardfolk love of swamps, forests, and and green living things to be strange.
 
 ### Stoneborn Names
 Stoneborn names are a living, changing part of their identity. All Stoneborn have a birth name given by their parents, and clan name reflecting the community they belong to. While in many cases this is the community they were born into, Stoneborn who join a new community will often change their name when they feel they are fully a part of their new settlement. A Stoneborn's training and discipline is as much a part of their identity as their family and community, and most Stoneborn take a use name reflecting their skill or the lineage of the master they trained under. Names are not gendered in Stoneborn society. In normal usage, Stoneborn either go by their use name or their birth name. 

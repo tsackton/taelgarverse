@@ -14,11 +14,11 @@ title: Dunmari Frontier - Kenzo Solo Session 3
 ---
 # Dunmari Frontier - Kenzo Solo Session 3
 
->[!info] Healing Motua: in which Kenzo frees the jungle guardian
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>)*
-> *In Taelgar: Nov 06, 1748 DR to Nov 13, 1748 DR*
-> *On Earth: Wednesday Nov 09, 2022*
-> *[Azta Lekua](<../../../gazetteer/faraway-places/azta-lekua.md>)*
+!!! info "Healing Motua: in which Kenzo frees the jungle guardian"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>)*
+	*In Taelgar: Nov 06, 1748 DR to Nov 13, 1748 DR*
+	*On Earth: Wednesday Nov 09, 2022*
+	*[Azta Lekua](<../../../gazetteer/faraway-places/azta-lekua.md>)*
 
 [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) aids in healing [Motua](<../../../people/other-nonhumans/motua.md>), freeing the jungle's spirit guardian and restoring harmony.
 ## Session Info

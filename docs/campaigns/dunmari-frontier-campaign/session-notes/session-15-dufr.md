@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 15
 ---
 # Dunmari Frontier - Session 15
 
->[!info] Hralgar's Dreamscape: in which stars disappear and a giant speaks
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Apr 15, 1748 DR*
-> *On Earth: Saturday Dec 26, 2020*
-> *[Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>)*
+!!! info "Hralgar's Dreamscape: in which stars disappear and a giant speaks"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Apr 15, 1748 DR*
+	*On Earth: Saturday Dec 26, 2020*
+	*[Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) discovers the trapped storm giant [Hralgar](<../../../people/giants/hralgar.md>) and a statue with missing eyes inside [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>).
 

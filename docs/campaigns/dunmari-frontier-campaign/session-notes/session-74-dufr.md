@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 74
 ---
 # Dunmari Frontier - Session 74
 
->[!info] Skyship Repair: in which Vindristjarna is restored
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Nov 24, 1748 DR to Nov 29, 1748 DR*
-> *On Earth: Thursday Mar 30, 2023*
-> *[Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>)*
+!!! info "Skyship Repair: in which Vindristjarna is restored"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Nov 24, 1748 DR to Nov 29, 1748 DR*
+	*On Earth: Thursday Mar 30, 2023*
+	*[Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) successfully repairs the skyship [Vindristjarna](<../../../things/ships/vindristjarna.md>).
 

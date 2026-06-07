@@ -14,12 +14,12 @@ title: Dunmari Frontier - Session 121
 ---
 # Dunmari Frontier - Session 121
 
->[!info] Clash Along the Sunset Gate: in which the party faces wolf riders
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In the Feywild: Evening*
-> *In Taelgar: June 8, 1749 DR to June 13, 1749 DR*
-> *On Earth: Tuesday Mar 25, 2025*
-> *[Emberwine](<../../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>) and [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>)*
+!!! info "Clash Along the Sunset Gate: in which the party faces wolf riders"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In the Feywild: Evening*
+	*In Taelgar: June 8, 1749 DR to June 13, 1749 DR*
+	*On Earth: Tuesday Mar 25, 2025*
+	*[Emberwine](<../../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>) and [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>)*
 
 The Dunmar Fellowship crosses into Amberglow, and battles formidable wolf riders. 
 ## Session Info

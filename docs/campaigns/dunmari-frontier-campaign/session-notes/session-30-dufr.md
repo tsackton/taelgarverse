@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 30
 ---
 # Dunmari Frontier - Session 30
 
->[!info] Agata's Enchanted Lair: in which the party outsmarts magical traps
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
-> *In Taelgar: Jun 01, 1748 DR to Jun 04, 1748 DR*
-> *On Earth: Friday Sep 10, 2021*
-> *[Agata's Lair](<../../../gazetteer/greater-dunmar/hara-basin/agata-s-lair.md>)*
+!!! info "Agata's Enchanted Lair: in which the party outsmarts magical traps"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
+	*In Taelgar: Jun 01, 1748 DR to Jun 04, 1748 DR*
+	*On Earth: Friday Sep 10, 2021*
+	*[Agata's Lair](<../../../gazetteer/greater-dunmar/hara-basin/agata-s-lair.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) navigates magical defenses and loots [Agata's Lair](<../../../gazetteer/greater-dunmar/hara-basin/agata-s-lair.md>), rescuing enchanted victims and retreating to plan their next move.
 

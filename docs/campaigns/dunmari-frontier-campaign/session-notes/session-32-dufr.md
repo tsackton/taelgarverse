@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 32
 ---
 # Dunmari Frontier - Session 32
 
->[!info] The Feast of Bhishma: in which the party uncovers truths and forges new paths
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
-> *In Taelgar: Jun 09, 1748 DR to Jun 20, 1748 DR*
-> *On Earth: Thursday Oct 07, 2021*
-> *[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+!!! info "The Feast of Bhishma: in which the party uncovers truths and forges new paths"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Drikod](<../../../people/pcs/dunmar-fellowship/guests/drikod.md>)*
+	*In Taelgar: Jun 09, 1748 DR to Jun 20, 1748 DR*
+	*On Earth: Thursday Oct 07, 2021*
+	*[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) spends time in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), where they prepare for rituals, unlock ancient secrets, experience otherworldly visions, and form strategic alliances before departing for [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) after the [Feast of Bhishma](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>).
 ## Session Info

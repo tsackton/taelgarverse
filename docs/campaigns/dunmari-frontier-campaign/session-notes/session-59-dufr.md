@@ -14,11 +14,11 @@ title: Dunmari Frontier - Kenzo Solo Session 2
 ---
 # Dunmari Frontier - Kenzo Solo Session 2
 
->[!info] Journey to Azta Lekua: in which the spirit of a volcano seeks aid
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>)*
-> *In Taelgar: Nov 02, 1748 DR to Nov 06, 1748 DR*
-> *On Earth: Friday Oct 07, 2022*
-> *From [Bedez](<../../../gazetteer/faraway-places/bedez.md>) to the [Footprint of the Gods](<../../../gazetteer/faraway-places/azta-lekua.md>)*
+!!! info "Journey to Azta Lekua: in which the spirit of a volcano seeks aid"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Izzarak](<../../../people/pcs/dunmar-fellowship/guests/izzarak.md>)*
+	*In Taelgar: Nov 02, 1748 DR to Nov 06, 1748 DR*
+	*On Earth: Friday Oct 07, 2022*
+	*From [Bedez](<../../../gazetteer/faraway-places/bedez.md>) to the [Footprint of the Gods](<../../../gazetteer/faraway-places/azta-lekua.md>)*
 
 Kenzo and his lizardfolk allies meet Somi-nai, the volcano spirit, and learn about Motua, a guardian causing chaos in the Azta Lekua.
 

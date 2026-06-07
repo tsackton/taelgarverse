@@ -17,11 +17,11 @@ title: Labyrinths of the Lost - Session 2
 ---
 # Labyrinths of the Lost - Session 2
 
->[!info] Into the Manor: in which a sneaky path leads to ghostly clues
-> *Featuring: [Acescale](<../../../people/pcs/other-pcs/labyrinth-prisoners/acescale.md>), [Gaudin](<../../../people/pcs/other-pcs/labyrinth-prisoners/gaudin.md>), [Loria](<../../../people/pcs/other-pcs/labyrinth-prisoners/loria-underbough.md>), [Dilion](<../../../people/pcs/other-pcs/labyrinth-prisoners/dilion.md>)*
-> *In Taelgar: Oct 17, 1748 DR to Oct 18, 1748 DR*
-> *On Earth: Saturday, November 25, 2023*
-> *[Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>)*
+!!! info "Into the Manor: in which a sneaky path leads to ghostly clues"
+	*Featuring: [Acescale](<../../../people/pcs/other-pcs/labyrinth-prisoners/acescale.md>), [Gaudin](<../../../people/pcs/other-pcs/labyrinth-prisoners/gaudin.md>), [Loria](<../../../people/pcs/other-pcs/labyrinth-prisoners/loria-underbough.md>), [Dilion](<../../../people/pcs/other-pcs/labyrinth-prisoners/dilion.md>)*
+	*In Taelgar: Oct 17, 1748 DR to Oct 18, 1748 DR*
+	*On Earth: Saturday, November 25, 2023*
+	*[Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>)*
 
 After resting at the smithy, the party crosses [Perdoli Manor](<../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>) by stealth, defeats hobgoblins in the chapel crypt and ruined library, finds hidden records and a chained basilisk, and learns from a ghost that [Grimstone's lair](<../../../gazetteer/western-green-sea/cymea/grimstone-s-lair.md>) lies beneath the manor.
 

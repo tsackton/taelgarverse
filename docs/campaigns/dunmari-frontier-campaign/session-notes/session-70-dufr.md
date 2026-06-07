@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 70
 ---
 # Dunmari Frontier - Session 70
 
->[!info] Storm's Echo: in which the party confronts Hralgar's dream
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Nov 23, 1748 DR*
-> *On Earth: Thursday Feb 02, 2023*
-> *[Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>)*
+!!! info "Storm's Echo: in which the party confronts Hralgar's dream"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Nov 23, 1748 DR*
+	*On Earth: Thursday Feb 02, 2023*
+	*[Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) follows a possessed [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) into the storm around [Stormcaller Tower](<../../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), and engages with [Hralgar](<../../../people/giants/hralgar.md>)'s dreams, leading to his awakening and Kenzo's release.
 

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Wellby Solo Session 2
 ---
 # Dunmari Frontier - Wellby Solo Session 2
 
->[!info] Aboleth's Demise: in which an underwater evil is vanquished
-> *Featuring: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Rufus](<../../../people/pcs/dunmar-fellowship/guests/rufus.md>), [Artem Novolozek](<../../../people/pcs/dunmar-fellowship/guests/artem-novolozek.md>), [Alimash](<../../../people/pcs/dunmar-fellowship/guests/alimash.md>), [Shoal](<../../../people/pcs/dunmar-fellowship/guests/shoal.md>)*
-> *In Taelgar: Oct 13, 1748 DR to Oct 14, 1748 DR*
-> *On Earth: Friday Oct 28, 2022*
-> *Underwater lair in the ~Eastern Ocean~ near [Wahacha](<../../../gazetteer/eastern-green-sea/wahacha.md>)*
+!!! info "Aboleth's Demise: in which an underwater evil is vanquished"
+	*Featuring: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Rufus](<../../../people/pcs/dunmar-fellowship/guests/rufus.md>), [Artem Novolozek](<../../../people/pcs/dunmar-fellowship/guests/artem-novolozek.md>), [Alimash](<../../../people/pcs/dunmar-fellowship/guests/alimash.md>), [Shoal](<../../../people/pcs/dunmar-fellowship/guests/shoal.md>)*
+	*In Taelgar: Oct 13, 1748 DR to Oct 14, 1748 DR*
+	*On Earth: Friday Oct 28, 2022*
+	*Underwater lair in the ~Eastern Ocean~ near [Wahacha](<../../../gazetteer/eastern-green-sea/wahacha.md>)*
 
 [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and his companions successfully defeat an aboleth and its minions, liberating the enchanted prisoners.
 

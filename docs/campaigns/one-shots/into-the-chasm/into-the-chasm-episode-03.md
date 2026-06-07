@@ -17,11 +17,11 @@ title: Into the Chasm - Episode 03
 ---
 # Into the Chasm - Episode 03
 
->[!info] The Village in the Fog: in which Melusa opens below
-> *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
-> *In Taelgar: Jan 25, 1730 DR to Jan 26, 1730 DR*
-> *On Earth: Thursday, January 8, 2026*
-> *[Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>) and Melusa*
+!!! info "The Village in the Fog: in which Melusa opens below"
+	*Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
+	*In Taelgar: Jan 25, 1730 DR to Jan 26, 1730 DR*
+	*On Earth: Thursday, January 8, 2026*
+	*[Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>) and Melusa*
 
 The party kills the shaggy white beast, escapes [Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>) through a new earthen passage, shelters with Kalima's family in Melusa, and discovers the Ice Palace moving against the village.
 

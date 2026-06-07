@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 52
 ---
 # Dunmari Frontier - Session 52
 
->[!info] Grimbaskal's End: in which a tyrant dragon is vanquished
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Sep 06, 1748 DR to Sep 30, 1748 DR*
-> *On Earth: Saturday Jul 23, 2022*
-> *[Te'kula](<../../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) territory and the [Elderwood](<../../../gazetteer/central-highlands/elderwood.md>)*
+!!! info "Grimbaskal's End: in which a tyrant dragon is vanquished"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Sep 06, 1748 DR to Sep 30, 1748 DR*
+	*On Earth: Saturday Jul 23, 2022*
+	*[Te'kula](<../../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) territory and the [Elderwood](<../../../gazetteer/central-highlands/elderwood.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) flees from [Mezzar](<../../../people/other-nonhumans/mezzar.md>), who is revealed to be a dragon named [Grimbaskal](<../../../people/other-nonhumans/mezzar.md>), escapes to [Te'kula](<../../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) territory, and ultimately defeats the dragon, restoring peace.
 ## Session Info

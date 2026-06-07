@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 14
 ---
 # Addermarch Campaign - Session 14
 
->[!info] The Singing Tree: in which the fey threat is temporarily halted
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 18, 1715 DR - May 19, 1715 DR*
-> *On Earth: Sunday November 2, 2025*
-> *[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and the [Feywild](<../../cosmology/feywild.md>)*
+!!! info "The Singing Tree: in which the fey threat is temporarily halted"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 18, 1715 DR - May 19, 1715 DR*
+	*On Earth: Sunday November 2, 2025*
+	*[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and the [Feywild](<../../cosmology/feywild.md>)*
 
 The party defeats the Singing Tree, speaks to a rescued fey, and temporarily disables the [Nightsong Roots](<../../gazetteer/greater-sembara/addermarch/nightsong-roots.md>) Feywild portal before returning to [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>). 
 

@@ -13,12 +13,12 @@ title: Dunmari Frontier - Session 119
 ---
 # Dunmari Frontier - Session 119
 
->[!info] Journey to Emberwine: in which the party enters the Feywild
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In the Feywild: Late Afternoon*
-> *In Taelgar: May 30, 1749 DR to May 31, 1749 DR*
-> *On Earth: Friday Feb 14, 2025*
-> *[Emberwine](<../../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), [Feywild](<../../../cosmology/feywild.md>)*
+!!! info "Journey to Emberwine: in which the party enters the Feywild"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In the Feywild: Late Afternoon*
+	*In Taelgar: May 30, 1749 DR to May 31, 1749 DR*
+	*On Earth: Friday Feb 14, 2025*
+	*[Emberwine](<../../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), [Feywild](<../../../cosmology/feywild.md>)*
 
 The party enters the [Feywild](<../../../cosmology/feywild.md>), meets mystical beings, and is advised to proceed to [Sunwine Hall](<../../../gazetteer/extraplanar/feywild/emberwine/sunwine-hall.md>) to further their quest.
 ## Session Info

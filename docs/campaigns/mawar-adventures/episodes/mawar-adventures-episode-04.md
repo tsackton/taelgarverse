@@ -17,11 +17,11 @@ title: Mawar Adventures Episode 04
 ---
 # Mawar Adventures Episode 04
 
->[!info] The Chained Beast: In which Ander, Nerissa, and Ryu battle to save a captive dragon turtle.
-> *Featuring: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Nerissa](<../../../people/pcs/mawar/nerissa.md>), [Ander](<../../../people/pcs/mawar/ander.md>)*
-> *In Taelgar: Nov 08, 1747 DR to Nov 09, 1747 DR*
-> *On Earth: Monday, December 27, 2021*
-> *[Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), and the [Tzingola Marshes](<../../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>)*
+!!! info "The Chained Beast: In which Ander, Nerissa, and Ryu battle to save a captive dragon turtle."
+	*Featuring: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Nerissa](<../../../people/pcs/mawar/nerissa.md>), [Ander](<../../../people/pcs/mawar/ander.md>)*
+	*In Taelgar: Nov 08, 1747 DR to Nov 09, 1747 DR*
+	*On Earth: Monday, December 27, 2021*
+	*[Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), and the [Tzingola Marshes](<../../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>)*
 
 [Ryu](<../../../people/pcs/mawar/ryu.md>), [Nerissa](<../../../people/pcs/mawar/nerissa.md>), and [Ander](<../../../people/pcs/mawar/ander.md>) investigate killings near [Eskorola](<../../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), battle fire cultists, and free the dragon turtle [Chaessenth](<../../../people/other-nonhumans/chaessenth.md>) from a mage seeking to contact [Khathayi the Flametongue](<../../../people/other-humans/khathayi.md>).
 

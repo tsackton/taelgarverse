@@ -13,11 +13,11 @@ title: Dunmari Frontier - Delwath Solo Session 2
 ---
 # Dunmari Frontier - Delwath Solo Session 2
 
->[!info] Shadows of the Fallen: in which ancient battles haunt the present
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>), [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>)*
-> *In Taelgar: Oct 06, 1748 DR to Oct 09, 1748 DR*
-> *On Earth: Friday Aug 05, 2022*
-> *[Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>)*
+!!! info "Shadows of the Fallen: in which ancient battles haunt the present"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>), [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>)*
+	*In Taelgar: Oct 06, 1748 DR to Oct 09, 1748 DR*
+	*On Earth: Friday Aug 05, 2022*
+	*[Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>)*
 
 [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) and companions journey through the [Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>), confronting haunted battlefields and freeing [Tanshi](<../../../gods-and-religions/gods/tanshi/tanshi.md>) bound by cursed armbands.
 

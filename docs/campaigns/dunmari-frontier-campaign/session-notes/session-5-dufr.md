@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 5
 ---
 # Dunmari Frontier - Session 5
 
->[!info] Decisions in Karawa: in which the party attends a pivotal council
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Mar 30, 1748 DR to Apr 04, 1748 DR*
-> *On Earth: Friday Jul 24, 2020*
-> *[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+!!! info "Decisions in Karawa: in which the party attends a pivotal council"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Mar 30, 1748 DR to Apr 04, 1748 DR*
+	*On Earth: Friday Jul 24, 2020*
+	*[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
 
 The[Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) contemplates mystical visions and participates in a festival before influencing a council's decision to evacuate Karawa as gnoll attacks loom.
 

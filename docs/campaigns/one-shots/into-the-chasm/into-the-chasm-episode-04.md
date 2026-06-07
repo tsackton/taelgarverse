@@ -17,11 +17,11 @@ title: Into the Chasm - Episode 04
 ---
 # Into the Chasm - Episode 04
 
->[!info] The Druid in the Circuit: in which Malquin bargains and Eidrikas endures
-> *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
-> *In Taelgar: Jan 26, 1730 DR to Jan 29, 1730 DR*
-> *On Earth: Thursday, January 8, 2026*
-> *Melusa, Ice Palace, and [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>)*
+!!! info "The Druid in the Circuit: in which Malquin bargains and Eidrikas endures"
+	*Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
+	*In Taelgar: Jan 26, 1730 DR to Jan 29, 1730 DR*
+	*On Earth: Thursday, January 8, 2026*
+	*Melusa, Ice Palace, and [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>)*
 
 After [Kalima](<../../../people/sembarans/kalima.md>) disappears into Zahara's care, the party confronts Malquin for passage out of Melusa and finds [Eidrikas](<../../../people/sembarans/eidrikas.md>) holding the broken chasm mechanism together in the true [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>).
 

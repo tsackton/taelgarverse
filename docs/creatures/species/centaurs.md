@@ -12,7 +12,7 @@ This page contains lore information about centaurs. For details on character cre
 
 ![Centaur Plains Frontmatter](../../assets/centaur-plains-frontmatter.webp)
 
->[!quote] Centaur creation myth
+!!! quote "Centaur creation myth"
 *Long ago, before the form of the world was fixed, we walked the ever-changing land, mindless and soulless, empty but for the whims of the Archfey. Yestare, the Beginning, and Mettare, the Ending, stepped into this chaos, and spoke words of separation, words of renewal, words of power to fix the form of the world and bring meaning to the chaos. In this timeless moment of sundering, when the lands of the Archfey were pulled away from the world, the World reached out, and chose us to be its guardians.*
 >
 *Taelgar itself gave us life, a purpose, freedom and souls, an act of need to ensure the land was not forgotten, an act not of the gods, even Yestare and Mettare, but of a higher purpose.In that moment, we awoke to our new selves. Our hoofbeats were the first to stride across the new world, fixed in form. Our souls were the first to be made, not by any god or power but by the need of the land itself.*

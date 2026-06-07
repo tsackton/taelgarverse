@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 98
 ---
 # Dunmari Frontier - Session 98
 
->[!info] Voyage to Castrella: in which alliances are formed and clues found
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 05, 1749 DR to May 07, 1749 DR*
-> *On Earth: Thursday May 02, 2024*
-> *From [Nevium](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/nevium.md>) to [Castrella](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>)*
+!!! info "Voyage to Castrella: in which alliances are formed and clues found"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 05, 1749 DR to May 07, 1749 DR*
+	*On Earth: Thursday May 02, 2024*
+	*From [Nevium](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/nevium.md>) to [Castrella](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) forms new alliances and gathers crucial information as they sail from [Nevium](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/nevium.md>) to [Castrella](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>) in search of clues for their quest.
 

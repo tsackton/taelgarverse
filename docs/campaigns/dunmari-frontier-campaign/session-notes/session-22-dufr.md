@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 22
 ---
 # Dunmari Frontier - Session 22
 
->[!info] Monastery Battles: in which the party fights manticores and orcs who lurk in the Monastery of Bhishma
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: May 11, 1748 DR*
-> *On Earth: Thursday Apr 08, 2021*
-> *[Monastery of Bhishma](<../../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>)*
+!!! info "Monastery Battles: in which the party fights manticores and orcs who lurk in the Monastery of Bhishma"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: May 11, 1748 DR*
+	*On Earth: Thursday Apr 08, 2021*
+	*[Monastery of Bhishma](<../../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeats manticores and orcs at the [Monastery of Bhishma](<../../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>) and uncovers the secrets of the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>).
 ## Session Info

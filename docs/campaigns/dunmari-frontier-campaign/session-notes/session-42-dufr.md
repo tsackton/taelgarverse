@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 42
 ---
 # Dunmari Frontier - Session 42
 
->[!info] The Journey West Begins: in which the party leaves Tokra for Darba
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Jul 13, 1748 DR to Jul 18, 1748 DR*
-> *On Earth: Sunday Mar 13, 2022*
-> *[Stoneway](<../../../gazetteer/greater-dunmar/roads/stoneway.md>)*
+!!! info "The Journey West Begins: in which the party leaves Tokra for Darba"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Jul 13, 1748 DR to Jul 18, 1748 DR*
+	*On Earth: Sunday Mar 13, 2022*
+	*[Stoneway](<../../../gazetteer/greater-dunmar/roads/stoneway.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) receives gifts, rumors, and magic in [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), and then sets out towards [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).
 ## Session Info

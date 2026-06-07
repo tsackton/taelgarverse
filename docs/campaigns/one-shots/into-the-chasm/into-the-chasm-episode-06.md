@@ -16,11 +16,11 @@ title: Into the Chasm - Episode 06
 ---
 # Into the Chasm - Episode 06
 
->[!info] The Portal Narrows: in which the willing escape Melusa
-> *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
-> *In Taelgar: Jan 29, 1730 DR*
-> *On Earth: Wednesday, February 4, 2026*
-> *[Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) and Melusa*
+!!! info "The Portal Narrows: in which the willing escape Melusa"
+	*Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
+	*In Taelgar: Jan 29, 1730 DR*
+	*On Earth: Wednesday, February 4, 2026*
+	*[Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>) and Melusa*
 
 The party recovers the keystone, delays the repair long enough to return to Melusa, rescues the villagers willing to flee, and begins arranging their survival in the true [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>).
 

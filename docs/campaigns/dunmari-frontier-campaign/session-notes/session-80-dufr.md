@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 80
 ---
 # Dunmari Frontier - Session 80
 
->[!info] Arrival in Tollen: in which the party gathers rumors and makes connections in Tollen
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: Dec 10, 1748 DR to Dec 17, 1748 DR*
-> *On Earth: Thursday Jul 27, 2023*
-> *[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>)*
+!!! info "Arrival in Tollen: in which the party gathers rumors and makes connections in Tollen"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: Dec 10, 1748 DR to Dec 17, 1748 DR*
+	*On Earth: Thursday Jul 27, 2023*
+	*[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>)*
 
 The Dunmar Fellowship arrives in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), seeking allies and information.
 ## Session Info

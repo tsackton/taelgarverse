@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 20
 ---
 # Dunmari Frontier - Session 20
 
->[!info] At the Stone House: in which history and past disaster are discussed, and orcs defeated
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: May 02, 1748 DR to May 05, 1748 DR*
-> *On Earth: Saturday Feb 27, 2021*
-> *[Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>)*
+!!! info "At the Stone House: in which history and past disaster are discussed, and orcs defeated"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: May 02, 1748 DR to May 05, 1748 DR*
+	*On Earth: Saturday Feb 27, 2021*
+	*[Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) discusses Delwath's mysterious past and learns about the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) with [Pava](<../../../people/dunmari/pava.md>) and [Avaras](<../../../people/dunmari/avaras.md>), before aiding in an orc battle at [Havdar](<../../../people/dunmari/havdar.md>)'s camp.
 

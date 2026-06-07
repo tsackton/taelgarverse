@@ -13,11 +13,11 @@ title: Dunmari Frontier - Riswynn Solo Session 2
 ---
 # Dunmari Frontier - Riswynn Solo Session 2
 
->[!info] Redemption of Hagrim: in which a ghostly past is confronted
-> *Featuring: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Rothfis](<../../../people/pcs/dunmar-fellowship/guests/rothfis.md>), [Merash](<../../../people/pcs/dunmar-fellowship/guests/merash.md>), [Thror](<../../../people/pcs/dunmar-fellowship/guests/thror.md>)*
-> *In Taelgar: Aug 25, 1748 DR to Nov 15, 1748 DR*
-> *On Earth: Monday Sep 26, 2022*
-> *[Morkalan](<../../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>)*
+!!! info "Redemption of Hagrim: in which a ghostly past is confronted"
+	*Featuring: [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), [Rothfis](<../../../people/pcs/dunmar-fellowship/guests/rothfis.md>), [Merash](<../../../people/pcs/dunmar-fellowship/guests/merash.md>), [Thror](<../../../people/pcs/dunmar-fellowship/guests/thror.md>)*
+	*In Taelgar: Aug 25, 1748 DR to Nov 15, 1748 DR*
+	*On Earth: Monday Sep 26, 2022*
+	*[Morkalan](<../../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>)*
 
 Riswynn and her companions uncover the story of [Morkalan](<../../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>) and redeem the ghost of [Hagrim](<../../../people/dwarves/hagrim.md>).
 ## Session Info

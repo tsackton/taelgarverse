@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 50
 ---
 # Dunmari Frontier - Session 50
 
->[!info] Shadows in the Night: in which the party desperately flees east
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Aug 24, 1748 DR to Aug 29, 1748 DR*
-> *On Earth: Thursday Jul 21, 2022*
-> *[Chasa River Valley](<../../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/chasa-river-valley.md>)*
+!!! info "Shadows in the Night: in which the party desperately flees east"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Aug 24, 1748 DR to Aug 29, 1748 DR*
+	*On Earth: Thursday Jul 21, 2022*
+	*[Chasa River Valley](<../../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/chasa-river-valley.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) escapes eastward, contending with shadow attacks and nightmares while trying to outpace their pursuers.
 ## Session Info

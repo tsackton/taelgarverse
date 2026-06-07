@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 76
 ---
 # Dunmari Frontier - Session 76
 
->[!info] The People of the Rainbow: in which the party navigates orcish diplomacy in Xurkhaz
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Dec 04, 1748 DR to Dec 05, 1748 DR*
-> *On Earth: Sunday May 07, 2023*
-> *[Xurkhaz](<../../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>)*
+!!! info "The People of the Rainbow: in which the party navigates orcish diplomacy in Xurkhaz"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Dec 04, 1748 DR to Dec 05, 1748 DR*
+	*On Earth: Sunday May 07, 2023*
+	*[Xurkhaz](<../../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) engages in cautious diplomacy with orcish leaders in [Xurkhaz](<../../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), discussing mutual threats and the significance of a [magical cloak](<../../../things/artifacts-of-power/cloak-of-rainbows.md>).
 

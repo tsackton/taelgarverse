@@ -17,11 +17,11 @@ title: Mawar Adventures Episode 03
 ---
 # Mawar Adventures Episode 03
 
->[!info] The Tomb of Yerkir-khor: in which a missing treasure hunter leads to a hidden tomb
-> *Featuring: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Trok](<../../../people/pcs/mawar/trok.md>), [Kaleho](<../../../people/pcs/mawar/kaleho.md>), [Nerissa](<../../../people/pcs/mawar/nerissa.md>)*
-> *In Taelgar: Oct 23, 1747 DR to Oct 28, 1747 DR*
-> *On Earth: Saturday, November 27, 2021*
-> *[Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) and [Yerkir-khor's monument and tomb](<../../../gazetteer/northwest-coast/mawar-confederacy/tomb-of-yerkir-khor.md>)*
+!!! info "The Tomb of Yerkir-khor: in which a missing treasure hunter leads to a hidden tomb"
+	*Featuring: [Ryu](<../../../people/pcs/mawar/ryu.md>), [Trok](<../../../people/pcs/mawar/trok.md>), [Kaleho](<../../../people/pcs/mawar/kaleho.md>), [Nerissa](<../../../people/pcs/mawar/nerissa.md>)*
+	*In Taelgar: Oct 23, 1747 DR to Oct 28, 1747 DR*
+	*On Earth: Saturday, November 27, 2021*
+	*[Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) and [Yerkir-khor's monument and tomb](<../../../gazetteer/northwest-coast/mawar-confederacy/tomb-of-yerkir-khor.md>)*
 
 [Orden](<../../../people/mawarans/orden.md>) asks the party to find [Hiyasa](<../../../people/mawarans/hiyasa.md>), whose treasure map leads them from [Hamri](<../../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) into [Yerkir-khor's buried earth tomb](<../../../gazetteer/northwest-coast/mawar-confederacy/tomb-of-yerkir-khor.md>), where they survive traps, stone guardians, and a near-fatal fight before returning with her and the [tomb](<../../../gazetteer/northwest-coast/mawar-confederacy/tomb-of-yerkir-khor.md>)'s strange spoils.
 

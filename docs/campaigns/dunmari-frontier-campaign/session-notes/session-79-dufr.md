@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 79
 ---
 # Dunmari Frontier - Session 79
 
->[!info] Aftermath of Victory: in which enemies are interrogated and plans are made
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Dec 08, 1748 DR to Dec 10, 1748 DR*
-> *On Earth: Thursday Jul 13, 2023*
-> *[Xurkhaz](<../../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>)*
+!!! info "Aftermath of Victory: in which enemies are interrogated and plans are made"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Dec 08, 1748 DR to Dec 10, 1748 DR*
+	*On Earth: Thursday Jul 13, 2023*
+	*[Xurkhaz](<../../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>)*
 
 After a victorious battle, the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)uncovers enemy motives through interrogation and splits up to defend the city and destroy a powerful scepter.
 

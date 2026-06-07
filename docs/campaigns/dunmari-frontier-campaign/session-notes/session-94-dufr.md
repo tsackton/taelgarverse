@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 94
 ---
 # Dunmari Frontier - Session 94
 
->[!info] The Monster Hunters: in which the party makes connections and contacts in Zvervinka
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Mar 22, 1749 DR to Apr 15, 1749 DR*
-> *On Earth: Sunday Mar 10, 2024*
-> *[Zvervinka](<../../../gazetteer/northern-green-sea/ursk/zvervinka.md>)*
+!!! info "The Monster Hunters: in which the party makes connections and contacts in Zvervinka"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Mar 22, 1749 DR to Apr 15, 1749 DR*
+	*On Earth: Sunday Mar 10, 2024*
+	*[Zvervinka](<../../../gazetteer/northern-green-sea/ursk/zvervinka.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) enters [Zvervinka](<../../../gazetteer/northern-green-sea/ursk/zvervinka.md>) posing as monster hunters, befriends key figures, and navigates political tensions.
 ## Session Info

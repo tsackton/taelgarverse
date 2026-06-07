@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 127
 ---
 # Dunmari Frontier - Session 127
 
->[!info] Storm over Thundercrown: in which the party investigates a stone giant stronghold
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: Jun 29, 1749 DR to Jul 04, 1749 DR*
-> *On Earth: Wednesday Jul 09, 2025*
-> *Location: [Chataan Mountains](<../../../gazetteer/greater-chardon/chataan-mountains.md>)*
+!!! info "Storm over Thundercrown: in which the party investigates a stone giant stronghold"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: Jun 29, 1749 DR to Jul 04, 1749 DR*
+	*On Earth: Wednesday Jul 09, 2025*
+	*Location: [Chataan Mountains](<../../../gazetteer/greater-chardon/chataan-mountains.md>)*
 
 The party reaches a stone [giant](<../../../creatures/species/giants.md>) stronghold in the [Chataan Mountains](<../../../gazetteer/greater-chardon/chataan-mountains.md>), and gathers intelligence to undermine the [chalyte](<../../../things/materials/chalyte.md>)-obsessed [Dhrukmir](<../../../people/giants/dhrukmir.md>) and his chalyte-powered death ray.
 ## Session Info

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 101
 ---
 # Dunmari Frontier - Session 101
 
->[!info] Into the Plane of Water: in which the party battles merfolk and finds halfling prisoners
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 11, 1749 DR*
-> *On Earth: Tuesday Jun 18, 2024*
-> *[Elemental Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>)*
+!!! info "Into the Plane of Water: in which the party battles merfolk and finds halfling prisoners"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 11, 1749 DR*
+	*On Earth: Tuesday Jun 18, 2024*
+	*[Elemental Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>)*
 
 The Dunmar Fellowship defeats the Herald of Gazankoa, battles merfolk, and discovers captive halflings in the [Elemental Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>).
 

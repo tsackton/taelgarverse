@@ -47,24 +47,24 @@ He wears studded leather armor, and where his leathers are not brown they are la
 
 He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [that nation](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), makes commentary about the fey.  He has explicitly claimed that the fey taught him how to misty step, in fact, and that they sent him to this area by dropping acorns on his head.  To anyone with a familiarity with Tyrwinghan culture, “fey-touched lunatic” is a solid guess here.
 
->[!Info]- Additional Context (Dan's Eyes Only)
-> Celyn comes from a vineyard working family and was apprenticed to a boundary-walker/fey tender/fairy faith shrine keeper because he was obviously more suited to that than the vineyard; he had a difficult adolescence and “found peace” with [The Wyrdling](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>).
+??? info "Additional Context (Dan's Eyes Only)"
+	 Celyn comes from a vineyard working family and was apprenticed to a boundary-walker/fey tender/fairy faith shrine keeper because he was obviously more suited to that than the vineyard; he had a difficult adolescence and “found peace” with [The Wyrdling](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>).
 
->[!Info]- Additional Context (Chris' Eyes Only)
->Celyn is an avid dice gamer.  He is not an avid _gambler_, he just _really loves dice_.  We’re at “the shiny math rocks go clicky-clack” levels of joy at dice.  He is very judicious about the gambling part, clearly only staking what he can afford; it’s all about the throwing the dice and seeing what happens, not the money or even the possibility of winning money, and he accepts all results with that same wide-eyed enthusiasm that he does everything else.  
-> 
-> He did some work with a traveling theatre troupe at some point but parted ways with them because “they went the wrong way”.  He does not appear to have been a performer, but rather some kind of backstage worker.
+??? info "Additional Context (Chris' Eyes Only)"
+	Celyn is an avid dice gamer.  He is not an avid _gambler_, he just _really loves dice_.  We’re at “the shiny math rocks go clicky-clack” levels of joy at dice.  He is very judicious about the gambling part, clearly only staking what he can afford; it’s all about the throwing the dice and seeing what happens, not the money or even the possibility of winning money, and he accepts all results with that same wide-eyed enthusiasm that he does everything else.  
+	
+	He did some work with a traveling theatre troupe at some point but parted ways with them because “they went the wrong way”.  He does not appear to have been a performer, but rather some kind of backstage worker.
 
-> [!INFO]- Celyn's Background (Kiya\'s Eyes Only)
-> The child who would become Celyn is from a small village in Tyrwingha.  He was a middle-younger child in a large family who mostly worked in the local vineyard.  He started out as rather a troublesome mooncalf child and rapidly wound up in something of an apprenticeship to the local who was responsible for maintaining the fairy-faith customs, as that is the sort of job that gets given to the people who struck the locals as being fey-touched in some way.  
->
->His deeply mischievous nature continued to cause trouble, especially when he got more difficult rather than sweet-natured about it after puberty hit and dysphoria made him cranky.  He threw himself more thoroughly into his devotions, spending time at sacred sites to try dream incubation (which at least kept him out of other people’s hair), learning how to alter his appearance to look more fey or more masculine or both, and generally wishing for some power - fey or divine - to Make It Better.  
->
->After one of those pilgrimages, he came back changed, including in insisting on a new name (‘Celyn’ means ‘holly’, for the record*), and most people thought for the better; something, at least, had shifted in him to make him less furious at the shape of the world and thus much less likely to be difficult.  It was not clear for some time what the change *was*, though, given his return to minding the fey rites and minor mischief, until he healed someone after a farming accident.  He has resisted having his clerical magic bent into some sort of orderly role or hierarchy, both on his own account and because he will not impose order on his relationship with his god.  
->  
->  He has a deep devotion that is, in manner, almost childlike: there is an innocence about it that is easy to mistake for naivete.  That simplicity, however, and purity of hopefulness and a willingness to trust to chance, led to his cultivation of actual divine attention.  He is still a bit of a bundle of amiable chaos - as one might expect of a Wyrdling devotee - but his teenaged anger is more or less resolved by his embrace of that chaos and ambiguity.  
->  
->  He is not entirely blown by the wind; he trusts his intuition profoundly, along with the guidance of the fey and his god.  (Which puts him in a good position to be at the whims of higher powers.)  It’s likely he wandered out of his home turf a bit ago, following some impulse or other, and those impulses and occasional directives from the Wyrdling or friendly fey eventually steered him to where he is.
+??? info "Celyn's Background (Kiya\\'s Eyes Only)"
+	The child who would become Celyn is from a small village in Tyrwingha.  He was a middle-younger child in a large family who mostly worked in the local vineyard.  He started out as rather a troublesome mooncalf child and rapidly wound up in something of an apprenticeship to the local who was responsible for maintaining the fairy-faith customs, as that is the sort of job that gets given to the people who struck the locals as being fey-touched in some way.  
+	
+	His deeply mischievous nature continued to cause trouble, especially when he got more difficult rather than sweet-natured about it after puberty hit and dysphoria made him cranky.  He threw himself more thoroughly into his devotions, spending time at sacred sites to try dream incubation (which at least kept him out of other people’s hair), learning how to alter his appearance to look more fey or more masculine or both, and generally wishing for some power - fey or divine - to Make It Better.  
+	
+	After one of those pilgrimages, he came back changed, including in insisting on a new name (‘Celyn’ means ‘holly’, for the record*), and most people thought for the better; something, at least, had shifted in him to make him less furious at the shape of the world and thus much less likely to be difficult.  It was not clear for some time what the change *was*, though, given his return to minding the fey rites and minor mischief, until he healed someone after a farming accident.  He has resisted having his clerical magic bent into some sort of orderly role or hierarchy, both on his own account and because he will not impose order on his relationship with his god.  
+	 
+	 He has a deep devotion that is, in manner, almost childlike: there is an innocence about it that is easy to mistake for naivete.  That simplicity, however, and purity of hopefulness and a willingness to trust to chance, led to his cultivation of actual divine attention.  He is still a bit of a bundle of amiable chaos - as one might expect of a Wyrdling devotee - but his teenaged anger is more or less resolved by his embrace of that chaos and ambiguity.  
+	 
+	 He is not entirely blown by the wind; he trusts his intuition profoundly, along with the guidance of the fey and his god.  (Which puts him in a good position to be at the whims of higher powers.)  It’s likely he wandered out of his home turf a bit ago, following some impulse or other, and those impulses and occasional directives from the Wyrdling or friendly fey eventually steered him to where he is.
 
 ### Items
 | Image | Name | Type | Mechanics |

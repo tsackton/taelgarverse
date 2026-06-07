@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 134
 ---
 # Dunmari Frontier - Session 134
 
->[!info] The Limbo Wound: in which the past and future of the Heartroot is revealed
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Aug 12, 1749 DR*
-> *On Earth: Monday Oct 06, 2025*
-> *Location: [Aurbez Plateau](<../../../gazetteer/upper-istaros/aurbez-plateau.md>)*
+!!! info "The Limbo Wound: in which the past and future of the Heartroot is revealed"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Aug 12, 1749 DR*
+	*On Earth: Monday Oct 06, 2025*
+	*Location: [Aurbez Plateau](<../../../gazetteer/upper-istaros/aurbez-plateau.md>)*
 
 After securing the safety of the Heartroot, visions and communion revealed that a interplanar wound at [Isingue](<../../../gazetteer/upper-istaros/isingue.md>) allows [Limbo](<../../../cosmology/spiritual-realms/limbo.md>) to spill into the [Material Plane](<../../../cosmology/material-plane.md>).
 

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 118
 ---
 # Dunmari Frontier - Session 118
 
->[!info] Shadows on Vindristjarna: in which allies and enemies come for the Cloudspinner
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 30, 1749 DR*
-> *On Earth: Tuesday Feb 04, 2025*
-> *[Garamjala Desert](<../../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)*
+!!! info "Shadows on Vindristjarna: in which allies and enemies come for the Cloudspinner"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 30, 1749 DR*
+	*On Earth: Tuesday Feb 04, 2025*
+	*[Garamjala Desert](<../../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) meets [Lirien](<../../../people/fey/lirien.md>), an ally of Cloudspinner seeking news, and faces a shadowy attack on [Vindristjarna](<../../../things/ships/vindristjarna.md>).
 

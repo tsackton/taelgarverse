@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 47
 ---
 # Dunmari Frontier - Session 47
 
->[!info] Voyage to Chardon: in which the party sails northward
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Aug 09, 1748 DR to Aug 21, 1748 DR*
-> *On Earth: Thursday May 26, 2022*
-> *Aboard the [Emerald Song](<../../../things/ships/emerald-song.md>), sailing from [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
+!!! info "Voyage to Chardon: in which the party sails northward"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Aug 09, 1748 DR to Aug 21, 1748 DR*
+	*On Earth: Thursday May 26, 2022*
+	*Aboard the [Emerald Song](<../../../things/ships/emerald-song.md>), sailing from [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
 
 The Dunmar Fellowship sails to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) aboard the [Emerald Song](<../../../things/ships/emerald-song.md>), encountering mysterious magic in the [Old Chardon Canal](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/old-chardon-canal.md>), and sharing tales of adventure.
 ## Session Info

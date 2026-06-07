@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 96
 ---
 # Dunmari Frontier - Session 96
 
->[!info] Shadowkeep Infiltration: in which the party confronts dark forces
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 03, 1749 DR*
-> *On Earth: Sunday Apr 14, 2024*
-> *[Shadowkeep](<../../../gazetteer/northern-green-sea/shadowkeep.md>)*
+!!! info "Shadowkeep Infiltration: in which the party confronts dark forces"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 03, 1749 DR*
+	*On Earth: Sunday Apr 14, 2024*
+	*[Shadowkeep](<../../../gazetteer/northern-green-sea/shadowkeep.md>)*
 
 The Dunmar Fellowship disrupts a dark ritual at Shadowkeep and prepares to battle the vampire lord Rhodar von Glauer.
 

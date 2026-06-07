@@ -36,7 +36,7 @@ hide_toc: true
 
 ### Wymar's Story of Childhood
 
->[!info] Childhood Story, as told to [Viepuck](<../pcs/cleenseau/viepuck.md>) under the influence of his patron's mind-probe
+!!! info "Childhood Story, as told to [Viepuck](<../pcs/cleenseau/viepuck.md>) under the influence of his patron's mind-probe"
 In his childhood, he recalled overhearing his parents (Reginald and Celine). Reginald was very drunk, and was weeping. Wymar recalls hearing his father sobbing to Celine: "I can't forget it. That day, the bodies just kept walking up out of the tower, just below us, and he was grinning even as we struck him down. Mother help me, I want to forget. Sometimes in my dreams I still see it. Was it wrong to build here? Is this place cursed?".
 
 

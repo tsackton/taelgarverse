@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 49
 ---
 # Dunmari Frontier - Session 49
 
->[!info] The Chalice and the Eyes: in which deals are struck and betrayals unfold
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Aug 22, 1748 DR to Aug 24, 1748 DR*
-> *On Earth: Thursday Jun 30, 2022*
-> *[Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
+!!! info "The Chalice and the Eyes: in which deals are struck and betrayals unfold"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Aug 22, 1748 DR to Aug 24, 1748 DR*
+	*On Earth: Thursday Jun 30, 2022*
+	*[Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) engages in treacherous negotiations for powerful artifacts and narrowly escapes a deadly ambush.
 

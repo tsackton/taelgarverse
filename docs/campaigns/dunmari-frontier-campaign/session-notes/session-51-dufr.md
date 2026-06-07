@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 51
 ---
 # Dunmari Frontier - Session 51
 
->[!info] The God Tree: in which the party meets a mysterious elf who is not what he seems
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Aug 29, 1748 DR to Sep 06, 1748 DR*
-> *On Earth: Friday Jul 22, 2022*
-> *[Arendum](<../../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/arendum.md>) and the [Elderwood](<../../../gazetteer/central-highlands/elderwood.md>)*
+!!! info "The God Tree: in which the party meets a mysterious elf who is not what he seems"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Aug 29, 1748 DR to Sep 06, 1748 DR*
+	*On Earth: Friday Jul 22, 2022*
+	*[Arendum](<../../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/arendum.md>) and the [Elderwood](<../../../gazetteer/central-highlands/elderwood.md>)*
 
 The Fellowship engages with dark forces, uncovers secrets in [Arendum](<../../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/arendum.md>), and navigates the perils of the [Elderwood](<../../../gazetteer/central-highlands/elderwood.md>) while preparing to confront the enigmatic [Mezzar](<../../../people/other-nonhumans/mezzar.md>).
 

@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 112
 ---
 # Dunmari Frontier - Session 112
 
->[!info] Battle of the Doppelgangers: in which the party fights their twisted selves
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 22, 1749 DR*
-> *On Earth: Tuesday Oct 29, 2024*
-> *Sapphire Tower, [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)*
+!!! info "Battle of the Doppelgangers: in which the party fights their twisted selves"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 22, 1749 DR*
+	*On Earth: Tuesday Oct 29, 2024*
+	*Sapphire Tower, [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>)*
 
 The Dunmar Fellowship battles doppelgangers, culminating in victory over their dark counterparts and a return to the skyship for recovery and planning.
 

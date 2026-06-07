@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 126
 ---
 # Dunmari Frontier - Session 126
 
->[!info] The Magistros: in which the party negotiates over chalyte
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *In Taelgar: Jun 28, 1749 DR to Jun 29, 1749 DR*
-> *On Earth: Monday Jun 09, 2025*
-> *Location: [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
+!!! info "The Magistros: in which the party negotiates over chalyte"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*In Taelgar: Jun 28, 1749 DR to Jun 29, 1749 DR*
+	*On Earth: Monday Jun 09, 2025*
+	*Location: [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)*
 
 The companions navigate fractured politics, aid traumatized officials, and strike a pivotal bargain to bring a new source of [chalyte](<../../../things/materials/chalyte.md>) under the control of the [Magistros](<../../../people/chardonians/mitus-verina-auratan.md>) of [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). 
 

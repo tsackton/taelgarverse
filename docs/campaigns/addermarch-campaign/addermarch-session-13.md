@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 13
 ---
 # Addermarch Campaign - Session 13
 
->[!info] The Hollow Man: in which the party enters the Feywild
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 18, 1715 DR*
-> *On Earth: Monday October 13, 2025*
-> *[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and the [Feywild](<../../cosmology/feywild.md>)*
+!!! info "The Hollow Man: in which the party enters the Feywild"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 18, 1715 DR*
+	*On Earth: Monday October 13, 2025*
+	*[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and the [Feywild](<../../cosmology/feywild.md>)*
 
 The party follows worg tracks to a Feywild portal, kills a [Hollow Man](<../../creatures/fey/hollow-men.md>), and enters the Feywild.
 

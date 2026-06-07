@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 24
 ---
 # Dunmari Frontier - Session 24
 
->[!info] Flight from Kharsan: in which the party spies on Grash and flees from orcs
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: May 11, 1748 DR to May 13, 1748 DR*
-> *On Earth: Thursday May 06, 2021*
-> *[Monastery of Bhishma](<../../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>) and [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>)*
+!!! info "Flight from Kharsan: in which the party spies on Grash and flees from orcs"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: May 11, 1748 DR to May 13, 1748 DR*
+	*On Earth: Thursday May 06, 2021*
+	*[Monastery of Bhishma](<../../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>) and [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>)*
 
 The Dunmar Fellowship explores a desecrated temple, evades revived orc enemies, and scouts the ruins of [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>) with magic and stealth.
 

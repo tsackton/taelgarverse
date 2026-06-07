@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 12
 ---
 # Addermarch Campaign - Session 12
 
->[!info] Worg Attack: in which the party defends Haldrenn and searches for answers.
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 17, 1715 DR to May 18, 1715 DR*
-> *On Earth: Monday Sept 1, 2025*
-> *[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>)*
+!!! info "Worg Attack: in which the party defends Haldrenn and searches for answers."
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 17, 1715 DR to May 18, 1715 DR*
+	*On Earth: Monday Sept 1, 2025*
+	*[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>)*
 
 The party defeats a pack of worgs and learns about the fey.
 

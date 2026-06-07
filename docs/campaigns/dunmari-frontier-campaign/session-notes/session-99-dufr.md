@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 99
 ---
 # Dunmari Frontier - Session 99
 
->[!info] The Path to the Merfolk: in which the party seeks underwater aid
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 08, 1749 DR to May 11, 1749 DR*
-> *On Earth: Thursday May 16, 2024*
-> *From [Castrella](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>) to the [Endless Ocean](<../../../gazetteer/endless-ocean.md>)*
+!!! info "The Path to the Merfolk: in which the party seeks underwater aid"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 08, 1749 DR to May 11, 1749 DR*
+	*On Earth: Thursday May 16, 2024*
+	*From [Castrella](<../../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>) to the [Endless Ocean](<../../../gazetteer/endless-ocean.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) secures water-breathing potions from [Kazuro](<../../../people/other-nonhumans/kazuro.md>), cures a [cursed hermit](<../../../people/chardonians/dorian-almare.md>), and dives into the ocean towards the [Elemental Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>).
 

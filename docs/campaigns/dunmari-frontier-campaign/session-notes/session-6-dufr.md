@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 6
 ---
 # Dunmari Frontier - Session 6
 
->[!info] Festival Ambush: in which the Festival of Rebirth is marred by a gnoll attack
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Apr 04, 1748 DR to Apr 06, 1748 DR*
-> *On Earth: Thursday Aug 06, 2020*
-> *[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+!!! info "Festival Ambush: in which the Festival of Rebirth is marred by a gnoll attack"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Apr 04, 1748 DR to Apr 06, 1748 DR*
+	*On Earth: Thursday Aug 06, 2020*
+	*[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) prepares for their journey, gains a new [ally](<../../../people/pcs/dunmar-fellowship/riswynn.md>), and defends [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from a gnoll attack during the [Festival of Rebirth](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>).
 ## Session Info

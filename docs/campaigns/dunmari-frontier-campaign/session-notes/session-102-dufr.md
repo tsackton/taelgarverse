@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 102
 ---
 # Dunmari Frontier - Session 102
 
->[!info] The Fourth Jade: in which the party rescues halflings and battles Buruli
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: May 11, 1749 DR*
-> *On Earth: Sunday Jun 30, 2024*
-> *Elemental Plane of Water*
+!!! info "The Fourth Jade: in which the party rescues halflings and battles Buruli"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: May 11, 1749 DR*
+	*On Earth: Sunday Jun 30, 2024*
+	*Elemental Plane of Water*
 
 The Dunmar Fellowship rescues halflings from captivity, battles the merfolk Buruli, and escapes with a valuable jade piece via a rainbow bridge to Vindristjarna.
 

@@ -14,12 +14,12 @@ title: Dunmari Frontier - Session 85
 ---
 # Dunmari Frontier - Session 85
 
->[!info] Edge of Echoes: in which the party traverses treacherous waters and ancient ruins
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
-> *Companions: [Faldrak](<../../../people/dwarves/faldrak-bronzehammer.md>)*
-> *In Taelgar: Jan 03, 1749 DR to Jan 08, 1749 DR*
-> *On Earth: Wednesday Sep 27, 2023*
-> *[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>) to the [Edge of Echoes](<../../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>) in [Cymea](<../../../gazetteer/western-green-sea/realms/cymea.md>)*
+!!! info "Edge of Echoes: in which the party traverses treacherous waters and ancient ruins"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>)*
+	*Companions: [Faldrak](<../../../people/dwarves/faldrak-bronzehammer.md>)*
+	*In Taelgar: Jan 03, 1749 DR to Jan 08, 1749 DR*
+	*On Earth: Wednesday Sep 27, 2023*
+	*[Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>) to the [Edge of Echoes](<../../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>) in [Cymea](<../../../gazetteer/western-green-sea/realms/cymea.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) contends with treacherous waters and elemental forces as they delve into the mysterious caves of the [Edge of Echoes](<../../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>).
 

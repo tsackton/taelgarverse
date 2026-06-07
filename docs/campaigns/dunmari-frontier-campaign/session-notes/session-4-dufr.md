@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 4
 ---
 # Dunmari Frontier - Session 4
 
->[!info] Shakun's Wane: in which the party uncovers dire truths
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Mar 26, 1748 DR to Mar 29, 1748 DR*
-> *On Earth: Thursday Jul 09, 2020*
-> *[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
+!!! info "Shakun's Wane: in which the party uncovers dire truths"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Mar 26, 1748 DR to Mar 29, 1748 DR*
+	*On Earth: Thursday Jul 09, 2020*
+	*[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) arrives in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) and discovers that the [magical protections of Shakun](<../../../gods-and-religions/religions/five-siblings/shakun-s-protection.md>) are failing, leading to increased dangers and a plea for their aid.
 ## Session Info

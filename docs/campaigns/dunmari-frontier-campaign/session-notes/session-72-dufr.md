@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 72
 ---
 # Dunmari Frontier - Session 72
 
->[!info] Ice Heart: in which the party confronts an ice maiden
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Nov 23, 1748 DR to Nov 24, 1748 DR*
-> *On Earth: Thursday Mar 02, 2023*
-> *[Hralgar's Palace](<../../../gazetteer/central-highlands/hralgar-s-palace.md>) in the [Sentinels](<../../../gazetteer/sentinel-range.md>)*
+!!! info "Ice Heart: in which the party confronts an ice maiden"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Nov 23, 1748 DR to Nov 24, 1748 DR*
+	*On Earth: Thursday Mar 02, 2023*
+	*[Hralgar's Palace](<../../../gazetteer/central-highlands/hralgar-s-palace.md>) in the [Sentinels](<../../../gazetteer/sentinel-range.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) learns valuable information from [Hralgar](<../../../people/giants/hralgar.md>) and defeats an ice maiden now inhabiting his [ancient palace](<../../../gazetteer/central-highlands/hralgar-s-palace.md>).
 

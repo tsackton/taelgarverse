@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 1
 ---
 # Dunmari Frontier - Session 1
 
->[!info] Hyena Rampage: in which the party confronts chaos in Karawa
-> *Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
-> *In Taelgar: Mar 22, 1748 DR*
-> *On Earth: Friday May 29, 2020*
-> *[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) and [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>)*
+!!! info "Hyena Rampage: in which the party confronts chaos in Karawa"
+	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
+	*In Taelgar: Mar 22, 1748 DR*
+	*On Earth: Friday May 29, 2020*
+	*[Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) and [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>)*
 
 The newly formed [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) rescues [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from hyenas and begins investigating a string of attacks, leading them to a concerning discovery at the [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>)
 ## Session Info

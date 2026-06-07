@@ -14,11 +14,11 @@ title: Dunmari Frontier - Session 128
 ---
 # Dunmari Frontier - Session 128
 
->[!info] Dhurkmir’s Fall: in which the party shatters a chalyte death ray
-> *Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
-> *In Taelgar: Jul 04, 1749 DR to Jul 05, 1749 DR*
-> *On Earth: Thursday Jul 31, 2025*
-> *Location: [Ulgrathar](<../../../gazetteer/greater-chardon/chardonian-empire/alta-tonaro/ulgrathar.md>)*
+!!! info "Dhurkmir’s Fall: in which the party shatters a chalyte death ray"
+	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
+	*In Taelgar: Jul 04, 1749 DR to Jul 05, 1749 DR*
+	*On Earth: Thursday Jul 31, 2025*
+	*Location: [Ulgrathar](<../../../gazetteer/greater-chardon/chardonian-empire/alta-tonaro/ulgrathar.md>)*
 
 The party infiltrates [Dhrukmir](<../../../people/giants/dhrukmir.md>)'s tower, destroys the deadly death ray, and defeats the colossal [chalyte](<../../../things/materials/chalyte.md>) [giant](<../../../creatures/species/giants.md>), [Dhrukmir](<../../../people/giants/dhrukmir.md>) Skybreaker.
 ## Session Info

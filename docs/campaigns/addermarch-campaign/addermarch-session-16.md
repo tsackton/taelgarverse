@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 16
 ---
 # Addermarch Campaign - Session 16
 
->[!info] Trail to Serethwyn Tor: in which old records point toward a cursed hill-fort
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 22, 1715 DR - May 24, 1715 DR*
-> *On Earth: Sunday November 30, 2025*
-> *[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and environs*
+!!! info "Trail to Serethwyn Tor: in which old records point toward a cursed hill-fort"
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 22, 1715 DR - May 24, 1715 DR*
+	*On Earth: Sunday November 30, 2025*
+	*[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) and environs*
 
 Research in Roscombe and a visit to the ranger [Arvanko](<../../people/other-nonhumans/arvanko.md>) uncovers information about ancient sites from the [wars with Avatus](<../../events/1300s/serpentine-wars.md>) and points the party toward the ruined hill-fort of [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>).
 

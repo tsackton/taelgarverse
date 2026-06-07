@@ -13,11 +13,11 @@ title: Dunmari Frontier - Session 73
 ---
 # Dunmari Frontier - Session 73
 
->[!info] Dreamworld Quest: in which the party braves the dreamworld to acquire the phasing stone
-> *Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
-> *In Taelgar: Nov 24, 1748 DR*
-> *On Earth: Friday Mar 17, 2023*
-> *[Hralgar's Palace](<../../../gazetteer/central-highlands/hralgar-s-palace.md>) in the [Sentinels](<../../../gazetteer/sentinel-range.md>)*
+!!! info "Dreamworld Quest: in which the party braves the dreamworld to acquire the phasing stone"
+	*Featuring: [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)*
+	*In Taelgar: Nov 24, 1748 DR*
+	*On Earth: Friday Mar 17, 2023*
+	*[Hralgar's Palace](<../../../gazetteer/central-highlands/hralgar-s-palace.md>) in the [Sentinels](<../../../gazetteer/sentinel-range.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) navigates the [Dreamworld](<../../../cosmology/dreamworld.md>), captures the elusive [phasing stone](<../../../things/magic-items/phasing-stones.md>), and narrowly avoids freezing to death before returning to their [airship](<../../../things/ships/vindristjarna.md>).
 

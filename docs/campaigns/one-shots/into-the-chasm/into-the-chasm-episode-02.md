@@ -17,11 +17,11 @@ title: Into the Chasm - Episode 02
 ---
 # Into the Chasm - Episode 02
 
->[!info] The Labyrinth: in which the party navigates an ever-shifting maze
-> *Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
-> *In Taelgar: Jan 25, 1730 DR*
-> *On Earth: Wednesday, December 3, 2025*
-> *[Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>)*
+!!! info "The Labyrinth: in which the party navigates an ever-shifting maze"
+	*Featuring: [Finnan](<../../../people/pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/into-the-chasm/justas-rhostrin.md>)*
+	*In Taelgar: Jan 25, 1730 DR*
+	*On Earth: Wednesday, December 3, 2025*
+	*[Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>)*
 
 The party pushes deeper into [Zeyfa’s Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>), surviving worsening cold and shifting paths, and learning clues from a dead man, until they emerge into a black‑stone chamber where a terrifying white beast awaits.
 

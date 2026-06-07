@@ -14,11 +14,11 @@ title: Addermarch Campaign - Session 11
 ---
 # Addermarch Campaign - Session 11
 
->[!info] The Cursed Song: in which the party discovers a fey mystery.
-> *Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
-> *In Taelgar: May 16, 1715 DR to May 17, 1715 DR*
-> *On Earth: Sunday June 15, 2025*
-> *[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), and [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>)*
+!!! info "The Cursed Song: in which the party discovers a fey mystery."
+	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
+	*In Taelgar: May 16, 1715 DR to May 17, 1715 DR*
+	*On Earth: Sunday June 15, 2025*
+	*[Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), and [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>)*
 
 The party learns of strange happenings in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>) and rescues a lost girl.
 
