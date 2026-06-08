@@ -2,17 +2,20 @@
 headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Lost in the Feywild
+sessionNumber: 1
+realWorldDate: 2026-05-14
 DR: 1740-10-03
 DR_end: 1740-10-03
-realWorldDate: 2026-05-14
+players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
+name: 'Lost in the Feywild: Episode 01'
 descTitle: Welcome to Dandelion House
 tagline: in which the party enters a mysterious tunnel
 sessionKey: lost-in-the-feywild-session-1
 session-template: feywild-template.md
 websiteSessionView: zoomable
-title: Lost in the Feywild Episode 01
+title: 'Lost in the Feywild: Episode 01'
 ---
-# Lost in the Feywild - Episode 01
+# Lost in the Feywild: Episode 01
 
 !!! info "Welcome to Dandelion House: in which the party enters a mysterious tunnel"
 	*Featuring: [Kaito Min](<../../../people/pcs/other-pcs/tollen-misfits/kaito-min.md>), [Edric](<../../../people/pcs/other-pcs/tollen-misfits/edric.md>), [Tarek](<../../../people/pcs/other-pcs/tollen-misfits/tarek.md>), [Ayveen](<../../../people/pcs/other-pcs/tollen-misfits/ayveen.md>), [Txarro](<../../../people/pcs/other-pcs/tollen-misfits/txarro.md>)*
@@ -28,13 +31,10 @@ The party follows Alden to Dandelion House, where they accept Lord Holda's deal 
 	*What could go wrong?* - Kaito Min
 ## Audio Highlights
 
-**Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** 
-<audio controls>
+- **Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** <audio controls>
     <source src="/taelgarverse/assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-002.m4a" type="audio/mp4">
 </audio>
-
-**The party descends through the manor basement into the root-covered lower cellar where Holda waits by the hidden door:** 
-<audio controls>
+- **The party descends through the manor basement into the root-covered lower cellar where Holda waits by the hidden door:** <audio controls>
     <source src="/taelgarverse/assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-003.m4a" type="audio/mp4">
 </audio>
 

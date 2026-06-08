@@ -100,7 +100,9 @@ search:
                 - [Tarek](people/pcs/other-pcs/tollen-misfits/tarek.md)
                 - [Txarro](people/pcs/other-pcs/tollen-misfits/txarro.md)
             - Session Notes
-                - [Lost in the Feywild Episode 01](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-01.md)
+                - [Lost in the Feywild: Episode 01](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-01.md)
+                - [Lost in the Feywild: Episode 02](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-02.md)
+                - [The Story of a Fey Bargain Struck](campaigns/one-shots/lost-in-the-feywild/the-story-of-a-fey-bargain-struck.md)
     - [Campaign Archive](campaigns/campaign-archive.md)
         - [Dunmari Frontier](campaigns/dunmari-frontier-campaign/dunmari-frontier-campaign.md)
             - [Player Characters](people/pcs/dunmar-fellowship/dunmar-fellowship.md)
