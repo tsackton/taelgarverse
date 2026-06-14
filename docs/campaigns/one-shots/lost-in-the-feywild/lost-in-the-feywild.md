@@ -13,7 +13,8 @@ Lost in the Feywild is a short adventure that begins near [Tollen](<../../../gaz
 The player characters: [Tollen Misfits](<../../../people/pcs/other-pcs/tollen-misfits/tollen-misfits.md>)
 
 Sessions:
-| Session                                                                                                          | Episode | On Earth     |
-| ---------------------------------------------------------------------------------------------------------------- | ------- | ------------ |
-| [Welcome to Dandelion House](<lost-in-the-feywild-episode-01.md>)      | 1       | May 14, 2026 |
-| [Тёмная ночь (Dark is the Night)](<lost-in-the-feywild-episode-02.md>) | 2       | May 26, 2026 |
+| Session                                                                                                          | Episode | On Earth      |
+| ---------------------------------------------------------------------------------------------------------------- | ------- | ------------- |
+| [Welcome to Dandelion House](<lost-in-the-feywild-episode-01.md>)      | 1       | May 14, 2026  |
+| [Тёмная ночь (Dark is the Night)](<lost-in-the-feywild-episode-02.md>) | 2       | May 26, 2026  |
+| [Mr. Blue Sky](<lost-in-the-feywild-episode-03.md>)                    | 3       | June 02, 2026 |

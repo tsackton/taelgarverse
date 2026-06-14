@@ -1,0 +1,4530 @@
+{
+  "schemaVersion": "1.0",
+  "sessionKey": "lost-in-the-feywild-session-2",
+  "blocks": [
+    {
+      "blockId": "recap-001",
+      "title": "Through The Root",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "I forgot to send you stuff in advance, but how about some, some, like, low-key ominous music?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Cool. Hold on, let me do this really quickly to make sure I can share computer audio. If I open up Spotify, hopefully this will work. This will be smoother in the future, sorry. Is there any music happening? There's not, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "There we go."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Now we got it."
+        },
+        {
+          "speaker": "DM",
+          "text": "Great. Alright. Ready? The five of you, who have been adventuring and traveling together for the better part of this last year, have been hired by a minor lord named Holda, the second son of a no-name lord from southern Sembara. He spent the last twenty-five years or more as an adventurer and sellsword, always trying to find and make his fortune and never quite succeeding. Last spring, after killing a dragon that had come down from the north, losing his entire party in the process, and discovering that, since it was a wandering dragon, there was no hoard, he found himself with nothing more in his purse than he had three decades ago when he left home. He was drinking his misery away when a long-lived elf approached him and gave him the deed to a..."
+        },
+        {
+          "speaker": "DM",
+          "text": "House in the wilderness, in the far north of Sembara or northwest of Tollen, in a place long since swallowed by woods. You were hired by Alden, a small, stout, pale human with a curiosity about you all and a profound fear of fire, apparently, to go there. Over several days, you journeyed upriver and then crossed through the forest, which grew denser, older, wilder, and less inhabited the farther you went. At last you came to Dandelion House, a marvel of late Drankorian architecture at least seven hundred years old, and a funny combination of both glorious and decrepit. Parts of it..."
+        },
+        {
+          "speaker": "DM",
+          "text": "The windows and wooden window frames were decayed away into powder, as was much of the furniture inside, but not all of it. There must be some sort of preservation magic woven through the structure. Despite the misgivings of various party members, you met Lord Holda: proud, bitter, resentful, over the hill, not in a cliched sort of way, but with the sense that his best days were behind him and they were not that great anyway. He seemed stuck on a wheel, always turning, one year after the next, always different but always the same. He told you the story of this self-described elven archivist, who gave him a deed to the house, its lands, and all the treasures therein, on the condition that Holda step through a door in the floor and convince a man beyond to end a long-held treaty."
+        },
+        {
+          "speaker": "DM",
+          "text": "Holda, whose only negotiation strategy, and maybe his only strategy for moving through the world, seems to be intimidation, failed immediately to convince the man on the other side of this door of anything and turned to the party for help. Tarek, reading the document, knew that something did not fit. Kaito, by this point, had gone from deep fear bordering on paranoia to excitement bordering on rapturous enthusiasm. Ayveen observed that ending an unknown treaty may not be a wise course of action, and Txarro pointed out that the treasure could equally well be a trap or a metaphor. Nonetheless, the party arose before dawn, woken by the grandfather clock, still in fine condition. Alden collected you from your rooms, led you down through the ground floor, down through a massive basement, and down further still, opening a locked door with a glowing gold key. He led you down through a passage hewn from living rock into a root-covered subcellar that surely predates the entire manor above it. On reflection, subcellar is not even quite the right word. You assumed that at the moment, given its position below the cellar, but there was nothing in it except walls covered entirely in massive, hollowed-out roots."
+        },
+        {
+          "speaker": "DM",
+          "text": "Holda was waiting there and opened a door through this massive hollowed-out root, promising to keep an eye on this end while you went through and took care of business on the far side. Once you get to the far side, he said, go up and up, out and onto the road, and you will see the manor just a little ways ahead; seek there the master of the house. Just as he closed the door behind you, Tarek realized the unsettling thing about the contract: it was four hundred years old, but written in contemporary Sembaran. We open in that moment, illuminated by a couple of light spells, as the five of you are crawling single file through this tunnel, barely bigger than you, making your way toward who knows what."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Had we crawled far along, or can I do, like, a reaction to the door shutting?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, it is probably fifty feet behind you by this point, and there is not really a way to turn around. Theoretically, you could crawl straight backward, but it is not like you can switch your order or turn around."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "What I was really thinking is, just out of curiosity, seeing if Message sends through whatever the door is made of. I would address Lord Holda and say..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Please open the door."
+        },
+        {
+          "speaker": "DM",
+          "text": "You could..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Who responds?"
+        },
+        {
+          "speaker": "DM",
+          "text": "message, if you'd like to."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "That sounds like a great thing to try."
+        },
+        {
+          "speaker": "Edric",
+          "text": "That sounds like a great thing to try."
+        },
+        {
+          "speaker": "DM",
+          "text": "If he hears your message, he makes no response. I do not think there is a way to know if the spell failed."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "It was only if he, like, cackled maniacally and said, that I know."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tarek says, \"Any of you guys seen a tree that would be big enough to have a root like this?\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "You mean in real life? I mean, other than right now?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yeah, yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Guys, of all the things that we know, what do we believe about any of the things that we think we know?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Sorry, before we answer that in game, did we..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I could not remember if we had gotten any information at all about what the treaty is about, or between. Was it total silence?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, but I don't think he knew either. Like, he..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Totally."
+        },
+        {
+          "speaker": "DM",
+          "text": "He gave the impression that he went through and immediately messed up any sort of conversation in the first place, and did not even get to that point."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Maybe we should replace it with a ceasefire. Current events joke. Anyway, what do we know? I think we know that, whatever happens, we are going to get something out of this and get out of here."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I mean..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That document is pretty strange."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, I guess I'm not one to apologize often, but sorry, everyone, for being a little erratic, a little up and down. I know we probably should continue this conversation later, after we get out of this root, but I kind of do not know what to believe anymore. What are the things that we actually know are real? Did we metagame? Does anybody have a \"telling the truth\" thing? I kind of do, right? I remember I did a thing and asked..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Detect Thoughts."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Boom."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And he was normal. There was nothing unusual about him, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You detected thoughts on Alden. Yeah. Oh, yeah... but not on Holda."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh no, that's dumb. Okay. My bad."
+        },
+        {
+          "speaker": "Edric",
+          "text": "We probably shouldn't have come here, but, like, now what choice do we have?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, well, sure, we're in it."
+        },
+        {
+          "speaker": "Edric",
+          "text": "It'll work out."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, but do we believe that there is a treaty? What do we even believe now about anything that we have been told?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "You know what I say? Sometimes you have to go to the root of things to figure out what is really..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Perfect response to your, to your root joke."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "And..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Even if you weren't trying to make a joke."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Well, you all, I guess we just keep going and see what happens."
+        },
+        {
+          "speaker": "DM",
+          "text": "As you make the root pun, and as you continue inching your way along this tunnel, you realize that the texture of the thing you are crawling through has changed slightly. It is less woody or fibrous and more almost coral-like: harder, but smooth, with rough, irregular edges. It is like a reef, or pieces of dead or fossilized coral; something less like wood and more like the skeleton that wood would leave behind if it had one."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "These wooden things are entwined through dirt? I'm going to drag my claw along the edge. Is it loose dirt? Are there any animals, little worms, or bugs crawling around?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, it's like you're crawling through a tube of this substance. You were going through a tube of root all around you, and now it's a tube, almost, of coral or bone."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But there is no dirt? It is like..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Correct."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, okay."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tarek turns, rummages inside his cloak, pulls something out of a pocket, and looks at it. \"Funny. It's almost exactly like this stuff. Look at that.\" He has a piece of something with the same material properties as the coral-like surface of the tunnel."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Where'd you get that?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, right down where you are standing, actually. I just grabbed it. This is a very interesting material, though. I wonder if it could be carved."
+        },
+        {
+          "speaker": "DM",
+          "text": "Quite possibly. You are coming to the end of the tunnel, and it opens into a small, lightless room, almost like an echo of the one you left on the far side. Instead of being covered on all sides, womb-like, with roots all around you, this is a pocket of fossilized bone-like material. The roots are not living, and they are not exactly fossilized tree. They are pale, white, ivory, and bone-like. There is an exit on the far side that mirrors where the stairs were on the other end of the tunnel."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "So, to add to my question before about a tree large enough to have a root like this..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Tree with bones."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tarek goes over to the strange material of the wall, scrapes at it, sniffs it, gives it a lick. What is this?"
+        },
+        {
+          "speaker": "DM",
+          "text": "It behaves more like coral than bone: coral material left behind, but in the shape of roots and tubes."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Are we now in that antechamber room on the other side? Does this feel like a mirror of the other room, or is it just..."
+        },
+        {
+          "speaker": "DM",
+          "text": "It is not a perfect mirror, but it is a parallel to it, yes."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And, because in the other room, To get there was what?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You had to go down, down, down. Yep, so there are stairs."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Are there stairs up? So, guys, if this is what maybe it could be, maybe when we go up, we are going to be in another house. Like the other house, but..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "You said we'd be on a road, I thought. We had to go to the house."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "It's true, he did say that."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I think."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "But also, maybe..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Also, maybe, who knows?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Maybe, maybe we go up and we're inside a house again? I don't know. Yeah."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "It's going to be alright. Let's go."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, let's go. What else can we do but go?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The stairs and the passage you take up and out look more natural than man-made, as though someone has hewn stairs into this substrate, this network of bone-like roots. You go up for some time, though definitely not as deep as it was on the other end, and you can see light above you, this pale blue twilight. Emerging from the passageway, you find yourself standing just after sunset on a wide plain in front of what seems to be a ruined house made almost entirely of these roots. The walls themselves have not been colonized by this thing; inside the brick walls, the bones are something that grew the house into place rather than being constructed. The sun is over the horizon. It is maybe a half hour past sunset. The light is pale and blue. It is a land of low rolling hills. There is a river that goes by, slowly, calmly, placidly, lower down. The wind blows gently. It is like the first evening of fall, when you can just start to feel the cold of winter in the air."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I will turn to everybody and say, \"It was morning when we left, right?\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Probably morning."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, we..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "It was, wasn't it?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Metagame: Kaito is an elf, he has been around for a bit. Would he have an idea that this could be the Feywild? I think any of you can make an Arcana check. Six."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I don't know, Arcana."
+        },
+        {
+          "speaker": "DM",
+          "text": "I rolled a 22. What the two of you know with those rolls is this sort of confirmation that the fairy stories and fey stories you have heard are surely real. This is nothing so much as one of those: going through an obscure grove, or stepping through an old ruined archway, or finding a waterfall behind which is not a cave but an entirely different land. You have gone out of one kind of world into another entirely. As you look out, you see it stretching toward the horizon in every direction: unbroken rolling hills, and from place to place, lights dotting them, like houses or estates."
+        },
+        {
+          "speaker": "DM",
+          "text": "Ahead of you, you see a path that leads away from the doorway, such as it is, because it looks much more like a mouth than a doorway, to a road that goes onward. This would be a great opportunity, before doing anything more, to describe your characters and your mental state, realizing where you are and what is ahead."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Ayveen."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Ayveen is curious and looking around. She feels the sunset sort of aura, but is looking for the bright side. Does this road begin here? Is this an interesting and important place? Is it just a spot along the way? Who might we meet?"
+        },
+        {
+          "speaker": "DM",
+          "text": "What do they need?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito pulls his hair out of its topknot."
+        },
+        {
+          "speaker": "DM",
+          "text": "Kaito's hair is all out, very long and silver-gold. There is a light wind blowing in, and his hair is kind of blowing wildly in it. He opens up his robe. He is always wearing this very beautiful..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "flowing red robe with gold."
+        },
+        {
+          "speaker": "DM",
+          "text": "some gold."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "patterning."
+        },
+        {
+          "speaker": "DM",
+          "text": "Just."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kind of lets it all fly out."
+        },
+        {
+          "speaker": "DM",
+          "text": "He pulls off his pack and his instruments, and they all tumble together."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "ground."
+        },
+        {
+          "speaker": "DM",
+          "text": "He pauses and says, \"Guys. We're in one now.\" In his mind, he is thinking, get your shit together, Kaito. Get your shit together, dude. You can do this. Tarek is next to him, looking over like, get your shit together, man. Tarek is exerting his twenty-something streetwise confidence while internally panicking a little as he looks around. He has a thrift-store-deluxe look. He's got the..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Very high-end threads that are very beat up."
+        },
+        {
+          "speaker": "DM",
+          "text": "Thrift store deluxe, we love it. Edric is clutching his big two-handed maul, holding it a little more tightly than normal. He has one hand on the holy symbol of the Night Queen on his breastplate, kind of holding it for comfort, and another hand grasped around his weapon. He has probably drawn his maul, because he is in a weird spot. His hair is kind of a mess, like he always wakes up with terrible bedhead and is never well-groomed. He is looking around, muttering a little bit, like..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "The Night Queen will watch over these strange places. She will watch over me in these strange places."
+        },
+        {
+          "speaker": "DM",
+          "text": "It has a sort of Rogue One vibe, the guy who is always saying, \"The Force is with me.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Muttering a little bit like that."
+        },
+        {
+          "speaker": "DM",
+          "text": "The Night Queen watches our sleep. This is..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "We are not on the other side, this is not the land of the dead."
+        },
+        {
+          "speaker": "DM",
+          "text": "We will be safe. It will all turn out. Kind of in a mantra vibe."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Is he saying it with absolute confidence, or is there any..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh, yeah, yeah, yes. Well, well..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "96..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "One hundred percent absolute confidence, but every once in a while he falters a little bit and looks around at everybody like..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Is this really going to work out?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Nice."
+        },
+        {
+          "speaker": "DM",
+          "text": "So, Txarro has drawn himself up to his full... 6'4\"..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Lizardfolk height. He has slung his wooden shield off his back and is holding it in front of him, with his cloak tossed back and the greenish-yellow scales on his head visible. He is quivering slightly, nostrils flaring, trying to be deeply attuned to whatever might be happening. He looks around at Kaito, Tarek, Edric, and Ayveen. Ayveen is maybe less nervous than the rest of them, but Txarro feels a little responsible. He is not old, but he is a decade older than everybody except Kaito, obviously, and Kaito is sitting here saying, get your shit together, get your shit together."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Give off the appearance of an elder."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "No."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "If you look at him closely, every now and then you can almost see little streaks of tiger fur growing on his scales, as if he is poised at the ready to turn into a tiger should the need call for it. For the moment, though, he strides confidently ahead, trying to see what is here and what mysteries this place might bring. Let's follow the path, I guess."
+        },
+        {
+          "speaker": "DM",
+          "text": "Just as you begin to leave the house behind you, the path goes up a slight rise. Standing at the top, you can see, maybe a couple of miles down the road, lights and a little bit of sound from some sort of celebration or gathering at a large house, brightly illuminated in the distance."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "We came out of. Out of the..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, the one in the background."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "door."
+        },
+        {
+          "speaker": "DM",
+          "text": "Exactly."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep. This illuminated house ahead is presumably the manor Holda said you would see just ahead."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "What else do we see? I'm going to... look around."
+        },
+        {
+          "speaker": "DM",
+          "text": "All around, the land rises and falls. Think English countryside after sunset, with hedgerows woven along the side of the road. There are distant lights that seem almost like stars, single points of yellow light in the distance. You can see maybe a half dozen or so, but they must be miles and miles away. Whatever they are, however large they are, they are nothing nearby."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Are they in all directions, or in one particular..."
+        },
+        {
+          "speaker": "DM",
+          "text": "In all directions except down the road past this closest manor. When your eye follows the road past this house a couple of miles away, there is just darkness beyond."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "And the road ends here. There's only one... Yep. Direction we can go on the road."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes, so it would seem."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I mean..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Which is counterintuitive, because there appear to be dwellings in every direction."
+        },
+        {
+          "speaker": "Edric",
+          "text": "So behind us, like, behind the little house there appears to be dwellings to? Or not the house, the facade that we're seeing? Yes. That we came out of?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, and again, I mean, in the far distance."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Well, this is weird. Are there any..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "There are stars. That is a great question to ask. There are just a couple, the first bare handful visible in the twilight, and they are not stars you recognize."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wait, so, the guy said that we... When we got."
+        },
+        {
+          "speaker": "DM",
+          "text": "here. We go down the road, and then there's a manor."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And then we talked to the guy inside the house."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, basically."
+        },
+        {
+          "speaker": "DM",
+          "text": "I mean, at least he appears truthful about that. That seems to be accurate."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "We're going to convince him."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, good."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "No, it was just like, he wasn't cool about closing the door behind us, that wasn't part of the thing."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, wait, did he tell us we can't get out unless the door's open?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I don't actually remember. I don't... I don't know."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I guess what we are getting at is, did he betray our trust? He told us a set of things, and then immediately... because he basically said, \"We're going to hold the door open for you,\" and as soon as we got in there, closed the door behind us. So, implying that he deceived us."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, if you're the."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Suspicious types?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I mean..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Or the factual type."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Who can we trust, going back to that age-old question?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro will say, we can trust each other."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, we have that. That's actually very important. Well, look. It feels like we go to the house, right? That feels like the main option here, unless anybody else has any bright ideas."
+        },
+        {
+          "speaker": "Edric",
+          "text": "nope."
+        },
+        {
+          "speaker": "DM",
+          "text": "Nope."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Going to break that treaty, right?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Find out about that treaty."
+        },
+        {
+          "speaker": "DM",
+          "text": "If there even is a treaty."
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "title": "Bodies On The Road",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "Remind me."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "He's got the good passive perception."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Fifteen."
+        },
+        {
+          "speaker": "DM",
+          "text": "Just up ahead, maybe ten or fifteen feet off the side of the road, you see what looks like a body."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, boy."
+        },
+        {
+          "speaker": "DM",
+          "text": "Not moving."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Who sees the body?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Sorry, that was, who was that, Txarro?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I have passive perception 13. Do I see the body?"
+        },
+        {
+          "speaker": "DM",
+          "text": "And as you get a little closer, sure, yeah, everyone can see it as you pass."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I'll point it out."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I'll walk over. Is this person dead?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah. They have three long, green-feathered arrows protruding from their back, and their head has been completely smashed into nothingness. After they died, someone stood there flattening it systematically. It is human-sized, though extremely difficult to tell from what remains of it. It has been dead long enough that it is beginning to decompose, with mushrooms growing up out of it."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Wow."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I'm tempted to search its pockets."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito goes up and tries to pull the arrow out."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Before you touch anything."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, okay."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Kaito, wait."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Sorry, you said we couldn't tell what species it was?"
+        },
+        {
+          "speaker": "DM",
+          "text": "And it's man-sized. Presumably it's human."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Can I look around a little before anybody disturbs the body and try to find..."
+        },
+        {
+          "speaker": "DM",
+          "text": "I don't know, is there any..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Signs of exactly how long ago it died."
+        },
+        {
+          "speaker": "DM",
+          "text": "Maybe it is impossible to know, because who knows whether..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "things proceed at the same rate in the Feywild as they do elsewhere, but..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Give me an investigation check."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Would that be Medicine?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Sure, yeah, to look at..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "The medicines..."
+        },
+        {
+          "speaker": "DM",
+          "text": "The body itself?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Too much good. Yeah."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "It's, 20."
+        },
+        {
+          "speaker": "DM",
+          "text": "With the 20, it is clear that this person was in motion when they were struck from behind with the arrows. They are splayed out, and you get the impression that they were probably running away from something and shot from behind."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Whatever pulverized the head definitely happened after the body was on the ground. It is not just that the head was squished. There are deep hammer marks, or marks from a huge maul, all over the area. Someone, or several someones, were swinging wildly and quickly and occasionally hitting the dirt around it instead."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "This might not be a great neighborhood."
+        },
+        {
+          "speaker": "DM",
+          "text": "Pretty brutal, guys."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I'm now holding my maul in position and scanning the horizon for anything dangerous."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Sorry, no additional information about what species this might be?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, sorry, a human, yeah."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Which direction? The direction we're walking."
+        },
+        {
+          "speaker": "DM",
+          "text": "Sorry, like, mid-20s, something like that, relatively young."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "And they were running back toward the coral house, or..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Running away from the."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Towards the manor."
+        },
+        {
+          "speaker": "DM",
+          "text": "Nope, towards... towards the direction you came from."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "So, they were running away from the direction we are walking toward."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That's always a good sign."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Ominous."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Anything about their clothing?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Anything noteworthy? Give me an Investigation check. Thirteen? No. Nondescript, functional traveling clothes."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Are there pockets to investigate?"
+        },
+        {
+          "speaker": "DM",
+          "text": "There ARE pockets to investigate."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, Tarek, search him 100%, we want to learn more about who this dude is."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I don't think he's going to catch me picking, so..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "No, but just more like..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Wait, but just... okay, look. Whoever this dude was..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Probably dude, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Like..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Whoever this dude was, if he came from the place we are going, we should try to understand a little bit more about why somebody from that place would end up like this."
+        },
+        {
+          "speaker": "DM",
+          "text": "Are there any tracks around the body before we mess it up too much?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "That is such a good question. Looking at the tracks, you can definitely confirm this guy was running top speed when he was hit. You can see it from the length of the strides. You see two things: footprints from maybe elk or deer, something large from that family, sets of four; and heavy, plain boots from at least three individuals. It is difficult to tell because it is so scuffed near the body."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Should I infer from the fact that there are readable signs in the tracks that this happened recently, or that..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "The weather is such that it's just frozen in place, or..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Definitely happened since sunset."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "But we don't know when sunset was, so..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Or, if it's a..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Static, continuous. Yes. Do the tracks look fresh? Absolutely. Sunset was probably a half hour ago, so it is maybe forty-five minutes now. Within the last hour."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, fuck."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "But there's mushrooms growing."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, there are, which is... Strange. Just little ones."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "pockets."
+        },
+        {
+          "speaker": "DM",
+          "text": "There is a writing kit with pen, ink, sand for blotting, and paper. There is nothing written on any of the pages they have on them, though."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "While Tarek is searching the body, can you describe the terrain slightly? We are on the side of a road, there are rolling hills. Are we..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "At the bottom of a valley, on top of a valley."
+        },
+        {
+          "speaker": "DM",
+          "text": "You are at the top of a rise, so you have just come over the top of a rise."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep, coming back."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I just..."
+        },
+        {
+          "speaker": "DM",
+          "text": "There is a bowl toward the place you are going. At this time of night and distance, unless you had incredible or magical vision, or unless your light spells are still active, it is hard to think you would be visible."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "While they are searching the body, I will suggest to Edric that we keep watch on the horizon."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I mean..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Make sure nothing sneaks up on us."
+        },
+        {
+          "speaker": "Edric",
+          "text": "That's... that's what I'm doing already."
+        },
+        {
+          "speaker": "DM",
+          "text": "Good, good."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Well, I will join you."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yeah, don't catch any of those arrows."
+        },
+        {
+          "speaker": "DM",
+          "text": "Also in the pockets, there is a belt knife and a whole series of little pouches and pockets filled with anything and everything that you recognize as spell components: bits of copper wire, the skull of a mouse, cotton fluff, and on and on. Nothing is worth anything on its own, but it is enough to make you think this was probably a wizard."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yes, sir."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Absolutely."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Christmas."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Schwartz, any, like, insignias, patches, style of dress look familiar to anything?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, the clothing is nondescript. But when you pull the arrow out, it is a gorgeously made piece of work. The head is intricately shaped and curved, and there is scrollwork on the shaft of the arrow itself. This is astonishingly beautiful work."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I'll keep the, mouse skull, by the way."
+        },
+        {
+          "speaker": "DM",
+          "text": "You never know."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Anybody in our party shoot arrows?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "No."
+        },
+        {
+          "speaker": "DM",
+          "text": "No. Well, I don't, so..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I've been meaning to learn, you know, it's an expensive hobby."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Joe doesn't ask this, I was just like..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito takes a mental snapshot of the arrow and keeps it."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wait, is there an insignia on it? You said it is beautifully crafted. Anything?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "But cool patterns?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, I mean, it's... it is not a bird that you recognize."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito takes the..."
+        },
+        {
+          "speaker": "DM",
+          "text": "The arrow, and brings it over to Txarro. What do you think? Recognize it?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Do I?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Nope. What it reminds you of is..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Can I make a guess based on form follows function? Is this like the flight feather of a..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Pardon."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "...?"
+        },
+        {
+          "speaker": "DM",
+          "text": "It sort of reminds you of how, sometimes in the market, you will see chicken feathers dyed or painted in elaborate patterns. The complexity and garishness of it, these bright..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I do."
+        },
+        {
+          "speaker": "DM",
+          "text": "colors and oranges, reminds you of that. But yes, it tracks with the flight feather of maybe a crow-sized bird, something like that."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I don't like any of this shit, guys."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Nope."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Quick question about mechanics. A ritual cast of something takes..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "How many minutes?"
+        },
+        {
+          "speaker": "DM",
+          "text": "And you're probably..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Are there any birds around?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No. You would guess it is a little too soon after sunset for the nightbirds to be out, and a little too late after sunset for the daybirds to be out. You are in this in-between time."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "It's."
+        },
+        {
+          "speaker": "DM",
+          "text": "Quiet. There are no crickets chirping. There is the sound of wind moving over the grass. There are no trees nearby, although you see them here and there in the distance."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Guys..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I wonder if those trees are incredibly big or not."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "This place feels foreign. I don't know..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "If we will fully understand everything that is going on at this house."
+        },
+        {
+          "speaker": "DM",
+          "text": "It is kind of cool, except for the head-bashing part."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "We should avoid that, and the arrows do, I guess."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "How far away are we from the house?"
+        },
+        {
+          "speaker": "DM",
+          "text": "3 miles... I don't know, maybe an hour's walk? Maybe less?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yeah, let's keep going."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Maybe we should just head there."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yep."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Let's head there, but I would like to stop a little ways away so that I can ritual cast Comprehend Languages, in case anything is said that is not intended for our ears in a language that is not ours."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yep."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Hey, let's keep walking."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito is in the back giving himself a long pep talk."
+        },
+        {
+          "speaker": "DM",
+          "text": "Another ten minutes down the road, you notice the smell of something burnt. Looking a little ways off the path, maybe thirty feet in, you see a patch of burned grass and ashes where, judging from what remains, it looks like wood was piled up over someone or some body and burned completely. All that is left are a few probably human-sized bones in the fire. There is almost nothing remaining. It is a stretch even to figure out that what happened here was a body burned."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Rocks to..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "But are there bones, or no?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, just a few bits of femur that are preserved."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Human femur?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, yeah, it's your guess."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "But no remaining heat."
+        },
+        {
+          "speaker": "DM",
+          "text": "Like..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Smell, but no."
+        },
+        {
+          "speaker": "DM",
+          "text": "Smell, but no heat. The ground around it is slightly warmer, like a campfire that has been extinguished a good while."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "The vibe is funeral pyre more than feast."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes, exactly. A body was burned."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "There's no tooth marks."
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, like, tooth marks on the bone or anything, the body wasn't..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Correct."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Great, ritual sacrifice."
+        },
+        {
+          "speaker": "DM",
+          "text": "The next body that you find is only a couple of minutes down the road. This one also has two arrows in its back, and the head is entirely missing."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Go."
+        },
+        {
+          "speaker": "DM",
+          "text": "And this one has no effects at all, like they've been taken or stripped from it."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I've been to certain kinds of events or parties where, as you walk up, you see a little vomit or something. There are clues about what you are getting yourself into, and sometimes you do turn around and go home. I feel like we are not in that situation right now. This is not great, though."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Lord Holda didn't mention a path strewn with dead bodies."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Well, he closed the door behind us when he said he was going to keep it open, and..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah. I do not really trust this guy."
+        },
+        {
+          "speaker": "DM",
+          "text": "You would warn people about that, right?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Wasn't he here just recently?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You don't know."
+        },
+        {
+          "speaker": "DM",
+          "text": "Maybe he got there just before sunset."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Unfortunately, I think all we can do is go forward, but I feel like we have to get pumped up about this somehow. Right now, vibes are low. My vibes are low. I was really excited about this amazing treasure thing yesterday, but now I am feeling more trap and impending death. I do not know if anybody else is feeling better about this."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I was feeling very excited about exploring a new place, but the dead bodies are, in fact, terrifying."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "They're a downer, aren't they?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Well, look, Kaito, the treasure of the greatest value is the treasure in your mind. And the hammer that is about to smash your head, you just run away from."
+        },
+        {
+          "speaker": "DM",
+          "text": "It's fine. We'll go check it out."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "We'll just scatter if we need to, you know?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I... I..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I think we should be worried about getting out. I mean, we will be okay, we will make it, but treasure is the least of our concerns now."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Like, how do we leave?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito goes over to Edric and says, \"You know, Edric, however long we have been hanging out, you always talk about the night... what is it, the Night...\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "the Night Queen."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "You are always talking on and on about the Night Queen."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I have to say, I am with you now. Do your Night Queen thing. What is that?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "language."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Is the Night Queen helping us? This is maybe the only time you will ever see me do this, but let's say a prayer together. What are we saying?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I mean the Night Queen, right now. Let's do it. Is she going to help us?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What are we doing here, Edric?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "What are we doing here? We are going to find the way out."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "We are, but can we do a... Kaito is the dude who, when Edric is doing the Night Queen stuff, is usually like, \"Ugh, more of the Night Queen.\" And now he is like..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Give me some beads to hold. What are we saying? Are we chanting something?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "We'll send a prayer to her, asking her to..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Ask the Wanderer to show us the path out."
+        },
+        {
+          "speaker": "DM",
+          "text": "Wanderer, show us the path out. Kaito gets on his knees to pray."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "With deep authenticity: Wanderer..."
+        },
+        {
+          "speaker": "DM",
+          "text": "show us the path out. He glances over at the body and says..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I have never believed in the Night Queen so hard. Let's go."
+        },
+        {
+          "speaker": "DM",
+          "text": "About a half mile from the manor, a hedgerow, tall, maybe fifteen feet and solid like a wall itself, comes up the hill from the river flowing down away from you. You find yourselves following this high hedge along the side of the road, until at last ahead, maybe a few hundred feet..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Before we get super close to the manor, when we saw it from a distance, we saw lights around it and it looked like... do we still see people?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes. As you get closer, you can hear the murmur of people talking and the clink of glasses. There is a celebration or party. Improbably, you hear what sounds like a string quartet, or some combination of string players, in the distance, and a murmur of sound from outside the house and grounds."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I love chamber music."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Before we get any closer, I am going to take out one of my pouches, take out a few little sticks, grind them up, and ask the ancestors for an omen, using my Augury spell, as to whether approaching the manor, introducing ourselves, and asking to speak to the Lord about a treaty is a good idea or a bad idea."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Thank you."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "While you are auguring, I am ritual casting."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You can tell me about it later."
+        },
+        {
+          "speaker": "DM",
+          "text": "Tim, what are the signs that you receive back for weal and woe when you cast Augury?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Since this is calling on the ancestors of my family, the lizardfolk spirits, to give me signs, I think it is just a happy feeling or a sad feeling. Or a confused feeling, basically."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "It's not so much any physical sign, it's like..."
+        },
+        {
+          "speaker": "DM",
+          "text": "The feeling you get back from it matches almost exactly the complicated ambiguity of this time of night. There is this beautiful positivity, all the wonderfulness of the day, the scent of warm earth still on the air, of grass dry in the sun, all of these happy smells. At the same time, underneath it, there is this discordant note of the first leaves falling in the fall, of a cold that is not going to warm back up again even when the sun comes out tomorrow. Weal and woe, both."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I will report this to everybody. Maybe we should not just go straight up."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I mean... Kaito gives Tarek a look."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "A little weal, a little woe. What's life without the two, you know?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Well, more just, I mean, you could do your thing."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Missing."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, your thing. You are a thief and can sneak around and do sneaky thief things."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, that sting!"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, the thing that you are, like, exceptionally skilled at and known for? That thing?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "You know, everything I learned about the thing, I learned from you."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "My true, wise mentor. Yeah, you did not at all. I cannot do any of the things that you can do."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I guess so."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I mean, I am going to put on a show while you do this thing."
+        },
+        {
+          "speaker": "DM",
+          "text": "But, the thing."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Exactly."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "The thing is kind of instant."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yeah, you're the diversion guy, that's a good point."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I think my thing is something we should not be doing right now. My thing could be useful later, but your thing feels like it could be the thing if we want to do the thing."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yes, you're right."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Metagame: we are all third level. We do not have clairvoyance or any useful stuff like that."
+        },
+        {
+          "speaker": "DM",
+          "text": "We have no fancy spells."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I could summon a familiar."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I could cast into..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "and send it to Scout."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "You can cast what?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Invisibility."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, that's useful, that's useful."
+        },
+        {
+          "speaker": "DM",
+          "text": "That's very useful, although that's..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "We might... it might be too soon to use it. It might not be time to use it just yet."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I mean, don't we, I mean."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That's good to know, though."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Somebody to scout ahead, you know?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "But you have Disguise Self."
+        },
+        {
+          "speaker": "DM",
+          "text": "Hey, Al."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I do, but, I mean, that still involves interacting with people."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I mean, do we want to just sneak in?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I know, but aren't you good at deception?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, sure."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "But also, before we go and interact with anybody, we could send a familiar in."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Or have Tarek go sneak around and check it out undetected."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I have moved on this before. We send Tarek, maybe this is a thing. Okay, what is your character's name again?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Ayveen?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What is it?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Ayveen."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Ayveen casts Invisibility on Tarek. Tarek goes, figures some stuff out, comes back forty-five minutes later, and is like, \"Hey, do not go here.\""
+        },
+        {
+          "speaker": "Tarek",
+          "text": "He's like..."
+        },
+        {
+          "speaker": "DM",
+          "text": "You know?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Sorry, I couldn't find anything. His pocket's visibly bulging."
+        },
+        {
+          "speaker": "DM",
+          "text": "Exactly. Thanks for the invisibility, right?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Do we want to send Tarek ahead to go and do the thing?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Close enough now, yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "How long does invisibility last?"
+        },
+        {
+          "speaker": "DM",
+          "text": "An hour."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "An hour."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "You only cast on one person, right."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I mean, it is risky. What if he gets detected?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Could see invisibility."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "That would make it risky."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Well, let's just give it a try. Let's get a little closer."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, dude, Tarek..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Plenty of coverage."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "This is the time for you to do your thing. This is what you're here for."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "This hedgerow that we are walking along, it is running parallel to the road?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Exactly, like a wall on one side of the road. It cuts off your view of the manor beyond, so you have lost track a little of how close you are, although you hear the sound of the party getting louder as you get closer."
+        },
+        {
+          "speaker": "Edric",
+          "text": "So the manor is down the road, but the hedgerow is on our left or right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "As you are walking, the entry to the manor is down the road ahead on the right. Maybe you are close enough by this point that, as you come over a rise, you can see a lantern that you assume is a gate. The hedgerow goes parallel to the road, boxing off the grounds behind it."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Only on the right, or, like, we could be wandering off into the fields on the left?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Only on the right, and the fields are open on the left."
+        },
+        {
+          "speaker": "Edric",
+          "text": "And it's made of normal plants?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, exactly. They are planty plants."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Fields on the left are planty plants."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "But we are not going bushwalking off the trail. We are just going to stay... just saying."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Keep going."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I don't know."
+        },
+        {
+          "speaker": "DM",
+          "text": "Are you going to get closer, or do you want to send your familiar to scout ahead?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, maybe I'll summon a familiar."
+        },
+        {
+          "speaker": "DM",
+          "text": "Sort of a, you know, get some advanced information type of situation."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I will summon an owl."
+        },
+        {
+          "speaker": "DM",
+          "text": "What kind of owl is it? An eastern screech owl? Excellent. What instructions are you giving it? What are you having it do?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So I'm telepathically connected to it as long as it is within."
+        },
+        {
+          "speaker": "DM",
+          "text": "100 feet."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I can see through its eyes and ears. The first thing I will do is have it fly above the hedgerow, about a hundred feet, and see what it sees."
+        },
+        {
+          "speaker": "DM",
+          "text": "It sees, maybe a quarter mile up ahead, a silvery gate of fine-wrought metal with two guards leaning against it, wide enough that a carriage or maybe even three horses could pass through at once. Behind it, a broad lane leads maybe a quarter mile back from the road, maybe even a half mile, to a house that stands at the top of a hill. Below the house, broad lawns fall away toward the river on one side. On the other side and behind it are what look like vineyards, fields of tended grapes, a formal garden with paths made of fine crushed stone, and kitchen gardens in long cultivated rows. The house itself is roughly the same size as Dandelion House, a large manor in a couple of different sections. On one side of the house, broad patios come out above the lawns that go down to the river. There are little clumps and clusters of guests here and there, on the patios and lawns and even down by the river. There are a couple of people getting into a rowboat and apparently, you would guess, saying their farewells as they push off. It seems like a party that is coming apart, breaking up, or in the process of ending. There are three musicians on one of the patios, playing. It is tough to see inside the house because it is so bright to the owl's eyes, but there are clearly more people in there, with windows flung open and doors open. That is the general sense of it. Txarro, are you just narrating this?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, I'm narrating."
+        },
+        {
+          "speaker": "DM",
+          "text": "As Kaito hears all of this, his ears perk up. He is like, \"Oh, I think I should probably go do my thing. I am going to try to get to this party. How do we get in there?\" The road continues to the gate, which is right off the road maybe a quarter mile ahead. There are two guards there, or you assume they are guards because they are in the position and place of guards. But if they are, they are awfully casual about it. There are two long spears leaning behind them. They are not armored; they are dressed more like servants, in waistcoats, short pants, and soft leather boots. They do not have an especially intimidating look."
+        },
+        {
+          "speaker": "DM",
+          "text": "They are not in a military posture. Yeah, go ahead."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "No, but it is more like... not the concierge, but a little more... I mean, they are not greeters, but they are..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, exactly. The gates are open behind them, so they are not guarding in that way. The gate is set into the hedgerow."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Now I am kind of like, should we just go?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Can I tell if these are humans, elves? What do they look like?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I do not think the owl can tell at that distance. They are human-sized mostly, but some are smaller. You see a pair of halflings walking across the lawn, probably an elf or two sprinkled in there."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito is just like, \"Let's go. Do not worry about this.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "He starts walking confidently ahead, rearranges his stuff so he looks straight, and says, \"Let's go.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I will send the owl to fly by over the manor house, staying about 120 feet up or so."
+        },
+        {
+          "speaker": "DM",
+          "text": "Try to be..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Pretty quiet on the wing. It will try to be stealthy, depending on the darkness, hard to see against the sky."
+        },
+        {
+          "speaker": "DM",
+          "text": "Stirring."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Circle over the manor house, get a better look at who these people might be, see if I can get a rough count of how many people there are, and see whether everybody is just milling around or if there is some order to the party."
+        },
+        {
+          "speaker": "DM",
+          "text": "Are there guards at the manor house gate? Basic whatever-the-owl-can-figure-out, and then fly back. Your impression is that the guards at the gate are formal. While there are people who are armed in the party, it is dress arms: the saber someone in a cavalry officer's uniform is wearing, or the long knives that elves..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito is hustling now. He's like, \"Guys, the party is ending. We have to get there now.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "What's your story, Kaito?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Do not worry. Money comes to him."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Faith."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Thank you."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Are you going alone?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Anybody wants to come with me? Let's just say Tarek, for sure, would come. Tarek and Kaito, this is kind of their thing. Tarek is down for this. This is common..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Like..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "This is a good moment."
+        },
+        {
+          "speaker": "DM",
+          "text": "So you are going up to the gate? Alright."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Is anybody else coming, or do you guys..."
+        },
+        {
+          "speaker": "DM",
+          "text": "I mean..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Is there a reason for us not to all go?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, let's all stay together. Just as a default posture of paranoia, right?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Other than the fact that Augury did not say all of us marching up to the gate was good."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "But maybe we do not introduce ourselves and immediately ask to speak to the Lord of the Manor."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "No, no, no. A treaty. Yeah, sorry."
+        },
+        {
+          "speaker": "DM",
+          "text": "On that part, let's not say any of that stuff. Just so you know, we have done this enough now together as a group: in a situation like this, Kaito and Tarek are going to go."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "They are not necessarily going to make a scene, but Kaito is a glamour bard. He is immediately trying to figure out where the other performers are, so he can start building a little connection with some of the people there, set some vibes, and see if he can attract interesting people over. The goal here is that we do not say anything out loud about what we are here for yet, but..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Let's just feel it out and see."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I do not think there is anything here that is going to kill us right away."
+        },
+        {
+          "speaker": "DM",
+          "text": "What do you guys think?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "The owl overhead."
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "title": "Well Met, Mortals",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "As you are coming up to the gate, the last thing you see through the owl's eyes, just before the guards notice you, stand, rub their eyes, and raise a hand to hail you, is a tall figure stepping into one of the manor doors, illuminated brightly from behind. A man? He moves with a lithe grace like a dancer. With the backlighting, it is difficult to tell if the smoothness of his face is his face itself or a masquerade-like mask he has been putting on. You see him scan over the crowd. His eyes fall away down the slope of the hills to where people are climbing into the rowboat to head onward. He notes sharp voices raised among a small cluster of people below the patios. Then he looks directly at the owl, makes eye contact, nods to himself, and steps back inside the house. The guards raise a hand in greeting, but then a look of confusion comes over their faces. They are two deeply wrinkled elderly men, pot-bellied, wearing the sort of separate hood from a cloak."
+        },
+        {
+          "speaker": "DM",
+          "text": "They look at you with a note of confusion, then lift their noses and sniff, almost dog-like. In their sniffing, there is a strange moment when you do not understand if you are seeing men pretending to be dogs or dogs pretending to be men. Then they finish, nod a greeting, and say, \"Well met and welcome, mortals.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Word dope."
+        },
+        {
+          "speaker": "DM",
+          "text": "Well met and welcome, mortals."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito gives a flourish of his cape."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "What language do they say this in?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Common. Heavily accented Common."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Accented Common?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Ambiguously accented Common."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito gives a flourish. Greetings."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Before he walks in, he glances and says, \"The festivities ending soon?\""
+        },
+        {
+          "speaker": "DM",
+          "text": "Indeed. Indeed. The party is ending. You're just in time."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "4."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"The party before it ends,\" says one, with a chuckle. \"Indeed, my favorite time. Where have you come from? It is unusual to see so many of you together at once at this time of night.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Do we use Detect Thoughts now?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Find out in a minute. No, not now."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Where did we come from? Down the road, of course."
+        },
+        {
+          "speaker": "DM",
+          "text": "The one who has not said anything so far chuckles, like you have made a very incisive joke."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And may I ask, can you share more about the party?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Well, our apologies for being late."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I will tell you this. We belong to the road, not to the party. The party is not our story. We know what we hear and smell and see through the gate, but this is as far as we go.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Well, perhaps some candor. We came from the road. We saw bodies."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Presumably coming from here."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Maybe, maybe not. I love a good party.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito gives another flourish and a wink. But also, the bodies. Anything you might be able to share about the party?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And the Lord here?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The ones you passed did not come from this house. But further up the road."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Is there anything further up the road? I mean, the road keeps going, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes, the road absolutely keeps going. The road goes on and on and on. In the Twilight Kingdom, there are a dozen dozen houses, homes, and holes, with the setting sun just over the horizon."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "This is the Twilight Kingdom."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Which."
+        },
+        {
+          "speaker": "DM",
+          "text": "Which way is the road going? Toward the sun? Away from it? As near as you can tell, the road runs parallel to what in any other place would be the north-south axis, exactly between day and night. You notice, in fact, having been here for at least an hour now, that the sun has not moved in the sky. Sensing your confusion, the same guard says, \"Do you have, where you are from, disease that spreads from one person to another?\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yes."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Well, we do not have that here. But we have something similar. Sometimes people get infected in a way. Sometimes people get caught by a bad smell. That smell can cause disaster and spread to more people with the bad smell. We belong to the road. We keep the road safe. Sometimes, with the people who have the bad smell, you cannot get the bad smell out of them any other way. I think that is what you saw.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "They only have spears, they don't have any bows or anything like that."
+        },
+        {
+          "speaker": "DM",
+          "text": "Though their feet are shod in plain, soft boots."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "So, the bodies. You guys do not have anything to do with the bodies."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"My people do. Some of us stay at the gate, some of us travel the road.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "But you do not know what to do with the bodies?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The two of us? No. No, no. Our place is the gate."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Right. And again, the Lord of the manor here? What do you know of him?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"He came to the gate once, just at the height of the party, just before... you know what it is like when a gathering starts to come apart? You can feel it before anyone has even left. He came in that moment to tell us to be careful of travelers on the road, to smell very carefully for the bad smell, but to let in any mortal who wanted entrance. It was a strange thing. I remember it, too. I would have thought he just said any guest who wanted entrance, but he said any mortal who wants entrance, send them in.\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Excellent."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "When was this directive?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Just as the party began to end. Just after the height of it. We arrived, of course, when it was just beginning.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, so quite recently. How long has this party been going?"
+        },
+        {
+          "speaker": "DM",
+          "text": "He shakes his head, confused, like you are asking a ridiculous question. \"It began and reached its peak, and now it is coming apart.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, yeah, yeah, no, I understand."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "You mentioned the other lords down the road. Tensions?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Well, you just said the bodies, they're not from here, they're not from this house, the bodies are from another house."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Do you know what house they are from? There is a house that, when people come out of it, they sometimes come out with the bad smell.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "What does that smell like, so we can avoid it?"
+        },
+        {
+          "speaker": "DM",
+          "text": "He looks thoughtful for a second, then locks eyes with you and says, \"It smells exactly unlike anything else I have ever smelled in my entire living. It is the opposite of smell.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "That is confusing. Thank you."
+        },
+        {
+          "speaker": "DM",
+          "text": "He gives a nod."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Are there other mortals with this party?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"There are a handful. A few have come by boat. The halflings came soon after it began. They always seem to. I think there was a dwarf...\" He turns to the other one. \"The dwarf went in. Did they come out? And a few I could not quite tell. None of them had the bad smell, though.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Did any come and go?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Any number of them have come and gone.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Since the party began to end?"
+        },
+        {
+          "speaker": "DM",
+          "text": "He looks thoughtful for a moment, as though trying to put that together for the first time. \"Let's see. Yes. They have been going more than coming lately, I suppose.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "That is what ending means, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Would you like to go in?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "The house down at the end of the road, the one that's kind of fallen apart."
+        },
+        {
+          "speaker": "DM",
+          "text": "He says, in a language you do not recognize, what must surely be some curse, and spits. \"It is a bad-smelling place. We do not go there.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Does the road end in the other direction, too?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Roads do not end. They only ever go on and on.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, some roads do not... Edric covers his mouth, like, I probably should not get in an argument with them, and stops talking."
+        },
+        {
+          "speaker": "DM",
+          "text": "We belong to the road, he says. We know."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Should we go in? Txarro says to everybody else in Tollish, not Common, which I presume everybody understands."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Let's do it."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We would like to enter."
+        },
+        {
+          "speaker": "DM",
+          "text": "Very good. Did you bring gifts?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I was literally going to say that at the very beginning. Unfortunately, gifts are a relative term. Something I possess may be a gift to some and may not be to others. So we come bearing our possessions. To the extent that some of those may be worthy and deemed gifts, then we have them."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "You will not like that. Collectively, do we have anything nice? Classic things one might think of as a gift?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "I have some water blessed by the Night Queen."
+        },
+        {
+          "speaker": "DM",
+          "text": "Let's do this."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Song of a loon? Have you heard a loon call before?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No. What is that?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "A gift for the Lord of the Manor."
+        },
+        {
+          "speaker": "DM",
+          "text": "Very good."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Would he approve of me sharing my gifts with you?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Listen. I am bribable. Tell me this instead, and I will let you through. It has been so long since I have gotten to speak with anyone who dreams. What did you dream of last time you slept?\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Amazing."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Didn't one of us have a very weird nightmare about the..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Lord of the Manor? This is completely open to whatever you would like to do with it."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I mean, I am happy to make up a dream. I am just wondering, didn't..."
+        },
+        {
+          "speaker": "DM",
+          "text": "One of us actually describe a dream about..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The manor, in that session?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, I think that was Edric."
+        },
+        {
+          "speaker": "DM",
+          "text": "Trying to remember my memories."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Hmm."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Maybe not, I don't know."
+        },
+        {
+          "speaker": "DM",
+          "text": "Dreams, well..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Most of my dreams are of animals, which you seem to have few of here."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Have you heard of... I am trying to think of an interesting bird that would live in Tollen. A bittern."
+        },
+        {
+          "speaker": "DM",
+          "text": "No. What do they smell like?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Fishy and wet."
+        },
+        {
+          "speaker": "DM",
+          "text": "Hmm."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "And of mud and reeds."
+        },
+        {
+          "speaker": "DM",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I dreamt of one wandering, lost, through a marsh, calling its low, hooting noise, trying to find... what, I don't know."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "But as it reached the edge of the reeds and came out of the water onto the mud, it began to burrow and dig. As it did, it turned into a snake and slithered through the dirt, shedding its skin as it went, which grew into reeds. Then it came to the water again and sprouted feathers from its now-bare skin, growing into a bittern again, calling a low, moaning noise."
+        },
+        {
+          "speaker": "DM",
+          "text": "Was the bird at the end the same or different from the bird at the beginning?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Both."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Very good.\" And he is not satisfied."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I didn't..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Or are you satisfied? \"Listen, I do not mean to be greedy. But it is a precious opportunity. I have always wondered what it is like. What do you make of these things?\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric says, \"I normally dream of baking bread. Just the smell of it.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Mmm. I know that smell. That is a good smell.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "But then sometimes there is the other dream."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But maybe I shouldn't speak of it here."
+        },
+        {
+          "speaker": "DM",
+          "text": "He kind of rumbles. \"Hmm. I am curious now, though. What is this other dream? You make it sound like it is unchosen. You do not get to choose your dreams.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "No. But dreams come from the gods. You do not know that?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I do not dream. I only smell.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Well, there is the one..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Where I'm lying in a grave."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Oof. Not enough. What is the...\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "It's always the same."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Great dream again."
+        },
+        {
+          "speaker": "DM",
+          "text": "And then..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "A crown appears."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Six points of light, coming through the dirt."
+        },
+        {
+          "speaker": "Edric",
+          "text": "And I am small. I cannot move on my own very well, I can only crawl. The crown gets brighter and brighter, and I know to follow it."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I think it might be a memory, in a way."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "It might be a what?"
+        },
+        {
+          "speaker": "DM",
+          "text": "A memory, in a way."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Whoa, memory."
+        },
+        {
+          "speaker": "Edric",
+          "text": "And then the grave dissolves. Then I wake up."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"When you are in the grave, is it open to the sky, or are you under dirt?\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, it's..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "It is dirt until the light starts to... the six points of light start to melt it away."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Almost like, like a beam, like..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Edric waves his hand, and a ball of light appears. He closes his fist, and it goes away again. But six of them, like a crown, tunneling their way through. The guard nods. \"Grave smell is a good smell. Like a bath, it cleans. It is good that you are in the grave, sometimes.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Have you never smelled a bad grave smell?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Once I smelled the bad smell for the first time, nothing else was bad anymore, except for it."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Sorry, where's the bad smell come from again?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Bad smell comes from the mortals who catch it.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Do any of the mortals here have it?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"No. No one inside these grounds does. That is what we are here for: to sniff it out and keep it from entry.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "One more dream, and I'll let you through."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, I will tell you a dream. But before I do, Kaito pulls out his lute and another instrument, a small flute. He gives both of them a quick little flourish with incredible skill. Not too showy, just enough to show that this guy can definitely play these things."
+        },
+        {
+          "speaker": "DM",
+          "text": "Give me a Performance roll."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "15."
+        },
+        {
+          "speaker": "DM",
+          "text": "Solid."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Does the Lord of the Manor appreciate skill in song, in music?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Presumed so, as gifts anyway. I do not know. It is a good offer to make.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Dreams. You know, I find my dreams are never one thing."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "The dreams are always one thing connected into another thing, into another."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Elves do not dream."
+        },
+        {
+          "speaker": "DM",
+          "text": "What's that?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "They don't sleep."
+        },
+        {
+          "speaker": "DM",
+          "text": "What's that?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Owls don't drink."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Elves do not dream. Elves do not sleep."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, shit."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, that sucks."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh well."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Alright, I do not answer this question now."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Elves spend the first, like, 50 years of their life dreaming."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Can I share one of those?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, okay."
+        },
+        {
+          "speaker": "Edric",
+          "text": "There is no lore about what it is at all, so totally..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah. Who knows?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Who knows what happens, all we know is..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Perfect. Let me say this later, then."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Well, my kind, we effectively have one dream, and it only happens once. So I actually share your nostalgia. For you, I guess it is a curiosity, since you have never had a dream. But for me, it is more nostalgia, because I have only ever had one. But if you like, I can share some snippets of that dream."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Tell me.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "It was the one dream, and it was a long dream. The parts I am most nostalgic for are less one moment or one narrative and more a whole bunch of scenes clipped and chopped and strewn together, almost like a patchwork quilt made of so many different colors and shapes and textures and smells."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "It would go from one scene with massive trees of unimaginable size, swaying huge roots, large craggy grass, and the feeling of something so raw and alive."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And then all of a sudden, nothingness in the night sky, just black."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Except stars, everywhere, and then shifting from stars to blackness. Then all of a sudden, waves are crashing over your head, and you are in a boat rocking up and down, your body swaying back and forth. Then you feel like you are in the middle of the ocean, except you are not. You are in the middle of a fire, in a flame inside a fireplace. It is raging hot, and you are sweating, and it is incredibly uncomfortable, until you hear the sound of a voice singing. It is your siblings, except do you have siblings or not in real life? It is hard to say. The voices are so golden and beautiful and piercing, and they pull you out of the fire. The next thing you know, you look down and you are a bird, or maybe not even a bird, but you are flying. You can see, hundreds of feet below, maybe miles below, just spots of houses and buildings. It goes on and on like that. I will never have another one, but the one was pretty good, and I like that I can go back and visit parts of it."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I suspect sometimes that the lord of this house, too, lives always with a sense of having lost something that will not come back again. Not just something that will not come back again, but something that can never come back again.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wait, say that last part again?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"That the Lord of this house lives having lost something, like you, that he cannot ever recover again.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Mmm..."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"But I do not hear you describing it as loss or grief. I hear acceptance of that change.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "No regrets, no remorse. Onwards."
+        },
+        {
+          "speaker": "DM",
+          "text": "It is what it is. Kit, I do not want to cut you off if you have one lined up, but I am also happy to move us in."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I got flummoxed by the elves-don't-dream thing. I had something to say to..."
+        },
+        {
+          "speaker": "DM",
+          "text": "You know, full..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "third one, so we have it as needed, but I am fine."
+        },
+        {
+          "speaker": "DM",
+          "text": "They gesture for you to step through the gate."
+        }
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "title": "The Endlessly Ending Party",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "You see the long, sloping lawn that leads from the river's edge up to the patios and open doors of a bright and handsome house. String lights are strung in globes down the hill as the ground falls away ahead of you. You see groups of ones and twos and fours and fives. You see the signs of a party ending. The lighting is strange and uneven: some rooms are brightly lit, some less so. On a second glance, many of the lanterns have already gone out, and in others, the candles are flickering low. Empty glasses have been left in strange places, like the side of the pathway, where a plate and wine goblet have been set."
+        },
+        {
+          "speaker": "DM",
+          "text": "Long after you have left this place behind, long after all the details have faded from your head and the colors so vivid in this moment are drained away, long after you have forgotten the accents of the speakers, or even the language they spoke to you in, and the music the players play returns to you only in your dreams, you remember the coolness in the air. It is like the first smell of winter in late October; like the moment when you are still dancing with her and know she has left you already; like evening falling, when you cannot distinguish whether the shape in the distance is a man at rest or a corpse on the ground. In those days, it is not a memory of this place that returns to you, but a kind of knowing, deeper than words and deeper than thought, that the day has already slipped between your fingers. You have already lost it. The party is already ending by the time you arrive at it, never to return."
+        },
+        {
+          "speaker": "DM",
+          "text": "An evening has come."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Sorry, what's never to return?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The celebration, the day, everything that has passed, is finally past."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Schwartz, is there a feeling that this ending of the party has been going on for years? Or is this actually the ending of a party? The whole place feels very eerie, that kind of weird, slightly creepy, Shining-ish feeling. It feels like we are in a Stanley Kubrick movie."
+        },
+        {
+          "speaker": "DM",
+          "text": "High praise call, thank you."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "No, seriously, it does. It is amazing. Has this party been at the ending phase for eternity? Or is it actually a denouement after a party?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Let me answer slightly indirectly."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Great."
+        },
+        {
+          "speaker": "DM",
+          "text": "Looking down the hill, you see two people climbing into a rowboat in the river, setting their oars in the oarlocks, getting ready to cast off. On the patio, the musicians call out, \"One more.\" You realize you heard them call that two or three times while you were talking with the guard."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "And haven't there been people getting in a boat on the river?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Did the rowboat row off?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No. But rather than being frozen in time, the sense is that the same thing is happening over and over again, while each time you see it, it feels like you are seeing it for the first time. It takes conscious effort to notice that it is not something new: those are the same people. The boat has just turned thirty degrees. The person you thought was in front is actually in back, but it is the same boat and the same people."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric is very literal, just watching the people in the boat and staring at them. Do they row off a little bit and turn around and come back? Do they never cast off at all? What do they actually do?"
+        },
+        {
+          "speaker": "DM",
+          "text": "They never cast off at all. As the oars are set, someone comes up on the bank and strikes up a conversation with them. Then there is an endless series of delays and obfuscations until Edric cannot keep focus, looks away for just a moment, and when he looks back, the same moment is beginning over and over again. Loop is not quite right, because it is not identical each time. It is like everyone has a fake book and they are playing their own version of the same eight bars over and over. It is different every time, but it is the same eight bars."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Tim, we can't hear you."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I want to find the halflings."
+        },
+        {
+          "speaker": "Edric",
+          "text": "This is going to look..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Back at the guards, they are apparently totally uninterested in anything that happens inside the gate. Their whole focus is the road. They raise their noses to the wind and sniff. One squats into an easy crouch, and for half a second it is difficult to tell whether it is a person squatting like a dog, or a dog standing back up into a person's shape. The halflings are down on the lawn near one of the patios."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I am going to walk back over to the guard for a minute, just ten steps back toward them. It is okay to leave, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Can I just go check something on the road for a minute? I just want to smell the air."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Of course. We are not here to keep anyone in. We belong to the road. We are here to keep the road safe.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric's going to walk out onto the road, and then turn around and walk back in."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, it's all good."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah. Because those people down there don't seem to have left."
+        },
+        {
+          "speaker": "DM",
+          "text": "You know how it is when a party's ending. People take forever to say goodbye."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric, kind of outside: \"I do not know if I have ever been to a party quite like this, but that is not how it is.\" Anyway, go."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We walk towards the halflings."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I mean, that's what Txarro's doing. I... we don't all have to do the same thing."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Six strange mortals, or five strange mortals, descending on a pair of halflings might not be necessary. Is there anyone else we can see?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, Schwartz, is there, there were still performers, right, someplace?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, so there's a trio playing on the balcony. There's, I mean..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Let's go shop, talk shop with the musicians."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I think we are safe. This does not feel like anybody is going to get bashed to death with a blunt instrument here."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I think."
+        },
+        {
+          "speaker": "Edric",
+          "text": "It is just a large pointed instrument, sort of."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "The danger here is more like getting trapped, having your soul trapped here for eternity, or signing on to some..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric pats his breastplate reassuringly. The Night Queen will take care of my soul. I will be okay."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, you're fine."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I'd like to stay here because..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I am the one likely to do something dumb here, but..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I mean, the owl's still flying around overhead and can presumably see everybody."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Great, that works for you, but I can't see you through an owl, so I'm going to stay where I can see you."
+        },
+        {
+          "speaker": "DM",
+          "text": "The vibe is unsettling, but not overtly dangerous. The unsettling part is the nature of it: everything is simultaneously frozen and in motion at the same time."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I am also thinking ahead that if we are chatting with someone, and you are chatting with someone, and the Lord of the Manor comes up to chat with us, you might want to drift in our direction."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Why don't we just stay in eyesight of each other?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yes, that is my point. Let's keep within sight of each other."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito will wander over to the instrumentalists. We can do these little vignettes separately."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric watches everybody wandering off in a minor moment of panic and then tags after Txarro, who seems safer than talking to musicians, which is kind of nerve-wracking."
+        },
+        {
+          "speaker": "DM",
+          "text": "Awesome. Halflings, musicians, anything else? At this stage, that is the two."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Cool."
+        },
+        {
+          "speaker": "DM",
+          "text": "Who wants to go... first?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Like, Kongo?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "First, because he's got to jump off at 11."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "that may have a."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, that's right."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito will saunter over to the musicians. What are they playing?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Buddy system. I am with you, buddy. Party system."
+        },
+        {
+          "speaker": "DM",
+          "text": "Three stringed instruments, something like a cello, violin, and viola, but with more strings than you are used to on any of them. All three players are tall, slender, and long-fingered as their hands move over the strings. They are clearly professionals and excellent at what they do. You can see they are tired, clearly have been at it for a long while. It is not that anything is incorrect or missed, but you have the ear to hear: that was a fraction of a second later than it should have been."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Player at the end of the night."
+        },
+        {
+          "speaker": "DM",
+          "text": "Exactly right. I have seen it a million times."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "As Kaito gets closer... sorry, what are they playing again? String instruments?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, cello, violin, viola. Perfect. Ish. Perfect, yeah. Perfect."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito, Kaito will,"
+        },
+        {
+          "speaker": "DM",
+          "text": "Again, you know, with, with,"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "With all the social graces and etiquette of somebody of his skill and ability, he gets close enough and makes eye contact so all the other players are aware that he is approaching."
+        },
+        {
+          "speaker": "DM",
+          "text": "And also, you know."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "He makes them aware of his own stringed instrument and is kind of..."
+        },
+        {
+          "speaker": "DM",
+          "text": "like..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "showing it, approaching slowly, and giving a glance and eye contact, asking permission to play with them a little bit. He knows not to overstep his bounds, but he is giving a slight glance over."
+        },
+        {
+          "speaker": "DM",
+          "text": "The vibe you get is that this is not an open session kind of thing. They are clearly hired for a..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "You know?"
+        },
+        {
+          "speaker": "DM",
+          "text": "a thing. After about a minute or so, the piece comes to an end."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "In an unsatisfying way?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You expect a certain resolution, and it gets close, but it does not give you the final dum-dum. No."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, no."
+        },
+        {
+          "speaker": "DM",
+          "text": "Right, there is something unfinished about it. There is a smattering of applause and a few distant calls for, \"One more, one more.\" One player waxes their bow, another reaches down for a mostly drunk glass of wine under their seat and takes a sip, and the third looks up at you and gives a nod."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Would you like some relief? I can play a tune if you would like."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I dearly would, but the Lord of the House was very clear on this point. Besides, we have just one more to play, and we are done with this set, finally.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Congratulations. Delighted to hear it. It has been a delightful set."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Thank you. Thank you, thank you.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito steps back, excited to hear."
+        },
+        {
+          "speaker": "DM",
+          "text": "They take a deep breath, pick up, and the leader calls out, \"One more. One more before you go,\" and begins to play. Smash cut to halflings?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Sure."
+        },
+        {
+          "speaker": "DM",
+          "text": "The two halflings, you get the impression, are probably about half drunk. They are sitting on the lawn next to each other, having a long, slow argument: the sort of argument with raised voices and sharpness, but also a friendly quality of banter and insult between two people who have been long companions and are arguing as much for fun as anything else."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro approaches, gives a slight nod or bow, slightly awkwardly because he is not particularly good at social graces, and says in Common, \"Sorry to interrupt. I could not help but notice that there are not too many mortals here, and I have to ask: what brings you to this place?\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Wow. Okay, just to be clear: you are not a fey that looks like a lizard. You are, in fact, a lizard that looks like a lizard.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I am indeed a lizardfolk of Taelgar, if that is what you are asking, from the Greywash near Tollen."
+        },
+        {
+          "speaker": "DM",
+          "text": "The second halfling throws his hands in the air and falls over sideways. \"Wow, wow, wow,\" says the first. \"Will you settle an argument for us? Okay. Is a lion tamer afraid of a lion?\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I have never met a lion tamer. I have met a lion."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"You've met a lion. Wow, man.\" He falls silent and stares off into space, deeply pondering this."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "My name is Txarro. You are?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Barn, and this is Pandel. He's a little overwhelmed. We have not seen a lizardfolk in... you know. No.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Where are you from, my friend?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Goodness. We grew up near Chardon. Out in the sticks, man.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I've never been..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Have you heard of Chardon?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Indeed."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Yeah, yeah. It is just a little spot, way out there by the ocean.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "What's it like?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"It is a little rough living, but we get around. It seemed like a good spot to make something. My family said, you have to get in on the ground floor. You go to the edges of the empire, set up your shop there, and it is going to pay off. One of these days, it is going to pay off.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "More and more confused."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "It's on the edges of... Which empire?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Starting, like, big?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"The Empire?\" He grabs the guy next to him, shakes him, and sets him back up again. \"Say that again. I want him to hear you so he falls over.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "The edges of which empire?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The second halfling busts out laughing and falls over. \"Where are you guys from?\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Hold on. The Greywash, I told you. Tollen existed."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Yeah, alright, Tollen. They have a... what do they have, a bridge there?\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "When are these guys from?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "They do have a... well, I know, but I do not know if Txarro knows. Sort of cheating. There is a bridge. You have heard of Tollen?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah!"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Sembara?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Sembara? Maybe, man. I hear a lot of places from a lot of people.\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Have you met him? Okay. Oh, I'm not even there."
+        },
+        {
+          "speaker": "DM",
+          "text": "No, after checking my notes, everybody knows where Sembara is. \"It is out there. Why? What is going on here, though? Why are you asking me all this?\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I am curious how long you have been here. Also, you seem very drunk."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Yeah, there is a little bit of that.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Can we help you in some way?"
+        },
+        {
+          "speaker": "DM",
+          "text": "We got here."
+        },
+        {
+          "speaker": "Edric",
+          "text": "some water."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Actually, I do not need water, but if you would get another bottle of wine, that would be... bring it here so we do not have to go back in the room with the tiger again.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Tiger?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I know he is not a tiger. I am sure he is perfectly nice. It is just that there is a certain size of thing, when it can eat you in a single bite, that as a policy, you keep your distance.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Sorry, how long have you been here again?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"We got here in the morning. So what is it? I do not know. It is evening now. How long have you been here?\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "No, the sun isn't moving in the sky, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Yeah, because it takes time. Wait, the sun is not moving in the sky? You are one of those people who thinks the earth rotates under the sun and the sun stays still? I am not...\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We should move past that."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"We got here... it has been like a day, man. We got here in the morning and had this beautiful day. It was glorious. We met so many friends. I got to ride on a rabbit the size of a pony. It was amazing. I fell off. It hurt. Then someone was headed downriver and they did not need their boat, or possibly we liberated their boat from them because we decided they did not need it, and we got here. The party was in full swing. It was beautiful, but, you know...\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Every party has a lifespan. This place started winding down soon after we got here. I figure if we just retrace our steps, take the boat back up the river, find the rabbit, then we will probably get home by tomorrow morning.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So, why don't you?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Music has not ended yet. There is still a little more wine. The party is coming apart, but it is not over. It is just ending.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "You were going to say you were born?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I am going to ask you... okay, I have a question for you first.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"We were having... I was going to say a disagreement. Actually, one of us was having a disagreement and the other one was correct. About the difference between fear and respect. He was trying to say you should not be afraid of dangerous things, you should just respect them. I said that is ridiculous. Respect for dangerous things is what fear is. If you are a lion tamer, you should be terrified of the lion that is going to eat you. He thought this was very wise: a swordsman does not fear the blade they carry; they fear every other blade.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I do not think there is a difference. Do you think there is a difference? Fear and respect?\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Obviously there is."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "It just looks confused."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"What are you, not smart? Wow. How long have we known each other? Wow.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "You were part of this conversation so much."
+        },
+        {
+          "speaker": "DM",
+          "text": "What happened?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Edric."
+        },
+        {
+          "speaker": "DM",
+          "text": "You probably wrapped up with the musicians if you want to wander over this way."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Okay, yeah, yeah, yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Chardon! I was born in Chardon.\""
+        },
+        {
+          "speaker": "Edric",
+          "text": "Let me get you your wine."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Thank you. That makes up for all the insults. Thank you, thank you.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Apologies for joining this conversation late."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Traveler introduced."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"God, it is an elf! Oh my god. Wow!\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Wow! Okay."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What are you thinking?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We are still standing there, looking kind of confused by the situation."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I'm going to go and look for some wine."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito kind of..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I'm in the middle of Edric."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito smoothly slides his way over, pulls a little flask out from under his robe, and says..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Now, here is the thing. I can guarantee you..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "100%."
+        },
+        {
+          "speaker": "DM",
+          "text": "Mmm!"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "You're going to like what's in here."
+        },
+        {
+          "speaker": "DM",
+          "text": "How can you guarantee this?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "How can what?"
+        },
+        {
+          "speaker": "DM",
+          "text": "How can you guarantee this?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito gives it a sniff. Based on what you smell like, and the type of alcohol you have been consuming all evening..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Hmm..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I'm detecting a hint of rose, a little bit of, you know, a little rose liqueur."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And some hints of... I say some alcohol-grade-sounding things. I do not know anything about alcohol."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito says, \"You know the best pairing with that? What I have right here.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"What's that?\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito says something awesome."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Yeah, okay. Let's find out.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wait, no, no. I am not giving it to you. I will, I will."
+        },
+        {
+          "speaker": "DM",
+          "text": "But first..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "But first, but first..."
+        },
+        {
+          "speaker": "DM",
+          "text": "I don't know about this elf etiquette."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Etiquette."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I kind of know about elf etiquette, huh.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Your names?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Your names."
+        },
+        {
+          "speaker": "DM",
+          "text": "Pandel and whatever I said before. I think it was choppy, but I did not write it down. Maybe something with a B."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We'll get it from the transcript later."
+        },
+        {
+          "speaker": "DM",
+          "text": "Alright, well..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Handel and his friend."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay, Pandel and Pandel's friend."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Okay, look. So..."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "How did you guys get to this party? You are from Chardon, but how did you get from Chardon to the road?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"We got the boat here. We liberated the boat.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "You liberated the boat with you?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"The river. Before that, we were on the rabbit. Before that, it was morning. Before that, we lived in Chardon? I do not know, man. I guess it is a little...\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wait, okay, so you were in Chardon."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And then what happened? To the boat?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"No, the boat was later. Then it was morning. It was really beautiful. The sun was coming up.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Beautiful in Chardon, in the morning?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"No, we were outside. We were in a caravan, right? We were headed northeast. Maybe we were going to see elves? I do not remember exactly. We were there, and then we took our... we took it. There were elves living near Chardon, right?\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Not for hundreds of years."
+        },
+        {
+          "speaker": "DM",
+          "text": "What?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "After the Great War? They all left."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Great? First of all, I am going to give you a piece of advice: no war is great. No war is great. Cheers to that.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "On that note,."
+        },
+        {
+          "speaker": "DM",
+          "text": "Kaito pops open the flask and pours out just a tiny shot."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "He passes it over and pours out shots for himself and the two halflings."
+        },
+        {
+          "speaker": "DM",
+          "text": "They gratefully accept. You all throw it back. Just a little taste."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "But they left."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"It is good stuff. What do you mean?\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Chardon?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Chardon? Is that a friend of yours?\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro kind of sits down next to them."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I think you might have been here for..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Many hundreds of years."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Do you mean the Peace of Valandros? The end of the wars in the West? Is that what you are talking about? I do not call that a great war. Pretty good work.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "No, I don't know what that is."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Does, Kaito know what that is?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You can make a... anyone who is in earshot can make a history check."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Ayveen is the only one who knows history."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Damn it. 5."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "looking for wine."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, same."
+        },
+        {
+          "speaker": "DM",
+          "text": "No. What he said sounds just as much like gibberish to you as what you said to him."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "You have been here for hundreds of years. Come, why don't you stand up and walk with us to find the wine?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I mean, because it involves standing... Okay, I will come with you to find the wine. I do not want...\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We can't just sit here."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I do not want to talk to the Lord of the Manor again, though. That guy gives you brain teasers. Oh, that's why my friend was so wrong. The Lord of the Manor told us he is not afraid of his neighbors, he respects them. I think that just means he is afraid of them. But it does not matter.\""
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wait, can you tell us everything you know about the Lord of the Manor? We are curious."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Oh my god, he is the most serious guy you have ever met. He is so... and then there is all this stuff, and he is sad about that, too, and you are like, oh no. You want to give him a hug, but you should not give him a hug, because he is not the sort of person you give a hug to. If there is one thing you take away: just not the hugs. Does that answer your question?\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Come for a stroll with us. Let's find some wine and maybe clear your heads a bit."
+        },
+        {
+          "speaker": "DM",
+          "text": "He allows himself to be persuaded and helps his friend up, too. They follow after you."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I am happy to walk with them, but my main goal is to find... now I strongly suspect that everybody here has been here for far longer than they think. I want to find another..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Human or mortal of some kind, probably not an elf. Yeah, so..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Have Edric and I run into anyone on our way to a fine wine?"
+        }
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "title": "Tiger, Tiger Burning Bright",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "Yes, you see two obvious mortals. One is in the library, napping behind a couch in the space between the couch and the wall, possibly sleeping it off. Then, through an open archway into the room where a bar is set up along one corner, you see someone else. It is a funny intuition, because just looking at him, he is not a species you are familiar with, but you get the strong impression that he is both mortal and, more importantly at this party, sober. He is something like a tiger man, with the massive head of a Bengal tiger and the fur-covered, powerful body of a man."
+        },
+        {
+          "speaker": "DM",
+          "text": "Paws and a tail, wearing a waistcoat, a smoking jacket, silk pants, and smoking a pipe. What on earth about such a person would give us the impression that he is not fey?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Would the natural assumption be that this is a fey of some kind?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You would, but there is something in the way he makes eye contact. If all of the other guests are, in a way, stuck in their own loops, captive to the moment of the party, there is a quality in which he is not. He is alert differently. Maybe he is fey, but the impression you get is: no."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Where is he compared to the bar? Is he in the same room as them?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You have come through a big entry ballroom, then through the library where you saw the sky, and then into this other room on the back side of the house, set up with the bar on one side and very picked-over food tables on the other. Big double doors in that room open onto another patio on the far side of the house. He is sitting in a chair out there. He notices you walking into the room with the bar and gives a little head nod in recognition."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Not awkwardly, but I'm mostly focused on finding a bottle of wine for the halflings."
+        },
+        {
+          "speaker": "DM",
+          "text": "The bar is unstaffed at this point in the night. Everywhere you look, in this room and the whole house, there are signs of this party ending. The tone of voice, even when you do not hear the words people are speaking, is a little sharper, a little less patient. None of the windows are open the same amount, because different people have opened them over the course of the night. There is a rug in the library folded over and not folded back down. The floor is sticky. Dirty dishes, wine glasses, and cutlery are everywhere, and the remains of the buffet have sat out too long. All the good things have been picked over. There is just broccoli left. The bar is unstaffed; you could certainly go behind and look for what is there."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, sure."
+        },
+        {
+          "speaker": "DM",
+          "text": "There is nothing still sealed, but there is one bottle that is a solid three-quarters full."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Edric, let's take a detour with that."
+        },
+        {
+          "speaker": "DM",
+          "text": "They are..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The halflings will still be grateful for it if we delay a bit. I would like to meet this other guest."
+        },
+        {
+          "speaker": "DM",
+          "text": "Sure. Oh, man."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I walk into the room where he is and say, \"I hope you do not mind our intruding in the quiet of this space.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "This is the tiger-man smoking his pipe on the porch. In a deep voice, half purr and half gravel, he says, \"Not at all, not at all.\" He gestures with his pipe to bring chairs. There is no one else out in this space. \"Please, sit. Tell me your stories.\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Have you had a chance to collect the stories of many of the guests at this gathering?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Mmm. I have, but I will tell you a secret, because the two of you are also going to die. The thing that is most interesting to me is not the stories of the guests, but the stories of our host. By speaking to the guests, I have pieced together why this party is ending.\" He smiles a broad and extremely toothy grin. This is not a human-sized tiger head, but a massive one. He is seated, but he would probably be eight feet tall if he stood up."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Sounds like a very satisfactory mystery to have pieced together."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I will say, I feel a bit smug.\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I would not have all your hard work wasted. Perhaps you could give some hints."
+        },
+        {
+          "speaker": "DM",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So this delayed..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Will you trade me for it?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I am not inclined to tell my stories when in a new place, where I am not sure of the practices. We are traveling together, Edric and I, and we have some stories."
+        },
+        {
+          "speaker": "DM",
+          "text": "Where are you from?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We're from Tollen."
+        },
+        {
+          "speaker": "DM",
+          "text": "Do you have a home there?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I do."
+        },
+        {
+          "speaker": "DM",
+          "text": "Allow me to stay in your home for a month and a day the next time I'm in Tollen."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Hmm. Is there a significance of that timing among your people? I've not met anyone like you before."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"No, it is mostly that I think I have about a month's worth of sights to see. It is a big city, after all.\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Does it matter that I don't own the home?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Do you have a room of your own, undisturbed?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yes."
+        },
+        {
+          "speaker": "DM",
+          "text": "Then I'll have that for a month and a day."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Well, it's unlikely that my parents would object."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Very good.\" He reaches out a paw, easily four or five times the size of your own hand, to shake."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Edric, can you..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Kind of looking at you like, are you sure you want to do this?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I don't. I am asking you a question to distract from shaking this creature's hand. Edric, have you met my parents?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "I... yes?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You would want me to ask their permission? Because I am sorry, sir, I am beginning to wonder if I ought to. And they are not..."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"It would be easier if I arrived as a man. I would be happy to.\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I mean, some of my best friends look like all manner of animals, and... well, no, that is a wrong way of saying that. I have to say that a different way."
+        },
+        {
+          "speaker": "DM",
+          "text": "He occupies himself, or has the affectation at least, of fiddling with his pipe and sprinkling in fresh tobacco from a pouch on his belt."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "That is very thoughtful of you, to cover my blunders. I do not think it matters what you look like, sir."
+        },
+        {
+          "speaker": "DM",
+          "text": "Well, that's very open-minded of you."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Is there anything other than a stay in my parents' home, which I cannot grant, that I could offer you for a hint at your discovery?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Do you have any keys on your person?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I do not have any keys. But my friend probably has one. He tends to have interesting things in his pockets. I have not seen Tarek in a while."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Tarek has gotta have a key on him."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yeah, that's what I think."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Very good. I will do it in exchange.\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We do not know where he is."
+        },
+        {
+          "speaker": "DM",
+          "text": "Exactly."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Speak of the devil."
+        },
+        {
+          "speaker": "DM",
+          "text": "Tarek, how are you doing?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "If he came in here with a key in his pocket, that would be perfect."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That was no fun. Oh, I missed that."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oops. Real-life use of stealth, though, to get out of the room once they're finally asleep, which..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Come on, outside sides."
+        },
+        {
+          "speaker": "DM",
+          "text": "You come into the party. You have talked to a couple of extremely drunk halflings who may have been in the Feywild for hundreds upon hundreds of years. Ayveen and Edric are on a back porch of the house, where they have stumbled into a Rakshasa, a giant tiger person smoking a pipe, who has told them that he has figured out the story of the Lord of the party, the Lord of the Manor here, and is willing to trade it. First he tried to get a stay in Ayveen's parents' home for a month and a day, but she seemed to decide that was a bad idea, and now he is asking for the key."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So we are thinking Tarek might wander by with a key at this precise moment, since surely Tarek has keys in his pocket."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Preferably keys you do not care about, that belong to somebody else."
+        },
+        {
+          "speaker": "DM",
+          "text": "Tarek would never have keys."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Own stuff."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Exactly."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, of course Tarek has a set of keys."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Okay?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Tarek, as you cross through one of the rooms in the manor, he catches your eye and waves you over with an immense tiger paw. \"Come, come. We were just speaking of you, I believe. Your friends have made a deal in your name. You have keys on you.\""
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I have keys of many kinds."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Mmm. Very good.\""
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Allow me to share insight. Keys of wisdom. Keys to cryptograms."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Choose three. I need keys for doors.\""
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tarek rummages around in his garments for a minute, patting his pockets."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Why, yes. Keys to the museum."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Mmm. Very good.\" He brings his whole face very close, takes out a pair of spectacles and puts them on, and looks long and deep at each key. He picks three, for no discernible reason that you can tell, and slips them into his waistcoat pocket. He takes off his spectacles, sits back in his chair, takes a long puff from the pipe, and says, \"Mmm. This is a delicious story. A delicious story. I came to the Twilight Kingdom, to the dozen dozen houses...\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Because there are certain things you can only find in twilight: things that have been lost and cannot be found again, places that can never be returned to. In my younger days, I got obsessive about that sort of time, that moment when all of the past has ended, but before the future has begun; the moment when things are beginning, but have not yet begun."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I became, you might say, obsessive over this, and decided I would spend a day traveling the Twilight Kingdom. I pieced this together from the various guests. Most of the ones who are here now arrived at the party when it was just beginning, or arrived here too when it was in full swing, before...\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"This.\" He gestures to the ineffable feeling of everything coming apart."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"At the height of the party, the neighbors who lived one house down the street came to the lord of this house, whose name was Lord Revel, Revel Beginning. They wanted from him a bargain, an agreement. They wanted him to do something for them: that any mortal who visited the party, sooner or later, would be sent through the front door of their house just up the road.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"It is difficult to persuade a fey lord of anything at all. More difficult still to persuade him to do harm to his guests, which surely breaks one of the most basic rules of the dozen dozen houses. First they gave him things they found precious, the sort of things humans found precious: books from their library, a bird that could speak every language, a map of the stars that twilight had not yet revealed overhead."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"But for Lord Revel, this was of no consequence. Every guest brings gifts to his party, or,\" he says, chuckling and looking over you, \"bribes the guards. So next, thinking that he wanted inspiration for his revelry, they gave him stories of human revelry: fireworks like rainbows above a city made entirely of towers and pyramids.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"They told him about the ten days of celebration that followed the Emperor's coronation, and everything they saw there: performers from the endless ocean and beyond it. They told him stories of how the bonfires burned through the longest night on the floating cities far beyond the edge of the endless ocean."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"But none of these stories of revel were of any value, not to Lord Revel, who was himself revelry. And the dozen dozen houses of the Twilight Kingdom have celebrations for which there is no word in mortal tongue to describe them. So, in desperation, drawing on some book of lore they must have found, they challenged him instead to a game, to a contest: a game of poetry, a game of naming. Whoever could most beautifully name Lord Revel's estate could ask one favor of the other. Lord Revel went first.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"And he spoke the name as it had been all evening long: Wide lawns spread down easy. Hanging lanterns welcome you. A party begins. Lord Revel Beginning."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"But this wizard guessed correctly that Revel was trapped inside his own story. Trapped, in fact, by his own immortality, trapped by the frozenness in time, unable to imagine that his story had any other moment in it except for the present. The wizard guessed correctly that Revel could not imagine that the wine would spill and run out, that the guests would slowly drift away, and that the players on the patio would grow tired. So the wizard did not speak the name...\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"of this house as it is. He spoke the name of this house as it would become, saying: Wide lawns gone askew. Hanging lanterns flicker low. A party ending. Lord Endless Ending."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"And in that act of naming, with whatever power and lore this human had at his disposal, the lord of the house looked up and saw that, indeed, it was so. Empty glasses sat on every surface. Already the candles were burning out. A small boat was already in the water, the rowers calling farewell, and the chill of evening entered the air for the first time. That is the moment it has been ever since.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"From time to time, the grandfather clock chimes, and Lord Endlessly Ending sends another mortal guest down the road. Whether that has been once or a hundred times, who can say?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"At the edges of his vision, just beyond where he can see, despair hovers around the Lord now: not of Revel Beginning, but of an endless ending. Soon he will be alone in an empty, messy house, the best well behind him. That is our host.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"And that is enough story. For me, I had just one more bowl to smoke, and then I go on to the next of the kingdoms. The next of the houses, I should say.\" There he falls silent, smiling, and you hear a deep purr emerging from somewhere low in his throat: a self-satisfied sound, utterly independent."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "How long have you been here? What I will say is that me and the halflings stumble up on the last third of that story."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"In truth, I do not know. But I knew that I would not know when I came to this place. I was born in the year of three eclipses, but I do not know if that means anything to you. Like I said, my home is far, far from Tollen and human cities.\""
+        }
+      ]
+    },
+    {
+      "blockId": "recap-008",
+      "title": "The Truce Theory",
+      "lines": [
+        {
+          "speaker": "Ayveen",
+          "text": "Does it matter to you to leave before the grandfather clock chimes again?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"That is the question. I very much would not like to test my strength against the Lord, but there are at least two, three... actually, no, four others that I know of. There is a human around here somewhere, not sleeping it off. So I have some time.\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The guards don't mind if we leave by the road."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Indeed, they do not. They are not here to guard you, but to guard what sometimes comes down those roads. They are the ones who keep those roads safe. We keep the travelers safe as they go from house to house, like me.\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We could choose the path of being travelers, going from house to house. In this twilight space."
+        },
+        {
+          "speaker": "DM",
+          "text": "Indeed. But come, tell me now. What brought you here?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "You know a Lord Holda."
+        },
+        {
+          "speaker": "DM",
+          "text": "No. No. Was he the angry man?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So yes, you know our friend, Lord Holda."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I did not hear the conversation, but I saw the conversation. It was hilarious. You are going to bully a lord in his own manor? He is lucky he made it out, period. Holda sent you to do whatever errand he could not?\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Not sure what Holda is up to, to be honest."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I will offer you one piece of advice in exchange for no keys. Shouting does not work. What is the errand he sent you on?\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I would just dish the hard gossip of this Twilight Kingdom."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I already have decent insight. What's my sense of the sky?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Actually, I have pretty good insight."
+        },
+        {
+          "speaker": "DM",
+          "text": "You all can do a round of insight checks."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I mean, I have okay insight."
+        },
+        {
+          "speaker": "DM",
+          "text": "I..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I don't think I've rolled, as this character yet, higher than a 5. I rolled a 3."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, I rolled at 11."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We all rolled terrible insight."
+        },
+        {
+          "speaker": "DM",
+          "text": "The rolls are horrible."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh wait, you know what? I have heroic inspiration. I'm going to roll again."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Your life's gotta change sometime?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "16."
+        },
+        {
+          "speaker": "DM",
+          "text": "16 or so."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "109."
+        },
+        {
+          "speaker": "DM",
+          "text": "And less so. Alright."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yep."
+        },
+        {
+          "speaker": "DM",
+          "text": "Edric. The rest of you are taken with the strangeness of his story and do not quite know what to make of it, or how to get a read on him. There is so much ambiguity. Edric."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Hold on. I am going to go up to him when he is asking this, almost reach my hand out to pat him on the shoulder, shake him, or whatever is most appropriate, look him in the eye, and ask, \"Can we trust you?\""
+        },
+        {
+          "speaker": "DM",
+          "text": "he..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "And then feed that into what I am watching for."
+        },
+        {
+          "speaker": "DM",
+          "text": "Totally."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Action."
+        },
+        {
+          "speaker": "DM",
+          "text": "You place a hand on his shoulder. He turns and looks up at you through cat eyes that are absolutely unwavering and unblinking. In that moment, your sense is not that he is trustworthy or untrustworthy. It is that he absolutely and entirely keeps his own counsel and goes about his own business, of which you are no part or real concern. Cats can be lovely and affectionate, but every so often a cat will look at you and you understand deeply the utter alienness of that mind, the impossibility of understanding: are you going to sleep on my lap or bite me? I do not mean that in the sense of threat so much as..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "disinterest."
+        },
+        {
+          "speaker": "DM",
+          "text": "Disinterest, yes, exactly. You are not just minor characters in his story. By the time it comes for him to use those keys, for whatever purpose he has taken them, he will hardly remember you were the ones he got them from. There is no malevolence there, but you also know not to mistake that for friendship."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "Edric",
+          "text": "You know, we've..."
+        },
+        {
+          "speaker": "DM",
+          "text": "But he is not being untruthful. It is almost like it is not worth being untruthful."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Right."
+        },
+        {
+          "speaker": "DM",
+          "text": "He's not playing with his dinner."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Have the drunk halflings said or done anything during this entire time?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The drunk halflings did not make it past the bar. They found a variety of half-empties that they have been hard at work on. You cannot see them, but you can hear them behind the bar by the clattering of glass."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "What signal does Edric give us?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric says, \"I think he actually rightly understands what we are here for.\" But he gestures it over. \"Txarro or Kaito, maybe one of them could explain it. Or Ayveen. Whoever normally explains these things. Who is smart in the party? I do not remember.\""
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Well, Ayveen has the highest intelligence, I think."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I guess I do."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Tarek's pretty smart, too."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I have decent intelligence. I will say, \"It has been helpful to hear the story of the wizard neighbor and the changing of the nature of the party with the naming. It seems like that was an agreement that was formed. One might even call it a truce. We were told we needed to persuade the Lord to break his truce.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Hmm. It is the only bargain struck that I know of.\""
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "\"There is not wanting to break a truce because it was protecting those who needed protecting. This truce, in fact, seems to be forcing the Lord to withdraw his protection where he does not want to. I am motivated to try to persuade him.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"None of the mortals that he sends out ever returns to this party. But whether that is good or bad, who can say? And perhaps, having been tricked through cunning into accepting this agreement, bargain, treaty, whatever it is, perhaps having been forced into it through cunning, he will be receptive to ending it.\" He falls silent and returns to his pipe again."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric browses around."
+        },
+        {
+          "speaker": "DM",
+          "text": "As you came through, you cut through the library. There is a ballroom, cellars, a second floor, dining rooms, kitchens. It is a big estate, but the public spaces seem to be bar and buffet, ballroom, library, and all of these outdoor spaces."
+        },
+        {
+          "speaker": "Edric",
+          "text": "He mentions another human."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Person sleeping on the floor in between the couch and the wall."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, he seemed to suggest there was another one besides that, but you haven't seen this other one."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I'm going to walk around just looking for another human."
+        },
+        {
+          "speaker": "DM",
+          "text": "How much later do you all want to go tonight?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Mmm..."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Not much."
+        },
+        {
+          "speaker": "Edric",
+          "text": "5 minutes?"
+        },
+        {
+          "speaker": "DM",
+          "text": "That's perfect."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "But I'm tired."
+        },
+        {
+          "speaker": "DM",
+          "text": "That is perfect. Is there anything else open that you all want to do before wrapping? Because I have a good wrap for that."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I guess we'll have to make up some way in which Tarek really enjoyed the party, but things got a little hazy."
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, I mean, the only thing I was after was looking for this other human."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep. I am going to say a thing that does not make sense, and I am not going to explain it. You hear the clock strike zero. As you are going through the house looking for this other human, you see, at the far end of the ballroom, in an open door, the Lord of the House, the Lord Endless Ending. He is facing you, taller than the human in front of him, and he has a face that you get the impression is not actually what his face is. There is something older underneath or below a kind of human mask, something wilder, less contained, or less containable."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Is this the same guy that the owl saw with the, like, weird mask thing?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Precisely. Something unstable, like an unguessed guess in a guessing game, like an unfinished story, like a third act which has not happened. You cannot hear it, but you see him stoop slightly to whisper a word in the ear of a human who has come up to him just after the clock stops striking zero. The human nods, straightens, and hurries out the door. The Lord Endless Ending locks eyes with you across the room and gestures for you to come closer. That is where we will leave it for tonight."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Just so you know, I am going to telepathically tell my owl familiar to follow the human."
+        },
+        {
+          "speaker": "DM",
+          "text": "That's great. That's so good."
+        },
+        {
+          "speaker": "Edric",
+          "text": "How far away is he?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Maybe seventy or eighty feet from one end of the ballroom to the other."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I assume it is completely clear what the notion of treaty refers to at this point?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "No."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Not everything."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Kill it now."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We have a small working theory based on our conversation with the tiger-man."
+        },
+        {
+          "speaker": "DM",
+          "text": "The Rakshasa was extremely confident that this is what it was, but that does not mean it is."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Hold on, I am looking at one thing. I have to look it up."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I mean, it is clear what the treaty was described as. Why it is something we could possibly convince him to break, but he cannot choose to break himself, is completely opaque."
+        },
+        {
+          "speaker": "DM",
+          "text": "On that point, in the story, he was challenged to a poetry game, a naming game, where the loser had to accept whatever the winner wanted. Presumably there is something binding to that, at least as the Rakshasa has told it."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "The Rakshasa is the tiger guy."
+        },
+        {
+          "speaker": "DM",
+          "text": "Is that a..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Sure. I guess Txarro is not convinced about the feasibility."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, no."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "A bunch of Tollen misfits winning some kind of poetry contest against a fey lord."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Not after the."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Not sure he wants..."
+        },
+        {
+          "speaker": "DM",
+          "text": "What?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Might, he might want us to win."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Possibly he wants us to win."
+        },
+        {
+          "speaker": "DM",
+          "text": "He did not enter into this thing voluntarily, as far as I can tell. He entered into it..."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Under duress by some..."
+        },
+        {
+          "speaker": "DM",
+          "text": "Wizard who bested him."
+        },
+        {
+          "speaker": "Edric",
+          "text": "He does not have any power to break it whatsoever. He needs somebody clever enough to understand how to break it."
+        },
+        {
+          "speaker": "DM",
+          "text": "With some trickery, or I do not know."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But it doesn't strike me as the kind of thing that he could just break if he's bound by it."
+        },
+        {
+          "speaker": "DM",
+          "text": "Hmm."
+        },
+        {
+          "speaker": "Edric",
+          "text": "That is my take, at least. He does not have the ability to break it, but it is not a matter of raw power. The deal he is under is such that he might not even know he wants to break it."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We'll find out next time."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes. Ride along."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I liked your revelry."
+        }
+      ]
+    }
+  ]
+}
