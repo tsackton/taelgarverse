@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, status/cleanup/metadata, status/cleanup/text]
-campaignInfo: []
 name: Alayah
 born: 1725
 species: human
@@ -22,7 +21,7 @@ hide_toc: true
     Born DR 1725 (25 years old)  
     { .bio }
 
-    Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based in [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 

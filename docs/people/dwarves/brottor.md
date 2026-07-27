@@ -27,6 +27,6 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Died in [Goldpeak Mines](<../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>), [Goldpeak Mountain](<../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mountain.md>), the [Fiatara Mountains](<../../gazetteer/northwest-coast/fiamatara-mountains/fiatara-mountains.md>)
 
 
-Brottor was a dwarven adventurer based in Chardon, and companion of [Alton](<../pcs/silver-tempests/alton.md>) and [Cassia](<../chardonians/cassia.md>). He died in the  [Goldpeak Mines](<../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>) after falling under the aberrant influence of the beholder Vilaxes. 
+Brottor was a dwarven adventurer based in Chardon, and companion of [Alton](<../pcs/silver-tempests/alton.md>) and [Cassia](<../chardonians/cassia.md>). He died in the  [Goldpeak Mines](<../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>) after falling under the aberrant influence of the beholder [Vilaxes](<../other-nonhumans/vilaxes.md>). 
 
 

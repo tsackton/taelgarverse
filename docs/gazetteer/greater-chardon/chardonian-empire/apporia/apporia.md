@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/map]
-aliases: [~Chardon Peninsula~, Apporian Peninsula, Apporian]
+aliases: [Apporian Peninsula, Apporian]
 typeOf: topographical feature
 whereabouts: Greater Chardon
 pronunciation: a-POHR-ree-ah

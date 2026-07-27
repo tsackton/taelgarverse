@@ -21,4 +21,4 @@ hide_toc: true
 </div>
 
 
-Colden is [Alden's](<alden.md>) cousin, and bears a resemblance: short and somewhat pudgy, dressed in rough homespun. He helps around [Dandelion House](<../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>), working for [Lord Holda](<lord-holda.md>). 
+Colden is [Alden's](<alden.md>) cousin, and bears a resemblance: short and somewhat pudgy, dressed in rough homespun. He helps around [Dandelion House](<../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>), working for [Lord Hulda](<lord-hulda.md>). 

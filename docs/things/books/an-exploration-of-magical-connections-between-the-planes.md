@@ -6,13 +6,13 @@ typeOf: book
 typeOfAlias: cosmological treatise
 ancestry: Chardonian
 author: Gaius Devarro
-written: in the DR 1200s
+written: in the DR 900s
 dm_owner: none
 dm_notes: none
 title: An Exploration of Magical Connections Between the Planes
 ---
 # An Exploration of Magical Connections Between the Planes
-:octicons-info-24:{ .lg .middle } **A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) cosmological treatise, written in the DR 1200s by Gaius Devarro**  
+:octicons-info-24:{ .lg .middle } **A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) cosmological treatise, written in the DR 900s by [Gaius Devarro](<../../people/historical-figures/gaius-devarro.md>)**  
 
-*An Exploration of Magical Connections Between the Planes* is an early study by Gaius Devarro of the [Faculty of Metaphysics](<../../groups/chardonian-organizations/faculty-of-metaphysics.md>) in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). In it, Gaius cataloged rumors and legends about [Ley Lines](<../../cosmology/planar-concepts/ley-lines.md>), including accounts of places where ley lines are disrupted or absent and arcane magic behaves strangely, or not at all.
+*An Exploration of Magical Connections Between the Planes* is an early study by [Gaius Devarro](<../../people/historical-figures/gaius-devarro.md>) of the [Faculty of Metaphysics](<../../groups/chardonian-organizations/faculty-of-metaphysics.md>) in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). In it, Gaius cataloged rumors and legends about [Ley Lines](<../../cosmology/planar-concepts/ley-lines.md>), including accounts of places where ley lines are disrupted or absent and arcane magic behaves strangely, or not at all.
 

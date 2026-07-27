@@ -19,7 +19,7 @@ title: Mostreve Hills
 
 
 
-The Mostreve Hills are a stretch of rough, rocky hills, with some higher peaks, that run in a series of long ridges from the flat plains of the [Maseau Gap](<maseau-gap.md>) to the ~Cymea Border Mountains~, dividing [Sembara](<sembara/sembara.md>), [Addermarch](<addermarch/addermarch.md>), and [Tyrwingha](<tyrwingha/tyrwingha.md>) from the [Plaguelands](<../upper-istaros/plaguelands.md>). They are largely wooded, although some of the highest peaks are above treeline, and the drier southwestern sides of some ridges are high plains with only scattered trees. The climate is temperate, with warm summers, cool winters, and frequent precipitation year round, with occasional winter snowfall on the higher peaks.
+The Mostreve Hills are a stretch of rough, rocky hills, with some higher peaks, that run in a series of long ridges from the flat plains of the [Maseau Gap](<maseau-gap.md>) to the [Mistfold Mountains](<../western-green-sea/mistfold-mountains.md>), dividing [Sembara](<sembara/sembara.md>), [Addermarch](<addermarch/addermarch.md>), and [Tyrwingha](<tyrwingha/tyrwingha.md>) from the [Plaguelands](<../upper-istaros/plaguelands.md>). They are largely wooded, although some of the highest peaks are above treeline, and the drier southwestern sides of some ridges are high plains with only scattered trees. The climate is temperate, with warm summers, cool winters, and frequent precipitation year round, with occasional winter snowfall on the higher peaks.
 
 Geographically, the Mostreve Hills are composed of four distinct ridges: two mountainous ridges running roughly north-south, and two gentler ridgelines of rolling hills running roughly east-west. 
 
@@ -33,13 +33,13 @@ The east-west hills are:
 
 * The [Valenfray Hills](<addermarch/valenfray-hills.md>) form a line of gentle rolling hills that run in a broken east-west line, from roughly the [Aure](<rivers/wistel-enst-watershed/aure.md>) to where they meet the [Maerwyn Mountains](<maerwyn-mountains.md>).  This ridgeline partially separates [Addermarch](<addermarch/addermarch.md>) from the [Darkwood](<addermarch/darkwood.md>). The westerly parts of these hills are typically gentle, rolling hills with light forests, and are settled by foresters and others. As they ascend to meet the [Maerwyns](<maerwyn-mountains.md>), the terrain grows rougher, with many sharp ravines, making travel challenging. These hills have been extensively fortified over many years by [Addermarch](<addermarch/addermarch.md>) to guard its southern borders from the [Plaguelands](<../upper-istaros/plaguelands.md>) and the [Darkwood](<addermarch/darkwood.md>). 
 
-- The ~Tyrwinghan Hills~ form a line of hills and valleys running roughly east-west from the [Maerwyns](<maerwyn-mountains.md>) to the ~Cymea Border Mountains~.  
+- The ~Tyrwinghan Hiills~ form a line of hills and valleys running roughly east-west from the [Maerwyns](<maerwyn-mountains.md>) to the [Mistfold Mountains](<../western-green-sea/mistfold-mountains.md>).  
 
 In between these ridge lines are several major gaps:
 
 * The [Aure](<rivers/wistel-enst-watershed/aure.md>) river flows north between the eastern edge of the [Westcliff](<addermarch/westcliff.md>) and the western edge of the [Maerwyn Mountains](<maerwyn-mountains.md>), forming a broad and fertile river valley fed by many small streams. 
 * The Darkwood creeps north between the [Westcliff](<addermarch/westcliff.md>) ridge and the [Valenfray Hills](<addermarch/valenfray-hills.md>), forming a hilly wildland on the southern borders of [Addermarch](<addermarch/addermarch.md>). The [Shadowmere](<addermarch/shadowmere.md>), a low-lying swampy depression, sits in this gap. 
-* Between the [Maerwyn Mountains](<maerwyn-mountains.md>) and the ~Cymea Border Mountains~, the land is hilly but there are few high ridgelines, and multiple passes cut through the ~Tyrwinghan Hills~ immediately northwest of [Orenlas](<../upper-istaros/orenlas/orenlas.md>). 
+* Between the [Maerwyn Mountains](<maerwyn-mountains.md>) and the [Mistfold Mountains](<../western-green-sea/mistfold-mountains.md>), the land is hilly but there are few high ridgelines, and multiple passes cut through the ~Tyrwinghan Hills~ immediately northwest of [Orenlas](<../upper-istaros/orenlas/orenlas.md>). 
 
 The Mostreve Hills, then, can be divided into a number of overall regions based on these features:
 

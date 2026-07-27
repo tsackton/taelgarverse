@@ -5,8 +5,6 @@ name: Thunderbrand
 typeOf: warhammer
 subTypeOf: magical
 ancestry: dwarven
-campaignInfo:
-- {campaign: GL, type: found, person: Adrik, date: 1747-06-01}
 dm_owner: none
 dm_notes: none
 title: Thunderbrand

@@ -94,7 +94,7 @@ Members of the crew who have moved on to other things since traveling on [Vindri
 
     ---
     ![Kecha Small](/taelgarverse/assets/kecha-small.png)
-     A [Kenku](<../../creatures/species/kenku.md>) scout who helped guide the party through the [Svinjo Mountains](<../../gazetteer/northern-green-sea/svinjo-mountains.md>) and the [~Northern Boreal Forest~](<../../gazetteer/northern-green-sea/northern-boreal-forest.md>), before leaving to search for kenku living on the ~Eastern Islands~. 
+     A [Kenku](<../../creatures/species/kenku.md>) scout who helped guide the party through the [Svinjo Mountains](<../../gazetteer/northern-green-sea/svinjo-mountains.md>) and the [~Northern Boreal Forest~](<../../gazetteer/northern-green-sea/northern-boreal-forest.md>), before leaving to search for kenku living on the [Eastern Isles](<../../gazetteer/eastern-green-sea/eastern-isles.md>). 
 
 -   [Algerd](<../../people/giants/algerd.md>)
 

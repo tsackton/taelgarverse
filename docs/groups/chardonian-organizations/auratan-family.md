@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/gameupdate/gl]
+tags: [group, status/gameupdate/gl, status/gameupdate/dufr]
 displayDefaults: {partOf: '', defArt: the}
 typeOf: family
 typeOfAlias: chalyte oligarch family
@@ -17,6 +17,8 @@ title: Auratan Family
    :octicons-info-24:{ .lg .middle } A chalyte oligarch family  
     :octicons-location-24:{ .lg .middle } Based in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../gazetteer/greater-chardon/greater-chardon.md>)  
 </div>
+
+
 
 
 The Auratan Family is among the most prominent, wealthy, and influential families of Chardon. The family traces their rise to prominence to Appius Auratan, who discovered chalyte in the Voltara area in 1671, rocketing his three surviving children to fame and fortune. 

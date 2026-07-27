@@ -12,9 +12,9 @@ author: Gaius Devarro
 title: On Minds and Chaos
 ---
 # On Minds and Chaos
-:octicons-info-24:{ .lg .middle } **A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) cosmological treatise, written in the DR 900s, by Gaius Devarro**  
+:octicons-info-24:{ .lg .middle } **A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) cosmological treatise, written in the DR 900s, by [Gaius Devarro](<../../people/historical-figures/gaius-devarro.md>)**  
 
-On Minds and Chaos is the magnum opus of Gaius Devarro on [Limbo](<../../cosmology/spiritual-realms/limbo.md>), collecting fragments of poems, tales, and testimonies attributed to travelers who survived the plane.
+On Minds and Chaos is the magnum opus of [Gaius Devarro](<../../people/historical-figures/gaius-devarro.md>) on [Limbo](<../../cosmology/spiritual-realms/limbo.md>), collecting fragments of poems, tales, and testimonies attributed to travelers who survived the plane.
 
 One part of the work collects tales of the strange and mysterious phenomena of [Limbo](<../../cosmology/spiritual-realms/limbo.md>). For example, one tale describes burning water that leapt like fire from rock to rock across a jumbled landscape of boulders floating in emptiness, the fire consuming the rock and leaving glittering snow behind, which slowly melted to dust and blew away on the wind. However, many of the anonymous writers collected in this work seem to be unable to describe in concrete terms what they saw.
 

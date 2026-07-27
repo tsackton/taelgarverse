@@ -12,6 +12,6 @@ written: in the DR 1600s
 title: The Exposition of the Alien Mind
 ---
 # The Exposition of the Alien Mind
-:octicons-info-24:{ .lg .middle } **A [Tollish](<../../gazetteer/greater-sembara/tollen/tollen.md>) cosmological treatise, written in the DR 1600s, by Nicole Ardouin**  
+:octicons-info-24:{ .lg .middle } **A [Tollish](<../../gazetteer/greater-sembara/tollen/tollen.md>) cosmological treatise, written in the DR 1600s, by [Nicole Ardouin](<../../people/tollenders/nicole-ardouin.md>)**  
 
-*The Exposition of the Alien Mind* is a seminal work by Nicole Ardouin on the [Far Realms](<../../cosmology/far-realms.md>). Nicole argues that good and evil are poor measures for understanding alien minds, and that some Far Realms may contain beings whose communication could bring new knowledge to the world.
+*The Exposition of the Alien Mind* is a seminal work by [Nicole Ardouin](<../../people/tollenders/nicole-ardouin.md>) on the [Far Realms](<../../cosmology/far-realms.md>). Nicole argues that good and evil are poor measures for understanding alien minds, and that some Far Realms may contain beings whose communication could bring new knowledge to the world.

@@ -11,6 +11,6 @@ written: during the [[History of the Drankorian Empire|Drankorian Era]]
 title: On Elemental Forms
 ---
 # On Elemental Forms
-:octicons-info-24:{ .lg .middle } **A natural history treatise, written during the [Drankorian Era](<../../history/history-of-the-drankorian-empire.md>), by Lyrannis of Aquilona**  
+:octicons-info-24:{ .lg .middle } **A natural history treatise, written during the [Drankorian Era](<../../history/history-of-the-drankorian-empire.md>), by [Lyrannis of Aquilona](<../../people/historical-figures/lyrannis-of-aquilona.md>)**  
 
-*On Elemental Forms* is the seminal work of the cosmological philosopher Lyrannis of Aquilona. The work catalogs folklore, myth, and observation concerning elemental beings, with particular attention to the sentient and powerful genies. Lyrannis uses this evidence to argue that creatures with a pure elemental essence are overwhelmingly associated with Fire, Water, Earth, or Air.
+*On Elemental Forms* is the seminal work of the cosmological philosopher [Lyrannis of Aquilona](<../../people/historical-figures/lyrannis-of-aquilona.md>). The work catalogs folklore, myth, and observation concerning elemental beings, with particular attention to the sentient and powerful genies. Lyrannis uses this evidence to argue that creatures with a pure elemental essence are overwhelmingly associated with Fire, Water, Earth, or Air.

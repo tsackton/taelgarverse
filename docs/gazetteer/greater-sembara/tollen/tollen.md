@@ -79,7 +79,7 @@ Tollen is a republic, for certain values of the word. Power largely rests in the
 
 
 
-Tollen is the dominant maritime power of the [Western Gulf](<../western-gulf.md>), with significant fishing, merchant, and naval fleets. The Tollender navy controls the [Straits of Cymea](<../../western-green-sea/straits-of-cymea.md>), patrols the [Western Gulf](<../western-gulf.md>), keeping it free of pirates, and maintains naval fortifications in the islands in the ~Gulf of Tollen~. 
+Tollen is the dominant maritime power of the [Western Gulf](<../western-gulf.md>), with significant fishing, merchant, and naval fleets. The Tollender navy controls the [Straits of Cymea](<../../western-green-sea/straits-of-cymea.md>), patrols the [Western Gulf](<../western-gulf.md>), keeping it free of pirates, and maintains naval fortifications in the islands in the [Gulf of Tollen](<../gulf-of-tollen.md>). 
 
 
 

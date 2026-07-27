@@ -23,4 +23,4 @@ hide_toc: true
 </div>
 
 
-Thalestria is a Drankorian wizard, [Menestheus's](<menestheus.md>) master, and the head of the [Arithrimos Lamperum](<../../groups/drankorian-societies/arithrimos-lamperum.md>).
+Thalestria is a Drankorian wizard, [Menestheus's](<menestheus.md>) master, and the head of the [Arithrimos Lamperum](<../../groups/drankorian-societies/arithrimos-lamperum.md>). She tricked [Lord Endless Ending](<../fey/lord-endless-ending.md>) into the sending bargain that binds the Lord to send mortal guests toward the [27th House](<../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) when the clock strikes zero.

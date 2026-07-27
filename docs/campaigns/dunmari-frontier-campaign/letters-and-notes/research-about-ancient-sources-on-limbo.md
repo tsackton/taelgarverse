@@ -10,7 +10,7 @@ None of the most notable ancient works on Limbo has survived completely, but thr
 
 ## The Unstable Sphere
 
-The most famous work regarding Limbo is usually translated as [The Unstable Sphere](<../../../things/books/the-unstable-sphere.md>). Scholars debate its origin, for it was already widely cited as a lost tome during the days of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>). Though some claim it is Elvish in origin, few serious scholars believe this theory; instead, it is thought to be relic of the ancient human homeland of [Hkar](<../../../history/historical-realms/hkar.md>). No complete copies exist, but Marcion of Iridel, a Drankorian arcane cosmologist, collected fragments, and several copies of his translations have survived. 
+The most famous work regarding Limbo is usually translated as [The Unstable Sphere](<../../../things/books/the-unstable-sphere.md>). Scholars debate its origin, for it was already widely cited as a lost tome during the days of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>). Though some claim it is Elvish in origin, few serious scholars believe this theory; instead, it is thought to be relic of the ancient human homeland of [Hkar](<../../../history/historical-realms/hkar.md>). No complete copies exist, but [Marcion of Iridel](<../../../people/historical-figures/marcion-of-iridel.md>), a Drankorian arcane cosmologist, collected fragments, and several copies of his translations have survived. 
 
 These fragments suggest a place that is totally unstable. No solid ground persists for long; worse, even the air can solidify at a moment's whim, trapping the unlucky traveler in a tomb of rock or ice or something worse. Though one can travel through the jumbled space of Limbo simply with a thought, sojourners in Limbo are in constant danger of sudden transformations. 
 
@@ -20,7 +20,7 @@ All is not hopeless, though, for the traveler to Limbo. It is recorded that the 
 
 ## On Minds and Chaos
 
-Gaius Devarro, who lived in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) during the waning days of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>), and was an early scholar at the [Faculty of Metaphysics](<../../../groups/chardonian-organizations/faculty-of-metaphysics.md>), collected numerous fragments of tales, poems, and other oddities thought to be the words of those who had traveled to Limbo. 
+[Gaius Devarro](<../../../people/historical-figures/gaius-devarro.md>), who lived in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) during the waning days of the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>), and was an early scholar at the [Faculty of Metaphysics](<../../../groups/chardonian-organizations/faculty-of-metaphysics.md>), collected numerous fragments of tales, poems, and other oddities thought to be the words of those who had traveled to Limbo. 
 
 It is from Gauis' magnum opus on Limbo, [On Minds and Chaos](<../../../things/books/on-minds-and-chaos.md>), that the most vivid descriptions come. For example, one tale speaks of burning water, that leapt like fire from rock to rock across a jumbled landscape of boulders floating in emptiness, the fire consuming the rock and leaving glittering snow behind, which slowly melted to dust and blew away on the wind. Many of the anonymous writers collected in this work seem to be unable to describe in concrete terms what they saw.
 

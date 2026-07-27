@@ -28,7 +28,7 @@ hide_toc: true
     Born DR 1719 (31 years old)  
     { .bio }
 
-    Originally from: the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Originally from: the Ko'zula village
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)

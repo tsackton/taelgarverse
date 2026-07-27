@@ -28,12 +28,12 @@ hide_toc: true
     Born DR 1717 (33 years old)  
     { .bio }
 
-    Based in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based in [Bek'eni village](<../../gazetteer/central-highlands/talem.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22th, 1748 in Bek'eni village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22th, 1748 in [Bek'eni village](<../../gazetteer/central-highlands/talem.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
 
 
 

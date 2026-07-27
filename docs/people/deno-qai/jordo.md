@@ -24,7 +24,7 @@ hide_toc: true
     b. DR 1672 - d. DR 1744, died at age 72 years  
     { .bio }
 
-    Lived in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Lived in [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 

@@ -20,7 +20,7 @@ title: Shockstone Clan
 
 The Shockstones are one of the most prominent dwarven clans in [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), and the de facto rulers of [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>). 
 
-The clan is best known, at least outside dwarven circles, through [Brelith Shockstone](<../../people/pcs/silver-tempests/brelith.md>), a priest of the [Bahrazel](<../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>) and hero of the [Battle of Voltara](<../../events/1700s/1747/10/battle-of-voltara.md>). 
+The clan is best known, at least outside dwarven circles, through [Brelith Shockstone](<../../people/pcs/silver-tempests/brelith.md>), a priest of the [Bahrazel](<../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>) and hero of the [Battle of Voltara](<../../events/1700s/1747/battle-of-voltara.md>). 
 
 ###  Members
 

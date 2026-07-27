@@ -11,6 +11,6 @@ title: Apporian Shadow War
 ---
 # The Apporian Shadow War
 
-An early war fought by [Drankorian](<../../history/historical-realms/drankorian-empire.md>) armies, supposedly against the sleepless wolf-queen Yeshara and the [Shemra Azem](<../../groups/shemra-azem.md>). At the conclusion of this war, the ~Drankorian Cleaver-Stone Fort~ was constructed to guard the entrance to [Cairn Dor](<../../gazetteer/extraplanar/shadowfolds/cairn-dor.md>), and was maintained until the collapse of the [Drankorian Empire](<../../history/historical-realms/drankorian-empire.md>). 
+An early war fought by [Drankorian](<../../history/historical-realms/drankorian-empire.md>) armies, supposedly against the sleepless wolf-queen [Yeshara](<../../people/extraplanar-powers/yeshara.md>) and the [Shemra Azem](<../../groups/shemra-azem.md>). At the conclusion of this war, the [Lastgate Fort](<../../gazetteer/greater-chardon/chardonian-empire/apporia/lastgate-fort.md>) was constructed to guard the entrance to [Cairn Dor](<../../gazetteer/extraplanar/shadowfolds/cairn-dor/cairn-dor.md>), and was maintained until the collapse of the [Drankorian Empire](<../../history/historical-realms/drankorian-empire.md>). 
 
 

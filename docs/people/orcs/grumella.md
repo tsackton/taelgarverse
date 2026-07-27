@@ -30,5 +30,5 @@ hide_toc: true
 
 
 
-The commander and leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), a large group of [orcs](<../../creatures/species/orcs.md>) that occupied the plains north of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in the spring and summer of 1747. Grumella was defeated by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) and their allies in the [Battle of Voltara](<../../events/1700s/1747/10/battle-of-voltara.md>). 
+The commander and leader of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>), a large group of [orcs](<../../creatures/species/orcs.md>) that occupied the plains north of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in the spring and summer of 1747. Grumella was defeated by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) and their allies in the [Battle of Voltara](<../../events/1700s/1747/battle-of-voltara.md>). 
 

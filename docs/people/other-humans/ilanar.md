@@ -20,6 +20,6 @@ hide_toc: true
 </div>
 
 
-A name spoken by a ghost from [Cairn Dor](<../../gazetteer/extraplanar/shadowfolds/cairn-dor.md>). 
+A name spoken by a ghost from [Cairn Dor](<../../gazetteer/extraplanar/shadowfolds/cairn-dor/cairn-dor.md>). 
 
 

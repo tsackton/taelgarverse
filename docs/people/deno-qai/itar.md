@@ -24,7 +24,7 @@ hide_toc: true
     Born DR 1716 (34 years old)  
     { .bio }
 
-    Based in the largest Bek'eni village, in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based in the largest [Bek'eni village](<../../gazetteer/central-highlands/talem.md>), in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 

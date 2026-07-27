@@ -24,7 +24,7 @@ hide_toc: true
     Born DR 1734 (16 years old)  
     { .bio }
 
-    Based in the [Ko'zula village](<../../gazetteer/central-highlands/ko-zula-village.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based the Ko'zula village
 </div>
 
 

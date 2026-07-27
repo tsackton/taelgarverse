@@ -43,9 +43,9 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - Feb 09, 1749 DR: Travel towards [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>), crossing the eastern [Plaguelands](<../../../gazetteer/upper-istaros/plaguelands.md>). 
 - Feb 10, 1749 DR: Travel towards [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>), arriving late at night. 
 - Feb 11, 1749 DR: Spend the day in [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>), speaking with [Egnir](<../../../people/elves/egnir.md>). 
-- Feb 12, 1749 DR: Depart [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>) in the afternoon, crossing the ~Cymea Border Mountains~ in the night. 
+- Feb 12, 1749 DR: Depart [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>) in the afternoon, crossing the [Mistfold Mountains](<../../../gazetteer/western-green-sea/mistfold-mountains.md>) in the night. 
 - Feb 13, 1749 DR: Travel across [Latazaro](<../../../gazetteer/greater-sembara/latazaro.md>) swamp and the [Western Gulf](<../../../gazetteer/greater-sembara/western-gulf.md>) towards [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>).
-- Feb 14, 1749 DR: Cross the [Western Gulf](<../../../gazetteer/greater-sembara/western-gulf.md>) and the ~Gulf of Tollen~, traveling towards [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>).
+- Feb 14, 1749 DR: Cross the [Western Gulf](<../../../gazetteer/greater-sembara/western-gulf.md>) and the [Gulf of Tollen](<../../../gazetteer/greater-sembara/gulf-of-tollen.md>), traveling towards [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>).
 - Feb 15, 1749 DR: Arrive outside [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>) in the morning. Contact [Adam Gower](<../../../people/tollenders/adam-gower.md>) and others, and dock [Vindristjarna](<../../../things/ships/vindristjarna.md>) for construction.
 - Feb 16, 1749 DR - Mar 08, 1749 DR: [Downtime in Tollen](<interlude-tollen-downtime.md>).
 - Mar 09, 1749 DR: Meet the [kenku](<../../../creatures/species/kenku.md>) scout [Kecha](<../../../people/kenku/kecha.md>) on [Vindristjarna](<../../../things/ships/vindristjarna.md>). Shadow hunter attack well after midnight. 

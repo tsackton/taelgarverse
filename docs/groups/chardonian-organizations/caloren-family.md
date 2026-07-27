@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/gameupdate/gl]
+tags: [group, status/gameupdate/gl, status/gameupdate/dufr]
 displayDefaults: {partOf: '', defArt: the}
 typeOf: family
 typeOfAlias: chalyte oligarch family
@@ -19,6 +19,9 @@ title: Caloren Family
 </div>
 
 
-The Caloren family is one of the four oligarch families that control the [Chardonian chalyte trade](<../../gazetteer/greater-chardon/chardonian-empire/politics-of-chalyte-chardonian-empire.md>). Historically, the Caloren family has been a minor player in the chalyte trade, controlling maybe 15% of the profits and serving as a close ally and partner to the [Auratan Family](<auratan-family.md>). More recently, they have drifted apart as the Caloren family, driven by a desire to increase profits at any cost. 
+
+
+The Caloren family is one of the four oligarch families that control the [Chardonian chalyte trade](<../../gazetteer/greater-chardon/chardonian-empire/politics-of-chalyte-chardonian-empire.md>). Historically, the Caloren family has been a minor player in the chalyte trade, controlling maybe 15% of the profits and serving as a close ally and partner to the [Auratan Family](<auratan-family.md>). More recently, they have drifted apart as the Caloren family, driven by a desire to increase profits at any cost, chafes at always playing second fiddle to the more famous and powerful Auratan clan.
+
 
 

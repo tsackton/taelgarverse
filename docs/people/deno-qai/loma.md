@@ -29,7 +29,7 @@ hide_toc: true
 
 
 
-Loma is a young Deno’qai scout from the village of [Raha](<../../gazetteer/central-highlands/raha.md>), quick and quiet in the woods and familiar with paths along the Sentinel foothills. Locals say she is favored by Wenba, and leaves small offerings before dangerous journeys. 
+Loma is a young Deno’qai scout from the village of [Raha](<../../gazetteer/central-highlands/raha.md>), quick and quiet in the woods and familiar with paths along the Sentinel foothills. Locals say she is favored by [Wenba](<../../gods-and-religions/gods/tanshi/wenba.md>), and leaves small offerings before dangerous journeys. 
 
 She is slim, quick on her feet, and wears her red hair long, in tight braids. 
 ## Events

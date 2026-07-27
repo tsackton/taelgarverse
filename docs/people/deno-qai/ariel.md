@@ -29,12 +29,12 @@ hide_toc: true
     { .bio }
 
     Originally from: the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
-    Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based in [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 11th, 1748 in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 11th, 1748 in [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
 
 
 An elderly woman with stark white hair pulled back in a loose pony tail and wrinkled skin. While she is arthritic and slow, her mind is sharp and she has a clear memory of the stories of her youth, the tales of the [Meswati](<../../gods-and-religions/gods/tanshi/meswati/meswati.md>) and the [Great War](<../../events/1500s/great-war.md>)

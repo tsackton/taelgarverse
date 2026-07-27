@@ -17,14 +17,14 @@ title: Dunmari Frontier - Delwath Solo Session 1 (Prequel)
 	*Featuring: [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)*
 	*In Taelgar: Sep 30, 1748 DR to Oct 06, 1748 DR*
 	*On Earth: Sunday Jul 31, 2022*
-	*[Ko'zula village](<../../../gazetteer/central-highlands/ko-zula-village.md>) in the [Forest of Dreams](<../../../gazetteer/central-highlands/forest-of-dreams.md>)*
+	*[Azkar](<../../../gazetteer/central-highlands/azkar.md>) in the [Forest of Dreams](<../../../gazetteer/central-highlands/forest-of-dreams.md>)*
 
 [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) discovers that Cha'mutte's shadow armbands are key to freeing the trapped [Meswati](<../../../gods-and-religions/gods/tanshi/meswati/meswati.md>) and prepares to seek allies for his quest.
 ## Session Info
 
 ***Delwath receives his Deno'qai [armor](<../treasure/deno-qai-scale-mail.md>) and  [shield](<../treasure/deno-qai-lynx-shield.md>), and learns to speak Deno'qai.***
 ### Summary
-- Delwath arrives at a Deno'qai camp and is taken to meet Chief [Ninu](<../../../people/deno-qai/ninu.md>) in the [Ko'zula village](<../../../gazetteer/central-highlands/ko-zula-village.md>).
+- Delwath arrives at a Deno'qai camp and is taken to meet Chief [Ninu](<../../../people/deno-qai/ninu.md>) in the [Azkar](<../../../gazetteer/central-highlands/azkar.md>).
 - [Ninu](<../../../people/deno-qai/ninu.md>) shares the village's encounter with a deathless warlock and the story of [Jotha](<../../../people/deno-qai/jotha.md>)'s disappearance.
 - Delwath connects the armbands to the entrapment of the [Meswati](<../../../gods-and-religions/gods/tanshi/meswati/meswati.md>) and his own journey.
 - [Ninu](<../../../people/deno-qai/ninu.md>) advises seeking [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>) and [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) at a hunting camp for help.

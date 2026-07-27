@@ -10,7 +10,7 @@ title: The World of Taelgar
 
 
 
-The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate and am Earth-like sun, Moon, and stars. The main landmass stretches from the [Endless Ocean](<endless-ocean.md>) in the west across more than 5,000 miles of mountains, forests, rivers, swamps, farmland, desolation and deserts to the mysterious east.  
+The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate and am Earth-like sun, Moon, and stars. The main landmass stretches from the [Endless Ocean](<endless-ocean.md>) in the west across more than 5,000 miles of mountains, forests, rivers, swamps, farmland, desolation and deserts to the mysterious [east](<outer-ocean.md>).  
 
 Many mapmakers consider the mighty [Sentinel Range](<sentinel-range.md>), whose highest peaks rise more than 20,000 feet into the air, the defining feature of the land. The [Sentinel's](<sentinel-range.md>) 2,500 miles of mountains and foothills divide the world into three: 
 

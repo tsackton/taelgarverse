@@ -23,12 +23,12 @@ hide_toc: true
     A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) [human](<../../creatures/species/humans.md>) (he/him), of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>)  
     { .bio }
 
-    Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based in [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 10th, 1748 in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 10th, 1748 in [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
 
 
 The chief of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) village.

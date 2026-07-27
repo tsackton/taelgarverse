@@ -20,7 +20,7 @@ In the markets of [Tollen](<../greater-sembara/tollen/tollen.md>) or [Chardon](<
 
 {link to leaflet map of region}
 ## Topography and Major Features
-This region is shrouded in mystery, and only a few features are rumored. Many reports of a endless desert stretching for thousands of miles have come west, but beyond that, few know what mysteries this region holds.
+This region is shrouded in mystery, and only a few features are rumored. Many reports of a [endless desert](<great-desert.md>) stretching for thousands of miles have come west, but beyond that, few know what mysteries this region holds.
 
 
 [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) brought stories of a tropical jungle called [Orekatu](<orekatu.md>) by the [lizardfolk](<../../creatures/species/lizardfolk.md>) who dwell there.

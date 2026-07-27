@@ -28,5 +28,5 @@ Greater Voltara extends in the east to the [Snake River](<../../major-rivers/cha
 - [Voltara](<voltara/voltara.md>) — Provincial seat; walled city with restricted access and prosperous inner precincts; major outer settlement caters to caravans and travelers. 
 - [Pietravola Abbey](<pietravola-abbey.md>) — Ruined abbey outside Voltara.
 - [Lonely Watchtower](<lonely-watchtower.md>) — Former orc raiding base during DR 1747 activity in the hinterlands.
-- [Order of Twilight Temple (Voltara)](<order-of-twilight-temple-voltara.md>) — Desecrated temple outside [Voltara](<voltara/voltara.md>) cleansed and reconsecrated in DR 1747 by Galius Filuso and the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>).
+- [Order of Twilight Temple (Voltara)](<order-of-twilight-temple-voltara.md>) — Desecrated temple outside [Voltara](<voltara/voltara.md>) cleansed and reconsecrated in DR 1747 by [Galius Filuso](<../../../people/chardonians/galius-filuso.md>) and the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>).
 

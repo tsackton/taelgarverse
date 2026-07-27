@@ -22,7 +22,7 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     An [Addermarian](<../../gazetteer/greater-sembara/addermarch/addermarch.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    [Priest](<../../gods-and-religions/gods/embodied-gods/bahrazel/fanrukel.md>) of the Temple of the Sibyl (Roscombe)  
+    Priest of the Temple of the Sibyl (Roscombe)  
     { .bio }
 
     Based in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)

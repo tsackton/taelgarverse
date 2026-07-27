@@ -28,5 +28,5 @@ hide_toc: true
 
 Dravia is the proprietor and barkeep of [The Purple Pig](<../../gazetteer/northwest-coast/northern-provinces/voltara/the-purple-pig.md>), a modest inn outside the walls of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). She keeps a well-run common room, follows road news closely, and arranges introductions between travelers and useful contacts when coin or goodwill warrants it.
 
-During [Grumella's War](<../../events/1700s/grumella-s-war.md>), the Purple Pig was destroyed in the fighting around [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) and later rebuilt with aid from the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>).
+During [Grumella's War](<../../events/1700s/1747/grumella-s-war.md>), the Purple Pig was destroyed in the fighting around [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) and later rebuilt with aid from the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>).
 

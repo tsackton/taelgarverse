@@ -36,7 +36,7 @@ Few firsthand accounts of travel on the Plane of Fire exist due to its inhospita
 
 _See more: [Elementals](<../../creatures/extraplanar/elementals.md>)_
 
-Lyrannis of Aquilona cataloged many denizens of the Elemental Plane of Fire, including the proud and imperious genies of flame, the [Efreeti](<../../creatures/extraplanar/efreeti.md>). Described as towering figures with skin like molten brass and eyes that burn with inner fire, the efreeti are renowned not only for their arrogance but also for their remarkable craftsmanship and vast collections of treasures. Unlike their djinni cousins, who embrace whimsy and freedom, the efreeti are exacting and meticulous. They are known to enslave talented artisans, using them to create items of exquisite beauty, from enchanted weapons to elaborate works of art, which the efreeti prize above all else. Despite their harsh reputation, efreeti are not wasteful. Even the most prideful among them will value a skilled tool or creation, treating it with an almost reverent care.
+[Lyrannis of Aquilona](<../../people/historical-figures/lyrannis-of-aquilona.md>) cataloged many denizens of the Elemental Plane of Fire, including the proud and imperious genies of flame, the [Efreeti](<../../creatures/extraplanar/efreeti.md>). Described as towering figures with skin like molten brass and eyes that burn with inner fire, the efreeti are renowned not only for their arrogance but also for their remarkable craftsmanship and vast collections of treasures. Unlike their djinni cousins, who embrace whimsy and freedom, the efreeti are exacting and meticulous. They are known to enslave talented artisans, using them to create items of exquisite beauty, from enchanted weapons to elaborate works of art, which the efreeti prize above all else. Despite their harsh reputation, efreeti are not wasteful. Even the most prideful among them will value a skilled tool or creation, treating it with an almost reverent care.
 
 Other denizens of the plane include elemental creatures of fire and magma. While many of these must take the forms familiar to those who conjure such creatures, humanoid shapes made of swirling flame, others, such as the [Azer](<../../creatures/extraplanar/azer.md>), have solid bodies burning with an inner fire. One must assume these beings typically serve the efreeti as laborers and soldiers, though perhaps some manage to carve out their own existence in the molten wastes. 
 
@@ -46,8 +46,8 @@ However, nearly all reliable reports of denizens of the Plane of Fire are based 
 
 Due to the harsh conditions, reliable maps of the Plane of Fire do not exist, and much of its geography remains unknown. However, tantalizing clues point to several possible landmarks in this fiery realm.
 
-- Nalzuris, sometimes translated as the Golden City, thought to be a center of efreeti palaces and forges. 
+- [Nalzuris](<../../gazetteer/extraplanar/plane-of-fire/nalzuris.md>), sometimes translated as the Golden City, thought to be a center of efreeti palaces and forges. 
 - The [Cinder Wastes](<../../gazetteer/extraplanar/plane-of-fire/cinder-wastes.md>), of which little is known beyond the name.
-- The Sea of Fire, a sea of lava, fire, and ash supposedly spreading from center of the plane.
+- The [Sea of Fire](<../../gazetteer/extraplanar/plane-of-fire/sea-of-fire.md>), a sea of lava, fire, and ash supposedly spreading from center of the plane.
 
 

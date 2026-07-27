@@ -38,7 +38,7 @@ The information reported here largely derives from the [scattered human tribes](
 There are two major river systems that originate in this region:
 
 - The [K'eye](<k-eye.md>) in the local language, and translated by halflings as the Red River, flows from the [Sentinels](<../sentinel-range.md>) to the ~North Bay~. 
-- The [Nahadi](<../major-rivers/chasa-nahadi-watershed/nahadi.md>) in the local language, and translated by halflings at the Great River, flows from its origins in the [Blackwater Fens](<blackwater-fens.md>) south to [Lake Valandros](<../greater-chardon/lake-valandros.md>) and beyond. 
+- The [Zarnato](<../major-rivers/chasa-nahadi-watershed/zarnato.md>), as mapped by the Chardonians, flows from its origins in the [Sentinels](<../sentinel-range.md>) south to [Lake Valandros](<../greater-chardon/lake-valandros.md>). 
 ## Civilizations and Cultures
 
 There are few humans in this region, although the [northern Deno'qai tribes](<../../groups/cultures/deno-qai-tribes/northern-tribes/northern-tribes.md>) make their home here. The dwarven kingdom of [Fahnukan](<fahnukan.md>) lies beneath the northern Sentinels, and [stoneborn](<../../creatures/species/stoneborn.md>) are known to live in the highlands and foothills of the [Sentinels](<../sentinel-range.md>).

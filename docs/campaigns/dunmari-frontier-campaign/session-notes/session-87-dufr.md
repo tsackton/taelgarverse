@@ -38,7 +38,7 @@ In the elven city of [Erelion](<../../../gazetteer/upper-istaros/orenlas/erelion
 - Jan 12, 1749 DR: Remain at the elemental forge while [Faldrak](<../../../people/dwarves/faldrak-bronzehammer.md>) crafts magic.
 - Jan 13, 1749 DR: Remain at the elemental forge while [Faldrak](<../../../people/dwarves/faldrak-bronzehammer.md>) crafts magic.
 - Jan 14, 1749 DR: Return to [Vindristjarna](<../../../things/ships/vindristjarna.md>), depart for [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>).
-- Jan 15, 1749 DR: Arrive in [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>) in morning after traveling through the evening across the ~Cymea Border Mountains~; dinner party.
+- Jan 15, 1749 DR: Arrive in [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>) in morning after traveling through the evening across the [Mistfold Mountains](<../../../gazetteer/western-green-sea/mistfold-mountains.md>); dinner party.
 - Jan 16, 1749 DR: Visit [Arheste](<../../../people/elves/arheste.md>); soothe her pain with powerful ki; speak with her all day; depart at dusk for [Uzgukhar](<../../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>).
 ### Mirror of the Past
 - Jan 13, 1749 DR [Mirror of the Past](<../treasure/mirror-of-the-past.md>) unexpectedly recharged early due to lingering magical energy of the Elemental Forge, and [used to look at the Elemental Forge itself](<../mirror-visions/elemental-forge-vision.md>). recharge mirror

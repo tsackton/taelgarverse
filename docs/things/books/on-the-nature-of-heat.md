@@ -13,4 +13,4 @@ title: On the Nature of Heat
 # On the Nature of Heat
 :octicons-info-24:{ .lg .middle } **A [Drankorian](<../../history/historical-realms/drankorian-empire.md>) natural history treatise, written during the [Drankorian Era](<../../history/history-of-the-drankorian-empire.md>)**  
 
-*On the Nature of Heat* is a famous Drankorian work of natural history. Although not primarily a planar treatise, it provides the best-known summary of [Frostfell](<../../cosmology/energy-realms/frostfell.md>) as a land of bitter cold, ice fields, freezing pools, glaciers, icebergs, and endless storms of snow and wind.
+*On the Nature of Heat* is a famous Drankorian work of natural history. Although not primarily a planar treatise, it provides the best-known summary of [Frostfell](<../../cosmology/energy-realms/compound-realms/frostfell.md>) as a land of bitter cold, ice fields, freezing pools, glaciers, icebergs, and endless storms of snow and wind.

@@ -1,0 +1,4218 @@
+{
+  "schemaVersion": "1.0",
+  "sessionKey": "lost-in-the-feywild-session-4",
+  "blocks": [
+    {
+      "blockId": "recap-001",
+      "title": "At The 27th Door",
+      "lines": [
+        {
+          "speaker": "Kaito Min",
+          "text": "Would be great."
+        },
+        {
+          "speaker": "DM",
+          "text": "It's been a minute, so just to do a quick recap from the very beginning: the five of you, knowing each other and having run various jobs together, got recruited by a sort of strange, pale, thick guy in Tollen to come and help his master clear out—or secure his deed to—a house in the wilderness, more or less. Traveling through more and more remote wilderness, you get to Dandelion House, which is a relic of the Drankorian Empire, magically preserved in some ways, not perfectly preserved. It's this sort of gorgeous masterpiece of late Drankorian architecture, way far north from the Empire, or maybe toward the northern edges of the Empire. Hulda is the second son of a minor noble who never really inherited or amounted to anything, and always felt like he was owed more and wanted more. Deep in the throes of a midlife crisis last spring, after having killed a dragon and done all of these accomplishments and discovering himself no better off than he'd ever been, an elf met with him and gave him the deed to this house, naming him very specifically as inheritor of it, assuming he could go through the door in the basement and break the treaty set with the person on the other side of the door."
+        },
+        {
+          "speaker": "DM",
+          "text": "He sends you through that door in the basement below the basement. Climbing through this route, you emerge in the Feywild in a sort of skeletal version of that same house, like a reflection of it made of bone, or coral, or tree roots—something like that. Heading down the road after passing some dead bodies with their heads either destroyed or removed one way or another, you make your way to the party of Lord Endless Ending: a perpetually just-past-its-peak party that's starting to come apart. After meeting and talking with various inhabitants, you realize that Lord Endless Ending has made a commitment with his next neighbor down the road: every time the grandfather clock they gave him strikes zero, he will send a mortal through the door and into that house—which is all he says about what it is. He doesn't like that he made this bargain. He feels like he was tricked into it in a game of naming by a human wizard."
+        },
+        {
+          "speaker": "DM",
+          "text": "Tim, the session notes may be in error here. It was Thalestria, the head of the order, who tricked him into it? She's the head of the Arithrimos Lamperum. After talking with Menestheus, a mathematician and mapmaker who has been sleeping off a drunk at that party for what looks like about 700 years, you learned the order was charged with controlling, containing, healing, walling up, or otherwise worrying, in general, about the holes in the universe—the holes between the planes and things that might come through them. A thing, probably, that you all as players understand maybe more clearly or concretely than the characters do. Menestheus wasn't a whole lot of use about what exactly they were doing or what was being contained. He was essentially charged with—"
+        },
+        {
+          "speaker": "DM",
+          "text": "—keeping track of where the maps to all of the holes in reality are—the holes between the different planes—and that's what he was doing. He came to the Endlessly Ending party, before it was ending, with a couple of dozen other members of his order who made the agreement. But he, who had a drink or a few too many and fell asleep in the library, has been there the whole time since. As you head out to the gate of Lord Endless Ending, you hear the clock strike zero again, and Menestheus is the one crossing the lawn and heading out. You talk with him for a few minutes before accompanying him down the road. This door is off to the left as you're traveling sort of north up the road, maybe then turning left onto this footpath that grows smaller and less finished. The land rises until, at the end of it, you find yourself on a sort of promontory, maybe—I don't know—100 or 150 feet high, with cliffs and rock falling sharply on all sides down to the bottom of a ravine where, in the shadow of the evening, it's just utter darkness. You can't see the bottom at all. In front of you, though, is the door, with the owl familiar who scouted ahead perched on top of it. And, just like all of us going to our 30th reunion, you know you have already gone through the door in the future, because Lord Endless Ending allowed you to leave the party, and that was a condition of it. So you know you're going through it at some point."
+        },
+        {
+          "speaker": "DM",
+          "text": "Not that that automatically means you're rushing through right at the moment. I'd love to do, just as sort of table-setting first: are there other details that I'm missing in that recap that were important to any of you, or that stood out? Things that are worth lifting up?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "There was definitely a tiger guy."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I was gonna mention the Rakshasa."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, and—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Whatever is whatever you have."
+        },
+        {
+          "speaker": "DM",
+          "text": "The Rakshasa had sussed out the story of how this bargain came to be and shared it with you."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What was—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Probably making his retreat right now, since—I don't know—I think there are just those two halflings left at the party by now."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Who've been there for, like, thousands."
+        },
+        {
+          "speaker": "DM",
+          "text": "A long, long stretch."
+        },
+        {
+          "speaker": "Edric",
+          "text": "We never really determined if there was anybody new at the party, did we?"
+        },
+        {
+          "speaker": "DM",
+          "text": "When you say new, what do you mean."
+        },
+        {
+          "speaker": "Edric",
+          "text": "All the mortals seemed quite old."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "We were new. We're the newest."
+        },
+        {
+          "speaker": "DM",
+          "text": "You were the newest. There wasn't anyone. Yeah, there wasn't anyone recent, right?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "But, I mean, it was hundreds of years, right? There wasn't anybody from 1420, as far as we knew."
+        },
+        {
+          "speaker": "DM",
+          "text": "This is true, though. It's not obvious how many mortals have been sent away, and what—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yay!"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, but—yeah, yeah, yeah, you're right."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But that actually makes me wonder, too: did we ever establish some kind of order? The person who was sent away just before us was—I forget, do we know any details about them?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I think it was a human woman, I think. I should look back at the transcript."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, we should just."
+        },
+        {
+          "speaker": "DM",
+          "text": "You saw it going across the room. Yeah, yeah, yeah."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, okay."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Could have been there for 700 years. She could have been there for, like—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Right. But the order isn't necessarily—I mean, people might have arrived at the party in a different order than when they left Taelgar. We don't really know. Yeah, okay."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And so, sorry—I remember we were trying to leave the party. Then what's the deal with this door? Are we like, “Oh shit, what the fuck is this?” Or is this like—what's the—do we know what's behind the door? I'm forgetting. I think I fell asleep at the end of the last episode."
+        },
+        {
+          "speaker": "DM",
+          "text": "I think—and someone else correct or elaborate on this if it's wrong—that you were under the impression there was a way to get back home again in this house. There was, like, another route for you all to get home."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "Am I remembering that right, though?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "I don't remember that per se. I remember something about keys."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I mean, I think we thought—"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "A glass key? A crystal key?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Oh, yeah. Well, there's a thing in there that, if we bring it back to—so, here's the two things I know. There's a thing in there that, if we bring it back to Lord Endless Ending—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Correct."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "—he can break his contract and stop this whole system from perpetuating, where the door rings and the mathematical cult people get their sacrifice, and then that person gets—who knows what—sent back home to Taelgar! And you send your horses out to pasture, and they live on a farm in the west. So that's the degree of confidence that I have with this. I mean, yes, they truly are world-traveling, wormhole-stopping, advanced-sorcerer-type people. I believe that the math is there, but I don't know if all that happens when you leave Lord Endless Ending's party is that you get to go back to where you want to go, at what time you want to go there—"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "It, like…"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "—your own realm, in your own place—or if you just get used to siphon off some sort of interdimensional travel energy, and you get zapped to dimension Z at time Y, and/or you die. I don't know what this other way of getting home is, because the only person we know came back from this party went back through the really creepy tunnel and came back through the door he left propped open."
+        },
+        {
+          "speaker": "DM",
+          "text": "Right."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Mm."
+        },
+        {
+          "speaker": "DM",
+          "text": "Just to recap: Lord Endless offered that, if you would bring him the—he says, “In the center of the house is a room, the 27th room, whose walls are made of cold iron, older than twilight, locked with a glass key. Through certain portents, I have divined that if the key is returned to me and I break it, the bargain will be undone.” So he asked if you would do that, and you did not commit to that. But it is—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Kind of weasel."
+        },
+        {
+          "speaker": "DM",
+          "text": "That's an offer on the table, yeah."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Right."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, I remember freestyling."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "You're the chair."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Poetry thing."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh, yeah."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That was with the."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Cool. Oh, with that recording?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, no."
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, that was with Lord Endless Ending. We had a whole interaction where he asked us about our gifts, and we all kind of made up some bullshitty things about gifts. He was half pleased, and half like, “Do you guys understand the word ‘gift’? It means giving me something of value, not this bullshit.”"
+        },
+        {
+          "speaker": "DM",
+          "text": "But then he did—he gave you a sonnet at the very end. Yeah. I sort of feel like fey have to speak in iambic pentameter sooner or later."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Right, right."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Makes sense. Okay, so, summary: we are now gonna potentially go—okay. What do we think is behind this door?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Well, it's this other—it's where—what's the—"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Lord Endless Ending's rival's place?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Where the glass key is."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yes."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yes. Glass key, possibly another exit from the Feywild, possibly this woman who is the head of this order—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Possibly our deaths."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "—who originally tricked him."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Now, I have a question. What about rooms one through 26? What does it mean that it's the 27th?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yes. In what order? Will there be only one order you can go through them in, so you know which one is the 27th?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I think they're like airport lounges, personally. I was just at the air—I was just in a fucking huge-ass airport, and I was like—"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "There you go."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "But the other ones are just, you know, baby-changing room, smoking room."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I mean, part of what we could do is observe the life and times of this poor math guy who's been selected by the clock tolling and sent, as a mortal, to this destination. So if we follow him and somebody grabs him and nails him sideways to an apparatus, and then he dies painfully, you know, we could—well, that's what happens."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "We know where he is. Do we know where he is?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "He's with us."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep, Menestheus is with you."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh. Got it."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We sort of made friends, walked together."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "He can go first, you're saying."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yes. And I forget, what was his attitude toward this? When we told him where he was going and this was all connected to the work he used to do, did he suddenly become like, “Oh,” or was he just like, “I guess this is what I'm doing”?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, I feel like his vibes—you all would be closer to this than me—but his vibes are like a postdoc who has just signed on to a very long contract in a place that turns out to be terrible. So, a little disillusioned, a little disappointed. He definitely put his head in his hands for several minutes and cursed to himself when finding out what the timeline was. Your impression of him was that he's totally committed to the mission of the order. He was totally on board with what they were doing. But also, he was so deep in his own niche that, you know, he doesn't even have a 300-foot view, let alone a 30,000-foot view."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So he doesn't know enough to be either scared or reassured. He's just like, well, whatever the mission needs, but this has been not what I wanted."
+        },
+        {
+          "speaker": "DM",
+          "text": "I think so. And I think, with the 700-year time jump, he's still in shock. There's no way for him to comprehend it, and also the world around him in the Feywild is exactly the same. It's still not quite real."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Sorry, what's the order?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The Arithrimos Lamperum is a Drankorian society that had existed for hundreds of years, whose job was to sort of police the boundaries between worlds. I feel a little strange saying this, since it's Tim who wrote it all, but apparently one of the things Drankor worried about a great deal was extraplanar threats. So this was one of the societies or groups who worried about that and kept track of them."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And wait, have we met anybody from that or."
+        },
+        {
+          "speaker": "DM",
+          "text": "Menestheus."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, the guy."
+        },
+        {
+          "speaker": "DM",
+          "text": "So, the mathematician guy. Oh, okay, so I think I missed all this part—who did we meet? Menestheus the mathematician is a member of this order, and he had a convoluted thing about how you can hide coordinates within very large semiprime numbers."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, yeah."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Brilliant numbers."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, exactly. Brilliant numbers with two prime factors that give you—right. Anyways, it's a way of sort of publicly talking about secret things. It's like a kind of—and then we gave it back to him."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, I remember, oh yeah, yeah, yeah, he had his book, he."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, the book. Yeah, there was a situation there."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I read it with."
+        },
+        {
+          "speaker": "DM",
+          "text": "Comprehend Languages. It worked, but you didn't comprehend it because: math. Yeah. Very cool. So, to set the table a little bit: you're standing in front of the door on this bluff that falls away on three sides, in the twilight. In the Twilight, too, which has this funny characteristic that it doesn't seem still; it seems like it is actively growing darker, even though it isn't. Can you do a reset of what you each look like? What are you holding in your hands, if anything? And what is your internal state? Is this exciting? Terrifying? Mystifying? Disturbing? What do you look like? What's the—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So, Txarro is a six-foot-tall—maybe a little bit more than six-foot-tall—lizardfolk man."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "He has bluish-green scales along his face, surrounding his eyes and running down his neck and along his hands, with a sort of more pale-yellow throat and underside of his jaw."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "He wears relatively simple traveling clothes, a sort of greenish-gray cloak. He doesn't carry much, except for a—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "A wooden shield that's strapped to his back, that has—"
+        },
+        {
+          "speaker": "DM",
+          "text": "A. Thank you."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "—that has a painted design on the front."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I think some birds, I forget what I said last time."
+        },
+        {
+          "speaker": "DM",
+          "text": "Thank you."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "And, you know, a backpack, basically, with just simple gear on it, and—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "—a carved wooden wand that you have heard produce the sound of loons and other birds over your adventuring career, stuck into a little slot on the wide leather belt that he wears around his waist. He is not exactly nervous. He's a little annoyed with this whole situation, like, why did we get tricked into this deal with this guy? And now he's a little bit uncertain as to whether he wants to break the bargain, because—the—what was his name? I know you just said it. The guy who gave us the deal to begin with."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Lord Hulda?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Hulda. Yep."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Lord Hulda. Txarro was a bit dubious of Lord Hulda since the betrayal, so he mostly just wants to go home at this point. He's watching the door a little trepidatiously, wondering what's gonna happen, and watching—Menestheus?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Menestheus."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Menestheus. Watching Menestheus to see what he will do."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Your bird, right?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "The owl is my familiar."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The owl followed another person here. They've been sitting here the entire time."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "For a while, yes."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Did you communicate with the owl in any way to figure out if it saw anything else—anybody leave, anybody walk past, anything at all other than the two people we know—or was it just a—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Because the one person we know went there and went straight in, and then this guy showed up and went straight in."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I can ask it."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Okay, we haven't gotten there yet."
+        },
+        {
+          "speaker": "DM",
+          "text": "Nothing. Yeah, that's correct. Nothing except seeing the person go in."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric is tall. Big guy. Kind of a misshapen face, slightly ugly. He's wearing this sort of gleaming breastplate with a prominent set of stars forming a crown, which is the sign of the Night Queen, and has a massive two-handed maul slung over his back—a big warhammer-type thing. He's currently reaching back to take it out, then thinking better of it, indecisively trying to decide whether he should be holding his weapon in a ready-to-smash position or whether that's a bad idea. At the same time, he's sort of muttering a prayer. You can't really make out the words, but you know him well enough to know that, when he's standing there muttering under his breath, it's usually some sort of prayer. And he looks—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Determined? Like, he wants to—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Move forward with this and, like, get on to the next thing."
+        },
+        {
+          "speaker": "DM",
+          "text": "But…"
+        },
+        {
+          "speaker": "Edric",
+          "text": "He's also a bit…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh."
+        },
+        {
+          "speaker": "Edric",
+          "text": "He looks out of his depth."
+        },
+        {
+          "speaker": "DM",
+          "text": "Right? Like, usually, he's used to, kind of."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Knowing what the safe thing to hit is."
+        },
+        {
+          "speaker": "DM",
+          "text": "And is a little uncomfortable with politics and the—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "—constant, sort of—"
+        },
+        {
+          "speaker": "DM",
+          "text": "—discussion about things, and there doesn't seem to be a right path—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "—through this, exactly. And that makes him a little uncomfortable. But going to a scary place actually kind of evens his keel a little bit, right? He's a little like, maybe there'll be something here that I can just—like, that party was a little, “I don't know what's going on here.” Maybe a bad guy will jump out, and I'll be able to just hit it."
+        },
+        {
+          "speaker": "DM",
+          "text": "I love that the party is scarier than a monster."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh, it's way scarier than a monster."
+        },
+        {
+          "speaker": "DM",
+          "text": "Tarek."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tarek is a slight youth with unruly black hair, wearing a beat-up but once-fine cloak. He moves about silently. You catch him occasionally out of the corner of your eye, in the dim light, peeking into an inner pocket of his cloak and pulling something palm-sized out, chuckling, and putting it back in. He seems a bit antsy. He finds a suitably sized stone and deftly punts it with his toe off the edge of the escarpment—"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "—just so as to find out what happens."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito is wearing his long, red—tall and red—travel robe. It's got kind of gold patterns on it and is a little travel-worn after the days, or however long we've been out here. Long, golden hair, currently not tied back, just kind of flowing in the wind. And, you know, leaning over—Eric, what's your character's name again?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tarek."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Tarek. He's leaning over Tarek's shoulder to watch this stone bound down the cliff. And as you all know, Kaito's an elf. He's old—older than y'all—but also weirdly kind of immature, and just kind of emotionally volatile. Sometimes he's so excited about this treasure, sometimes he's like, “We're all gonna die,” sometimes he's like, “Oh, I love this party.” He's a little emotionally volatile. In his present state, he's leaning into his inner elf right now and sort of resigning himself, like, man, you know—how long do elves live?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "As long as they want to."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Are they immortal?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Usually 500 to what, 700 years?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "But do they die? Of old age?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "They—so they have the cycle of generations, right? Each time the cycle turns over, which is about 150 years—I think it's about 150 years—they typically have a weaker and weaker connection to Taelgar. Unless they have some reason to stick around, eventually they just wander off. I'm not sure if it's entirely clear where they go."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Afterlife. Okay. But they don't age in a normal way."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Okay. So Kaito's kind of leaning into his inner elf and is sort of like, you know what, we're here for a couple more hundred years, thousand years. He's just kind of feeling a little resigned to the possibilities—not really freaking out, but also kind of like, man. Oh boy, this could be—we might be here for a while."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Ayveen has her nice armor on, still looking fresh and tidy and gleaming—appropriate for a party, appropriate for starting out on an adventure. Her long hair, her instrument on her back. She hasn't had an opportunity to play the lute in a while, because they had those musicians at the party who Lord Endless Ending had playing endlessly. She's definitely observed the same thing Edric has: there's not a clear “what do we want out of this?” Because we don't necessarily want our benefactor—our, I want to say benefactor, but that's not the word for this entity—we don't necessarily want our employer to benefit from our work anymore because of his betrayal. We kind of want Lord Endless Ending to benefit because we sort of hit it off with him, but there doesn't seem to be a clear path for that yet. So Ayveen is just keeping her eye out. She's in a “needs more information” mode. See, see, see where the right resolution to all this can be."
+        },
+        {
+          "speaker": "DM",
+          "text": "Menestheus is a human man in his later 20s—mid or late 20s—dressed in a strange, sort of old-fashioned way, with knee-length breeches and soft leather shoes. He has a satchel over one shoulder with a couple of books in it. Around his belt, and on a sort of bandolier of little pockets on the satchel, are small pockets and containers that you associate with spell components. He has a knife at his side, like a long sort of dagger, but otherwise is unarmed. There's a ring on his finger—actually, a couple of rings on his fingers. He looks sort of resigned. I mean, this is a person who fell asleep at a work event and everyone left without him. Even in the best-case scenario, this is not going well for him, even if it wasn't 700 years later."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Nice."
+        },
+        {
+          "speaker": "DM",
+          "text": "The door stands in front of you. A light, cool breeze blows, still with a scent of warm grass. What do you do?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Did I hit anything with the rock?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You heard it skitter down a little ways, and then lost sight and sound of it."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yes."
+        },
+        {
+          "speaker": "DM",
+          "text": "Perception may have had a different experience."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "The ravine of endlessly falling."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I think we're waiting for… Uhm…"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Menestheus."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Menestheus to go in, right?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yeah, it's his show."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "It's his show."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That's his show."
+        },
+        {
+          "speaker": "DM",
+          "text": "He looks around and just sighs—a big, long sigh. “Well, we're going in then, huh? I'm sure this will be fine.” He reaches forward, turns the handle on the door, and it opens outward, toward you all. When he opens it, you can see into this interior room, lit by a few lamps in the corner. Without going in, there's not too much to see, but—from what you can see, it looks like it was full of stuff that's been smashed up or destroyed. It looks like it's in pretty bad shape. Do you want to go in?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, yeah. Me too."
+        },
+        {
+          "speaker": "DM",
+          "text": "Menestheus looks around at all of you and says, “Yeah, all right. Let's go!” He steps across the threshold and looks back at you. “I would love to not do this by myself, but I understand if y'all can't.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, I'll come with you."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I stroll forward too."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Edric's so hot now."
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "title": "First Rooms",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "As you come into the room, you find it quite large and a little bit oddly shaped. It's about 30 feet wide, 30 feet deep, and 30 feet tall. First, it's just sort of a scene of destruction: tables and chairs have been smashed and overturned. There's a sort of counter by the door—we're just going to assume that Comprehend Languages is up as a ritual indefinitely, for the sake of simplicity—that at one point read “Current Occupants” and would have had a number below it, but has been smashed apart. There's a giant tapestry on one side that's been pulled down and mangled. On the far wall across from the door, so 30 feet in front of you, almost the entire space is taken up with massive pipes and tubes and turbines, stuff made of cast copper and iron that's almost—I don't know—steam-pump-looking. There's a hum that comes from all of it, but no obviously moving parts. The door you just walked through is in the center of one wall. There's a door in the center of the left wall, a door in the center of the right wall, and a spiral staircase in the center of the room that goes up and down. You're muted, Eric."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Thanks. The occupancy sign—what was the story with that? It would have listed the number of people in the room? Oh, no, the maximum number of people?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, no. It looked like it had those little flippy numbers like the clocks did. So perhaps it might have been a—your guess is that it was a running tally of occupants."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That's weird."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "And presumably we try opening the door we just came in, and—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh yeah, it just opens right back out again."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Oh, okay. Well, if we're trying to get to room number 27, and we have four not-necessarily-numbered options for leaving this room, the second room that we enter won't necessarily be the 27th room by any math. You know, if it's random, one-fourth of all the options in the room that we start off in. So I don't exactly know how to get to the 27th room, but—I mean, again, let Menestheus pick."
+        },
+        {
+          "speaker": "DM",
+          "text": "“But, look, I don't actually know where we're going. This is as far as I've ever gotten in the house. We came in, and I met up with the rest of the crew, and they were already on the way out. I know where we are, but I don't know—I mean, I know where we are in space.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "What's that big machine over there?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“I…” He gives an elaborate shrug."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Do you want to sit here in this room and read your books, and hope that this is your life for the rest of your life—sitting in this room, reading your books over and over again, and maybe or maybe not experiencing hunger? I'm not really sure how that goes. Or do you want to explore?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“I do want to stay with you. I—this, this is—yeah, right? Do you want to stay here by yourself? No! This is terrible! What happened here? Why is everything destroyed?”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, I wouldn't want to stay here by myself. That would be scary and weird."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Yeah, this guy gets it.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "This is just sort of Edric's thoughts -- this looks like a problem. “I'm not sure how to solve this problem. Maybe one of the wiser heads knows what to do.” He kind of looks around desperately at the rest of the party."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I mean, there's no—well, while they're talking, Txarro's just kind of looking around a little bit. I mean, there's—what, two doors out of this room?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Two doors: a door to the left, a door to the right, and stairs that—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Right. And doors are not…"
+        },
+        {
+          "speaker": "DM",
+          "text": "You two—looking around is fine. I'll give you details. If you want more, you can do Investigation or Perception."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "The doors—do they just open? Are they locked?"
+        },
+        {
+          "speaker": "DM",
+          "text": "So, the doors on either side—and, in fact, when you come over to the stairs and look, there's a door at the top and a door at the bottom, also, maybe half a story away—open to a narrow corridor that's about ten feet long, with another door at the far end of it."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Like, both doors open to the same location?"
+        },
+        {
+          "speaker": "DM",
+          "text": "All four doors, yep."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Presumably we check all four doors, and they all look the same until you open them? So it's not that one opens to a delicious-smelling sort of kitchen and another opens to a discotheque room? They're all just tunnels?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "And there's no markings or footprints or…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Excuse me, thank you. Yes, there is a little sign. You open the door and go into the hall. The door at the far end of the hall is locked, so you can't open it, and there is a little sign next to it that says, “All members of your group must come through together.” Then there is a number, like a little room-number marker, on the center of the door. So the door to the left is 12, to the right is 16, four is up, and 22 is down."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wait, do these numbers have anything to do with the whole numbers-as-code thing with the—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Menestheus does not seem to think so."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Well, he's a mathematician, I trust him."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Yeah, I never really did interiors,” he says."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Oh, four, 12, 21, 17, or something? What'd you say?"
+        },
+        {
+          "speaker": "DM",
+          "text": "12, 16, 4, 22. Yeah, you cannot discern any meaning to those numbers. Sorry."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Right. Twenty-two is down, 12 is left, four is right—"
+        },
+        {
+          "speaker": "DM",
+          "text": "For us."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "—four—"
+        },
+        {
+          "speaker": "DM",
+          "text": "And 16 is right."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "22 is closest to 27. Let's go that way."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yeah, that's what I was thinking, too. I want to look at this machine first, though. I'm curious about it. What should I roll?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Why don't you do investigation?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, that's an eight total."
+        },
+        {
+          "speaker": "DM",
+          "text": "It's big."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I mean, it's…"
+        },
+        {
+          "speaker": "DM",
+          "text": "It's impressive-looking. It's not just decoration. When you put your hand on it, you can feel the hum of something, and maybe even a little static electricity or a little smell of ozone, but you can't make heads or tails of what it is."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That's weird. Yeah, let's go to 22. That was downstairs?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Twenty-two. Awesome. You go down the stairs to 22, into the little corridor. The door at the far end is locked until all of you are in the space. You close the door behind you, and then the door on the other side becomes unlocked, and you can all go through it. You come through that door after this little corridor and down the stairs, through the continuation of the stairway that comes down through the center of this room. This room is about the same dimensions as the one you were in before, maybe 30 by 30 by 30 feet, and it has exits. If you're facing the same way you were in the room above, there's an entrance and exit in front of you and on either side, to your left and right. So you can go back up, or you can go left or right. This room is clearly a chapel. Actually, I need a little bit of help here, Tim. What would a Drankorian chapel—what gods would be in it?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Mos Numena. Let's—so—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Same gods."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, same as Sembara."
+        },
+        {
+          "speaker": "DM",
+          "text": "So, it's not different in kind from the chapels you've been in before, and there are spaces for the various gods, but the design and feel of it are really different. It's clearly older. It's like going—I don't know—into the Vatican or something: all this smooth, polished marble with little variegated flecks of color in it, in a way that nobody would build a chapel today, even though it's extremely impressive. Looking around the space, there's not much in the way of stuff in it. There are icons or statues, maybe art devoted to Mos Numena, but it's just the devotional space. There's not much else to it."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Are there numbers on the exits from here?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, I mean."
+        },
+        {
+          "speaker": "Edric",
+          "text": "This is a Drankorian chapel, and the Drankorian style was little alcoves for all the gods, right, Tim?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yes, although…"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Probably."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Right. Although, conceivably, you might—right. Yes, you would typically have eight alcoves in a—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "I mean, is this intact, with holy symbols? Does it—does—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Y'all can, y'all can investigate."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I mean, forget even investigating. I'm just looking around. Is the Night Queen's altar recognizably the Night Queen's altar?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes, although again, I'm sort of deferring to Tim because I don't know enough about Drankorian theology."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So, if it's not been intentionally ruined, you would expect an architectural design that has eight separate alcoves, physically separated from each other in some way. Depending on how fancy it is, either elaborate, massive stained glass and jewel-gemmed carving-and-statuary things, or as simple as a plain, curvy wall or whatever. But the idea is that you architecturally isolate the eight altars to the Eight Divines, because there is a belief that the gods cannot hear you unless you are speaking to them alone. You don't want your prayer to the Night Queen—you want only the Night Queen to hear the prayer to the Night Queen. So, if it is intact, you would expect to see eight separate altars, with all eight of the Mos Numena—Eight Divines—represented with the same iconography as is common in modern Sembara. There are stylistic differences in the icons and things, but it would be clearly recognizable, especially to somebody like Edric."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "That said, of course, it could be built intentionally differently, or partially ruined, in which case some of those alcove and altar spaces might not be present. But that would be the assumed standard design."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, and that is indeed the design, with one exception. Nothing has been destroyed or defaced in any of the spaces for those gods, but, in order to get to the back exit of the room, you have to go around this little corridor that passes one of the enclosed spaces for the gods. On its back side, where there's just a blank wall heading out that back exit, it's like someone has taken a hammer or pickaxe to the blank wall and made a—divot? A void? A niche, maybe? It's about a foot or two across and a few feet high, just sort of smashed out from within it. The longer you spend looking at this, the stranger it seems. It's clearly intentional; it's not age, or something gone wrong with the masonry. Someone has smashed this thing out, and it's just an empty niche. Disturbing in a way that's difficult to articulate."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Well, before even worrying about the disturbing thing, Edric is gonna offer a prayer at the Night Queen's altar, take a few minutes over it, and try to get a sense of whether this is still consecrated. Is this actually still holy and working? Or is this dead—you know what I mean? Is it a live holy space, or is it dead?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, it definitely is. Inside that space—and presumably the others—yep. It's lovely. It's grounding. It sets you at ease a little bit."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric will kind of say over his shoulder, “I'm gonna just stay here for a minute, because it's very—but maybe someone should go see why that creepy thing is so creepy,” pointing at the hole. “That seems unnerving.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tarek sticks his hand in the hole."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Good job, Tarek."
+        },
+        {
+          "speaker": "DM",
+          "text": "Give me a—what's a good save? How about a Wisdom save?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Gold coins I wish to receive. Oh, a Wisdom save. Okay. That's also an eight in total."
+        },
+        {
+          "speaker": "DM",
+          "text": "You snatch it right back out again and feel, just for a second, like you're gonna vomit. But it passes."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "What?"
+        },
+        {
+          "speaker": "DM",
+          "text": "It's weird. You're not even conscious of pulling your hand back."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Beautiful."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Try this. Can you try that?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I feel like that's kind of a “you.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "No, man. It feels great. You should try it. What?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, this is definitely it."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Wait, wait, wait, why are we sticking our hand into creepy holes?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "It's curiosity's sake."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I didn't mean do something dumb! Be safe!"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "You've not been around us very long."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I mean, I mean."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, definitely."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Fair! I mean, I guess that—I'm sorry, that was not the appropriate word here. It's all good."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Maybe we should be a little less reckless in this place of uncertainty and oddness."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Have there been any signs of any other—I was asking about tracks and signs of passage before. Is there any indication that anybody else has been in this house anytime recently?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No. In this room, you can't hear the humming of the machines that were in the entryway. You don't hear footsteps or voices. In fact, when you all slow down, it is perfectly silent."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Are there any souvenirs?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I mean, you could steal from one of the shrines to the gods?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, don't do that."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "No, no you can't."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I consider it carefully, weighing costs and benefits."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I only see benefits."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So in the entryway, it got all wrecked. Like, everything got all wrecked."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Here, people have been respectful of the religious sanctity. But in the non-sanctified space, somebody took out some sort of aggression, or panic, or—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, I think that's the right way to read the entryway: aggression or panic. It wasn't systematic; it wasn't the way it looks when a room's been tossed searching for something. It was like a flailing, almost. But not here."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "But by the divot."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, sorry—about the divot? No, intentional. It looks carved. Someone made it."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "What's the height above the floor of the divot?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "It doesn't look hacked? It looks nice? Well done?"
+        },
+        {
+          "speaker": "DM",
+          "text": "It looks intentional. There's something about it that just feels mildly disgusting to look at, which your thinking mind does not make sense of, because it is just a little niche that someone took a hammer and chisel—or who even knows—and carved out of the back of a wall. But there's something uncomfortable about it."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Oh."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Nauseating or, like, scary?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Both."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yes, that's, yeah."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "All right. Good to know."
+        },
+        {
+          "speaker": "DM",
+          "text": "Four exits, left, right, forward, up."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So, I was asking before, are any of them numbered? Wait, up is back the way we came."
+        },
+        {
+          "speaker": "DM",
+          "text": "Do you want to check the numbers on all the doors?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yes, please."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "So, left is 25. Forward is 23. Right is 19."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Wait, what does “forward” mean in this circumstance?"
+        },
+        {
+          "speaker": "DM",
+          "text": "We're gonna assume that you were facing north when you entered this building?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Sixth quarter."
+        },
+        {
+          "speaker": "DM",
+          "text": "So the door went from south to north: you step north to enter it. So forward is north. We'll do it that way instead: north, west, east, and up."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Okay, so… West is 25."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep. North is 23."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So north is… 23."
+        },
+        {
+          "speaker": "DM",
+          "text": "East is 19. And up is 17."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Wait a minute."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Can we just check that up takes us back to the room we started in?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Abacus."
+        },
+        {
+          "speaker": "DM",
+          "text": "So you all climb the flight of stairs. You step into the corridor, close the door behind you, and open the door in front of you. And you are standing—"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, boy."
+        },
+        {
+          "speaker": "DM",
+          "text": "Not in the room that you came in."
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "title": "The First Journal",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "You're standing instead in a room where almost the entire space is filled with massive mechanical equipment: huge tanks that feed through enormous pipes and go into the north wall. There are almost catwalks. The only available space to move is in these narrow little corridors that dodge through the immensity of all the equipment around you."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Is this plausibly the same room as the other one we were in, but back in time? Do we see the occupancy sign on the wall?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No. The room that you came in through just had pipes and machinery against the far wall, the north wall. Here, almost the entire space is filled with machinery—arcane machinery. If you want to walk around, I can give you the exits and all of that, too."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "You know."
+        },
+        {
+          "speaker": "DM",
+          "text": "So you can go up, down, west, or east. Oddly, against the north wall—you duck under a pipe and come out against the far wall—there's not an exit, but there is something that's almost like a window: a two-foot-by-two-foot cutout in the wall. You're looking through about, I don't know, three feet of stone wall, and on the other side of it, flush against it as if it's just a recessed back—but you get this distinct impression of it being a window—is a two-foot square of elaborately inscribed iron wall, just covered in runes and arcane markings that you can't decipher. Right next to it, after you've dodged under this big pipe to come out next to the window thing, there is a chair and a writing desk with a journal on top."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Let's have a look at that."
+        },
+        {
+          "speaker": "DM",
+          "text": "They seem to be notes, arranged by date—dates that don't exactly make sense, or at least are a little challenging to translate from Drankorian in your head. There are probably about 30 pages filled in a small, maybe four-inch-by-six-inch notebook, comprising 15 or 20 entries. Some dates are really close together, and some are farther apart. There's no discernible pattern. The last one was a very long time ago now—I mean, 700-some years ago. It seems to be a transcription of a monologue, and it goes something like this. It's in quotes, and it says—"
+        },
+        {
+          "speaker": "DM",
+          "text": "“When I get here, I do not know anyone. But there is a teacher who is very patient with me. He's teaching me about words. He's teaching me that words have an order. Words have a before and an after. He says that words are a game to play, because of course there is no such thing as before, and no such thing as after, except that words make it so. He says that, if I am to play games with the dreamers, I am learning about the order of words.” That's the first entry, and someone has scrawled notes to themselves below it, saying, “Child? Timeline?” The next entry continues with another quote: “I am learning about the order of words. My teacher teaches me about eating and drinking. About sunset and stars. About beginnings and endings.”"
+        },
+        {
+          "speaker": "DM",
+          "text": "“He teaches me about the danger of cold iron and the fearfulness of the dreamers. He teaches me that words are letters, and brings me books, and I am reading them. He teaches me about trees, and roots, and leaves, and mushrooms, and houses, and hedges, and roads, and doors.” There's a note below it that says, “This list continues in this vein for some time.” The next entry is a little while later. It says, “This world is strange and scary. I am alone without the teacher. His evening is beginning, he tells me. He comes back, he tells me. He is not coming back. He is forgetting me. I'm not going to him. I'm going past his house. I'm going on and on and on and on.” There's another note below that says, “This continues for some time.” The entries go on in this vein, page after page: this odd jumble of things being learned—"
+        },
+        {
+          "speaker": "DM",
+          "text": "—a sense of abandonment and fear, an almost childish pride in not needing a teacher anymore. Though, oddly, it's all written in the present tense. Finally, the last entry says: “I am grown. The world is very big. I'm tall. I stretch out. My hands are under a very bright and changing sky. My legs are reaching between trees and roots and leaves and mushrooms and becoming houses.” And that's the last entry in that."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "No commentary from the transcriber."
+        },
+        {
+          "speaker": "DM",
+          "text": "Transcriber has written 3 question marks below this."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Book is not fastened down in any way."
+        },
+        {
+          "speaker": "DM",
+          "text": "No, no, it's just loose on top of it, yeah."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I'll look over it. Alright."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wait, but is there, like—because there's the original writing—does the handwriting change at all over time?"
+        },
+        {
+          "speaker": "DM",
+          "text": "True that."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Little-kid handwriting, and then it gets—"
+        },
+        {
+          "speaker": "DM",
+          "text": "So, this is so good. What's happening is that this is a transcription, and there's a title page or a record of the—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Right."
+        },
+        {
+          "speaker": "DM",
+          "text": "—date, then the name of the person doing the transcribing, then something to the effect of, “I heard the following,” and then that. There are a few different people doing the transcribing, taking shifts or rotating. But the speaker is not the one writing it down. This is something that's been heard."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I see."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I'll just flip to the 27th page and see if there's anything particularly interesting there."
+        },
+        {
+          "speaker": "DM",
+          "text": "There's nothing that distinguishes it from the other pages. “The world is strange and scary, and I am alone. My teacher's party is beginning, and he will come, and he is coming back. He says he is not coming back. He is forgetting me over and over. I'm not going to him. I'm going on.”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "So the teacher is Lord Endless—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Presumably."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "—Endless Ending. And then the student is the person in this house who we have not met yet."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I think the student becomes a whole bunch of houses."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Eric, did you freeze?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yes, yes."
+        },
+        {
+          "speaker": "DM",
+          "text": "At the most suspenseful possible point in the sentence."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "It was a great theory. Yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Eric?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Oh, becoming houses."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh, interesting. It's a creature that becomes houses."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "That's so weird."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I'll pick up the journal. I'll hand it to Tarek."
+        },
+        {
+          "speaker": "DM",
+          "text": "Mmhm."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I'm not sure that's it."
+        },
+        {
+          "speaker": "DM",
+          "text": "Well, we heard you for just a second, Eric. Looking through the journal, I think maybe another way to say it is that it's almost like this is a—oh, no. Yeah, okay. No, you're all just very still. It's almost like this is a person who's perseverating. They keep coming back to the same things over and over again. Even though, when you read those sentences, you have a sense of a progression in time—this idea of a child, and then the child has grown—it's all written in the present tense. The speaker doesn't have that same kind of sensibility. There's not a narrative quality to it. It's just a whole lot of thoughts and statements."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "And there's a desk here that faces the weird runic-window thing."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep, exactly. A desk and a chair."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So possibly, if this desk is manned—if someone is at this desk for certain amounts of time—they sometimes hear this thing and transcribe it, and make a little note and reflection."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh, wait. You said that it's all different handwriting, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, like different people are transcribing."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "We should do the transcribing. How do we do it?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You wanna just sit here and wait until you hear the voice of somebody that turns into a house, and—"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I want it, I want it. Who is it?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Tell me what you're doing, Kaito."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I wanna interview the person getting turned into a house."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But are you gonna sit down in the chair?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, sit down on the chair."
+        },
+        {
+          "speaker": "DM",
+          "text": "You're sitting in the chair. Nothing's happening immediately."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "From the other pages, does it all start in any consistent way, or is it just like somebody starts talking?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, it's just that someone starts talking, and it starts in the middle. There's no instruction, like an invocation to say or something."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "A date or something like that? Is there anything, or does it just start? You know what I mean."
+        },
+        {
+          "speaker": "DM",
+          "text": "Wait, wait, say that one more time."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "For each entry in the book, does it start with anything consistent? Is there a date? Is there—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah. There's a date, there's the name of the transcriber, and then it just starts in."
+        },
+        {
+          "speaker": "Edric",
+          "text": "So there's different names."
+        },
+        {
+          "speaker": "DM",
+          "text": "Mmhm."
+        },
+        {
+          "speaker": "Edric",
+          "text": "What are the different names like? Are they—"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "They're all different. Are they like."
+        },
+        {
+          "speaker": "Edric",
+          "text": "—wildly different names? Does it feel like one's Dunmari and one's—are they all Drankorian? What's the—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Menestheus asks to take a look at those for a second, and he recognizes a couple of the names as members of the Arithrimos Lamperum, members of his order. Not all of them, but he recognizes a few."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Are they alive?"
+        },
+        {
+          "speaker": "DM",
+          "text": "In fact, a couple of them—he says, “They were—they left me at the house down the road. They left me. Fuckers.”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, so these are, like, living people, not, like, historically old people."
+        },
+        {
+          "speaker": "DM",
+          "text": "Well, when he says that, he was left there 700 years ago."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Damn. Kaito will sit down and write Tarek's name first, and then—"
+        },
+        {
+          "speaker": "DM",
+          "text": "As far as you can tell, the book's perfectly ordinary. So there it goes. And how—I don't know, tell me about what you're doing. You're sitting?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I'm sitting in the chair. I want to start writing. I'm just trying to copy the entries, just like—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Like you start an automatic-writing kind of thing?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I think I just start."
+        },
+        {
+          "speaker": "DM",
+          "text": "Start writing."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Whoa."
+        },
+        {
+          "speaker": "DM",
+          "text": "What is an appropriate check?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I have a suspicion, so I'm down. Put Tarek's name initially."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Put him in, and then he puts down—what was the date when we—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Very good. Well."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "And then, like…"
+        },
+        {
+          "speaker": "DM",
+          "text": "You can make a straight Wisdom check if you want, or, if you have a skill that you think is applicable, you can—"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I have no idea what the fuck this is. Well, I don't even know what I'm doing. I'll—yeah, sure. Awesome. Eighteen."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Nice."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, plus one is, yeah, yeah, yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "17 plus 1 is 18."
+        },
+        {
+          "speaker": "DM",
+          "text": "With that, you find that you are starting to write down fragmentary words. They're not sentences or complete thoughts, exactly, but they're sort of in keeping with the stuff that's elsewhere in the book: “alone,” “scary,” “grown,” “bright sky.” They're just fragments, but you are writing down what you think you hear as a whisper coming from the window."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Anybody else hearing that?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Anything at all?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Do I hear anything?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Hmmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "In fact, as soon as you put the pen down, the whispers stop."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "But—anybody?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Something seems to be—what direction is the window? Does it make sense?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The window is north."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But, I mean, has anybody been—I admit that I've not been totally focused on the map."
+        },
+        {
+          "speaker": "DM",
+          "text": "So you went in, you went down, and you went back up again, although it was a different room. But that's—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "I'm just roleplaying Edric here. He's just like, “I'm following you guys. I don't know where we are, and I don't know why the rooms are different.” But, in theory, maybe it makes sense that it's the outside? Like, it's looking out into nothing? It's just rooms, right? Can we see anything out the window?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No. What you see through the window is a solid wall of carved iron, right? Okay, you said that. It's just a blank, right?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Fine. Yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "But that's where I heard voices coming through that window."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep, exactly."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Just the—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Barest, incomprehensible whispers, yeah."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I think iron is important. It was mentioned in the transcript as dangerous. Does anybody know what that might tell us about the creatures involved? Is anybody vulnerable to—irony?"
+        },
+        {
+          "speaker": "DM",
+          "text": "They don't like iron."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "They don't like iron."
+        },
+        {
+          "speaker": "DM",
+          "text": "I think that's known at least at the level of fairy tales."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Right, right."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I mean, do you want me to do an Arcana check on the subject of any of this?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Hold on."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I will say, my impression of cold iron has always been that it's totally unclear whether that's a myth or a real thing."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I think that."
+        },
+        {
+          "speaker": "DM",
+          "text": "Also true."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, wait, is that actually mentioned anywhere?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Is what mentioned where?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I thought—I mean, that's a common real-world myth."
+        },
+        {
+          "speaker": "DM",
+          "text": "I think your player knowledge of the fey is extremely limited."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Bye."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Character."
+        },
+        {
+          "speaker": "DM",
+          "text": "You should totally Arcana that."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Bloopity bloopity."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh my god."
+        },
+        {
+          "speaker": "DM",
+          "text": "Jeez."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I rolled 18, and I have a plus four, so 22."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Cheers."
+        },
+        {
+          "speaker": "DM",
+          "text": "You guys are supposed to be third level characters. I'm positive."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "They're really good at skills."
+        },
+        {
+          "speaker": "DM",
+          "text": "I think, with a 22, what you know is that there are some fey that are susceptible to iron, and some that aren't. It's not universal, but there are some who fear iron. Your recollection is that, when creatures are not native to the Material Plane, certain metals or elements can have effects on them that are different from their effects on inhabitants of the Material Plane. So iron might be dangerous for some fey, and it might be dangerous for some other creatures that are not from the Material Plane."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmh."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Creatures that are fixated on mushrooms and grow into houses."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, which could be a fey, but, you know, who knows?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Can we get that grow into houses bit again? That was very interesting."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, I missed it."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Right at the end there."
+        },
+        {
+          "speaker": "DM",
+          "text": "The last entry is: “I am grown. The world is very big. I am tall. I stretch out. My hands are under a very bright and changing sky. My legs are reaching between trees and roots and leaves and mushrooms and becoming houses.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That is so good and so weird."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "And there were roots."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Do not understand it. But—"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "If we go back down the stairs—if we leave this fascinating little enclave in the pipe room, with the desk to the window to the iron—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Wait, wait, wait, wait. No, we can't try ourselves. We can't go back down the stairs yet because."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I don't want to go through the door, I just want to know if it's labeled 22."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmhm."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "If it's still labeled."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Ahhh…"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "It'll be the chapel, and if it's labeled, then—I just want to know."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, the door at the stairs going down is 20."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "All right."
+        },
+        {
+          "speaker": "Edric",
+          "text": "So we need to be making a little map that gives us the keys for each—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "That's what I'm doing. Sorry, what was—seven—from 17, down is 20."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Are there other doors over there?"
+        },
+        {
+          "speaker": "DM",
+          "text": "West is 16. East is 18. And up is 8."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "West is 16?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Mmhm."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Wait a minute."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Here we go."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "or something."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Meet in the other room."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "And, and sorry, East is."
+        },
+        {
+          "speaker": "DM",
+          "text": "18."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So we've seen 2 doors for 16, and so far haven't taken either of them."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro says, “We really got to go through 16 to see if it connects back to our entry room.” Sixteen was—if we had gone east from the entry room, we would have gotten into 16."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You've been presented with the option for 16 twice."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So let's go through 16 and see what happens."
+        },
+        {
+          "speaker": "DM",
+          "text": "Fabulous."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "All right, you go through 16."
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "title": "Mapping The House",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "Sixteen is a kitchen and dining room. It's the same size and shape, the sort of 30-by-30-by-30-foot space, though in this one everything is on the ground floor, with just a big empty ceiling space above. About—I don't know—a 15-by-20-foot stretch along the west wall, which does not have an exit, is devoted to big industrial kitchens: huge ovens, prep space, cabinets, racks of dishes, cleaning stones, knives and utensils, and at least a couple of things you recognize as the same magical iceboxes you saw in Hulda's house. Most of the rest of the room is given over to dining. There are two long tables, each with about two feet per place, so maybe—I don't know—ten or 12 chairs on a side, room enough for two dozen people to eat pretty easily. The exits from this room are back to the east, through the door you came through, and to the north, up, and down. East is 23. North is 13."
+        },
+        {
+          "speaker": "DM",
+          "text": "Up is 7, and down is 19."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Sorry, east is 23, north is…"
+        },
+        {
+          "speaker": "DM",
+          "text": "13."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "Up is 7, and down is 19."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "But there's no South or West."
+        },
+        {
+          "speaker": "DM",
+          "text": "No south, no west."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro is gonna go to the west wall. There are ovens and things on the west wall?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Mmhm."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I'm just gonna push them around, knock some stuff down in frustration, and then turn to the rest of the party and be like, “This place makes no sense.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Maybe."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "And then I'm gonna sit down on the floor."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "True."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Math guy, so what's going on with the numbers? Can you help us? Where's 26? Math guy?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“I'm working on it,” says Menestheus. “I am a little hungover. I think we don't have enough data. I can't—I don't see—”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What's your highest degree?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Hmm. I bet your world doesn't even have it anymore. Hmm."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Do the magical ice boxes have food in them?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah. There are pickles, some deviled eggs that look a little questionable, and a whole ham in one of them."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Nice."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "What is it?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "What does Txarro like to eat? Oh, I can make him."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I mean. Pickles improve Txarro's mood."
+        },
+        {
+          "speaker": "DM",
+          "text": "So that seems to be it though. Kitchens and dining rooms."
+        },
+        {
+          "speaker": "Edric",
+          "text": "It's true, it doesn't really make a lot of sense. The rooms seem to be randomly connected to each other, right? It doesn't seem like they form a coherent map."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Okay, I'll make that."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Correct."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Share your map image."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You have a map image?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "The map image."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "There are two thoughts. Thought one is that we haven't seen any numbers higher than 27 yet. Thought two is that we keep getting three or four options per room, so we don't have to go through that many rooms before we have seen all the numbers."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "One of them will maybe be 27, if that's the one we're interested in. We don't know if we're interested in 27. We just want to solve the mystery of what to do in room 27."
+        },
+        {
+          "speaker": "Edric",
+          "text": "There's nothing like a clear path."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "To do what we have to do in room 27."
+        },
+        {
+          "speaker": "DM",
+          "text": "Menestheus nods in agreement. “If we're gonna figure out what the pattern is, we need to go through a whole lot more rooms. I can track it for us as we go.”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Let's do."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yes."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "That sounds smart."
+        },
+        {
+          "speaker": "DM",
+          "text": "All right. Up, down, north, east: 13, 19, seven, 23."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Were they up with seven?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Lucky seven."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I like 7. That's a good number."
+        },
+        {
+          "speaker": "DM",
+          "text": "Lucky seven."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Well, seven."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro is just going to shake his head and say, whatever."
+        },
+        {
+          "speaker": "DM",
+          "text": "Seven. As you step into the room—the same size and shape you've come to expect—there are exits to the north, east, and down, which now leads to 18. On one side, it's a mortuary. There are six cold slabs, three of which have bodies on them. One is actively in the process of dissection, with its chest split open and spread apart, and a number of organs removed and placed to the side. Another body is covered in a light-gray fuzz, almost like peach fuzz or bread mold, that covers the whole body, which is stripped naked on the table. In the center of one wall, where there's not an exit, there is a massive incinerator oven that must be magical, because there's no heat source or ventilation you can see. On the other wall that doesn't have an exit, there is an ossuary, where bare bones have been stacked in neat and similar piles against the wall—"
+        },
+        {
+          "speaker": "DM",
+          "text": "—enough for dozens and dozens of bodies. They don't fill the complete wall, but there are a lot of bones there, almost like catacombs."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What's an ossuary?"
+        },
+        {
+          "speaker": "DM",
+          "text": "An ossuary is a burial place for bones. If you've ever seen pictures of the catacombs under Paris, where there are stacks and stacks of arranged bones—that's that wall."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Damn. What kind of bones?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Humans… Dwarves, halflings… Oh."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Who else?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Probably—it's a little difficult to tell. I don't think you immediately see any tailbones. Do lizardfolk have tails? In any case, you don't see any tails."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I, I think so, yeah."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, yeah. Yeah, definitely."
+        },
+        {
+          "speaker": "DM",
+          "text": "But yeah, cross section of mortals."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "The dissection—man, that's weird. Was that a human?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Does our poor guy recognize the fuzzy person or the half-dissected person, or—"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, he is super grossed out by it. He is not even coming over to look. “I don't do bodies. Nope, nope, nope, nope.” He just starts shaking his head. “Nope.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I mean, magic is magic. Maybe you can stop a dissection in the midst of it and have it not—there'd be a magical stasis, but—"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Well, does it smell bad?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "It doesn't."
+        },
+        {
+          "speaker": "DM",
+          "text": "The slabs are definitely cold, but it's difficult to tell how long the bodies have been there."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yeah, maybe it is some kind of magical stasis. I pick the pockets of the—just kidding."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Good job!"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Good."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Are there any items of clothing, or—"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, the three bodies are all naked."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yah."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Wait, where there's bodies in addition to, sorry, I disconnected for some reason."
+        },
+        {
+          "speaker": "DM",
+          "text": "Three bodies on slabs: one untouched, one fairly far along in the process—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, okay, the… These are the same, okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "And one covered in mold."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, I remember the mold one."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I was just commenting."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But…"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Edric",
+          "text": "These are all human. Sorry, I dropped when we were discussing the bones."
+        },
+        {
+          "speaker": "DM",
+          "text": "Three humans. Yeah."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But the bones all seem to mostly be human or humanoid. I mean, they're not like monster bones."
+        },
+        {
+          "speaker": "DM",
+          "text": "yeah, a cross-section of mortals, yeah."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "mortals, crucially."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wait, but is it like the body's decomposing or is it the body is moldy?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "The moldy one is strange, yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Well, that is a good and strange question, because this is not a body that's decomposing. It looks otherwise intact, but is covered in a very short—I mean, quarter-inch—layer of mold, like really fine hairs of white mold that seem to be growing out of its skin when you look closer."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Wait a minute, we're crossing over into Kazoo Punk. Crap. Didn't—there's a thing like that in that world."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I don't choose to stay in this room any longer. I'm not getting any information."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, maybe we should just move on. Like, this is kind of weird and creepy."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "What are the numbers of north and east?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Four is north and 20 is east."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Four was another one of our original numbers, and 20 was one of our original numbers. Right? Twenty was—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We've run into 20 before, but not from the original room. Four was from the original room."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But, hey, we ran into 4 before, too, right?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yep."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Four was up in the room, in our entry room."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Right. And I forget what the significance of 20 was. It wasn't a room we chose not to take; it was a room we were in."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "It was down from 17, which was the—"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Oh, so… 20 was down from 17 and 4 was up from the original room."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yes."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So both of those are second chance rooms that have been presented to us again."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Let's go to 20."
+        },
+        {
+          "speaker": "DM",
+          "text": "Fine."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So we go east."
+        },
+        {
+          "speaker": "DM",
+          "text": "Walking east, you find sleeping quarters. There are four exits from the room: east, west, north, and down. It's broken up into a number of smaller chambers with sliding doors, mostly with bunk beds inside them. It looks like a sort of—barracks is not quite right—but sleeping quarters, with room enough for all the people who would have been eating dinner a room or two ago."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "So every time we've…"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Every time we've come into a room, the way that we could have accessed it before is not available. So, for example, we're in room 20 now."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Mmhm."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "From room 17, we could have accessed room 20 by going down. But now that we're in room 20, there is no path up. Similarly, we could have accessed room four by going up from the entry. But when we—but we didn't go into four. Sorry, there was another one."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Sixteen. Your problem was, we intentionally—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Sixteen, right. Txarro got very frustrated in 16 because we should have been able to go west into the entry, but we could not."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh. Non-Euclidean shit happening."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yes. So, is there any—I mean, again, not having been looking at a map and paying more attention to the vibes than the numbers—is there anything other than randomness here? It kind of feels to me like we're just—each room—we haven't been back to a room, have we?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We have not. Txarro has attempted to backtrack us multiple times and failed."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But I mean."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Haven't."
+        },
+        {
+          "speaker": "Edric",
+          "text": "—stumbled across a room a second time, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "So, in fact, here you do have that option. North of you is 17. West is one, east is nine, and down is 15. Seventeen is the one you've been in before; that's the massive mechanical room."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Okay, let's go."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Wait, so east is… what is east?"
+        },
+        {
+          "speaker": "DM",
+          "text": "9."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "A 9, and down is…"
+        },
+        {
+          "speaker": "DM",
+          "text": "15."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Room one sounds interesting, too."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I want to go back."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We should go, we should go back to 17."
+        },
+        {
+          "speaker": "Edric",
+          "text": "And see if the exits are the same or different, right? Does the room stay the same, or does—we know that, going into a room, the doors are one-way, right? Going from room A to room B—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep."
+        },
+        {
+          "speaker": "Edric",
+          "text": "—the door in room B doesn't necessarily lead back to A. But we don't know if they're the same each time. Like, is the room different?"
+        },
+        {
+          "speaker": "DM",
+          "text": "So you go back through to 17. The room is—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Sorry, which one was 17, the…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Not a mess in here."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "It's the mechanical, yeah."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "With the top."
+        },
+        {
+          "speaker": "DM",
+          "text": "Journal from the child, and the window to listen to the—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "The room with the weird window."
+        },
+        {
+          "speaker": "DM",
+          "text": "Of course."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Okay, brilliant. It's the room with the journal and the window."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What's the room? What about."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "As we left it."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Seventeen. Is the writing still in the—is the writing from—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Wait, wait."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We modified room 17."
+        },
+        {
+          "speaker": "Edric",
+          "text": "We modified."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "The journal."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Tarek wrote in the journal."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I wrote the note."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Sorry, Tarek didn't write in the journal. I forget—what's your character's name?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito. Kaito."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Kaito wrote Tarek's name in the journal."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Then I scratched it out and wrote my—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Absolutely."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I'm good."
+        },
+        {
+          "speaker": "DM",
+          "text": "So."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, a little."
+        },
+        {
+          "speaker": "DM",
+          "text": "Everything is the same about the room, with one important and disorienting exception: the exits are north, south, east, and west, and the window is in the center of the floor."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "What?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Hey, guys, this is just like back at the party when everything went sideways."
+        },
+        {
+          "speaker": "Edric",
+          "text": "But…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Goodbye."
+        },
+        {
+          "speaker": "Edric",
+          "text": "The writing is the same, and the exits are the same."
+        },
+        {
+          "speaker": "DM",
+          "text": "The writing is the same. I mean, the writing you added is still there."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "No, the exits aren't the same. Where are the numbers on the exits?"
+        },
+        {
+          "speaker": "DM",
+          "text": "North is 8, east is 6, south is 4, west is 16."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So north is eight, south is four, east is six, west is 16. So 16—"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Kitchen."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "—is the kitchen, slash Txarro's nemesis. But the first time we came in this room, we had east, west, up, and down."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Right."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Not east-west, but 16 and eight. We could enter 16 from this room. We did enter 16 from this room, except we entered it by that door there."
+        },
+        {
+          "speaker": "Edric",
+          "text": "By there?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "And it's still west. It's just—why am I finding that confusing?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Sorry, what has actually changed?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "There is no longer stairs up and down."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Right."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Which used to be there. There are now exits to the north and south, which did not used to be there. The former exit to the east was 18; now it's six. The only thing that remains is that the exit to the west was 16 and is now 16."
+        },
+        {
+          "speaker": "Edric",
+          "text": "So, north and south changed. Up and down vanished."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "The window itself appeared. It did not used to appear."
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, just one of the numbers. There were four exits before, and there are four exits now, right?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Sixteen, 18, and 20 have become eight, four, six, and 16. But eight used to be up; now it's north."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Okay, but it's impossible to tell if that's random and we just got weird luck, or if there's some pattern."
+        },
+        {
+          "speaker": "DM",
+          "text": "Correct."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I'm completely convinced the exits are—oh, that's right. Heading north, or going down, takes you down, right? They're portals; they're not passageways. As far as I can see, they're not connected physically, right? There's no reason to think they are. Each room, as far as I can tell, is its own independent existence, and when you go through a door, it takes you to another room. And which room it takes you to is labeled, right?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Hello?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "That's my point."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yes, sir."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Let's go back to 16. Let's go back to the kitchen and see what happens."
+        },
+        {
+          "speaker": "DM",
+          "text": "You're back in the kitchen again. The kitchen has four exits: north, south, east, and down. East, the direction you just came from, is 13. North is 25, south is seven, and down is 23."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Are those all new numbers?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We've had 25 as an option before, sorry, and 23 as an option before."
+        },
+        {
+          "speaker": "DM",
+          "text": "You've been to 7 already, 7 was the mortuary."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Right, but compared to last time."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Sixteen—seven and 23 repeat. Oh, everything repeats except for 25. We used to have 13, 23, seven, and 19. Now we have—13, 25, seven, and 23. So 19 has been replaced by 25. Everything else is the same."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Have we been in any of these rooms before?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We still don't have a way west from 16, which—but again, probably the actual directions don't matter. We have not been in any of these rooms. Twenty-three and 25 were accessible from the chapel."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "23 was also accessible. Okay, let's go to 25."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Just because it's the highest number—that's the method to the madness?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Twenty-five has exits east, south, and down, to two, 18, and 22. It's meeting rooms, and it actually seems incredibly dull. There are big, long meeting tables, sideboards, writing supplies, a bookcase with no books in it, and a chalkboard on one wall. Other than that, it's just meeting space."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Do we want to see if 22 is still the chapel?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Down to 22. It's still the chapel, still the creepy niche, with four exits: up, down, south, and east. Seven, 19, 11, 15."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "7, 19, 11, 15."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Well, we've been given the choice of 15 before and never gone. We've been given the choice of 19 before and never gone, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep, and seven was the mortuary."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I'm sure I don't want to go there. Nineteen, anyone?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Fair."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The more rooms we go in, either we'll find 27, or we'll eventually have seen every number except 27, right? Or we'll fight a monster."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, Txarro is pretty much at the stage where it doesn't really matter. Let's just pick a random one each time. They're gonna change every time we go."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yep."
+        },
+        {
+          "speaker": "DM",
+          "text": "Menestheus agrees with you. “I can't find the pattern,” he says."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Let's go into 19."
+        },
+        {
+          "speaker": "DM",
+          "text": "Nineteen is a solarium. You walk down the stairs into the room, and there are three exits: east, south, and up. As you come down that spiral staircase, the ceiling is made to look like glass with bright, shining sun coming through it, although surely it must not actually be. The room is filled with big palms and trees. It's warm, it's humid, and there are little walkways going through it. There are flowers, some blooming and some just growing, and little benches to sit on. It's like a little park of a room. It's the same size and shape as the others. There's nothing especially remarkable about it, except that it's lovely and well-kept. Your exits are 12, 24, and ten."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I was just going to take a minute to stroll through the gardens. You said there are flowers?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Mmhm."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "He'll dangle his hand through some of the flowers. He's not gonna pick anything, just—are these well-tended? Like, they're—"
+        },
+        {
+          "speaker": "DM",
+          "text": "It's lovely. I mean, it's run wild a little bit, but it's lovely. You see a couple of bees flying around, and there are ants climbing over the flowers and in the dirt. Out of the corner of your eye, you catch what you think is a mouse popping out from a little mouse hole and going back in again."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Is it incongruous that this is inside? Is it like a green—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, it's like a solarium. Normally, this would be a big glass greenhouse."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Okay. Is it like a glass roof? Can we see outside?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Nope."
+        },
+        {
+          "speaker": "Edric",
+          "text": "It's just darkness."
+        },
+        {
+          "speaker": "DM",
+          "text": "Presumably artificial light source, yeah."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Dig down a little bit into the dirt. How far down does it go?"
+        },
+        {
+          "speaker": "DM",
+          "text": "At the level of the floor. These are slightly raised beds, so at the level of the—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "—the stone floor."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Well, after a couple of minutes regaining his equilibrium slightly in the gardens, Txarro will stand up and say, “Twenty-four.”"
+        },
+        {
+          "speaker": "DM",
+          "text": "Twenty-four. Beautiful. Twenty-four is a bathhouse, with hot and cold tubs, showers, saunas, and room for changing. Just a comfortable, quiet bathhouse. It's humid. There are pools of a couple of different temperatures, and a cold pool, too."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "Exits are north, south, up, and east: 27, 12, 17, and five."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Did you say 27?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Edric",
+          "text": "at 27."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh yeah."
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, you said 27."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "He did."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Did you mean to say 27?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I did. Let's go to 27. This is gonna be disappointing. It's a big storeroom. There are stacks of split wood and lumber, bags of soil, mechanical implements, wheelbarrows—in an unremarkable way that gives you the impression that the 27th room may not actually be the one labeled 27, unfortunately. It's just a big storeroom with a bunch of junk. And your exits are—east, south—no, no. Where are we? Twenty-seven. Your exits are east, south, and up. They are 22, ten, and six."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Does somebody have a map that shows the numbers we've traversed? Because it's hard to draw."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "It's hard to draw the map, but we can list which rooms we've been to."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "At this point, it seems like we just want to go to as many different numbers as possible. We were going to the same numbers to see if we understood what was happening."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I mean."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Now we want to go to as many different numbers as possible."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We have to go to 27 different rooms."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You mentioned one would be interesting, but like, you know, we haven't."
+        },
+        {
+          "speaker": "Edric",
+          "text": "So we need to find—yeah, we need to go to different rooms. Yes. I mean, I'd still like to circle back to one room one last time to see if there—it was confusing to me that we had two and two, and then three and one. Like, there's some pattern to the exits."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "What were the exits from this from 27? Just the numbers?"
+        },
+        {
+          "speaker": "DM",
+          "text": "East, south, and up."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "But what were the numbers?"
+        },
+        {
+          "speaker": "DM",
+          "text": "22, 6, and 10."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We haven't been to any of those. Oh, no, wait! Twenty-two is a chapel. We haven't been to six or ten."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We haven't been to 6 or 10."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So, I just want to say philosophically that, if we're trying to do what Lord Endless Ending wants, we want to go to all the rooms and get to the 27th room. But to see what fate awaits you if you come to this house, it could just be: wander around until you also find the 27th room, or just until something happens that is triggered by our movement."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I mean, yeah."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Right? Or maybe not."
+        },
+        {
+          "speaker": "Edric",
+          "text": "All right."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "If you're feeling obstinate, it could be: pick a room that you find kind of pleasant, like the solarium or the chapel, and just sit there and wait. They'll have to come to you if they want something—if they want the plot to progress. So, I'm just feeling ornery, and I wanted to mention the sit-your-butt-down-and-stop-running-around option."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We could sit around and tell stories, share food, wait him out."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Wait, who out, though?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I don't know. Whoever wanted us to come to this building."
+        },
+        {
+          "speaker": "Edric",
+          "text": "That's true. Somebody did want us to come here, didn't they?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yes, very much."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I'm quite happy to take a—I mean, maybe not in the storeroom. But, of course, who knows if we can ever get back to the garden."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Right."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We can get back to the chapel. I like the chapel."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, let's go to the…"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Oh, the chapel. Yes, 22 is the chapel. Let's go back to the chapel. Txarro is totally happy to take a rest, see what happens if we just wait for eight hours."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, I'm all for it."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes. So you go back to the chapel. The chapel has four exits: east, west, south, and up, to 25, 12, 15, and 11. Menestheus takes out a pen and paper and starts working through various numbers and equations while you take a rest."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "It's uneventful. Although, I will say, the more time goes on, the more you're aware of the presence of that broken niche, that empty spot."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmhm."
+        },
+        {
+          "speaker": "DM",
+          "text": "When you were just here in passing, it was more contained. But that sense of discomfort fills more of the space the longer you stay: a sense of—I don't know—a hollowness, or a pointlessness, or a draining, or a despair, something like that. So take a long rest. Feel free to long rest if you need to."
+        }
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "title": "Dreams and Possibility",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "At the end of it, Menestheus says, “I think that every time we go through the doors, the rooms behind us are moving. If we went back and forth between two doors over and over, the same room options would eventually come around again. But because we keep going through different doors each time, they keep showing up differently. I think there's a pattern that just looks random because we keep making different choices. I don't know if it's exactly mappable, but I think I could maybe guide us?”"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Where, though?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“Well, that's the question. I don't know. We've been through one, two, three, four, five, six, seven, eight, nine—”"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "We've been to 11 rooms."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Seven of the rooms. I mean, maybe we just need to get to the ones that we haven't. I don't know.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So we can either hop around randomly and eventually hit the other ten—or, sorry, eventually hit the other 26—or we can—I don't know why I just—never mind. I'm not the mathematician. Or you think you could force us to find more new room choices more efficiently?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I think so."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "“I think that, even though the room numbers are changing, the room configuration is static. Well, let's try it. We'll go through a couple more and see if we can figure it out. We're in 22 now. We haven't been to 15, so our options are 11, 15, 25, and 21. We've been to 25, so 11—no, excuse me, 12. Twelve, 15. Pick a card.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "12 or 15."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Sure, he just kind of shakes his head."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "I thought..."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Let's go to 15."
+        },
+        {
+          "speaker": "DM",
+          "text": "Fifteen it is. Fifteen is a massive mechanical room. You've been in one very similar to this before, even though the exact layouts of the pipes and machinery are different. It's almost just the same. There are exits up, down, east, and west, and on the south wall there is another one of these windows. It's different from the others. You remember enough about the runes to know it's not exactly the same view, but it's this two-foot-by-two-foot window that looks into a wooden wall, with a chair and a written notebook next to it."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Different notebook."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Different notebook."
+        },
+        {
+          "speaker": "DM",
+          "text": "Different notebook."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Read the end. Does it have more entries than the last one, or about the same?"
+        },
+        {
+          "speaker": "DM",
+          "text": "About the same. The dates more or less correspond. You don't quite see a pattern, but they span a period of years and are written by different people, including some of the ones from the other books, so they must be rotating through shifts and locations. This book gets a title: “The Dreamer.” The first entry goes like this. It sounds like the same sort of voice, all still in the present tense: “I arrived in this place and put down roots. A neighbor comes to visit, and we talk. He thinks my home is beautiful, and that I am beautiful, and has many kind things to say. He tells me about mortals. He tells me they're dreamers. That a mortal is a dream which has forgotten that it is dreaming. A dream which believes it is awake, and that's called a soul. I am watching the souls of the mortals who come near. They change, and change, and change, and I cannot see the shape of them.” There's an entry a little later—"
+        },
+        {
+          "speaker": "DM",
+          "text": "“They dream with words that have before and after, but they cannot see the after. Or they pretend they cannot see the after. I do not know.” Later on: “They dream that they are choosing. And I do not ever see their choosing before it happens. This is strange. They are the most beautiful thing I have ever seen. They're collections of wanting, and I learned to read the wanting like letters in their books. They're hungry, too, like me. They come and share their dream with me, and are my children, and I love every one of them.” And another: “I see the shape of their dreaming. Everyone is different, but I see the pattern.”"
+        },
+        {
+          "speaker": "DM",
+          "text": "“I read them like I learned to read letters. I read their wantings. Some of them are afraid all the time. Some of them are hungry like me. Some of them want more and more and more.” And then another entry: “I see you making the letters on paper. You are afraid that I see you. Do not be. You understand me. You know what it is to be trapped. I see the shape of possibility. You think that's impossible. I see the things that you are thirsty for and do not believe you can drink. I am making it possible. I am seeing your dreaming soul. I'm giving you a full glass. I'm talking to you now.”"
+        },
+        {
+          "speaker": "DM",
+          "text": "“You're opening the door to my house. I am sending you onward.” And that's the last of the entries."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I love all those short stories. It's so good. The shape of possibility was something from the previous session, or no?"
+        },
+        {
+          "speaker": "DM",
+          "text": "It was a book you found. It was one of the books that—"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "—that Menestheus had, right? Or no?"
+        },
+        {
+          "speaker": "DM",
+          "text": "When Menestheus hears you read that out loud, he is shook. Shook, shook, shook. He sits down in the chair, needing to take a seat. “That's weird as hell,” he says. He reaches into his bag, takes out the book, and puts it on the desk: The Shape of Possibility. You remember, from having read through it, that it's a combination of magic, math, and metaphysics, and the idea was that you could mathematically model every possible outcome—"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "Menestheus says, “The argument here is that, in every moment, there's a finite number of possible futures. You could map that. You could describe all of the possible futures, like the shape of all possibility, in a single sentence which tells the whole story.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "“If you could see the shape of possibility—which is, I mean, a ridiculous, lovely idea, but impossible to actually do—you would be able to see what the future looked like. You could map what was going to happen. Seeing the shape of possibility means seeing everything that has happened and everything that's going to happen. It's disturbing if whatever is dictating this can see it. Do you guys hear that?” he says."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "No."
+        },
+        {
+          "speaker": "Edric",
+          "text": "No?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You're sitting in the chair."
+        },
+        {
+          "speaker": "DM",
+          "text": "You lean closer."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Toward the wall?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You put your ear up  to the wall. It's hard to hear, but there's something there. There's something whispering through the wall. That must be what they're writing down."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, I know."
+        },
+        {
+          "speaker": "DM",
+          "text": "“I'm ready to leave. Right? We should leave? This is another—”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "You can do that."
+        },
+        {
+          "speaker": "DM",
+          "text": "“This is not it. This—oh boy. Oh boy,” he says, and backs away."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "What's the problem?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“I don't—the whisper said it hears me listening. I don't like that.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "Bye-bye."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "In the book, though."
+        },
+        {
+          "speaker": "DM",
+          "text": "Hmm. Yes. Yeah. Well… Yeah."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "That's the scholarly thing to do. Write it down."
+        },
+        {
+          "speaker": "DM",
+          "text": "He sighs and dutifully writes his name, asks you what the current date is, jots it down, and records the whisper: “I am hearing you listen to me.” That's not good, is it? Jeez."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "What's the date of the entry before this one?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, I mean, seven hundred-some years ago. Actually, he reads it aloud to you, and then stares at it for a long minute. He says, “That's the date I got here. I mean, that's the date we all went over to the party. The morning I woke up is the date that's here.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Oh. Does that mean they didn't come back again?” He shakes his head."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Perfect. We've been working under the hypothesis that they came back again, one at a time, as mortal inputs for whatever this house wants mortal inputs for."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yet they don't seem to have written any entries in these journals."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Something went wrong, right? They were recording regularly. It was planned. They were working shifts. They were noting it down. And then, whatever happened to them, that stops.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, that's true."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "But how much time are we talking about? How many years has this been? There are, like, 30 entries, right? Or some relatively small number of entries?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah. Couple—what? Nine months to a year, maybe?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So people are eating in kitchens, taking baths, sleeping in dormitories, writing notes, spending some time in the solarium. And then, the morning that you all went to the party, y'all went to the party."
+        },
+        {
+          "speaker": "DM",
+          "text": "“That's right. They're living here, and then they leave and don't come back? They leave and come back in pieces? I mean, I don't know.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The day that you went to the party—we don't know, or we do know—was when… Well, have we discussed this openly with him? I don't know. I'm saying this out loud now. Your leader made a deal with Lord Endless Ending that requires a mortal to leave Lord Endless Ending's party and come to this house at an interval specified by a contraption your leader left behind. So, if the deal was made when your leader was there, when your whole academic sect was there—oh!—then you're feeding back into this over the course of 700 years, sort of changing the nature of what this place was doing."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "But it might have been intentional, designed by your leader to change from one thing to the other at the point where she initiated that deal."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Please, go on.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Like, it might not be that something went wrong."
+        },
+        {
+          "speaker": "DM",
+          "text": "“It might have been intentional. She was worried. I mean, she was worried all the time. I think I said this to you by the gates, but she was so convinced that the Empire was coming apart, so convinced we had so little time to do what we could. She was frenzied—frantic in a way that I wasn't used to that day. We move slowly, we move deliberately, we've done this for hundreds of years. But there was an urgency that day.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Maybe her private diary is in room one."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro will look around at everybody and say, “At this point I just want to get out of this. Sitting in one place didn't seem to do much.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, no."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Well, we…"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Following—the rooms don't seem to—well, we can't really tell. So maybe we really do have to go through another 20 or 16 rooms, or whatever, until we pass through them all."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I don't think it could hurt to just try and keep finding new rooms."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Oh. Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "New rooms available to you are—12 to the east. East is 12."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "12 was in the chapel too."
+        },
+        {
+          "speaker": "DM",
+          "text": "No."
+        },
+        {
+          "speaker": "Edric",
+          "text": "We didn't go to it."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Oh, right."
+        },
+        {
+          "speaker": "DM",
+          "text": "Eight is above you. 18 is to the west, and 22, which you've been to before, is down."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Can we go to 22 one more time and see how it's different?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Has it ever been different?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Wait, we've never been able to return to a room before."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, we returned to two rooms. No, but—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Only, not directly."
+        },
+        {
+          "speaker": "DM",
+          "text": "You didn't. You went 22, 15, 23."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Oh wait, we're in room 23 now?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Oh, I didn't write that down. Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "So you can go back to the chapel or to one of the new rooms."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "At this point, Txarro just wants to go to as many new rooms as quickly as we can."
+        }
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "title": "Kallipseis the Gardener",
+      "lines": [
+        {
+          "speaker": "Edric",
+          "text": "That's fine."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Because this is getting a bit spooky, in his opinion."
+        },
+        {
+          "speaker": "DM",
+          "text": "All right, East, west, or up."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Highest number."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Yeah, highest number, I guess."
+        },
+        {
+          "speaker": "DM",
+          "text": "Highest number is 18, to the west. All right. You step through into 18—and, funny enough, this is the 18th room you've stepped into."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The golden room."
+        },
+        {
+          "speaker": "DM",
+          "text": "In this room, huge, long rows of tables, almost like a greenhouse, run down the center, while storage cupboards and closets line one wall. On the tables are different sealed terraria, ranging in size from maybe a foot square to, at the largest, three by six feet—big enough, almost, for a person to be inside. They're completely contained in glass, and there are maybe two dozen of them. Near the door, just to your right, there's a small writing desk with a vase of fresh dandelions on it, looking like a study carrel with notes and a stack of books. On the other side of the room, there is a sort of contained room within a room, with big windows looking into it. It's like an isolation room. Looking through the windows of that smaller space, probably about ten by ten feet, you see a small, humanoid-shaped person at work. Outside that room, looking in through the window, tapping and pointing and speaking, is a very, very, very old dwarven woman."
+        },
+        {
+          "speaker": "DM",
+          "text": "She has not quite noticed you come into the room yet, though you're not trying to keep quiet; she is super intent on the task at hand. It's a sort of fungal greenhouse, and inside each terrarium are different varieties of fungi and spores at different stages of growth."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Go interact with the new dwarf."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "All y'all are like, “Help! Help! We're trapped!”"
+        },
+        {
+          "speaker": "DM",
+          "text": "She turns around, looks at you, and waves you over. As you walk over, you see a short pair of legs, with arms coming directly out of them, slowly carrying a large pot down one of the rows beside the table. You see a grapefruit-sized ball of flesh with two protruding eyes that move independently of each other. One watches a tank right in front of it, and one watches you as you go. It's a grapefruit-sized ball of fleshy-looking stuff with two eyes and a human mouth. The dwarven woman waves you over again. “Come on, come on. Yeah, yeah, I know it's strange. I know it doesn't make sense. Yeah, okay. I'm right in the middle of a delicate moment here, though.” She bangs on the glass. “Nope, nope,” she says to whatever's inside. “That one there, and then that one. Yeah, good. Yep, yep. And then just like the other side. Good, good.” She sighs and looks over at you."
+        },
+        {
+          "speaker": "DM",
+          "text": "She meets each of your stares appraisingly and then, seeing Menestheus, says, “Okay, okay, okay. Greetings. I'm Kallipseis. I'm a gardener, and a little bit in the middle of a project.” She gestures through the window to the isolation room, where a table is laid out and a slightly-larger-than-dwarf-sized body seems to be placed on it, while a similar creature—automaton? Flesh-suit?—is hard at work on some detailed part of one of its arms. “So you've been—you've made it in! Do you want something? What are you—what do you need?”"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro's gonna begin a long rant about how horrible this place is, then cut himself off abruptly, step back, look at the two bards, and just kind of stand awkwardly, hoping somebody who's better at talking will word. But Kong is clearly asleep, so I guess—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Tarek."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "There."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Tarek is also apparently asleep."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yes."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I'm a little bit—I'm—"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Excellent."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "He's like 40% asleep."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yes."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So Tarek can refrain from stealing any fleshy automatons at the moment."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I steal a fleshy automaton."
+        },
+        {
+          "speaker": "DM",
+          "text": "It is delicious."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Thanks."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Ayveen says, “How much longer do you expect your work to take? I would hate to interrupt.”"
+        },
+        {
+          "speaker": "DM",
+          "text": "“That's very kind of you. We probably have ten minutes till they need the next bit of direction. They've done arms before.” She gestures vaguely to the room. “He's got it there. They just mix up their left and right, which is bizarre. There must be something I'm doing wrong. Anyways, yeah, I have a few minutes. What do you need?”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We need to understand the purpose of this building."
+        },
+        {
+          "speaker": "DM",
+          "text": "“God. Yeah, yeah. You're not the first ones to ask me this question, or the first ones to come through. He didn't tell you he's a member of our order? Do you not know? Huh.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Do you feel that you're still fulfilling the original purpose of your order, with—"
+        },
+        {
+          "speaker": "DM",
+          "text": "“With the death of Thalestria, I became the head of the order, of course. Yep. The work continues. Work continues. This place, to answer your question—this place is a prison.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Prison for whom?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“Well, this is one of the things Thalestria did not tell me before she decided to get herself killed, or disappeared, or whatever. But there's a locked room at the center of this. A locked room that is—elsewhere.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh."
+        },
+        {
+          "speaker": "DM",
+          "text": "“The rooms around it all move, and as the rooms around it move, it moves the locked room in space. There are so many other people who could explain this better than me. Imagine—have you been through the orrery yet? The orrery with models of the different spheres, and models of this place, and the—”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh my goodness."
+        },
+        {
+          "speaker": "DM",
+          "text": "“So, no.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Look forward to it."
+        },
+        {
+          "speaker": "DM",
+          "text": "Well, the… There's a locked room in the center."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Mmh."
+        },
+        {
+          "speaker": "DM",
+          "text": "“And around it spins one wheel, which moves it in space east and west. Around it spins another wheel, which moves it in space north and south. Around it spins another wheel, which moves it in time—which, for some reason, is treated as a spatial dimension. That does not make sense to me, but nonetheless it's treated that way. As the wheels spin around the central room, they keep it constantly moving. Apparently, there's something in there that, if it stays in one place too long, can grow out through the wall. So you have to keep it moving, so that it can't grow out.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh my goodness."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So, having imprisoned one thing somehow fulfills your order's mandate to stop up all gaps everywhere, all the time, as they arise?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, young lady. No, obviously not."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Well then, how does this one house fulfill your mission? Are you interacting with other activities? Are you doing other activities?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“The trouble is this: at some point along the way, one of the other rooms—or maybe several of the other rooms, or possibly all of the other rooms—got infected. Which is why I don't leave this one, because I believe that the things that keep me safe from the spores in this room keep me safe from whatever the infection is that's reached the other rooms.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, dear."
+        },
+        {
+          "speaker": "DM",
+          "text": "Would I?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Thank you."
+        },
+        {
+          "speaker": "DM",
+          "text": "“I don't know, but hopefully, if you spend enough time breathing the air here, it should clear it out of your system. You'll be fine. Or you'll die. This is the sort of thing that only time can tell. In order to get out of here and rebuild the order—which is vitally needed—I need a way to get out without dying. Which is why I've been making these.” She gestures to the humanoid figures, as if it's perfectly obvious."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Whoa, wait—what are those?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“Well, they're the golems. As far as I know, no one has ever made fungal golems before. This is a landmark in itself.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmhm."
+        },
+        {
+          "speaker": "DM",
+          "text": "“This is the thing: I need a body that can take me out of here safely and still live on the other side of it. Even if I make it out of here, I don't know how old I am at this point. I won't survive it. I won't have the strength to rebuild. So I'm making this in order to put myself inside it.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Curious."
+        },
+        {
+          "speaker": "DM",
+          "text": "To get safely out."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "“If you have other ideas, I'm open to them, but this is the simplest one I could come up with. It's been slow. It's been slow work.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "We're looking, incidentally, for a key."
+        },
+        {
+          "speaker": "Edric",
+          "text": "It's in the center."
+        },
+        {
+          "speaker": "DM",
+          "text": "“The key to the locked room. Huh! I will tell you, I have not been out of this room in a long, long, long time.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "“I didn't always work in fungus. I used to be, like, a gardener. I used to work with plants.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The solarium still looks lovely."
+        },
+        {
+          "speaker": "DM",
+          "text": "“That's good to hear. They must not have gotten there. The greenhouses were destroyed, utterly. I barely made it. But then I made these helpers to keep me safe in this room. And when the guests cause trouble, well, they can still be useful afterwards.” She gestures with her head toward the big glass boxes with the growing fungus on the central table."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So you're not using the incinerator in the morgue these days?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“No, I don't think it's safe to get out there and back again. Besides, I get the most interesting cultures off of them. In fact, I think part of what's making my golems possible is that I'm using their spores—at least in part. It's a hybrid, always a hybrid. But they're helpful. Better to put them to work. Saving the order? All progress involves sacrifice. Don't be naive about that,” she says, gesturing back to the lumps in those tanks that clearly seem to be body parts."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Someone else was, at some point, working in the morgue—perhaps trying to figure out whatever illness or infection you've also observed. There was a—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh."
+        },
+        {
+          "speaker": "Edric",
+          "text": "It was a body with something growing out of it."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Oh! Describe it, describe it, describe it, describe it.” She gets a big grin on her face. “I love these. Was it red? No, no, no, no—don't tell me, don't tell me. Was it sprouting really tall, with a ball at the end?”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "No."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Was it—oh, was it the white fibers?”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "A thin mat of white fiber."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Yeah! Oh, those are nice. Those are delightful. They are really, really good.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "How are they good? What is, maybe, one good thing about them?"
+        },
+        {
+          "speaker": "DM",
+          "text": "She gestures toward the golem in progress, the body lying on the table. “Because they colonize flesh, and they form a symbiotic relationship with it. Keeping it alive. Sort of. Well, not allowing it to die. It's incredibly beautiful. You get—” She gestures again toward the body on the table, a stout humanoid, maybe five feet tall, with pale-white skin that's well-muscled but also a little padded. “You get this incredibly resilient flesh out of it. The trouble is, if it's colonizing you, then it's running the show. The trick, like I'm doing here, is for me to colonize it. So I've cultured pieces of myself to take it over, and soon it will be my own flesh.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Let me see."
+        },
+        {
+          "speaker": "DM",
+          "text": "“You haven't run into any of those guests, then. Oh. It must be that the morgue tables slow the transformation, maybe.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Otherwise, it takes over. The hairy fibers are just the first stage. They get incorporated into the flesh after that.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Do they become particularly troublesome after that stage?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“They become single-minded about getting out of here. About getting away. They rant about needing to go as far as they can. They talk on about doing—so, yes, you talk about this parent. It's all sort of nonsensical and shouty, and then they start hitting. And that's difficult. Then they grab you, and they have mouths in their chest that try to eat you.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "That sounds…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes."
+        },
+        {
+          "speaker": "Edric",
+          "text": "something."
+        },
+        {
+          "speaker": "DM",
+          "text": "“The first one was not good. But, I mean, like I say, if I didn't have them, I couldn't be making this, so it's all about progress.”"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Did she ever tell us what her name was?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Kallipseis."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Do you know where Thalestria is?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“Thalestria. Thalestria,” she says, muttering Dwarvish curses under her breath. “One day, Thalestria decides that she needs to take everyone who is stationed here and leave, and go off on some wild hunt.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Where are you stationed exactly?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“Well, this is the house we call the 27th Room. The entrance is in the Feywild, I assume that's how—I can't imagine how else you would have gotten here. Yeah, we built the house around the prison a long time ago.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Prism?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "prison."
+        },
+        {
+          "speaker": "DM",
+          "text": "Prison."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh, the prison. Sorry."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, the 27th room."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So, the 27th room is the prison?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So the whole house is also called the 27th Room?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The 27th room is the prison, and you call the whole house the 27th Room as well."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Yeah, it's poetic, someone told me. I never quite understood.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "And your memory is that Thalestria left with everybody, but you stayed behind."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Thalestria left in a hurry and a huff. Thalestria said that it was my fault the order was being disbanded, a thing which is ridiculous, even if it is true.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Wait, it's true?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“Thalestria believed that our mission as an order was so important that she would go along with whatever the Emperor and the Empire demanded, no matter how absurd or disgusting it was. Obviously, she's wrong about that. Sometimes taking a public stand matters more. Sometimes the only way to prevent someone from seizing ultimate power is to stand up and say, ‘This isn't right, and this isn't okay,’ and then quickly flee to one of your hidden bases. She didn't seem to like it.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So you were outspoken in Drankorian politics, and then you fled here, and she got a sternly worded letter that she should shut down."
+        },
+        {
+          "speaker": "DM",
+          "text": "“I think that's uncharitable toward me. But, yeah, in so many words.” Her shoulders slump. “But the order continues. Look, here are two of us right now. The head of the order is here; another member is here. Soon enough, I'll be able to leave, go back out, and rebuild. We will be fine, we will be fine. I'll find the rest of them. Thalestria's probably out there somewhere, hiding.”"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So, wait—how do we get out?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“Well, I'll tell you this: I only have one of these bodies, and it is for me. I'm going to say, don't get infected. Here's the thing: I don't know that every room has been infected, so it's possible that you're not.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So we can sit here forever, until we die, or we can go out and possibly get infected and die of that instead of old age in here."
+        },
+        {
+          "speaker": "DM",
+          "text": "“You see, my theory—and I was working on this in the animal laboratory until I had to leave that also—is that it takes a puncture to be infected. So, if you haven't been punctured, you're probably—”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Oh, no, they're not respiratory."
+        },
+        {
+          "speaker": "DM",
+          "text": "I couldn't get the animals infected just by airborne exposure."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So is there a way out? I'm not so much worried about your weird body creatures, just an exit from this terrible maze that maybe takes us back to the Material Plane."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "For example, when Thalestria chose to leave with a bunch of people from the order, they were able to get out."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "How did she—yes, how did she do it?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“I didn't want to say it. The real answer is, I don't know. The other answer is: I think some of the people who are feeding my mushrooms were, at one time, members of the order, if you really make me think on it hard. But they'd gone mad. They were crazed. They were trying to destroy things. It's not like I had another choice. So at least maybe some of them came back.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Oh, I think they came back. I totally support your theory. I'm quite certain that's what happened. But the point being, if someone were to want to leave again, you don't know how to leave."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Well, listen. The other thing I know is something one of the listeners told me once—in fact, something several of the listeners told me, which is why they had to keep rotating different listeners through. They said that inside the 27th room, there's another door that leaves this place, and that if they could just get to it, they could get out also.”"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I hate it."
+        },
+        {
+          "speaker": "DM",
+          "text": "“They said crazy things. They said they were promised whatever their heart desired. They said they had conversations with the prisoner. They said the prisoner knew who they were. They said the prisoner told them they were already inside the room. I mean, I don't know how much stock to put in any of it.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The listeners who wrote notes in the notebooks we've found did not seem to describe or editorialize that they were listening to a prisoner. It was much more vague. Were there different types of listening happening here, or were all notes of listening notes of listening to the prisoner?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“Look, it wasn't my department. But I don't think they were told. I think that, whatever's in there, the fewer people who know about it, the better. Secrecy is security. I think they were told to listen without being told what they were listening to or understanding it. Maybe they came to draw their own conclusions over time.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So, since we have two members of the order here, I'm just gonna clarify with both. Menestheus and Thalestria—mispronunciations, please excuse."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yep."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So…"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Kalepsis."
+        },
+        {
+          "speaker": "DM",
+          "text": "This is Tim's fault for naming several Drankorians with Greek-sounding names."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Okay. Am I understanding that the order of business, and the order you signed up for, was to exist in this 27th Room building, which none of you could voluntarily leave, except on that one day when Thalestria went crazy and brought most of the people in the order out the door—but you stayed behind?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“Yeah, the head of the order has the—what? Ability? Blessing? Anointing? Power?—to open the door from the inside. Really, it was for the safety of the other members. Do you want him wandering around the Feywild? No. He'd be dead in an afternoon. He'd be stuck at some party for a hundred years. Nothing would go well for him.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh, him."
+        },
+        {
+          "speaker": "DM",
+          "text": "Just trying to finish the joke."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yes."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I mean, yes."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Been stuck at a party for 700 years."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "He was stuck at a party for 700 years."
+        },
+        {
+          "speaker": "DM",
+          "text": "She looks at you blankly. “Sorry?”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yes, you've—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Bet."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You're in the Feywild for 700 years."
+        },
+        {
+          "speaker": "Edric",
+          "text": "The Drankorian Empire fell, like, a long time ago."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Oh. Oh. Yep. You didn't pick up one of the clocks? Do you have one of the clocks?”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "We didn't pick it up. We've seen the clock."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "It was very big, bigger than you."
+        },
+        {
+          "speaker": "DM",
+          "text": "“No, the desk clocks—I mean, the mantel clocks. Not the grandfather clocks.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "No."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Mantel clocks in here? No. Hmm. I had one—well, I had one in the greenhouse and in the animal lab, and I didn't think to bring either of them. Well, in the absence of having any way to verify what you're saying, I have to think it's not true. It's just an absurdity.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "What would be a way to verify it?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You bring her a mantle clock."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Well, I'll finish the body, put myself into it, and we'll walk right out. Yeah, or bring a clock. But I can't get to the other rooms to get a clock until I finish the body.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Well, we're just gonna go out, not get punctured, not get infected, and continue our explorations."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Yes. Fair.” She lapses into distant thought again. “Well, let me tell you what I can about the infection.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Seems helpful."
+        },
+        {
+          "speaker": "DM",
+          "text": "“First, do watch out for the mouths! It has too many mouths. It has a half-dozen mouths. It reaches out, and it pulls you in, and then it starts trying to—I don't know what—chew you open. They're afraid of fire. They know to be afraid of fire, which is a strange knowing. They'll talk, but don't listen too long. The things they say seem to be nonsense anyways. And then, of course, the principal fruiting body is in the head. In fact, if you look over there”—she gestures to one of the containers, the big glass tanks on the central table—“you can see it. It's beautiful, actually. They crack their way out through the joins in the skull, from where the different skull bones fuse together.” As she describes it, you can see what remains of a head, broken open, with enormous fungi that have pushed their way out of it."
+        },
+        {
+          "speaker": "DM",
+          "text": "“This is the stuff you really have to watch out for, because this stuff gets airborne. The body fungus doesn't have the fruit in it. But the head does.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "All right, don't get splattered with head."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, don't put any head inside of you."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Sounds like good advice."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Eighteen. Eighteen. And I'll meet you out there.”"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Wait, when you leave, how exactly are you planning to go?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Hi!"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "What doors are you gonna go through?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I'm going out the front door."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "When do you get to the front door?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“Ha ha ha ha! Aha, aha, aha. He didn't figure it out,” she says, pointing to Menestheus. “Yeah, yeah. Some mathematician you are. Go to one of the four-exit rooms. Step out, step back in, step out, step back in, step out, step back in, and eventually you'll come to the entry room. It rotates. Think of the rooms—"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "“—like slices of a cake, like a three-layer cake. When you step out and step back in, it rotates the slice. Eventually it comes back around again to the entry door where you started. In fact, that's true for any of the rooms.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Comes back around again."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Yeah, exactly. Thalestria told me once that, when they built this place, they put in the workshops, the lab, and the libraries first. Then the kitchens and the space to stay. Eventually, they got around to putting in all the—did you guys go through the baths? Is that not the most ridiculous thing? That is absurd. But I suppose, if people are going to be posted here a while, they want their comforts. She told me once how ridiculous it was that we built those inside of a machine—a machine to keep the prisoner trapped.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "I—"
+        },
+        {
+          "speaker": "DM",
+          "text": "We built a house inside it."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Who's the prisoner, anyway? Have you told us?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“The prisoner? I don't—no. Thalestria didn't tell me. One of the listeners told me it was a child. That we were keeping a child prisoner. And that we weren't letting it grow up, and we weren't letting it die.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "But Thalestria never told me."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Seems to have legs that turn into houses."
+        },
+        {
+          "speaker": "DM",
+          "text": "Legs that turn into houses?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "It told the listeners that."
+        },
+        {
+          "speaker": "DM",
+          "text": "“It's bizarre. Come, come look at this.” She takes you over to one of the tanks. There's almost a miniature city that's grown out of twiggy roots, maybe six or a dozen houses—like something that had houses described to it and was trying to grow into that shape, in the way medieval drawings of tigers look really weird."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Mmhm."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "But, you know—wonderful. Yes. I suppose that's just what it is."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Well, my body will be done soon. I'd be glad to let you back out the front door again. I just can't go that way until it's done.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You want to stick to your plan. I understand."
+        },
+        {
+          "speaker": "DM",
+          "text": "“Or, unless—hang on. There's the opening of the door that I can do under my own power, or there's the key. There's a glass key that unlocks all of the locked doors in this house, and you can use it to unlock the front door. I thought Thalestria had it on her, though. But if you happen to run across it in here somewhere, it'll let you back out the front door.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Good to know. Looks like a standard-size key, fits in a standard-size lock? It's not disguised as a fungus, or hole in the wall, or anything?"
+        },
+        {
+          "speaker": "DM",
+          "text": "“No, no. It's just made of glass, though.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Mmm."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Well, I will be grateful that I haven't seen any crushed piles of powdered glass around."
+        },
+        {
+          "speaker": "DM",
+          "text": "Alright, so…"
+        }
+      ]
+    }
+  ]
+}

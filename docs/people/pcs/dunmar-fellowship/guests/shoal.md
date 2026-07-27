@@ -27,7 +27,7 @@ hide_toc: true
     Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
-    Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), the ~Eastern Islands~, the [Green Sea](<../../../../gazetteer/green-sea.md>)
+    Based in [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), the ~Eastern Islands~
 </div>
 
 

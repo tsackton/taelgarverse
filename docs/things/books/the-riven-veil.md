@@ -12,6 +12,6 @@ author: Marcion of Iridel
 title: The Riven Veil
 ---
 # The Riven Veil
-:octicons-info-24:{ .lg .middle } **A [Drankorian](<../../history/historical-realms/drankorian-empire.md>) theological treatise, written during the [Drankorian Era](<../../history/history-of-the-drankorian-empire.md>), by Marcion of Iridel**  
+:octicons-info-24:{ .lg .middle } **A [Drankorian](<../../history/historical-realms/drankorian-empire.md>) theological treatise, written during the [Drankorian Era](<../../history/history-of-the-drankorian-empire.md>), by [Marcion of Iridel](<../../people/historical-figures/marcion-of-iridel.md>)**  
 
-*The Riven Veil* is an ancient Drankorian text by the theological cosmologist Marcion of Iridel. Marcion claims that the [Abyss](<../../cosmology/spiritual-realms/abyss.md>) arose from the worst impulses of humanity, drawing on Chironides the Wanderer's argument that human preaching of hellfire and damnation helped shape the Abyss out of Soulstuff.
+*The Riven Veil* is an ancient Drankorian text by the theological cosmologist [Marcion of Iridel](<../../people/historical-figures/marcion-of-iridel.md>). Marcion claims that the [Abyss](<../../cosmology/spiritual-realms/abyss.md>) arose from the worst impulses of humanity, drawing on [Chironides the Wanderer](<../../people/historical-figures/chironides-the-wanderer.md>)'s argument that human preaching of hellfire and damnation helped shape the Abyss out of Soulstuff.

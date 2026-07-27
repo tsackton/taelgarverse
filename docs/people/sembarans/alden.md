@@ -22,4 +22,6 @@ hide_toc: true
 </div>
 
 
-Alden is a human servant and guide in Lord Holda's employ at [Dandelion House](<../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>). He is short, round, pale, quiet, and stronger than he looks. Although attentive and usually smiling, he rarely volunteers much conversation. He has a pronounced fear of fire, keeping his distance from campfires and open flame. He has a deep, almost rapturous, affection for Dandelion House and its dandelion imagery.
+Alden is a human servant and guide in [Lord Hulda](<lord-hulda.md>)'s employ at [Dandelion House](<../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>). He is short, round, pale, quiet, and stronger than he looks. Although attentive and usually smiling, he rarely volunteers much conversation. He has a pronounced fear of fire, keeping his distance from campfires and open flame. He has a deep, almost rapturous, affection for Dandelion House and its dandelion imagery.
+
+He is possibly a fungal person consumed or created by the [Prisoner in the 27th Room](<../other-nonhumans/prisoner-in-the-27th-room.md>).

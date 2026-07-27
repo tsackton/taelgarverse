@@ -44,7 +44,7 @@ Consider whether you might have taken on a different name when you realized your
 The species traits you use are determined by the nature of the plane that touches your soul: 
 
 - If you are touched by one of the [Divine Realms](<../../cosmology/spiritual-realms/divine-realms.md>), use the [Aasimar](https://www.dndbeyond.com/species/1751434-aasimar) species traits. 
-- If you are touched by one of the Spiritual Realms, but not divine, use the Plane-Touched traits below. This could be a fiendish plane like the [Abyss](<../../cosmology/spiritual-realms/abyss.md>) or the Nine Hells, or it could be something like [Arborea](<../../cosmology/spiritual-realms/arborea.md>) or [Limbo](<../../cosmology/spiritual-realms/limbo.md>). 
+- If you are touched by one of the Spiritual Realms, but not divine, use the Plane-Touched traits below. This could be a fiendish plane like the [Abyss](<../../cosmology/spiritual-realms/abyss.md>) or the [Nine Hells](<../../cosmology/spiritual-realms/nine-hells.md>), or it could be something like [Arborea](<../../cosmology/spiritual-realms/arborea.md>) or [Limbo](<../../cosmology/spiritual-realms/limbo.md>). 
 - If you are touched by an elemental plane, such as the [Plane of Fire](<../../cosmology/energy-realms/elemental-plane-of-fire.md>) or the [Elemental Plane of Air](<../../cosmology/energy-realms/elemental-plane-of-air.md>), use the Elemental-Touched traits below. 
 - You also have the option of using the [Human](<playing-a-human.md>) species traits, and reflecting your plane touched nature in your class, e.g. as a sorcerer or warlock with an origin appropriate to your plane-touched nature. 
 

@@ -23,7 +23,7 @@ hide_toc: true
     Born DR 1688 (62 years old)  
     { .bio }
 
-    Based in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based in [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 

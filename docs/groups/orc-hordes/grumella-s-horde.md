@@ -17,4 +17,4 @@ title: Grumella's Horde
 </div>
 
 
-An orc horde that was gathered under the leadership of [Grumella the Vengeful](<../../people/orcs/grumella.md>) in DR 1747. This horde attacked [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in October of DR 1747, and was defeated at the [Battle of Voltara](<../../events/1700s/1747/10/battle-of-voltara.md>). The survivors of the battle fled, disorganized, into the [Erbalta Plains](<../../gazetteer/northwest-coast/erbalta-plains/erbalta-plains.md>) and the horde as an army ceased to exist. 
+An orc horde that was gathered under the leadership of [Grumella the Vengeful](<../../people/orcs/grumella.md>) in DR 1747. This horde attacked [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) in October of DR 1747, and was defeated at the [Battle of Voltara](<../../events/1700s/1747/battle-of-voltara.md>). The survivors of the battle fled, disorganized, into the [Erbalta Plains](<../../gazetteer/northwest-coast/erbalta-plains/erbalta-plains.md>) and the horde as an army ceased to exist. 

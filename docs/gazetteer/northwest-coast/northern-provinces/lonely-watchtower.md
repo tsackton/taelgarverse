@@ -16,5 +16,5 @@ title: Lonely Watchtower
 </div>
 
 
-An isolated tower north of [Voltara](<voltara/voltara.md>). Long abandoned, it was used as a raiding base by orcs of [Grumella's Horde](<../../../groups/orc-hordes/grumella-s-horde.md>) during [Grumella's War](<../../../events/1700s/grumella-s-war.md>). 
+An isolated tower north of [Voltara](<voltara/voltara.md>). Long abandoned, it was used as a raiding base by orcs of [Grumella's Horde](<../../../groups/orc-hordes/grumella-s-horde.md>) during [Grumella's War](<../../../events/1700s/1747/grumella-s-war.md>). 
 

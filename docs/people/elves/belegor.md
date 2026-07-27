@@ -33,11 +33,11 @@ hide_toc: true
     Originally from: [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of September 30th, 1748): Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of September 30th, 1748): [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 30th, 1748 in Te'kula village, the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 30th, 1748 in [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
 
 
 Belegor is a solitary [elf](<../../creatures/species/elves.md>) wanderer, who has travelled across the forests of the western region of Taelgar for many years, not wanting hide in isolation as many of his generation chose after The [Great War](<../../events/1500s/great-war.md>). 

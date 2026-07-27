@@ -20,4 +20,4 @@ title: Faculty of Metaphysics
 
 The Faculty of Metaphysics is one of the five graduate faculties of the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>). It is concerned with supernatural and planar studies: the ordering of the cosmos, the nature of echo realms, and the principles by which scholars attempt to describe the stranger parts of creation.
 
-Its models and classifications, such as the Standard Multiversal Model, are widely taught across Chardon’s scholarly world.
+Its models and classifications, such as the [Standard Multiversal Model](<../../cosmology/planar-concepts/standard-multiversal-model.md>), are widely taught across Chardon’s scholarly world.

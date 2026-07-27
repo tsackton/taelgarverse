@@ -15,6 +15,6 @@ title: The Whale's Spout
 </div>
 
 
-A tavern and refuge in [Castrella](<castrella.md>) run by Old Leo, known for taking in orphans.
+A tavern and refuge in [Castrella](<castrella.md>) run by [Old Leo](<../../../../people/chardonians/old-leo.md>), known for taking in orphans.
 
 

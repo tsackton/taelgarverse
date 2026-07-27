@@ -12,6 +12,6 @@ author: Emyr of Tafolwern
 title: On Hidden Doors
 ---
 # On Hidden Doors
-:octicons-info-24:{ .lg .middle } **A [Tyrwinghan](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) cosmological treatise, written in the DR 1600s, by Emyr of Tafolwern**  
+:octicons-info-24:{ .lg .middle } **A [Tyrwinghan](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) cosmological treatise, written in the DR 1600s, by [Emyr of Tafolwern](<../../people/historical-figures/emyr-of-tafolwern.md>)**  
 
-*On Hidden Doors* is a forceful polemic by Emyr of Tafolwern on temporary planar connections. Emyr argues that [elemental vortexes](<../../cosmology/planar-concepts/elemental-vortex.md>) are part of a broader class of temporary planar connections, including uncontrolled or unpredictable fey crossings, and that planar drift helps explain why permanent portals sometimes appear or disappear.
+*On Hidden Doors* is a forceful polemic by [Emyr of Tafolwern](<../../people/historical-figures/emyr-of-tafolwern.md>) on temporary planar connections. Emyr argues that [elemental vortexes](<../../cosmology/planar-concepts/elemental-vortex.md>) are part of a broader class of temporary planar connections, including uncontrolled or unpredictable fey crossings, and that planar drift helps explain why permanent portals sometimes appear or disappear.

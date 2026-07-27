@@ -27,7 +27,7 @@ title: Dunmari Frontier - Delwath Solo Session 3
 - After a fierce battle, the hobgoblins and their wizard leader are defeated; the party retrieves the Shadow Armband from the wizard's severed arm.
 - In the shadow realm, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) banishes himself and the tanshi [Taraka](<../../../gods-and-religions/gods/tanshi/meswati/taraka.md>) back to the [Material Plane](<../../../cosmology/material-plane.md>) while leaving the hobgoblin army trapped.
 - At the site of the Battle of Ye'mote, the party defeats an undead hobgoblin warlock and his minions, releasing the last of the trapped [Meswati](<../../../gods-and-religions/gods/tanshi/meswati/meswati.md>) with the destruction of another armband.
-- The party returns to the [Ko'zula village](<../../../gazetteer/central-highlands/ko-zula-village.md>) to celebrate, and Delwath parts ways with [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) and [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>).
+- The party returns to the [Azkar](<../../../gazetteer/central-highlands/azkar.md>) to celebrate, and Delwath parts ways with [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>) and [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>).
 
 ### Timeline
 - Oct 09, 1748 DR, afternoon: Arrive in [Ko'zula](<../../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) land. Rest.

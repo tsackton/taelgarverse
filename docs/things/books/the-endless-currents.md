@@ -11,6 +11,6 @@ author: Aznoke
 title: The Endless Currents
 ---
 # The Endless Currents
-:octicons-info-24:{ .lg .middle } **A [Lizardfolk](<../../creatures/species/lizardfolk.md>) epic poem, by Aznoke**  
+:octicons-info-24:{ .lg .middle } **A [Lizardfolk](<../../creatures/species/lizardfolk.md>) epic poem, by [Aznoké](<../../people/historical-figures/aznoke.md>)**  
 
-*The Endless Currents* is an epic poem by the lizardfolk mystic Aznoke. It describes the Eightfold Essences as physical energies, fundamental energies, and cyclical energies, and speaks of life and death as flowing currents within the larger natural cycle.
+*The Endless Currents* is an epic poem by the lizardfolk mystic [Aznoke](<../../people/historical-figures/aznoke.md>). It describes the Eightfold Essences as physical energies, fundamental energies, and cyclical energies, and speaks of life and death as flowing currents within the larger natural cycle.

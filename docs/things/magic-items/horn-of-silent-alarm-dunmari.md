@@ -24,6 +24,18 @@ A common magic item created in large numbers by the Dunmari during the [Dharajun
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) has found two of these horns.
 
 One, carried by [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>), [was taken](<../../campaigns/dunmari-frontier-campaign/session-notes/session-45-dufr.md>) from [Justan](<../../people/dunmari/justan.md>), a perhaps-reformed Dunmari bandit, after he and his companions were cruelly murdered by [dastardly](<../../people/chardonians/casian.md>) [Chardonians](<../../people/chardonians/kadmos.md>).
