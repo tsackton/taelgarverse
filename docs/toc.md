@@ -105,12 +105,12 @@ search:
                 - [Txarro](people/pcs/other-pcs/tollen-misfits/txarro.md)
             - Session Notes
                 - [Aurae's Allegories](campaigns/one-shots/lost-in-the-feywild/aurae-s-allegories.md)
-                - [Lost in the Feywild Episode 06](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-06.md)
                 - [Lost in the Feywild: Episode 01](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-01.md)
                 - [Lost in the Feywild: Episode 02](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-02.md)
                 - [Lost in the Feywild: Episode 03](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-03.md)
                 - [Lost in the Feywild: Episode 04](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-04.md)
                 - [Lost in the Feywild: Episode 05](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-05.md)
+                - [Lost in the Feywild: Episode 06](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-06.md)
                 - [The Story of a Fey Bargain Struck](campaigns/one-shots/lost-in-the-feywild/the-story-of-a-fey-bargain-struck.md)
                 - [Transcriptions from the Prisoner](campaigns/one-shots/lost-in-the-feywild/transcriptions-from-the-prisoner.md)
     - [Campaign Archive](campaigns/campaign-archive.md)

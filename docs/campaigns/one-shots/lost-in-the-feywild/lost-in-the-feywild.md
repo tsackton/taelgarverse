@@ -21,3 +21,4 @@ Sessions:
 | [Mr. Blue Sky](<lost-in-the-feywild-episode-03.md>)                    | 3       | June 02, 2026 |
 | [The House that Moves](<lost-in-the-feywild-episode-04.md>)            | 4       | July 06, 2026 |
 | [The Voice Beyond the Wall](<lost-in-the-feywild-episode-05.md>)       | 5       | July 15, 2026 |
+| [The Stories We Carry](<lost-in-the-feywild-episode-06.md>)            | 6       | July 27, 2026 |

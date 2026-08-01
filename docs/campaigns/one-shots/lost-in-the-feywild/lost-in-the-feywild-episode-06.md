@@ -1,48 +1,42 @@
 ---
 headerVersion: 2023.11.25
 tags: [session-note]
+campaign: Lost in the Feywild
+sessionNumber: 6
+realWorldDate: 2026-07-27
 DR: 1740-10-06
 DR_end: 1740-10-06
-realWorldDate: 2026-07-27
+players: [Kaito Min, Edric, Ayveen, Txarro]
+name: 'Lost in the Feywild: Episode 06'
 descTitle: The Stories We Carry
 tagline: in which stories open the door to darkness
 sessionKey: lost-in-the-feywild-session-6
 session-template: feywild-template.md
 websiteSessionView: zoomable
-title: Lost in the Feywild Episode 06
+title: 'Lost in the Feywild: Episode 06'
 ---
-# Lost in the Feywild - Episode 06
+# Lost in the Feywild: Episode 06
 
 !!! info "The Stories We Carry: in which stories open the door to darkness"
 	*Featuring: [Kaito Min](<../../../people/pcs/other-pcs/tollen-misfits/kaito-min.md>), [Edric](<../../../people/pcs/other-pcs/tollen-misfits/edric.md>), [Ayveen](<../../../people/pcs/other-pcs/tollen-misfits/ayveen.md>), [Txarro](<../../../people/pcs/other-pcs/tollen-misfits/txarro.md>)*
 	*In Taelgar: Oct 06, 1740 DR*
 	*On Earth: Monday, July 27, 2026*
-	*[27th Room](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) and the central prison*
+	*[27th Room](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) and central prison*
 
 The party recruits [Aurae](<../../../people/other-nonhumans/aurae.md>), rejects Arithrimos Lamperum's soul bindery, and enters the central prison as [Menestheus](<../../../people/other-humans/menestheus.md>) succumbs to the fungal transformation.
+
+!!! quote " "
+	*I know that I'm not happy, alone by myself. I've read all of these books already.* - Aurae
+## Audio Highlights
+
+**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure.:** 
+<audio controls>
+    <source src="/taelgarverse/assets/session-audio/lost-in-the-feywild-session-6/lost-in-the-feywild-session-6-audio-005.m4a" type="audio/mp4">
+</audio>
 
 ## Timeline
 
 - Oct 06, 1740 DR, evening still: The party explores the library, meets the research assistant automaton, and enters the central prison.
-
-## Cast of Characters
-
-- [Aurae](<../../../people/other-nonhumans/aurae.md>) (construct): clockwork research assistant who takes a name and joins the party.
-- [Menestheus](<../../../people/other-humans/menestheus.md>) (he/him, Drankorian human): idisplaced Drankorian mathematician and mapmaker who completes his fungal transformation and attacks at the prison door.
-- the prisoner: captive seen in three superimposed states through the prison doors.
-- [Lord Endless Ending](<../../../people/fey/lord-endless-ending.md>) (they/them, fae): fey lord who asked for the glass key.
-- [Hulda](<../../../people/sembarans/lord-hulda.md>) (he/him, Sembaran human): the party's original employer.
-- unnamed human order member: last visitor [Aurae](<../../../people/other-nonhumans/aurae.md>) remembers before the party.
-- [Marcion of Iridel](<../../../people/historical-figures/marcion-of-iridel.md>) (he/him, Drankorian human): Drankorian cosmologist whose works, including *[The Riven Veil](<../../../things/books/the-riven-veil.md>)*, fill a library shelf.
-
-## Places
-
-- [27th Room](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) (fey house in the [Twilight Kingdom](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../../cosmology/feywild.md>)): vast shifting complex built around a central prison and used by [Arithrimos Lamperum](<../../../groups/drankorian-societies/arithrimos-lamperum.md>) to keep its captive displaced across space and time. Session context includes: room 26 library immediately outside the central prison.
-- central prison: lightless chamber reached through superimposed doors that show its captive at different ages. Session context includes: through the three superimposed prison doors.
-
-## Combat
-
-- none
 
 ## Narrative
 
@@ -93,3 +87,17 @@ The party recruits [Aurae](<../../../people/other-nonhumans/aurae.md>), rejects 
   <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-003"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
 </div>
 
+## Cast of Characters
+
+- [Aurae](<../../../people/other-nonhumans/aurae.md>) (construct): clockwork research assistant who takes a name and joins the party.
+- [Menestheus](<../../../people/other-humans/menestheus.md>) (he/him, Drankorian human): idisplaced Drankorian mathematician and mapmaker who completes his fungal transformation and attacks at the prison door.
+- the prisoner: captive seen in three superimposed states through the prison doors.
+- [Lord Endless Ending](<../../../people/fey/lord-endless-ending.md>) (they/them, fae): fey lord who asked for the glass key.
+- [Hulda](<../../../people/sembarans/lord-hulda.md>) (he/him, Sembaran human): the party's original employer.
+- unnamed human order member: last visitor [Aurae](<../../../people/other-nonhumans/aurae.md>) remembers before the party.
+- [Marcion of Iridel](<../../../people/historical-figures/marcion-of-iridel.md>) (he/him, Drankorian human): Drankorian cosmologist whose works, including *[The Riven Veil](<../../../things/books/the-riven-veil.md>)*, fill a library shelf.
+
+## Places
+
+- [27th Room](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) (fey house in the [Twilight Kingdom](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../../cosmology/feywild.md>)): vast shifting complex built around a central prison and used by [Arithrimos Lamperum](<../../../groups/drankorian-societies/arithrimos-lamperum.md>) to keep its captive displaced across space and time. Session context includes: room 26 library immediately outside the central prison.
+- central prison: lightless chamber reached through superimposed doors that show its captive at different ages. Session context includes: through the three superimposed prison doors.
