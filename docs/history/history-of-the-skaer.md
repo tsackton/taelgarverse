@@ -14,7 +14,7 @@ This is a chronicle of the history of the [Skaer](<../gazetteer/western-green-se
 ## Origins
 _before the Downfall_
 
-The Skaer have a long history on the Green Sea. Their myths and legends speak of coming from the east on great ships; they are descended from the ancient seafaring culture that left [Hkar](<historical-realms/hkar.md>) and settled the [Green Sea](<../gazetteer/green-sea.md>) in the centuries before the Downfall. 
+The Skaer have a long history on the Green Sea. Their myths and legends speak of coming from the east on great ships; they are descended from the ancient [seafaring culture](<../groups/cultures/mariners.md>) that left [Hkar](<historical-realms/hkar.md>) and settled the [Green Sea](<../gazetteer/green-sea.md>) in the centuries before the Downfall. 
 
 
 

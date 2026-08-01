@@ -16,4 +16,4 @@ title: Dalinka
 </div>
 
 
-A river that flows from the ~North Ursk Border Mountains~ to the [Green Sea](<../../green-sea.md>). The Dalinka river valley is a fertile agricultural area, centered on the city of [Yamgov](<../ursk/yamgov.md>). 
+A river that flows from the [Yengorza Mountains](<../ursk/yengorza-mountains.md>) to the [Green Sea](<../../green-sea.md>). The Dalinka river valley is a fertile agricultural area, centered on the city of [Yamgov](<../ursk/yamgov.md>). 

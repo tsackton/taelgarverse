@@ -29,5 +29,5 @@ This region is entirely ocean, mostly temperate. The near shores are relatively 
 
 
 ## Major Historical Eras
-Little is known of the history of the oceans, although halfling songs speak of the ancient ~Mariners~, who left Hkar and crossed the [Endless Ocean](<../endless-ocean.md>) to reach the [Green Sea](<../green-sea.md>). Many speak of the lost birthplace of humanity, the now sunken island of [Hkar](<../../history/historical-realms/hkar.md>), but where it lies is not known.
+Little is known of the history of the oceans, although halfling songs speak of the ancient [Mariners](<../../groups/cultures/mariners.md>), who left Hkar and crossed the [Endless Ocean](<../endless-ocean.md>) to reach the [Green Sea](<../green-sea.md>). Many speak of the lost birthplace of humanity, the now sunken island of [Hkar](<../../history/historical-realms/hkar.md>), but where it lies is not known.
 

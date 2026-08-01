@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/stub]
 name: Kem
 displayDefaults: {prep: true, defArt: the}
 pronunciation: KEM

@@ -21,7 +21,7 @@ title: Clawyn
 </div>
 
 
-A small village a few days ride south of [Tafolwern](<tafolwern.md>), in the gentle northern slopes of the [Mostreve Hills](<../mostreve-hills.md>), known for its vineyards and wine. There is little here other than a small temple to the Mother.
+A small village a few days ride south of [Tafolwern](<tafolwern.md>), in the gentle northern slopes of the [Tyrwinghan Hills](<tyrwinghan-hills.md>), known for its vineyards and wine. There is little here other than a small temple to the Mother.
 ### Notable People
 * Rhys, an old man and village elder, likes stories and reminiscing about the past. He is said to have attended [Cece I's](<../../../people/historical-figures/sembaran-royalty/cece-i.md>) coronation
 * Ifan, [Celyn's](<../../../people/pcs/cleenseau/celyn.md>) cousin, a fool

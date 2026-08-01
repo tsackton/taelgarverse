@@ -31,7 +31,7 @@ Three watersheds and two mountain spurs divide Zimkova:
 
 * In the south, the [Bollin](<../rivers/wistel-enst-watershed/bollin.md>) is easily crossed, and the land is more fertile and lower than elsewhere in Zimkova
 * The [Semb](<../rivers/semb-watershed/semb.md>) and [Lake Derwent](<../rivers/semb-watershed/lake-derwent.md>) mark a turning of the land, and it grows steeper and hillier north of the [Semb](<../rivers/semb-watershed/semb.md>)
-* The [Volta](<../rivers/volta-watershed/volta.md>), in the north, has many lakes and tributaries, as it drains the lands between the ~Central Sentinel Spur~, the ~North Sentinel Spur~, and the ~North Vostok Mountains~ 
+* The [Volta](<../rivers/volta-watershed/volta.md>), in the north, has many lakes and tributaries, as it drains the lands between the ~Central Sentinel Spur~, the ~North Sentinel Spur~, and the Pekul Mountains 
 
 * The ~Southern Sentinel Spur~, extending east north of the [Semb](<../rivers/semb-watershed/semb.md>) watershed, is treacherous terrain, and forms a boundary between southern and northern Zimkova. Many of the small rivers that form the Semb flow south from here
 * The ~Central Sentinel Spur~ stretches east to the Teft, and is the source of the Kasari, one of the tributaries of the [Volta](<../rivers/volta-watershed/volta.md>). It divides the forests of [Breva](<breva.md>) from the north

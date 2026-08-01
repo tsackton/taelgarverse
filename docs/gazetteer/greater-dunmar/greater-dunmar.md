@@ -34,7 +34,7 @@ The Central Lowlands region is dominated by four major topographical features.
 	- To the west, the [Hara Basin](<hara-basin/hara-basin.md>) is separated from the Nevos Sea by the [Darba Highlands](<darba-highlands/darba-highlands.md>) extending from the [Copper Hills](<darba-highlands/copper-hills.md>), and the Yuvanti Mountains
 	- To the north, the Sentinels form the edge of the basin; in the spring, snowmelt-fed streams and rivers bring life to the northern plains. 
 	- To the east, the Garamjala Plateau, a high desert, separates the [Hara Basin](<hara-basin/hara-basin.md>) from the Istaros watershed. 
-	- The only outflow from the [Hara Basin](<hara-basin/hara-basin.md>) is the ~Hara Gorge~, southeast of Askandi, that cuts through the rocky deserts on the western edge of the Garamjala Plateau. 
+	- The only outflow from the [Hara Basin](<hara-basin/hara-basin.md>) is through the [Hara Gorge](<hara-basin/hara-gorge.md>), southeast of Askandi, that cuts through the rocky deserts on the western edge of the Garamjala Plateau. 
 - The Yuvanti Mountains separate the [Hara Basin](<hara-basin/hara-basin.md>) from the Nevos Sea. Higher and more rugged in the south, the rain shadow of the Yuvanti Moutains creates the vast Garamjala Desert. 
 	- At the northern edge of the Yuvanti Moutains, a series of hills and river valleys known as the Darba Highlands connects the Yuvanti to the [Chataan Mountains](<../greater-chardon/chataan-mountains.md>), and isolates the [Hara Basin](<hara-basin/hara-basin.md>) from the Nevos. 
 	- West of the Yuvanti, the broad, flat Nayan Floodplains stretch to the sea. 

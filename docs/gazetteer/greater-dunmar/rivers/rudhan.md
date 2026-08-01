@@ -15,7 +15,7 @@ title: Rudhan
 </div>
 
 
-The Rudhan is the principal river of [Coastal Dunmar](<../realms/dunmar/coastal-dunmar/coastal-dunmar.md>), rising in the uplands of the [~Yuvanti Gap~](<../darba-highlands/yuvanti-gap.md>) and flowing southwest across the [Darba Highlands](<../darba-highlands/darba-highlands.md>) to the [Nevos Sea](<../../nevos-and-apporia/nevos-sea.md>). Monsoon rains swell the river in summer, flooding riparian forests; in winter its flow slackens, exposing gravel bars and quiet eddies.
+The Rudhan is the principal river of [Coastal Dunmar](<../realms/dunmar/coastal-dunmar/coastal-dunmar.md>), rising in the uplands of the [Rudhan Heights](<../darba-highlands/rudhan-heights.md>) and flowing southwest across the [Darba Highlands](<../darba-highlands/darba-highlands.md>) to the [Nevos Sea](<../../nevos-and-apporia/nevos-sea.md>). Monsoon rains swell the river in summer, flooding riparian forests; in winter its flow slackens, exposing gravel bars and quiet eddies.
 
 Near its mouth stands [Darba](<../realms/dunmar/coastal-dunmar/darba/darba.md>), a walled port city perched above the flooded swamps of the Rudhan’s estuary. The river’s deep natural harbor and strategic headlands made it attractive to Drankorian builders, and it has been continually occupied since. 
 

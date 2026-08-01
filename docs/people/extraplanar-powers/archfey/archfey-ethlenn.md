@@ -16,7 +16,7 @@ title: Archfey Ethlenn
 
 
 
-The ruler of [Twilight's Grace](<../../../gazetteer/extraplanar/feywild/twilight-s-grace.md>) and patron of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>). 
+The ruler of [Twilight's Grace](<../../../gazetteer/extraplanar/feywild/twilight-s-grace/twilight-s-grace.md>) and patron of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>). 
 
 A sketch of her supposed appearance
 ![Tyrwingha Stories Sketch of Ethlenn](/taelgarverse/assets/tyrwingha-stories-sketch-of-ethlenn.webp){align="left"; width="400"}

@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Cinder Wastes
-typeOf: place
 dm_owner: tim
 dm_notes: none
 typeOfAlias: landmark

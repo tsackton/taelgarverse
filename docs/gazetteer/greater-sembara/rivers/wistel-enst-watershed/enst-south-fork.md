@@ -19,4 +19,4 @@ title: Enst (South Fork)
 </div>
 
 
-One of the three rivers (the others being the [North Fork](<enst-north-fork.md>) and [Middle Fork](<enst-middle-fork.md>)) that join to form the [Enst](<enst.md>) just west of Lysandale.
+One of the three rivers (the others being the [North Fork](<enst-north-fork.md>) and [Middle Fork](<enst-middle-fork.md>)) that join to form the [Enst](<enst.md>).

@@ -28,7 +28,7 @@ hide_toc: true
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Died in the [Lonely Watchtower](<../../gazetteer/northwest-coast/northern-provinces/lonely-watchtower.md>), the [North Voltara Hills](<../../gazetteer/northwest-coast/northern-provinces/north-voltara-hills.md>), the [Erbalta Plains](<../../gazetteer/northwest-coast/erbalta-plains/erbalta-plains.md>)
+:octicons-location-24:{ .lg .middle } Died in the [Lonely Watchtower](<../../gazetteer/northwest-coast/northern-provinces/lonely-watchtower.md>), the ~North Voltara Hills~
 
 
 

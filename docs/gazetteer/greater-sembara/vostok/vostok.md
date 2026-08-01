@@ -23,6 +23,9 @@ title: Vostok
 
 
 
+
+
+
 Vostok, the "homeland of the Vos," is a land of many rivers, bitter winters, and few people, generally defined as the land northeast of the [Volta](<../rivers/volta-watershed/volta.md>) river and southwest of the [Svinjo Mountains](<../../northern-green-sea/svinjo-mountains.md>), between the [Green Sea](<../../green-sea.md>) and the cold dry plains of the kenku in the northwest. 
 
 Most of the population lives in the southern part of Vostok, called Voslaag ("home of the lowlanders"; often called South Vostok or South Vosland in [Sembara](<../sembara/sembara.md>)), within a hundred miles of the coast, and along the lower [Kem](<kem.md>) river valley. This is a region of few cities, few roads, and difficult travel, with lots of uninhabited land even within the most organized territories of major clans and chiefs. Boats, both on the rivers and the coastal [Green Sea](<../../green-sea.md>), are crucial to trade, travel, and communication throughout Voslaag. 

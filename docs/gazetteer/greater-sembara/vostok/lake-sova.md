@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/stub]
 displayDefaults: {defArt: ''}
 name: Lake Sova
 typeOf: lake
@@ -17,3 +17,5 @@ title: Lake Sova
 
 
 A lake on the [Kem](<kem.md>) in north-central [Vostok](<vostok.md>).
+
+
