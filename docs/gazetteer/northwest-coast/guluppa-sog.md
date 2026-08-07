@@ -24,8 +24,8 @@ title: Guluppa-Sog
 </div>
 
 
-Guluppa-Sog, as the bullywugs call it, loosely meaning "the settlement by the southern still-water", was a small [bullywug](<../../creatures/bestiary/bullywugs.md>) settlement on the [Zarnato](<../major-rivers/chasa-nahadi-watershed/zarnato.md>), upriver from the [~Voltara East Border Fort~](<northern-provinces/voltara-east-border-fort.md>). It was settled by bullywugs from the area around [Blackwater Fens](<../northern-sentinels/blackwater-fens.md>) fleeing [Nymthrax](<../../people/other-nonhumans/nymthrax.md>).
+Guluppa-Sog, as the bullywugs call it, loosely meaning "the settlement by the southern still-water", was a small [bullywug](<../../creatures/bestiary/bullywugs.md>) settlement on the [Zarnato](<../major-rivers/chasa-nahadi-watershed/zarnato.md>), upriver from the [Fort Zarnato](<northern-provinces/fort-zarnato.md>). It was settled by bullywugs from the area around [Blackwater Fens](<../northern-sentinels/blackwater-fens.md>) fleeing [Nymthrax](<../../people/other-nonhumans/nymthrax.md>).
 
-With limited food, its people started raiding Chardonian cattle from the [~Voltara East Border Fort~](<northern-provinces/voltara-east-border-fort.md>), which eventually drew the attention of the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>). After [Nymthrax was killed](<../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-4.md>), the community abandoned Guluppa-Sog and returned north.
+With limited food, its people started raiding Chardonian cattle from the [Fort Zarnato](<northern-provinces/fort-zarnato.md>), which eventually drew the attention of the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>). After [Nymthrax was killed](<../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-4.md>), the community abandoned Guluppa-Sog and returned north.
 
 

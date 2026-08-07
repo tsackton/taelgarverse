@@ -31,13 +31,13 @@ Even among the halflings, few have dared to map this region, nestled on the west
 
 The information reported here largely derives from the [scattered human tribes](<../../groups/cultures/deno-qai-tribes/northern-tribes/northern-tribes.md>) in the area speak of the dangerous forests and swamps:
 
-- The ~Pandar Volcanic Range~, once the borders of [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>)'s realm, now a place all sensible folk fear.
+- The trecharous mountains, once the borders of [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>)'s realm, now a place all sensible folk fear.
 * The [Forest of Nightmares](<forest-of-nightmares.md>), said to be haunted, cursed by [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>) during the [Great War](<../../events/1500s/great-war.md>).
 * The [Blackwater Fens](<blackwater-fens.md>), a dank bog from which the [Nahadi](<../major-rivers/chasa-nahadi-watershed/nahadi.md>) arises.
 
 There are two major river systems that originate in this region:
 
-- The [K'eye](<k-eye.md>) in the local language, and translated by halflings as the Red River, flows from the [Sentinels](<../sentinel-range.md>) to the ~North Bay~. 
+- The [K'eye](<k-eye.md>) in the local language, and translated by halflings as the Red River, flows from the [Sentinels](<../sentinel-range.md>) to the [Slate Sea](<../northwest-coast/slate-sea.md>). 
 - The [Zarnato](<../major-rivers/chasa-nahadi-watershed/zarnato.md>), as mapped by the Chardonians, flows from its origins in the [Sentinels](<../sentinel-range.md>) south to [Lake Valandros](<../greater-chardon/lake-valandros.md>). 
 ## Civilizations and Cultures
 
@@ -47,7 +47,7 @@ There are few humans in this region, although the [northern Deno'qai tribes](<..
 ## Major Historical Eras
 _See more: [Pandar](<../../history/historical-realms/pandar.md>)_
 
-In the ancient days before The Downfall it is said that the [northerners](<../../groups/cultures/northerners.md>) crossed the [Sentinels](<../sentinel-range.md>) at the ~Unnamed North Sentinel Pass~  in their eastward migrations, but the truth of this is unclear.
+In the ancient days before The Downfall it is said that the [northerners](<../../groups/cultures/northerners.md>) crossed the [Sentinels](<../sentinel-range.md>) in their eastward migrations, but the truth of this is unclear. 
 
 In the long years leading up to the [Great War](<../../events/1500s/great-war.md>) the land of [Pandar](<../../history/historical-realms/pandar.md>) was [Cha'mutte's](<../../people/extraplanar-powers/cha-mutte.md>) home, and hobgoblins and enslaved [kenku](<../../creatures/species/kenku.md>) were common sights. Since the [Great War](<../../events/1500s/great-war.md>) this area has been lightly populated and full of dangers.
 ## Climate

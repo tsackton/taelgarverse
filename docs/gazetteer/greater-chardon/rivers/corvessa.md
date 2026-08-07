@@ -16,6 +16,6 @@ title: Corvessa
 </div>
 
 
-One of the major rivers of the [Coastlands](<../chardonian-empire/coastlands.md>), rising from the [~Lake Valandros Hills~](<../lake-valandros-hills.md>) and flowing west to the [Endless Ocean](<../../endless-ocean.md>).
+One of the major rivers of the [Coastlands](<../chardonian-empire/coastlands.md>), rising from the [Beacon Hills](<../beacon-hills.md>) and flowing west to the [Endless Ocean](<../../endless-ocean.md>).
 
 

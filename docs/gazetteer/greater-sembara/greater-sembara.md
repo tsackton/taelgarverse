@@ -39,11 +39,11 @@ Five major river systems, fed by the summer rains, and melting snowpack and glac
 The rise and fall of the land further defines the region:
 
 * in the west, the towering [Sentinel Range](<../sentinel-range.md>) rises thousands of feet into the air. Few travelers cross these high peaks, save on the guarded underground roads of the dwarves. 
-* east of the mountains lies the Zimkova Highlands, a rough land that slowly descends to a line of hills in western and northern Sembara: the [Aveil Ridge](<sembara/barony-of-aveil/aveil-ridge.md>), the [Aine Hills](<sembara/aine-hills.md>), the [Braebein](<sembara/braebein.md>), and the ~Volta Hills~, and which rises in the east to form the Pekul Mountains
-* east of the Pekul Mountains, the high [Vostok Plateau](<vostok/vostok-plateau.md>) is dry and cold and is home to the high altitude ~Lake Vostok~
+* east of the mountains lies the Zimkova Highlands, a rough land that slowly descends to a line of hills in western and northern Sembara: the [Aveil Ridge](<sembara/barony-of-aveil/aveil-ridge.md>), the [Aine Hills](<sembara/aine-hills.md>), the [Braebein](<sembara/braebein.md>), and the [Draukar Hills](<vostok/draukar-hills.md>), and which rises in the east to form the Pekul Mountains
+* east of the Pekul Mountains, the high [Vostok Plateau](<vostok/vostok-plateau.md>) is dry and cold and is home to the high altitude [Lake Pekul](<vostok/lake-pekul.md>)
 * east of the [Vostok Plateau](<vostok/vostok-plateau.md>), the [Svinjo Mountains](<../northern-green-sea/svinjo-mountains.md>) form a rarely passed boundary with the forests to the north and east
-* south of the [Svinjo Mountains](<../northern-green-sea/svinjo-mountains.md>), the ~Coastal Vostok Hills~ are rugged and isolated from the rest of [Vostok](<vostok/vostok.md>)
-* along the [Green Sea](<../green-sea.md>) coast, the ~South Vostok Hills~ stretch north towards the ~Volta Hills~ to form a hilly and difficult terrain to the east of [Tollen](<tollen/tollen.md>), separating the forests of [Vostok](<vostok/vostok.md>) from the rest of the region
+* south of the [Svinjo Mountains](<../northern-green-sea/svinjo-mountains.md>), the ~Skaer Shores~ are rugged and isolated from the rest of [Vostok](<vostok/vostok.md>)
+* along the [Green Sea](<../green-sea.md>) coast, the [South Vostok Hills](<vostok/south-vostok-hills.md>) stretch north towards the [Draukar Hills](<vostok/draukar-hills.md>) to form a hilly and difficult terrain to the east of [Tollen](<tollen/tollen.md>), separating the forests of [Vostok](<vostok/vostok.md>) from the rest of the region
 * in the far south, beyond the [Western Gulf](<western-gulf.md>), lie the [Mostreve Hills](<mostreve-hills.md>), a hilly and forested land that separates the region from the dangerous [Plaguelands](<../upper-istaros/plaguelands.md>) to the south
 
 Between these high points are three distinct lowland regions:
@@ -72,7 +72,7 @@ The climate of the region is shaped by several major factors:
 
 
 ## Major Historical Eras
-_See more: Humanity in Greater Sembara and [Timeline of Sembaran History](<../../history/timeline-of-sembaran-history.md>)_
+_See more: Humanity in Greater Sembara and Timeline of Sembaran History_
 
 When humans first came to this region it was already a thriving land, with the ancient elven forest of [Alcarinque](<../../history/historical-realms/alcarinque.md>) to the south, and the [Urtzabala](<../../history/historical-realms/urtzabala.md>) filling what would become the [Enst](<rivers/wistel-enst-watershed/enst.md>) and [Wistel](<rivers/wistel-enst-watershed/wistel.md>) river valleys. Halflings sailed the [Green Sea](<../green-sea.md>) to the east, and dwarves delved deep in [Sentinels](<../sentinel-range.md>)  to the west. In the years before the Downfall to cultures of humans met and mixed: the [Northerners](<../../groups/cultures/northerners.md>), traveling east from the high passes over the [Sentinels](<../sentinel-range.md>), and the [Mariners](<../../groups/cultures/mariners.md>), sailing west from the [far reaches of the Green Sea](<../eastern-green-sea/eastern-green-sea.md>). From this melting pot, two distinct cultures emerged: the [Zimka](<../../groups/cultures/zimka.md>), clinging to tradition in the north and the [Tollish](<tollen/tollen.md>) culture, growing around the city of Tollen and the Sembaran coast. 
 

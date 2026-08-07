@@ -26,7 +26,7 @@ The northern coastline of the [Green Sea](<../green-sea.md>) is a strange place,
 
 
 ## Topography and Major Features
-[Yengorza Mountains](<ursk/yengorza-mountains.md>), [Ket](<rivers/ket.md>), [Svinjo Mountains](<svinjo-mountains.md>), [~Northern Boreal Forest~](<northern-boreal-forest.md>)
+[Yengorza Mountains](<ursk/yengorza-mountains.md>), [Ket](<rivers/ket.md>), [Svinjo Mountains](<svinjo-mountains.md>), [Great Northern Forest](<great-northern-forest.md>)
 
 ## Civilizations and Cultures
 _See more: [Ursk](<ursk/ursk.md>), [Vargaldi](<../../groups/cultures/vargaldi.md>)_

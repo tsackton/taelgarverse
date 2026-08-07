@@ -27,4 +27,4 @@ hide_toc: true
 
 
 
-Clara is a teenage girl from [Suwi](<../../gazetteer/northwest-coast/suwi.md>), a coastal village near the ~North Bay~. 
+Clara is a teenage girl from [Suwi](<../../gazetteer/northwest-coast/suwi.md>), a coastal village near the [Slate Sea](<../../gazetteer/northwest-coast/slate-sea.md>). 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+tags: [place]
 typeOf: topographical feature
 typeOfAlias: promotory
 whereabouts: Twilight Kingdom
@@ -12,4 +12,10 @@ title: Twilight Promontory
 </div>
 
 
-The Twilight promontory is a rocky overlook reached by a westward path from the road north of [Lord Endless Ending's Manor](<lord-endless-ending-s-manor.md>). A freestanding door at its end leads into the [27th House](<27th-house.md>).
+The Twilight promontory is a rocky overlook reached by a westward path from the road north of [Lord Endless Ending's Manor](<lord-endless-ending-s-manor.md>). 
+
+
+A freestanding door at its end leads into the [27th House](<27th-house.md>).
+
+
+

@@ -24,13 +24,13 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 ## Session Info
 ### Summary
-- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)departs the [~Crossroads Caravanserai~](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/crossroads-caravanserai.md>) and stays at the [Akela Inn](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>), gathering rumors of a dragon and bandits.
+- The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)departs the [Melavan Caravanserai](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/melavan-caravanserai.md>) and stays at the [Akela Inn](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>), gathering rumors of a dragon and bandits.
 - They ambush bandits preparing to attack them, subdue and recruit them with the promise of money and treasure.
 - The party is attacked by wyverns; they defeat them, capturing one in the [Mirror of Soul Trapping](<../treasure/mirror-of-soul-trapping.md>), but one bandit is killed. 
 - The Chardonian group, led by [Kadmos](<../../../people/chardonians/kadmos.md>), meets the [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>)for the first time, and uses charm magic on most of the party.
 
 ### Timeline
-- Jul 19, 1748 DR, morning: Depart [~Crossroads Caravanserai~](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/crossroads-caravanserai.md>) heading towards [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) on the [Tokra-Darba Road](<../../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>). 
+- Jul 19, 1748 DR, morning: Depart [Melavan Caravanserai](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/melavan-caravanserai.md>) heading towards [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) on the [Tokra-Darba Road](<../../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>). 
 - Jul 19, 1748 DR: Travel along the [Tokra-Darba Road](<../../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>)
 - Jul 19, 1748 DR, evening: Reach [Akela Inn](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/akela-inn.md>), the last inn on the road before the [Copper Hills](<../../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>). Speak with [Amar](<../../../people/dunmari/amar.md>), the innkeeper. Gather rumors. Spend the night. 
 - Jul 20, 1748 DR: Travel along the [Tokra-Darba Road](<../../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>) a fast pace, covering 30 miles of increasingly hilly road. 

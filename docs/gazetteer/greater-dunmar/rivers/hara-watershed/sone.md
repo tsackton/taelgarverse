@@ -16,4 +16,4 @@ title: Sone
 </div>
 
 
-The Sone is a broad, winding river that flows about 380 miles east from its source in the [Chataan Mountains](<../../../greater-chardon/chataan-mountains.md>), across the [~Songara Plains~](<../../hara-basin/songara-plains.md>), to its confluence with the [Hara](<hara.md>). During the drier months, from November to April, the Sone is a slow, sluggish river. Its outflow increases dramatically during the monsoon, fed by the rains that fall on the [~Songara Plains~](<../../hara-basin/songara-plains.md>).
+The Sone is a broad, winding river that flows about 380 miles east from its source in the [Chataan Mountains](<../../../greater-chardon/chataan-mountains.md>), across the [Songara Plains](<../../hara-basin/songara-plains.md>), to its confluence with the [Hara](<hara.md>). During the drier months, from November to April, the Sone is a slow, sluggish river. Its outflow increases dramatically during the monsoon, fed by the rains that fall on the [Songara Plains](<../../hara-basin/songara-plains.md>).

@@ -10,7 +10,7 @@ title: Into the Chasm
 
 Into the Chasm is a short adventure in and around the [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>), where five strangers are drawn into [Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>) by impossible omens and a supernatural storm.
 
-The player characters: [Chasm Explorers](<../../../people/pcs/into-the-chasm/chasm-explorers.md>)
+The player characters: [Chasm Explorers](<../../../people/pcs/other-pcs/into-the-chasm/chasm-explorers.md>)
 
 Sessions:
 

@@ -19,6 +19,6 @@ title: Suwi
 
 
 
-A coastal village west of the [Fiatara Mountains](<fiamatara-mountains/fiatara-mountains.md>) and near the ~North Bay~. 
+A coastal village west of the [Fiatara Mountains](<fiamatara-mountains/fiatara-mountains.md>) and near the [Slate Sea](<slate-sea.md>). 
 
 

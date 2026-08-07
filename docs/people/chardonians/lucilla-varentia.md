@@ -7,11 +7,11 @@ species: human
 ancestry: Chardonian
 gender: female
 title: Commander Lucilla Varentia
-whereabouts: ~Voltara Garrison 2~
+whereabouts: Varentia’s Camp
 campaignInfo:
 - {campaign: GL, type: met, date: 1747-11-18}
 affiliations:
-- {type: leader, title: Commander, org: ~Voltara Garrison 2~}
+- {type: leader, title: Commander, org: Varentia’s Camp}
 dm_owner: none
 dm_notes: none
 hide_toc: true
@@ -21,17 +21,17 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
-    Commander of the [Voltara Garrison 2](<../../gazetteer/northwest-coast/northern-provinces/voltara-garrison-2.md>)  
+    Commander of the Varentia’s Camp  
     { .bio }
 
-    Based in the [Voltara Garrison 2](<../../gazetteer/northwest-coast/northern-provinces/voltara-garrison-2.md>), the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
+    Based the Varentia’s Camp
 </div>
 
 
 
 
 
-Commander Lucilla Varentia is an officer of the [Chardonian Legion](<../../groups/chardonian-organizations/chardonian-legion.md>) who commands a [frontier garrison](<../../gazetteer/northwest-coast/northern-provinces/voltara-garrison-2.md>) east of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>).
+Commander Lucilla Varentia is an officer of the [Chardonian Legion](<../../groups/chardonian-organizations/chardonian-legion.md>) who commands a [frontier garrison](<../../gazetteer/northwest-coast/northern-provinces/varentia-s-camp.md>) east of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>).
 
 
 

@@ -5,7 +5,7 @@ displayDefaults: {defArt: ''}
 name: Arryn's Tower
 typeOf: building
 whereabouts:
-- {type: home, location: ~Eastern Islands~, linkText: in the}
+- {type: home, location: Eastern Isles, linkText: in the}
 dm_notes: none
 dm_owner: none
 typeOfAlias: tower
@@ -13,7 +13,7 @@ title: Arryn's Tower
 ---
 # Arryn's Tower
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A tower in the the ~Eastern Islands~  
+-    :octicons-location-24:{ .lg .middle } A tower in the the [Eastern Isles](<eastern-isles.md>), in the [Green Sea](<../green-sea.md>)  
 </div>
 
 

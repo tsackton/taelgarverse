@@ -60,10 +60,10 @@ _See more: {links}_
 The Central Highlands Region is a land of contrasts, from vast forests dominated by ancient elven trees, to the high, inaccessible peaks of the northern [Sentinels](<../sentinel-range.md>) where only [Stoneborn](<../../creatures/species/stoneborn.md>) and frost [Giants](<../../creatures/species/giants.md>) can survive. Few people call this region their home: the [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>), who live mostly in small villages among the forests hugging the western foothills of the [Sentinels](<../sentinel-range.md>), and the [Elves](<../../creatures/species/elves.md>), who once could be found throughout the woodlands of [Ainumarya](<ainumarya.md>), and the main inhabitants. The [Sentinel Range](<../sentinel-range.md>) creates a barrier to ...
 ## Boundaries
 
-The Central Highlands includes the [Sentinel Range](<../sentinel-range.md>), as well as the forests along the western slopes of the mountains, and the east bank and upper watershed of the ~North Nahadi River~.
+The Central Highlands includes the [Sentinel Range](<../sentinel-range.md>), as well as the forests along the western slopes of the mountains, and the east bank and upper watershed of the [Zarnato](<../major-rivers/chasa-nahadi-watershed/zarnato.md>) and its tributaries. 
 
 - To the north, this region is bordered by the cold polar regions of the [Far North](<../faraway-places/far-north.md>). 
-- To the east, this region is bordered by the [Highland Kingdoms](<../greater-sembara/zimkova/zimkova.md>), the The Western Marches of [Sembara](<../greater-sembara/sembara/sembara.md>), and the [Refounded Alliance of Aurbez](<../upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>). 
+- To the east, this region is bordered by the [Highland Kingdoms](<../greater-sembara/zimkova/zimkova.md>), the [Western Marches](<../greater-sembara/sembara/western-marches/western-marches.md>) of [Sembara](<../greater-sembara/sembara/sembara.md>), and the [Refounded Alliance of Aurbez](<../upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>). 
 - To the south, this region is bordered by the plains of [Dunmar](<../greater-dunmar/realms/dunmar/dunmar.md>). 
 - To the west, this region is bordered by the [Chardonian Empire](<../greater-chardon/chardonian-empire/chardonian-empire.md>), the northern hinterlands of the [Chardonian Empire](<../greater-chardon/chardonian-empire/chardonian-empire.md>), and the coastal north. 
 

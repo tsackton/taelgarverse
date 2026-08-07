@@ -16,7 +16,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [Ardikhun](<../../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>) [dwarf](<../../../creatures/species/dwarves.md>) (he/him)  
+    An [Ardikhun](<../../../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>) [dwarf](<../../../../creatures/species/dwarves.md>) (he/him)  
     Born DR 1489 (261 years old)  
     { .bio }
 

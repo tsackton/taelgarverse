@@ -25,7 +25,7 @@ Zimkova is a broad region of highland plateaus, dense forest, and boreal wetland
 * The upper [Volta](<../rivers/volta-watershed/volta.md>), a great depression that sits between 800' and 1200', full of scattered pine forests, peat bogs, and kettle lakes, where the Volta River arises from many small rivers
 * The Breva Forest, a hilly and forested highland, sitting between 1800' and 3000' feet, a mix of dense pine forests and 
 
-The region of Zimkova consists entirely of highlands, between the tall peaks of the [Sentinels](<../../sentinel-range.md>) and the Sembara lowlands. In general, a line of hills runs from the [Aine Hills](<../sembara/aine-hills.md>) just north of the [Wistel](<../rivers/wistel-enst-watershed/wistel.md>), through the [Braebein](<../sembara/braebein.md>), between the [Semb](<../rivers/semb-watershed/semb.md>) and the [Volta](<../rivers/volta-watershed/volta.md>) to the ~Volta Hills~. Zimkova is the land west and north of this line of hills.
+The region of Zimkova consists entirely of highlands, between the tall peaks of the [Sentinels](<../../sentinel-range.md>) and the Sembara lowlands. In general, a line of hills runs from the [Aine Hills](<../sembara/aine-hills.md>) just north of the [Wistel](<../rivers/wistel-enst-watershed/wistel.md>), through the [Braebein](<../sembara/braebein.md>), between the [Semb](<../rivers/semb-watershed/semb.md>) and the [Volta](<../rivers/volta-watershed/volta.md>) to the [Draukar Hills](<../vostok/draukar-hills.md>). Zimkova is the land west and north of this line of hills.
 
 Three watersheds and two mountain spurs divide Zimkova:
 
@@ -49,7 +49,6 @@ The geography above forms three cultural regions:
 * South Zimkova, the lands south of the ~Southern Sentinel Spur~, the Breva Forest, and west of the [Braebein](<../sembara/braebein.md>). This land has seen much intermixing with Sembara, and the realms of [Ardlas](<../ardlas.md>) and [Lavnoch Plateau](<lavnoch-plateau.md>) have been under the overlordship of Sembara at various times in their history. This land has lost many of the ancient traditions of the [Zimka](<../../../groups/cultures/zimka.md>), and although it has retained a unique culture and language, [Mos Numena](<../../../gods-and-religions/religions/mos-numena/mos-numena.md>) is the most common religion here and the worship of [Kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) has largely faded
 * Breva, nestled between the [Teft](<../rivers/teft-watershed/teft.md>) and the [Volta](<../rivers/volta-watershed/volta.md>), and separated from the north by the ~Central Sentinel Spur~, a unique blended culture, where kestavo still dominate and a fierce independent streak keeps the people independent
 * North Zimkova, lightly peopled and scattered, where the ancient ways still hold sway, a land of hunters and small fortified villages, mostly clinging to the [Volta](<../rivers/volta-watershed/volta.md>) and its tributaries. 
-
 
 
 

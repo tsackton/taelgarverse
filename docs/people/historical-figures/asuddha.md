@@ -28,5 +28,5 @@ hide_toc: true
 
 A warrior and general of the Dunmari during the [Founding of Dunmar](<../../primary-sources/founding-of-dunmar.md>). The brother of [Bhishma](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>). Known for leading the first army of the Dunmari, that swept across the land renewed by [Jeevali](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/jeevali.md>)'s sacrifice, claiming it to be their own kingdom. 
 
-Born before the The Exodus of the Dunmarifrom their ancestral homelands in the south.
+Born before the the exodus of the Dunmari from their ancestral homelands far away. 
 

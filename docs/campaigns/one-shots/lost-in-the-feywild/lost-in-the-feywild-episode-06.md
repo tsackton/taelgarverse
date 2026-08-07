@@ -29,7 +29,7 @@ The party recruits [Aurae](<../../../people/other-nonhumans/aurae.md>), rejects 
 	*I know that I'm not happy, alone by myself. I've read all of these books already.* - Aurae
 ## Audio Highlights
 
-**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure.:** 
+**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure:** 
 <audio controls>
     <source src="/taelgarverse/assets/session-audio/lost-in-the-feywild-session-6/lost-in-the-feywild-session-6-audio-005.m4a" type="audio/mp4">
 </audio>

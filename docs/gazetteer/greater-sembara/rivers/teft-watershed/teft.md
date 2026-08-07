@@ -23,3 +23,4 @@ A swift-flowing, largely unnavigable river in the north of the Sembara. The Teft
 
 The Teft has often been seen as a natural border and cultural divide, and has long divided the [Heartlands](<../../sembara/heartlands/heartlands.md>) of Sembara from the [Northlands](<../../sembara/northlands/northlands.md>). Especially north of the [Braebein](<../../sembara/braebein.md>) it forms an unbridged and only occasionally crossed boundary between [Breva](<../../zimkova/breva.md>) and the wilder lands around the [Great Chasm](<../../zimkova/great-chasm.md>). In the ancient [kestavan](<../../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) tradition, the [Teft](<teft.md>) was the home of the children of [Zeyfa](<../../../../gods-and-religions/gods/kestavo/zeyfa.md>) and its waters were rarely trusted. 
 
+

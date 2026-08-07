@@ -15,5 +15,5 @@ title: Lake Suwi
 </div>
 
 
-Lake Suwi is a small lake upriver from the coastal village of [Suwi](<suwi.md>), west of the [Fiatara Mountains](<fiamatara-mountains/fiatara-mountains.md>) and near the ~North Bay~. The woods along its shore are frequently logged by the nearby villagers of [Suwi](<suwi.md>), and the ruins of a castle overlook the lake from a rocky clearing.
+Lake Suwi is a small lake upriver from the coastal village of [Suwi](<suwi.md>), west of the [Fiatara Mountains](<fiamatara-mountains/fiatara-mountains.md>) and near the [Slate Sea](<slate-sea.md>). The woods along its shore are frequently logged by the nearby villagers of [Suwi](<suwi.md>), and the ruins of a castle overlook the lake from a rocky clearing.
 

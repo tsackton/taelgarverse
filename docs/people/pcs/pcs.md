@@ -10,7 +10,7 @@ Many groups have adventured in Taelgar over the years.
 
 Among the most famous are the [Heroes of the Great War](<great-war/heroes-of-the-great-war.md>). While many of the details of their adventures are lost to time, now told as legends and myths, the names of [Rai](<great-war/rai.md>), [Kyr](<great-war/kyr.md>), [Aerin](<great-war/aerin.md>), and [Beryl](<great-war/beryl.md>), the heroes who defeated the shadow dragon [Cha'mutte](<../extraplanar-powers/cha-mutte.md>) and ended the [Great War](<../../events/1500s/great-war.md>), are widely known. 
 
-In the DR 1700s, four groups of adventurers are most active in Taelgar:
+In the DR 1700s, four groups of adventurers have been most active in Taelgar:
 
 - The [Dunmar Fellowship](<dunmar-fellowship/dunmar-fellowship.md>), a renowned group of adventurers who met in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) in DR 1748, and have since [traveled across much of the world of Taelgar](<../../campaigns/dunmari-frontier-campaign/dunmari-frontier-campaign.md>) in their flying skyship [Vindristjarna](<../../things/ships/vindristjarna.md>). 
 - The [Silver Tempests](<silver-tempests/silver-tempests.md>), whose exploits are [chronicled elsewhere](<../../campaigns/great-library-campaign/great-library-campaign.md>), a group of heroes made a name for themselves in the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>) of the [Drankorian Empire](<../../history/historical-realms/drankorian-empire.md>) in the late DR 1740s. 
@@ -19,8 +19,10 @@ In the DR 1700s, four groups of adventurers are most active in Taelgar:
 
 Other adventurers include:
 
+- The [Tollen Misfits](<other-pcs/tollen-misfits/tollen-misfits.md>), who were tricked into the [Feywild](<../../cosmology/feywild.md>) and [navigated a strange mystery to escape](<../../campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild.md>).
+- The [Chasm Explorers](<other-pcs/into-the-chasm/chasm-explorers.md>), who descended into the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>) to [stop a terrifying winter](<../../campaigns/one-shots/into-the-chasm/into-the-chasm.md>).
 - The [Adventurers of Mawar](<mawar/adventurers-of-mawar.md>), united by their shared home of [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), and whose exploits are [told elsewhere](<../../campaigns/mawar-adventures/mawar-adventures.md>).
 - The [companions of Oskar and Riswynn](<other-pcs/oskar-s-companions/oskar-s-companions.md>), who [solved some problems](<../../campaigns/one-shots/oskar-s-adventures/oskar-in-tharn-todor.md>) around [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>) in DR 1748
 - The [prisoners of Grimstone](<other-pcs/labyrinth-prisoners/labyrinth-prisoners.md>), who [escaped](<../../campaigns/one-shots/labyrinths-of-the-lost/labyrinths-of-the-lost.md>) from an abandoned manor in [Western Cymea](<../../gazetteer/western-green-sea/realms/western-cymea.md>).
-- [Izar](<ausson-s-crossing/izar.md>), [Roe DoTorka](<ausson-s-crossing/roe-dotorka.md>), and [Soraine](<ausson-s-crossing/soraine.md>), who investigated a murder in [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>) in DR 1688. 
+- [Izar](<other-pcs/ausson-s-crossing/izar.md>), [Roe DoTorka](<other-pcs/ausson-s-crossing/roe-dotorka.md>), and [Soraine](<other-pcs/ausson-s-crossing/soraine.md>), who investigated a murder in [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>) in DR 1688. 
 

@@ -23,12 +23,12 @@ hide_toc: true
     Born DR 1664 (86 years old)  
     { .bio }
 
-    Based on the [plains north of Tokra](<../../gazetteer/greater-dunmar/hara-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Based on the [plains north of Tokra](<../../gazetteer/greater-dunmar/hara-basin/varashan.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 6th, 1748 on the [plains north of Tokra](<../../gazetteer/greater-dunmar/hara-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 6th, 1748 on the [plains north of Tokra](<../../gazetteer/greater-dunmar/hara-basin/varashan.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 ![Saka](/taelgarverse/assets/saka.webp){align="right"; width="350"}

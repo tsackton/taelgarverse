@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
-typeOf: waterway
+tags: [status/stub, status/check/name, place]
 whereabouts: Istaros Watershed
+typeOf: waterway
 dm_owner: none
 dm_notes: none
 typeOfAlias: river
-title: ~Valmont Tributary~
+pronunciation: keh-ZHOOR
+title: Kezhur
 ---
-# The ~Valmont Tributary~
+# Kezhur
+:speaker:{ .middle } *(keh-ZHOOR)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A river in the [Istaros Watershed](<istaros-watershed.md>)  
 </div>

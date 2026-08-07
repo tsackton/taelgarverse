@@ -18,4 +18,4 @@ title: Daran
 </div>
 
 
-The Daran is a small river of [Tyrwingha](<../../tyrwingha/tyrwingha.md>). Rising in the [Mostreve Hills](<../../mostreve-hills.md>), it flows north to join the [Aben](<aben.md>) upstream of [Tafolwern](<../../tyrwingha/tafolwern.md>).
+The Daran is a small river of [Tyrwingha](<../../tyrwingha/tyrwingha.md>). Rising in the [Tyrwinghan Hills](<../../tyrwingha/tyrwinghan-hills.md>), it flows north to join the [Aben](<aben.md>) upstream of [Tafolwern](<../../tyrwingha/tafolwern.md>).

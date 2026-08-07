@@ -6,7 +6,7 @@ species: dragon
 subspecies: black dragon
 gender: female
 whereabouts:
-- {type: home, location: ~Circular Island~}
+- {type: home, location: Circular Island}
 dm_owner: tim
 dm_notes: important
 title: Ra'ghemdros
@@ -20,7 +20,7 @@ hide_toc: true
     Died May 21th, 1749  
     { .bio }
 
-    Lived the ~Circular Island~
+    Lived in the [Circular Island](<../../gazetteer/drankorian-hinterland/circular-island.md>), the [Sea of Storms](<../../gazetteer/drankorian-hinterland/sea-of-storms.md>)
 </div>
 
 

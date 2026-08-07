@@ -15,6 +15,6 @@ title: Bastion Quarter
 </div>
 
 
-The Bastion Quarter, often just called the Bastion, occupies the area near the [Merchant's Gate](<trade-gate-chardon.md>) where the northern trade road passes through the [North Wall](<north-wall-chardon.md>), extending south and southeast towards the river and the [River Bridge](<river-bridge-chardon.md>). 
+The Bastion Quarter, often just called the Bastion, occupies the area near the [Merchant's Gate](<trade-gate-chardon.md>) where the [northern trade road](<../north-road.md>) passes through the [North Wall](<north-wall-chardon.md>), extending south and southeast towards the river and the [River Bridge](<river-bridge-chardon.md>). 
 
 The Bastion Quarter and the [Summit Quarter](<summit-quarter.md>) together make up Precinct XIX. 

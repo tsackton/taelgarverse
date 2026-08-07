@@ -17,6 +17,6 @@ The Hara Watershed is the river system that drains the central plains of [Dunmar
 
 The major tributaries of the Hara river include:
 
-- The [Sone](<sone.md>), which flows east across the [~Songara Plains~](<../../hara-basin/songara-plains.md>)
+- The [Sone](<sone.md>), which flows east across the [Songara Plains](<../../hara-basin/songara-plains.md>)
 - The [Sukal](<sukal.md>), a seasonal river that flows east from the [Copper Hills](<../../darba-highlands/copper-hills.md>). 
 - The [Thandar](<thandar.md>), which flows south from the [Sentinels](<../../../sentinel-range.md>) and joins the Hara north of [Tokra](<../../realms/dunmar/central-dunmar/tokra/tokra.md>). 

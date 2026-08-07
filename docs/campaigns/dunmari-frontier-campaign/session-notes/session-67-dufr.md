@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 67
@@ -36,7 +37,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 ## Narrative
 
-Our session begins at [Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>) in the fey realm of [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), where [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) has come with the aid of [Caulaus](<../../../people/pcs/dunmar-fellowship/guests/caulaus.md>), [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), and [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), though [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>) and [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>) have returned to [Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>).  [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is waiting, and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) arrives shortly afterward. [Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>) is a place close to the [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>)'s attention, and the session begins with her [memories](<../../../people/extraplanar-powers/archfey/cloudspinner.md#97cec2>). 
+Our session begins at [Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>) in the fey realm of [Amberglow](<../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), where [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) has come with the aid of [Caulaus](<../../../people/pcs/dunmar-fellowship/guests/caulaus.md>), [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>), and [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>), though [Raven](<../../../people/pcs/dunmar-fellowship/guests/raven.md>) and [Spirala](<../../../people/pcs/dunmar-fellowship/guests/spirala.md>) have returned to [Shimmersong](<../../../gazetteer/extraplanar/feywild/shimmersong.md>).  [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) is waiting, and [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) arrives shortly afterward. [Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>) is a place close to the [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>)'s attention, and the session begins with her [memories](<../../../people/extraplanar-powers/archfey/cloudspinner.md>).
 
 ![Amberglow Lastlight Falls](/taelgarverse/assets/amberglow-lastlight-falls.webp)
 
@@ -51,7 +52,7 @@ The party bargins to exchange the answers to three questions, and agreeing not t
 From here, the party proceeds, crossing the dry riverbed of the River of Time that no longer flows here, and finding the grotto of the nymph [Melusine](<../../../people/fey/melusine.md>), supposedly an old friend and ally of [Typhina](<../../../people/fey/typhina.md>).
 
 ![Amberglow Nymph Grotto](/taelgarverse/assets/amberglow-nymph-grotto.webp)
-The party speaks with [Typhina](<../../../people/fey/typhina.md>) and [Melusine](<../../../people/fey/melusine.md>), about [Agata](<../../../people/fey/agata.md>), and the fey, and [Typhina's story](<../treasure/ring-of-the-warded-mind.md#typhinas-story>), but come to no real conclusions and decide to continue to the Heartwood Grove.
+The party speaks with [Typhina](<../../../people/fey/typhina.md>) and [Melusine](<../../../people/fey/melusine.md>), about [Agata](<../../../people/fey/agata.md>), and the fey, and [Typhina's story](<../treasure/ring-of-the-warded-mind.md>), but come to no real conclusions and decide to continue to the Heartwood Grove.
 
 The party arrives in the grove, seeing the massive tree before them, and [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) steps forward to give the [Ring of the Warded Mind](<../treasure/ring-of-the-warded-mind.md>) to the tree, when evil laughter begins to echo through the woods. Emerging from the ring, reformed, is not [Typhina](<../../../people/fey/typhina.md>), but [Agata](<../../../people/fey/agata.md>) Dustmother, who has been pretending to be [Typhina](<../../../people/fey/typhina.md>) for months. 
 
@@ -61,4 +62,3 @@ The party arrives in the grove, seeing the massive tree before them, and [Seeker
 [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) speaks with the elder tree of the grove, asking what is to be done. The grove asks for a new guardian, and [Caulaus](<../../../people/pcs/dunmar-fellowship/guests/caulaus.md>) agrees to take on the role, until the [Cloudspinner](<../../../people/extraplanar-powers/archfey/cloudspinner.md>) returns and he can make amends for the wrongs he cannot remember. And so [Agata](<../../../people/fey/agata.md>) is imprisoned in a tree, a fate she imposed on so many, and the party listens to [Caulaus](<../../../people/pcs/dunmar-fellowship/guests/caulaus.md>)' story before they leave, which [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) [records](<../collected-stories/caulaus-story.md>).
 
 We end the session as the party returns to [Lastlight Falls](<../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>) and exits the [Feywild](<../../../cosmology/feywild.md>) at sunset, to see [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) camped, waiting for them on the other side. 
-

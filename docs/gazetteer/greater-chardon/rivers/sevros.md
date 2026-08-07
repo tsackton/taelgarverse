@@ -16,6 +16,6 @@ title: Sevros
 </div>
 
 
-One of the rivers of the [Coastlands](<../chardonian-empire/coastlands.md>), rising in the [~Lake Valandros Hills~](<../lake-valandros-hills.md>) and flowing west to the [Endless Ocean](<../../endless-ocean.md>).
+One of the rivers of the [Coastlands](<../chardonian-empire/coastlands.md>), rising in the [Beacon Hills](<../beacon-hills.md>) and flowing west to the [Endless Ocean](<../../endless-ocean.md>).
 
 

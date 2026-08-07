@@ -5,7 +5,7 @@ name: Ithu'rax
 species: aboleth
 died: 1748-08-24
 whereabouts:
-- {type: home, location: ~North Bay Coast Lake~, alias: flooded caverns near Suwi, linkText: in the}
+- {type: home, location: Lake Suwi, alias: flooded caverns near Suwi, linkText: in the}
 campaignInfo:
 - {campaign: GL, type: defeated, date: 1748-08-24}
 dm_owner: none
@@ -21,7 +21,7 @@ hide_toc: true
     Died August 24th, 1748  
     { .bio }
 
-    Lived in the the flooded caverns near Suwi
+    Lived in the the [flooded caverns near Suwi](<../../gazetteer/northwest-coast/lake-suwi.md>)
 </div>
 
 

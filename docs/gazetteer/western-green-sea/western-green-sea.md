@@ -41,7 +41,7 @@ Halfling traders love this land, the coastal waters of their ancient home on the
 
 Separately, a variety of coastal lands are included here:
 
-* The shores around the [Skaer Islands](<skaerhem/skaerhem.md>), including the ~Skaer Northcoast Penisula~ and the ~Skaer Shores~ north of the ~Vostok Coastal River~ are mostly coastal flatlands with mountains behind them
+* The shores around the [Skaer Islands](<skaerhem/skaerhem.md>), including the ~Skaer Northcoast Peninsula~ and the ~Skaer Shores~, are mostly coastal flatlands with mountains behind them
 * The [Cymean Peninsula](<cymean-peninsula.md>) is divided by the [Plataca Hills](<cymea/plataca-hills.md>) and separated from the south by the [Mistfold Mountains](<mistfold-mountains.md>)
 
 _(The southern Cymean plains are well defined, but not yet invented! Stay tuned. - Eds)_
@@ -101,4 +101,5 @@ In the aftermath of the [Great War](<../../events/1500s/great-war.md>), [Cymea](
 Although the [Skaer](<realms/skaer.md>) continue to live on their islands in relative isolation, they are no longer a power on the western [Green Sea](<../green-sea.md>).
 
 _(Whether any southern Cymean provinces are currently able to challenge Tollish dominance is known, but not yet invented! - Eds)_
+
 

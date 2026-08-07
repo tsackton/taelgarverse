@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: home, location: ~Karawa Desert~}
+- {type: home, location: Karawa Desert}
 dm_notes: color
 dm_owner: none
 title: Devana
@@ -21,7 +21,7 @@ hide_toc: true
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
-    Based in the [~Karawa Desert~](<../../gazetteer/greater-dunmar/hara-basin/karawa-desert.md>), the Dunmari Basin
+    Based in the [Karawa Desert](<../../gazetteer/greater-dunmar/hara-basin/karawa-desert.md>), the Dunmari Basin
 </div>
 
 

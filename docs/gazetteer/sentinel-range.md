@@ -42,8 +42,6 @@ The southern section, covering the area that was once the dwarven kingdom of [Ar
 	- The middle and southern sections are separated by the desolate of Urlich, created by [Cha'mutte](<../people/extraplanar-powers/cha-mutte.md>)'s death. What this actually looks like is currently unknown, but it is dangerous and contains both random isolated mountains and vast chasms, and safe travel is impossible, not only because of dangerous inhabitants but because of unstable terrain. 
 		- ***Real world analogs:*** None, although perhaps some bits of Mordor could be a reasonable mental model. 
 	- Passes: the [Sentinel Range](<sentinel-range.md>) is easily crossable only in a few places. 
-		- To the north, the gap between the middle section and the northern section is traversable in all seasons, but lightly settled; the northern section itself is extremely inhospitable in the highest peaks.
-		- The middle section has passes around ~High Horn~, west of the [Highland Kingdoms](<greater-sembara/zimkova/zimkova.md>), and in the area west of the [Western Marches](<greater-sembara/sembara/western-marches/western-marches.md>). But the latter was disrupted by [Cha'mutte](<../people/extraplanar-powers/cha-mutte.md>)'s death and is no longer considered passable. 
 		- The south section has several routes that cross between the [Refounded Alliance of Aurbez](<upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>) and northern [Dunmar](<greater-dunmar/realms/dunmar/dunmar.md>). 
 
 In the south, in northern [Dunmar](<greater-dunmar/realms/dunmar/dunmar.md>), the mountains are steep and rocky, with only a handful of passes. In the winter, they are snow-covered, but there is little permanent ice and few or no glaciers. 
@@ -53,5 +51,6 @@ Further north, the mountains are somewhat less rugged, but high enough in places
 Major settlements of [Dwarves](<../creatures/species/dwarves.md>) and [Stoneborn](<../creatures/species/stoneborn.md>) call the Sentinels their home, and historically this area was, and is, the center of Dwarven civilization. 
 
 The Sentinels have many names: they are called the Indalas by the [Stoneborn](<../creatures/species/stoneborn.md>), Labkhan by the [Dwarves](<../creatures/species/dwarves.md>), Beredri by the [Deno'qai](<../groups/cultures/deno-qai-tribes/deno-qai.md>), and Tushara by the Dunmari. 
+
 
 

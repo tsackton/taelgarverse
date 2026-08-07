@@ -3,14 +3,14 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Quanyi
 typeOf: island
-whereabouts: ~Eastern Islands~
+whereabouts: Eastern Isles
 dm_notes: important
 dm_owner: tim
 title: Quanyi
 ---
 # Quanyi
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } An island the ~Eastern Islands~  
+-    :octicons-location-24:{ .lg .middle } An island in the [Eastern Isles](<eastern-isles.md>), the [Green Sea](<../green-sea.md>)  
 </div>
 
 

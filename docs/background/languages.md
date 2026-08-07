@@ -30,11 +30,11 @@ _Real world analog_: Modern English. Place or personal names written out (i.e. [
 _Alphabet_: No native alphabet. When written, it is usually written phonetically in the speakers native alphabet.
 _Intelligibility_: Most speakers of any human language can understand simple words in Common
 ##### Eastros
-A trade pidgin derived from the languages of the Eastros language family, it is widely spoken in the eastern Green Sea, especially by the halfling sailors and those that trade with them. It can be heard as far west as [Tollen](<../gazetteer/greater-sembara/tollen/tollen.md>) and [Cymea](<../gazetteer/western-green-sea/realms/cymea.md>), and even occasionally in the port cities of [Sembara](<../gazetteer/greater-sembara/sembara/sembara.md>), but it is very rarely spoken beyond the shores of the Green Sea. It has numerous loan words from ~Mariner Language~.
+A trade pidgin derived from the languages of the Eastros language family, it is widely spoken in the eastern Green Sea, especially by the halfling sailors and those that trade with them. It can be heard as far west as [Tollen](<../gazetteer/greater-sembara/tollen/tollen.md>) and [Cymea](<../gazetteer/western-green-sea/realms/cymea.md>), and even occasionally in the port cities of [Sembara](<../gazetteer/greater-sembara/sembara/sembara.md>), but it is very rarely spoken beyond the shores of the Green Sea. It has numerous loan words from Ancient Eastros.
 
 _Real world analog_: Balto-Slavic.
-_Alphabet_: Eastros is written using the ~Mariner Alphabet~. 
-*Intelligibility*: Speakers of ~Mariner Language~ can understand Eastros. 
+_Alphabet_: Eastros is written using the Mariner Alphabet.
+*Intelligibility*: Speakers of Ancient Eastros can understand Eastros.
 
 
 ## Drankorian Language Family
@@ -85,7 +85,7 @@ _Real world analog: Northros languages are based on Semitic languages_
 
 
 
-##### ~Old Zimkovan~
+##### Old Zimkovan
 The ancient language of the [Zimka](<../gazetteer/greater-sembara/zimkova/zimkova.md>) people, mostly no longer spoken outside of the most traditional and isolated parts of northern [Zimkova](<../gazetteer/greater-sembara/zimkova/zimkova.md>) and parts of the [Lavnoch Plateau](<../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>).
 
 _Real world analog_: Maltese
@@ -101,40 +101,40 @@ A group of mutually understandable dialects and languages spoken by the [Deno'qa
 _Real world analog_: Hebrew or Arabic
 _Alphabet_: Unknown. 
 ##### Vargaldi
-The language spoken by the [Vargaldi](<../groups/cultures/vargaldi.md>) people of the [~Northern Boreal Forest~](<../gazetteer/northern-green-sea/northern-boreal-forest.md>). Although ancestrally a Northos language that retains the basic Northros grammar, Vargaldi has numerous loan word from Eastros.
+The language spoken by the [Vargaldi](<../groups/cultures/vargaldi.md>) people of the [Great Northern Forest](<../gazetteer/northern-green-sea/great-northern-forest.md>). Although ancestrally a Northos language that retains the basic Northros grammar, Vargaldi has numerous loan word from Eastros.
 
 _Real world analog_: Not defined, although many names are Slavic reflecting Eastros influences. 
 _Alphabet_: Unknown. 
 
 
 ## Eastros Language Family
-All languages in the Eastros language family derive from ~Mariner Language~, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea and spread as far west as the shores of the [Western Gulf](<../gazetteer/greater-sembara/western-gulf.md>). They mostly, but not exclusively, use the ~Mariner Language~ alphabet. There is at least one subfamily of the Eastros language grouping, the Tollish languages, which developed from Old Tollish, spoken around the Western Gulf in the days before the coming of the Drankorians. 
+All languages in the Eastros language family derive from Ancient Eastros, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea and spread as far west as the shores of the [Western Gulf](<../gazetteer/greater-sembara/western-gulf.md>). They mostly, but not exclusively, use the Mariner alphabet. There is at least one subfamily of the Eastros language grouping, the Tollish languages, which developed from Old Tollish, spoken around the Western Gulf in the days before the coming of the Drankorians.
 
 _Real world analog: Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages_
-##### ~Mariner Language~
-The ancient language of the mariner culture than left Hkar for the eastern Green Sea, it is extremely rare to find it still spoken today. 
+##### Ancient Eastros
+The ancient language of the mariner culture than left Hkar for the eastern Green Sea is called Ancient Eastros in most Chardonian scholarly sources; it is extremely rare to find it still spoken today. 
 
 _Real world mapping_: Balto-Slavic
-*Alphabet*: ~Mariner Language~ alphabet
+*Alphabet*: Mariner alphabet
 ##### Skaegish
 The language spoken on the Skaer islands. 
 
 _Real world analog_: Finnish or Norwegian, with some Swedish influences
-*Alphabet*: ~Mariner Language~ alphabet
+*Alphabet*: Mariner alphabet
 ##### Urksan
 The language of the closed realm of Ursk. It is very rarely spoken outside of Ursk, as Urskans use Eastros for trade. 
 
 _Real world mapping_: Russian
-*Alphabet*: ~Mariner Language~ alphabet
+*Alphabet*: Mariner alphabet
 ##### Old Tollish
 The ancient language of Tollen and the Vostok and Sembaran coasts. A precursor tongue to Zimkovan, Sembaran, and Tollish, it is rarely spoken today, but survives for its value in reading old inscriptions and documents amongst some Tollender academics. 
 
 *Real world analog*: Balto-Slavic
-*Alphabet*: ~Mariner Language~ alphabet
+*Alphabet*: Mariner alphabet
 ##### Zimkovan
 A group of related languages and dialectics spoken in the highland kingdoms of [Ardlas](<../gazetteer/greater-sembara/ardlas.md>) and  [Breva](<../gazetteer/greater-sembara/zimkova/breva.md>), and across the [Lavnoch Plateau](<../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>). It is commonly spoken in the rest of [Zimkova](<../gazetteer/greater-sembara/zimkova/zimkova.md>) as well. It is descended from Old Tollish, but was significantly influenced by Sembaran and Drankorian.
 
-*Real world mapping*:  Baltic (Lithuanian or Latvian), although with some loan words from Maltese (~Old Zimkovan~). 
+*Real world mapping*:  Baltic (Lithuanian or Latvian), although with some loan words from Maltese (Old Zimkovan).
 _Alphabet_: Written using the Drankorian alphabet. 
 ##### Sembaran
 A number of mutually understandable languages and dialects spoken in Sembara, Tyrwingha, and Addermarch. Sembaran, although preserving grammatical structures from Old Tollish, adapted most of its current day vocabulary from Drankorian, as well as an alphabet. Southern Sembaran has more Drankorian influences, whereas Northern Semabaran has more Eastros influences.
@@ -172,7 +172,7 @@ _Alphabet_: Undetermined
 The ancient language of Tyrwingha, still spoken by many Tyrwinghans especially in rural areas. 
 
 _Real world analog_: Welsh
-*Alphabet*: ~Mariner Language~ alphabet, although many Tyrwinghans are not aware of the shared alphabet with Skaegish and Old Tollish
+*Alphabet*: Mariner alphabet, although many Tyrwinghans are not aware of the shared alphabet with Skaegish and Old Tollish
 ##### Hkaran
 The original human language, it still survives in a modified form in Common, but is otherwise no longer known to be spoken. Extremely rarely known in the modern day. 
 

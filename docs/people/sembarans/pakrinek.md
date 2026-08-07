@@ -32,6 +32,6 @@ hide_toc: true
 
 Pakrinek is a kenku warrior of [Kemeko Monastery](<../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>). In January 1730, Pakrinek accompanied the Vejo Vaikai expedition led by [Eidrikas](<eidrikas.md>) into the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>) as one of the warriors assigned to protect the mystics.
 
-Pakrinek had not returned from the expedition before the party was drawn into [Zeyfa's Labyrinth](<../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>). [Jrain Fanlish](<../pcs/into-the-chasm/jrain-fanlish.md>) named Pakrinek among the lost investigators tied to the chasm.
+Pakrinek had not returned from the expedition before the party was drawn into [Zeyfa's Labyrinth](<../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>). [Jrain Fanlish](<../pcs/other-pcs/into-the-chasm/jrain-fanlish.md>) named Pakrinek among the lost investigators tied to the chasm.
 
 

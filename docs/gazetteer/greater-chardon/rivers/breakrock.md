@@ -15,6 +15,6 @@ title: Breakrock River
 </div>
 
 
-The northernmost river in the [Coastlands](<../chardonian-empire/coastlands.md>), rising in the [~Lake Valandros Hills~](<../lake-valandros-hills.md>) and flowing west to the [Endless Ocean](<../../endless-ocean.md>).  A major tributary joins from the north. 
+The northernmost river in the [Coastlands](<../chardonian-empire/coastlands.md>), rising in the [Beacon Hills](<../beacon-hills.md>) and flowing west to the [Endless Ocean](<../../endless-ocean.md>).  A major tributary joins from the north. 
 
 

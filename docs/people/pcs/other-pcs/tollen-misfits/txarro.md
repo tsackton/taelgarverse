@@ -11,6 +11,7 @@ pronunciation: CHAH-roh
 whereabouts:
 - {type: home, location: Greywash}
 - {type: home, location: Tollen}
+- {type: away, start: 1740-10-05, location: Twilight Kingdom}
 title: Txarro
 hide_toc: true
 ---
@@ -26,6 +27,8 @@ hide_toc: true
     Originally from: the [Greywash](<../../../../gazetteer/greater-sembara/rivers/volta-watershed/greywash.md>), the [Free City of Tollen](<../../../../gazetteer/greater-sembara/tollen/tollen.md>)
     Based in the [Free City of Tollen](<../../../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of October 5th, 1740): the [Twilight Kingdom](<../../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../../../cosmology/feywild.md>), [Multiverse](<../../../../cosmology/multiverse.md>)
 
 
 ![Txarro](/taelgarverse/assets/txarro.webp){align="right"; width="350"}Txarro was born in a small lizardfolk village along the Greywash. His community was fairly isolated, even from other lizardfolk, in a marshy curve about a day and a half walk from Tollen. The Greywash provided a rich abundance for his village, and has a child and young adult he rarely interacted with other species, preferring to wander upriver along the marshy banks of the river, searching for hidden life among the reeds and rushes. He discovered he had some skill with animals, and could often charm small birds into his hand, or convince the shy mammals of the riverbank to be still in his presence. 

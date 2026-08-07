@@ -16,6 +16,6 @@ title: Dashun
 </div>
 
 
-A minor river in the [Coastlands](<../chardonian-empire/coastlands.md>), south of the [Chasa](<../../major-rivers/chasa-nahadi-watershed/chasa.md>), flowing from the [~Chardon Hills~](<../chardonian-empire/chardon-hills.md>) to the [Gulf of Chardon](<../gulf-of-chardon.md>). 
+A minor river in the [Coastlands](<../chardonian-empire/coastlands.md>), south of the [Chasa](<../../major-rivers/chasa-nahadi-watershed/chasa.md>), flowing from the [Chardon Hills](<../chardonian-empire/chardon-hills.md>) to the [Gulf of Chardon](<../gulf-of-chardon.md>). 
 
 

@@ -68,7 +68,7 @@ Priests, on the other hand, are explicitly blessed by the gods. The priesthood a
 While the details of how temple stewards and priests are organized and appointed varies among traditions, as does the hierarchy among temples or lack thereof, the fundamental distinction between lay administrators and divine priests persists across Mos Numera to the current day. 
 ## Greater Sembaran Tradition
 
-In the current day, the Greater Sembaran tradition of the Way is one of (at least) three major strands of religious practice associated with the Eight Divines. This tradition is practiced in much of the western Green Sea, from Vostok through Sembara to Cymea and ~South Cymea~, and was the dominant religious tradition in ~Irebor~ before the Great War as well. 
+In the current day, the Greater Sembaran tradition of the Way is one of (at least) three major strands of religious practice associated with the Eight Divines. This tradition is practiced in much of the western Green Sea, from Vostok through Sembara to Cymea and ~South Cymea~, and was the dominant religious tradition in Isingue before the Great War as well.
 ### Overview
 
 In order to fully understand the Sembaran religious tradition, it is also important to understand two key aspects of the ancient gods of the region, which have influenced the development of Mos Numera around the western Green Sea. 
@@ -107,6 +107,7 @@ All communities have temples and temple stewards, not all communities have pries
 Sembaran culture has a long history of being hostile to organized, structured magical practice, especially orders of associated with the scholarly study of magic. This means that Sembara does not have a homegrown tradition of religious orders. However, that does not mean that no organized groups of priests ever exist in Sembara. Occasionally, an Elder or small group of Elders inspire a certain kind of following, and this may turn into a semblance of a religious order. But these rarely have a larger life beyond the founder, and they typically fade away when the founder dies.
 
 Although potentially over the years, for various historically specific reasons, some elders founded orders that outlived them. Nothing says a religious order has to have a hierarchy with a elder at the head. And maybe after a few cycles of elders replacing each other as the head of the order, it is customary to select one rather than wait to see if one wants to join. This could even be divinely inspired, i.e. it could just happen that whenever the current head of the healers of the night queen (or whatever) dies, some other elder or disciple always happens to get a dream from the night queen telling them to go be the head of the order. And who says no to a command from your god?
+
 
 
 

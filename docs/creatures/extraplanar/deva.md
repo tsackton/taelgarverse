@@ -12,6 +12,6 @@ Devas are a kind of [celestial](<celestials.md>), rarely encountered but general
 
 A deva's appearance and bearing often reflects the power it serves. While many accounts from [Mos Numena](<../../gods-and-religions/religions/mos-numena/mos-numena.md>) sources describe devas in the familiar language of shining humanoid angels, other accounts suggest stranger forms. 
 
-[Stories occasionally connect devas with falling stars or celestial meteors](<../../campaigns/one-shots/oskar-s-adventures/oskar-in-tharn-todor.md#episode-2-the-celestial-meteor>), suggesting that at least some devas reach the [Material Plane](<../../cosmology/material-plane.md>) through violent or imperfect passages between realms, though few understand the metaphysical details of such violent passage. 
+[Stories occasionally connect devas with falling stars or celestial meteors](<../../campaigns/one-shots/oskar-s-adventures/oskar-in-tharn-todor.md#episode-2-the-celestial-meteor>), suggesting that at least some devas reach the [Material Plane](<../../cosmology/material-plane.md>) through violent or imperfect passages between realms, though few understand the metaphysical details of such violent passage.
 
 

@@ -11,7 +11,7 @@ ancestry: Dunmari
 gender: male
 died: 1748-07-23
 whereabouts:
-- {type: home, location: ~North Tokra Plains~}
+- {type: home, location: Varashan}
 - {type: away, start: 1748-05-01, end: 1748-07-23, location: Copper Hills}
 dm_owner: none
 dm_notes: color
@@ -26,7 +26,7 @@ hide_toc: true
     b. DR 1723 - d. July 23th, 1748, killed by [Casian](<../chardonians/casian.md>) at age 25 years  
     { .bio }
 
-    Lived on the [~North Tokra Plains~](<../../gazetteer/greater-dunmar/hara-basin/north-tokra-plains.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+    Lived on the [Varashan](<../../gazetteer/greater-dunmar/hara-basin/varashan.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Killed by [Casian](<../chardonians/casian.md>) in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)

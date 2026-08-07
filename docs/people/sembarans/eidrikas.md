@@ -30,8 +30,8 @@ hide_toc: true
 
 
 
-Eidrikas is a mystic of the Vejo Vaikai and the mentor of [Ekko](<../pcs/into-the-chasm/ekko.md>). In January 1730, he led a group of Vejo Vaikai mystics into the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>) to investigate strange happenings there, under the protection of warriors from [Kemeko Monastery](<../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>).
+Eidrikas is a mystic of the Vejo Vaikai and the mentor of [Ekko](<../pcs/other-pcs/into-the-chasm/ekko.md>). In January 1730, he led a group of Vejo Vaikai mystics into the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>) to investigate strange happenings there, under the protection of warriors from [Kemeko Monastery](<../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>).
 
-Eidrikas did not return from the expedition before the events that drew the party into [Zeyfa's Labyrinth](<../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>). His disappearance is one of the reasons Ekko and [Jrain Fanlish](<../pcs/into-the-chasm/jrain-fanlish.md>) were drawn into the chasm.
+Eidrikas did not return from the expedition before the events that drew the party into [Zeyfa's Labyrinth](<../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>). His disappearance is one of the reasons Ekko and [Jrain Fanlish](<../pcs/other-pcs/into-the-chasm/jrain-fanlish.md>) were drawn into the chasm.
 
 

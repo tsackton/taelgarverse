@@ -17,7 +17,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [Mazeanne](<../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../../creatures/species/humans.md>) (he/him)  
+    A [Mazeanne](<../../../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) [human](<../../../../creatures/species/humans.md>) (he/him)  
     Born DR 1650 (100 years old)  
     { .bio }
 

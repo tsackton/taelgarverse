@@ -28,7 +28,7 @@ The South Watch's two regiments are the Enst Regiment and the Dunfry Regiment. T
 
 The Enst Regiment is responsible for the garrisons along the river, as well as a major garrison in Enford, and is commanded by Major Edmund Hartwell. The Enst Regiment is 800 strong, divided into 5 garrisons and 3 companies
 
-* The [Army Garrison of Cleenseau](<army-garrison-of-cleenseau.md>), commanded by Captain Ida Rosfeld
+* The [Army Garrison of Cleenseau](<army-garrison-of-cleenseau.md>), commanded by [Captain Ida Rosfeld](<../../people/sembarans/ida-rosfeld.md>)
 * The Enford Garrison, commanded by Captain Matilda Wycliffe
 * The North Fork Garrison, commanded by Captain Pierre Rochefort
 * The South Fork Garrison, commanded by Captain Reginald Blackwood

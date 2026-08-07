@@ -25,7 +25,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 ## Session Info
 
-***The party departs Raven's Hold with a number of treasures.***
+***The party departs Raven's Hold with a [number of treasures](<../hoards/raven-s-hold-treasure.md>).***
 ### Summary
 - The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) discovers treasures and clues about gnolls in [Raven's Hold](<../../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>), including weapons for an army.
 - [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) senses extraplanar energy and they find a summoning circle on a bridge, which births a demonic creature.

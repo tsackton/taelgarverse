@@ -10,7 +10,7 @@ ancestry:
 gender: female
 whereabouts:
 - {type: home, location: Medju}
-- {type: away, start: 1748-10-01, end: 1748-10-14, location: ~Eastern Ocean~}
+- {type: away, start: 1748-10-01, end: 1748-10-14, location: Outer Ocean}
 - {type: away, start: 1748-10-16, prefix: sea elf village in, location: Quanyi}
 dm_owner: tim
 dm_notes: color
@@ -28,11 +28,11 @@ hide_toc: true
     Based in [Medju](<../../gazetteer/eastern-green-sea/medju.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of October 16th, 1748): [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), the ~Eastern Islands~
+:octicons-location-24:{ .lg .middle } Last known location (as of October 16th, 1748): [Quanyi](<../../gazetteer/eastern-green-sea/quanyi.md>), the [Eastern Isles](<../../gazetteer/eastern-green-sea/eastern-isles.md>), the [Green Sea](<../../gazetteer/green-sea.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Rescued from imprisonment in an aboleth's lair by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 14th, 1748 the ~Eastern Ocean~  
+:octicons-location-24:{ .lg .middle } Rescued from imprisonment in an aboleth's lair by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) on October 14th, 1748 in the [Outer Ocean](<../../gazetteer/outer-ocean.md>)  
 
 
 ![Resenna](/taelgarverse/assets/resenna.webp){align="right"; width="320"}Young woman, from Medju. Apprentice to [Arryn](<arryn.md>). Fled when he vanished into [Mirror Realm](<../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>); was trapped and enslaved by aboleth. Now dwelling with sea elves until aboleth curse can be removed. 

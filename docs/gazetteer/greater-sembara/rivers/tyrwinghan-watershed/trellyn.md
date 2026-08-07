@@ -17,4 +17,4 @@ title: Trellyn
 </div>
 
 
-A small river that originates in the [Mostreve Hills](<../../mostreve-hills.md>) and joins the [Aben](<aben.md>) near [Tafolwern](<../../tyrwingha/tafolwern.md>). 
+A small river that originates in the [Tyrwinghan Hills](<../../tyrwingha/tyrwinghan-hills.md>) and joins the [Aben](<aben.md>) near [Tafolwern](<../../tyrwingha/tafolwern.md>). 

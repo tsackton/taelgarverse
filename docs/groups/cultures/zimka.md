@@ -14,7 +14,7 @@ title: Zimka
 
 The Zimka are branch of the [Northerners](<northerners.md>), living in the foothills, forests, plateaus, river valleys, bogs, and lakes between the [Sentinels](<../../gazetteer/sentinel-range.md>) and northern [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). This region, broadly, is known as [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>), and is closely associated with the Zimka culture, especially the upper [Volta](<../../gazetteer/greater-sembara/rivers/volta-watershed/volta.md>), the upper [Teft](<../../gazetteer/greater-sembara/rivers/teft-watershed/teft.md>), [Breva](<../../gazetteer/greater-sembara/zimkova/breva.md>), the [Lavnoch Plateau](<../../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>), and the isolated highlands north of the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>).
 
-The Zimka tell aModern Zimka identity is complex, and the Zimka do not form a single kingdom or unified culture. Instead, the shared inheritance of ancient tales of traveling from across the mountains, and discovering the [kestavo](<../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) among the bogs and lakes of the upper [Volta](<../../gazetteer/greater-sembara/rivers/volta-watershed/volta.md>), binds together scattered northern villages, Brevan forest communities, Lavnoch clans, and the more Sembaran-influenced people of [Ardlas](<../../gazetteer/greater-sembara/ardlas.md>). 
+Modern Zimka identity is complex, and the Zimka do not form a single kingdom or unified culture. Instead, the shared inheritance of ancient tales of traveling from across the mountains, and discovering the [kestavo](<../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) among the bogs and lakes of the upper [Volta](<../../gazetteer/greater-sembara/rivers/volta-watershed/volta.md>), binds together scattered northern villages, Brevan forest communities, Lavnoch clans, and the more Sembaran-influenced people of [Ardlas](<../../gazetteer/greater-sembara/ardlas.md>). 
 
 
 
@@ -28,7 +28,7 @@ The name Zimka can be narrower or broader depending on speaker and context. In a
 
 ## Language and Naming
 
-[Old Zimkovan](<../../background/languages.md#old-zimkovan>), a [Northros](<../../background/languages.md#northros-language-family>) language descended from the speech of the earliest northern migrants, is now mostly confined to the most traditional and isolated parts of northern [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>), pockets of the [Lavnoch Plateau](<../../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>), old songs, ritual speech, and the lore of the kestavo. Many places in [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>) have ancient, Old Zimkovan names. 
+[Old Zimkovan](<../../background/languages.md#old-zimkovan>), a [Northros](<../../background/languages.md#northros-language-family>) language descended from the speech of the earliest northern migrants, is now mostly confined to the most traditional and isolated parts of northern [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>), pockets of the [Lavnoch Plateau](<../../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>), old songs, ritual speech, and the lore of the kestavo. Many places in [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>) have ancient, Old Zimkovan names.
 
 
 
@@ -55,7 +55,6 @@ The traditional Zimka religion is the worship of the [kestavo](<../../gods-and-r
 Zimka communities traditionally establish themselves around a kestavo or a place where a kestavo can be coaxed to dwell. The shrine is therefore not only a religious site, but a mark that a village has become a true community. Great kestavo can attract pilgrims from far beyond their homes. Among the best known are [Romil](<../../gods-and-religions/gods/kestavo/romil.md>), the glacier king; [Kamak](<../../gods-and-religions/gods/kestavo/kamak.md>), the lurker of [Lake Kamchak](<../../gazetteer/greater-sembara/rivers/volta-watershed/lake-kamchak.md>); and [Besla](<../../gods-and-religions/gods/kestavo/besla.md>), who is associated with the spring rains from the [Green Sea](<../../gazetteer/green-sea.md>).
 
 The kestavo are not the only spirits in Zimka tradition. [Zeyfa](<../../gods-and-religions/gods/kestavo/zeyfa.md>), the cruel west wind, and [Vaqar](<../../gods-and-religions/gods/kestavo/vaqar.md>), the fire-below, are feared rather than worshipped. Their children, the vazska, are spirits of hardship, cold, mischief, war, destruction, injury, sudden death, and burning homes. Zimka custom emphasizes placating, bribing, frightening off, or avoiding these spirits rather than honoring them.
-
 
 
 

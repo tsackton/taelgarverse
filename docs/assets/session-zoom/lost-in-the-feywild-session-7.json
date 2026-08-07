@@ -1,0 +1,1960 @@
+{
+  "schemaVersion": "1.0",
+  "sessionKey": "lost-in-the-feywild-session-7",
+  "blocks": [
+    {
+      "blockId": "recap-001",
+      "title": "Into the Lightless Prison",
+      "lines": [
+        {
+          "speaker": "Kaito Min",
+          "text": "Can you send me something?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Just…"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wait, Schwartz, did you send me something?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I didn't actually send you a link; I just sent you the track name. It's *Fear of the Unknown and the Blazing Sun*."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh, thank you. I got it, I got it, I got it. Thank you."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "And I gave, you know, Claude access to the source material. It generated a report including, like, a roster of fifteen distinct named dragonids from the ZCC harvest, and a whole in-depth explanation of what they are in that world, so…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Alright, y'all, I'm super psyched for this. This is the music I was listening to over and over and over while prepping for today, and I think it's just the right amount of deeply strange."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "We're the ones."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, we're not getting it."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I know."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, crank it up, huh? I'll be right back."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yep. And we loved… Hold on, hold on. Okay. There it is."
+        },
+        {
+          "speaker": "DM",
+          "text": "Of all the wires… It was the wires."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Are you hearing anything?"
+        },
+        {
+          "speaker": "DM",
+          "text": "That were the wires for empathy?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "the wires."
+        },
+        {
+          "speaker": "DM",
+          "text": "There we are. We're just getting the speech, not the music, I think."
+        },
+        {
+          "speaker": "Edric",
+          "text": "The news is coming."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "There it is."
+        },
+        {
+          "speaker": "DM",
+          "text": "...(music)..."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I sense the tone shifting."
+        },
+        {
+          "speaker": "DM",
+          "text": "...(music)..."
+        },
+        {
+          "speaker": "DM",
+          "text": "It's rather… Because this is the season finale, the “previously on” section is gonna be a little longer. But here's the story so far. Oh, I don't—wait."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "In here. Oh, yes."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Sounds fair."
+        },
+        {
+          "speaker": "DM",
+          "text": "The five of you are, in this moment, standing in something that's darker than blackness, having just passed through the door into the prison."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "An image?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, just blackness. Tim, in fact, if you've got any colors that are, like, blacker than black—the absence of the possibility of color—that would be perfect."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "And we should make sure to record."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "It's recording already."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Hold on. Okay, good. Okay."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I don't know if I can do just pure black. I mean, I can just get a pure black image."
+        },
+        {
+          "speaker": "DM",
+          "text": "So you've stepped through into the prison, the door closing behind you as you dodge, cleverly and quickly, away from the grasping hands of Menestheus, now fully transformed into a mushroom man. Here's how you got here."
+        },
+        {
+          "speaker": "DM",
+          "text": "Last spring, the embittered adventurer Hulda received a four-hundred-year-old deed of inheritance—written in oddly contemporary language—to a manor house at the wild northern edges of the Duchy of Tellim. There was one condition: go through the door in the cellar and convince the fey lord on the other side to break a promise once made. Lord Endless Ending had been tricked into his compact by the wizard Thalestria, head of the Drankorian order Arithrimos Lamperum in the waning days of the Empire."
+        },
+        {
+          "speaker": "DM",
+          "text": "Each time a clock she gave him struck zero, Lord Ending would send a mortal guest at his party through the doors of her house. That compact has held to the present, seven hundred years later, though for the fey lord it was merely struck earlier in the same endless celebration he still hosts. Hulda hires the party, who travel to the fey lord's revel, where Tarek steals a yet-to-be-disclosed possession of that lord and the party meets guests from across centuries, including a curious rakshasa—tigerman."
+        },
+        {
+          "speaker": "DM",
+          "text": "The fey lord is unable to break his promise, but asks them to bring him the key to the prison door at the center of the house—presumably because if they break it and the prisoner goes free, his promise becomes irrelevant. Joined by Menestheus, a member of Thalestria's party whom she left behind when she made the bargain, the group enters the house of twenty-seven rooms."
+        },
+        {
+          "speaker": "DM",
+          "text": "Surrounding a central prison chamber, the order built the house as a magical and mechanical device to untether that room from the world around it and keep its physical and temporal location constantly changing. If it stopped moving somehow, the prisoner would quickly escape. Each movement through a doorway shifts the physical or temporal coordinates of the prison. In that way, the randomness of mortal choices keeps the prisoner from knowing where or when they are, or what to expect, and the steady supply of mortals from Lord Endless Ending has kept it in constant motion to this day."
+        },
+        {
+          "speaker": "DM",
+          "text": "The party makes their way through the house, fighting off fungal-transformed attackers, one of whom badly infects Menestheus, and realizes that Hulda's servant who hired them—and the servants they saw at the house—were these same mushroom men."
+        },
+        {
+          "speaker": "DM",
+          "text": "They meet Kallipseis, an ancient dwarven wizard putting the final touches on a fungal golem body into which she intends to transfer her consciousness and restart the Arithrimos Lamperum. They collect a clock that always gives the ever-shifting year inside the central room and bring it with them."
+        },
+        {
+          "speaker": "DM",
+          "text": "And finally—and Eric, this is what you missed last session—you come to the library and talk with an unnamed clockwork magical research assistant, whom they give the name Aurae. Aurae helps them to understand—sorry, I should have written it in the second person—Aurae helps you to understand that the house is powered by the energy of trapped souls prevented from moving on to their afterlife, like water trapped behind a dam."
+        },
+        {
+          "speaker": "DM",
+          "text": "They read from the Arithrimos Lamperum's *Allegories for the Initiated*: odd stories about hedgehogs made to kill, and monkey-trap prisons where the opening is just large enough for the monkey to put its hand in, but it cannot pull its fist back out while holding what's inside."
+        },
+        {
+          "speaker": "DM",
+          "text": "Mindless things that imitate minds. Then Aurae writes a personal allegory for each of them—and with apologies, Tarek, that was the one thing I didn't have time to prep for you this week."
+        },
+        {
+          "speaker": "DM",
+          "text": "At the prison door, you see three doors simultaneously overlaid. Each leads to a room where you can see one of the three voices you've heard through the walls in your wanderings and read in the transcribed notebooks: a child, a young adult, and a deeply crazed middle-aged man who appears vastly older."
+        },
+        {
+          "speaker": "DM",
+          "text": "As you open the door to the room with the child, Menestheus—now fully transformed into a mushroom man—attacks. Dodging him, you step through and close the door behind you. You stand now in an utter darkness, in something darker than darkness, in the absence even of the possibility of color, form, or light, as the clock that Tarek, I think, is still carrying strikes zero."
+        },
+        {
+          "speaker": "DM",
+          "text": "In the darkness, I would love to open with a brief character description, despite the absence of anything visible. What is the hope and the fear that you're experiencing in this moment?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tarek must have kind of blacked out and is still recovering."
+        },
+        {
+          "speaker": "DM",
+          "text": "So he's experiencing…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Confusion, discombobulation."
+        },
+        {
+          "speaker": "DM",
+          "text": "The last room, too, was a library, so perhaps you found a book that was just absorbing and ignored what was going on. But he's also a little puzzled by the sensation of the clock striking zero, because clearly it makes…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Zero chimes at all, so how do you even know that has occurred?"
+        },
+        {
+          "speaker": "DM",
+          "text": "But he knows it nonetheless. I suppose I should tell everyone, but in his confusion he only mumbles something: “It struck… it struck zero?”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric is—I mean, you can't see him, it's pitch black—but I think there's still a sense of him in the space, large and trying to be brave and comforting. Whether anybody senses that is, I don't know, up to you guys. His fear…"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Which he probably wouldn't admit to. Well, he has two fears, one of which he probably would admit to and one of which he probably wouldn't. The one he would admit to is just that he's afraid he's gotten himself into something that's gonna peril his soul—in the literal, not the modern Christian sense of the word or anything like that, but in the literal sense of: is this going to eat my soul? The fear that maybe he wouldn't admit to is: does he even know who the good guys and the bad guys are? Is he doing the right thing by making assumptions about which ones are which? Although he's pretty confident from what we learned last session about who they could get. His hope is that…"
+        },
+        {
+          "speaker": "Edric",
+          "text": "We can break the prison and free this creature, and end the necromantic, soul-eating mechanism that he believes is now the source of all these problems."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yo—oh, sorry, go ahead."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "No, you know."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito has been on such a roller coaster this whole journey, and it's really deeply affected him. This is so far out of the standard realm of the tricks and conquests he's used to doing with Tarek—performing and getting some… or whatever kind of mercenary stuff they've been doing, and the tricks and games. There's something about this return to total blackness and the void that is hitting Kaito deep right now."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "There's something ancestral and ancient and timeless about this moment for him. There's a certain way in which the material life, and all the shit in Taelgar and whatever, has just evaporated. He has gone someplace pretty sacred, and… nothing, and void. He doesn't even know who he is anymore, or what. He's lost all sense of identity in this moment and doesn't know…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Time, direction, anything else. Txarro?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro is a tiny, maybe six-inch-long brown anole, having just wild shaped to escape the tentacle of Menestheus moments ago. You cannot hear or see him, but at the moment he is likely trying to run up Edric's leg so as not to be stepped on, and possibly wishing that he were a tiger instead of a lizard as he looks into the darkness—which is presumably impenetrable even with darkvision—and wonders where the way home is, and if he will be able to find it."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Ayveen had been feeling pretty good about what they learned in the library. They had a plan and maybe understood what they were going to be able to do to help people. And then, inside this prison, there's no light. Everything that she draws inspiration and reassurance from is finding the light and bringing the light, so she's just taking a pause to see what continuing to do good and help could possibly look like when there's no light. Maybe it'll be temporary."
+        },
+        {
+          "speaker": "DM",
+          "text": "Tied to one of your backs is Aurae, a sort of bust of a human made from porcelain and wire and paint and steel. But if Aurae has opinions on what's going on, they don't share them at this moment."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "How do you spell that name?"
+        },
+        {
+          "speaker": "DM",
+          "text": "A-u-r-a-e."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "AKA Kaito's best friend."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "A chatbot? Your best friend's a chatbot? That's weird."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "You said that part a little too loud."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I don't know."
+        },
+        {
+          "speaker": "DM",
+          "text": "This space that you're in is lightless. There's no sound—not that it's muffled, but there's just nothing making sound. It's silent. What would y'all like to do?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Schwartz, is the feeling like we're floating? Are we standing on anything? You know what I mean—what's the sensation in the body?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Gravity and physical space, you're standing on something."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Edric's gonna… Cast light."
+        },
+        {
+          "speaker": "DM",
+          "text": "Nothing happens."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Like… describe nothing."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, that's such…"
+        },
+        {
+          "speaker": "Edric",
+          "text": "The spell doesn't work—or the light is invisible—but the spell works?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You're still able to make a connection to the Light Queen—Night Queen—so the spell succeeds. It's not counterspelled or unable to be cast; it's just that when you cast it, no light is produced. Presumably the conclusion you draw is that there's some effect, some magical effect suppressing it."
+        },
+        {
+          "speaker": "Edric",
+          "text": "So it's like what would happen if you cast the *Light* spell, then put a—put a rock—because it doesn't shine through cover, so presumably…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes, right. The spell is cast; there's just nothing…"
+        },
+        {
+          "speaker": "Edric",
+          "text": "There's just something blocking the light, so you can't actually see it. Like it's surrounded by tinfoil or something."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tarek puts the clock up to his ear. Or I'm just sort of investigating it with my fingers, too—maybe shake it a little."
+        },
+        {
+          "speaker": "DM",
+          "text": "Can you roll me an investigation check?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Okay. 13."
+        },
+        {
+          "speaker": "DM",
+          "text": "For a thirteen, you remember that the clock striking zero was the same thing that happened at Lord Endless's party; that was the cue to send another mortal into the house. You can also tell that the changing numbers are printed on little wheels or dials, and the printing is slightly embossed. With a couple of minutes of study, you could probably figure out the numbers and what the year is right now. If you want to work on that, we'll follow up in a minute."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yes, I used my…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Sensitive lock-picking fingertips to read. Perfect. You succeed; it'll just take a minute to figure it out. There's no…"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Sound we're perceiving, or light we're perceiving, from…"
+        },
+        {
+          "speaker": "DM",
+          "text": "The space we're in? You feel gravity. So, Ayveen…"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "She sort of reaches out and says, “Can you all hear me?”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "I assume we can hear Ayveen."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes, you all can hear her."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yes!"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Oh, that's something."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I mean…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Hey."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Can we just reach out? It's just darkness, right? We can feel each other?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, you can feel each other. When you reach back to touch the door you came through, it doesn't exist on this side of the wall. There's a smooth wall behind you. Reaching the other way, you realize you're standing on a very small patch of smooth floor that quickly gives way to something you recognize by touch as woody or bony—almost like coral left behind after the animal inside has died."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Like, a wall, or on the ground?"
+        },
+        {
+          "speaker": "DM",
+          "text": "On the ground. Ropes and roots and shoots of it."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "No."
+        },
+        {
+          "speaker": "DM",
+          "text": "Similar to the tunnel you came through to get here."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "It's not a tunnel, but it's the same stuff."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I'm gonna run up the wall behind us, is there a ceiling?"
+        },
+        {
+          "speaker": "DM",
+          "text": "There is. Actually, as you get maybe ten feet out, the stone wall starts to give way to these roots and branches and blobby coral structures—things you can't identify, but which give the impression of sculptures, like imitations of faces or hands. It's difficult to tell in the dark. It starts to angle out, so you can keep proceeding upward, but you're moving at more of a thirty- or forty-degree angle toward the center of the room than straight up toward the ceiling."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "So, like, the wall—the…"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The wall has, like, an eave."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Has an eave? Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, an eave. That's not the substance of the wall itself, but the substance of that root stuff."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "“I guess we keep going forward. What other choice do we have?” you hear this little lizard voice say above you."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Kong, did you see my message?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "That's a good idea."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah, I mean…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tarek says, “Hold on there, I've almost got it.”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Schwartz, I'll detect thoughts."
+        },
+        {
+          "speaker": "DM",
+          "text": "Boom."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I can sense the presence of thoughts within thirty feet that belong to creatures that know languages or are telepathic. I can't read the thoughts, but I know that a thinking creature is present. Nice."
+        },
+        {
+          "speaker": "DM",
+          "text": "A thinking creature is present that can use language and is telepathic. The year is 1351. That's a little more than four hundred years ago."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, oh dear."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "How do I know that?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I've just done that."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I let everybody know. That's—what, what?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "The year?"
+        },
+        {
+          "speaker": "DM",
+          "text": "What do you mean? What is…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "What's weird? The year on the clock—when is that true?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Zero, which is now, I suppose. Or was now."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Does that coincide with the contractual agreement?"
+        },
+        {
+          "speaker": "DM",
+          "text": "It's close, yeah."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Before or after?"
+        },
+        {
+          "speaker": "DM",
+          "text": "1352 was the deed's origination date."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "So it was just one year before. Oh, strange."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro says again, “I really think we just go talk to this creature, whatever it is.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Where is it?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "It's within thirty feet of us. Just a tiny lizard voice: “Hello?”"
+        },
+        {
+          "speaker": "DM",
+          "text": "I'm gonna answer that in just a second, but Kong, I'll say that in this case your *Detect Thoughts* encounters an obfuscation, or something strange. On the one hand, there is very clearly a creature—a creature that is thinking, can use language, and has a telepathic mind. On the other hand, it's almost like you're hearing a distant chorus of voices, a murmuration. You know how, if you're on a second- or third-floor balcony above a room with a hundred people talking, it's just—that feeling, but with thoughts. So there are two different categories of things going on. Sorry, Tim, can you say that again?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I just said, “Hello?” in Common."
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "title": "The Child and the Time Loop",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "“I am looking at your dreaming,” says a voice inside all of your heads at once. “It is very lovely.”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Who are you?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I am being a child now."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Who are your parents?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I'm not knowing. They're being on the far side of the well."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Where is the well?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The well is being here, just where I am, but not inside the walls. I am not seeing it from inside."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Are you trapped here?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes. Why? You know why? I'm grown, and the first dreamer I have ever seen is coming to me. I'm seeing his dream, and it's beautiful, and I'm keeping it. The second dreamer is coming, and I see that dream, too. I am keeping that one and not letting it go. The dreamers are coming by the dozens."
+        },
+        {
+          "speaker": "DM",
+          "text": "These dreamers are carrying the cold metal and the sticks that make heat. They scare me, and they praise me, and they say they have more dreams to give me. They say I am helpful. They are saying I can keep the dreams so no one can find them—that when I keep the dreams, I am hiding them."
+        },
+        {
+          "speaker": "DM",
+          "text": "They're saying some dreams are bad dreams, and I am good at hiding them. But every dream is beautiful to me, and I am keeping them. They're saying that if I am promising to keep every dream they bring me, they are building me a house to play in. If I live inside the house, they are bringing more dreams. I am inside the house, and the walls are cold, and I cannot sleep, and I cannot leave—but they're bringing me more dreams."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Watching the dreams."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "You're like the beaver dam."
+        },
+        {
+          "speaker": "DM",
+          "text": "I am listening to the dreamers outside the walls, and I am asking them to let me go home, and they are telling me it is too important that I eat the dreams they bring to me. They're telling me the door to my house does not open big enough for me to go. And my teacher…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Sure."
+        },
+        {
+          "speaker": "DM",
+          "text": "…is not coming. The only thing with me is the dreams. The dreams are wanting to leave, but I am not letting them, because I am being alone without them, and nothing is moving, and everything is changing."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Where's home?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Home is being at the bottom of the bottomless well. The house they're making for me is not my home. Have you appreciated the dreams that you've had for company?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Would you let them go if you went to your home at the bottom of the bottomless well?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I do not let the dreams go. Why am I letting the dreams go?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Being with you is not the dreams' home, like this house they built for you is not your home."
+        },
+        {
+          "speaker": "DM",
+          "text": "It pauses in a long silence that suggests both that it knew you were going to say that and that it didn't want to face it."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Hmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "I cannot see what your dreams are doing. I am like this always. When dreams are coming to me, there is a deciding, and I am not knowing what is happening."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Hmm…"
+        },
+        {
+          "speaker": "DM",
+          "text": "When dreams are coming to me, there is a curiosity, and I am not knowing what the questions are being."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tell us about one of the dreams you've already got."
+        },
+        {
+          "speaker": "DM",
+          "text": "I am telling you a story if you are telling me a story, too."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Hmm. That seems only fair."
+        },
+        {
+          "speaker": "DM",
+          "text": "My teacher is sitting with me next to the well, and he's teaching me how to speak in stories that dreamers can understand. We're sitting next to the well, and my teacher explains how words make before and after—how words make stories about befores and afters. And he is leaving, and his party is starting."
+        },
+        {
+          "speaker": "DM",
+          "text": "He is coming back when it has ended, and I'm next to my well for a very long time. I'm liking how still the world is. Everything is moving, and nothing is changing. The wind is moving the grass, and the bright stars are just coming out, and I am watching and watching, and the smell of my home is nearby in the well. I am not going home because I am very quiet, and very still, and very happy. And the first dreamer is coming to me."
+        },
+        {
+          "speaker": "DM",
+          "text": "I used the words my teacher taught me. The dreamer is like you. It walks with two legs. It is not knowing the shape of its own possibility. It comes down the road, and it's walking up and up to where I am sitting, and it is speaking in words to me, and I am speaking back. That dream is a curious dream. That dream is a singing dream. She's still here."
+        },
+        {
+          "speaker": "DM",
+          "text": "She sings sometimes, less and less. That dream sang to me the story of its travels, and sang me a story of light, and I told it a story from my home. Then it was just a shining dream and nothing else, and it stayed with me ever since. What is the story of a dream that you know? What is the story of your dream?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Once, when I was younger than I am now, I was exploring a place I thought I knew well near where I grew up, and I fell through the floor. I was hurt, but in the beam of light from above I saw some very old things around me. They were from another people. I thought maybe they could help me, and no one would mind if I just took one or two. I found my way out, and after that I knew—or I thought I knew—the shape of my own possibilities, because other people were very interested in those things I had borrowed, or taken, and I could get the things I needed and wanted as a result."
+        },
+        {
+          "speaker": "DM",
+          "text": "I am watching your dream. It falls silent, and you get the impression that it's reflecting to itself and withdrawing from the conversation for a bit."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Tim, is it talking to us in a voice that we can hear? Can we place it—like somebody speaking in front of us? Do we locationally know where they are?"
+        },
+        {
+          "speaker": "DM",
+          "text": "It is speaking psychically, but you do have a sense that there is a location, sort of toward the back and top of the room. This room, like all the others, is a thirty-foot cube. Txarro's investigation suggests it's almost like a root-bound plant that has grown to fill the entire space of its pot, except for the relatively small open area where you are now. Somewhere toward the back and top is the center of the thing itself."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "But the entity is there."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes. So this thing—is the monkey's paw forming the beaver dam, if you know what I'm saying? Can everyone hear in the dark?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "What's that?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yes, we hear you, Eric."
+        },
+        {
+          "speaker": "DM",
+          "text": "It's the monkey's paw because what it's holding—all these mortal souls—prevents it from escaping. But if it releases them, well, then what happens?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "The dam breaks, and this…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, the prison? Powered by the pressure of all the souls that wish to return, or depart, or die, it will cease to function."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "And it releases… What?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "This entity who we're calling the prisoner…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Has…"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Some attributes that are plant-like."
+        },
+        {
+          "speaker": "DM",
+          "text": "…is a collector of souls, but can live in its home at the bottom of the bottomless well, happily experiencing…"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Familiar smells and stars. Not so much into…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Souls. So it has a natural place in existence. People got involved, and it became a soul trap. We could send it back there, if we can persuade it. We don't agree to…"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I'm gonna crawl around. Are there any other exits from this room?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes. In the corner, sort of to your right as you're still standing by the entrance, you go a foot or two in and then, realizing what it is, back out again. There's a hollow, root-like structure that seems almost identical to the one you crawled through from Taelgar to the Feywild—a structure whose dimensions, size, and shape suggest it grew out of the prison."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "The rate that mortals have been coming hasn't quite been enough to maintain one hundred percent prison structural integrity. So there's a root, and the mushroom men got out, too—into our world, where they were able to be servants, and out into the Feywild, where they were able to be dangerous."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Oh, he's gonna turn back into a lizardfolk. It's a little bit easier to talk."
+        },
+        {
+          "speaker": "DM",
+          "text": "Kaito asks…"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What do you want?"
+        },
+        {
+          "speaker": "DM",
+          "text": "There's a tremble in the thing's voice as it responds, almost like fear. “I'm not knowing, and I'm not knowing why I'm not knowing.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Dream…"
+        },
+        {
+          "speaker": "DM",
+          "text": "I'm missing my teacher. I am missing my home. I'm loving the dreams that I've collected, and I'm not letting them go. I'm not knowing, and I am not knowing why I'm not knowing."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Can you tell us a story about your teacher?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I will tell you a story about your future."
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, teacher. I said teacher, not…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Teacher. Teacher, not future. Yeah, sure."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Can you tell us a story about your teacher?"
+        },
+        {
+          "speaker": "DM",
+          "text": "When my teacher is finding me, I am being very small, and the world is being very, very big. When my teacher is finding me, I'm not knowing what this place is. I am not knowing words. My teacher is very patient. My teacher is very nice, and explains things to me."
+        },
+        {
+          "speaker": "DM",
+          "text": "My teacher is having to leave, and I am not wanting my teacher to leave. But my teacher is having to leave. My teacher is explaining. He is saying he is part of a story, and everything here is part of a story, and there are words for before and after."
+        },
+        {
+          "speaker": "DM",
+          "text": "He is having to do his part of the story, and he is coming to me after. He is believing that, but I am knowing it is not true, and I am not seeing him again. And I am sad because I am loving him. Now you'll tell me a story about your teacher."
+        },
+        {
+          "speaker": "Edric",
+          "text": "My teacher is a power beyond understanding that guides, that watches over us as we transition from life to death, from death to life, and makes the night safe. She teaches me to have faith every day that the night will be safe, no matter what else happens."
+        },
+        {
+          "speaker": "DM",
+          "text": "I am seeing this."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Your teacher seems… Where did your teacher go?"
+        },
+        {
+          "speaker": "DM",
+          "text": "My teacher is going back to his house, where his party is beginning."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "It is saying."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "The lord."
+        },
+        {
+          "speaker": "DM",
+          "text": "Right. Txarro keeps glancing over at the hole in the floor, then looks to everybody and says, “Why don't we just leave?”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "And go where?"
+        },
+        {
+          "speaker": "DM",
+          "text": "There's a tunnel through the roots over there, very much like the tunnel we used to come into this cursed realm."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, you think we could just go through? I do not know where it leads, but that is my guess. Okay."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "We're having this conversation telepathically or out loud?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Out loud, the voice in your head seems telepathic, but you're responding out loud."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What would you have us do?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Dreamers are being difficult, always, to explain to. You being here, and your dreams, are confusing to me, and I cannot see what they are doing. I am bringing you here. I'm not knowing what is happening next."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Do you want us to stay, or go, or bring you, or something else?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I'm not… I am not a thing that wants. It makes the dreams I've collected very confusing, because I do want them. I'm not a choosing thing, like the dreamers are choosing things."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "The dreamers would like to leave you?"
+        },
+        {
+          "speaker": "DM",
+          "text": "A pebble in your pocket is wanting to fall to the ground as soon as it can."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Shit."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I'm gonna look over at Kaito Min and say under my breath, “Why do we care what it wants?”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "How do we go home?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, we can't leave this."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Why not?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "It's eating souls and doesn't know any better."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Maybe we can convince it to let them all go, but then what would happen?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Dude."
+        },
+        {
+          "speaker": "Edric",
+          "text": "They go to the land of the dead, where they belong. Hopefully."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Well, doesn't that seem like it would be beneficial?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yes! That's why we can't leave."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "When dreamers don't have bodies anymore—sorry, Kaito, were you about to say something? Dreams will stay with you, but another form can leave. Those have gone from this place; they've gone in many directions. Have you helped guide where they go when they leave through the exit?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Or…"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Is that not something—as you said, you do not choose—do you not choose where the dreamers go, or the people we call mushroom people, where they go when they leave?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Sometimes when the dreamers come into this room, my children, who are not knowing any better, find a home inside them and grow until there's no more dreamer and only my children."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So when your children have left here in what used to be a dreamer, but is not anymore—it is all your children—"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "—is it chance where they go?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The ones who built my playhouse kept me from seeing where I am, and when I am. They made it so they are the ones controlling where I am and when I am. Therefore, they are the ones who control where and when my children go when they leave, out through the root that I grew before everything began moving. So when I send my children out—and, too, when I send out the ones who did not become my children—"
+        },
+        {
+          "speaker": "DM",
+          "text": "I am sending them like seeds scattered on the wind, not knowing where they will land. I have no way of knowing where and when I am."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So if we know where and when we are, and we leave, that is where we will be through the root."
+        },
+        {
+          "speaker": "DM",
+          "text": "Where and when it is inside the room is where and when it is on the far side of the root. That is the nature of the thing."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "What year did you say it was, Tarek?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "1351, I think?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "I don't wanna go there."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That's not our time."
+        },
+        {
+          "speaker": "DM",
+          "text": "1351? That is a funny time."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "What's funny about it? Funny ha-ha?"
+        },
+        {
+          "speaker": "DM",
+          "text": "That is the time that Old Hulda went to."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Who? Old Hulda?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Old Hul—Hulda. Yeah. Wait."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Did he set himself up in some sort of time loop?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The thing laughs to itself."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I'm not sure if Edric—well, no. Edric would have said that. Well, just kill it."
+        },
+        {
+          "speaker": "DM",
+          "text": "Dreamers are being difficult, always. I'm seeing the shape of your dream's possibility, and it is being your future. All of you are being twenty years older. Tarek, you are being a father to your children. Ayveen, you are helping your parents' dream drift home. Txarro, you are caring for a whole village. Kaito Min, you are not being adrift; you are going home. And Edric, you are not being in the world at all. You are at the gate where your godmother stands. In this possibility, Old Hulda is not getting the deed for my bones."
+        },
+        {
+          "speaker": "DM",
+          "text": "Old Hulda is adventuring still. Old Hulda is being angry all the time, and hurt, and sad, and is finding a door in my bones, and crawling through a tunnel, and walking a road, and opening a door, and talking to me right now inside this house. I am telling him, “You are old and angry and ending.” I am telling him, “Crawl through the hole in my floor, and it is being four hundred years ago without you being born. You are writing letters on paper and giving them to a man who is giving them back to a younger you.”"
+        },
+        {
+          "speaker": "DM",
+          "text": "You are writing a promise to break the agreement of my teacher, and you are keeping house and reward, and best of all, younger you is not becoming you. And he is doing it. Old Man Hulda is crawling through the hole and dying. But young man Hulda is getting my deed, and my children are helping find you, and you are being here, and your dreams are confusing me, and I cannot see what they are doing. This is the fourth time now that one of the seeds I've cast out into the world has sent someone back to me. I am hoping this is the last time, and I am not knowing."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Wow. That explains, and yet also fails to explain, everything. I love it."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "What the fuck is going on?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "What are my kids' names? No, no, wait. I don't want to know, because they may never come to be. The fourth time? What were the others?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Peace. It's silent. It's silent."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Time loops are hard to reason about. Time loops are hard to reason about."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Our dreams are confusing, alright."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "This is the fourth time."
+        },
+        {
+          "speaker": "DM",
+          "text": "Not with all of you specifically, but the fourth time it has sent someone out into the world who has returned others to it."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "So before…"
+        },
+        {
+          "speaker": "DM",
+          "text": "It's ambiguous whether all four were Hulda, or whether they were different people, or different versions, or…"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, so I mean, like."
+        },
+        {
+          "speaker": "DM",
+          "text": "The fourth experiment, or the fourth…"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "iteration of the…"
+        },
+        {
+          "speaker": "DM",
+          "text": "The fourth run, yeah. The fourth one that's gotten a result."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Hulda's number four, and there were three others."
+        },
+        {
+          "speaker": "Edric",
+          "text": "“What the fuck are we supposed to do? You want this to be the last time; we want this to be the last time. What do we do?” Edric literally just says that out loud."
+        },
+        {
+          "speaker": "DM",
+          "text": "I am not knowing how to let go of the dreams that I've collected."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I found, upon learning how to make it so things could end up in my pockets without anyone else knowing, that it all went much better if they came out again. I take things and give them back right away. In fact, I've got this thing, if you happen to know what it is. I don't."
+        },
+        {
+          "speaker": "DM",
+          "text": "I'm gonna challenge that, actually. I need you to describe what this thing is, and especially what its significance is."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, no."
+        },
+        {
+          "speaker": "DM",
+          "text": "You'd think."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Well, I'll just use the first thing that came to mind. It's a cup, a small one."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I've been carrying it around in this velvet bag—I think I found it in the bag. Anyway, through the bag you can kind of feel that it's…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Heavily ornamented. What would you drink from such a cup? That I don't know."
+        },
+        {
+          "speaker": "DM",
+          "text": "Who's drinking from this cup? And what is on this cup?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "It came from your teacher's house."
+        },
+        {
+          "speaker": "DM",
+          "text": "“I would take it out and look, but I'm out here. I cannot see.” You feel something in it soften. “My teacher… he's telling me that stories are what make before and after. My teacher is telling me that stories bind him. Require him. Oblige him.”"
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "title": "Stories That Set Them Free",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "And I'll say mechanically: in order to convince him to let go of the souls, each of you has a Persuasion check you can make if you tell him a compelling story. I mean that in an extremely open-ended way—in form, format, content, and purpose—as open-ended a way as you can imagine among all the stories you've encountered in the Feywild so far. Who's ready? The result is that he might let go of some of the souls, or all of them."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "A story about ourselves, or about someone else, or…?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Or about him, or the future, or the past, or…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "A name?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The present moment you're in right now, in a way that reshapes it, like Thalestria did with Endless. Or an allegory, like the allegories written for you. Or a history, like some of what's been told. Or…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Hmm…"
+        },
+        {
+          "speaker": "DM",
+          "text": "I'm intending it extraordinarily broadly. I would love you to give me the rationale for what you're hoping the story will accomplish, and then tell it. Essentially, rather than resolving this with a combat, we're doing it as a storytelling contest."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro, who has never told a persuasive or convincing story in his entire life, sits down and thinks."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Tarek reflects on the nature of taking and giving things back, and notices that he still has this lord's cup."
+        },
+        {
+          "speaker": "DM",
+          "text": "Alrighty. Edric?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "It's not necessarily an effective story, but I think Edric's gonna do this anyway."
+        },
+        {
+          "speaker": "Edric",
+          "text": "First of all, the general idea of what Edric would do would be to show… So the story is basically about how this comes to discover—I don't know, I'm couching this because I need to ask you a mechanics question—but Edric wants to convince him that he's not being kind or nice to the dreamers. When he's taking them, he's violating the order of the gods, and this is a horrible thing he's doing, and he should stop because it's so bad."
+        },
+        {
+          "speaker": "DM",
+          "text": "Mm-hmm."
+        },
+        {
+          "speaker": "Edric",
+          "text": "And I wanna enter a rage, as his zealot mode, and use Strength…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh, man."
+        },
+        {
+          "speaker": "Edric",
+          "text": "…instead of Charisma."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes. Fine."
+        },
+        {
+          "speaker": "Edric",
+          "text": "On this story."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I need to buy experience."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I need to find a dot, but I'll tell it. Edric prays to the Night Queen. We're still in pitch darkness, right? So you can't actually see him, but you can hear his prayer. Again, you have this palpable sense of religious fervor in the room, this raw sense—almost radiating from him—of anger at the wrongness of what's happening."
+        },
+        {
+          "speaker": "Edric",
+          "text": "He tells, in short, staccato words, the cycle—the mythology of souls. The basic story is the core miracle of all humans: they are born, and the gods grant them a miracle at birth, passing their soul into Taelgar. The gods grant every human a miracle at death, taking their soul back into the divine outer realms. Edric tells it with a very religious flavor: the Night Queen mediates this, and this is a miracle that every human deserves. “You are taking this miracle away from them. When you take their dreams, you prevent the gods from taking this soul back and giving them the miracle of death that the Night Queen brings, and the miracle of peace. You think you are inspecting their dreams, but you are not human. You do not know what you're doing.”"
+        },
+        {
+          "speaker": "Edric",
+          "text": "“It is wrong, and you need to stop, because you are hurting people.” The beginning is all the typical myth, and then he's like, “I've learned what's happening. The person who created the prison trapped you, convinced you, and made you do this thing where you are hurting these people. You are not somebody who wants to hurt people. You do not believe in hurting, so stop, and let them go to where they belong.”"
+        },
+        {
+          "speaker": "DM",
+          "text": "I love it. I have a threshold for the total number of souls this thing has collected. For each of you, we're gonna take your roll with modifiers and sum it up. If the collective sum exceeds the threshold, it's a success as a group. If not…"
+        },
+        {
+          "speaker": "Edric",
+          "text": "I rolled a four."
+        },
+        {
+          "speaker": "DM",
+          "text": "So that's not very good. A four, but with Strength instead, would be a seven. Do y'all not have Heroic Inspiration? Is that another thing?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "It is a thing. I'm a human. I can't remember when we last long rested."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "You used it in the combat."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I think I used it in the combat."
+        },
+        {
+          "speaker": "DM",
+          "text": "I mean, we've got two bards."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh, everybody should have Bardic Inspiration. How many do you guys have?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Four?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Three or four total between the two of them?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I have two left. I've got so many lives."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Wow, we should all take bardic inspiration, huh?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes, one hundred percent. You should use it right now."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Five."
+        },
+        {
+          "speaker": "DM",
+          "text": "Add that."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Nice."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Wow. Total?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Twelve total."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Unless I'm just looking at one thing…"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "No, no, no, you're raging, you have advantage."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I was gonna say, do I have advantage because I'm raging?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "How you doing?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Oh my gosh."
+        },
+        {
+          "speaker": "DM",
+          "text": "You do have advantage; that's what I was looking at."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Wow, okay, that's seven. Not that much better than a four, but it's fifteen instead of twelve total."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That's more souls. There you go."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh, that was my last rage, too."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "In the darkness."
+        },
+        {
+          "speaker": "DM",
+          "text": "Sorry, Mike—describe coming out of that rage, your last rage. What's your affect like? What's it like coming out of this rage in particular?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "Normally, Edric comes out of a rage in the post-combat rush, and it's a quicker transition, so he flows through a little more easily. Here, he just sits down—almost collapses. He feels like everything's gone now. It's up to the fate of the gods, and he can't influence it anymore. He's just sitting on the ground."
+        },
+        {
+          "speaker": "DM",
+          "text": "I love it."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wait, Schwartz. We're telling a story, and then how does this relate to the rolling?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Then you're making a Persuasion check with whatever modifiers you can add. But the story has to be effective, or it won't give you the roll."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Got it."
+        },
+        {
+          "speaker": "DM",
+          "text": "It's gotta be something that would convince him to let go of souls. I want to make it really expansive. It's not merely an argument in favor of letting go; it could be any flavor. It could be a fairy tale, it could be a…"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I got it, okay."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I wanna go next. You can't see Kaito Min—of course, none of us can see fucking anything—but being here in this moment has honestly been kind of a religious experience for him. He gets down on his knees and faces in the general direction where he hears the voice."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I guess he's thinking this in his mind, because he doesn't actually say it out loud. This is more of a private conversation with this voice, whomever this is. Kaito's basically like: “You love the dreamers and the souls, and I've also loved dreamers and souls. I've loved being a trickster—the trickster, the one to show dreamers' dreams, and Tarek, the one to show souls the way to use their souls.”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "“And so many dreams—but also stolen, and kept for myself. So many dreams have been lost and not returned.”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "“Those dreamers have lost the ability to dream, or maybe lost their own souls. But I didn't care, because I had their souls and their dreams, and that made me very happy. It made me very, very happy. And I'm old, relatively speaking—not as old as you, maybe. I don't even know what time means here. But I've also kept so many dreams and so many souls, and I thought that made me happy. I thought it gave me meaning. I thought every new soul I kept, every new dream I collected, would make me more full and more at peace, and maybe help me understand more of who I thought I was.”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "“But being here…”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "“Being in this nothingness, in this total darkness, I actually don't remember anymore about the dreamers, the dreams, or the souls that were taken or lost. Here, there's nothing. There are no dreamers and no souls for me. But something is different here—something different from what I've felt out there. Even though there are no more dreamers and no more souls, with all of that gone, now I can see who I am. I thought I knew what happiness was, but now, without any dreamers, without any souls, with just this nothingness, I'm not scared.”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "“I'm not empty, either. I think I'm happy for the first time ever, here in the nothingness, in the darkness, with no souls and no dreams.”"
+        },
+        {
+          "speaker": "DM",
+          "text": "Let me respond real quick before you roll. After Edric's story, the sense was that the prisoner's attention was on the souls it was holding. Kaito, after your story, the sense is that it's thinking of its home—the place and the thing it was before, and maybe after, what it is here."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Should I roll a d20?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Persuasion?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Plus seven, baby. Let's fucking go."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "What'd you get?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I rolled a one. Falls flat. Wait, wait, wait! I got special shit. I get to do all kinds of fucking shit. I have luck points I can spend."
+        },
+        {
+          "speaker": "Edric",
+          "text": "At what point?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I can spend a luck point to give myself advantage on a roll, so I spend one."
+        },
+        {
+          "speaker": "DM",
+          "text": "This feels like an appropriate time."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Indeed."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I will reroll that one. I can't do any worse. Okay, this is much better. I got a twenty."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Wait, really? You went from one to a twenty?"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "With— I rolled a thirteen."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Oh, I was gonna say, that would have been a good reversal of fortune."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I mean, it's still pretty good, from a one to a thirteen."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Pretty good, yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "No way, dude."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah. Bardic or other…"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I can do more things. I can't use Bardic Inspiration on myself, though, right?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "You can have…"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "But Ayveen can give you bardic."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Ayveen can give—"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Oh!"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "I think we each have one bardic."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Great."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Cool, so I roll another d6."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yep."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, so let me roll another d6. Two. Twenty-two."
+        },
+        {
+          "speaker": "DM",
+          "text": "It was solid."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Is anything happening as a result?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Nothing visible is happening, but there's a feeling like a softening, a shift. If you're in a conversation with someone who's very skeptical, and over the course of it you watch their face shift and open and begin to hear and receive—that's the feeling you're having, though there's…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Nothing."
+        },
+        {
+          "speaker": "DM",
+          "text": "to see that corresponds with it."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I love it so much. It's like, “Are they bloodied?” They're really receptive and warm and loving. It's hilarious. They're bloodied."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That's amazing."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "The best combat of all time. Great."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Alright, you said to state the intention first?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, so I know where you're going with it."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "It's about how giving is receiving, and letting go is lightness. Once, when I was a kid, I acted so fast out of instinct. I reached out to grab the frying pan that my mom had dropped—she wasn't really my mom, but, you know, the family I was living with—into the fireplace. I've always been kind of quick, so I managed to grab it by the handle. Everybody was afraid and surprised when I held it up, smiling, and gave it back, because it was burning hot. But I didn't feel it. Nobody understood why. They were a little afraid of me after that, and I left home…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "…just for a day or two, like I would sometimes. Wandering around in the summertime, I realized my body didn't react to the sun the way it normally did, and I tried juggling hot coals. I found I could. But one day I took off that ring—the one I found when I fell through the floor—and it all stopped. I thought maybe I should look into this. Maybe it could be my way out. Maybe I could sell it. Maybe somebody would be amazed…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "…and want to learn where I found it. It was around the Midsummer Festival. They love fireworks in the town where I grew up, and sometimes there are accidents. Normally, the kids I ran with would just laugh and maybe sort through the wreckage. But this night I saw a man weeping before a burning structure, calling for help because this kid was in there. Something let go inside me, and I…"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "…went to him and gave him the ring. I said, “Look, this will protect you. You can go. You can rescue her.” He went in, and he was not burned. I felt something become calm within me. I had thought I should find more things like the one I'd found—that was all I would need in life—but in that moment I realized there was more. I needed both to take and to give."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I never saw that man again. I don't know if his child survived. But I do have a feeling of having changed the world for the better, and I could only do it by giving something instead of holding it."
+        },
+        {
+          "speaker": "DM",
+          "text": "With the story, the entity thinks back to the other stories its teacher told it, and the games they played together—the give and take of imagining possibilities and growing into shapes. When the teacher taught it to grow itself into buildings and stretch its roots far and wide, there was an interchange there. That's lovely. Alright, roll it up."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "It's a Persuasion check, and I have the Inspiration. Oh, man. I rolled a five with a plus three, so that's an eight."
+        },
+        {
+          "speaker": "DM",
+          "text": "Do you have luck?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "I don't know, I don't think so."
+        },
+        {
+          "speaker": "Edric",
+          "text": "You're human?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yeah…"
+        },
+        {
+          "speaker": "Edric",
+          "text": "If you're human, you'd have a heroic if you haven't used it yet, because you get one every long rest."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "It's not present on my character sheet, but that doesn't necessarily mean I don't have it."
+        },
+        {
+          "speaker": "Edric",
+          "text": "We rested… when did we last rest?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "A couple sessions ago. It was in the temple."
+        },
+        {
+          "speaker": "Edric",
+          "text": "I don't think you used heroic, though."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I don't think you have either."
+        },
+        {
+          "speaker": "Edric",
+          "text": "We all forget to tick it when we long rest as humans, because D&D Beyond doesn't automatically do it."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "So what does that let me do?"
+        },
+        {
+          "speaker": "Edric",
+          "text": "You can reroll."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Yes, I will do so. I'll reroll the Persuasion. That's a total of fifteen this time. That's better."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Add your bardic?"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "And how much is the Bardic? A d6?"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Six."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "That's a five."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Twenty."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Awesome."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Yeah, that was an awesome story, Eric."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Thanks."
+        },
+        {
+          "speaker": "DM",
+          "text": "Cool."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Killed that."
+        },
+        {
+          "speaker": "DM",
+          "text": "You guys are doing great, this is not automatically impossible."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Ayveen has been giving out her Bardic Inspiration by drumming gently along with her colleagues' stories. Now she beats a little more firmly on her hand drum. She wants to sing a song, tell a story that reflects this entity's experience back to it—the way everyone can relate to memories, experiences, and hopes being the same—and shine a light on how something given isn't gone."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "So Ayveen sings a song. “All the people who have told me they've seen a meaningful light shining. I've seen a fey lord, thinking in endless twilight of stars in the sky.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "“I've seen the moon shining so bright, making people think of the day that is to come, the day that has passed, and a night for dreaming. The lights twinkle in the sky—the stars. They have a rhythm of their own in the pulse of the twinkle. When it's daytime and you can't see them, you still know that particular bright light of the stars. And when it's nighttime, but there's no moon…”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "“…you still know that particular radiance of being bathed in that soft light. All these lights come to different people, and they mean so much, and they're not gone when they're not there. In the Feywild at twilight, or in the dark of a well, there's always the thought of the bright shining of the lights we've seen, the souls we've met, and the rhythm of their movement in our memories. Our hope that we will see them again, and our knowing that they are…”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "“…and they have been, and they will be. We see the stars in the daytime in our minds, and we see the sun at night in our memories, and we look forward to the moon on the dark nights when she is not there. Always, as a candle flickers when a person comes into a room, there's coming and there's going, and the lights are different, and they're the same. The moon will come again.”"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "“The stars will always be there, pulsing. They twinkle. Everything has its place, and its place is to be what it can be, and what it has been, and be shared by everyone. Everyone reflects back.”"
+        },
+        {
+          "speaker": "DM",
+          "text": "Before you give us the result of the roll, two things. One is, there's a line in a Wendell Berry poem where he talks about being outdoors during the day, and overhead are the day-blind stars. I always love that. There's something almost Old English about it."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Stars. But within the entity, something is shifting. It's been said, or intimated, that it lives its entire life simultaneously—that it doesn't experience or understand befores and afters. There's something in what you're saying that helps it remember that even if it lets these things go, it's still having them. It's not a creature that lives in time. It's still having the moment of having them. Alright, how'd the Persuasion roll go?"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Well, I rolled a sixteen. Adding my seven to Persuasion is twenty-three, plus the Bardic from my elven bardic colleague is another three, so twenty-six."
+        },
+        {
+          "speaker": "Edric",
+          "text": "That's more than the rest of us put together, but, you know."
+        },
+        {
+          "speaker": "DM",
+          "text": "Well, it helps to roll a double-digit number."
+        },
+        {
+          "speaker": "Edric",
+          "text": "It does. I mean, it turns out it really does."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "I gotta be a bard."
+        },
+        {
+          "speaker": "DM",
+          "text": "So…"
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "On the hand drum."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro has been on the ground this whole time, not really listening to the stories."
+        },
+        {
+          "speaker": "DM",
+          "text": "Beautiful."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "He looks up as Ayveen finishes her tale, and you can see that he's kind of conflicted, or despairing, a little bit. He's probably never told a story in his life. He's a loner by trade, right? Sitting there, he looks up into the darkness. Even though he left his village after some conflict with the elders, and is somewhat reluctant to call on his ancestors for aid, he turns, looks, and says…"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Well, he says something in a lizard language you don't understand. I'm using Lizardfolk Ancestral Aid to give myself proficiency in Persuasion, and flavoring it as the ancestors speaking through him."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, I love it."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Word."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "His voice changes to a gravelly, almost echoing tone. He looks in the direction of the entity, wherever it is, clearly able to see or sense it in some manner. Those of you who know Txarro don't really recognize him anymore. It's almost as if he's possessed. He begins speaking directly to the entity."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "“You want to know how to let something go that you think you cannot. This is the story of the lizardfolk Txarro, whom we thought we could not let go. But we did.” The voice of Txarro begins telling the story of a young man who felt trapped in his village."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "“Lizardfolk villages,” the ancestor explains to this entity that presumably doesn't understand them, “are places of abundance where life thrives, but places of order and rigidity, too, where everything must have its place. The village is like the fish weir we build on the river, which brings food and nutrients and life, but traps everything that swims through it. Many thrive, growing into the weave and vines of these nets that make the village strong and whole. But Txarro was trapped. The net caught him, and we could not let go. We wanted to hold him to ourselves, to keep him in the village, to make him us, to turn him into the net, like his brothers and sisters and nestmates and cousins. He wandered, and we kept pulling him back. We saw…”"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "“…the net begin to weave around him, the structures of our village begin to grow over him, encase him, bind him. We were grasping him tightly. What we did not see until it was almost too late was that there was no longer Txarro. We were turning him into something else. It was only by opening our hand and letting him out of the net—letting him escape the rigidity, the strictures of the village itself—that he could be who he was.”"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "“So as you grasp these souls that you love, you destroy them. But it is not too late, because we learned our lesson. We realized we had to let him find himself. So we opened our hands, broke the bonds of those nets, and let him blow down the river to where fate took him. That is how he is here now, and that is what you now can do for yourself.”"
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Txarro's eyes open. He blinks, looks around, and mutters, “Did I… did I say something?”"
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Kaito's like, “That was really good. That's good.”"
+        },
+        {
+          "speaker": "Tarek",
+          "text": "You did well, Txarro. You did well."
+        },
+        {
+          "speaker": "DM",
+          "text": "Roll. Yep."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "That is a sixteen, because I also get a d4 from Ancestral Aid. Plus, I'm proficient, so that's now…"
+        },
+        {
+          "speaker": "DM",
+          "text": "Eight."
+        },
+        {
+          "speaker": "Txarro",
+          "text": "Plus a d6. That's twenty."
+        },
+        {
+          "speaker": "DM",
+          "text": "Each of you feels it in your body before you consciously perceive the rumbling vibration: a sound moving through not just your ears, but your whole body, a sound you can feel in your lungs, like an earthquake. The pitch blackness doesn't change. There's nothing you can see with your eyes."
+        },
+        {
+          "speaker": "DM",
+          "text": "But at the same time, like the painting you stumbled across in the lecture hall, you can see a patch of darkness blacker than everything else—a patch in the shape of a child, standing on what is almost a hillside of roots and bone. It opens its hands. Cradled in its palms is something like a milkweed seed pod containing something which, no matter how hard you try in all the years to come, you can never remember exactly. A hundred tiny seeds blow through the air as the child lets go of the hundred souls it held. They speed onward, flowing straight and swift in a direction away from every other direction, going to a home none of you know, but to which each of you will go one day. And they're gone."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Hmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "Hanging in a makeshift backpack, Aurae opens its mouth and eyes and says, “What? Wha… wha—” Then its voice slows. It goes still and inert, and you know that whatever powered it is gone. In fact, whatever powered the whole of the 27th Room is gone."
+        },
+        {
+          "speaker": "DM",
+          "text": "The rumbling grows deeper. At the same time, the child begins to shift and change. As the house collapses around you, it grows and bursts the prison open from the inside out. And this—what you see—you do remember. In every one of the worst moments of your lives, in all the years that follow, this is what you see when you close your eyes. It is…"
+        },
+        {
+          "speaker": "DM",
+          "text": "An un-thing made of bone and bramble and tree roots and mold, shaped something like a dandelion made of darkness, seven stories tall. Its roots, the size of elephants, are alive and writhing like slugs, like pale leeches exposed to the light—terrified, unthinking, reaching through the boundaries of the multiverse like living, clawed things. The dandelion at the top is a pale, spread-out sphere. At the end of each seed is the face of everyone you have ever met, trying to rip itself free of the horror it knows it is. Around the plant's base, leaves like tentacles of rot, bone, and darkness had, until recently, wrapped themselves around shimmering spheres of mortal souls that screamed for centuries without ever stopping."
+        },
+        {
+          "speaker": "DM",
+          "text": "What you know, in the darkness and nightmare moments of the decades to come, is that this thing you perceive is only the closest approximation your mind can make of what it actually is."
+        },
+        {
+          "speaker": "DM",
+          "text": "Then it's a child again. The ruins and remains of the prison and the house, now shaken apart around you as you shelter beneath one of those horror-leaves, slide down the cliffside, into the ravine, and into the darkness. The child sits at the edge of a low stone well, maybe a foot high above the cliffside, where a doorframe once led into the house. It shakes the last milkweed puffs from its hand and looks at each of you simultaneously. You see in it a child, an adult, a madman, and a monster, all at once. It puts a single finger to its lips and disappears down the well. The five of you are left on an empty hillside in the gathering twilight, just as the first stars of evening begin to come out."
+        },
+        {
+          "speaker": "DM",
+          "text": "That's where we'll end. I have a closing montage, too, but before that I want to give you a moment, if there's any conversation or business among the five of you. I don't want to cut it off if there's anything that needs saying among the party. But we are gonna leave you there."
+        },
+        {
+          "speaker": "DM",
+          "text": "I don't think there's anything to say."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Just so good."
+        },
+        {
+          "speaker": "DM",
+          "text": "I think from there, the camera pans up and away from you, out toward the horizon where the sun has set, and then pans back again. The last of the sunset shines through a high window of an old house onto the bloody, exhausted form of Lord Hulda, surrounded by the butchered corpses of the half-dozen mushroom men—Aldens—who were his servants. He drinks a potion, but his wounds don't fully close. He coughs, then coughs again, and doesn't stop coughing until he does, all at once."
+        },
+        {
+          "speaker": "DM",
+          "text": "Below the old trees, on the wild edges of the Duchy of Tellim, it's always dusk. In that twilight, the pale mushroom children of the Thirst walk without sleeping, dreaming, or hungering. They flee from fire and iron, make new siblings out of anyone they find, and search those woods, always and obsessively, for the hidden door that will bring them home to their parent again."
+        },
+        {
+          "speaker": "DM",
+          "text": "In a room filled with glass tanks of fungus growing on severed limbs, you feel the first rumbles begin to vibrate through it. As the glass tanks shake and the house is destroyed, a body in the shape of a dwarven woman—but made from fungi and lichens of every possible description—sits up. For a long moment, it looks at the lifeless corpse that once held the soul now encased in its own fungal golem flesh. As the room shakes and pieces of ceiling fall, Kallipseis, now wizard head of Arithrimos Lamperum in a golem body, consults a book filled with long lists of six-digit numbers and blinks out of sight."
+        },
+        {
+          "speaker": "DM",
+          "text": "The camera pulls back. At a quiet thatched cottage beside a road running exactly parallel to the sunset, a tigerman stows in his bag the polished crystal sphere through which he watched a golem plane shift out of the Feywild. He draws thoughtfully from his pipe and sighs. At the corners of his mouth, a sly smile creeps across his massive tiger face."
+        },
+        {
+          "speaker": "DM",
+          "text": "It is no time. It is not time. It is outside time, in the black nothingness beyond the universe, where the black stars do not shine. An un-thing that is sometimes a child and sometimes a monster can once again see the complete and unambiguous shape of all its possibilities—past, present, and future all at once, unhidden, always moving, never changing. In that place which is not a place, it doesn't think of the soul hoard it kept, but of the teacher who found it as a lost child and loved it into speech."
+        },
+        {
+          "speaker": "DM",
+          "text": "And finally—finally—under a twilight sky, wide green lawns rise from the river to a beautiful manor house where a party has finished. The paper lanterns hanging on long lines are extinguished, the grounds are silent, and the partygoers have departed. In an upper room of the dark house, the Lord of the Ended Revel looks out a high window toward the place where the sun has set, thinking of the child he befriended just before his party began."
+        },
+        {
+          "speaker": "DM",
+          "text": "Five travelers standing above a ravine look to each other and begin to think on the way back home again."
+        },
+        {
+          "speaker": "DM",
+          "text": "That's where we'll leave it."
+        },
+        {
+          "speaker": "Tarek",
+          "text": "Spectacular. Damn."
+        },
+        {
+          "speaker": "DM",
+          "text": "This was really fun, y'all. Thank you."
+        },
+        {
+          "speaker": "Ayveen",
+          "text": "Feywild."
+        },
+        {
+          "speaker": "Edric",
+          "text": "No, that's fun."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Wow."
+        },
+        {
+          "speaker": "Edric",
+          "text": "Yep."
+        },
+        {
+          "speaker": "Kaito Min",
+          "text": "Okay."
+        }
+      ]
+    }
+  ]
+}

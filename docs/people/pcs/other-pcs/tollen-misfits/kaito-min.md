@@ -9,6 +9,7 @@ born: 1650
 whereabouts:
 - {type: home, location: Orenlas}
 - {type: home, location: Tollen}
+- {type: away, start: 1740-10-05, location: Twilight Kingdom}
 title: Kaito Min
 hide_toc: true
 ---
@@ -23,5 +24,7 @@ hide_toc: true
     Originally from: [Orenlas](<../../../../gazetteer/upper-istaros/orenlas/orenlas.md>), the [Istaros Watershed](<../../../../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>)
     Based in the [Free City of Tollen](<../../../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
+
+:octicons-location-24:{ .lg .middle } Last known location (as of October 5th, 1740): the [Twilight Kingdom](<../../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../../../cosmology/feywild.md>), [Multiverse](<../../../../cosmology/multiverse.md>)
 
 

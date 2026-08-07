@@ -17,7 +17,7 @@ title: Dunmari Frontier - Session 40
 	*Featuring: [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>), [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>)*
 	*In Taelgar: Jul 03, 1748 DR to Jul 06, 1748 DR*
 	*On Earth: Thursday Feb 17, 2022*
-	*[~North Tokra Plains~](<../../../gazetteer/greater-dunmar/hara-basin/north-tokra-plains.md>)*
+	*[Varashan](<../../../gazetteer/greater-dunmar/hara-basin/varashan.md>)*
 
 The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) learns of [past tragedies](<../../../events/1700s/1718/awakened-soul-disaster.md>) and receives a cautionary tale from the elusive [Saka](<../../../people/dunmari/saka.md>).
 
@@ -30,7 +30,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 ### Timeline
 - Jul 03, 1748 DR, noon: Depart [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). Travel uneventfully north along the [Hara](<../../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>). 
-- Jul 03, 1748 DR, evening: Camp on the [~North Tokra Plains~](<../../../gazetteer/greater-dunmar/hara-basin/north-tokra-plains.md>). 
+- Jul 03, 1748 DR, evening: Camp on the [Varashan](<../../../gazetteer/greater-dunmar/hara-basin/varashan.md>). 
 - Jul 04, 1748 DR: Travel north. Meet [Kiran](<../../../people/dunmari/kiran.md>), speak of [Saka](<../../../people/dunmari/saka.md>) and the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). Continue north; spend the night on the plains.
 - Jul 05, 1748 DR: Travel north. 
 - Jul 06, 1748 DR, morning: Approach Saka's camp. Meet and speak with [Saka](<../../../people/dunmari/saka.md>), learning more about the [Order of the Awakened Soul](<../../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) and the [Awakened Soul Disaster](<../../../events/1700s/1718/awakened-soul-disaster.md>). 

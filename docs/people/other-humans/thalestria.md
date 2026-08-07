@@ -4,11 +4,12 @@ tags: [person]
 name: Thalestria
 species: human
 ancestry: Drankorian
+died: 1
 gender: female
 affiliations:
 - {org: Arithrimos Lamperum, type: leader}
-dm_owner: schwartz
-dm_notes: important
+dm_owner: none
+dm_notes: none
 title: Thalestria
 hide_toc: true
 ---
@@ -17,6 +18,7 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Drankorian](<../../history/historical-realms/drankorian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
+    Died  
     Leader of the [Arithrimos Lamperum](<../../groups/drankorian-societies/arithrimos-lamperum.md>)  
     { .bio }
 

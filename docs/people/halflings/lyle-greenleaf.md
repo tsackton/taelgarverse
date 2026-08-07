@@ -11,7 +11,7 @@ gender: male
 affiliations:
 - {org: Greenleafs, type: primary}
 whereabouts:
-- {type: away, start: 1748-07-18, end: 1748-07-18, location: ~Crossroads Caravanserai~}
+- {type: away, start: 1748-07-18, end: 1748-07-18, location: Melavan Caravanserai}
 - {type: away, start: 1748-07-19, location: traveling east to Tokra}
 dm_owner: none
 dm_notes: none
@@ -32,7 +32,7 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 18th, 1748 at the [~Crossroads Caravanserai~](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/crossroads-caravanserai.md>), on the [Stoneway](<../../gazetteer/greater-dunmar/roads/stoneway.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 18th, 1748 at the [Melavan Caravanserai](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/melavan-caravanserai.md>), on the [Stoneway](<../../gazetteer/greater-dunmar/roads/stoneway.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 A halfling wanderer, traveling with only his brother. 

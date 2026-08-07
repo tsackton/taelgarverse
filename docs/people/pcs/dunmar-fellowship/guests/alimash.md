@@ -26,4 +26,4 @@ hide_toc: true
 </div>
 
 
-Middle aged human marine and warrior from the [Republic of Svolhas](<../../../../gazetteer/eastern-green-sea/republic-of-svolhas.md>). Aided in the [destruction of the aboleth](<../../../../campaigns/dunmari-frontier-campaign/session-notes/session-60-dufr.md#session-1>) and helped rescue [Arryn from the mirror realm](<../../../../campaigns/dunmari-frontier-campaign/session-notes/session-60-dufr.md#session-2>). Now potentially joining the service of [Arryn](<../../../other-humans/arryn.md>) the Wanderer.
+Middle aged human marine and warrior from the [Republic of Svolhas](<../../../../gazetteer/eastern-green-sea/republic-of-svolhas.md>). Aided in the [destruction of the aboleth](<../../../../campaigns/dunmari-frontier-campaign/session-notes/session-62-dufr.md>) and helped rescue [Arryn from the mirror realm](<../../../../campaigns/dunmari-frontier-campaign/session-notes/session-66-dufr.md>). Now potentially joining the service of [Arryn](<../../../other-humans/arryn.md>) the Wanderer.

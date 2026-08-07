@@ -25,6 +25,6 @@ hide_toc: true
 
 
 
-A powerful frost giant king who ruled the frost giant realm of [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>) in its heyday. He established [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>) as a refugee for the people of the north, and led his armies in many battles against dragons and other creatures of the north to keep the [~Northern Boreal Forest~](<../../gazetteer/northern-green-sea/northern-boreal-forest.md>) safe. 
+A powerful frost giant king who ruled the frost giant realm of [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>) in its heyday. He established [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>) as a refugee for the people of the north, and led his armies in many battles against dragons and other creatures of the north to keep the [Great Northern Forest](<../../gazetteer/northern-green-sea/great-northern-forest.md>) safe. 
 
 He led the giants of [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>) into [war](<../../events/1500s/vimfrost-s-war.md>) against the ancient white dragon Vimfrost, ultimately falling in battle. 

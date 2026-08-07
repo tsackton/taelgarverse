@@ -33,3 +33,4 @@ The owner of the Levithan Inn in Hamri, and unofficial guardian of the town. Tin
 
 ![Wazir](/taelgarverse/assets/wazir.webp)
 
+

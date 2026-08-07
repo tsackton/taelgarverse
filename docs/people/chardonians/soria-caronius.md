@@ -8,7 +8,7 @@ ancestry: Chardonian
 gender: female
 title: General Soria Caronius
 affiliations:
-- {type: leader, title: Commander, org: ~Voltara East Border Fort~}
+- {type: leader, title: Commander, org: Fort Zarnato}
 whereabouts:
 - {type: home, location: Northern Provinces}
 dm_notes: none
@@ -21,14 +21,14 @@ hide_toc: true
 
     A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     Born DR 1703 (47 years old)  
-    Commander of the [Voltara East Border Fort](<../../gazetteer/northwest-coast/northern-provinces/voltara-east-border-fort.md>)  
+    Commander of [Fort Zarnato](<../../gazetteer/northwest-coast/northern-provinces/fort-zarnato.md>)  
     { .bio }
 
     Based in the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)
 </div>
 
 
-General Soria Caronius is the current commander of the [~Voltara East Border Fort~](<../../gazetteer/northwest-coast/northern-provinces/voltara-east-border-fort.md>), the northeastern-most fortification in the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). 
+General Soria Caronius is the current commander of the [Fort Zarnato](<../../gazetteer/northwest-coast/northern-provinces/fort-zarnato.md>), the northeastern-most fortification in the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). 
 
 She is a middle aged woman, heavily armored and tough, with a bit of a chip on her shoulder about the challenges and value of defending this forgotten corner of the world. 
 

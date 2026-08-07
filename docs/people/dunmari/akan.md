@@ -9,7 +9,7 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: home, location: ~Karawa Desert~}
+- {type: home, location: Karawa Desert}
 - {type away: !!null '', start: 1748-03-21, end: 1748-03-23, location: Gomat Oasis}
 - {type: away, start: 1748-03-27, end: 1748-04-07, location: Karawa}
 - {type: away, start: 1748-04-07, end: 1748-04-12, location: travelling to Tokra}
@@ -29,7 +29,7 @@ hide_toc: true
     Born DR 1693 (57 years old)  
     { .bio }
 
-    Based in the [~Karawa Desert~](<../../gazetteer/greater-dunmar/hara-basin/karawa-desert.md>), the Dunmari Basin
+    Based in the [Karawa Desert](<../../gazetteer/greater-dunmar/hara-basin/karawa-desert.md>), the Dunmari Basin
 </div>
 
 

@@ -27,7 +27,7 @@ title: Northwest Coast
 ></div>
 
 ## Topography and Major Features
-_See more: [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), [Mawar Mountains](<mawar-confederacy/mawar-mountains.md>), [Tawir Forest](<tawir-forest.md>), [Erbalta Plains](<erbalta-plains/erbalta-plains.md>), ~North Bay~
+_See more: [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>), [Mawar Mountains](<mawar-confederacy/mawar-mountains.md>), [Tawir Forest](<tawir-forest.md>), [Erbalta Plains](<erbalta-plains/erbalta-plains.md>), [Slate Sea](<slate-sea.md>)
 
 
 

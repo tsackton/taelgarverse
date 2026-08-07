@@ -5,7 +5,7 @@ name: Pietravola Abbey
 typeOf: holy site
 subTypeOf: ruined
 whereabouts:
-- {type: primary, location: ~North Voltara Hills~}
+- {type: primary, location: Chalyte Hills}
 dm_owner: none
 dm_notes: none
 typeOfAlias: abbey
@@ -13,7 +13,7 @@ title: Pietravola Abbey
 ---
 # The Pietravola Abbey
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A ruined abbey the ~North Voltara Hills~  
+-    :octicons-location-24:{ .lg .middle } A ruined abbey in the [Chalyte Hills](<chalyte-hills.md>), the [Erbalta Plains](<../erbalta-plains/erbalta-plains.md>), the [Northwest Coast](<../northwest-coast.md>)  
 </div>
 
 

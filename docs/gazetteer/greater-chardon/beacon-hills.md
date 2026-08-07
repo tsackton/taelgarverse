@@ -6,9 +6,9 @@ dm_owner: none
 typeOf: topographical feature
 whereabouts: Chardonian Empire
 typeOfAlias: line of hills
-title: ~Lake Valandros Hills~
+title: Beacon Hills
 ---
-# The ~Lake Valandros Hills~
+# The Beacon Hills
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A line of hills in the [Chardonian Empire](<chardonian-empire/chardonian-empire.md>), [Greater Chardon](<greater-chardon.md>)  
 </div>

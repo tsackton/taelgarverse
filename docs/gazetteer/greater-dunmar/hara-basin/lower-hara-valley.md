@@ -6,9 +6,9 @@ typeOf: grassland
 dm_owner: tim
 dm_notes: color
 typeOfAlias: scrubland
-title: ~Lower Hara Valley~
+title: Lower Hara Valley
 ---
-# The ~Lower Hara Valley~
+# The Lower Hara Valley
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A scrubland the Dunmari Basin  
 </div>

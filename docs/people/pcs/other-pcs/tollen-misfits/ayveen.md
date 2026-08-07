@@ -11,6 +11,7 @@ dm_notes: none
 pronunciation: AY-veen
 whereabouts:
 - {type: home, location: Tollen}
+- {type: away, start: 1740-10-05, location: Twilight Kingdom}
 title: Ayveen
 hide_toc: true
 ---
@@ -26,5 +27,7 @@ hide_toc: true
     Based in the [Free City of Tollen](<../../../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
+:octicons-location-24:{ .lg .middle } Last known location (as of October 5th, 1740): the [Twilight Kingdom](<../../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../../../cosmology/feywild.md>), [Multiverse](<../../../../cosmology/multiverse.md>)
 
-![Ayveen](/taelgarverse/assets/ayveen.webp)
+
+![Ayveen](/taelgarverse/assets/ayveen.webp){width="right"}

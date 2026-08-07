@@ -24,7 +24,9 @@ Far north, beyond the northern lands of [Vostok](<../greater-sembara/vostok/vost
 ## Topography and Major Features
 Few have mapped this region, and little is known about the lands. A few features are well-attested:
 
-* A cold, dry steppe north of [Vostok](<../greater-sembara/vostok/vostok.md>) and the [Gråstenvakt](<../greater-sembara/vostok/grastenvakt.md>)
+
+
+* A cold, dry expanse of open land north of [Vostok](<../greater-sembara/vostok/vostok.md>) and the [Gråstenvakt](<../greater-sembara/vostok/grastenvakt.md>)
 * A range of mountains north of the [Ket](<../northern-green-sea/rivers/ket.md>), said to be the birthplace of Vimfrost and home to many frost-breathing dragons
 * A river system that drains from the range of mountains north of the [Ket](<../northern-green-sea/rivers/ket.md>) to the eastern [Green Sea](<../green-sea.md>)
 

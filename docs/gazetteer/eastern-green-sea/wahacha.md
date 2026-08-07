@@ -13,7 +13,7 @@ title: Wahacha
 ---
 # Wahacha
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Kenku](<../../creatures/species/kenku.md>) port town in the [Vermillion Isles](<vermillion-isles.md>), the ~Eastern Islands~  
+-    :octicons-location-24:{ .lg .middle } A [Kenku](<../../creatures/species/kenku.md>) port town in the [Vermillion Isles](<vermillion-isles.md>), the [Eastern Isles](<eastern-isles.md>), the [Green Sea](<../green-sea.md>)  
 </div>
 
 

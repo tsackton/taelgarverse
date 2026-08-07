@@ -94,13 +94,13 @@ Members of the crew who have moved on to other things since traveling on [Vindri
 
     ---
     ![Kecha Small](/taelgarverse/assets/kecha-small.png)
-     A [Kenku](<../../creatures/species/kenku.md>) scout who helped guide the party through the [Svinjo Mountains](<../../gazetteer/northern-green-sea/svinjo-mountains.md>) and the [~Northern Boreal Forest~](<../../gazetteer/northern-green-sea/northern-boreal-forest.md>), before leaving to search for kenku living on the [Eastern Isles](<../../gazetteer/eastern-green-sea/eastern-isles.md>). 
+     A [Kenku](<../../creatures/species/kenku.md>) scout who helped guide the party through the [Svinjo Mountains](<../../gazetteer/northern-green-sea/svinjo-mountains.md>) and the [Great Northern Forest](<../../gazetteer/northern-green-sea/great-northern-forest.md>), before leaving to search for kenku living on the [Eastern Isles](<../../gazetteer/eastern-green-sea/eastern-isles.md>). 
 
 -   [Algerd](<../../people/giants/algerd.md>)
 
     ---
     ![Algerd](/taelgarverse/assets/algerd.webp)
-     A frost giant historian, who was not happy in [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>) and journeyed with the party across the [~Northern Boreal Forest~](<../../gazetteer/northern-green-sea/northern-boreal-forest.md>), before leaving after meeting other frost giant refugees from [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>). 
+     A frost giant historian, who was not happy in [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>) and journeyed with the party across the [Great Northern Forest](<../../gazetteer/northern-green-sea/great-northern-forest.md>), before leaving after meeting other frost giant refugees from [Kaldhalla](<../../gazetteer/northern-green-sea/kaldhalla.md>). 
      
 </div>
 
@@ -146,4 +146,3 @@ These people have been released and are recovering on [Vindristjarna](<../../thi
  - ![Vargus](/taelgarverse/assets/vargus.webp){align="left"; width="120"}[Vargus](<../../people/chardonians/vargus.md>), a warrior ensnared by the machinations of [Fausto](<../../people/chardonians/fausto.md>), and the twin brother of [Valius](<../../people/chardonians/valius.md>), was released by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) to make a new life with his brother. 
 
 </div>
-

@@ -6,12 +6,16 @@ typeOf: inn
 whereabouts: Stoneway
 dm_owner: none
 dm_notes: color
-title: ~Crossroads Caravanserai~
+pronunciation: MEH-lah-vahn
+title: Melavan Caravanserai
 ---
-# The ~Crossroads Caravanserai~
+# The Melavan Caravanserai
+:speaker:{ .middle } *(MEH-lah-vahn)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } An inn on the [Stoneway](<../../../roads/stoneway.md>), in [Dunmar](<../dunmar.md>), [Greater Dunmar](<../../../greater-dunmar.md>)  
 </div>
+
+
 
 
 

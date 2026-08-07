@@ -32,6 +32,6 @@ Kalima is a Zimkovan woman from a hidden people bound to [Zeyfa](<../../gods-and
 
 When an unnatural storm swept Kalima and the adventurers into the chasm, she identified their destination as Zeyfa's Labyrinth, a place she believed no one truly escaped. She described her people as descendants of refugees from an ancient catastrophe, trapped near the labyrinth and forced to appease the West Wind by sending sacrifices into the maze. Kalima warned that the only possible way out lay deeper inside, toward the beast, and that the labyrinth was no place to sleep.
 
-Kalima is frightened of kenku, but after [Finnan Oakstride](<../pcs/into-the-chasm/finnan-oakstride.md>) and [Justas Rhostrin](<../pcs/into-the-chasm/justas-rhostrin.md>) protected her and spoke with her in Old Zimkovan, she agreed to travel with the party if she could stay between them.
+Kalima is frightened of kenku, but after [Finnan Oakstride](<../pcs/other-pcs/into-the-chasm/finnan-oakstride.md>) and [Justas Rhostrin](<../pcs/other-pcs/into-the-chasm/justas-rhostrin.md>) protected her and spoke with her in Old Zimkovan, she agreed to travel with the party if she could stay between them.
 
 

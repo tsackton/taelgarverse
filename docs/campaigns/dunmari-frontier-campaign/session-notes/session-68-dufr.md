@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 68
@@ -38,7 +39,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - [Letter from Speaker Lara](<../letters-and-notes/letter-from-speaker-lara.md>)
 - [Letter from Govir](<../letters-and-notes/letter-from-govir.md>)
 - [Letter from Dee Wildcloak](<../letters-and-notes/letter-from-dee-wildcloak.md>)
-- [Wellby's Letter](<../../../people/pcs/dunmar-fellowship/wellby.md#3c01eb>) **(personal)**
+- [Wellby's Letter](<../../../people/pcs/dunmar-fellowship/wellby.md>) **(personal)**
 - [Kenzo's Letter](<../../../people/pcs/dunmar-fellowship/kenzo.md#21d014>) **(personal)**
 
 ### Scrying and Scouting
