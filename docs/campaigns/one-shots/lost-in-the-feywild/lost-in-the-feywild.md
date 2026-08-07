@@ -13,12 +13,13 @@ title: Lost in the Feywild
 
 Lost in the Feywild is a seven-episode adventure about the [Tollen Misfits](<../../../people/pcs/other-pcs/tollen-misfits/tollen-misfits.md>), a strange inheritance, a Fey bargain, an ancient magical society, and a prisoner at the center of a mysterious house. What begins with a seemingly ordinary journey through [Varrow Forest](<../../../gazetteer/greater-sembara/sembara/northlands/varrow-forest.md>) to [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>) leads into the [Feywild](<../../../cosmology/feywild.md>), through an endlessly ending party, and into a house built to move its prisoner through space and time.
 
-!!!  abstract "Campaign Information"
+!!! abstract "Campaign Information"
 	
 	- The [PCs](<../../../people/pcs/other-pcs/tollen-misfits/tollen-misfits.md>), a found family band of adventurers from around Tollen: [Edric](<../../../people/pcs/other-pcs/tollen-misfits/edric.md>), [Kaito Min](<../../../people/pcs/other-pcs/tollen-misfits/kaito-min.md>), [Txarro](<../../../people/pcs/other-pcs/tollen-misfits/txarro.md>), [Ayveen](<../../../people/pcs/other-pcs/tollen-misfits/ayveen.md>), and [Tarek](<../../../people/pcs/other-pcs/tollen-misfits/tarek.md>)
 	- The places, people, and organizations met along the way: [People, Places, and More](<lost-in-the-feywild-people-places-and-organizations.md>)
 
-???+  note "*The Tale of the Dandelion Child, told by halfling storytellers around the taverns of Tollen*"
+
+???+ note "*The Tale of the Dandelion Child, told by halfling storytellers around the taverns of Tollen*"
 	
 	There are tales that begin with a war, and others with a wedding, but this one began with kindness, which, as any good storyteller will tell you, can cause more trouble than either. 
 	
