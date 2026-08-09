@@ -34,9 +34,9 @@ Five major rivers, and several smaller ones, flow through the coastlands. From s
 ## Places in the Coastlands
 | Place                              | Type Of |
 | ---------------------------------- | ------- |
-| [Zar](<../rivers/zar.md>) (ZAR)                      | river   |
-| [Sevros](<../rivers/sevros.md>) (SEV-ros)               | river   |
-| [Corvessa](<../rivers/corvessa.md>) (kor-VESS-uh)         | river   |
 | the [Breakrock River](<../rivers/breakrock.md>) | river   |
+| [Corvessa](<../rivers/corvessa.md>) (kor-VESS-uh)         | river   |
+| [Sevros](<../rivers/sevros.md>) (SEV-ros)               | river   |
+| [Zar](<../rivers/zar.md>) (ZAR)                      | river   |
 
 

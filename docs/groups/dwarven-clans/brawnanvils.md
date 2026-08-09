@@ -24,5 +24,5 @@ By far the most famous member of the Brawnanvil Clan is [Riswynn](<../../people/
 
 | Person                        | Info                           | Current Location                                 |
 | ----------------------------- | ------------------------------ | ------------------------------------------------ |
-| [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>) (she/her)         | [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) [dwarf](<../../creatures/species/dwarves.md>) | Unknown (January 1st, 1750)                      |
 | [Eberk Brawnanvil](<../../people/dwarves/eberk-brawnanvil.md>) (he/him) | [dwarf](<../../creatures/species/dwarves.md>)             | [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) (January 1st, 1750) |
+| [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>) (she/her)         | [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) [dwarf](<../../creatures/species/dwarves.md>) | Unknown (January 1st, 1750)                      |

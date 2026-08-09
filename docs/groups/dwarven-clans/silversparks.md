@@ -22,5 +22,5 @@ The Silversparks are a historically minor dwarven clan from [Nardith](<../../gaz
 ###  Members
 | Person                                   | Info               | Current Location                                               |
 | ---------------------------------------- | ------------------ | -------------------------------------------------------------- |
-| [Nora Silverspark](<../../people/dwarves/nora-silverspark.md>) (she/her)           | [dwarf](<../../creatures/species/dwarves.md>) | Unknown (January 1st, 1750)                                    |
 | [Kethra Silverspark](<../../people/dwarves/kethra.md>) (she/her) | [dwarf](<../../creatures/species/dwarves.md>) | [Vindristjarna](<../../things/ships/vindristjarna.md>), the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>) (January 1st, 1750) |
+| [Nora Silverspark](<../../people/dwarves/nora-silverspark.md>) (she/her)           | [dwarf](<../../creatures/species/dwarves.md>) | Unknown (January 1st, 1750)                                    |

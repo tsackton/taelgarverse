@@ -18,7 +18,7 @@ Sessions:
 | ----------------------------------------------------------------------------------------------- | ------- | ----------------- |
 | [Into the Chasm](<into-the-chasm-episode-01.md>)           | 1       | November 17, 2025 |
 | [The Labyrinth](<into-the-chasm-episode-02.md>)            | 2       | December 03, 2025 |
-| [The Druid in the Circuit](<into-the-chasm-episode-04.md>) | 4       | January 08, 2026  |
 | [The Village in the Fog](<into-the-chasm-episode-03.md>)   | 3       | January 08, 2026  |
+| [The Druid in the Circuit](<into-the-chasm-episode-04.md>) | 4       | January 08, 2026  |
 | [The God Caller Below](<into-the-chasm-episode-05.md>)     | 5       | January 15, 2026  |
 | [The Portal Narrows](<into-the-chasm-episode-06.md>)       | 6       | February 04, 2026 |

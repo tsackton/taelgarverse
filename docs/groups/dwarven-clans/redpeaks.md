@@ -25,5 +25,5 @@ The Redpeaks are a dwarven clan, prominent in [Darba](<../../gazetteer/greater-d
 
 | Person                       | Info               | Current Location                          |
 | ---------------------------- | ------------------ | ----------------------------------------- |
-| [Vondal Redpeak](<../../people/dwarves/vondal-redpeak.md>) (he/him)  | [dwarf](<../../creatures/species/dwarves.md>) | [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (January 1st, 1750) |
 | [Torgga Redpeak](<../../people/dwarves/torgga-redpeak.md>) (she/her) | [dwarf](<../../creatures/species/dwarves.md>) | [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (January 1st, 1750) |
+| [Vondal Redpeak](<../../people/dwarves/vondal-redpeak.md>) (he/him)  | [dwarf](<../../creatures/species/dwarves.md>) | [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) (January 1st, 1750) |

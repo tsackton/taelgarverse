@@ -45,33 +45,33 @@ There is a maintained road the length of the [Auberonne](<../../rivers/wistel-en
 ### Cities in Barony of Aveil
 | Place                          | Region                     | Type Of           | Population |
 | ------------------------------ | -------------------------- | ----------------- | ---------- |
-| [Windlea](<windlea.md>)                    | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 174   |
-| [Veltor](<veltor.md>) (Vel-tor)           | the [Barony of Aveil](<barony-of-aveil.md>)    | fortified village | pop. 699   |
-| [Rinburg](<rinburg.md>) (Rin-burg)         | the [Barony of Aveil](<barony-of-aveil.md>)    | free city         | pop. 2,341 |
-| [Peydon](<peydon.md>) (Pay-dun)           | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 498   |
-| [Maudorville](<maudorville.md>)                | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 448   |
-| [Houille](<houille.md>) (oo-yee)           | the [Barony of Aveil](<barony-of-aveil.md>)    | village           |            |
-| [Dallet](<dallet.md>) (da-LEH)            | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 308   |
-| [Essenmer](<essenmer.md>) (Essen-MER)       | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 540   |
-| [Eftly](<eftly.md>)                      | the [Barony of Aveil](<barony-of-aveil.md>)    | village           |            |
-| [Cranford](<cranford.md>) (Cran-ford)       | the [Barony of Aveil](<barony-of-aveil.md>)    | town              | pop. 654   |
+| [Ashcombe](<ashcombe.md>)                   | the [Barony of Aveil](<barony-of-aveil.md>)    | logging village   | pop. 237   |
+| [Aslain](<aslain.md>) (Ahz-lane)          | the [Barony of Aveil](<barony-of-aveil.md>)    | town              | pop. 1,187 |
+| [Beldor](<beldor.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | mining village    |            |
+| [Cassen](<cassen.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 35    |
 | [Champimont](<champimont.md>) (Sham-PEE-mohn) | the [Barony of Aveil](<barony-of-aveil.md>)    | market town       | pop. 971   |
 | [Ganboa](<cleenseau-region/ganboa.md>) (Gan-bo-a)          | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 62    |
-| [Cassen](<cassen.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 35    |
-| [Beldor](<beldor.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | mining village    |            |
-| [Aslain](<aslain.md>) (Ahz-lane)          | the [Barony of Aveil](<barony-of-aveil.md>)    | town              | pop. 1,187 |
-| [Ashcombe](<ashcombe.md>)                   | the [Barony of Aveil](<barony-of-aveil.md>)    | logging village   | pop. 237   |
+| [Cranford](<cranford.md>) (Cran-ford)       | the [Barony of Aveil](<barony-of-aveil.md>)    | town              | pop. 654   |
+| [Dallet](<dallet.md>) (da-LEH)            | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 308   |
+| [Eftly](<eftly.md>)                      | the [Barony of Aveil](<barony-of-aveil.md>)    | village           |            |
+| [Essenmer](<essenmer.md>) (Essen-MER)       | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 540   |
+| [Houille](<houille.md>) (oo-yee)           | the [Barony of Aveil](<barony-of-aveil.md>)    | village           |            |
+| [Maudorville](<maudorville.md>)                | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 448   |
+| [Peydon](<peydon.md>) (Pay-dun)           | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 498   |
+| [Rinburg](<rinburg.md>) (Rin-burg)         | the [Barony of Aveil](<barony-of-aveil.md>)    | free city         | pop. 2,341 |
+| [Veltor](<veltor.md>) (Vel-tor)           | the [Barony of Aveil](<barony-of-aveil.md>)    | fortified village | pop. 699   |
+| [Windlea](<windlea.md>)                    | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 174   |
 | [Asineau](<cleenseau-region/asineau.md>) (Ah-zee-noh)       | the [Manor of Asineau](<cleenseau-region/manor-of-asineau.md>)   | fishing village   | pop. 311   |
 | [Beury](<cleenseau-region/beury.md>) (BUH-ree)            | the [Manor of Beury](<cleenseau-region/manor-of-beury.md>)     | village           | pop. 492   |
-| [Taviose](<cleenseau-region/taviose.md>) (Ta-vi-ose)        | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | village           | pop. 30    |
-| the [Gastant Farm](<cleenseau-region/gastant-farm.md>)           | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | farmhouse         |            |
-| [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>) (Klen-sew)       | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | town              | pop. 1,189 |
 | [Auloutte](<cleenseau-region/auloutte.md>) (OO-loot)         | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | fishing village   | pop. 102   |
+| [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>) (Klen-sew)       | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | town              | pop. 1,189 |
+| the [Gastant Farm](<cleenseau-region/gastant-farm.md>)           | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | farmhouse         |            |
+| [Taviose](<cleenseau-region/taviose.md>) (Ta-vi-ose)        | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | village           | pop. 30    |
 | [Valit](<cleenseau-region/valit.md>) (Val-le)             | the [Manor of Valit](<cleenseau-region/manor-of-valit.md>)     | village           | pop. 249   |
 ### Rivers and Landforms 
 | Place                                   | Type Of |
 | --------------------------------------- | ------- |
 | the [Amance Brook](<cleenseau-region/amance-brook.md>)                    | brook   |
-| the [Leandre](<../../rivers/wistel-enst-watershed/leandre.md>) (Leh-ahn-dray)          | river   |
-| the [Cranmère](<../../rivers/wistel-enst-watershed/cranmere.md>) (Krahn-mehr) | river   |
 | the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>) (Oh-beh-ron)          | river   |
+| the [Cranmère](<../../rivers/wistel-enst-watershed/cranmere.md>) (Krahn-mehr) | river   |
+| the [Leandre](<../../rivers/wistel-enst-watershed/leandre.md>) (Leh-ahn-dray)          | river   |

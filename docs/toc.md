@@ -2133,6 +2133,7 @@ search:
         - Bestiary
             - [Bullywugs](creatures/bestiary/bullywugs.md)
             - [Derro](creatures/bestiary/derro.md)
+            - [Dragonets](creatures/bestiary/dragonets.md)
             - [Grimlocks](creatures/bestiary/grimlocks.md)
             - [Ithilids](creatures/bestiary/ithilids.md)
             - [Undead](creatures/bestiary/undead.md)

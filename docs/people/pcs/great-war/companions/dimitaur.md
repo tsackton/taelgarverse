@@ -18,7 +18,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A dragonet (he/him)  
+    A [dragonet](<../../../../creatures/bestiary/dragonets.md>) (he/him)  
     Companion of the [Heroes of the Great War](<../heroes-of-the-great-war.md>)  
     { .bio }
 
