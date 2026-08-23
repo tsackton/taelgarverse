@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/errors]
-whereabouts: Drankorian Hinterland
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
+tags: [place, status/check/errors, status/check/lint]
 typeOf: region
 name: Desolation of Cha'mutte
+pronunciation: desolation of shah-MUTT
+whereabouts: Drankorian Hinterland
 dm_owner: tim
 dm_notes: important
+POV: modern
 title: Desolation of Cha'mutte
 ---
 # The Desolation of Cha'mutte
+:speaker:{ .middle } *(desolation of shah-MUTT)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A region in the [Drankorian Hinterland](<drankorian-hinterland.md>)  
 </div>
@@ -26,6 +31,13 @@ The Desolation of Cha'mutte includes:
 - The [Plaguelands](<../upper-istaros/plaguelands.md>), in the [Istaros Watershed](<../major-rivers/istaros-watershed/istaros-watershed.md>), centered on the ruined city of [Isingue](<../upper-istaros/isingue.md>).
 
 While little of the desolation is readily habitable, the areas around the ruined cities of Drankor and Isingue are widely perceived as the most dangerous and cursed. The [Garamjala](<garamjala-plateau/garamjala-desert.md>), which runs broadly west to east, well north of Drankor and well south of Isingue, is dry and hot but significantly less magically dangerous, and is home to a few brave or foolhardy souls.  
+
+
+
+
+
+
+
 
 
 

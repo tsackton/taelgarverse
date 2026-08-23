@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
+displayDefaults: {defArt: ''}
 tags: [place]
 typeOf: inn
-whereabouts: Chalyte Levels
-displayDefaults: {defArt: ''}
-dm_notes: none
-dm_owner: none
 typeOfAlias: tavern
+name: The Cackling Swan
+whereabouts: Chalyte Levels
+dm_owner: none
+dm_notes: none
+POV: '1749'
 title: The Cackling Swan
 ---
 # The Cackling Swan
@@ -15,4 +19,8 @@ title: The Cackling Swan
 </div>
 
 
-A bustling pub near the [Foundry Market](<foundry-market.md>) that serves as an informal meeting point for laborers and chaylte workers. 
+A bustling pub near the [Foundry Market](<foundry-market.md>) that serves as an informal meeting point for laborers and chalyte workers.
+
+
+
+

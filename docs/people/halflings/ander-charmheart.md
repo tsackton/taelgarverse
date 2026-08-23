@@ -51,6 +51,9 @@ A young, rambunctious and excessively curious halfling, traveling with the Charm
 - [Callie Charmheart](<callie-charmheart.md>), older sister and traveling companion
 - [Bree Charmheart](<bree-charmheart.md>), grandmother and traveling companion
 
+- [Garret Tealeaf](<garret-tealeaf.md>), occasional traveling companion 
+
+
 
 
 
@@ -61,6 +64,7 @@ In March 1748, Ander was taken with a demonic curse as a result of accidental co
 - Mar 19, 1748 DR: While exploring the ruined Dunmari fort of [Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>), Ander Charmheart heard a strange chanting, and was grabbed by a thorny vine while trying to flee. He later described this as like a wave of chaotic dark energy washing over him, and then exploding in his mind like a bomb. 
 - Mar 22, 1748 DR: Ander Charmheart begins to display signs of madness, feeling either consumed by a ravenous hunger for raw flesh, or raving about the coming master who would consume the world. 
 - Apr 12, 1748 DR: Ander Charmheart is released from the demonic curse possessing him, when the demon [Oduk](<../other-nonhumans/oduk.md>) is killed by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in [Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/raven-s-hold.md>)
+
 
 
 

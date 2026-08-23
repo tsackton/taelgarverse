@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags: [place]
 name: Chaudi
 typeOf: waterway
+typeOfAlias: river
 whereabouts: Drankorian Hinterland
 dm_owner: none
-dm_notes: color
-typeOfAlias: river
+dm_notes: none
 title: Chaudi
 ---
 # Chaudi
@@ -15,5 +15,5 @@ title: Chaudi
 </div>
 
 
-The southernmost of the three great rivers of the [Nayan Floodplains](<../greater-dunmar/nayan-floodplains.md>)
+The Chaudi is a large river that flows southwest from the [Yuvanti Mountains](<../greater-dunmar/yuvanti-mountains.md>) to the western edge of the [Sea of Storms](<sea-of-storms.md>). 
 

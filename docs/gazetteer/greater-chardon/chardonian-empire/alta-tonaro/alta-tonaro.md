@@ -1,22 +1,28 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-22T23:40:59-04:00'
+lintVersion: '3.4'
 displayDefaults: {defArt: ''}
+tags: [place, status/gameupdate/dufr]
 typeOf: realm
+typeOfAlias: province
+name: Alta Tonaro
+pronunciation: AHL-tah toh-NAH-roh
 whereabouts:
 - {type: primary, location: Chardonian Empire}
 dm_owner: tim
-dm_notes: important
-typeOfAlias: province
+dm_notes: color
+POV: modern
 title: Alta Tonaro
 ---
 # Alta Tonaro
+:speaker:{ .middle } *(AHL-tah toh-NAH-roh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A province in the [Chardonian Empire](<../chardonian-empire.md>), [Greater Chardon](<../../greater-chardon.md>)  
 </div>
 
 
-*A brief description of the province of Alta Tonaro, produced by an assistant in the Imperial Office of Cartography*
+
 
 [Alta Tonaro](<alta-tonaro.md>) occupies the northern foothills of the [Chataan Mountains](<../../chataan-mountains.md>), centered around the mining town of [Argento](<argento.md>) and the riparian valleys of the [Silverflood](<../../../major-rivers/yeraad-watershed/silverflood.md>). Until the recent conquests in [Illoria](<../../../nevos-and-apporia/illoria.md>), this was the southernmost province of the Empire. 
 
@@ -27,3 +33,6 @@ In DR 1689, reports reached [Chardon](<../chardon/chardon.md>) that traces of [c
 But it was not to last. By DR 1704 [chalyte](<../../../../things/materials/chalyte.md>) production had peaked, and in DR 1706 it was obvious that the boom was not to last. The last surface mine ceased production in DR 1712, and by DR 1720, as Magistros Seva Auratan came to power, the [Chataan Mountains](<../../chataan-mountains.md>) were fortified and declared unsafe for travel. 
 
 Since then, silver production has continued around [Argento](<argento.md>), but, though valuable, silver has only a tiny fraction of the value of [chalyte](<../../../../things/materials/chalyte.md>), and [Alta Tonaro](<alta-tonaro.md>) is now considered a poor backwater by most.
+
+
+

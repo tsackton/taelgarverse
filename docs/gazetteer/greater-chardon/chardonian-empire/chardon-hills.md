@@ -1,19 +1,29 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+lintedAt: '2026-08-21T23:46:56-04:00'
+lintVersion: '3.4'
+tags: [place]
 typeOf: topographical feature
-whereabouts: Chardonian Empire
-dm_notes: none
-dm_owner: none
 typeOfAlias: line of hills
+name: Chardon Hills
+pronunciation: CHAR-din hills
+whereabouts: Chardonian Empire
+dm_owner: none
+dm_notes: none
+POV: modern
 title: Chardon Hills
 ---
 # The Chardon Hills
+:speaker:{ .middle } *(CHAR-din hills)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A line of hills in the [Chardonian Empire](<chardonian-empire.md>), [Greater Chardon](<../greater-chardon.md>)  
 </div>
 
 
 A line of hills southeast of [Chardon](<chardon/chardon.md>), part of the high ground that separates the Chasa and Yeraad watersheds. Usually referred to as the hills of Chardon or the hills south of Chardon in everyday usage; the Chardon Hills is a cartographer's shorthand, primarily. 
+
+
+
+
 
 

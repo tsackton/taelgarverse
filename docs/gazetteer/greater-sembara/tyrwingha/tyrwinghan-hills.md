@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
 tags: [place, status/check/mike]
-name: Tyrwinghan Hills
-aliases: [Cefren]
 typeOf: topographical feature
 typeOfAlias: line of hills
+name: Tyrwinghan Hills
+aliases: [Cefren]
 whereabouts: Mostreve Hills
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Tyrwinghan Hills
 ---
 # The Tyrwinghan Hills
@@ -17,3 +20,7 @@ title: Tyrwinghan Hills
 
 
 The Tyrwinghan Hills, locally known as the Cefren (*KEV-ren*) in Tyrwingha, are a line of hills and valleys running east from the [Maerwyns](<../maerwyn-mountains.md>) towards the [Mistfold Mountains](<../../western-green-sea/mistfold-mountains.md>). 
+
+
+
+

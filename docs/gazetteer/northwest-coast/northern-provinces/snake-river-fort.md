@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+tags: [place, status/check/name, status/gameupdate/gl]
 name: Snake River Fort
 typeOf: building
 subTypeOf: river crossing

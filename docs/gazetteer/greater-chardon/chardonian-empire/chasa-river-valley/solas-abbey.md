@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
 displayDefaults: {defArt: ''}
-name: Solas Abbey
+tags: [place, status/check/lint]
 typeOf: holy site
 typeOfAlias: abandoned abbey
+name: Solas Abbey
 whereabouts:
 - {type: home, location: Chasa River Valley, startFilter: r}
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Solas Abbey
 ---
 # Solas Abbey
@@ -18,5 +21,11 @@ title: Solas Abbey
 
 
 Solas Abbey is a partially ruined religious house on the upper road of the [Chasa River Valley](<chasa-river-valley.md>), once the home of the [Solatine Order](<../../../../groups/solatine-order.md>), a now-defunct itinerant order devoted to [The Wyrdling](<../../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>). 
+
+
+
+
+
+
 
 

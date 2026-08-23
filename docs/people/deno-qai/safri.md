@@ -1,21 +1,27 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T23:46:56-04:00'
+lintVersion: '3.4'
 tags: [person]
-campaignInfo:
-- {campaign: DuFr, person: Delwath, date: 1748-10-25, type: visited}
-name: Safri
-born:
 species: human
 ancestry: Deno'qai
+campaignInfo:
+- {campaign: dufr, person: Delwath, date: 1748-10-25, type: visited}
+born:
 gender: female
+name: Safri
+pronunciation: saf-REE
 whereabouts:
 - {type: away, start: 1748-10-25, linkText: in the forest valleys of, location: Sentinel Range}
+knownTo: [dufr]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
+POV: 1748
 title: Safri
 hide_toc: true
 ---
 # Safri
+:speaker:{ .middle } *(saf-REE)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -36,3 +42,7 @@ hide_toc: true
 
 
 The stories of Safri feel to [Delwath](<../pcs/dunmar-fellowship/delwath.md>) as he listens to them like folk tales. But you do meet a few people who have spoken to her. Those who have met her in human form describe a feeling as if the souls of animals gather to her: [A'gaza](<../../gods-and-religions/gods/tanshi/a-gaza.md>), the tanshi of deer, reindeer, caribou; [Bita](<../../gods-and-religions/gods/tanshi/bita.md>), the tanshi of bears; [Washi](<../../gods-and-religions/gods/tanshi/washi.md>), the tanshi of the forest mice and squirrels who gather food for the long winters. And as people tell these tales, you feel the eyes of your lynx shield staring intently, and the vision of [Nisir](<../../gods-and-religions/gods/tanshi/meswati/nisir.md>), the tanshi of the hawks and eagles pulling at you. Whatever else she may be, Safri is clearly favored by those tanshi that are connected to animals.
+
+
+
+

@@ -1,24 +1,29 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T11:10:54-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Zadkai
-species: human
+species: mysterious creature
 gender: male
-knownTo: [GL]
+campaignInfo:
+- {campaign: grli, type: encountered, date: 1747-07-23}
+name: Zadkai
+pronunciation: ZAD-kye
 whereabouts:
 - {type: away, start: 1747-07-23, end: 1747-07-23, location: Blacksilver Peak, alias: the glacier near Airion’s Floating Tower}
-campaignInfo:
-- {campaign: GL, type: encountered, date: 1747-07-23}
+knownTo: [grli]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
+POV: 1747
 title: Zadkai
 hide_toc: true
 ---
 # Zadkai
+:speaker:{ .middle } *(ZAD-kye)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [human](<../../creatures/species/humans.md>) (he/him)  
+    A mysterious creature (he/him)  
     { .bio }
 
     Originally from: Unknown
@@ -31,5 +36,9 @@ hide_toc: true
 Zadkai is a warlock devoted to a powerful being of the [Elemental Plane of Air](<../../cosmology/energy-realms/elemental-plane-of-air.md>). He sought the [Skyborn Scroll](<../../things/magic-items/skyborn-scroll.md>), one of [Airion the Mistspeaker](<airion.md>)'s elemental scrolls, believing it should be destroyed or returned to the Plane of Air rather than remain in human hands.
 
 He is especially associated with [Airion's Floating Tower](<../../gazetteer/northwest-coast/fiamatara-mountains/airion-s-floating-tower.md>), where he used illusion to impersonate Airion and tried to seize the scroll. His appearance there suggested unnatural age or alteration, but the source of his condition is uncertain. Zadkai escaped after the scroll was recovered, and his later whereabouts are unknown.
+
+
+
+
 
 

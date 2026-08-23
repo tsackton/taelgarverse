@@ -1,25 +1,30 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-22T23:22:55-04:00'
+lintVersion: '3.4'
 tags: [person]
-knownTo: [adma]
+species: human
+ancestry: Addermarian
 campaignInfo:
 - {campaign: adma, type: confronted, date: 1715-04-28}
 - {campaign: adma, type: laid to rest by, person: Owen Tavish, date: 1715-05-06, wParty: '<met:u> <person> on <target> <current:1q>'}
-species: human
-ancestry: Addermarian
 gender: male
 died: 1715-04-01
 title: Sir Einrik Arpaad
+name: Einrik Arpaad
+pronunciation: EYE-nrik AR-pahd
 affiliations:
 - {org: Torvaine Watch, title: commander, type: leader}
 whereabouts:
 - {type: home, location: Torvaine Watch}
-dm_notes: none
+knownTo: [adma]
 dm_owner: none
-name: Einrik Arpaad
+dm_notes: none
+POV: 1715
 hide_toc: true
 ---
 # Sir Einrik Arpaad
+:speaker:{ .middle } *(EYE-nrik AR-pahd)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -48,5 +53,8 @@ Einrik was a disciplined soldier who prized duty and order above all. The curse 
 - Apr 01, 1715 DR: Succumbed to the Serpentine Dagger, murdered the garrison, and was slain by [Bartoz](<bartoz.md>).
 - Apr 28, 1715 DR: Confronted the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) as a vengeful ghost.
 - May 06, 1715 DR: Spirit appeased and dispersed by [Owen Tavish](<owen-tavish.md>). 
+
+
+
 
 

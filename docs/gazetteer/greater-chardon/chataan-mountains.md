@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-21T19:01:27-04:00'
+lintVersion: '3.4'
+tags: [place, status/gameupdate/dufr]
 typeOf: topographical feature
-whereabouts: Greater Chardon
+typeOfAlias: mountain range
 name: Chataan Mountains
 pronunciation: cha-TAWN
-dm_owner: none
+whereabouts: Greater Chardon
+dm_owner: tim
 dm_notes: none
-typeOfAlias: mountain range
+POV: modern
 title: Chataan Mountains
 ---
 # The Chataan Mountains
@@ -22,3 +25,6 @@ The Chataans are a rugged, rocky mountain chain that rise from the hills and cli
 To the northeast, the Chataans merge with the rugged hills of the [Myraeni Gap](<../greater-dunmar/myraeni-gap.md>); to the southeast, across the [Rudhan Heights](<../greater-dunmar/darba-highlands/rudhan-heights.md>), is the imposing bulk of the [Yuvanti Mountains](<../greater-dunmar/yuvanti-mountains.md>).
 
 ![Chataan Landscape](/taelgarverse/assets/chataan-landscape.webp)
+
+
+

@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Luminatia
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
+tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: village
+name: Luminatia
 whereabouts: Chardonian Empire
 dm_owner: none
 dm_notes: color
+POV: '1749'
 title: Luminatia
 ---
 # Luminatia
@@ -16,3 +19,11 @@ title: Luminatia
 
 
 A small village near [Lake Valandros](<../lake-valandros.md>).
+
+
+
+
+
+
+
+

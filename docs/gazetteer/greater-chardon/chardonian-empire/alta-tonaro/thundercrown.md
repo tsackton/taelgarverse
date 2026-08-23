@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T15:54:27-04:00'
+lintVersion: '3.4'
 tags: [place]
 typeOf: topographical feature
-whereabouts: Chataan Mountains
-dm_notes: none
-dm_owner: none
 typeOfAlias: mountain
+name: Thundercrown
+whereabouts: Chataan Mountains
+dm_owner: none
+dm_notes: none
+POV: modern
 title: Thundercrown
 ---
 # Thundercrown
@@ -14,4 +18,8 @@ title: Thundercrown
 </div>
 
 
-A large, prominent peak in the northern [Chataan Mountains](<../../chataan-mountains.md>), noted to be near a rich source of[chalyte](<../../../../things/materials/chalyte.md>). 
+A large, prominent peak in the northern [Chataan Mountains](<../../chataan-mountains.md>), rising near [Riftstone Gorge](<riftstone-gorge.md>), and noted to be near a rich source of [chalyte](<../../../../things/materials/chalyte.md>).
+
+
+
+

@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-22T23:22:55-04:00'
+lintVersion: '3.4'
 tags: [person]
-knownTo: [adma]
-name: Kelvyn
 species: human
 gender: male
+name: Kelvyn
 whereabouts: Adderfell
+knownTo: [adma]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
+POV: 1715
 title: Kelvyn
 hide_toc: true
 ---
@@ -23,3 +26,6 @@ hide_toc: true
 
 
 A mysterious associate of [Duncan of Haldrenn](<duncan-of-haldrenn.md>), now a guard in the household of the Earl of Adderfell. 
+
+
+

@@ -24,6 +24,8 @@ Founded by [Cece I](<../../../../people/historical-figures/sembaran-royalty/cece
 Soon after Cece I's death, in 1713, the north dormitory was sold and all older children were dismissed. 
 
 
+During [Robert I's](<../../../../people/historical-figures/sembaran-royalty/robert-i.md>) reign it suffered for lack of funds, and the remaining dormitory building was sold in the summer of 1720 and the orphanage closed. 
+
 
 
 

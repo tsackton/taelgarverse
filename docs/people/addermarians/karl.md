@@ -1,18 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T11:10:54-04:00'
+lintVersion: '3.5'
 tags: [person]
-knownTo: [adma]
-name: Karl
 species: human
 ancestry: Addermarian
 gender: male
 born: 1678
-whereabouts:
-- {type: home, location: Haldrenn}
 campaignInfo:
 - {campaign: adma, type: met, date: 1715-05-17}
+name: Karl
+whereabouts:
+- {type: home, location: Haldrenn}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 title: Karl
 hide_toc: true
 ---
@@ -33,5 +36,9 @@ hide_toc: true
 
 
 A soot‑stained charcoal burner of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>); father of [Bran](<bran.md>) and husband of [Isolde of Haldrenn](<isolde-of-haldrenn.md>).
+
+
+
+
 
 

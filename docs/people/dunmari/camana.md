@@ -42,3 +42,5 @@ hide_toc: true
 A Dunmari warrior, archer, and scout. She is associated with [Havdar](<havdar.md>) and his warrior band, and functions as the leader of his scouting group. 
 
 
+In May 1748, she died in battle fighting [Orcs](<../../creatures/species/orcs.md>) affiliated with [Grash](<../other-nonhumans/grash.md>) in the desert west of [Kharsan](<../../gazetteer/greater-dunmar/hara-basin/kharsan.md>). [Havdar](<havdar.md>) gifted her [Flaming Bowstring](<../../campaigns/dunmari-frontier-campaign/treasure/flaming-bowstring.md>) to [Wellby](<../pcs/dunmar-fellowship/wellby.md>) in thanks for the aid of [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in battle. 
+

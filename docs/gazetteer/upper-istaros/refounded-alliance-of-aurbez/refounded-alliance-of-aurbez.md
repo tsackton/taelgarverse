@@ -38,11 +38,17 @@ Much later, after the [Third Hobgoblin War (Sembara)](<../../../events/1600s/thi
 For a generation, these cultures mixed along the hard frontier, supported each other, and argued about the future of the Aurbeze, about whether [Isingue](<../isingue.md>) was an inheritance to be reclaimed, about whether the longing for the past blinded people to the potential of the future. Some felt the [Aurbez Plateau](<../aurbez-plateau.md>) was home; others just a way point, even after generations, where they were waiting until they could return to the [Istaros](<../../major-rivers/istaros-watershed/istaros.md>) and reclaim the glory and power of [isingue](<../isingue.md>). 
 
 
+In DR 1720, the [War of the Ashen Horde](<../../../events/1700s/1720/war-of-the-ashen-horde.md>) swept across the Aurbez, threatening to destroy everyone. Out of the danger of that time, a new united identity was forged, a conscious refounding of the [Istabor Alliance](<../../../history/historical-realms/istabor-alliance.md>) to provide for the common defense. While some still talk of returning to their ancient homelands along the [Upper Istaros](<../upper-istaros.md>), many more speak of the alliance reborn in a new home. 
+
 
 ## Governance and Defense
 
 The Alliance has no single ruler. It functions as a network of self-governing towns and independent homesteads, held together by a web of oath and customary obligations. Local and regional councils meet as necessary to resolve disputes and provide for organization and coordination across households and communities. [Rangers](<../../../groups/rangers.md>) move among these communities as scouts and messengers, advising and coordinating, and keeping the most dangerous ways between settlements as safe as they can.
 
+
+The [Rangers](<../../../groups/rangers.md>) coordinate and lead the defense of the land, but they are not a standing army. Each settlement maintains its own watch and militia, and in times of need communities muster together under a mutual defense pact, serving under leaders chosen at war councils for their ability to command the trust of those who serve under them. 
+
+The [Rangers](<../../../groups/rangers.md>) also maintain a series of fortified waystations at strategic points, both along the road below the plateau and at key plateau access points. Built of stone, with stout gates and protected by garrisons of militia and Rangers, these waystations serve a crucial role during war, guarding the ascend to the plateau. In peace time, they double as hubs for trade and news. 
 
 ## Economy and Trade
 
@@ -50,6 +56,8 @@ The Aurbez supports small-scale farming where water allows it, fishing along the
 
 Trade follows the [Maseau - Dunmar Road](<../maseau-dunmar-road.md>), moving south to [Dunmar](<../../greater-dunmar/realms/dunmar/dunmar.md>) and north to the [March of Andonne](<../../greater-sembara/duchy-of-maseau/march-of-andonne.md>), [Maseau](<../../greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and eventually [Sembara](<../../greater-sembara/sembara/sembara.md>). 
 
+
+The road’s traffic grows year after year, especially since the construction of a stone bridge across the [Aursen](<../../major-rivers/istaros-watershed/aursen.md>) in DR 1732. The market town of [Aursenbourg](<aursenbourg.md>) has grown around the bridge, to become a central depot on the route, with a large market. 
 
 ## Settlements
 

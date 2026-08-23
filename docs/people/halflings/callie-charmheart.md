@@ -51,6 +51,8 @@ One of the Charmhearts, a halfling family of long-distance merchants and traders
 - [Ander Charmheart](<ander-charmheart.md>), younger brother and traveling companion
 - [Bree Charmheart](<bree-charmheart.md>), grandmother and traveling companion
 
+- [Garret Tealeaf](<garret-tealeaf.md>), occasional traveling companion 
+
 
 
 

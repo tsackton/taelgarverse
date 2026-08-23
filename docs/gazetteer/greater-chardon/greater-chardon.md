@@ -1,15 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip]
+lintedAt: '2026-08-21T15:58:36-04:00'
+lintVersion: '3.4'
 displayDefaults: {defArt: ''}
+tags: [place, status/wip]
 typeOf: region
+name: Greater Chardon
+pronunciation: CHAR-din
 whereabouts:
 - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Greater Chardon
 ---
 # Greater Chardon
+:speaker:{ .middle } *(CHAR-din)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A region in Taelgar  
 </div>
@@ -117,6 +123,10 @@ The West Coast Region includes the entirety of the [Chardonian Empire](<chardoni
 ## Climate
 
 Most of the extensive coastline of the Chardonian empire, stretching from the mouth of the [Yeraad](<rivers/yeraad.md>) river to the southern fringes of the [Mawakel Peninsula](<../northwest-coast/mawar-confederacy/mawakel-peninsula.md>), is a temperate region with [warm or hot summers and wet, cool winters](https://geodiode.com/climate/mediterranean). The [Mawakel Peninsula](<../northwest-coast/mawar-confederacy/mawakel-peninsula.md>) itself ...
+
+
+
+
 
 
 

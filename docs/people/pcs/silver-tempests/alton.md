@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-08-21T15:58:36-04:00'
+lintVersion: '3.4'
+tags: [person, status/gameupdate/gl]
 species: halfling
-name: Alton
 gender: male
 born: 1722
+name: Alton
 affiliations:
 - {org: Silver Tempests}
 whereabouts:
 - {type: home, end: 1747-01-01, location: Chardon}
 - {type: home, start: 1747-04-08, location: Voltara}
+knownTo: [grli]
 dm_owner: tim
 dm_notes: none
+POV: 1748
 title: Alton
 hide_toc: true
 ---
@@ -35,4 +39,8 @@ When Alton heard that the [Great Library](<../../../gazetteer/greater-chardon/ch
 
 Nearly a year later, in March of DR 1748, Alton joined a group of adventurers, including [Cassia](<../../chardonians/cassia.md>), a human paladin, and [Brottor](<../../dwarves/brottor.md>), a dwarf, to investigate the depths of the ruined mines under [Goldpeak Mountain](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mountain.md>). During the mission, [Brottor](<../../dwarves/brottor.md>) was killed by minions of [Vilaxes](<../../other-nonhumans/vilaxes.md>), and Alton and Cassia only survived because of the [Silver Tempests](<silver-tempests.md>), who found them and joined forces to defeat [Vilaxes](<../../other-nonhumans/vilaxes.md>). 
 
-Since then, Alton has been living in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) and occasionally traveling with the [Silver Tempests](<silver-tempests.md>). 
+Since then, Alton has been living in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) and occasionally traveling with the [Silver Tempests](<silver-tempests.md>).
+
+
+
+

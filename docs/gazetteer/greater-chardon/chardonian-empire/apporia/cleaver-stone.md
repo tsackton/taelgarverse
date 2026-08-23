@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Cleaver-Stone
-typeOf: planar link
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
 displayDefaults: {wSecondary: 'Connected to <secondary:1>'}
+tags: [place]
+typeOf: planar link
+typeOfAlias: portal
+ancestry: Shadowfolds
+name: Cleaver-Stone
 whereabouts:
 - {type: primary, location: Apporia}
 - {type: secondary, location: Cairn Dor}
 dm_owner: none
 dm_notes: none
-typeOfAlias: portal
-ancestry: Shadowfolds
+POV: modern
 title: Cleaver-Stone
 ---
 # Cleaver-Stone
@@ -20,6 +23,10 @@ title: Cleaver-Stone
 </div>
 
 
-An ancient trilithic portal-stone hidden in the uplands of the [Kedron](<kedron.md>) river, that connects to the mysterious realm known as [Cairn Dor](<../../../extraplanar/shadowfolds/cairn-dor/cairn-dor.md>). 
+An ancient trilithic portal-stone hidden in the uplands of the [Kedron](<kedron.md>) river, that connects to the mysterious realm known as [Cairn Dor](<../../../extraplanar/shadowfolds/cairn-dor/cairn-dor.md>).  In DR 1748, the [Silver Tempests](<../../../../people/pcs/silver-tempests/silver-tempests.md>) locked the portal after their [expedition into Cairn Dor](<../../../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-5.md>). 
+
+
+
+
 
 

@@ -1,28 +1,33 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T18:44:38-04:00'
+lintVersion: '3.4'
 tags: [person]
-name: Ghemdorn
-species: fey
+species: satyr
 gender: male
-subspecies: satyr
 campaignInfo:
-- {campaign: DuFr, person: Riswynn, type: met, date: 1748-05-31}
-whereabouts:
-- {type: away, start: 1748-05-25, end: 1748-06-02, location: Yuvanti Mountains}
-affiliations:
-- {org: Oskar's Companions, title: One}
-dm_owner: player
-dm_notes: none
+- {campaign: dufr, person: Riswynn, type: met, date: 1748-05-31}
 player: Sasha Rosan
 ddbLink: https://www.dndbeyond.com/characters/53344874
+name: Ghemdorn
+pronunciation: GHEM-dorn
+affiliations:
+- {org: Oskar's Companions, title: One}
+whereabouts:
+- {type: away, start: 1748-05-25, end: 1748-06-02, location: Yuvanti Mountains}
+knownTo: [dufr]
+dm_owner: player
+dm_notes: none
+POV: 1748
 title: Ghemdorn
 hide_toc: true
 ---
 # Ghemdorn
+:speaker:{ .middle } *(GHEM-dorn)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    A [fey](<../../../../creatures/fey/fey.md>) (satyr) (he/him)  
+    A satyr (he/him)  
     One of [Oskar's Companions](<oskar-s-companions.md>)  
     { .bio }
 
@@ -38,3 +43,7 @@ hide_toc: true
 
 
 Ghemdorn is a satyr paladin, known to travel with [Eva](<eva.md>). 
+
+
+
+

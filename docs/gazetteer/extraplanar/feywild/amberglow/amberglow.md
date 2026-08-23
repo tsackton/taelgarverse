@@ -6,7 +6,7 @@ excludePublish: [clee]
 ancestry: fey
 typeOf: extraplanar domain
 dm_notes: none
-dm_owner: mike,tim
+dm_owner: joint
 title: Amberglow
 ---
 # Amberglow

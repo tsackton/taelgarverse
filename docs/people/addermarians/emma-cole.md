@@ -1,20 +1,23 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
 tags: [person]
-knownTo: [adma]
-campaignInfo:
-- {campaign: adma, type: met, date: 1715-05-22}
-name: Emma Cole
 species: human
 ancestry: Addermarian
+campaignInfo:
+- {campaign: adma, type: met, date: 1715-05-22}
 gender: female
 born: 1694
+name: Emma Cole
 affiliations:
 - {org: The Traveler's Rest, title: chambermaid, type: member}
 whereabouts:
 - {type: home, location: Roscombe}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 title: Emma Cole
 hide_toc: true
 ---
@@ -36,4 +39,7 @@ hide_toc: true
 
 
 Emma Cole is a curious and excitable young woman who works as a chambermaid at [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>) in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), alongside her uncle [Bertrand LeBlanc](<bertrand-leblanc.md>). 
+
+
+
 

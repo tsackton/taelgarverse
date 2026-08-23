@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-21T19:01:27-04:00'
+lintVersion: '3.4'
+tags: [place, status/check/lint, status/check/mike]
 typeOf: settlement
 typeOfAlias: village
-whereabouts: Barony of Aveil
 population: 498
+name: Peydon
 pronunciation: Pay-dun
-dm_notes: important
+whereabouts: Barony of Aveil
 dm_owner: mike
+dm_notes: important
+POV: modern
 title: Peydon
 ---
 # Peydon
@@ -19,5 +23,14 @@ title: Peydon
 </div>
 
 
-A manoral village along the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>) in [Barony of Aveil](<barony-of-aveil.md>), it is about 15 miles north of [Rinburg](<rinburg.md>) over the fields, and 25 miles by road. 
+A manorial village along the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>) in [Barony of Aveil](<barony-of-aveil.md>), it is about 15 miles north of [Rinburg](<rinburg.md>) over the fields, and 25 miles by road.
+
+
+
+
+
+
+
+
+
 

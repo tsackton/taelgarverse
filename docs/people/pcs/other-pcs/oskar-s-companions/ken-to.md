@@ -1,23 +1,28 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-22T19:47:35-04:00'
+lintVersion: '3.4'
 tags: [person]
-name: Ken-to
-aliases: [Ken-To]
 species: stoneborn
 gender: male
 player: Isaac Sackton
-whereabouts:
-- {type: home, location: Yuvanti Mountains}
+campaignInfo:
+- {campaign: dufr, person: Riswynn, type: met, date: 1748-05-18}
+name: Ken-to
+pronunciation: KEN-toh
 affiliations:
 - {org: Oskar's Companions, title: One}
-campaignInfo:
-- {campaign: DuFr, person: Riswynn, type: met, date: 1748-05-18}
+whereabouts:
+- {type: home, location: Yuvanti Mountains}
+knownTo: [dufr]
 dm_owner: player
 dm_notes: none
+POV: 1748
 title: Ken-to
 hide_toc: true
 ---
 # Ken-to
+:speaker:{ .middle } *(KEN-toh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -34,3 +39,6 @@ hide_toc: true
 
 
 Ken-to is a stoneborn monk and mystic who lives in an isolated hut, high in the [Yuvanti Mountains](<../../../../gazetteer/greater-dunmar/yuvanti-mountains.md>) west of [Tharn Todor](<../../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). 
+
+
+

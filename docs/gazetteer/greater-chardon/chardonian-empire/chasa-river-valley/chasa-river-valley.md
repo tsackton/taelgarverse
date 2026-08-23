@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-whereabouts: Chardonian Empire
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
+tags: [place, status/check/lint]
 typeOf: region
 name: Chasa River Valley
-dm_notes: none
+whereabouts: Chardonian Empire
 dm_owner: tim
+dm_notes: none
+POV: 1748
 title: Chasa River Valley
 ---
 # The Chasa River Valley
@@ -31,5 +34,12 @@ The Chasa Valley runs from the coastward confluence at **Metium**—closest to C
 Though the Chasa valley suffered terribly during the [Great War](<../../../../events/1500s/great-war.md>) and the [Conclave War](<../../../../events/1500s/conclave-war.md>), the villages and towns of this region have thrived in the past few generations, becoming one of the empire’s great granaries. Heavily depopulated during the wars, most folk living here now are Chardonian, though some trace a mixed ancestry to the patchwork of city states and small kingdoms that occupied this region before the [Great War](<../../../../events/1500s/great-war.md>). This is an agrarian land, where people work a varied countryside of grainfields, orchards, berry-rows, vineyards, and cattle pasture. Farther upstream, as the land gets more densely wooded, the economy shifts to timbering, and the trades of hides, furs, and leather. 
 
 Small villages dot the valley every few miles, a handful of homes and farmsteads clustered near a small shrine or temple, where travelers can usually buy food or find a barn-loft for the night. Every day’s walk or so, a chartered market town gathers trade, with gridded streets, a proper square, baths, at least one temple, and an elected magistrate who keeps the peace and tallies the taxes. Larger towns may raise a palisade and host a garrison, projecting order across rings of outlying farms and riverside hamlets.
+
+
+
+
+
+
+
 
 

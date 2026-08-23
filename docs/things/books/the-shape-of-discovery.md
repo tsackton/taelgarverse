@@ -7,8 +7,8 @@ typeOf: book
 typeOfAlias: philosophical treatise
 written: during the [[History of the Drankorian Empire|Drankorian Era]]
 ancestry: Drankorian
-dm_owner: schwartz
-dm_notes: important
+dm_owner: none
+dm_notes: none
 title: The Shape of Discovery
 ---
 # The Shape of Discovery

@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T23:46:56-04:00'
+lintVersion: '3.4'
 tags: [person]
-name: Cedric
-born: 1684
-died: 1720-01-05
 species: human
 ancestry: Sembaran
+born: 1684
+died: 1720-01-05
 gender: male
+name: Cedric
 whereabouts:
 - {type: home, location: Cleenseau}
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: 1720
 title: Cedric
 hide_toc: true
 ---
@@ -26,6 +30,10 @@ hide_toc: true
 </div>
 
 
-A transman who lived in [Underhill](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/underhill.md>), he was killed by a zombie during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) along with his unborn child. He lived at [Tumbledown Farm](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/tumbledown-farm.md>), and was quiet and preferred the company of his husband (a solider in the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)) to large groups. 
+A transman who lived in [Underhill](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/underhill.md>), he was killed by a zombie during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) along with his unborn child. He lived at [Tumbledown Farm](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/tumbledown-farm.md>), and was quiet and preferred the company of his husband (a soldier in the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)) to large groups.
 
 He was found near [Auloutte](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/auloutte.md>) by [Gideon Thorne](<gideon-thorne.md>) and some other fishers.
+
+
+
+

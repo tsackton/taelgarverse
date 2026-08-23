@@ -85,6 +85,12 @@ _Real world analog: Northros languages are based on Semitic languages_
 
 
 
+##### Old Northros
+A general term for the early languages spoken by the northerners during the first migrations before the Downfall. Historical only now, though Deno'qai is the most similar modern tongue, and might be mutually intelligible to a degree, and Old Zimkovan probably has some similarities too. 
+
+_Real world analog_: Semitic languages generally
+_Alphabet_: Unknown. 
+
 ##### Old Zimkovan
 The ancient language of the [Zimka](<../gazetteer/greater-sembara/zimkova/zimkova.md>) people, mostly no longer spoken outside of the most traditional and isolated parts of northern [Zimkova](<../gazetteer/greater-sembara/zimkova/zimkova.md>) and parts of the [Lavnoch Plateau](<../gazetteer/greater-sembara/zimkova/lavnoch-plateau.md>).
 
@@ -142,6 +148,13 @@ A number of mutually understandable languages and dialects spoken in Sembara, Ty
 _Real world analog_: French (more prevalent in the South) and English (more prevalent in the north and Addermarch)
 _Alphabet_: Sembaran is written using the Drankorian alphabet
 *Intelligibility*: Tollish is mutually intelligible with Sembaran. There are numerous cognates between Sembaran and [Isinguese](<languages.md#isinguese>), but they have a very different grammar. An Isinguese speaker can sometimes pick out some meaning from Sembaran.
+
+##### Addermarian
+A dialect of Sembaran spoken in Addermarch. Has numerous loan words from Tyrwinghan, but otherwise preserves the general Sembaran structure and influences.
+
+_Real world analog_: French (more prevalent in the South) and English (more prevalent in the north and Addermarch), with some Welsh influence from Tyrwinghan
+_Alphabet_: Addermarian is written using the Drankorian alphabet
+*Intelligibility*: Tollish and Sembaran are mutually intelligible with Addermarian. There are numerous cognates between Addermarian and [Isinguese](<languages.md#isinguese>), but they have a very different grammar. An Isinguese speaker can sometimes pick out some meaning from Addermarian. Addermarian has some Tyrwinghan loan words but is not generally mutually understandable. 
 ##### Tollish
 The language spoken in Tollen and parts of the Tollen spheres of influence. It is closely related to Sembaran, and developed from a similar mix of Old Tollish and Drankorian. 
 

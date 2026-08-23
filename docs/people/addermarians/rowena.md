@@ -1,23 +1,28 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T11:10:54-04:00'
+lintVersion: '3.5'
 tags: [person]
-knownTo: [adma]
-campaignInfo:
-- {campaign: adma, type: rescued, date: 1715-05-17}
-name: Rowena
 species: human
 ancestry: Addermarian
+campaignInfo:
+- {campaign: adma, type: rescued, date: 1715-05-17}
+gender: female
+born: 1709
+name: Rowena
+pronunciation: roh-WEH-nah
 whereabouts:
 - {type: home, location: Haldrenn}
 - {type: away, start: 1715-05-16, end: 1715-05-17, location: Highmoor}
-gender: female
-born: 1709
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 title: Rowena
 hide_toc: true
 ---
 # Rowena
+:speaker:{ .middle } *(roh-WEH-nah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -36,5 +41,9 @@ hide_toc: true
 A villager and forager from [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>); daughter of [Manfred](<manfred.md>).
 ## Events
 - May 17, 1715 DR: Rescued by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) from a bee‑filled cave east of Haldrenn shortly before a worg attack on the hamlet.
+
+
+
+
 
 

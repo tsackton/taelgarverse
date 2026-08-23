@@ -1,18 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
 tags: [person]
-knownTo: [adma]
-name: Alewyn
-pronunciation: EYE-loo-in
 species: human
 ancestry: Addermarian
 gender: female
-whereabouts:
-- {type: home, location: Haldrenn}
 campaignInfo:
 - {campaign: adma, type: met, date: 1715-05-19}
+name: Alewyn
+pronunciation: EYE-loo-in
+whereabouts:
+- {type: home, location: Haldrenn}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 title: Alewyn
 hide_toc: true
 ---
@@ -33,3 +36,7 @@ hide_toc: true
 
 
 Alewyn is a villager in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), whose home serves as an informal winter tavern. She is warm, talkative, and well supplied with local gossip.
+
+
+
+

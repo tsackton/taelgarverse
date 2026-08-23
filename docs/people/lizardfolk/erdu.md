@@ -26,3 +26,5 @@ hide_toc: true
 ![Lizardfolk Erdu](/taelgarverse/assets/lizardfolk-erdu.webp){align="right"; width="320"}The spokesperson for the village of [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>) when dealing with humans. Older, with graying scales. Has a relatively low opinion of humans, all things considered. His family has lived along the Enst for hundreds of years (he says), and he is skeptical of [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) claims to the land. 
 
 
+The death of his brother [Edur](<edur.md>) by giant spiders has further soured his opinion of humans. 
+

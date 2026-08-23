@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
 tags: [place]
 typeOf: waterway
 typeOfAlias: river
+name: Trellyn
 aliases: [River Trellyn, Trellyn River]
-whereabouts: Tyrwingha
 pronunciation: TRELL-yin
-dm_notes: none
+whereabouts: Tyrwingha
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Trellyn
 ---
 # Trellyn
@@ -17,4 +21,10 @@ title: Trellyn
 </div>
 
 
-A small river that originates in the [Tyrwinghan Hills](<../../tyrwingha/tyrwinghan-hills.md>) and joins the [Aben](<aben.md>) near [Tafolwern](<../../tyrwingha/tafolwern.md>). 
+A small river that originates in the [Tyrwinghan Hills](<../../tyrwingha/tyrwinghan-hills.md>) and joins the [Aben](<aben.md>) near [Tafolwern](<../../tyrwingha/tafolwern.md>).
+
+
+
+
+
+

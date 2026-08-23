@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
 displayDefaults: {defArt: ''}
+tags: [place, status/check/lint]
 typeOf: waterway
+typeOfAlias: brook
+name: Cedar Brook
 whereabouts:
 - {type: primary, location: Alta Tonaro}
 - {type: secondary, location: Yeraad Watershed, startFilter: r}
-dm_notes: none
 dm_owner: none
-typeOfAlias: brook
+dm_notes: none
+POV: modern
 title: Cedar Brook
 ---
 # Cedar Brook
@@ -18,4 +22,10 @@ title: Cedar Brook
 </div>
 
 
-A small tributary of the [Silverflood](<../../major-rivers/yeraad-watershed/silverflood.md>), flowing north from the [Chataan Mountains](<../chataan-mountains.md>). 
+A small tributary of the [Silverflood](<../../major-rivers/yeraad-watershed/silverflood.md>), flowing north from the [Chataan Mountains](<../chataan-mountains.md>).
+
+
+
+
+
+

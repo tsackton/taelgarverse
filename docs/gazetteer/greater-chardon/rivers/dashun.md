@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
+tags: [place]
 typeOf: waterway
+typeOfAlias: river
+name: Dashun
+pronunciation: DAH-shoon
 whereabouts: Chardonian Empire
 dm_owner: none
 dm_notes: none
-typeOfAlias: river
-pronunciation: DAH-shoon
+POV: modern
 title: Dashun
 ---
 # Dashun
@@ -16,6 +20,10 @@ title: Dashun
 </div>
 
 
-A minor river in the [Coastlands](<../chardonian-empire/coastlands.md>), south of the [Chasa](<../../major-rivers/chasa-nahadi-watershed/chasa.md>), flowing from the [Chardon Hills](<../chardonian-empire/chardon-hills.md>) to the [Gulf of Chardon](<../gulf-of-chardon.md>). 
+A minor river in the [Coastlands](<../chardonian-empire/coastlands.md>), south of the [Chasa](<../../major-rivers/chasa-nahadi-watershed/chasa.md>), flowing from the [Chardon Hills](<../chardonian-empire/chardon-hills.md>) to the [Gulf of Chardon](<../gulf-of-chardon.md>).
+
+
+
+
 
 

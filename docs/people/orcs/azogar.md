@@ -1,28 +1,32 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T18:44:38-04:00'
+lintVersion: '3.4'
 tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-09, type: met}
-- {campaign: dufr, date: 1749-01-24, type: last seen}
-name: Azogar
-born: 1678
 species: orc
-subspecies: unchained
+campaignInfo:
+- {campaign: dufr, date: 1748-12-04, type: met}
+born: 1678
 gender: male
 title: Loremaster Azogar
+name: Azogar
+pronunciation: ah-zoh-GAHR
 affiliations:
 - {org: People of the Rainbow, type: primary}
 whereabouts: Uzgukhar
+knownTo: [dufr]
 excludePublish: [clee]
-dm_notes: color
 dm_owner: none
+dm_notes: none
+POV: 1749
 hide_toc: true
 ---
 # Loremaster Azogar
+:speaker:{ .middle } *(ah-zoh-GAHR)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An [orc](<../../creatures/species/orcs.md>) (unchained) (he/him), of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
+    An [orc](<../../creatures/species/orcs.md>) (he/him), of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>)  
     Born DR 1678 (72 years old)  
     { .bio }
 
@@ -31,16 +35,16 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 9th, 1748 in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
-
-
-
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 24th, 1749 in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
-
-
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 4th, 1748 in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
 
 
 Azogar is an old [orc](<../../creatures/species/orcs.md>) loremaster from [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), one of the unchained [orcs](<../../creatures/species/orcs.md>) of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>). He has dark green skin, which is almost black in patches, and long, but thinning white hair. He is frail and uses a cane to walk. Generally prefers simple robes and understated dress. Although he speaks with a wavering voice, he is clear and precise in this language. 
 
-Azogar is very knowledgeable about the history of his people, and can tell many stories of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>), both before and after the founding of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>). He serves as one of the primary advisors to [Lubash](<lubash.md>), the chief of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>). 
+Azogar is exacting and inquisitive, with a particular interest in how unfamiliar magic works. He is also very knowledgeable about the history of his people, and can tell many stories of the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>), both before and after the founding of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>). He serves as one of the primary advisors to [Lubash](<lubash.md>), the chief of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>). 
+
+
+
+
+
+
 

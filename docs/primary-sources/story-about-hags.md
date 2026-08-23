@@ -1,10 +1,13 @@
 ---
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
 tags: [source, status/cleanup/text]
-dm_owner: tim
-dm_notes: color
+name: Story about Hags
+dm_owner: none
+dm_notes: none
+POV: undated
 title: Story about Hags
 ---
-
 
 
 Think for a second of how much you actually know as a commoner. You probably don't know specifically 'Hags', you instead have heard rumors about "The Woman of the Cliffs". People whisper that she's evil, cruel, and malicious. But you're in the tavern one night drinking away your worries about your eldest daughter's growing illness when Svenson, the local drunkard, is speaking to your neighbor, Wilfun, about his and his wife's problems having a child, and he says "Why not speak to the woman of the cliffs? They say she has powers". The other locals shush him up, talking about how bad an idea it is. But your neighbor looks thoughtful. You finish your tankard and forget about it.
@@ -22,3 +25,7 @@ The first signs of trouble come several months later. Some of the villagers come
 Planning to confront the Woman of the Cliffs, you ascend into her lair again. However all she will tell you (and she is fearsome enough you do not push) is that she will explain all if you simply sprinkle this vial into the food or drink of the mayor's wife. You refuse, she calmly states you owe her a favor, and if you say no she can take back your daughter's good health.
 
 With a weary heart you return to the village, thinking of how you can do what she demands... when you pass your neighbor's' house, for a second you think you can see their four month old daughter through the window. She smiles and laughs at you in a way more knowing than any baby that young should be able to.
+
+
+
+

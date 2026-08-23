@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-22T23:40:59-04:00'
+lintVersion: '3.4'
 tags: [source]
+campaign: Dunmar Frontier
+name: Cecilia Lister's Story
+POV: 1748
 title: Cecilia Lister's Story
 ---
 # Cecilia Lister's Story
@@ -11,7 +16,7 @@ She was born to a modest family of fisherfolk. It was a hard childhood, full of 
 
 The best parts of her childhood were the days her mother would take her to the big market near the docks in [Fiskurth](<../../../gazetteer/greater-sembara/tollen/wards/fiskurth.md>), where she could watch the bustle of the city. She tells [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) she remembers being fascinated by the bright colors of the bolts of cloth being loaded onto merchant ships, by the songs of the [halfling](<../../../creatures/species/halflings.md>) selling strange-smelling spices, by cheap illusions of the market performers trying to earn a quick coin with a flashy display of simple magic. 
 
-This might have been her life, selling fish at market until she was old, following in her parents footsteps. But, when she was 14, everything changed. 
+This might have been her life, selling fish at market until she was old, following in her parents' footsteps. But, when she was 14, everything changed.
 
 In the spring of 1708, a sickness swept through [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), a wasting disease that hit the crowded streets of [Fiskurth](<../../../gazetteer/greater-sembara/tollen/wards/fiskurth.md>) and [Skepwalk](<../../../gazetteer/greater-sembara/tollen/wards/skepwalk.md>) particularly hard, especially among the many families without spare coin or labor to donate to a temple for a blessing of healing. Cecilia's older brother was sick for a month, and while he eventually recovered he was cursed with spells of weakness ever after. Cecilia found herself forced to join her father on the ocean in his place. Learning to sail and read the ocean was hard and did not come naturally to her. 
 
@@ -23,4 +28,4 @@ She was embarrassed at first, she recalled, not wanting to make a scene or be fa
 
 After a decade of this, having long ago earned enough coin for her parents and older brother to stop working, and to set her younger brother up as the captain of a merchant ship, she grew bored. The simple art of protective charms did not push her talents, she said.  Soon after her 37th birthday, her parents died, and she found herself needing to move on from the ocean.
 
-So in her late 30s she turned to tattoos, marveling in the complexity of the interplay between the person and the magic of the ink. And this, along with using her wealth and position to aid struggling young artists, has been her joy and passion ever since. 
+So in her late 30s she turned to tattoos, marveling in the complexity of the interplay between the person and the magic of the ink. And this, along with using her wealth and position to aid struggling young artists, has been her joy and passion ever since.

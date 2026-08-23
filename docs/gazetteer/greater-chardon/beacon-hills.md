@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
-dm_notes: none
-dm_owner: none
+lintedAt: '2026-08-21T23:46:56-04:00'
+lintVersion: '3.4'
+tags: [place]
 typeOf: topographical feature
-whereabouts: Chardonian Empire
 typeOfAlias: line of hills
+name: Beacon Hills
+whereabouts: Chardonian Empire
+dm_owner: none
+dm_notes: none
+POV: modern
 title: Beacon Hills
 ---
 # The Beacon Hills
@@ -14,5 +18,9 @@ title: Beacon Hills
 </div>
 
 
-A region of rugged hills and rough terrain west of [Lake Valandros](<lake-valandros.md>). Many small rivers rise in these hills and flow west to the [Endless Ocean](<../endless-ocean.md>) through the [Coastlands](<chardonian-empire/coastlands.md>). 
+A region of rugged hills and rough terrain west of [Lake Valandros](<lake-valandros.md>). Many small rivers rise in these hills and flow west to the [Endless Ocean](<../endless-ocean.md>) through the [Coastlands](<chardonian-empire/coastlands.md>), including the [Breakrock](<rivers/breakrock.md>), [Sevros](<rivers/sevros.md>), [Corvessa](<rivers/corvessa.md>), and [Zar](<rivers/zar.md>).
+
+
+
+
 

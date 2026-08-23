@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T23:46:56-04:00'
+lintVersion: '3.4'
 tags: [place]
-name: River Gate
 typeOf: infrastructure
-whereabouts: North Wall (Chardon)
-dm_owner: tim
-dm_notes: none
 typeOfAlias: gate
+name: River Gate
+whereabouts: North Wall (Chardon)
+dm_owner: none
+dm_notes: none
+POV: modern
 title: River Gate
 ---
 # The River Gate
@@ -16,3 +19,7 @@ title: River Gate
 
 
 The River Gate is a fortified gate that allows the [Mill Channel](<mill-channel.md>) to pass out of the [north walls](<north-wall-chardon.md>) and feed the series of waterworks in the [Basin](<ragwater-basin.md>).
+
+
+
+

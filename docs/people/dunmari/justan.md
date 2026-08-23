@@ -29,11 +29,11 @@ hide_toc: true
     Lived on the [Varashan](<../../gazetteer/greater-dunmar/hara-basin/varashan.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Killed by [Casian](<../chardonians/casian.md>) in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+:octicons-location-24:{ .lg .middle } Killed by [Casian](<../chardonians/casian.md>) in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 21th, 1748 in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 21th, 1748 in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>)  
 
 
 ![Justan](/taelgarverse/assets/justan.webp){align="right"; width="250"}A Dunmari man, from a family of horse herders traveling on the lands around [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 

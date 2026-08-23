@@ -1,17 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
 tags: [place, status/gameupdate/dufr]
-aliases: [Dunmari]
-name: Dunmar
-whereabouts: Greater Dunmar
-created: 1173
 typeOf: realm
-dm_notes: color
-dm_owner: tim
 typeOfAlias: theocracy
+created: 1173
+name: Dunmar
+aliases: [Dunmari]
+pronunciation: DUN-mar
+whereabouts: Greater Dunmar
+dm_owner: tim
+dm_notes: none
+POV: 1748
 title: Dunmar
 ---
 # Dunmar
+:speaker:{ .middle } *(DUN-mar)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Founded DR 1173 (577 years ago)  
@@ -21,13 +26,13 @@ title: Dunmar
 
 
 
-Dunmar is an ancient theocratic monarchy stretching more than 700 miles across the central lowlands south of the [Sentinels](<../../../sentinel-range.md>), bordered by the coast of the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>) and the [Myraeni Gap](<../../myraeni-gap.md>) in the west, the [Sentinel Range](<../../../sentinel-range.md>) in the north, and the  barren wastelands of the [Nashtkar](<../../nashtkar.md>) and the [Garamjala Desert](<../../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) in the east and south. Founded in DR 1173 by the great leader and first Samraat [Bhishma](<../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>), who is now a goddess and a divine protector of her people, Dunmar survived the turmoil of the [Great War](<../../../../events/1500s/great-war.md>) and the upheavals that followed, and now occupies a land much-changed from the fertile grasslands of its founding.
+Dunmar is an ancient theocratic monarchy stretching more than 700 miles across the central lowlands south of the [Sentinels](<../../../sentinel-range.md>), bordered by the coast of the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>) and the [Myraeni Gap](<../../myraeni-gap.md>) in the west, the [Sentinel Range](<../../../sentinel-range.md>) in the north, and the barren wastelands of the [Nashtkar](<../../nashtkar.md>) and the [Garamjala Desert](<../../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) in the east and south. Founded in DR 1173 by the great leader and first Samraat [Bhishma](<../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>), who is now a goddess and a divine protector of her people, Dunmar survived the turmoil of the [Great War](<../../../../events/1500s/great-war.md>) and the upheavals that followed, and now occupies a land much-changed from the fertile grasslands of its founding.
 
 Dunmar was founded on the territory that was formerly the heartland of the [Drankorian Empire](<../../../../history/historical-realms/drankorian-empire.md>), but left largely, although not entirely, empty by the [First Plague](<../../../../events/1000s/1059/first-plague.md>). The palace and administrative center of the [Aatmaji Dynasty](<../../../../groups/dunmari-dynasties/aatmaji-dynasty.md>), the founding dynasty of Dunmar, was [Kharsan](<../../hara-basin/kharsan.md>) and the [Kharja](<../../kharja.md>) river valley. When the [Aatmaji Dynasty](<../../../../groups/dunmari-dynasties/aatmaji-dynasty.md>) was ended after a disastrous attempt to invade and cleanse [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>), after a short period of chaos, the political and cultural center of the country moved west under the [Dharajun Dynasty](<../../../../groups/dunmari-dynasties/dharajun-dynasty.md>), to the city of [Tokra](<central-dunmar/tokra/tokra.md>). Dunmar reached its peak of power and influence during this time, thanks in part to its agricultural wealth (largely in horses and sheep) and overland trade network connecting the east and west. 
 
 During the [Great War](<../../../../events/1500s/great-war.md>), however, Dunmar suffered terribly. The [Dharajun Dynasty](<../../../../groups/dunmari-dynasties/dharajun-dynasty.md>) was destroyed, many Dunmari died in battle against [Cha'mutte](<../../../../people/extraplanar-powers/cha-mutte.md>)'s armies, and the eastern part of the country was destroyed. After [Cha'mutte](<../../../../people/extraplanar-powers/cha-mutte.md>)'s defeat, the land itself was reshaped: the [Garamjala Plateau](<../../../drankorian-hinterland/garamjala-plateau/garamjala-plateau.md>) and the [Yuvanti Mountains](<../../yuvanti-mountains.md>) rose violently and suddenly, shifting the course of the [Mahar](<../../../major-rivers/istaros-watershed/istaros.md>) and creating the [Hara Basin](<../../hara-basin/hara-basin.md>). Yet the Dunmari survived, and built a new country in the changed land. 
 
-Now, Dunmar is culturally divided by the [Yuvanti Mountains](<../../yuvanti-mountains.md>) and the [Darba Highlands](<../../darba-highlands/darba-highlands.md>). To the east, the Dunmari who live in the dry, arid grasslands and deserts of the [Hara Basin](<../../hara-basin/hara-basin.md>) maintain a traditional nomadic way of live, moving with their herds of horses, sheep, and goats across the plains with the seasons, and gathering at temples and religious sites to mark the festivals and turnings of the year. To the west, the people living on the coastal plains and in the river valleys and rolling hills of highlands have adopted a much more sedentary lifestyle, with a much greater focus on permanent agriculture. 
+Now, Dunmar is culturally divided by the [Yuvanti Mountains](<../../yuvanti-mountains.md>) and the [Darba Highlands](<../../darba-highlands/darba-highlands.md>). To the east, the Dunmari who live in the dry, arid grasslands and deserts of the [Hara Basin](<../../hara-basin/hara-basin.md>) maintain a traditional nomadic way of life, moving with their herds of horses, sheep, and goats across the plains with the seasons, and gathering at temples and religious sites to mark the festivals and turnings of the year. To the west, the people living on the coastal plains and in the river valleys and rolling hills of highlands have adopted a much more sedentary lifestyle, with a much greater focus on permanent agriculture.
 
 Nonetheless, the Dunmari remain united by their worship of the [Dunmari Religion](<../../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>), the divinities that protect the people, and worship of these deities is a central part of all Dunmari culture and civic life. 
 
@@ -43,7 +48,7 @@ Inland, Dunmar is dominated by the [Hara Basin](<../../hara-basin/hara-basin.md>
 
 ### Climate
 
-Dunmar is a subtropical country, with hot, dry winters and hot, humid summers. The climate is strongly shaped by the seasonal monsoon rains, which bring moisture from the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>) inland during the summer months, and the [Yuvanti Mountains](<../../yuvanti-mountains.md>), which create a rain shadow over the Garamajala. 
+Dunmar is a subtropical country, with hot, dry winters and hot, humid summers. The climate is strongly shaped by the seasonal monsoon rains, which bring moisture from the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>) inland during the summer months, and the [Yuvanti Mountains](<../../yuvanti-mountains.md>), which create a rain shadow over the Garamjala.
 
 The [Nayan Floodplains](<../../nayan-floodplains.md>) and the [Darba Highlands](<../../darba-highlands/darba-highlands.md>) generally are a subtropical humid monsoon climate, with extensive monsoon rains in June, July, August, and September, although the climate of the Darba Highlands tends to be moderated somewhat by the topography, which brings occasional winter rains off the ocean. The [Hara Basin](<../../hara-basin/hara-basin.md>) is drier, with less overall rain and a shorter monsoon season. More rain falls in the west and north, and less in the south and east, so the richest grasslands tend to be the northwestern parts of Dunmar. The eastern and southern edges of the country are desert. 
 
@@ -60,11 +65,11 @@ Not part of Dunmar nor claimed by Dunmari rulers, but cutting through the territ
 
 ### Borders
 
-The southern and eastern borders of Dunmar are dangerous wildlands. To the south, the jungles south of the [Shrev](<../../rivers/shrev.md>) are home to strange monsters and the occasional undead, and extensive fortifications along the river keep the border safe. To the east, dangers of the the [Nashtkar](<../../nashtkar.md>) and the vast [Garamjala Desert](<../../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), part of the [Desolation of Cha'mutte](<../../../drankorian-hinterland/desolation-of-cha-mutte.md>), are kept from overrunning Dunmar by the divine grace of [Shakun's Protection](<../../../../gods-and-religions/religions/five-siblings/shakun-s-protection.md>) and the [Shakun Mystai](<../../../../groups/dunmari-mystery-cults/shakun-mystai.md>). 
+The southern and eastern borders of Dunmar are dangerous wildlands. To the south, the jungles south of the [Shrev](<../../rivers/shrev.md>) are home to strange monsters and the occasional undead, and extensive fortifications along the river keep the border safe. To the east, dangers of the [Nashtkar](<../../nashtkar.md>) and the vast [Garamjala Desert](<../../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), part of the [Desolation of Cha'mutte](<../../../drankorian-hinterland/desolation-of-cha-mutte.md>), are kept from overrunning Dunmar by the divine grace of [Shakun's Protection](<../../../../gods-and-religions/religions/five-siblings/shakun-s-protection.md>) and the [Shakun Mystai](<../../../../groups/dunmari-mystery-cults/shakun-mystai.md>).
 
 To the west, Dunmar is bordered by the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>), the [Chataan Mountains](<../../../greater-chardon/chataan-mountains.md>), and the [Myraeni Gap](<../../myraeni-gap.md>), beyond which lie the islands of [Illoria](<../../../nevos-and-apporia/illoria.md>), and the [Chardonian Empire](<../../../greater-chardon/chardonian-empire/chardonian-empire.md>). 
 
-To the north, the [Sentinel Range](<../../../sentinel-range.md>) forms the northern, and largely impassible, border of Dunmar, though several passes through the mountains made overland connections with the  [Greater Sembara](<../../../greater-sembara/greater-sembara.md>) region and the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>).
+To the north, the [Sentinel Range](<../../../sentinel-range.md>) forms the northern, and largely impassable, border of Dunmar, though several passes through the mountains made overland connections with the [Greater Sembara](<../../../greater-sembara/greater-sembara.md>) region and the [Western Green Sea](<../../../western-green-sea/western-green-sea.md>).
 
 ## History
 
@@ -75,7 +80,7 @@ DR 1173 - DR 1395
 
 *See also: Timeline of the Aatmaji Dynasty*
 
-The first Samraat of Dunmar, the blessed [Bhishma](<../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>) who became a deity after her death, founded the ruling [Aatmaji dynasty](<../../../../groups/dunmari-dynasties/aatmaji-dynasty.md>), which ruled Dunmar for 212 years. During this time, [Kharsan](<../../hara-basin/kharsan.md>) was the chief administrative headquarters of the realm, and the heartland of Dunmar was centered on the Khartja river valley. The greatest dangers that threatened the new kingdom came out of the swamps of [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>), a cursed land still. The Aatmaji Dynasty ended when the Samraat Aatmaji [Dasa](<../../../../people/historical-figures/dunmari-rulers/dasa.md>), the last of the Aatmaji rulers attempted to invade [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>), and failed, disastrously, never to return. 
+The first Samraat of Dunmar, the blessed [Bhishma](<../../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>) who became a deity after her death, founded the ruling [Aatmaji dynasty](<../../../../groups/dunmari-dynasties/aatmaji-dynasty.md>), which ruled Dunmar for 212 years. During this time, [Kharsan](<../../hara-basin/kharsan.md>) was the chief administrative headquarters of the realm, and the heartland of Dunmar was centered on the Kharja river valley. The greatest dangers that threatened the new kingdom came out of the swamps of [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>), a cursed land still. The Aatmaji Dynasty ended when the Samraat Aatmaji [Dasa](<../../../../people/historical-figures/dunmari-rulers/dasa.md>), the last of the Aatmaji rulers attempted to invade [Drankor](<../../../drankorian-hinterland/drankor/drankor.md>), and failed, disastrously, never to return.
 
 ### Dharajun Dynasty
 DR 1403 - DR 1545
@@ -91,7 +96,7 @@ DR 1557 -
 
 The [Great War](<../../../../events/1500s/great-war.md>) left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [Yuvanti Mountains](<../../yuvanti-mountains.md>) rising to the west, and the new lands of the [Nayan Floodplains](<../../nayan-floodplains.md>) emerging from the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>). The [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was founded in the west, establishing a new administrative center, [Nayahar](<western-dunmar/nayahar.md>), on the [Nayan](<../../rivers/nayan.md>) River, and slowly reclaims land as far east as the [Karawa Desert](<../../hara-basin/karawa-desert.md>). 
 
-The first 50 years of the [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) was marked by a series of wars: 
+The first 50 years of the [Nayan Dynasty](<../../../../groups/dunmari-dynasties/nayan-dynasty.md>) were marked by a series of wars:
 
 - The [Fire War](<../../../../events/1500s/fire-war.md>), against the fire giant [Mavdyr](<../../../../people/historical-figures/mavdyr.md>) and his allies
 - The [Bitter Knife War](<../../../../events/1500s/bitter-knife-war.md>), against the Bitter Knife hobgoblin nation based in the [Nashtkar](<../../nashtkar.md>)
@@ -121,7 +126,7 @@ Dunmar is a theocratic monarchy, in which all power ultimately flows from the go
 
 Administratively, the Dunmari state is organized and run through temple districts. All Dunmari are members of a particular temple, a home region to return to for festivals and other significant religious events. It is through these temples that taxes and justice and other instruments of state operate. Indeed, Dunmar does not define itself by borders drawn on a map: to be part of the kingdom of Dunmar is to be part of a temple that acknowledges the supremacy of the Samraat.
 
-While the Samraat is the supreme leader of the temple organization, there is little other formal hierarchy, and the head priests of each temple district are legally equal. Each head priest is also, by virtual of being a head priest, a member of the temple conclave, which also includes the speakers of the various mystical cults dedicated to specific divinities in Dunmar. The most important responsibility of the temple conclave is the election of the Samraat, which involves interpreting the divine will of the [Dunmari Religion](<../../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>).
+While the Samraat is the supreme leader of the temple organization, there is little other formal hierarchy, and the head priests of each temple district are legally equal. Each head priest is also, by virtue of being a head priest, a member of the temple conclave, which also includes the speakers of the various mystical cults dedicated to specific divinities in Dunmar. The most important responsibility of the temple conclave is the election of the Samraat, which involves interpreting the divine will of the [Dunmari Religion](<../../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>).
 
 ### Justice and the Law
 
@@ -137,7 +142,7 @@ Punishments in Dunmar rarely involve humiliation or pain, which is seen as cruel
 
 The Dunmari worship a close pantheon of deities, known as the [Dunmari Religion](<../../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>), as well as a small number of associated lesser divinities. Religion is closely intertwined with the Dunmari culture: indeed, to be Dunmari is to be in covenant with the Five Siblings, and vice versa. 
 
-For most Dunmari, the yearly cycle of [Dunmari Festivals](<../../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/dunmari-festivals.md>) define their relationships to the gods. In particular, the major festivals of the year are typically celebrated at temples, and most Dunmari travel to their home temple for these occasions. Many Dunmari also carry with them shrines -- small icons and statuary of the gods, often carved or sculpted, that serve as a locus for prayer among a nomadic people. 
+For most Dunmari, the yearly cycle of [Dunmari Festivals](<../../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/dunmari-festivals.md>) defines their relationships to the gods. In particular, the major festivals of the year are typically celebrated at temples, and most Dunmari travel to their home temple for these occasions. Many Dunmari also carry with them shrines -- small icons and statuary of the gods, often carved or sculpted, that serve as a locus for prayer among a nomadic people.
 
 Outside of the normal temple organization are the [Dunmari Mystery Cults](<../../../../groups/dunmari-mystery-cults/dunmari-mystery-cults.md>), mystical and magical secret organizations, each dedicated to one of the Dunmari gods.
 
@@ -145,9 +150,9 @@ Outside of the normal temple organization are the [Dunmari Mystery Cults](<../..
   
 The Dunmari make little distinction between arcane, divine, and primal magic: all magic is ultimately considered to be the provenance of the gods. Nonetheless, the minor miracles of the gods associated with divine magic are by far the most common magical practice commonly seen among the Dunmari. 
 
-Dunmari who display unusual magical talents or wish to seek other magical learning beyond channeling the miracles of the gods usually can only do so via the [Dunmari Mystery Cults](<../../../../groups/dunmari-mystery-cults/dunmari-mystery-cults.md>). While the details are not reveled to outsiders, most of the mystery cults have associated magical traditions as well. For example, rumors persist that some initiates of the Chidyan mysteries can turn into animals.
+Dunmari who display unusual magical talents or wish to seek other magical learning beyond channeling the miracles of the gods usually can only do so via the [Dunmari Mystery Cults](<../../../../groups/dunmari-mystery-cults/dunmari-mystery-cults.md>). While the details are not revealed to outsiders, most of the mystery cults have associated magical traditions as well. For example, rumors persist that some initiates of the Chidyan mysteries can turn into animals.
 
-In general, the practice of magic by those who are not priests or mystai is frowned upon, although not outright forbidden. Foreigners, including non-humans, usually an exception to this attitude. 
+In general, the practice of magic by those who are not priests or mystai is frowned upon, although not outright forbidden. Foreigners, including non-humans, are usually an exception to this attitude.
 
 ### Economy, Trade, and Foreign Relations
 
@@ -158,4 +163,9 @@ Dunmar is largely agrarian, with an economy dominated by animal production. Dunm
 While historically Dunmar gained much wealth from its central position on trade routes between the east and west, since the [Great War](<../../../../events/1500s/great-war.md>) minimal trade, mostly carried by long distance halfling caravans, moves from the [Green Sea](<../../../green-sea.md>) to [Chardon](<../../../greater-chardon/chardonian-empire/chardon/chardon.md>).  Nonetheless, Dunmar, especially [Darba](<coastal-dunmar/darba/darba.md>) and [Songara](<central-dunmar/songara.md>), remain important trading centers, with Darba serving as a link between the dwarves of [Ardith](<../../../central-highlands/dwarven-kingdoms/ardith.md>) and the west, and [Songara](<central-dunmar/songara.md>) retaining its ancient role as an important horse market. [Askandi](<central-dunmar/askandi.md>), in the south, is an important center of trade with the dwarves of the [Yuvanti Mountains](<../../yuvanti-mountains.md>), who trade metal and finished metal products to the Dunmari. 
 
 With trade connections to Chardon growing, the Nayan Floodplains have also begun to develop a significant timber industry, focused on sought-after tropical hardwoods. 
+
+
+
+
+
 

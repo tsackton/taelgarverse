@@ -34,3 +34,5 @@ In the waning days of the [Drankorian Empire](<../../history/historical-realms/d
 Kallipseis remained behind and claimed leadership after [Thalestria](<../../people/other-humans/thalestria.md>)'s disappearance and presumed death.
 
 
+After the destruction of the 27th House, Kallipseis escaped into the [Multiverse](<../../cosmology/multiverse.md>) in a fungal golem body, carrying a book of brilliant numbers. The Arithrimos Lamperum now survives, so far as is known, only through her claim to its leadership and her intention to rebuild it.
+

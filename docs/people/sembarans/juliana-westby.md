@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text]
-dm_notes: color
-dm_owner: mike
-whereabouts: Cranford
+lintedAt: '2026-08-21T13:33:35-04:00'
+lintVersion: '3.4'
+tags: [person, status/check/mike]
 species: human
 ancestry: Sembaran
 gender: female
+name: Juliana Westby
+whereabouts: Cranford
+knownTo: [clee]
+dm_owner: mike
+dm_notes: color
+POV: 1720
 title: Juliana Westby
 hide_toc: true
 ---
@@ -22,6 +27,16 @@ hide_toc: true
 
 
 ![Juliana Westby](/taelgarverse/assets/juliana-westby.webp){align="left"; width="200"}
+
+
+
+
+
+
+
+
+
+
 
 
 

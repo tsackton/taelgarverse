@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/check/errors]
+lintedAt: '2026-08-22T23:50:36-04:00'
+lintVersion: '3.4'
+tags: [group, status/check/errors, status/check/lint]
 typeOf: clan
 ancestry: hobgoblin
-dm_notes: important
+name: Shattered Ice Clan
 dm_owner: joint
+dm_notes: important
+POV: modern
 title: Shattered Ice Clan
 ---
 # The Shattered Ice Clan
@@ -18,7 +22,14 @@ title: Shattered Ice Clan
 
 
 
-The Shattered Ice Clan emerged from the [Sentinels](<../../gazetteer/sentinel-range.md>) in the aftermath of the [Great War](<../../events/1500s/great-war.md>), establishing themselves along the [South Fork](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst-south-fork.md>) and [Middle Fork](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst-middle-fork.md>) of the Enst within a generation. They became a growing threat on the border of [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) and especially [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), are were a major force behind the [second](<../../events/1500s/second-hobgoblin-war-sembara.md>) and [third](<../../events/1600s/third-hobgoblin-war-sembara.md>) hobgoblin wars. 
+The Shattered Ice Clan emerged from the [Sentinels](<../../gazetteer/sentinel-range.md>) in the aftermath of the [Great War](<../../events/1500s/great-war.md>), establishing themselves along the [South Fork](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst-south-fork.md>) and [Middle Fork](<../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst-middle-fork.md>) of the Enst within a generation. They became a growing threat on the border of [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) and especially [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and were a major force behind the [second](<../../events/1500s/second-hobgoblin-war-sembara.md>) and [third](<../../events/1600s/third-hobgoblin-war-sembara.md>) hobgoblin wars.
 
 After the end of the [Third Hobgoblin War (Sembara)](<../../events/1600s/third-hobgoblin-war-sembara.md>) they were pushed deep into the [Sentinel Range](<../../gazetteer/sentinel-range.md>), and although raiders claiming to be aligned with the clan plagued the Sembaran borders for some time afterward, the survival of this clan into the current day is unconfirmed.
+
+
+
+
+
+
+
 

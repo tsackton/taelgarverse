@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
-whereabouts: Coastlands
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
+tags: [place]
 typeOf: waterway
+typeOfAlias: river
+name: Zar
+pronunciation: ZAR
+whereabouts: Coastlands
 dm_owner: none
 dm_notes: none
-typeOfAlias: river
-pronunciation: ZAR
+POV: modern
 title: Zar
 ---
 # Zar
@@ -17,5 +21,9 @@ title: Zar
 
 
 One of the major rivers of the [Coastlands](<../chardonian-empire/coastlands.md>), rising from the [Beacon Hills](<../beacon-hills.md>) and flowing west to the [Endless Ocean](<../../endless-ocean.md>).
+
+
+
+
 
 

@@ -33,3 +33,7 @@ hide_toc: true
 A server and helper at a tea room in Karawa. 
 
 
+In December 1747, [Delwath](<../pcs/dunmar-fellowship/delwath.md>) took rooms above the tea room. 
+
+
+In March 1748, helped tend to the wounded after a giant hyena attack on Karawa. 

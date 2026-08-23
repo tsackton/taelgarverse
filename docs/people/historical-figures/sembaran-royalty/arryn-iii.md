@@ -34,7 +34,7 @@ hide_toc: true
 
 
 
-A young princeling of [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>), he is a quite and mild-mannered child who is said to particularly love stories about his namesake, [Arryn I](<arryn-i.md>). 
 
 
+The king of Sembara in the 1740s, he is a quiet ruler and has largely maintained the peace and prosperity of his mother, [Elaine II](<elaine-ii.md>). He came to the throne in DR 1745 on her death, and continues to be interested in tales of his namesake, [Arryn I](<arryn-i.md>), and his supposed second life in [Twilight's Grace](<../../../gazetteer/extraplanar/feywild/twilight-s-grace/twilight-s-grace.md>).
 

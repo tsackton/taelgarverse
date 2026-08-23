@@ -1,6 +1,11 @@
 ---
+lintedAt: '2026-08-21T13:33:35-04:00'
+lintVersion: '3.4'
 tags: [meta]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: Copper Hills Treasure
+POV: 1748
 title: Copper Hills Treasure
 ---
 # Treasure from the Copper Hills
@@ -12,4 +17,4 @@ title: Copper Hills Treasure
 
 - A single small turquoise stone, found in wyvern lair in [Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>), worth 70 gp.
 - Well-worked decorative saddle, found in wyvern lair in [Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>), worth 40 gp.
-- Golden bracelet set with pearls, found in wyvern lair in [Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>), worth 8 gp. 
+- Golden bracelet set with pearls, found in wyvern lair in [Vandar](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>), worth 8 gp.

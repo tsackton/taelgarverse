@@ -1,17 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-22T23:22:55-04:00'
+lintVersion: '3.4'
 tags: [person]
-knownTo: [adma]
-campaignInfo:
-- {campaign: adma, type: met, date: 1715-05-12}
-name: Norman the Wanderer
 species: human
 ancestry: Addermarian
+campaignInfo:
+- {campaign: adma, type: met, date: 1715-05-12}
 gender: male
+name: Norman the Wanderer
 whereabouts:
 - {type: home, location: Stonewolds}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 title: Norman the Wanderer
 hide_toc: true
 ---
@@ -35,5 +38,9 @@ Norman is a hermit who typically wanders the western [Stonewolds](<../../gazette
 ## Events
 - May 12, 1715 DR: Met the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) at their campsite, and shared tales of a cave’s monstrous resident, who he called the "double-big man".
 - May 13, 1715 DR: Guided the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) to the [West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>) before vanishing back into the forest.
+
+
+
+
 
 

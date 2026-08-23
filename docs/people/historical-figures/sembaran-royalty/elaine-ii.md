@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
-name: Elaine II
-born: 1673
+lintedAt: '2026-08-21T13:33:35-04:00'
+lintVersion: '3.4'
+tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1673
 gender: female
 died: 1745
+name: Elaine II
 affiliations:
 - {org: House of Lils, type: primary}
 - {org: Tyrwingha, type: leader, title: Queen, start: 1713-09-12}
 - {org: Sembara, type: leader, title: Queen, start: 1720-06-15}
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: modern
 title: Elaine II
 hide_toc: true
 ---
@@ -32,6 +36,12 @@ hide_toc: true
 
 
 The first monarch of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), descended from, Derik, the youngest son of [Elaine I](<elaine-i.md>), and [Morgaine](<morgaine.md>), a Tyrwinghan [oracle](<../../../groups/oracle-of-the-riven.md>). She was succeeded by her son [Arryn III](<arryn-iii.md>) in DR 1745.
+
+
+
+
+
+
 
 
 

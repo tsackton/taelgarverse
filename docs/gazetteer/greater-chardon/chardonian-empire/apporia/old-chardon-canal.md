@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Old Chardon Canal
+lintedAt: '2026-08-22T23:40:59-04:00'
+lintVersion: '3.4'
+tags: [place, status/check/lint]
 typeOf: waterway
+typeOfAlias: canal
+name: Old Chardon Canal
 whereabouts: Portalia
 dm_owner: tim
 dm_notes: important
-typeOfAlias: canal
+POV: modern
 title: Old Chardon Canal
 ---
 # The Old Chardon Canal
@@ -43,13 +46,18 @@ At Mile 87, the Canal enters the Gulf of Chardon, passing [Fort Varian](<fort-va
 
 ## Canal Passage
 
-The canal itself is 87 miles long, although the southern 10 miles are a tidal estuary that ships can navigate on their own. Passage is regulated and taxed. Ships must passage the canal under the control of a Chardonian pilot. Galleys can proceed under their own power, but sailing ships must be controlled by a windcaller. Under control of a windcaller, most sailing ships can make 4 miles per hour in the canal, so the complete passage takes around 20 hours. 
+The canal itself is 87 miles long, although the southern 10 miles are a tidal estuary that ships can navigate on their own. Passage is regulated and taxed. Ships must transit the canal under the control of a Chardonian pilot. Galleys can proceed under their own power, but sailing ships must be controlled by a windcaller. Under control of a windcaller, most sailing ships can make 4 miles per hour in the canal, so the complete passage takes around 20 hours.
 
 The Cut, between the Emerald Bay and Lake Stillwater, and the Narrows, between Lake Stillwater and the Gulf of Chardon, prevent ships from passing each other during transit, so departure times are coordinated to prevent blockages. 
 
 Typically, northbound ships have the right of way between Emerald Bay and Lake Stillwater from midnight to noon, and southbound ships have the right of way from noon to midnight. Between Lake Stillwater and the Gulf of Chardon, ships can pass each other in Lake Cirelus. Typically to cover the northern stretch, ships travel in convoy, with one northbound convoy departing Stillwater Lake and one southbound convoy departing Fort Varian each day, timed so they pass at Lake Cirelus. 
 
 Thus, it is possible to make the transit in one day, by departing [Fort Ameli](<fort-ameli.md>) after midnight to arrive at Stillwater Lake in time to join the northbound convoy, or by pushing into the night from Stillwater Lake if traveling south. However, more typically ships overnight at Stillwater Lake, and make the transit in two days. 
+
+
+
+
+
 
 
 

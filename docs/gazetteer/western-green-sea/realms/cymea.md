@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 aliases: [Cymean]
 name: Cymea
+pronunciation: sigh-ME-ah
 typeOf: region
 whereabouts: Western Green Sea
 dm_owner: tim
@@ -10,6 +11,7 @@ dm_notes: color
 title: Cymea
 ---
 # Cymea
+:speaker:{ .middle } *(sigh-ME-ah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A region in the [Western Green Sea](<../western-green-sea.md>)  
 </div>

@@ -1,7 +1,11 @@
 ---
+lintedAt: '2026-08-21T19:01:27-04:00'
+lintVersion: '3.4'
 tags: [background, status/gameupdate/gl, status/gameupdate/dufr]
-dm_notes: important
+name: Politics of Chalyte (Chardonian Empire)
 dm_owner: tim
+dm_notes: none
+POV: 1749
 title: Politics of Chalyte (Chardonian Empire)
 ---
 
@@ -11,4 +15,8 @@ Formally, chalyte is a charter monopoly in the Chardonian Empire. Refined chalyt
 
 In recent years, the [Hetaeri Magica](<../../../groups/chardonian-organizations/hetaeri-magica.md>) has become almost the sole purchaser of refined chalyte, which it then resells to artisans and others around the city. The primary exception is the [Windcallers](<../../../groups/chardonian-organizations/windcallers.md>), who are guaranteed by the terms of the monopoly to purchase a fraction of the refined production of any licensed operator. 
 
-Despite the potential for corruption and the dangers of the refineries, few in Chardon would willingly return to the pre-chalyte era. It is chalyte that powers the magic fountains in every square, ensuring clean and pure drinking water for the citizens of the city, and the lights that keep the streets safe at night, among other marvels. 
+Despite the potential for corruption and the dangers of the refineries, few in Chardon would willingly return to the pre-chalyte era. It is chalyte that powers the magic fountains in every square, ensuring clean and pure drinking water for the citizens of the city, and the lights that keep the streets safe at night, among other marvels.
+
+
+
+

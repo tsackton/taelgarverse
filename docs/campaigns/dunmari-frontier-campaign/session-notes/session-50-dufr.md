@@ -1,14 +1,17 @@
 ---
+lintedAt: '2026-08-22T23:40:59-04:00'
+lintVersion: '3.4'
 tags: [session-note]
-campaign: Dunmari Frontier
+campaign: Dunmar Frontier
 sessionNumber: 50
 realWorldDate: 2022-07-21
 DR: 1748-08-24
 DR_end: 1748-08-29
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party desperately flees east
-descTitle: Fleeing Shadows
+descTitle: Shadows in the Night
 name: Dunmari Frontier - Session 50
+POV: 1748
 title: Dunmari Frontier - Session 50
 ---
 # Dunmari Frontier - Session 50
@@ -31,7 +34,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - Aug 24, 1748 DR, afternoon: Sneak to a safe place to rest 15 miles east of [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>); sleep. Kenzo dreams of [Hralgar](<../../../people/giants/hralgar.md>).
 - Aug 25, 1748 DR, morning. Wellby buys horses at a small market town; Delwath scries. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>), [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) hide in the [Mirror of Soul Trapping](<../treasure/mirror-of-soul-trapping.md>). Wellby rides as fast as possible, passing [Metium](<../../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/metium.md>) and traveling 70 miles east before stopping at midnight to rest.
 - Aug 26, 1748 DR: [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) rides 60 miles east. Pass a gray stone monolith about 60 feet high. Sleep.
-- Aug 27, 1748 DR: Ride 45 miles east before a horse throws a muscle; Wellby gives him away to an apricot farmer. Pass Chardonian legion heading east. Camp just east of [Erlona](<../../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/erlona.md>), about 210 miles east of [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). Fitful night marred by dreams of a spear-wielding shadow creature.
+- Aug 27, 1748 DR: Ride 45 miles east before a horse pulls a muscle; Wellby gives him away to an apricot farmer. Pass Chardonian legion heading east. Camp just east of [Erlona](<../../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/erlona.md>), about 210 miles east of [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). Fitful night marred by dreams of a spear-wielding shadow creature.
 - Aug 28, 1748 DR, morning: Sell old horses and buy new ones in [Erlona](<../../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/erlona.md>).
 - Aug 28, 1748 DR, afternoon. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) hides in the [Mirror of Soul Trapping](<../treasure/mirror-of-soul-trapping.md>) while Kenzo rides east. 
 - Aug 28, 1748 DR, evening: Pass the [Scar of Shadowfire](<../../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/scar-of-shadowfire.md>). Attacked by shadow mastiffs. Two horses and the ladder are frightened by shadows and run, but are relocated after an hour. More nightmares.
@@ -54,4 +57,4 @@ The next day, the party sets out again, with [Kenzo](<../../../people/pcs/dunmar
 
 During the journey, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) also spends time Scrying, and sees [Marcella](<../../../people/chardonians/marcella.md>) and [Sura](<../../../people/dunmari/sura.md>). [Marcella](<../../../people/chardonians/marcella.md>) is in the mountains to the east, sleeping. [Sura](<../../../people/dunmari/sura.md>) is praying in her tent, reading a prayer book waiting for someone, and then a messenger arrives. He says he has ridden all the way to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), and no one there knew the secret of unpetrifying a person. [Govir](<../../../people/dunmari/govir.md>), at the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), is doing some research to see what he can learn, but no one knows how the sword caused this. 
 
-Trying to sleep, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) again has nightmares, of the shadow hunter catching up to him and saying “I found you!”. The rest of the party is watching in the dream mirror, and immediately tries to wake [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), as the sound of howls echoes in from near the camp, and the session ends. 
+Trying to sleep, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) again has nightmares, of the shadow hunter catching up to him and saying “I found you!”. The rest of the party is watching in the dream mirror, and immediately tries to wake [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), as the sound of howls echoes in from near the camp, and the session ends.

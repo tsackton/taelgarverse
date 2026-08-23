@@ -15,5 +15,7 @@ title: Flamekeeper Scroll
 One of [Airion Mistspeaker](<../../people/other-humans/airion.md>)’s four lost elemental scrolls, associated with fire.
 
 
+Recovered from the [Forge of Fire](<../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>) by the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>), and returned to [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) under the care of [Lyra](<../../people/chardonians/lyra.md>) and the [Great Library](<../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>).
+
 
 

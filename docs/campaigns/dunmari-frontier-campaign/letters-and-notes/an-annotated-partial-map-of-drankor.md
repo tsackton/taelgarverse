@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T10:48:34-04:00'
+lintVersion: '3.4'
 tags: [source]
+campaign: Dunmar Frontier
+name: An Annotated (Partial) Map of Drankor
+POV: 1749
 title: An Annotated (Partial) Map of Drankor
 ---
 # An Annotated (Partial) Map of Drankor
@@ -24,4 +29,5 @@ A number of fragmentary sources describe the regular streets of the city of [Dra
 
 ***The Teeth of Drankor***
 It appears the river was lined with a series of defensive fortifications, towers of might and magic built in the early days of Drankor. We believe they fell into disuse as defensive measures, given that a fragment of a story describes "the great promenade that follows the mighty river and the teeth of the city, where light and warmth shines from the many windows in the many colored towers that rise along the banks of the river, like a forest of jewels." However, another source, again a fragment only, mentions how "...lightning shone from the top of the Sapphire Tower, striking in all directions, even to the warships south of the city on the rivers, and thus smote the raiders..."
+
 

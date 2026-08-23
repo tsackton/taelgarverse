@@ -25,6 +25,8 @@ hide_toc: true
 
 
 
+ 
+
 Inectos is the idle son of a rich merchant from [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). He is a prominent collector in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) who purchases treasure and curios. 
 
 

@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-22T23:40:59-04:00'
+lintVersion: '3.4'
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 11
@@ -7,9 +9,10 @@ realWorldDate: 2025-06-15
 DR: 1715-05-16
 DR_end: 1715-05-17
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
-name: Addermarch Campaign - Session 11
 tagline: in which the party discovers a fey mystery.
 descTitle: The Cursed Song
+name: Addermarch Campaign - Session 11
+POV: 1715
 title: Addermarch Campaign - Session 11
 ---
 # Addermarch Campaign - Session 11
@@ -26,7 +29,7 @@ The party learns of strange happenings in [Haldrenn](<../../gazetteer/greater-se
 
 - **May 16, 1715 DR:** [Caradoc](<../../people/addermarians/caradoc.md>) visits the party in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) with rumors of maddened livestock in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), and asks the party to investigate.  After acquiring potions from [Caradoc](<../../people/addermarians/caradoc.md>) in [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>), the heroes march northeast into the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and camp in the open hills.
 - **May 17, 1715 DR, day:** The party reaches [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>) in the late afternoon, and learns from nine-year-old [Bran](<../../people/addermarians/bran.md>) that six-year-old [Rowena](<../../people/addermarians/rowena.md>) is missing and a funeral for [Olay](<../../people/addermarians/olay.md>) (gored by his own bull) is imminent. [Bran](<../../people/addermarians/bran.md>) recites a creepy [“Hollow Men”](<../../creatures/fey/hollow-men.md>) rhyme said to warn of the [Briarheart](<../../people/extraplanar-powers/archfey/morlaith.md>).
-- **May 17, 1715 DR, early evening:** Questions to charcoal-burner **[Karl](<../../people/addermarians/karl.md>)** and priest-storyteller **[Helen of Haldrenn](<../../people/addermarians/helen-of-haldrenn.md>)** uncover more of the strange events. [Drou](<../../people/pcs/addermarch/drou.md>)’s animal-speech reveal the cattle are tormented by a relentless song compelling violence.
+- **May 17, 1715 DR, early evening:** Questions to charcoal-burner **[Karl](<../../people/addermarians/karl.md>)** and priest-storyteller **[Helen of Haldrenn](<../../people/addermarians/helen-of-haldrenn.md>)** uncover more of the strange events. [Drou](<../../people/pcs/addermarch/drou.md>)’s _Speak with Animals_ reveals the cattle are tormented by a relentless song compelling violence.
 - **May 17, 1715 DR, sunset:** Tracking prints and using [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>)’s fey-lantern, the party follows [Rowena](<../../people/addermarians/rowena.md>)’s trail east into the hills and locates her hiding in a cave filled with maddened bees. Swarms are dispersed by Cloud of Daggers, Chromatic Orb, and Dissonant Whispers; [Rowena](<../../people/addermarians/rowena.md>) is rescued unharmed.
 - **May 17, 1715 DR, night:** As the rescuers crest the last ridge toward [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>) the fey-lantern flares and the howls of worgs attacking the village echo across the darkened fields.
 
@@ -35,7 +38,7 @@ The party learns of strange happenings in [Haldrenn](<../../gazetteer/greater-se
 - **[Drou](<../../people/pcs/addermarch/drou.md>)** – [elven](<../../creatures/species/elves.md>) bard-monk, calming cattle and fighting bees
 - **[Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)** – [human](<../../creatures/species/humans.md>) warlock-alchemist with pseudodragon scout and fey-tracking lantern
 - **[Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>)** – [halfling](<../../creatures/species/halflings.md>) wild-magic sorcerer, fiery and charitable
-- **[Caradoc](<../../people/addermarians/caradoc.md>)** – [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) alchemist who commissions discrete fey inquiries
+- **[Caradoc](<../../people/addermarians/caradoc.md>)** – [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) alchemist who commissions discreet fey inquiries
 - **[Bran](<../../people/addermarians/bran.md>)** – chatty nine-year-old boy of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>)
 - **[Rowena](<../../people/addermarians/rowena.md>)** – missing six-year-old forager, safely recovered
 - **[Karl](<../../people/addermarians/karl.md>)** – charcoal burner; father of [Bran](<../../people/addermarians/bran.md>) and husband of [Isolde of Haldrenn](<../../people/addermarians/isolde-of-haldrenn.md>)
@@ -55,7 +58,7 @@ The party learns of strange happenings in [Haldrenn](<../../gazetteer/greater-se
 ## Narrative
 ### Sunday, May 16th, 2 Robert I
 
-In the morning, the party receives a visit from [Caradoc](<../../people/addermarians/caradoc.md>), who has come to speak with them in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) after hearing troubling rumors of mad animals in the isolated village of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), in the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) to the northeast. Warning the party that dangerous [Fey](<../../creatures/fey/fey.md>) may be involved, he asks them to investigate, but tell no one of what is happening. Agreeing, the party walks with [Caradoc](<../../people/addermarians/caradoc.md>) to [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>), where they trade a pearl and some gold for potions before heading northeast towards [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>).
+In the morning, the party receives a visit from [Caradoc](<../../people/addermarians/caradoc.md>), who has come to speak with them in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) after hearing troubling rumors of mad animals in the isolated village of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), in the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) to the northeast. Warning the party that dangerous [Fey](<../../creatures/fey/fey.md>) may be involved, he asks them to investigate discreetly and tell no one what is happening. Agreeing, the party walks with [Caradoc](<../../people/addermarians/caradoc.md>) to [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>), where they trade a pearl and some gold for potions before heading northeast towards [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>).
 
 Following a rough cart track through the hills, the party camps for the evening on the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>).
 
@@ -78,7 +81,7 @@ The Hollow Man is dead!*
 
 [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>) speaks with [Helen of Haldrenn](<../../people/addermarians/helen-of-haldrenn.md>) while [Drou](<../../people/pcs/addermarch/drou.md>) performs the ritual to allow her to speak with animals. Helen tells [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>) that she knows many fey stories, and that the Briarheart, also called [Morlaith](<../../people/extraplanar-powers/archfey/morlaith.md>), has many names. But she is preparing for [Olay](<../../people/addermarians/olay.md>)'s funeral and doesn't have time to speak at length now. [Drou](<../../people/pcs/addermarch/drou.md>) speaks to the mad bull, calming him slightly with her music, and learns he is being driven crazy by a song in his head that he cannot stop that is urging him to hurt people. The cows also hear the same song, although at least some animals, such as the sheep the kids were playing with, appear to have avoided this fate. They all want the song to stop, not surprisingly.
 
-With a few hours until sunset, the party decides to search for [Rowena](<../../people/addermarians/rowena.md>), the missing girl. Careful searching uncovers what are obviously her tracks amidst the tangled prints of the people of the village who headed out to find her. Following the tracks, and having [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>)'s pseudodragon carry his lantern of fey tracking overhead, the party slowly makes their way east, across the rolling hills. As the sun sets, they find the tracks lead into small, shallow cave from which a buzzing noise can be heard.
+With a few hours until sunset, the party decides to search for [Rowena](<../../people/addermarians/rowena.md>), the missing girl. Careful searching uncovers what are obviously her tracks amidst the tangled prints of the people of the village who headed out to find her. Following the tracks, and having [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>)'s pseudodragon carry his lantern of fey tracking overhead, the party slowly makes their way east, across the rolling hills. As the sun sets, they find the tracks lead into a small, shallow cave from which a buzzing noise can be heard.
 
 Inside the cave, the party is attacked by three swarms of enraged bees. Although their stings are painful, [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>)'s _Cloud of Daggers_, [Drou](<../../people/pcs/addermarch/drou.md>)'s _Dissonant Whispers_, and [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>)'s _Chromatic Orb_ make quick work of them. As the few surviving bees flee, [Rowena](<../../people/addermarians/rowena.md>) emerges from a small nook, where she had hidden, using her canvas foraging bag as cover to prevent the bees from being able to enter.
 

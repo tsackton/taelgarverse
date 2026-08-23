@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T15:54:27-04:00'
+lintVersion: '3.4'
 tags: [place]
+typeOf: settlement
+typeOfAlias: city
+name: Castrella
+pronunciation: kah-STREL-ah
 whereabouts:
 - {type: primary, location: Cedrano}
 - {type: secondary, location: Apporia}
-typeOf: settlement
-pronunciation: kah-STREL-ah
 dm_owner: tim
-dm_notes: important
-typeOfAlias: city
+dm_notes: none
+POV: modern
 title: Castrella
 ---
 # Castrella
@@ -19,10 +23,20 @@ title: Castrella
 </div>
 
 
-Castrella is a dramatic city with a rich history, set on Castrella Bay on a narrow strip of flat land just south of the mouth of the [Kedron](<kedron.md>) river, backed by steep hills. The coastal land is dominated by the port itself, and a series of constructed breakwaters. Several dramatic waterfalls cascade down the hills to the north. There is a small bit of agriculture south of the city, across the [Kedron](<kedron.md>) and in the Kerdon delta area, but the wealth of Castrella derives largely from the sea.
+Castrella is a dramatic city with a rich history, set on Castrella Bay on a narrow strip of flat land just north of the mouth of the [Kedron](<kedron.md>) river, backed by steep hills. The coastal land is dominated by the port itself, and a series of constructed breakwaters. Several dramatic waterfalls cascade down the hills to the north. There is a small bit of agriculture south of the city, across the [Kedron](<kedron.md>) and in the Kerdon delta area, but the wealth of Castrella derives largely from the sea.
 
-![Castrella V2](/taelgarverse/assets/castrella-v2.webp)
+!!! image " "
+	![Castrella and Kedron](/taelgarverse/assets/castrella-and-kedron.webp)
+	*The bustling port of Castrella with the mouth of the Kedron in the foreground*
 
-The city is a bustling port, with a thriving docks and market, and is the provincial capital of [Cedrano](<cedrano.md>). Although now overshadowed by [Chardon](<../chardon/chardon.md>) as a maritime power, Castrella retains some of the energy of its historic past as the major maritime power on the [Gulf of Chardon](<../../gulf-of-chardon.md>) in the years before the Great War. 
+The city is a bustling port, with thriving docks and market, and is the provincial capital of [Cedrano](<cedrano.md>). Although now overshadowed by [Chardon](<../chardon/chardon.md>) as a maritime power, Castrella retains some of the energy of its historic past as the major maritime power on the [Gulf of Chardon](<../../gulf-of-chardon.md>) in the years before the Great War.
 
-The most significant feature of Castrella is the Grand Promenade, a stretch of quays, docks, and wharfs that runs from the [Kedron](<kedron.md>) north for over a mile. At the southern end, near the [Kedron](<kedron.md>), this is a bustling port, with sailor's taverns, warehouses, and constant activity. Further north, the Grand Promenade passes the central market of Castrella, and then reaches the elaborate houses of rich merchants at the northern end. 
+The most significant feature of Castrella is the Grand Promenade, a stretch of quays, docks, and wharfs that runs from the [Kedron](<kedron.md>) north for over a mile. At the southern end, near the [Kedron](<kedron.md>), this is a bustling port, with sailor's taverns, warehouses, and constant activity. Further north, the Grand Promenade passes the central market of Castrella, and then reaches the elaborate houses of rich merchants at the northern end.
+
+
+
+
+
+
+
+

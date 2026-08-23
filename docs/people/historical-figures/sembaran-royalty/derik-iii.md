@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/review, testcase]
-name: Derik III
-born: 1484
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/review, testcase, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1484
 gender: male
+title: King Derik III
+died: 1549
+name: Derik III
 affiliations:
 - {org: Vostok, type: leader, title: Prince of the North, start: 1511, end: 1519}
 - {org: Sembara, type: leader, title: High King, start: 1519}
 - {org: Tyrwingha, type: leader, title: High King, start: 1519}
 - {org: Vostok, type: leader, title: High King, start: 1519}
-title: King Derik III
-died: 1549
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 hide_toc: true
 ---
 # King Derik III
@@ -39,4 +43,9 @@ He is known as one of the greatest kings in Sembaran history, a hero and legenda
 He had two sons ([Reginald](<reginald.md>) and [Hugh](<hugh-of-wisenfold.md>)) with his first wife, [Sarabet](<sarabet.md>), and one son ([Bertram](<bertram-i.md>)) with his second wife, [Jane of Tollen](<jane-of-tollen.md>). 
 
 Mostly due to the influence of his powerful second wife, [Bertram](<bertram-i.md>) succeeds him upon his death.
+
+
+
+
+
 

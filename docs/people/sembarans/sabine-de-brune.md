@@ -37,6 +37,8 @@ The de Brune family has long roots in the Enst river valley, and although [Eskbr
 She was appointed as the castellan by [Reginald Rusebek](<reginald-rusebek.md>) and still feels disgust and guilt that she was such a loyal supporter of his. She doesn't like to talk about baronial affairs much, and focuses on the village and doing her duties diligently. 
 
 
+In early February of 1720, she was summoned by [Isabeau D'Aslain](<isabeau-d-aslain.md>) to [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>) and never returned to [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>). Although the reasons for her disappearance are unclear, rumors suggest that her health is poor and she returned to Eskbridge to die.
+
 
 
 

@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-22T23:40:59-04:00'
+lintVersion: '3.4'
 displayDefaults: {defArt: ''}
+tags: [place]
 typeOf: neighborhood
+typeOfAlias: precinct
+name: Precinct VII
 whereabouts: Chardon
 dm_owner: tim
-dm_notes: important
-typeOfAlias: precinct
+dm_notes: color
+POV: modern
 title: Precinct VII
 ---
 # Precinct VII
@@ -15,4 +19,9 @@ title: Precinct VII
 </div>
 
 
-Precinct VII is nestled along the [South Bank](<south-bank.md>) of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), downriver of the quays and wharves of the thriving port, and across the river from the [Bastion](<bastion-quarter.md>). The [River Bridge](<river-bridge-chardon.md>) connects Precinct VII to the [Bastion Quarter](<bastion-quarter.md>) and the [north road](<../north-road.md>). 
+
+
+Precinct VII is nestled along the [South Bank](<south-bank.md>) of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), downriver of the quays and wharves of the thriving port, and across the river from the [Bastion](<bastion-quarter.md>). The [River Bridge](<river-bridge-chardon.md>) connects Precinct VII to the [Bastion Quarter](<bastion-quarter.md>) and the [north road](<../north-road.md>).
+
+
+

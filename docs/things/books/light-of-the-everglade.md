@@ -5,6 +5,8 @@ displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AU><(, written )wr
 typeOf: book
 typeOfAlias: epic poem
 ancestry: Elvish
+dm_owner: none
+dm_notes: none
 title: Light of the Everglade
 ---
 # Light of the Everglade

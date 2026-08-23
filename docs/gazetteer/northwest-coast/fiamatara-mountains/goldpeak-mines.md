@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-21T19:01:27-04:00'
+lintVersion: '3.4'
 displayDefaults: {defArt: ''}
-name: Goldpeak Mines
+tags: [place]
 typeOf: infrastructure
+typeOfAlias: mine
+name: Goldpeak Mines
 whereabouts:
 - {type: primary, location: Goldpeak Mountain}
-dm_owner: none
+dm_owner: tim
 dm_notes: none
-typeOfAlias: mine
+POV: modern
 title: Goldpeak Mines
 ---
 # Goldpeak Mines
@@ -18,5 +21,9 @@ title: Goldpeak Mines
 
 
 An extensive network of ancient Dwarven works under [Goldpeak Mountain](<goldpeak-mountain.md>) and adjacent peaks in the [Fiatara Mountains](<fiatara-mountains.md>), abandoned during or shortly after the [Great War](<../../../events/1500s/great-war.md>) and later occupied by monsters.
+
+
+
+
 
 

@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-whereabouts: Asineau
-gender: female
+lintedAt: '2026-08-21T18:44:38-04:00'
+lintVersion: '3.4'
+tags: [person, status/gameupdate/clee, status/check/lint, status/check/mike]
 species: human
 ancestry: Sembaran
+gender: female
 born: 1659
-dm_notes: color
+name: Eleanor
+whereabouts: Asineau
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 title: Eleanor
 hide_toc: true
 ---
@@ -24,4 +29,11 @@ hide_toc: true
 
 
 ![Eleanor](/taelgarverse/assets/eleanor.webp){align="right"; width="320"}A temple administrator of the Wyrdling, and well-known in the region. Has been mostly bedridden since the spring of 1719. 
+
+
+
+
+
+
+
 

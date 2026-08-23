@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
 tags: [place]
-name: Roscombe
 typeOf: settlement
-whereabouts: Carlinshire
-dm_notes: important
-dm_owner: tim
-population: 762
 typeOfAlias: market town
+population: 762
+name: Roscombe
+pronunciation: ROHS-kom
+whereabouts: Carlinshire
+dm_owner: tim
+dm_notes: none
+POV: 1715
 title: Roscombe
 ---
 # Roscombe
+:speaker:{ .middle } *(ROHS-kom)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 762  
@@ -22,7 +27,7 @@ Roscombe is a walled market town in the highlands of western Addermarch, serving
 
 ![Roscombe Overview](/taelgarverse/assets/roscombe-overview.webp)
 
-One inn, [The Traveler's Rest](<the-traveler-s-rest.md>), near the main gate, provides rooms for the occasional traveler, and a handful of alehouses provide drink and entertainment for the populace. The [Mill Brook](<../rivers/wistel-enst-watershed/mill-brook-roscombe.md>), a rushing brook, flows past the town from the northwest, turning south to cross under the road from [Valcroix](<valcroix.md>) about a quarter-mile from the main gates. The only paved road from Roscombe is the road to [Valcroix](<valcroix.md>), which is often impassible for carts in the winter or spring due to snow and mud. However, numerous cart tracks lead in all directions towards the scattered villages of the high moors. The town has a main southern gate on the Valcroix road and a smaller northern Mill Gate near the brook and mill.
+One inn, [The Traveler's Rest](<the-traveler-s-rest.md>), near the main gate, provides rooms for the occasional traveler, and a handful of alehouses provide drink and entertainment for the populace. The [Mill Brook](<../rivers/wistel-enst-watershed/mill-brook-roscombe.md>), a rushing brook, flows past the town from the northwest, turning south to cross under the road from [Valcroix](<valcroix.md>) about a quarter-mile from the main gates. The only paved road from Roscombe is the road to [Valcroix](<valcroix.md>), which is often impassable for carts in the winter or spring due to snow and mud. However, numerous cart tracks lead in all directions towards the scattered villages of the high moors. The town has a main southern gate on the Valcroix road and a smaller northern Mill Gate near the brook and mill.
 
 The walls are stone, well-built, and date to the days of the [wars against Avatus](<../../../events/1300s/serpentine-wars.md>), several hundred years ago. Although they are crumbling in a few places, the current castellan, [Elowen Duval](<../../../people/addermarians/elowen-duval.md>), has invested in their repair. Much of the town is stone cottages with thatch roofs, although a few newer buildings have upper stories of timber, including the Traveler's Rest.
 
@@ -46,3 +51,9 @@ The central plaza contains a well and fountain, and supports daily local trade, 
 	***The Raven's Roost.*** A popular alehouse on the market square, where the locals hang out. Run by Madeline Brewer, a young woman, daughter of the old tavern keeper who died unexpectedly a few years ago. Madeline took over the family business and has been thriving. Known for their beer, and the primary brewer in town. 
 	
 	***The Toad.*** A slightly run down alehouse, also on the market square. Known for music but a bit seedy. Run by Rhys Dafydd *(REES DAV-ith)*, an older man who's lived here forever and knows all the stories, but doesn't really put much effort into maintenance and has no (living) children (won't talk about family). 
+
+
+
+
+
+

@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T11:10:54-04:00'
+lintVersion: '3.5'
 tags: [place]
-name: The Whale's Spout
 typeOf: inn
+typeOfAlias: tavern
+name: The Whale's Spout
 whereabouts: Castrella
 dm_owner: none
 dm_notes: none
-typeOfAlias: tavern
+POV: 1748
 title: The Whale's Spout
 ---
 # The The Whale's Spout
@@ -16,5 +19,9 @@ title: The Whale's Spout
 
 
 A tavern and refuge in [Castrella](<castrella.md>) run by [Old Leo](<../../../../people/chardonians/old-leo.md>), known for taking in orphans.
+
+
+
+
 
 

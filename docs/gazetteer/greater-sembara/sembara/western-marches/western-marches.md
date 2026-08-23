@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T10:48:34-04:00'
+lintVersion: '3.4'
 tags: [place]
-name: Western Marches
 typeOf: region
+name: Western Marches
 whereabouts: Sembara
 dm_owner: mike
 dm_notes: color
+POV: modern
 title: Western Marches
 ---
 # The Western Marches
@@ -31,3 +34,7 @@ The [Barony of Usbourg](<barony-of-usbourg.md>) is more a military district in s
 The [Barony of Dunfry](<barony-of-dunfry.md>) is also a major military district, responsible for the South Watch, which guards the southern half of the [Western Wall of Sembara](<western-wall-of-sembara.md>), and also maintains a series of forts along the north branch of the Enst.
 
 The [Marches of Brovna](<marches-of-brovna.md>) have much in common with [Ardlas](<../../ardlas.md>), and like in the [Marches of Enford](<marches-of-enford.md>) large parcels of land have been granted freehold to anyone who will pledge to defend the land. 
+
+
+
+

@@ -1,23 +1,28 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-22T23:22:55-04:00'
+lintVersion: '3.4'
 tags: [person]
-knownTo: [adma]
-campaignInfo:
-- {campaign: adma, type: met, date: 1715-05-06}
-name: Isolde of Roscombe
 species: human
 ancestry: Addermarian
+campaignInfo:
+- {campaign: adma, type: met, date: 1715-05-06}
 gender: female
+name: Isolde of Roscombe
+pronunciation: ih-ZOL-duh
 affiliations:
 - {org: Temple of the Sibyl (Roscombe), title: temple administrator, type: member}
 whereabouts:
 - {type: home, location: Roscombe}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 title: Isolde of Roscombe
 hide_toc: true
 ---
 # Isolde of Roscombe
+:speaker:{ .middle } *(ih-ZOL-duh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -39,6 +44,9 @@ Practical and composed, Isolde prizes order and preparedness. She has little pat
 ## Events
 - May 06, 1715 DR: Welcomed the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) to the temple and ushered them to Owen to discuss the Serpentine Dagger.
 - May 09, 1715 DR: Helped stage the sanctum for the use of [Trueflame](<../../things/materials/trueflame.md>) to destroy the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>), keeping curious congregants at bay during the dagger’s destruction.
+
+
+
 
 
 

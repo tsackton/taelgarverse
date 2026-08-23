@@ -1,14 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/text]
-knownTo: [Mawar, DuFr]
-campaignInfo:
-- {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
-name: Kaeso
-born: 1691
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, person: Delwath, date: 1748-10-12, type: scryed}
+born: 1691
 gender: male
+name: Kaeso
 affiliations: [Shakun Mystai]
 whereabouts:
 - {type: home, end: 1712, location: Chardon}
@@ -18,8 +19,10 @@ whereabouts:
 - {type: home, start: 1723, end: 1748-09-09, location: Chardon}
 - {type: away, start: 1748-09-10, location: fleeing the Chardonian Empire}
 - {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ''}
-dm_notes: important
+knownTo: [mawar, dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1749
 title: Kaeso
 hide_toc: true
 ---
@@ -45,6 +48,12 @@ hide_toc: true
 [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s mentor and friend. A Chardonian, but widely traveled. Former student of [Roscelia](<roscelia.md>) and member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), but expelled for keeping secrets, specifically about Dunmari magic. 
 
 Secretly a member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>). 
+
+
+
+
+
+
 
 
 

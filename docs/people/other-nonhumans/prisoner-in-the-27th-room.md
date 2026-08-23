@@ -1,12 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Prisoner in the 27th Room
 species: unknown
+name: Prisoner in the 27th Room
 whereabouts:
 - {type: home, location: Far Realms}
 - {type: home, location: 27th House, end: 1740-10-06}
-- {type: home, start: 1740-10-07}
+- {type: away, start: 1740-10-07, location: beyond the Multiverse}
+knownTo: [feywild]
+dm_owner: schwartz
+dm_notes: none
+POV: 1740
 title: Prisoner in the 27th Room
 hide_toc: true
 ---
@@ -17,13 +23,13 @@ hide_toc: true
     An unknown  
     { .bio }
 
-    Originally from: [Far Realms](<../../cosmology/far-realms.md>)
+    Based [Far Realms](<../../cosmology/far-realms.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of October 6th, 1740): the [27th House](<../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>), the [Twilight Kingdom](<../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../cosmology/feywild.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of October 7th, 1740): beyond the [Multiverse](<../../cosmology/multiverse.md>)
 
 
-The Prisoner in the 27th Room is an alien being from an unknown [Far Realm](<../../cosmology/far-realms.md>) beyond the known borders of the [Multiverse](<../../cosmology/multiverse.md>). It was prisoned by the [Arithrimos Lamperum](<../../groups/drankorian-societies/arithrimos-lamperum.md>) in a central prison chamber of the [27th House](<../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>), in the [Twilight Kingdom](<../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), for many years, its prison and the building around it maintained by the magical force of souls held by the Prisoner attempting to reach the [Land of the Dead](<../../cosmology/land-of-the-dead.md>). Outside the prison, it could/can perceive the complete shape of its past, present, future; the movement of the prison through space and time is/was the only thing that kept/is keeping the Prisoner trapped. 
+The Prisoner in the 27th Room is an alien being from an unknown [Far Realm](<../../cosmology/far-realms.md>) beyond the known borders of the [Multiverse](<../../cosmology/multiverse.md>). It was imprisoned by the [Arithrimos Lamperum](<../../groups/drankorian-societies/arithrimos-lamperum.md>) in a central prison chamber of the [27th House](<../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>), in the [Twilight Kingdom](<../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), for many years, its prison and the building around it maintained by the magical force of souls held by the Prisoner attempting to reach the [Land of the Dead](<../../cosmology/land-of-the-dead.md>). Outside the prison, it could/can perceive the complete shape of its past, present, and future; the movement of the prison through space and time is/was the only thing that kept/is keeping the Prisoner trapped.
 
 The Prisoner sometimes burned the dreams/souls out of people, replacing them with its children, a kind of fungal parasitic creature of alien horror. 
 
@@ -42,3 +48,15 @@ When mortals began visiting, the being found their dreams/souls beautiful and ke
 The being's fungal children grew inside bodies whose souls it had taken. Some left through a root extending from the prison, emerging at random places and times determined by the unpredictable movements of the [27th House](<../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) shifting the prison's time and location. These children survived their parent's departure; those in the [Varrow Forest](<../../gazetteer/greater-sembara/sembara/northlands/varrow-forest.md>) continue to make new siblings and search for the hidden door that would lead them home.
 
 In DR 1740, [five travelers](<../pcs/other-pcs/tollen-misfits/tollen-misfits.md>) entered the central prison and told stories that persuaded the being to release the souls it held. With the prison's source of power gone, the [27th House](<../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) collapsed. The prisoner emerged in a form that mortal minds could only approximate as a seven-story dandelion of darkness, bone, roots, mold, tentacles, and familiar faces. It then appeared as a child once more, descended through the low stone well, and traveled beyond the universe. There, it could again perceive all of its possibilities clearly and thought not of the souls it had kept, but of the teacher who had loved it into speech.
+
+
+
+
+
+
+
+
+
+
+
+

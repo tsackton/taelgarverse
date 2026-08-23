@@ -153,7 +153,7 @@ Returning from the success of restoring the [temple](<../../../gazetteer/northwe
 
 - Jul 08, 1747 DR: The party arrives back in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). 
 - Jul 09, 1747 DR: The party meets the [proconsul](<../../../people/chardonians/anton-lavernia.md>), and Archivist [Lyra](<../../../people/chardonians/lyra.md>) tells them a messenger is missing. 
-- Jul 10, 1747 DR: [Adrik](<../../../people/pcs/silver-tempests/adrik.md>), [Brelith](<../../../people/pcs/silver-tempests/brelith.md>), [Aelar](<../../../people/pcs/silver-tempests/aelar.md>), and [Samso](<../../../people/pcs/silver-tempests/samso.md>) random the messenger from the [Kobolds](<../../../creatures/species/kobolds.md>), but not the map they need to find the last scroll, the Skyborn Scroll.  
+- Jul 10, 1747 DR: [Adrik](<../../../people/pcs/silver-tempests/adrik.md>), [Brelith](<../../../people/pcs/silver-tempests/brelith.md>), [Aelar](<../../../people/pcs/silver-tempests/aelar.md>), and [Samso](<../../../people/pcs/silver-tempests/samso.md>) ransom the messenger from the [Kobolds](<../../../creatures/species/kobolds.md>), but not the map they need to find the last scroll, the Skyborn Scroll.  
 - Jul 11, 1747 DR: The party, with [Aglath](<../../../people/pcs/silver-tempests/aglath.md>), ambushes the [Kobolds](<../../../creatures/species/kobolds.md>) and retrieves the map to the [Skyborn Scroll](<../../../things/magic-items/skyborn-scroll.md>). 
 
 ## Adventure 11: The Skyborn Scroll

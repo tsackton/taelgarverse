@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-23T11:35:40-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
-campaignInfo: []
-name: The Thirsty Scholar
+tags: [place]
 typeOf: inn
+name: The Thirsty Scholar
 whereabouts: Chardon
 dm_owner: none
-dm_notes: color
+dm_notes: none
+POV: modern
 title: The Thirsty Scholar
 ---
 # The Thirsty Scholar
@@ -16,4 +18,8 @@ title: The Thirsty Scholar
 </div>
 
 
-A bar and tavern popular with the more advanced students studying with the higher faculties of the university. 
+A bar and tavern popular with the more advanced students studying with the higher faculties of the university.
+
+
+
+

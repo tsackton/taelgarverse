@@ -1,13 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T15:54:27-04:00'
+lintVersion: '3.4'
 tags: [power, religion/tanshi]
+typeOf: tanshi
+name: Mek'ire
 pronunciation: mehk-EER-eh
 dm_owner: none
 dm_notes: none
-typeOf: tanshi
+POV: modern
 title: Mek'ire
 ---
 # Mek'ire
 :speaker:{ .middle } *(mehk-EER-eh)*  
 
 The spirit of carving, particularly small and decorative carving, and finely made chairs and tables. Particularly fond of miniatures - four small twigs and a smooth stone held in the likeness of tiny table, for example, or a small stick figure carved out of a wood shaving. Is known to watch over elderly carvers, in particular, who may have retired or no longer have the dexterity to carve intricate wooden things, but are said to be favorites of Mek'ire.
+
+
+
+

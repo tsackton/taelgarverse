@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-21T23:46:56-04:00'
+lintVersion: '3.4'
 displayDefaults: {defArt: ''}
+tags: [place]
 typeOf: neighborhood
+typeOfAlias: precinct
+name: Precinct VI
 whereabouts: Chardon
 dm_owner: tim
-dm_notes: important
-typeOfAlias: precinct
+dm_notes: color
+POV: modern
 title: Precinct VI
 ---
 # Precinct VI
@@ -15,5 +19,9 @@ title: Precinct VI
 </div>
 
 
-Precinct VI is the center of the Chardonian port district. 
+
+
+Precinct VI is the center of the Chardonian port district.
+
+
 

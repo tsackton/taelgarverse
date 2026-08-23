@@ -1,7 +1,8 @@
 ---
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
 tags: [session-note]
-name: Dunmari Frontier - Delwath Solo Session 1 (Prequel)
-campaign: Dunmari Frontier
+campaign: Dunmar Frontier
 sessionNumber: 53
 realWorldDate: 2022-07-31
 DR: 1748-09-30
@@ -9,6 +10,8 @@ DR_end: 1748-10-06
 players: [Delwath]
 tagline: in which Delwath uncovers the secret of the Meswati
 descTitle: Armbands of Entrapment
+name: Dunmari Frontier - Delwath Solo Session 1 (Prequel)
+POV: 1748
 title: Dunmari Frontier - Delwath Solo Session 1 (Prequel)
 ---
 # Dunmari Frontier - Delwath Solo Session 1 (Prequel)
@@ -40,16 +43,16 @@ title: Dunmari Frontier - Delwath Solo Session 1 (Prequel)
 
 
 ## Narrative
-We begin as [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) arrives in the vast northern forests, in the late afternoon, the only sign of civilization a campfire in the distance. Approaching the campfire, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) sees a hunting camp of maybe a dozen Deno'qai, surprised and awed to see an [Elves](<../../../creatures/species/elves.md>) speaking their tongue. The leader of the hunting band introduces himself as [Kaslan](<../../../people/deno-qai/kaslan.md>), and he speaks with [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) briefly about the lost tanshi, the Meswati, when [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) says he is here to find them. 
+We begin as [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) arrives in the vast northern forests, in the late afternoon, the only sign of civilization a campfire in the distance. Approaching the campfire, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) sees a hunting camp of maybe a dozen Deno'qai, surprised and awed to see an [elf](<../../../creatures/species/elves.md>) speaking their tongue. The leader of the hunting band introduces himself as [Kaslan](<../../../people/deno-qai/kaslan.md>), and he speaks with [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) briefly about the lost tanshi, the Meswati, when [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) says he is here to find them.
 
-[Kaslan](<../../../people/deno-qai/kaslan.md>) insists [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) come to the [Ko'zula](<../../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) village and speak with [Ninu](<../../../people/deno-qai/ninu.md>), the chief. Spending the night in camp, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) hears something of how the [Ko'zula surived the Great War](<../../../history/timeline-of-the-northern-deno-qai.md>). A young boy, [Zevi](<../../../people/deno-qai/zevi-of-the-ko-zula.md>), is assigned to guide him the next morning, and they arrive a few days later.
+[Kaslan](<../../../people/deno-qai/kaslan.md>) insists [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) come to the [Ko'zula](<../../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) village and speak with [Ninu](<../../../people/deno-qai/ninu.md>), the chief. Spending the night in camp, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) hears something of how the [Ko'zula survived the Great War](<../../../history/timeline-of-the-northern-deno-qai.md>). A young boy, [Zevi](<../../../people/deno-qai/zevi-of-the-ko-zula.md>), is assigned to guide him the next morning, and they arrive a few days later.
 
 In the village, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) is welcomed with a feast, and meets [Ninu](<../../../people/deno-qai/ninu.md>). From her, he learns stories of the Meswati. To begin her tale, she brings out two fragments of broken armbands, melted and split, which [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) recognizes immediately, for one is identical to the armband he touched before being teleported to the shadow realm. It has been in the village for many years, and no one thought anything of it. Last year, a deathless warlock wearing the second armband emerged from the [Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>) and attacked the village. A warrior from the village, [Jotha](<../../../people/deno-qai/jotha.md>) was gravely wounded near death, and grasped the deathless creature to hold it to the ground for her companions to butcher, but as she touched the armband she vanished. [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>), a druid skilled in the manipulation of fire, destroyed both, hoping it would do something, but nothing happened. 
 
-This was the exact moment that [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) fell from the sky outside [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>).
+This was the exact moment when [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) fell from the sky outside [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>).
 
-As [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) mentions this, [Ninu](<../../../people/deno-qai/ninu.md>) tells [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) that the Deno'qai have long though the Meswati were trapped, somehow, by the evil magic of [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>), for most believe that cannot truly be killed as long as they are not forgotten. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) suggests that it is likely these armbands that have trapped the Meswati, for one, [Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>), was trapped with him. Destroying the armbands that captured each tanshi, then, may be the key to freeing them. 
+As [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) mentions this, [Ninu](<../../../people/deno-qai/ninu.md>) tells [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) that the Deno'qai have long thought the Meswati were trapped, somehow, by the evil magic of [Cha'mutte](<../../../people/extraplanar-powers/cha-mutte.md>), for most believe they cannot truly be killed as long as they are not forgotten. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) suggests that it is likely these armbands that have trapped the Meswati, for one, [Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>), was trapped with him. Destroying the armbands that captured each tanshi, then, may be the key to freeing them.
 
 Asking where the other armbands may be found, [Ninu](<../../../people/deno-qai/ninu.md>) tells [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) that a stoneborn, [Aristaea](<../../../people/pcs/dunmar-fellowship/guests/aristaea.md>), knows the [Forest of Nightmares](<../../../gazetteer/northern-sentinels/forest-of-nightmares.md>) well, and is at a hunting camp with [Iascaire](<../../../people/pcs/dunmar-fellowship/guests/iascaire.md>), the druid. [Ninu](<../../../people/deno-qai/ninu.md>) suggests they would help [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) with his quest. 
 
-Deciding to head to the hunting camp, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) first meets with [Enon](<../../../people/deno-qai/enon.md>), the Godcaller of the [Ko'zula](<../../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>), who gifts him a [shield](<../treasure/deno-qai-lynx-shield.md>) and [armor](<../treasure/deno-qai-scale-mail.md>) carried by [Balati](<../../../people/historical-figures/balati.md>), a Deno'qai hero of the [Great War](<../../../events/1500s/great-war.md>), to aid him on his quest. 
+Deciding to head to the hunting camp, [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) first meets with [Enon](<../../../people/deno-qai/enon.md>), the Godcaller of the [Ko'zula](<../../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>), who gifts him a [shield](<../treasure/deno-qai-lynx-shield.md>) and [armor](<../treasure/deno-qai-scale-mail.md>) carried by [Balati](<../../../people/historical-figures/balati.md>), a Deno'qai hero of the [Great War](<../../../events/1500s/great-war.md>), to aid him on his quest.

@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T13:33:35-04:00'
+lintVersion: '3.4'
 displayDefaults: {defArt: ''}
 tags: [place]
-whereabouts: Castrella
 typeOf: inn
-dm_owner: tim
-dm_notes: color
 typeOfAlias: tavern
+name: The Drunken Dolphin
+whereabouts: Castrella
+dm_owner: tim
+dm_notes: none
+POV: modern
 title: The Drunken Dolphin
 ---
 # The Drunken Dolphin
@@ -15,5 +19,9 @@ title: The Drunken Dolphin
 </div>
 
 
-A bustling sailor's tavern on the docks in [Castrella](<castrella.md>). 
+The Drunken Dolphin is a popular dockside tavern in [Castrella](<castrella.md>), known for good food and for the singers who perform there. It is typically cheerful and bustling, especially on nights a singer is performing. 
+
+
+
+
 

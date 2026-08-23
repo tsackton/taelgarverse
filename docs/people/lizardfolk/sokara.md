@@ -4,6 +4,8 @@ tags: [person]
 species: lizardfolk
 gender: female
 ancestry: salt
+dm_owner: player
+dm_notes: important
 title: Sokara
 hide_toc: true
 ---

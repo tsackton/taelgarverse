@@ -1,23 +1,28 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T15:54:27-04:00'
+lintVersion: '3.4'
 tags: [person]
-knownTo: [adma]
-campaignInfo:
-- {campaign: adma, type: met, date: 1715-04-30}
-name: Bertrand LeBlanc
 species: human
 ancestry: Addermarian
+campaignInfo:
+- {campaign: adma, type: met, date: 1715-04-30}
 gender: male
+name: Bertrand LeBlanc
+pronunciation: behr-TRAHN luh-BLAHNK
 affiliations:
 - {type: leader, org: The Traveler's Rest, title: Proprietor}
 whereabouts:
 - {type: home, location: Roscombe}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 title: Bertrand LeBlanc
 hide_toc: true
 ---
 # Bertrand LeBlanc
+:speaker:{ .middle } *(behr-TRAHN luh-BLAHNK)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -36,3 +41,6 @@ hide_toc: true
 Bertrand LeBlanc is a charming middle‑aged innkeeper who runs [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>) in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>). Friendly toward the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) and most travelers without need for persuasion, he prides himself on fair dealing, a well‑kept cellar, and a welcoming common room.
 
 Born and raised in Roscombe, Bertrand has a personal connection to the Wanderer and enjoys talking with travelers from near and far. 
+
+
+

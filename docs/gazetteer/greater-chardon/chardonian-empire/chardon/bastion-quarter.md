@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-21T10:48:34-04:00'
+lintVersion: '3.4'
 displayDefaults: {wHome: '<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>'}
+tags: [place]
 typeOf: neighborhood
+typeOfAlias: neighborhood
+name: Bastion Quarter
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: none
-typeOfAlias: neighborhood
+POV: modern
 title: Bastion Quarter
 ---
 # The Bastion Quarter
@@ -17,4 +21,8 @@ title: Bastion Quarter
 
 The Bastion Quarter, often just called the Bastion, occupies the area near the [Merchant's Gate](<trade-gate-chardon.md>) where the [northern trade road](<../north-road.md>) passes through the [North Wall](<north-wall-chardon.md>), extending south and southeast towards the river and the [River Bridge](<river-bridge-chardon.md>). 
 
-The Bastion Quarter and the [Summit Quarter](<summit-quarter.md>) together make up Precinct XIX. 
+The Bastion Quarter and the [Summit Quarter](<summit-quarter.md>) together make up Precinct XIX.
+
+
+
+

@@ -7,7 +7,7 @@ typeOf: marine feature
 whereabouts:
 - {type: home, location: Taelgar, linkText: in}
 dm_notes: important
-dm_owner: shared
+dm_owner: joint
 typeOfAlias: sea
 title: Green Sea
 ---

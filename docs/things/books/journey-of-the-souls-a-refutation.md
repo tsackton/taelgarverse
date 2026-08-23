@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [object]
 name: 'Journey of the Souls: A Refutation'
 typeOf: book
+dm_owner: none
+dm_notes: none
 title: 'Journey of the Souls: a Refutation'
 ---
 # The Journey of the Souls: A Refutation

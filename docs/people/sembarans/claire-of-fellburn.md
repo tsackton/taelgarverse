@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T15:54:27-04:00'
+lintVersion: '3.4'
 tags: [person]
-gender: female
 species: human
 ancestry: Sembaran
+gender: female
+name: Claire of Fellburn
 whereabouts:
 - {type: home, location: Duchy of Wisford, end: 1}
 - {type: home, location: Army of the South}
 - {type: away, location: Cleenseau, start: 1720-01-26, end: 1720-02-15}
+knownTo: [clee]
+dm_owner: mike
 dm_notes: color
-dm_owner: none
+POV: 1720
 title: Claire of Fellburn
 hide_toc: true
 ---
@@ -25,4 +30,8 @@ hide_toc: true
 </div>
 
 
-![Claire of Fellburn](/taelgarverse/assets/claire-of-fellburn.webp){align="right"; width="320"}The sergeant of the Eagle Patrol of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>). 
+![Claire of Fellburn](/taelgarverse/assets/claire-of-fellburn.webp){align="right"; width="320"}The sergeant of the Eagle Patrol of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>).
+
+
+
+

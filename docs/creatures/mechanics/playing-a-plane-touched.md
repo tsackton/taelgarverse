@@ -50,16 +50,6 @@ The species traits you use are determined by the nature of the plane that touche
 
 
 
-This is basically built on the Tiefling framework, with some small tweaks. But you essentially get:
-
-(1) Darkvision or another similar trait, such as breath holding, water breathing, ignore difficult terrain, etc
-(2) A minor magical boon such as Thaumaturgy
-(3) A protective trait, usually resistance
-(4) A planar legacy trait, that gives you a cantrip at 1st, a 1st level spell at 3rd, and a 2nd level spell at 5th
-
-
-
-
 ### Plane-Touched
 
 #### Darkvision

@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
+lintedAt: '2026-08-21T23:46:56-04:00'
+lintVersion: '3.4'
 displayDefaults: {endStatus: petrified}
-campaignInfo:
-- {campaign: dufr, date: 1748-03-25, type: discovered as a statue}
-name: Arcus
-born: 1723
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, date: 1748-03-25, type: discovered as a statue}
+born: 1723
 gender: male
 died: 1748-03-15
+name: Arcus
+pronunciation: AR-koos
 affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
@@ -17,12 +20,15 @@ whereabouts:
 - {type: away, start: 1748-02-02, end: 1748-03-03, prefix: traveling in, location: Dunmar}
 - {type: away, start: 1748-03-03, end: 1748-03-05, location: Karawa}
 - {type: away, start: 1748-03-14, end: 9999, location: Dunmari Fort (Gomat)}
-dm_notes: none
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1748
 title: Arcus
 hide_toc: true
 ---
 # Arcus
+:speaker:{ .middle } *(AR-koos)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -51,6 +57,13 @@ Left [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardo
 Passed through [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) alone in late February or early March, according to [Jasu](<../dunmari/jasu.md>) and [Ikram](<../dunmari/ikram.md>).
 
 ## Chronology
+
+
+
+
+
+
+
 
 
 

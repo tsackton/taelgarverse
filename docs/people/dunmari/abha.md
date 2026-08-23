@@ -28,11 +28,11 @@ hide_toc: true
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of March 2nd, 1749): the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of March 2nd, 1749): the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on February 2nd, 1749 in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on February 2nd, 1749 in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>)  
 
 
 ![Abha V2](/taelgarverse/assets/abha-v2.webp){align="right"; width="400"}Abha is a [mystai of Sonkar](<../../groups/dunmari-mystery-cults/sonkar-mystai.md>), a truthspeaker who has the divine ability to see the true nature of the world. She is a powerful spellcaster and is often called to resolve difficult or complicated requests for judgement and justice. 

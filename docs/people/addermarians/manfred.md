@@ -1,18 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T11:10:54-04:00'
+lintVersion: '3.5'
 tags: [person]
-knownTo: [adma]
-name: Manfred
 species: human
 ancestry: Addermarian
 gender: male
 born: 1676
-whereabouts:
-- {type: home, location: Haldrenn}
 campaignInfo:
 - {campaign: adma, type: met, date: 1715-05-17}
+name: Manfred
+whereabouts:
+- {type: home, location: Haldrenn}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 title: Manfred
 hide_toc: true
 ---
@@ -33,4 +36,9 @@ hide_toc: true
 
 
 A burly villager of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), father to [Rowena](<rowena.md>) and one of the hamlet’s informal leaders.
+
+
+
+
+
 

@@ -1,15 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, status/gameupdate/gl]
-name: Thunderbrand
+lintedAt: '2026-08-22T23:40:59-04:00'
+lintVersion: '3.4'
+tags: [object]
 typeOf: warhammer
-subTypeOf: magical
+typeOfAlias: magical warhammer
 ancestry: dwarven
+name: Thunderbrand
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Thunderbrand
 ---
 # Thunderbrand
 :octicons-info-24:{ .lg .middle } **([dwarven](<../../../creatures/species/dwarves.md>) magical warhammer)**  
 
-A powerful magical warhammer, of dwarven make, recovered in the [Goldpeak Mines](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>) mines under [Goldpeak Mountain](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mountain.md>) alongside [Coldguard](<coldguard.md>). 
+A powerful magical warhammer, of dwarven make, currently wielded by [Adrik](<../../../people/pcs/silver-tempests/adrik.md>). It was lost in the [Goldpeak Mines](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>) under [Goldpeak Mountain](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mountain.md>) for many years, with the magical shield [Coldguard](<coldguard.md>), until both were recovered by the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>).
+
+
+
+

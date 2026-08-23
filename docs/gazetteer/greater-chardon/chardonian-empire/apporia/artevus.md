@@ -1,15 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T11:35:40-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: settlement
-whereabouts: Portalia
-population: 850
-dm_owner: tim
-dm_notes: color
 typeOfAlias: town
+population: 850
+name: Artevus
+pronunciation: ar-TEH-woos
+whereabouts: Portalia
+dm_owner: tim
+dm_notes: none
+POV: modern
 title: Artevus
 ---
 # Artevus
+:speaker:{ .middle } *(ar-TEH-woos)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 850  
@@ -20,3 +26,9 @@ title: Artevus
 Artevus is a small coastal town in northern [Portalia](<portalia.md>), primarily a minor market town for local fisherfolk. A relatively poor town, and somewhat dilapidated, Artevus is something of a sleepy backwater. 
 
 The docks and the market square, with the nearby temple of the [Mos Numena](<../../../../gods-and-religions/religions/mos-numena/mos-numena.md>), are the most notable local landmarks. A few quiet inns and taverns line the edge of the market square, near the docks, but are rarely busy.
+
+
+
+
+
+

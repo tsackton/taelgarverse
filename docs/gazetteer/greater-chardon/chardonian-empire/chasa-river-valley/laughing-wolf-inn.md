@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
 tags: [place]
-name: Laughing Wolf Inn
 typeOf: inn
+name: Laughing Wolf Inn
 whereabouts: Arendum
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Laughing Wolf Inn
 ---
 # The Laughing Wolf Inn
@@ -14,4 +17,8 @@ title: Laughing Wolf Inn
 </div>
 
 
-A traveler's inn outside the main gates of Arendum. 
+A traveler's inn outside the main gates of Arendum.
+
+
+
+

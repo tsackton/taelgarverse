@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
 displayDefaults: {defArt: the}
-tags: [place, status/check/name]
+tags: [place, status/check/name, status/check/lint]
+typeOf: region
+name: Coastlands
 whereabouts:
 - {type: home, location: Chardonian Empire}
-typeOf: region
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Coastlands
 ---
 # The Coastlands
@@ -38,5 +42,11 @@ Five major rivers, and several smaller ones, flow through the coastlands. From s
 | [Corvessa](<../rivers/corvessa.md>) (kor-VESS-uh)         | river   |
 | [Sevros](<../rivers/sevros.md>) (SEV-ros)               | river   |
 | [Zar](<../rivers/zar.md>) (ZAR)                      | river   |
+
+
+
+
+
+
 
 

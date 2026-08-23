@@ -1,22 +1,27 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-22T23:22:55-04:00'
+lintVersion: '3.4'
 tags: [person]
-knownTo: [adma]
-campaignInfo:
-- {campaign: adma, type: funeral attended, date: 1715-05-17}
-name: Olay
 species: human
 ancestry: Addermarian
+campaignInfo:
+- {campaign: adma, type: funeral attended, date: 1715-05-17}
 gender: male
 died: 1715-05-07
+name: Olay
+pronunciation: OH-lay
 whereabouts:
 - {type: home, location: Haldrenn}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 title: Olay
 hide_toc: true
 ---
 # Olay
+:speaker:{ .middle } *(OH-lay)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -36,5 +41,9 @@ A farmer of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>)
 ## Events
 - May 07, 1715 DR: Killed by his enraged bull during a period of strange songs reported near Haldrenn.
 - May 17, 1715 DR: Funeral interrupted by a worg assault on Haldrenn, repelled by [Drou](<../pcs/addermarch/drou.md>), [Fazoth de Brune](<../pcs/addermarch/fazoth-de-brune.md>), and [Yvan Greenrabbit](<../pcs/addermarch/yvan-greenrabbit.md>).
+
+
+
+
 
 

@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T23:46:56-04:00'
+lintVersion: '3.4'
 tags: [person]
-name: Annabeth
-born: 1600
 species: human
 ancestry: Tyrwinghan
+born: 1600
 gender: female
 died: 1675
+name: Annabeth
 affiliations:
 - {org: House of Lils, type: primary}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Annabeth
 hide_toc: true
 ---
@@ -25,6 +29,8 @@ hide_toc: true
 </div>
 
 
-The eldest daughter and third children of [Derik of Lils](<derik-of-lils.md>), she is principally famous for marrying [Morgaine](<morgaine.md>), and for being the grandmother of [Elaine II](<elaine-ii.md>). 
+The eldest daughter and third child of [Derik of Lils](<derik-of-lils.md>), she is principally famous for marrying [Morgaine](<morgaine.md>), and for being the grandmother of [Elaine II](<elaine-ii.md>). Through magic, Annabeth and Morgaine's children were biologically descended from both women.
+
+
 
 

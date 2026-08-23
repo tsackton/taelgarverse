@@ -1,19 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Avaras
-born: 1676
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, date: 1748-05-02, type: met}
+born: 1676
 gender: male
+name: Avaras
 affiliations: [Order of the Awakened Soul]
 whereabouts:
 - {type: home, start: '', end: '', location: Karawa}
 - {type: home, start: 1717-01-01, end: '', location: Pava and Avaras' House}
 - {type: away, start: 1749-01-01, end: '', location: Pava and Avaras' House}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Avaras
 hide_toc: true
 ---
@@ -32,8 +37,12 @@ hide_toc: true
 
 
 
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 2nd, 1748 in [Pava and Avaras' House](<../../gazetteer/greater-dunmar/hara-basin/pava-and-avaras-house.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
 
-![Avaras Portrait](/taelgarverse/assets/avaras-portrait.webp){align="right"; width="400"}Avaras is one of the few remaining masters of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). He is an older man, with close cropped gray hair and lined, weathered skin. He lives in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) with his partner [Pava](<pava.md>) and apprentice [Amil](<amil.md>), leading an isolated existence, concerned with [Pava](<pava.md>) and with what is left of the Order's mission. 
+
+
+
+![Avaras Portrait](/taelgarverse/assets/avaras-portrait.webp){align="right"; width="400"}Avaras is one of the few remaining masters of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>). He is an older man, with close-cropped gray hair and lined, weathered skin. He lives in the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>) with his partner [Pava](<pava.md>) and apprentice [Amil](<amil.md>), leading an isolated existence, concerned with [Pava](<pava.md>) and with what is left of the Order's mission.
 
 Avaras grew up on the plains near [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). He was a loner as a child, but drawn to the stories that the wandering monks of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) would tell, and drawn to the idea of gathering the history of the common people. 
 
@@ -46,10 +55,15 @@ Avaras grew up on the plains near [Karawa](<../../gazetteer/greater-dunmar/realm
 It is a quiet life, with time for contemplation. With [Pava](<pava.md>) and the occasional apprentice, he has sought out the many stories of lives lived on these lands that are forgotten, and sought to quiet the restless and forgotten dead who died in the chaos of the Great War and the Blood Years with no one to mark their lives. 
 
 
-### Recents Happenings
+### Recent Happenings
 * Aug 19, 1747 DR Avaras and Pava found an elf, Delwath, wandering confused in the desert west of Kharsan, dying of thirst and delirious. They took him in, and removed his armor which seemed to be smoking with some kind of shadows. 
-* Aug 21, 1747 DR Delwath left in the night a few days later. 
-* May 02, 1748 DR Delwath returns and [meets Avaras again](<../../campaigns/dunmari-frontier-campaign/session-notes/session-19-dufr.md>), with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+* Aug 20, 1747 DR Delwath left in the night a few days later.
+* May 02, 1748 DR Delwath returned and [met Avaras again](<../../campaigns/dunmari-frontier-campaign/session-notes/session-19-dufr.md>), with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>)
+
+
+
+
+
 
 
 

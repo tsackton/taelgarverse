@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
 tags: [background]
+name: Wards of Tollen
+dm_owner: none
 dm_notes: none
-dm_owner: tim
+POV: 1740s
 title: Wards of Tollen
 ---
 # Wards of Tollen
@@ -34,9 +38,7 @@ title: Wards of Tollen
 
 (11) **[Fairgate](<wards/fairgate.md>)**, split into [Fairgate Inner](<wards/fairgate-inner.md>) and [Fairgate Outer](<wards/fairgate-outer.md>) is the western gate district, a mix of markets, caravan inns, and halfling homes linked to the [Fairgrounds](<places/fairgrounds-tollen.md>) and the farms of [Fairgate Outer](<wards/fairgate-outer.md>).
 
-[Fairgate Outer](<wards/fairgate-outer.md>)
 ![Fairgate Outer V1](/taelgarverse/assets/fairgate-outer-v1.webp)
-
 
 (12) **[Haurhill](<wards/haurhill.md>)** is the rise above the [Little River](<../rivers/volta-watershed/little-river.md>), built around the remains of an old Drankorian fort.
 
@@ -49,3 +51,5 @@ title: Wards of Tollen
 (16) **[Fenslane](<wards/fenslane.md>)** is a south-bank ward on reclaimed marsh, with plank-walked lanes, modest houses, and workshops for the dockworkers and families who live near the river.
 
 (17) **[Tideswell](<wards/tideswell.md>)** is the outer south-bank waterfront, a poorer strip of shacks, stilt-houses, fish sheds, and small yards, prone to flooding at high tide.
+
+

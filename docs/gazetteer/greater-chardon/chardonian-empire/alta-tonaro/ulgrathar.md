@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate/dufr]
+lintedAt: '2026-08-22T23:40:59-04:00'
+lintVersion: '3.4'
+tags: [place, status/gameupdate/dufr, status/check/lint]
 typeOf: realm
+typeOfAlias: kingdom
 ancestry: giant
+name: Ulgrathar
+pronunciation: ool-GRAH-thar
 whereabouts:
 - {type: home, location: Chataan Mountains}
-dm_notes: important
 dm_owner: tim
-typeOfAlias: kingdom
-pronunciation: ool-GRAH-thar
+dm_notes: important
+POV: '1748'
 title: Ulgrathar
 ---
 # Ulgrathar
@@ -18,4 +22,10 @@ title: Ulgrathar
 </div>
 
 
-Ulgrathar is a giant realm in the [Chataan Mountains](<../../chataan-mountains.md>). It is ruled by the stone giant [Dhrukmir](<../../../../people/giants/dhrukmir.md>), who protects his realm from dissidents and intruders with [Dauðleiptr](<../../../../things/artifacts-of-power/dauthleiptr.md>). 
+Ulgrathar is a giant realm in the [Chataan Mountains](<../../chataan-mountains.md>). It is ruled by the stone giant [Dhrukmir](<../../../../people/giants/dhrukmir.md>), who protects his realm from dissidents and intruders with [Dauðleiptr](<../../../../things/artifacts-of-power/dauthleiptr.md>).
+
+
+
+
+
+

@@ -4,6 +4,7 @@ tags: [person, testcase, status/gameupdate/dufr]
 displayDefaults: {boxInfo: '<subspecies> (<species:s>), <pronouns>'}
 campaignInfo: []
 name: Apollyon
+pronunciation: ah-pol-LEE-on
 born:
 species: undead
 subspecies: lich
@@ -19,6 +20,7 @@ dm_owner: tim
 hide_toc: true
 ---
 # Emperor Apollyon
+:speaker:{ .middle } *(ah-pol-LEE-on)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

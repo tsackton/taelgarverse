@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [person]
 knownTo: [Mawar, GL]
 name: Airion the Mistspeaker
+pronunciation: AIR-ee-on
 aliases: [Airion the Mistspeaker]
 born:
 species: human
@@ -15,6 +16,7 @@ title: Airion the Mistspeaker
 hide_toc: true
 ---
 # Airion the Mistspeaker
+:speaker:{ .middle } *(AIR-ee-on)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

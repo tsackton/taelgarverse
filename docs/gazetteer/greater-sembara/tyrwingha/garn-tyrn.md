@@ -7,6 +7,8 @@ pronunciation: GARN TEERN
 typeOf: topographical feature
 typeOfAlias: mountain peak
 whereabouts: Maerwyn Mountains
+dm_owner: none
+dm_notes: none
 title: Garn Tyrn
 ---
 # Garn Tyrn

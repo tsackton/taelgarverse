@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/gameupdate/dufr]
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
 displayDefaults: {boxInfo: '<ancestry:UA> <typeof:UA> of <partof:UA>', partOf: ''}
-name: Faculty of Magic
+tags: [group, status/gameupdate/dufr]
 typeOf: faculty
 partOf: University of Chardon
+name: Faculty of Magic
 whereabouts: Chardon
 dm_owner: tim
-dm_notes: important
+dm_notes: none
+POV: 1748
 title: Faculty of Magic
 ---
 # The Faculty of Magic
@@ -18,8 +21,12 @@ title: Faculty of Magic
 </div>
 
 
-The Faculty of Magic is one of the five graduate faculties of the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>). Its masters train  practitioners of the arcane arts, and their teachings shape much of Chardon’s reputation as a city of wizards and scholars.
+The Faculty of Magic is one of the five graduate faculties of the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>). Its masters train practitioners of the arcane arts, and their teachings shape much of Chardon’s reputation as a city of wizards and scholars.
 
 The Faculty of Magic is intertwined with other institutions of the academic quarter. Many of its members also participate in organizations such as the [Society of the Open Scroll](<society-of-the-open-scroll.md>), and the university as a whole is closely affiliated with the [Great Library](<../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>) and the [Hetaeri Magica](<hetaeri-magica.md>).
+
+
+
+
 
 

@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip]
+lintedAt: '2026-08-21T19:01:27-04:00'
+lintVersion: '3.4'
+tags: [place, status/cleanup/text, status/check/ai]
 typeOf: planar link
 typeOfAlias: fey portal
+name: The Twilight Road
+aliases: [Traveler's Road]
 whereabouts:
 - {type: home, location: Twilight's Grace}
 - {type: secondary, location: Tyrwingha}
 dm_owner: mike
 dm_notes: none
+POV: modern
 title: The Twilight Road
 ---
 # The The Twilight Road
@@ -28,7 +33,7 @@ title: The Twilight Road
 The Twilight Road is an old and indirect crossing between [Twilight's Grace](<twilight-s-grace.md>) and western [Tyrwingha](<../../../greater-sembara/tyrwingha/tyrwingha.md>). On the Material Plane, it emerges in the countryside roughly two days’ walk east of [Eskbridge](<../../../greater-sembara/sembara/heartlands/eskbridge.md>). The Road is used by messengers, wanderers, scouts, and travelers who wish to pass between the worlds without the ceremony or scrutiny of Twilight's Pool.
 ## In Tyrwingha
 
-On the mortal side, the Traveler’s Road is a narrow, twisting path through lightly wooded country. It is overgrown with thorn, elder, hazel, and long grass, and in places moss covers the remnants of ancient paving stones. The path does not appear to lead anywhere important. It bends frequently, doubles back upon itself, narrows between leaning trees, and occasionally vanishes beneath roots and undergrowth before reappearing a few yards farther on. Although it's existence is broadly known 
+On the mortal side, the Traveler’s Road is a narrow, twisting path through lightly wooded country. It is overgrown with thorn, elder, hazel, and long grass, and in places moss covers the remnants of ancient paving stones. The path does not appear to lead anywhere important. It bends frequently, doubles back upon itself, narrows between leaning trees, and occasionally vanishes beneath roots and undergrowth before reappearing a few yards farther on. Its existence is broadly known.
 
 Travelers sometimes report:
 
@@ -59,4 +64,9 @@ A traveler who remains upon the Road and continues forward without looking back 
 Once the Road begins to change, turning back or stepping from the path usually returns the traveler to the side from which they began. Some stories claim that those who leave the Road entirely may emerge somewhere else, or at some other time.
 
 On reaching Tyrwingha, the change is subtle. The light becomes flatter, the air colder, and the sounds of ordinary insects and birds return. The path becomes muddy and narrow, and after some further walking eventually joins a local road or reaches a small hamlet.
+
+
+
+
+
 

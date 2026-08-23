@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-22T23:40:59-04:00'
+lintVersion: '3.4'
 displayDefaults: {wHome: '<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>'}
+tags: [place, status/check/lint]
 typeOf: neighborhood
+typeOfAlias: neighborhood
+name: Chalyte Levels
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: important
-typeOfAlias: neighborhood
+POV: '1749'
 title: Chalyte Levels
 ---
 # The Chalyte Levels
@@ -17,4 +21,10 @@ title: Chalyte Levels
 
 The Chalyte Levels is the low-lying riverbank area, nestled between the western part of the [North Wall](<north-wall-chardon.md>) and the banks of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>). This area is largely slums, with many decrepit dwellings converted from old barracks built during the [Blood Years](<../../../../events/1500s/blood-years.md>). 
 
-Precinct XVIII is entirely congruent with the traditional boundries of the Chalyte Levels. 
+Precinct XVIII is entirely congruent with the traditional boundaries of the Chalyte Levels.
+
+
+
+
+
+

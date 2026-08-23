@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Unai
-born: 1602
+lintedAt: '2026-08-21T23:46:56-04:00'
+lintVersion: '3.4'
+tags: [person, status/check/lint, status/check/mike]
 species: lizardfolk
 ancestry:
 gender: female
+born: 1602
+name: Unai
 whereabouts: Ganboa
+knownTo: [clee]
+dm_owner: mike
 dm_notes: color
-dm_owner: none
+POV: 1720
 title: Unai
 hide_toc: true
 ---
@@ -25,4 +29,9 @@ hide_toc: true
 
 
 ![Lizardfolk Unai](/taelgarverse/assets/lizardfolk-unai.webp){align="right"; width="320"}An herbalist and healer, teacher of [Gentza](<gentza.md>). She is well-known in the region, but unlike her student, does not usually sell her remedies or bring them to human markets. 
+
+
+
+
+
 

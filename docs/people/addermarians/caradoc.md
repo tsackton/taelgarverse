@@ -1,24 +1,29 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T11:35:40-04:00'
+lintVersion: '3.5'
 tags: [person]
-knownTo: [adma]
-aliases: [Aurenxis]
-campaignInfo:
-- {campaign: adma, type: hired, date: 1715-05-02, wParty: '<met:u> <person> on <target> <current:rq>'}
-name: Caradoc
 species: human
 ancestry: Addermarian
+campaignInfo:
+- {campaign: adma, type: hired, date: 1715-05-02, wParty: '<met:u> <person> on <target> <current:rq>'}
 gender: male
 born: 1653
+name: Caradoc
+pronunciation: CARE-uh-dock
+aliases: [Aurenxis]
 whereabouts:
 - {type: home, location: Brantor}
 - {type: away, location: Roscombe, start: 1715-05-02, end: 1715-05-02}
-dm_notes: none
+knownTo: [adma]
 dm_owner: tim
+dm_notes: none
+POV: 1715
 title: Caradoc
 hide_toc: true
 ---
 # Caradoc
+:speaker:{ .middle } *(CARE-uh-dock)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -34,13 +39,13 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Hired the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 2nd, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
-Caradoc is a reclusive alchemist of the highlands of [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), who maintains a simple cottage-laboratory outside [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>). He is a regular presence in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) on market days, where he meets clients, arranges commissions, and occasionally sells minor potions and ointments to the populace and travelers. Though rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy as both scholarly calling and civic duty, rewarding competence with generous pay.
+Caradoc is a reclusive alchemist of the highlands of [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), who maintains a simple cottage-laboratory outside [Brantor](<../../gazetteer/greater-sembara/addermarch/brantor.md>). He is a regular presence in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) on market days, where he meets clients, arranges commissions, and occasionally sells minor potions and ointments to the populace and travelers. 
 
-Despite his age, Caradoc moves with crisp focus. He has short white hair, keen green eyes, and a habit of weighing every bargain against risks that are not always obvious to his clients. 
+Rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy more of a scholarly pursue and civic duty than a means to riches. He does not share where and how he came by his coin. Caradoc pays generously for rare ingredients, especially those that are dangerous to collect. He bankrolls expeditions rather than traveling himself, relying on agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [uligium](<../../things/materials/uligium.md>). 
 
-Caradoc pays generously for rare ingredients and dangerous errands. He bankrolls expeditions rather than traveling himself, relying on proven agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [uligium](<../../things/materials/uligium.md>). He does not share where and how he came by his coin, though he always seems to have enough for a generous commission. 
+Despite his age, Caradoc moves with crisp intention. He has short white hair, keen green eyes, and a habit of weighing every bargain against risks that are not always obvious to those he deals with. 
 
-Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric concoctions, such as [Trueflame](<../../things/materials/trueflame.md>) and once traveled in the [Feywild](<../../cosmology/feywild.md>) under the name Aurenxis, a name he used to keep his true identity safe from mischief. He does not advertise this history, but it explains his familiarity with [Morlaith](<../extraplanar-powers/archfey/morlaith.md>) and his caution around disturbances tied to the [Feywild](<../../cosmology/feywild.md>).
+Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric concoctions, such as [Trueflame](<../../things/materials/trueflame.md>), and once traveled in the [Feywild](<../../cosmology/feywild.md>) under the name Aurenxis, a name he used to keep his true identity safe from mischief. He does not advertise this history, though those who know him well may learn that as a teenager he crossed into Morlaith's realm in the Feywild; whatever happened there left him with prematurely white hair and an uncanny instinct for alchemy.
 
 ## Events
 - May 02, 1715 DR: [Hired the Addermarch Mercenaries](<../../campaigns/addermarch-campaign/addermarch-session-03.md>) to slay a cockatrice and procure its gizzard as proof of capability.
@@ -53,6 +58,9 @@ Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric co
 - May 21, 1715 DR: [Revealed that he once used the name Aurenxis](<../../campaigns/addermarch-campaign/addermarch-session-15.md>) while traveling in the [Feywild](<../../cosmology/feywild.md>), and warned the party about [Morlaith](<../extraplanar-powers/archfey/morlaith.md>).
 - May 22, 1715 DR: [Provided old adventuring gear](<../../campaigns/addermarch-campaign/addermarch-session-16.md>) and agreed to prepare more [Trueflame](<../../things/materials/trueflame.md>) to destroy the [Serpentine Battleaxe](<../../things/magic-items/serpentine-battleaxe.md>).
 - May 24, 1715 DR: Supplied the prepared [Trueflame](<../../things/materials/trueflame.md>) before the party set out toward [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>).
+
+
+
 
 
 

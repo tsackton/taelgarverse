@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 tags: [power, status/review]
 name: Cha'mutte
+pronunciation: shah-MUTT
 typeOf: elder wyrm
 gender: male
 died: 1545
@@ -10,6 +11,7 @@ dm_notes: important
 title: Cha'mutte
 ---
 # Cha'mutte
+:speaker:{ .middle } *(shah-MUTT)*  
 
 
 

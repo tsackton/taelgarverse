@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
 displayDefaults: {defArt: ''}
-campaignInfo: []
-name: The Chapterhouse
+tags: [place]
 typeOf: inn
+name: The Chapterhouse
 whereabouts: Precinct IV
 dm_owner: none
 dm_notes: color
+POV: modern
 title: The Chapterhouse
 ---
 # The Chapterhouse
@@ -17,4 +19,7 @@ title: The Chapterhouse
 
 
 A quiet student tavern in [Precinct IV](<precinct-iv.md>), the university district of [Chardon](<chardon.md>)
+
+
+
 

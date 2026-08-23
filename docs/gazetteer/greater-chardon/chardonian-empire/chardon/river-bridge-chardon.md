@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T12:28:14-04:00'
+lintVersion: '3.4'
 tags: [place]
-name: River Bridge
 typeOf: infrastructure
-whereabouts: Chardon
-aliases: [River Bridge]
-dm_owner: tim
-dm_notes: color
 typeOfAlias: bridge
+name: River Bridge
+aliases: [River Bridge]
+whereabouts: Chardon
+dm_owner: tim
+dm_notes: none
+POV: modern
 title: River Bridge
 ---
 # The River Bridge
@@ -16,6 +19,10 @@ title: River Bridge
 </div>
 
 
-The River Bridge is one of the engineering and magical marvels of [Chardon](<chardon.md>).  It is a vast span, wide enough for four carts to pass abreast, fortified at both ends with gates and towers, and built up with numerous shops and apartments. 
+The River Bridge is one of the engineering and magical marvels of [Chardon](<chardon.md>). It is a vast span, wide enough for four carts to pass abreast, fortified at both ends with gates and towers, and built up with numerous shops and apartments. 
 
-The central segment of the bridge, marking the dividing line between the [Bastion Quarter](<bastion-quarter.md>) (Precinct XIX) and Precinct VII on the [South Bank](<south-bank.md>), is enchanted with a magical mechanism that allows the bridge to rise, for defense, traffic control, and to allow ocean-going ships to pass. 
+The central segment of the bridge, marking the dividing line between the [Bastion Quarter](<bastion-quarter.md>) (Precinct XIX) and Precinct VII on the [South Bank](<south-bank.md>), is enchanted with a magical mechanism that allows the bridge to rise, for defense, traffic control, and to allow ocean-going ships to pass.
+
+
+
+

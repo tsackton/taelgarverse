@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate/gl, status/gameupdate/dufr]
-aliases: [Chardonian]
-name: Chardonian Empire
+lintedAt: '2026-08-21T19:01:27-04:00'
+lintVersion: '3.4'
+tags: [place, status/gameupdate/gl, status/gameupdate/dufr, status/cleanup/text]
 typeOf: realm
+typeOfAlias: empire
+name: Chardonian Empire
+pronunciation: char-DOH-nee-an
+aliases: [Chardonian]
 whereabouts: Greater Chardon
 dm_owner: tim
 dm_notes: important
-typeOfAlias: empire
+POV: 1749
 title: Chardonian Empire
 ---
 # The Chardonian Empire
+:speaker:{ .middle } *(char-DOH-nee-an)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } An empire in [Greater Chardon](<../greater-chardon.md>)  
 </div>
@@ -74,6 +79,9 @@ In the most commonly told imperial chronology:
 - Late DR 1600s onward: The discovery and exploitation of [chalyte](<../../../things/materials/chalyte.md>) near [Voltara](<../../northwest-coast/northern-provinces/voltara/voltara.md>) transforms the empire’s finances and reach, tightening imperial control over the [Northern Provinces](<../../northwest-coast/northern-provinces/northern-provinces.md>) and fueling the rise of chalyte‑powered magic and industry.
 - DR 1689–1720: The chalyte boom in [Alta Tonaro](<alta-tonaro/alta-tonaro.md>) leads to rapid growth around [Argento](<alta-tonaro/argento.md>), followed by decline as surface chalyte deposits dwindle and the [Chataan Mountains](<../chataan-mountains.md>) are increasingly treated as unsafe for travel.
 - The current era: Chardon’s legions have recently conquered [Illoria](<../../nevos-and-apporia/illoria.md>), turning a pirate archipelago into a protectorate.
+
+
+
 
 
 

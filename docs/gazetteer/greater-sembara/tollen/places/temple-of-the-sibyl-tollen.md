@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-21T13:33:35-04:00'
+lintVersion: '3.4'
 tags: [place]
-name: Temple of the Sibyl (Tollen)
 typeOf: holy site
 typeOfAlias: temple
+name: Temple of the Sibyl (Tollen)
 affiliations:
 - {org: The Sibyl, type: primary}
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Temple of the Sibyl (Tollen)
 ---
 # The Temple of the Sibyl (Tollen)
@@ -22,3 +25,7 @@ The Temple of the Sibyl in [Tollen](<../tollen.md>) is a vast domed temple in [G
 ![Dome of the Sibyl](/taelgarverse/assets/dome-of-the-sibyl.webp)
 
 ![Temple of Sibyl Interior](/taelgarverse/assets/temple-of-sibyl-interior.webp)
+
+
+
+

@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: '2026-08-21T13:33:35-04:00'
+lintVersion: '3.4'
 displayDefaults: {boxInfo: ''}
-name: Lord's Guard of Cleenseau
+tags: [group, status/check/mike, status/check/lint]
 typeOf: army
-subTypeOf: warband
+typeOfAlias: warband
+name: Lord's Guard of Cleenseau
 whereabouts: Cleenseau
 dm_owner: mike
 dm_notes: color
+POV: 1720
 title: Lord's Guard of Cleenseau
 ---
 # The Lord's Guard of Cleenseau
@@ -15,6 +18,8 @@ title: Lord's Guard of Cleenseau
 -
     :octicons-location-24:{ .lg .middle } Based in [Cleenseau](<cleenseau.md>), the [Manor of Cleenseau](<../manor-of-cleenseau.md>), the [Barony of Aveil](<../../barony-of-aveil.md>), [Sembara](<../../../sembara.md>), [Greater Sembara](<../../../../greater-sembara.md>)  
 </div>
+
+
 
 
 The Lord's Guard of Cleenseau is a troop of 18 people-at-arms who are responsible for protecting the [Essford Manor](<essford-manor.md>), watching the [River Gate](<river-gate-of-cleenseau.md>) and [North Gate](<north-gate-of-cleenseau.md>) and maintaining peace within the walls. These are not well trained, professional soldiers, but most of them can ride and shoot relatively well and have some practice with spears and wearing armor.
@@ -31,4 +36,11 @@ The town watch is led by [Beatrix Thorne](<../../../../../../people/sembarans/be
 * [Jon](<../../../../../../people/sembarans/jon.md>), a guardsman
 * Clarissa, a guardswoman, recently killed by zombies
 * Jacques, a guardsman, recently killed by zombies
+
+
+
+
+
+
+
 

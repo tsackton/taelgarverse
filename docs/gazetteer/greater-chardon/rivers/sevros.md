@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
-whereabouts: Coastlands
+lintedAt: '2026-08-21T19:01:27-04:00'
+lintVersion: '3.4'
+tags: [place]
 typeOf: waterway
+typeOfAlias: river
+name: Sevros
+pronunciation: SEV-ros
+whereabouts: Coastlands
 dm_owner: none
 dm_notes: none
-typeOfAlias: river
-pronunciation: SEV-ros
+POV: modern
 title: Sevros
 ---
 # Sevros
@@ -17,5 +21,9 @@ title: Sevros
 
 
 One of the rivers of the [Coastlands](<../chardonian-empire/coastlands.md>), rising in the [Beacon Hills](<../beacon-hills.md>) and flowing west to the [Endless Ocean](<../../endless-ocean.md>).
+
+
+
+
 
 

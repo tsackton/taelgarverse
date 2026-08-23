@@ -1,15 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/errors, place]
+lintedAt: '2026-08-23T12:50:50-04:00'
+lintVersion: '3.5'
+tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: village
 ancestry: Deno'qai
+name: Raha
+pronunciation: RAH-hah
 whereabouts: Highveil Forest
-dm_notes: color
 dm_owner: tim
+dm_notes: color
+POV: 1747
 title: Raha
 ---
 # Raha
+:speaker:{ .middle } *(RAH-hah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) village in the [Highveil Forest](<highveil-forest.md>), the [Central Highlands](<central-highlands.md>)  
 </div>
@@ -17,8 +23,6 @@ title: Raha
 
 
 
-
-# Raha
 
 Location: About a day’s journey east of the northeastern corner of the Chardonian empire, in the forest on the slopes of the [Sentinels](<../sentinel-range.md>)
 
@@ -28,7 +32,7 @@ Age: Raha has been settled for nearly 100 years now
 
 Condition: simple wooden architecture, thatch or other simple roofing, but well-constructed and maintained
 
-Government: Hakar, A local chief chosen by the village, who represents the village in inter-village councils
+Government: Hakar, a local chief chosen by the village, who represents the village in inter-village councils
 
 People: Northerners -- blue eyed, long haired, pale, generally large and thick featured
 
@@ -51,15 +55,23 @@ Layout:
 
   
 
-History: Founded Northerners who had been living in marginal land moving into the forest after the end of the Blood Years; the people have only a hazy sense of their past but do remember stories of when they were living at the margins of society and do not want to return to that life under Chardonian rule. The biggest event of note in the village history are the Great Blizzard about a generation back, although like all villages in this area it has experienced the occasional monster attack.
+History: Founded by Northerners who had been living in marginal land moving into the forest after the end of the Blood Years; the people have only a hazy sense of their past but do remember stories of when they were living at the margins of society and do not want to return to that life under Chardonian rule. The biggest event of note in the village history is the Great Blizzard about a generation back, although like all villages in this area it has experienced the occasional monster attack.
 
   
 
-Vibe: The people here are wary of outsiders, but friendly once they decide you are trustworthy. They are proud of their local traditions, especially their sausage and pigs, and often hold races while riding pigs in the sparring ground, sometimes mounted pig wrestling as well. The regular cycle of festivals and sacrifices bring life to the village, as each one is accompanied by a feast.
+Vibe: The people here are wary of outsiders, but friendly once they decide you are trustworthy. They are proud of their local traditions, especially their sausage and pigs, and often hold races while riding pigs in the sparring ground, sometimes mounted pig wrestling as well. The regular cycle of festivals and sacrifices brings life to the village, as each one is accompanied by a feast.
 
   
 
-Services: there is no inn or tavern, but travelers who meet the approval of Hakar can sleep in the great hall, and several villagers brew beer they’d be happy to sell. Rations can be obtained from the butcher or in trade from Hakar. There is also a tanner/leatherworker in the village, a not-very-skilled blacksmith, and a few of the soldiers have some skill in repairing basic items. Finally, an old woman collects herbs and other things from the forest and brew concoctions -- not truly magical, but many common potions can be obtained from her.  
+Services: there is no inn or tavern, but travelers who meet the approval of Hakar can sleep in the great hall, and several villagers brew beer they’d be happy to sell. Rations can be obtained from the butcher or in trade from Hakar. There is also a tanner/leatherworker in the village, a not-very-skilled blacksmith, and a few of the soldiers have some skill in repairing basic items. Finally, an old woman collects herbs and other things from the forest and brews concoctions -- not truly magical, but many common potions can be obtained from her.  
 
   
-Downtime: There is not much to do in Raha; even gathering rumors is questionable at best. However, one can compete in the pig wrestling matches, which uses pit fighting rules but requires an animal handling check, a strength check, and a dexterity check.
+Downtime: There is not much to do in Raha; even gathering rumors is questionable at best. However, one can compete in the pig wrestling matches, which use pit fighting rules but require an animal handling check, a strength check, and a dexterity check.
+
+
+
+
+
+
+
+

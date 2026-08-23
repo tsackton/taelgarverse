@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-20T19:36:26-04:00'
+lintVersion: '3.2'
+displayDefaults: {defArt: ''}
 tags: [place]
 typeOf: inn
 ancestry: halfling
-whereabouts: Precinct Vi
-displayDefaults: {defArt: ''}
-dm_notes: none
+name: The Smiling Crab
+whereabouts: Precinct VI
 dm_owner: none
+dm_notes: none
+POV: modern
 title: The Smiling Crab
 ---
 # The Smiling Crab
@@ -15,4 +19,8 @@ title: The Smiling Crab
 </div>
 
 
-A halfling inn in Chardon, catering to halfing travelers.
+A halfling inn in Chardon, catering to halfling travelers.
+
+
+
+

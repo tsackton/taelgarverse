@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-22T23:40:59-04:00'
+lintVersion: '3.4'
 displayDefaults: {endStatus: mysteriously vanished in}
-destroyed: 1737
+tags: [place, status/gameupdate/gl, status/check/lint]
 typeOf: settlement
-ancestry: lizardfolk
-whereabouts: Portalia
-pronunciation: oor-KAH-bee
-dm_notes: none
-dm_owner: tim
 typeOfAlias: village
+ancestry: lizardfolk
+destroyed: 1737
+name: Urkabi
+pronunciation: oor-KAH-bee
+whereabouts: Portalia
+dm_owner: tim
+dm_notes: none
+POV: '1748'
 title: Urkabi
 ---
 # Urkabi
@@ -22,5 +26,13 @@ title: Urkabi
 
 
 A small lizardfolk village on the [Apporian Peninsula](<apporia.md>), on the [Zurrua](<zurrua.md>). In DR 1737, all the inhabitants of the village, [save one](<../../../../people/pcs/silver-tempests/samso.md>), mysteriously vanished.  
+
+
+
+
+
+
+
+
 
 
