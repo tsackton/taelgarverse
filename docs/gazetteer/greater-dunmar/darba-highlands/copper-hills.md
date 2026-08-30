@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T19:01:27-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T17:36:36-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: topographical feature
 typeOfAlias: line of hills
@@ -26,6 +26,7 @@ title: Copper Hills
 ![Copper Hills Landscape](/taelgarverse/assets/copper-hills-landscape.webp){align="right"; width="450"}The Copper Hills are a rugged, arid region of dry valleys and rocky, sun-baked slopes rising gently from the plains, between [Tokra](<../realms/dunmar/central-dunmar/tokra/tokra.md>) and [Darba](<../realms/dunmar/coastal-dunmar/darba/darba.md>). Sparse vegetation clings to the hillsides, with hardy desert grasses and low, twisted trees sheltered in shaded ravines. Intense monsoonal rains briefly turn dusty riverbeds into muddy torrents, bringing a short-lived burst of green and wildflowers to the hills before the land fades back to browns and grays. This area was once famous for copper mining, but is largely abandoned now. The abandoned mining village of [Vandar](<../realms/dunmar/central-dunmar/vandar.md>) is typical of the ruined towns that can be found among the hills. 
 
 While several seasonal and intermittent rivers flow north from the Copper Hills, the only perennial river with the Copper Hills as its source is the [Sukal](<../rivers/hara-watershed/sukal.md>), which flows east to its confluence with the [Hara](<../rivers/hara-watershed/hara.md>). 
+
 
 
 

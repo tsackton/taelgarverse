@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
-tags: [person, status/check/lint, status/check/mike]
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
+tags: [person]
 species: human
 ancestry: Mazeanne
 born: 1705-03-15
@@ -15,11 +15,13 @@ whereabouts:
 knownTo: [clee]
 dm_owner: mike
 dm_notes: none
+pronunciation: BAL-thuh-zahr
 POV: 1720
 title: Balthazar
 hide_toc: true
 ---
 # Balthazar
+:speaker:{ .middle } *(BAL-thuh-zahr)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

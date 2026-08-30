@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-gender: male
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+gender: male
+name: Rene Dubois
 whereabouts:
 - {type: home, location: Barony of Brumecliff, end: 1}
 - {type: home, location: Army of the South}
 - {type: away, location: Cleenseau, start: 1720-01-26, end: 1720-02-15}
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 title: Rene Dubois
 hide_toc: true
 ---
@@ -26,3 +31,9 @@ hide_toc: true
 
 
 ![Rene the Scout](/taelgarverse/assets/rene-the-scout.webp){align="right"; width="320"}A scout and skirmisher with the Eagle Patrol of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>), skilled at spotting unusual events.
+
+
+
+
+
+

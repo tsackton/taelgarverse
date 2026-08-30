@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl, status/check/tim]
-campaignInfo:
-- {campaign: GL, type: met, date: 1747-07-04}
-name: Galius Filuso
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/gl, status/check/tim, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: grli, type: met, date: 1747-07-04}
 gender: male
+name: Galius Filuso
 affiliations:
 - {org: Order of Twilight, type: primary}
 - {org: The Night Queen, title: Priest}
 whereabouts:
 - {type: home, location: Chardon, end: 1747}
 - {type: home, location: Voltara, start: 1747}
+knownTo: [grli]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Galius Filuso
 hide_toc: true
 ---
@@ -35,6 +39,11 @@ hide_toc: true
 Galius Filuso is a Chardonian priest of [The Night Queen](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-night-queen.md>), now based in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). He is a prominent advocate for the restoration of the [Order of Twilight](<../../groups/order-of-twilight.md>), especially the recovery and reconsecration of lost Order sites in the northern provinces.
 
 He is skilled in magic, powerful enough to reconsecrate the [abandoned Order of Twilight temple](<../../gazetteer/northwest-coast/northern-provinces/order-of-twilight-temple-voltara.md>) near Voltara to remove the [Abyssal](<../../cosmology/spiritual-realms/abyss.md>) corruption, with the aid of the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>). 
+
+
+
+
+
 
 
 

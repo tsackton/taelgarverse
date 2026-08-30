@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T23:55:52-04:00'
+lintVersion: '3.5'
 tags: [place]
-aliases: [Firepeaks]
-name: Fiatara Mountains
 typeOf: topographical feature
+typeOfAlias: mountain range
+name: Fiatara Mountains
+aliases: [Firepeaks]
+pronunciation: fya-TAH-rah
 whereabouts: Northwest Coast
 dm_owner: tim
 dm_notes: none
-pronunciation: fya-TAH-rah
-typeOfAlias: mountain range
+POV: modern
 title: Fiatara Mountains
 ---
 # The Fiatara Mountains
@@ -26,7 +29,7 @@ The mountains trend generally north–south, forming a barrier between coastal f
 
 ## Notable Peaks and Sites
 
-- [Goldpeak Mountain](<goldpeak-mountain.md>): The southernmost major peak with extensive [Deepriver Clan](<../../../groups/dwarven-clans/deeprivers.md>) workings beneath, forming the extensive linked shafts and deep caverns of the [Goldpeak Mines](<goldpeak-mines.md>).
+- [Goldpeak Mountain](<goldpeak-mountain.md>): One of the southernmost major peaks, with extensive [Deepriver Clan](<../../../groups/dwarven-clans/deeprivers.md>) workings beneath that form the linked shafts and deep caverns of the [Goldpeak Mines](<goldpeak-mines.md>).
 - [Blacksilver Peak](<blacksilver-peak.md>): A prominent summit in the northern part of the range, often wreathed in storms. Ancient Dwarven approaches lead to a cave system and the so‑called “Endless Stair” rising through the heart of the mountain; legends tie this route to access for [Airion's Floating Tower](<airion-s-floating-tower.md>).
 
 ## Environment and Travel
@@ -36,5 +39,9 @@ Weather in the high country is severe, with sudden storms and treacherous footin
 ## Names
 
 Officially called the Fiatara Mountains by Chardonian mapmakers, softened from the ancient Drankorian *Fiam Tara*, meaning "Fire Crest". The common folk of Voltara, however, often refer to them simply as the Firepeaks. Some old sources use the now-abandoned dwarven name, Khûldram (KOOL-drahm), loosely translated as the "Crown of Hidden Fire". 
+
+
+
+
 
 

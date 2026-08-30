@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T15:54:27-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T15:25:54-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: settlement
 typeOfAlias: city
@@ -23,13 +23,13 @@ title: Castrella
 </div>
 
 
-Castrella is a dramatic city with a rich history, set on Castrella Bay on a narrow strip of flat land just north of the mouth of the [Kedron](<kedron.md>) river, backed by steep hills. The coastal land is dominated by the port itself, and a series of constructed breakwaters. Several dramatic waterfalls cascade down the hills to the north. There is a small bit of agriculture south of the city, across the [Kedron](<kedron.md>) and in the Kerdon delta area, but the wealth of Castrella derives largely from the sea.
+Castrella is a dramatic city with a rich history, set on Castrella Bay on a narrow strip of flat land just north of the mouth of the [Kedron](<kedron.md>) river, backed by steep hills. The coastal land is dominated by the port itself, and a series of constructed breakwaters. Several dramatic waterfalls cascade down the hills to the north. There is a small bit of agriculture south of the city, across the [Kedron](<kedron.md>) and in the Kedron delta area, but the wealth of Castrella derives largely from the sea.
 
 !!! image " "
 	![Castrella and Kedron](/taelgarverse/assets/castrella-and-kedron.webp)
 	*The bustling port of Castrella with the mouth of the Kedron in the foreground*
 
-The city is a bustling port, with thriving docks and market, and is the provincial capital of [Cedrano](<cedrano.md>). Although now overshadowed by [Chardon](<../chardon/chardon.md>) as a maritime power, Castrella retains some of the energy of its historic past as the major maritime power on the [Gulf of Chardon](<../../gulf-of-chardon.md>) in the years before the Great War.
+The city is a bustling port, with thriving docks and market, and is the provincial capital of [Cedrano](<cedrano.md>). Although now overshadowed by [Chardon](<../chardon/chardon.md>) as a maritime power, Castrella retains some of the energy of its historic past as the major maritime power on the [Gulf of Chardon](<../../gulf-of-chardon.md>) in the years before the Great War. Unlike many other parts of Apporia, it was not sacked during the [War of the Dark Rift](<../../../../events/1500s/war-of-the-dark-rift.md>) and it retains many of its historic buildings. 
 
 The most significant feature of Castrella is the Grand Promenade, a stretch of quays, docks, and wharfs that runs from the [Kedron](<kedron.md>) north for over a mile. At the southern end, near the [Kedron](<kedron.md>), this is a bustling port, with sailor's taverns, warehouses, and constant activity. Further north, the Grand Promenade passes the central market of Castrella, and then reaches the elaborate houses of rich merchants at the northern end.
 

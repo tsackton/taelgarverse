@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/gameupdate/dufr]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-08, type: killed}
-name: Evelina
-born: 1691
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person, testcase, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, date: 1748-12-08, type: killed}
+born: 1691
 gender: female
 died: 1748-12-08
+name: Evelina
 affiliations:
 - {org: The Cleansed, end: '9999'}
 whereabouts:
 - {type: away, start: 1748-12-01, end: 1748-12-08, location: Uzgukhar}
 - {type: home, start: '', end: '', location: Chardon}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Evelina
 hide_toc: true
 ---
@@ -40,4 +44,10 @@ hide_toc: true
 
 
 
-A sorcerer and a member of [The Cleansed](<../../groups/the-cleansed.md>).  
+A sorcerer and a member of [The Cleansed](<../../groups/the-cleansed.md>).
+
+
+
+
+
+

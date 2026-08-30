@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T13:33:35-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T18:23:23-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Chardonian
@@ -34,9 +34,7 @@ hide_toc: true
 
 
 
-Amus is a young, brash man, a swift rider who serves the Great Library as a messenger. In DR 1747, Amus was kidnapped by kobolds on the road to Voltara, and [eventually ransomed](<../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-1.md#session-16>) by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>).
-
-
+Amus is a young, brash man, a swift rider who serves with pride as a messenger for the Great Library. In DR 1747, Amus was kidnapped by kobolds on the road to Voltara, and [eventually ransomed](<../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-1.md#session-16>) by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>). Though shaken by his captivity, he was able to warn the Silver Tempests that the kobolds still held the map he had been carrying.
 
 
 

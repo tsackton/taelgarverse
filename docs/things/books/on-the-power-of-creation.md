@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+lintedAt: '2026-08-25T22:52:37-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>', startStatus: completed in}
+tags: [object]
 typeOf: book
 typeOfAlias: cosmological treatise
 ancestry: Stoneborn
+author: Yendalo
+name: On the Power of Creation
+knownTo: []
 dm_owner: none
 dm_notes: none
-author: Yendalo
+POV: modern
 title: On the Power of Creation
 ---
 # On the Power of Creation
@@ -17,6 +22,10 @@ title: On the Power of Creation
 
 The treatise develops this argument through both closely reasoned metaphysics and visionary, mystical imagery. These images are not merely illustrations or metaphors: Yendalo uses them to express relationships that he believes the conventional categories of academic cosmology obscure.
 
-From this perspective, the Divine Veil is both a boundary and a passage. It protects the [Inner Realms](<../../cosmology/planar-concepts/inner-realms.md>) from Creation while allowing Soulstuff to diffuse through it, drawn back toward its source.
+From this perspective, the Divine Veil is both a boundary and a passage. It protects the [Inner Realms](<../../cosmology/planar-concepts/inner-realms.md>) from Creation while allowing [Soulstuff](<../../cosmology/planar-concepts/soulstuff.md>) to diffuse through it, drawn back toward its source.
+
+
+
+
 
 

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T18:44:38-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Dunmari
@@ -40,7 +40,7 @@ hide_toc: true
 Padma is the master of a caravanserai waystation, often called the Darba Gateway Inn by foreign travelers, on the [Tokra-Darba Road](<../../gazetteer/greater-dunmar/roads/tokra-darba-road.md>); it is one of the first waystations on the west side of the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), and well-defended, making it a safe haven from the occasional dangers of the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>).  Given this location, Padma is generally well-positioned to receive and pass along news. 
 
 
-In late July 1748, her caravanserai was briefly cut off from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) by wyverns who had made a nest in the ruined mining town of [Vandar](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>). She was pleased to receive news that [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) had killed the wyverns and the road was clear. 
+In late July 1748, her caravanserai was briefly cut off from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) by wyverns who had made a nest in the ruined mining town of [Vandar](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/vandar.md>). She was pleased to receive news that the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) had killed the wyverns and the road was clear.
 
 
 

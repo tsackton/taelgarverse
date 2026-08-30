@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-20T19:36:26-04:00'
-lintVersion: '3.2'
+lintedAt: '2026-08-23T17:36:36-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: Consumed by Cha'mutte's plague in, wOrigin: '<primary:UA> <ancestry> <typeof:UA> <home:1q>, once part of <origin:rA>', wPastHome: <end> <target>, dPast: ''}
-tags: [place, testcase, status/gameupdate/dufr]
+tags: [place, testcase, status/gameupdate/dufr, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 ancestry: Isinguer
@@ -35,6 +35,8 @@ For many years, the city has lain ruined and desolate; none who venture to explo
 
 
 While flying over Isingue in late DR 1748, the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) discovered that the ruined city of Isingue seems to be currently occupied by some kind of acidic ooze monster, capable of flinging acidic globules strong enough to eat away at stone from hundreds of feet away. 
+
+
 
 
 

@@ -18,6 +18,6 @@ hide_toc: true
 </div>
 
 
-Chironides the Wanderer was a centaur philosopher who proposed and popularized among human scholars the idea that human preaching of hellfire and damnation helped shape the Abyss out of Soulstuff.
+Chironides the Wanderer was a centaur philosopher who proposed and popularized among human scholars the idea that human preaching of hellfire and damnation helped shape the Abyss out of [Soulstuff](<../../cosmology/planar-concepts/soulstuff.md>).
 
 Though Chironides did not leave any written material behind, [Marcion of Iridel](<marcion-of-iridel.md>) drew on their arguments extensively in [The Riven Veil](<../../things/books/the-riven-veil.md>), which remains the primary modern source of Chironides' ideas, at least in scholarly communities.

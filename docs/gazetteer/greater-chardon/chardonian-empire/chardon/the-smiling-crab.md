@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-20T19:36:26-04:00'
-lintVersion: '3.2'
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
 tags: [place]
 typeOf: inn
@@ -19,7 +19,7 @@ title: The Smiling Crab
 </div>
 
 
-A halfling inn in Chardon, catering to halfling travelers.
+A halfling inn in Chardon, catering to halfling travelers. Located on the northern edge of Chardon's docks, near the [Chardon Bridge](<chardon-bridge.md>). 
 
 
 

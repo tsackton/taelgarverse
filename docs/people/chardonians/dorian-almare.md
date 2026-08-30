@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub]
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
+tags: [person, status/stub, status/check/lint]
 species: human
-gender: male
 ancestry: Chardonian
+gender: male
 born: 1697
-dm_notes: important
+name: Dorian Almare
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1749
 title: Dorian Almare
 hide_toc: true
 ---
@@ -19,6 +24,13 @@ hide_toc: true
     { .bio }
 
 </div>
+
+
+
+
+
+
+
 
 
 

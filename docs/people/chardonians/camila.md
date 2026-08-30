@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
-gender: female
 ancestry: Chardonian
 born: 1720
+gender: female
+name: Camila
 whereabouts: Chalyte Levels
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: undated
 title: Camila
 hide_toc: true
 ---
@@ -24,4 +29,11 @@ hide_toc: true
 
 
 [Adina](<adina.md>)'s girlfriend. 
+
+
+
+
+
+
+
 

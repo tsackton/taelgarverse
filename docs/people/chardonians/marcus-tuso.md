@@ -1,22 +1,28 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl]
-name: Marcus Tuso
-ancestry: Chardonian
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person]
 species: human
+ancestry: Chardonian
 gender: male
-whereabouts:
-- {type: home, location: Voltara}
+campaignInfo:
+- {campaign: grli, type: met, date: 1747-09-28}
+name: Marcus Tuso
+pronunciation: MAR-koos TOO-zoh
 affiliations:
 - {org: Voltara Guard, title: Commander}
-campaignInfo:
-- {campaign: GL, type: met, date: 1747-09-28}
+whereabouts:
+- {type: home, location: Voltara}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1747
 title: Marcus Tuso
 hide_toc: true
 ---
 # Marcus Tuso
+:speaker:{ .middle } *(MAR-koos TOO-zoh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -30,3 +36,6 @@ hide_toc: true
 
 
 Marcus Tuso is the local commander of the Voltara Guard. 
+
+
+

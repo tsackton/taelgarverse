@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-24T09:25:51-04:00'
+lintVersion: '3.5'
 tags: [place, status/gameupdate/gl]
-name: Order of Twilight Temple (Voltara)
 typeOf: holy site
+typeOfAlias: temple
+name: Order of Twilight Temple (Voltara)
 whereabouts:
 - {type: primary, location: Northern Provinces}
 dm_owner: none
 dm_notes: none
-typeOfAlias: temple
+POV: 1747
 title: Order of Twilight Temple (Voltara)
 ---
 # The Order of Twilight Temple (Voltara)
@@ -23,4 +26,9 @@ title: Order of Twilight Temple (Voltara)
 		A temple in the [Northern Provinces](<northern-provinces.md>), the [Chardonian Empire](<../../greater-chardon/chardonian-empire/chardonian-empire.md>), [Greater Chardon](<../../greater-chardon/greater-chardon.md>)
 
 Ruins of an [Order of Twilight](<../../../groups/order-of-twilight.md>) temple south‑west of [Voltara](<voltara/voltara.md>), desecrated during the [Blood Years](<../../../events/1500s/blood-years.md>) and later corrupted by an Abyssal breach in the crypts. Reconsecrated in DR 1747 when [Galius Filuso](<../../../people/chardonians/galius-filuso.md>) completed a 24‑hour casting of Hallow, defended by the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>). 
+
+
+
+
+
 

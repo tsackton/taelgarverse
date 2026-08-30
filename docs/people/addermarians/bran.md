@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-23T12:50:50-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Addermarian
 born: 1706
@@ -40,10 +40,6 @@ hide_toc: true
 A villager of [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), child of the charcoal‑maker [Karl](<karl.md>) and [Isolde of Haldrenn](<isolde-of-haldrenn.md>).
 ## Events
 - May 17, 1715 DR: [Reported the Hollow Men rhyme](<../../campaigns/addermarch-campaign/addermarch-session-11.md>) and the disappearance of [Rowena](<rowena.md>) to [visitors](<../pcs/addermarch/addermarch-mercenaries.md>) in Haldrenn.
-
-
-
-
 
 
 

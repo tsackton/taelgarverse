@@ -1,17 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Drusa
-born: 1711
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-07-02}
+born: 1711
 gender: female
+name: Drusa
 whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-05-01, location: Tokra}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Drusa
 hide_toc: true
 ---
@@ -30,8 +35,19 @@ hide_toc: true
 
 
 
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 2nd, 1748 Unknown  
+
+
+
 
 A Chardonian wizard on loan to the Dunmari army of [Nayan Karnas](<../dunmari/nayan-karnas.md>), commanded by [Illyan](<../dunmari/illyan.md>), in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 
 Does not particularly like the party given their attempt to scry on [Illyan](<../dunmari/illyan.md>), which Drusa detected, and their refusal to agree to simple magic protocols. 
+
+
+
+
+
+
+
 

@@ -17,11 +17,11 @@ As undeath has major implications for the fate of souls, most religions have som
 
 From a scholarly, theological point of view, there is a major distinction between the lesser corporeal undead, the incorporeal undead, and the greater corporeal undead, having to do with the nature of souls. 
 
-All sentient beings possess a soul, made of soulstuff and gifted by the [Divine Presence](<../../gods-and-religions/gods/high-gods/divine-presence.md>), whether directly or indirectly; in all known religious texts, it is understood that this soul seeks to return to the divine after death. Many religious traditions aim to ease this journey, which requires the soul to enter the [Land of the Dead](<../../cosmology/land-of-the-dead.md>), and navigate through that place to reach the [Divine Realms](<../../cosmology/spiritual-realms/divine-realms.md>). 
+All sentient beings possess a soul, made of [soulstuff](<../../cosmology/planar-concepts/soulstuff.md>) and gifted by the [Divine Presence](<../../gods-and-religions/gods/high-gods/divine-presence.md>), whether directly or indirectly; in all known religious texts, it is understood that this soul seeks to return to the divine after death. Many religious traditions aim to ease this journey, which requires the soul to enter the [Land of the Dead](<../../cosmology/land-of-the-dead.md>), and navigate through that place to reach the [Divine Realms](<../../cosmology/spiritual-realms/divine-realms.md>). 
 
 ### Lesser Corporeal Undead 
 
-The lesser corporeal undead, such as zombies and skeletons, are theologically unproblematic, as these are simply reanimated dead bodies devoid of souls. Most cultures still consider the magic required to reanimate the dead to be unsavory, if not downright evil; in some cases, such as ghouls and ghasts, the reanimation process can instill an insatiable hunger for the living. To the extent that these reanimated bodies have intelligence and will, it is, like other magical constructs, provided by the animating magic itself, not Soulstuff. 
+The lesser corporeal undead, such as zombies and skeletons, are theologically unproblematic, as these are simply reanimated dead bodies devoid of souls. Most cultures still consider the magic required to reanimate the dead to be unsavory, if not downright evil; in some cases, such as ghouls and ghasts, the reanimation process can instill an insatiable hunger for the living. To the extent that these reanimated bodies have intelligence and will, it is, like other magical constructs, provided by the animating magic itself, not [Soulstuff](<../../cosmology/planar-concepts/soulstuff.md>). 
 
 ### Incorporeal Undead
 

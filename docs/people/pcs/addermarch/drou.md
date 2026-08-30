@@ -1,18 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: elf
 gender: female
 ddbLink: https://www.dndbeyond.com/characters/131356005
 player: Kate Sackton
 ka: 37
+name: Drou
 affiliations:
 - {type: primary, org: Addermarch Mercenaries}
-dm_owner: player
-dm_notes: none
 whereabouts:
 - {type: home, location: Orenlas}
 - {type: home, location: Addermarch}
+knownTo: [adma]
+dm_owner: player
+dm_notes: none
+POV: 1715
 title: Drou
 hide_toc: true
 ---
@@ -29,5 +34,12 @@ hide_toc: true
 </div>
 
 
-![Drou Large](/taelgarverse/assets/drou-large.webp){align="right"; width="400"}Drou is a graceful dancer, singer, and musician from [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>), who has wandering around [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) and [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>) bringing joy to people's lives through music and dance. 
+![Drou Large](/taelgarverse/assets/drou-large.webp){align="right"; width="400"}Drou is a graceful dancer, singer, and musician from [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>), who has wandered around [Tyrwingha](<../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) and [Addermarch](<../../../gazetteer/greater-sembara/addermarch/addermarch.md>) bringing joy to people's lives through music and dance.
+
+
+
+
+
+
+
 

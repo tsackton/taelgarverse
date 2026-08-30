@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:40:59-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
 tags: [place]
 typeOf: neighborhood
@@ -22,6 +22,7 @@ title: Precinct VII
 
 
 Precinct VII is nestled along the [South Bank](<south-bank.md>) of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), downriver of the quays and wharves of the thriving port, and across the river from the [Bastion](<bastion-quarter.md>). The [River Bridge](<river-bridge-chardon.md>) connects Precinct VII to the [Bastion Quarter](<bastion-quarter.md>) and the [north road](<../north-road.md>).
+
 
 
 

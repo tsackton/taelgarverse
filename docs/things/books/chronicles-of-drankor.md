@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+lintedAt: '2026-08-25T22:52:37-04:00'
+lintVersion: '3.5'
+displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AUn><(, by )author:x>', startStatus: Completed in}
+tags: [object, status/check/lint]
 typeOf: book
 typeOfAlias: historical chronicle
 ancestry: Chardonian
-name: Cavarrio's Chronicles of Drankor
-displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AUn><(, by )author:x>', startStatus: Completed in}
 created: 1209
-dm_notes: none
-dm_owner: none
 author: Cavarrio
+name: Cavarrio's Chronicles of Drankor
+knownTo: [dufr]
+dm_owner: none
+dm_notes: none
+POV: modern
 title: Cavarrio's Chronicles of Drankor
 ---
 # Cavarrio's Chronicles of Drankor
@@ -55,11 +59,11 @@ There is also a long discussion of the arc of Drankorian history, which Cavarrio
 | Edrae (f) | Golden Age | Peronar | the child emperor, magically cursed to never age, reigned for years as a child |  | 684 |
 | Miluinis the Gentle (f) | Golden Age |  |  | 684 | 701 |
 | Ernault (m) | Golden Age | Non-Hkar | first non-Hkar ruler | 701 | 762 |
-| Aglir (m) | Golden Age | Peronar | one of the last Peronar rulers, his reign was considered an echo fo the First Peace and the reign of Malrin | 762 | 811 |
+| Aglir (m) | Golden Age | Peronar | one of the last Peronar rulers, his reign was considered an echo of the First Peace and the reign of Malrin | 762 | 811 |
 | Pelois (m) and Cekious (f) | Golden Age | Hkar | twins; ruled together; died in battle against a planar incursion | 811 | 820 |
 | Melisende (f) | Golden Age | Non-Hkar | second non-Hkar ruler | 820 | 855 |
 | Alador the Elf Friend (m) | Golden Age | Hkar | strong ruler | 855 | 879 |
-| Imrodel (f) | Golden Age | Peronar | her daugher Tariele died young and never ruled; historians mark this as beginning of end of Golden Age | 879 |  |
+| Imrodel (f) | Golden Age | Peronar | her daughter Tariele died young and never ruled; historians mark this as beginning of end of Golden Age | 879 |  |
 | Eiphis the Blind (m) | Golden Age | Hkar | came to the throne late in life; founded University of Chardon |  | 943 |
 | Helea (f) | Golden Age | Non-Hkar | her murder by mysterious forces started a civil war | 943 | 965 |
 | Ysabel (f) | Decline | Non-Hkar | ally of Helea; defeated in civil war; known as the Pretender in later years | 965 | 971 |
@@ -72,3 +76,9 @@ There is also a long discussion of the arc of Drankorian history, which Cavarrio
 | Apollyon (m) | Decline | Hkar |  | 1011 | 1059 |
 <!-- TBLFM: $7=($6-$5) -->
 <!-- TBLFM: $8=($5+4133) -->
+
+
+
+
+
+

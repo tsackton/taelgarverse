@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
-tags: [person, status/check/lint, status/check/mike]
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/mike, status/check/lint]
 species: lizardfolk
 ancestry:
 gender: female

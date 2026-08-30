@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate/gl]
-name: Greater Voltara
+lintedAt: '2026-08-23T23:55:52-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
+tags: [place, status/gameupdate/gl, status/check/lint]
+typeOf: realm
+typeOfAlias: province
+name: Greater Voltara
 whereabouts:
 - {type: primary, location: Northern Provinces}
 - {type: secondary, location: Northwest Coast}
-typeOf: realm
-dm_notes: none
 dm_owner: none
-typeOfAlias: province
+dm_notes: none
+POV: 1747
 title: Greater Voltara
 ---
 # Greater Voltara
@@ -29,4 +32,11 @@ Greater Voltara extends in the east to the [Snake River](<../../major-rivers/cha
 - [Pietravola Abbey](<pietravola-abbey.md>) — Ruined abbey outside Voltara.
 - [Lonely Watchtower](<lonely-watchtower.md>) — Former orc raiding base during DR 1747 activity in the hinterlands.
 - [Order of Twilight Temple (Voltara)](<order-of-twilight-temple-voltara.md>) — Desecrated temple outside [Voltara](<voltara/voltara.md>) cleansed and reconsecrated in DR 1747 by [Galius Filuso](<../../../people/chardonians/galius-filuso.md>) and the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>).
+
+
+
+
+
+
+
 

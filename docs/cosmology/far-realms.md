@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:38:37-04:00'
+lintVersion: '3.5'
 tags: [background]
+name: Far Realms
 dm_owner: joint
 dm_notes: none
+POV: modern
 title: Far Realms
 ---
 # Far Realms
@@ -12,6 +16,10 @@ It is well-known that some ancient horrors, most notably [Mind Flayers](<../crea
 Few scholars study such places: the most famous work on the subject, the [Zhâruk Akhâl](<../things/books/zharuk-akhal.md>), is said to drive those who dare read its secrets mad. However, most arcane cosmologists believe there are many distinct Far Realms. The ancient dwarven scholar [Thardrum Deepseeker](<../people/historical-figures/thardrum-deepseeker.md>) even claimed that not all of the Far Realms need be home to dangerous and evil creatures. History does not record Thardrum's fate, but his work was rediscovered in [Isingue](<../gazetteer/upper-istaros/isingue.md>) before the [Great War](<../events/1500s/great-war.md>). Although largely dismissed by the [Faculty of Metaphysics](<../groups/chardonian-organizations/faculty-of-metaphysics.md>), [Nicole Ardouin](<../people/tollenders/nicole-ardouin.md>) of the [University of Tollen](<../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>) maintained that "good" and "evil" are not the right metrics to judge such alien realms. In her seminal work, [The Exposition of the Alien Mind](<../things/books/the-exposition-of-the-alien-mind.md>), she argues that some of the Far Realms are home to beings who -- if only they could be communicated with -- could bring much new knowledge to the world.
 
 The fact that she never returned from a research expedition to the [Marches of Enford](<../gazetteer/greater-sembara/sembara/western-marches/marches-of-enford.md>) has kept her work marginal.
+
+
+
+
 
 
 

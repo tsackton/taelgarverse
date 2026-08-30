@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:38:37-04:00'
+lintVersion: '3.5'
 tags: [background]
+name: Divine Realms
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Divine Realms
 ---
 # Divine Realms
@@ -11,7 +15,7 @@ Theological cosmologists, dating back to the influential Drankorian work [On the
 
 The [Embodied Gods](<../../gods-and-religions/gods/embodied-gods/embodied-gods.md>), as even a cursory knowledge of theology reveals, must have some extraplanar locus of their power, independent from the [Divine Presence](<../../gods-and-religions/gods/high-gods/divine-presence.md>). All have heard the stories of [dwarves](<../../creatures/species/dwarves.md>) traveling to the divine locus of the [Bahrazel](<../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>), which they call the [Heart of the Mountain](<heart-of-the-mountain.md>); or the tales of the strange powers of ancestral memory the [halflings](<../../creatures/species/halflings.md>) possess from being able to access the divine locus of the [First Ones](<../../gods-and-religions/gods/embodied-gods/first-ones/first-ones.md>). These extraplanar places, the homes of the [Embodied Gods](<../../gods-and-religions/gods/embodied-gods/embodied-gods.md>), are referred to as the Divine Realms in the [Standard Multiversal Model](<../planar-concepts/standard-multiversal-model.md>). 
 
-The nature of the [Incorporeal Gods](<../../gods-and-religions/gods/incorporeal-gods/incorporeal-gods.md>), however, has long been a puzzle and matter of contention about theologians and philosophers. The current theological consensus, at least among scholars of the [Eight Divines](<../../gods-and-religions/religions/mos-numena/mos-numena.md>), suggests that [Incorporeal Gods](<../../gods-and-religions/gods/incorporeal-gods/incorporeal-gods.md>) are best though of as manifestations of the [Divine Presence](<../../gods-and-religions/gods/high-gods/divine-presence.md>) itself, with memory and an independent mind and power, but located within the nexus of the [Plane of Creation](<../plane-of-creation.md>) itself. Indeed, the famous first stanza of the ancient [Mos Numenan](<../../gods-and-religions/religions/mos-numena/mos-numena.md>) lyrical poem, "[Blossom of the Eightfold Light](<../../things/books/blossom-of-the-eightfold-light.md>)," hints at the connected nature of the Divine Realm with the Plane of Creation:
+The nature of the [Incorporeal Gods](<../../gods-and-religions/gods/incorporeal-gods/incorporeal-gods.md>), however, has long been a puzzle and matter of contention among theologians and philosophers. The current theological consensus, at least among scholars of the [Eight Divines](<../../gods-and-religions/religions/mos-numena/mos-numena.md>), suggests that [Incorporeal Gods](<../../gods-and-religions/gods/incorporeal-gods/incorporeal-gods.md>) are best thought of as manifestations of the [Divine Presence](<../../gods-and-religions/gods/high-gods/divine-presence.md>) itself, with memory and an independent mind and power, but located within the nexus of the [Plane of Creation](<../plane-of-creation.md>) itself. Indeed, the famous first stanza of the ancient [Mos Numenan](<../../gods-and-religions/religions/mos-numena/mos-numena.md>) lyrical poem, "[Blossom of the Eightfold Light](<../../things/books/blossom-of-the-eightfold-light.md>)," hints at the connected nature of the Divine Realm with the Plane of Creation:
 
 *Not sundered, nor a realm apart, but rising,*  
 *Rooted in light, yet swayed by unseen currents,*  
@@ -19,4 +23,9 @@ The nature of the [Incorporeal Gods](<../../gods-and-religions/gods/incorporeal-
 *Ever in flower.*
 
 Whether theologians of the most prominent other human religion, the [Dunmari Religion](<../../gods-and-religions/religions/five-siblings/dunmari-religion.md>) of the [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), agree, is unknown, as the [Dunmari Mystai](<../../groups/dunmari-mystery-cults/dunmari-mystery-cults.md>) do not share their secret knowledge with outsiders. 
+
+
+
+
+
 

@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-20T19:36:26-04:00'
-lintVersion: '3.2'
-tags: [place, status/check/lint]
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
+tags: [place, status/check/ai]
 typeOf: region
 name: Chasa River Valley
 whereabouts: Chardonian Empire
 dm_owner: tim
-dm_notes: none
+dm_notes: color
 POV: 1748
 title: Chasa River Valley
 ---
@@ -17,7 +17,7 @@ title: Chasa River Valley
 </div>
 
 
-The Chasa river valley is a broad, fertile basin, a major agricultural heartland of the [Chardonian Empire](<../chardonian-empire.md>), where terraced vineyards and fields of grain spread from the  lowlands near [Chardon](<../chardon/chardon.md>) and the confluence of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>) and the [Nahadi](<../../../major-rivers/chasa-nahadi-watershed/nahadi.md>), to the gentle foothills of the interior. Winters are soft and rain-laden; summers arrive warm and bright, yielding long growing seasons that make the region famed for its wines. Inland, the seasons sharpen, with hot summer afternoons and occasional frosts in winter, yet rainfall remains ample, feeding vast evergreen forests. The valley’s mosaic of rich soils, reliable rains, and varied elevations underpins a thriving agrarian culture and busy river trade.
+The Chasa river valley is a broad, fertile basin, a major agricultural heartland of the [Chardonian Empire](<../chardonian-empire.md>), where terraced vineyards and fields of grain spread from the lowlands near [Chardon](<../chardon/chardon.md>) and the confluence of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>) and the [Nahadi](<../../../major-rivers/chasa-nahadi-watershed/nahadi.md>), to the gentle foothills of the interior. Winters are soft and rain-laden; summers arrive warm and bright, yielding long growing seasons that make the region famed for its wines. Inland, the seasons sharpen, with hot summer afternoons and occasional frosts in winter, yet rainfall remains ample, feeding vast evergreen forests. The valley’s mosaic of rich soils, reliable rains, and varied elevations underpins a thriving agrarian culture and busy river trade.
 
 
 
@@ -34,8 +34,6 @@ The Chasa Valley runs from the coastward confluence at **Metium**—closest to C
 Though the Chasa valley suffered terribly during the [Great War](<../../../../events/1500s/great-war.md>) and the [Conclave War](<../../../../events/1500s/conclave-war.md>), the villages and towns of this region have thrived in the past few generations, becoming one of the empire’s great granaries. Heavily depopulated during the wars, most folk living here now are Chardonian, though some trace a mixed ancestry to the patchwork of city states and small kingdoms that occupied this region before the [Great War](<../../../../events/1500s/great-war.md>). This is an agrarian land, where people work a varied countryside of grainfields, orchards, berry-rows, vineyards, and cattle pasture. Farther upstream, as the land gets more densely wooded, the economy shifts to timbering, and the trades of hides, furs, and leather. 
 
 Small villages dot the valley every few miles, a handful of homes and farmsteads clustered near a small shrine or temple, where travelers can usually buy food or find a barn-loft for the night. Every day’s walk or so, a chartered market town gathers trade, with gridded streets, a proper square, baths, at least one temple, and an elected magistrate who keeps the peace and tallies the taxes. Larger towns may raise a palisade and host a garrison, projecting order across rings of outlying farms and riverside hamlets.
-
-
 
 
 

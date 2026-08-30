@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T22:52:37-04:00'
+lintVersion: '3.5'
+displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AU><(, written )written:nx><(, by )author:x>', startStatus: written in}
 tags: [object]
 typeOf: book
 typeOfAlias: play
 ancestry: Tollish
-displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AU><(, written )written:nx><(, by )author:x>', startStatus: written in}
-dm_owner: none
-dm_notes: none
 author: Thomas Hawke
 created: 1744
+name: Luminastra's Gift
+knownTo: [dufr]
+dm_owner: none
+dm_notes: none
+POV: modern
 title: Luminastra's Gift
 ---
 # Luminastra's Gift
@@ -21,3 +26,7 @@ title: Luminastra's Gift
 A popular comedic play written by [Thomas Hawke](<../../people/tollenders/thomas-hawke.md>), a playwright in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>). The play tells the story of Geoffrey, a down-on-his-luck sailor shipwrecked by carelessness in a storm on the Green Sea, and Luminastra, a whale endowed with magic, who rescues him and takes him to a magical world beneath the ocean. Over the course of the play, Geoffrey encounters various strange wonders far beneath the ocean, and comes to earn a second chance. By the end, he is returned to the surface world a changed man.
 
 The inspiration for this play, according to [Thomas Hawke](<../../people/tollenders/thomas-hawke.md>), was in part the rumors and songs from [Apporia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>) of a garden of magical jade beneath the oceans, tended by [Merfolk](<../../creatures/species/merfolk.md>) who could grow names.
+
+
+
+

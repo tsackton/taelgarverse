@@ -1,17 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+displayDefaults: {defArt: ''}
 tags: [person]
 species: human
 ancestry: Chardonian
 gender: male
-displayDefaults: {defArt: ''}
+name: Orsino
+pronunciation: or-SEE-noh
 whereabouts: Chalyte Levels
-dm_notes: none
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1749
 title: Orsino
 hide_toc: true
 ---
 # Orsino
+:speaker:{ .middle } *(or-SEE-noh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -23,4 +30,8 @@ hide_toc: true
 
 
 An informal leader of day-laborers in the Chalyte Levels.
+
+
+
+
 

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:22:55-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T18:23:23-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Addermarian
@@ -44,6 +44,7 @@ Hildo was the marshal of [Torvaine Watch](<../../gazetteer/greater-sembara/adder
 ## Events
 - Apr 01, 1715 DR: Killed by the corrupted Sir Einrik while defending Torvaine Watch.
 - Apr 28, 1715 DR: [Body recovered](<../../campaigns/addermarch-campaign/addermarch-session-02.md>) and honored by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) before leaving the fort.
+
 
 
 

@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:38:37-04:00'
+lintVersion: '3.5'
+displayDefaults: {wSecondary: 'Sometimes considered part of <secondary:1>'}
 tags: [place]
+typeOf: plane
 name: Land of the Dead
 aliases: [River of Souls, Divine Veil]
-displayDefaults: {wSecondary: 'Sometimes considered part of <secondary:1>'}
 whereabouts:
 - {type: home, location: Multiverse, wHome: 'A <typeOf> in the <home:1s>'}
 - {type: secondary, location: Astral Plane}
-typeOf: plane
-dm_notes: none
 dm_owner: tim
+dm_notes: none
+POV: modern
 title: Land of the Dead
 ---
 # The Land of the Dead
@@ -40,14 +43,14 @@ In most religious traditions around Taelgar, the Land of the Dead is of key theo
 
 ### The Divine Veil
 
-Famously, [Yendalo](<../people/historical-figures/yendalo.md>) the [Stoneborn](<../creatures/species/stoneborn.md>) forcibly argued in his treatise [On the Power of Creation](<../things/books/on-the-power-of-creation.md>) that the Land of the Dead is, from a cosmological point of view, best understood of as a veil that shields the [Inner Realms](<planar-concepts/inner-realms.md>) from the full onslaught of the divine power of Creation. Indeed, its appearance and role as a gathering place of the dead is purely coincidental: as souls are, naturally, made of Soulstuff, it simply takes time for souls to diffuse through the barrier of the Divine Veil. As evidence, [Yendalo](<../people/historical-figures/yendalo.md>) pointed to the observation that all depictions of the Land of the Dead share some kind of motive force, something that pulls or attracts souls, which he interprets as the longing of Soulstuff to return to the [Plane of Creation](<plane-of-creation.md>). 
+Famously, [Yendalo](<../people/historical-figures/yendalo.md>) the [Stoneborn](<../creatures/species/stoneborn.md>) forcibly argued in his treatise [On the Power of Creation](<../things/books/on-the-power-of-creation.md>) that the Land of the Dead is, from a cosmological point of view, best understood as a veil that shields the [Inner Realms](<planar-concepts/inner-realms.md>) from the full onslaught of the divine power of Creation. Indeed, its appearance and role as a gathering place of the dead is purely coincidental: as souls are, naturally, made of [Soulstuff](<planar-concepts/soulstuff.md>), it simply takes time for souls to diffuse through the barrier of the Divine Veil. As evidence, [Yendalo](<../people/historical-figures/yendalo.md>) pointed to the observation that all depictions of the Land of the Dead share some kind of motive force, something that pulls or attracts souls, which he interprets as the longing of [Soulstuff](<planar-concepts/soulstuff.md>) to return to the [Plane of Creation](<plane-of-creation.md>).
 
-While most theologians reject the idea that the Journey of Souls is simply the mechanical process of Soulstuff diffusing across a cosmological barrier, it is generally accepted that Divine power flows far more easily though the channels provided by souls, and that for deities to manifest the power of creation directly in the [Material Plane](<material-plane.md>) often carries a great cost. Thus, it only through link through the barrier of the Land of the Dead provided by the connection between the Divine and the Soulstuff of the [Plane of Souls](<plane-of-souls.md>) that most miracles occur, although there are [dramatic exceptions](<../primary-sources/founding-of-dunmar.md>). 
+While most theologians reject the idea that the Journey of Souls is simply the mechanical process of [Soulstuff](<planar-concepts/soulstuff.md>) diffusing across a cosmological barrier, it is generally accepted that Divine power flows far more easily through the channels provided by souls, and that for deities to manifest the power of creation directly in the [Material Plane](<material-plane.md>) often carries a great cost. Thus, most miracles occur only through the link across the barrier of the Land of the Dead provided by the connection between the Divine and the [Soulstuff](<planar-concepts/soulstuff.md>) of the [Plane of Souls](<plane-of-souls.md>), although there are [dramatic exceptions](<../primary-sources/founding-of-dunmar.md>).
 ### Inhabitants of the Land of the Dead
 
 *See more: [Gidari](<../creatures/extraplanar/gidari.md>)*
 
-The Gidari are strange creatures, rarely encountered by mortals, but frequently described by those who return from death. They are the guardians, protectors, and guides of souls while they traverse the [Land of the Dead](<land-of-the-dead.md>). They make sure that these souls reach their destination beyond the veil, and they prevent interference with the journey of souls. While Gidari take no sides in the conflicts over mortal souls, they are implacable enemies of those would violate the sanctity of dead souls.
+The Gidari are strange creatures, rarely encountered by mortals, but frequently described by those who return from death. They are the guardians, protectors, and guides of souls while they traverse the [Land of the Dead](<land-of-the-dead.md>). They make sure that these souls reach their destination beyond the veil, and they prevent interference with the journey of souls. While Gidari take no sides in the conflicts over mortal souls, they are implacable enemies of those who would violate the sanctity of dead souls.
 
 
 ### Traveling to the Land of the Dead
@@ -55,6 +58,11 @@ The Gidari are strange creatures, rarely encountered by mortals, but frequently 
 Tales of the living traveling to the Land of the Dead, and safely returning, are few and far between. Indeed, as reported by the [Philosopher's Guild](<../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>), the living run great risks in traveling to the Land of the Dead. Living bodies cannot sustain themselves in the Land of the Dead: water turns to dust, food to ash, and sleep is impossible, though the body does not stop needing these things to survive. Thus, travelers to the Land of the Dead, if they do not leave quickly, find themselves wasting away. 
 
 Worse, being on the Land of the Dead for more than a short time saps the will of a living soul to remain alive. Over time, the will to live and connection to the living world fades, and the body falls away, revealing the soul laid bare, dead. 
+
+
+
+
+
 
 
 

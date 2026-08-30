@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:38:37-04:00'
+lintVersion: '3.5'
 tags: [place]
-aliases: [Prime Material Plane, Prime Realm, Mundane Realm, Mundane World]
 typeOf: plane
+name: Material Plane
+aliases: [Prime Material Plane, Prime Realm, Mundane Realm, Mundane World]
 whereabouts:
 - {type: home, location: Multiverse, wHome: 'A <typeOf> in the <home:1s>'}
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Material Plane
 ---
 # The Material Plane
@@ -15,7 +19,7 @@ title: Material Plane
 </div>
 
 
-The Material Plane, sometimes called the Prime Material Plane or simply the Prime Realm, is the name traditionally given to the plane in which the world of Taelgar, and possibly other words, exist. The Material Plane, along with its spiritual counterpart the [Plane of Souls](<plane-of-souls.md>), is considered by almost all scholars to be the center of the [Multiverse](<multiverse.md>). This pair of planes - the material and the spiritual - is where the [Astral Plane](<astral-plane.md>) and [Ethereal Plane](<ethereal-plane.md>) intersect, and is believed by theological cosmologists to be the home for life to thrive created by the [Divine Presence](<../gods-and-religions/gods/high-gods/divine-presence.md>) during the Riving. 
+The Material Plane, sometimes called the Prime Material Plane or simply the Prime Realm, is the name traditionally given to the plane in which the world of Taelgar, and possibly other worlds, exist. The Material Plane, along with its spiritual counterpart the [Plane of Souls](<plane-of-souls.md>), is considered by almost all scholars to be the center of the [Multiverse](<multiverse.md>). This pair of planes - the material and the spiritual - is where the [Astral Plane](<astral-plane.md>) and [Ethereal Plane](<ethereal-plane.md>) intersect, and is believed by theological cosmologists to be the home for life to thrive created by the [Divine Presence](<../gods-and-religions/gods/high-gods/divine-presence.md>) during the Riving.
 
 !!! danger "Minority Opinions about the Material Plane"
 	Despite the clear centrality of the Material Plane in most multiversal models, there remain some scholars who question the standard depictions accepted by both arcane and theological cosmologists.
@@ -24,5 +28,9 @@ The Material Plane, sometimes called the Prime Material Plane or simply the Prim
 	#### The Mundane World
 	It must be noted that many [Fey](<../creatures/fey/fey.md>) find the standard depictions of cosmology that place the Material Plane in the center of the [Multiverse](<multiverse.md>) to be quite amusing. The fey often refer to the Material Plane as the Mundane World or the Mundane Realm, considering it a pale, diminished echo or distortion of their own, admittedly more magical, home of the [Feywild](<feywild.md>).  However, no serious scholarship accepts the Material Plane itself as an [Echo Realm](<demiplanes-and-echo-realms/echo-realms.md>) of the [Feywild](<feywild.md>).
 	
+
+
+
+
 
 

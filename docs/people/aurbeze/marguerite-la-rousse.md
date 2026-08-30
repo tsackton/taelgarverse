@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1749-08-07, type: met}
-name: Marguerite la Rousse
-born: 1711
 species: human
 ancestry: Aurbeze
+campaignInfo:
+- {campaign: dufr, date: 1749-08-07, type: met}
+born: 1711
 gender: female
-aliases:
+name: Marguerite la Rousse
+aliases: []
+pronunciation: mar-guh-REET la ROUSE
 whereabouts:
 - {type: home, location: Aurbez Plateau}
 - {type: away, start: 1749-08-06, end: 1749-08-07, location: Three Wells}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
-pronunciation: mar-guh-REET la ROUSE
+POV: 1749
 title: Marguerite La Rousse
 hide_toc: true
 ---
@@ -40,5 +44,9 @@ hide_toc: true
 She is a sun-browned woman with red hair, typically wearing her worn but carefully maintained brigandine armor. She carries an ash halberd and often wears a homespun scarf knotted like a banner.
 ## Events
 - Aug 07, 1749 DR: Joined the war council in [Three Wells](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/three-wells.md>), called to answer the [Empress of Chaos](<../other-nonhumans/empress-of-chaos.md>), where she argued for resistance and for defending the plateau approaches.
+
+
+
+
 
 

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Urskan
@@ -34,7 +34,7 @@ hide_toc: true
 </div>
 
 
-Radomir is an Urskan man who is principly notable for having found a [strange piece of jade](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>) on the edge of vast glacier in the [Yengorza Mountains](<../../gazetteer/northern-green-sea/ursk/yengorza-mountains.md>). He carried this item for several years, but it haunted his dreams, and eventually he fled [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>), looking for a way to destroy it. After many years of travel, the tales of which are largely lost, he ended up back in Ursk. By DR 1749, Radomir was living alone near a snowy forest village, in poor health and under the watch of the Rodnya Voknaz, who had taken the jade from him. He had little contact with anyone, although his sister Yelena sometimes brought medicine.
+Radomir is an Urskan man who is principally notable for having found a [strange piece of jade](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>) on the edge of a vast glacier in the [Yengorza Mountains](<../../gazetteer/northern-green-sea/ursk/yengorza-mountains.md>). He carried this item for several years, but it haunted his dreams, and eventually he fled [Ursk](<../../gazetteer/northern-green-sea/ursk/ursk.md>), looking for a way to destroy it. After many years of travel, the tales of which are largely lost, he ended up back in Ursk. By DR 1749, Radomir was living alone near a snowy forest village, in poor health and under the watch of the Rodnya Voknaz, who had taken the jade from him. He had little contact with anyone, although his sister Yelena sometimes brought medicine.
 
 His ultimate fate is unknown. One tale of his adventures is recorded below. 
 

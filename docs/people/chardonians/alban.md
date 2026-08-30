@@ -1,22 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo:
-- {campaign: dufr, date: 1748-04-15, type: grave discovered}
-name: Alban
-born: 1719
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, date: 1748-04-15, type: grave discovered}
+born: 1719
 gender: male
 died: 1748-03-18
+name: Alban
 affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1747-12-23, end: 1748-02-02, prefix: traveling in, location: Yeraad River Basin}
 - {type: away, start: 1748-02-02, end: 1748-03-13, prefix: traveling in, location: Dunmar}
 - {type: away, start: 1748-03-13, end: 9999, location: Stormcaller Tower}
-dm_notes: color
+knownTo: [dufr]
 dm_owner: none
+dm_notes: color
+POV: 1748
 title: Alban
 hide_toc: true
 ---
@@ -46,6 +50,13 @@ An adventurer associated with the [Society of the Open Scroll](<../../groups/cha
 
 Traveled with [Dee Wildcloak](<../halflings/dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) to [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), where he was killed. 
 ## Chronology
+
+
+
+
+
+
+
 
 
 

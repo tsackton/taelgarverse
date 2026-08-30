@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:22:55-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T18:23:23-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Addermarian
@@ -43,6 +43,7 @@ hide_toc: true
 Helen is the temple administrator for the small temple to [The Mother](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-mother.md>) in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), and a collector of fey lore. She presides over community rites and maintains oral histories of fey activity in the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), including tales of the [Briarheart](<../extraplanar-powers/archfey/morlaith.md>).
 ## Events
 - May 17, 1715 DR: Presided over the funeral rites for [Olay](<olay.md>), which were interrupted by an [worg attack](<../../campaigns/addermarch-campaign/addermarch-session-12.md>).
+
 
 
 

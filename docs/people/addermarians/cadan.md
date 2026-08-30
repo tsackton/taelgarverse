@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:22:55-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T18:23:23-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Addermarian
@@ -36,6 +36,7 @@ hide_toc: true
 
 
 Cadan was a ranger of western Addermarch who died at [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>) during the later fighting of the [Serpentine Wars](<../../events/1300s/serpentine-wars.md>), after the [Dominion of Avatus](<../../history/historical-realms/dominion-of-avatus.md>) occupied the region. His name survives carved into the stone memorial that [Arvanko](<../other-nonhumans/arvanko.md>) is shaping on [his hilltop](<../../gazetteer/greater-sembara/addermarch/arvanko-s-homestead.md>) east of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>).
+
 
 
 

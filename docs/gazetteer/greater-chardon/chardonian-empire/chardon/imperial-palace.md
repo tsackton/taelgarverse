@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T19:01:27-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T15:25:54-04:00'
+lintVersion: '3.5'
 tags: [place, status/cleanup/text]
 typeOf: building
 typeOfAlias: palace
@@ -24,7 +24,6 @@ title: Imperial Palace
 The Imperial Palace of [Chardon](<chardon.md>) crowns the [South Bank](<south-bank.md>), occupying a prominent position among the city’s many towers and monuments. It serves as the [Magistros](<../../../../people/chardonians/mitus-verina-auratan.md>)’s seat and the administrative hub of the Empire’s heartland, receiving envoys, issuing decrees, and coordinating the defense and civic order.
 
 Inside, the palace is a mix of grand, opulent halls used for state occasions, and inner passages that narrow toward working offices and the Magistros’ private spaces. The Magistros’ own chamber is kept austere and sunlit, favoring clarity and conversation over ornament. Colonnades, courtyards, and elevated galleries provide controlled movement between public audience spaces and secured inner wards.
-
 
 
 

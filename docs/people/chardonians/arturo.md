@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
 tags: [person, status/gameupdate/gl]
-name: Arturo
+species: human
+ancestry: Chardonian
 gender: male
 born: 1737
-ancestry: Chardonian
-species: human
+campaignInfo:
+- {campaign: grli, type: met, date: 1748-09-18}
+name: Arturo
 whereabouts:
 - {type: home, start: 1748-09-18, location: Castrella}
-campaignInfo:
-- {campaign: GL, type: met, date: 1748-09-18}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Arturo
 hide_toc: true
 ---
@@ -30,4 +34,9 @@ hide_toc: true
 
 
 Arturo is an orphan living in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>). After fleeing trouble along the upper [Kedron](<../../gazetteer/greater-chardon/chardonian-empire/apporia/kedron.md>) with [Camile](<camile.md>), he found work and refuge at [The Whale's Spout](<../../gazetteer/greater-chardon/chardonian-empire/apporia/the-whale-s-spout.md>), a tavern run by [Old Leo](<old-leo.md>) and known for taking in orphans.
+
+
+
+
+
 

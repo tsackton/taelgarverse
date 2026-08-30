@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Deno'qai
@@ -37,6 +37,7 @@ hide_toc: true
 The former Godcaller of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>), who found a [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>). He refused to turn it over to [Grimbaskal](<../other-nonhumans/mezzar.md>), prompting Grimbaskal to attack and Rai and the tanshi [Aasimti](<../../gods-and-religions/gods/tanshi/aasimti.md>) to work together to protect the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) in a pocket dimension. Over the years, he became obsessed with understanding the meaning of the dreams that he believed came from [Aasimti](<../../gods-and-religions/gods/tanshi/aasimti.md>), though he died before he learned the truth of [Rai's story](<../../campaigns/dunmari-frontier-campaign/dreams-and-visions/second-dream-of-rai.md>).
 
 Some of his stories were recorded by [Gnaeus](<../chardonians/gnaeus.md>) in [On the Lost People of the Forests](<../../things/books/on-the-lost-people-of-the-forests.md>).
+
 
 
 

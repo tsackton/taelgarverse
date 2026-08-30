@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T12:28:14-04:00'
-lintVersion: '3.4'
-tags: [person, status/check/mike]
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/mike, status/check/lint]
 species: human
 gender: male
 player: Mike Sackton
@@ -38,7 +38,7 @@ hide_toc: true
 
 
 
-Edric was born in the small village of Wickerley, a good two day's walk north of the [Great South Road](<../../../../gazetteer/greater-sembara/roads/great-south-road.md>), in the [Duchy of Telham](<../../../../gazetteer/greater-sembara/sembara/northlands/duchy-of-telham.md>).  Wickerly is known for very little, although there are two brewers who sell to the surrounding villages, and the barley is said to be at least a bit better than average. It is a poor place, with little excitement and few reasons to stop. The most interesting event in the last hundred years, it is said, was Edric's birth. 
+Edric was born in the small village of Wickerley, a good two days' walk north of the [Great South Road](<../../../../gazetteer/greater-sembara/roads/great-south-road.md>), in the [Duchy of Telham](<../../../../gazetteer/greater-sembara/sembara/northlands/duchy-of-telham.md>).  Wickerley is known for very little, although there are two brewers who sell to the surrounding villages, and the barley is said to be at least a bit better than average. It is a poor place, with little excitement and few reasons to stop. The most interesting event in the last hundred years, it is said, was Edric's birth.
 
 
 ![Edric](/taelgarverse/assets/edric.webp)

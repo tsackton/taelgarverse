@@ -21,7 +21,7 @@ hide_toc: true
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
-    Based in the [Karawa Desert](<../../gazetteer/greater-dunmar/hara-basin/karawa-desert.md>), the Dunmari Basin
+    Based in the [Karawa Desert](<../../gazetteer/greater-dunmar/hara-basin/karawa-desert.md>)
 </div>
 
 

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-20T19:36:26-04:00'
-lintVersion: '3.2'
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
 tags: [place, status/cleanup/metadata, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
@@ -25,8 +25,7 @@ title: Kin-Aska
 
 
 
-A former city in the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>) river valley, destroyed during the [Blood Years](<../../../../events/1500s/blood-years.md>) in the [Battle of Kin-Aska](<../../../../events/1500s/battle-of-kin-aska.md>). The present-day [Arendum](<arendum.md>) is largely built on the ruins of Kin-Aska.
-
+A former city in the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>) river valley, destroyed during the [Blood Years](<../../../../events/1500s/blood-years.md>) in the [Battle of Kin-Aska](<../../../../events/1500s/battle-of-kin-aska.md>). The present-day [Arendum](<arendum.md>) is largely built on the ruins of Kin-Aska. 
 
 
 

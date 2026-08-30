@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Paisa
+lintedAt: '2026-08-24T09:25:51-04:00'
+lintVersion: '3.5'
+tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: village
+name: Paisa
 whereabouts:
 - {type: primary, location: Northern Provinces}
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Paisa
 ---
 # Paisa
@@ -17,4 +20,13 @@ title: Paisa
 
 
 A small village on the northwestern shore of [Lake Valandros](<../../greater-chardon/lake-valandros.md>). 
+
+
+
+
+
+
+
+
+
 

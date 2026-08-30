@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub, status/gameupdate/gl]
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person, status/stub, status/gameupdate/gl, status/check/lint]
+species: human
 ancestry: Chardonian
-name: Mitus Verina Auratan
 title: Magistros Mitus Verina Auratan
 born: 1723
-species: human
+name: Mitus Verina Auratan
 whereabouts: Chardon
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1749
 hide_toc: true
 ---
 # Magistros Mitus Verina Auratan
@@ -24,5 +28,11 @@ hide_toc: true
 
 
 The current Magistros of Chardon and ruler of the Chardonian Empire. 
+
+
+
+
+
+
 
 

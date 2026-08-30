@@ -21,7 +21,7 @@ hide_toc: true
     Died August 24th, 1748  
     { .bio }
 
-    Lived in the the [flooded caverns near Suwi](<../../gazetteer/northwest-coast/lake-suwi.md>)
+    Lived in the [flooded caverns near Suwi](<../../gazetteer/northwest-coast/lake-suwi.md>)
 </div>
 
 

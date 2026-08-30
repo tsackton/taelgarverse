@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:38:37-04:00'
+lintVersion: '3.5'
 tags: [background]
+name: Spiritual Realms
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Spiritual Realms
 ---
 # Spiritual Realms
@@ -19,4 +23,11 @@ All planar geographers distinguish the [Divine Realms](<divine-realms.md>), the 
 Followers of [Yendalism](<../planar-concepts/yendalism.md>) typically add a fifth truth to this list:
 
 - **The Principle of Veiled Dominion** – No power within the spiritual realms may act freely upon any of the [Inner Realms](<../planar-concepts/inner-realms.md>), for the [Divine Veil](<../land-of-the-dead.md>) stands between them; yet through passage, pact, or willing soul, their influence may cross beyond their own dominion.
+
+Known Spiritual Realms include the [Abyss](<abyss.md>), [Arborea](<arborea.md>), [Limbo](<limbo.md>), [Nine Hells](<nine-hells.md>), and [Pandemonium](<pandemonium.md>), as well as the [Divine Realms](<divine-realms.md>) associated with embodied gods, such as the [Heart of the Mountain](<heart-of-the-mountain.md>).
+
+
+
+
+
 

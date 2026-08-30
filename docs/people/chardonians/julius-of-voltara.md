@@ -1,21 +1,27 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl]
-name: Julius of Voltara
-ancestry: Chardonian
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person]
 species: human
-whereabouts:
-- {type: home, location: Voltara}
+ancestry: Chardonian
+campaignInfo:
+- {campaign: grli, type: met}
+name: Julius of Voltara
+pronunciation: YOO-lee-oos
 affiliations:
 - {org: Silver Tempests, title: Steward}
-campaignInfo:
-- {campaign: GL, type: met}
+whereabouts:
+- {type: home, location: Voltara}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Julius of Voltara
 hide_toc: true
 ---
 # Julius of Voltara
+:speaker:{ .middle } *(YOO-lee-oos)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -28,5 +34,9 @@ hide_toc: true
 
 
 Julius serves as the steward for the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) at [Tempest Towers](<../../campaigns/great-library-campaign/tempest-towers.md>) in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). He acts as their intermediary as needed, maintains the manor, and handles administrative tasks. 
+
+
+
+
 
 

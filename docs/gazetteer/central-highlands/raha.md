@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-23T12:50:50-04:00'
 lintVersion: '3.5'
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: settlement
 typeOfAlias: village
 ancestry: Deno'qai
+population: 233
 name: Raha
 pronunciation: RAH-hah
 whereabouts: Highveil Forest
@@ -17,59 +18,29 @@ title: Raha
 # Raha
 :speaker:{ .middle } *(RAH-hah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) village in the [Highveil Forest](<highveil-forest.md>), the [Central Highlands](<central-highlands.md>)  
+-  
+    :octicons-people-24: pop. 233  
+    :octicons-location-24:{ .lg .middle } A [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) village in the [Highveil Forest](<highveil-forest.md>), the [Central Highlands](<central-highlands.md>)  
 </div>
 
 
 
 
+Raha is a small [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) village in the Highveil Forest, about a day's hard march east of the [Zarnato](<../major-rivers/chasa-nahadi-watershed/zarnato.md>) river. 
 
-Location: About a day’s journey east of the northeastern corner of the Chardonian empire, in the forest on the slopes of the [Sentinels](<../sentinel-range.md>)
+## The Village
 
-Size: a medium sized village of about 60 buildings, housing perhaps 200 people
+Raha is a medium-sized village of 60 or so simple wooden buildings, well-constructed, and housing a few hundred people. The village is in a hidden clearing in the woods, hardly noticeable from a distance. The center of the village is the large gathering hall, a long, low one story building, facing a large open area. This serves as the informal living room of the village, home to a large well and several pig pens. At the far end of this common space, a coppiced great tree stands, a stone altar for ritual sacrifices and feasts set in front of it. Like other [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>), the people of Raha worship the [tanshi](<../../gods-and-religions/gods/tanshi/tanshi.md>), small gods whose favor is drawn by offerings and sacrifices. 
 
-Age: Raha has been settled for nearly 100 years now
-
-Condition: simple wooden architecture, thatch or other simple roofing, but well-constructed and maintained
-
-Government: Hakar, a local chief chosen by the village, who represents the village in inter-village councils
-
-People: Northerners -- blue eyed, long haired, pale, generally large and thick featured
-
-Description: Raha is a small village nestled in a hidden clearing in the woods, hardly noticeable from a distance. The center of the village is the large gathering hall, a long, low one story building, one of the few to have a real chimney and hearth. This hall faces a large open area, the informal living room of the village, home to a large village well in addition to several pig pens. At the far end of this common space, a well-tended great tree stands, a stone altar for ritual sacrifices and feasts set in front of it. 
-
-  
-
-
-
-
-Beyond the tree and altar is the main area of the settlement, a series of small houses and cottages, mostly. The major farming activity in the village is keeping pigs, and many have the run of this area. One more distinctive house, two storeys with a chimney and painted in a wide array of bright colors, sits on the far edge of the village, and is the home of the local butcher, who produces widely admired sausages and various smoked meats. On this side of the village is also a sparring ground. Given the proximity to Chardon, the frequent sounds of sparring can be heard, practice with sword and spear and shield. 
-
-  
+Beyond the tree and altar is the main area of the settlement, a series of small houses and cottages, mostly. The major farming activity in the village is keeping pigs, and many have the run of this area. One more distinctive house, two stories with a chimney and painted in a wide array of bright colors, sits on the far edge of the village, and is the home of the local butcher, who produces widely admired sausages and various smoked meats. On this side of the village is also a sparring ground, where young [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) men and women practice with spear and shield. 
 
 Behind the great hall is a somewhat poorer and smellier part of town, where the tanner lives who produces deerskin cloaks and other items. A small cluster of fairly run down huts nestle among the forest here.
 
-  
+## The Community
 
-Layout:
+The people of Raha are wary of outsiders, but friendly once they decide you are trustworthy. They are proud of their local traditions, especially their sausage and pigs, and often hold races while riding pigs in the sparring ground.  
 
-  
-
-History: Founded by Northerners who had been living in marginal land moving into the forest after the end of the Blood Years; the people have only a hazy sense of their past but do remember stories of when they were living at the margins of society and do not want to return to that life under Chardonian rule. The biggest event of note in the village history is the Great Blizzard about a generation back, although like all villages in this area it has experienced the occasional monster attack.
-
-  
-
-Vibe: The people here are wary of outsiders, but friendly once they decide you are trustworthy. They are proud of their local traditions, especially their sausage and pigs, and often hold races while riding pigs in the sparring ground, sometimes mounted pig wrestling as well. The regular cycle of festivals and sacrifices brings life to the village, as each one is accompanied by a feast.
-
-  
-
-Services: there is no inn or tavern, but travelers who meet the approval of Hakar can sleep in the great hall, and several villagers brew beer they’d be happy to sell. Rations can be obtained from the butcher or in trade from Hakar. There is also a tanner/leatherworker in the village, a not-very-skilled blacksmith, and a few of the soldiers have some skill in repairing basic items. Finally, an old woman collects herbs and other things from the forest and brews concoctions -- not truly magical, but many common potions can be obtained from her.  
-
-  
-Downtime: There is not much to do in Raha; even gathering rumors is questionable at best. However, one can compete in the pig wrestling matches, which use pit fighting rules but require an animal handling check, a strength check, and a dexterity check.
-
-
-
+There is no inn or tavern here, but travelers who meet the approval of the village can sleep in the great hall, and several villagers brew beer they’d be happy to sell. Rations can be obtained from the butcher or in trade from Hakar. There is also a tanner/leatherworker in the village, a not-very-skilled blacksmith, and a few of the soldiers have some skill in repairing basic items. Finally, an old woman collects herbs and other things from the forest and brews concoctions: many common potions can be obtained from her.  
 
 
 

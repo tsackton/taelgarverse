@@ -1,17 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
 displayDefaults: {aNoDate: Traveled with <affiliations>}
-affiliations:
-- {org: Dunmar Fellowship, title: Guest"}
-name: Thror
-born:
+tags: [person, status/check/lint]
 species: dwarf
 ancestry:
+born:
 gender: male
 player: David Schwartz
-dm_notes: important
+name: Thror
+aliases: [Thror Redpeak]
+affiliations:
+- {org: Dunmar Fellowship, title: Guest}
+knownTo: [dufr]
 dm_owner: player
+dm_notes: important
+POV: 1748
 title: Thror
 hide_toc: true
 ---
@@ -26,5 +31,12 @@ hide_toc: true
 </div>
 
 
-A sailor and a pirate and a storm sorceror, feeling remose and praying to the [Bahrazel](<../../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>) to give him another chance, and nearly instantly pulled away to aid [Riswynn](<../riswynn.md>). 
+A sailor, pirate, and storm sorcerer, Thror felt remorse and prayed to the [Bahrazel](<../../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>) to give him another chance, and was nearly instantly pulled away to aid [Riswynn](<../riswynn.md>).
+
+
+
+
+
+
+
 

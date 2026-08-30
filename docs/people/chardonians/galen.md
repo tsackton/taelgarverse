@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, type: attended his lecture, date: 1748-08-22, format: '<person:u> <met:s> on [[Session 49 (DuFr)|<target>]] <current:3rq>'}
-name: Galen
-born:
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, type: attended his lecture, date: 1748-08-23, format: '<person:u> <met:s> on [[Session 49 (DuFr)|<target>]] <current:3rq>'}
+born:
 gender: male
+name: Galen
 affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scroll]
 whereabouts: Chardon
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Galen
 hide_toc: true
 ---
@@ -28,13 +32,20 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } The [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) attended his lecture on [August 22th, 1748](<../../campaigns/dunmari-frontier-campaign/session-notes/session-49-dufr.md>) in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
+:octicons-location-24:{ .lg .middle } The [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) attended his lecture on [August 23th, 1748](<../../campaigns/dunmari-frontier-campaign/session-notes/session-49-dufr.md>) in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
 
 
 A showman, scholar, academic rival of sorts to [Ulfgar Frostbeard](<../dwarves/ulfgar-frostbeard.md>), and member of the [Faculty of Magic](<../../groups/chardonian-organizations/faculty-of-magic.md>) at the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>). Known for elaborate lectures on the magic of the planes, with a particular focus on elemental magic. 
 
 
 Had possessed the [Chalice of the Runepriest](<../../things/artifacts-of-power/chalice-of-the-runepriest.md>), but sold it to [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) for a large sum of money in [Session 49 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-49-dufr.md>). 
+
+
+
+
+
+
+
 
 
 

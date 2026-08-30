@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-23T12:50:50-04:00'
 lintVersion: '3.5'
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: settlement
 typeOfAlias: city
 name: Metium
@@ -27,10 +27,6 @@ Metium traces its history back to the [Drankorian Empire](<../../../../history/h
 The most notable landmark is the massive Triumphal Arch in the center of the market square, commemorating the great victory over the hobgoblins and dragon conclave. Almost as significant is the Tomb of the Valiant Defender, another monument to honor that war. Beneath the city, remnants of Metium’s old fortifications and drainage systems form an extensive underground network. These tunnels and sewers have become a hidden tangled maze, often used by smugglers and thieves and other ne'er-do-wells. Many sections of this network are still uncharted: rumors of lost chambers holding Drankorian relics or stranger things persist.
 
 The city is famous for its annual wine festival, held each autumn after the harvest. Traders and vintners from all across the region gather for a week of celebrations, competitions, and tastings. During this time, the city’s market square overflows with barrels of wine and decorated stalls, attracting both locals and travelers. 
-
-
-
-
 
 
 

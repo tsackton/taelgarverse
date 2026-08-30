@@ -1,17 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
 tags: [person]
-gender: male
-ancestry: Chardonian
 species: human
+ancestry: Chardonian
+gender: male
 born: 1717
+name: Andros
+pronunciation: AHN-drohs
 whereabouts: Chardon
-dm_notes: none
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1749
 title: Andros
 hide_toc: true
 ---
 # Andros
+:speaker:{ .middle } *(AHN-drohs)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -23,5 +30,10 @@ hide_toc: true
 </div>
 
 
-A friend of [Xavier](<xavier.md>)'s involved in the [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>).
+A friend of [Xavier](<xavier.md>)'s involved in the [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>). During the [riots](<../../events/1700s/1749/chardon-chalyte-riots.md>), Andros became an informal leader of the [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>), arguing against unrestrained violence. He worked with other labor leaders to create durable worker power in the aftermath of the [Chardonian Chalyte Trade Reforms](<../../events/1700s/1749/chardonian-chalyte-trade-reforms.md>). 
+
+
+
+
+
 

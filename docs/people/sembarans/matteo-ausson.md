@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: human
 ancestry: Sembaran
 born: 1698
-species: human
 gender: male
+name: Matteo Ausson
 whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: none
 dm_notes: color
+POV: 1720s
 title: Matteo Ausson
 hide_toc: true
 ---
@@ -26,5 +31,12 @@ hide_toc: true
 ![Matteo Ausson](/taelgarverse/assets/matteo-ausson.webp){align="right"; width="320"}One of the sons of [Arnaud Ausson](<arnaud-ausson.md>), something of a ne'er-do-well. Rumored to have been the lover of [Rinault](<rinault-essford.md>) in the summer of 1719, and still hangs around [Rinault](<rinault-essford.md>) and his cronies. Also rumored to have been involved in the death of his sister Lizette when he was 10, but no one knows the details.
 
 Full of swagger and bravado on the outside, at least.
+
+
+
+
+
+
+
 
 

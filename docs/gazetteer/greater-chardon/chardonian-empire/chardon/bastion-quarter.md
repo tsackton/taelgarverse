@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T10:48:34-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T15:25:54-04:00'
+lintVersion: '3.5'
 displayDefaults: {wHome: '<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>'}
-tags: [place]
+tags: [place, status/gameupdate/dufr]
 typeOf: neighborhood
 typeOfAlias: neighborhood
 name: Bastion Quarter
@@ -19,7 +19,7 @@ title: Bastion Quarter
 </div>
 
 
-The Bastion Quarter, often just called the Bastion, occupies the area near the [Merchant's Gate](<trade-gate-chardon.md>) where the [northern trade road](<../north-road.md>) passes through the [North Wall](<north-wall-chardon.md>), extending south and southeast towards the river and the [River Bridge](<river-bridge-chardon.md>). 
+The Bastion Quarter, often just called the Bastion, occupies the area near the [Merchant's Gate](<trade-gate-chardon.md>) where the [northern trade road](<../north-road.md>) passes through the [North Wall](<north-wall-chardon.md>), extending south and southeast towards the river and the [River Bridge](<river-bridge-chardon.md>). It is a relatively prosperous district, dotted with warehouses, inn, and taverns serving the overland trade from the [North Road](<../north-road.md>), though the nicer manors tend to be upslope, in the Summer Quarter. 
 
 The Bastion Quarter and the [Summit Quarter](<summit-quarter.md>) together make up Precinct XIX.
 

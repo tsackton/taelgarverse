@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Chardonian
@@ -33,6 +33,7 @@ hide_toc: true
 
 
 Ghiaro is a retired explorer and caravan guard who often hangs out at [The Purple Pig](<../../gazetteer/northwest-coast/northern-provinces/voltara/the-purple-pig.md>) in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). He is known to follow and wager on fights.
+
 
 
 

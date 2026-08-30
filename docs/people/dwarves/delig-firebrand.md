@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
-campaignInfo: []
-name: Delig Firebrand
-born:
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: dwarf
 ancestry:
+campaignInfo: []
+born:
 gender: male
+name: Delig Firebrand
 whereabouts:
 - {type: away, start: 1748-11-23, end: '', location: Tharn Todor}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Delig Firebrand
 hide_toc: true
 ---
@@ -28,3 +32,9 @@ hide_toc: true
 
 
 The cousin of [Hagrim](<hagrim.md>), trapped in [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>) for many years. During that time lost much of his memory and mind. Known as the Mad Priest.
+
+
+
+
+
+

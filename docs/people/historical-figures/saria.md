@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T15:54:27-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Cymean
@@ -27,6 +27,7 @@ hide_toc: true
 
 
 Saria was a respected [Cymean](<../../gazetteer/western-green-sea/realms/cymea.md>) conjurer, who left a legacy of extensive correspondence which remains an important source for scholars of magic. The most well-known passages record a year of study in the [Feywild](<../../cosmology/feywild.md>) that seemed to last only an evening on the [Material Plane](<../../cosmology/material-plane.md>), for when Saria returned, the sun had not yet risen on the night of her departure.
+
 
 
 

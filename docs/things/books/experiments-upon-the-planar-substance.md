@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+lintedAt: '2026-08-25T22:52:37-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AU><(, by )author>', startStatus: completed in}
+tags: [object]
 typeOf: book
 typeOfAlias: cosmological treatise
 ancestry: Tollish
-dm_owner: none
-dm_notes: none
 author: Arryn
 created: 1727
+name: Experiments upon the Planar Substance
+knownTo: [dufr]
+dm_owner: none
+dm_notes: none
+POV: modern
 title: Experiments Upon the Planar Substance
 ---
 # Experiments Upon the Planar Substance
@@ -31,3 +36,7 @@ Experiments upon the Planar Substance is the seminal work of [Arryn of Tollen](<
 - **V. Transmutation amplifies itself.**  The more an object or creature changes within Limbo, the easier further changes become, eventually ending when form itself is impossible to maintain and the object or creature decays to join the primordial chaos. Mastery of Limbo is mastery of transformation, but the line between mastery and dissolution is perilously thin.
 
 - **VI. Attention is gravity.**  Minds attract matter. Strong intellects draw fragments of the plane into orbit, while the unfocused drift helplessly, consumed by shifting substance.
+
+
+
+

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T19:47:35-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: stoneborn
 gender: male
@@ -39,6 +39,7 @@ hide_toc: true
 
 
 Ken-to is a stoneborn monk and mystic who lives in an isolated hut, high in the [Yuvanti Mountains](<../../../../gazetteer/greater-dunmar/yuvanti-mountains.md>) west of [Tharn Todor](<../../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). 
+
 
 
 

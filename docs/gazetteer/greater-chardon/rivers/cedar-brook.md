@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-20T19:36:26-04:00'
-lintVersion: '3.2'
+lintedAt: '2026-08-23T17:36:36-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: waterway
 typeOfAlias: brook
 name: Cedar Brook
@@ -22,8 +22,9 @@ title: Cedar Brook
 </div>
 
 
-A small tributary of the [Silverflood](<../../major-rivers/yeraad-watershed/silverflood.md>), flowing north from the [Chataan Mountains](<../chataan-mountains.md>).
 
+
+A small tributary of the [Silverflood](<../../major-rivers/yeraad-watershed/silverflood.md>), flowing north from the [Chataan Mountains](<../chataan-mountains.md>).
 
 
 

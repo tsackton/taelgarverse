@@ -31,9 +31,12 @@ search: {exclude: true}
 - Mar 11, 1748 DR: Kenzo leaves the Lakan Monastery at Tokra, heading for Karawa in search of answers about his dreams, and the jade fragment he carries.
 - Mar 19, 1748 DR: Wellby arrives in Karawa.
 - Mar 21, 1748 DR: Seeker arrives in Karawa
+- Mar 22, 1748 DR, morning: Four strangers band together to protect [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) from giant hyenas. Afterward, Elder [Kisa](<../../people/dunmari/kisa.md>) and Speaker [Candrosa](<../../people/dunmari/candrosa.md>) ask [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>) and companions for help.
+- Mar 22, 1748 DR, afternoon: The party follows the hyenas' trail into the canyonlands, and meets [Alesh](<../../people/dunmari/alesh.md>) on the [Stoneway](<../../gazetteer/greater-dunmar/roads/stoneway.md>). They turn east towards [Gomat Oasis](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>), making a cold overnight camp on the road.
 - Mar 22, 1748 DR, morning: [Kenzo](<../../people/pcs/dunmar-fellowship/kenzo.md>) arrives in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Giant hyena attack. Village elders, including [Candrosa](<../../people/dunmari/candrosa.md>) and Elder [Kisa](<../../people/dunmari/kisa.md>), ask [Delwath](<../../people/pcs/dunmar-fellowship/delwath.md>) and companions to help.
 - Mar 22, 1748 DR, afternoon: The party heads into the desert, where they meet [Alesh](<../../people/dunmari/alesh.md>) on the road.  Turn east to the [Gomat Oasis](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>), where they find three giant lizards ripping into sheep carcasses.
 - Mar 22, 1748 DR, evening: Kill three giant lizards at the [Gomat Oasis](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>) and camp for the night
+- Mar 23, 1748 DR: A long day of travel brings the party to the [Gomat Oasis](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>) at moonrise, where they find giant lizards feeding on dead sheep.
 - Mar 23, 1748 DR, morning: Meet [Akan](<../../people/dunmari/akan.md>) at the [Gomat Oasis](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>) in the morning, a survivor of the giant lizard attack. After, turn east into the [Nashtkar](<../../gazetteer/greater-dunmar/nashtkar.md>).
 - Mar 23, 1748 DR, late afteroon: Arrive at the [Daraar Canyon](<../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>), camp.
 - Mar 24, 1748 DR: Cross the [Daraar Canyon](<../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>) heading east into the desert.
@@ -275,9 +278,9 @@ search: {exclude: true}
 - Aug 28, 1748 DR, morning: Sell old horses and buy new ones in [Erlona](<../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/erlona.md>).
 - Aug 28, 1748 DR, afternoon. [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) hides in the [Mirror of Soul Trapping](<treasure/mirror-of-soul-trapping.md>) while Kenzo rides east.
 - Aug 28, 1748 DR, evening: Pass the [Scar of Shadowfire](<../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/scar-of-shadowfire.md>). Attacked by shadow mastiffs. Two horses and the ladder are frightened by shadows and run, but are relocated after an hour. More nightmares.
-- Aug 29, 1748 DR, late night: Attacked by a shadow hunter and two yeth hounds around Kill shadow hunter. Manage to sleep.
 - Aug 29, 1748 DR: Travel only about 30 miles as the horses are tired after the attack and Kenzo struggles to keep them on pace.
 - Aug 29, 1748 DR, evening: [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) takes over, rides another 20 miles by midnight. Camp around 320 miles east of Chardon. Try to rest.
+- Aug 29, 1748 DR, late night: Attacked by a shadow hunter and two yeth hounds around Kill shadow hunter. Manage to sleep.
 - Aug 30, 1748 DR: Travel east during the day, heading overland away from the [Chasa](<../../gazetteer/major-rivers/chasa-nahadi-watershed/chasa.md>). Camp about 20 miles north of Arkad.
 - Aug 31, 1748 DR: Travel through the day.
 - Aug 31, 1748 DR, night: Arrive at [Arendum](<../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/arendum.md>); take rooms at the [Laughing Wolf Inn](<../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/laughing-wolf-inn.md>).
@@ -510,8 +513,8 @@ search: {exclude: true}
 - Mar 16, 1749 DR: Wait out snowstorm on the ground
 - Mar 17, 1749 DR, morning: Cross [Svinjo Mountains](<../../gazetteer/northern-green-sea/svinjo-mountains.md>) mountains
 - Mar 17, 1749 DR, afternoon: See frost giants watching over dwarven miners. Speak to giants, and dwarves. Learn about [Brimskarda](<../../people/giants/brimskarda.md>), King of the Frost Giants. Send lynx messenger with letter of introduction ahead. Travel to [Brimskarda](<../../people/giants/brimskarda.md>)'s steading, [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>).
-- Mar 18, 1749 DR, evening: Meet [Brimskarda](<../../people/giants/brimskarda.md>), speak about dragons and giants. Feast with Brimskarda's court at [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>).
 - Mar 18, 1749 DR, afternoon: Arrive at [Brimskarda](<../../people/giants/brimskarda.md>)'s steading
+- Mar 18, 1749 DR, evening: Meet [Brimskarda](<../../people/giants/brimskarda.md>), speak about dragons and giants. Feast with Brimskarda's court at [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>).
 - Mar 19, 1749 DR, morning: Meet [Algerd](<../../people/giants/algerd.md>), recruit him to journey east. Leave [Isenborg](<../../gazetteer/northern-green-sea/isenborg.md>).
 - Mar 19, 1749 DR, afternoon: Reach the [Ket](<../../gazetteer/northern-green-sea/rivers/ket.md>), follow the frozen river east.
 - Mar 20, 1749 DR: Travel east along the [Ket](<../../gazetteer/northern-green-sea/rivers/ket.md>)
@@ -607,8 +610,8 @@ search: {exclude: true}
 - May 21, 1749 DR, afternoon: Arrive back on [Vindristjarna](<../../things/ships/vindristjarna.md>).
 - May 21, 1749 DR, evening: Set course for [Drankor](<../../gazetteer/drankorian-hinterland/drankor/drankor.md>), and discuss plans.
 - May 22, 1749 DR, morning: Arrive on the outskirts of [Drankor](<../../gazetteer/drankorian-hinterland/drankor/drankor.md>). Scout in [Vindristjarna](<../../things/ships/vindristjarna.md>) Prepare to attack dopplengagers.
-- May 22, 1749 DR, morning: Teleport to the Sapphire Tower of the Teeth of Drankor. Defeat Bizarro Delwath. Engage dopplegangers, and win. Return to [Vindristjarna](<../../things/ships/vindristjarna.md>).
 - May 22, 1749 DR, afternoon: Explore the [Temple of the Eight Divines](<../../gazetteer/drankorian-hinterland/drankor/temple-of-the-eight-divines.md>), and find [Apollyon's Phylactery](<../../things/artifacts-of-power/apollyon-s-phylactery.md>). Make plans to destroy it. Recover tokens from four of the seven souls bound within. Suspect trouble with [Vindristjarna](<../../things/ships/vindristjarna.md>).
+- May 22, 1749 DR, morning: Teleport to the Sapphire Tower of the Teeth of Drankor. Defeat Bizarro Delwath. Engage dopplegangers, and win. Return to [Vindristjarna](<../../things/ships/vindristjarna.md>).
 - May 22, 1749 DR, evening: The party rests in the Temple of the Eight Divines in Drankor.
 - May 23, 1749 DR, morning: Leaving Wellby to guard the phylactery, the party travels to the docks, and finds [The Laughing Wave](<../../gazetteer/drankorian-hinterland/drankor/the-laughing-wave.md>), recovering tokens of Seraphina Appleblossom. In the nearby Customs House, they find a shipping manifest connected to Khemut of Targu, and a clue about Minarith.
 - May 23, 1749 DR, midday: The party returns to the Temple of the Eight Divines.

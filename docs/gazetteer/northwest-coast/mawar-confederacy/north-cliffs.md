@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T23:55:52-04:00'
+lintVersion: '3.5'
 tags: [place]
-name: North Cliffs
 typeOf: topographical feature
 typeOfAlias: coastal cliff
+name: North Cliffs
 whereabouts:
 - {type: secondary, location: Hamri, linkText: northwest of, startFilter: '1'}
 - {type: primary, location: Mawakel Peninsula}
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 title: North Cliffs
 ---
 # The North Cliffs
@@ -18,7 +21,7 @@ title: North Cliffs
 </div>
 
 
-The North Cliffs are the coastal cliffs across [Hamri](<hamri.md>)'s sheltered bay from the port itself. While the closest section of the cliffs lies near Hamri, and are closely tied to the history of [ocean watchers](<../../../groups/society-of-ocean-watchers.md>) in Hamri, the cliffs are not part of the town proper, and attract squatters, loners, and outcasts. 
+The North Cliffs are the coastal cliffs across [Hamri](<hamri.md>)'s sheltered bay from the port itself. While the closest section of the cliffs lies near Hamri and is closely tied to the history of [ocean watchers](<../../../groups/society-of-ocean-watchers.md>) in Hamri, the cliffs are not part of the town proper, and attract squatters, loners, and outcasts.
 
 The bluff above the cliffs is dotted with old seawatch towers, mostly now abandoned, while the occasional sea cave cuts into the cliffs below. Perhaps the best-known site in the cliffs is the [Shrine to Guzo the Mariner](<shrine-to-guzo-the-mariner.md>), an old sea-cave shrine near the further tower from Hamri, to the northwest. 
 ## Airion's Tower
@@ -26,3 +29,7 @@ The bluff above the cliffs is dotted with old seawatch towers, mostly now abando
 Though many of the ruined seawatch towers dotting the bluff above the North Cliffs are unremarkable, some have more extensive history and lore. Among these is a ruined tower, on the southeastern-most bluff (close to Hamri), that was built over an older tower once occupied by [Airion the Mistspeaker](<../../../people/other-humans/airion.md>). Airion's tower was constructed over a [Extraplanar Weak Point](<../../../cosmology/planar-concepts/extraplanar-weak-point.md>) connecting to the [Elemental Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>), and still retains some fading glyphs and water-magic. Below the tower is a semi-hidden sea cave, connected by a stair. The cave floods with the tide, and a lingering water illusion or planar echo there caused the interior to appear as a vast watery expanse.
 
 [Azar the Lost](<../../../people/mawarans/azar-the-lost.md>) used the tower and cave as a temporary hiding place before the party traced him through Hamri's informants.
+
+
+
+

@@ -1,15 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/gameupdate/dufr]
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: killed}
-campaignInfo:
-- {campaign: dufr, date: 1748-12-08, type: encountered}
-name: Kadmos
-born: 1711
+tags: [person, testcase, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, date: 1748-12-08, type: encountered}
+born: 1711
 gender: male
 died: 1748-12-08
+name: Kadmos
 affiliations:
 - Society of the Open Scroll
 - {org: The Cleansed, title: Cultist}
@@ -18,8 +20,10 @@ whereabouts:
 - {type: away, start: 1748-11-15, end: '', prefix: somewhere in, location: Dunmar}
 - {type: away, start: 1748-11-19, end: '', location: Garamjala Desert}
 - {type: away, start: 1748-12-08, end: 1748-12-08, location: Uzgukhar}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Kadmos
 hide_toc: true
 ---
@@ -50,5 +54,12 @@ hide_toc: true
 A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather armor, without obvious weapons. A spellcaster, who took on an undead visage in combat and whose spirit seems touched by a darkness. 
 
 A character of dubious morality, clearly willing and able to use enchantment magic to get what he wants, and happy to provoke a fight. 
+
+
+
+
+
+
+
 
 

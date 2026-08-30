@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate/gl]
+lintedAt: '2026-08-23T23:55:52-04:00'
+lintVersion: '3.5'
 displayDefaults: {wHome: '<typeof:xU> in <home>'}
-name: Chalyte Hills
+tags: [place]
 typeOf: topographical feature
+typeOfAlias: line of hills
+name: Chalyte Hills
+aliases: [North Hills]
 whereabouts: Erbalta Plains
 dm_owner: none
 dm_notes: none
-typeOfAlias: line of hills
+POV: 1749
 title: Chalyte Hills
 ---
 # The Chalyte Hills
@@ -16,5 +20,11 @@ title: Chalyte Hills
 </div>
 
 
-The Chaylte Hills, often simply called the North Hills by locals, are the rich, rolling hills north of [Voltara](<voltara/voltara.md>), a major source of [chalyte](<../../../things/materials/chalyte.md>) that underwrites the city’s prosperity. Functionally marks the northern extent of effective Chardonian control on the [Erbalta Plains](<../erbalta-plains/erbalta-plains.md>).
+The Chalyte Hills, often simply called the North Hills by locals, are the rich, rolling hills north of [Voltara](<voltara/voltara.md>), a major source of [chalyte](<../../../things/materials/chalyte.md>) that underwrites the city’s prosperity. They functionally mark the northern extent of effective Chardonian control on the [Erbalta Plains](<../erbalta-plains/erbalta-plains.md>).
+
+The ruined [Pietravola Abbey](<pietravola-abbey.md>) and [Lonely Watchtower](<lonely-watchtower.md>) both stand in the hills.
+
+
+
+
 

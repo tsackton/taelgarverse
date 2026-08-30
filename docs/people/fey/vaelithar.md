@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: fae
 gender: male
@@ -35,7 +35,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Rescued by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 18th, 1715 in the [Feywild](<../../cosmology/feywild.md>)  
 
 
-Vaelithar is a fae from [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>), companion of [Liraene](<liraene.md>), who escaped the clutches of a corrupted Singing Tree in DR 1715, with the aid of the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>). 
+Vaelithar is a fae from [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>) who escaped the clutches of a corrupted Singing Tree in DR 1715 with the aid of the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>). His companion, [Liraene](<liraene.md>), died before she could be rescued, trapped by the corrupted tree. 
 
 
 

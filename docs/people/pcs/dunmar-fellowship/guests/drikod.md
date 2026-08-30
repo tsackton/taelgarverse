@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-name: Drikod
-born:
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+tags: [person, status/check/lint]
 species: stoneborn
 ancestry:
+campaignInfo:
+born:
 gender: male
 player: John Leeker
-displayDefaults: {aNoDate: Traveled with <affiliations>}
+name: Drikod
 affiliations:
-- {org: Dunmar Fellowship, title: Guest"}
+- {org: Dunmar Fellowship, title: Guest}
 whereabouts: Kunda
+knownTo: [dufr]
 excludePublish: [clee]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Drikod
 hide_toc: true
 ---
@@ -36,3 +40,9 @@ hide_toc: true
 
 - Apr 29, 1748 DR: Drikod leaves [Kunda](<../../../../gazetteer/central-highlands/kunda.md>), his village in the mountains.
 - May 12, 1748 DR: Drikod arrives in Karawa.
+
+
+
+
+
+

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T13:33:35-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Sembaran
@@ -35,7 +35,7 @@ hide_toc: true
 
 
 
-The first monarch of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), descended from, Derik, the youngest son of [Elaine I](<elaine-i.md>), and [Morgaine](<morgaine.md>), a Tyrwinghan [oracle](<../../../groups/oracle-of-the-riven.md>). She was succeeded by her son [Arryn III](<arryn-iii.md>) in DR 1745.
+The first monarch of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), descended from Derik, the youngest son of [Elaine I](<elaine-i.md>), and [Morgaine](<morgaine.md>), a Tyrwinghan [oracle](<../../../groups/oracle-of-the-riven.md>). She was succeeded by her son [Arryn III](<arryn-iii.md>) in DR 1745.
 
 
 

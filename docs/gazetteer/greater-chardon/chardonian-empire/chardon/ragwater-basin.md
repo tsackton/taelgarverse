@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T15:54:27-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
 displayDefaults: {wHome: '<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>', defArt: ''}
 tags: [place, status/gameupdate/dufr]
 typeOf: neighborhood
@@ -24,6 +24,7 @@ Ragwater Basin, usually just called the Basin, is a neighborhood downriver from 
 This is a dirty, stinking area, and only the poorest of the poor actually live here. The nearby [Riverside Quarter](<riverside-quarter.md>), huddled against the banks of the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), is only marginally more pleasant. 
 
 Together, the Basin and Riverside make up Precinct XVII.
+
 
 
 

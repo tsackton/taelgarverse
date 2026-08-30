@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-20T19:36:26-04:00'
-lintVersion: '3.2'
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: infrastructure
 typeOfAlias: monolith
@@ -20,6 +20,8 @@ title: Harmony Stone
 
 
 The Harmony Stone is an ancient gray‑white monolith, 60 feet tall and tapering to a point from a 15 foot base, standing along the river road of the [Chasa River Valley](<chasa-river-valley.md>), between [Metium](<metium.md>) and [Erlona](<erlona.md>). Weathered Elvish and Northros runes mark it as a place of treaty and trade.
+
+It is one of the [Elven Treaty Stones](<../../../../things/elven-treaty-stones.md>) scattered across [Greater Chardon](<../../greater-chardon.md>), the [Northwest Coast](<../../../northwest-coast/northwest-coast.md>), and the [Central Highlands](<../../../central-highlands/central-highlands.md>), ancient markers associated with forgotten treaties between [elves](<../../../../creatures/species/elves.md>) and the [early human settlers](<../../../../groups/cultures/northerners.md>) of this area. 
 
 
 

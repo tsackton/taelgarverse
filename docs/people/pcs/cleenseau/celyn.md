@@ -1,15 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-name: Celyn
-born: 1697
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
-ddbLink: https://www.dndbeyond.com/characters/90849827
 ancestry: Tyrwinghan
+born: 1697
+ddbLink: https://www.dndbeyond.com/characters/90849827
 gender: male
-dm_owner: player
-dm_notes: important
 player: Kiya Nicoll
+name: Celyn
 affiliations:
 - {org: Heroes of Cleenseau}
 - {org: Mahaut's Miracle Players, start: 1717-12, end: 1719-06-29}
@@ -21,6 +21,10 @@ whereabouts:
 - {type: away, start: 1719-06-29, end: 1720-10-17, location: traveling to Cleenseau}
 - {type: away, start: 1719-10-17, end: 1720-01-12, location: Cleenseau}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+knownTo: [clee]
+dm_owner: player
+dm_notes: important
+POV: 1720
 title: Celyn
 hide_toc: true
 ---
@@ -78,3 +82,9 @@ There are a number of stories about Celyn, but please only read these if they ha
 * Celyn's Story of Leaving Home
 * Celyn's Musings on Magic
 * Celyn and Mahaut’s Miracle Players
+
+
+
+
+
+

@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Hugh of Sewick
-born: 1482
 species: human
 ancestry: Sembaran
+born: 1482
 gender: male
 died: 1518
+name: Hugh of Sewick
 affiliations:
 - {org: House of Sewick, type: primary}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Hugh of Sewick
 hide_toc: true
 ---
@@ -26,4 +30,9 @@ hide_toc: true
 
 
 Hugh was the eldest son of [Charlotte I](<charlotte-i.md>). 
+
+
+
+
+
 

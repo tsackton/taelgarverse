@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Drowned Tower
+lintedAt: '2026-08-23T23:55:52-04:00'
+lintVersion: '3.5'
+tags: [place, status/check/ai]
 typeOf: building
 subTypeOf:
+typeOfAlias: ruined tower
+name: Drowned Tower
 whereabouts: Erbalta Plains
 dm_owner: none
 dm_notes: none
-typeOfAlias: ruined tower
+POV: modern
 title: Drowned Tower
 ---
 # The Drowned Tower
@@ -22,7 +25,9 @@ title: Drowned Tower
 	  
 		A ruined tower in the [Erbalta Plains](<erbalta-plains.md>), the [Northwest Coast](<../northwest-coast.md>)
 
-An ancient, half‑submerged ruin on the [Erbalta Plains](<erbalta-plains.md>), noted for a persistent confluence with the [Elemental Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>). The tower’s lower chambers are waterlogged throughout the year, with a central reservoir and flooded halls that have given the site its name. Scholars of the [Great Library](<../../greater-chardon/chardonian-empire/chardon/great-library.md>) identify the Drowned Tower as a planar locus documented in the correspondence of [Airion Mistspeaker](<../../../people/other-humans/airion.md>), who sought out places where the boundary between the Material and the Elemental planes is thin. The exact nature of the planar connection here is unclear.
+An ancient, half‑submerged ruin on the [Erbalta Plains](<erbalta-plains.md>), noted for a persistent confluence with the [Elemental Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>). The tower’s lower chambers are waterlogged throughout the year, with a central reservoir and flooded halls that have given the site its name. Scholars of the [Great Library](<../../greater-chardon/chardonian-empire/chardon/great-library.md>) identify the Drowned Tower as a planar locus documented in the correspondence of [Airion Mistspeaker](<../../../people/other-humans/airion.md>), who sought out places where the boundary between the Material and the Elemental planes is thin. The exact nature of the [planar connection](<../../../cosmology/planar-concepts/planar-connections.md>) here is unclear.
+
+In DR 1747, an expedition from the [Great Library](<../../greater-chardon/chardonian-empire/chardon/great-library.md>) cleansed the tower's corrupted fountain and recovered the [Deepwater Scroll](<../../../things/magic-items/deepwater-scroll.md>) from a hiding place anchored in the [Elemental Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>).
 
 ## Description
 
@@ -34,4 +39,6 @@ The Drowned Tower stands in the northern [Erbalta Plains](<erbalta-plains.md>), 
 
 
 
- 
+
+
+

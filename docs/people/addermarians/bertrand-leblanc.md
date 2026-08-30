@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T15:54:27-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T18:23:23-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Addermarian
@@ -41,6 +41,8 @@ hide_toc: true
 Bertrand LeBlanc is a charming middle‑aged innkeeper who runs [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>) in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>). Friendly toward the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) and most travelers without need for persuasion, he prides himself on fair dealing, a well‑kept cellar, and a welcoming common room.
 
 Born and raised in Roscombe, Bertrand has a personal connection to the Wanderer and enjoys talking with travelers from near and far. 
+
+His niece, [Emma Cole](<emma-cole.md>), works alongside him as a chambermaid at [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>).
 
 
 

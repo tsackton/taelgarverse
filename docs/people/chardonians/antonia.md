@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/gameupdate/dufr]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-08, type: imprisoned, format: '<met:U> by <person:Q> on <target>, in <current:3Qr>'}
-name: Antonia
-born: 1714
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
+tags: [person, testcase, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, date: 1748-12-08, type: imprisoned, format: '<met:U> by <person:Q> on <target>, in <current:3Qr>'}
+born: 1714
 gender: female
+name: Antonia
 pronunciation: An-ton-ia
 affiliations:
 - {org: Society of the Open Scroll}
@@ -15,8 +17,10 @@ whereabouts:
 - {type: away, start: 1748-11-10, location: Dunmar}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
 - {type: home, location: Chardon}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Antonia
 hide_toc: true
 ---
@@ -48,6 +52,12 @@ hide_toc: true
 Seemed to have mixed feelings about [Kadmos](<kadmos.md>) actions to charm the party in [Session 44 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-44-dufr.md>), and was not involved in the battle in [Session 45 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-45-dufr.md>). 
 
 As far as you know, still traveling with [Kadmos](<kadmos.md>). 
+
+
+
+
+
+
 
 
 

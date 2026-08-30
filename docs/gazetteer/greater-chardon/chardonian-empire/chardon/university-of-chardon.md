@@ -1,21 +1,23 @@
 ---
-timelineDescriptor: University of Chardon
 headerVersion: 2023.11.25
-lintedAt: '2026-08-20T19:36:26-04:00'
-lintVersion: '3.2'
-tags: [place, status/check/lint]
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
+tags: [place, status/cleanup/text]
 typeOf: building
 typeOfAlias: university
 created: 939
+timelineDescriptor: University of Chardon
 name: University of Chardon
+pronunciation: university of CHAR-din
 whereabouts:
-- {type: home, start: 980, location: Chardon}
+- {type: home, start: 939, location: Chardon}
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: modern
 title: University of Chardon
 ---
 # The University of Chardon
+:speaker:{ .middle } *(university of CHAR-din)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Founded DR 939 (811 years ago)  
@@ -23,11 +25,13 @@ title: University of Chardon
 </div>
 
 
-![University of Chardon](/taelgarverse/assets/university-of-chardon.webp)
-
 The University of Chardon is a famous center of learning and teaching, renowned as one of the great centers of magical knowledge in the world. It occupies much of [Precinct IV](<precinct-iv.md>) in Chardon, and is among the oldest and most powerful institutions in the city. The university is closely affiliated with the [Great Library](<great-library.md>), as well as the [Hetaeri Magica](<../../../../groups/chardonian-organizations/hetaeri-magica.md>) and the [Society of the Open Scroll](<../../../../groups/chardonian-organizations/society-of-the-open-scroll.md>), but has its own independent rules and governance. 
 
-*In the middle of the oldest part of Chardon, the towers and spires of the Chardonian Lecti, the halls and colleges that make up the University of Chardon, rise above the bustle of the students, faculty, tutors, and others, sharing the skyline with the towers of famous wizards dancing with subtle magic.*
+
+!!! image " "
+	![University of Chardon](/taelgarverse/assets/university-of-chardon.webp)
+	*In the middle of the oldest part of Chardon, the towers and spires of the Chardonian Lecti, the halls and colleges that make up the University of Chardon, rise above the bustle of the students, faculty, tutors, and others, sharing the skyline with the towers of famous wizards dancing with subtle magic.*
+
 ## Facilities and Organization
 
 ### Undergraduate Lecti
@@ -48,7 +52,7 @@ In addition to the undergraduate lecti, the University of Chardon has five gradu
 
 The University of Chardon operates under its original Drankorian Charter granted in DR 939, and thus claims to be above and outside the laws and politics of the current day city. Students who are accused of crimes are, according to the university, only able to be tried and punished by university courts (although the Imperial bureaucracy claims the ability to confine students to university grounds without trial, which is occasionally contentious).
 
-The [Hetaeri Magica](<../../../../groups/chardonian-organizations/hetaeri-magica.md>), which draws members from both the University of Chardon and the [Great Library](<great-library.md>) controls and propagates rules on the use of magic within [Precinct IV](<precinct-iv.md>), the academic quarter of Chardon. 
+The [Hetaeri Magica](<../../../../groups/chardonian-organizations/hetaeri-magica.md>), which draws members from both the University of Chardon and the [Great Library](<great-library.md>), controls and propagates rules on the use of magic within [Precinct IV](<precinct-iv.md>), the academic quarter of Chardon.
 ## History
 
 - 939 DR: The University of Chardon is founded in Chardon on the authority of an Imperial Charter from Eiphis the Blind, the Emperor of Drankor.

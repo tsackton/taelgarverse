@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:22:55-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T18:23:23-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Addermarian
@@ -75,7 +75,6 @@ The Duval seal shows a stylized valley between two mountains with an oak tree in
 - [Owen Tavish](<owen-tavish.md>) — Priest of [The Sibyl](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>) whom she consults on spiritual and supernatural matters.
 - [Colette du Bois](<colette-du-bois.md>) — Squire in her household guard.
 - [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) — Capable outsiders whom she rewards, hosts, and treats as useful troubleshooters for sensitive local problems.
-
 
 
 

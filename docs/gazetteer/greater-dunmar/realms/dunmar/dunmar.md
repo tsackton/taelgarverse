@@ -11,7 +11,7 @@ aliases: [Dunmari]
 pronunciation: DUN-mar
 whereabouts: Greater Dunmar
 dm_owner: tim
-dm_notes: none
+dm_notes: color
 POV: 1748
 title: Dunmar
 ---
@@ -22,6 +22,8 @@ title: Dunmar
    :material-calendar: Founded DR 1173 (577 years ago)  
     :octicons-location-24:{ .lg .middle } A theocracy in [Greater Dunmar](<../../greater-dunmar.md>)  
 </div>
+
+
 
 
 
@@ -114,7 +116,7 @@ In the 191st year of the Nayan Dynasty (DR 1748), Sura was freed from captivity 
 
 ### Culture
 
-The Dunmari have long been a nomadic people, traditionally moving seasonally with their horses and herds, and only returning to permanent settlements and temples for major festivals. They are known for skill with animals, prowess in battle, and a close connection to their gods, the [Dunmari Religion](<../../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>). The traditional focus of Dunmari settlement on religious, monumental, and administrative buildings has led to a variety of distinctive [Dunmari architectural styles](<dunmari-architecture.md>). 
+The Dunmari have long been a nomadic people, traditionally moving seasonally with their horses and herds, and only returning to permanent settlements and temples for major festivals. They are known for skill with animals, prowess in battle, and a close connection to their gods, the [Five Siblings](<../../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>). The traditional focus of Dunmari settlement on religious, monumental, and administrative buildings has led to a variety of distinctive [Dunmari architectural styles](<dunmari-architecture.md>). 
 
 During the Nayan Dynasty, a more sedentary culture has developed on the fertile [Nayan Floodplains](<../../nayan-floodplains.md>) and [Darba Highlands](<../../darba-highlands/darba-highlands.md>). 
 

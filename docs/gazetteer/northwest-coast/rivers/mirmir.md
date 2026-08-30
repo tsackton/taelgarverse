@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-pronunciation: MEER-meer
+lintedAt: '2026-08-24T09:25:51-04:00'
+lintVersion: '3.5'
 tags: [place]
-name: Mirmir
 typeOf: waterway
+typeOfAlias: river
+name: Mirmir
+pronunciation: MEER-meer
 whereabouts: Mawakel Peninsula
 dm_owner: none
-dm_notes: color
-typeOfAlias: river
+dm_notes: none
+POV: modern
 title: Mirmir
 ---
 # Mirmir
@@ -17,4 +20,9 @@ title: Mirmir
 </div>
 
 
-A river that flows from the hilly interior of the [Mawakel Peninsula](<../mawar-confederacy/mawakel-peninsula.md>), past the port town of [Hamri](<../mawar-confederacy/hamri.md>), to the [Endless Ocean](<../../endless-ocean.md>). 
+A river that flows from the hilly interior of the [Mawakel Peninsula](<../mawar-confederacy/mawakel-peninsula.md>), past the port town of [Hamri](<../mawar-confederacy/hamri.md>), to the [Endless Ocean](<../../endless-ocean.md>).
+
+
+
+
+

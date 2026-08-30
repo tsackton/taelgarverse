@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
-campaignInfo: []
-name: Hektor
-born: 1716
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo: []
+born: 1716
 gender: male
+name: Hektor
 whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Hektor
 hide_toc: true
 ---
@@ -36,4 +40,11 @@ A barbarian. A huge Chardonian man, muscled and over 6 feet tall. Silent. Does n
 According to [Marcella](<marcella.md>), he was once a sweet sailor with a beautiful singing voice, but was turned somehow by [Kadmos](<kadmos.md>) and now is his devoted servant. 
 
 ![Hektor](/taelgarverse/assets/hektor.webp){align="right"; width="320"}
+
+
+
+
+
+
+
 

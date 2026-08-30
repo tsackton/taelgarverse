@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:40:59-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: neighborhood
 typeOfAlias: urban area
@@ -30,7 +30,7 @@ Originally this area was devoted largely to military use. In the current day, th
 
 The central part of the walled area, known as the [Bastion Quarter](<bastion-quarter.md>), and centered around the [Merchant's Gate](<trade-gate-chardon.md>), is richer, dotted with inns and taverns catering to the trade that enters the city from [north road](<../north-road.md>). Here the land begins to slope upwards along the spur of [Mount Nera](<mount-nera.md>). As the land slopes upward, the [Bastion Quarter](<bastion-quarter.md>) transitions to the area known as the [Summit Quarter](<summit-quarter.md>), where respectable houses dot the streets and artisans make a living above the stink of the lowlands along the riverbank. 
 
-East (upriver) of the fortifications along the height of land of the [Mount Nera](<mount-nera.md>) spur, the land is hillier and dryer, and this region, known as the [Nera Domains](<nera-domains.md>), is dotted with elaborate manors of the rich and prosperous. 
+East (upriver) of the fortifications along the height of land of the [Mount Nera](<mount-nera.md>) spur, the land is hillier and drier, and this region, known as the [Nera Domains](<nera-domains.md>), is dotted with elaborate manors of the rich and prosperous.
 
 Two major bridges cross the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), connecting the North Bank to the bulk of the city to the south. 
 

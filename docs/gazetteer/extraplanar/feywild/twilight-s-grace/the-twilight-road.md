@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T19:01:27-04:00'
-lintVersion: '3.4'
-tags: [place, status/cleanup/text, status/check/ai]
+lintedAt: '2026-08-23T14:23:24-04:00'
+lintVersion: '3.5'
+tags: [place, status/check/mike, status/check/ai, status/check/lint]
 typeOf: planar link
 typeOfAlias: fey portal
 name: The Twilight Road
@@ -64,6 +64,8 @@ A traveler who remains upon the Road and continues forward without looking back 
 Once the Road begins to change, turning back or stepping from the path usually returns the traveler to the side from which they began. Some stories claim that those who leave the Road entirely may emerge somewhere else, or at some other time.
 
 On reaching Tyrwingha, the change is subtle. The light becomes flatter, the air colder, and the sounds of ordinary insects and birds return. The path becomes muddy and narrow, and after some further walking eventually joins a local road or reaches a small hamlet.
+
+
 
 
 

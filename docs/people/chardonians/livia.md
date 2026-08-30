@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: DuFr, type: mentioned to, date: 1749-01-08, wParty: '<met:U> <person> on <target>'}
 species: human
-name: Livia
-whereabouts: Luminatia
-gender: female
 ancestry: Chardonian
+gender: female
+name: Livia
+pronunciation: LEE-vyah
+whereabouts: Luminatia
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1749
 title: Livia
 hide_toc: true
 ---
 # Livia
+:speaker:{ .middle } *(LEE-vyah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -24,10 +28,7 @@ hide_toc: true
 </div>
 
 
-
-:octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on January 8th, 1749  
-
-
-
-
 [Lucius](<lucius.md>)'s mother.
+
+
+

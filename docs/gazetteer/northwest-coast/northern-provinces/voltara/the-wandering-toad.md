@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate/gl]
+lintedAt: '2026-08-24T09:25:51-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
-name: The Wandering Toad
+tags: [place]
 typeOf: inn
+name: The Wandering Toad
 whereabouts:
 - {type: primary, location: Voltara}
-dm_notes: important
 dm_owner: tim
+dm_notes: none
+POV: 1747
 title: The Wandering Toad
 ---
 # The Wandering Toad
@@ -16,6 +19,10 @@ title: The Wandering Toad
 </div>
 
 
-A small, welcoming inn just inside the city walls of [Voltara](<voltara.md>). Known for wild game, mushrooms, and ale, and run by the unusually large halfling [Finoc Small](<../../../../people/halflings/finoc-small.md>). 
+The Wandering Toad is a small but welcoming and friendly inn just inside the city walls of [Voltara](<voltara.md>). Run by the unusually large halfling [Finoc Small](<../../../../people/halflings/finoc-small.md>), it is known for wild game, mushrooms, and good ale. 
+
+
+
+
 
 

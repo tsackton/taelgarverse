@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Deno'qai
@@ -42,6 +42,7 @@ hide_toc: true
 
 
 The stories of Safri feel to [Delwath](<../pcs/dunmar-fellowship/delwath.md>) as he listens to them like folk tales. But you do meet a few people who have spoken to her. Those who have met her in human form describe a feeling as if the souls of animals gather to her: [A'gaza](<../../gods-and-religions/gods/tanshi/a-gaza.md>), the tanshi of deer, reindeer, caribou; [Bita](<../../gods-and-religions/gods/tanshi/bita.md>), the tanshi of bears; [Washi](<../../gods-and-religions/gods/tanshi/washi.md>), the tanshi of the forest mice and squirrels who gather food for the long winters. And as people tell these tales, you feel the eyes of your lynx shield staring intently, and the vision of [Nisir](<../../gods-and-religions/gods/tanshi/meswati/nisir.md>), the tanshi of the hawks and eagles pulling at you. Whatever else she may be, Safri is clearly favored by those tanshi that are connected to animals.
+
 
 
 

@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:38:37-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: plane
+typeOfAlias: rumored plane
+name: Mirror Realm
 whereabouts:
 - {type: home, location: Echo Realms, wHome: 'A <typeOf> in <home:1>'}
 dm_owner: none
 dm_notes: none
-typeOfAlias: rumored plane
+POV: modern
 title: Mirror Realm
 ---
 # The Mirror Realm
@@ -15,11 +19,16 @@ title: Mirror Realm
 </div>
 
 
-The Mirror Realm is a hypothesized a place of reflections and mirrors where alternate, twisted versions of the past, present, and future dwell in a strange conglomeration of infinity possibilities. While rumors and speculation about this realm can be found in numerous scholarly works of metaphysics and planar cosmology, there is no firm proof of its existence. 
+The Mirror Realm is a hypothesized place of reflections and mirrors where alternate, twisted versions of the past, present, and future dwell in a strange conglomeration of infinite possibilities. While rumors and speculation about this realm can be found in numerous scholarly works of metaphysics and planar cosmology, there is no firm proof of its existence.
 
 The most extensive speculation on the Mirror Realm, collected in [On the Nature of Reflections and Transitive Magic](<../../things/books/on-the-nature-of-reflections-and-transitive-magic.md>), claims that the Mirror Realm is real, but very dangerous to access, for entering the Mirror Realm allows your reflection to leave. Thus, no firm proof of the Mirror Realm's existence can be obtained, for travelers to the Mirror Realm are quietly replaced, only to be trapped forever as reflections themselves.
 
 
-In the autumn of 1748, [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) [rescued](<../../campaigns/dunmari-frontier-campaign/session-notes/session-66-dufr.md>) [Arryn the Wanderer](<../../people/other-humans/arryn.md>), a strange wizard, from the Mirror Realm, by discovering and destroying his mirror duplicate, in the process being forced to fight a mirror reflection of his traveling companion [Alimash](<../../people/pcs/dunmar-fellowship/guests/alimash.md>), who appeared as the real [Alimash](<../../people/pcs/dunmar-fellowship/guests/alimash.md>) entered the mirror realm.
+In the autumn of 1748, [Wellby](<../../people/pcs/dunmar-fellowship/wellby.md>) [rescued](<../../campaigns/dunmari-frontier-campaign/session-notes/session-66-dufr.md>) [Arryn the Wanderer](<../../people/other-humans/arryn.md>), a strange wizard, from the Mirror Realm, by discovering and destroying his mirror duplicate, in the process being forced to fight a mirror reflection of his traveling companion [Alimash](<../../people/pcs/dunmar-fellowship/guests/alimash.md>), who appeared as the real [Alimash](<../../people/pcs/dunmar-fellowship/guests/alimash.md>) entered the mirror realm. During Arryn's DR 1748 entrapment, ordinary magic failed within the Mirror Realm and he lost his memory of the Material Plane. Destroying his mirror duplicate restored him to the Material Plane.
+
+
+
+
+
 
 

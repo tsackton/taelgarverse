@@ -1,20 +1,26 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Niccolo
+species: human
 ancestry: Chardonian
 gender: male
-species: human
+campaignInfo:
+- {campaign: grli, type: met, date: 1748-09-18}
+name: Niccolo
+pronunciation: neek-koh-LOH
 whereabouts:
 - {type: home, location: Castrella}
-campaignInfo:
-- {campaign: GL, type: met, date: 1748-09-18}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Niccolo
 hide_toc: true
 ---
 # Niccolo
+:speaker:{ .middle } *(neek-koh-LOH)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -27,3 +33,7 @@ hide_toc: true
 
 
 Niccolo is a librarian in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>).
+
+
+
+

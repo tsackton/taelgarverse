@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T13:33:35-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 displayDefaults: {ltPerson: by}
 tags: [group]
 typeOf: adventuring party
@@ -25,7 +25,6 @@ The Addermarch Mercenaries are:
 - [Drou](<drou.md>), an elven bard from [Orenlas](<../../../gazetteer/upper-istaros/orenlas/orenlas.md>)
 - [Fazoth](<fazoth-de-brune.md>), a human warlock from [Eskbridge](<../../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>)
 - [Yvan](<yvan-greenrabbit.md>), a halfling sorcerer from the roads of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
-
 
 
 

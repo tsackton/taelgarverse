@@ -1,18 +1,25 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
 tags: [person]
+species: human
+ancestry: Chardonian
 campaignInfo:
 - {campaign: dufr, type: met, person: Wellby, date: 1749-05-07}
 gender: male
-ancestry: Chardonian
-species: human
+name: Tullus
+pronunciation: TOOL-loos
 whereabouts: Castrella
+knownTo: [dufr]
 dm_owner: tim
-dm_notes: color
+dm_notes: none
+POV: 1749
 title: Tullus
 hide_toc: true
 ---
 # Tullus
+:speaker:{ .middle } *(TOOL-loos)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -28,4 +35,8 @@ hide_toc: true
 
 
 Tullus is a portly man with spectacles perched on the bridge of his nose, surrounded by stacks of books and scrolls in his cluttered shop. He is a scribe and bookseller by profession, with a particular fondness for maps, albeit somewhat colored by a rather provincial lack of interest in distant, far off lands. 
+
+
+
+
 

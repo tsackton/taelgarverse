@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:38:37-04:00'
+lintVersion: '3.5'
 tags: [place]
+typeOf: plane
+name: Elemental Plane of Fire
+aliases: [Plane of Fire]
 whereabouts:
 - {type: home, location: Energy Realms, wHome: 'A <typeOf> in <home:2>'}
-aliases: [Plane of Fire]
-typeOf: plane
-dm_notes: none
 dm_owner: tim
+dm_notes: none
+POV: modern
 title: Elemental Plane of Fire
 ---
 # The Elemental Plane of Fire
@@ -20,17 +24,19 @@ title: Elemental Plane of Fire
 	
 	> A plane in the [Energy Realms](<energy-realms.md>)
 
-The Elemental Plane of Fire is described in one of the few surviving fragments of the *[Compendium of Fire](<../../things/books/compendium-of-fire.md>)* as a realm of unrelenting heat and ceaseless flame. It is a place where the ground itself blazes with molten rock, rivers of lava carve paths through burning wastelands, and the air shimmers with an oppressive heat that few can endure. The sky above is alight with a permanent glow, that grows to a white hot furnace during the day, and dims to a red fiery twilight at night. Travelers who enter this plane unprepared for the supernatural heat of this real are doomed to perish, their bodies scorched beyond recognition. 
+The Elemental Plane of Fire is described in the *[Compendium of Fire](<../../things/books/compendium-of-fire.md>)* as a realm of unrelenting heat and ceaseless flame. It is a place where the ground itself blazes with molten rock, rivers of lava carve paths through burning wastelands, and the air shimmers with an oppressive heat that few can endure. The sky above is alight with a permanent glow, that grows to a white hot furnace during the day, and dims to a red fiery twilight at night. Travelers who enter this plane unprepared for the supernatural heat of this realm are doomed to perish, their bodies scorched beyond recognition.
 
-The Plane of Fire is described by [Airion](<../../people/other-humans/airion.md>) as the most dangerous of the Elemental Realms, the hardest to study, for only those with magical resistance to the oppressive heat of the plane can survive there. The most reliable scholarly studies of the Plane of Fire were conducted by the Drankorian society [Concordia Pyrae](<../../groups/drankorian-societies/concordia-pyrae.md>), an order of planar scholars and pyromancers dedicated to uncovering the secret essence of fire itself. Their _[Compendium of Fire](<../../things/books/compendium-of-fire.md>)_, a ten-volume encyclopedia on the plane, was tragically lost during the [Fall of Drankor](<../../events/1000s/1059/fall-of-drankor.md>), leaving significant gaps in our modern understanding of this realm.
+The Plane of Fire is described by [Airion](<../../people/other-humans/airion.md>) as the most dangerous of the Elemental Realms, the hardest to study, for only those with magical resistance to the oppressive heat of the plane can survive there. The most reliable scholarly studies of the Plane of Fire were conducted by the Drankorian society [Concordia Pyrae](<../../groups/drankorian-societies/concordia-pyrae.md>), an order of planar scholars and pyromancers dedicated to uncovering the secret essence of fire itself. Their scholarly magnum opus, the ten-volume *[Compendium of Fire](<../../things/books/compendium-of-fire.md>)*, was long believed to have been lost during the [Fall of Drankor](<../../events/1000s/1059/fall-of-drankor.md>). Recently, the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) recovered ten fireproof volumes from a [Concordia Pyrae](<../../groups/drankorian-societies/concordia-pyrae.md>) villa on the [Circular Island](<../../gazetteer/drankorian-hinterland/circular-island.md>). The collection, now in [Seeker's](<../../people/pcs/dunmar-fellowship/seeker.md>) possession, includes seven volumes of research into the magic of the Plane of Fire and three chronicling the history of the villa. Because the collection has only recently resurfaced, its implications for modern scholarship remain unsettled.
 
 ### Portals to the Plane of Fire
 
-Little reliable information is known about portals to the Plane of Fire. Like all elemental planes, the Plane of Fire can be reached from the [Ethereal Plane](<../ethereal-plane.md>), through shimmering curtains that resemble bright red flames. The elementalist [Airion the Mistspeaker](<../../people/other-humans/airion.md>) collected tales from fire giants that suggest permanent portals to the Plane of Fire may exist at the heart of volcanoes, and that temporary [elemental vortexes](<../planar-concepts/elemental-vortex.md>) may spawn in the midst of the most intense wildfires. How one might safely traverse a portal of molten lava is not obvious, although several cryptic hints point to the lost [Compendium of Fire](<../../things/books/compendium-of-fire.md>). 
+Little reliable information is known about portals to the Plane of Fire. Like all elemental planes, the Plane of Fire can be reached from the [Ethereal Plane](<../ethereal-plane.md>), through shimmering curtains that resemble bright red flames. The elementalist [Airion the Mistspeaker](<../../people/other-humans/airion.md>) collected tales from fire giants that suggest permanent portals to the Plane of Fire may exist at the heart of volcanoes, and that temporary [elemental vortexes](<../planar-concepts/elemental-vortex.md>) may spawn in the midst of the most intense wildfires. How one might safely traverse a portal of molten lava is not obvious, although several cryptic hints point to the lost [Compendium of Fire](<../../things/books/compendium-of-fire.md>). Its recent recovery may preserve important guidance. 
 
 ### Traveling on the Plane of Fire
 
-Few firsthand accounts of travel on the Plane of Fire exist due to its inhospitable nature, although many secondary sources refer to the [Compendium of Fire](<../../things/books/compendium-of-fire.md>), unfortunately now lost. The sources that do exist are fragmentary and contradictory, and little reliable information can be gleaned from them. 
+
+
+Few firsthand accounts of travel on the Plane of Fire exist due to its inhospitable nature. The recently recovered *[Compendium of Fire](<../../things/books/compendium-of-fire.md>)* promises to fill major gaps, once it is fully translated and understood. Other available sources are fragmentary and contradictory, and little reliable information can be gleaned from them.
 
 ### Inhabitants of the Plane of Fire
 
@@ -48,6 +54,10 @@ Due to the harsh conditions, reliable maps of the Plane of Fire do not exist, an
 
 - [Nalzuris](<../../gazetteer/extraplanar/plane-of-fire/nalzuris.md>), sometimes translated as the Golden City, thought to be a center of efreeti palaces and forges. 
 - The [Cinder Wastes](<../../gazetteer/extraplanar/plane-of-fire/cinder-wastes.md>), of which little is known beyond the name.
-- The [Sea of Fire](<../../gazetteer/extraplanar/plane-of-fire/sea-of-fire.md>), a sea of lava, fire, and ash supposedly spreading from center of the plane.
+- The [Sea of Fire](<../../gazetteer/extraplanar/plane-of-fire/sea-of-fire.md>), a sea of lava, fire, and ash supposedly spreading from the center of the plane.
+
+
+
+
 
 

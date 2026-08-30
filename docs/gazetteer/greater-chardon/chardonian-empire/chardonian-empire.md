@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T19:01:27-04:00'
-lintVersion: '3.4'
-tags: [place, status/gameupdate/gl, status/gameupdate/dufr, status/cleanup/text]
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
+tags: [place, status/gameupdate/gl, status/gameupdate/dufr, status/cleanup/text, status/check/lint]
 typeOf: realm
 typeOfAlias: empire
 name: Chardonian Empire
-pronunciation: char-DOH-nee-an
 aliases: [Chardonian]
+pronunciation: char-DOH-nee-an
 whereabouts: Greater Chardon
 dm_owner: tim
 dm_notes: important
@@ -23,7 +23,7 @@ title: Chardonian Empire
 
 
 
-The Chardonian Empire is a large and powerful realm ruled from the city of [Chardon](<chardon/chardon.md>). Its power rests on the legions, the city’s institutions of learning and magic, and the wealth of the [chalyte](<../../../things/materials/chalyte.md>) trade. The Chardonian Empire grew from the city of Chardon in the years after the Great War, expanding in fits and starts until it stretched across the entire western coast from [Voltara](<../../northwest-coast/northern-provinces/voltara/voltara.md>) in the north to [Illoria](<../../nevos-and-apporia/illoria.md>) in the south. Today, the Chardonian Empire is vast and powerful, the dominant cultural, academic, and military force in the west, a place of learning and magic and innovation, that sees itself as the defender of civilization against the forces of evil and the heir to the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>) 
+The Chardonian Empire is a large and powerful realm ruled from the city of [Chardon](<chardon/chardon.md>). Its power rests on the legions, the city’s institutions of learning and magic, and the wealth of the [chalyte](<../../../things/materials/chalyte.md>) trade. The Chardonian Empire grew from the city of Chardon in the years after the Great War, expanding in fits and starts until it stretched across the entire western coast from [Voltara](<../../northwest-coast/northern-provinces/voltara/voltara.md>) in the north to [Illoria](<../../nevos-and-apporia/illoria.md>) in the south. Today, the Chardonian Empire is vast and powerful, the dominant cultural, academic, and military force in the west, a place of learning and magic and innovation, that sees itself as the defender of civilization against the forces of evil and the heir to the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>).
 
 ## The Empire and Its Lands
 
@@ -41,7 +41,7 @@ Major regions of the empire include:
 
 ## Rule and Administration
 
-The far-flung Chardonian Empire is controlled and protected by the power of the [Chardonian Legion](<../../../groups/chardonian-organizations/chardonian-legion.md>), and ruled by the imperial bureaucracy based in Chardon itself. The Magistros is both the ruler of the city of [Chardon](<chardon/chardon.md>) and the head of the vast imperial state, but control is exercised primarily through the extensive civil service and, in the provinces, by governors proconsuls, and chartered officials, often supported by legionary garrisons. The [Curia of 42](<../../../groups/chardonian-organizations/curia-of-42.md>), the elected assembly of the city of [Chardon](<chardon/chardon.md>), exercises limited control over the imperial bureaucracy, but retains the power to shape the economy of the Chardonian Empire via itse control over charter monopolies, administered by the [Chamber of Stamps](<../../../groups/chardonian-organizations/chamber-of-stamps.md>).
+The far-flung Chardonian Empire is controlled and protected by the power of the [Chardonian Legion](<../../../groups/chardonian-organizations/chardonian-legion.md>), and ruled by the imperial bureaucracy based in Chardon itself. The Magistros is both the ruler of the city of [Chardon](<chardon/chardon.md>) and the head of the vast imperial state, but control is exercised primarily through the extensive civil service and, in the provinces, by governors, proconsuls, and chartered officials, often supported by legionary garrisons. The [Curia of 42](<../../../groups/chardonian-organizations/curia-of-42.md>), the elected assembly of the city of [Chardon](<chardon/chardon.md>), exercises limited control over the imperial bureaucracy, but retains the power to shape the economy of the Chardonian Empire via its control over charter monopolies, administered by the [Chamber of Stamps](<../../../groups/chardonian-organizations/chamber-of-stamps.md>).
 
 Some provinces, such as [Greater Voltara](<../../northwest-coast/northern-provinces/greater-voltara.md>) and much of the [Northern Provinces](<../../northwest-coast/northern-provinces/northern-provinces.md>), have a strong and direct imperial presence; other places, such as [Cedrano](<apporia/cedrano.md>) and [Raziolo](<apporia/raziolo.md>) in [Apporia](<apporia/apporia.md>), have substantial local autonomy. [Illoria](<../../nevos-and-apporia/illoria.md>) is a special case: it exists as a vassal state with [Chardon](<chardon/chardon.md>) as suzerain, controlling naval affairs and foreign policy but allowing relative independence to govern local matters. 
 
@@ -79,6 +79,7 @@ In the most commonly told imperial chronology:
 - Late DR 1600s onward: The discovery and exploitation of [chalyte](<../../../things/materials/chalyte.md>) near [Voltara](<../../northwest-coast/northern-provinces/voltara/voltara.md>) transforms the empire’s finances and reach, tightening imperial control over the [Northern Provinces](<../../northwest-coast/northern-provinces/northern-provinces.md>) and fueling the rise of chalyte‑powered magic and industry.
 - DR 1689–1720: The chalyte boom in [Alta Tonaro](<alta-tonaro/alta-tonaro.md>) leads to rapid growth around [Argento](<alta-tonaro/argento.md>), followed by decline as surface chalyte deposits dwindle and the [Chataan Mountains](<../chataan-mountains.md>) are increasingly treated as unsafe for travel.
 - The current era: Chardon’s legions have recently conquered [Illoria](<../../nevos-and-apporia/illoria.md>), turning a pirate archipelago into a protectorate.
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:22:55-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T18:23:23-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 gender: male
@@ -26,6 +26,7 @@ hide_toc: true
 
 
 A mysterious associate of [Duncan of Haldrenn](<duncan-of-haldrenn.md>), now a guard in the household of the Earl of Adderfell. 
+
 
 
 

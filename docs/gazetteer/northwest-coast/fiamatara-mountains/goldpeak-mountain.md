@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-23T23:55:52-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
-name: Goldpeak Mountain
+tags: [place]
 typeOf: topographical feature
+typeOfAlias: mountain
+name: Goldpeak Mountain
 whereabouts:
 - {type: primary, location: Fiatara Mountains}
 dm_owner: none
 dm_notes: none
-typeOfAlias: mountain
+POV: modern
 title: Goldpeak Mountain
 ---
 # Goldpeak Mountain
@@ -18,3 +21,7 @@ title: Goldpeak Mountain
 
 
 One of the southernmost major peaks of the [Fiatara Mountains](<fiatara-mountains.md>), notable for the [extensive dwarven mines](<goldpeak-mines.md>) beneath it. 
+
+
+
+

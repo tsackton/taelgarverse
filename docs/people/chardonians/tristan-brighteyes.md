@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+displayDefaults: {defArt: ''}
 tags: [person]
 species: human
 ancestry: Chardonian
 gender: male
-displayDefaults: {defArt: ''}
-dm_notes: none
+name: Tristan Brighteyes
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1749
 title: Tristan Brighteyes
 hide_toc: true
 ---
@@ -21,4 +26,9 @@ hide_toc: true
 
 
 A young Windcaller and advisor to [Mitus Verina Auratan](<mitus-verina-auratan.md>). 
+
+
+
+
+
 

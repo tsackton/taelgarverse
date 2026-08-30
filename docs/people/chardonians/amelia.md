@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
+ancestry: Chardonian
 born: 1728
 gender: female
-ancestry: Chardonian
+name: Amelia
 whereabouts: Chardon
-dm_notes: none
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1749
 title: Amelia
 hide_toc: true
 ---
@@ -27,3 +32,8 @@ Amelia is a mid-level official, part of the [Chamber of Stamps](<../../groups/ch
 
 
 Amelia was controlled for some time by [Fausto](<fausto.md>) using the [Crown of Purity](<../../things/artifacts-of-power/crown-of-purity.md>), and when that control was broken she was left adrift and lost in her own mind, clinging strangely to Dwarven prayers for comfort. 
+
+
+
+
+

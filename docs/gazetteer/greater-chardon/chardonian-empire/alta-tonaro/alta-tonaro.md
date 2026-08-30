@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:40:59-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T14:23:24-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
 tags: [place, status/gameupdate/dufr]
 typeOf: realm
@@ -12,7 +12,7 @@ whereabouts:
 - {type: primary, location: Chardonian Empire}
 dm_owner: tim
 dm_notes: color
-POV: modern
+POV: 1740s
 title: Alta Tonaro
 ---
 # Alta Tonaro
@@ -33,6 +33,7 @@ In DR 1689, reports reached [Chardon](<../chardon/chardon.md>) that traces of [c
 But it was not to last. By DR 1704 [chalyte](<../../../../things/materials/chalyte.md>) production had peaked, and in DR 1706 it was obvious that the boom was not to last. The last surface mine ceased production in DR 1712, and by DR 1720, as Magistros Seva Auratan came to power, the [Chataan Mountains](<../../chataan-mountains.md>) were fortified and declared unsafe for travel. 
 
 Since then, silver production has continued around [Argento](<argento.md>), but, though valuable, silver has only a tiny fraction of the value of [chalyte](<../../../../things/materials/chalyte.md>), and [Alta Tonaro](<alta-tonaro.md>) is now considered a poor backwater by most.
+
 
 
 

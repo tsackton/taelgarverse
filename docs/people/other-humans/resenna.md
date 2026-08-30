@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, person: Wellby, type: rescued from imprisonment in an aboleth's lair, date: 1748-10-14}
-name: Resenna
-born: 1724
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry:
+campaignInfo:
+- {campaign: dufr, person: Wellby, type: rescued from imprisonment in an aboleth's lair, date: 1748-10-14}
+born: 1724
 gender: female
+name: Resenna
 whereabouts:
 - {type: home, location: Medju}
 - {type: away, start: 1748-10-01, end: 1748-10-14, location: Outer Ocean}
 - {type: away, start: 1748-10-16, prefix: sea elf village in, location: Quanyi}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1748
 title: Resenna
 hide_toc: true
 ---
@@ -36,3 +40,9 @@ hide_toc: true
 
 
 ![Resenna](/taelgarverse/assets/resenna.webp){align="right"; width="320"}Young woman, from Medju. Apprentice to [Arryn](<arryn.md>). Fled when he vanished into [Mirror Realm](<../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>); was trapped and enslaved by aboleth. Now dwelling with sea elves until aboleth curse can be removed. 
+
+
+
+
+
+

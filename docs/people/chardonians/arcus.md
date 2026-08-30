@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T18:23:23-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: petrified}
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/text]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -57,8 +57,6 @@ Left [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardo
 Passed through [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) alone in late February or early March, according to [Jasu](<../dunmari/jasu.md>) and [Ikram](<../dunmari/ikram.md>).
 
 ## Chronology
-
-
 
 
 

@@ -1,17 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
-gender: female
 ancestry: Chardonian
+gender: female
 born: 1721
+name: Adina
+pronunciation: ah-DEE-nah
 whereabouts: Chalyte Levels
-dm_notes: none
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1749
 title: Adina
 hide_toc: true
 ---
 # Adina
+:speaker:{ .middle } *(ah-DEE-nah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -26,4 +33,10 @@ hide_toc: true
 Adina is a Chardonian woman from the slums of the [North Bank](<../../gazetteer/greater-chardon/chardonian-empire/chardon/north-bank.md>). She has short, shoulder-length curly black hair, and a skinny build. She is the older sister of [Xavier](<xavier.md>), and daughter of [Francisca](<francisca.md>). 
 
 She helps her mother with piece-work mending, but dreams of seeing faraway places. 
+
+ Adina is in a relationship with [Camila](<camila.md>).
+
+
+
+
 

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Chardonian
@@ -34,7 +34,8 @@ A childhood friend of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s, Xavier los
 
 He lives with his mother, [Francisca](<francisca.md>), and sister, [Adina](<adina.md>), in a small apartment near the [Foundry Market](<../../gazetteer/greater-chardon/chardonian-empire/chardon/foundry-market.md>). Like many of the dwellings in the [Chalyte Levels](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chalyte-levels.md>), it is a small, cramped place, in a building that once housed a smithy but now has been converted to tenements. Xavier and his family live in a small room with a sleeping area with two straw mats, and a hearth, and not much more. A few stools and a low bench by the wall provide seating; a chest pushed under the bench stores the family's few possessions, mostly sewing material. There is only a single small window, with wooden shutters. 
 
- During the [Chardon Chalyte Riots](<../../events/1700s/1749/chardon-chalyte-riots.md>), Xavier served as hired muscle for the [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>). He helped [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) connect with [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>) leaders, introducing them to [Andros](<andros.md>) and other resistance leaders at [The Cackling Swan](<../../gazetteer/greater-chardon/chardonian-empire/chardon/the-cackling-swan.md>). `
+ During the [Chardon Chalyte Riots](<../../events/1700s/1749/chardon-chalyte-riots.md>), Xavier served as hired muscle for the [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>). He helped [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) connect with [Eightfold Flame](<../../groups/chardonian-organizations/eightfold-flame.md>) leaders, introducing them to [Andros](<andros.md>) and other resistance leaders at [The Cackling Swan](<../../gazetteer/greater-chardon/chardonian-empire/chardon/the-cackling-swan.md>). 
+
 
 
 

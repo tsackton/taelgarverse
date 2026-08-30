@@ -1,18 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-23T23:55:52-04:00'
+lintVersion: '3.5'
 displayDefaults: {startStatus: settled, endStatus: abandoned, dPastHasStart: '<start:u> <startDate>, <end> <endDate>'}
-name: Guluppa-Sog
+tags: [place]
 typeOf: settlement
+typeOfAlias: village
 ancestry: bullywug
 created: 1747
 destroyed: 1748
+name: Guluppa-Sog
+pronunciation: goo-LUP-pa sog
 whereabouts:
 - {type: home, location: Zarnato, linkText: on the}
 dm_owner: none
 dm_notes: none
-typeOfAlias: village
-pronunciation: goo-LUP-pa sog
+POV: modern
 title: Guluppa-Sog
 ---
 # Guluppa-Sog
@@ -26,6 +29,12 @@ title: Guluppa-Sog
 
 Guluppa-Sog, as the bullywugs call it, loosely meaning "the settlement by the southern still-water", was a small [bullywug](<../../creatures/bestiary/bullywugs.md>) settlement on the [Zarnato](<../major-rivers/chasa-nahadi-watershed/zarnato.md>), upriver from the [Fort Zarnato](<northern-provinces/fort-zarnato.md>). It was settled by bullywugs from the area around [Blackwater Fens](<../northern-sentinels/blackwater-fens.md>) fleeing [Nymthrax](<../../people/other-nonhumans/nymthrax.md>).
 
-With limited food, its people started raiding Chardonian cattle from the [Fort Zarnato](<northern-provinces/fort-zarnato.md>), which eventually drew the attention of the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>). After [Nymthrax was killed](<../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-4.md>), the community abandoned Guluppa-Sog and returned north.
+With limited food, its people started raiding Chardonian cattle from the [Fort Zarnato](<northern-provinces/fort-zarnato.md>), which eventually drew the attention of the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>), who attacked the village during their investigation, killing many residents before making peace after learning that [Nymthrax](<../../people/other-nonhumans/nymthrax.md>) had displaced the community. After [Nymthrax was killed](<../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-4.md>), the community abandoned Guluppa-Sog and returned north.
+
+
+
+
+
+
 
 

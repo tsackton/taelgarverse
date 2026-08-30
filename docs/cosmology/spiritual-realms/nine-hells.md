@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:38:37-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: plane
 typeOfAlias: spiritual realm
+name: Nine Hells
 whereabouts:
 - {type: home, location: Spiritual Realms, wHome: 'A <typeof> in the <home:1>'}
 dm_owner: tim
 dm_notes: none
+POV: modern
 title: Nine Hells
 ---
 # The Nine Hells
@@ -18,4 +22,9 @@ title: Nine Hells
 The Nine Hells are a [Spiritual Realm](<spiritual-realms.md>), and the home of [devils](<../../creatures/extraplanar/devils.md>). Tales of the Nine Hells are tales of hubris and fall, in which devils work behind the scenes to turn the weak-willed and greedy toward evil purposes.
 
 The archdevils of the Nine Hells exist in a rigid hierarchy of power and influence. Among devils, possession of armies of servants, typically from mortal souls corrupted to evil and bound to servitude, is the surest way to gain strength and position.
+
+
+
+
+
 

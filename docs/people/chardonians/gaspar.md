@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
 tags: [person]
-ancestry: Chardonian
 species: human
+ancestry: Chardonian
 gender: male
+name: Gaspar
 whereabouts: Nera Domains
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1749
 title: Gaspar
 hide_toc: true
 ---
@@ -21,4 +26,8 @@ hide_toc: true
 </div>
 
 
-Gaspar is a prominent member of the [Chamber of Stamps](<../../groups/chardonian-organizations/chamber-of-stamps.md>), involved in the Chalyte Council. He is currently recovering, slowly, from many years living under [Fausto](<fausto.md>)'s control. 
+Gaspar is a prominent member of the [Chamber of Stamps](<../../groups/chardonian-organizations/chamber-of-stamps.md>), involved in the Chalyte Council. He is currently recovering, slowly, from many years living under [Fausto](<fausto.md>)'s control.
+
+
+
+

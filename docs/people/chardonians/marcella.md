@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text, status/cleanup/metadata]
-campaignInfo:
-- {campaign: dufr, person: Delwath, date: 1748-10-23, type: scryed}
-name: Marcella
-born: 1718
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/text, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, person: Delwath, date: 1748-10-23, type: scryed}
+born: 1718
 gender: female
+name: Marcella
 whereabouts:
 - {type: home, end: 1748-07-01, location: Chardon}
 - {type: away, start: 1748-10-23, location: Ausson's Crossing, wLastKnown: ''}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Marcella
 hide_toc: true
 ---
@@ -36,6 +40,7 @@ hide_toc: true
 
 
 
+
 A nondescript Chardonian woman, short brown hair and a plain face. An archer, skilled with a bow, wears well-tended leather armor under a traveling cloak. 
 
 Traveled uneasily with [Kadmos](<kadmos.md>), [Hektor](<hektor.md>), [Casian](<casian.md>), and [Antonia](<antonia.md>). 
@@ -43,4 +48,11 @@ Traveled uneasily with [Kadmos](<kadmos.md>), [Hektor](<hektor.md>), [Casian](<c
 Felt forced to try to steal from party in [Session 44 (DuFr)](<../../campaigns/dunmari-frontier-campaign/session-notes/session-44-dufr.md>), but when given the push by [Wellby](<../pcs/dunmar-fellowship/wellby.md>) to flee for herself at the end of battle figures out how to make her escape. Disappears when [Kadmos](<kadmos.md>) and company are fighting [Kobolds](<../../creatures/species/kobolds.md>) in the [Myraeni Gap](<../../gazetteer/greater-dunmar/myraeni-gap.md>), heading for the Stoneborn and then Sembara. 
 
 ![Marcella](/taelgarverse/assets/marcella.webp)
+
+
+
+
+
+
+
 

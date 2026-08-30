@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: unknown
 name: Ilanar
+pronunciation: ee-lah-NAHR
+knownTo: [grli]
 dm_owner: tim
 dm_notes: none
-pronunciation: ee-lah-NAHR
-species: unknown
+POV: modern
 title: Ilanar
 hide_toc: true
 ---
@@ -21,5 +25,11 @@ hide_toc: true
 
 
 A name spoken by a ghost from [Cairn Dor](<../../gazetteer/extraplanar/shadowfolds/cairn-dor/cairn-dor.md>). 
+
+
+
+
+
+
 
 

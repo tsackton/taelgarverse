@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:38:37-04:00'
+lintVersion: '3.5'
 tags: [place]
+typeOf: plane
+name: Elemental Plane of Air
 whereabouts:
 - {type: home, location: Energy Realms, wHome: 'A <typeOf> in <home:2>'}
-typeOf: plane
-dm_notes: none
 dm_owner: tim
+dm_notes: none
+POV: modern
 title: Elemental Plane of Air
 ---
 # The Elemental Plane of Air
@@ -14,7 +18,7 @@ title: Elemental Plane of Air
 </div>
 
 
-The Elemental Plane of Air, as described in the ancient elven poem [The Lay of Estar](<../../things/books/the-lay-of-estar.md>), is a realm of endless skies, of varied hues, across which vast clouds drift on the endless winds. It is a realm of extremes, from the soft, sweet-smelling summer's breeze blowing gentle clouds, to the howling winds and violence of a hurricane. While there is no ground on the Plane of Air, motes of earth float like islands in the sky, some as small as boulders, others miles upon miles across, and some cloud are solid enough to support great cities of djinni and other inhabitants of this plane. 
+The Elemental Plane of Air, as described in the ancient elven poem [The Lay of Estar](<../../things/books/the-lay-of-estar.md>), is a realm of endless skies, of varied hues, across which vast clouds drift on the endless winds. It is a realm of extremes, from the soft, sweet-smelling summer's breeze blowing gentle clouds, to the howling winds and violence of a hurricane. While there is no ground on the Plane of Air, motes of earth float like islands in the sky, some as small as boulders, others miles upon miles across, and some clouds are solid enough to support great cities of djinni and other inhabitants of this plane.
 
 !!! quote "*An excerpt from The Lay of Estar*"
 	Endless skies of azure spread,  
@@ -64,3 +68,7 @@ No reliable maps exist of the Plane of Air. Nonetheless, careful scholarship sug
 - [Sulmana](<../../gazetteer/extraplanar/plane-of-air/sulmana.md>), the City of Clouds, and home of the Dukes of the Four Winds. This is reported to be one of the great cities of the [Djinn](<../../creatures/extraplanar/elementals.md>), a place of towering domes built of spun clouds. 
 - The [Breath of Aerys](<../../gazetteer/extraplanar/plane-of-air/breath-of-aerys.md>), at the very center of the Plane of Air itself, said to be a place of pure stillness, the source of air itself. The djinni speak of this place as holy, and guard this place from travelers to the Plane of Air. 
 - The [Azure Archipelago](<../../gazetteer/extraplanar/plane-of-air/azure-archipelago.md>), a cluster of floating islands, described in [The Lay of Estar](<../../things/books/the-lay-of-estar.md>) and in many subsequent reports. They are said to be lush, verdant islands, drifting in a synchronized dance, surrounded by walls of perpetual mist. 
+
+
+
+

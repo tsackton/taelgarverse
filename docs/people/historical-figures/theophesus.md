@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T18:44:38-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Drankorian
@@ -31,6 +31,7 @@ Theophesus was a Drankorian scholar whose work helped define the concept of [Ech
 In later writing, Theophesus applied a similar idea to the [Dreamworld](<../../cosmology/dreamworld.md>) and the [Plane of Souls](<../../cosmology/plane-of-souls.md>), treating the Dreamworld as a metaphysical echo of the [Plane of Souls](<../../cosmology/plane-of-souls.md>). 
 
 In the modern age, his writing is chiefly influential via his work's impact on [Gaius Devarro](<gaius-devarro.md>) and the development of the [Standard Multiversal Model](<../../cosmology/planar-concepts/standard-multiversal-model.md>).
+
 
 
 

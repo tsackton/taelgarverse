@@ -2,14 +2,14 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: desert
-whereabouts: Dunmari Basin
+whereabouts: Hara Basin
 dm_owner: tim
 dm_notes: important
 title: Karawa Desert
 ---
 # The Karawa Desert
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A desert the Dunmari Basin  
+-    :octicons-location-24:{ .lg .middle } A desert in the [Hara Basin](<hara-basin.md>), [Greater Dunmar](<../greater-dunmar.md>)  
 </div>
 
 

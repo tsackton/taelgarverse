@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: clee, date: 1720-01-03}
-name: Ames Benthey
-born: 1675
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, date: 1720-01-03}
+born: 1675
 gender: male
+name: Ames Benthey
 affiliations:
 - {org: Lord's Guard of Cleenseau, title: Captain, type: leader}
 - {org: Essfords, title: Guard Captain}
@@ -16,8 +18,10 @@ whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry}
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 title: Ames Benthey
 hide_toc: true
 ---
@@ -40,6 +44,11 @@ hide_toc: true
 
 
 ![Ames Benthey](/taelgarverse/assets/ames-benthey.webp){align="right"; width="320"}The captain of the household guard of [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>), part of the [Lord's Guard](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). Likes to play dice with [Celyn](<../pcs/cleenseau/celyn.md>). Better at delegating than doing any actual work and enjoys his food. However, when push comes to shove, he is a competent fighter and captain. 
+
+
+
+
+
 
 
 

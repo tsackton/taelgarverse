@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Greymalkin
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
 displayDefaults: {startStatus: appeared from the Feywild on}
-born: 1720-01-07
+tags: [person, status/check/lint]
 species: fey
 subspecies: griffin
+born: 1720-01-07
+gender: male
+name: Greymalkin
 affiliations:
 - {org: Heroes of Cleenseau, title: Companion}
-gender: male
+knownTo: [clee]
 dm_owner: player
 dm_notes: important
+POV: 1720
 title: Greymalkin
 hide_toc: true
 ---
@@ -30,4 +34,11 @@ hide_toc: true
 
 
 ![Greymalkin 2](/taelgarverse/assets/greymalkin-2.webp)
+
+
+
+
+
+
+
 

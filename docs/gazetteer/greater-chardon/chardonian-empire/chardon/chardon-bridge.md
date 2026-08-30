@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T19:01:27-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T15:25:54-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: infrastructure
 typeOfAlias: bridge
@@ -21,6 +21,7 @@ title: Chardon Bridge
 
 
 One of the two major permanent bridges that cross the [Chasa River](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>) in the city of [Chardon](<chardon.md>). This bridge marks the height of navigation on the [Chasa](<../../../major-rivers/chasa-nahadi-watershed/chasa.md>), although riverboat traffic is frequent upriver from here.
+
 
 
 

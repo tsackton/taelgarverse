@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T15:25:54-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: topographical feature
 typeOfAlias: peninsula
@@ -61,11 +61,12 @@ After the fall of Drankor, [Castrella](<castrella.md>), in the current day provi
 
 In the chaos after the [Great War](<../../../../events/1500s/great-war.md>), [Illorian](<../../../nevos-and-apporia/illoria.md>) pirates under the command of [Chirce](<../../../../people/historical-figures/chirce.md>) established control over much of the current day territory of [Portalia](<portalia.md>), including the [Old Chardon Canal](<old-chardon-canal.md>), and parts of current day [Cedrano](<cedrano.md>), although not the capital [Castrella](<castrella.md>), or the current day province of [Raziolo](<raziolo.md>). After [Chirce](<../../../../people/historical-figures/chirce.md>) was driven out of [Darba](<../../../greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) in DR 1559, he made [Pergia](<pergia.md>), the city at the [Emerald Bay](<emerald-bay.md>) entrance to the [Old Chardon Canal](<old-chardon-canal.md>), his capital, and lived off the profits of the canal trade. During the next 10 years, [Castrella](<castrella.md>) reconquered much of what is now [Cedrano](<cedrano.md>), and reestablished a significant maritime presence in the [Gulf of Chardon](<../../gulf-of-chardon.md>). 
 
-In DR 1584, the [War of the Dark Rift](<../../../../events/1500s/war-of-the-dark-rift.md>) erupted in the interior mountains of [Apporia](<apporia.md>), in the dwarven and stoneborn kingdom of [Enderra](<enderra.md>). Over the next few years, the [Umbral Covenant](<../../../../groups/umbral-covenant.md>) conquered much of the coastline, completely destroying [Nevium](<nevium.md>), disrupting trade on the [Old Chardon Canal](<old-chardon-canal.md>), and besieging [Castrella](<castrella.md>). This is the definitive end of the Illorian pirate kingdoms, and leads to much destruction in [Portalia](<portalia.md>), in particular. The war continues until DR 1597, when the [Umbral Covenant](<../../../../groups/umbral-covenant.md>) launches the Shadow Armada to conquer Chardon, and loses badly. Over the next few years, a series of interior campaigns destroys the [Umbral Covenant](<../../../../groups/umbral-covenant.md>) and establishes Chardonian control over [Portalia](<portalia.md>). Soon after, [Cedrano](<cedrano.md>), weak and dependent on Chardonian legions for survival, formally joins the growing [Chardonian Empire](<../chardonian-empire.md>). 
+In DR 1584, the [War of the Dark Rift](<../../../../events/1500s/war-of-the-dark-rift.md>) erupted in the interior mountains of [Apporia](<apporia.md>), in the stoneborn kingdom of [Enderra](<enderra.md>) and the dwarven realms beneath it. Over the next few years, the [Umbral Covenant](<../../../../groups/umbral-covenant.md>) conquered much of the coastline, completely destroying [Nevium](<nevium.md>), disrupting trade on the [Old Chardon Canal](<old-chardon-canal.md>), and besieging [Castrella](<castrella.md>). This is the definitive end of the Illorian pirate kingdoms, and leads to much destruction in [Portalia](<portalia.md>), in particular. The war continues until DR 1597, when the [Umbral Covenant](<../../../../groups/umbral-covenant.md>) launches the Shadow Armada to conquer Chardon, and loses badly. Over the next few years, a series of interior campaigns destroys the [Umbral Covenant](<../../../../groups/umbral-covenant.md>) and establishes Chardonian control over [Portalia](<portalia.md>). Soon after, [Cedrano](<cedrano.md>), weak and dependent on Chardonian legions for survival, formally joins the growing [Chardonian Empire](<../chardonian-empire.md>). 
 
 
 
 By the DR 1700s, the [War of the Dark Rift](<../../../../events/1500s/war-of-the-dark-rift.md>) is largely forgotten, the interior forts are largely abandoned, and the mountains of the interior turn wild. 
+
 
 
 

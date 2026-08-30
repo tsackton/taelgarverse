@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:40:59-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T15:25:54-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: inn
 typeOfAlias: tavern
@@ -9,7 +9,7 @@ name: The Laughing Gull
 whereabouts: Castrella
 dm_owner: none
 dm_notes: none
-POV: 1748
+POV: modern
 title: The Laughing Gull
 ---
 # The The Laughing Gull
@@ -19,6 +19,7 @@ title: The Laughing Gull
 
 
 A tavern in [Castrella](<castrella.md>).
+
 
 
 

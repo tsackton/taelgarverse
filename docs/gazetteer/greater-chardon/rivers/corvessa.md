@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-20T19:36:26-04:00'
-lintVersion: '3.2'
-tags: [place, status/check/name, status/check/lint]
+lintedAt: '2026-08-23T17:36:36-04:00'
+lintVersion: '3.5'
+tags: [place, status/check/name]
 typeOf: waterway
 typeOfAlias: river
 name: Corvessa
@@ -21,9 +21,6 @@ title: Corvessa
 
 
 One of the major rivers of the [Coastlands](<../chardonian-empire/coastlands.md>), rising from the [Beacon Hills](<../beacon-hills.md>) and flowing west to the [Endless Ocean](<../../endless-ocean.md>).
-
-
-
 
 
 

@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-08-23T23:55:52-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: the}
-name: Splinters
-aliases: [Splinters]
+tags: [place]
 typeOf: region
 typeOfAlias: island chain
+name: Splinters
+aliases: [Splinters]
 whereabouts:
 - {type: secondary, location: Hamri, linkText: offshore from, startFilter: '1'}
 - {type: primary, location: Mawakel Peninsula}
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Splinters
 ---
 # The Splinters
@@ -20,7 +23,12 @@ title: Splinters
 </div>
 
 
-The Splinters are a chain of small, rocky islands near [Hamri](<hamri.md>). There are few safe landings and no easy harbors; most of the islands in the Splinters are cliffs inhabited by birds and little else. 
-## Azar's Lair
+The Splinters are a chain of small, rocky islands near [Hamri](<hamri.md>). There are few safe landings and no easy harbors; most of the islands in the Splinters just cliffs inhabited by birds and little else. 
+
 
 In DR 1747, [Azar the Lost](<../../../people/mawarans/azar-the-lost.md>) kept a lair in the Splinters while carrying out his attempts to restore his drowned wife [Nadine](<../../../people/mawarans/nadine.md>) and their sons. After the fight at [Shark's Dock](<hamri.md#the-sharks-dock>), the [Adventurers of Mawar](<../../../people/pcs/mawar/adventurers-of-mawar.md>) searched the lair, destroyed two more drowned servants, and found [Sefa](<../../../people/mawarans/sefa.md>) dead there.
+
+
+
+
+

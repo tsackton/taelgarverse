@@ -14,7 +14,7 @@ title: Tangled Vale
 # The Tangled Vale
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A fey portal in Wildrun, the [Feywild](<../../../cosmology/feywild.md>), [Multiverse](<../../../cosmology/multiverse.md>)  
-    :octicons-location-24:{ .lg .middle } A fey portal in the [Tawir Forest](<../../northwest-coast/tawir-forest.md>), the [Northwest Coast](<../../northwest-coast/northwest-coast.md>)  
+    :octicons-location-24:{ .lg .middle } A fey portal in [Tawir Forest](<../../northwest-coast/tawir-forest.md>), the [Northwest Coast](<../../northwest-coast/northwest-coast.md>)  
 </div>
 
 

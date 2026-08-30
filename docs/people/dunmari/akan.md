@@ -29,7 +29,7 @@ hide_toc: true
     Born DR 1693 (57 years old)  
     { .bio }
 
-    Based in the [Karawa Desert](<../../gazetteer/greater-dunmar/hara-basin/karawa-desert.md>), the Dunmari Basin
+    Based in the [Karawa Desert](<../../gazetteer/greater-dunmar/hara-basin/karawa-desert.md>)
 </div>
 
 

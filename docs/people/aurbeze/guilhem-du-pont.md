@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1749-08-07, type: met}
-name: Guilhem du Pont
-born: 1698
 species: human
 ancestry: Aurbeze
+campaignInfo:
+- {campaign: dufr, date: 1749-08-07, type: met}
+born: 1698
 gender: male
+name: Guilhem du Pont
+pronunciation: GHEE-yem duh PONT
 whereabouts:
 - {type: home, location: Aursenbourg}
 - {type: away, start: 1749-08-06, end: 1749-08-07, location: Three Wells}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
-pronunciation: GHEE-yem duh PONT
+POV: 1749
 title: Guilhem Du Pont
 hide_toc: true
 ---
@@ -39,5 +43,9 @@ hide_toc: true
 He is a stout man typically wearing immaculate woolen clothes and carrying an iron badge of [Aursenbourg](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/aursenbourg.md>). 
 ## Events
 - Aug 07, 1749 DR: Joined the war council in [Three Wells](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/three-wells.md>), where he urged holding [Aursenbourg](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/aursenbourg.md>)’s walls to shield the gathered refugees from the [Empress of Chaos](<../other-nonhumans/empress-of-chaos.md>)'s armies.
+
+
+
+
 
 

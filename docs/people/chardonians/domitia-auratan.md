@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
+displayDefaults: {defArt: ''}
+tags: [person, status/check/lint]
 species: human
 ancestry: Chardonian
-displayDefaults: {defArt: ''}
 died: 1723
-dm_notes: important
+name: Domitia Auratan
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1740s
 title: Domitia Auratan
 hide_toc: true
 ---
@@ -22,3 +27,9 @@ hide_toc: true
 
 
 The mother of the current Magistros of Chardon, [Mitus Verina Auratan](<mitus-verina-auratan.md>). Died shortly after giving birth.
+
+
+
+
+
+

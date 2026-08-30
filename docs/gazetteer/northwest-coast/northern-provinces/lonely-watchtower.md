@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-23T23:55:52-04:00'
+lintVersion: '3.5'
 tags: [place]
-name: Lonely Watchtower
 typeOf: building
+typeOfAlias: ruined tower
+name: Lonely Watchtower
 whereabouts:
 - {type: primary, location: Chalyte Hills}
 dm_owner: none
 dm_notes: none
-typeOfAlias: ruined tower
+POV: modern
 title: Lonely Watchtower
 ---
 # The Lonely Watchtower
@@ -17,4 +20,9 @@ title: Lonely Watchtower
 
 
 An isolated tower north of [Voltara](<voltara/voltara.md>). Long abandoned, it was used as a raiding base by orcs of [Grumella's Horde](<../../../groups/orc-hordes/grumella-s-horde.md>) during [Grumella's War](<../../../events/1700s/1747/grumella-s-war.md>). 
+
+
+
+
+
 

@@ -1,20 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+lintedAt: '2026-08-25T22:52:37-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>'}
+tags: [object]
 typeOf: book
 typeOfAlias: poem collection
 ancestry: Elvish
-dm_owner: none
-dm_notes: none
 written: during the [[History of the Drankorian Empire|Drankorian Era]]
 author: Nelawe
+name: Lyrics of a New Age
+knownTo: [dufr]
+dm_owner: none
+dm_notes: none
+POV: modern
 title: Lyrics of a New Age
 ---
 # Lyrics of a New Age
 :octicons-info-24:{ .lg .middle } **An [Elvish](<../../creatures/species/elves.md>) poem collection, written during the [Drankorian Era](<../../history/history-of-the-drankorian-empire.md>), by [Nelawe](<../../people/elves/nelawe.md>)**  
 
-This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [Nelawe](<../../people/elves/nelawe.md>). This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the tradition poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days before the Riving.
+This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [Nelawe](<../../people/elves/nelawe.md>). This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the traditional poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days before the Riving.
 
 The most famous poem in this book is *A Lament for Lost Thunder*, an ode to giants of lore:
 
@@ -26,4 +31,9 @@ The most famous poem in this book is *A Lament for Lost Thunder*, an ode to gian
 
 A copy of this book was recovered from [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>) by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), and later sold to [Albus](<../../people/chardonians/albus.md>) in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).
 
-Later it was discovered that a stanza from the *A Lament for Lost Thunder* was used by [Eudomes](<../../people/historical-figures/eudomes.md>) used as the key to unlock the [Binding Stones](<../../campaigns/dunmari-frontier-campaign/treasure/binding-stones.md>) that were binding [Hralgar](<../../people/giants/hralgar.md>)
+Later it was discovered that a stanza from *A Lament for Lost Thunder* was used by [Eudomes](<../../people/historical-figures/eudomes.md>) as the key to unlock the [Binding Stones](<../../campaigns/dunmari-frontier-campaign/treasure/binding-stones.md>) that were binding [Hralgar](<../../people/giants/hralgar.md>).
+
+
+
+
+

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T15:25:54-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: settlement
 typeOfAlias: city
@@ -33,6 +33,7 @@ Nevium is a bustling port city and the provincial capital of [Portalia](<portali
 	*Wooden docks in Nevium at dawn*
 
 Nevium is a prosperous city. In addition to the productive fisheries, and alchemical ingredients and other marsh products, the city benefits tremendously from the nearby [Old Chardon Canal](<old-chardon-canal.md>). The [Windcallers](<../../../../groups/chardonian-organizations/windcallers.md>), who guide ships through the canal, are based here. Nevium is also where tax revenues from canal transits are collected, which provide significant wealth to the city, and support a large official Chardonian governmental presence.
+
 
 
 

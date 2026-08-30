@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text]
-name: Charlotte II
-born: 1624
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1624
 gender: female
 died: 1648-12-10
 title: Queen Charlotte II
+name: Charlotte II
 affiliations:
 - {place: Sembara, start: 1648-10}
 - {place: Tyrwingha, start: 1648-10}
 - {org: House of Sewick, type: primary}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: 1648
 hide_toc: true
 ---
 # Queen Charlotte II
@@ -29,4 +33,11 @@ hide_toc: true
 
 
 A ruler of Sembara and Tyrwingha. Succeeded by her sister, [Cece I](<cece-i.md>).
+
+
+
+
+
+
+
 

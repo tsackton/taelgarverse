@@ -1,17 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, type: met, date: 1749-06-27}
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, type: met, date: 1749-06-27}
 gender: male
-whereabouts: Chardon
+name: Tiberius
 affiliations:
 - {org: Chardonian Navy, title: Windcaller}
 - {org: Auratan's Pride, title: Windcaller}
+whereabouts: Chardon
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1749
 title: Tiberius
 hide_toc: true
 ---
@@ -36,5 +41,11 @@ hide_toc: true
 He is a tall, lean man with shoulder-length silver-white hair and unnatural storm-blue eyes, lacking ordinary visible whites or pupils. He carries a polished oak staff tipped with a small sapphire orb. His eyes flare bright blue when he works magic or reacts strongly, and his spellcasting is marked by blue light, crackling lightning, and precise command of wind.
 
 Tiberius is disciplined, wary, and cautious, though honest and open with those he trusts. Although he is a loyal confidant and friend of [Mitus Verina Auratan](<mitus-verina-auratan.md>), he is not a politician, and has little patience for the details of civic bureaucracy. He is, however, forceful in his views on [chalyte](<../../things/materials/chalyte.md>). He believes chalyte is dangerous when controlled by profit-seeking refineries, the [Hetaeri Magica](<../../groups/chardonian-organizations/hetaeri-magica.md>), or anyone who does not understand how to use it safely. He is especially critical of the [Chalyte Oligarchs of Chardon](<../../groups/chardonian-organizations/chalyte-oligarchs-of-chardon.md>) and repeatedly argues that the [Windcallers](<../../groups/chardonian-organizations/windcallers.md>) should have greater control over chalyte production and use. While this appears to be a genuinely held belief, his critics are quick to note it is also a belief that seems purpose-built to increase the power and influence of the secretive and mysterious Windcallers. 
+
+
+
+
+
+
 
 

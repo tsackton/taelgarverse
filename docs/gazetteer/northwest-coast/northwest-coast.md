@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-24T09:25:51-04:00'
+lintVersion: '3.5'
 tags: [place, status/wip]
 typeOf: region
+name: Northwest Coast
 whereabouts:
 - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Northwest Coast
 ---
 # The Northwest Coast
@@ -47,4 +51,8 @@ Although in the years before the [Great War](<../../events/1500s/great-war.md>) 
 _See more: {links}_
 
 {descriptive text of major era}
+
+
+
+
 

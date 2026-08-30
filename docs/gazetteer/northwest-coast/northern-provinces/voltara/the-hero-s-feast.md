@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate/gl]
+lintedAt: '2026-08-24T09:25:51-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
-name: The Hero's Feast
-created: 1748-08-07
+tags: [place, status/gameupdate/gl]
 typeOf: inn
+typeOfAlias: restaurant
+created: 1748-08-07
+name: The Hero's Feast
 whereabouts:
 - {type: primary, location: Voltara, startFilter: 2r}
-dm_notes: none
 dm_owner: player
-typeOfAlias: restaurant
+dm_notes: none
+POV: 1748
 title: The Hero's Feast
 ---
 # The Hero's Feast
@@ -21,4 +24,9 @@ title: The Hero's Feast
 
 
 A dining establishment inside the walls of [Voltara](<voltara.md>), opened by [Brelith](<../../../../people/pcs/silver-tempests/brelith.md>) after he retired from active adventuring with the [Silver Tempests](<../../../../people/pcs/silver-tempests/silver-tempests.md>). Known for refined preparations influenced by frontier ingredients.
+
+
+
+
+
 

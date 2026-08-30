@@ -2,14 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-23T12:50:50-04:00'
 lintVersion: '3.5'
-tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
+tags: [person]
 species: human
 ancestry: Chardonian
-campaignInfo:
-- {campaign: dufr, person: Delwath, date: 1748-10-12, type: scryed}
 born: 1691
 gender: male
 name: Kaeso
+pronunciation: KAI-soh
 affiliations: [Shakun Mystai]
 whereabouts:
 - {type: home, end: 1712, location: Chardon}
@@ -21,12 +20,13 @@ whereabouts:
 - {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ''}
 knownTo: [mawar, dufr]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: 1749
 title: Kaeso
 hide_toc: true
 ---
 # Kaeso
+:speaker:{ .middle } *(KAI-soh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -39,20 +39,15 @@ hide_toc: true
 </div>
 
 
+![Kaeso](/taelgarverse/assets/kaeso.webp){align="right"; width="400"}Kaeso is a well-traveled Chardonian scholar and practical magician, and a  friend and mentor to [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) of the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). In his late fifties, he has a lively face, scraggly black hair, and olive skin; he prefers simple, functional dress. Though graying patches of hair and care-worn lines on his face show signs of his age, he maintains a youthful energy, and speaks  emphatically with his hands. 
+## Background
+Kaeso was born and raised in Chardon, and studied under [Roscelia](<roscelia.md>) at the [Faculty of Magic](<../../groups/chardonian-organizations/faculty-of-magic.md>) in the [University of Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/university-of-chardon.md>) as a youth. He was never the most talented student, but his steady persistence carried him through university. Kaeso was not drawn to the academic life, and soon left Chardon to travel widely, passing through [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), and many other places. Here, he was initiated into the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>), a secret only other initiates can learn.
 
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 12th, 1748 in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), the [Mawar Confederacy](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>)  
-
-
-
-![Kaeso](/taelgarverse/assets/kaeso.webp){align="right"; width="400"}
-[Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s mentor and friend. A Chardonian, but widely traveled. Former student of [Roscelia](<roscelia.md>) and member of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), but expelled for keeping secrets, specifically about Dunmari magic. 
-
-Secretly a member of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>). 
+He returned to Chardon in his thirties, convinced that the exploitation and commercialization of magic he saw throughout Chardon, but most especially in the [Chardon chalyte trade](<../../groups/chardonian-organizations/chalyte-oligarchs-of-chardon.md>), was wrong. He refused to share the magical knowledge he had learned on his travels with the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), earning him expulsion, though he maintained cordial relationships with some individuals, including [Roscelia](<roscelia.md>). During this time, he met [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), a child at the time, and took him in, devoting much of his time to protecting and teaching him. He also began corresponding with others concerned that many in Chardon, including the political and academic establishments, were far too cavalier about the harms and dangers of the chalyte trade. 
 
 
-
-
-
+## Recent Events 
+Kaeso reconnected with his old student, [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), in Chardon on Aug 21, 1748 DR, overjoyed to see him thriving. Soon after, the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) were attacked by [Fausto](<fausto.md>) and fled [his tower](<../../gazetteer/greater-chardon/chardonian-empire/chardon/fausto-s-tower.md>). Kaeso learned he was going to be invited to [Fausto's Tower](<../../gazetteer/greater-chardon/chardonian-empire/chardon/fausto-s-tower.md>) for questioining in connection with this incident, and chose to flee the city instead. By October 1748, he had made his way to [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). He has lived in exile here, staying at the [Leviathan Inn](<../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>) on [Wazir](<../pcs/mawar/wazir.md>)'s invitation, since then, waiting for the situation in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) to shift. 
 
 
 

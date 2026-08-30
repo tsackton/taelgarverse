@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text]
-campaignInfo:
-name: Nerissa
-born:
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/text, status/check/lint]
 species: human
 ancestry:
+campaignInfo:
+born:
 gender: female
 player: Kate Sackton
+name: Nerissa
 affiliations:
 - {org: Adventurers of Mawar}
+knownTo: [mawar]
 dm_owner: player
 dm_notes: important
+POV: 1740s
 title: Nerissa
 hide_toc: true
 ---
@@ -27,4 +31,11 @@ hide_toc: true
 
 
 An older woman, not from Mawar but from the north, who retired to Hamri after a long adventuring career to listen and learn the songs of the ocean.
+
+
+
+
+
+
+
 

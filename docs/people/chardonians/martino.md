@@ -1,21 +1,28 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
 tags: [person]
+species: human
+ancestry: Chardonian
 campaignInfo:
 - {campaign: dufr, date: 1749-05-06, type: met}
-species: human
 gender: male
 born: 1681
-ancestry: Chardonian
+name: Martino
+pronunciation: mar-TEE-noh
 whereabouts:
 - {type: home, end: 1749-05-07, location: Artevus}
 - {type: away, start: 1749-05-07, end: 1749-05-11, location: Summer's Breeze}
-dm_owner: tim
-dm_notes: important
+knownTo: [dufr]
+dm_owner: none
+dm_notes: none
+POV: 1749
 title: Martino
 hide_toc: true
 ---
 # Martino
+:speaker:{ .middle } *(mar-TEE-noh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -36,4 +43,8 @@ hide_toc: true
 ![Martino Portrait](/taelgarverse/assets/martino-portrait.webp){align="right"; width="400"}Martino is a retired sailor, fisherman, and navigator. He once sailed widely along the coasts of [Apporia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>), seeking the best fishing grounds, until he was hurt in a storm and lost most of the use of his right hand. 
 
 He is extremely knowledgeable about the waters and coasts of [Apporia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>), but now spends his days hanging around [Artevus](<../../gazetteer/greater-chardon/chardonian-empire/apporia/artevus.md>), gazing out to sea. 
+
+
+
+
 

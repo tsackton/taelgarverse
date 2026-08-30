@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T18:55:31-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: lizardfolk
 ancestry: salt
@@ -34,6 +34,7 @@ Benat is a lizardfolk man, in the prime of his life, who lives in Hamri in a sma
 
 
 In DR 1747, he helped deal with the aftermath of [Azar's](<../mawarans/azar-the-lost.md>) arrival in Hamri and the [murders that followed](<../../campaigns/mawar-adventures/episodes/mawar-adventures-episode-02.md>).
+
 
 
 

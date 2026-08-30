@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Old Leo
 species: human
 ancestry: Chardonian
 gender: maleX
-whereabouts:
-- {type: home, location: Castrella}
+campaignInfo:
+- {campaign: grli, type: met, date: 1748-09-18}
+name: Old Leo
 affiliations:
 - {org: The Whale's Spout, title: proprietor, type: leader}
-campaignInfo:
-- {campaign: GL, type: met, date: 1748-09-18}
+whereabouts:
+- {type: home, location: Castrella}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Old Leo
 hide_toc: true
 ---
@@ -30,5 +34,9 @@ hide_toc: true
 
 
 Old Leo is the proprietor of [The Whale's Spout](<../../gazetteer/greater-chardon/chardonian-empire/apporia/the-whale-s-spout.md>) in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), a tavern and refuge known for taking in orphans.
+
+
+
+
 
 

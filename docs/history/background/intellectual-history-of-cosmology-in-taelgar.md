@@ -188,7 +188,7 @@ The failure discredited Harbek's model, not necessarily the more general idea of
 
 ### Current View
 
-The current distinction among extraplanar weak points, temporary vortexes or upwellings, and actual portals is primarily an organizational framework recorded in Planar Connections. It should not automatically be attributed to one in-world scholar:
+The current distinction among extraplanar weak points, temporary vortexes or upwellings, and actual portals is primarily an organizational framework recorded in [Planar Connections](<../../cosmology/planar-concepts/planar-connections.md>). It should not automatically be attributed to one in-world scholar:
 
 - Weak points transmit planar influence but do not permit or ease travel.
 - Vortexes or upwellings are temporary, often unpredictable connections that can transport creatures.
@@ -219,7 +219,7 @@ This is neither simply a description of the afterlife nor a classification of pl
 - Standard theological cosmology treats the Material Plane and Plane of Souls as a central pair, with the Land of the Dead mediating passage toward the Divine Realms and Plane of Creation.
 - [Planar Dualism](<../../cosmology/planar-concepts/planar-dualism.md>) makes these regions or densities within the Astral Plane.
 - [Camilla of Drankor](<../../people/historical-figures/camilla-of-drankor.md>) records a fey tradition in which the Plane of Souls is a pale echo of the more vivid Dreamworld, reversing the usual human hierarchy.
-- [Yendalo](<../../people/historical-figures/yendalo.md>) makes the Divine Veil the central division of the cosmos and interprets the motion of souls as Soulstuff diffusing toward Creation.
+- [Yendalo](<../../people/historical-figures/yendalo.md>) makes the Divine Veil the central division of the cosmos and interprets the motion of souls as [Soulstuff](<../../cosmology/planar-concepts/soulstuff.md>) diffusing toward Creation.
 - [Heloise of Tollen](<../../people/tollenders/heloise-of-tollen.md>), in a still-undated modern mathematical study, argues that the Plane of Creation may be an infinitely dense mass of Soulstuff inaccessible to anything except the Divine Presence.
 - Aznoké treats life and death as cyclical currents rather than a one-way geometrical ascent.
 

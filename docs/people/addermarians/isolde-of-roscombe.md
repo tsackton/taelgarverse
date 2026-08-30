@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:22:55-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T18:23:23-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Addermarian
@@ -44,6 +44,7 @@ Practical and composed, Isolde prizes order and preparedness. She has little pat
 ## Events
 - May 06, 1715 DR: Welcomed the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) to the temple and ushered them to Owen to discuss the Serpentine Dagger.
 - May 09, 1715 DR: Helped stage the sanctum for the use of [Trueflame](<../../things/materials/trueflame.md>) to destroy the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>), keeping curious congregants at bay during the dagger’s destruction.
+
 
 
 

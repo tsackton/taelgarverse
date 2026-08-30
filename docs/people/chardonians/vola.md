@@ -1,23 +1,29 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
-name: Vola Forena
-born: 1721
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
+born: 1721
 gender: female
+name: Vola Forena
+pronunciation: VOH-lah foh-REH-nah
 affiliations:
 - {org: Society of the Open Scroll, type: member}
 whereabouts:
 - {type: home, start: '', end: '', location: Chardon}
 - {type: away, start: 1748-11-23, end: '', prefix: travelling in, location: Dunmar}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Vola Forena
 hide_toc: true
 ---
 # Vola Forena
+:speaker:{ .middle } *(VOH-lah foh-REH-nah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -32,14 +38,14 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Currently trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>), stored on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>)
 
 
-Vola was born on the streets of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), living a life of squalor, disease, and poverty. She grew up in the [Riverside](<../../gazetteer/greater-chardon/chardonian-empire/chardon/riverside-quarter.md>) slurms, near the chalyte refineries.  Eventually, she was discovered by [Agon](<agon.md>), who helped her grow into her power and fulfill her potential.  She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [Agon](<agon.md>) and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>). 
+Vola was born on the streets of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), living a life of squalor, disease, and poverty. She grew up in the [Riverside](<../../gazetteer/greater-chardon/chardonian-empire/chardon/riverside-quarter.md>) slums, near the chalyte refineries.  Eventually, she was discovered by [Agon](<agon.md>), who helped her grow into her power and fulfill her potential.  She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [Agon](<agon.md>) and the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>).
 
 She is dedicated to the cause of the [Society of the Open Scroll](<../../groups/chardonian-organizations/society-of-the-open-scroll.md>), believing in their mission to secure dangerous knowledge from those who would use it for harm, and to preserve magic for future generations.
 
 
 ## Relationships
 
-- Friendly with [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), especially with [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), who had a similar childhood in Chardon. Somewhat awed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>). Less friendy with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>), largely because or [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>)'s distain. 
+- Friendly with [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), especially with [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), who had a similar childhood in Chardon. Somewhat awed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>). Less friendly with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>), largely because of [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>)'s disdain.
 - Friendly with other adventurers for the Society of the Open Scroll, in particular [Dee Wildcloak](<../halflings/dee-wildcloak.md>), [Dain Goldhammer](<../dwarves/dain-goldhammer.md>), and [Alban](<alban.md>)
 - Looks up to her mentor, [Agon](<agon.md>)
 - Knows many other Chardonians, including [Kadmos](<kadmos.md>), [Marcella](<marcella.md>), [Hektor](<hektor.md>), [Antonia](<antonia.md>), and [Casian](<casian.md>), whom she traveled with in early 1748, and [Crispus](<crispus.md>) and [Fausto](<fausto.md>), who are the funders of expeditions she has been on or knows of. Particularly friendly with [Marcella](<marcella.md>). Dislikes [Casian](<casian.md>), whom she considers an arrogant snob who believes he can take whatever he wants. 
@@ -57,3 +63,10 @@ She is dedicated to the cause of the [Society of the Open Scroll](<../../groups/
 - 26 Apr 1748: Arrives in Tokra. Parts ways with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>). Stays at [Kirian's](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirian-s.md>). 
 
 - 21 Aug 1748: Meets [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Chardon at [The Thirsty Scholar](<../../gazetteer/greater-chardon/chardonian-empire/chardon/the-thirsty-scholar.md>); reports on news and makes introductions to [Dee Wildcloak](<../halflings/dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>).  
+
+
+
+
+
+
+

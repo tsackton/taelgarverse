@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T19:01:27-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T14:23:24-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
 tags: [place]
 typeOf: building
@@ -23,7 +23,6 @@ title: Valtrius University
 
 
 Valtrius University was one of the three major universities of [Drankor](<drankor.md>) in the late empire, alongside the [Imperial University](<imperial-university.md>) and the [University of the Blessed Waters](<university-of-the-blessed-waters.md>). At its height, Valtrius University was a center of applied magic, developing practical uses of magic for civic construction and warfare. Its surviving towers and workshops still bear traces of unstable experiments. 
-
 
 
 

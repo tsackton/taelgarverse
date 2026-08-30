@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
-name: Servius
-born: 1689
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
+born: 1689
 gender: male
+name: Servius
 affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, start: 1689-01-02, location: Chardon}
 - {type: away, start: 1748-11-23, location: Illoria}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Servius
 hide_toc: true
 ---
@@ -32,4 +36,11 @@ hide_toc: true
 
 
 A wandering scholar and historian, funded by [Fausto](<fausto.md>) to find rumors of treasure. 
+
+
+
+
+
+
+
 

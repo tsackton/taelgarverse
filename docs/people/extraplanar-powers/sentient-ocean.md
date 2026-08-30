@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T15:54:27-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
 tags: [power]
 typeOf: power
 typeOfAlias: living ocean
@@ -18,9 +18,10 @@ Along the coasts of the [Mawar Confederacy](<../../gazetteer/northwest-coast/maw
 
 This entity has been called many names, including Yi'weti by the old mages of the north; Ur Biyiak, the name used by salt lizardfolk of the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>); Wanui Teora by the great beasts of the deep; and Ma'haya Kabir by the Mawaran saint [Guzo the Mariner](<../../gods-and-religions/gods/incorporeal-gods/mawaran-saints/guzo-the-mariner.md>). But most folks just call it the Sentient Ocean. It is said that the [Ocean Watchers](<../../groups/society-of-ocean-watchers.md>) of [Mawar](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>) know more than any land-dweller of the Sentient Ocean, but even among them it remains a fleeting presence glimpsed in waves, dreams, old songs, and the strange behavior of creatures from the western sea.
 
+The Sentient Ocean does not communicate through ordinary speech. Those who encounter claim to experience its thoughts through currents, salinity, temperature, pressure, music, images, and memories, a sensory language that often appears as dreams or visions to mortals caught in it. 
 
-Those who have traveled among the [Merfolk](<../../creatures/species/merfolk.md>) often report distinctive rumors and tales of the Sentient Ocean. For many years, the merfolk city of [Omi](<../../gazetteer/faraway-places/omi.md>) was enclosed by a barrier created by the Sentient Ocean; passing through triggered seeming memories and visions of its history. A flight from a destroyed home, far away in another realm; the creation, or awakening, of the merfolk; a decision to become their protector after finding life in Taelgar's seas. Though these rumors are far from clear, they paint a picture of an alien entity from some distant extraplanar realm, possessing unfathomable power, serving as the creator, protector, and divinity of the merfolk. 
 
+Those who have traveled among the [Merfolk](<../../creatures/species/merfolk.md>) often report distinctive rumors and tales of the Sentient Ocean. For many years, the merfolk city of [Omi](<../../gazetteer/faraway-places/omi.md>) was enclosed by a barrier created by the Sentient Ocean; passing through triggered seeming memories and visions of its history. A flight from a destroyed home, far away in another realm; the creation, or awakening, of the merfolk; a decision to become their protector after finding life in Taelgar's seas. Though these rumors are far from clear, they paint a picture of an alien entity from some distant extraplanar realm, possessing unfathomable power, serving as the creator and protector of the merfolk. 
 
 
 

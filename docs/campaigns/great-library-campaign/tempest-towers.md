@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:40:59-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T14:23:24-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: building
 typeOfAlias: bastion
@@ -24,6 +24,7 @@ The Tempest Towers are the [Silver Tempests](<../../people/pcs/silver-tempests/s
 The manor has a courtyard garden, service and common rooms around the courtyard, plenty of space for entertaining, private towers for members of the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>), and a treasury below the courtyard. The treasury is well-protected, by a _Hallow_ spell, a _Glyph of Warding_, and an extraplanar vault installed by [Eldeth Redhammer](<../../people/dwarves/eldeth-redhammer.md>). 
 
 [Julius of Voltara](<../../people/chardonians/julius-of-voltara.md>) serves as steward. 
+
 
 
 

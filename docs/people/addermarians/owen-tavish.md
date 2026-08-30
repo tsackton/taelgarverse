@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-22T23:22:55-04:00'
-lintVersion: '3.4'
+lintedAt: '2026-08-23T18:23:23-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Addermarian
@@ -53,6 +53,7 @@ Owen Tavish is a priest of [The Sibyl](<../../gods-and-religions/gods/incorporea
 - [Gareth Howell](<gareth-howell.md>) — Collaborates with him on frontier threats requiring temple aid, including the haunting at [Torvaine Watch](<../../gazetteer/greater-sembara/addermarch/torvaine-watch.md>).
 - [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) — Entrusted with the containment and destruction of the [Serpentine Dagger](<../../things/magic-items/serpentine-dagger.md>), and later consulted him on ancient relics tied to [Avatus](<../historical-figures/avatus.md>).
 - [Fazoth de Brune](<../pcs/addermarch/fazoth-de-brune.md>) — Shares an interest in magic, relics, and intellectual games.
+
 
 
 

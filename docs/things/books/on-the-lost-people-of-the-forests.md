@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+lintedAt: '2026-08-25T22:52:37-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>', startStatus: completed in}
-name: On the Lost People of the Forests
+tags: [object, status/cleanup/text]
 typeOf: book
 typeOfAlias: geographical treatise
 ancestry: Chardonian
-dm_owner: none
-dm_notes: color
 created: 1725
 author: Gnaeus
+name: On the Lost People of the Forests
+knownTo: [dufr]
+dm_owner: none
+dm_notes: none
+POV: modern
 title: On the Lost People of the Forests
 ---
 # On the Lost People of the Forests
@@ -19,9 +23,7 @@ title: On the Lost People of the Forests
 </div>
 
 
-
-
-Written by the scholar [Gnaeus](<../../people/chardonians/gnaeus.md>), of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), disgraced for using enchanment magic in his research.
+Written by the scholar [Gnaeus](<../../people/chardonians/gnaeus.md>), of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), disgraced for using enchantment magic in his research.
 
 "In a book by Chardonian scholar, [Gnaeus](<../../people/chardonians/gnaeus.md>), written about a generation ago (maybe 20ish years), recently acquired from a book trader, [Kassi](<../../people/dunmari/kassi.md>) finds a mention of [Rai](<../../people/pcs/great-war/rai.md>). The book is a record/catalog of surviving people of the forests of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). He describes a story of a group of people, northerners, who live upriver from [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) in the great forest, mysterious, few tales of them. But he found a way in, he used magic to convince one to speak of their secret religion, and learned it was a cult dedicated to the Demigod of Magic [Rai](<../../people/pcs/great-war/rai.md>), who speaks through the dreams of the high priest."
 
@@ -29,11 +31,11 @@ This book records the details of [Gnaeus](<../../people/chardonians/gnaeus.md>)'
 
 "25 years ago, as a young student, [Gnaeus](<../../people/chardonians/gnaeus.md>) was intrigued by the stories and mysteries of the great forest, known as variously [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>) (from the original elvish name, meaning the home of the first gods, referring to the whole stretch) and more recently the surviving pieces are named the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), the [Crimson Forest](<../../gazetteer/central-highlands/crimson-forest.md>) (after the rumors that the trees ran red with the blood of the elves), and the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), from south to north.
 
-Few tales came to [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) of what happened in these woods after the [Great War](<../../events/1500s/great-war.md>); in 1555 a great host of hobgoblins, trolls, cursed beasts of shadow, and other monsters, led by a conclave of dragons, defeated the Chardonians in two battles, the [Battle of Kin-Aska](<../../events/1500s/battle-of-kin-aska.md>) on the banks of the [Chasa](<../../gazetteer/major-rivers/chasa-nahadi-watershed/chasa.md>) River, and the [Battle of Shadowfire](<../../events/1500s/battle-of-shadowfire.md>), only 250 miles northeast of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). After a hasty retreat, and much sacrifice to slow the advance, this host was defeated in a great battle only 55 miles east of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Battle of Metium](<../../events/1500s/battle-of-metium.md>). Rumors that, at great cost to themselves, many elves at fought a year's long delaying battle to weaken this host before it reached [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) persist, although few know the truth.
+Few tales came to [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) of what happened in these woods after the [Great War](<../../events/1500s/great-war.md>); in 1555 a great host of hobgoblins, trolls, cursed beasts of shadow, and other monsters, led by a conclave of dragons, defeated the Chardonians in two battles, the [Battle of Kin-Aska](<../../events/1500s/battle-of-kin-aska.md>) on the banks of the [Chasa](<../../gazetteer/major-rivers/chasa-nahadi-watershed/chasa.md>) River, and the [Battle of Shadowfire](<../../events/1500s/battle-of-shadowfire.md>), only 250 miles northeast of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>). After a hasty retreat, and much sacrifice to slow the advance, this host was defeated in a great battle only 55 miles east of [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Battle of Metium](<../../events/1500s/battle-of-metium.md>). Rumors that, at great cost to themselves, many elves had fought a year's long delaying battle to weaken this host before it reached [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) persist, although few know the truth.
 
 Since then, the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) has grown as it has rebuilt, but never beyond the confluence of the [Chasa](<../../gazetteer/major-rivers/chasa-nahadi-watershed/chasa.md>) and the [Kayan](<../../gazetteer/major-rivers/chasa-nahadi-watershed/kayan.md>), and many stories and rumors persist as to what happened to [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>) and what has been rebuilt and resettled in the past 200 years.
 
-[Gnaeus](<../../people/chardonians/gnaeus.md>) grew up in [Arendum](<../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/arendum.md>) and thus was draw to exploring the people of the [Crimson Forest](<../../gazetteer/central-highlands/crimson-forest.md>) and the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>). He knew, as a child, of the [Baz'aku](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/baz-aku.md>), a group of the Deno'qai who traded occasionally with [Arendum](<../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/arendum.md>) and lived on the eaves of the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>).
+[Gnaeus](<../../people/chardonians/gnaeus.md>) grew up in [Arendum](<../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/arendum.md>) and thus was drawn to exploring the people of the [Crimson Forest](<../../gazetteer/central-highlands/crimson-forest.md>) and the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>). He knew, as a child, of the [Baz'aku](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/baz-aku.md>), a group of the Deno'qai who traded occasionally with [Arendum](<../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/arendum.md>) and lived on the eaves of the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>).
 
 As a student, then, he sought out these people, hired guides, and set off into the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>) to learn what was there.
 
@@ -54,3 +56,6 @@ Four generations ago they returned to these woods, but it wasn't until 30 years 
 Since then, [Gnaeus](<../../people/chardonians/gnaeus.md>) learned, [Aasimti](<../../gods-and-religions/gods/tanshi/aasimti.md>) has kept the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) hidden and safe. They would not speak of what they must be kept safe from, saying that speaking its name summoned it, and then even [Aasimti](<../../gods-and-religions/gods/tanshi/aasimti.md>) could not keep them safe. But it dwelt in the east, and first came to their lands, in disguise, soon after [Aasimti](<../../gods-and-religions/gods/tanshi/aasimti.md>) was found, speaking with a honeyed tongue and asking for [Rai](<../../people/pcs/great-war/rai.md>)'s spirit, then threatening utter destruction when [Jordo](<../../people/deno-qai/jordo.md>) refused. It was only a desperate prayer to [Rai](<../../people/pcs/great-war/rai.md>) to hide them that kept [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) alive.
 
 After 30 days, when his guide's enchantment ceased, the guide turned on him, and the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) followed. [Gnaeus](<../../people/chardonians/gnaeus.md>) fled downriver, barely escaping with his life."
+
+
+

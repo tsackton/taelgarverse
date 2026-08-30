@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-20T19:36:26-04:00'
-lintVersion: '3.2'
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: the}
-tags: [place, status/check/name, status/check/lint]
+tags: [place]
 typeOf: region
 name: Coastlands
 whereabouts:
@@ -27,7 +27,7 @@ The Upper Coast, the portion of the coastlands north of [Chardon](<chardon/chard
 
 Much of the Upper Coast was occupied by [hobgoblins](<../../../creatures/species/hobgoblins.md>) during the [Blood Years](<../../../events/1500s/blood-years.md>). 
 
-Five major rivers, and several smaller ones, flow through the coastlands. From south to north, they are:
+Five major rivers, in addition to the [Chasa](<../../major-rivers/chasa-nahadi-watershed/chasa.md>), and several smaller ones, flow through the coastlands. From south to north, they are:
 
 - [Dashun](<../rivers/dashun.md>)
 - [Zar](<../rivers/zar.md>)
@@ -40,12 +40,9 @@ Five major rivers, and several smaller ones, flow through the coastlands. From s
 | ---------------------------------- | ------- |
 | the [Breakrock River](<../rivers/breakrock.md>) | river   |
 | [Corvessa](<../rivers/corvessa.md>) (kor-VESS-uh)         | river   |
+| [Dashun](<../rivers/dashun.md>) (DAH-shoon)             | river   |
 | [Sevros](<../rivers/sevros.md>) (SEV-ros)               | river   |
 | [Zar](<../rivers/zar.md>) (ZAR)                      | river   |
-
-
-
-
 
 
 

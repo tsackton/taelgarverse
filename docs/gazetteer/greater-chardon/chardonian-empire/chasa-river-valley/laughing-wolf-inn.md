@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-20T19:36:26-04:00'
-lintVersion: '3.2'
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
 tags: [place]
 typeOf: inn
 name: Laughing Wolf Inn
 whereabouts: Arendum
 dm_owner: none
 dm_notes: none
-POV: 1748
+POV: modern
 title: Laughing Wolf Inn
 ---
 # The Laughing Wolf Inn

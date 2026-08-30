@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-20T19:36:26-04:00'
-lintVersion: '3.2'
+lintedAt: '2026-08-23T16:50:31-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
 tags: [place]
 typeOf: inn
@@ -19,7 +19,7 @@ title: The Cackling Swan
 </div>
 
 
-A bustling pub near the [Foundry Market](<foundry-market.md>) that serves as an informal meeting point for laborers and chalyte workers.
+A bustling pub near the [Foundry Market](<foundry-market.md>) that serves as an informal meeting point for laborers and chalyte workers. In June of DR 1749, the Cackling Swan became one of several informal headquarters for the [Eightfold Flame](<../../../../groups/chardonian-organizations/eightfold-flame.md>) during the [Chardon Chalyte Riots](<../../../../events/1700s/1749/chardon-chalyte-riots.md>).
 
 
 

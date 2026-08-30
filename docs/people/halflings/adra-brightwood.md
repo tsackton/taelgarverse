@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text]
-name: Adra Brightwood
-born:
+lintedAt: '2026-08-28T16:53:46-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/text, status/check/lint]
 species: halfling
 ancestry:
+born:
 gender: female
+name: Adra Brightwood
 affiliations:
 - {org: Brightwoods, type: primary}
 - {org: The Rangers}
@@ -13,8 +15,10 @@ whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, location: Champimont}
 - {type: away, start: 1720-02-01, location: Aveil Ridge}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Adra Brightwood
 hide_toc: true
 ---
@@ -33,5 +37,11 @@ hide_toc: true
 
 
 ![Adra Brightwood](/taelgarverse/assets/adra-brightwood.webp){align="right"; width="400"} A wanderer, woodswalker, and skilled swordswoman. Cousin of [Enzo Brightwood](<enzo-brightwood.md>).
+
+
+
+
+
+
 
 

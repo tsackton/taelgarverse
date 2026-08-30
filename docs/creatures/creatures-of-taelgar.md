@@ -9,7 +9,7 @@ title: Creatures of Taelgar
 
 The multiverse is home to a diverse array of sentient and sometimes sapient creatures, from the mundane beasts that inhabit the Material Plane to the terrifying demon lords of the Abyss. While the full tale of all the strange creatures one might encounter traveling across the world and the many planes of existence is extensive, this brief bestiary gives an overview of the types of intelligent and not-so-intelligent creatures one might expect to encounter. 
 
-Nearly all sentient creatures attract and accrete an ineffable substance, usually called Soulstuff, that is part of the fundamental essence of the multiverse and is drawn to sentience. Those rare few who have traveled to the [Plane of Consciousness](<../cosmology/plane-of-souls.md>) report that these sparks of soulstuff look like vast, complex fields of ever-changing stars when viewed away from their material forms. Human religions teach that the gods gift some of their infinite soulstuff to humans on birth, and this gifted soulstuff is what lingers after death, to make the journey across the [Land of the Dead](<../cosmology/land-of-the-dead.md>) back to the [Divine Realms](<../cosmology/spiritual-realms/divine-realms.md>) beyond; many non-human religions teach a version of this story, as well. The metaphysical truth of these teachings is not clear. 
+Nearly all sentient creatures attract and accrete an ineffable substance, usually called [Soulstuff](<../cosmology/planar-concepts/soulstuff.md>), that is part of the fundamental essence of the multiverse and is drawn to sentience. Those rare few who have traveled to the [Plane of Consciousness](<../cosmology/plane-of-souls.md>) report that these sparks of soulstuff look like vast, complex fields of ever-changing stars when viewed away from their material forms. Human religions teach that the gods gift some of their infinite soulstuff to humans on birth, and this gifted soulstuff is what lingers after death, to make the journey across the [Land of the Dead](<../cosmology/land-of-the-dead.md>) back to the [Divine Realms](<../cosmology/spiritual-realms/divine-realms.md>) beyond; many non-human religions teach a version of this story, as well. The metaphysical truth of these teachings is not clear. 
 
 ## Common Species of the Material Plane
 
@@ -51,7 +51,7 @@ More terrifying than these strange monstrosities and oddities are the curses and
 
 Not all one encounters in the wilds is terrifying. Reports of majestic giant eagles, speaking a strange tongue soaring above their mountain aeries; magical unicorns, hidden in forest sanctuaries where they heal with a touch; wise sphinxes, flying lions who protect secrets and hidden places; and more strange things in the wilderness tempt adventurers to explore. 
 
-Perhaps strangest of all are those creatures that seem to mimic sentience with magic. Most famous are the golems, constructed and animated by magic to serve their maker's will, but lacking soulstuff or any normal sentience, though surely the golems are not the only beings of magical construction that exist in the world. 
+Perhaps strangest of all are those creatures that seem to mimic sentience with magic. Most famous are the golems, constructed and animated by magic to serve their maker's will, but lacking [soulstuff](<../cosmology/planar-concepts/soulstuff.md>) or any normal sentience, though surely the golems are not the only beings of magical construction that exist in the world. 
 
 ## Creatures of Other Planes
 

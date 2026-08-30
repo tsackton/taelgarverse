@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, type: mentioned to, date: 1749-01-08, wParty: '<met:U> <person> on <target>'}
-name: Claudio
-born: 1719
+lintedAt: '2026-08-25T09:29:24-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, type: mentioned to, date: 1749-01-08, wParty: '<met:U> <person> on <target>'}
+born: 1719
 gender: male
+name: Claudio
 whereabouts:
 - {type: home, start: '', end: '', location: Luminatia}
 - {type: away, start: 1748-03-11, end: '', location: ''}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1749
 title: Claudio
 hide_toc: true
 ---
@@ -34,4 +38,10 @@ hide_toc: true
 
 
 
-Claudio in a Chardonian man, from the village of [Luminatia](<../../gazetteer/greater-chardon/chardonian-empire/luminatia.md>) near [Lake Valandros](<../../gazetteer/greater-chardon/lake-valandros.md>). He is [Lucius](<lucius.md>)'s father, but does not currently live with his family. 
+Claudio is a Chardonian man, from the village of [Luminatia](<../../gazetteer/greater-chardon/chardonian-empire/luminatia.md>) near [Lake Valandros](<../../gazetteer/greater-chardon/lake-valandros.md>). He is [Lucius](<lucius.md>)'s father, but does not currently live with his family.
+
+
+
+
+
+

@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-09, type: captured}
-name: Valius
-born: 1722
+lintedAt: '2026-08-25T23:14:40-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+- {campaign: dufr, date: 1748-12-09, type: captured}
+born: 1722
 gender: male
+name: Valius
 affiliations: [Chardonian Legion, Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-08-01, end: 1748-12-09, location: Xurkhaz}
 - {type: away, start: 1748-12-08, end: 1748-12-09, location: Uzgukhar}
 - {type: away, start: 1748-12-10, end: 9999, location: Mirror of Soul Trapping}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Valius
 hide_toc: true
 ---
@@ -41,3 +45,9 @@ hide_toc: true
 
 
 ![Valius](/taelgarverse/assets/valius.webp){align="right"; width="300"}A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [Fausto](<fausto.md>) and trapped in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>). Alongside his twin, [Vargus](<vargus.md>), he once sought treasures and wealth, but now seeks only to free his brother from [Fausto](<fausto.md>)'s curse.
+
+
+
+
+
+

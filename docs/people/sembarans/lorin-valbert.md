@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-21T23:46:56-04:00'
-lintVersion: '3.4'
-tags: [person, status/check/lint, status/check/mike]
+lintedAt: '2026-08-23T23:02:51-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Sembaran
 gender: male
@@ -38,7 +38,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Last known location (as of January 19th, 1720): heading towards the [Borderlands](<../../gazetteer/greater-sembara/sembara/borderlands/borderlands.md>), in [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>), [Greater Sembara](<../../gazetteer/greater-sembara/greater-sembara.md>)
 
 
-![Lorin Valbet](/taelgarverse/assets/lorin-valbet.webp){align="right"; width="320"}Lorin Valbert is the lord of [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>). He is a cousin of the old lord, [Lucas Asa](<lucas-asa.md>) ,via Lucas' biological father. Lorin did not expect to inherit a manorial lordship, and regards it as beneath his station, being a backwater far from the centers of power. 
+![Lorin Valbet](/taelgarverse/assets/lorin-valbet.webp){align="right"; width="320"}Lorin Valbert is the lord of [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>). He is a cousin of the old lord, [Lucas Asa](<lucas-asa.md>), via Lucas' biological father. Lorin did not expect to inherit a manorial lordship, and regards it as beneath his station, being a backwater far from the centers of power.
 
 He has a wife and two young children who often reside in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>).
 
