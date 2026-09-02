@@ -1,0 +1,4738 @@
+{
+  "schemaVersion": "1.0",
+  "sessionKey": "dunmari-frontier-session-4",
+  "blocks": [
+    {
+      "blockId": "recap-001",
+      "title": "Return to Karawa",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "I, by the way, stuck the transcript on Google Drive live for anybody who wants to look at it."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Cool."
+        },
+        {
+          "speaker": "DM",
+          "text": "So you awaken in the temple. The statue has settled in the night, I'll say; the coin got squirted out to the side, so it's on the ground. You're all refreshed and restored. And if you want to investigate anything before you head back across the canyon and toward the horse, let me know."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "We were going to look at how recent the tunnel down here was."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Oh, yeah. And so I can just use some geology?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Seeker, do you know, did the tunnel come up from the bottom or down from the top?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "So, yeah, that would be good to make it, too."
+        },
+        {
+          "speaker": "DM",
+          "text": "Make an Investigation check with advantage."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "That's for me? Okay, for you. Yeah. Good thing I still didn't do very—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Could've been worse."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "That's the stuff."
+        },
+        {
+          "speaker": "DM",
+          "text": "That's not recent. It's pretty old. I mean, it's definitely not in the past two to six weeks, but whether it's two months old or five years old is a little bit hard to tell."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Can you tell with that roll if it's natural? Is it erosion? Is it a dude with a shovel?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, it was excavated by a creature. Definitely not by a person, but also probably not natural. Something dug this out."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I want to investigate the altars—the various altars—closely."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Inside?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Inside the temple."
+        },
+        {
+          "speaker": "DM",
+          "text": "Is there anything specifically that you're looking for?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Well, I'm looking in particular at the Laka one, of course, and the Shakun one, since that's the thing in town."
+        },
+        {
+          "speaker": "DM",
+          "text": "Right. Oh, Shakun is not one of the major deities of the Dunmari, so there typically is no Shakun altar here."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "So there was one now?"
+        },
+        {
+          "speaker": "DM",
+          "text": "So there's—here, I'll put it in Slack. Actually, I'm writing this in the Roll20 chat instead of the Slack chat because Roll20 auto-saves the chat log. These are the—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Five. What I generally put—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, the Five Siblings. These are the major divine aspects of the Dunmari. Sonkar, the goddess of beauty and truth, maybe sounds a little similar to Shakun. There's no Shakun altar here."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Yeah, I just—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I look for artifacts or any—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay. You already did a pretty thorough investigation earlier. Besides the spearpoint statue enchanted with Continual Flame, you found a number of things: bronze chalices and a bronze censer, a heavy bronze statue of Aagir, the god of war, holding a spear, silver candlesticks, and a few additional silver spearpoints. That's mostly all stuff you found before; you don't really turn up much new. It seems like the things left behind were items that were heavy or difficult to move, or small and easily lost. This place has been at least partially cleared out."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "What about any of that stuff?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, you had gathered it all up. You probably couldn't carry the heavy bronze statue."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Can we put it on the disc?"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure."
+        },
+        {
+          "speaker": "DM",
+          "text": "Less than five hundred pounds."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "We can only put it on there for an hour."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, Tenser's disc only lasts less than—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Less than an hour."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "But then I just flip the coin again."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "If we could just put it back, it'd be slow-going, I guess."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "It's like a truck that just disappears occasionally."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "How long does that thing need to recharge? How often can you turn it into the disc for an hour?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You don't really know."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I have a question about the obsidian orb. I remember there was a text associated with it. Maybe it was an inscription on it that we read?"
+        },
+        {
+          "speaker": "DM",
+          "text": "On the—there was an iron staff. Yeah, and the iron staff had these runes in a strange language which only Kenzo could understand."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Which is that—"
+        },
+        {
+          "speaker": "DM",
+          "text": "I'll put those in the chat as well."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I'm, like, writing this stuff down and copying down the runes and everything. Also—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes."
+        },
+        {
+          "speaker": "DM",
+          "text": "Here, and I just put that in Roll20 chat, too."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thank you."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Black wind? Guess it's supposed to mean a long time."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Did we figure out—was that iron staff from the war three hundred years ago? Can we tell if its creation postdates that?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I don't remember why, but I thought that was—we were pretty sure it was an artifact from the Great War."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I think so, too."
+        },
+        {
+          "speaker": "DM",
+          "text": "There was the holy symbol—an amulet that the zombie hobgoblin was wearing. That is what you are sure was a symbol of Cha'mutte. The iron staff, you never really examined."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "We definitely took that with us, right? Or did we? You don't think we should?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I think we should."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, yeah."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Let's look at that—look at that more closely."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I was thinking I've had all this stuff."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "So I've still got the light, right? The spearpoint light, then?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Is that still working?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "That never goes out. It's continual."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "It would be nice if there were a way to turn it off, but, like, if I put it in the back of my bag, does that set it on fire?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, it doesn't give off any heat."
+        },
+        {
+          "speaker": "DM",
+          "text": "It's cold flame. It's just a permanent burning torch."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Sweet."
+        },
+        {
+          "speaker": "DM",
+          "text": "I didn't make an item for that, actually, but you can just add—I can add that to your character. It's effectively a permanent torch."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Light other torches with it."
+        },
+        {
+          "speaker": "DM",
+          "text": "You can't light other torches with it because it's cold. It's cold flame."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Both Delwath and Seeker can see in the dark."
+        },
+        {
+          "speaker": "DM",
+          "text": "Right, yeah."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Okay, well, now we do have a light source."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "And a couple of torches, but I think you should hold on to this. I'm better hiding in the dark than I am shining a light around myself, right?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Nice."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay, I'll add it to your character sheet."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "So what was—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "The horn."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Who has the horn?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I've got it so far, but I don't have to keep it."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Cool. If anything, you're the one Dunmari among us. And if it's an artifact of the Dunmari—maybe it doesn't matter."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Well, why don't we investigate when we get back into town a little bit more and see what we can learn about it? Let's see who might be more appropriate."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "That makes sense."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "So, the little baby cockatrices that they had. You said there were, like, two eggs in the middle of this bubbling mud. Were they cockatrice eggs, which I'm imagining something chicken-sized would come from—like a chicken-sized egg?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Or, like, basketball-sized would be great."
+        },
+        {
+          "speaker": "DM",
+          "text": "No, they were—wow, they were sort of bigger than chicken eggs, like goose-egg size, maybe. Or even a little bit thicker, but not, like, ostrich-sized."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I wonder if we could ride them."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Just sitting, you, like a stone."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Or incubate, hatch, and raise them as members of our party. I would love to do that."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Does anybody have, like, Animal Handling? Know how to do stuff like that?"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, really?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yes."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I do."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Oh."
+        },
+        {
+          "speaker": "DM",
+          "text": "I mean, are you gonna go back into the caves?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I feel like it's a bad idea. I feel like, by virtue of having that Animal Handling skill, I would know it's a bad idea."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "By virtue of having the Animal Handling skill, you know if it's possible to do and if they're safe."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "All right, I'll give that a whirl, Tim. Can I do, like, an Animal Handling check to see if this is ludicrous?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Well, it's natural—natural—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Natural."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "It sounds like a great—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Works fine. I can't think of a single reason this is a bad idea."
+        },
+        {
+          "speaker": "DM",
+          "text": "You've never heard of anyone doing it before, but, I mean, really, what do you know?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I mean, I feel like it still might not be bad to bring them into town, you know? Then somebody there who may be smarter than us can give us some advice."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Now, I hate to be the voice of reason, but do we really want to bring creatures that turn people to stone to town?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "That's just a hypothesis."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "That they turn people to stone? [[These terms here, just something.]]"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "You have a point. Oh, and we did see them turning the lion into stone."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Also true."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah. For sure, that last one."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Down there."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "There's some evidence, but it's—"
+        },
+        {
+          "speaker": "DM",
+          "text": "It's likely that either the lion or the cockatrices are no longer alive, because, if you recall, right at the end you heard a roar as you rushed out of the cave."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "But the possibility of having, like, a trained cockatrice that can just—you know, you can let a few of them run around and turn stuff into stone. It's pretty—not like one day you're late for breakfast. It gets—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Very likely."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "We have not discussed the question of the hobgoblin guy having this very powerful staff, and the connection between those facts and the entire surrounding environment's distortion, with the creatures doing weird stuff and maybe other phenomena."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Well, it feels like that's what that dude was doing."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "He was—he was, I think."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "We know what, and we know where, but we don't know why or when."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "We know when, though, right? Like, wasn't it recently that all the—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "First attacked."
+        },
+        {
+          "speaker": "DM",
+          "text": "Maybe three and a half weeks ago."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "And when Delwath passed through here before, there was nothing unusual."
+        },
+        {
+          "speaker": "DM",
+          "text": "Well, you didn't pass through here. I mean, farther south. Yeah, there didn't seem like there was anything—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Unusual."
+        },
+        {
+          "speaker": "DM",
+          "text": "But you were also kind of delirious, and you're actually not entirely sure how you made it fifty-plus miles from the ruins to the shelter of the herders who you stayed with. It's not entirely clear in your mind, exactly. But certainly there weren't rampaging beasts attacking you all the time. What do you want to do next?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Can we take a picture of the hobgoblin with our phones and then show it to the—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Oh, you should draw, because you can draw."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I have been sketching things as we go. I was thinking about sketching."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "You should definitely sketch the hobgoblin."
+        },
+        {
+          "speaker": "DM",
+          "text": "You can also just Minor Illusion a picture of it when you go back to town."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Good point, good point. Is that some kind of ice cream cone?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Because, like—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So many cones."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "So, anything else that we want to do here? I mean, we're going to leave the cockatrice eggs? Is that what we're doing?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I think."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "We know they're here; we can always come back."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "That's true."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I'll take some time to map out the area."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I basically meditate at the Laka one. That's kind of my schtick there."
+        },
+        {
+          "speaker": "DM",
+          "text": "And you're gonna bring as many of the religious artifacts from the temple as you can, but not the statue. Is that right?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "So, yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Are you going to try and Floating Disc it all the way back?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Well, here's a question. Does it feel like taking the items is some kind of desecration, or does it feel like this is just an old ruin now and it doesn't feel like—"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, it definitely feels like these would be—somebody back in town would be more likely to appreciate these being returned and restored and adorning a temple where people actually worship than—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Got it."
+        },
+        {
+          "speaker": "DM",
+          "text": "Sitting here."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Got it. Okay, cool. Yeah, in that case, let's take them."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Look, what if we bring—you know, we want to identify this adventurer who got turned to stone, right? He's a man. Why don't we bring his head back with us? Oh, jeez. Because it's perfectly preserved."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Are we all done before we head off?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "His—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "And torso."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Or torso."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Exactly."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Does the effect reverse with—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "The cockatrices pecking him again?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Do we have any idea?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "How to reverse that? I mean, cockatrices."
+        },
+        {
+          "speaker": "DM",
+          "text": "I mean—yeah, you can try Arcana."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Well, because if we knew how to do that, then we can take an egg. What's less—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Also true."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, you've certainly heard that there are powerful magics that can reverse creatures that have been petrified. That's relatively common knowledge. Although exactly what that would require isn't clear to you, and it's certainly far beyond any magic that you have access to. Although, back in the day, you certainly would have at least heard of or known some fairly powerful spellcasters who could have done that."
+        },
+        {
+          "speaker": "DM",
+          "text": "Whether the creature—you know, whether this person is still alive—is quite a bit less clear. Were they petrified while they were alive, or did they turn to stone after they died? It's actually an unclear question. Certainly, their arm seems to have been removed prior to them being petrified."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "We had this whole theory that the cockatrices only permanently petrified dead things. How feasible—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Would it be to take the whole statue?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "How much is that going to slow us down?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Depends on how many times you can flip the coin today. It would be very—it's a solid-stone, life-size statue of a human. We're not talking about something you could just carry. You're all weaklings; even between two of you, you probably couldn't easily carry it. Well, the horse is on the other side of the canyon. The real challenge will be coming up."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I think we leave the statue. And then, if it turns out there is a way to turn him back, people in town can go down."
+        },
+        {
+          "speaker": "DM",
+          "text": "Doesn't seem likely the statue will be further damaged sitting in this temple."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "And it is—so it's missing the arm, and the severed arm is down inside?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I'll be right back. Okay. Don't wait on me. Keep figuring out a way to get cockatrices."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I just wonder if we want some way of identifying—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Well, I can Minor Illusion it."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "There you go."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I just have to very carefully memorize what it looks like, I guess."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "It is weird."
+        },
+        {
+          "speaker": "DM",
+          "text": "Sketch or something."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I'll make a drawing. That's good. I—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Like, why was he here? Was he trying to stop the thing? Was he—did he have something to do with—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "My guess—my guess, stopping it. I didn't feel like he's an accomplice to the hobgoblin."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Do we? Is there evidence either way?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Well, presumably the hobgoblin and the cockatrices—well, it feels at least like, you know, if the hobgoblin was responsible for getting all these animals to behave all weird and crazy because of the staff, right, then it feels unlikely that, if the dude was an accomplice, he would have been turned to stone. I mean, he either would have been protected, or he himself would not have been turned to stone because he would have been on—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "He—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I think the hobgoblin's been down here for hundreds of years."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Right."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "So the dude feels—the guy, the adventurer guy—but that was more recent, right? We thought."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, yeah, but—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "But if the hobgoblin's been down here for hundreds of years, why did bad things only start happening three and a half weeks ago?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Maybe he found the staff three and a half weeks ago."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "No, I think the staff's been down here for hundreds of years."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Then something turned the staff on."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Maybe."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Somebody activated the staff."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Let's head back."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "We're bringing the staff with us."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Up to you."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah, I think we head back to town and see if the—what's the guy's name?"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Candrosa."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Candrosa. See if Candrosa says there is any magic that could turn somebody from stone."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "But do we trust him?"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Candrosa?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I think I trust him to depetrify somebody if he said he could. I'm not sure. I mean, Tim, what's my impression?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I mean, you've seen him in passing; you haven't really had a conversation. People in town seem to respect him. Although, if anything, he's been a little bit harder to track down and hard to talk to lately than what you expected. You'll hear things in the tea house or something about how—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Though, you know, the Shakun mystai have been more than usually quiet lately, or more than usually closed lately. And you haven't heard rumors about—I mean, generally speaking, the Shakun order is like the lifeblood of the town. It supports the town; it's still there, making their powders and healing people and doing these things, and so—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Interesting. I just wonder if something—if anything about the town can somehow be linked to the hobgoblin and—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Something happened."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Something—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Just the other—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Day."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "He said—"
+        },
+        {
+          "speaker": "DM",
+          "text": "I put a hole."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah, I was just checking the little thing."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah, I just wonder how forthcoming we should be with Candrosa."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah, maybe."
+        },
+        {
+          "speaker": "DM",
+          "text": "Tell me what you want."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I think—what are we gonna get from here, right?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah, yeah, stuff and head back to—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Make haste."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Town."
+        },
+        {
+          "speaker": "DM",
+          "text": "So, as discussed last time, you do indeed find the horse alive, if a little bit thirsty and annoyed at you for leaving it trapped in an earthen box for, what, twenty-four hours, roughly? But no real worse for wear. From the top of the canyon, it's a bit of a hassle getting all of this stuff you retrieved from the temple up the sheer climb. But your rope is still hanging there, so that makes it easier to scramble up and, once you get to the top, to start hauling it up on the rope before you head off. The ride along the road seems—well, first of all, you're going along the road instead of cutting through the canyonlands, so it's an easier journey."
+        },
+        {
+          "speaker": "DM",
+          "text": "And it seems just a little bit more—not exactly peaceful, but that sort of tension, even this far out, seems to have gone. Not every creature this far away was attacking you, but now that you're riding back, you can see the change in the landscape. Things that maybe seemed normal to those of you less familiar with the area now seem to have been disturbed. As you're riding back, you do sense the difference that destroying this thing seems to have made."
+        },
+        {
+          "speaker": "DM",
+          "text": "But it's a relatively uneventful journey back to town. People are starting to gather now for the Festival of Rebirth, and so the road is not completely empty. You do occasionally pass people or see groups of Dunmari with their sheep or their horses coming in from the pastureland, mostly to the north. Many of them give you a wide berth, as you're walking from the Blasted Plains and are a bit of an atypical traveling group for this area. But unless you want to—sorry, go ahead."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "When we are speaking to each other, are we speaking in Common? Or what are we speaking?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You all know both Common and Dunmari. Other languages you don't necessarily have in common, but those two you do. I assume—probably most people—the general, for-simplicity rule is that most people will know Common, even though they would typically speak in their native tongue, because that's a pain, to get to a city where you literally can't talk to anybody. But I'm assuming, in general, you're speaking in Dunmari unless you have some reason not to."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Just—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay, so let's see. It's, like, a day back to Gomat from the canyonlands, so that would be, like, a day and a half, and then it's maybe another two days from Gomat. With the time you spent searching in the morning, I think it's probably about three or four days' journey back to town, unless you want to push it as fast as you can."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I think we should try and go as quickly as reasonable without being unsafe. I mean, if we left the town kind of in an anxious state, it would be good to report back that we seem to have figured out what's going on."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "We'll solve all their problems and become the greatest heroes."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Tim, when we stop for meals—or no, maybe at lunchtime—here's the thing. I'm using my Stonecunning, because I know that somebody mentioned there was, like, weird stuff you could dig up along the roadside."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh yeah, that was Alesh, the scout you ran into. She was referring to relics of old battles, mostly. So your stone sense detects—it won't detect weapons, generally. It's only going to detect minerals, precious metals, or gems or something. You could—I guess you could try and find—yeah."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's see."
+        },
+        {
+          "speaker": "DM",
+          "text": "No, you don't sense anything particularly unusual."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "When you stop."
+        },
+        {
+          "speaker": "DM",
+          "text": "Well, let me just check one thing. It seems like, as you're getting farther west, this area has been more—probably a lot of the old artifacts and stuff have been found this close to Karawa. But you don't really get a sense that there's anything particularly unusual within your radius. Okay, anything else you want to do on the journey?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Blow the horn while we're, like, kind of out far away?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "What does it look like again?"
+        },
+        {
+          "speaker": "DM",
+          "text": "It's like a ram's horn, carved with—etched with a fine design of a running horse on it."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Where did we find it in the temple?"
+        },
+        {
+          "speaker": "DM",
+          "text": "In the tower. In the tower next to the body of a Dunmari."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I mean—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I guess we could just go and show it to somebody and see if they can help us identify it."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Like, what if it's a horn of summoning wild beasts for murder?"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But what if it's—yeah."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "What if it summons somebody to help us, but you can only use it once?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "All right, all right, all right. Let's not blow it. Save it."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "It would be good to announce the every-thousand-years cockatrice festival. You know, the good—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "All right, well, we'll see if somebody can help us identify it."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay. So, as you approach the town, you can see from a distance—from the outskirts—that the feeling of the town has changed dramatically in the week or so since you left. Clearly, the population swells for the festival, right? And you can see now that there are dozens of camps set up on the flat, dusty grounds on the outskirts of town, to the west and north of the caravanserai. There are large fields of horses and sheep and goats milling around. Just a general feeling of energy, a bustling swell of people. The normal population of the town is maybe only a—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Few hundred people at most, and it's probably at least doubled, if not tripled, since you left. If you remember, one of the features of the town was this large, open market that mostly stood empty. It's now starting to fill. As you're coming down, you can see in the distance some brightly colored wagons that Wellby recognizes as probably a traveling group of halfling merchants, perhaps come into town to sell wares for the festival. There's a sense of energy and bustlingness about the town that was, of course, much quieter and much smaller—not a backwater exactly, but just not a lot happening before."
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "title": "Following Arcus's Trail",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "So it's late afternoon now. You head down the hillside where you, Kenzo, were coming down and first saw the giant hyenas attacking, and find yourself now again on the outskirts of the caravanserai."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Shall we head to the temple? Shall we try to find Candrosa?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I want to find Kisa first. She was the one who actually sent us at the get-go, right? The town—the village elder."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah, she—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "She's in charge around here."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah, basically. Yeah."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "She's the"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "What's, what's the—what's the governance? Do we have a sense of what the governance of the town is like? Is she, like—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, well, there's not really a single person who's in charge. There's a council of elders that makes decisions for the town generally. But, I mean, it's a small village. There's not a lot of governance that happens. And Kisa is sort of informally the head of the council, but there's no official or formal mayor or—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Governor, whatever. As a town, there's—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Just a sort of informal sense that she's the one who guides the discussions and can sway people to her side. Generally speaking, governance in at least the eastern part of Dunmar is pretty informal. It's not organized into baronies with feudal lords or anything like that. All the land is held in common, and the people spread out and graze their herds, and then there are the small villages. There are a few larger towns. Kenzo, of course, you spent time outside Tokra, which is a bigger town along a river where there's more agriculture. Okay, so it doesn't take you that long. Once you let it be known around town that you're back—and certainly people recognize you—just the sight of the four of you coming into town creates a bit of a stir. It's unusual to see an elf, a dwarf, a human, and a halfling all traveling together."
+        },
+        {
+          "speaker": "DM",
+          "text": "And it doesn't take long for Kisa to hear that you're back. You find your way through the main part of the village, where mud huts form small roadways between them. There's the open area around the oasis, and then another open space with a big public square. On one side is a pentagonal building similar to the one you found in the fortress. That's the Temple of the Five Siblings here, smaller and less grandiose than the Shakun mystai—the large monastery carved into the red cliffs of the mesa just south of town. At the other end of the plaza is a circular building that serves as the council chambers and the meeting hall where the town gets together to have discussions and make decisions."
+        },
+        {
+          "speaker": "DM",
+          "text": "You are quickly directed to this council chamber, where Kisa walks in shortly after you arrive. She's older, has a bit of a limp, and moves deliberately, but she seems quite pleased to see you back alive. She turns specifically to Delwath and says, \"It's been very quiet the past three days. Do you have good news to report?\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "We found a source of these disturbances, we believe. About three days ago, we destroyed it."
+        },
+        {
+          "speaker": "DM",
+          "text": "That is indeed very good to hear. With the rumors that have been coming in with the travelers gathering for the festival, I've been quite nervous for Karawa."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Were there any further attacks?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Not here, but several families were attacked a few days ago on the road coming from the north by a large group of axebeaks. I don't know if you've seen them. They're human-sized—large, flightless birds, bigger than a human, with sharp claws and sharp beaks. Sadly, a few people were killed by a marauding horde of them. They're not carnivores. They don't normally attack people or animals, but they seemed to be in a—well, the stories I've heard say they were in a rage. The only way the survivors escaped was to flee on their horses and leave behind their sheep. That is all I've heard. The survivors arrived in town a couple nights ago. I'm not sure exactly when the attack happened, but it was more than two days ago."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Remind me the names of the people that we ran into again on the road."
+        },
+        {
+          "speaker": "DM",
+          "text": "Alesh was the scout who told you about the ruins along the road and said she was going to head for town after trying to alert people to return as quickly as possible. And Akan was the older man who you met at the—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "With that group of people who were down there at their campsite and said—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Exactly, yeah."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Whatever. Have you seen Alesh and Akan? I ask her."
+        },
+        {
+          "speaker": "DM",
+          "text": "I do not know Akan. Alesh has been riding hard to the north and west to warn people of these dangers. She reported that she saw you on the road maybe five or six days ago. I believe she came into town briefly and then headed back out to try and warn as many people as she could. Akan and his family may be here. We've had many families come in and set up—some familiar, many new, as we see every year. You get the sense she's not a particularly huge fan of the festival, to be honest: the town gets busy, and she doesn't know people. She'll answer your questions, but she's—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Tending to focus her conversation pretty much on Delwath and Kenzo. She seems a little bit—maybe even a little bit shy around—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "People she doesn't know."
+        },
+        {
+          "speaker": "DM",
+          "text": "She clearly knows Alesh. \"Do you know what the cause of this was? Is this something that might happen again?\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I pull out the staff and just show it to her. We destroyed this."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Oh, go ahead."
+        },
+        {
+          "speaker": "DM",
+          "text": "She looks at it and mutters, \"I don't understand this. I am out of my depth here.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Do you know who might understand what this is? Do you know these carvings?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I do, I can read it."
+        },
+        {
+          "speaker": "DM",
+          "text": "What is it? What writing is that?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "It's Draconic, isn't it?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "What is it? It's a—it's the—"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, I'll tell you. Yeah."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "There's definitely a D in there. Okay."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Stop misleading this nice person."
+        },
+        {
+          "speaker": "DM",
+          "text": "I messaged you in Roll20."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Ah, Draconic."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Totally"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "It's totally different."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Draconic, like dragons."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Dragons talk?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, there are dragons, and they're very rare. I mean, so that was a dragon—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Right. Of course, that's"
+        },
+        {
+          "speaker": "DM",
+          "text": "Draconic is not something you would see commonly, right? It's quite unusual. She definitely seems taken aback. She drops it, takes a few steps back, and says, \"I don't know what this says. I do not understand. It's just—\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Come on, the village is safe. The village is safe."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yes, we don't—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "We think"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "We think this was an artifact from the Great War that somehow got out. It is somebody going—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Is there someone in town who might be able to help us learn more about this stuff?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I'm just an old woman now. I wouldn't know who to talk to, anyway. This is all beyond my—this is beyond my experience. Sheep and water and—\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And dates, and—"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"That's what I know about. This is not—it's been forty years since anything's come from the east. That was a bad summer, but over quickly, and I hope that's not happening again.\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What happened?"
+        },
+        {
+          "speaker": "DM",
+          "text": "She sighs and looks sad, like she's remembering a bad memory. \"The Summer of Red Storms. It was two months—the two hottest months of the year. There were several attacks all across the border. These creatures were vicious. They were almost like hyenas, but on two legs, and they would run in packs across the land. If they saw you, if they could catch you, they would attack. They wouldn't even stop to wait until you were dead before they tried to eat you. But within a couple months, something changed and they stopped coming. It's been safe and quiet ever since. I really hope those times are not coming back.\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Seeker—the sketch of the man."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Near the place where we defeated the creature wielding that strange staff, we found a stone statue of a person who looked like this. You know nothing about this person?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Doesn't look Dunmari. He's definitely not somebody from Karawa. You might ask Ikram, the tavern keeper. He likes talking to strangers; he would know all these people coming through. But I can say for sure this person is not from Karawa.\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Thank you."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Tim, is there anybody else here in this council chamber, or are we just talking directly to her?"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, it's just her. She's the only one. Clearly, you told somebody you were looking for her, and somebody went and found her and brought her here. But it's not a regular council meeting or anything, and she clearly came straight away from something else. She wasn't just sitting here waiting for you."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Well, I think, to the best of our knowledge and understanding, whatever has been causing these troubles recently is, for now, taken care of. We certainly felt a great sense of ease in the land upon destroying the staff. So I think the festival and everyone here should feel safe and should be able to enjoy this period, hopefully in peace."
+        },
+        {
+          "speaker": "DM",
+          "text": "She breathes a deep sigh of relief and sits. She says, \"Thank you. Thank you, Kenzo.\" Then she looks at you, Delwath, and the dwarf and—\"What were your names again? Sorry, the dwarf and the halfling.\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Oh, she knows you. Yeah, I'll introduce the two of them. \"This is Seeker and Wellby.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Thank you, Seeker and Wellby, as well. I will rest easy tonight. It has been a stressful few weeks, to say the least, and I will keep you in my prayers. And if you talk to them, tell them your food and drink is on the town.\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Is there, like, a religious leader, other than—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Ah, yes, there is. You probably wouldn't have had occasion to talk to her, but you know Suma is the priestess of Jeevali and the main leader of the temple. Even though all the temples typically worship all of the Five Siblings, they tend to focus on one. The temple in the fort was clearly a temple of Aagir, the god of war, even though it acknowledged his four siblings. The temple here is clearly a temple of Jeevali, even though it acknowledges her siblings, and Suma is the priestess of Jeevali in charge of the temple. The temple is just across the plaza from—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Here."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I just was thinking maybe we should return the religious artifacts."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Meta question on Seeker and Wellby. Where are you from again, Seeker? And Wellby, where—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Wellby would have to think about what to say. Hang on, I gotta look them up."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "And Seeker, where are you from again?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I'm trying to remember the name of the place."
+        },
+        {
+          "speaker": "DM",
+          "text": "It's in Sembara. It's in your notes. Yeah."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "The city of Drankor, on the western frontier of Sembara."
+        },
+        {
+          "speaker": "DM",
+          "text": "So that's quite a ways north of here."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Kenzo's from Chardon. Yes."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I would say \"of the Green Sea\" is probably—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The most"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Encompassing."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Where is the Green Sea?"
+        },
+        {
+          "speaker": "DM",
+          "text": "That's the other—that's the coast of Chardon. So, okay, Seeker and Wellby are from, like, opposite ends of—sorry, of Sembara, not Chardon."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Tim, by the way, if you have a picture of the map, we should start each session with you screen-sharing it and reminding us where we are."
+        },
+        {
+          "speaker": "DM",
+          "text": "You know, in fact—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I'm looking at You can't see it on my phone, but"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "The phone is vanishing into your virtual background."
+        },
+        {
+          "speaker": "DM",
+          "text": "You got to put it on your computer you can share your screen."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Nice well"
+        },
+        {
+          "speaker": "DM",
+          "text": "He's been trying to drag them out for a while. Anytime you want to start, Wellby, you're welcome."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Gladly. Yes."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Should we go speak with the innkeep?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "With Ikram first. Yes, I think that's a good idea."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "All right, we go over to the inn."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay. Hold on one sec."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Just disagree once again."
+        },
+        {
+          "speaker": "DM",
+          "text": "I just emailed you that map, though, if you want to—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Email myself."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay, I'm Okay, so where—where do you want to go, to the inn first or the temple first?"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Inn."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "It. Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Inn first, okay. The inn is not quiet and peaceful. The inn is bustling, and—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "This is not going to be the right music"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Works."
+        },
+        {
+          "speaker": "DM",
+          "text": "Too Western. We'll go with this. It's not perfect. Okay, so, when you were here a week ago, there was probably almost nobody else—a few other people staying there, but not very many. Now it seems like almost every room is full. A handful of people are lounging outside, sitting around with drinks in the afternoon and chatting. The outer courtyard is full of animals. In general, the atmosphere is pretty lively, even though there's still an undercurrent of people talking about the rumors of the attacks: do you know anybody who was attacked, and things like that. But Ikram sees you all coming in together and—"
+        },
+        {
+          "speaker": "DM",
+          "text": "He yells across the room, \"Kenzo! Look, everybody, it's the one who killed the hyena. Do that thing with your staff! You were supposed to come talk to me and tell me some stories.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Oh, I've got stories. What do you have to drink, my friend? We're thirsty."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay, wow."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Nice. Mead, mead, mead. Well, where are you from again, my Seeker? From where?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I'm Seeker of Highkeep. That's—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Oh,"
+        },
+        {
+          "speaker": "DM",
+          "text": "I know that. He was staying here before the two of them got up and left in a hurry. I'm waiting for some more stories of—what was it you like to talk about, Seeker? Some sort of weird geometry?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Geology. Similar."
+        },
+        {
+          "speaker": "DM",
+          "text": "Technology, geology."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "You know they have a lot in common, those two areas. More stories of rocks. Just rocks. Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "He laughs. The typical summer-afternoon drink they serve is a slightly sweet, chilled, slightly effervescent honey wine made from fermented dates. There's also a vodka-style drink fermented from milk, and then they have—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "We have"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Tea."
+        },
+        {
+          "speaker": "DM",
+          "text": "Iced tea—mint and a few other kinds as well. Whatever your pleasure, on the house."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "What are you guys having"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I'll have a mint tea."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Tea, too."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Ikram, what are you drinking?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I'm drinking whatever you're drinking, Kenzo."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "You're drinking—I asked you first."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay, I'll bring a surprise."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Surprise."
+        },
+        {
+          "speaker": "DM",
+          "text": "He heads back in, gathers up a few things, and comes back soon with three tall glasses—tall mugs—of chilled mint tea, a few snacks like flatbreads with goat kebabs, and two mugs of spiced beer. He sets them down in front of you and says, \"Okay, story time.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Toast."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Who's going first?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Well, we had a question for you first. I think Seeker—Seeker has a drawing that he'd like to show you, curious about—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "There's a lot to tell. We've explored and seen many things, but we found this one weird thing, which is a stone statue of a guy who looked really surprised. Maybe his arm had recently been bitten off. We don't know, but it looked like this."
+        },
+        {
+          "speaker": "DM",
+          "text": "He looks a little bit puzzled for a moment. \"You say that's a statue? Looks just like this man named Arcus who passed through here, I don't know, four or five weeks ago. Didn't stay long.\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Arcus, what was—"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"One night. He was kind of quiet. Didn't say much. Not from this town, not from around here. I tried to get him to chat, you know. Don't see that many strangers coming through—although, to be fair, there have been a few more strangers than usual lately. It's a little unusual in the winter, but now that I think about it, I can't say Arcus was the first. He kept to himself. He didn't chat much. He seemed like he was going somewhere. Yeah, in his traveling clothes. Just did the one night.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Could you tell where he was from by his accent, or did he say?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I don't think he was Dunmari. I don't know where he came from. You know, that reminds me: his silver was odd. It wasn't normal coin. It was these small coins that had a portrait of a man on one side and, like, a staff with light shining off it on the other. It's not something I'd seen before.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I recognize—so that's from—didn't we find old Chardonian coins in there?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Remember, we were looking at Tenser's Disc itself, like the coin that forms the Tenser's Disc was a Chardonian coin, an antique Chardonian coin."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "That sounds familiar to me."
+        },
+        {
+          "speaker": "DM",
+          "text": "As"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "My old Chardon stuff."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, I messaged—I sent you a message."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Definitely sounds like a Chardonian—Chardonian silver coin."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"From Chardon? That's a ways away. Wonder what he was doing in these parts. Anyway, he wouldn't tell me.\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Did he talk to anybody else while he was here?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Ah, that's a good question. He, you know, he might have talked to the smith, Jasu."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "The Smith."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"He was asking about who knew about metals. He seemed interested in artifacts for some reason.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Well,"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I don't know. I thought maybe he had picked up something on the road. People often find spearheads or bits of horn, or sometimes even shields or weapons, along the road. In the Great War, there were a bunch of battle sites around here. Not so close to Karawa. Actually, you may not know this, but the Temple of Shakun here dates from before the Great War. But certainly along the trade road there were—certainly some battles.\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"People say there were a few great battles here. Some of the great heroes of that age might have even ridden through here, and—I don't know—maybe he found something on the road.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Do you know who in town might have knowledge about artifacts? Who might be able to identify artifacts or tell us more about them?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Well, actually, the person who's most interested in the history of the Great War around here—I don't think she's around right now, though—is Alesh. Alesh, sorry.\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "That's who we ran into. Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Yeah, even on the road, every time she stops, she keeps asking, 'Has anybody found anything new? Are there any more things I can try and collect for my amateur museum? Ikram, what have you heard about battle sites?' That's who I'd ask if I wanted to know about some Dunmari artifact. But I think she headed north before you. Well, let me just stop and say: I assume the fact that you're all back here in one piece, and nobody's dead, means that whatever was attacking our town is gone.\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yes."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Of course. Well, anyway, Alesh had gone to warn people and try to get people to town. Sadly, she didn't warn everybody. I don't know if you heard, but a few people have come back recently reporting attacks.\" Ikram gets sober and quiet for a minute. \"There was Akan, whose family, I believe, is now camped out on the outskirts of town for the festival. He said he—oh, maybe it must have been you he was talking about. He said he met some travelers on the road who had killed some beasts. But his family was attacked by giant lizards. And there's another Dunmari pastoralist family who's come in—\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Devana, whose family was attacked by axebeaks—large birds with sharp claws and sharp beaks that normally don't even attack people or animals. They're not even really predators.\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "scavengers."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Let me ask you about axebeaks, because I've been curious this whole time. I haven't seen one yet, and I really want to. How often are axebeaks—"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"You know, we were just talking about a family, so let's have a moment of silence for the dead.\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "He pauses for a sec."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"But in town for the festival—\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah,"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"You might want to try out the axebeak-riding competition.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "The axebeak—yes. Competition. Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "It's it will be"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "The question is, how much money do you have right now?"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "How much"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Because you need to take all of your money and put it on—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Are you talking to me."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I'm talking to anyone who can hear me right now."
+        },
+        {
+          "speaker": "DM",
+          "text": "There's a number of riding and"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "And"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Competitions that happen after the festival, with the big fair and celebration. The archery and horseback competitions tend to be more artful displays of skill. I have to say, the axebeak-riding competition is one of my favorites, because I have never seen so many people fall comically off an animal before. So if you're in town, try it out.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "You mentioned, too, that you've seen more travelers than usual coming through, especially in the winter. Were there others like this last guy?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Like Arcus?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I mean ones who struck you as unusual, not just—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "People you know"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Yeah, maybe. We get some odd types coming to see the Temple of Shakun every now and then. That's a bit of a sight to see, I must say, and the red mesa is unusual in these parts. So you never quite know who's coming through. Every now and then, some wild thrill-seeker will head east to see what they can find. Most of those never come back, I have to say. Yeah, I'd say maybe a few were like him—quiet, kept to themselves, didn't stay long.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Anybody else with these Chardonian coins?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I can't remember. I'm sorry."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah, we understand. But I know you're in search of stories. I will share one part of our adventure."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "As a part of"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "As part of, I think, what helped to keep the village safe, we had to battle what seemed to be some kind of strange hobgoblin sorcerer. I've never seen anything quite like it, and I wonder if you've heard of anybody like that, or anything about hobgoblin spellcasters."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Hobgoblin sorcerer?\" He makes a five-pointed star. \"Five Siblings keep us safe. I don't really want to hear about more hobgoblin sorcerers. Keep them in the Blasted—\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Plains."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Rather hear about how Seeker built a barn with no door for my horse."
+        },
+        {
+          "speaker": "DM",
+          "text": "That is quite interesting. Ah, was the horse happy, though?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "It was temporary and strictly out of necessity. No, brutally unnatural. No doors."
+        },
+        {
+          "speaker": "DM",
+          "text": "How did you build a barn in the desert?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I have some powerful abilities to manipulate stone and earth."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "He waved his hand and said, mumble bumble and there was a barn."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "A little more complicated."
+        },
+        {
+          "speaker": "DM",
+          "text": "I'd like to see that someday. Maybe you can arrange a demonstration."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Perhaps we'll get our chance."
+        },
+        {
+          "speaker": "DM",
+          "text": "Fascinating. You've got some of that magic mumbo jumbo, don't you?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Can't build barns, though."
+        },
+        {
+          "speaker": "DM",
+          "text": "True, true."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I wonder if you know anything about chickens that can turn things to stone."
+        },
+        {
+          "speaker": "DM",
+          "text": "Again, I have never heard of a chicken that can turn something to stone."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Chicken-lizards."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Or something chicken-like."
+        },
+        {
+          "speaker": "DM",
+          "text": "Cockatrices? Is that what you're talking about?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "We think that's what those were, yes."
+        },
+        {
+          "speaker": "DM",
+          "text": "They live out in the desert. They're rare. They're kind of pests sometimes, but the nice thing is that, if they turn you to stone, it doesn't seem to last."
+        },
+        {
+          "speaker": "DM",
+          "text": "If they turn you to stone, a minute later you're back to normal. I heard a story from one of my friends. She told me that one of her sheep got turned to stone once. This little cockatrice and the sheep just kept pecking at each other, and the sheep would turn to stone, and then the cockatrice—it seems odd that they turn things to stone, because what do they eat? Fair. Never thought about that. Anyway, she ran off and left the sheep because she—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Did not want to be turned to stone. But—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Actually, as she was riding away on her horse, the sheep turned back. Then the cockatrice pecked it again, and it turned back to stone. I think eventually she was gone, and then I don't know what happened. But, yeah, they're not common. They're around. I've seen them."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Well, I haven't seen them."
+        },
+        {
+          "speaker": "DM",
+          "text": "I know people who have seen them in the desert. They dig underground. They lay their eggs in—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "In"
+        },
+        {
+          "speaker": "DM",
+          "text": "Caves and underground pits, supposedly. That's what I've heard, anyway."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I wonder if we should go find that Smith."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "So you've never heard of a cockatrice turning somebody to stone forever?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I've only heard of this one sheep. I don't know what happened."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "And have you, by any chance, heard of any magic that might turn you back?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Candrosa's the one to ask about magic."
+        },
+        {
+          "speaker": "DM",
+          "text": "Sure. The best I can do is pour a nice tea or a mug of beer."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Candrosa's—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Candrosa's probably at the temple. Yeah, it's getting toward dinnertime. Why don't you stay and talk and go find these people in the morning? Can't be that urgent. I don't know, maybe it is."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "You know, I think maybe we'll go and try to learn a little bit more, and we'll come back after for dinner. How's that sound to you all?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "We'll have to eat late. Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay. I'll save you a table."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Thank you."
+        },
+        {
+          "speaker": "DM",
+          "text": "And rooms, because I've only got a few left, but I can save them for you if you need them."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "That would be amazing."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "We do. Yep. Okay."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Done."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Ikram, you're the best."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "See you later."
+        },
+        {
+          "speaker": "DM",
+          "text": "Delwath has his own room. He has a room above a tea house across the street."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Nice."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "And stabling for the horse."
+        },
+        {
+          "speaker": "DM",
+          "text": "The horse will probably be stabled Here."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Yeah, actually. Yeah."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "What did the Arcus guy have again?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "The smith, we think. Oh, mysterious guy Arcus. Smith."
+        },
+        {
+          "speaker": "DM",
+          "text": "Arcus. Arcus was the name of the"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Stone guy."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Chardonian adventurer."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Why don't we—I agree with Seeker. I feel like we should learn a little more about Arcus before we talk to Candrosa."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yes, definitely."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I agree, too. And it's interesting that, I mean, it suggests that people in charge know about this. They knew there was something there to go after."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Right, or what caused it."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah. The other possibility is that the staff is from Chardon, and that—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "And that the hobgoblin guy, like, took it from—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Or Arcus brought it."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Brought it to him somehow. Right, exactly."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "This is four or five weeks ago. This is right around the time when everything started getting crazy."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Or that Arcus, like, found it, dug it up, and got killed by the hobgoblin or something."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I don't think it's a coincidence that all this madness is happening and Arcus is showing up. Or—coincidence. I don't know."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Well, there's clearly a German cockatrice at the center of it all."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "It's a long reach from here to Chardon."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "How many months, or how many days' travel?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Now, you know—share screen—two—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Weeks. Yep, weeks."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Oh yes, your share screen."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Stuff, because you cannot start screen sharing with the other participants sharing."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, I gotta stop the"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "music, God."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Fearing Dear, dear, dear, dear did it. Did it did, it did it."
+        },
+        {
+          "speaker": "DM",
+          "text": "While he has been busy."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Do you—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Use the good map."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Did he? He didn't do anything."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Recently, the good map that—"
+        },
+        {
+          "speaker": "DM",
+          "text": "The you"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "No, there wasn't anything in that email."
+        },
+        {
+          "speaker": "DM",
+          "text": "Ah, OK."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "So I deleted it, assuming that I—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Right."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "No, no. Come, please."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Too many axebeaks around here."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "No, not enough. No—yes."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "He didn't. He didn't"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Oh, yeah. That's much—our Sembara. Oh, this looks so good."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "All right, all of this."
+        },
+        {
+          "speaker": "DM",
+          "text": "Is amazing now."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Working on Dinklage. Peter Dinklage, Peter Dinklage, Peter—Peter day. Wow."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Isn't that amazing?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Holy shit."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, I've had this"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Nice. It's not got, like, a blue dot on it, though."
+        },
+        {
+          "speaker": "DM",
+          "text": "How did you make the arrows right there?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Karawa."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "You see me."
+        },
+        {
+          "speaker": "DM",
+          "text": "In Photoshop."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "So this is"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "So this up here, in that direction, it's like the Green—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Sea and all that stuff. So I didn't really map any of that because it's already so well—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Mapped."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "This is sort of the maps of my travels on this side of the mountains."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I'm waiting."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "For right now, this is Gomat, and then this is Karawa."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "What you probably can't see my mouse."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Oh, and now we go—yeah."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Oh, and then there's the fortress just beyond—the"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Gomat fortress."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "And the giant hyenas on the road here."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Where's Where's Chardon?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Chardon's way up there."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Up there."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "There's Chardon."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah. And Drankor's south, right?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Drankor's down"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Somewhere where one of the dragons—"
+        },
+        {
+          "speaker": "DM",
+          "text": "So, one of the dragons—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "At some point this river meets the sea, maybe, and that's where Drankor was."
+        },
+        {
+          "speaker": "DM",
+          "text": "I mean, but you don't really know. None of you—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Have—"
+        },
+        {
+          "speaker": "DM",
+          "text": "This is the delta. I mean, obviously Wellby knows a lot more about Sembara, but this is your adventure map, so you didn't bother mapping that. Everything that you know about Chardon is mostly just hearsay."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "And then you've been mapping the—this isn't this age, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "That's new in this age, and that's western Dunmar. The Dunmari are kind of split: there's the traditional pastoralist, horse-riding culture in eastern Dunmar, and then people have settled down in the—this is much more fertile. There's more agriculture; it's wetter."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Has Drankor been mapped in this age? Like, you know, maps from the last age might say that there's a city on the coast, but maybe—maybe not now."
+        },
+        {
+          "speaker": "DM",
+          "text": "Nobody that you know of has been to Drankor in this age, no."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "What about—where's the Ulrich Monastery?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Right here. This giant, giant pit in the ground."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Wow."
+        },
+        {
+          "speaker": "DM",
+          "text": "And, Seeker, you would be from sort of just north of this—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Until"
+        },
+        {
+          "speaker": "DM",
+          "text": "It's, like—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "The thing that I saw in my travels—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Farther."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Yeah, that was the Ulrich Monastery. Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, this sort of up here, the far northern mountain, is roughly where—and this is the Green Sea over here."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Is that the Green Sea east of Sembara?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "It's, like, the westernmost edge of the Green Sea."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "That's where you're from, Wellby?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Yeah, I grew up on boats around the Green Sea, and then, as I got older, we were mostly all over the place in Sembara. And then—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Delwath, where are you at?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Tim, where—where was Delwath from?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I don't know. Where do you want to be from?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "We never were."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Guys."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I don't remember where the elves—"
+        },
+        {
+          "speaker": "DM",
+          "text": "A bunch of elves lived in this big forest on the slopes of the mountains. And then there were more elves who lived farther north. There were scattered populations of elves over by this lake, near where Kenzo's from."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Delwath would've been from wherever the biggest serious—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Group was near—"
+        },
+        {
+          "speaker": "DM",
+          "text": "The lake on the far right side of the map."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Oh, that's good."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, and then Baral is right under the A of the Plaguelands. And the elves would probably be—some would be over by the lake, some in this big forest, some farther north."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "What was the—what I mean, what's the sort of—"
+        },
+        {
+          "speaker": "DM",
+          "text": "The big western slopes of the central mountains would have the biggest and most accomplished—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Oh, that's where Delwath's from."
+        },
+        {
+          "speaker": "DM",
+          "text": "But they're pretty much all gone now."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "We're just"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Trying to"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh,"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "What's that unlabeled city in the middle of the plains, on the west side there?"
+        },
+        {
+          "speaker": "DM",
+          "text": "That's just another city on the border of Dunmar. That's just something you've heard of. This road continues, but you don't know where. Wellby is not entirely sure exactly. You know where Chardon is because everybody knows where Chardon is. This town you've heard of on the border of Dunmar. You've just got this—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "It's like the major landmarks and stuff copied over from other maps, and then it gets detailed as it goes."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Right. So, Wellby, you've got more maps like this?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I mean, I have my own notes from up north, but I really only started this project once I came over these mountains and headed south. That was when I got serious. This is—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Not"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "You know, the maps have a lot of detail around Dunmar."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Sure."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I've been sketching my observations of ley lines, but it's more of a piecemeal approach. I would love to integrate and synthesize these findings all together. Your larger-scale maps could help with that."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Interesting project."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Do these ley lines move, Seeker?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Well, my impression is that's a bit like asking if mountains move. Yes, yes, of course they do."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "But slowly over time."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "That's my impression. And occasionally, all of a sudden, catastrophically—like at this point on the map. And I point to the giant rupture in the belt of mountains to the north."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "What happened there?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "On my way south from my home, which is up here in the north, I traveled past this region. It looks like something, shall we say, rather dramatic happened there. If we are to believe the stories of the Great War, it was the focal point of a cataclysm. And I could certainly see disruptions in the ley lines: shapes and patterns of bending and turning that they don't normally make."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "It's a beautiful map. Shall we—what's the name of the smith?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Jasu. Jasu."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Shall we go find Jasu?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah. Yes. Do I know him, Tim?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, you probably have talked to him. When you got your horse, you might've talked to him about horseshoes and things. You would've met him a few times, at least. Most of the shops and—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Can you keep the map up in Roll20? Is that possible? And then we can each—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh yeah, definitely."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Great idea."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah, make it the default map. So sweet. Can you—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Draw those mountains? I used a stamp in Photoshop. There's a huge community on Reddit of fantasy cartographers who have posted Photoshop stamps. It still takes a bit of practice to get it so it looks natural, but all of these are just stamps."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "And they're unique. I was studying the mountains to see which ones were repeated there."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Yeah, so I, yeah, I am."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Downloading"
+        },
+        {
+          "speaker": "DM",
+          "text": "I have a set of stamps with something like forty different mountain stamps, so you can make these. You will see some duplicates—it's not perfect—but if you arrange it right, you can make it so it looks quite—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Nice."
+        },
+        {
+          "speaker": "DM",
+          "text": "It doesn't look repeated. It was quite a lot of fun to do, actually."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "It looks like the maps in The Lord of the Rings books, a little bit."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, that's—I mean, that's what it's inspired by. I just need to download that—I need to get this from—hold on one sec. Upload it to Roll20."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Do you have the whole map in Photoshop like as"
+        },
+        {
+          "speaker": "DM",
+          "text": "I do, but the original map I sent you is more in a notes style, and I've been slowly converting it to the cool fantasy graphic style, but—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Like, as an AI, or is it—is it—"
+        },
+        {
+          "speaker": "DM",
+          "text": "No, no, it's all vector art. I've been doing it in Adobe Fresco on my iPad with an Apple Pencil. It's quite fun, actually, to kind of—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Cool."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay, let's see here. Okay, I'll drop you all on the map page now."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Hey there, you"
+        },
+        {
+          "speaker": "DM",
+          "text": "I'll just turn off the grid."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "That's so sweet. Oh, it's really high-resolution too. You can zoom in on that."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Yeah, oh yeah."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "That's great."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "What is this—what is this fortress thing south of Gomat, southeast of Gomat? A little tower."
+        },
+        {
+          "speaker": "DM",
+          "text": "Another fort. That is—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "What was its name?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Kharsan."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Are we supposed to know what Kharsan is?"
+        },
+        {
+          "speaker": "DM",
+          "text": "That's where you landed."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh, OK."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay, so I can go back to sharing my music now. Oh, yeah."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "So, blacksmith."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Sweet."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "It's sweet. Let's check out the blacksmith, Jasu."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "So there's the street where Delwath has rooms and where the caravanserai is. A series of shops runs along that street, mostly various craftspeople who live above their shops. The smith is there, along with a tailor, a hosiery shop, a cobbler, and all—that's pretty much where all those people live. You get to Jasu's blacksmith shop as he's finishing up—he's dousing his forge and getting ready to head in for dinner. He sees Delwath, turns, and says, \"Delwath, can I help you? Do you need something?\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Apologies for catching you at the end of the day, but we had a few questions about a man you might have talked to several weeks ago."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Arcus?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Okay. Give me a moment.\" He's an older man, bulky and solidly built. \"I'm just putting away my stuff now, and I was about to head to Ikram's to have a drink in the coolness of the evening. If you'd like to come that way and join me, I'd be happy to chat.\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Of course."
+        },
+        {
+          "speaker": "DM",
+          "text": "So he takes a few minutes to store his gear and clean up the smithing area, then says, \"Okay, let's head along.\" Ikram sees you coming, anyway. Jasu heads to his regular table and sits down, and Ikram brings you all more drinks of the same things you were drinking before. \"Okay, so what would you like to talk about?\" This is Jasu."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I'll gesture to Seeker. There was a man here a few—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "You're muted, close cousin."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Jasu."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Arcus. Arcus. Arcus, the man here a few weeks ago."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Arcus."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Elf, would you introduce me to your friends?\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Oh, yes, of course. I'll introduce the three of them."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "So I take out the drawing to show him."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"That looks familiar. There was a man here several weeks back who went by the name of Arcus, I believe. He talked to me because he had found something. I don't know where, actually. He seemed quite interested in ancient Dunmari artifacts from the Great War. A little strange, actually. I don't know why. He was definitely not Dunmari. I think he was from out west somewhere—Chardon, or somewhere in that direction. I don't know why he would have taken an interest in our history or artifacts, but that seemed to be what he cared about. He had a couple of silvered spearheads that he had found and wanted me to haft for him. He seemed to indicate he expected to travel back through town in the next couple of weeks, but he never came back. Where did you say you got that picture?\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Well, I drew the picture of him. What—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Where did you meet him?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "He encountered an accident."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "To be honest, we're not quite sure what happened. We found a stone statue of him, to be precise."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Seems a cockatrice got him."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "As far as"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"To be honest, I can't say I'm too upset. He seemed a bit pushy. This land is—this—I got the sense he wanted to come dig up our history and bring it back somewhere with him, and I don't know about that. Seemed rather sure of himself.\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "You mentioned he asked you to do something to those spearpoints. What exactly was it again?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Ah. \"Oh, he wanted me to haft them—just attach them to wood to make them into weapons, right? They're just the spearpoints.\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I see."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "The spearpoints—he found them on the road?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Well, he didn't say exactly. I kind of assumed that, I guess."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "And would you be willing to show them to us?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Yeah, I'd be happy to. In fact, it's a bit odd. Silver, or even silvered metal, shouldn't be that hard to work, but I haven't been able to haft them. I don't know what to say about them, exactly, other than they seem resistant to my attempts at smithing them. Almost like they don't want to be damaged. They're in quite good condition. They seem rather new.\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I'm an artisan myself, but mainly of stone and glass, so I'm interested to hear about your experience."
+        },
+        {
+          "speaker": "DM",
+          "text": "Artisan?"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah,"
+        },
+        {
+          "speaker": "DM",
+          "text": "Well, he goes into a long description of all the technical details of exactly how you put spears on wood, the best practices, and things like that. The punch line is that he couldn't. He couldn't drive anything into it, melt the metal, or reforge it in any way. It seemed much harder and more resistant to heat than it should be. Tim?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Tim, did we find things like that in the temple? Did we find some spearpoints?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Just some amulets—amulets. It was—so all your—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Holy spear?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Right. Although you ended up using it as a weapon, it wasn't technically a spear. It was a holy symbol of Aagir."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Right. Well, we'd love to see those spear points."
+        },
+        {
+          "speaker": "DM",
+          "text": "Come by my shop in the morning. I'll dig them up for you."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Thanks."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "And Jasu, do you know much about other artifacts?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You know, the person you should talk to if you really want to know about Dunmari artifacts is Alesh. But I think Ikram told me she's out. She was riding to tell people about the beasts."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah yeah"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "If she were to return, do you know where we might be able to find her?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I'm sure she'll stop in at Ikram's. She'll come here to say hello to people. She lives in the village; she's not hard to track down."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "And have you ever made a harness or saddle for an axebeak?"
+        },
+        {
+          "speaker": "DM",
+          "text": "You think of entering the competition."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "No, I'm thinking of winning."
+        },
+        {
+          "speaker": "DM",
+          "text": "The thing about axebeaks—I'm not really a saddler. I tend to work strictly in metal, not leather. The thing you've got to remember about axebeaks is that their backs are not flat. They slope like this. So if you let go for even a second, guess where you're going to end up? On your butt."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "It's spoken like words from experience."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, I have never entered the competition. That's for people younger than me. It's quite fun to watch, though. Although, I must say, it gives some amusement, but the skill and talent displayed in the horseback-riding events are more my taste."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I turn to the rest of the party. \"Anything else we should talk to him about?\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "There is that one thing we have that we could show him. That's kind of weird."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Which thing."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Let's find another place to show him."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Yeah, I agree. Just—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Don't want to just swing that thing out in the tavern."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "And"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Tomorrow morning, when we come back to look at the metal, maybe we can show him that."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Huh."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "How long ago—just remind me, Tim? You said before, but this guy was here—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "You"
+        },
+        {
+          "speaker": "DM",
+          "text": "You heard several weeks—like four to five weeks."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "So the first attacks were after he had passed through."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yes."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Feels like he got that staff."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "It does a little bit"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Maybe Should we go find Candrosa?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I wonder if we want to talk to the halflings first. I'd be curious what they know, and if they've come on the road between here and Chardon. What sort of designs—are the Chardonians sending people here to dig up Dunmari artifacts?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Although just because somebody has a Chardonian coin does not make them Chardonian."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Fair point."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, it's hard to get a sense—sorry, go ahead."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Could have been a wanderer."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah. Complete your thought, and—"
+        },
+        {
+          "speaker": "DM",
+          "text": "You get the sense that, to a lot of the people who live here, anything west of Dunmar is Chardon, because that's the big city they know. But that doesn't necessarily mean anybody was from Chardon. There are definitely other lands to the west, and other cities."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I thought, in the background info, isn't Chardon spreading eastward, or has designs on a greater empire kind of thing?"
+        },
+        {
+          "speaker": "DM",
+          "text": "That is true."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I mean, maybe he was sent by Chardon."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "From everything we've seen, it would not be tricky to conquer Dunmar."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Right."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Though we haven't seen that."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "You want to go talk to the halflings, Wellby?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I think so. My instinct is to go into the conversation with Candrosa knowing as much as we possibly can."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah, I agree with that."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Besides, we're having a really good time."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Hey,"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Let's head to their camp. Yeah, they're camped off somewhere."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, their camp to sort of"
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "title": "The Voice among the Charmhearts",
+      "lines": [
+        {
+          "speaker": "DM",
+          "text": "So there's the inn, the caravanserai, which is like a big courtyard. West of there is this big, flat, open plain where a bunch of Dunmari who come in for the festival set up their little family-group campsites. The halflings have set up their wagons there, so it's not far from here."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay. You're walking through the camp, and you can hear whispers traveling out as you pass. You get the sense that news has started to spread among the people here that not only have the beasts been quiet, but you're the ones who did it. A few people come up and say thank you, giving you a little bow-like greeting, and then back off. They're still a little skeptical of the elf—especially the ones who aren't villagers from Karawa. But news is beginning to travel, and you probably won't be anonymous at the festival at this rate. People don't hinder you, and you pass through the camp. From a few campsites, you hear crying and sounds of sadness as people mourn. You see Akan and his family in the distance, and they seem fairly sober. But the halflings, for the most part, seem pretty cheery. They have three goods wagons, a couple of horses, and a couple of carriages that they ride in. It's a pretty big, well-equipped group. As you approach, five or six halflings are sitting around the fire, cooking themselves dinner. One of them has—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Taken out a lute-type instrument and is playing a jazzy, upbeat tune. As they see you approach—once you get within sight—one of them stands, waves, and says, \"Ah, fellow travelers, come.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I catch her eye and give a traditional halfling—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, this is"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Yeah, so I respond in kind, silently."
+        },
+        {
+          "speaker": "DM",
+          "text": "Several of them are hustling around, prepping dinner, taking care of the goods and the campsite. As you approach, you can see three wagons arrayed in a semicircle, and one wagon set a little farther back. Wellby, can you make a Perception check?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Pretty good. Oh."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Perceived it"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Also, I just realized I could have been rerolling ones this whole time, with halfling—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Racial, that's right. Yes. Yeah, you're supposed to do that."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "General one"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I'm"
+        },
+        {
+          "speaker": "DM",
+          "text": "Just get early on the animal."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I've been riding cockatrices by now."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "It's probably good that I didn't read that one."
+        },
+        {
+          "speaker": "DM",
+          "text": "The"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "How do I reply just to you in—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Real time. So the halfling who comes out to greet you is a woman dressed in well-worn but bright and neatly tailored traveling clothes. And she—hold on one sec."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "As we come within earshot, I say, \"I started on lute, then they had me switch to drums, then they had me switch to cartography.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "You got quite a few skills there."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "It's more like the lute musical talent skips a generation, maybe."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "By the way, this is random, but none of you have ever seen, like, a monk drink beer before, just in general. So, no."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Are monks, like, a thing in general, like, or—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, they're a thing. Many of the mystai—the Dunmari mystery cults—are basically monks, right? In the Dunmari religion, that's what the monastic tradition would be: all these mystery cults. So she steps forward. She seems a bit tired, like she has clearly traveled, but also happy to talk to people. She introduces herself. \"Welcome. I'm guessing, fellow travelers? Most of you look like you're not from around here. Name's Bree. Bree Charmheart. Would you like to sit and chat?\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "We introduce each of them in turn, and then myself, and I say, \"It's good to sit with the family.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"You too. It's been a long road from Sembara.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Sembara."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Indeed. Are the Goodbarrels—oh, good. You tend to trade? Your family, they tend to circle around the safer parts of Sembara these days.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Yes, and good on them."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "But"
+        },
+        {
+          "speaker": "DM",
+          "text": "That sounds like a bit of a boring life to me."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "That's why I'm here. Not there."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"There's more fun and more money to be made bringing the riches of the Green Sea far afield. We've got some apple brandy, some spices, some furs—many furs—good wine from Sembara. I'm guessing you're probably not here to shop.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "You know, we're interested in trade of a different kind—information."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Happy to chat. You have—\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "All right, if they're coming down from Sembara, then we probably have less useful stuff about Chardonians. \"Where do you go on to from here?\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Head west—Chardon. Spend the summer and probably a good part of the fall and winter.\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Wait, wait. On the coast? Where'd you come from through Sembara? How'd you get here?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Well, there is a route you can take that sticks close to the eastern side of the mountains. There's a path across the southern part of the mountain range. Follow the river down to Tokra, and then head east to Karawa. We're just here for the festival, to be honest. After that we'll probably head back toward Tokra rather than down the river, maybe pass back across the mountains along the coast, hop a ship up to Chardon, and see what we can get there for some of the Dunmari stuff we collect. Hopefully we'll have full purses and empty wagons. Trade the full purses for full wagons, then head back east and back to Sembara. The whole route's maybe about a year.\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Hmm."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Nice to meet other travelers. Any other travelers up—up in the mountains?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Honestly, usually not a lot. You'll see the occasional wanderer passing through. But we tend to give travelers a pretty wide berth in those parts. It's not always so safe to meet a stranger that far from civilization.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Have you seen the festival before?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Oh yes, I've been. This is my second trip on this circuit. It's interesting.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Any tips for riding axebeaks?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Axebeaks?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Axebeaks."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Ah, thrill-seeker. You probably have an advantage.\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Because of your size."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Hold on tight. And don't be scared.\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Be careful, Wellby. If too much of your fame spreads around town, your odds might not be that good."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Huh. What's the damage, Tim?"
+        },
+        {
+          "speaker": "DM",
+          "text": "On which—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "When is this race happening? I'm excited for it."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Most people have heard of this whole festival, so—"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"So, there's the Festival of Rebirth, which is worth seeing. After the festival, there's a fair for a few days. During the fair, there are games, a market, competitions. That's when we do most of our business.\" Then she looks around at all of you and says, \"Is there some other thing you wanted to know, or something you wanted to—\""
+        },
+        {
+          "speaker": "DM",
+          "text": "She seems to get a little less friendly, almost like maybe you said something wrong. She asks if there's anything else and looks at all of you pointedly."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I look over at Wellby."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Making friends, I see. Well, we—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I don't say anything else for the moment, but I pointedly look off at the wagon in the distance."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oops. Discard that, everybody. Don't look at Roll20. Deleted."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Package."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Maybe we should start winding down soon. Like, we're all getting pretty tired. Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "You want to talk to Candrosa and then wrap up?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Sounds like a good way to close it up."
+        },
+        {
+          "speaker": "DM",
+          "text": "Now Bree is looking at you impatiently, like, why are you here? I'm—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "You are muted, Schwartz."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I'll turn back to her and choose my words carefully. Is it, like, a faux pas to speak Halfling in front of non-halflings?"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Now,"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I'll say to her, \"You're traveling with someone sick,\" and I'll emphasize that with the Halfling word for sick, with a connotation of someone sick in spirit, not just in body—presumably there's some Halfling word that gets that nuance just right. \"You're traveling with someone sick. Let us help you. I think the sickness they have is a sickness we saw just two or three days ago.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "Persuasion check with advantage, because—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "She says,"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Why do you say this? I'm not sure you should linger much longer here.\" The rest of you seem to have gotten very cold."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Huh."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "\"Three days ago, in the caves northeast of here, beneath an abandoned stronghold, we found a staff that spoke to us in the same voice that seems to speak to your sick companion\"—and I use that Halfling word for sick again. \"We managed to destroy the voice there and then, but it sounds like this one still hears it.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"It makes me suspicious.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "That it's spreading"
+        },
+        {
+          "speaker": "DM",
+          "text": "As you're saying this, you hear a disturbance coming from the wagon set a little farther back. Bree turns around, and you see a disheveled-looking halfling stumbling out of the wagon. He's dressed in ragged clothes, his hair totally unkempt and wild. It seems like he's not even slightly taking care of himself or paying attention to personal hygiene. He's looking around wildly, and he sees Bree and says—"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"He spoke to me.\" He points at Wellby and says, \"He spoke to me.\" Then he smiles, and a look of peace comes over his face. \"The master will eat me soon.\" Bree turns around, looks at you, and says, \"Really, now, I think you must go.\" She rushes back toward him, tries to calm him down—\"Rest, rest\"—and walks him back toward the wagon."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I raise my hand in a conciliatory gesture and say, \"We'll talk again.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Are we carrying the staff with us? We are, right?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I mean, I know we've destroyed the thing, but what if it's still kind of activating, or—oh, no."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "We really think it's the same thing."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Well, I assume we'll slowly head on. So, it's a strange thing. In the wagon, this halfling—I spoke with him. He said someone's been talking to him. He says, \"The master is waiting. You'll find joy with the master. The master wants you to come and join us,\" over and over and over. I asked him to name the master, and he said, \"The master is my master. The master will consume the world and bring us joy.\" I asked him how he heard the master's voice. He said, \"It talks to me all the time. It's endless. It never stops.\" Maybe it's not the same thing. But I feel like that staff—I mean, when the hobgoblin held it up—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "It spoke in a certain way. Maybe it's—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Something else."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "No, I think you're onto something."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "This is no good. Did you have a sense of how long this guy has been in this state?"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Hmm."
+        },
+        {
+          "speaker": "DM",
+          "text": "I mean, just from looking at him in that brief glimpse, he seemed like—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You know,"
+        },
+        {
+          "speaker": "DM",
+          "text": "He looked pale. He looked unkempt. Definitely more than a few days."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "But possibly something he picked up on the way through the eastern part of Dunmar that apparently nobody should go to."
+        },
+        {
+          "speaker": "DM",
+          "text": "Plausibly, yes."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Though they came the same route that I took to get here, more or less."
+        },
+        {
+          "speaker": "DM",
+          "text": "Right. True. Yes, more or less. More or less. Yes."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Or, that is to say, they came basically straight south to Karawa. They didn't skirt the mountains far off to the east."
+        },
+        {
+          "speaker": "DM",
+          "text": "Right."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "All right, well that's bizarre."
+        },
+        {
+          "speaker": "DM",
+          "text": "I think you might have gone further west and come down the road to Tokra and east to Karawa, while they might have come more directly. But yeah, you would have gone through roughly the same."
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "title": "Candrosa's Confession",
+      "lines": [
+        {
+          "speaker": "Delwath",
+          "text": "Is it night yet?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah. It's dinnertime."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Like we were saying, maybe we go talk to Candrosa and call it a night."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Well,"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Maybe we should talk to Candrosa in the morning."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "[[garbled]]"
+        },
+        {
+          "speaker": "DM",
+          "text": "Maybe talk to the smith, go back to the smith, talk to Candrosa, then end the session."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Right. We can talk to Candrosa in the morning."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I wonder if it's worth seeing if the halflings have any magical—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "By the way, Tim, how do I whisper? Slash GM? Or slash W GM?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Slash W GM."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah, I think it might be wise to wait a bit. Let's all go in the morning. Okay, yeah, I'm sure."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Why do you prefer to wait until the morning?"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "What kind of—is that the place I believe I mentioned to you?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah. This"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Might be a place worth visiting."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "What's this place?"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Where"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "The conversation—the story about voices talking to somebody—seems like it kind of unnerved his normally somewhat calm manner. Well, there's a rumor, a story, that people who spend the night—by the way, there's a big oasis in town, right? The town's built—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah. South of where you are, between the mesa and the inn and everything, there's a big oasis that's been rimmed with stone. It's sort of tamed and used for irrigation and drinking."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "And there's a story that's been told in town for many years: if you want to know something true about the future, spend a night by the oasis."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I like this idea. The weather's good. Future's weird. Yeah."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Let's go camp by the oasis."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "And Delwath says he'll meet you. He's just going to get a bedroll and some things from his—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "All right."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Oh, we should probably tell the innkeeper we won't need those rooms tonight. Or maybe we shouldn't."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Keep the rooms."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah, I don't think it matters."
+        },
+        {
+          "speaker": "DM",
+          "text": "There's enough people at the inn, he's probably not tracking your coming and going."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Would it be odd to just kind of sleep at the oasis?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Yeah, it's a bit odd. But there is this rumor around town, so every now and then somebody will go try to get a vision. The story is that, in order to see a true thing about the future, you need to remain in meditation for the entire night without being distracted or falling asleep. Many try, but few, it seems—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Succeed."
+        },
+        {
+          "speaker": "DM",
+          "text": "There are some people who claim to have done it. There's always some doubt as to whether they were really able to remain focused in meditation. Wow. Wow."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay. All right."
+        },
+        {
+          "speaker": "DM",
+          "text": "Mike, I saw your message. I need to think about this a little bit."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Also, Tim, sorry to distract you with two questions at once. Are there any rumors about what happens if you go back to the oasis a second time?"
+        },
+        {
+          "speaker": "DM",
+          "text": "The saying is that you get one vision."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Um,"
+        },
+        {
+          "speaker": "DM",
+          "text": "And that's that. But nobody really knows. There are people who claim to have gotten two visions, but most people joke at them and say, \"You're just making it up; you've never succeeded.\" The more mystical rumor is that this is a once-in-a-lifetime thing. Shakun will give you one vision of your future—one true thing about your future—and that's the thing you get to know."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Is this the moment"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "This is not the moment, at least for Kenzo. Meditate for eight hours? I feel like that's something I'd like doing—trying to meditate for eight hours—but I actually think I want to get some sleep tonight."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "And I don't want to blow my vision of the future, just to find out that I lose the chicken race."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Good to have some mystery in life. That's true. That's—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Delwath, I think I will. I'm excited about this inner journey, this long meditation. Just not tonight for me."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Same"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Town."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Delwath is gonna spend the night there, and of course you're welcome to—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Okay, yeah."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Oh, I'll stay out there, but as a lookout and curiosity-seeker—an avoidance person—rather than meditating. Keep the autograph-seekers—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah, I'm just gonna go back to the tavern, hang out with Ikram, and make jokes about being a drunk monk."
+        },
+        {
+          "speaker": "DM",
+          "text": "So who's sleeping at the oasis? It's only Delwath going to the oasis?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I'm going to be at the oasis, but not meditating."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "What are you doing then, Seeker?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I'm going back to the tavern."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "And so I don't mind if they visit. Delwath is not making a big deal about it, but he's happy for the rumor that he spent the night out there to get back to Candrosa. Anybody else?"
+        },
+        {
+          "speaker": "DM",
+          "text": "So Wellby and Delwath are at the oasis, and Seeker and Kenzo are—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Caravanserai."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Caravanserai. Okay."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah yeah"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Actually, when I get back to the tavern, I'm looking through my notes and thinking, as I so often do while getting ready for sleep, about that one experience I had. Then I'm wondering if this fountain story has anything to do with the mystery cult, or if it's just a story about a fountain."
+        },
+        {
+          "speaker": "DM",
+          "text": "Ah, you mean the meditate-at-the-oasis story?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Sorry, not the fountain, the oasis. Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "You mean, is it associated with Shakun? It's clearly associated with Shakun, supposedly, who will give you this vision. Shakun, in addition to being the goddess of magic, is also the goddess of prophecy."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "One of the reasons I came here in the first place was to try to probe these interconnections. So maybe I will go out there and join them."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I do want to do this, but just not tonight. We just got back into town and I'm fucking tired, so—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I'm the one who ran over just to see the temple before we left, remember? So, very true. I'll find my way back out there."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Not exactly a practiced meditator, though."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I sent you. One more message."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, okay. I see that. I was trying to send you a message."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "So,"
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay, so let's"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's move on."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Okay, I gotta think about that."
+        },
+        {
+          "speaker": "DM",
+          "text": "I'm messing with my slide. Okay, so those of you who are at the oasis, I assume you get dinner and then head out there. Who wants to try to meditate?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I'm gonna sit on the stones by the edge of the water. In an effort to keep myself awake, even though I'm sitting perfectly still, you can see patterns start to appear in the stones around me—colored whorls and ridges—as I meditate on my existing knowledge of the structure of the planes."
+        },
+        {
+          "speaker": "DM",
+          "text": "Awesome. And Wellby, you're just gonna—you're just sort of hanging out watching them?"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Yeah, I'm going to keep watch. If anyone shows up, I want to keep them from interfering. And I'm just less trusting of oases after a recent experience."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Fear."
+        },
+        {
+          "speaker": "DM",
+          "text": "So you start to meditate. You try to focus on this world, and Delwath, for you, it's what you do every night: going into an elvish trance. The sun sets, the moon rises, and it gets dark."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "One more note."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah,"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "And"
+        },
+        {
+          "speaker": "DM",
+          "text": "I'm sitting here early."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I don't think"
+        },
+        {
+          "speaker": "DM",
+          "text": "It's fairly late at night, maybe 10:30 or 11:00 p.m. As you start struggling to keep yourself from drifting off to sleep, Wellby, you see somebody walking across the plaza from the temple toward you."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Like across the water"
+        },
+        {
+          "speaker": "DM",
+          "text": "Not across the water, no, sorry—across the plaza, right, coming out of the temple. Seems to be heading straight for you."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Oh, I start going toward them. Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "You can tell that it's Candrosa. He looks at you and then at your two companions. \"What are you doing out here so late at night?\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "\"They're resting. I'm keeping people from bothering them,\" I say with a broad smile."
+        },
+        {
+          "speaker": "DM",
+          "text": "He gives you a flat look. \"I think there's much we must discuss. I heard news you had returned. I was expecting your visit. I think we had better speak now. I've had a message.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Tense background music just starts."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Man."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Judging the situation, I am not going to be able to successfully convince him to leave these guys alone. I can't imagine that I possibly could."
+        },
+        {
+          "speaker": "DM",
+          "text": "You can try. He's, like, looking around again. He says, \"Where's Kenzo? Where's the fourth one of your party?\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "\"I think he was going for a drink, last time I saw him,\" I say as vaguely as possible."
+        },
+        {
+          "speaker": "DM",
+          "text": "Crumbs"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Yeah. Do you want us to meet you there? Should we meet you at the temple? What's good for you?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Again, he looks at you without smiling, like, stop joking around. \"Yes, please fetch him.\" Then he walks over to Seeker, shakes him awake, and says, \"Dwarf, we must speak.\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I get to my feet. \"You must be Candrosa. We've heard a lot about you. It's good to meet you.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "No, you met him. He was there in the first session. He spoke with you briefly when you were—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I thought we didn't meet him."
+        },
+        {
+          "speaker": "DM",
+          "text": "Right after the hyena attack. He and Kisa both came."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "To me, from you."
+        },
+        {
+          "speaker": "DM",
+          "text": "I thought, while he was going to do that."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Yeah, I'm gonna take orders from him."
+        },
+        {
+          "speaker": "DM",
+          "text": "You're not? Okay, he's looking at you."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Well, I'm gonna wait and check in with my companions. I don't care what mystai human is going to boss me around. So I make eye contact with the two of you. \"Shall I go get Kenzo?\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Seems like a—yeah, that's best."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Very good. I head off to get Kenzo."
+        },
+        {
+          "speaker": "DM",
+          "text": "Um,"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "When I find you in the inn, Kenzo, I'm like, \"Candrosa found us, and he is super a dick.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "10:30?"
+        },
+        {
+          "speaker": "DM",
+          "text": "It's like 10:30."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Kenzo's definitely drunk. He's kind of like, \"What is—\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "\"What's happening right now?\" There's an old Halfling solution for this: bring this man three eggs and a stick."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Give this man three eggs and a stick."
+        },
+        {
+          "speaker": "DM",
+          "text": "Ikram has also been drinking with you and telling stories. Yeah, he's also a bit—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I like to shout at him, like he's sitting at a—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Table."
+        },
+        {
+          "speaker": "DM",
+          "text": "He's also two sheets to the wind. He turns around like he's about to shout at the empty chair next to him, then realizes there's no one there."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Your room."
+        },
+        {
+          "speaker": "DM",
+          "text": "And he gets up and he, like, staggers over and he says,"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "The halfling's got three eggs and a stick."
+        },
+        {
+          "speaker": "DM",
+          "text": "He brings you three raw eggs in their shells and grabs a ten-foot quarterstaff from next to you. And—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "A good stick can—"
+        },
+        {
+          "speaker": "DM",
+          "text": "He hands that to Wellby and says, \"This is a pretty big stick for a halfling.\" That's gonna do—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Wellby."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "A good"
+        },
+        {
+          "speaker": "DM",
+          "text": "Hands you the three eggs."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I say, \"Give him the eggs. Put an egg in each hand, put one in your mouth.\" Then I pick up the staff, which is more than twice my size, and start whacking you. \"Pull yourself together. Come on.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Kenzo takes the eggs and throws them at you, Wellby. Maybe one of them hits, actually. I should—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Make an attack, but with disadvantage."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "How do I do an egg attack? How does that work?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Ah, just roll a d20, but roll twice and take the lowest roll."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I rolled a twenty. Oh, nice."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Oh no, it's advantage."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Or disadvantage, but—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "No, you roll again."
+        },
+        {
+          "speaker": "DM",
+          "text": "Twice and take the lower one."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "You thought you did."
+        },
+        {
+          "speaker": "DM",
+          "text": "A nine does not hit, so—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "All right, I'm throwing two more at him really quick."
+        },
+        {
+          "speaker": "DM",
+          "text": "I got"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I like to think you threw it squarely in the chest where a human-sized person would be."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "[[COC.]]"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Ah,"
+        },
+        {
+          "speaker": "DM",
+          "text": "The note that says"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "God damn it. So,"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Over my head."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Down."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Here."
+        },
+        {
+          "speaker": "DM",
+          "text": "All three of them."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "So angry. I grab the staff out of his hand. \"All right, what are we doing?\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "All right."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I'll be back. I'll be back."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "We're going to go talk to a mystai."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "So,"
+        },
+        {
+          "speaker": "DM",
+          "text": "Seeker and Delwath, as you're waiting, a man comes out of the temple after Candrosa heads back and rides past you on a horse. You haven't seen many people who look like skilled warriors—well armored and well equipped—but this guy definitely does. He's young, big, and has a spear and armor. He gallops across the plaza, away from the oasis and toward the inn. Wellby and Kenzo, you also see him barrel past as you're coming out of the inn, heading toward the area where people are camping."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Um—"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Any magic? By the way, I'm casting detect magic on this guy."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes, there was magic on this guy—no, on Candrosa."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "All right, I've got my staff, leaning heavily on it, and I'm stumbling along with Wellby, trying to get myself together a little bit here."
+        },
+        {
+          "speaker": "DM",
+          "text": "So you all gather at the oasis and head into the temple, I presume. Candrosa is waiting in the entry room. The monastery is carved into the side of the red mesa, which towers hundreds of feet above you. There's an area that sticks out with a few small chambers and an entryway. Deeper inside, you can see what looks like a large open space within the mesa. Candrosa leads you to a side room with chairs and a table. When he sees you all there, and sees that he has clearly interrupted your night, he looks slightly apologetic. \"I'm sorry. I didn't mean to disrupt your night like that.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I was just needing the news from your travels. I've heard, of course, from Kisa and others that you were able to destroy the thing that seemed to have been causing our troubles. But since then, I've received several pieces of news that suggest this may not be as simple as we thought.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Kenzo takes out the iron staff and throws it on the table. \"That's what we destroyed.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "He looks at it. \"What is this?\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "We thought you would know more than us."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "An artifact of the Great War, we think."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "There was a gem on top of it, which we destroyed."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Obsidian"
+        },
+        {
+          "speaker": "DM",
+          "text": "He looks at it. \"I have studied a bit of our history. It does seem perhaps from the Great War. Why do you think it was from the Great War?\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Can I guess this feels like a weird reaction."
+        },
+        {
+          "speaker": "DM",
+          "text": "This doesn't look to me."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "You misunderstand me. Which side of the Great War did you think I was referring to?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Our side."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "No. That sort of artifact."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Do you recognize these runes, these writings, Candrosa?"
+        },
+        {
+          "speaker": "DM",
+          "text": "I do not."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "The creature—the reanimated dead that was wielding this—was clearly a follower of [[...]]."
+        },
+        {
+          "speaker": "DM",
+          "text": "He looks a bit taken aback."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I"
+        },
+        {
+          "speaker": "DM",
+          "text": "Thought that was ancient history."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I'll speak telepathically to each of the three of you, in turn, just very quickly. He's hiding something."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Kenzo's like, \"What are you hiding?\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Kenzo takes the direct path."
+        },
+        {
+          "speaker": "DM",
+          "text": "He almost looks—not relieved, but unsurprised that you said that. He sighs and looks off into space, speaking almost to himself. \"The four of you... Such an unusual group to see these days: a dwarf, an elf, a halfling, and a human. Meeting when you did, coming here for different reasons, but arriving just exactly in time. It seems like it cannot be a coincidence. Some hand of fate is at work here. But whether to aid us, or for some other purpose, I cannot see. And whether to trust you... It's not clear.\" It seems like he's talking to himself. Or do you just say, \"Who is us?\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah, \"us.\" Kenzo does not have much of a filter right now, so—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "This is"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "The most important in-character—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "A man. I want to do this in the morning, right? What's my strategy?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I want to trust you. I wish I could trust you, but I don't know if I should. What brought you all here again? How did you meet?\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "We met on the battlefield. I mean, when that attack came, each of us ran toward—"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"At least you ran toward it. But why were you here? Why did such an unusual group of people end up in our little village?\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Personally, I'm on a quest for understanding. I heard about the mysteries you explore here from a thousand miles away and made my way here because maybe you could help me find some answers—make some connections between the worlds I've explored."
+        },
+        {
+          "speaker": "DM",
+          "text": "He looks, sort of—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Let's say"
+        },
+        {
+          "speaker": "DM",
+          "text": "He looks at you, almost trying to peer into your mind. Then he sighs and seems to breathe a bit easier. \"At least the dwarf seems honest. You must understand my point of view. I am grateful for your aid, but all of you are strangers to this town. You ask what I'm hiding. I must know if there's anything—\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "You are hiding first."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "I'll say, \"You know, I didn't come here for any dramatic reason, or seeking adventure. I spent my whole life in and around Sembara, and all I wanted to do was find the empty places on the map. There aren't a lot of empty places in Sembara. There are a whole lot down this way.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"There are indeed empty places on our border. Well, perhaps not empty, but empty on a map.\" He looks at you all. \"Are you willing to trust me for a moment?\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Hold on a second."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I've got a question for you."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah, I just asked you a question."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I'm going to do it in the zoom chat up really quick."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Okay."
+        },
+        {
+          "speaker": "DM",
+          "text": "Wait, are you asking me a question for Kenzo?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Yeah, and it would be an easy one."
+        },
+        {
+          "speaker": "DM",
+          "text": "Oh, that should be on your character sheet. It's in your backstory. Go to—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Look at me, finding that."
+        },
+        {
+          "speaker": "DM",
+          "text": "Go to Notes and then Backstory. Sweet."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "All right."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Kenzo looks at Candrosa. \"I didn't want to meet you under these circumstances. I apologize.\" He burps loudly. \"But I had been looking for you, Candrosa, for a little bit of time. I was sent here by Speaker Lora, and you're actually the reason why I'm here. So hopefully we can talk more later, but—not my best moment right now. I apologize.\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Delwath looks almost like he's meditating—not exactly, but he's staring off into space, not quite paying attention to the conversation. He looks like he's deep in thought. After a minute, he looks up at him and says, \"I've been looking for answers about what happened to me for some time now, and I had hoped that the mysteries of Shakun would help find these answers. So it's been quite—\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Elusive"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "\"You have been quite elusive in the town, and do not share your wisdom willingly or easily.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "He sighs. \"I ask again: please, will you trust me?\""
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yes, yes."
+        },
+        {
+          "speaker": "DM",
+          "text": "Yes. Okay. You see him starting to cast—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Right."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Away. Okay, yes. What's going on here? Tim, I do a Perception check."
+        },
+        {
+          "speaker": "DM",
+          "text": "Insight, you mean?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "It's a"
+        },
+        {
+          "speaker": "DM",
+          "text": "Perception—yeah, Insight. Insight."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Seems great."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Ah, it's like a new drug."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "All right, you guys trust him?"
+        },
+        {
+          "speaker": "DM",
+          "text": "Okay. \"Please don't be alarmed.\" He takes out an amulet, clutches it in his hand, and starts muttering a quiet chant under his breath in a language you don't understand—almost like nonsense words. Energy starts moving out from him, and you feel it pass through you: a wave of magic sweeping around a fifteen-foot circle that surrounds all of you, but not him. It's kind of a Zone of Truth. So while you are in the fifteen-foot circle, you can—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Attempt to resist it if you want to, although it lasts for ten minutes and you'll eventually fail. While you're inside the Zone of Truth, you cannot respond to any questions with a lie. You can choose not to answer them, but you—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "cannot tell a lie."
+        },
+        {
+          "speaker": "DM",
+          "text": "He relaxes a little as the spell washes over everybody. \"Before I say anything more, I need to know: do you have the interests of Karawa in your heart? Will you aid us, or will you hinder us?\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "What have we been doing here this whole time?"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "We're just trying to"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Think it's been a"
+        },
+        {
+          "speaker": "DM",
+          "text": "need us. You just state."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Clearly. That will say—"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Help"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Delwath will say, \"Since I joined the battle against Shemat three hundred years ago, I've always been—I've always hated those who oppose—\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The forces of evil."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "\"If that is you, then yes, I will aid.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "He seems to relax as you all answer and the spell tells him nobody is hiding anything. His whole demeanor changes, as though he had been carrying nervousness and tension. \"How much do you know about the Great War?\" I guess some of you know quite a bit."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "I'm going to say, were you listening to my—I don't say this in character, but were you listening to my sentence one sentence ago?"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Ah, but you may not know so much of the aftermath here. While the great evil was defeated, Dunmar itself was in chaos. Many, many had died, including most of our strongest warriors, our leaders, our heroes. And although the great enemy was dead, the mystical plague of his creation was still spreading, and the land was rocked by upheavals and destruction. It was a very desperate time for the Dunmari, and we lost much. Only over the next few—\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Generations were—"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"We were able to slowly recover, claw our way back from the brink of destruction. During this time, Shakun blessed us with her power. Through her aid, we were able to create defenses along our borders—great magic of hiding and protection—such that evil creatures that would do us harm found themselves lost in the desert, unable to find a way forward, unable to make their way into Karawa, into the heart of Dunmar. But now, for reasons I do not understand, Shakun seems to have abandoned us. These attacks that started—\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Three and a half, four weeks ago signal to me that something must be wrong. Even these beasts seem to have unnatural rage in their hearts, and the evil they brought was not deterred by these protections. I have just heard news of even worse danger. Rampaging creatures, half human and half hyena, have been fought just south of here.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"And Havdar has just come from a battle on this side of the border. Again, this could not have happened if she was still watching over us. I do not know what has changed. I do not know why these dangers spill over our borders now. There are some mysteries of the Shakun oracle that are even kept from me. But if Shakun has really abandoned us, and these ancient defenses have really fallen, I am frankly terrified for the future of Dunmar.\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Well, I do not know what to do about it yet. I would, from the bottom of my heart, beg you to come to our aid at this moment. If Shakun cannot protect us, we will have to rely on more mundane forces.\" He pauses and briefly closes his eyes. \"I wish I could talk to you under better circumstances—especially you, Kenzo. I wish I could help you understand what you're seeking, Seeker, too. I know many of you have come here with questions. Delwath, about your past. But—\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Right now, Shakun is gone, and I don't know what to do.\""
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "That, again, I feel like that's the name of our group: Mundane Forces. Man."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "It's ironic. I met a—we met—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "We saw"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "A halfling tonight among the caravan who was crazed, who heard voices speaking unceasingly in his head."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "And I'll relate back the—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Stuff that he was saying."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "It seems connected, though I can't say how."
+        },
+        {
+          "speaker": "DM",
+          "text": "He closes his eyes again. \"I had not heard that rumor. You may not have heard, but I've also received reports of a lightning storm that will not end to the northeast. And, of course, the rampaging humanoid hyenas to the south. It seems that in all directions our borders are beset. This cannot be happening.\" He looks honestly terrified. He almost offers up a prayer. \"Shakun—\""
+        },
+        {
+          "speaker": "DM",
+          "text": "\"If it's something we did—if it's something I did—just give me a sign. Why have you left us?\" And then it—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Goes quiet."
+        },
+        {
+          "speaker": "DM",
+          "text": "Sign"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Well, I turn back to the three of them and say, \"To be honest, I would love to go to any of those places. Never-ending lightning storm? That sounds amazing. Hyena people? I've never heard of this. And granted, this is all a horrible tragedy. I'm in for it.\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "I'm in for"
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yes, but how can we help? Is going and looking at unending lightning gonna solve anything?"
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Well, I'm sorry, guys. I'm just a little annoyed right now that we were put in some kind of circle of truth to test whether or not we were going to do something positive for this town. We spent the last eight days trekking through the desert, trying to kill some—like, staff thing and mind-controlled hobgoblin, fighting off these hyenas, trying to save as many villagers as we possibly can. And the main question being asked of us is whether or not we care about the people here. It's a little frustrating, sorry to say. I got the answer, Candrosa. Again, I'm sorry, but—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Candrosa—"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "You forgot the stone chickens."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "And"
+        },
+        {
+          "speaker": "DM",
+          "text": "He looks a bit embarrassed. \"I understand, Kenzo. Just—if the town knew, if the people knew, especially just before the festival, there would be panic.\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "That would be"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"Disaster. They've been counting on us to protect them for generations.\""
+        },
+        {
+          "speaker": "Wellby",
+          "text": "What's going to happen at the festival if she doesn't—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "You know,"
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Show up and"
+        },
+        {
+          "speaker": "DM",
+          "text": "Well, the Festival of Rebirth is not Shakun. It's Jeevali. It's part of the main—"
+        },
+        {
+          "speaker": "Seeker",
+          "text": "He says,"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Perhaps"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"It's late. Perhaps it would make sense to discuss this with Havdar in the morning, find out more of what he knows before we make any decisions about what might be helpful to do.\" And he kind of—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Looks at you all again. He says—"
+        },
+        {
+          "speaker": "Unknown",
+          "text": "It is"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I must say—\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "A relief."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"A relief to confide in somebody. I don't know what to do to keep the town safe—to keep Dunmar safe. But at least through the festival, knowing that you are here and you are watching would give me great relief. It seems there are many mysteries on our—\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "Borders."
+        },
+        {
+          "speaker": "DM",
+          "text": "\"News of this halfling makes me nervous. And there will be time in the week before the festival to discuss these more.\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "But now,"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"It is late, and perhaps rest would be the right decision.\" Yeah."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "I agree with that sentiment, Candrosa. I personally apologize for not meeting you under better circumstances, but I think I'll have better wits about myself in the morning."
+        },
+        {
+          "speaker": "Delwath",
+          "text": "Yeah."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Just gets up and starts—"
+        },
+        {
+          "speaker": "DM",
+          "text": "He says, \"Before you go, I am sorry for—\""
+        },
+        {
+          "speaker": "Unknown",
+          "text": "The circumstances."
+        },
+        {
+          "speaker": "DM",
+          "text": "He reaches into a pouch tied around his waist and pulls out four small, fist-sized vials. They seem to contain mud that doesn't dry out—it just stays mud. \"Please, as a token of my good faith and as a token of thanks, take these. They will heal you, should you need it.\""
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Each of you."
+        },
+        {
+          "speaker": "Kenzo",
+          "text": "Nice."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Thank you."
+        },
+        {
+          "speaker": "Unknown",
+          "text": "I am"
+        },
+        {
+          "speaker": "DM",
+          "text": "\"I am sorry for how the past few months have been, but you must understand: for generations, the town has looked to us as their guardians and has trusted Shakun. Something has changed recently. I don't know what, but this can't be coincidence. This can't just happen for no reason. And we will talk more in the morning. Please.\" And he—"
+        },
+        {
+          "speaker": "DM",
+          "text": "Bows slightly, almost apologetically, and looks a little relieved. You can tell he wishes the circumstances had been different. He is quite nervous about the town and the whole border. And I think, with that—"
+        },
+        {
+          "speaker": "DM",
+          "text": "We should call it a night."
+        },
+        {
+          "speaker": "Seeker",
+          "text": "Cool."
+        },
+        {
+          "speaker": "Wellby",
+          "text": "Cool."
+        }
+      ]
+    }
+  ]
+}
