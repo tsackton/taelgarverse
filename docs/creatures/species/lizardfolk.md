@@ -43,7 +43,7 @@ Some of the largest lizardfolk communities can be found in the [Ozabal](<../../g
 
 ## Historical Perspective
 
-Lizardfolk communities are typically led by elders, with a strong connection to their ancestors. This perspective informs lizardfolk views of history: they often have deep ties to the local history of the land they live on, and many lizardfolk settlements claim to have lived in the same place since time immemorial. Indeed, many current lizardfolk communities are the remnants of vast ancient wetlands from before the Downfall reshaped coasts and rivers, and many ancient wetlands shrank or shifted.
+Lizardfolk communities are typically led by elders, with a strong connection to their ancestors. This perspective informs lizardfolk views of history: they often have deep ties to the local history of the land they live on, and many lizardfolk settlements claim to have lived in the same place since time immemorial. Indeed, many current lizardfolk communities are the remnants of vast ancient wetlands from before the [Downfall](<../../events/ancient/the-downfall.md>) reshaped coasts and rivers, and many ancient wetlands shrank or shifted.
 
 
 

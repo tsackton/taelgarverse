@@ -1,11 +1,18 @@
 ---
-tags: [religion/kestavo, background, status/check/mike, status/gameupdate/chasm]
+headerVersion: 2023.11.25
+lintedAt: '2026-09-05T16:06:33-04:00'
+lintVersion: '3.5'
+tags: [religion/kestavo, background, status/check/mike, status/gameupdate/chasm, status/check/lint]
+typeOf: religion
+name: Kestavo
+pronunciation: kes-TA-voh
 dm_owner: joint
 dm_notes: important
+POV: modern
 title: Kestavo
 ---
-
-# The *kestavo*
+# Kestavo
+:speaker:{ .middle } *(kes-TA-voh)*  
 
 
 
@@ -46,6 +53,8 @@ Each kestavo also can only carry prayers to [Ako](<../../gods/high-gods/divine-p
 
 
 Vazska don’t have homes -- they are the children of the west wind, and everywhere. Rituals around them are mostly in the form of bribes or threats to keep them away. Sometimes people ask them to bring curses on their enemies etc. 
+
+
 
 
 

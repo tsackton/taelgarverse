@@ -25,11 +25,11 @@ title: 'Lost in the Feywild: Episode 06'
 
 The party recruits [Aurae](<../../../people/other-nonhumans/aurae.md>), rejects Arithrimos Lamperum's soul bindery, and enters the central prison as [Menestheus](<../../../people/other-humans/menestheus.md>) succumbs to the fungal transformation.
 
-!!! quote " "
-	*I know that I'm not happy, alone by myself. I've read all of these books already.* - Aurae
+!!! quote "Aurae"
+	*I know that I'm not happy, alone by myself. I've read all of these books already.*
 ## Audio Highlights
 
-**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure:** 
+**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure.:** 
 <audio controls>
     <source src="/taelgarverse/assets/session-audio/lost-in-the-feywild-session-6/lost-in-the-feywild-session-6-audio-005.m4a" type="audio/mp4">
 </audio>
@@ -57,12 +57,12 @@ The party recruits [Aurae](<../../../people/other-nonhumans/aurae.md>), rejects 
 <div class="taelgar-session-zoom__beat" data-session-zoom-beat data-session-zoom-key="lost-in-the-feywild-session-6" data-zoom="short">
   <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>We begin in the library, where the party questions a clockwork research assistant.</p></div>
   <div class="taelgar-session-zoom__level" data-zoom-level="intermediate"><p>In the library outside the central prison, the party questions a clockwork research assistant about the people who have passed through the locked door. The assistant recalls an order member who consulted *<a href="/taelgarverse/things/books/allegories-for-the-initiated/">Allegories for the Initiated</a>* before entering and reports that 112 visitors later emerged as mushroom men.</p></div>
-  <div class="taelgar-session-zoom__level" data-zoom-level="long"><figure class="taelgar-session-zoom__image">
+  <div class="taelgar-session-zoom__level" data-zoom-level="long"><p>We begin in the library outside the central prison. After reconsidering their tangled obligations to <a href="/taelgarverse/people/sembarans/lord-hulda/">Hulda</a>, <a href="/taelgarverse/people/fey/lord-endless-ending/">Lord Endless Ending</a>, and the prisoner, the party turns to the limbless clockwork figure watching over the library. It explains that it has read every volume, measures the passage of centuries by listening to their paper age, and out of boredom, has taken to writing stories about everyone it meets.</p>
+<p>Although forbidden to answer direct questions about the prisoner, it remembers an unnamed human member of <a href="/taelgarverse/groups/drankorian-societies/arithrimos-lamperum/">Arithrimos Lamperum</a> who consulted *<a href="/taelgarverse/things/books/allegories-for-the-initiated/">Allegories for the Initiated</a>* before entering the central room. The assistant confirms that the glass key could open the complex&#x27;s front door, but warns that 112 of the prison&#x27;s visitors -- roughly two thirds of everyone who entered -- returned as mushroom men while the rest never emerged.</p>
+<figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-large">
   <img src="/taelgarverse/assets/27th-house-library.webp" alt="The automaton assistant in the library of the 27th House">
   <figcaption>The automaton assistant in the library of the <a href="/taelgarverse/gazetteer/extraplanar/feywild/twilight-kingdom/27th-house/">27th House</a></figcaption>
-</figure>
-<p>We begin in the library outside the central prison. After reconsidering their tangled obligations to <a href="/taelgarverse/people/sembarans/lord-hulda/">Hulda</a>, <a href="/taelgarverse/people/fey/lord-endless-ending/">Lord Endless Ending</a>, and the prisoner, the party turns to the limbless clockwork figure watching over the library. It explains that it has read every volume, measures the passage of centuries by listening to their paper age, and out of boredom, has taken to writing stories about everyone it meets.</p>
-<p>Although forbidden to answer direct questions about the prisoner, it remembers an unnamed human member of <a href="/taelgarverse/groups/drankorian-societies/arithrimos-lamperum/">Arithrimos Lamperum</a> who consulted *<a href="/taelgarverse/things/books/allegories-for-the-initiated/">Allegories for the Initiated</a>* before entering the central room. The assistant confirms that the glass key could open the complex&#x27;s front door, but warns that 112 of the prison&#x27;s visitors -- roughly two thirds of everyone who entered -- returned as mushroom men while the rest never emerged.</p></div>
+</figure></div>
   <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-001"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
 </div>
 
@@ -89,7 +89,7 @@ The party recruits [Aurae](<../../../people/other-nonhumans/aurae.md>), rejects 
 
 ## Cast of Characters
 
-- [Aurae](<../../../people/other-nonhumans/aurae.md>) (construct): clockwork research assistant who takes a name and joins the party.
+- [Aurae](<../../../people/other-nonhumans/aurae.md>) (*OUR-ray or ARR-ray*; they/them, construct): clockwork research assistant who takes a name and joins the party.
 - [Menestheus](<../../../people/other-humans/menestheus.md>) (he/him, Drankorian human): idisplaced Drankorian mathematician and mapmaker who completes his fungal transformation and attacks at the prison door.
 - the prisoner: captive seen in three superimposed states through the prison doors.
 - [Lord Endless Ending](<../../../people/fey/lord-endless-ending.md>) (they/them, fae): fey lord who asked for the glass key.
@@ -99,5 +99,5 @@ The party recruits [Aurae](<../../../people/other-nonhumans/aurae.md>), rejects 
 
 ## Places
 
-- [27th Room](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) (fey house in the [Twilight Kingdom](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../../cosmology/feywild.md>)): vast shifting complex built around a central prison and used by [Arithrimos Lamperum](<../../../groups/drankorian-societies/arithrimos-lamperum.md>) to keep its captive displaced across space and time. Session context includes: room 26 library immediately outside the central prison.
+- [27th Room](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) (manor in the [Twilight Kingdom](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../../cosmology/feywild.md>)): vast shifting complex built around a central prison and used by [Arithrimos Lamperum](<../../../groups/drankorian-societies/arithrimos-lamperum.md>) to keep its captive displaced across space and time. Session context includes: room 26 library immediately outside the central prison.
 - central prison: lightless chamber reached through superimposed doors that show its captive at different ages. Session context includes: through the three superimposed prison doors.

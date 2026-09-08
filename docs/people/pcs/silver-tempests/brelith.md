@@ -27,7 +27,7 @@ hide_toc: true
     Member of the [Silver Tempests](<silver-tempests.md>), and the [Priest Thuhr](<../../../groups/dwarven-thuhr/priest-thuhr.md>)  
     { .bio }
 
-    Originally from: [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), [Am'khazar](<../../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), [Labkhan](<../../../gazetteer/sentinel-range.md>)
+    Originally from: [Zarkandur](<../../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), [Am'khazar](<../../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), the [Labkhan](<../../../gazetteer/sentinel-range.md>)
     Based in the [Tempest Towers](<../../../campaigns/great-library-campaign/tempest-towers.md>), [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>)
 </div>
 

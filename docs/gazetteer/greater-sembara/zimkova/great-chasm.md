@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-09-05T16:06:33-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: the}
-name: Great Chasm
+tags: [place]
 typeOf: topographical feature
-typeOfAlias: chasm
-whereabouts: Zimkova
-dm_notes: none
-dm_owner: none
 subTypeOf: gorge
+typeOfAlias: chasm
+name: Great Chasm
+whereabouts: Zimkova
+knownTo: [itc]
+dm_owner: none
+dm_notes: none
+POV: modern
 title: Great Chasm
 ---
 # The Great Chasm
@@ -24,9 +28,13 @@ A massive chasm near the headwaters of the [Teft](<../rivers/teft-watershed/teft
 At the east end, the river spills out of the channel through a tunnel, full of rapids and small waterfalls.
 Many in [Zimkova](<zimkova.md>) believe it to be the home of [Zeyfa](<../../../gods-and-religions/gods/kestavo/zeyfa.md>), the cruel west wind, and it is generally considered to be taboo to visit it, for fear of attracting the attention of Zeyfa's children. 
 
-The chasm, as far as anyone knows, has no bottom. The depths of the chasm sometimes appear to have massive spires, and but at other times they are not visible. Weather often comes from the chasm - cold winds and snow, blowing up out of the depths, in winter, and soaking rains, thunder, and the occasional hot wind in the summer, though stranger storms also blow through and once in a blue moon the chasm brings snow in summer. The cliffs of the chasm are home to strange plants, clinging to the sides of the chasm, said to have come from the depths. 
+The chasm, as far as anyone knows, has no bottom. The depths of the chasm sometimes appear to have massive spires, but at other times they are not visible. Weather often comes from the chasm - cold winds and snow, blowing up out of the depths, in winter, and soaking rains, thunder, and the occasional hot wind in the summer, though stranger storms also blow through and once in a blue moon the chasm brings snow in summer. The cliffs of the chasm are home to strange plants, clinging to the sides of the chasm, said to have come from the depths. 
 
 About midway through the Chasm, on the north side, is the [Kemeko Monastery](<kemeko-monastery.md>), built by giants, it is assumed in ancient days. About a thousand feet below the river channel, it is hard to reach except by huge steps carved by giants, into which smaller human-sized steps have been carved. It usually takes a full day or more to climb down the thousands of steps, and there are several good places to camp.
 
 What else lurks in the depths of the chasm is not known, though rumors speak of strange planar connections: [Ishara Venn](<../../../people/historical-figures/ishara-venn.md>) claimed in [The Seams Between Worlds](<../../../things/books/the-seams-between-worlds.md>) that the chasm likely had no bottom and attracted elemental vortexes regularly, such that any traveler foolish enough to seek the chasm floor would eventually find themselves wandering the [Elemental Plane of Air](<../../../cosmology/energy-realms/elemental-plane-of-air.md>), or perhaps some other elemental plane. But no reliable confirmation of this claim exists. 
+
+
+
+
 

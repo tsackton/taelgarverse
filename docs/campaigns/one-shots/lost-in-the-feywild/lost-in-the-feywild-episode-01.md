@@ -19,22 +19,26 @@ title: 'Lost in the Feywild: Episode 01'
 
 !!! info "Welcome to Dandelion House: in which the party enters a mysterious tunnel"
 	*Featuring: [Kaito Min](<../../../people/pcs/other-pcs/tollen-misfits/kaito-min.md>), [Edric](<../../../people/pcs/other-pcs/tollen-misfits/edric.md>), [Tarek](<../../../people/pcs/other-pcs/tollen-misfits/tarek.md>), [Ayveen](<../../../people/pcs/other-pcs/tollen-misfits/ayveen.md>), [Txarro](<../../../people/pcs/other-pcs/tollen-misfits/txarro.md>)*
-	*In Taelgar: Oct 03, 1740 DR - Oct 05, 1740 DR*
+	*In Taelgar: Oct 03, 1740 DR to Oct 05, 1740 DR*
 	*On Earth: Thursday, May 14, 2026*
 	*[Varrow Forest](<../../../gazetteer/greater-sembara/sembara/northlands/varrow-forest.md>) and [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>)*
 
 The party follows [Alden](<../../../people/sembarans/alden.md>) to [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>), where they accept Lord Hulda's deal to end a mysterious treaty with an entity beyond a hidden door in exchange for promises of wealth and treasure, but find themselves sealed in a strange passage.
 
-!!! quote " "
-	*Locked in a room in the basement is the doom of the house.* - Lord Hulda
-	.....
-	*What could go wrong?* - Kaito Min
+!!! quote "Lord Hulda"
+	*Locked in a room in the basement is the doom of the house.*
+
+!!! quote "Kaito Min"
+	*What could go wrong?*
 ## Audio Highlights
 
-- **Lord Hulda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** <audio controls>
+**Lord Hulda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** 
+<audio controls>
     <source src="/taelgarverse/assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-002.m4a" type="audio/mp4">
 </audio>
-- **The party descends through the manor basement into the root-covered lower cellar where Hulda waits by the hidden door:** <audio controls>
+
+**The party descends through the manor basement into the root-covered lower cellar where Hulda waits by the hidden door:** 
+<audio controls>
     <source src="/taelgarverse/assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-003.m4a" type="audio/mp4">
 </audio>
 
@@ -64,13 +68,13 @@ The party follows [Alden](<../../../people/sembarans/alden.md>) to [Dandelion Ho
 <div class="taelgar-session-zoom__beat" data-session-zoom-beat data-session-zoom-key="lost-in-the-feywild-session-1" data-zoom="short">
   <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>We begin with the party camped west of Tollen with <a href="/taelgarverse/people/sembarans/alden/">Alden</a>. Over dinner they reminisce about how they met, and tell stories of their last job together. <a href="/taelgarverse/people/sembarans/alden/">Alden</a> speaks of his deep attachment to <a href="/taelgarverse/gazetteer/greater-sembara/sembara/northlands/dandelion-house/">Dandelion House</a>, before the night passes uneventfully.</p></div>
   <div class="taelgar-session-zoom__level" data-zoom-level="intermediate"><p>We begin around a campfire in <a href="/taelgarverse/gazetteer/greater-sembara/sembara/northlands/varrow-forest/">Varrow Forest</a>, already several days west of Tollen. The party is traveling with <a href="/taelgarverse/people/sembarans/alden/">Alden</a>, who has hired them on behalf of a minor lord to make sure an old house is safe. Over dinner, the five adventurers reminisce about how they met and strange but affectionate dynamic that binds them. Making conversation, <a href="/taelgarverse/people/sembarans/alden/">Alden</a> asks about their last job together, when an elf in Tollen hired them to recover old books from an ettin. He then speaks of his deep attachment to <a href="/taelgarverse/gazetteer/greater-sembara/sembara/northlands/dandelion-house/">Dandelion House</a>, before the night passes uneventfully.</p></div>
-  <div class="taelgar-session-zoom__level" data-zoom-level="long"><figure class="taelgar-session-zoom__image taelgar-session-zoom__image--right" style="width: 400px; max-width: 100%;">
-  <img src="/taelgarverse/assets/varrow-forest.webp" alt="Walking through Varrow Forest" width="400">
-  <figcaption>Walking through <a href="/taelgarverse/gazetteer/greater-sembara/sembara/northlands/varrow-forest/">Varrow Forest</a></figcaption>
-</figure>
-<p>Our session begins as the party is traveling west from Tollen, guided by <a href="/taelgarverse/people/sembarans/alden/">Alden</a> -- a small, stout, pale human with a curiosity about the party and a phobia of fire -- to an old property at the end of the wilderness recently inherited by a longtime adventurer.</p>
+  <div class="taelgar-session-zoom__level" data-zoom-level="long"><p>Our session begins as the party is traveling west from Tollen, guided by <a href="/taelgarverse/people/sembarans/alden/">Alden</a> -- a small, stout, pale human with a curiosity about the party and a phobia of fire -- to an old property at the end of the wilderness recently inherited by a longtime adventurer.</p>
 <p>The group is a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another. Around the campfire, <a href="/taelgarverse/people/pcs/other-pcs/tollen-misfits/txarro/">Txarro</a> prepares fish and recalls being rescued from tree blights by Kaito and <a href="/taelgarverse/people/pcs/other-pcs/tollen-misfits/tarek/">Tarek</a>; Kaito and <a href="/taelgarverse/people/pcs/other-pcs/tollen-misfits/tarek/">Tarek</a> sketch out their carny and pickpocket routines; <a href="/taelgarverse/people/pcs/other-pcs/tollen-misfits/edric/">Edric</a>&#x27;s awkward generosity and faith in <a href="/taelgarverse/gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-night-queen/">the Night Queen</a> comes into focus; and <a href="/taelgarverse/people/pcs/other-pcs/tollen-misfits/ayveen/">Ayveen</a> frames the party as people who can make the world brighter. Over dinner, <a href="/taelgarverse/people/sembarans/alden/">Alden</a> asks about their last job together, when an elf in Tollen hired them to recover old books from an ettin. They each tell a different version of the story: Kaito remembers profit and clean clothes; <a href="/taelgarverse/people/pcs/other-pcs/tollen-misfits/edric/">Edric</a> remembers enemies who ran instead of dying; <a href="/taelgarverse/people/pcs/other-pcs/tollen-misfits/tarek/">Tarek</a> remembers salvage; <a href="/taelgarverse/people/pcs/other-pcs/tollen-misfits/txarro/">Txarro</a> remembers becoming a tiger; and <a href="/taelgarverse/people/pcs/other-pcs/tollen-misfits/ayveen/">Ayveen</a> sees teamwork.</p>
-<p><a href="/taelgarverse/people/sembarans/alden/">Alden</a> then speaks of <a href="/taelgarverse/gazetteer/greater-sembara/sembara/northlands/dandelion-house/">Dandelion House</a> with rapturous but genuine emotion -- Kaito&#x27;s surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia. As the party drifts off to rest, the night passes uneventfully.</p></div>
+<p><a href="/taelgarverse/people/sembarans/alden/">Alden</a> then speaks of <a href="/taelgarverse/gazetteer/greater-sembara/sembara/northlands/dandelion-house/">Dandelion House</a> with rapturous but genuine emotion -- Kaito&#x27;s surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia. As the party drifts off to rest, the night passes uneventfully.</p>
+<figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-standard">
+  <img src="/taelgarverse/assets/varrow-forest.webp" alt="Walking through Varrow Forest">
+  <figcaption>Walking through <a href="/taelgarverse/gazetteer/greater-sembara/sembara/northlands/varrow-forest/">Varrow Forest</a></figcaption>
+</figure></div>
   <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-001"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
 </div>
 
@@ -82,7 +86,7 @@ The party follows [Alden](<../../../people/sembarans/alden.md>) to [Dandelion Ho
   <div class="taelgar-session-zoom__level" data-zoom-level="long"><p>Morning brings a long march through ancient forest. The trail slowly fades away, the forest grows quieter, the shadows gather. Just before sunset, the party passes through a ruined gate and over barely-visible remnants of an ancient wall and moat long since swallowed by forest. The forest opens into a wildly overgrown field and the House itself, blazing bright in the last light of day.</p>
 <p><a href="/taelgarverse/gazetteer/greater-sembara/sembara/northlands/dandelion-house/">Dandelion House</a> is a marvel of late-Drankorian architecture -- at least 700 years old. Detect Magic suggests some kind of preservation magic woven through the much of the structure, but Kaito becomes increasingly convinced that the house -- with its empty window frames like eye sockets and open double doors like a mouth with a dandelion crest above it -- is waiting to consume them.</p>
 <p><a href="/taelgarverse/people/sembarans/alden/">Alden</a> warns that <a href="/taelgarverse/people/sembarans/lord-hulda/">Lord Hulda</a> is proud, difficult, and desperate for <a href="/taelgarverse/gazetteer/greater-sembara/sembara/northlands/dandelion-house/">Dandelion House</a> to become the estate he has always wanted. They meet <a href="/taelgarverse/people/sembarans/lord-hulda/">Lord Hulda</a> on the upper floor: a scarred adventurer in his late 40s, watching the fading light, sinking into shadow. After brief introductions, Hulda leads them down to the kitchen for a meal and conversation.</p>
-<figure class="taelgar-session-zoom__image">
+<figure class="taelgar-session-zoom__image taelgar-image taelgar-image--hero taelgar-image--size-standard">
   <img src="/taelgarverse/assets/dandelion-house.webp" alt="Dandelion House">
   <figcaption><a href="/taelgarverse/gazetteer/greater-sembara/sembara/northlands/dandelion-house/">Dandelion House</a></figcaption>
 </figure></div>
@@ -107,8 +111,8 @@ The party follows [Alden](<../../../people/sembarans/alden.md>) to [Dandelion Ho
 <div class="taelgar-session-zoom__beat" data-session-zoom-beat data-session-zoom-key="lost-in-the-feywild-session-1" data-zoom="short">
   <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>Before dawn, <a href="/taelgarverse/people/sembarans/alden/">Alden</a> and Hulda guide them below the manor, where they enter the hidden door into an enormous root tunnel. As the party walks forward, Hulda closes the door behind them.</p></div>
   <div class="taelgar-session-zoom__level" data-zoom-level="intermediate"><p>The grandfather clock wakes them before dawn, and <a href="/taelgarverse/people/sembarans/alden/">Alden</a> leads them down through the manor to a rough lower stair and root-covered cellar. Hulda waits by the hidden door, promises to keep it open, and sends them crawling through a narrow passage that proves to be the hollow center of a vast dry root. As the party walks forward, Hulda closes the door behind them.</p></div>
-  <div class="taelgar-session-zoom__level" data-zoom-level="long"><figure class="taelgar-session-zoom__image taelgar-session-zoom__image--left" style="width: 400px; max-width: 100%;">
-  <img src="/taelgarverse/assets/the-door-in-the-floor.webp" alt="The root tunnel to the unknown" width="400">
+  <div class="taelgar-session-zoom__level" data-zoom-level="long"><figure class="taelgar-session-zoom__image taelgar-image taelgar-image--aside taelgar-image--size-standard taelgar-image--align-right">
+  <img src="/taelgarverse/assets/the-door-in-the-floor.webp" alt="The root tunnel to the unknown">
   <figcaption>The root tunnel to the unknown</figcaption>
 </figure>
 <p>Before dawn, the grandfather clock wakes them and <a href="/taelgarverse/people/sembarans/alden/">Alden</a> collects them from their rooms, leading them through the ground floor, down through a massive basement. There, he opens a locked door with a glowing gold key, leads them below the basement, down through a passage hewn from living rock into in a root-covered sub-cellar that surely predates the manor above it. Hulda, waiting there, opens a door that seems to lead deep through a massive hollowed-out root, promising to keep this end open while they take care of business.</p>
@@ -118,12 +122,12 @@ The party follows [Alden](<../../../people/sembarans/alden.md>) to [Dandelion Ho
 
 ## Cast of Characters
 
-- [Alden](<../../../people/sembarans/alden.md>) (he/him, human): guide and agent for [Lord Hulda](<../../../people/sembarans/lord-hulda.md>).
-- [Colden](<../../../people/sembarans/colden.md>) (he/him, human): Alden's cousin, at the manor.
+- [Alden](<../../../people/sembarans/alden.md>) (he/him, alien fungal entity): guide and agent for [Lord Hulda](<../../../people/sembarans/lord-hulda.md>).
+- [Colden](<../../../people/sembarans/colden.md>) (he/him, alien fungal entity): Alden's cousin, at the manor.
 - [Mossfoot](<../../../people/pcs/other-pcs/tollen-misfits/mossfoot.md>)(companion): Edric's pony.
 - [Lord Hulda](<../../../people/sembarans/lord-hulda.md>) (he/him, Sembaran human): lord of [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>), former adventurer, and mysterious quest-giver.
 
 ## Places
 
-- [Varrow Forest](<../../../gazetteer/greater-sembara/sembara/northlands/varrow-forest.md>) (forest in [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), [Greater Sembara](<../../../gazetteer/greater-sembara/greater-sembara.md>)): old forest west of Tollen that the party travels through to reach [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>). Session context includes: campfire; long day's hike through increasingly trackless forest.
-- [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>) (manor house in the [Varrow Forest](<../../../gazetteer/greater-sembara/sembara/northlands/varrow-forest.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)): ancient preserved manor and overgrown estate claimed by [Lord Hulda](<../../../people/sembarans/lord-hulda.md>), beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, kitchen, guest quarters, basement, root cellar, and and hidden root tunnel.
+- [Varrow Forest](<../../../gazetteer/greater-sembara/sembara/northlands/varrow-forest.md>) (forest in the [Duchy of Telham](<../../../gazetteer/greater-sembara/sembara/northlands/duchy-of-telham.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)): old forest west of Tollen that the party travels through to reach [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>). Session context includes: campfire; long day's hike through increasingly trackless forest.
+- [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>) (manor house in the [Varrow Forest](<../../../gazetteer/greater-sembara/sembara/northlands/varrow-forest.md>), the [Duchy of Telham](<../../../gazetteer/greater-sembara/sembara/northlands/duchy-of-telham.md>)): ancient preserved manor and overgrown estate claimed by [Lord Hulda](<../../../people/sembarans/lord-hulda.md>), beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, kitchen, guest quarters, basement, root cellar, and and hidden root tunnel.

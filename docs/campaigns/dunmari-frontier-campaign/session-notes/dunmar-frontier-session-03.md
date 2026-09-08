@@ -42,6 +42,8 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 ## Timeline
 
+
+
 - Mar 25, 1748 DR, afternoon: The party explores the [ruined fort](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>) and kills an ankheg that ambushes [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>). Searching the caves below, they find a [petrified explorer](<../../../people/chardonians/arcus.md>), and defeat the undead bearer of a malignant black iron staff.
 - Mar 25, 1748 DR, evening: The party shatters the staff's obsidian crown, ending its aura of rage, and then makes camp for the night in the temple.
 
@@ -55,6 +57,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 - [Dunmari Fort (Gomat)](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>) (fort in [Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>), [Greater Dunmar](<../../../gazetteer/greater-dunmar/greater-dunmar.md>)): a ruined Dunmari fort whose preserved temple and underground caverns held Dunmari relics, petrified creatures, and the source of the animals' unnatural rage. Session context includes: abandoned campsite and causeway, ruined headquarters, temple of the [Five Siblings](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/dunmari-pantheon.md>), gate towers, ankheg tunnels, cockatrice nursery, dry cistern channel, and southern cavern.
 - [Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>) (region in [Greater Dunmar](<../../../gazetteer/greater-dunmar/greater-dunmar.md>)): desert surrounding the ruined fort, noticeably calmer after the obsidian's influence ended. Session context includes: party camp outside the fort.
+
 
 ## Narrative
 
@@ -95,10 +98,14 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
   <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>Descending into the caves, they find the missing camper petrified and missing an arm beside a heavy Chardonian coin that unfolds into a hovering disc. The narrower branch leads to cockatrice hatchlings repeatedly turning a trapped lion to stone, so the party retreats rather than risk the nursery. They take the wider route beneath the cistern and follow the dry watercourse ahead.</p></div>
   <div class="taelgar-session-zoom__level" data-zoom-level="long"><p>Descending through the ankheg&#x27;s passage -- a low, narrow crawl -- the party reaches a junction containing an extraordinarily lifelike statue of a <a href="/taelgarverse/people/chardonians/arcus/">human man</a>, wearing a cloak and leather armor, with a dagger in one hand. One of the statue&#x27;s arms is broken and lies on the ground beside a torch. Also on the ground is a heavy <a href="/taelgarverse/campaigns/dunmari-frontier-campaign/treasure/floating-disc-coin/">golden coin</a>, radiating transformation magic. <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> flips the coin, and it turns into a floating disc that hovers 3 feet off the ground, following him.</p>
 <p>From this cavern, the party explores the narrower of the two tunnels, which leads to a muddy nursery where cockatrice hatchlings and eggs surround a lion caught in a cycle of petrification and recovery. Unwilling to alert the young or their parents, the party backs away. They instead take the wider branch beneath the cracked cistern and follow its dry channel south.</p>
-<figure class="taelgar-session-zoom__image taelgar-session-zoom__image--left" style="width: 500px; max-width: 100%;">
-  <img src="/taelgarverse/assets/cockatrice-lair.webp" alt="Young cockatrice hatchlings attack and petrify a lion." width="500">
+<div class="taelgar-image-gallery taelgar-session-zoom__gallery" data-image-count="2"><figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-standard taelgar-image-gallery__item">
+  <img src="/taelgarverse/assets/cockatrice-lair.webp" alt="Cockatrice hatchlings surrounding a partly petrified lion">
   <figcaption>Young cockatrice hatchlings attack and petrify a lion.</figcaption>
-</figure></div>
+</figure>
+<figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-standard taelgar-image-gallery__item">
+  <img src="/taelgarverse/assets/dunmar-session-03-arcus-petrified.webp" alt="A one-armed petrified explorer beside a glowing golden disc in a dark cavern">
+  <figcaption><a href="/taelgarverse/people/chardonians/arcus/">Arcus</a>, petrified beside the <a href="/taelgarverse/campaigns/dunmari-frontier-campaign/treasure/floating-disc-coin/">Floating Disc Coin</a>.</figcaption>
+</figure></div></div>
   <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-003"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
 </div>
 
@@ -106,11 +113,11 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 
 <div class="taelgar-session-zoom__beat" data-session-zoom-beat data-session-zoom-key="dunmari-frontier-session-3" data-zoom="short">
   <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>They emerge in a larger cavern, where a wave of unnatural rage signals an attack by three skeletons, soon joined by an undead hobgoblin wielding an obsidian-topped iron staff that radiates wave after wave of anger and violent rage. The party destroys the skeletons, and overwhelms their staff-bearing master.</p></div>
-  <div class="taelgar-session-zoom__level" data-zoom-level="long"><p>The tunnel leads to a larger cavern, where a wave of unnatural rage washes over the party just as three skeletons drop from the ceiling and attack. <a href="/taelgarverse/people/pcs/dunmar-fellowship/delwath/">Delwath</a> holds the narrow approach while the others fight from behind him, destroying one skeleton with a Hex-enhanced blow as <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> turns the floating disc into an improvised barrier. A rotting undead hobgoblin enters the fray, carrying a black iron staff crowned by a pulsing obsidian stone, sending waves of rage and dark energy through the cavern. The party finishes the skeletons and concentrates on their new enemy: <a href="/taelgarverse/people/pcs/dunmar-fellowship/delwath/">Delwath</a> curses it, <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> and <a href="/taelgarverse/people/pcs/dunmar-fellowship/wellby/">Wellby</a> attack from range, and <a href="/taelgarverse/people/pcs/dunmar-fellowship/kenzo/">Kenzo</a> closes through its defenses. <a href="/taelgarverse/people/pcs/dunmar-fellowship/wellby/">Wellby</a>&#x27;s hidden shot leaves it badly wounded, and <a href="/taelgarverse/people/pcs/dunmar-fellowship/kenzo/">Kenzo</a> strikes it down, but the fallen staff continues to radiate hostility.</p>
-<figure class="taelgar-session-zoom__image taelgar-session-zoom__image--right" style="width: 500px; max-width: 100%;">
-  <img src="/taelgarverse/assets/deathlock-at-gomat-fort.webp" alt="An undead hobgoblin carries a cursed iron staff." width="500">
+  <div class="taelgar-session-zoom__level" data-zoom-level="long"><figure class="taelgar-session-zoom__image taelgar-image taelgar-image--aside taelgar-image--size-standard taelgar-image--align-right">
+  <img src="/taelgarverse/assets/deathlock-at-gomat-fort.webp" alt="An undead hobgoblin raising an obsidian-topped iron staff">
   <figcaption>An undead hobgoblin carries a cursed iron staff.</figcaption>
-</figure></div>
+</figure>
+<p>The tunnel leads to a larger cavern, where a wave of unnatural rage washes over the party just as three skeletons drop from the ceiling and attack. <a href="/taelgarverse/people/pcs/dunmar-fellowship/delwath/">Delwath</a> holds the narrow approach while the others fight from behind him, destroying one skeleton with a Hex-enhanced blow as <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> turns the floating disc into an improvised barrier. A rotting undead hobgoblin enters the fray, carrying a black iron staff crowned by a pulsing obsidian stone, sending waves of rage and dark energy through the cavern. The party finishes the skeletons and concentrates on their new enemy: <a href="/taelgarverse/people/pcs/dunmar-fellowship/delwath/">Delwath</a> curses it, <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> and <a href="/taelgarverse/people/pcs/dunmar-fellowship/wellby/">Wellby</a> attack from range, and <a href="/taelgarverse/people/pcs/dunmar-fellowship/kenzo/">Kenzo</a> closes through its defenses. <a href="/taelgarverse/people/pcs/dunmar-fellowship/wellby/">Wellby</a>&#x27;s hidden shot leaves it badly wounded, and <a href="/taelgarverse/people/pcs/dunmar-fellowship/kenzo/">Kenzo</a> strikes it down, but the fallen staff continues to radiate hostility.</p></div>
   <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-004"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
 </div>
 

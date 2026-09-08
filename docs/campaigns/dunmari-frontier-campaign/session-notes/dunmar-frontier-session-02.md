@@ -32,7 +32,7 @@ After defeating the giant lizards and securing [Gomat Oasis](<../../../gazetteer
 !!! quote "[Akan](<../../../people/dunmari/akan.md>)"
 	*I do not know why they were so enraged, so bloodthirsty. We thought we could scare them off. My family, there was eleven of us. Only seven now remain.*
 
-**The party reaches [Daraar Canyon](<../../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>) and gazes at the dangerous wilds beyond:** 
+**The party reaches [Daraar Canyon](<../../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>) and gazes at the dangerous wilds beyond.:** 
 <audio controls>
     <source src="/taelgarverse/assets/session-audio/dunmari-frontier-session-2/dunmari-frontier-session-2-audio-003.m4a" type="audio/mp4">
 </audio>
@@ -53,12 +53,17 @@ After defeating the giant lizards and securing [Gomat Oasis](<../../../gazetteer
 
 - [Akan](<../../../people/dunmari/akan.md>) (he/him, Dunmari human): wounded Dunmari herder, returning to the [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>).
 
+### Organizations
+
+
+
 ### Locations
 
 - [Gomat Oasis](<../../../gazetteer/greater-dunmar/hara-basin/gomat.md>) (oasis in [Eastern Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)): A herders' oasis and roadside camp where giant lizards slaughtered sheep and attacked Akan's family.
 - [Daraar Canyon](<../../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>) (canyon in [Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>), [Greater Dunmar](<../../../gazetteer/greater-dunmar/greater-dunmar.md>)): A vast, geologically unnatural chasm cutting across the ancient road into the [Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>).
 - [Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>) (region in [Greater Dunmar](<../../../gazetteer/greater-dunmar/greater-dunmar.md>)): The rocky, dangerous desert beyond the [Daraar Canyon](<../../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>).
 - [Dunmari Fort (Gomat)](<../../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>) (fort in [Nashtkar](<../../../gazetteer/greater-dunmar/nashtkar.md>), [Greater Dunmar](<../../../gazetteer/greater-dunmar/greater-dunmar.md>)): A ruined [Great War](<../../../events/1500s/great-war.md>)-era defensive fort with gate towers, earthen works, and a recently disturbed mound of undead.
+
 
 ## Narrative
 
@@ -101,11 +106,11 @@ After defeating the giant lizards and securing [Gomat Oasis](<../../../gazetteer
 
 <div class="taelgar-session-zoom__beat" data-session-zoom-beat data-session-zoom-key="dunmari-frontier-session-2" data-zoom="short">
   <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>At <a href="/taelgarverse/gazetteer/greater-dunmar/hara-basin/daraar-canyon/">Daraar Canyon</a>, sheer basalt and loose talus force them to postpone their descent until the next morning. After an uneasy night, <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> shelters <a href="/taelgarverse/people/pcs/dunmar-fellowship/delwath/">Delwath</a>&#x27;s horse in a packed-earth barn before the party crosses the canyon on foot.</p></div>
-  <div class="taelgar-session-zoom__level" data-zoom-level="long"><figure class="taelgar-session-zoom__image taelgar-session-zoom__image--left" style="width: 600px; max-width: 100%;">
-  <img src="/taelgarverse/assets/dunmar-session-2-daraar-canyon-approach.webp" alt="The Dunmar Fellowship looks across Daraar Canyon into the Nashtkar beyond." width="600">
+  <div class="taelgar-session-zoom__level" data-zoom-level="long"><p>After a long day of walking, in the late afternoon, the party reaches a wide canyon ripped into the earth. <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> especially is taken by how unnatural both the rugged badlands to the south and the canyon itself seem; the canyon clearly could not have been formed by the usual processes of gradual erosion. Descending the slope is easy enough to start, but a basalt outcropping about three quarters of the way down stops them for the evening. Back on the rim, they discover traces of a deliberately concealed camp, then pass a cold and fitful, but uninterrupted, night without a fire. In the morning, <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> magically shapes a doorless shelter of packed earth for <a href="/taelgarverse/people/pcs/dunmar-fellowship/delwath/">Delwath</a>&#x27;s horse, and the party descends on foot through loose stone to the canyon floor. Here, it is apparent that many animal tracks, including giant lizard and giant hyena tracks, cross and criss-cross the terrain, all converging in the east on a sloping side canyon leading up to the remains of the trade road.</p>
+<figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-standard">
+  <img src="/taelgarverse/assets/dunmar-session-2-daraar-canyon-approach.webp" alt="Four travelers looking across a broad desert canyon">
   <figcaption>The <a href="/taelgarverse/people/pcs/dunmar-fellowship/dunmar-fellowship/">Dunmar Fellowship</a> looks across <a href="/taelgarverse/gazetteer/greater-dunmar/hara-basin/daraar-canyon/">Daraar Canyon</a> into the <a href="/taelgarverse/gazetteer/greater-dunmar/nashtkar/">Nashtkar</a> beyond.</figcaption>
-</figure>
-<p>After a long day of walking, in the late afternoon, the party reaches a wide canyon ripped into the earth. <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> especially is taken by how unnatural both the rugged badlands to the south and the canyon itself seem; the canyon clearly could not have been formed by the usual processes of gradual erosion. Descending the slope is easy enough to start, but a basalt outcropping about three quarters of the way down stops them for the evening. Back on the rim, they discover traces of a deliberately concealed camp, then pass a cold and fitful, but uninterrupted, night without a fire. In the morning, <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> magically shapes a doorless shelter of packed earth for <a href="/taelgarverse/people/pcs/dunmar-fellowship/delwath/">Delwath</a>&#x27;s horse, and the party descends on foot through loose stone to the canyon floor. Here, it is apparent that many animal tracks, including giant lizard and giant hyena tracks, cross and criss-cross the terrain, all converging in the east on a sloping side canyon leading up to the remains of the trade road.</p></div>
+</figure></div>
   <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-004"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
 </div>
 
@@ -122,8 +127,8 @@ After defeating the giant lizards and securing [Gomat Oasis](<../../../gazetteer
 <div class="taelgar-session-zoom__beat" data-session-zoom-beat data-session-zoom-key="dunmari-frontier-session-2" data-zoom="short">
   <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>At the ruined Dunmari fort, the party destroys four skeletons that emerge from a recently disturbed burial mound, then enters the fort seeking information and answers.</p></div>
   <div class="taelgar-session-zoom__level" data-zoom-level="long"><p>The towers mark the gate of a ruined Dunmari fort surrounded by an earthen defensive wall. Two large earthen mounds flank the old causeway. As the party studies the grass-covered mound and its rubble-strewn counterpart, <a href="/taelgarverse/people/pcs/dunmar-fellowship/kenzo/">Kenzo</a> senses undead nearby, just as a skeletal hand breaks through the disturbed earth. Four skeletons pull themselves from the earth and attack; <a href="/taelgarverse/people/pcs/dunmar-fellowship/kenzo/">Kenzo</a> meets them with staff and fists, <a href="/taelgarverse/people/pcs/dunmar-fellowship/delwath/">Delwath</a> strikes with crackling magic, <a href="/taelgarverse/people/pcs/dunmar-fellowship/wellby/">Wellby</a> fights with bow and blade, and <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> bolsters his companions after discovering that sleep magic cannot affect the dead. Once all four skeletons are destroyed, the party finds signs that the mound was excavated recently, though they cannot identify who disturbed it or what awakened its occupants. <a href="/taelgarverse/people/pcs/dunmar-fellowship/seeker/">Seeker</a> recognizes the ruins as a Great War-era Dunmari defensive fort; the party leaves the neighboring grassy mound untouched before passing through the gate, seeking information and answers.</p>
-<figure class="taelgar-session-zoom__image taelgar-session-zoom__image--right" style="width: 600px; max-width: 100%;">
-  <img src="/taelgarverse/assets/skeletons-emerge-gomat-fort.webp" alt="A skeleton emerges from a burial mound outside an old Dunmari fort." width="600">
+<figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-standard">
+  <img src="/taelgarverse/assets/skeletons-emerge-gomat-fort.webp" alt="A skeleton climbing from an earthen burial mound">
   <figcaption>A skeleton emerges from a burial mound outside an old Dunmari fort.</figcaption>
 </figure></div>
   <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-006"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
@@ -137,5 +142,5 @@ After defeating the giant lizards and securing [Gomat Oasis](<../../../gazetteer
 
 ## Treasure and Things
 
-- Holy symbol of [Chidya](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/chidya.md>): An intricately braided wooden amulet belonging to Akan's sister, found among the scattered camp goods and returned to him.
-- Insect repellent salve: A foul-smelling salve [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) shares to ward off aggressive biting insects east of [Daraar Canyon](<../../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>).
+- holy symbol of Chidya: An intricately braided wooden amulet belonging to Akan's sister, found among the scattered camp goods and returned to him.
+- insect repellent salve: A foul-smelling salve [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) shares to ward off aggressive biting insects east of [Daraar Canyon](<../../../gazetteer/greater-dunmar/hara-basin/daraar-canyon.md>).

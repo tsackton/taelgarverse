@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Breva
+lintedAt: '2026-09-05T16:06:33-04:00'
+lintVersion: '3.5'
+tags: [place, status/check/lint, status/stub]
 typeOf: realm
+name: Breva
 whereabouts: Zimkova
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Breva
 ---
 # Breva
@@ -14,7 +17,10 @@ title: Breva
 </div>
 
 
-A highlander kingdom.
+A Zimkovan kingdom.
+
+
+
 
 
 

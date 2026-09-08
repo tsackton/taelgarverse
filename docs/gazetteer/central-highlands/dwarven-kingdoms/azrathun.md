@@ -14,7 +14,7 @@ title: Azrathûn
 # Azrathûn
 :speaker:{ .middle } *(AZ-rah-thoon)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A ruined city in [Khatridun](<khatridun.md>), [Labkhan](<../../sentinel-range.md>)  
+-    :octicons-location-24:{ .lg .middle } A ruined city in [Khatridun](<khatridun.md>), the [Labkhan](<../../sentinel-range.md>)  
 </div>
 
 

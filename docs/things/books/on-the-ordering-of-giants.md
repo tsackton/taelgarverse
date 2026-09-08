@@ -16,7 +16,7 @@ POV: 1748
 title: On the Ordering of Giants
 ---
 # On the Ordering of Giants
-:octicons-info-24:{ .lg .middle } **A [Hkaran](<../../history/historical-realms/hkar.md>) natural history treatise, written before The Downfall**  
+:octicons-info-24:{ .lg .middle } **A [Hkaran](<../../history/historical-realms/hkar.md>) natural history treatise, written before [The Downfall](<../../events/ancient/the-downfall.md>)**  
 
 An ancient scholarly treatise on [giants](<../../creatures/species/giants.md>), written in a strange language presumed to be [Hkaran](<../../history/historical-realms/hkar.md>). Only one copy is known to exist: it was preserved in the library of [Eudomes](<../../people/historical-figures/eudomes.md>) at [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), recovered by the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>), and now is kept in the moving library on [Vindristjarna](<../ships/vindristjarna.md>).
 

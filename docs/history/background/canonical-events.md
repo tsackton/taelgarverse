@@ -12,7 +12,7 @@ All dates in the Dwarven Count of Years.
 * CY 1520 [Hkar](<../historical-realms/hkar.md>) raised and humanity created 
 * CY 3902 [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) founded by mariners 
 * CY 4005 [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>) founded by mariners 
-* CY 4122 The Downfall and the sinking of [Hkar](<../historical-realms/hkar.md>)
+* CY 4122 The [Downfall](<../../events/ancient/the-downfall.md>) and the sinking of [Hkar](<../historical-realms/hkar.md>)
 * CY 4133 The city of [Drankor](<../../gazetteer/drankorian-hinterland/drankor/drankor.md>) is founded by Hkaran refugees.
 * CY 4491 First armies from [Drankor](<../historical-realms/drankorian-empire.md>) ride north of the [Mostreve Hills](<../../gazetteer/greater-sembara/mostreve-hills.md>) and capture the southern part of [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) 
 * CY 4510 [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) is established as a frontier fort

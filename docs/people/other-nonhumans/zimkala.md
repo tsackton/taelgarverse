@@ -25,7 +25,7 @@ hide_toc: true
     A [stoneborn](<../../creatures/species/stoneborn.md>) (he/him)  
     { .bio }
 
-    Based in the [Indalas](<../../gazetteer/sentinel-range.md>)
+    Based in the the [Indalas](<../../gazetteer/sentinel-range.md>)
 </div>
 
 

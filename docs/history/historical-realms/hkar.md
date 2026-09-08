@@ -15,5 +15,5 @@ title: Hkar
 </div>
 
 
-Hkar is known as the possibly mythical place of creation of humanity, and humanity's first homeland. It is said to have sunk during the Downfall.
+Hkar is known as the possibly mythical place of creation of humanity, and humanity's first homeland. It is said to have sunk during the [Downfall](<../../events/ancient/the-downfall.md>).
 

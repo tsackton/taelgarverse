@@ -15,7 +15,7 @@ _DR 1 - DR 331_
 
 The city of Drankor was founded in the year 4133 by the Dwarven count of years, which became the first year of the Drankorian reckoning.  The early years of growth and recovery in the shadow of the destroyed forests of [Alcarinquë](<historical-realms/alcarinque.md>) are poorly recorded. By the end of this era, the fledging Drankorian Empire has settled and controls the entire [Istaros Watershed](<../gazetteer/major-rivers/istaros-watershed/istaros-watershed.md>). 
 
-- 1 DR: The city of [Drankor](<../gazetteer/drankorian-hinterland/drankor/drankor.md>) is founded by refugees from [Hkar](<historical-realms/hkar.md>) fleeing the wars of The Downfall
+- 1 DR: The city of [Drankor](<../gazetteer/drankorian-hinterland/drankor/drankor.md>) is founded by refugees from [Hkar](<historical-realms/hkar.md>) fleeing the wars of [The Downfall](<../events/ancient/the-downfall.md>)
 - 169 DR: Celadir is proclaimed the first Emperor of [Drankor](<../gazetteer/drankorian-hinterland/drankor/drankor.md>), laying claim to the coastal plains and the rich Isatros river valley.
 
 ## First Age of Expansion

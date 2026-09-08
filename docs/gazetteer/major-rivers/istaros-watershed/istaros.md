@@ -52,7 +52,7 @@ Where the Istaros drops away from the Garamjala Plateau, it descends through mas
 
 ## Names
 
-The Istaros has many names. To the original Drankorians, the refugees from [Hkar](<../../../history/historical-realms/hkar.md>) after the Downfall, it was known by its elvish name, Aistanë (EYE-stah-neh), meaning 'blessed water'. To the [Orcs](<../../../creatures/species/orcs.md>) of [Xurkhaz](<../../upper-istaros/xurkhaz/xurkhaz.md>), it is known as the Drogar. To the Dunmari, it is known as the Mahar. The name Istaros is likely a corruption of the Elvish, in the years after the [First Plague](<../../../events/1000s/1059/first-plague.md>) and the fall of Drankor.
+The Istaros has many names. To the original Drankorians, the refugees from [Hkar](<../../../history/historical-realms/hkar.md>) after [the Downfall](<../../../events/ancient/the-downfall.md>), it was known by its elvish name, Aistanë (EYE-stah-neh), meaning 'blessed water'. To the [Orcs](<../../../creatures/species/orcs.md>) of [Xurkhaz](<../../upper-istaros/xurkhaz/xurkhaz.md>), it is known as the Drogar. To the Dunmari, it is known as the Mahar. The name Istaros is likely a corruption of the Elvish, in the years after the [First Plague](<../../../events/1000s/1059/first-plague.md>) and the fall of Drankor.
 
 
 

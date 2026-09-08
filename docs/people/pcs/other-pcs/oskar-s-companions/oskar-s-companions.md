@@ -3,11 +3,11 @@ headerVersion: 2023.11.25
 lintedAt: '2026-08-28T16:53:46-04:00'
 lintVersion: '3.5'
 displayDefaults: {defArt: ''}
-tags: [group, status/check/lint]
+tags: [group]
 typeOf: adventuring party
 name: Oskar's Companions
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: 1748
 title: Oskar's Companions
 ---
@@ -21,9 +21,6 @@ title: Oskar's Companions
 Oskar's Companions are the adventurers connected to the dwaren ranger [Oskar](<oskar.md>) during his time [in Tharn Todor](<../../../../campaigns/one-shots/oskar-s-adventures/oskar-in-tharn-todor.md>) traveling and adventuring with [Riswynn](<../../dunmar-fellowship/riswynn.md>), during her separation from the [Dunmar Fellowship](<../../dunmar-fellowship/dunmar-fellowship.md>).
 
 In addition to [Oskar](<oskar.md>), [Stoneclaw](<stoneclaw.md>), and [Riswynn](<../../dunmar-fellowship/riswynn.md>), other companions included [Agnor](<agnor.md>), [Ken-To](<ken-to.md>), [Ghemdorn](<ghemdorn.md>), and [Eva](<eva.md>).
-
-
-
 
 
 

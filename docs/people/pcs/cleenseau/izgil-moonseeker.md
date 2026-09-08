@@ -29,7 +29,7 @@ hide_toc: true
     Member of the [Heroes of Cleenseau](<heroes-of-cleenseau.md>)  
     { .bio }
 
-    Originally from: [Nidzahar](<../../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>), [Labkhan](<../../../gazetteer/sentinel-range.md>)
+    Originally from: [Nidzahar](<../../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>), the [Labkhan](<../../../gazetteer/sentinel-range.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of January 16th, 1720): [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)

@@ -405,12 +405,13 @@ search:
         - [Into the Chasm](campaigns/one-shots/into-the-chasm/into-the-chasm.md)
             - [Player Characters](people/pcs/into-the-chasm/chasm-explorers.md)
             - Episodes
-                - [Into the Chasm - Episode 04](campaigns/one-shots/into-the-chasm/into-the-chasm-episode-04.md)
-                - [Into the Chasm - Episode 05](campaigns/one-shots/into-the-chasm/into-the-chasm-episode-05.md)
-                - [Into the Chasm - Episode 06](campaigns/one-shots/into-the-chasm/into-the-chasm-episode-06.md)
                 - [Into the Chasm - Episode 1](campaigns/one-shots/into-the-chasm/into-the-chasm-episode-01.md)
                 - [Into the Chasm - Episode 2](campaigns/one-shots/into-the-chasm/into-the-chasm-episode-02.md)
                 - [Into the Chasm - Episode 3](campaigns/one-shots/into-the-chasm/into-the-chasm-episode-03.md)
+                - [Into the Chasm - Episode 4](campaigns/one-shots/into-the-chasm/into-the-chasm-episode-04.md)
+                - [Into the Chasm - Episode 5](campaigns/one-shots/into-the-chasm/into-the-chasm-episode-05.md)
+                - [Into the Chasm - Episode 6](campaigns/one-shots/into-the-chasm/into-the-chasm-episode-06.md)
+                - [Into the Chasm: People, Places, and Organizations](campaigns/one-shots/into-the-chasm/into-the-chasm-people-places-and-organizations.md)
         - [Oskar in Tharn Todor](campaigns/one-shots/oskar-s-adventures/oskar-in-tharn-todor.md)
             - [Player Characters](people/pcs/other-pcs/oskar-s-companions/oskar-s-companions.md)
                 - [Agnor](people/pcs/other-pcs/oskar-s-companions/agnor.md)
@@ -949,6 +950,7 @@ search:
         - [Loremaster Azogar](people/orcs/azogar.md)
         - [Nogu](people/orcs/nogu.md)
         - [Nuzkar](people/orcs/nuzkar.md)
+        - [Ravager of Winter](people/orcs/ravager-of-winter.md)
         - [Uzgash](people/orcs/uzgash.md)
     - Fey
         - [Aelirios Sunblade](people/fey/aelirios-sunblade.md)
@@ -1044,6 +1046,7 @@ search:
         - [Zimkala](people/other-nonhumans/zimkala.md)
     - Extraplanar Powers
         - [Cha'mutte](people/extraplanar-powers/cha-mutte.md)
+        - [Forquarion](people/extraplanar-powers/forquarion.md)
         - [Gazankoa](people/extraplanar-powers/gazankoa.md)
         - [Sentient Ocean](people/extraplanar-powers/sentient-ocean.md)
         - [Yeshara](people/extraplanar-powers/yeshara.md)
@@ -1079,6 +1082,7 @@ search:
         - [Solatine Order](groups/solatine-order.md)
         - [The Cleansed](groups/the-cleansed.md)
         - [Umbral Covenant](groups/umbral-covenant.md)
+        - [Vejo Vaikai](groups/vejo-vaikai.md)
         - Chardonian Organizations
             - [Auratan Family](groups/chardonian-organizations/auratan-family.md)
             - [Caloren Family](groups/chardonian-organizations/caloren-family.md)
@@ -1339,6 +1343,9 @@ search:
                 - [Morkalan](gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md)
                     - [Bleakhold](gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md)
                     - [Muddy River](gazetteer/extraplanar/shadowfolds/morkalan/muddy-river.md)
+                - Zefya S Realm
+                    - [Melusa](gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md)
+                    - [Zeyfa's Labyrinth](gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md)
         - Faraway Places
             - [Azta Lekua](gazetteer/faraway-places/azta-lekua.md)
             - [Bedez](gazetteer/faraway-places/bedez.md)
@@ -1784,7 +1791,6 @@ search:
                 - [Great Chasm](gazetteer/greater-sembara/zimkova/great-chasm.md)
                 - [Kemeko Monastery](gazetteer/greater-sembara/zimkova/kemeko-monastery.md)
                 - [Lavnoch Plateau](gazetteer/greater-sembara/zimkova/lavnoch-plateau.md)
-                - [Zeyfa's Labyrinth](gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md)
         - Major Rivers
             - [Chasa Nahadi Watershed](gazetteer/major-rivers/chasa-nahadi-watershed/chasa-nahadi-watershed.md)
                 - [Arqa](gazetteer/major-rivers/chasa-nahadi-watershed/arqa.md)
@@ -2015,6 +2021,7 @@ search:
             - Kestavo
                 - [Besla](gods-and-religions/gods/kestavo/besla.md)
                 - [Kamak](gods-and-religions/gods/kestavo/kamak.md)
+                - [Melua](gods-and-religions/gods/kestavo/melua.md)
                 - [Romil](gods-and-religions/gods/kestavo/romil.md)
                 - [Vaqar](gods-and-religions/gods/kestavo/vaqar.md)
                 - [Zeyfa](gods-and-religions/gods/kestavo/zeyfa.md)
@@ -2351,6 +2358,7 @@ search:
         - [Sibling War](events/1700s/sibling-war.md)
         - [Summer Gnoll Raids of 1748](events/1700s/1748/summer-gnoll-raids-of-1748.md)
         - [Summer of Red Storms](events/1700s/1709/summer-of-red-storms.md)
+        - [The Downfall](events/ancient/the-downfall.md)
         - [The Election of Elaine II](events/1700s/1713/the-election-of-elaine-ii.md)
         - [The Enst Campaign](events/1600s/1648/the-enst-campaign.md)
         - [Third Hobgoblin War](events/1600s/third-hobgoblin-war-sembara.md)

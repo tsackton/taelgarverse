@@ -23,10 +23,10 @@ hide_toc: true
     Born DR 1714 (36 years old)  
     { .bio }
 
-    Originally from: [Darakan](<../../gazetteer/central-highlands/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/central-highlands/dwarven-kingdoms/khatridun.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
+    Originally from: [Darakan](<../../gazetteer/central-highlands/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/central-highlands/dwarven-kingdoms/khatridun.md>), the [Labkhan](<../../gazetteer/sentinel-range.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of DR 1730): [Darakan](<../../gazetteer/central-highlands/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/central-highlands/dwarven-kingdoms/khatridun.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of DR 1730): [Darakan](<../../gazetteer/central-highlands/dwarven-kingdoms/darakan.md>), [Khatridun](<../../gazetteer/central-highlands/dwarven-kingdoms/khatridun.md>), the [Labkhan](<../../gazetteer/sentinel-range.md>)
 
 
 

@@ -87,11 +87,11 @@ To the south, Addermarch is bordered by the high ridge of the [Mostreve Hills](<
 
 ## History
 
-Addermarch was settled long ago, by a people closely related to the ancient Tyrwinghans. Before the Downfall, [Tyrwingha](<../tyrwingha/tyrwingha.md>) and Addermarch were part of a shared patchwork of petty kingdoms, settled in the highlands of the [Mostreve Hills](<../mostreve-hills.md>) above the great, ancient lizardfolk swamps of the lowlands. However, Addermarch is outside the boundaries of the [Archfey Ethlenn](<../../../people/extraplanar-powers/archfey/archfey-ethlenn.md>)'s influence, and as Tyrwingha grew closer to the fey, the fate of the two realms diverged. 
+Addermarch was settled long ago, by a people closely related to the ancient Tyrwinghans. Before the [Downfall](<../../../events/ancient/the-downfall.md>), [Tyrwingha](<../tyrwingha/tyrwingha.md>) and Addermarch were part of a shared patchwork of petty kingdoms, settled in the highlands of the [Mostreve Hills](<../mostreve-hills.md>) above the great, ancient lizardfolk swamps of the lowlands. However, Addermarch is outside the boundaries of the [Archfey Ethlenn](<../../../people/extraplanar-powers/archfey/archfey-ethlenn.md>)'s influence, and as Tyrwingha grew closer to the fey, the fate of the two realms diverged. 
 
 
 
-After the Downfall, as the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>) grew to the south, dark things also crept into the woods to the south, no longer guarded or watched so closely by the elves, and the great forests on the southern slopes of the [Mostreve Hills](<../mostreve-hills.md>) became known as the [Darkwood](<darkwood.md>). The people of Addermarch built standing stones to protect against incursions from the [Feywild](<../../../cosmology/feywild.md>), and watched their borders closely. 
+After the [Downfall](<../../../events/ancient/the-downfall.md>), as the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>) grew to the south, dark things also crept into the woods to the south, no longer guarded or watched so closely by the elves, and the great forests on the southern slopes of the [Mostreve Hills](<../mostreve-hills.md>) became known as the [Darkwood](<darkwood.md>). The people of Addermarch built standing stones to protect against incursions from the [Feywild](<../../../cosmology/feywild.md>), and watched their borders closely. 
 
 
 

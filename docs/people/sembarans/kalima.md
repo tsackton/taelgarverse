@@ -1,37 +1,49 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-09-05T16:06:33-04:00'
+lintVersion: '3.5'
 tags: [person, status/check/mike]
-name: Kalima
 species: human
 ancestry: Zimka
 gender: female
+name: Kalima
+pronunciation: kah-LEE-mah
 whereabouts:
+- {type: home, end: 1730-01-22, location: Melusa}
 - {type: away, start: 1730-01-22, end: 1730-01-25, location: Great Chasm}
-- {type: away, start: 1730-01-25, location: Zeyfa's Labyrinth}
+- {type: away, start: 1730-01-25, end: 1730-01-25, location: Zeyfa's Labyrinth}
+- {type: away, start: 1730-01-25, end: 1730-01-29, location: Melusa}
+- {type: away, start: 1730-01-29, end: 1730-01-30, location: Great Chasm}
+knownTo: [itc]
 dm_owner: none
 dm_notes: none
+POV: 1730
 title: Kalima
 hide_toc: true
 ---
 # Kalima
+:speaker:{ .middle } *(kah-LEE-mah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Zimka](<../../groups/cultures/zimka.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     { .bio }
 
-    Originally from: Unknown
+    Originally from: [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), Zefya's Realm
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of January 25th, 1730): the [Zeyfa's Labyrinth](<../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>), the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of January 30th, 1730): the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>)
+
+
+Kalima is a Zimkovan woman from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), the sister of [Nura](<../zimkovans/nura.md>) and sister-in-law of [Khaled](<../zimkovans/khaled.md>). 
+
+
+She emerged from the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>) near [Kemeko Monastery](<../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>) in late January 1730, terrified of kenku and speaking Old Zimkovan, somehow associated with the unnatural storms that had plagued the chasm. Shortly after, an unnatural storm swept her back into the labyrinth with the [Chasm Explorers](<../pcs/other-pcs/into-the-chasm/chasm-explorers.md>). With [Finnan Oakstride](<../pcs/other-pcs/into-the-chasm/finnan-oakstride.md>) and [Justas Rhostrin](<../pcs/other-pcs/into-the-chasm/justas-rhostrin.md>) protecting her, she traveled with them through the maze and led them to her family in Melusa. She described her people as descendants of refugees from an ancient catastrophe, forced to appease the West Wind with sacrifices sent into [Zeyfa's Labyrinth](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>).
+
+In January of DR 1730, she joined those [evacuated from Melusa](<../../campaigns/one-shots/into-the-chasm/into-the-chasm-episode-06.md>). 
 
 
 
 
-Kalima is a Zimkovan woman from a hidden people bound to [Zeyfa](<../../gods-and-religions/gods/kestavo/zeyfa.md>) and [Zeyfa's Labyrinth](<../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>). She emerged from the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>) near [Kemeko Monastery](<../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>) in late January 1730, terrified of kenku and speaking Old Zimkovan.
-
-When an unnatural storm swept Kalima and the adventurers into the chasm, she identified their destination as Zeyfa's Labyrinth, a place she believed no one truly escaped. She described her people as descendants of refugees from an ancient catastrophe, trapped near the labyrinth and forced to appease the West Wind by sending sacrifices into the maze. Kalima warned that the only possible way out lay deeper inside, toward the beast, and that the labyrinth was no place to sleep.
-
-Kalima is frightened of kenku, but after [Finnan Oakstride](<../pcs/other-pcs/into-the-chasm/finnan-oakstride.md>) and [Justas Rhostrin](<../pcs/other-pcs/into-the-chasm/justas-rhostrin.md>) protected her and spoke with her in Old Zimkovan, she agreed to travel with the party if she could stay between them.
 
 

@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
-name: Zimkova
+lintedAt: '2026-09-05T16:06:33-04:00'
+lintVersion: '3.5'
+tags: [place, status/check/mike, status/check/lint]
 typeOf: region
+name: Zimkova
+pronunciation: ZIM-koh-vah
 aliases: [Highland Kingdoms]
 whereabouts: Greater Sembara
 dm_owner: joint
 dm_notes: none
+POV: modern
 title: Zimkova
 ---
 # Zimkova
+:speaker:{ .middle } *(ZIM-koh-vah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A region in [Greater Sembara](<../greater-sembara.md>)  
 </div>
@@ -17,7 +22,7 @@ title: Zimkova
 
 
 
-North of [Sembara](<../sembara/sembara.md>) the land rises towards the [Sentinel Range](<../../sentinel-range.md>) along the [Teft](<../rivers/teft-watershed/teft.md>) and [Volta](<../rivers/volta-watershed/volta.md>) rivers. This is the homeland of the [Zimka](<../../../groups/cultures/zimka.md>). The ancient history of this land is poorly known, but in the small fortified villages along the upper [Teft](<../rivers/teft-watershed/teft.md>) or [Volta](<../rivers/volta-watershed/volta.md>) tales are still told of a long migration across the mountains, and of how the people found the [kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) amongst the bogs and lakes of the upper [Volta](<../rivers/volta-watershed/volta.md>). Some tell of a sundering where many of the [Zimka](<../../../groups/cultures/zimka.md>) went south and east after the Downfall, and others stayed in the north, but whether this is true or legend is not known.
+North of [Sembara](<../sembara/sembara.md>) the land rises towards the [Sentinel Range](<../../sentinel-range.md>) along the [Teft](<../rivers/teft-watershed/teft.md>) and [Volta](<../rivers/volta-watershed/volta.md>) rivers. This is the homeland of the [Zimka](<../../../groups/cultures/zimka.md>). The ancient history of this land is poorly known, but in the small fortified villages along the upper [Teft](<../rivers/teft-watershed/teft.md>) or [Volta](<../rivers/volta-watershed/volta.md>) tales are still told of a long migration across the mountains, and of how the people found the [kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) amongst the bogs and lakes of the upper [Volta](<../rivers/volta-watershed/volta.md>). Some tell of a sundering where many of the [Zimka](<../../../groups/cultures/zimka.md>) went south and east after the [Downfall](<../../../events/ancient/the-downfall.md>), and others stayed in the north, but whether this is true or legend is not known.
 ## Geography and Climate
 
 Zimkova is a broad region of highland plateaus, dense forest, and boreal wetlands stretching across the northern part of [Greater Sembara](<../greater-sembara.md>). Broadly, there are four main regions:
@@ -49,6 +54,8 @@ The geography above forms three cultural regions:
 * South Zimkova, the lands south of the ~Southern Sentinel Spur~, the Breva Forest, and west of the [Braebein](<../sembara/braebein.md>). This land has seen much intermixing with Sembara, and the realms of [Ardlas](<../ardlas.md>) and [Lavnoch Plateau](<lavnoch-plateau.md>) have been under the overlordship of Sembara at various times in their history. This land has lost many of the ancient traditions of the [Zimka](<../../../groups/cultures/zimka.md>), and although it has retained a unique culture and language, [Mos Numena](<../../../gods-and-religions/religions/mos-numena/mos-numena.md>) is the most common religion here and the worship of [Kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) has largely faded
 * Breva, nestled between the [Teft](<../rivers/teft-watershed/teft.md>) and the [Volta](<../rivers/volta-watershed/volta.md>), and separated from the north by the ~Central Sentinel Spur~, a unique blended culture, where kestavo still dominate and a fierce independent streak keeps the people independent
 * North Zimkova, lightly peopled and scattered, where the ancient ways still hold sway, a land of hunters and small fortified villages, mostly clinging to the [Volta](<../rivers/volta-watershed/volta.md>) and its tributaries. 
+
+
 
 
 

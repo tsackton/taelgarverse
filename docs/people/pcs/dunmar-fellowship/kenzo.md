@@ -153,7 +153,7 @@ hide_toc: true
 	
 	Still looking at you, the [Rai](<../great-war/rai.md>)/elf figure speaks: “The legacy of Drankor still balances on a knife’s edge, teetering while we were fighting other fights. Will this be your burden? Is the legacy knowledge, shared with all, or the strength and might of Hkaran purity?
 	
-	As you ponder for a moment, you drift seemingly into the depths of Drankorian history: the founding of the city, full of hope and determination never to fall victim to the powerful world-shaking magic of The Downfall of [Hkar](<../../../history/historical-realms/hkar.md>) again; the armies marching across the plains, moving north and the empty land falling under their sway with hardly a fight; the great towers, and mages forming secret societies to pry the hidden mysteries of extraplanar power; and then, as if you are seeing double, the stream splits in half and your vision returns to the crumbling temple room. 
+	As you ponder for a moment, you drift seemingly into the depths of Drankorian history: the founding of the city, full of hope and determination never to fall victim to the powerful world-shaking magic of [The Downfall](<../../../events/ancient/the-downfall.md>) of [Hkar](<../../../history/historical-realms/hkar.md>) again; the armies marching across the plains, moving north and the empty land falling under their sway with hardly a fight; the great towers, and mages forming secret societies to pry the hidden mysteries of extraplanar power; and then, as if you are seeing double, the stream splits in half and your vision returns to the crumbling temple room. 
 	
 	As your vision clears, you speak, asking him, "This stone -- I believe it to be a part of you. Where are you now? Can I reunite this piece for you?"
 	

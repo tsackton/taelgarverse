@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
-name: Sentinel Range
-diplayDefaults: {defArt: the}
+lintedAt: '2026-09-05T16:06:33-04:00'
+lintVersion: '3.5'
+displayDefaults: {defArt: the}
+tags: [place, status/cleanup/text, status/check/lint]
 typeOf: topographical feature
+typeOfAlias: mountain range
+name: Sentinel Range
 aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
 whereabouts:
 - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: color
-typeOfAlias: mountain range
+POV: modern
 title: Sentinel Range
 ---
 # The Sentinel Range
@@ -51,6 +54,12 @@ Further north, the mountains are somewhat less rugged, but high enough in places
 Major settlements of [Dwarves](<../creatures/species/dwarves.md>) and [Stoneborn](<../creatures/species/stoneborn.md>) call the Sentinels their home, and historically this area was, and is, the center of Dwarven civilization. 
 
 The Sentinels have many names: they are called the Indalas by the [Stoneborn](<../creatures/species/stoneborn.md>), Labkhan by the [Dwarves](<../creatures/species/dwarves.md>), Beredri by the [Deno'qai](<../groups/cultures/deno-qai-tribes/deno-qai.md>), and Tushara by the Dunmari. 
+
+
+
+
+
+
 
 
 

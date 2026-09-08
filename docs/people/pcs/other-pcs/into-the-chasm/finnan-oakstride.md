@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-28T16:53:46-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: halfling
 born: 1678
 gender: male
@@ -15,7 +15,7 @@ whereabouts: Zimkova
 knownTo: [itc]
 dm_owner: player
 dm_notes: important
-POV: 1729
+POV: 1730
 title: Finnan Oakstride
 hide_toc: true
 ---
@@ -44,7 +44,7 @@ In DR 1706, during the golden age of [Cece I](<../../../historical-figures/semba
 
 In DR 1724, when Finnan was 46, he found himself spending more and more time among the [Zimkovans](<../../../../gazetteer/greater-sembara/zimkova/zimkova.md>), beginning to systematically gather their stories and songs and legends. Soon after, he met [Justas Rhostrin](<justas-rhostrin.md>), a local priest of the [Kestavo](<../../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>), and for the past five years he has largely traveled with Justas, gathering songs and stories and legends.
 
-
+In DR 1730, Finnan joined [Justas Rhostrin](<justas-rhostrin.md>) and the other [Chasm Explorers](<chasm-explorers.md>) in investigating the [Great Chasm](<../../../../gazetteer/greater-sembara/zimkova/great-chasm.md>). Drawn into [Zeyfa's Labyrinth](<../../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>) and [Melusa](<../../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), he used his music, magic, and knowledge of old stories to calm and interpret for [Kalima](<../../../sembarans/kalima.md>), and later helped rally and evacuate roughly thirty Melusans into the true Great Chasm.
 
 
 

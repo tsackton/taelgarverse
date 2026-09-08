@@ -18,7 +18,7 @@ title: Ardith
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
    :material-calendar: Overrun in DR 1545  
-    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../creatures/species/dwarves.md>) realm in [Labkhan](<../../sentinel-range.md>)  
+    :octicons-location-24:{ .lg .middle } A [dwarven](<../../../creatures/species/dwarves.md>) realm in the [Labkhan](<../../sentinel-range.md>)  
     :octicons-location-24:{ .lg .middle } Located in the [Central Highlands](<../central-highlands.md>)  
 </div>
 

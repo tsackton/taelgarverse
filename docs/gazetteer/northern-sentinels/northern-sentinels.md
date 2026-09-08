@@ -47,7 +47,7 @@ There are few humans in this region, although the [northern Deno'qai tribes](<..
 ## Major Historical Eras
 _See more: [Pandar](<../../history/historical-realms/pandar.md>)_
 
-In the ancient days before The Downfall it is said that the [northerners](<../../groups/cultures/northerners.md>) crossed the [Sentinels](<../sentinel-range.md>) in their eastward migrations, but the truth of this is unclear. 
+In the ancient days before [The Downfall](<../../events/ancient/the-downfall.md>) it is said that the [northerners](<../../groups/cultures/northerners.md>) crossed the [Sentinels](<../sentinel-range.md>) in their eastward migrations, but the truth of this is unclear. 
 
 In the long years leading up to the [Great War](<../../events/1500s/great-war.md>) the land of [Pandar](<../../history/historical-realms/pandar.md>) was [Cha'mutte's](<../../people/extraplanar-powers/cha-mutte.md>) home, and hobgoblins and enslaved [kenku](<../../creatures/species/kenku.md>) were common sights. Since the [Great War](<../../events/1500s/great-war.md>) this area has been lightly populated and full of dangers.
 ## Climate

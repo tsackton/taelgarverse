@@ -17,7 +17,7 @@ POV: modern
 title: The Unstable Sphere
 ---
 # The Unstable Sphere
-:octicons-info-24:{ .lg .middle } **A [Hkaran](<../../history/historical-realms/hkar.md>) cosmological treatise, written before The Downfall**  
+:octicons-info-24:{ .lg .middle } **A [Hkaran](<../../history/historical-realms/hkar.md>) cosmological treatise, written before [The Downfall](<../../events/ancient/the-downfall.md>)**  
 
 The Unstable Sphere is an ancient work on [Limbo](<../../cosmology/spiritual-realms/limbo.md>), already a lost tome even during the height of Drankorian scholarship. Though some ascribe it an [elven](<../../creatures/species/elves.md>) origin, most arcane cosmologists consider it a relic of [Hkar](<../../history/historical-realms/hkar.md>). Only fragments survive, most notably in the compilations of [Marcion of Iridel](<../../people/historical-figures/marcion-of-iridel.md>).
 

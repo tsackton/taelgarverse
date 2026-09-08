@@ -1,9 +1,12 @@
 ---
+lintedAt: '2026-09-05T16:06:33-04:00'
+lintVersion: '3.5'
 tags: [creature, status/wip]
 name: Stoneborn
 aliases: [Stoneborn, stoneborn]
 dm_owner: joint
 dm_notes: important
+POV: modern
 title: Stoneborn
 ---
 # Stoneborn
@@ -64,4 +67,11 @@ Like [dwarves](<dwarves.md>) Stoneborn ascribe meaning to their use names as the
 **Community Names:** Anakalambo, Elanithino, Kalawa, Ogolakanu, Starkast, Thunakalathi, Yanmeigala
 
 **Use Names:** Ironforger, Stonebreaker, Stonecarver, Quickblade, Strongaxe, Mindshaper, Loremaster, Farseer, Longstrider, Bloodbasher, Fistmaster, Steelbender, Quartzminer, Heartsinger.
+
+
+
+
+
+
+
 

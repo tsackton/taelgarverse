@@ -12,13 +12,13 @@ title: Dwarven Kingdoms
 ---
 # The Dwarven Kingdoms
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A group of kingdoms in [Labkhan](<../../sentinel-range.md>)  
+-    :octicons-location-24:{ .lg .middle } A group of kingdoms in the [Labkhan](<../../sentinel-range.md>)  
 </div>
 
 
 The Dwarven kingdoms of the [Sentinel Range](<../../sentinel-range.md>) have a long, deep history. Once, all the land under the mountains was part of the great Dwarven empire, stretching from the southern end of the mountains to the  far north. The heart of this empire was in the area that, in the current day, is just south of the devastation around the ancient [Urlich Pass](<../urlich-pass.md>). 
 
-During The Downfall, when [Hkar](<../../../history/historical-realms/hkar.md>) fell and great wars were fought in the depths underground below the mountains, the Dwarven empire was shattered, and many of the deeper cities were abandoned. However, many [Dwarves](<../../../creatures/species/dwarves.md>) survived, and while the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>) was being established aboveground, the Five Kingdoms were growing below and among the [Sentinel Range](<../../sentinel-range.md>).
+During [The Downfall](<../../../events/ancient/the-downfall.md>), when [Hkar](<../../../history/historical-realms/hkar.md>) fell and great wars were fought in the depths underground below the mountains, the Dwarven empire was shattered, and many of the deeper cities were abandoned. However, many [Dwarves](<../../../creatures/species/dwarves.md>) survived, and while the [Drankorian Empire](<../../../history/historical-realms/drankorian-empire.md>) was being established aboveground, the Five Kingdoms were growing below and among the [Sentinel Range](<../../sentinel-range.md>).
 
 ![Dwarven Kingdoms Map](/taelgarverse/assets/dwarven-kingdoms-map.png)
  

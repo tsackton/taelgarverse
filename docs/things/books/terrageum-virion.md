@@ -17,7 +17,7 @@ title: Terrageum Virion
 ---
 # Terrageum Virion
 :speaker:{ .middle } *(ter-RAH-gee-um VEER-ee-on)*  
-:octicons-info-24:{ .lg .middle } **A cosmological treatise, written before The Downfall**  
+:octicons-info-24:{ .lg .middle } **A cosmological treatise, written before [The Downfall](<../../events/ancient/the-downfall.md>)**  
 
 *Terrageum Virion*, often translated as "The Geography of Wonder," is an ancient book on the [Feywild](<../../cosmology/feywild.md>). The largest surviving fragment is preserved in [The Lore of the Feywild](<the-lore-of-the-feywild.md>), where Ulfgar Frostbeard treats it as an important rare source within the *Fey Discourses*.
 

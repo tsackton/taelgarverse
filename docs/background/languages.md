@@ -16,7 +16,7 @@ The human tongues of the known world are broadly divided up into three major lan
 
 * **Northros Language Family**: A set of languages spoken across the northern reaches of Taelgar, named Northros by Drankorian cataloguers of languages. These languages are spoken by the cultures that departed Hkar in the ancient days.
 * **Eastros Language Family**: A diverse set of languages spoken across the [Green Sea](<../gazetteer/green-sea.md>). This language is derived from an ancient mariner culture that originally settled much of the [Green Sea](<../gazetteer/green-sea.md>) region, and these languages were given the name Eastros by Drankorian scholars.
-* **Drankorian Language Family**: A set of languages spoken by [Drankor](<../history/historical-realms/drankorian-empire.md>) and many of its successor cultures. It is derived from the language spoken on [Hkar](<../history/historical-realms/hkar.md>) and the time of the Downfall.
+* **Drankorian Language Family**: A set of languages spoken by [Drankor](<../history/historical-realms/drankorian-empire.md>) and many of its successor cultures. It is derived from the language spoken on [Hkar](<../history/historical-realms/hkar.md>) and the time of the [Downfall](<../events/ancient/the-downfall.md>).
 
 There are some other human languages, notably Dunmari, that do not fit into any of the language families above, and there are rumors and fragments from [Drankor](<../gazetteer/drankorian-hinterland/drankor/drankor.md>) of very different languages spoken in far-flung places distant from the center of the [Drankorian Empire](<../history/historical-realms/drankorian-empire.md>). 
 

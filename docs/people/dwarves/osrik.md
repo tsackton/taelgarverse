@@ -22,7 +22,7 @@ hide_toc: true
     A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of the [Shockstone Clan](<../../groups/dwarven-clans/shockstones.md>)  
     { .bio }
 
-    Based in [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
+    Based in [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), the [Labkhan](<../../gazetteer/sentinel-range.md>)
 </div>
 
 

@@ -1,15 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-09-05T16:06:33-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
+tags: [place, status/wip]
 typeOf: region
+name: Greater Sembara
+pronunciation: sem-BAH-rah
 whereabouts:
 - {type: home, location: Taelgar, linkText: in}
 dm_owner: joint
 dm_notes: none
+POV: modern
 title: Greater Sembara
 ---
 # Greater Sembara
+:speaker:{ .middle } *(sem-BAH-rah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A region in Taelgar  
 </div>
@@ -74,7 +80,9 @@ The climate of the region is shaped by several major factors:
 ## Major Historical Eras
 _See more: Humanity in Greater Sembara and Timeline of Sembaran History_
 
-When humans first came to this region it was already a thriving land, with the ancient elven forest of [Alcarinque](<../../history/historical-realms/alcarinque.md>) to the south, and the [Urtzabala](<../../history/historical-realms/urtzabala.md>) filling what would become the [Enst](<rivers/wistel-enst-watershed/enst.md>) and [Wistel](<rivers/wistel-enst-watershed/wistel.md>) river valleys. Halflings sailed the [Green Sea](<../green-sea.md>) to the east, and dwarves delved deep in [Sentinels](<../sentinel-range.md>)  to the west. In the years before the Downfall to cultures of humans met and mixed: the [Northerners](<../../groups/cultures/northerners.md>), traveling east from the high passes over the [Sentinels](<../sentinel-range.md>), and the [Mariners](<../../groups/cultures/mariners.md>), sailing west from the [far reaches of the Green Sea](<../eastern-green-sea/eastern-green-sea.md>). From this melting pot, two distinct cultures emerged: the [Zimka](<../../groups/cultures/zimka.md>), clinging to tradition in the north and the [Tollish](<tollen/tollen.md>) culture, growing around the city of Tollen and the Sembaran coast. 
+When humans first came to this region it was already a thriving land, with the ancient elven forest of [Alcarinque](<../../history/historical-realms/alcarinque.md>) to the south, and the [Urtzabala](<../../history/historical-realms/urtzabala.md>) filling what would become the [Enst](<rivers/wistel-enst-watershed/enst.md>) and [Wistel](<rivers/wistel-enst-watershed/wistel.md>) river valleys. Halflings sailed the [Green Sea](<../green-sea.md>) to the east, and dwarves delved deep in [Sentinels](<../sentinel-range.md>)  to the west. In the years before the [Downfall](<../../events/ancient/the-downfall.md>) to cultures of humans met and mixed: the [Northerners](<../../groups/cultures/northerners.md>), traveling east from the high passes over the [Sentinels](<../sentinel-range.md>), and the [Mariners](<../../groups/cultures/mariners.md>), sailing west from the [far reaches of the Green Sea](<../eastern-green-sea/eastern-green-sea.md>). From this melting pot, two distinct cultures emerged: the [Zimka](<../../groups/cultures/zimka.md>), clinging to tradition in the north and the [Tollish](<tollen/tollen.md>) culture, growing around the city of Tollen and the Sembaran coast. 
+
+
 
 
 

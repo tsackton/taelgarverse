@@ -30,7 +30,7 @@ hide_toc: true
     Traveled with the [Dunmar Fellowship](<../dunmar-fellowship.md>)  
     { .bio }
 
-    Based in [Kunda](<../../../../gazetteer/central-highlands/kunda.md>), [Indalas](<../../../../gazetteer/sentinel-range.md>)
+    Based in [Kunda](<../../../../gazetteer/central-highlands/kunda.md>), the [Indalas](<../../../../gazetteer/sentinel-range.md>)
 </div>
 
 

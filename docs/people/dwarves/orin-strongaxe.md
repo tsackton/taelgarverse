@@ -23,7 +23,7 @@ hide_toc: true
     A [dwarf](<../../creatures/species/dwarves.md>) (he/him), of Strongaxes  
     { .bio }
 
-    Based in [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
+    Based in [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>), [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>), the [Labkhan](<../../gazetteer/sentinel-range.md>)
 </div>
 
 

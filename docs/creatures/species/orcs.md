@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-09-05T16:06:33-04:00'
+lintVersion: '3.5'
 tags: [creature, status/wip]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Orcs
 ---
 # Orcs
@@ -35,6 +38,11 @@ Rumors circulate throughout Taelgar of unchained orcs, free orcs that have broke
 The most famous of these orcs are the [People of the Rainbow](<../../groups/orc-hordes/people-of-the-rainbow.md>), living in the deserts east of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
 
 Free orcs live in the constant shadow of [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)'s hunters. [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>) watches over his orcs, driving them to fight each other, bringing strength to the victors. But none are more hated by [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)'s orcs than those who have broken free: any tribe that tries to turn from [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)'s way is quickly subject to unceasing attacks until they are defeated and subjugated, unless they can find a way to hide from [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)'s probing eyes. 
+
+
+
+
+
 
 
 

@@ -25,7 +25,7 @@ hide_toc: true
     Died DR 1748  
     { .bio }
 
-    Originally from: [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
+    Originally from: [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), the [Labkhan](<../../gazetteer/sentinel-range.md>)
     Lived in [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>), [Shadowfolds](<../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>), the [Echo Realms](<../../cosmology/demiplanes-and-echo-realms/echo-realms.md>)
 </div>
 

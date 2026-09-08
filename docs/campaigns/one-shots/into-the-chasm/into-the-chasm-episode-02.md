@@ -21,34 +21,36 @@ title: Into the Chasm - Episode 2
 	*Featuring: [Finnan](<../../../people/pcs/other-pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/other-pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/other-pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/other-pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/other-pcs/into-the-chasm/justas-rhostrin.md>)*
 	*In Taelgar: Jan 25, 1730 DR*
 	*On Earth: Wednesday, December 3, 2025*
-	*[Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>)*
+	*[Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>)*
 
-The party makes their way into [Zeyfa’s Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>), surviving unnatural cold and shifting paths, speaks with a dead man, and emerges into a black‑stone chamber where a terrifying white beast awaits.
+The party makes their way into [Zeyfa’s Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>), surviving unnatural cold and shifting paths, speaks with a dead man, and emerges into a black‑stone chamber where a terrifying white beast awaits.
 
 ## Timeline
 
-- Jan 25, 1730 DR, afternoon: The party travels deeper into [Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>). They speak with a dead man, survive the maze's whiteout conditions, and reach the beast's chamber.
+- Jan 25, 1730 DR, afternoon: The party travels deeper into [Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>). They speak with a dead man, survive the maze's whiteout conditions, and reach the beast's chamber.
 
 ## Cast of Characters
 
-- [Kalima](<../../../people/sembarans/kalima.md>) (she/her, the Zimka human): frightened Zimka guide and native of Melusa.
-- [Zeyfa](<../../../gods-and-religions/gods/kestavo/zeyfa.md>) (*ZAY-fah*;): cruel west wind tied to sacrifice and the labyrinth.
-- Melua: waterfall [Kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) recalled from halfling memory.
+- [Kalima](<../../../people/sembarans/kalima.md>) (*kah-LEE-mah*; she/her, the Zimka human): frightened Zimka guide and native of Melusa.
+- [Zeyfa](<../../../gods-and-religions/gods/kestavo/zeyfa.md>) (*ZAY-fah*; spirit): cruel west wind tied to sacrifice and the labyrinth.
+- [Melua](<../../../gods-and-religions/gods/kestavo/melua.md>) (*meh-LOO-ah*; kestavo): waterfall [Kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) recalled from halfling memory.
 
 ## Places
 
-- [Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>) (labyrinth in the [Great Chasm](<../../../gazetteer/greater-sembara/zimkova/great-chasm.md>), [Zimkova](<../../../gazetteer/greater-sembara/zimkova/zimkova.md>)): hostile maze of ice, wind, and shifting passages, which the party seeks to flee.
+- [Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>) (*ZAY-fahz LAB-uh-rinth*; labyrinth in Zefya's Realm): hostile maze of ice, wind, and shifting passages, which the party seeks to flee.
 
 ## Narrative
 
-Our session begins as the party descends into [Zeyfa's Labyrinth](<../../../gazetteer/greater-sembara/zimkova/zeyfa-s-labyrinth.md>), steadying [Kalima](<../../../people/sembarans/kalima.md>) as they enter the first tunnels of the strange, shifting maze. [Kalima](<../../../people/sembarans/kalima.md>) keeps Romil's glowing token close, muttering prayers against the snow, while the [Chasm Explorers](<../../../people/pcs/other-pcs/into-the-chasm/chasm-explorers.md>) press on. The first passages are narrow, snowy, and seem at first glance to be ordinary stone tunnels, albeit covered in ice. But their branches and dead ends defy mapping, and the party begins to feel as if some malevolent presence is pushing them forward.
+Our session begins as the party descends into [Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>), steadying [Kalima](<../../../people/sembarans/kalima.md>) as they enter the first tunnels of the strange, shifting maze. [Kalima](<../../../people/sembarans/kalima.md>) keeps Romil's glowing token close, muttering prayers against the snow, while the [Chasm Explorers](<../../../people/pcs/other-pcs/into-the-chasm/chasm-explorers.md>) press on. The first passages are narrow, snowy, and seem at first glance to be ordinary stone tunnels, albeit covered in ice. But their branches and dead ends defy mapping, and the party begins to feel as if some malevolent presence is pushing them forward.
 
 The tunnels lead to a low, ice-walled room split by a ten-foot fissure, with warm air rising from below. Flexible ice ferns wave in the warm breeze, along the rim. The bottom is not visible, even with magical light; the ferns shudder; a hot breath blows. Kalima's fear sharpens as the room seems to come alive. [Ekko](<../../../people/pcs/other-pcs/into-the-chasm/ekko.md>) flies across; [Eolo](<../../../people/pcs/other-pcs/into-the-chasm/eolo.md>), trying to show off, jumps instead. He slips, crashing through the ferns, barely catching himself on the edge.
 
 With the fissure exuding snow and gusts of heat, the party plans a more deliberate crossing. [Eolo](<../../../people/pcs/other-pcs/into-the-chasm/eolo.md>) carries [Finnan](<../../../people/pcs/other-pcs/into-the-chasm/finnan-oakstride.md>), flying this time; [Jrain](<../../../people/pcs/other-pcs/into-the-chasm/jrain-fanlish.md>) uses her cloak to levitate and cross, dragging [Kalima](<../../../people/sembarans/kalima.md>) with her. [Justas](<../../../people/pcs/other-pcs/into-the-chasm/justas-rhostrin.md>) makes a leap, but slips; fortunately, he is anchored by a rope as he swings into the hot darkness below. [Eolo](<../../../people/pcs/other-pcs/into-the-chasm/eolo.md>) pulls him back, with his telekinetic powers. Across the chasm, the party follows a new opening through narrow stone corridors, ice growing with each footfall against the howl of the wind.
 
-The storm pauses as the party reaches a small, frozen side chamber, where a human corpse hangs pinned to the wall by ice. [Finnan](<../../../people/pcs/other-pcs/into-the-chasm/finnan-oakstride.md>) speaks to him with magic. The dead man answers with fragments of a life in Melusa, his and Kalima's home. He tells of a cliffside village from whence he came; the sunrise sacrifice that forced him into the maze; the wind that killed him and left his soul lost. Finnan's ancestral memories hint at a connection between Melusa, and the old [kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) called Melua, associated with a waterfall on the Teft long, long ago.
+The storm pauses as the party reaches a small, frozen side chamber, where a human corpse hangs pinned to the wall by ice. [Finnan](<../../../people/pcs/other-pcs/into-the-chasm/finnan-oakstride.md>) speaks to him with magic. The dead man answers with fragments of a life in Melusa, his and Kalima's home. He tells of his cliffside village, of being chosen at sunrise as a sacrifice, and of the wind that killed him and left his soul lost. Finnan's ancestral memories hint at a connection between Melusa, and the old [kestavo](<../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) called [Melua](<../../../gods-and-religions/gods/kestavo/melua.md>), associated with a waterfall on the Teft long, long ago.
 
 Leaving the body, the party follows the winding maze, as the labyrinth tightens into a trap of booming corridors, whiteout rooms, and vanishing exits. Trying to carry [Kalima](<../../../people/sembarans/kalima.md>) through the worst of the wind ends badly; she is dropped and left bruised and terrified. As the walls of the labyrinth close in on the party, shadowy wind-creatures with bone-and-weather forms sweep through the maze. Only Jrain's magic of hiding and stealth lets the [Chasm Explorers](<../../../people/pcs/other-pcs/into-the-chasm/chasm-explorers.md>) sneak through the last opening in the winding, repeating tunnels of the maze.
 
 Pushing desperately through the maze, the party stumbles through curtains of ice. [Ekko](<../../../people/pcs/other-pcs/into-the-chasm/ekko.md>) tries to melt a way through with magic, but the ice cracks. The walls fail, and an avalanche crashes through the maze, leaving a blind plunge into darkness as the only option. The slide carries everyone across slick black ice, into a chamber of dark stone. Suddenly, Kalima's feared beast appears, shaggy white shapes beginning to form in the ice.
+
+## Combat

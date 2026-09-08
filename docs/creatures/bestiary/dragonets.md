@@ -30,7 +30,7 @@ Dragonets delight in shiny objects, but their appreciation is often as much a so
 
 Dragonets are first known as inhabitants of [Hkar](<../../history/historical-realms/hkar.md>), where they were common in cities, particularly in urban centers of magic. Whether they were created alongside humanity or came to Hkar from elsewhere in its early history remains unknown.
 
-After the destruction of Hkar, dragonet communities scattered. Dragonets remained common in [Drankor](<../../history/historical-realms/drankorian-empire.md>), while other groups fled into the [Feywild](<../../cosmology/feywild.md>) or far to the east. The relationship between the refugees who entered the Feywild and the fey creatures now known as pseudodragons is uncertain. The fall of Drankor brought another catastrophe in which many dragonets died or fled, leaving their surviving communities widely dispersed.
+After [the destruction of Hkar](<../../events/ancient/the-downfall.md>), dragonet communities scattered. Dragonets remained common in [Drankor](<../../history/historical-realms/drankorian-empire.md>), while other groups fled into the [Feywild](<../../cosmology/feywild.md>) or far to the east. The relationship between the refugees who entered the Feywild and the fey creatures now known as pseudodragons is uncertain. The fall of Drankor brought another catastrophe in which many dragonets died or fled, leaving their surviving communities widely dispersed.
 
 
 

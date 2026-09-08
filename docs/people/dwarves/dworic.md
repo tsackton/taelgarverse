@@ -26,7 +26,7 @@ hide_toc: true
     Born DR 1502 (248 years old)  
     { .bio }
 
-    Originally from: [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), [Labkhan](<../../gazetteer/sentinel-range.md>)
+    Originally from: [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), the [Labkhan](<../../gazetteer/sentinel-range.md>)
     Based in [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
 </div>
 

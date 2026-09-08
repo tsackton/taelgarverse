@@ -25,10 +25,14 @@ title: 'Lost in the Feywild: Episode 07'
 
 The party learns the truth of the prisoner, then tells five stories that persuade the captive to release a hundred souls and return home.
 
-!!! quote " "
-	*I think I'm happy for the first time ever, here in the nothingness, in the darkness, with no souls and no dreams.* - Kaito Min
-	*All these lights come to different people, and they mean so much, and they're not gone when they're not there.* - Ayveen
-	*So as you grasp these souls that you love, you destroy them. But it is not too late.* - Txarro
+!!! quote "Kaito Min"
+	*I think I'm happy for the first time ever, here in the nothingness, in the darkness, with no souls and no dreams.*
+
+!!! quote "Ayveen"
+	*All these lights come to different people, and they mean so much, and they're not gone when they're not there.*
+
+!!! quote "Txarro"
+	*So as you grasp these souls that you love, you destroy them. But it is not too late.*
 ## Audio Highlights
 
 **A Hundred Souls Go Home:** 
@@ -86,14 +90,14 @@ The party learns the truth of the prisoner, then tells five stories that persuad
 ## Cast of Characters
 
 - The [prisoner in the 27th Room](<../../../people/other-nonhumans/prisoner-in-the-27th-room.md>): telepathic entity filling the central prison of the [27th House](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>).
-- [Aurae](<../../../people/other-nonhumans/aurae.md>) (construct): clockwork research assistant carried in a makeshift backpack.
+- [Aurae](<../../../people/other-nonhumans/aurae.md>) (*OUR-ray or ARR-ray*; they/them, construct): clockwork research assistant carried in a makeshift backpack.
 - [Menestheus](<../../../people/other-humans/menestheus.md>) (he/him, Drankorian human): transformed mushroom man left outside the prison door.
-- [Lord Endless Ending](<../../../people/fey/lord-endless-ending.md>) (they/them, fae): the prisoner's teacher, now Lord of the Ended Revel.
+- [Lord Endless Ending](<../../../people/fey/lord-endless-ending.md>) (they/them, fae): the prisoner's teacher, now [Lord of the Ended Revel](<../../../people/fey/lord-endless-ending.md>).
 - [Hulda](<../../../people/sembarans/lord-hulda.md>) (he/him, Sembaran human): the older and younger selves joined by a time loop.
 - [Kallipseis](<../../../people/dwarves/kallipseis.md>) (she/her, Drankorian dwarf): wizard head of [Arithrimos Lamperum](<../../../groups/drankorian-societies/arithrimos-lamperum.md>), fled across the Multiverse.
 - [Rakshasa](<../../../people/other-nonhumans/rakshasa.md>) (he/him, tiger-headed mortal): observer in a roadside cottage.
 
 ## Places
 
-- [27th Room](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) (fey house in the [Twilight Kingdom](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../../cosmology/feywild.md>)): shifting central prison chamber built to confine the telepathic soul collector and conceal its position in space and time. Session context includes: lightless central prison chamber inside [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>).
+- [27th Room](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) (manor in the [Twilight Kingdom](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../../cosmology/feywild.md>)): shifting central prison chamber built to confine the telepathic soul collector and conceal its position in space and time. Session context includes: lightless central prison chamber inside [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>).
 - [Twilight Promontory](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-promontory.md>) (promotory in the [Twilight Kingdom](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../../cosmology/feywild.md>)): twilight slope revealed when [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>) collapses, where the party watches the prisoner return home through a low stone well. Session context includes: the central prison and [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>) collapse and exposing the hillside and a low stone well.
