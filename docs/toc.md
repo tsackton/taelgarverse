@@ -372,6 +372,7 @@ search:
                     - [The Exposition of the Alien Mind](things/books/the-exposition-of-the-alien-mind.md)
                     - [The Lay of Estar](things/books/the-lay-of-estar.md)
                     - [The Lore of the Feywild](things/books/the-lore-of-the-feywild.md)
+                    - [The Path of Unmaking](things/books/the-path-of-unmaking.md)
                     - [The Riven Veil](things/books/the-riven-veil.md)
                     - [The Runes of Creation](things/books/the-runes-of-creation.md)
                     - [The Seams Between Worlds](things/books/the-seams-between-worlds.md)

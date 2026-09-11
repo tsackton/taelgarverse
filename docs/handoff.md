@@ -183,16 +183,6 @@ Copy-paste-ready statement:
 
 > Adina is protective of her younger brother, [Xavier](<people/chardonians/xavier.md>), and is in a relationship with [Camila](<people/chardonians/camila.md>).
 
-#### [People/Chardonians/Agon](<people/chardonians/agon.md>)
-
-Destination: public
-
-The SECRET block contains a coherent public-safe account of Agon's Cleansed allegiance and recruitment methods, mixed with encounter tactics that should remain private.
-
-Copy-paste-ready statement:
-
-> Agon is a senior member of the Cleansed who recruits vulnerable Chardonians through patronage and appeals to imperial supremacy. He mentored Vola, encouraging her to interpret her unusual gifts as proof of a privileged Drankorian inheritance.
-
 #### [People/Chardonians/Alban](<people/chardonians/alban.md>)
 
 Destination: public

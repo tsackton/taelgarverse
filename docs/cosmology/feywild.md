@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: '2026-08-25T23:38:37-04:00'
 lintVersion: '3.5'
 displayDefaults: {wSecondary: 'Sometimes considered one of the <secondary:1>', defArt: the}
-tags: [place, status/review, status/check/lint]
+tags: [place, status/review]
 typeOf: plane
 name: Feywild
 whereabouts:
@@ -75,9 +75,6 @@ As diverse as the fey are the stories about them and their interactions with the
 ### Archfey and Fey Realms
 
 No discussion of the Feywild would be complete without a mention of the endless tales of the masters and rulers of the Feywild, the archfey. The archfey, it is said, are as varied and diverse as the fey themselves, and carry the power to shape the realms in which they dwell in their own image. Few encounter these powerful beings, and none encounter them unchanged. 
-
-
-
 
 
 
