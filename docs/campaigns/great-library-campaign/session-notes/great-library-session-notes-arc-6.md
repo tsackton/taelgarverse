@@ -1,0 +1,39 @@
+---
+headerVersion: 2023.11.25
+tags: [session-note]
+campaign: Great Library
+DR: 1752-06-29
+DR_end:
+name: Chronicles of Zadkai's Return and the Scouring Wind
+title: Chronicles of Zadkai's Return and the Scouring Wind
+---
+# Chronicles of Zadkai's Return and the Scouring Wind
+
+After returning from [Cairn Dor](<../../../gazetteer/extraplanar/shadowfolds/cairn-dor/cairn-dor.md>), the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>) discover that several years have passed, and the world has changed....
+
+## Adventure 21: Airion's Secret Lair
+
+### Session 64
+
+The [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>) make their way to a refuge and hall of stories that [Brelith](<../../../people/pcs/silver-tempests/brelith.md>) and [Dinia](<../../../people/other-humans/dinia.md>) have established on the western slopes of the [Fiatara Mountains](<../../../gazetteer/northwest-coast/fiamatara-mountains/fiatara-mountains.md>), following the oligarch takeover of [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), where they have a relaxing dinner and long discussion with Brelith and Dinia. Over the course of the next couple of days, the group learns of the events of the past few years, while they were asleep in [Cairn Dor](<../../../gazetteer/extraplanar/shadowfolds/cairn-dor/cairn-dor.md>), and learns more about each other as well. [Mabist](<../../../people/pcs/silver-tempests/mabist.md>) and [Blue](<../../../people/pcs/silver-tempests/blue.md>) try lily pad cakes for the first time, to mixed results. 
+
+After a few days of relaxation and restoration, [Silverstorm](<../../../people/other-nonhumans/silverstorm.md>) arrives, his massive wingspan blocking briefly blocking the sun as he flies over the reuge, seeking to speak with the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>). From Silverstorm, the party learns a little of the politics of the [Elemental Plane of Air](<../../../cosmology/energy-realms/elemental-plane-of-air.md>): [Zadkai](<../../../people/other-humans/zadkai.md>)'s master, [Azravan](<../../../people/other-nonhumans/azravan.md>), Duke of the Scouring Wind, leads a faction who believes that all humanity must be erased from the multiverse as punishment for the sins of the wizards who enslaved djinn. [Orumei](<../../../people/other-nonhumans/orumei.md>), Duke of the Returning Wind, wants to prevent this war. Having learned that [Zadkai](<../../../people/other-humans/zadkai.md>) is seeking some kind of hidden research or magic of [Airion the Mistspeaker](<../../../people/other-humans/airion.md>), hidden in his [secret lair](<../../../gazetteer/northwest-coast/airion-s-secret-lair.md>), Orumei has asked Silverstorm to find what Zadkai is seeking and bring it to them. Silverstorm has asked the party to help, figuring that stealth is an asset and a roc with a three-hundred-foot wingspan will struggle to be stealthy. 
+
+The party agrees to help, and asks Dinia if she knows anything about Airion's secret lair. She tells a tale of a mountain in [Tawir Forest](<../../../gazetteer/northwest-coast/tawir-forest.md>), that was called Bald Mountain long ago, but acquired an impenetrable cloud that hovered over the summit, and gained the name [Mount Graybane](<../../../gazetteer/northwest-coast/mount-graybane.md>). This, she says, must be [Airion](<../../../people/other-humans/airion.md>)'s lair. As she finishes her tale, Brelith completes a casting of _Legend Lore_, which reveals the same information. 
+
+Departing the [Fiatara Mountains](<../../../gazetteer/northwest-coast/fiamatara-mountains/fiatara-mountains.md>), the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>) fly on [Silverstorm](<../../../people/other-nonhumans/silverstorm.md>)'s back to the edge of [Tawir Forest](<../../../gazetteer/northwest-coast/tawir-forest.md>), where they camp for the night. The next morning, using _Wind Walk_, they travel quickly over the forest to [Mount Graybane](<../../../gazetteer/northwest-coast/mount-graybane.md>), noting that the [floating tower](<../../../gazetteer/northwest-coast/fiamatara-mountains/airion-s-floating-tower.md>) presumably occupied by [Zadkai](<../../../people/other-humans/zadkai.md>) has landed near the mountian. 
+
+Attempting to fly as mist through a supernatural storm, [Adrik](<../../../people/pcs/silver-tempests/adrik.md>) and [Blue](<../../../people/pcs/silver-tempests/blue.md>) are tossed by the wind and slammed into the ground, forced to shift out of mist form. Adrik manages to run out of the storm, while Blue huddles close to the rocks, calling for help with her thaumaturgically-enhanced voice. With no way to see Blue, it is only Adrik's stone sense and storm affinity that hints at her direction and allows the party to regroup. 
+
+Afteward, they proceed into the storm on foot, tied together by ropes. The wind makes walking difficult, and the climb has some challenging moments, but the real difficulty comes as the rain grows and the party must scale a steep boulder, slick and running with water. [Samso](<../../../people/pcs/silver-tempests/samso.md>) uses his [Staff of the Swamplands](<../treasure/staff-of-the-swamplands.md>) to push the water clear of the rock, simplifying the ascent. Even so, the weaker members of the party need help to reach the top: Samso by shapeshifting to a giant lizard, better suited to climbing, and Blue by simply being dragged to the top, battered by the winds. 
+
+Near the summit, the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>) make a final push through lightning and thunder, and finally attempt to dodge loose rocks that come flying down the mountain, dislodged by the storm. Adrik's stone sense give some warning, though ultimately he decides to simply absorb the blow of the rockslides, deflecting them out of the path of the less robust party members below. 
+
+We end as the party suddenly enters the quiet at the top of the mountain, at the eye of the storm. Standing a short distance away is a large domed building, clearly the entrance to something, the door smashed completely open. 
+
+### Events
+
+- Jun 29, 1752 DR, afternoon: Travel to Brelith and Dinia's sanctuary on the western slopes of the [Fiatara Mountains](<../../../gazetteer/northwest-coast/fiamatara-mountains/fiatara-mountains.md>), and reconnect.
+- Jun 30, 1752 DR - Jul 01, 1752 DR: Catch up with Brelith and Dinia, and rest and recover from the [Cairn Dor adventure](<great-library-session-notes-arc-5.md>). Learn that [Silverstorm](<../../../people/other-nonhumans/silverstorm.md>) is looking for the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>).
+- Jul 02, 1752 DR: Meet [Silverstorm](<../../../people/other-nonhumans/silverstorm.md>), and learn about [Zadkai](<../../../people/other-humans/zadkai.md>)'s return and the [Scouring Wind](<../../../groups/scouring-wind.md>), a group of air elementals and djinn who want to wipe humanity off the face of the earth. Agree to seek out [Airion's Secret Lair](<../../../gazetteer/northwest-coast/airion-s-secret-lair.md>). Travel on [Silverstorm](<../../../people/other-nonhumans/silverstorm.md>)'s back to the edge of [Tawir Forest](<../../../gazetteer/northwest-coast/tawir-forest.md>), and camp. 
+- Jul 03, 1752 DR, morning: _Wind Walk_ over the forest towards [Mount Graybane](<../../../gazetteer/northwest-coast/mount-graybane.md>). Forced out of _Wind Walk_ by the storm lingering over the mountain. Manage to struggle through, surviving wind, rain, and boulders, and arrive at the summit, where the entrance to [Airion's Secret Lair](<../../../gazetteer/northwest-coast/airion-s-secret-lair.md>) stands open. 

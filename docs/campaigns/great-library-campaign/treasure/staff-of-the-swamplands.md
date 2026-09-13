@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-09-13T13:45:21-04:00'
+lintVersion: '3.5'
 tags: [object]
-name: Staff of the Swamplands
-ancestry: lizardfolk
 typeOf: staff
 subTypeOf: magic
+ancestry: lizardfolk
 rarity: rare
+ddbLink: https://www.dndbeyond.com/magic-items/5427905-staff-of-the-swamplands
+name: Staff of the Swamplands
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
-ddbLink: https://www.dndbeyond.com/magic-items/5427905-staff-of-the-swamplands
+POV: modern
 title: Staff of the Swamplands
 ---
 # The Staff of the Swamplands
@@ -18,4 +22,8 @@ title: Staff of the Swamplands
 </div>
 
 
-The Staff of the Swamplands is a dark-wood magic staff recovered by the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>) from [Nymthrax's hoard](<nymthrax-s-hoard.md>) in the [Blackwater Fens](<../../../gazetteer/northern-sentinels/blackwater-fens.md>), and later carried by [Samso](<../../../people/pcs/silver-tempests/samso.md>). Nymthrax displayed it as the centerpiece of a collection of lizardfolk treasures. 
+The Staff of the Swamplands is a dark-wood magic staff recovered by the [Silver Tempests](<../../../people/pcs/silver-tempests/silver-tempests.md>) from [Nymthrax's hoard](<nymthrax-s-hoard.md>) in the [Blackwater Fens](<../../../gazetteer/northern-sentinels/blackwater-fens.md>), and later carried by [Samso](<../../../people/pcs/silver-tempests/samso.md>). Nymthrax displayed it as the centerpiece of a collection of lizardfolk treasures.
+
+
+
+

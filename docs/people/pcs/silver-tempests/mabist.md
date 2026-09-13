@@ -1,22 +1,28 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-09-13T13:45:21-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: fey
 subspecies: changeling
-name: Mabist
 gender: enby
 born: 1717
+name: Mabist
+pronunciation: MAY-bist
 affiliations:
 - {org: Silver Tempests}
 whereabouts:
 - {type: home, location: Feywild}
 - {type: home, start: 1748-08-22, location: Voltara}
+knownTo: [grli]
 dm_owner: player
 dm_notes: none
+POV: 1748
 title: Mabist
 hide_toc: true
 ---
 # Mabist
+:speaker:{ .middle } *(MAY-bist)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -59,4 +65,8 @@ Over the course of a month, Mabist stayed with Dinia, their training coming back
 	The queen was saddened to see one of her greatest warriors was reduced to a savage blood craving beast; Mabist had even changed their appearance. The queen only recognized her knight when they had  been knocked out. It seemed Mabist's bloodthirst was calmed and they reached at strange form of discomforting peace. For the queen, she only saw a husk of her former warrior, for she whipped Mabist's memory. In an attempt to return Mabist to their former self, she instead created a blank sheet of paper. For Mabist, this is where everything went dark.
 	
 	The queen decided it was best for Mabist to not rejoin the feywilds and instead find their own story. So they were dropped off unconscious in an unknown area near a commoner hut. From then on Mabist was rehabilitated by Dinia. 
+
+
+
+
 

@@ -21,7 +21,7 @@ title: Records of the Concordia Pyrae
 :speaker:{ .middle } *(kon-KOR-dee-ah PIE-ray)*  
 :octicons-info-24:{ .lg .middle } **A [Drankorian](<../../history/historical-realms/drankorian-empire.md>) historical record, written during the [Drankorian Era](<../../history/history-of-the-drankorian-empire.md>), by the [Concordia Pyrae](<../../groups/drankorian-societies/concordia-pyrae.md>)**  
 
-A collection of notes gathered by the ancient Drankorian society the [Concordia Pyrae](<../../groups/drankorian-societies/concordia-pyrae.md>), concerning the history of the [Circular Island](<../../gazetteer/drankorian-hinterland/circular-island.md>) and the society.
+A collection of notes gathered by the ancient Drankorian society the [Concordia Pyrae](<../../groups/drankorian-societies/concordia-pyrae.md>), concerning the history of the [Circular Island](<../../gazetteer/drankorian-hinterland/circular-island.md>) and the society. 
 
 
 

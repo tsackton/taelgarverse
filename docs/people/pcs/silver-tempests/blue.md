@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-09-13T13:45:21-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 subspecies: plane-touched, fiendish
 ancestry: Isinguer
-name: Blue
 gender: female
 born: 1622
+name: Blue
 affiliations:
 - {org: Silver Tempests}
 whereabouts:
 - {type: home, end: 1644, location: Maseau}
 - {type: away, start: 1644, end: 1746, location: Plaguelands}
 - {type: away, start: 1746, end: 9999, location: Chardonian Empire}
+knownTo: [grli]
 dm_owner: player
 dm_notes: none
+POV: 1748
 title: Blue
 hide_toc: true
 ---
@@ -59,3 +63,7 @@ hide_toc: true
 ### Chronology of Blue's Life
 - Jul 03, 1748 DR: Blue heads north towards [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>) and the frontier
 - Aug 30, 1748 DR: Blue finds a dead messenger on the road north of [Lake Valandros](<../../../gazetteer/greater-chardon/lake-valandros.md>), with a letter about the [Umbral Covenant](<../../../groups/umbral-covenant.md>) addressed to the [Silver Tempests](<silver-tempests.md>) in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), and decides to deliver the message herself
+
+
+
+

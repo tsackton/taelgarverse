@@ -7,14 +7,14 @@ subTypeOf:
 affiliations:
 - {org: Bhishma, type: primary}
 ancestry: Dunmari
-whereabouts: Garamjala Desert
+whereabouts: Nashtkar
 dm_notes: important
 dm_owner: tim
 title: Monastery of Bhishma
 ---
 # The Monastery of Bhishma
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Dunmari](<../realms/dunmar/dunmar.md>) monastery of [Bhishma](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>) in the [Garamjala Desert](<../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../drankorian-hinterland/desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../../drankorian-hinterland/drankorian-hinterland.md>)  
+-    :octicons-location-24:{ .lg .middle } A [Dunmari](<../realms/dunmar/dunmar.md>) monastery of [Bhishma](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>) in [Nashtkar](<../nashtkar.md>), [Greater Dunmar](<../greater-dunmar.md>)  
 </div>
 
 

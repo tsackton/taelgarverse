@@ -21,6 +21,8 @@ title: The Seams Between Worlds
 
 *The Seams Between Worlds* is [Ishara Venn](<../../people/historical-figures/ishara-venn.md>)'s systematic study of planar connections, especially [elemental vortexes](<../../cosmology/planar-concepts/elemental-vortex.md>). Ishara defines an elemental vortex as a temporary locus of connection created when a nearly pure representation of one of the Five Fundamental Energies draws an Energy Realm near to the [Material Plane](<../../cosmology/material-plane.md>).
 
+Though many planar geographers consider this work to be a fringe treatise of little value, [Emyr of Tafolwern](<../../people/historical-figures/emyr-of-tafolwern.md>) used the ideas Ishara developed in _The Seams Between Worlds_ as the starting point for his broader theory of planar upwellings.
+
 
 
 

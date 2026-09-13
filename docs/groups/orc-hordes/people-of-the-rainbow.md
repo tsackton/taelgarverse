@@ -21,7 +21,7 @@ title: People of the Rainbow
    :octicons-info-24:{ .lg .middle } An [orc](<../../creatures/species/orcs.md>) clan  
    :material-calendar: Founded DR 843 (907 years ago)  
    :octicons-location-24:{ .lg .middle } Founded in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
-    :octicons-location-24:{ .lg .middle } Based in [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../gazetteer/drankorian-hinterland/desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../../gazetteer/drankorian-hinterland/drankorian-hinterland.md>)  
+    :octicons-location-24:{ .lg .middle } Based in [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Drankorian Hinterland](<../../gazetteer/drankorian-hinterland/drankorian-hinterland.md>)  
 </div>
 
 

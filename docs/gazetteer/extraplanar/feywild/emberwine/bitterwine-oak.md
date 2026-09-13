@@ -14,7 +14,7 @@ title: Bitterwine Oak
 # The Bitterwine Oak
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A fey portal in [Emberwine](<emberwine.md>), the [Feywild](<../../../../cosmology/feywild.md>), [Multiverse](<../../../../cosmology/multiverse.md>)  
-    :octicons-location-24:{ .lg .middle } A fey portal in the [Garamjala Desert](<../../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Desolation of Cha'mutte](<../../../drankorian-hinterland/desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../../../drankorian-hinterland/drankorian-hinterland.md>)  
+    :octicons-location-24:{ .lg .middle } A fey portal in the [Garamjala Desert](<../../../drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), the [Drankorian Hinterland](<../../../drankorian-hinterland/drankorian-hinterland.md>)  
 </div>
 
 

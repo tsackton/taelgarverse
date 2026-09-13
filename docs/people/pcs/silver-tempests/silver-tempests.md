@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/gameupdate/gl]
+lintedAt: '2026-09-13T13:45:21-04:00'
+lintVersion: '3.5'
 displayDefaults: {startStatus: Formed, partOf: '', linkText: by, ltPerson: by}
+tags: [group, status/gameupdate/gl]
 typeOf: adventuring party
 created: 1747-04-04
+name: Silver Tempests
 dm_owner: tim
 dm_notes: none
+POV: 1748
 title: Silver Tempests
 ---
 # The Silver Tempests
@@ -35,3 +39,6 @@ The Silver Tempests traveled with three other adventurers in the past:
 - [Scordith](<scordith.md>), a human sorcerer, who briefly joined the Silver Tempests on a few early quests;
 - [Aglath](<aglath.md>), a stoneborn warrior, who was born far away, and left to find his kin in the [Sentinels](<../../../gazetteer/sentinel-range.md>) before turning to a life of crime;
 - [Alton](<alton.md>), a halfling rogue and proprietor of a dive bar outside [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) known for offering recreational axe throwing to its patrons. Alton was originally hired by [Lyra](<../../chardonians/lyra.md>) and traveled briefly with the Silver Tempests in their early days, but left her service and traveled alone for some time before rejoining the group in the [Goldpeak Mines](<../../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>).
+
+
+

@@ -38,3 +38,4 @@ hide_toc: true
 She has also taken on the role of [Arheste](<arheste.md>)'s caretaker, and often visits her, soothing her injuries as best she can. 
 
 She is friendly and helpful, and especially loves to talk with anyone who shares her fascination with the magic of growing things. 
+

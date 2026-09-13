@@ -17,7 +17,7 @@ title: The Song of the Eternal Earth
 # The Song of the Eternal Earth
 :octicons-info-24:{ .lg .middle } **A [Dwarven](<../../creatures/species/dwarves.md>) saga**  
 
-*The Song of the Eternal Earth* is a revered dwarven saga describing the [Elemental Plane of Earth](<../../cosmology/energy-realms/elemental-plane-of-earth.md>).
+*The Song of the Eternal Earth* is a revered dwarven saga describing the [Elemental Plane of Earth](<../../cosmology/energy-realms/elemental-plane-of-earth.md>). The saga depicts a realm of endless stone, riddled with caverns of all sizes, in which crystal formations in many hues reflect a sunless sky; though the meaning of this phrase, which recurs frequently in the work, is much debated, most scholars doubt that it describes a literal surface.
 
 
 

@@ -18,19 +18,6 @@ Sources:
 - [People/Halflings/Dee Wildcloak](<people/halflings/dee-wildcloak.md>) — established: The chronology records Fausto's funding, the three travelers' removal of Hralgar's Eyes and the Binding Stones, Hralgar's awakening, and Alban's death.
 - [People/Giants/Hralgar](<people/giants/hralgar.md>) — established: The article confirms that Dee, Dain, and Alban partly awakened Hralgar and that Alban died in the tower.
 
-#### [People/Chardonians/Claudio](<people/chardonians/claudio.md>)
-
-Benefit: Adds the distinctive established fact that makes Claudio more than an absent-family connector while preserving the unresolved origin of the stone.
-
-Copy-paste-ready statement:
-
-> Before leaving Luminatia, Claudio kept a sending stone in his study. In DR 1749, his young son Lucius used it to speak with the Dunmar Fellowship; how Claudio obtained the stone is not established.
-
-Sources:
-
-- [Campaigns/Dunmari Frontier Campaign/Session Notes/Session 86 (DuFr)](<campaigns/dunmari-frontier-campaign/session-notes/session-86-dufr.md>) — established: Lucius says his father left about a year earlier and that he found the sending stone among Claudio's belongings.
-- [People/Chardonians/Lucius](<people/chardonians/lucius.md>) — established: Lucius's reference note says he found the stone in his father's study after Claudio abandoned the family.
-
 #### [People/Chardonians/Domitia Auratan](<people/chardonians/domitia-auratan.md>)
 
 Benefit: Adds the family relationship that explains Mitus's upbringing and succession context without expanding into broader Auratan history.

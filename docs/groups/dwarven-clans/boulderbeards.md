@@ -23,7 +23,7 @@ Outside of dwarven circles, they are best known through [Adrik Boulderbeard](<..
 
 ###  Members
 
-| Person                                 | Info               | Current Location                                        |
-| -------------------------------------- | ------------------ | ------------------------------------------------------- |
-| [Magran Boulderbeard](<../../people/dwarves/magran-boulderbeard.md>) (he/him)       | [dwarf](<../../creatures/species/dwarves.md>) | [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) (January 1st, 1750)        |
-| [Adrik Boulderbeard](<../../people/pcs/silver-tempests/adrik.md>) (he/him) | [dwarf](<../../creatures/species/dwarves.md>) | the [Tempest Towers](<../../campaigns/great-library-campaign/tempest-towers.md>), [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) (January 1st, 1750) |
+| Person                                         | Info               | Current Location                                        |
+| ---------------------------------------------- | ------------------ | ------------------------------------------------------- |
+| [Magran Boulderbeard](<../../people/dwarves/magran-boulderbeard.md>) (he/him)               | [dwarf](<../../creatures/species/dwarves.md>) | [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>) (January 1st, 1750)        |
+| [Adrik Boulderbeard](<../../people/pcs/silver-tempests/adrik.md>) (he/him AH-drik) | [dwarf](<../../creatures/species/dwarves.md>) | the [Tempest Towers](<../../campaigns/great-library-campaign/tempest-towers.md>), [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) (January 1st, 1750) |

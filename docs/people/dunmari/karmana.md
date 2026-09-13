@@ -27,12 +27,12 @@ hide_toc: true
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
-    Based in the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
+    Based in the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 11th, 1748 in the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 11th, 1748 in the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>)  
 
 
 

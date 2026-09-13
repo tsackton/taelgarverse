@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl]
+lintedAt: '2026-09-13T13:45:21-04:00'
+lintVersion: '3.5'
+tags: [person]
 species: dwarf
-name: Brelith Shockstone
 gender: male
 born: 1707
+name: Brelith Shockstone
+pronunciation: BREH-lith
 affiliations:
 - {type: primary, org: Shockstones}
 - {org: Silver Tempests}
@@ -13,12 +16,15 @@ whereabouts:
 - {type: home, location: Zarkandur}
 - {type: home, start: 1747-04-08, end: 1747-10-06, location: Voltara}
 - {type: home, start: 1747-10-06, location: Tempest Towers}
+knownTo: [grli]
 dm_owner: player
 dm_notes: none
+POV: 1740s
 title: Brelith Shockstone
 hide_toc: true
 ---
 # Brelith Shockstone
+:speaker:{ .middle } *(BREH-lith)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -46,3 +52,6 @@ Spurred by this encounter to seek greater glories, the old priest told Brelith t
 - Jul 11, 1745 DR: Brelith meets [Cato Stormtouched](<../../other-humans/cato-stormtouched.md>) on the road in the [Chasa River Valley](<../../../gazetteer/greater-chardon/chardonian-empire/chasa-river-valley/chasa-river-valley.md>), and begins traveling with him. 
 - Dec 09, 1746 DR: Brelith saves [Cato Stormtouched](<../../other-humans/cato-stormtouched.md>) from a bandit ambush in the [Myraeni Gap](<../../../gazetteer/greater-dunmar/myraeni-gap.md>). 
 - Dec 14, 1746 DR: Brelith parts ways with [Cato Stormtouched](<../../other-humans/cato-stormtouched.md>) and turns towards [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) to join the [Great Library](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>)
+
+
+

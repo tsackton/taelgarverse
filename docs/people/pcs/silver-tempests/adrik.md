@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl]
+lintedAt: '2026-09-13T13:45:21-04:00'
+lintVersion: '3.5'
+tags: [person]
 species: dwarf
-name: Adrik Boulderbeard
 gender: male
 born: 1660
+name: Adrik Boulderbeard
+pronunciation: AH-drik
 affiliations:
 - {type: primary, org: Boulderbeards}
 - {org: Silver Tempests}
@@ -13,12 +16,15 @@ whereabouts:
 - {type: home, location: Nardith}
 - {type: home, start: 1747-04-08, end: 1747-10-06, location: Voltara}
 - {type: home, start: 1747-10-06, location: Tempest Towers}
+knownTo: [grli]
 dm_owner: player
 dm_notes: none
+POV: 1740s
 title: Adrik Boulderbeard
 hide_toc: true
 ---
 # Adrik Boulderbeard
+:speaker:{ .middle } *(AH-drik)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -47,3 +53,7 @@ Adrik, convinced this was the act of [Morgana Stoneclaw](<../../other-nonhumans/
 - 1675 DR: Adrik reveals [Morgana Stoneclaw](<../../other-nonhumans/morgana-stoneclaw.md>)'s true form and she is driven off by his parents and the village
 - 1746 DR: Pestilence destroys [Narazara](<../../../gazetteer/greater-dunmar/realms/nardith/narazara.md>)
 - Nov 17, 1746 DR: Adrik leaves home to seek his fortune and revenge
+
+
+
+

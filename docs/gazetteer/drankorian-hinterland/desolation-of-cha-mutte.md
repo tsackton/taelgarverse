@@ -2,39 +2,27 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-23T12:50:50-04:00'
 lintVersion: '3.5'
-tags: [place, status/check/errors, status/check/lint]
+tags: [place]
 typeOf: region
 name: Desolation of Cha'mutte
-pronunciation: desolation of shah-MUTT
+aliases: [Drankorian Wastes]
+pronunciation: shah-MUTT
 whereabouts: Drankorian Hinterland
 dm_owner: tim
-dm_notes: important
-POV: modern
+dm_notes: none
+POV: 1748
 title: Desolation of Cha'mutte
 ---
 # The Desolation of Cha'mutte
-:speaker:{ .middle } *(desolation of shah-MUTT)*  
+:speaker:{ .middle } *(shah-MUTT)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A region in the [Drankorian Hinterland](<drankorian-hinterland.md>)  
 </div>
 
 
+The Desolation of Cha'mutte, often called the Drankorian Wastes, is a large area of magically cursed and dangerous land, corrupted as a result of the events surrounding the [Fall of Drankor](<../../events/1000s/1059/fall-of-drankor.md>) in DR 1059. Typically, the Desolation of Cha'mutte refers to the area around the ruined city of [Drankor](<drankor/drankor.md>) itself, though the borders of this poorly explored region are ill-defined. Rumors through the years have suggested a wide range of dangers, from [fetid, undead-haunted swamps](<../../campaigns/dunmari-frontier-campaign/letters-and-notes/report-of-the-aagiri-to-samraat-dasa.md>), to arid deserts, to humid jungles full of overgrown ruins, to cursed and ruined cities haunted with [restless dead](<../../campaigns/dunmari-frontier-campaign/letters-and-notes/letter-from-govir.md>) and consumed by a pervasive aura of fear. 
 
-
-The Desolation of Cha'mutte is a large area that is magically corrupted as a result of the [First Plague](<../../events/1000s/1059/first-plague.md>) and the [Great War](<../../events/1500s/great-war.md>). 
-
-The Desolation of Cha'mutte includes:
-
-- The area around the ruined city of [Drankor](<drankor/drankor.md>) itself, destroyed during the chaos of the [First Plague](<../../events/1000s/1059/first-plague.md>), and now deeply cursed and unexplored.  
-- The [Garamjala Desert](<garamjala-plateau/garamjala-desert.md>), on a high, arid plateau spanning the [Kharja](<../greater-dunmar/kharja.md>) and [Istaros](<../major-rivers/istaros-watershed/istaros.md>) river valleys, and including the orc realm of [Xurkhaz](<../upper-istaros/xurkhaz/xurkhaz.md>).
-- The [Nashtkar](<../greater-dunmar/nashtkar.md>), the blasted plains, north of the [Garamjala](<garamjala-plateau/garamjala-desert.md>) and east of [Dunmar](<../greater-dunmar/realms/dunmar/dunmar.md>), a land of rocky canyons, twisted hills, and little water, on the western edge of the [Plaguelands](<../upper-istaros/plaguelands.md>)
-- The [Plaguelands](<../upper-istaros/plaguelands.md>), in the [Istaros Watershed](<../major-rivers/istaros-watershed/istaros-watershed.md>), centered on the ruined city of [Isingue](<../upper-istaros/isingue.md>).
-
-While little of the desolation is readily habitable, the areas around the ruined cities of Drankor and Isingue are widely perceived as the most dangerous and cursed. The [Garamjala](<garamjala-plateau/garamjala-desert.md>), which runs broadly west to east, well north of Drankor and well south of Isingue, is dry and hot but significantly less magically dangerous, and is home to a few brave or foolhardy souls.  
-
-
-
-
+The truth of these rumors is unclear. 
 
 
 

@@ -10,7 +10,7 @@ title: Tower of the Colossus
 ---
 # The Tower of the Colossus
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A ruined tower in the [Garamjala Desert](<garamjala-desert.md>), the [Desolation of Cha'mutte](<../desolation-of-cha-mutte.md>), the [Drankorian Hinterland](<../drankorian-hinterland.md>)  
+-    :octicons-location-24:{ .lg .middle } A ruined tower in the [Garamjala Desert](<garamjala-desert.md>), the [Drankorian Hinterland](<../drankorian-hinterland.md>)  
 </div>
 
 

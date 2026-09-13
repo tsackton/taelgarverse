@@ -1,22 +1,28 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl]
+lintedAt: '2026-09-13T13:45:21-04:00'
+lintVersion: '3.5'
+tags: [person]
 species: lizardfolk
-name: Samso
 gender: male
 born: 1716
+name: Samso
+pronunciation: SAHM-soh
 affiliations:
 - {org: Silver Tempests}
 whereabouts:
 - {type: home, location: Urkabi}
 - {type: home, start: 1747-04-08, end: 1747-10-06, location: Voltara}
 - {type: home, start: 1747-10-06, location: Tempest Towers}
+knownTo: [grli]
 dm_owner: player
 dm_notes: none
+POV: 1747
 title: Samso
 hide_toc: true
 ---
 # Samso
+:speaker:{ .middle } *(SAHM-soh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -44,3 +50,7 @@ After many years with no sign of his family, and nothing but silence from the sp
 - Dec 17, 1746 DR: Samso leaves home to seek information
 - Jan 01, 1747 DR: Samso reaches [Yeraad Marshes](<../../../gazetteer/greater-chardon/yeraad-marshes.md>)
 - Jan 19, 1747 DR: Samso leaves [Yeraad Marshes](<../../../gazetteer/greater-chardon/yeraad-marshes.md>) for [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), having failed to find answers among his lizardfolk kin
+
+
+
+
