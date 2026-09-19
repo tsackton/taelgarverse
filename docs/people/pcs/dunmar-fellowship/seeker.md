@@ -25,7 +25,13 @@ hide_toc: true
 </div>
 
 
-![Seeker](/taelgarverse/assets/seeker.webp){align="right"; width="400"}
+!!! image taelgar-image taelgar-image--aside inline end taelgar-image--align-right taelgar-image--size-standard " "
+	![Seeker Writing Ikrams Courtyard V1](/taelgarverse/assets/seeker-writing-ikrams-courtyard-v1.webp)
+	*Seeker, writing in his notebook in Ikram's, as our campaign begins.*
+
+
+
+
 
 ## Pre-Campaign Events
 

@@ -25,8 +25,9 @@ hide_toc: true
 </div>
 
 
-![Kenzo Full](/taelgarverse/assets/kenzo-full.webp)
-
+!!! image taelgar-image taelgar-image--aside inline end taelgar-image--align-right taelgar-image--size-standard " "
+	![Kenzo Intro Desert Traveler](/taelgarverse/assets/kenzo-intro-desert-traveler.webp)
+	*Kenzo approaches Karawa as our campaign begins.*
 ## Pre-Campaign Events
 
 - Mar 11, 1748 DR: Kenzo leaves the Lakan Monastery at Tokra, heading for Karawa in search of answers about his dreams, and the jade fragment he carries.

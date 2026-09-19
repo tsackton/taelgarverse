@@ -26,8 +26,9 @@ hide_toc: true
 </div>
 
 
-![Riswynn](/taelgarverse/assets/riswynn.png)
-
+!!! image taelgar-image taelgar-image--aside inline end taelgar-image--align-right taelgar-image--size-standard " "
+	![Riswynn Intro Ikrams Courtyard](/taelgarverse/assets/riswynn-intro-ikrams-courtyard.webp)
+	*Riswynn meets the Dunmar Fellowship at Ikram's.*
 ## Pre-Campaign Events
 - Mar 10, 1748 DR: Riswynn leaves Tharn Todar, heading north for Raven's Hold
 - Mar 24, 1748 DR: Riswynn leaves Askandi, heading for Karawa.

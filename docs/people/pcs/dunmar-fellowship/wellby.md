@@ -27,8 +27,9 @@ hide_toc: true
 </div>
 
 
-![Welby Full](/taelgarverse/assets/welby-full.webp)
-
+!!! image taelgar-image taelgar-image--aside inline end taelgar-image--align-right taelgar-image--size-standard " "
+	![Wellby Outside Ikrams Dunmar Map](/taelgarverse/assets/wellby-outside-ikrams-dunmar-map.webp)
+	*Wellby and his maps.*
 ## Pre-Campaign Events
 
 - Aug 02, 1747 DR: Wellby leaves [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), heading south. Spends some time wandering.

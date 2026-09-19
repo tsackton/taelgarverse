@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image]
+tags: [person]
 campaignInfo:
 name: Delwath
 born: 1472
@@ -35,7 +35,12 @@ hide_toc: true
 
 
 
-![Delwath Portrait](/taelgarverse/assets/delwath-portrait.webp)
+!!! image taelgar-image taelgar-image--aside inline end taelgar-image--align-right taelgar-image--size-standard " "
+	![Delwath Intro Teahouse Threshold](/taelgarverse/assets/delwath-intro-teahouse-threshold.webp)
+	*Delwath in Karawa as our campaign begins.*
+
+
+
 
 ## Pre-Campaign Events
 
