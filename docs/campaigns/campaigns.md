@@ -16,7 +16,7 @@ Start with [Current Games](<current-games.md>) for active games and recent adven
 - [Addermarch Campaign](<addermarch-campaign/addermarch-campaign.md>), following the [Addermarch Mercenaries](<../people/pcs/addermarch/addermarch-mercenaries.md>) in DR 1715.
 - [Great Library Campaign](<great-library-campaign/great-library-campaign.md>), following the [Silver Tempests](<../people/pcs/silver-tempests/silver-tempests.md>) around [Voltara](<../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) and the northern provinces of Chardon.
 - [Mawar Adventures](<mawar-adventures/mawar-adventures.md>), episodic adventures around [Hamri](<../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) and the [Mawakel Peninsula](<../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>).
-- Dragonets, following Heska, Sculpit, Little Tony, and Zeno on the [Circular Island](<../gazetteer/drankorian-hinterland/circular-island.md>).
+- [Dragonets](<dragonets/dragonets-campaign.md>), following Heska, Sculpit, Little Tony, and Zeno on the [Circular Island](<../gazetteer/drankorian-hinterland/circular-island.md>).
 
 The Cleenseau game is run by Mike Sackton and is published separately at [Mike's TaelgarVerse](https://msackton.github.io/taelgarverse1720/).
 

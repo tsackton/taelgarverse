@@ -18,7 +18,7 @@ A series of episodic stories, also run by Tim:
 
 A campaign run by David Kong:
 
-- Dragonets: the story of Heska, Sculpit, Little Tony, and Zeno, four dragonets from the [Circular Island](<../gazetteer/drankorian-hinterland/circular-island.md>).
+- [Dragonets](<dragonets/dragonets-campaign.md>): the story of Heska, Sculpit, Little Tony, and Zeno, four dragonets from the [Circular Island](<../gazetteer/drankorian-hinterland/circular-island.md>).
 
 And a long-running campaign run by Mike Sackton:
 

@@ -96,6 +96,10 @@ search:
                 - [Azar's Tale](campaigns/mawar-adventures/notes/azar-s-tale.md)
                 - [The Ciphered Scroll](campaigns/mawar-adventures/notes/the-ciphered-scroll.md)
                 - [Wazir's Gloss on the Ciphered Scroll](campaigns/mawar-adventures/notes/wazir-s-gloss-on-the-ciphered-scroll.md)
+        - [Dragonets](campaigns/dragonets/dragonets-campaign.md)
+            - Session Notes
+                - [Dragonets — Session 1](campaigns/dragonets/session-notes/dragonets-session-01.md)
+            - [The Shared Vision of Home](campaigns/dragonets/the-shared-vision-of-home.md)
         - [Lost in the Feywild](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild.md)
             - [Player Characters](people/pcs/other-pcs/tollen-misfits/tollen-misfits.md)
                 - [Ayveen](people/pcs/other-pcs/tollen-misfits/ayveen.md)

@@ -1,0 +1,136 @@
+---
+headerVersion: 2023.11.25
+tags: [session-note]
+websiteSessionView: zoomable
+campaign: Dragonets
+sessionNumber: 1
+realWorldDate: 2026-09-17
+DR: unknown
+DR_end: unknown
+players: [Heska, Sculpit, Little Tony, Zeno]
+companions: []
+descTitle: Eight Homes, One Family
+name: Dragonets — Session 1
+POV: undated
+sessionKey: dragonets-session-1
+session-template: dragonets-template.md
+title: Dragonets — Session 1
+---
+# Dragonets — Session 1
+
+!!! info "Eight Homes, One Family"
+	*Featuring: Heska, Sculpit, Little Tony, and Zeno*
+	*DM: David Kong*
+	*On Earth: Thursday, September 17, 2026*
+	*[Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>): Temple grounds, Wanderer's hand, and Dark Lady*
+
+During the Jubilee, Heska, Sculpit, Little Tony, and Zeno meet and experience disasters and triumphs alike. After a quiet dinner together, mysterious events draw them to the statue of [the Wanderer](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>), and a strange egg.
+
+## Highlights
+
+**Zeno's winning verse celebrates his crew:** 
+<audio controls>
+    <source src="/taelgarverse/assets/session-audio/dragonets-session-1/dragonets-session-1-audio-003.m4a" type="audio/mp4">
+</audio>
+
+## People and Places
+
+### NPCs
+
+- Xena: Sculpit's performer and Zeno's clutchmate.
+- Zare: Zeno's tailor and a collector.
+- Roska: Zeno's friendly rap-battle rival.
+
+### Locations
+
+- [Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>) (island in the [Sea of Storms](<../../../gazetteer/drankorian-hinterland/sea-of-storms.md>)): Storm-ringed perfectly [circular island](<../../../gazetteer/drankorian-hinterland/circular-island.md>), home of eight dragonet communities. Session context includes: Temple grounds; Wanderer's hand; Dark Lady.
+- Temple grounds: The abandoned temple at the center of the island, where the dragonets gather for the Jubilee. Session context includes: Festival grounds and rehearsal area; Zare’s stall; temple overlook.
+- Wanderer's hand: [The Wanderer](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>) statue’s outstretched hand, a quiet refuge for Tony and Sculpit.
+- Dark Lady: The statue and dragonet neighborhood where Heska and Zeno spend time before the Jubilee.
+
+## Narrative
+
+
+<div class="taelgar-session-zoom" data-taelgar-session-zoom data-session-key="dragonets-session-1" data-transcript-src="/taelgarverse/assets/session-zoom/dragonets-session-1.json" data-zoom="short">
+  <div class="taelgar-session-zoom__controls" aria-label="Session summary zoom level">
+    <div class="taelgar-session-zoom__button-group" role="group" aria-label="Zoom level">
+      <button type="button" data-set-session-zoom="short" aria-pressed="true">Short</button>
+      <button type="button" data-set-session-zoom="long" aria-pressed="false">Long</button>
+      <button type="button" data-set-session-zoom="transcript" aria-pressed="false">Transcript</button>
+    </div>
+  </div>
+</div>
+
+### The Dragonets of the Circular Island
+
+<div class="taelgar-session-zoom__beat" data-session-zoom-beat data-session-zoom-key="dragonets-session-1" data-zoom="short">
+  <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>On the <a href="/taelgarverse/gazetteer/drankorian-hinterland/circular-island/">Circular Island</a>, Little Tony, Sculpit, Heska, and Zeno prepare for the Jubilee, the annual celebration of dragonet culture.</p></div>
+  <div class="taelgar-session-zoom__level" data-zoom-level="long"><p>We begin on the <a href="/taelgarverse/gazetteer/drankorian-hinterland/circular-island/">Circular Island</a>, home to eight dragonet communities, each sheltered by an immense statue, whose original purpose has long been forgotten by the dragonets who now live among them. It is just before the annual Jubilee, the yearly celebration of dragonet culture.</p>
+<p>On <a href="/taelgarverse/gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer/">the Wanderer</a>&#x27;s outstretched hand, Little Tony and Sculpit are trying to find a moment of peace and quiet. This is one of the few places where Little Tony can escape the incessant demands of talkative objects, which speak to him nearly everywhere else on the island. His former familiar, Glenda the Seagull, is particularly troubling, as she has fallen in love with him and won&#x27;t stop bothering him. Sculpit, happier coaching performers than appearing before an audience himself, has a different concern: finding costume materials for his star client, Xena, performing in the opening show of the Jubilee.</p>
+<p>Elsewhere, in the Dark Lady’s neighborhood, Zeno and Heska hang out, as they often do. Zeno tries out names for a future comedy club, a frequent topic of conversation, while Heska quietly practices pranks on Zeno. Heska often goes for long hunts over the ocean, and once brought back a massive fiddler crab, twice his size, with a beautiful shell patterned like rainbow waves. He has promised this to Zeno as decoration for the club, if only he could settle on a name.</p>
+<div class="taelgar-image-gallery taelgar-session-zoom__gallery" data-image-count="2"><figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-standard taelgar-image-gallery__item">
+  <img src="/taelgarverse/assets/campaign/dragonets-01-wanderer.webp" alt="A vast, weathered stone palm supports a small encampment above sunset clouds.">
+  <figcaption><a href="/taelgarverse/gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer/">The Wanderer</a>’s hand, a quiet refuge for Little Tony and Sculpit.</figcaption>
+</figure>
+<figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-standard taelgar-image-gallery__item">
+  <img src="/taelgarverse/assets/campaign/dragonets-01-dark-lady.webp" alt="Lantern-lit balconies and colorful awnings nestle against an immense stone statue overlooking the sea.">
+  <figcaption>The Dark Lady’s neighborhood, where Heska and Zeno spend their time.</figcaption>
+</figure></div></div>
+  <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-001"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
+</div>
+
+### The Diva's Rehearsal
+
+<div class="taelgar-session-zoom__beat" data-session-zoom-beat data-session-zoom-key="dragonets-session-1" data-zoom="short">
+  <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>The morning of the Jubilee, Xena, who Sculpit has been coaching, decides she must have a partner in her dance, and insists on a reluctant Heska joining her aerial duet. Sculpit coaches the duo, while Little Tony attends to costume materials, trading his prized pebble Edmund to Zare for jewelry to adorn Xena.</p></div>
+  <div class="taelgar-session-zoom__level" data-zoom-level="long"><p>The morning of the Jubilee, the dragonets gather at the center of the <a href="/taelgarverse/gazetteer/drankorian-hinterland/circular-island/">Circular Island</a>, at the long abandoned temple that now serves as the center of dragonet culture. Here, Sculpit finds his star performer Xena in a tizzy: she is dissatisfied with her costume, and determined to add a partner to her act. A singer and aerial acrobat with a decorated pot belly, she wants jewelry an audience can appreciate from a distance; Tony’s carefully distinguished pebbles will absolutely not do. Xena also confides to her clutchmate Zeno that she admires Heska, and wants to perform with him, though when she tells Sculpit she insists with was Zeno’s idea.</p>
+<p>When approached by this intimidating group, Heska resists the spotlight, but agrees to show off his flying skill somewhere quiet where people can&#x27;t see him. Sculpit sends an Unseen Servant ahead with a small object, giving Heska something to pursue. Heska initially misses with his whip and catches it with a claw; with Sculpit&#x27;s coaching, he tries again, and this time catches it cleanly, flips it into the air, and lands with it in hand. At this, Xena bursts from her hiding place in the bushes, delighted; in response, Heska’s silver highlights blush red. Sculpit sells Heska hard on the plan, and outlines an aerial routine in which Xena drops costume pieces for Heska to catch.</p>
+<p>Leaving the pair with Sculpit to rehearse, Zeno brings Tony to his tailor Zare, who has a festival stall nearby. LIstening closely, Tony can distinguish the gems’ individual voices, and they favor an eight-sided ruby to lead their ensemble. Zare recognizes Tony as the finder of a prizewinning butt-shaped pebble from the Great Find at last year&#x27;s Jubilee, and asks for it in exchange. Tony produces the pebble, named Edmund, and agrees to the exchange only after Zare solemnly promises to care for the precious butt-shaped rock. Zare, delighted, supplies five pieces of jewelry and several extras out of gratitude; the pair return with Xena’s costume ornaments.</p>
+<figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-standard">
+  <img src="/taelgarverse/assets/campaign/dragonets-01-jubilee-opening-ceremony.webp" alt="Dragonets gather among colorful stalls, banners, and terraced courtyards surrounding the central temple.">
+  <figcaption>The temple grounds on Jubilee day.</figcaption>
+</figure></div>
+  <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-002"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
+</div>
+
+### Triumphs and Disasters at the Jubilee
+
+<div class="taelgar-session-zoom__beat" data-session-zoom-beat data-session-zoom-key="dragonets-session-1" data-zoom="short">
+  <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>At the Jubilee, the performance begins strong, until Heska accidentally whips Xena, summons a fog cloud in embarrasment, and sneaks off into the crowd. Xena manages to rescue the act, despite Heska, and later Zeno dominates a rap contest against Roska with a tribute to his friends.</p></div>
+  <div class="taelgar-session-zoom__level" data-zoom-level="long"><p>At sunset, the Jubilee begins, and the dragonet communities from across the island gather around the temple, including Heska and Zeno, who are part of the Dark Lady&#x27;s community, and Little Tony and Sculpit, who gather with <a href="/taelgarverse/gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer/">the Wanderer</a> community. The elders, selected from each community, come together, placing eight blessed offerings in a circle, and reverently acknowledging the carefully arranged egg clutches that are part of the ritual of the Jubilee. The opening ceremony ends with the eldest Brightface elder raising a gem-topped staff and calling, “Eight homes, eight roads,” answered in unison by “One family.”</p>
+<p>Now, it is time for Xena and Heska&#x27;s opening act. Sculpit bolsters Xena, and Zeno hypes up Heska, and the part are off to a stunning beginning. But their duet soon unravels. Xena flies with dazzling aerial acrobatics, dropping the costume pieces designed to be caught by Heska, below. Heska, nervous and disoriented by the crowd, instead strikes Xena&#x27;s pot belly with his whip, clearly out of control. In deep embarrassment, he summons a Fog Cloud, and disappears. Xena, though, recovers spectacularly, rising from the fog in a triumphant pose that wins back the crowd. Sneaking through the crowd to return to Zeno, Heska blames his friends for drawing him into the performance, which he knew was a bad idea. Xena finds him afterward, stares daggers at him, but then adds that he is still cute and kisses his cheek, leaving Heska flustered.</p>
+<p>After the opening ceremony, the Jubilee spreads out, turning into a fair with games of all kinds. The group, wandering together, encounters Roska and his crew at the music and dance circle. Roska, Zeno’s friendly archrival, challenges him to a call-and-response contest. With Sculpit’s encouragement and inspiration, Zeno takes the opening round and drops a Sick Burn on Roska, undercutting his reply. Roska grows more theatrical in the second round, ignoring Heska&#x27;s comically failed attempts to distract him with clever prank. But Zeno is up to the challenge: he answers with a verse celebrating Heska, Tony, and Sculpit, earning him a decisive victory. Roska graciously concedes and embraces him as the cheering crowd draws the friends into the celebration.</p>
+<figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-standard">
+  <img src="/taelgarverse/assets/campaign/dragonets-01-roska.webp" alt="Roska performs with musicians beneath a colorful canopy before a cheering crowd at sunset.">
+  <figcaption>Roska and his crew bring their challenge to the Jubilee.</figcaption>
+</figure></div>
+  <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-003"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
+</div>
+
+### A Strange Silence Over Dinner
+
+<div class="taelgar-session-zoom__beat" data-session-zoom-beat data-session-zoom-key="dragonets-session-1" data-zoom="short">
+  <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>Retreating from the Jubilee, the friends gather for dinner. Strange sensations interrupt their meal and draw them to a strange glowing object on <a href="/taelgarverse/gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer/">the Wanderer</a>’s palm, which goes dark as they approach.</p></div>
+  <div class="taelgar-session-zoom__level" data-zoom-level="long"><figure class="taelgar-session-zoom__image taelgar-image taelgar-image--hero taelgar-image--size-standard">
+  <img src="/taelgarverse/assets/campaign/dragonets-01-jubilee-at-night.webp" alt="An elevated nighttime view of festival tents, glowing stages, and crowds beneath a star-filled sky.">
+  <figcaption>The Jubilee continues below as the friends retreat for dinner.</figcaption>
+</figure>
+<p>Moving away from the celebrations of the Jubilee, the friends settle on an overlook above the temple for dinner. Heska, seeking solitude, has flown into the forest to catch some trout, and arrives first, cooking the trout over a campfire and vowing never to perform again. Soon, Tony arrives with roasted lobsters, Zeno with fish meatballs, and Sculpit with an elaborate seafood dish. The companions talk and relax together over their meal. Sculpit regrets how little coaching he gave Heska, sure he could have done better; Zeno, as always, recounts his rap battle victory with glee and continues to debate the future of his comedy club.</p>
+<p>Their talk dies down when Little Tony addresses a passing cloud: suddenly, every object’s voice abruptly disappears from his hearing. At nearly the same time, Zeno hears an extraordinarily beautiful note inside his mind, Sculpit’s wild magic teleports him about twenty feet in <a href="/taelgarverse/gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer/">the Wanderer</a>’s direction, and Heska notices an unnatural and fast movement against the sky. While the festival continues normally below them, unaware of the strangeness, Heska, and then the others, fly up to investigate. Little Tony discovers that the silence has a direction; surprisingly, Zeno matches the direction with the inner note he hears. Watching from above, Heska sees their paths converging -- towards <a href="/taelgarverse/gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer/">the Wanderer</a>. The group departs, flying the hour&#x27;s journey to <a href="/taelgarverse/gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer/">the Wanderer</a>. As they approach, flying towrds a large glow above the statue’s outstretched palm, the glow dims and the strange effects seem to fade, but a dark, mysterious object remains. The party lands beside it, curious.</p></div>
+  <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-004"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
+</div>
+
+### The Egg, and Home
+
+<div class="taelgar-session-zoom__beat" data-session-zoom-beat data-session-zoom-key="dragonets-session-1" data-zoom="short">
+  <div class="taelgar-session-zoom__level" data-zoom-level="short"><p>The dark object turns out to be a strangely engraved egg, which draws them into a dying dragonet’s <a href="/taelgarverse/campaigns/dragonets/the-shared-vision-of-home/">vision of home</a>. The vision fades , leaving a lingering sense of home. We end as the scene fades, and Wanderer’s eyes shine blue.</p></div>
+  <div class="taelgar-session-zoom__level" data-zoom-level="long"><p>The object has the shape of an egg, but Heska’s knocking and probing reveal material unlike he has seen before: this is not familiar stone or metal, and there is no obvious seams or other ways to open it. It is, however, covered with engravings, which Sculpit recognizes as resembling patterns he sometimes sees near the various diverse ruins on the <a href="/taelgarverse/gazetteer/drankorian-hinterland/circular-island/">Circular Island</a>. Zeno, curious, uses his magic to try to listen to the egg&#x27;s thoughts, but detects nothing. Little Tony tries a welcome and a touch instead, receiving a single word in his mind: “home.” Hugging the egg brings him to tears as an overwhelming sense of belonging cascades over him. Heska touches it too, feels the same emotional pull, and nuzzles against it.</p>
+<p>Slowly, all four of the friends join the embrace. As they hug the egg together, eight points light up and their consciousnesses merge. They find themselves <a href="/taelgarverse/campaigns/dragonets/the-shared-vision-of-home/">in a vision</a>, experiencing the last breaths of an older purple dragonet, silvery fur and amethyst scales bloodied beneath a burning sky, one wing broken as distant lights go out. A light approaches and envelops the dying dragonet; then, the four friends become that light. As they merge with it, images of home pass through them: a man with a jade hand scratching chin and belly, familiar companions, and the <a href="/taelgarverse/gazetteer/drankorian-hinterland/circular-island/">Circular Island</a> itself. The vision continues, through impossible geometries, across the sea and through the storm, until they find themselves arriving at <a href="/taelgarverse/gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer/">the Wanderer</a>’s palm.</p>
+<p>The group awakens beside the darkening egg, momentarily feeling imbued with power, their talents transformed, though within minutes, the feeling fades, leaving the egg and its vision unexplained. Our session ends as the camera pulls back, a final view of <a href="/taelgarverse/gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer/">the Wanderer</a>’s eyes glowing bright blue.</p>
+<figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-large">
+  <img src="/taelgarverse/assets/campaign/dragonets-01-mysterious-egg.webp" alt="A luminous, patterned egg surrounded by golden geometric lines hangs above a colossal stone palm, with storms on the horizon.">
+  <figcaption>The mysterious egg on <a href="/taelgarverse/gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer/">the Wanderer</a>’s palm.</figcaption>
+</figure></div>
+  <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-005"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>
+</div>
+
