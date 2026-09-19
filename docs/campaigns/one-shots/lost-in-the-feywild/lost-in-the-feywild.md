@@ -8,7 +8,7 @@ title: Lost in the Feywild
 ---
 # Lost in the Feywild
 
-![Lost in the Feywild Hero](/taelgarverse/assets/lost-in-the-feywild-hero.webp)
+![Feywild Campaign Summary Hero](/taelgarverse/assets/campaign/feywild-campaign-summary-hero.webp)
 *Five travelers watch a hundred souls go home beneath the first stars of evening.*
 
 Lost in the Feywild is a seven-episode adventure about the [Tollen Misfits](<../../../people/pcs/other-pcs/tollen-misfits/tollen-misfits.md>), a strange inheritance, a Fey bargain, an ancient magical society, and a prisoner at the center of a mysterious house. What begins with a seemingly ordinary journey through [Varrow Forest](<../../../gazetteer/greater-sembara/sembara/northlands/varrow-forest.md>) to [Dandelion House](<../../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>) leads into the [Feywild](<../../../cosmology/feywild.md>), through an endlessly ending party, and into a house built to move its prisoner through space and time.
@@ -73,7 +73,7 @@ Lost in the Feywild is a seven-episode adventure about the [Tollen Misfits](<../
 
 ---
 
-![27th House Library](/taelgarverse/assets/27th-house-library.webp)
+![Feywild 05 27th House Library](/taelgarverse/assets/campaign/feywild-05-27th-house-library.webp)
 
 **[The 27th House](<../../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>):** A shifting prison of numbered rooms and a prisoner waiting in the dark.
 

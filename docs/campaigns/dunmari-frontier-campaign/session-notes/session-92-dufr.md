@@ -50,7 +50,7 @@ The next morning, the party met [Algerd](<../../../people/giants/algerd.md>), a 
 
 Departing [Isenborg](<../../../gazetteer/northern-green-sea/isenborg.md>) with [Algerd](<../../../people/giants/algerd.md>) in tow, the party journeyed east for two uneventful days. The afternoon of the third day, they spotted the rumblings of an ice worm, moving through the forest and bearing down on two elk. Suspecting the elk may be [Vargaldi](<../../../groups/cultures/vargaldi.md>), the party entered into battle. The ice worm proved to be a formidable foe, swallowed and nearly digesting [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), but was defeated. 
 
-![Ice Worm](/taelgarverse/assets/ice-worm.webp)
+![Dufr 078 Ice Worm](/taelgarverse/assets/campaign/dufr-078-ice-worm.webp)
 
 The confrontation not only tested the party's skill in battle, but also led to an unexpected alliance with the [Vargaldi](<../../../groups/cultures/vargaldi.md>), shape-shifting beings from a hidden village. The party's victory over the Ice Worm, marked by strategic combat and skillful extraction of the creature's valuable parts, forged a bond with the shape-shifters, who guiding the party to their concealed abode where a medley of villagers awaited, heralding the beginning of a new chapter in their adventure.
 

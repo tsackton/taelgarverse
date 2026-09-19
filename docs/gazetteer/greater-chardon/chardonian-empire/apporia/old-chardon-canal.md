@@ -2,13 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-23T15:25:54-04:00'
 lintVersion: '3.5'
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: waterway
 typeOfAlias: canal
 name: Old Chardon Canal
 whereabouts: Portalia
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: modern
 title: Old Chardon Canal
 ---
@@ -53,8 +53,6 @@ The Cut, between the Emerald Bay and Lake Stillwater, and the Narrows, between L
 Typically, northbound ships have the right of way between Emerald Bay and Lake Stillwater from midnight to noon, and southbound ships have the right of way from noon to midnight. Between Lake Stillwater and the Gulf of Chardon, ships can pass each other in Lake Cirelus. Typically to cover the northern stretch, ships travel in convoy, with one northbound convoy departing Stillwater Lake and one southbound convoy departing Fort Varian each day, timed so they pass at Lake Cirelus. 
 
 Thus, it is possible to make the transit in one day, by departing [Fort Ameli](<fort-ameli.md>) after midnight to arrive at Stillwater Lake in time to join the northbound convoy, or by pushing into the night from Stillwater Lake if traveling south. However, more typically ships overnight at Stillwater Lake, and make the transit in two days. 
-
-
 
 
 

@@ -10,7 +10,7 @@ gender: female
 whereabouts:
 - {type: home, location: Karawa}
 - {type: away, start: 1748-12-26, location: Central Dunmar}
-image: alesh-portrait.jpg
+image: '[[alesh-portrait.jpg]]'
 dm_notes: color
 dm_owner: tim
 title: Alesh

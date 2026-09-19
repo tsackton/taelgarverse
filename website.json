@@ -38,7 +38,7 @@
   "max_image_width": 1600,
   "max_image_height": 1600,
   "tile_map_assets": [
-    "assets/taelgar-world-map.png"
+    "taelgar-world-map.png"
   ],
   "map_tile_size": 512,
   "map_tile_format": "webp",

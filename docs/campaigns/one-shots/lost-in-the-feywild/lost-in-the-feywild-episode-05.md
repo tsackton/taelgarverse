@@ -114,7 +114,7 @@ The party links the prisoner to the fungal infection, rescues [Menestheus](<../.
 <p>Beyond a fabrication lab, the party finds another listening station. The prisoner&#x27;s looping voice in the <a href="/taelgarverse/campaigns/one-shots/lost-in-the-feywild/transcriptions-from-the-prisoner/#the-prisoner">transcriptions</a> addresses <a href="/taelgarverse/people/sembarans/lord-hulda/">Hulda</a> directly: the dragon-killer is bringing five friends, those friends are outside its room now, and they can hear it. The party realizes that the prisoner is describing them in the present.</p>
 <p>One door short of the prisoner, the party enters a vast library with books chained to its shelves. A human-sized porcelain and clockwork torso is anchored to a desk just inside. As the party enters, it raises its head, opens its eyes, and studies them.</p>
 <figure class="taelgar-session-zoom__image taelgar-image taelgar-image--hero taelgar-image--size-standard">
-  <img src="/taelgarverse/assets/27th-house-library.webp" alt="The library in the 27th House">
+  <img src="/taelgarverse/assets/campaign/feywild-05-27th-house-library.webp" alt="The library in the 27th House">
   <figcaption>The library in the <a href="/taelgarverse/gazetteer/extraplanar/feywild/twilight-kingdom/27th-house/">27th House</a></figcaption>
 </figure></div>
   <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-006"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>

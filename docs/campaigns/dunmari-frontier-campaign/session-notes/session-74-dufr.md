@@ -40,7 +40,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 ## Narrative
 We begin at dusk, at site of the crashed [airship](<../../../things/ships/vindristjarna.md>), as the party settles in for the night and begins to determine what is necessary to repair [Vindristjarna](<../../../things/ships/vindristjarna.md>). From the notes and information gleaned in [Hralgar](<../../../people/giants/hralgar.md>)'s library, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>), [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>), and [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) are able to determine that three steps are necessary to repair the ship: the construction of an [adamantine](<../../../things/materials/adamantine.md>) harness for the phasing stone; the construction of stone console to hold the phasing stone apparatus; and the construction of a gold and silver focus to channel the energy. 
 
-![Vindristjarna Crash Location](/taelgarverse/assets/vindristjarna-crash-location.webp)
+![Dufr 074 Vindristjarna Crash Location](/taelgarverse/assets/campaign/dufr-074-vindristjarna-crash-location.webp)
 
 Over the next two days, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) work to construct the [adamantine](<../../../things/materials/adamantine.md>) harness and the stone console to mount the phasing stone to, guided by [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)'s magic and the knowledge of both the [Dwarves](<../../../creatures/species/dwarves.md>). During these days of work, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) tend the camp and keep watch, and Delawth scrys, seeing [Kadmos](<../../../people/chardonians/kadmos.md>) and company marching in the desert to the south, in the heart of the [Garamjala](<../../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>). 
 
@@ -56,7 +56,7 @@ Meanwhile, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and [Risw
 
 The next day, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) continue to work on the channeling device, while [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) scries [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>) and sees [Grash](<../../../people/other-nonhumans/grash.md>)'s army leaving. 
 
-![Undead Orcs Marching](/taelgarverse/assets/undead-orcs-marching.webp)
+![Dufr 074 Undead Orcs Marching](/taelgarverse/assets/campaign/dufr-074-undead-orcs-marching.webp)
 
 That evening, the night of Nov 28th, [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) has a dream, a shadow hunter threatening that he is coming soon for them. 
 

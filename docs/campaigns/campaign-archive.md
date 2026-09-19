@@ -16,6 +16,7 @@ The most significant of these are:
 
 Past adventures also include:
 
+- [Lost in the Feywild](<one-shots/lost-in-the-feywild/lost-in-the-feywild.md>): a short adventure run by David Schwartz, in which the [Tollen Misfits](<../people/pcs/other-pcs/tollen-misfits/tollen-misfits.md>) uncover the mysteries of Dandelion House.
+- [Into the Chasm](<one-shots/into-the-chasm/into-the-chasm.md>): a short adventure run by Mike Sackton, which tells the story of the [Chasm Explorers](<../people/pcs/other-pcs/into-the-chasm/chasm-explorers.md>), a group of travelers who came together to escape from mysterious circumstances in the [Great Chasm](<../gazetteer/greater-sembara/zimkova/great-chasm.md>).
 - [Labyrinths of the Lost](<one-shots/labyrinths-of-the-lost/labyrinths-of-the-lost.md>): the story of the [Labyrinth Prisoners](<../people/pcs/other-pcs/labyrinth-prisoners/labyrinth-prisoners.md>), four prisoners caught in the machinations of a mad scientist in [Western Cymea](<../gazetteer/western-green-sea/realms/western-cymea.md>).
-- [Into the Chasm](<one-shots/into-the-chasm/into-the-chasm.md>): the story of the [Chasm Explorers](<../people/pcs/other-pcs/into-the-chasm/chasm-explorers.md>), a group of travelers who came together to escape from mysterious circumstances in the [Great Chasm](<../gazetteer/greater-sembara/zimkova/great-chasm.md>).
 - [Oskar in Tharn Todor](<one-shots/oskar-s-adventures/oskar-in-tharn-todor.md>): the story of [Oskar](<../people/pcs/other-pcs/oskar-s-companions/oskar.md>) and [Riswynn](<../people/pcs/dunmar-fellowship/riswynn.md>)'s adventures together, with a variety of companions, around [Tharn Todor](<../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). 

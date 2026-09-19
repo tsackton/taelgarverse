@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-23T12:50:50-04:00'
 lintVersion: '3.5'
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: waterway
 typeOfAlias: river
 name: Zurrua
@@ -20,9 +20,7 @@ title: Zurrua
 </div>
 
 
-
-
-
+The Zurrua is a minor river in [Portalia](<portalia.md>), west of the [Old Chardon Canal](<old-chardon-canal.md>). It is wooded for much of its length, with several lizardfolk settlements. 
 
 
 

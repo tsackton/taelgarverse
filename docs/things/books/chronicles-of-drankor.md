@@ -3,13 +3,14 @@ headerVersion: 2023.11.25
 lintedAt: '2026-08-25T22:52:37-04:00'
 lintVersion: '3.5'
 displayDefaults: {defArt: '', boxInfo: '<ancestry:AU> <typeof:AUn><(, by )author:x>', startStatus: Completed in}
-tags: [object, status/check/lint]
+tags: [object]
 typeOf: book
 typeOfAlias: historical chronicle
 ancestry: Chardonian
 created: 1209
 author: Cavarrio
 name: Cavarrio's Chronicles of Drankor
+pronunciation: kah-VAHR-ree-oh
 knownTo: [dufr]
 dm_owner: none
 dm_notes: none
@@ -17,6 +18,7 @@ POV: modern
 title: Cavarrio's Chronicles of Drankor
 ---
 # Cavarrio's Chronicles of Drankor
+:speaker:{ .middle } *(kah-VAHR-ree-oh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __A [Chardonian](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) historical chronicle, by [Cavarrio of Chardon](<../../people/historical-figures/cavarrio.md>)__  
    Completed in DR 1209 (541 years ago)  
@@ -25,7 +27,7 @@ title: Cavarrio's Chronicles of Drankor
 
 The *Chronicles of Drankor* is an extensive history and chronicle of the Drankorian Empire. It is typically considered the most comprehensive source on Drankorian chronology by the [Faculty of History](<../../groups/chardonian-organizations/faculty-of-history.md>), and is a standard part of their curriculum. It was written by the Chardonian scholar [Cavarrio](<../../people/historical-figures/cavarrio.md>) in DR 1209.
 
-The work is most famous for a long section, the *Annals of the Emperors*, which is considered a comprehensive list of the Emperors of Drankor and is reproduced below. Some scholars question whether it is entirely and completely accurate, as many of the sources used here have since been lost.
+The work is most famous for a long section, the *Annals of the Emperors*, which is considered a comprehensive list of the Emperors of Drankor and is reproduced below. Some scholars question whether it is entirely and completely accurate, as many of the sources used here have since been lost. 
 
 There is also a long discussion of the arc of Drankorian history, which Cavarrio divides into five distinct eras:
 
@@ -76,9 +78,6 @@ There is also a long discussion of the arc of Drankorian history, which Cavarrio
 | Apollyon (m) | Decline | Hkar |  | 1011 | 1059 |
 <!-- TBLFM: $7=($6-$5) -->
 <!-- TBLFM: $8=($5+4133) -->
-
-
-
 
 
 

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: '2026-08-23T15:25:54-04:00'
 lintVersion: '3.5'
 displayDefaults: {endStatus: mysteriously vanished in}
-tags: [place, status/gameupdate/gl, status/check/lint]
+tags: [place, status/gameupdate/gl]
 typeOf: settlement
 typeOfAlias: village
 ancestry: lizardfolk
@@ -26,8 +26,6 @@ title: Urkabi
 
 
 A small lizardfolk village on the [Apporian Peninsula](<apporia.md>), on the [Zurrua](<zurrua.md>). In DR 1737, all the inhabitants of the village, [save one](<../../../../people/pcs/silver-tempests/samso.md>), mysteriously vanished.  
-
-
 
 
 

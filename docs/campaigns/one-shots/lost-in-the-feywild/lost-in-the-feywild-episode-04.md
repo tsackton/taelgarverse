@@ -126,7 +126,7 @@ The party enters the [27th Room](<../../../gazetteer/extraplanar/feywild/twiligh
 <p>She says other rooms became infected, that white fibers colonize flesh and can eventually produce aggressive bodies with mouths in their chests, and that she is building a fungal golem body so she can leave safely and rebuild the order.</p>
 <p>She also says listeners claimed there is another door inside the <a href="/taelgarverse/gazetteer/extraplanar/feywild/twilight-kingdom/27th-house/">27th Room</a>, the prisoner may be a child kept from growing up or dying, and the glass key can unlock every locked door in the house, including the front door.</p>
 <figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-large">
-  <img src="/taelgarverse/assets/27th-house-fungal-room.webp" alt="The fungal garden of Kallipseis in the 27th House">
+  <img src="/taelgarverse/assets/campaign/feywild-04-fungal-library.webp" alt="The fungal garden of Kallipseis in the 27th House">
   <figcaption>The fungal garden of <a href="/taelgarverse/people/dwarves/kallipseis/">Kallipseis</a> in the <a href="/taelgarverse/gazetteer/extraplanar/feywild/twilight-kingdom/27th-house/">27th House</a></figcaption>
 </figure></div>
   <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-006"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>

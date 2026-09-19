@@ -94,17 +94,6 @@ Copy-paste-ready statement:
 
 Sources: recorded in the note's Lint block.
 
-#### [People/Chardonians/Camila](<people/chardonians/camila.md>)
-
-Destination: public
-
-The local planning note gives Camila an independent civic and religious role that could turn the visible relationship label into a useful person entry.
-
-Copy-paste-ready statement:
-
-> Camila is a devout abolitionist with contacts in Chardon's longstanding abolitionist movement.
-
-Sources: recorded in the note's Lint block.
 
 #### [People/Chardonians/Camila](<people/chardonians/camila.md>)
 

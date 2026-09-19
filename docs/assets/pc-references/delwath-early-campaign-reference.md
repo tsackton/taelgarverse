@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 title: Delwath Early Campaign Reference
 ---
 # Delwath — early-campaign character reference

@@ -16,9 +16,9 @@ A series of episodic stories, also run by Tim:
 
 - [Mawar Adventures](<mawar-adventures/mawar-adventures.md>): a series of episodic stories around [Hamri](<../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) and the [Mawakel Peninsula](<../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>), featuring rotating members of the [Adventurers of Mawar](<../people/pcs/mawar/adventurers-of-mawar.md>).
 
-A short adventure run by David Schwartz:
+A campaign run by David Kong:
 
-- [Lost in the Feywild](<one-shots/lost-in-the-feywild/lost-in-the-feywild.md>): in which the [Tollen Misfits](<../people/pcs/other-pcs/tollen-misfits/tollen-misfits.md>) uncover the mysteries of Dandelion House.
+- Dragonets: the story of Heska, Sculpit, Little Tony, and Zeno, four dragonets from the [Circular Island](<../gazetteer/drankorian-hinterland/circular-island.md>).
 
 And a long-running campaign run by Mike Sackton:
 

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-23T23:02:51-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/mike, status/check/lint]
+tags: [person, status/check/mike]
 species: lizardfolk
 ancestry:
 gender: female
@@ -28,10 +28,9 @@ hide_toc: true
 </div>
 
 
+
+
 ![Lizardfolk Unai](/taelgarverse/assets/lizardfolk-unai.webp){align="right"; width="320"}An herbalist and healer, teacher of [Gentza](<gentza.md>). She is well-known in the region, but unlike her student, does not usually sell her remedies or bring them to human markets. 
-
-
-
 
 
 

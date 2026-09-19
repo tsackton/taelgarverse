@@ -2,21 +2,23 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-25T09:29:24-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Chardonian
 born: 1720
 gender: female
 name: Camila
+pronunciation: kah-MEE-la
 whereabouts: Chalyte Levels
-knownTo: []
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
-POV: undated
+POV: 1749
 title: Camila
 hide_toc: true
 ---
 # Camila
+:speaker:{ .middle } *(kah-MEE-la)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -28,10 +30,7 @@ hide_toc: true
 </div>
 
 
-[Adina](<adina.md>)'s girlfriend. 
-
-
-
+[Adina](<adina.md>)'s girlfriend. She is a ardent supporter of banning the use of chalyte, and has long-standing ties to chalyte abolitionists. 
 
 
 

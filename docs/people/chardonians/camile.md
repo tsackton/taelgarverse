@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-25T09:29:24-04:00'
 lintVersion: '3.5'
-tags: [person, status/gameupdate/gl, status/check/lint]
+tags: [person]
 species: human
 ancestry: Chardonian
 born: 1736
@@ -10,6 +10,7 @@ gender: female
 campaignInfo:
 - {campaign: grli, type: met, date: 1748-09-18}
 name: Camile
+pronunciation: kah-MEEL
 whereabouts:
 - {type: home, start: 1748-09-18, location: Castrella}
 knownTo: [grli]
@@ -20,6 +21,7 @@ title: Camile
 hide_toc: true
 ---
 # Camile
+:speaker:{ .middle } *(kah-MEEL)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -34,9 +36,6 @@ hide_toc: true
 
 
 Camile is an orphan living in [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>). After fleeing trouble along the upper [Kedron](<../../gazetteer/greater-chardon/chardonian-empire/apporia/kedron.md>) with [Arturo](<arturo.md>), Camile found work and refuge at [The Whale's Spout](<../../gazetteer/greater-chardon/chardonian-empire/apporia/the-whale-s-spout.md>), a tavern run by [Old Leo](<old-leo.md>) and known for taking in orphans.
-
-
-
 
 
 

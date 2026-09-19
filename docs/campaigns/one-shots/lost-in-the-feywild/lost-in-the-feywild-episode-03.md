@@ -115,7 +115,7 @@ At [Lord Endless Ending's manor](<../../../gazetteer/extraplanar/feywild/twiligh
 <p>So take the secret path I cannot see,
 	bring back the key to finally set me free.</p>
 <figure class="taelgar-session-zoom__image taelgar-image taelgar-image--figure taelgar-image--size-large">
-  <img src="/taelgarverse/assets/the-door-on-the-cliff.webp" alt="The lonely door on a cliff leading to the 27th Room">
+  <img src="/taelgarverse/assets/campaign/feywild-03-the-door-on-the-cliff.webp" alt="The lonely door on a cliff leading to the 27th Room">
   <figcaption>The lonely door on a cliff leading to the <a href="/taelgarverse/gazetteer/extraplanar/feywild/twilight-kingdom/27th-house/">27th Room</a></figcaption>
 </figure></div>
   <div class="taelgar-session-zoom__level taelgar-session-zoom__transcript" data-zoom-level="transcript" data-transcript-block="recap-008"><p class="taelgar-session-zoom__loading">Transcript loads when selected.</p></div>

@@ -8,6 +8,16 @@ title: The Chronicles of the Silver Tempests
 
 Herein lies the chronicles of the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>), from their humble roots as hired adventurers for the [Great Library](<../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>), to their current fame.
 
+## Arcs
+
+| Arc | Chronicle                                                                                                                                               | Start (DR)   | End (DR)     |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ |
+| 1   | [Chronicles of the Quest for the Elemental Scrolls](<session-notes/great-library-session-notes-arc-1.md>)            | Feb 16, 1747 | Jul 28, 1747 |
+| 2   | [Chronicles of the War Against Grumella](<session-notes/great-library-session-notes-arc-2.md>)                       | Jul 29, 1747 | Oct 6, 1747  |
+| 3   | [Chronicles of the Quest to Defeat the Cursed Cold](<session-notes/great-library-session-notes-arc-3.md>)            | Oct 7, 1747  | Dec 24, 1747 |
+| 4   | [Chronicles of the Silver Tempests Ascendant](<session-notes/great-library-session-notes-arc-4.md>)                  | Dec 24, 1747 | Aug 25, 1748 |
+| 5   | [Chronicles of the Quest for Answers to Extraplanar Mysteries](<session-notes/great-library-session-notes-arc-5.md>) | Aug 26, 1748 | Jun 29, 1752 |
+| 6   | [Chronicles of Zadkai's Return and the Scouring Wind](<session-notes/great-library-session-notes-arc-6.md>)          | Jun 29, 1752 | —            |
 ## The Elemental Scrolls
 *The Silver Tempests get their start as hired hands for the Great Library.*
 
