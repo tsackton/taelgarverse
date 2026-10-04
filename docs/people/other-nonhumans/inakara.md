@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: 'killed by [[Magran Boulderbeard]]'}
-campaignInfo: []
-name: Inakara
-born: 1702
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: derro
 ancestry:
+campaignInfo: []
+born: 1702
 gender: female
 died: 1748-07
+name: Inakara
 whereabouts: Dwarven Outpost (Raven's Hold)
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Inakara
 hide_toc: true
 ---
@@ -29,5 +33,12 @@ hide_toc: true
 
 A mad twisted creature and sorcerer living in the old [dwarven outpost](<../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>) near Raven's Hold. 
 
-Killed by [Magran Boulderbeard](<../dwarves/magran-boulderbeard.md>) and company in July 1748, according to [Travok Redpeak](<../dwarves/travok-redpeak.md>) who brough [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) messenges in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>). 
+Killed by [Magran Boulderbeard](<../dwarves/magran-boulderbeard.md>) and company in July 1748, according to [Travok Redpeak](<../dwarves/travok-redpeak.md>) who brought [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) messages in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).
+
+
+
+
+
+
+
 

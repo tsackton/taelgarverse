@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: halfling
-whereabouts: Aslain
 gender: female
+name: Callie Riverstone
 affiliations:
 - {org: Riverstones, type: primary}
+whereabouts: Aslain
+knownTo: [clee]
 dm_owner: none
 dm_notes: none
+POV: 1720s
 title: Callie Riverstone
 hide_toc: true
 ---
@@ -23,6 +28,11 @@ hide_toc: true
 
 
 ![Callie Riverstone](/taelgarverse/assets/callie-riverstone.webp){align="right"; width="200"}A leatherworker specializing in fine colors.
+
+
+
+
+
 
 
 

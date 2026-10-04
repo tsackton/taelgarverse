@@ -24,6 +24,6 @@ A poor fishing village on the banks of the [Enst](<../../../rivers/wistel-enst-w
 
 ### Notable Residents
 * [Gideon Thorne](<../../../../../people/sembarans/gideon-thorne.md>), a prominent fisherman and part-time steward of the small temple
-* Lucien, a skilled fisherman, quite knowledgeable about the river currents, who fished [Cedric](<../../../../../people/sembarans/cedric.md>) from the river
+* Lucien, a skilled fisherman, quite knowledgeable about the river currents
 * Marguerite, the toll collector and miller
 

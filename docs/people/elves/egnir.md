@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub]
-aliases: [Égnir]
-name: Égnir
-ka: 37
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: elf
+ka: 37
 gender: male
 image: '[[egnir-small.png]]'
-dm_owner: tim
-dm_notes: important
+name: Égnir
+aliases: [Égnir]
 whereabouts:
 - {type: home, end: 1749-02-11, location: Orenlas}
 - {type: away, start: 1749-02-11, end: 9999, location: Vindristjarna}
+knownTo: [dufr]
+dm_owner: tim
+dm_notes: important
+POV: 1749
 title: Égnir
 hide_toc: true
 ---
@@ -30,4 +34,10 @@ hide_toc: true
 
 ![Egnir](/taelgarverse/assets/egnir.webp){align="right"; width="300"}Egnir is a young elf from [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>), venturing forth from the shelter of the elven forests for the first time. He is quiet and reserved, and does not speak much. However, he has an incredible knack for plants, and is an expert gardener. 
 
-Egnir spends most of his time tending to the elven tree growing in the center of the courtyard on [Vindristjarna](<../../things/ships/vindristjarna.md>), and can often be found in the evenings under the starts singing softly in Elvish to the gardens. 
+Egnir spends most of his time tending to the elven tree growing in the center of the courtyard on [Vindristjarna](<../../things/ships/vindristjarna.md>), and can often be found in the evenings under the stars singing softly in Elvish to the gardens.
+
+
+
+
+
+

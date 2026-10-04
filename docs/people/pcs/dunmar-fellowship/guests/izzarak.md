@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Izzarak
-born:
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+tags: [person, status/check/lint]
 species: lizardfolk
 ancestry:
+born:
 gender: male
 player: Eric Rosenbaum
-excludePublish: [clee]
-displayDefaults: {aNoDate: Traveled with <affiliations>}
+name: Izzarak
 affiliations:
-- {org: Dunmar Fellowship, title: Guest"}
+- {org: Dunmar Fellowship, title: Guest}
+knownTo: [dufr]
+excludePublish: [clee]
 dm_owner: player
 dm_notes: important
+POV: 1748
 title: Izzarak
 hide_toc: true
 ---
@@ -28,3 +32,9 @@ hide_toc: true
 
 
 A lizardfolk shaman, traveler, and guardian to two young lizardfolk babies. Came to [Bedez](<../../../../gazetteer/faraway-places/bedez.md>) because he was told that the babies must get to the [Footprint of the Gods](<../../../../gazetteer/faraway-places/azta-lekua.md>). Traveled with [Kenzo](<../kenzo.md>). After helping to heal the wounds to the [Footprint of the Gods](<../../../../gazetteer/faraway-places/azta-lekua.md>), decided to stay and raise the babies in the protection of the spirits of the [Azta Lekua](<../../../../gazetteer/faraway-places/azta-lekua.md>). 
+
+
+
+
+
+

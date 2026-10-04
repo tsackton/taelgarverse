@@ -1,22 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Dharajun Jita
-born: 1386
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+born: 1386
 gender: female
-aliases: [Samraat Jita]
 title: Samraat Dharajun Jita
 died: 1460
+name: Dharajun Jita
+aliases: [Samraat Jita]
 affiliations:
 - {org: Dharajun Dynasty, type: primary}
 - {org: Dunmar, start: 1402, type: leader}
 whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Tokra}
+knownTo: []
 dm_owner: tim
 dm_notes: color
+POV: modern
 hide_toc: true
 ---
 # Samraat Dharajun Jita
@@ -37,4 +41,10 @@ The founding ruler and Samraat of the Dharajun dynasty, associated with [Chidya]
 
 Jita was born in the empty plains of northwestern Dunmar, near current-day [Songara](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>). In DR 1402, at just 16, she won several decisive victories against Thundering Axe Horde, driving them across the Mahar. Soon after she was proclaimed Samraat, founding a new dynasty under the protection of Chidya. 
 
-Her primary court was based in Tokra, which grew dramatically during the 57 years of her rule. 
+Her primary court was based in Tokra, which grew dramatically during the 57 years of her rule.
+
+
+
+
+
+

@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Perrin Voclain
-born: 1659
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1659
 gender: male
+name: Perrin Voclain
 whereabouts:
 - {type: home, location: !!null ''}
 - {type: home, location: Taviose}
 - {type: away, start: 1719-10-21, end: 1719-10-26, location: Valit}
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1710s
 title: Perrin Voclain
 hide_toc: true
 ---
@@ -29,4 +33,11 @@ hide_toc: true
 
 
 ![Perrin the Druid](/taelgarverse/assets/perrin-the-druid.webp){align="right"; width="320"}Perrin Voclain is a sage and acolyte of the Wildling who lives in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). He is known for his friendship with the animals of [the Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>), and for his minor miracles of healing and guidance. 
+
+
+
+
+
+
+
 

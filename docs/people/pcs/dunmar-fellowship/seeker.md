@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-name: Seeker
-born:
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: dwarf
 ancestry:
+campaignInfo:
+born:
 gender: male
 player: Eric Rosenbaum
-dm_owner: player
-dm_notes: important
+name: Seeker
 affiliations:
 - {org: Dunmar Fellowship, type: primary}
+knownTo: [dufr]
+dm_owner: player
+dm_notes: important
+POV: 1748
 title: Seeker
 hide_toc: true
 ---
@@ -49,7 +53,7 @@ hide_toc: true
 	
 	When I traveled to [Heart of the Mountain](<../../../cosmology/spiritual-realms/heart-of-the-mountain.md>) for my rite of passage to adulthood, I was indeed confirmed in the Stoneworker caste as I expected. However, then I saw something I did not expect. I saw myself floating in a vast, complex space, extending in more than three dimensions all around me. The mountain is above me, and beyond that the twisting strands of the [Plane of Magic](<../../../cosmology/plane-of-magic.md>), caught into runes in the ancient ways of our people. Below me, a sea of sparkling lights extending across the world. In this moment, I had an instant of lucidity and saw the complex, indescribable geometry of the cosmos: magic above, consciousness and dreams below, and the world itself in the middle, but of course "above" and "below" are just crude, imprecise terms for what I actually saw. The moment ended, and the clarity faded, but the memory remained, and the conviction that magic, and consciousness, and the geometry of the worlds are all bound together in some cosmic way.
 	
-	I had to find a way back to that moment of lucidity. Convinced this vision was not an accident, I took the name Seeker, and left my family and my home to study the ways the world and the planes of magic intersect. Near Darakan, a volcano erupted and a series of ley lines that used to cross all broke apart and avoided the place where the volcano had erupted. This led me to became interested in the physical connections between magic and the world of Taelgar, studying the properties of the material plane itself -- the shape of stones, of mountains, and the forces that change them, slowly, or suddenly. I traveled south to the Great Rift, studying the patterns of magical energy in ley lines around this cataclysm, and saw that the regularity of the intersections between planes was shattered, with ley lines that twisted and turned and just ended in chaotic patterns.
+	I had to find a way back to that moment of lucidity. Convinced this vision was not an accident, I took the name Seeker, and left my family and my home to study the ways the world and the planes of magic intersect. Near Darakan, a volcano erupted and a series of ley lines that used to cross all broke apart and avoided the place where the volcano had erupted. This led me to become interested in the physical connections between magic and the world of Taelgar, studying the properties of the material plane itself -- the shape of stones, of mountains, and the forces that change them, slowly, or suddenly. I traveled south to the Great Rift, studying the patterns of magical energy in ley lines around this cataclysm, and saw that the regularity of the intersections between planes was shattered, with ley lines that twisted and turned and just ended in chaotic patterns.
 	
 	Amazed but still not understanding how everything fit together, I traveled east and spent some time with the Lizardfolk on the coast of the [Green Sea](<../../../gazetteer/green-sea.md>), learning more about the [Dreamworld](<../../../cosmology/dreamworld.md>) and how they perceived the cosmos. From these Lizardfolk, I learned of mystical cults far to the south that perhaps knew more about the connections between dreams, magic, and the architecture of the cosmos. Seeking knowledge, I set off, under the mountains to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), where I met the dwarven scholar [Ulfgar Frostbeard](<../../dwarves/ulfgar-frostbeard.md>), and learned of the Dunmari goddess [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>), goddess of magic and dreams.
 	
@@ -67,7 +71,7 @@ hide_toc: true
 	- Nov 5879 - May 5880: stayed with lizardfolk on eastern border of Sembara
 	- Jun - Sept 5880:  travel from lizardfolk to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)
 	- Oct - Dec 5880: stayed in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) with [Ulfgar Frostbeard](<../../dwarves/ulfgar-frostbeard.md>)
-	- Dec 5880 - Mar 5881: traveled to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) overland, stopping briefly at [Songara](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>) and [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), where stayed at the [The Iron Swan](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-iron-swan.md>) an inn, run by a retired Dwarven adventurer, [Vistra Fireforge](<../../dwarves/vistra-fireforge.md>), and located in the small dwarvish quarter of the city behind the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>). In [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) he also met the Hardstone clan, especially [Fallthra Hardstone](<../../dwarves/fallthra-hardstone.md>), the matriarch, [Delig Hardstone](<../../dwarves/delig-hardstone.md>), her brother, and [Dag Hardstone](<../../dwarves/dag-hardstone.md>), her son, still only a teenager, not yet having traveled to [Heart of the Mountain](<../../../cosmology/spiritual-realms/heart-of-the-mountain.md>). They work at the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), as architects, janitors, supers. Work some minor runic magic to protect scrolls, mend damage, and the like, as well as making magical runic imprints of particularly valuable material that can then be copied and sent to [Nayahar](<../../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>) or [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) or [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) without risk of error.
+	- Dec 5880 - Mar 5881: traveled to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) overland, stopping briefly at [Songara](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>) and [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), where he stayed at [The Iron Swan](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-iron-swan.md>), an inn, run by a retired Dwarven adventurer, [Vistra Fireforge](<../../dwarves/vistra-fireforge.md>), and located in the small dwarvish quarter of the city behind the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>). In [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) he also met the Hardstone clan, especially [Fallthra Hardstone](<../../dwarves/fallthra-hardstone.md>), the matriarch, [Delig Hardstone](<../../dwarves/delig-hardstone.md>), her brother, and [Dag Hardstone](<../../dwarves/dag-hardstone.md>), her son, still only a teenager, not yet having traveled to [Heart of the Mountain](<../../../cosmology/spiritual-realms/heart-of-the-mountain.md>). They work at the [Archives](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), as architects, janitors, supers. Work some minor runic magic to protect scrolls, mend damage, and the like, as well as making magical runic imprints of particularly valuable material that can then be copied and sent to [Nayahar](<../../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>) or [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>) or [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) without risk of error.
 	
 	5881: Seeker arrives in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) and our adventures begin (1748 DE, 191st year of the Nayan Dynasty)
  
@@ -79,9 +83,9 @@ hide_toc: true
 	
 	You are walking through the rock of the Mesa here, and it feels like nothing you have experienced before. The rock itself seems to move out of your way as the mystai ahead speaks, a rough hewn tunnel opening in front of you as you walk. 
 	
-	After a short while, the passage opens into a huge cavern. There is no light, except a dim reddish glow that seems to emanate from the rocks themselves. You can feel the open space though, extending beyond the range of you darkvision. 
+	After a short while, the passage opens into a huge cavern. There is no light, except a dim reddish glow that seems to emanate from the rocks themselves. You can feel the open space though, extending beyond the range of your darkvision. 
 	
-	The mystai speaks a word in a language you don’t know, and suddenly the cavern flairs into light, the reddish glow of a sunset. 
+	The mystai speaks a word in a language you don’t know, and suddenly the cavern flares into light, the reddish glow of a sunset. 
 	
 	In front of you, you see a grove of low bushes, each with a giant inflorescence, all made of stone, but waving slightly in the air. 
 	
@@ -108,7 +112,7 @@ hide_toc: true
 	
 	As you concentrate on the image of [Frankar](<../../dwarves/frankar.md>), he brings the staff down, and it seems to pass through you. Looking down, your body is translucent, and you are floating, the light rapidly fading from the sky. You float, or are pulled, rapidly upward, the ground below vanishing, only a thin line of energy stretching back towards your distant body below. As you ascend, lights begin to appear, almost like stars, but full of dazzling color. They surround you in all directions -- above, below, to all sides -- moving and shifting in a hypnotic pattern. As you stare, dazed, you can hear [Candrosa](<../../dunmari/candrosa.md>)'s voice in the back of your mind, "Concentrate on your anchor!"
 	
-	As you focus on [Frankar](<../../dwarves/frankar.md>), sitting and studying with him, the stars start to dim and fade, except for one, in the distance, the grows brighter and brighter as it pulls you towards it, until you crash through the bright white light into a empty stone chamber, completely circular, filled with salamanders. But these are not white salamanders. Each is unique. You see one that seems to be made of pure flame, one that is green and seems to be covered in moss, one that is heavy dark gray stone with earth that shakes from its body with each step, one that has horns and a spiked tail and is chasing the others nipping at them, one that seems to a wave in salamander form, one that is covered in runes, one that is lumbers with heavy footfalls and seems to grow and shrink with each step, one that appears almost as a storm cloud in salamander form.  Possibly others as well, they move quickly, running around and across each other. 
+	As you focus on [Frankar](<../../dwarves/frankar.md>), sitting and studying with him, the stars start to dim and fade, except for one, in the distance, that grows brighter and brighter as it pulls you towards it, until you crash through the bright white light into an empty stone chamber, completely circular, filled with salamanders. But these are not white salamanders. Each is unique. You see one that seems to be made of pure flame, one that is green and seems to be covered in moss, one that is heavy dark gray stone with earth that shakes from its body with each step, one that has horns and a spiked tail and is chasing the others nipping at them, one that seems to be a wave in salamander form, one that is covered in runes, one that lumbers with heavy footfalls and seems to grow and shrink with each step, one that appears almost as a storm cloud in salamander form.  Possibly others as well, they move quickly, running around and across each other. 
 	
 	There is only one exit from the chamber, straight ahead. The salamanders seem to avoid the exit. 
 	
@@ -122,18 +126,24 @@ hide_toc: true
 	
 	Above you, you can see turning crystal spheres, opaque, spinning on a matte black background. Stars shine on the black background, multi colored, winking in and out as the opaque spheres pass them, reminding you of what you saw when you started this journey. 
 	
-	Then, drifting on the sea of sand, an arch of fire. The salamander wiggles, trying to get to it, and as the arch floats past you can see, beyond it, a land of fire. Huge pillars of fire surround a city of brass, shining in the orange light of the fire the surrounds it. A river of magma flows past. In the fiery sky, an ash cloud drops rain of liquid mercury. 
+	Then, drifting on the sea of sand, an arch of fire. The salamander wiggles, trying to get to it, and as the arch floats past you can see, beyond it, a land of fire. Huge pillars of fire surround a city of brass, shining in the orange light of the fire that surrounds it. A river of magma flows past. In the fiery sky, an ash cloud drops rain of liquid mercury. 
 	
-	The arch floats closer and closer, the salamander struggling to get through, it’s burnt body energetic and eager. 
+	The arch floats closer and closer, the salamander struggling to get through, its burnt body energetic and eager. 
 	
 	You close your eyes for a moment, grimacing, wincing away from the image of the land of fire and its city of brass, thinking, is that where you've gone, Frank, child? What power has tempted you there? I'll find you, rescue you! 
 	
-	You open my eyes again and face the arch of fire, now holding hidden in your left palm a tiny intricately worked figurine of white stone, depicting your fond memory of an innocent childhood [Frankar](<../../dwarves/frankar.md>). With your right hand you trace a spherical rune of protection around your body, a sphere of ice as clear as glass. You release the burnt salamander and follow it.  
+	You open your eyes again and face the arch of fire, now holding hidden in your left palm a tiny intricately worked figurine of white stone, depicting your fond memory of an innocent childhood [Frankar](<../../dwarves/frankar.md>). With your right hand you trace a spherical rune of protection around your body, a sphere of ice as clear as glass. You release the burnt salamander and follow it.  
 	
-	You step forward into the arch of fire. For a brief moment, you step into darkness, an empty void, and feel a sensation of falling, as if you are diving into a clear pool. Above you, you can see a distorted reflection of your childhood home, as if seen through rippling water. There are multiple layers of images, each more twisted and blurred than the last. Below you, you are diving towards the "bottom" of this space, the shifting multicolored sands bubbling and boiling. Around you, a mist clings like water, thin and wispy in some directions, thick and opaque in others, seeming to reflect the colors of the sands below. As you dive, you are being pulled by a thin stream of flame, the burnt salamander ahead of you. You can see, briefly, laid out almost like a map on the "bottom" of this space, the burning land of fire and magme; a land of swirling clouds and flashes of lightning; a land of earth and stone; and a land of pure water reaching to endless depths.
+	You step forward into the arch of fire. For a brief moment, you step into darkness, an empty void, and feel a sensation of falling, as if you are diving into a clear pool. Above you, you can see a distorted reflection of your childhood home, as if seen through rippling water. There are multiple layers of images, each more twisted and blurred than the last. Below you, you are diving towards the "bottom" of this space, the shifting multicolored sands bubbling and boiling. Around you, a mist clings like water, thin and wispy in some directions, thick and opaque in others, seeming to reflect the colors of the sands below. As you dive, you are being pulled by a thin stream of flame, the burnt salamander ahead of you. You can see, briefly, laid out almost like a map on the "bottom" of this space, the burning land of fire and magma; a land of swirling clouds and flashes of lightning; a land of earth and stone; and a land of pure water reaching to endless depths.
 	
 	You glimpse this arrangement just for a moment -- the mists and fogs of the "water", the energetic multicolored sands "below", the map of elemental realms floating above the sands, surrounded by fogs, some parts hidden and opaque, others only lightly obscured -- before you are pulled toward the arch of fire. 
 	
-	As you approach the arch of fire, the thin silvery tether connecting you to [Candrosa](<../../dunmari/candrosa.md>), the [Red Mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), and the Dream staff grows taunt. You can see, clearly, the land of fire beyond the arch as the salamander dives forward, passing beyond the portal into this strange fiery realm. But the tether prevents you from going further, and you are pulled back, swirling back through the twisting stars and crashing back into your body, the memory of the smoke and fire and ash that consumed everything in that land. 
+	As you approach the arch of fire, the thin silvery tether connecting you to [Candrosa](<../../dunmari/candrosa.md>), the [Red Mesa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), and the Dream staff grows taut. You can see, clearly, the land of fire beyond the arch as the salamander dives forward, passing beyond the portal into this strange fiery realm. But the tether prevents you from going further, and you are pulled back, swirling back through the twisting stars and crashing back into your body, the memory of the smoke and fire and ash that consumed everything in that land. 
 	
 	[Candrosa](<../../dunmari/candrosa.md>) looks at you as you open your eyes, with concern. "I know not what you saw, but I could feel you approaching a portal to elsewhere. Had you stepped through, you would have broken your tether and I could not have retrieved you. I am sorry I had to pull you back."
+
+
+
+
+
+

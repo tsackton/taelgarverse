@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
-name: Armand
-born:
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Sembaran
+born:
 gender: male
+name: Armand
 whereabouts:
 - {type: home, location: Embry}
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Armand
 hide_toc: true
 ---
@@ -31,6 +35,13 @@ hide_toc: true
 
 
 ![Armand Night Queen New](/taelgarverse/assets/armand-night-queen-new.webp){align="right"; width="400"}A warrior and disciple of the Night Queen. 
+
+
+
+
+
+
+
 
 
 

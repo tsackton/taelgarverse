@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: human
+ancestry: Dunmari
 campaignInfo:
 - {campaign: dufr, type: met, date: 1748-06-30}
 - {campaign: dufr, type: Constructed portable hole for, date: 1748-07-15}
-name: Basu
 born: 1705
-species: human
-ancestry: Dunmari
 gender: male
+name: Basu
 affiliations: [Lakan mystai]
 whereabouts: Lakan Monastery
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1740s
 title: Basu
 hide_toc: true
 ---
@@ -42,6 +46,13 @@ The grumpy craftsman of the Lakan monks, known for creating magic items that cha
 Romantically involved with [Kassi](<kassi.md>), although not formally married. 
 
 
-Constructed a the [Portable Hole](<../../campaigns/dunmari-frontier-campaign/treasure/portable-hole.md>) for the Dunmar Fellowship, after they helped him gather extraplanar energy of [Arborea](<../../cosmology/spiritual-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/hara-basin/elven-arborea-workshop.md>) beneath the monastery. 
+Constructed the [Portable Hole](<../../campaigns/dunmari-frontier-campaign/treasure/portable-hole.md>) for the Dunmar Fellowship, after they helped him gather extraplanar energy of [Arborea](<../../cosmology/spiritual-realms/arborea.md>) from the [Elven Arborea Workshop](<../../gazetteer/greater-dunmar/hara-basin/elven-arborea-workshop.md>) beneath the monastery.
+
+
+
+
+
+
+
 
 

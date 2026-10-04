@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Grimstone
-aliases: [Lord Rockbinder]
 species: human
 gender: male
 died: 1748-10-18
+name: Grimstone
+aliases: [Lord Rockbinder]
 whereabouts:
 - {type: away, start: 1747, end: 1748-10-18, location: Perdoli Manor}
-dm_notes: none
+knownTo: [lablost]
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Grimstone
 hide_toc: true
 ---
@@ -31,4 +35,8 @@ Grimstone was a mysterious alchemist who operated from a [hidden laboratory](<..
 
 By the autumn of DR 1748, Grimstone controlled goblin raiders, hobgoblin guards, a chained basilisk, and animated stone constructs. The goblins captured travelers and held them in the estate's abandoned smithy, then delivered one prisoner each week into the manor. Grimstone expected many victims to arrive petrified, and his research notes show that he believed living victims turned to stone might yield the [Prime Arcana](<../../things/materials/prime-arcana.md>), a possibly-mythical substance he believed was needed for elixirs of invulnerability, youth, and immortality.
 
-He was killed on October 18th, 1748 by the [Labyrinth Prisoners](<../pcs/other-pcs/labyrinth-prisoners/labyrinth-prisoners.md>). 
+He was killed on October 18th, 1748 by the [Labyrinth Prisoners](<../pcs/other-pcs/labyrinth-prisoners/labyrinth-prisoners.md>).
+
+
+
+

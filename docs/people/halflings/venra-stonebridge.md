@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Venra Stonebridge
-born: 1643
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: halfling
 ancestry: Sembaran
+born: 1643
 gender: male
+name: Venra Stonebridge
 affiliations:
 - {org: Stonebridges, type: primary}
 - {place: The Crossroads Inn, title: Proprietor, start: 1}
 whereabouts: Cleenseau
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Venra Stonebridge
 hide_toc: true
 ---
@@ -29,3 +33,9 @@ hide_toc: true
 
 
 An elderly halfling and one of the owners of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) along with [Willow Stonebridge](<willow-stonebridge.md>) and [Marigold Stonebridge](<marigold-stonebridge.md>). Often called Grandmother Venra.
+
+
+
+
+
+

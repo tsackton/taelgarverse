@@ -24,11 +24,11 @@ title: Erbalta Plains
 
 The Erbalta Plains are a large open steppe along the [Snake River](<../../major-rivers/chasa-nahadi-watershed/snake-river.md>) valley. This is a land of scrubby, short grasses and hardy low bushes; shallow coulees dot the lowlands along the river, while limestone bluffs rise in the highlands. Along the river, some trees grow, supporting a vibrant riparian ecosystem, while herds of wild goats and pronghorn roam the plains and llamas occupy the highlands.
 
-The Erbalta Plains are too dry for extensive agriculture outside of irrigated fields and in some riparian valleys. What does grow is hardy and drought tolerant: barley, flax, some pulses, and hay from riparian meadows. The Erbalta is excellent grazeland, and hardy sheep and goats are a common sight on the plains. 
+The Erbalta Plains are too dry for extensive agriculture outside of irrigated fields and in some riparian valleys. What does grow is hardy and drought tolerant: barley, flax, some pulses, and hay from riparian meadows. The Erbalta is excellent grazeland, and hardy sheep and goats are a common sight on the plains.
 
 ![Erbalta Plains](/taelgarverse/assets/erbalta-plains.webp)
 
-Settlement is sparse across much of the Erbalta. North of Voltara, rugged and largely unsettled steppe is cut by small canyons, and is largely an unsettled and undefended frontier. This was once the territory of [Grumella's Horde](<../../../groups/orc-hordes/grumella-s-horde.md>), but orcs have become a rare sight since [her defeat](<../../../events/1700s/1747/grumella-s-war.md>). To the south, the Voltara hinterlands support herding, limited farming, and substantial centaur populations. This area, especially along the south road, is heavily patrolled by Chardonian forces seeking to protect the chalyte shipments traveling overland to [Lake Valandros](<../../greater-chardon/lake-valandros.md>). 
+Settlement is sparse across much of the Erbalta. North of Voltara, rugged and largely unsettled steppe is cut by small canyons, and is largely an unsettled and undefended frontier. This was once the territory of [Grumella's Horde](<../../../groups/orc-hordes/grumella-s-horde.md>), but orcs have become a rare sight since [her defeat](<../../../events/1700s/1747/grumella-s-war.md>). To the south, the Voltara hinterlands support herding, limited farming, and substantial centaur populations. This area, especially along the south road, is heavily patrolled by Chardonian forces seeking to protect the chalyte shipments traveling overland to [Lake Valandros](<../../greater-chardon/lake-valandros.md>).
 
 ## Borders
 
@@ -36,7 +36,9 @@ The Erbalta Plains refer to the entire [Snake River](<../../major-rivers/chasa-n
 
 ## Climate
 
-Isolated from the moderating influence of the [Endless Ocean](<../../endless-ocean.md>) by the [Tawir Forest](<../tawir-forest.md>) and the steep [Fiatara Mountains](<../fiamatara-mountains/fiatara-mountains.md>), the Erbalta Plains have a cold, semi-arid climate, with limited annual precipitation that mostly falls in the late winter and early spring. Summers are long, and often hot, dry, and windy, while winters are crisp with occasional light snowfall. Occasional spring and autumn squalls dump rain that swells the rivers and sustains the region’s hardy grasslands and scattered riparian groves.
+Sheltered from much of the [Endless Ocean](<../../endless-ocean.md>)'s moisture and moderating influence by the [Fiatara Mountains](<../fiamatara-mountains/fiatara-mountains.md>), the Erbalta Plains have strongly continental seasons, with warm to hot summer days, cooler nights, and cold winters. Moisture reaching around the southern end of the mountains supports productive grassland around [Voltara](<../northern-provinces/voltara/voltara.md>), while the plains become drier farther to the north and deeper in the mountain rain shadow. Late-spring and early-summer rains are important to grass growth; later summer is less reliably wet.
+
+Around Voltara and southern Erbalta, winters are relatively dry with limited snowfall. Recurring thaws from warm winds off the [Fiatara Mountains](<../fiamatara-mountains/fiatara-mountains.md>) leave lowland snow cover intermittent and uneven, though variable from year to year. Snowstorms and prolonged cold spells can however leave lasting snow, particularly in sheltered drifts, and severe winters retain cover much longer. Snow persists more readily farther north and higher in the mountains. Meltwater and springs from the Fiatara sustain rivers and riparian groves through dry spells on the plains.
 
 
 

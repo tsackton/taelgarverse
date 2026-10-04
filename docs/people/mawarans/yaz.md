@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-knownTo: [Mawar]
-campaignInfo:
-- {campaign: dufr, person: Delwath, date: 1749-02-05, type: scryed}
-name: Yaz
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Mawaran
+campaignInfo:
+- {campaign: dufr, person: Delwath, date: 1749-02-05, type: scryed}
 gender: male
+name: Yaz
 whereabouts: Hamri
+knownTo: [mawar, dufr]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Yaz
 hide_toc: true
 ---
@@ -37,4 +40,10 @@ Yaz preserves fragments of lore about the [Sentient Ocean](<../extraplanar-power
 
 
 In early February DR 1749, [Delwath](<../pcs/dunmar-fellowship/delwath.md>) scried [Kaeso](<../chardonians/kaeso.md>) sitting quietly with [Yaz](<yaz.md>) on top of a tower overlooking the ocean, watching a storm crash against the cliffs. The vision showed Kaeso at peace.
+
+
+
+
+
+
 

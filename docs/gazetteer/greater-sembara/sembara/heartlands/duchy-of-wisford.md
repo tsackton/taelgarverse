@@ -18,5 +18,6 @@ title: Duchy of Wisford
 
 One of the original ancient duchies that formed Sembara. Still a powerful and rich land, with significant agricultural wealth including cattle, wheat, and cheese production.
 
+As of 1720, the duke is [Jacques Bellemont](<../../../../people/sembarans/jacques-bellemont.md>). Like the dukes of other ancient duchies, he has considerable authority within his duchy, while the army follows a separate royal command structure.
 
 

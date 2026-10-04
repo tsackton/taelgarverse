@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-born: 1684
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1684
 gender: male
-whereabouts: Asineau
+name: Connor
 affiliations:
 - {org: Asineau Manor Guard, title: Guardsman}
-dm_notes: none
+whereabouts: Asineau
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Connor
 hide_toc: true
 ---
@@ -27,3 +32,9 @@ hide_toc: true
 
 
 ![Connor Guard](/taelgarverse/assets/connor-guard.webp){align="right"; width="320"}Connor grew up in Asineau, and his family is still around. He was enthusiastic about carrying out [Lord Valbert's](<lorin-valbert.md>) orders, and the word around the village is that people thought he was a little bit in love with [Isolde](<isolde.md>) and was always trying to impress her by copying what she did. He comes across as pretty average in every way, and his wife is often snide to him and he is nasty to her. His younger sister has fond memories of him as a kid though, and tells a story of how he heroically fended off three stray hungry wolves from a pack of village children playing in the woodlot, but worries that man is gone.
+
+
+
+
+
+

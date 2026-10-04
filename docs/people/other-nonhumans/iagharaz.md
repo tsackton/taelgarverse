@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+displayDefaults: {endStatus: killed}
 tags: [person]
-name: Iagharaz
-pronunciation: aya-gar-az
 species: dragon
 subspecies: white dragon
 died: 1709
-displayDefaults: {endStatus: killed}
+name: Iagharaz
+pronunciation: aya-gar-az
 whereabouts:
 - {type: home, location: Sulqat, alias: headwaters of the Sulqat, end: 1709}
+knownTo: []
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Iagharaz
 hide_toc: true
 ---
@@ -28,5 +32,9 @@ hide_toc: true
 
 
 Iagharaz was a white dragon who made a lair near the headwaters of the [Sulqat](<../../gazetteer/northwest-coast/rivers/sulqat.md>) in the early DR 1700s, and was defeated by a combined expedition of Mawaran and Chardonian adventurers in DR 1709. 
+
+
+
+
 
 

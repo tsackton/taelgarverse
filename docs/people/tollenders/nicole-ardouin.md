@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-ancestry: Tollish
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
+ancestry: Tollish
 gender: female
-dm_owner: none
-dm_notes: none
-whereabouts: Tollen
-affiliations:
-- {org: University of Tollen, type: Faculty}
 died: 1659
 born: 1571
+name: Nicole Ardouin
+affiliations:
+- {org: University of Tollen, type: member, title: Faculty}
+whereabouts: Tollen
+knownTo: []
+dm_owner: none
+dm_notes: none
+POV: modern
 title: Nicole Ardouin
 hide_toc: true
 ---
@@ -28,3 +33,9 @@ hide_toc: true
 
 
 Nicole Ardouin was a Tollish cosmological and theological philosopher, most famous for her work on difficult or marginal planes, including the [Far Realms](<../../cosmology/far-realms.md>), the [Nightmare Realm](<../../cosmology/demiplanes-and-echo-realms/nightmare-realm.md>), and [Pandemonium](<../../cosmology/spiritual-realms/pandemonium.md>).
+
+
+
+
+
+

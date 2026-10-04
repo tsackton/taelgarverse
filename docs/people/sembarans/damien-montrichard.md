@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-name: Damien Montrichard
-born:
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry:
+born:
 gender: male
-affiliations:
-- {org: The Rangers}
+name: Damien Montrichard
 pronunciation: Dah-mee-en Mon-tree-shar
+affiliations:
+- {org: Rangers}
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
-dm_notes: important
+knownTo: [clee]
 dm_owner: mike
+dm_notes: important
+POV: 1720s
 title: Damien Montrichard
 hide_toc: true
 ---
@@ -23,7 +27,7 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [human](<../../creatures/species/humans.md>) (he/him)  
-    Member of the The Rangers  
+    Member of the [Rangers](<../../groups/rangers.md>)  
     { .bio }
 
     Originally from: Unknown
@@ -35,4 +39,11 @@ hide_toc: true
 
 
 ![Damien Montrichard](/taelgarverse/assets/damien-montrichard.webp){align="right"; width="400"}A storyteller and musician, with a keen eye for lore.
+
+
+
+
+
+
+
 

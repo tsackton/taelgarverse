@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Sarabet
-born: 1488
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1488
 gender: female
 died: 1529
-dm_notes: none
+name: Sarabet
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Sarabet
 hide_toc: true
 ---
@@ -24,4 +28,9 @@ hide_toc: true
 
 
 The first wife of [Derik III](<derik-iii.md>).
+
+
+
+
+
 

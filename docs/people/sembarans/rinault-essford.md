@@ -1,21 +1,27 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-name: Rinault Essford
-born: 1688
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
+born: 1688
 gender: male
-aliases: [Lord Rinault, Lord Rinault Essford, Rinault]
 title: Lord Rinault Essford
-whereabouts: Cleenseau
+name: Rinault Essford
+pronunciation: ree-NOH ESS-ford
+aliases: [Lord Rinault, Lord Rinault Essford, Rinault]
 affiliations:
 - {org: Essfords, title: Heir, type: primary}
-dm_notes: important
+whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: mike
+dm_notes: important
+POV: 1719
 hide_toc: true
 ---
 # Lord Rinault Essford
+:speaker:{ .middle } *(ree-NOH ESS-ford)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -27,7 +33,15 @@ hide_toc: true
 </div>
 
 
-![Lord Rinault Essford](/taelgarverse/assets/lord-rinault-essford.webp){align="right"; width="320"}The younger brother of [Rosalind](<rosalind-essford.md>) he is considered rash and impulse. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
+![Lord Rinault Essford](/taelgarverse/assets/lord-rinault-essford.webp){align="right"; width="320"}The younger brother of [Rosalind](<rosalind-essford.md>), he is considered rash and impulsive. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
+
+He was briefly the acting lord of Cleenseau while Rosalind was traveling to Embry, but although he was not terrible, few see him as a viable heir.
+
+
+
+
+
+
 
 
 

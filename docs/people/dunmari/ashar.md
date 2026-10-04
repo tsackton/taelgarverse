@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, type: met, date: 1748-07-02}
-name: Ashar
-born: 1688
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-07-02}
+born: 1688
 gender: male
+name: Ashar
 whereabouts: Tokra
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Ashar
 hide_toc: true
 ---
@@ -30,4 +34,10 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 2nd, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-An old Dunmari solider from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), who fought in the [Summer of Red Storms](<../../events/1700s/1709/summer-of-red-storms.md>), lost an eye, and retired to drink and reminisce with his war buddies. Spends a lot of time at [Darshana's Caravanserai](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/darshana-s-caravanserai.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+An old Dunmari soldier from [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), who fought in the [Summer of Red Storms](<../../events/1700s/1709/summer-of-red-storms.md>), lost an eye, and retired to drink and reminisce with his war buddies. Spends a lot of time at [Darshana's Caravanserai](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/darshana-s-caravanserai.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+
+
+
+
+
+

@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: fey
 gender: male
 died: 1
+name: Aelirios Sunblade
+pronunciation: Ah-ler-ee-os Sun-blade
 whereabouts: Refuge of the Gossamer Veil
+knownTo: [clee]
 dm_owner: mike
 dm_notes: none
-pronunciation: Ah-ler-ee-os Sun-blade
+POV: modern
 title: Aelirios Sunblade
 hide_toc: true
 ---
@@ -25,4 +30,11 @@ hide_toc: true
 
 
 A fey warrior and knight. The original companion to [Greymalkin](<../pcs/cleenseau/greymalkin.md>), and forger of the Lantern of the Bright Hearth.
+
+
+
+
+
+
+
 

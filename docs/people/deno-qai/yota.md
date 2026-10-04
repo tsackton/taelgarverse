@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-09-10, type: met}
-name: Yota
-born:
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Deno'qai
+campaignInfo:
+- {campaign: dufr, date: 1748-09-10, type: met}
+born:
+gender: male
+name: Yota
 affiliations:
 - {org: Te'kula, type: primary}
-gender: male
 whereabouts: Te'kula village
-dm_notes: color
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: color
+POV: 1748
 title: Yota
 hide_toc: true
 ---
@@ -32,3 +36,9 @@ hide_toc: true
 
 
 The chief of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) village.
+
+
+
+
+
+

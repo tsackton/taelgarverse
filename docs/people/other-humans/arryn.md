@@ -1,18 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, person: Wellby, type: 'rescued from the [[Mirror Realm]]', date: 1748-11-13}
-name: Arryn of Tollen
-born:
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Tollender
+campaignInfo:
+- {campaign: dufr, person: Wellby, type: 'rescued from the [[Mirror Realm]]', date: 1748-11-13}
+born:
 gender: male
+name: Arryn of Tollen
+aliases: [Arryn the Wanderer]
 whereabouts:
 - {type: home, start: '', end: 1730, location: Tollen}
 - {type: away, start: '', end: '', location: Eastern Green Sea}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Arryn of Tollen
 hide_toc: true
 ---
@@ -37,5 +42,10 @@ hide_toc: true
 
 
 In the fall of 1748, vanished into the [Mirror Realm](<../../cosmology/demiplanes-and-echo-realms/mirror-realm.md>) after an experiment went wrong. Arryn was later freed by [Wellby](<../pcs/dunmar-fellowship/wellby.md>), [Alimash](<../pcs/dunmar-fellowship/guests/alimash.md>), and [Shoal](<../pcs/dunmar-fellowship/guests/shoal.md>) during [Wellby's adventures in the eastern Green Sea](<../../campaigns/dunmari-frontier-campaign/session-notes/session-60-dufr.md>). After his rescue, he sent Wellby to the [Feywild](<../../cosmology/feywild.md>) to reunite with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>); [Alimash](<../pcs/dunmar-fellowship/guests/alimash.md>) joined Arryn's service.
+
+
+
+
+
 
 

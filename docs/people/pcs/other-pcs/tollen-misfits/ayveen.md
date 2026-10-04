@@ -6,12 +6,15 @@ ancestry: Tollish
 gender: female
 born: 1727
 player: Kate Sackton
-dm_owner: player
-dm_notes: none
+name: Ayveen
 pronunciation: AY-veen
+affiliations: [Tollen Misfits]
 whereabouts:
 - {type: home, location: Tollen}
 - {type: away, start: 1740-10-05, location: Twilight Kingdom}
+knownTo: [feywild]
+dm_owner: player
+dm_notes: none
 title: Ayveen
 hide_toc: true
 ---
@@ -22,6 +25,7 @@ hide_toc: true
 
     A [Tollish](<../../../../gazetteer/greater-sembara/tollen/tollen.md>) [human](<../../../../creatures/species/humans.md>) (she/her)  
     Born DR 1727 (23 years old)  
+    Member of the [Tollen Misfits](<tollen-misfits.md>)  
     { .bio }
 
     Based in the [Free City of Tollen](<../../../../gazetteer/greater-sembara/tollen/tollen.md>)
@@ -31,3 +35,7 @@ hide_toc: true
 
 
 ![Ayveen](/taelgarverse/assets/ayveen.webp){width="right"}
+
+Ayveen is a Tollish human adventurer and musician from [Tollen](<../../../../gazetteer/greater-sembara/tollen/tollen.md>), and a member of the [Tollen Misfits](<tollen-misfits.md>). Hopeful and patient, she helps ground her companions through her music and stories.
+
+

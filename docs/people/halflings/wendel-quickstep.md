@@ -1,22 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, person: Wellby, date: 1738, type: met}
-- {campaign: DuFr, date: 1748-12-16, type: met}
-- {campaign: DuFr, date: 1748-12-28, type: last seen}
-name: Wendel Quickstep
-born: 1671
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: halfling
 ancestry:
+campaignInfo:
+- {campaign: dufr, person: Wellby, date: 1738, type: met}
+- {campaign: dufr, date: 1748-12-16, type: met}
+- {campaign: dufr, date: 1748-12-28, type: last seen}
+born: 1671
 gender: male
+name: Wendel Quickstep
 affiliations:
 - {org: Quicksteps, type: primary}
 - {place: The Windward Sail, title: Proprietor, start: 1718, type: leader}
 whereabouts:
 - {type: home, start: 1718, location: The Windward Sail}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Wendel Quickstep
 hide_toc: true
 ---
@@ -56,3 +60,9 @@ Wendel knows several regulars of [The Windward Sail](<../../gazetteer/greater-se
 
 
 ![Wendel Quickstep](/taelgarverse/assets/wendel-quickstep.webp)
+
+
+
+
+
+

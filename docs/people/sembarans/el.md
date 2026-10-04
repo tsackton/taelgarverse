@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-gender: enby
-born: 1683
 species: human
 ancestry: Sembaran
+gender: enby
+born: 1683
+name: El
 whereabouts:
 - {type: home, location: Gowerbourne}
 - {type: home, location: Asineau}
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 title: El
 hide_toc: true
 ---
@@ -29,3 +34,7 @@ hide_toc: true
 ![El Wyrdling](/taelgarverse/assets/el-wyrdling.webp){align="right"; width="320"}A disciple of the Wyrdling, recently blessed with several miracles. They grew up the child of a rich merchant in [Gowerbourne](<../../gazetteer/greater-sembara/sembara/heartlands/gowerbourne.md>), and found the Wyrdling in mid-life. 
 
 Their story is here.
+
+
+
+

@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
 tags: [person]
+species: halfling
+ancestry:
 campaignInfo:
 - {campaign: dufr, person: Wellby, date: 1748-09-30, type: met}
 - {campaign: dufr, person: Wellby, date: 1748-10-12, type: last seen}
-name: Corrin Wildheart
 born:
-species: halfling
-ancestry:
 gender: male
+name: Corrin Wildheart
 affiliations:
 - {org: Wildhearts, type: primary}
 - {org: Wave Dancer, title: Navigator}
 whereabouts:
 - {type: home, location: Wave Dancer, format: '<linktext> <name>, <ancestry:a> <maintype>'}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Corrin Wildheart
 hide_toc: true
 ---
@@ -42,3 +46,8 @@ hide_toc: true
 Corrin Wildheart is a navigator with a touch of weather magic, part of the crew of the halfling trading ship the [Wave Dancer](<../../things/ships/wave-dancer.md>). He has bright blond unkempt hair, and tends towards yellow and red clothes.
 ## Relationships
 Corrin married into the [Brightmoon trading family](<../../groups/halfling-families/brightmoons.md>), and now sails with them, along with his younger brother [Lerry Wildheart](<lerry-wildheart.md>).
+
+
+
+
+

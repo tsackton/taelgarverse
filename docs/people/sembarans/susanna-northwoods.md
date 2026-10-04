@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
 tags: [person]
-whereabouts: Asineau
-gender: female
 species: human
 ancestry: Sembaran
-dm_notes: color
+gender: female
+name: Susanna Northwoods
+whereabouts: Asineau
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720s
 title: Susanna Northwoods
 hide_toc: true
 ---
@@ -22,3 +27,7 @@ hide_toc: true
 
 
 ![Susanna Northwords](/taelgarverse/assets/susanna-northwords.webp){align="right"; width="320"}The steward and secretary for the [Manor of Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-asineau.md>), and the wife of [Bertram Northwoods](<bertram-northwoods.md>).
+
+
+
+

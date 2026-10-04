@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Geo
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: bear
 subspecies: spirit
+name: Geo
 affiliations:
 - {org: Adventurers of Mawar, title: Companion}
+knownTo: [mawar]
 dm_owner: player
 dm_notes: none
+POV: 1749
 title: Geo
 hide_toc: true
 ---
@@ -23,3 +27,9 @@ hide_toc: true
 
 
 Geo is one form of [Ryu](<ryu.md>)'s shapeshifting beast companion, a primal spirit also known as [Turk](<turk.md>) in shark form and [Blu](<blu.md>) in osprey form.
+
+
+
+
+
+

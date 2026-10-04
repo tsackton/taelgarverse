@@ -29,7 +29,7 @@ The Darba Highlands have a strong hydrological gradient, with the area around th
 ![Darba Highlands River Monsoon](/taelgarverse/assets/darba-highlands-river-monsoon.webp)
 *The [Rudhan](<../rivers/rudhan.md>) after the monsoon.*
 
-In the northwest, the Darba Highlands are a region of coastal mountains, where the constant sea breezes and the impact of the [Chataan Mountains](<../../greater-chardon/chataan-mountains.md>) results in a more even rainfall pattern across the year. 
+In the northwest, the Darba Highlands are a region of coastal mountains, forming the southern foothills of the [Chataan Mountains](<../../greater-chardon/chataan-mountains.md>). Here, constant sea breezes and the impact of the [Chataan Mountains](<../../greater-chardon/chataan-mountains.md>) results in a more even rainfall pattern across the year, with some winter rain. 
 
 To the south, the land becomes increasingly flat, as the terrain transitions to the broad, open [Nayan Floodplains](<../nayan-floodplains.md>) and the new land created as [Greater Dunmar](<../greater-dunmar.md>) was reshaped at the end of the [Great War](<../../../events/1500s/great-war.md>). 
 

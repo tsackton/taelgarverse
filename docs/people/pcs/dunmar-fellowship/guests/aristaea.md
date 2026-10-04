@@ -1,19 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-name: Aristaea
-born:
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+tags: [person, status/check/lint]
 species: stoneborn
 ancestry:
+campaignInfo:
+born:
 gender: female
 player: Kate Sackton
-excludePublish: [clee]
-displayDefaults: {aNoDate: Traveled with <affiliations>}
+name: Aristaea
+aliases: [Aristaea Mountainhands]
 affiliations:
-- {org: Dunmar Fellowship, title: Guest"}
+- {org: Dunmar Fellowship, title: Guest}
+knownTo: [dufr]
+excludePublish: [clee]
 dm_owner: player
 dm_notes: important
+POV: 1748
 title: Aristaea
 hide_toc: true
 ---
@@ -29,3 +34,9 @@ hide_toc: true
 
 
 A stoneborn paladin, a frequent wanderer in the [Forest of Nightmares](<../../../../gazetteer/northern-sentinels/forest-of-nightmares.md>), who joined [Delwath](<../delwath.md>) on his [quest](<../../../../campaigns/dunmari-frontier-campaign/session-notes/session-53-dufr.md>). After bidding [Delwath](<../delwath.md>) farewell, returned to her wandering among the Deno’qai and the stoneborn of the far north.
+
+
+
+
+
+

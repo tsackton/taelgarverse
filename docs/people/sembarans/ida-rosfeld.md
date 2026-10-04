@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-name: Ida Rosfeld
-born: 1687
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+born: 1687
 gender: female
 title: Captain Ida Rosfeld
+name: Ida Rosfeld
 affiliations:
 - {org: Army Garrison of Cleenseau, start: 1718, title: Captain, type: leader}
 - {org: Lord's Council of Cleenseau, title: Advisor, start: 1719-01-06}
 whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: Dunfry}
-dm_notes: important
+knownTo: [clee]
 dm_owner: mike
+dm_notes: important
+POV: 1720
 hide_toc: true
 ---
 # Captain Ida Rosfeld
@@ -33,4 +37,11 @@ hide_toc: true
 
 
 ![Ida Rosfeld](/taelgarverse/assets/ida-rosfeld.webp){align="right"; width="320"}Ida is the captain of the [Cleenseau Garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>). She is a no-nonsense commander who respects very few people other than [Rosalind Essford](<rosalind-essford.md>) and is known for her sharp tongue.
+
+
+
+
+
+
+
 

@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-knownTo: [GL]
-name: Herasto
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: centaur
 gender: male
+name: Herasto
+knownTo: [grli]
 dm_owner: tim
 dm_notes: none
+POV: 1747
 title: Herasto
 hide_toc: true
 ---
@@ -25,4 +28,11 @@ hide_toc: true
 Herasto is the leader of a centaur band, and [Theopheia](<theopheia.md>)'s partner. He cares deeply for his herd, and has kept them safe for many migrations. 
 
 His band spent some time south of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), and came to know the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>), who aided them on several occasions. During [the war against Grumella](<../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-2.md>), Herasto agreed to send centaur warriors to aid Voltara.
+
+
+
+
+
+
+
 

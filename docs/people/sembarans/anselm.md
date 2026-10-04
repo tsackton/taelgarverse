@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: clee}
-name: Anselm
-born: 1655
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee}
+born: 1655
 gender: male
-whereabouts: Cleenseau
+name: Anselm
 affiliations:
 - {org: Lord's Council of Cleenseau}
-dm_notes: color
+whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1719
 title: Anselm
 hide_toc: true
 ---
@@ -30,4 +34,8 @@ hide_toc: true
 
 
 ![Anselm Portrait](/taelgarverse/assets/anselm-portrait.webp){align="right"; width="320"}The temple administrator of the Temple of the Warlord in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). An ambitious man and not very religious.
+
+After [Lorin Valbert](<lorin-valbert.md>) left [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>) in DR 1720, Anselm helped manage the manor’s affairs and prepare its garrison, but since [Robin's](<../pcs/cleenseau/robin-of-abenfyrd.md>) appointment as lord of Asineau he has returned to Cleenseau.
+
+
 

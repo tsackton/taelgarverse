@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text]
-name: Aygul
-pronunciation: EYE-gool
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/text, status/check/lint]
+species: orc
 gender: female
 born: 1698
 activeYear: 1740
-species: orc
+image: '[[aygul-small.png]]'
+name: Aygul
+pronunciation: EYE-gool
 whereabouts:
 - {type: home, location: Gorzum}
 - {type: home, location: Uzgukhar}
 - {type: away, location: Vindristjarna, end: 9999}
-image: '[[aygul-small.png]]'
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1749
 title: Aygul
 hide_toc: true
 ---
@@ -34,5 +38,12 @@ hide_toc: true
 
 
 ![Aygul Portrait](/taelgarverse/assets/aygul-portrait.png){align="right"; width="320"}An orc brawler and fighter, who sees herself as a defender of her people and especially her twin sister, [Nuzkar](<nuzkar.md>). A loner, with no other family.
+
+
+
+
+
+
+
 
 

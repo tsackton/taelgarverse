@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-09-29T18:22:03-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: '', prep: at}
-name: The Bandit’s End
+tags: [place]
+typeOf: inn
 ancestry: Sembaran
 created: 1665
-typeOf: inn
+name: The Bandit’s End
 whereabouts: Cleenseau
 dm_owner: mike
 dm_notes: color
+POV: modern
 title: The Bandit’s End
 ---
 # The Bandit’s End
@@ -19,5 +22,10 @@ title: The Bandit’s End
 </div>
 
 
-An inn and tavern in [Cleenseau](<cleenseau.md>). Known for its strong ale, and boisterous bar. A gathering place of veterans and mercenaries who make a living guarding caravans, and numerous small, cramped rooms. It was originally built in the 1650s to house laborers working on rebuilding the town after the [hobgoblin wars](<../../../../../../events/1600s/third-hobgoblin-war-sembara.md>). It was converted to an inn in 1665.
+An inn and tavern in [Cleenseau](<cleenseau.md>). Known for its strong ale, and boisterous bar. A gathering place of veterans and mercenaries who make a living guarding caravans, with numerous small, cramped rooms. It was originally built in the 1650s to house laborers working on rebuilding the town after the [hobgoblin wars](<../../../../../../events/1600s/third-hobgoblin-war-sembara.md>). It was converted to an inn in 1665.
+
+
+
+
+
 

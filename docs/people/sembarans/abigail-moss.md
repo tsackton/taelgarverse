@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Abigail Moss
-born: 1698
 species: human
 ancestry: Sembaran
+born: 1698
 gender: female
+name: Abigail Moss
 whereabouts: Taviose
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: 1720
 title: Abigail Moss
 hide_toc: true
 ---
@@ -27,6 +31,11 @@ hide_toc: true
 ![Abilgail Moss](/taelgarverse/assets/abilgail-moss.webp){align="right"; width="320"}Abigail is a somewhat shy farmer whose orchard was infected with the remains of the giant spiders that plagued [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>) was able to disinfect it with his lay on hands ability. Her family was killed in the spider attacks, and she has struggled to maintain the family orchard, which is mostly walnuts and chestnuts and hugs the edge of [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>).
 
 Her family holds the orchard and several buildings in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>) as freeholders, and her two uncles are successful pig farmers.
+
+
+
+
+
 
 
 

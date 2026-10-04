@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-whereabouts: Cleenseau
-gender: female
-born: 1689
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
-dm_notes: none
+gender: female
+born: 1689
+name: Yvette
+whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Yvette
 hide_toc: true
 ---
@@ -24,3 +29,9 @@ hide_toc: true
 
 
 ![Yvette](/taelgarverse/assets/yvette.webp){align="right"; width="320"}A caretaker and nurse in Essford Manor, currently caring for [Wymar Essford](<wymar-essford.md>) in his illness. Previously a cook, and with an unusual connection to the Night Queen. She tends the small shrine to the Night Queen in Essford Manor while [Eremon](<eremon.md>) is travelling.
+
+
+
+
+
+

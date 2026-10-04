@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase]
-campaignInfo: []
-name: Arryn III
-born: 1702
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, testcase, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo: []
+born: 1702
 gender: male
 title: King Arryn III
+name: Arryn III
 affiliations:
 - {org: House of Lils, type: primary}
 - {place: Sembara, start: 1745}
@@ -15,8 +17,10 @@ affiliations:
 whereabouts:
 - {type: home, location: Tafolwern, end: 1721-08}
 - {type: home, location: Embry, start: 1721-09}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: 1740s
 hide_toc: true
 ---
 # King Arryn III
@@ -37,4 +41,10 @@ hide_toc: true
 
 
 The king of Sembara in the 1740s, he is a quiet ruler and has largely maintained the peace and prosperity of his mother, [Elaine II](<elaine-ii.md>). He came to the throne in DR 1745 on her death, and continues to be interested in tales of his namesake, [Arryn I](<arryn-i.md>), and his supposed second life in [Twilight's Grace](<../../../gazetteer/extraplanar/feywild/twilight-s-grace/twilight-s-grace.md>).
+
+
+
+
+
+
 

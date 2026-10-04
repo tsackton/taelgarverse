@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Lengau
-born:
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: celestial
 ancestry:
+campaignInfo: []
+born:
 gender: nonbinary
 pronouns: he/him or she/her (as they desire)
+name: Lengau
+knownTo: [dufr]
 excludePublish: [clee]
-dm_notes: important
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Lengau
 hide_toc: true
 ---
@@ -25,3 +29,9 @@ hide_toc: true
 
 
 The spirit of the [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), often appearing as a jaguar. Protector of the jungle, but weakened and forced to flee by [Motua](<motua.md>)’s pain and rage. Reborn again and again in a new form each generation; imbued the babies [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>) is protecting with part of his soul.
+
+
+
+
+
+

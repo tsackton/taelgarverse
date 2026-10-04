@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo:
-- {campaign: DuFr, type: freed, date: 1749-01-08, wParty: '<met:u> from the <current:1> by <person> on <target>'}
-name: Sh’shethis
-born:
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: elemental
 ancestry:
+campaignInfo:
+- {campaign: dufr, type: freed, date: 1749-01-08, wParty: '<met:u> from the <current:1> by <person> on <target>'}
+born:
 gender:
+name: Sh’shethis
 whereabouts:
 - {type: home, location: Elemental Plane of Air}
 - {type: away, start: 1000, end: 1749-01-08, location: Elemental Forge}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: modern
 title: Sh’shethis
 hide_toc: true
 ---
@@ -33,4 +37,10 @@ hide_toc: true
 
 
 
-A strange creature of elemental air who was bound to the Elemental Forge in the [Edge of Echoes](<../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>) for over 1000 years. Freed in DR 1749 by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 
+A strange creature of elemental air who was bound to the Elemental Forge in the [Edge of Echoes](<../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>) for over 1000 years. Freed in DR 1749 by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>).
+
+
+
+
+
+

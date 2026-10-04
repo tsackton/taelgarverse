@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo:
-- {campaign: DuFr}
-name: Pava
-born: 1673
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr}
+born: 1673
 gender: male
+name: Pava
 affiliations: [Order of the Awakened Soul]
 whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Pava and Avaras' House}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1740s
 title: Pava
 hide_toc: true
 ---
@@ -36,4 +40,11 @@ hide_toc: true
 A master of the Order of the Awakened Soul, an old man, bald, with striking blue eyes and surprising agility.
 
 ![Pava](/taelgarverse/assets/pava.webp)
+
+
+
+
+
+
+
 

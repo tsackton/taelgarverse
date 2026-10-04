@@ -1,23 +1,29 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 tags: [person, testcase]
-campaignInfo:
-- {campaign: DuFr, date: 1748-11-23, format: 'Freed from <current:2> by <person>, <target>'}
-name: Hralgar
-born:
 species: giant
 subspecies: storm giant
+campaignInfo:
+- {campaign: dufr, date: 1748-11-23, format: 'Freed from <current:2> by <person>, <target>'}
+born:
 gender: male
+name: Hralgar
+pronunciation: HRAL-gar
 whereabouts:
 - {type: away, start: 1020, end: 1748-11-22, linkText: trapped in, location: Stormcaller Tower}
 - {type: home, start: 1748-11-23, end: 1748-11-23, linkText: ' ', location: Stormcaller Tower}
 - {type: home, start: 1748-11-24, alias: drifting on the storm across the world}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: modern
 title: Hralgar
 hide_toc: true
 ---
 # Hralgar
+:speaker:{ .middle } *(HRAL-gar)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -27,11 +33,11 @@ hide_toc: true
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of November 23th, 1748): [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of November 23rd, 1748): [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Freed from [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), November 23th, 1748  
+:octicons-location-24:{ .lg .middle } Freed from [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), [Samtal](<../../gazetteer/greater-dunmar/hara-basin/samtal.md>) by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), November 23rd, 1748  
 
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.
@@ -41,5 +47,10 @@ Hralgar was born just before the Downfall, and spent his younger days uninterest
 When the Golden Age ended in civil war, and the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>) came to power, things became more difficult, and some time later he was trapped by Eudomes, during Apollyon's reign. 
 
 He was partially awakened from his imprisonment in the spring of 1748, by three Chardonians: [Dee Wildcloak](<../halflings/dee-wildcloak.md>), [Dain Goldhammer](<../dwarves/dain-goldhammer.md>), and [Alban](<../chardonians/alban.md>) (who died in the tower). He was later freed by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), and vanished into the winds. 
+
+
+
+
+
 
 

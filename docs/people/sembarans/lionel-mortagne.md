@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Lionel Mortagne
 species: human
 ancestry: Sembaran
-whereabouts: Beury
-pronunciation: Li-o-nel Mor-tahn-yeh
 gender: male
 born: 1686
-dm_notes: none
+name: Lionel Mortagne
+pronunciation: Li-o-nel Mor-tahn-yeh
+whereabouts: Beury
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Lionel Mortagne
 hide_toc: true
 ---
@@ -27,3 +31,7 @@ hide_toc: true
 
 
 ![Lionel Mortagne](/taelgarverse/assets/lionel-mortagne.webp){align="right"; width="320"}The captain of [Lord Murtha's](<erick-murtha.md>) household guard.
+
+
+
+

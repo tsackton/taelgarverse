@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: killed by spiders}
-campaignInfo: []
-name: Edur
-born: 1500
+tags: [person, status/check/lint]
 species: lizardfolk
 ancestry:
+campaignInfo: []
+born: 1500
 gender: male
 died: 1719-10-19
+name: Edur
 whereabouts:
 - {type: home, location: Ganboa}
 - {type: away, start: 1719-10-19, location: Cleenseau Wood}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Edur
 hide_toc: true
 ---
@@ -32,3 +36,9 @@ hide_toc: true
 
 
 The brother of [Erdu](<erdu.md>).
+
+
+
+
+
+

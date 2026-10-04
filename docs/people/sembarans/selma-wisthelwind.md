@@ -8,6 +8,7 @@ ancestry: Zimka
 born: 1644
 gender: female
 name: Selma Wisthelwind
+pronunciation: SELL-mah WISS-thel-wind
 affiliations:
 - {org: The Fox's Flagon, type: leader, title: Proprietor, start: 1712}
 whereabouts:
@@ -22,6 +23,7 @@ title: Selma Wisthelwind
 hide_toc: true
 ---
 # Selma Wisthelwind
+:speaker:{ .middle } *(SELL-mah WISS-thel-wind)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -38,7 +40,6 @@ hide_toc: true
 
 
 ![Selma Wisthelwind](/taelgarverse/assets/selma-wisthelwind.webp){align="right"; width="320"}Selma bought [The Fox's Flagon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-fox-s-flagon.md>) for cash in DR 1712 and appears to enjoy running the inn as a form of retirement. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [Kestavo](<../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) religion of [Zimkova](<../../gazetteer/greater-sembara/zimkova/zimkova.md>).
-
 
 
 

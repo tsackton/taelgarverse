@@ -1,22 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: lizardfolk
+ancestry:
 campaignInfo:
 - {campaign: dufr, person: Kenzo, date: 1748-11-03, type: met}
 - {campaign: dufr, person: Kenzo, date: 1748-11-13, type: last seen}
-name: Enari
 born:
 activeYear: 1745
-species: lizardfolk
-ancestry:
 gender: male
+name: Enari
 whereabouts:
 - {type: home, location: Orekatu}
 - {type: away, start: 1748-11-01, end: 1748-11-04, location: Bedez}
 - {type: away, start: 1748-11-06, end: 1748-11-13, location: Azta Lekua}
 - {type: away, start: 1748-11-15, location: Bedez}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1740s
 title: Enari
 hide_toc: true
 ---
@@ -44,3 +48,10 @@ hide_toc: true
 ![Enari Portrait](/taelgarverse/assets/enari-portrait.webp){align="right"; width="400"}A well-muscled lizardfolk hunter and wanderer, who earned a reputation and honor traveling among the villages of the kingdom of [Orekatu](<../../gazetteer/faraway-places/orekatu.md>). 
 
 Guided [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) and [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>) to the [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), the [Footprint of the Gods](<../../gazetteer/faraway-places/azta-lekua.md>), and returned to [Bedez](<../../gazetteer/faraway-places/bedez.md>) after they succeeded in their quest, to report to the elders of the kingdom. 
+
+
+
+
+
+
+

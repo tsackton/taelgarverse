@@ -20,7 +20,7 @@ In a book by Chardonian scholar, [Gnaeus](<../../../people/chardonians/gnaeus.md
 
 Here, [Kassi](<../../../people/dunmari/kassi.md>) finds much more information, from three main sources. The information from each book is listed below.
 
-### On Greater Divinity
+### [On Greater Divinity](<../../../things/books/on-greater-divinity.md>)
 
 The first is from a classic philosophical treatise entitled "On Greater Divinity", written by a Dunmari scholar from 400 years ago, during the Dharajun dynasty. This work considers the theological question of the actual existence of [Shurat](<../../../gods-and-religions/gods/high-gods/divine-presence.md>) and [Sampa](<../../../gods-and-religions/gods/high-gods/divine-presence.md>) of Dunmari myth. The power of [the Five Siblings](<../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>) is unquestionable given the frequency and power of miracles and even direct communication by these powers. But how can we establish the reality, or not, of the creator divinities? The text outlines a number of arguments, such as the limits of the power of gods, the inference of divine intervention beyond their abilities (creation of humans, separation of the planes), and where the gods themselves come from. A small section of this work also considered comparative theology, arguing that the common structure of many religions (with the creator god or gods, never more than two), suggests their reality as well. In this section, are a few sentences that mention [Anida](<../../../gods-and-religions/gods/high-gods/divine-presence.md>):
 
@@ -46,7 +46,7 @@ Of particular note is the discussion of their religion, which is centered around
 
 [Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>): The spirit of the hunt, the moon, and the night. Particularly attracted by offerings from a fresh hunt.
 
-### On the Birth and Death of the Lesser Gods
+### [On the Birth and Death of the Lesser Gods](<../../../things/books/on-the-birth-and-death-of-the-lesser-gods.md>)
 
 The final mention is from a work of Esa, a Lakan scholar who lived about 70 years ago. She was fascinated by trying to understand divinity and was particularly interested in stories of what she called the lesser gods, minor powers that seemed to arise and sometimes disappear. Much of the work is theological speculation on [Bhishma](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/bhishma.md>), [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>), and Adra, focusing on the idea / dogma that their divinity was a gift from [the Five Siblings](<../../../gods-and-religions/religions/five-siblings/dunmari-religion.md>), who bestowed some measure of their power on those who would otherwise have lived and died as mortal humans.
 

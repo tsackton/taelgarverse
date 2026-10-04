@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-whereabouts: Beury
 species: human
 ancestry: Sembaran
 gender: male
 born: 1686
-dm_notes: none
+name: Edmund Bracken
+whereabouts: Beury
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Edmund Bracken
 hide_toc: true
 ---
@@ -24,3 +29,7 @@ hide_toc: true
 
 
 ![Edmund Bracken](/taelgarverse/assets/edmund-bracken.webp){align="right"; width="320"}The chamberlain and valet of [Erick Murtha](<erick-murtha.md>).
+
+
+
+

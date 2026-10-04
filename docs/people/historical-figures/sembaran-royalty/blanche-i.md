@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text]
-name: Blanche I
-born: 1538
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1538
 gender: female
 died: 1567
 title: Queen Blanche I
+name: Blanche I
 affiliations:
 - {place: Sembara, title: High Queen, start: 1561-02-13}
 - {place: Ardlas, title: High Queen, start: 1561-02-13}
 - {place: Lavnoch, title: High Queen, start: 1561-02-13}
 - {place: Breva, title: High Queen, start: 1561-02-13}
 - {org: House of Sewick, type: primary}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 hide_toc: true
 ---
 # Queen Blanche I
@@ -31,4 +35,11 @@ hide_toc: true
 
 
 A ruler of Sembara during the 1560s, she was the second child of [Reginald](<reginald.md>). Her death launched the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>), as her sisters, [Anne](<anne.md>) and [Elaine I](<elaine-i.md>) disputed the succession.
+
+
+
+
+
+
+
 

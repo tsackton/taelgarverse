@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: killed by spiders}
-campaignInfo:
-- {campaign: clee, type: His body was found, date: 1719-10-22}
-name: Nicholas the Beggar
-born: 1651
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, type: His body was found, date: 1719-10-22}
+born: 1651
 gender: male
 died: 1719-10-14
+name: Nicholas the Beggar
 whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-10-14, end: 1719-10-30, location: Cleenseau Wood}
+knownTo: [clee]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Nicholas the Beggar
 hide_toc: true
 ---
@@ -33,4 +37,10 @@ hide_toc: true
 
 
 
-An old man with a thick grey beard, a beggar who lived in the ramshackle Beggar's Way outside of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). His body was found in the Cleansing of the Ettercap Lair by [Najeer](<../pcs/cleenseau/viepuck.md>), [Izgil](<../pcs/cleenseau/izgil-moonseeker.md>), [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>), and [Celyn](<../pcs/cleenseau/celyn.md>). He was believed to have been killed by spider's on or around October 14th.
+An old man with a thick grey beard, a beggar who lived in the ramshackle Beggar's Way outside of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). His body was found in the Cleansing of the Ettercap Lair by [Najeer](<../pcs/cleenseau/viepuck.md>), [Izgil](<../pcs/cleenseau/izgil-moonseeker.md>), [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>), and [Celyn](<../pcs/cleenseau/celyn.md>). He was believed to have been killed by spiders on or around October 14th.
+
+
+
+
+
+

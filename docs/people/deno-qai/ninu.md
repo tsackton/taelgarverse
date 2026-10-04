@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Ninu
-born: 1703
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Deno'qai
+campaignInfo: []
+born: 1703
 gender: female
-whereabouts:
-- {type: home, location: Ko'zula village}
+name: Ninu
 affiliations:
 - {org: Ko'zula, type: primary}
-dm_notes: none
+whereabouts:
+- {type: home, location: Ko'zula village}
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1748
 title: Ninu
 hide_toc: true
 ---
@@ -31,3 +35,9 @@ hide_toc: true
 Chief of the largest of the [Ko'zula](<../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) villages; told [Delwath](<../pcs/dunmar-fellowship/delwath.md>) the story of the [armbands of Cha’mutte](<../../campaigns/dunmari-frontier-campaign/treasure/cha-muttes-shadow-armband.md>) and the lost tanshi.
 
 She is in her late 40s/early 50s, with plenty of wrinkles and worry lines; her hair, which she wears loose and long, is still a dirty blonde, with hints of gray at the temples. She dresses in dyed buckskin, mostly reds and browns.
+
+
+
+
+
+

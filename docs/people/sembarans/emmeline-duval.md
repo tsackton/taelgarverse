@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-whereabouts: Cleenseau
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 gender: female
 born: 1688
 died: 1720-01-04
-dm_notes: none
+name: Emmeline Duval
+whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Emmeline Duval
 hide_toc: true
 ---
@@ -24,4 +29,10 @@ hide_toc: true
 </div>
 
 
-A baker, particularly known for her "miracle of the bridge" festival fried dough. 
+A baker, particularly known for her "miracle of the bridge" festival fried dough.
+
+
+
+
+
+

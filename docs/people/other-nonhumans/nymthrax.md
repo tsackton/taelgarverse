@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: 'Killed by the [[Silver Tempests]] on'}
-name: Nymthrax
-gender: male
+tags: [person, status/check/lint]
 species: dragon
 subspecies: black dragon
+gender: male
 died: 1748-02-15
+name: Nymthrax
 whereabouts:
 - {type: home, location: Unknown}
 - {type: home, location: Blackwater Fens}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Nymthrax
 hide_toc: true
 ---
@@ -28,9 +32,16 @@ hide_toc: true
 </div>
 
 
-![Nymthrax](/taelgarverse/assets/nymthrax.webp){align="right"; width="400"}A black dragon who established a lair in the  [Blackwater Fens](<../../gazetteer/northern-sentinels/blackwater-fens.md>) in the DR 1700s. As he grew in power in the DR 1730s and DR 1740s, his expanding sphere of influence disrupted the balance of power on the northern frontier, eventually creating the conditions for the growth in power of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>). 
+![Nymthrax](/taelgarverse/assets/nymthrax.webp){align="right"; width="400"}A black dragon who established a lair in the [Blackwater Fens](<../../gazetteer/northern-sentinels/blackwater-fens.md>) in the DR 1700s. As he grew in power in the DR 1730s and DR 1740s, his expanding sphere of influence disrupted the balance of power on the northern frontier, eventually creating the conditions for the growth in power of [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>).
 
 In DR 1748, while investigating raids on Chardonian border forts caused by displaced [Bullywugs](<../../creatures/bestiary/bullywugs.md>), the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>), along with the [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) godcaller [Izkir](<../deno-qai/izkir.md>), met and eventually killed Nymthrax. 
 
-Her lair contained many treasures from lost kingdoms of the north that were destroyed during and after the [Great War](<../../events/1500s/great-war.md>).
+His lair contained many treasures from lost kingdoms of the north that were destroyed during and after the [Great War](<../../events/1500s/great-war.md>).
+
+
+
+
+
+
+
 

@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Colin
-born: 1691
 species: human
 ancestry: Sembaran
+born: 1691
 gender: male
+name: Colin
 affiliations:
 - {org: Lord's Guard of Cleenseau, title: Guardsman}
 whereabouts: Cleenseau
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Colin
 hide_toc: true
 ---
@@ -25,5 +29,10 @@ hide_toc: true
 
     Based in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
+
+
+A guard in the Cleenseau town watch, he has managed to survive the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) and other incidents in 1719-1720 without making a name for himself.
+
+
 
 

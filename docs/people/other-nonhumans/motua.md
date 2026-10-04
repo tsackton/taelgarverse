@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
 displayDefaults: {boxInfo: '<subspecies:sA> (<species>), <pronouns>'}
-campaignInfo:
-name: Motua
+tags: [person]
 species: celestial
 subspecies: gidari
+campaignInfo:
 gender: nonbinary
+timelineDescriptor: Motua
+name: Motua
+pronunciation: moh-TOO-ah
 whereabouts:
 - {type: home, location: Land of the Dead}
 - {type: away, start: 1747-07-02, end: 1748-12-07, location: Azta Lekua}
-pronunciation: moh-TOO-ah
-timelineDescriptor: Motua
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: none
+POV: modern
 title: Motua
 hide_toc: true
 ---
@@ -37,6 +41,9 @@ In DR 1747, Motua fought [Grash](<grash.md>) in the [Land of the Dead](<../../co
 - Jun 11, 1747 DR [Grash](<grash.md>) enters the [Land of the Dead](<../../cosmology/land-of-the-dead.md>) to activate the [Ring of Undying](<../../things/artifacts-of-power/ring-of-undying.md>), and encounters [Motua](<motua.md>). They fight, and [Motua](<motua.md>) is wounded.
 - Jul 02, 1747 DR [Motua](<motua.md>) lands, disoriented, in the [Footprint of the Gods](<../../gazetteer/faraway-places/azta-lekua.md>).
 - Nov 06, 1748 DR [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>), and [Enari](<../lizardfolk/enari.md>) heal [Motua](<motua.md>).
+
+
+
 
 
 

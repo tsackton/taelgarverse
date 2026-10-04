@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Aznoké
-aliases: [Aznoké]
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: lizardfolk
 gender: female
+name: Aznoké
+aliases: [Aznoké]
+knownTo: []
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Aznoké
 hide_toc: true
 ---
@@ -26,4 +30,10 @@ Aznoké was a [lizardfolk](<../../creatures/species/lizardfolk.md>) mystic whose
 
 Her cosmology is rooted in lizardfolk images of flow, balance, ancestry, and return. Life flows from the [Plane of Blossoming Currents](<../../cosmology/energy-realms/positive-energy-plane.md>), while death gathers in the [Plane of Still Waters](<../../cosmology/energy-realms/negative-energy-plane.md>), where life slows, is cleansed, and prepares for renewal. The same poem describes the [Tharzen Anzinakoa](<../../gods-and-religions/gods/embodied-gods/tharzen-anzinakoa/tharzen-anzinakoa.md>) as weaving strands of energy and spirit into the [Material Plane](<../../cosmology/material-plane.md>), a vision that treats planar connection as part of the same cycle as birth, death, and rebirth.
 
-Later scholars cite Aznoké because her Plane of Blossoming Currents and Plane of Still Waters resemble later speculation about the Positive and Negative Energy Planes. Her work, however, is not merely a technical classification of planes. It is a mystical account of the multiverse as a natural cycle of energy flows. 
+Later scholars cite Aznoké because her Plane of Blossoming Currents and Plane of Still Waters resemble later speculation about the Positive and Negative Energy Planes. Her work, however, is not merely a technical classification of planes. It is a mystical account of the multiverse as a natural cycle of energy flows.
+
+
+
+
+
+

@@ -10,3 +10,4 @@
 - [Session 3: Curses and Cockatrices](<session-notes/dunmar-frontier-session-03.md>)
 - [Session 4: Shakun's Wane](<session-notes/dunmar-frontier-session-04.md>)
 - [Session 5: Karawa at the Crossroads](<session-notes/dunmar-frontier-session-05.md>)
+- [Session 6: The Festival of Rebirth](<session-notes/dunmar-frontier-session-06.md>)

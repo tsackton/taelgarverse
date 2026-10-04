@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-knownTo: [Mawar]
-name: Jaeson
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Mawaran
 gender: male
+name: Jaeson
 whereabouts: North Cliffs
+knownTo: [mawar]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Jaeson
 hide_toc: true
 ---
@@ -28,5 +31,11 @@ Jaeson is a somewhat shady cliffside resident of the [North Cliffs](<../../gazet
 In DR 1747, [Ryu](<../pcs/mawar/ryu.md>) and [Trok](<../pcs/mawar/trok.md>) questioned Jaeson while [investigating the recent occupant](<../../campaigns/mawar-adventures/episodes/mawar-adventures-episode-02.md>) of [Airion's](<../other-humans/airion.md>) ruined tower in the [North Cliffs](<../../gazetteer/northwest-coast/mawar-confederacy/north-cliffs.md>), eventually leading to a worn older man later revealed as [Azar the Lost](<azar-the-lost.md>), who had been using the tower, smoking [gatza](<../../things/materials/gatza.md>), and asking around about lead.
 
 Later that year, Jaeson interrupted [Ander's](<../pcs/mawar/ander.md>) reunion with [Ryu](<../pcs/mawar/ryu.md>) at Ryu's cliff tower with a [rumor that a beast was killing lizardfolk](<../../campaigns/mawar-adventures/episodes/mawar-adventures-episode-04.md>) near [Eskorola](<../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>) and demanding gatza. In his typical somewhat-dubious fashion, he framed the danger as a chance for [Ryu](<../pcs/mawar/ryu.md>) to profit from the tribute, or at least corner the local gatza trade.
+
+
+
+
+
+
 
 

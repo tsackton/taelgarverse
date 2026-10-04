@@ -1,18 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: brought to justice}
-gender: male
+tags: [person, status/check/lint]
 species: human
 ancestry: Tollender
+gender: male
 born: 1686
 died: 1720-02-07
+name: Gareth of Tollen
 whereabouts:
 - {type: home, location: Tollen}
 - {type: home, location: Embry, end: 1719-08}
 - {type: home, location: Aslain, start: 1719-09}
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: modern
 title: Gareth of Tollen
 hide_toc: true
 ---
@@ -32,6 +37,11 @@ hide_toc: true
 ![Gareth of Tollen](/taelgarverse/assets/gareth-of-tollen.webp){align="right"; width="320"}A baronial tax collector for the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), he was hired in mysterious circumstances and previously worked for the [Lord Mayor’s Workhouse](<../../gazetteer/greater-sembara/sembara/heartlands/lord-mayors-workhouse.md>) in [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>) as an enforcer.
 
 He was discovered to have been misappropriating funds and was brought to justice for banditry and prior crimes by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>). He was executed for his crimes in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) by the order of [Nicholas Wysson](<nicholas-wysson.md>).
+
+
+
+
+
 
 
 

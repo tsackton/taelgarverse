@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Obel
-born: 1688
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Deno'qai
+campaignInfo: []
+born: 1688
+gender: male
+name: Obel
 affiliations:
 - {org: Te'kula, type: primary}
-gender: male
 whereabouts: Te'kula village
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Obel
 hide_toc: true
 ---
@@ -27,4 +31,10 @@ hide_toc: true
 </div>
 
 
-An old ranger of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) who volunteered to fight [Grimbaskal](<../other-nonhumans/mezzar.md>) with the party. Miraculously survived. 
+An old ranger of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) who volunteered to fight [Grimbaskal](<../other-nonhumans/mezzar.md>) with the party. Miraculously survived.
+
+
+
+
+
+

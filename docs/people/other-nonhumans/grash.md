@@ -1,24 +1,28 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: killed}
-campaignInfo:
-- {campaign: DuFr, type: scryed, date: 1748-12-28}
-- {campaign: DuFr, type: defeated, date: 1749-01-20}
-name: Grash
-born:
-died: 1749-01-20
+tags: [person, status/check/lint]
 species: undead
 subspecies: skeletal
+campaignInfo:
+- {campaign: dufr, type: scryed, date: 1748-12-28}
+- {campaign: dufr, type: defeated, date: 1749-01-20}
+born:
+died: 1749-01-20
 gender: male
-excludePublish: [clee]
+name: Grash
 whereabouts:
 - {type: away, start: 1747, end: 1748-11-28, location: Kharsan}
 - {type: away, start: 1748-11-28, end: 1748-12-05, location: Garamjala}
 - {type: away, start: 1748-12-05, end: 1748-12-14, location: Xurkhaz}
 - {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar}
-dm_notes: important
+knownTo: [dufr]
+excludePublish: [clee]
 dm_owner: tim
+dm_notes: important
+POV: modern
 title: Grash
 hide_toc: true
 ---
@@ -49,3 +53,9 @@ hide_toc: true
 Grash was rumored to once have been a knight from an unknown land, a warrior, skilled in battle, who sought glory in the [Nashtkar](<../../gazetteer/greater-dunmar/nashtkar.md>), and never returned. He became something of a rumor and legend, a haunted ghost to frighten children with. A knight of shadows who could cut wounds that would not heal with his glaive. A cursed warrior, who could summon chains of darkness to bind your heart and drag you closer to death. 
 
 How he acquired the [Ring of Undying](<../../things/artifacts-of-power/ring-of-undying.md>), and how he found himself in [Apollyon](<../historical-figures/drankorian-emperors/apollyon.md>)'s service, are not known.
+
+
+
+
+
+

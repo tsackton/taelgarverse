@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-gender: female
-whereabouts: Cleenseau
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Isinguer
-dm_notes: none
+gender: female
+name: Genevote
+whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Genevote
 hide_toc: true
 ---
@@ -21,4 +26,10 @@ hide_toc: true
 </div>
 
 
-![Genevote](/taelgarverse/assets/genevote.webp){align="right"; width="320"}The stablemaster of Essford Manor. 
+![Genevote](/taelgarverse/assets/genevote.webp){align="right"; width="320"}The stablemaster of Essford Manor.
+
+
+
+
+
+

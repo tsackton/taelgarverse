@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: killed himself in remorse}
-name: François the Bandit
-born: 1681
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1681
 gender: male
-aliases: [François the Bandit]
 died: 1719-11-05
+name: François the Bandit
+aliases: [François the Bandit]
 whereabouts: Cleenseau Region
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1719
 title: François the Bandit
 hide_toc: true
 ---
@@ -27,4 +31,10 @@ hide_toc: true
 </div>
 
 
-A ruffian and ne'er do well, he was a key figure in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). 
+A ruffian and ne'er do well, he was a key figure in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>).
+
+
+
+
+
+

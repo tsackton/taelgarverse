@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Shoal
-born: 1652
-ka: 37
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+tags: [person, status/check/lint]
 species: elf
 subspecies: sea
+born: 1652
+ka: 37
 gender: male
 player: Phil Grayson
-displayDefaults: {aNoDate: Traveled with <affiliations>}
+name: Shoal
 affiliations:
-- {org: Dunmar Fellowship, title: Guest"}
+- {org: Dunmar Fellowship, title: Guest}
 whereabouts:
 - {type: home, location: Quanyi}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Shoal
 hide_toc: true
 ---
@@ -32,4 +36,9 @@ hide_toc: true
 
 
 Young sea elf warrior, from the [Quanyi](<../../../../gazetteer/eastern-green-sea/quanyi.md>), to the south. Adventuring to win renown and the attention of a lady. After [helping kill the aboleth and rescue Arryn](<../../../../campaigns/dunmari-frontier-campaign/session-notes/session-60-dufr.md>), returned south. 
+
+
+
+
+
 

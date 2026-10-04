@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Xameia the Forsworn
-aliases: [Xameia]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 gender: female
 died: 1
+name: Xameia the Forsworn
+aliases: [Xameia]
 affiliations:
 - {org: Order of Twilight, title: Paladin}
-knownTo: [GL]
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Xameia the Forsworn
 hide_toc: true
 ---
@@ -28,8 +31,14 @@ hide_toc: true
 
 Xameia the Forsworn was a paladin of the [Order of Twilight](<../../groups/order-of-twilight.md>), a religious order of [The Night Queen](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-night-queen.md>). The order provided hospice care and tended many at the end of their life, with care and dignity, and as a result often received significant bequests. Xameia grew jealous of the wealth passing to the Order, and eventually broke, stealing a large amount of gold and leaving several dead acolytes in her wake. 
 
-She was killed for her crimes, and buried in a tomb near [Pykolon Lake](<../../gazetteer/major-rivers/chasa-nahadi-watershed/pykolon-lake.md>). But her soul could not rest until restitution was made for her crimes, and her curse eventually lead to the poisoning of the waters of the lake. 
+She was killed for her crimes, and buried in a tomb near [Pykolon Lake](<../../gazetteer/major-rivers/chasa-nahadi-watershed/pykolon-lake.md>). But her soul could not rest until restitution was made for her crimes, and her curse eventually led to the poisoning of the waters of the lake.
 
 Xameia found peace in DR 1747, after the [Order of Twilight Temple (Voltara)](<../../gazetteer/northwest-coast/northern-provinces/order-of-twilight-temple-voltara.md>) was cleansed of corruption and reconsecrated with the help of the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>). 
+
+
+
+
+
+
 
 

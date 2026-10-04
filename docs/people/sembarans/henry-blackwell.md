@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-whereabouts: Cleenseau
-born: 1700
-died: 1720-01-04
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1700
+died: 1720-01-04
 gender: male
-dm_notes: none
+name: Henry Blackwell
+whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Henry Blackwell
 hide_toc: true
 ---
@@ -25,3 +30,9 @@ hide_toc: true
 
 
 The apprentice of [Avelina Smith](<avelina-smith.md>) and a talented metalworker. He died in the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).
+
+
+
+
+
+

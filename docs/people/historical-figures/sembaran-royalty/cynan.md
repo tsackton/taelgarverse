@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Cynan
-born: 1538
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Tyrwinghan
+born: 1538
 gender: male
-affiliations:
-- {org: Tyrwingha, type: leader, start: 1571}
 title: King Cynan
 died: 1589
-dm_notes: none
+name: Cynan
+affiliations:
+- {org: Tyrwingha, type: leader, start: 1571}
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 hide_toc: true
 ---
 # King Cynan
@@ -27,4 +31,11 @@ hide_toc: true
 
 
 A king of Tyrwingha who, by marrying [Elaine I](<elaine-i.md>), reunited the crowns of Sembara and Tyrwingha. He married [Elaine I](<elaine-i.md>) in DR 1567. 
+
+
+
+
+
+
+
 

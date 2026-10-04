@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Mikel
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 gender: male
 born: 1733
+name: Mikel
 whereabouts:
 - {type: home, location: Suwi}
 - {type: away, start: 1748-08-23, location: Lake Suwi}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Mikel
 hide_toc: true
 ---
@@ -24,7 +28,13 @@ hide_toc: true
     Based in [Suwi](<../../gazetteer/northwest-coast/suwi.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of August 23th, 1748): [Lake Suwi](<../../gazetteer/northwest-coast/lake-suwi.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of August 23rd, 1748): [Lake Suwi](<../../gazetteer/northwest-coast/lake-suwi.md>)
 
 
 Mikel, the brother of [Clara of Suwi](<clara.md>), was kidnapped by the [Havoc Host](<../../groups/havoc-host.md>) during the [Havoc Host raids in Suwi](<../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-4.md>). Though the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) destroyed the aboleth behind the Havoc Host attacks, Mikel's later fate is not recorded.
+
+
+
+
+
+

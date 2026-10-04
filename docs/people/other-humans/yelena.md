@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Urskan
 gender: female
+name: Yelena
 affiliations: [Rodnya Voknaz]
 whereabouts: Ursk
-dm_notes: color
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: color
+POV: 1749
 title: Yelena
 hide_toc: true
 ---
@@ -24,4 +29,11 @@ hide_toc: true
 
 
 The sister of [Radomir](<radomir.md>). 
+
+
+
+
+
+
+
 

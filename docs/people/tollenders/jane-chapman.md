@@ -1,23 +1,27 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-30, type: met}
-name: Jane Chapman
-born: 1715
-activeYear: 1740
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Tollender
+campaignInfo:
+- {campaign: dufr, date: 1748-12-30, type: met}
+born: 1715
+activeYear: 1740
 gender: female
 title: Captain Jane Chapman
+name: Jane Chapman
 affiliations:
 - Dyer's Guild
 - {org: the Chapmans, type: primary, format: '<org:T>'}
 whereabouts:
 - {type: home, location: Tollen}
 - {type: away, start: '1748-12-30', end: '1748-12-30', location: Dyer's Guildhall}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 hide_toc: true
 ---
 # Captain Jane Chapman
@@ -38,4 +42,11 @@ hide_toc: true
 
 
 ![Jane Chapman Portrait](/taelgarverse/assets/jane-chapman-portrait.webp){align="right"; width="320"}A Tollender-born woman in her early 30s, from the well-off and well-established Chapman merchant family, Jane became a Dyer's Guild captain known for her skill and her luck at sea.  
+
+
+
+
+
+
+
 

@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: halfling
 born: 1701
 gender: male
-dm_owner: tim
-dm_notes: important
+name: Mica Copperharp
 whereabouts:
 - {type: away, location: Stormdancer}
 - {type: away, location: Plane of Water}
 - {type: away, start: 1749-05-21, end: 9999, location: Vindristjarna}
+knownTo: [dufr]
+dm_owner: tim
+dm_notes: important
+POV: 1749
 title: Mica Copperharp
 hide_toc: true
 ---
@@ -27,4 +32,10 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
 
 
-![Mica Copperharp](/taelgarverse/assets/mica-copperharp.webp){align="right"; width="250"}Mica Copperharp is a halfling sailor, formerly part of the crew of the [Stormdancer](<../../things/ships/stormdancer.md>), who followed his wife, [Willow Copperharp](<willow-copperharp.md>), to join the crew of [Vindristjarna](<../../things/ships/vindristjarna.md>). He is a comic, a joker, good with his hands and the drums, but not always the most subtle or careful with his words. He is a good brewer, and likes a mug of ale and meeting new people. 
+![Mica Copperharp](/taelgarverse/assets/mica-copperharp.webp){align="right"; width="250"}Mica Copperharp is a halfling sailor, formerly part of the crew of the [Stormdancer](<../../things/ships/stormdancer.md>), who followed his wife, [Willow Copperharp](<willow-copperharp.md>), to join the crew of [Vindristjarna](<../../things/ships/vindristjarna.md>). He is a comic, a joker, good with his hands and the drums, but not always the most subtle or careful with his words. He is a good brewer, and likes a mug of ale and meeting new people.
+
+
+
+
+
+

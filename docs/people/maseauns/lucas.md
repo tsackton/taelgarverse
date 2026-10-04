@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Lucas
-born: 1667
 species: human
 ancestry: Mazeanne
+born: 1667
 gender: male
+name: Lucas
 whereabouts: Evis
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1710s
 title: Lucas
 hide_toc: true
 ---
@@ -25,3 +29,7 @@ hide_toc: true
 
 
 An acolyte of [The Wanderer](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>), captured by [Wakog](<../other-nonhumans/wakog.md>) and rescued from his camp after the [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>). He shepherded many of the survivors back to [Evis](<../../gazetteer/greater-sembara/duchy-of-maseau/evis.md>).
+
+
+
+

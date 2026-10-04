@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: Clee, date: 1720-01-04, type: met}
-name: Margaret Ashford
-born: 1676
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, date: 1720-01-04, type: met}
+born: 1676
 gender: female
+name: Margaret Ashford
 whereabouts:
 - {type: home, location: Cleenseau}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Margaret Ashford
 hide_toc: true
 ---
@@ -29,3 +33,9 @@ hide_toc: true
 
 
 A midwife, who was tending to [Béatrix Thorne](<beatrix-thorne.md>) when the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) broke out.
+
+
+
+
+
+

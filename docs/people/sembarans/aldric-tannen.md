@@ -1,20 +1,26 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: Clee, date: 1719-12-04, type: met}
-name: Aldric Tannen
-born: 1682
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, date: 1719-12-04, type: met}
+born: 1682
 gender: male
+name: Aldric Tannen
+pronunciation: AL-drik TAN-en
 whereabouts: Cleenseau
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1710s
 title: Aldric Tannen
 hide_toc: true
 ---
 # Aldric Tannen
+:speaker:{ .middle } *(AL-drik TAN-en)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -27,4 +33,7 @@ hide_toc: true
 
 
 
-Aldric is a jovial fisherman who operates one of the rafts on the River Enst during the summer. He is perpetually looking for get rich schemes, and notoriously unreliable. 
+Aldric is a jovial fisherman who operates one of the rafts on the River Enst during the summer. He is perpetually looking for get rich schemes, and notoriously unreliable.
+
+
+

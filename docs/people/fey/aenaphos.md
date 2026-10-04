@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1749-05-31, type: met}
-pronunciation: AYN-ah-fohs
 species: fey
+campaignInfo:
+- {campaign: dufr, date: 1749-05-31, type: met}
 gender: male
+name: Aenaphos
+pronunciation: AYN-ah-fohs
 whereabouts: Emberwine
-dm_notes: none
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1740s
 title: Aenaphos
 hide_toc: true
 ---
@@ -25,7 +30,11 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 31th, 1749 in [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 31st, 1749 in [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
 
 
-Aenaphos is a barge master sailing the [Ampelion River](<../../gazetteer/extraplanar/feywild/emberwine/ampelion-river.md>) in [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>). He is a tall man, with rust-colored skin, and pale golden hair tied back in a ponytail, with an elegant sense of style, typically dressing in silver clothes with red buttons. 
+Aenaphos is a barge master sailing the [Ampelion River](<../../gazetteer/extraplanar/feywild/emberwine/ampelion-river.md>) in [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>). He is a tall man, with rust-colored skin, and pale golden hair tied back in a ponytail, with an elegant sense of style, typically dressing in silver clothes with red buttons.
+
+
+
+

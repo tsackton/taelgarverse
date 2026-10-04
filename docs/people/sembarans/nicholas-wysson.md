@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Nicholas Wysson
-born: 1697
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1697
 gender: male
+name: Nicholas Wysson
 affiliations:
 - {org: Lord's Council of Cleenseau}
 whereabouts:
 - {type: home, location: Rinburg}
 - {type: home, start: 1719-04-15, location: Cleenseau}
+knownTo: [clee]
 dm_owner: mike
 dm_notes: color
+POV: 1719
 title: Nicholas Wysson
 hide_toc: true
 ---
@@ -31,4 +35,9 @@ hide_toc: true
 
 
 ![Nicholas Wysson](/taelgarverse/assets/nicholas-wysson.webp){align="right"; width="320"}The youngest nephew of a military captain, he was recently appointed magistrate despite having barely more than twenty summers. Clean-shaven and thin, he often appears somewhat lost in thought.
+
+
+
+
+
 

@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1659
 gender: male
-image: '[[simon-of-cranford.png]]'
+image: simon-of-cranford.png
+name: Simon of Cranford
 whereabouts: Cranford
-dm_notes: color
+knownTo: [clee]
 dm_owner: none
+dm_notes: color
+POV: 1720
 title: Simon of Cranford
 hide_toc: true
 ---
@@ -25,5 +30,11 @@ hide_toc: true
 
 
 ![Simon of Cranford](/taelgarverse/assets/simon-of-cranford.webp){align="right"; width="200"} The toll keeper for the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>) in Cranford and an important figure in town.
+
+
+
+
+
+
 
 

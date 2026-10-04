@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-01-16, type: met}
-name: Ealwen
-pronunciation: AY-ahl-wen
-born: 1712
-ka: 37
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: elf
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1748-01-16, type: met}
+born: 1712
+ka: 37
 gender: female
+name: Ealwen
+pronunciation: AY-ahl-wen
 whereabouts: Erelion
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1740s
 title: Ealwen
 hide_toc: true
 ---
@@ -38,4 +42,11 @@ hide_toc: true
 She has also taken on the role of [Arheste](<arheste.md>)'s caretaker, and often visits her, soothing her injuries as best she can. 
 
 She is friendly and helpful, and especially loves to talk with anyone who shares her fascination with the magic of growing things. 
+
+
+
+
+
+
+
 

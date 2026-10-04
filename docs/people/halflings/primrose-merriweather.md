@@ -1,17 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub]
+lintedAt: '2026-10-03T18:19:15-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: halfling
 gender: female
-whereabouts: Veltor
+name: Primrose Merriweather
+pronunciation: PRIM-rohz MERR-ee-weh-ther
 affiliations:
 - {org: Merriweathers, type: primary}
-dm_notes: color
+whereabouts: Veltor
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 title: Primrose Merriweather
 hide_toc: true
 ---
 # Primrose Merriweather
+:speaker:{ .middle } *(PRIM-rohz MERR-ee-weh-ther)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -23,3 +30,13 @@ hide_toc: true
 
 
 ![Primrose Merriweather](/taelgarverse/assets/primrose-merriweather.webp){align="left"; width="200"}
+
+Primrose Merriweather is a halfling of the [Merriweathers](<../../groups/halfling-families/merriweathers.md>) who, with her brother [Corrin Merriweather](<corrin-merriweather.md>), owned a long-established tailor shop in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>).
+
+
+
+
+
+
+
+

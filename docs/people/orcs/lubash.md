@@ -1,22 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/metadata, person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-10, type: met}
-name: Lubash
-knownTo: [DuFr]
-born: 1691
-activeYear: 1735
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [status/cleanup/metadata, person, status/check/lint]
 species: orc
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1748-12-10, type: met}
+born: 1691
+activeYear: 1735
 gender: male
 title: Chief Lubash
+name: Lubash
 affiliations:
 - People of the Rainbow
 - {org: Xurkhaz, type: leader, start: 1745}
 whereabouts: Uzgukhar
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1740s
 hide_toc: true
 ---
 # Chief Lubash
@@ -66,5 +69,12 @@ Other mentions:
 - [Strategic Alliances](<../../campaigns/dunmari-frontier-campaign/session-notes/session-77-dufr.md>)
 - [Palace Attack](<../../campaigns/dunmari-frontier-campaign/session-notes/session-78-dufr.md>)
 - [Aftermath of Victory](<../../campaigns/dunmari-frontier-campaign/session-notes/session-79-dufr.md>)
+
+
+
+
+
+
+
 
 

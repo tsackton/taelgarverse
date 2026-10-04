@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Delig Hardstone
-born:
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: dwarf
 ancestry:
+campaignInfo: []
+born:
 gender: male
-whereabouts: Tokra
+name: Delig Hardstone
 affiliations:
 - {type: primary, org: Hardstones}
-dm_notes: color
+whereabouts: Tokra
+knownTo: [dufr]
 dm_owner: none
+dm_notes: color
+POV: 1748
 title: Delig Hardstone
 hide_toc: true
 ---
@@ -26,5 +30,12 @@ hide_toc: true
 </div>
 
 
-Patriach of the Hardstone clan, father to [Dag Hardstone](<dag-hardstone.md>). 
+Patriarch of the Hardstone clan, father to [Dag Hardstone](<dag-hardstone.md>).
+
+
+
+
+
+
+
 

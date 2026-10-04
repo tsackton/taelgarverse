@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/text]
-campaignInfo: []
-name: Alesh
-born: 1727
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo: []
+born: 1727
 gender: female
+image: alesh-portrait.jpg
+name: Alesh
 whereabouts:
 - {type: home, location: Karawa}
 - {type: away, start: 1748-12-26, location: Central Dunmar}
-image: '[[alesh-portrait.jpg]]'
-dm_notes: color
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: color
+POV: 1740s
 title: Alesh
 hide_toc: true
 ---
@@ -57,3 +61,10 @@ hide_toc: true
 - 6 June 1748: Leaves to return to [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) at first light
 - 10 June 1748: Arrives back in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). Reports on rumors from [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to [Delwath](<../pcs/dunmar-fellowship/delwath.md>), and speaks with him about the Dunmari shield recovered from [Agata's Lair](<../../gazetteer/greater-dunmar/hara-basin/agata-s-lair.md>). 
 - 18-19 June 1748: Celebrates the [Feast of Bhishma](<../../gods-and-religions/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>) in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) with [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) and others. 
+
+
+
+
+
+
+

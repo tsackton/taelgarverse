@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, person: Wellby, type: met, date: 1748-11-13}
-name: Gyles
-born:
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry:
+campaignInfo:
+- {campaign: dufr, person: Wellby, type: met, date: 1748-11-13}
+born:
 gender: male
+name: Gyles
 whereabouts: Eastern Isles
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1748
 title: Gyles
 hide_toc: true
 ---
@@ -30,3 +34,9 @@ hide_toc: true
 
 
 An older man, who serves as [Arryn](<arryn.md>)’s steward. 
+
+
+
+
+
+

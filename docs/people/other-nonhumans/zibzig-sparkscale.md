@@ -1,17 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-knownTo: [adma]
-name: Zibzig Sparkscale
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: kobold
 gender: male
+campaignInfo:
+- {campaign: adma, type: met, date: 1715-05-13}
+name: Zibzig Sparkscale
 whereabouts:
 - {type: home, location: !!null ''}
 - {type: home, location: West Stonewolds Caves}
-campaignInfo:
-- {campaign: adma, type: met, date: 1715-05-13}
+knownTo: [adma]
 dm_owner: tim
 dm_notes: none
+POV: 1710s
 title: Zibzig Sparkscale
 hide_toc: true
 ---
@@ -31,11 +34,18 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 13th, 1715 in the [West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>), the [Stonewolds](<../../gazetteer/greater-sembara/addermarch/stonewolds.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
-Zibzig is an eccentric kobold wizard, styling himself the “Master of Light and Shadow" while living in a small two‑room lair along the underground river in the [West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>).  
+Zibzig is an eccentric kobold wizard, styling himself the “Master of Light and Shadow” while living in a small two‑room lair along the underground river in the [West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>).
 
 Though wary of travelers and outsiders, he is often lonely and will eagerly chat with visitors who don't seem to pose a threat. He is obsessed with inventing a signature spell that will make him famous, and is frequently tinkering with magic. 
 
 ## Events
 - May 13, 1715 DR – Met the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) in the [West Stonewolds Caves](<../../gazetteer/greater-sembara/addermarch/west-stonewolds-caves.md>) and [negotiated for aid against a cave fisher](<../../campaigns/addermarch-campaign/addermarch-session-09.md>) blocking the river. Spent the night hosting the heroes after the fight. 
+
+
+
+
+
+
+
 
 

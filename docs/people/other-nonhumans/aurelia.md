@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: centaur
 campaignInfo:
-- {campaign: DuFr, date: 1748-12-30, type: met}
-name: Aurelia
+- {campaign: dufr, date: 1748-12-30, type: met}
 born: 1703
 activeYear: 1733
-species: centaur
 gender: female
+name: Aurelia
 whereabouts:
 - {type: home, start: 1733, location: Tollen}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Aurelia
 hide_toc: true
 ---
@@ -33,3 +37,9 @@ hide_toc: true
 
 
 Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who settled in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) in the 1730s. 
+
+
+
+
+
+

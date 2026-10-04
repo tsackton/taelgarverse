@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: Clee, date: 1719-11-07, type: met}
-name: Vincent de Arban
-born: 1677-05-18
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, date: 1719-11-07, type: met}
+born: 1677-05-18
 gender: male
+name: Vincent de Arban
 affiliations:
 - {org: Garay Family, type: primary}
 whereabouts:
 - {type: home, location: Embry}
 - {type: away, start: 1719-11-07, end: 1719-11-22, location: Cleenseau}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1719
 title: Vincent de Arban
 hide_toc: true
 ---
@@ -31,4 +35,10 @@ hide_toc: true
 
 
 
-Vincent de Arban is an agent of [Susanne Garay](<susanne-garay.md>). He visited [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) to investigate [Viepuck](<../pcs/cleenseau/viepuck.md>) (when he was masquerading as [Najeer Garay](<../pcs/cleenseau/viepuck.md>)).  He was extremely interested in Viepuck's spider silk scheme, and may return to see how it is faring. 
+Vincent de Arban is an agent of [Susanne Garay](<susanne-garay.md>). He visited [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) to investigate [Viepuck](<../pcs/cleenseau/viepuck.md>) (when he was masquerading as [Najeer Garay](<../pcs/cleenseau/viepuck.md>)).  He was extremely interested in Viepuck's spider silk scheme, and may return to see how it is faring.
+
+
+
+
+
+

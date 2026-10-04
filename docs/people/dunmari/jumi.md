@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Jumi
-born: 1745-12-28
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo: []
+born: 1745-12-28
 gender: female
+name: Jumi
 whereabouts: Karawa
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Jumi
 hide_toc: true
 ---
@@ -31,6 +35,13 @@ hide_toc: true
 
 
 In the spring of 1748, Jumi was kidnapped by the hag [Agata](<../fey/agata.md>), and partially turned to wood. She was [freed](<../../campaigns/dunmari-frontier-campaign/session-notes/session-29-dufr.md>) by [Seeker](<../pcs/dunmar-fellowship/seeker.md>) after the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) [defeated Agata](<../../campaigns/dunmari-frontier-campaign/session-notes/session-28-dufr.md>).
+
+
+
+
+
+
+
 
 
 

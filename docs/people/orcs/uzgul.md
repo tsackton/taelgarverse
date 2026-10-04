@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-10, type: met}
-name: Uzgul
-born: 1734
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: orc
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1748-12-10, type: met}
+born: 1734
 gender: male
 title: Chiefling Uzgul
+name: Uzgul
 affiliations: [The People of the Rainbow]
 whereabouts:
 - {type: home, start: '', end: '', location: Uzgukhar}
-dm_notes: color
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: color
+POV: 1748
 hide_toc: true
 ---
 # Chiefling Uzgul
@@ -34,4 +38,11 @@ hide_toc: true
 
 
 A young man of 14, current heir to the kingdom. The family resemblance to [Lubash](<lubash.md>) is apparent, but Uzgul is full of the vigor of youth, with a mohawk of wiry black hair, a dangling silver earring on a chain in one ear, and vibrant green skin. He has a nervous excitement to him, and has a hard time sitting still.
+
+
+
+
+
+
+
 

@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text]
-campaignInfo: []
-name: Anne of Sewick
-born: 1539
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo: []
+born: 1539
 gender: female
 died: 1583-02-14
+name: Anne of Sewick
 affiliations:
 - {org: House of Sewick, type: primary}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Anne of Sewick
 hide_toc: true
 ---
@@ -28,6 +32,12 @@ hide_toc: true
 
 
 
-The twin sister of [Elaine I](<elaine-i.md>) and daughter of [Reginald](<reginald.md>), she was executed for treason after attempting to force her sister to abdicate he throne by magic. Her three children were allowed to live in exile: Wilhema and Eloise in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), and her youngest, Peregrin, in Chardon.
+The twin sister of [Elaine I](<elaine-i.md>) and daughter of [Reginald](<reginald.md>), she was executed for treason after attempting to force her sister to abdicate the throne by magic. Her three children were allowed to live in exile: Wilhema and Eloise in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>), and her youngest, Peregrin, in Chardon.
+
+
+
+
+
+
 
 

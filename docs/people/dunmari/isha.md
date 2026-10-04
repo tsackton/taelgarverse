@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, date: 1748-06-08, type: freed, format: '<met:u> <person:q> on <target> from <current:2>'}
-name: Isha
-born:
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, date: 1748-06-08, type: freed, format: '<met:u> <person:q> on <target> from <current:2>'}
+born:
 gender: male
+name: Isha
 whereabouts:
 - {type: away, location: Mirror of Soul Trapping, end: 1748-06-08}
 - {type: home, location: Karawa, start: 1748-06-09}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: important
+POV: 1748
 title: Isha
 hide_toc: true
 ---
@@ -33,4 +37,11 @@ hide_toc: true
 
 
 A Dunmari man trapped for many years in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>) by [Agata](<../fey/agata.md>). Missing one eye, with gray hair, incoherent. Most recently under the care of [Cintra](<cintra.md>) after his ordeal. 
+
+
+
+
+
+
+
 

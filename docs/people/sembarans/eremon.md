@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Eremon
-born: 1663
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1663
 gender: male
+name: Eremon
 whereabouts:
 - {type: home, end: 1714-02-10, location: Fellburn}
 - {type: away, start: 1719-02-12, end: 1719-05-15, prefix: traveling through, location: Sembaran Borderlands}
 - {type: home, start: 1719-05-15, location: Cleenseau}
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry}
 - {type: away, start: 1720-01-20, end: 9999, location: Embry}
-dm_notes: important
+knownTo: [clee]
 dm_owner: mike
+dm_notes: important
+POV: 1720
 title: Eremon
 hide_toc: true
 ---
@@ -33,4 +37,11 @@ hide_toc: true
 
 
 ![Eremon](/taelgarverse/assets/eremon.webp){align="right"; width="320"}A newcomer to town and acolyte of the Night Queen. Eremon is well-travelled and a personal friend of [Rosalind's](<rosalind-essford.md>). He walks with a pronounced limp.  He was from [Fellburn](<../../gazetteer/greater-sembara/sembara/heartlands/fellburn.md>) originally and left shortly after [Cece I](<../historical-figures/sembaran-royalty/cece-i.md>) died. What he has been doing for the last seven years is not clear.
+
+
+
+
+
+
+
 

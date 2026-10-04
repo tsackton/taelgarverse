@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
+ancestry: Drankorian
 gender: male
 born: 986
 died: 1051
-ancestry: Drankorian
+name: Antonius Patrius
 affiliations:
 - {org: Radiant Path, type: member}
+whereabouts: Drankor
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
-whereabouts: Drankor
+POV: modern
 title: Antonius Patrius
 hide_toc: true
 ---
@@ -40,4 +45,10 @@ Antonius Patrius grew up in a quiet, reflective era under the reign of Akaston, 
 
 When Apollyon declared himself chief steward of the Eight Divines in 1030, Antonius’ faith wavered. By 1032, when pilgrimage was banned and "official rites" were imposed, he began working in secret with other disillusioned clergy to preserve the older traditions. He helped organize the nascent [Radiant Path](<../../groups/drankorian-societies/radiant-path.md>), a network of priests and lay followers who sought to resist Apollyon’s desecration of the faith, serving as a vital organizer. As tensions in the city escalated into The Strife, Antonius played a key role in smuggling out elves, halflings, and others who faced persecution. In his final years, he rarely left the temple for fear of his life.
 
-Antonius was taken in Dr 1051, on a stormy night, as he returned from arranging the safe passage of a group of persecuted halflings. 
+Antonius was taken in DR 1051, on a stormy night, as he returned from arranging the safe passage of a group of persecuted halflings.
+
+
+
+
+
+

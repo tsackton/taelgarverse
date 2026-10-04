@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Amil
-born: 1731
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo: []
+born: 1731
 gender: male
+image: amil-small.jpg
+name: Amil
 affiliations: [Order of the Awakened Soul]
 whereabouts:
 - {type: home, start: 1747, end: 1749-01-30, location: Pava and Avaras' House}
 - {type: away, start: 1749-01-30, end: 9999, location: Vindristjarna}
-image: '[[amil-small.jpg]]'
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Amil
 hide_toc: true
 ---
@@ -50,3 +54,9 @@ hide_toc: true
 ![Amil Snow Forest](/taelgarverse/assets/amil-snow-forest.webp)
 
 ![Amil Skyship Garden](/taelgarverse/assets/amil-skyship-garden.webp)
+
+
+
+
+
+

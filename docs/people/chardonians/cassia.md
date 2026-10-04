@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-25T09:29:24-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person, status/check/tim]
 species: human
 ancestry: Chardonian
 campaignInfo:
 - {campaign: grli, type: met, date: 1748-03-16}
 name: Cassia
+pronunciation: KAS-see-ah
 whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-03-16, end: 1748-03-18, location: Goldpeak Mines}
@@ -19,6 +20,7 @@ title: Cassia
 hide_toc: true
 ---
 # Cassia
+:speaker:{ .middle } *(KAS-see-ah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

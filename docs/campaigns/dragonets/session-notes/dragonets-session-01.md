@@ -22,7 +22,7 @@ title: Dragonets — Session 1
 	*Featuring: Heska, Sculpit, Little Tony, and Zeno*
 	*DM: David Kong*
 	*On Earth: Thursday, September 17, 2026*
-	*[Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>): Temple grounds, Wanderer's hand, and Dark Lady*
+	*[Circular Island](<../../../gazetteer/drankorian-hinterland/circular-island.md>)*
 
 During the Jubilee, Heska, Sculpit, Little Tony, and Zeno meet and experience disasters and triumphs alike. After a quiet dinner together, mysterious events draw them to the statue of [the Wanderer](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>), and a strange egg.
 

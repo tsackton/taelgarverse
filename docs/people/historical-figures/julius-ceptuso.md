@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: human
+ancestry: Chardonian
+gender: male
+name: Julius Ceptuso
+knownTo: []
 dm_owner: none
 dm_notes: none
-ancestry: Chardonian
-species: human
-gender: male
+POV: modern
 title: Julius Ceptuso
 hide_toc: true
 ---
@@ -19,5 +24,12 @@ hide_toc: true
 </div>
 
 
-Julius Ceptuso was a scholar and faculty of the [Faculty of Metaphysics](<../../groups/chardonian-organizations/faculty-of-metaphysics.md>) in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), who popularized the traditional model of the [Energy Realms](<../../cosmology/energy-realms/energy-realms.md>) based on five fundamental energies: Earth, Air, Fire, Water, and Magic. 
+Julius Ceptuso was a scholar and faculty member of the [Faculty of Metaphysics](<../../groups/chardonian-organizations/faculty-of-metaphysics.md>) in [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), who popularized the traditional model of the [Energy Realms](<../../cosmology/energy-realms/energy-realms.md>) based on five fundamental energies: Earth, Air, Fire, Water, and Magic.
+
+
+
+
+
+
+
 

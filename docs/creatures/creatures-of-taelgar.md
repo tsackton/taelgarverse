@@ -70,6 +70,7 @@ Of all the many planes in the multiverse, the [Feywild](<../cosmology/feywild.md
 
 
 ### The Elementals
+_See more: [Elementals](<extraplanar/elementals.md>)_
 
 The creatures of the elemental planes are most familiar to adventurers as the conjured allies of wizards and others who summon forth beings of pure elemental energy to serve them. But legends say these elementals are just a small fraction of the many forms of creatures that inhabit the elemental planes. Many speak of tale of genies -- the djinn of air, efreeti of fire, dao of earth, and marid of water -- who build great cities on their home planes and occasionally meddle with, or give aid to, adventurers. 
 

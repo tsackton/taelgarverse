@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-11-01, type: met}
-name: Illaran
-born:
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: fey
 subspecies: korred
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1748-11-01, type: met}
+born:
 gender: male
-whereabouts: Crystal Peak
+name: Illaran
 affiliations:
 - {org: Crystal Peak, title: Guardian, type: ruler}
+whereabouts: Crystal Peak
+knownTo: [dufr]
 dm_owner: none
 dm_notes: important
+POV: 1740s
 title: Illaran
 hide_toc: true
 ---
@@ -43,4 +47,11 @@ Physically, Illaran is dwarf-like: short and stout. His most distinguishable fea
 ## Events
 
 - During DR 1748, Illaran inadvertently caused a wild magic storm in the [Feywild](<../../cosmology/feywild.md>). [Seeker](<../pcs/dunmar-fellowship/seeker.md>), assisted by two guardians from [Shimmersong](<../../gazetteer/extraplanar/feywild/shimmersong.md>) and a wandering fey samurai, managed to quell the tempest. Recognizing their efforts, Illaran bestowed upon [Seeker](<../pcs/dunmar-fellowship/seeker.md>) shards of crystallized magic as a token of appreciation.
+
+
+
+
+
+
+
 

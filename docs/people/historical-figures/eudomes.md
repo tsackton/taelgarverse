@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: []
-name: Eudomes
-born:
-died: 1
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Drankorian
+campaignInfo: []
+born:
+died: 1
+gender: male
+name: Eudomes
 affiliations:
 - {org: Occulta Ludum}
-gender: male
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: modern
 title: Eudomes
 hide_toc: true
 ---
@@ -28,4 +32,11 @@ hide_toc: true
 
 
 A wizard from the last days of the [Drankorian Empire](<../../history/historical-realms/drankorian-empire.md>). Trapped the storm giant [Hralgar](<../giants/hralgar.md>) using powerful magic. 
+
+
+
+
+
+
+
 

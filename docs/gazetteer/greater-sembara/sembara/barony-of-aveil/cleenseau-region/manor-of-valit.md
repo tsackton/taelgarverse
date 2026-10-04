@@ -21,7 +21,7 @@ title: Manor of Valit
 # The Manor of Valit
 ???+ info "Information"
 	Founded DR 1490 (260 years ago)
-	
+	Castellan: [Alix Degwyn](<../../../../../people/sembarans/alix-degwyn.md>) (since June 12th, 1720)
 		A manor in the [Barony of Aveil](<../barony-of-aveil.md>), [Sembara](<../../sembara.md>), [Greater Sembara](<../../../greater-sembara.md>)
 
 The Manor of Valit is part of the demesne of the Baron of Aveil and has been in baronial hands for many years.  It is a mostly known for two things: its three mills, and as the main place for baronial land records in the [Cleenseau Region](<cleenseau-region.md>). Although the manor itself is relatively large, [Amance Brook](<amance-brook.md>) runs through the middle of the manor, and much of the land to the east of the brook is hilly and hard to farm (and hard to get to from the village over the one small wooden bridge in [Valit](<valit.md>)). 

@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Escobar Garavito
-born: 1727
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Cymean
+campaignInfo: []
+born: 1727
 gender: male
+name: Escobar Garavito
 affiliations: [University of Tollen, Dyer's Guild]
 whereabouts:
 - {type: home, location: Lavila}
 - {type: home, location: Tollen}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Escobar Garavito
 hide_toc: true
 ---
@@ -37,5 +41,11 @@ hide_toc: true
 He is supported by a scholarship from the [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>), sponsored by [Cecilia Lister](<cecilia-lister.md>), and often does favors and errands for her and other senior [Dyer's Guild](<../../groups/tollen-guilds/dyer-s-guild.md>) leaders. 
 
 Escobar is outgoing and gregarious, and often at the center of student activities and student life at the [University of Tollen](<../../gazetteer/greater-sembara/tollen/places/university-of-tollen.md>).
+
+
+
+
+
+
 
 

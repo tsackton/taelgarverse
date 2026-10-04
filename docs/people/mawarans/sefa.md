@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-knownTo: [Mawar]
-name: Sefa
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Mawaran
 gender: female
 died: 1747-08-05
+name: Sefa
 whereabouts: Hamri
+knownTo: [mawar]
 dm_owner: none
 dm_notes: none
+POV: 1747
 title: Sefa
 hide_toc: true
 ---
@@ -28,5 +31,11 @@ hide_toc: true
 Sefa is an older woman, poor and addicted to [Gatza](<../../things/materials/gatza.md>), who lives alone in the Drowned Flats, in Hamri. 
 
 
-She was killed by [Azar the Lost](<azar-the-lost.md>), in misguided quest to restore his dead wife using the waters of the [Sentient Ocean](<../extraplanar-powers/sentient-ocean.md>). 
+She was killed by [Azar the Lost](<azar-the-lost.md>), in a misguided quest to restore his dead wife using the waters of the [Sentient Ocean](<../extraplanar-powers/sentient-ocean.md>).
+
+
+
+
+
+
 

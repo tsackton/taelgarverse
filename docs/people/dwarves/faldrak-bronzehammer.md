@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo:
-- {campaign: dufr, date: 1748-12-30, type: first met}
-name: Faldrak Bronzehammer
-born: 1516
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: dwarf
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1748-12-30, type: first met}
+born: 1516
 gender: male
+image: faldrak-small.png
+name: Faldrak Bronzehammer
 aliases: [Faldrak]
 affiliations:
 - {org: Bronzehammers, type: primary}
@@ -17,9 +20,10 @@ whereabouts:
 - {type: away, start: 1698-01-01, end: '', location: Feywild}
 - {type: home, start: 1727-01-02, end: 1749-01-04, location: Tollen}
 - {type: away, start: 1749-01-05, end: 1750, location: Vindristjarna}
-image: '[[faldrak-small.png]]'
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1740s
 title: Faldrak Bronzehammer
 hide_toc: true
 ---
@@ -49,4 +53,11 @@ Despite his aging exterior and graying, rune-braided beard, Faldrak's eyes spark
 ## Events
 
 - In DR 1748, during [Pyravela](<../../gods-and-religions/holidays-and-festivals/pyravela.md>) in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), Faldrak attended the party hosted by The Dunmar Fellowship on [Vindristjarna](<../../things/ships/vindristjarna.md>), where he met and bonded with Seeker, requesting his aid in journeying to the [Edge of Echoes](<../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>), a mysterious place where the boundaries between the planes (especially between Taelgar and the elemental planes) are thin. 
+
+
+
+
+
+
+
 

@@ -29,7 +29,7 @@ The [Dunmar Fellowship](<../../../people/pcs/dunmar-fellowship/dunmar-fellowship
 - Victorious, the party harvests dragon parts and is hailed as heroes, planning their next steps with the [Vargaldi](<../../../groups/cultures/vargaldi.md>) for a mission to [Ursk](<../../../gazetteer/northern-green-sea/ursk/ursk.md>).
 
 ### Timeline
-- Mar 21, 1749 DR, late afternoon: Speak with [Vargaldi](<../../../groups/cultures/vargaldi.md>). Meet [Jotha](<../../../people/deno-qai/jotha.md>), Torsten, Zora, and others in the village. Learn of danger of a nearby dragon. 
+- Mar 21, 1749 DR, late afternoon: Speak with [Vargaldi](<../../../groups/cultures/vargaldi.md>). Meet [Jotha](<../../../people/deno-qai/jotha.md>), [Torsten](<../../../people/other-humans/torsten.md>), [Zora](<../../../people/other-humans/zora.md>), and others in the village. Learn of danger of a nearby dragon. 
 - Mar 21, 1749 DR, evening: Hide [Vargaldi](<../../../groups/cultures/vargaldi.md>) in [Vindristjarna](<../../../things/ships/vindristjarna.md>); confront and defeat dragon. Rest and plan.
 
 ## Narrative

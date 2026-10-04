@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1749-08-07, type: met}
-name: Aritza
-born: 1636
 species: lizardfolk
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1749-08-07, type: met}
+born: 1636
 gender: male
+name: Aritza
+pronunciation: ah-REET-sah
 whereabouts:
 - {type: home, location: Aursen Marshes}
 - {type: away, start: 1749-08-06, end: 1749-08-07, location: Three Wells}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
-pronunciation: ah-REET-sah
+POV: 1749
 title: Aritza
 hide_toc: true
 ---
@@ -35,6 +39,9 @@ hide_toc: true
 
 
 ![Aritza](/taelgarverse/assets/aritza.webp){align="right"; width="400"}Aritza is a lizardfolk elder, representing the people of the marshes in [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>) business. 
+
+
+
 
 
 

@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: clee, date: 1720-01-03, type: roused}
-name: Wymar Essford
-born: 1652
-died: 1720-02-11
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, date: 1720-01-03, type: roused}
+born: 1652
+died: 1720-02-11
 gender: male
 title: Lord Wymar Essford
+name: Wymar Essford
 affiliations:
 - {place: Cleenseau, start: 1689}
 - {org: Essords, type: primary}
 whereabouts: Cleenseau
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 hide_toc: true
 ---
 # Lord Wymar Essford
@@ -38,5 +42,12 @@ hide_toc: true
 
 !!! info "Childhood Story, as told to [Viepuck](<../pcs/cleenseau/viepuck.md>) under the influence of his patron's mind-probe"
 In his childhood, he recalled overhearing his parents (Reginald and Celine). Reginald was very drunk, and was weeping. Wymar recalls hearing his father sobbing to Celine: "I can't forget it. That day, the bodies just kept walking up out of the tower, just below us, and he was grinning even as we struck him down. Mother help me, I want to forget. Sometimes in my dreams I still see it. Was it wrong to build here? Is this place cursed?".
+
+
+
+
+
+
+
 
 

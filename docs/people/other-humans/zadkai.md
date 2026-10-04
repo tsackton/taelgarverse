@@ -29,7 +29,7 @@ hide_toc: true
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of July 23th, 1747): [the glacier near Airion’s Floating Tower](<../../gazetteer/northwest-coast/fiamatara-mountains/blacksilver-peak.md>), the [Fiatara Mountains](<../../gazetteer/northwest-coast/fiamatara-mountains/fiatara-mountains.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of July 23rd, 1747): [the glacier near Airion’s Floating Tower](<../../gazetteer/northwest-coast/fiamatara-mountains/blacksilver-peak.md>), the [Fiatara Mountains](<../../gazetteer/northwest-coast/fiamatara-mountains/fiatara-mountains.md>)
 
 
 

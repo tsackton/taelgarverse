@@ -1,16 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
 displayDefaults: {wOriginU: ''}
+tags: [person, status/check/lint]
+species: halfling
+ancestry:
 campaignInfo:
 - {campaign: dufr, date: 1748-08-22, type: met, format: '<met:U> by <person> on <target> <current:2>'}
 - {campaign: dufr, person: Delwath, date: 1748-10-21, type: scryed}
 - {campaign: dufr, person: letter from Dee Wildcloak, date: 1748-11-15, format: Received a <person> on <target>}
-name: Dee Wildcloak
 born:
-species: halfling
-ancestry:
 gender: female
+name: Dee Wildcloak
 affiliations:
 - {org: Society of the Open Scroll, end: 1748-09-12}
 - {org: Wildcloaks, type: primary}
@@ -23,8 +25,10 @@ whereabouts:
 - {type: away, start: 1748-03-20, end: 1748-04-22, location: traveling to Chardon}
 - {type: away, start: 1748-08-22, end: 1748-08-22, location: The Thirsty Scholar}
 - {type: away, start: 1748-10-18, end: 1748-10-21, location: Darba, wLastKnown: ''}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Dee Wildcloak
 hide_toc: true
 ---
@@ -40,11 +44,11 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 22th, 1748 [The Thirsty Scholar](<../../gazetteer/greater-chardon/chardonian-empire/chardon/the-thirsty-scholar.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 22nd, 1748 [The Thirsty Scholar](<../../gazetteer/greater-chardon/chardonian-empire/chardon/the-thirsty-scholar.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>)  
 
 
 
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 21th, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 21st, 1748 in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 
@@ -84,5 +88,12 @@ After the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) a
 - Oct 21, 1748 DR: Dee Wildcloak boards a ship heading south across the Sea of Storms in Darba
 
 `
+
+
+
+
+
+
+
 
 

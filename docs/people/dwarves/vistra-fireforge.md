@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-name: Vistra Fireforge
-born: 1589
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: dwarf
+ancestry:
+born: 1589
+gender: female
+name: Vistra Fireforge
 affiliations:
 - {org: The Iron Swan, title: Proprietor, type: leader, start: 1700}
-ancestry:
-gender: female
 whereabouts:
 - {type: home, start: '', end: '', location: Nardith}
 - {type: home, start: 1620-01-01, end: '', location: Ausson's Crossing}
 - {type: home, start: 1730-01-01, end: '', location: Tokra}
-dm_notes: color
+knownTo: [dufr]
 dm_owner: none
+dm_notes: color
+POV: 1740s
 title: Vistra Fireforge
 hide_toc: true
 ---
@@ -38,7 +42,9 @@ hide_toc: true
 
 
 ![Vistra Fireforge Smith](/taelgarverse/assets/vistra-fireforge-smith.webp){align="left"; width="300"}
-In her youth she was a blacksmith and trader in [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>) a crossroads inn south of [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). She is now settled in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) where she runs the dwarven inn, [The Iron Swan](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-iron-swan.md>).
+In her youth she was a blacksmith and trader in [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>), a crossroads inn south of [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). She is now settled in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) where she runs the dwarven inn, [The Iron Swan](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/the-iron-swan.md>).
+
+
 
 
 

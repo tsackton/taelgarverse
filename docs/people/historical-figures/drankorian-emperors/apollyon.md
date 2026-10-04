@@ -1,22 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/gameupdate/dufr]
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
 displayDefaults: {boxInfo: '<subspecies> (<species:s>), <pronouns>'}
-campaignInfo: []
-name: Apollyon
-pronunciation: ah-pol-LEE-on
-born:
+tags: [person, testcase, status/gameupdate/dufr, status/check/lint]
 species: undead
 subspecies: lich
+campaignInfo: []
+born:
 gender: male
-aliases: [Emperor Apollyon]
 title: Emperor Apollyon
+name: Apollyon
+aliases: [Emperor Apollyon]
+pronunciation: ah-pol-LEE-on
 whereabouts:
 - {type: home, end: 1059, location: Drankor}
 - {type: away, start: 1053}
 - {type: away, start: 1060}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: modern
 hide_toc: true
 ---
 # Emperor Apollyon
@@ -36,3 +40,9 @@ hide_toc: true
 The last emperor of Drankor, who is said to have wanted to become a god. Creator of the [Scepter of Command](<../../../things/artifacts-of-power/scepter-of-command.md>), and perhaps other artifacts of power. Was a very successful general and commander. 
 
 Originally allied with [Cha'mutte](<../../extraplanar-powers/cha-mutte.md>), although towards the end of his reign this relationship turned to conflict and when he died, he was imprisoned and prevented from resurrection by [Cha'mutte](<../../extraplanar-powers/cha-mutte.md>). 
+
+
+
+
+
+

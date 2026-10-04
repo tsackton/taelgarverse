@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Eberk Brawnanvil
-born: 1502
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: dwarf
+born: 1502
 gender: male
+name: Eberk Brawnanvil
 affiliations: [Brawnanvils]
 whereabouts:
 - {type: home, end: 1544, location: Raven's Hold}
 - {type: home, start: 1547-01-01, end: '', location: Tharn Todor}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Eberk Brawnanvil
 hide_toc: true
 ---
@@ -34,3 +38,10 @@ An elder [dwarf](<../../creatures/species/dwarves.md>), a respected member of th
 
 
 Eberk is [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>)'s great uncle, who helped her develop her divine magic, and passed along a map of the [dwarven outpost near Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>) to aid her in the quest to recover the [Shield of the Brawnanvil Clan](<../../campaigns/dunmari-frontier-campaign/treasure/shield-of-the-brawnanvil-clan.md>). 
+
+
+
+
+
+
+

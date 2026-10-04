@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Eloise
-born: 1486
 species: human
 ancestry: Sembaran
+born: 1486
 gender: female
 died: 1562
+name: Eloise
 affiliations:
 - {org: House of Sewick, type: primary}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Eloise
 hide_toc: true
 ---
@@ -27,4 +31,8 @@ hide_toc: true
 
 The youngest daughter of [Charlotte I](<charlotte-i.md>), she lived a long life and had eight children, who married into many of the noble families of Sembara and Tyrwingha.
 
-Her eldest son, [Wisym I](<wisym-i.md>), briefly ruled the kingdom after the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>), as a compromise between the warring camps of his cousins, the twin sisters [Anne](<anne.md>) and [Elaine I](<elaine-i.md>). 
+Her eldest son, [Wisym I](<wisym-i.md>), briefly ruled the kingdom after the [Interregnum of 1568](<../../../events/1500s/1568/interregnum-of-1568.md>), as a compromise between the warring camps of his cousins, the twin sisters [Anne](<anne.md>) and [Elaine I](<elaine-i.md>).
+
+
+
+

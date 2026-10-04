@@ -1,17 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, person]
+lintedAt: '2026-10-03T18:19:15-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: halfling
-whereabouts: Veltor
 gender: male
+name: Corrin Merriweather
+pronunciation: KOR-in MERR-ee-weh-ther
 affiliations:
 - {org: Merriweathers, type: primary}
-dm_notes: color
+whereabouts: Veltor
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 title: Corrin Merriweather
 hide_toc: true
 ---
 # Corrin Merriweather
+:speaker:{ .middle } *(KOR-in MERR-ee-weh-ther)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -23,6 +30,13 @@ hide_toc: true
 
 
 ![Corrin Merriweather](/taelgarverse/assets/corrin-merriweather.webp){align="left"; width="200"}
+
+Corrin Merriweather is a quiet halfling of the [Merriweathers](<../../groups/halfling-families/merriweathers.md>) who, with his sister [Primrose Merriweather](<primrose-merriweather.md>), owned a long-established tailor shop in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>).
+
+
+
+
+
 
 
 

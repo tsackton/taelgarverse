@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Gyles
-born: 1634
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1634
 gender: male
 died: 1706
+name: Gyles
 affiliations:
 - {org: House of Lils, type: primary}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Gyles
 hide_toc: true
 ---
@@ -26,3 +30,9 @@ hide_toc: true
 
 
 A cousin of the Sembaran royal [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>), he lived during the reign of [Cece I](<cece-i.md>).
+
+
+
+
+
+

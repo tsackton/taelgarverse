@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: clee, type: met, date: 1719-10-28}
-name: Izoko
-born: 1688
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: lizardfolk
 ancestry:
+campaignInfo:
+- {campaign: clee, type: met, date: 1719-10-28}
+born: 1688
 gender: male
+name: Izoko
 whereabouts:
 - {type: home, location: Ganboa}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1719
 title: Izoko
 hide_toc: true
 ---
@@ -28,4 +32,10 @@ hide_toc: true
 
 
 
-![Lizardfolk Izoko](/taelgarverse/assets/lizardfolk-izoko.webp){align="right"; width="320"}A young lizardfolk, sweet on [Gentza](<gentza.md>). He is a skilled fisherman but not so skilled at keeping secrets. 
+![Lizardfolk Izoko](/taelgarverse/assets/lizardfolk-izoko.webp){align="right"; width="320"}A young lizardfolk, sweet on [Gentza](<gentza.md>). He is a skilled fisherman but not so skilled at keeping secrets.
+
+
+
+
+
+

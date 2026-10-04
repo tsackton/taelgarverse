@@ -1,20 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text]
-born: 1698
-gender: male
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Sembaran
-affiliations:
-- {org: The Rangers}
+born: 1698
+gender: male
+name: Tristan Vaudrillard
 pronunciation: Tris-tan Voh-dree-yar
+affiliations:
+- {org: Rangers}
 whereabouts:
 - {type: home, location: Tafolwern, end: 1715}
 - {type: away, location: Tollen, start: 1715, end: 1717}
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: 1720
 title: Tristan Vaudrillard
 hide_toc: true
 ---
@@ -25,7 +30,7 @@ hide_toc: true
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     Born DR 1698 (52 years old)  
-    Member of the The Rangers  
+    Member of the [Rangers](<../../groups/rangers.md>)  
     { .bio }
 
     Originally from: [Tafolwern](<../../gazetteer/greater-sembara/tyrwingha/tafolwern.md>), [Tyrwingha](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>)
@@ -35,4 +40,11 @@ hide_toc: true
 
 
 ![Tristan Vaudrillard](/taelgarverse/assets/tristan-vaudrillard.webp){align="right"; width="400"}A devotee of [The Sibyl](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>) and student of magic.
+
+
+
+
+
+
+
 

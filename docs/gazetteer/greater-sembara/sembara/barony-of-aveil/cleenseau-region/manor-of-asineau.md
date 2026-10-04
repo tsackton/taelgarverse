@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: realm
 created: 1651
 whereabouts: Barony of Aveil
-dm_notes: color
+dm_notes: important
 dm_owner: mike
 typeOfAlias: manor
 title: Manor of Asineau
@@ -21,4 +21,5 @@ The Manor of Asineau was created after the [hobgoblin wars](<../../../../../even
 
 Since 1715, the manor has been ruled by [Lorin Valbert](<../../../../../people/sembarans/lorin-valbert.md>), who has not been an effective lord. He has had a tendency to sell off land to fund the import of luxuries, and the manorial demesne is quite depleted. In response, [Lorin Valbert](<../../../../../people/sembarans/lorin-valbert.md>) has started to impose a market tax on flour, bread, and charcoal, which has not been popular, and well as a tax each spring on any fishing boats. 
 
-Lorin maintains only a small guard, and has appointed himself magistrate, but is not well known for his sense of justice. 
+Lorin maintains only a small guard, and has appointed himself magistrate, but is not well known for his sense of justice.
+

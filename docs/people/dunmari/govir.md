@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/stub]
-name: Govir
-born: 1708
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/stub, status/check/lint]
 species: human
 ancestry: Dunmari
+born: 1708
 gender: male
+name: Govir
 whereabouts:
 - {type: home, location: Tokra}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1740s
 title: Govir
 hide_toc: true
 ---
@@ -26,3 +30,9 @@ hide_toc: true
 
 
 ![Govir](/taelgarverse/assets/govir.webp){align="right"; width="400"}
+
+
+
+
+
+

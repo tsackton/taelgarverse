@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: human
 ancestry: Sembaran
 born: 1692
-species: human
 gender: male
+name: Geoffrey Save
 whereabouts:
 - {type: home, location: Embry, end: 1699}
 - {type: home, location: Cleenseau, start: 1700}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Geoffrey Save
 hide_toc: true
 ---
@@ -28,4 +33,10 @@ hide_toc: true
 
 ![Geoffrey Save](/taelgarverse/assets/geoffrey-save.webp){align="right"; width="320"}A compatriot of [Rinault](<rinault-essford.md>), his family came to [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) when he was a young boy as part of [Wymar's](<wymar-essford.md>) efforts to attract a larger market population. Recently inherited a thriving brewery and bakehouse from his parents at an unexpectedly young age, and also a significant landlord in [Underhill](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/underhill.md>). 
 
-His wife Annabelle, has been ill frequently, and miscarried twice recently. Geoffrey has spent much time with [Rinault](<rinault-essford.md>) instead of caring for his holdings, and often talks about how his family is cursed, although is cousin Roland is thriving in [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>).
+His wife Annabelle has been ill frequently, and miscarried twice recently. Geoffrey has spent much time with [Rinault](<rinault-essford.md>) instead of caring for his holdings, and often talks about how his family is cursed, although his cousin Roland is thriving in [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>).
+
+
+
+
+
+

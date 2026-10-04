@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-born: 1690
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1690
+name: Isolde
 whereabouts:
 - {type: home, location: Asineau, start: 1717, end: 1720-01-10}
 - {type: away, location: Champimont, start: 1720-01-11}
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 title: Isolde
 hide_toc: true
 ---
@@ -26,5 +31,12 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Last known location (as of January 11th, 1720): [Champimont](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-![Isolde Asineau](/taelgarverse/assets/isolde-asineau.webp){align="right"; width="320"}A skilled brawler and swordswoman, currently employed by [Lorin Valbert](<lorin-valbert.md>) to watch over is interests. Seems attached to her lord in a professional way.
+![Isolde Asineau](/taelgarverse/assets/isolde-asineau.webp){align="right"; width="320"}A skilled brawler and swordswoman, currently employed by [Lorin Valbert](<lorin-valbert.md>) to watch over his interests. Seems attached to her lord in a professional way.
+
+
+
+
+
+
+
 

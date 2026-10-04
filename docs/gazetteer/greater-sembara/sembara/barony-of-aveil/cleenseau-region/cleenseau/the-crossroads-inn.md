@@ -1,15 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-09-29T18:22:03-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
-campaignInfo: []
-name: The Crossroads Inn
-dm_owner: mike
-dm_notes: color
-ancestry: halfling
+tags: [place]
 typeOf: inn
-whereabouts: Cleenseau
+ancestry: halfling
 created: 1392
+name: The Crossroads Inn
+whereabouts: Cleenseau
+dm_owner: mike
+dm_notes: none
+POV: modern
 title: The Crossroads Inn
 ---
 # The Crossroads Inn
@@ -25,5 +27,6 @@ A large inn in [Cleenseau](<cleenseau.md>), said to be hundreds of years old, ke
 It is a welcoming and homey place, although not as cheap as the three inns ([The Bandit’s End](<the-bandits-end.md>), [The River's Blessing](<the-river-s-blessing.md>), or [The Fox's Flagon](<the-fox-s-flagon.md>)) that are outside the walls.
 
 
-  
+
+
 

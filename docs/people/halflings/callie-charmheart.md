@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: halfling
+ancestry:
 campaignInfo:
 - {campaign: dufr, date: 1748-03-29, type: met}
 - {campaign: dufr, date: 1748-07-09, type: last seen}
-name: Callie Charmheart
 born: 1722
-species: halfling
-ancestry:
 gender: female
+name: Callie Charmheart
 affiliations:
 - {org: Charmhearts, type: primary}
 whereabouts:
@@ -18,8 +20,10 @@ whereabouts:
 - {type: away, start: 1748-04-13, end: 1748-07-18, location: Tokra}
 - {type: away, start: 1748-07-18, end: 1748-08-13, location: Tokra-Darba Road}
 - {type: away, start: 1748-08-13, location: Darba}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Callie Charmheart
 hide_toc: true
 ---
@@ -52,6 +56,13 @@ One of the Charmhearts, a halfling family of long-distance merchants and traders
 - [Bree Charmheart](<bree-charmheart.md>), grandmother and traveling companion
 
 - [Garret Tealeaf](<garret-tealeaf.md>), occasional traveling companion 
+
+
+
+
+
+
+
 
 
 

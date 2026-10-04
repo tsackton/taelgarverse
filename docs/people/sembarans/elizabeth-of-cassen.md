@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-gender: female
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+gender: female
+name: Elizabeth of Cassen
 whereabouts:
 - {type: home, location: Champimont}
 - {type: home, location: Cassen}
 - {type: away, location: Rinburg, start: 1720-01-08, end: 1720-02-03}
 - {type: away, location: Cleenseau, start: 1720-02-06, end: 1720-02-10}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Elizabeth of Cassen
 hide_toc: true
 ---
@@ -26,8 +31,12 @@ hide_toc: true
 </div>
 
 
-![Elizabeth of Cassen](/taelgarverse/assets/elizabeth-of-cassen.webp){align="right"; width="420"}A middle aged woman, who became a solider in her later life. She worked for the lord of [Cassen](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cassen.md>) until the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) decimated her village.
+![Elizabeth of Cassen](/taelgarverse/assets/elizabeth-of-cassen.webp){align="right"; width="420"}A middle aged woman, who became a soldier in her later life. She worked for the lord of [Cassen](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cassen.md>) until the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) decimated her village.
 
 Her story is here.
+
+
+
+
 
 

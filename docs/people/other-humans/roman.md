@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
-gender: male
-whereabouts: Zvervinka
 ancestry: Urskan
+gender: male
+name: Roman
 affiliations:
 - {place: The Silver Wolf, type: leader, title: Owner}
+whereabouts: Zvervinka
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1749
 title: Roman
 hide_toc: true
 ---
@@ -25,4 +30,11 @@ hide_toc: true
 
 
 ![Roman Portrait](/taelgarverse/assets/roman-portrait.webp){align="right"; width="400"}Roman is a dapper, silver-haired gentleman who runs [The Silver Wolf](<../../gazetteer/northern-green-sea/ursk/the-silver-wolf.md>), a high-end inn and restaurant frequented by merchants in town for the famous markets of [Zvervinka](<../../gazetteer/northern-green-sea/ursk/zvervinka.md>). His impeccable manners mask his self-centered perspective; Roman is always on the lookout for an angle to improve things for himself. Nonetheless, he knows how to run a high-end inn, and his establishment is a hub for gossip and intrigue. 
+
+
+
+
+
+
+
 

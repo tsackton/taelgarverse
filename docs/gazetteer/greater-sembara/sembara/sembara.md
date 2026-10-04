@@ -21,25 +21,27 @@ title: Sembara
 
 Sembara is a large and properous realm in the [Western Green Sea](<../../western-green-sea/western-green-sea.md>) situated amongst five great rivers that pour down from the [Sentinels](<../../sentinel-range.md>) to the [Western Gulf](<../western-gulf.md>).  One of the few realms in the east to survive the Blood Years largely intact, Sembara is a hereditary monarchy with a large nobility and considerable prowess at arms. Sembara invests significantly in defensive fortifications in the [Western Marches](<western-marches/western-marches.md>), on the western (mountain) borders of the realm. These areas are under threat from hobgoblins, aberrations, and other incursions from the wilds, and the defense of these borders is a major concern for the ruling class. While most of the Sembaran population descends from the Drankorians who conquered the land, in the highlands traces of the original culture survive. And in Tyrwingha, ancient connections to the Archfey who once protected the realm still linger.
 
+Lord's guards are common even in Sembaran villages. Larger towns have more guards and soldiers, and walled towns are more common than in [Tyrwingha](<../tyrwingha/tyrwingha.md>).
 
--   Inward agricultural focus. Sphere of influence pushing more west and interior than into the [Western Gulf](<../western-gulf.md>) - limited or no real navy, small scale fishing but not a major part of the culture or economy (think China)
-    
--   Trade devalued -- historical analog: ancient Rome, where wealth from land was much more significant than wealth from trade
-    
--   Very fertile soil and rich agricultural harvests in the heart of Sembara drive the economy. Major exporter of foodstuffs and raw materials. Also higher population density than anywhere else between the good soil and the miracle that the heartland of Sembara has never been overrun by anything too bad since even before the Drankorians relatively gently took over
-    
+Some important facts about Sembara:
+
+- Inward agricultural focus. Sphere of influence pushing more west and interior than into the [Western Gulf](<../western-gulf.md>) - limited or no real navy, small scale fishing but not a major part of the culture or economy (think China)
+- Trade devalued -- historical analog: ancient Rome, where wealth from land was much more significant than wealth from trade
+- Very fertile soil and rich agricultural harvests in the heart of Sembara drive the economy. Major exporter of foodstuffs and raw materials. Also higher population density than anywhere else between the good soil and the miracle that the heartland of Sembara has never been overrun by anything too bad since even before the Drankorians relatively gently took over
 -   Landed barons and dukes dominate local politics
-    
 -   Very good relationship with halflings, who are the favored traders, and have formal rights of free passage and access to markets across Sembara.
-    
 -   Cooler relationship with dwarves -- not at all hostile, but dwarves are more aligned with the highland kingdoms, esp Ardlas and Lavnoch
-    
 -   Close relationship with lizardfolk, who have played an outsized role in Sembara’s history and establishment of [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>).
-    
 -   Elves very rare in Sembara, with little direct political contacts; largest Elven settlement nearby is the semi-mythical kingdom of [Orenlas](<../../upper-istaros/orenlas/orenlas.md>) in the forests surrounding a supposedly enchanted lake south/southeast of Tyrwingha in the Cymea foothills.
-    
 -   Stoneborn are also very rare in Sembara; mostly in the high peaks north of Ulrich devastation; more common in Northlands than elsewhere, coming from the [Vostok](<../vostok/vostok.md>) highlands
+## Royal Council
 
+The Royal Council brings together the monarch and major vassals, especially the dukes of Sembara, Wisford, Telham, Arnsbury, Cheimin, and Seham. Raising certain taxes, including a war tax, requires their assent. Major changes to the army, declarations of a new heir, certain legal decrees, and accusations against a duke would usually be presented to the council for its assent. In a crisis, counsel and support are also duties that vassals owe their lord.
+## Learned Magic
+
+Sembaran suspicion falls chiefly on learned magic: studying how magic works in order to use and extend that knowledge. It does not extend equally to all spellcasters. A lone wizard and apprentice may be regarded as eccentric or dangerous, but an organized school of magical research would face much stronger opposition. Wizards are not hunted on sight; some leave for places such as Tollen or Chardon, and the scarcity of teachers makes them rarer in Sembara. Innate magic, even wild sorcery, generally draws less suspicion.
+
+Many Sembarans point to the story of Anne's attempt to use a geas against her twin sister [Elaine I](<../../../people/historical-figures/sembaran-royalty/elaine-i.md>), and to the Cursed Cold that followed the next year, as warnings about magical study. The belief that Anne's magic caused the Cursed Cold is not established fact.
 
 ## Map
 
@@ -49,9 +51,6 @@ Sembara is a large and properous realm in the [Western Green Sea](<../../western
   style="height: 900px;"
   data-taelgar-leaflet="{&quot;id&quot;:&quot;region-map-sembara&quot;,&quot;bounds&quot;:[[0.0,0.0],[2468.0,2308.0]],&quot;minZoom&quot;:-1.0,&quot;maxZoom&quot;:3.0,&quot;defaultZoom&quot;:0.0,&quot;fitBounds&quot;:false,&quot;center&quot;:[1200.0,1200.0],&quot;image&quot;:{&quot;url&quot;:&quot;/taelgarverse/assets/sembara-regions.png&quot;}}"
 ></div>
-
-
-
 
 
 

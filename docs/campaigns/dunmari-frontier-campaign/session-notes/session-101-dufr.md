@@ -31,7 +31,7 @@ The Dunmar Fellowship defeats the Herald of Gazankoa, battles merfolk, and disco
 - Following a bioluminescent trail, the Fellowship discovers a coral tower and bubble structure where Milo Thistlefoot and other halflings are held.
 
 ### Timeline
-- May 11, 1749 DR, noon: Defeat the Herald of [Gazankoa](<../../../people/extraplanar-powers/gazankoa.md>) guarding the portal. Enter the [Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>). Defeat the [Merfolk](<../../../creatures/species/merfolk.md>) guards on the far side. Find signs of [Milo Thistlefoot](<../../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart and their halfling crew. 
+- May 11, 1749 DR, noon: Defeat the Herald of [Gazankoa](<../../../people/extraplanar-powers/gazankoa.md>) guarding the portal. Enter the [Plane of Water](<../../../cosmology/energy-realms/elemental-plane-of-water.md>). Defeat the [Merfolk](<../../../creatures/species/merfolk.md>) guards on the far side. Find signs of [Milo Thistlefoot](<../../../people/halflings/milo-thistlefoot.md>) and [Tilly Brineheart](<../../../people/halflings/tilly-brineheart.md>) and their halfling crew. 
 - May 11, 1749 DR, afternoon: Rest briefly on the portal platform. Follow a bioluminescent trail. Find a strange coral and rock complex encased in a bubble-like membrane. Enter; find [Milo Thistlefoot](<../../../people/halflings/milo-thistlefoot.md>) and his crew.
 
 ## Narrative

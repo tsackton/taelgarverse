@@ -27,3 +27,4 @@ The Dragonets follows Heska, Sculpit, Little Tony, and Zeno, four [dragonets](<.
 | Session                                                                                 | Played             |
 | --------------------------------------------------------------------------------------- | ------------------ |
 | [Dragonets - Session 01](<session-notes/dragonets-session-01.md>) | September 17, 2026 |
+| [Dragonets - Session 02](<session-notes/dragonets-session-02.md>) | September 29, 2026 |

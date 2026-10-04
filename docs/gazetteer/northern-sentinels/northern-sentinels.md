@@ -51,6 +51,9 @@ In the ancient days before [The Downfall](<../../events/ancient/the-downfall.md>
 
 In the long years leading up to the [Great War](<../../events/1500s/great-war.md>) the land of [Pandar](<../../history/historical-realms/pandar.md>) was [Cha'mutte's](<../../people/extraplanar-powers/cha-mutte.md>) home, and hobgoblins and enslaved [kenku](<../../creatures/species/kenku.md>) were common sights. Since the [Great War](<../../events/1500s/great-war.md>) this area has been lightly populated and full of dangers.
 ## Climate
+
+
+
 The mountains here are snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. The forests and fens to the west are marked by cold, snowy winters and short, wet summers. There is little farmable land here.
 
 

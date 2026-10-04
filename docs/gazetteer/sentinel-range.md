@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: '2026-09-05T16:06:33-04:00'
 lintVersion: '3.5'
 displayDefaults: {defArt: the}
-tags: [place, status/cleanup/text, status/check/lint]
+tags: [place, status/check/ai]
 typeOf: topographical feature
 typeOfAlias: mountain range
 name: Sentinel Range
@@ -11,7 +11,7 @@ aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
 whereabouts:
 - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
-dm_notes: color
+dm_notes: none
 POV: modern
 title: Sentinel Range
 ---
@@ -21,44 +21,55 @@ title: Sentinel Range
 </div>
 
 
+The Sentinel Range, also called the Sentinel Mountains or the Sentinels, is the extensive mountain range that separates the [Green Sea](<green-sea.md>) and the surrounding lands from the [west coast](<greater-chardon/greater-chardon.md>) of Taelgar. These mountains stretch 2300 miles or more, from the volcanic mountains of the former kingdom of [Pandar](<../history/historical-realms/pandar.md>) in the north, to the northern foothills of the Dunmari plains in the south. The high of the Sentinel Range is flanked by numerous mountain valleys, upland plateaus, and secondary ranges, such as the [Lavnoch](<greater-sembara/zimkova/lavnoch-plateau.md>) and [Aurbez](<upper-istaros/aurbez-plateau.md>) plateaus, and the [Salt Hills](<greater-sembara/salt-hills.md>).
+
+The Sentinels are among the most prominent and significant features of Taelgar, and have many names: they are called the Indalas by the [Stoneborn](<../creatures/species/stoneborn.md>), Labkhan by the [Dwarves](<../creatures/species/dwarves.md>), Beredri by the [Deno'qai](<../groups/cultures/deno-qai-tribes/deno-qai.md>), and Tushara by the Dunmari. 
+
+## Climate and Character
 
 
-The Sentinel Range, also called the Sentinel Mountains or the Sentinels, is the extensive mountain range that separates the [Green Sea](<green-sea.md>) and the surrounding lands from the [west coast](<greater-chardon/greater-chardon.md>) of Taelgar.
 
-The [Sentinel Range](<sentinel-range.md>) stretches 2300 miles from volcano mountains of the former kingdom of [Pandar](<../history/historical-realms/pandar.md>) in the north, to the northern foothills of the Dunmari plains in the south. 
+
+The character, climate, and topography of the Sentinels varies considerably along their vast span, from the cold and icy north to the southern reaches of the range rising dramatically from the Dunmari plains. However, the climatic impact of the Sentinels is broadly consistent: across much of the range, the western slopes receive more rain and snow from the prevailing westerly winds, while the eastern slopes are drier, especially in winter, though local exceptions exist, such as the summer winds from the [Green Sea](<green-sea.md>) that bring rain to the eastern foothills in [Greater Sembara](<greater-sembara/greater-sembara.md>). 
 
 ### Northern Sentinels
-- The northern section, from roughly [Pandar](<../history/historical-realms/pandar.md>) south past the [Forest of Nightmares](<northern-sentinels/forest-of-nightmares.md>) to the area northeast of the [Blackwater Fens](<northern-sentinels/blackwater-fens.md>), is snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. 
-		- ***Real world analogs:*** This region is at approx. 52 degrees north, and probably has some similarities with the Canadian Rockies, especially Banff and Jasper national parks, including the flat plains to the east of the mountains (int he [Far North](<faraway-places/far-north.md>)). The volcanic mountains of [Pandar](<../history/historical-realms/pandar.md>) share some similarities with the Pacific Ring of Fire, but with a much more magical vibe, and less moderating coastal influence on climate. 
+The farthest northern reaches of the mountains, from roughly [Pandar](<../history/historical-realms/pandar.md>) south past the [Forest of Nightmares](<northern-sentinels/forest-of-nightmares.md>) to the area northeast of the [Blackwater Fens](<northern-sentinels/blackwater-fens.md>), are snowy, rocky, and volcanic, marked by pine forests on the western slopes and glaciers in the high valleys. Though the mountains here are not as tall as those farther south, snowfields persist through the short summers on their higher, sheltered slopes. Winters are long and bitter.
+
+
+
+Around the [Blackwater Fens](<northern-sentinels/blackwater-fens.md>), along the southern edge of the northern Sentinels, is a region of lower mountains, with wooded slopes, alpine pastures, and highland valleys cut by innumerable small rivers. Here, the lower valleys are habitable in places, and passage from west to east is easier than elsewhere in the range; in most years, locals familiar with the terrain can cross even in winter with suitable equipment and care.
+
+
 
 ### Central Sentinels
- The middle section, roughly the area starting west of [Zimkova](<greater-sembara/zimkova/zimkova.md>) and running south to the desolation west of the [Western Marches](<greater-sembara/sembara/western-marches/western-marches.md>), is rocky and very tall, with extensive underground development associated with the [Dwarven Kingdoms](<central-highlands/dwarven-kingdoms/dwarven-kingdoms.md>), and more dangerous things. These are stereotypical high mountains. 
+South of the [Blackwater Fens](<northern-sentinels/blackwater-fens.md>), west of [Zimkova](<greater-sembara/zimkova/zimkova.md>), and running south to the desolation around the former [Urlich Pass](<central-highlands/urlich-pass.md>), the Sentinels rise to steep, rocky peaks above glaciers and high icefields. Outside a small number of known passes, the mountains are largely impassable, even in summer. The high country is little traveled and widely feared: [frost giants](<../creatures/species/giants.md>) are rumored to inhabit the icefields, and much of what lies among the highest peaks remains mysterious and unknown. 
 
-		- ***Real world analogs:*** This region stretches from roughly 40 degrees N to 50 degrees N. This is a classic high mountain range, sharing features with the northern Rockies, the Alps, and Patagonia, but even the tallest peaks are unlikely to reach the heights of something like the Himalayas in the real world. 
+Beneath the central Sentinels are the extensive underground settlements of the [Dwarven Kingdoms](<central-highlands/dwarven-kingdoms/dwarven-kingdoms.md>); rumors speak of darker and more dangerous things far below the earth, here. 
+
+
+
+The area around the former [Urlich Pass](<central-highlands/urlich-pass.md>) is now a devastated badlands and ruin created by the aftermath of [Cha'mutte](<../people/extraplanar-powers/cha-mutte.md>)'s death. Few dare venture into is desolation, and reliable maps or descriptions are rare, but what little is known suggests this is a dangerous region of isolated mountains and vast chasms. Safe travel is impossible, not only because of rumors of deadly inhabitants, but because the ground itself remains unstable. This desolation forms the southern border of the Central Sentinels. 
+
+
 
 ### Southern Sentinels
-The southern section, covering the area that was once the dwarven kingdom of [Ardith](<central-highlands/dwarven-kingdoms/ardith.md>), from roughly west of [Maseau](<greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) or [Refounded Alliance of Aurbez](<upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>) to the end of the [Sentinel Range](<sentinel-range.md>) north of [Dunmar](<greater-dunmar/realms/dunmar/dunmar.md>), is full of high, barren peaks that rise sharply from the plains, and is generally dry, with arid regions to the west and south. 
-
-		- ***Real world analogs:*** This is warmer and further south, from approx. 34 degrees N to 38 degrees N. Probably shares some similarities with the dry Andes, or possibly some of the mountains in central Asia, such as Hindu Kush or Pamir Mountains. 
-	- The northern and middle sections are separated by a region of lower hills, a more habitable region with mixed forests and rocky slopes, but relatively easy passage between the west and east. This is likely the route by which the early northerners crossed into the Sembaran highlands. 
-		- ***Real world analogs***: Perhaps somewhat similar to something like the less mountainous Yellowstone / Montana, or even perhaps the Whites. 
-	- The middle and southern sections are separated by the desolate of Urlich, created by [Cha'mutte](<../people/extraplanar-powers/cha-mutte.md>)'s death. What this actually looks like is currently unknown, but it is dangerous and contains both random isolated mountains and vast chasms, and safe travel is impossible, not only because of dangerous inhabitants but because of unstable terrain. 
-		- ***Real world analogs:*** None, although perhaps some bits of Mordor could be a reasonable mental model. 
-	- Passes: the [Sentinel Range](<sentinel-range.md>) is easily crossable only in a few places. 
-		- The south section has several routes that cross between the [Refounded Alliance of Aurbez](<upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>) and northern [Dunmar](<greater-dunmar/realms/dunmar/dunmar.md>). 
-
-In the south, in northern [Dunmar](<greater-dunmar/realms/dunmar/dunmar.md>), the mountains are steep and rocky, with only a handful of passes. In the winter, they are snow-covered, but there is little permanent ice and few or no glaciers. 
-
-Further north, the mountains are somewhat less rugged, but high enough in places to be permanently snow-covered. 
-
-Major settlements of [Dwarves](<../creatures/species/dwarves.md>) and [Stoneborn](<../creatures/species/stoneborn.md>) call the Sentinels their home, and historically this area was, and is, the center of Dwarven civilization. 
-
-The Sentinels have many names: they are called the Indalas by the [Stoneborn](<../creatures/species/stoneborn.md>), Labkhan by the [Dwarves](<../creatures/species/dwarves.md>), Beredri by the [Deno'qai](<../groups/cultures/deno-qai-tribes/deno-qai.md>), and Tushara by the Dunmari. 
+South of the devastation around [Urlich Pass](<central-highlands/urlich-pass.md>), the southernmost section of the Sentinels is high and generally dry, with barren upper slopes and scattered woodlands in the lower valleys. West of the [Aurbez Plateau](<upper-istaros/aurbez-plateau.md>), the mountains form a steep, harsh barrier, largely impassable even at the height of summer. Further south, the range gradually moderates, and a series of passes cross into northern Dunmar, where the Sentinels rise dramatically from the plains. Occasional summer storms reach the southern foothills, but much of the high country remains arid. Winter snows close the higher passes, yet most of this snow melts during the warmer months, leaving permanent snowfields and glaciers only around the highest peaks.
 
 
 
+## Passes
+
+While the Sentinels are a major barrier to east-west movement, there are several regions that are easier to cross, and some notable passes. The lower mountains separating the northern and central Sentinels offer routes that experienced locals can traverse in all seasons with suitable equipment, though the region is lightly settled and winter crossings remain difficult. [Urlich Pass](<central-highlands/urlich-pass.md>) was once a major route connecting the [Chasa River Valley](<greater-chardon/chardonian-empire/chasa-river-valley/chasa-river-valley.md>) to [Sembara](<greater-sembara/sembara/sembara.md>), but is now too dangerous and unstable to safely cross. In the south, multiple passes connect the [Refounded Alliance of Aurbez](<upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>) and northern [Dunmar](<greater-dunmar/realms/dunmar/dunmar.md>); the [South Dunmar Road](<upper-istaros/south-dunmar-road.md>) and the [Maseau - Dunmar Road](<upper-istaros/maseau-dunmar-road.md>) both cross the Sentinels, though the higher passes are often closed by snow in the colder months. 
+
+In the Central Sentinels, significant trade flows between the east and west via the underground Dwarven roads, although few human traders like the long, often dark, underground passages of the [Dwarven Kingdoms](<central-highlands/dwarven-kingdoms/dwarven-kingdoms.md>). 
 
 
+
+## Settlements
+
+Major settlements of [Dwarves](<../creatures/species/dwarves.md>) and [Stoneborn](<../creatures/species/stoneborn.md>) call the Sentinels their home, and historically this area was, and is, the center of [Dwarven civilization](<central-highlands/dwarven-kingdoms/dwarven-kingdoms.md>). The destroyed kingdom of [Ardith](<central-highlands/dwarven-kingdoms/ardith.md>) once occupied much of the southern Sentinels; now, this region is home to few dwarves, but remains populated by many Stoneborn, especially in the area southeast of the [Aurbez Plateau](<upper-istaros/aurbez-plateau.md>). 
+
+The [Deno'qai](<../groups/cultures/deno-qai-tribes/deno-qai.md>) occupy the lower western slopes of much of the central and northern Sentinels, though rarely settle the high peaks, which is inhospitable without magic. 
 
 
 

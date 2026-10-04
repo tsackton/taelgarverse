@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: fey
+subspecies: hag
+name: The Midnight Lady
+aliases: [Night Witch]
 whereabouts:
 - {type: home, location: Duskmire}
 - {type: away, start: 1720-01, end: 9999, location: Peydon}
-aliases: [Night Witch]
-name: The Midnight Lady
-species: fey
-subspecies: hag
+knownTo: [clee]
 dm_owner: mike
 dm_notes: important
+POV: 1720
 title: The Midnight Lady
 hide_toc: true
 ---
@@ -27,5 +31,11 @@ hide_toc: true
 
 
 A mysterious fey recently arrived in [Peydon](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/peydon.md>). Known by many in the village as the Night Witch. Her real name is Moriel.
+
+
+
+
+
+
 
 

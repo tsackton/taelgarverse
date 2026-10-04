@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Tyrwinghan
 gender: male
+name: Emyr of Tafolwern
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Emyr of Tafolwern
 hide_toc: true
 ---
@@ -23,4 +28,10 @@ Emyr of Tafolwern was a Tyrwinghan planar geographer and cosmological writer, wo
 
 He is best known for his treatise [On Hidden Doors](<../../things/books/on-hidden-doors.md>), a polemic about temporary planar connections, in which Emyr argued against standard orthodox accounts of [Planar Connections](<../../cosmology/planar-concepts/planar-connections.md>). Instead, he argued that elemental vortexes, fey crossings, and similar events belong to a wider class of temporary planar connections shaped by planar drift, which he called planar upwellings. 
 
-He also was a prominent critic of the [Standard Multiversal Model](<../../cosmology/planar-concepts/standard-multiversal-model.md>) conception of [Echo Realms](<../../cosmology/demiplanes-and-echo-realms/echo-realms.md>), criticizing the idea of a source and reflected hierarchy. 
+He also was a prominent critic of the [Standard Multiversal Model](<../../cosmology/planar-concepts/standard-multiversal-model.md>) conception of [Echo Realms](<../../cosmology/demiplanes-and-echo-realms/echo-realms.md>), criticizing the idea of a source and reflected hierarchy.
+
+
+
+
+
+

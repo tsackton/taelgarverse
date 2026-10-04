@@ -18,14 +18,14 @@ title: Addermarch Campaign - Session 13
 	*Featuring: [Yvan Greenrabbit](<../../people/pcs/addermarch/yvan-greenrabbit.md>), [Drou](<../../people/pcs/addermarch/drou.md>), [Fazoth de Brune](<../../people/pcs/addermarch/fazoth-de-brune.md>)*
 	*In Taelgar: May 18, 1715 DR*
 	*On Earth: Monday October 13, 2025*
-	*[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and the [Feywild](<../../cosmology/feywild.md>)*
+	*[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) and the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>)*
 
-The party follows worg tracks to a Feywild portal, kills a [Hollow Man](<../../creatures/fey/hollow-men.md>), and enters the Feywild.
+The party follows worg tracks to a Feywild portal, kills a [Hollow Man](<../../creatures/fey/hollow-men.md>), and enters the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>).
 
 ## Timeline
 
 - **May 18, 1715 DR, afternoon:** The party tracks the worgs to a strange foggy hollow.
-- **May 18, 1715 DR, evening**: After some experimenting they recreate the songs needed to open a portal to the [Feywild](<../../cosmology/feywild.md>). A hollow man emerges, which they kill. Entering the Feywild, they defeat thorn sprites and a flying archer-fey, and hear a fey melody from a singing tree in the distance.
+- **May 18, 1715 DR, evening**: After some experimenting they recreate the songs needed to open a portal to the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>). A hollow man emerges, which they kill. Entering the Feywild, they defeat thorn sprites and a flying archer-fey, and hear a fey melody from a singing tree in the distance.
 
 ## Cast of Characters
 
@@ -36,7 +36,7 @@ The party follows worg tracks to a Feywild portal, kills a [Hollow Man](<../../c
 ## Places
 
 - **[Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>) Downs** – rolling hills east of [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), dotted with ridges
-- The [Feywild](<../../cosmology/feywild.md>) - the home of the [Fey](<../../creatures/fey/fey.md>)
+- The [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>) - [Morlaith](<../../people/extraplanar-powers/archfey/morlaith.md>)'s forest domain in the [Feywild](<../../cosmology/feywild.md>)
 
 ## Narrative
 
@@ -46,6 +46,6 @@ The party follows worg tracks to a Feywild portal, kills a [Hollow Man](<../../c
 
 By late afternoon, [Fazoth](<../../people/pcs/addermarch/fazoth-de-brune.md>), [Drou](<../../people/pcs/addermarch/drou.md>), and [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) arrive at the [foggy depression](<../../gazetteer/greater-sembara/addermarch/nightsong-roots.md>). Their is a deep unnatural feeling to the fog, as it clings and clusters to the roots of a massive fallen tree with no regard for the sun. An occasional faint wind rustles the roots, which hang strangely like wind chimes. After some experimentation by [Yvan](<../../people/pcs/addermarch/yvan-greenrabbit.md>) with _Elementalism_, which causes the wind-chime-like roots to play haunting sounds, [Drou](<../../people/pcs/addermarch/drou.md>) is able to replicate the notes and opens a portal in the fallen tree.
 
-A [hollow man](<../../creatures/fey/hollow-men.md>) emerges and attacks. Remembering the rhyme, the party focuses on fire damage, and the creature is quickly dispatched. Stepping into the [Feywild](<../../cosmology/feywild.md>), the party follows a path through a dense, dark forest. On the path, they are attacked by small fey, a group of thorn-like creatures and a flying archer with ice arrows.
+A [hollow man](<../../creatures/fey/hollow-men.md>) emerges and attacks. Remembering the rhyme, the party focuses on fire damage, and the creature is quickly dispatched. Stepping into the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>), the party follows a path through a dense, dark forest. On the path, they are attacked by small fey, a group of thorn-like creatures and a flying archer with ice arrows.
 
 Our session ends as these attackers are defeated and the party hears the disquieting sounds of a singing tree ahead.

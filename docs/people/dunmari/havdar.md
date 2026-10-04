@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
-campaignInfo:
-- {campaign: DuFr, person: Delwath, date: 1748-12-27, type: scryed, format: '<met:U> by <person> in <current:fr!>, on <target>'}
-name: Havdar
-born: 1724
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, person: Delwath, date: 1748-12-27, type: scryed, format: '<met:U> by <person> in <current:fr!>, on <target>'}
+born: 1724
 gender: male
+name: Havdar
 affiliations:
 - {org: Havdar's Warband, type: leader, title: Commander}
 whereabouts:
 - {type: home, location: Karawa}
 - {type: home, location: Eastern Dunmar}
 - {type: away, location: Havdar's Warband, wCurrent: ''}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Havdar
 hide_toc: true
 ---
@@ -42,12 +46,12 @@ hide_toc: true
 ![Havdar](/taelgarverse/assets/havdar.webp){align="right"; width="350"}Havdar, a brash and confident warrior, made a name for himself as a war leader in [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), before joining with Nayan [Sura](<sura.md>) in support of her claim to the leadership of the Dunmari people. 
 ## Overview
 
-Havdar was born outside [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), and grew up herding goats amongst the rough, rocky deserts and scrublands of [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). Always passionate about the traditions of the Dunmari, he is dedicated to his homeland and [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), and the traditions of his people, and skeptical of the city folk to the west and especially the Samraat. Blessed with natural strength and dexterity, Havdar gathered a small group of dedicated warriors around him, and became know as something of a protector of [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). He often speaks reverently about the [Red Mesa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), the [Gomat](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>) Oasis, and other landmarks of the eastern plains. 
+Havdar was born outside [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), and grew up herding goats amongst the rough, rocky deserts and scrublands of [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). Always passionate about the traditions of the Dunmari, he is dedicated to his homeland and [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>), and the traditions of his people, and skeptical of the city folk to the west and especially the Samraat. Blessed with natural strength and dexterity, Havdar gathered a small group of dedicated warriors around him, and became known as something of a protector of [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). He often speaks reverently about the [Red Mesa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/red-mesa.md>), the [Gomat](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>) Oasis, and other landmarks of the eastern plains.
 
 In the summer of DR 1748, he took on a pivotal role as the chief general to Nayan [Sura](<sura.md>), standing steadfastly by her side as she asserts her claim to the Dunmari throne.
 ## Description
 
-Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of the Dunmari plains. He has dark, tangled hair and short, scrubby beard. He is usually wearing armor and carrying his spear.
+Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of the Dunmari plains. He has dark, tangled hair and a short, scrubby beard. He is usually wearing armor and carrying his spear.
 
 ## Relationships
 
@@ -67,4 +71,11 @@ Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of 
 
 - Havdar was a major proponent of war with [Nayan Karnas](<nayan-karnas.md>), but whether this was the result of the curse of the sword, or his own opinion, is hard to know. 
 - While cursed, became increasingly paranoid, seeing threats in everything.
+
+
+
+
+
+
+
 

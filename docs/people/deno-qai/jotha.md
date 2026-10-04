@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Jotha
-born: 1719
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Deno'qai
+campaignInfo: []
+born: 1719
 gender: female
+name: Jotha
 pronunciation: yo-TAH
+affiliations:
+- {org: Ko'zula, type: primary}
 whereabouts:
 - {type: home, end: 1743, location: Ko'zula village}
 - {type: home, start: 1743, end: 1749-03-21, location: Great Northern Forest}
 - {type: away, start: 1749-03-21, end: 9999, location: Vindristjarna}
-affiliations:
-- {org: Ko'zula, type: primary}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1749
 title: Jotha
 hide_toc: true
 ---
@@ -40,4 +44,10 @@ Jotha was born to the [Ko'zula](<../../groups/cultures/deno-qai-tribes/northern-
 
 When she was 24, in DR 1743, an evil crept out of the [Forest of Nightmares](<../../gazetteer/northern-sentinels/forest-of-nightmares.md>): a deathless warlock commanding a small horde of undead. They attacked a hunting camp, and Jotha and many others went to its defense. During the battle, Jotha was badly wounded, struggling to contain the warlock, grappling him to allow others to finish him off, when she suddenly vanished. She does not speak much of her experience, but describes touching an [armband the deathless warlock carried](<../../campaigns/dunmari-frontier-campaign/treasure/cha-muttes-shadow-armband.md>), and feeling torn as if she were dying, and then opening her eyes in a vast strange forest. 
 
-She spend the next several years among the [Vargaldi](<../../groups/cultures/vargaldi.md>), learning their language and customs, until joining the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>). 
+She spent the next several years among the [Vargaldi](<../../groups/cultures/vargaldi.md>), learning their language and customs, until joining the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>).
+
+
+
+
+
+

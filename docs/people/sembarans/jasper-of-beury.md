@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Jasper
-born: 1677
 species: human
 ancestry: Sembaran
+born: 1677
 gender: male
+name: Jasper
 whereabouts:
 - {type: home, location: Beury}
 - {type: away, location: Cleenseau, start: 1719-11-28, end: 1719-12-11}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1710s
 title: Jasper
 hide_toc: true
 ---
@@ -27,3 +31,7 @@ hide_toc: true
 
 
 ![Jasper of Beury](/taelgarverse/assets/jasper-of-beury.webp){align="right"; width="320"}A robber and highwayman in his youth on the stretch of the [Great South Road](<../../gazetteer/greater-sembara/roads/great-south-road.md>) between [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>) and [Dallet](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/dallet.md>), he was caught and fined. He has since reformed and worked as a crown messenger for many years. In the last few years he has returned to Beury for reasons he is generally silent about and has worked as hired labor as well as occasionally doing jobs for [Erick Murtha](<erick-murtha.md>).
+
+
+
+

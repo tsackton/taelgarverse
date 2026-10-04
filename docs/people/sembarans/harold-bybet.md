@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: human
 ancestry: Sembaran
 born: 1691
-species: human
 gender: male
+name: Harold Bybet
 whereabouts: Cleenseau
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720s
 title: Harold Bybet
 hide_toc: true
 ---
@@ -24,4 +29,11 @@ hide_toc: true
 
 
 ![Harold Bybet](/taelgarverse/assets/harold-bybet.webp){align="right"; width="320"}The husband of [Annet Bybet](<annet-bybet.md>), he is a dear friend from childhood of [Rinault](<rinault-essford.md>) and a keen hunter and horseman. He lives at [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). 
+
+
+
+
+
+
+
 

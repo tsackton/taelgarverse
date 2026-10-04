@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Cedric Cyfenwid
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
-died: 1535
 ancestry: Tyrwinghan
+died: 1535
 gender: male
-dm_notes: none
+name: Cedric Cyfenwid
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: modern
 title: Cedric Cyfenwid
 hide_toc: true
 ---
@@ -22,5 +26,12 @@ hide_toc: true
 </div>
 
 
-A paladin of [The Wyrdling](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wyrdling.md>) and friend to the fey, although born in [Tyrwingha](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) he spent much of his life in [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and the [Sembaran Borderlands](<../../gazetteer/greater-sembara/sembara/borderlands/borderlands.md>).
+A paladin of [The Wanderer](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-wanderer.md>) and friend to the fey, although born in [Tyrwingha](<../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) he spent much of his life in [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>), [Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>), and the [Sembaran Borderlands](<../../gazetteer/greater-sembara/sembara/borderlands/borderlands.md>).
+
+
+
+
+
+
+
 

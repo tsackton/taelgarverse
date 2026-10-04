@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: []
-name: Jonathon Henwyn
-born: 1680
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo: []
+born: 1680
 gender: male
-whereabouts:
-- {type: home, location: Cleenseau}
+name: Jonathon Henwyn
 affiliations:
 - {org: Essfords, title: Steward}
 - {org: Lord's Council of Cleenseau}
-dm_notes: color
+whereabouts:
+- {type: home, location: Cleenseau}
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 title: Jonathon Henwyn
 hide_toc: true
 ---
@@ -36,3 +40,9 @@ hide_toc: true
 He has a keen interest in history, and is a competent clerk and accountant. He took over as steward from his father-in-law in 1715. His wife is a childhood friend of [Rosalind](<rosalind-essford.md>) and assists him. They and their three children live at [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>). 
 
  
+
+
+
+
+
+

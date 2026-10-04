@@ -1,17 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-ancestry: Drankorian
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: dwarf
+ancestry: Drankorian
 gender: female
+name: Kallipseis
+pronunciation: kah-LIP-sees
 whereabouts:
 - {type: away, location: 27th House, end: 1740-10-06}
+knownTo: [feywild]
 dm_owner: none
 dm_notes: none
+POV: 1740
 title: Kallipseis
 hide_toc: true
 ---
 # Kallipseis
+:speaker:{ .middle } *(kah-LIP-sees)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -27,3 +34,9 @@ hide_toc: true
 Kallipseis is an ancient Drankorian dwarven wizard, gardener, and fungal researcher who spent many years within the [27th House](<../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>). She claimed leadership of [Arithrimos Lamperum](<../../groups/drankorian-societies/arithrimos-lamperum.md>) after [Thalestria's](<../other-humans/thalestria.md>) disappearance or death. During her many years in the [27th House](<../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>), she established a greenhouse and laboratory filled with cultures, terraria, strange helpers, and fungus growing on severed limbs. She studied how the fungus colonized flesh and attempted to reverse that relationship by culturing pieces of herself to take control of a fungal body. Her work reflected her conviction that "all progress involves sacrifice."
 
 ![Kallipseis Fungal Golem V3](/taelgarverse/assets/kallipseis-fungal-golem-v3.webp){align="left"; width="300"}When the 27th House began to collapse in DR 1740, Kallipseis transformed herself into a fungal golem. Her new body, shaped like a dwarven woman but made from fungi and lichens, sat up and looked upon the lifeless dwarven corpse that had previously held her soul. She consulted a book filled with long lists of six-digit numbers and disappeared. She is now, one presumes, somewhere in the Multiverse attempting to reestablish the [Arithrimos Lamperum](<../../groups/drankorian-societies/arithrimos-lamperum.md>).
+
+
+
+
+
+

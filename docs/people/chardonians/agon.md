@@ -35,7 +35,7 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748  
+:octicons-location-24:{ .lg .middle } Mentioned to the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21st, 1748  
 
 
 

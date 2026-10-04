@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Béatrix Thorne
-born: 1696
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
+born: 1696
 gender: female
+name: Béatrix Thorne
+pronunciation: bay-ah-TREEKS thorn
 aliases: [Béatrix, Beatrix, Béatrix Thorne]
 affiliations:
 - {org: Army Garrison of Cleenseau, end: 1719-11-02, title: Soldier}
@@ -13,19 +16,22 @@ affiliations:
 - {org: Lord's Guard of Cleenseau, start: 1720-01-11, title: Sheriff}
 - {org: Thornes of Cleenseau, type: primary}
 whereabouts: Cleenseau
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 title: Béatrix Thorne
 hide_toc: true
 ---
 # Béatrix Thorne
+:speaker:{ .middle } *(bay-ah-TREEKS thorn)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) [human](<../../creatures/species/humans.md>) (she/her), of the [Thornes of Cleenseau](<../../groups/sembaran-noble-houses/thornes-of-cleenseau.md>)  
     Born DR 1696 (54 years old)  
     Soldier of the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) (until November 2nd, 1719)  
-    Guardswoman of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since November 23th, 1719)  
+    Guardswoman of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since November 23rd, 1719)  
     Sheriff of the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>) (since January 11th, 1720)  
     { .bio }
 
@@ -33,6 +39,14 @@ hide_toc: true
 </div>
 
 
-![Beatrix](/taelgarverse/assets/beatrix.webp){align="right"; width="320"}A solider in the Bridge Patrol of the [Cleenseau Garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>), she accompanied the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) into the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>) following a trail of spiders. 
+![Beatrix](/taelgarverse/assets/beatrix.webp){align="right"; width="320"}A soldier in the Bridge Patrol of the [Cleenseau Garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>), she accompanied the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) into the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>) following a trail of spiders.
 
 After her recent marriage to [Gabriel Thorne](<gabriel-thorne.md>), she left the army and joined the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>). She miscarried during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).
+
+Her father-in-law is the chief yeoman of [Auloutte](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/auloutte.md>).
+
+
+
+
+
+

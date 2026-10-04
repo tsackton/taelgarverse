@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
-name: Dimitaur
-born:
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: dragonet
 ancestry:
+born:
 gender: male
 player:
+name: Dimitaur
 affiliations:
 - {org: Heroes of the Great War, title: Companion}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1740s
 title: Dimitaur
 hide_toc: true
 ---
@@ -26,6 +30,9 @@ hide_toc: true
 
 
 A small flying lizard, companion to [Rai](<../rai.md>).
+
+
+
 
 
 

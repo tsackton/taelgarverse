@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, person]
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [status/stub, person, status/check/lint]
 species: human
 ancestry: Illorian
 gender: male
+name: Chirce
+knownTo: []
 dm_owner: tim
 dm_notes: important
+POV: modern
 title: Chirce
 hide_toc: true
 ---
@@ -17,5 +22,12 @@ hide_toc: true
     { .bio }
 
 </div>
+
+
+
+
+
+
+
 
 

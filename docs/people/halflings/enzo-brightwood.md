@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-name: Enzo Brightwood
-born:
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: halfling
 ancestry:
+born:
 gender: male
+name: Enzo Brightwood
 affiliations:
 - {org: Brightwoods, type: primary}
-- {org: The Rangers}
+- {org: Rangers}
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, location: Champimont}
 - {type: away, start: 1720-01-18, location: Champimont}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Enzo Brightwood
 hide_toc: true
 ---
@@ -23,7 +27,7 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [halfling](<../../creatures/species/halflings.md>) (he/him), of Brightwoods  
-    Member of the The Rangers  
+    Member of the [Rangers](<../../groups/rangers.md>)  
     { .bio }
 
     Originally from: Unknown
@@ -33,6 +37,13 @@ hide_toc: true
 
 
 ![Enzo Brightwood](/taelgarverse/assets/enzo-brightwood.webp){align="right"; width="400"}A skirmisher and scout. Young, to be on the road. Cousin of [Adra Brightwood](<adra-brightwood.md>).
+
+
+
+
+
+
+
 
 
 

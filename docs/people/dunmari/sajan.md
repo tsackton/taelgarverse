@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, date: 1748-05-11, type: Haunted energy felt}
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: Died and became a ghost in, wPastHome: 'Haunts  <home:3rU>'}
-name: Sajan
-died: 1721
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, date: 1748-05-11, type: Haunted energy felt}
+died: 1721
 gender: female
+name: Sajan
 affiliations: [Order of the Awakened Soul]
 whereabouts: Hall of Stories
-dm_notes: color
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: color
+POV: modern
 title: Sajan
 hide_toc: true
 ---
@@ -35,4 +39,10 @@ hide_toc: true
 
 Sajan was the last Keeper of the [Hall of Stories](<../../gazetteer/greater-dunmar/hara-basin/hall-of-stories.md>), before the [Monastery of Bhishma](<../../gazetteer/greater-dunmar/hara-basin/monastery-of-bhishma.md>) outside [Kharsan](<../../gazetteer/greater-dunmar/hara-basin/kharsan.md>) was abandoned by the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>), in the months following the [Awakened Soul Disaster](<../../events/1700s/1718/awakened-soul-disaster.md>). 
 
-She died in the chaos that followed, but her soul could not escape the material plane, and fell into madness. Her spirit now is trapped in the endless memories and nightmares of [Hall of Stories](<../../gazetteer/greater-dunmar/hara-basin/hall-of-stories.md>), trapped, always turning tales to the worst possible outcome. 
+She died in the chaos that followed, but her soul could not escape the material plane, and fell into madness. Her spirit now is trapped in the endless memories and nightmares of [Hall of Stories](<../../gazetteer/greater-dunmar/hara-basin/hall-of-stories.md>), trapped, always turning tales to the worst possible outcome.
+
+
+
+
+
+

@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Aatmaj Dasa
-born:
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+born:
 died: 1395
 gender: male
 title: Samraat Aatmaj Dasa
+name: Aatmaj Dasa
+aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
 affiliations:
 - {org: Aatmaji Dynasty, type: primary}
 - {org: Dunmar, start: 1385, type: leader}
-aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: modern
 hide_toc: true
 ---
 # Samraat Aatmaj Dasa
@@ -31,6 +35,9 @@ hide_toc: true
 The last Samraat of the [Aatmaji Dynasty](<../../../groups/dunmari-dynasties/aatmaji-dynasty.md>). 
 
 His tomb is among the monuments in Kharsan. 
+
+
+
 
 
 

@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/metadata, person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 displayDefaults: {boxInfo: '<subspecies> (<species:s>), <pronouns>'}
-campaignInfo:
-- {campaign: DuFr, date: 1748-11-15, type: imprisoned}
-name: Agata Dustmother
-born:
+tags: [status/cleanup/metadata, person, status/check/lint]
 species: fey
 subspecies: hag
+campaignInfo:
+- {campaign: dufr, date: 1748-11-15, type: imprisoned}
+born:
 gender: female
+name: Agata Dustmother
 aliases: [Old Woman of the Dusts, Dasoclese, Agata Dustmother]
 whereabouts:
 - {type: home}
@@ -16,8 +18,10 @@ whereabouts:
 - {type: home, start: '', end: 1748-05-29, location: Garamjala Desert}
 - {type: away, start: 1748-05-29, end: 1748-11-15, location: Ring of the Warded Mind}
 - {type: away, start: 1748-11-15, end: 9999, location: Heartwood Grove}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Agata Dustmother
 hide_toc: true
 ---
@@ -38,6 +42,8 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Imprisoned by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on November 15th, 1748 in the [Heartwood Grove](<../../gazetteer/extraplanar/feywild/amberglow/heartwood-grove.md>), [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), the [Feywild](<../../cosmology/feywild.md>)  
 
 
+
+
 ![Agata V2](/taelgarverse/assets/agata-v2.webp){align="right"; width="300"}Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>), near [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>). 
 ## Overview
 
@@ -47,7 +53,7 @@ In DR 1748, she was imprisoned in the [Heartwood Grove](<../../gazetteer/extrapl
 ## Description
 
 ![Agata V1](/taelgarverse/assets/agata-v1.webp){align="left"; width="300"}
-Agata takes the appearance of a withered old woman, with dry, dusty skin, wearing white robes. Her lair is magical and seemingly un-scryable hut hidden on the edge of the desert, surrounded by brambles and rocks, and only approachable if one follows the correct path. 
+Agata takes the appearance of a withered old woman, with dry, dusty skin, wearing white robes. Her lair is a magical and seemingly un-scryable hut hidden on the edge of the desert, surrounded by brambles and rocks, and only approachable if one follows the correct path.
 ## Events
 
 - Agata was known as Dasoclese in the [Feywild](<../../cosmology/feywild.md>) realm of [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>)
@@ -65,4 +71,9 @@ Agata takes the appearance of a withered old woman, with dry, dusty skin, wearin
 	- [Garret Tealeaf](<../halflings/garret-tealeaf.md>), who had been forced into Agata's service as a wooden scarecrow before being turned back by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on [June 2, 1748](<../../campaigns/dunmari-frontier-campaign/session-notes/session-30-dufr.md>)
 	- [Shandar](<../dunmari/shandar.md>), an old man who had been trapped as a table for decades, freed by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on [June 4, 1748](<../../campaigns/dunmari-frontier-campaign/session-notes/session-30-dufr.md>)
 	- [Kaya](<../dunmari/kaya.md>), a Dunmari woman who had been trapped as a chair for decades, freed by [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on [June 8, 1748](<../../campaigns/dunmari-frontier-campaign/session-notes/session-31-dufr.md>)
+
+
+
+
+
 

@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Hulda
-aliases: [Lord Hulda, Hulda]
-title: Lord Hulda
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+title: Lord Hulda
 died: 1740-10-07
 gender: male
-whereabouts: Dandelion House
+name: Hulda
+aliases: [Lord Hulda, Hulda]
 affiliations:
 - {org: Dandelion House, type: leader, title: Lord}
+whereabouts: Dandelion House
+knownTo: [feywild]
 dm_owner: none
 dm_notes: none
+POV: 1740
 hide_toc: true
 ---
 # Lord Hulda
@@ -34,7 +38,7 @@ Hulda is a scarred, powerfully built man in his mid-to-late forties, with a griz
 
 Hulda was the second son of a minor lord in southern [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). Resentful of his modest inheritance, he left home and spent nearly thirty years as a sellsword, guard, mercenary, and adventurer around the [Green Sea](<../../gazetteer/green-sea.md>). He made and lost fortunes and lovers, but gained only a minor reputation. In the spring of 1740, he and his companions killed a young dragon near [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>). The others all died in the fight, leaving Hulda celebrated in song but as poor and bitter as before.
 
-Soon after, a stranger delievered a brittle, centuries-old deed (though written in modern Sembaran) that named Hulda, his lineage, his birth date, and even the recent slaying of the dragon. It promised him [Dandelion House](<../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>), its lands, and its treasures if he passed through a hidden door and convinced [Lord Endless Ending](<../fey/lord-endless-ending.md>) to end a long-standing agreement. Hulda tried and failed to intimidate the fae lord into compliance, but, deeply invested in acquiring ownership of Dandelion House, hired five adventurers to try in exchange for half the promised hoard. 
+Soon after, a stranger delivered a brittle, centuries-old deed (though written in modern Sembaran) that named Hulda, his lineage, his birth date, and even the recent slaying of the dragon. It promised him [Dandelion House](<../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>), its lands, and its treasures if he passed through a hidden door and convinced [Lord Endless Ending](<../fey/lord-endless-ending.md>) to end a long-standing agreement. Hulda tried and failed to intimidate the fae lord into compliance, but, deeply invested in acquiring ownership of Dandelion House, hired five adventurers to try in exchange for half the promised hoard.
 
 After the five adventurers passed through a tunnel beneath [Dandelion House](<../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>) into the [Feywild](<../../cosmology/feywild.md>) and the [Twilight Kingdom](<../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), Hulda slammed the door, hoping to force them to complete the mission. Whether they did or not, Hulda never learned, as he was killed a few days later when the fungal entities posing as his servants attacked [Dandelion House](<../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>). 
 
@@ -44,4 +48,10 @@ Hulda was the second son of a minor lord in southern [Sembara](<../../gazetteer/
 
 After many years of adventuring, Hulda grew to middle age as an angry, unhappy adventurer. Eventually, he found his way into the [Feywild](<../../cosmology/feywild.md>) and the [27th House](<../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>), where he met the [Prisoner in the 27th Room](<../other-nonhumans/prisoner-in-the-27th-room.md>). The prisoner sent him through a root to the year DR 1351, where he wrote the promise that became the deed and gave it to someone who could return it to his younger self. 
 
-Hulda died in the DR 1360s, still waiting for [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) to be established as a united monarchy. 
+Hulda died in the DR 1360s, still waiting for [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>) to be established as a united monarchy.
+
+
+
+
+
+

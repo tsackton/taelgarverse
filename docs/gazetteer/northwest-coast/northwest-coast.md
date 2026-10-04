@@ -43,6 +43,9 @@ Although in the years before the [Great War](<../../events/1500s/great-war.md>) 
 
 ## Climate
 
+
+
+
 {descriptive in world text about climate}
 
 

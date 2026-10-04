@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
 tags: [person]
-knownTo: [Mawar]
-name: Samar
-born:
 species: human
 ancestry: Mawaran
+born:
 gender: female
+name: Samar
+pronunciation: sah-MAHR
 whereabouts: Hamri
+knownTo: [mawar]
 dm_owner: none
 dm_notes: none
-pronunciation: sah-MAHR
+POV: 1747
 title: Samar
 hide_toc: true
 ---
@@ -27,3 +30,7 @@ hide_toc: true
 
 
 ![Samar](/taelgarverse/assets/samar.webp){align="right"; width="300"}Samar, the twin sister of [Reliah](<reliah.md>), is an orphaned girl who lives in the Drowned Flats. [Wazir](<../pcs/mawar/wazir.md>) feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
+
+
+
+

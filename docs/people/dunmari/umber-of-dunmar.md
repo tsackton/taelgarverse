@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Umber of Dunmar
-born:
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+born:
 gender: male
 died: 1748
+name: Umber of Dunmar
 whereabouts: Tokra
-dm_notes: color
+knownTo: [dufr]
 dm_owner: none
+dm_notes: color
+POV: 1748
 title: Umber of Dunmar
 hide_toc: true
 ---
@@ -25,4 +29,10 @@ hide_toc: true
 </div>
 
 
-A Dunmari suffering under the curse of lycanthropy caused by the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>), killed by the party in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
+A Dunmari suffering under the curse of lycanthropy caused by the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>), killed by the party in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+
+
+
+
+
+

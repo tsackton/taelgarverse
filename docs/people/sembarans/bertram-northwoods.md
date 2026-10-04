@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-whereabouts: Asineau
-born: 1673
-gender: male
 species: human
 ancestry: Sembaran
-dm_notes: color
-dm_owner: none
+born: 1673
+gender: male
+name: Bertram Northwoods
+whereabouts: Asineau
+knownTo: [clee]
+dm_owner: mike
+dm_notes: none
+POV: 1719
 title: Bertram Northwoods
 hide_toc: true
 ---
@@ -23,4 +28,7 @@ hide_toc: true
 </div>
 
 
-![Bertram Northwoods 2](/taelgarverse/assets/bertram-northwoods-2.webp){align="right"; width="320"}The groom and stablemaster for [Lorin Valbert](<lorin-valbert.md>). A cousin of [Phillipa Northwood](<phillipa-northwood.md>).
+![Bertram Northwoods 2](/taelgarverse/assets/bertram-northwoods-2.webp){align="right"; width="320"}Bertram is the groom and stablemaster at [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>). Formerly employed by [Lorin Valbert](<lorin-valbert.md>), he remained at the manor after Lorin’s departure. A cousin of [Phillipa Northwood](<phillipa-northwood.md>).
+
+
+

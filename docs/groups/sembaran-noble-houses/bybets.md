@@ -16,7 +16,7 @@ title: Bybets
 </div>
 
 
-A minor manorial family.
+A minor manorial family based around [Ainwick](<../../gazetteer/greater-sembara/sembara/barony-of-ainwick/ainwick.md>).
 
 
 

@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, type: met, date: 1748-07-02}
-name: Amay
-born:
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-07-02}
+born:
 gender: male
+name: Amay
 whereabouts:
 - {type: away, start: 1748-06-03, end: 1748-12-14, linkText: camped near, location: Tokra, format: '<name:q>'}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: important
+POV: 1748
 title: Amay
 hide_toc: true
 ---
@@ -38,6 +42,13 @@ A captain in the Dunmari army, in service of [Illyan](<illyan.md>) and ultimatel
 ## Chronology
 - Jun 03, 1748 DR: Arrives in Tokra with the first wave of [Nayan Karnas](<nayan-karnas.md>)'s army, under the command of [Illyan](<illyan.md>). 
 - Jul 02, 1748 DR: Briefly encounters [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Tokra while escorting them to [Illyan](<illyan.md>)'s camp. 
+
+
+
+
+
+
+
 
 
 

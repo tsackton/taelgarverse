@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Gyles
-born: 1541
 species: human
 ancestry: Sembaran
+born: 1541
 gender: male
 died: 1632
+name: Gyles
 affiliations:
 - {org: House of Teckberg, type: leader}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Gyles
 hide_toc: true
 ---
@@ -27,3 +31,7 @@ hide_toc: true
 
 
 The fifth child of [Reginald](<reginald.md>), Gyles founded the great House of Teckberg, based in the [Highlands](<../../../gazetteer/greater-sembara/sembara/highlands/highlands.md>).  
+
+
+
+

@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-knownTo: [Mawar]
-name: Itzal
-born: 1551
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: lizardfolk
 subspecies: salt
+born: 1551
 gender: male
+name: Itzal
 whereabouts:
 - {type: home, location: Eskorola}
+knownTo: [mawar]
 dm_owner: none
 dm_notes: color
+POV: 1747
 title: Itzal
 hide_toc: true
 ---
@@ -27,5 +30,11 @@ hide_toc: true
 
 
 Itzal is a lizardfolk elder and the village spokesman of [Eskorola](<../../gazetteer/northwest-coast/mawar-confederacy/eskorola.md>), a small lizardfolk village in [Tzingola](<../../gazetteer/northwest-coast/mawar-confederacy/tzingola.md>). He is very old, probably 200 at least, with skin a uniform light blue that doesn't glisten.
+
+
+
+
+
+
 
 

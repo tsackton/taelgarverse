@@ -41,6 +41,9 @@ _See more: {links}_
 
 ## Climate
 
+
+
+
 {descriptive in world text about climate}
 
 

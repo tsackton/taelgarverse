@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1749-08-06, type: met}
-name: Empress of Chaos
-born:
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: hobgoblin
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1749-08-06, type: met}
+born:
 gender: female
+name: Empress of Chaos
 aliases:
 whereabouts:
 - {type: away, start: 1749-08-06, end: 1749-08-06, location: Plaguelands}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1749
 title: Empress of Chaos
 hide_toc: true
 ---
@@ -34,5 +38,11 @@ hide_toc: true
 
 
 ![Emrpess of Chaos](/taelgarverse/assets/emrpess-of-chaos.webp){align="right"; width="400"}The Empress of Chaos is the leader of the Iron Fang hobgoblin clan. 
+
+
+
+
+
+
 
 

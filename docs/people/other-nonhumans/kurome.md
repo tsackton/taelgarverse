@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: dream being
 campaignInfo:
 - {campaign: dufr, type: seen in dreams, date: 1748-11-24}
 gender: male
-species: dream being
+name: Kurome
 pronunciation: ku-ROW-may
 whereabouts:
 - {type: home, end: 1, location: Nightmare Realm}
 - {type: away, end: 1748-11-24, location: Hralgar's Palace}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: modern
 title: Kurome
 hide_toc: true
 ---
@@ -33,4 +38,11 @@ hide_toc: true
 
 
 A creature of dreams and nightmares. 
+
+
+
+
+
+
+
 

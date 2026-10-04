@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [group, status/check/lint]
 typeOf: adventuring party
+name: Tollen Misfits
 dm_owner: tim
 dm_notes: none
+POV: 1740
 title: Tollen Misfits
 ---
 # The Tollen Misfits
@@ -22,3 +26,9 @@ The group includes:
 - [Tarek](<tarek.md>), a quick-handed traveler and salvager
 - [Ayveen](<ayveen.md>), a hopeful Tollish adventurer
 - [Txarro](<txarro.md>), a druid whose memories include the wild dangers around Tollen
+
+
+
+
+
+

@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: human
+ancestry: Mawaran
 gender: male
+name: Zahir
+whereabouts: Sulqat
+knownTo: []
 dm_owner: none
 dm_notes: none
-ancestry: Mawaran
-whereabouts: Sulqat
-species: human
+POV: undated
 title: Zahir
 hide_toc: true
 ---
@@ -21,5 +26,12 @@ hide_toc: true
 </div>
 
 
-Zahir is a sailor from [Sulqat](<../../gazetteer/northwest-coast/rivers/sulqat.md>), who became famous for his story of surviving the destruction of his ship in a gale off the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>), during which is says he was transported to the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>). He claimed to have awoke on a strange shore of a shimmering island, floating in a mysterious sea, where he spent seven years in service to a marid before returning. 
+Zahir is a sailor from [Sulqat](<../../gazetteer/northwest-coast/rivers/sulqat.md>), who became famous for his story of surviving the destruction of his ship in a gale off the [Mawakel Peninsula](<../../gazetteer/northwest-coast/mawar-confederacy/mawakel-peninsula.md>), during which he says he was transported to the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>). He claimed to have awoken on a strange shore of a shimmering island, floating in a mysterious sea, where he spent seven years in service to a marid before returning.
+
+
+
+
+
+
+
 

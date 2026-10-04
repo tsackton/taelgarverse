@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, person: Delwath, date: 1748-07-01, type: Cured of lycanthropy}
-name: Dag Hardstone
-born: 1729
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: dwarf
 ancestry:
+campaignInfo:
+- {campaign: dufr, person: Delwath, date: 1748-07-01, type: Cured of lycanthropy}
+born: 1729
 gender: male
-whereabouts: Tokra
+name: Dag Hardstone
 affiliations:
 - {type: primary, org: Hardstones}
-dm_notes: color
+whereabouts: Tokra
+knownTo: [dufr]
 dm_owner: none
+dm_notes: color
+POV: 1740s
 title: Dag Hardstone
 hide_toc: true
 ---
@@ -36,5 +40,12 @@ Dag is the youngest member of the Hardstone clan, an extended family of dwarves 
 
 
 In the summer of 1748 DR, Dag was caught by werewolves when the [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) were raided, and wounded, becoming cursed by lycanthropy. After he was subdued by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), he was cured by [Delwath](<../pcs/dunmar-fellowship/delwath.md>), with the blessing of [Yezali](<../../gods-and-religions/gods/tanshi/meswati/yezali.md>). 
+
+
+
+
+
+
+
 
 

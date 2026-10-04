@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-campaignInfo:
-- {campaign: clee}
-name: Odo Cordwaner
-born: 1700
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee}
+born: 1700
 gender: male
+name: Odo Cordwaner
 affiliations:
 - {org: Army Garrison of Cleenseau, end: 1719-11-05, title: Sergeant}
 - {org: Lord's Guard of Cleenseau, start: 1719-11-16, title: Guardsman}
@@ -16,8 +18,10 @@ whereabouts:
 - {type: home, location: Cleenseau, start: 1718}
 - {type: away, start: 1719-10-21, end: 1719-10-23, location: Taviose}
 - {type: home, start: 1719-11-16, location: Taviose}
+knownTo: [clee]
 dm_owner: mike
 dm_notes: color
+POV: 1720
 title: Odo Cordwaner
 hide_toc: true
 ---
@@ -36,13 +40,22 @@ hide_toc: true
 </div>
 
 
-![Odo Cordwaner](/taelgarverse/assets/odo-cordwaner.webp){align="right"; width="320"} Until recently a sergeant of the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), he was discharged after failing to heed orders during the [Festival of the Bridge](<../../gods-and-religions/holidays-and-festivals/festival-of-the-bridge.md>). He allowed [François the Bandit](<francois-the-bandit.md>) access to the food area, despite specific warnings to be on the lookup.
+![Odo Cordwaner](/taelgarverse/assets/odo-cordwaner.webp){align="right"; width="320"} Until recently a sergeant of the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), he was discharged after failing to heed orders during the [Festival of the Bridge](<../../gods-and-religions/holidays-and-festivals/festival-of-the-bridge.md>). He allowed [François the Bandit](<francois-the-bandit.md>) access to the food area, despite specific warnings to be on the lookout.
 
 Investigation determined that he was not malicious, but just careless. In the excitement of the festival, he failed to pay attention as he should have. He was discharged from the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>), but at the intervention of [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>), was hired by the [Essfords](<../../groups/sembaran-noble-houses/essfords.md>) to provide a steady presence in [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>).
 
 He has since developed a romantic attachment to [Abigail Moss](<abigail-moss.md>), and has come to believe that his mistake was the hand of [The Warlord](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>), setting him on a path to find his true calling (and setting the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) on the path to become heroes).
 
-His family is based in [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), but he left home at 18 to join the army, being the youngest of five children and with no interest in farming.
+His family is based in [Eftly](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/eftly.md>), but he left home at 18 to join the army, being one of five children and with no interest in farming.
+
+In late April 1720, Odo came to [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>) with his younger brother [Samuel](<samuel-cordwaner.md>) and [Abigail Moss](<abigail-moss.md>) to serve as captain of the manor's guard.
+
+
+
+
+
+
+
 
 
 

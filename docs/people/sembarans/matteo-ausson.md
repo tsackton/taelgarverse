@@ -2,21 +2,23 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-28T16:53:46-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1698
 gender: male
 name: Matteo Ausson
 whereabouts: Cleenseau
+pronunciation: mah-TAY-oh ah-SOHN
 knownTo: [clee]
 dm_owner: none
-dm_notes: color
+dm_notes: none
 POV: 1720s
 title: Matteo Ausson
 hide_toc: true
 ---
 # Matteo Ausson
+:speaker:{ .middle } *(mah-TAY-oh ah-SOHN)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -28,12 +30,9 @@ hide_toc: true
 </div>
 
 
-![Matteo Ausson](/taelgarverse/assets/matteo-ausson.webp){align="right"; width="320"}One of the sons of [Arnaud Ausson](<arnaud-ausson.md>), something of a ne'er-do-well. Rumored to have been the lover of [Rinault](<rinault-essford.md>) in the summer of 1719, and still hangs around [Rinault](<rinault-essford.md>) and his cronies. Also rumored to have been involved in the death of his sister Lizette when he was 10, but no one knows the details.
+![Matteo Ausson](/taelgarverse/assets/matteo-ausson.webp){align="right"; width="320"}One of the sons of [Arnaud Ausson](<arnaud-ausson.md>), something of a ne'er-do-well. Rumored to have been the lover of [Rinault](<rinault-essford.md>) in the summer of 1719, and still hangs around [Rinault](<rinault-essford.md>) and his cronies. Also rumored to have been involved in the death of his sister Lizette when he was 10, but no one knows the details. He is the first of his family to truly embrace his [Sembaran](<../../gazetteer/greater-sembara/sembara/sembara.md>) adopted homeland and is rarely interested in listening to his father's tales of home, although he is happy to spend his father's money.
 
-Full of swagger and bravado on the outside, at least.
-
-
-
+Full of swagger and bravado on the outside, at least. 
 
 
 

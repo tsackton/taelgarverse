@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: '2026-09-28T23:44:57-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
-name: Serethwyn Tor
+tags: [place]
 typeOf: building
+typeOfAlias: ruin
+name: Serethwyn Tor
+pronunciation: seh-RETH-win tor
 whereabouts: Carlinshire
 dm_owner: tim
 dm_notes: none
-typeOfAlias: ruin
+POV: 1715
 title: Serethwyn Tor
 ---
 # Serethwyn Tor
+:speaker:{ .middle } *(seh-RETH-win tor)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A ruin in [Carlinshire](<carlinshire.md>), [Addermarch](<addermarch.md>), [Greater Sembara](<../greater-sembara.md>)  
 </div>
@@ -23,5 +28,8 @@ Serethwyn Tor is an old hill-fort in western [Carlinshire](<carlinshire.md>), bu
 The ruined fort is reached by an old road climbing out of the Highmoor. A warning marker, written in Sembaran, Elvish, and Stoneborn, marks the site as dangerous and sealed by order of the [Rangers](<../../../groups/rangers.md>). The surface ruins preserve signs of ancient fire damage, Avatus-era military gear, and the remains of fighting in and around the barracks and keep.
 
 Beneath the fort is an old [serpentine](<../../../things/materials/serpentine.md>) mine complex. The upper mine was blocked by a massive intentional cave-in, but ventilation shafts uncovered by severe storms in the spring of DR 1715 lead deeper into the hill. 
+
+
+
 
 

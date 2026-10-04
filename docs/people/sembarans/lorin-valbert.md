@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-23T23:02:51-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/mike, status/check/lint]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
 born: 1677
 name: Lorin Valbert
+pronunciation: loh-RAN val-BAIR
 affiliations:
 - {place: Manor of Asineau, start: 1715, end: 1720-01-13, title: Lord}
 whereabouts:
@@ -18,12 +19,13 @@ whereabouts:
 - {type: away, location: Borderlands, start: 1720-01-19, linkText: heading towards, wLastKnown: 'Last known location (as of <lastknowndate>): <lastKnown:q>'}
 knownTo: [clee]
 dm_owner: mike
-dm_notes: color
+dm_notes: none
 POV: 1710s
 title: Lorin Valbert
 hide_toc: true
 ---
 # Lorin Valbert
+:speaker:{ .middle } *(loh-RAN val-BAIR)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -45,9 +47,9 @@ He has a wife and two young children who often reside in [Embry](<../../gazettee
 
 
 
-He fled his manor after the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>), in part because he was convinced some of the misfortune of the Asa family was falling on him, and partly because he was scared and did not want to deal with the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).
+On January 11, DR 1720, [Viepuck](<../pcs/cleenseau/viepuck.md>) and [Izgil](<../pcs/cleenseau/izgil-moonseeker.md>) convinced Lorin that the manor was cursed and that fey were pursuing him, building on his fear that the misfortune of the Asa family was falling on him amid the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>). Lorin fled the next morning and renounced his claim to Asineau. After [Celyn](<../pcs/cleenseau/celyn.md>) and Viepuck caught him, he returned most of the manor's money and horses before continuing east across the river. 
 
-
+As the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) investigated the finances and character of [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>) they discovered that Lorin had largely mismanaged the estate, selling entailed lands for luxury furniture and food and charging relatively harsh taxes to make up for his mismanagement. 
 
 
 

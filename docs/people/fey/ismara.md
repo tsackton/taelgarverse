@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: fey
 gender: female
+name: Ismara
 whereabouts:
 - {type: home, end: 1, location: Gleamwater}
 - {type: away, end: 1749-06-10, location: Emberwine}
-dm_notes: none
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1740s
 title: Ismara
 hide_toc: true
 ---
@@ -25,4 +30,11 @@ hide_toc: true
 
 
 ![Ismara](/taelgarverse/assets/ismara.webp){align="right"; width="300"}Ismara is a wanderer and a scholar of humanity, an archivist of the [Mundane World](<../../cosmology/material-plane.md>). She is curious and bright, and prone to travel where fate takes her, although she tends to shy from danger. 
+
+
+
+
+
+
+
 

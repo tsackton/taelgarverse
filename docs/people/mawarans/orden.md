@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-knownTo: [Mawar]
-name: Orden
-born:
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Mawaran
+born:
 gender: male
+name: Orden
 whereabouts: Hamri
+knownTo: [mawar]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Orden
 hide_toc: true
 ---
@@ -29,6 +32,12 @@ Orden is a beach-dwelling Mawaran who lives in a shack north of the main port of
 
 Orden is a friend of [Trok](<../pcs/mawar/trok.md>). They sometimes work salvage together, and sometimes smoke [gatza](<../../things/materials/gatza.md>) on the beach late at night, each seeking their own solace. 
 
-He is also [Hiyasa](<hiyasa.md>)'s father. When [Hiyasa](<hiyasa.md>) returned to [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) after roughly ten years away and then vanished while treasure hunting up the Mirmir, Orden went to [Trok](<../pcs/mawar/trok.md>) for help. His request sent [Trok](<../pcs/mawar/trok.md>), [Nerissa](<../pcs/mawar/nerissa.md>), [Kaleho](<../pcs/mawar/kaleho.md>), and [Ryu](<../pcs/mawar/ryu.md>) after her, leading them to the [tomb of Yerkir-khor](<../../gazetteer/northwest-coast/mawar-confederacy/tomb-of-yerkir-khor.md>) and[her eventual rescue](<../../campaigns/mawar-adventures/episodes/mawar-adventures-episode-03.md>). 
+He is also [Hiyasa](<hiyasa.md>)'s father. When [Hiyasa](<hiyasa.md>) returned to [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>) after roughly ten years away and then vanished while treasure hunting up the Mirmir, Orden went to [Trok](<../pcs/mawar/trok.md>) for help. His request sent [Trok](<../pcs/mawar/trok.md>), [Nerissa](<../pcs/mawar/nerissa.md>), [Kaleho](<../pcs/mawar/kaleho.md>), and [Ryu](<../pcs/mawar/ryu.md>) after her, leading them to the [tomb of Yerkir-khor](<../../gazetteer/northwest-coast/mawar-confederacy/tomb-of-yerkir-khor.md>) and [her eventual rescue](<../../campaigns/mawar-adventures/episodes/mawar-adventures-episode-03.md>).
+
+
+
+
+
+
 
 

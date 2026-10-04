@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Symone Barbet
-born: 1683-11-15
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1683-11-15
 gender: female
 title: Major Symone Barbet
+name: Symone Barbet
 aliases: [Major Symone Barbet]
 affiliations:
 - {org: Dunfry Regiment, type: leader}
 whereabouts: Barony of Dunfry
-dm_notes: none
+knownTo: []
 dm_owner: mike
+dm_notes: none
+POV: 1720s
 hide_toc: true
 ---
 # Major Symone Barbet
@@ -29,3 +33,9 @@ hide_toc: true
 
 
 An important military leader in [Dunfry](<../../gazetteer/greater-sembara/sembara/western-marches/dunfry.md>). She has a tendency to work within the hierarchy and prefers following the rules and working within the chain of command.
+
+
+
+
+
+

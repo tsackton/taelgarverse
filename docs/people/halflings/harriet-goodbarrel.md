@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, person: Wellby, date: 1730, type: met}
-- {campaign: DuFr, date: 1748-12-30, type: met}
-name: Harriet Goodbarrel
-born: 1685
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: halfling
 ancestry:
+campaignInfo:
+- {campaign: dufr, person: Wellby, date: 1730, type: met}
+- {campaign: dufr, date: 1748-12-30, type: met}
+born: 1685
 gender: female
+name: Harriet Goodbarrel
 aliases: [Harriet]
 affiliations:
 - {org: Goodbarrels, type: primary}
@@ -17,8 +19,10 @@ whereabouts:
 - {type: home, end: 1722, location: Western Gulf}
 - {type: home, location: The Singing Fox}
 - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1740s
 title: Harriet Goodbarrel
 hide_toc: true
 ---
@@ -52,6 +56,9 @@ Harriet married into the [Goodbarrel clan](<../../groups/halfling-families/goodb
 ## Relationships
 - [Chenna Goodbarrel](<chenna-goodbarrel.md>), wife
 - [Wellby](<../pcs/dunmar-fellowship/wellby.md>), a distant relation, something like a third cousin once removed by marriage
+
+
+
 
 
 

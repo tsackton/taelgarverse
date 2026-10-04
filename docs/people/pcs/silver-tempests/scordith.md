@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 born: 1730
 gender: female
-dm_owner: tim
-dm_notes: none
+name: Scordith
 affiliations:
 - {org: Silver Tempests, end: 1747-06-09}
 whereabouts:
 - {type: home, end: 1736, location: Paisa}
 - {type: away, start: 1747-03-01, end: 1747-06-09, location: Voltara}
+knownTo: [grli]
+dm_owner: tim
+dm_notes: none
+POV: 1747
 title: Scordith
 hide_toc: true
 ---
@@ -33,5 +38,12 @@ Scordith was born in [Paisa](<../../../gazetteer/northwest-coast/northern-provin
 
 When she turned 16, she tried to flee the monastery, but the monks had other ideas, and tried to stop her. At this moment, a divine spark awoke in Scordith, and she barely escaped through her new-found connection to [The Sibyl](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-sibyl.md>). Fleeing north, she found herself in [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), where she met [Lyra](<../../chardonians/lyra.md>) and started working for the [Great Library](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>). 
 
-After traveling to help some centaurs deal with a curse with [Adrik](<adrik.md>), [Samso](<samso.md>), [Brelith](<brelith.md>), and [Aglath](<aglath.md>), she returned to [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) alone, and was never seen from again.
+After traveling to help some centaurs deal with a curse with [Adrik](<adrik.md>), [Samso](<samso.md>), [Brelith](<brelith.md>), and [Aglath](<aglath.md>), she returned to [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) alone, and was never seen again.
+
+
+
+
+
+
+
 

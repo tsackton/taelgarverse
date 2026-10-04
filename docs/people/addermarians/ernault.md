@@ -37,7 +37,7 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 22th, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 22nd, 1715 in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>), [Addermarch](<../../gazetteer/greater-sembara/addermarch/addermarch.md>)  
 
 
 Master Ernault serves as chief clerk in Lady [Elowen Duval](<elowen-duval.md>)’s household. An older man with a study overflowing with papers and ledgers, he maintains records of [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>) dating back to its creation in the [wars against Avatus](<../../events/1300s/serpentine-wars.md>). He walks with a cane, but has a sharp mind, and is sensitive about being dismissed as a mere backwater scribe. 

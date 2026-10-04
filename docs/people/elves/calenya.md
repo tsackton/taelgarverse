@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: elf
 gender: female
+name: Calenya
+whereabouts: Orenlas
+knownTo: []
 dm_owner: none
 dm_notes: none
-whereabouts: Orenlas
+POV: modern
 title: Calenya
 hide_toc: true
 ---
@@ -21,5 +26,11 @@ hide_toc: true
 
 
 Calenya of [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>) is an elven poet who wrote extensively on the wonders and strangeness of the [Feywild](<../../cosmology/feywild.md>).
+
+
+
+
+
+
 
 

@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Arryn II
-born: 1601
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1601
 gender: male
 died: 1648-10
 title: King Arryn II
+name: Arryn II
 affiliations:
 - {org: House of Sewick, type: primary}
 - {place: Sembara, start: 1602}
 - {place: Tyrwingha, start: 1602}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 hide_toc: true
 ---
 # King Arryn II
@@ -29,5 +33,11 @@ hide_toc: true
 
 
 The only child of [Blanche II](<blanche-ii.md>). His two daughters, [Charlotte II](<charlotte-ii.md>) and [Cece I](<cece-i.md>) both rule the united realm of Sembara and Tyrwingha.
+
+
+
+
+
+
 
 

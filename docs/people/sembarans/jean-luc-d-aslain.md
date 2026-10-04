@@ -1,18 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-born: 1690
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1690
 gender: male
+name: Jean-Luc d'Aslain
+affiliations:
+- {org: d'Aslains, type: primary}
 whereabouts:
 - {type: home, location: Aslain}
 - {type: home, location: Beury}
-affiliations:
-- {org: d'Aslains, type: primary}
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
-title: Jean Luc D'Aslain
+dm_notes: color
+POV: 1720
+title: Jean-Luc D'Aslain
 hide_toc: true
 ---
 # Jean-Luc D'Aslain
@@ -29,3 +34,9 @@ hide_toc: true
 
 
 ![Jean Luc D'aslain](/taelgarverse/assets/jean-luc-d-aslain.webp){align="right"; width="320"}A disciple of the Father, splitting time between [Dallet](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/dallet.md>) and [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). A cousin of the current baron, [Isabeau d'Aslain](<isabeau-d-aslain.md>).
+
+
+
+
+
+

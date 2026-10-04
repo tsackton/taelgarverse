@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
 tags: [person]
+species: halfling
 campaignInfo:
 - {campaign: clee, date: 1720-01-04}
-name: Harold Stonebridge
 born: 1708
-species: halfling
+gender: male
+name: Harold Stonebridge
 affiliations:
 - {org: Stonebridges, type: primary}
-gender: male
 whereabouts: Cleenseau
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Harold Stonebridge
 hide_toc: true
 ---
@@ -29,5 +33,9 @@ hide_toc: true
 
 
 A halfling child, he is the errand boy of [The Crossroads Inn](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/the-crossroads-inn.md>) in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). His older brothers liked to scare him with stories of ghosts and worse in the basement of the Crossroads Inn. 
+
+
+
+
 
 

@@ -1,10 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
-dm_notes: none
-dm_owner: none
+name: Pierre the Guard
 whereabouts: Veltor
+knownTo: [clee]
+dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Pierre the Guard
 hide_toc: true
 ---
@@ -20,4 +25,9 @@ hide_toc: true
 
 
 A guardsman in the service of the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), typically working night duty in [Veltor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/veltor.md>).
+
+
+
+
+
 

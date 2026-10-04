@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Iascaire
-born:
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+tags: [person, status/check/lint]
 species: human
 ancestry: Deno'qai
+born:
 gender: male
 player: Phil Grayson
-excludePublish: [clee]
-displayDefaults: {aNoDate: Traveled with <affiliations>}
+name: Iascaire
 affiliations:
-- {org: Dunmar Fellowship, title: Guest"}
+- {org: Dunmar Fellowship, title: Guest}
 - {org: Ko'zula, type: primary}
+knownTo: [dufr]
+excludePublish: [clee]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Iascaire
 hide_toc: true
 ---
@@ -28,4 +32,10 @@ hide_toc: true
 </div>
 
 
-A Deno’qai druid and devotee of the tanshi [Istari](<../../../../gods-and-religions/gods/tanshi/istari.md>), the spirit of intense fire, and especially the forest fires that renew the land. Expert fisherman; travels with a wildfire companion. After bidding [Delwath](<../delwath.md>) farewell, returned to his role among the Deno’qai of the [Ko'zula](<../../../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) tribe. 
+A Deno’qai druid and devotee of the tanshi [Istari](<../../../../gods-and-religions/gods/tanshi/istari.md>), the spirit of intense fire, and especially the forest fires that renew the land. Expert fisherman; travels with a wildfire companion. After bidding [Delwath](<../delwath.md>) farewell, returned to his role among the Deno’qai of the [Ko'zula](<../../../../groups/cultures/deno-qai-tribes/northern-tribes/ko-zula.md>) tribe.
+
+
+
+
+
+

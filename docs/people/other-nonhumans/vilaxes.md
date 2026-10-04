@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Vilaxes
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: aberration
 subspecies: beholder
 died: 1748-03-17
+campaignInfo:
+- {campaign: grli, type: killed, date: 1748-03-17}
+name: Vilaxes
 whereabouts:
 - {type: home, end: 1748-03-17, location: Goldpeak Mountain, alias: the lower Goldpeak ruins}
-campaignInfo:
-- {campaign: GL, type: killed, date: 1748-03-17}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Vilaxes
 hide_toc: true
 ---
@@ -31,6 +35,12 @@ Vilaxes was a beholder who made a lair in the dwarven ruins deep beneath [Goldpe
 
 Vilaxes dreamed many dreams of aberrations emerging from the deeps, and believed himself destined to become one of the Great Old Ones who would usher in an era of nightmares he controlled. In order to transform himself, he enslaved the local kobold population and forced them to worship him, constructing a massive statue of melted treasure to herald his rise in power. 
 
-In the spring of DR 1748, [Cassia](<../chardonians/cassia.md>), [Alton](<../pcs/silver-tempests/alton.md>), and [Brottor](<../dwarves/brottor.md>), a small group of Chardonian adventurers, ventured into depths beneath [Goldpeak Mines](<../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>). Brottor was killed by aberrations; Cassia and Alton found by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>). Together, they destroyed Vilaxes and his corrupted minions. 
+In the spring of DR 1748, [Cassia](<../chardonians/cassia.md>), [Alton](<../pcs/silver-tempests/alton.md>), and [Brottor](<../dwarves/brottor.md>), a small group of Chardonian adventurers, ventured into depths beneath [Goldpeak Mines](<../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>). Brottor was killed by aberrations; Cassia and Alton were found by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>). Together, they destroyed Vilaxes and his corrupted minions.
+
+
+
+
+
+
 
 

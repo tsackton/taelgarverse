@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-09-28T23:44:57-04:00'
+lintVersion: '3.5'
 tags: [event, status/check/mike]
+typeOf: war
 DR: 1353
 DR_end: 1403
-typeOf: war
+name: Serpentine Wars
 dm_owner: joint
 dm_notes: none
+POV: modern
 title: Serpentine Wars
 ---
 # The Serpentine Wars
 
 
 
-The Serpentine Wars describe the fifty year period in the second half of the DR 1300s, during which the [Dominion of Avatus](<../../history/historical-realms/dominion-of-avatus.md>) expanded to control much of the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) and the [Maseau Gap](<../../gazetteer/greater-sembara/maseau-gap.md>). While the entire period was marked by border tension, it can be separated into five significant wars where substantial fighting occurred. 
+The Serpentine Wars describe the fifty-year period in the second half of the DR 1300s, during which the [Dominion of Avatus](<../../history/historical-realms/dominion-of-avatus.md>) expanded to control much of the [Duchy of Maseau](<../../gazetteer/greater-sembara/duchy-of-maseau/duchy-of-maseau.md>) and the [Maseau Gap](<../../gazetteer/greater-sembara/maseau-gap.md>). While the entire period was marked by border tension, it can be separated into five significant wars where substantial fighting occurred.
 
 ## The Westcliff War
 _DR 1353 - DR 1356_
@@ -23,8 +27,8 @@ In DR 1353, Avatus attacked north of the Maseau Gap for the first time. Avoiding
 
 ###
 
-- 1353 DR: The Westclif War starts as Avatus attacks into the northeastern parts of the [Maseau Gap](<../../gazetteer/greater-sembara/maseau-gap.md>)
-- 1356 DR: The Westclif War ends with Avatus establishing a vassal state on the western edge of the [Westcliff](<../../gazetteer/greater-sembara/addermarch/westcliff.md>). 
+- 1353 DR: The Westcliff War starts as Avatus attacks into the northeastern parts of the [Maseau Gap](<../../gazetteer/greater-sembara/maseau-gap.md>)
+- 1356 DR: The Westcliff War ends with Avatus establishing a vassal state on the western edge of the [Westcliff](<../../gazetteer/greater-sembara/addermarch/westcliff.md>).
 
 ## The Berserker War
 _DR 1359 - DR 1362_
@@ -46,9 +50,9 @@ _DR 1364 - DR 1377_
 
 In the fall of DR 1364, after two hard years of famine, a Maseaun trade embassy to the Dominion of Avatus refused to accept a demand to increase [serpentine](<../../things/materials/serpentine.md>) trade shipments, symbolically breaking their weighing scales in protest.  This precipitated the Broken Scales War, also known as the Great Serpentine War. 
 
-In a series of campaigns over the course of 13 years, the armies of Avatus break through the lines of defense along the Westcliff, loccupying significant parts of western Addermarch. Avatus also destroys numerous fortifications in eastern Maseau, forcing the Duchy to capitulate and pay a steep tribune in serpentine. Many Maseua lords flee into exile. 
+In a series of campaigns over the course of 13 years, the armies of Avatus break through the lines of defense along the Westcliff, occupying significant parts of western Addermarch. Avatus also destroys numerous fortifications in eastern Maseau, forcing the Duchy to capitulate and pay a steep tribute in serpentine. Many Maseaun lords flee into exile.
 
-In Addermarch, the Broken Scales War was the beginning of a long period of occupation and guerrilla  warfare; the [Rangers](<../../groups/rangers.md>) trace their origin, in part, to the guerrilla fighters of this era. 
+In Addermarch, the Broken Scales War was the beginning of a long period of occupation and guerrilla warfare; the [Rangers](<../../groups/rangers.md>) trace their origin, in part, to the guerrilla fighters of this era.
 
 ###
 - 1364 DR, fall: Maseau refuses to increase serpentine trade shipments, provoking war with Avatus
@@ -60,7 +64,7 @@ _DR 1385 - DR 1388_
 
 In DR 1385, the long-simmering guerrilla war fought against Avatus' occupying forces in Addermarch broke into open warfare. Over the next few years, the Addermarians successfully drove Avatus out of western Addermarch. In Addermarch, this war is often simply called the Liberation War. 
 
-- 1385 DR - 1388 DR: The Addermarch LIberation War, when Addermarch drives Avatus' forces out of western Addermarch. 
+- 1385 DR - 1388 DR: The Addermarch Liberation War, when Addermarch drives Avatus' forces out of western Addermarch.
 
 ## The Exiles' War
 _DR 1400 - DR 1403_
@@ -70,4 +74,8 @@ In the years following the liberation of Addermarch, a group of exiled Maseaun l
 
 
 
-[]
+
+
+
+
+

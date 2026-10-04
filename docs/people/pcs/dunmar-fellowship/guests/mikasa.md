@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Mikasa
-born:
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+tags: [person, status/check/lint]
 species: fey
 ancestry:
+born:
 gender: female
 player: David Kong
-excludePublish: [clee]
-displayDefaults: {aNoDate: Traveled with <affiliations>}
+name: Mikasa
 affiliations:
-- {org: Dunmar Fellowship, title: Guest"}
+- {org: Dunmar Fellowship, title: Guest}
+knownTo: [dufr]
+excludePublish: [clee]
 dm_owner: player
 dm_notes: important
+POV: 1748
 title: Mikasa
 hide_toc: true
 ---
@@ -28,3 +32,9 @@ hide_toc: true
 
 
 A fae samurai, in the [Chanceweaver](<../../../extraplanar-powers/archfey/prince-of-luck.md>)’s court, but from another fey realm. Helped [Seeker](<../seeker.md>) stop the wild magic storm, in exchange for the [Chanceweaver](<../../../extraplanar-powers/archfey/prince-of-luck.md>)’s aid in returning home. Returned to the [Chanceweaver](<../../../extraplanar-powers/archfey/prince-of-luck.md>)’s court and traveled home.
+
+
+
+
+
+

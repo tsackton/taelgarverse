@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, type: met, date: 1748-03-22}
-name: Beli
-born: 1720
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-03-22}
+born: 1720
 gender: female
+name: Beli
 affiliations: [Shakun Mystai]
 whereabouts: Karawa
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Beli
 hide_toc: true
 ---
@@ -29,7 +33,7 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 22th, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on March 22nd, 1748 in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 An initiate of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-mystai.md>), a young woman skilled in healing and midwifery, with a hint of divine magic about her.
@@ -38,3 +42,10 @@ An initiate of the [Shakun Mystai](<../../groups/dunmari-mystery-cults/shakun-my
 
 
 In March 1748, helped the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) battle giant hyenas attacking Karawa. 
+
+
+
+
+
+
+

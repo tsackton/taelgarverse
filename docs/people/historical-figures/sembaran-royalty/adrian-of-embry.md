@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Adrian of Embry
 species: human
 ancestry: Sembaran
 gender: male
 title: Duke Adrian of Embry
 died: 1
-whereabouts: Embry
+name: Adrian of Embry
 affiliations:
 - {place: Duchy of Sembara, title: Duke, start: 1142}
+whereabouts: Embry
+knownTo: []
 dm_owner: none
 dm_notes: none
+POV: modern
 hide_toc: true
 ---
 # Duke Adrian of Embry
@@ -28,5 +32,9 @@ hide_toc: true
 
 
 Adrian of Embry was the first [Duke of Sembara](<../../../gazetteer/greater-sembara/sembara/heartlands/duchy-of-sembara.md>). 
+
+
+
+
 
 

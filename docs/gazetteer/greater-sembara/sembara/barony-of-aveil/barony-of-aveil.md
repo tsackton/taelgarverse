@@ -45,6 +45,7 @@ There is a maintained road the length of the [Auberonne](<../../rivers/wistel-en
 ### Cities in Barony of Aveil
 | Place                          | Region                     | Type Of           | Population |
 | ------------------------------ | -------------------------- | ----------------- | ---------- |
+| [Chantefleur](<chantefleur.md>)                | [Lake Rin](<lake-rin.md>)               | fishing village   | pop. 390   |
 | [Ashcombe](<ashcombe.md>)                   | the [Barony of Aveil](<barony-of-aveil.md>)    | logging village   | pop. 237   |
 | [Aslain](<aslain.md>) (Ahz-lane)          | the [Barony of Aveil](<barony-of-aveil.md>)    | town              | pop. 1,187 |
 | [Beldor](<beldor.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | mining village    |            |
@@ -64,9 +65,9 @@ There is a maintained road the length of the [Auberonne](<../../rivers/wistel-en
 | [Asineau](<cleenseau-region/asineau.md>) (Ah-zee-noh)       | the [Manor of Asineau](<cleenseau-region/manor-of-asineau.md>)   | fishing village   | pop. 311   |
 | [Beury](<cleenseau-region/beury.md>) (BUH-ree)            | the [Manor of Beury](<cleenseau-region/manor-of-beury.md>)     | village           | pop. 492   |
 | [Auloutte](<cleenseau-region/auloutte.md>) (OO-loot)         | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | fishing village   | pop. 102   |
-| [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>) (Klen-sew)       | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | town              | pop. 1,189 |
 | the [Gastant Farm](<cleenseau-region/gastant-farm.md>)           | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | farmhouse         |            |
 | [Taviose](<cleenseau-region/taviose.md>) (Ta-vi-ose)        | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | village           | pop. 30    |
+| [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>) (Klen-sew)       | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | town              | pop. 1,189 |
 | [Valit](<cleenseau-region/valit.md>) (Val-le)             | the [Manor of Valit](<cleenseau-region/manor-of-valit.md>)     | village           | pop. 249   |
 ### Rivers and Landforms 
 | Place                                   | Type Of |
@@ -75,3 +76,4 @@ There is a maintained road the length of the [Auberonne](<../../rivers/wistel-en
 | the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>) (Oh-beh-ron)          | river   |
 | the [Cranmère](<../../rivers/wistel-enst-watershed/cranmere.md>) (Krahn-mehr) | river   |
 | the [Leandre](<../../rivers/wistel-enst-watershed/leandre.md>) (Leh-ahn-dray)          | river   |
+

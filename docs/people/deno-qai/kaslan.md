@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-name: Kaslan
-born: 1699
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Deno'qai
+born: 1699
 gender: male
+name: Kaslan
 affiliations:
 - {org: Ko'zula, type: primary}
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Kaslan
 hide_toc: true
 ---
@@ -29,4 +33,10 @@ hide_toc: true
 
 Kaslan is a middle-aged man, with long experience in woodcraft; he is leader of the hunting camp [Delwath](<../pcs/dunmar-fellowship/delwath.md>) first found after arriving in the north. 
 
-He has a long salt-and-pepper tangled beard, despite a bald head. He is a skilled archer, and tends to spend spends his time at camp fletching arrows or working on scrimshaw on a piece of mammoth tusk. Kaslan favors [A'gaza](<../../gods-and-religions/gods/tanshi/a-gaza.md>), the spirit of deer, reindeer, and caribou, who watches over the hunt and particularly likes offerings from the reindeer hunt, especially things carved from antler.
+He has a long salt-and-pepper tangled beard, despite a bald head. He is a skilled archer, and tends to spend his time at camp fletching arrows or working on scrimshaw on a piece of mammoth tusk. Kaslan favors [A'gaza](<../../gods-and-religions/gods/tanshi/a-gaza.md>), the spirit of deer, reindeer, and caribou, who watches over the hunt and particularly likes offerings from the reindeer hunt, especially things carved from antler.
+
+
+
+
+
+

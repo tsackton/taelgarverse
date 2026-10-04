@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Thorek Deepdweller
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: dwarf
 born: 1515
 gender: male
-whereabouts:
-- {type: home, location: Castrella, alias: outside Castrella, format: '<name:x>'}
+campaignInfo:
+- {campaign: grli, person: Mabist, type: met, date: 1748-10-02}
+name: Thorek Deepdweller
 affiliations:
 - {org: Deepdwellers, type: primary}
-campaignInfo:
-- {campaign: GL, person: Mabist, type: met, date: 1748-10-02}
+whereabouts:
+- {type: home, location: Castrella, alias: outside Castrella, format: '<name:x>'}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Thorek Deepdweller
 hide_toc: true
 ---
@@ -29,4 +33,10 @@ hide_toc: true
 
 
 
-Thorek Deepdweller is an elderly dwarven hermit living outside [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), devoted to the memory of lost [Enderra](<../../gazetteer/greater-chardon/chardonian-empire/apporia/enderra.md>). Gruff and sorrowful, he preserves old dwarven lore of the [War of the Dark Rift](<../../events/1500s/war-of-the-dark-rift.md>) and the old customs and tales of [Enderra](<../../gazetteer/greater-chardon/chardonian-empire/apporia/enderra.md>). 
+Thorek Deepdweller is an elderly dwarven hermit living outside [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), devoted to the memory of lost [Enderra](<../../gazetteer/greater-chardon/chardonian-empire/apporia/enderra.md>). Gruff and sorrowful, he preserves old dwarven lore of the [War of the Dark Rift](<../../events/1500s/war-of-the-dark-rift.md>) and the old customs and tales of [Enderra](<../../gazetteer/greater-chardon/chardonian-empire/apporia/enderra.md>).
+
+
+
+
+
+

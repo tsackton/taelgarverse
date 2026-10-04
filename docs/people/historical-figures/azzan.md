@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Azzan
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 gender: male
 died: 1
+name: Azzan
+knownTo: [grli]
 dm_owner: tim
 dm_notes: none
+POV: modern
 title: Azzan
 hide_toc: true
 ---
@@ -24,5 +28,11 @@ hide_toc: true
 Azzan was a hero and general remembered in stories of the [Great War](<../../events/1500s/great-war.md>). He fought against [Cha'mutte](<../extraplanar-powers/cha-mutte.md>) alongside [Ikos](<ikos.md>), a Chardonian friend and ally.
 
 Later tradition in parts of the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>) and beyond, recounted to the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) by [Dinia](<../other-humans/dinia.md>), holds that [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>) abandoned Azzan's people when a great evil swept from the north in the immediate aftermath of the [Great War](<../../events/1500s/great-war.md>), despite Ikos's pleas for aid.
+
+
+
+
+
+
 
 

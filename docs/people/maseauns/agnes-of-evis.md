@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: Clee, date: 1719-12-07, type: met}
-name: Agnés of Evis
-born: 1690-04-03
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Mazeanne
-aliases: [Agnés of Evis]
+campaignInfo:
+- {campaign: clee, date: 1719-12-07, type: met}
+born: 1690-04-03
 gender: female
+name: Agnés of Evis
+aliases: [Agnés of Evis]
 whereabouts:
 - {type: home, location: Evis}
 - {type: away, start: 1719-12-05, end: 1719-12-07, location: Wakog's Camp}
 - {type: away, start: 1719-12-07, end: 1719-12-12, location: Cleenseau}
 - {type: away, start: 1719-12-12, end: 1719-12-22, location: traveling home to Evis}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1719
 title: Agnés of Evis
 hide_toc: true
 ---
@@ -32,4 +36,10 @@ hide_toc: true
 
 
 
-Agnés is a tough-as-nails but somewhat lazy caravan guard, who has struggled to find work recently. She distinguished herself in the recent [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>)
+Agnés is a tough-as-nails but somewhat lazy caravan guard, who has struggled to find work recently. She distinguished herself in the recent [Battle Against Wakog](<../../events/1700s/1719/12/battle-against-wakog.md>).
+
+
+
+
+
+

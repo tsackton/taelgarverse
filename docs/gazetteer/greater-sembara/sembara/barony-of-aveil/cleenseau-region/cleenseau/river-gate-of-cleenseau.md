@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-09-29T18:22:03-04:00'
+lintVersion: '3.5'
 tags: [place]
-campaignInfo: []
-name: River Gate of Cleenseau
 typeOf: infrastructure
+typeOfAlias: gate
+name: River Gate of Cleenseau
 whereabouts: Cleenseau
 dm_owner: mike
 dm_notes: none
-typeOfAlias: gate
+POV: modern
 title: River Gate of Cleenseau
 ---
 # The River Gate of Cleenseau
@@ -18,4 +20,7 @@ title: River Gate of Cleenseau
 
 The main entry and exit from the walled town of Cleenseau, this gate is on the river side of the town and is the largest and most ornate gate in the walls.
 
-It is closed at night, and under the jurisdiction of the [Lord's Guard](<lord-s-guard-of-cleenseau.md>). 
+It is closed at night, and under the jurisdiction of the [Lord's Guard](<lord-s-guard-of-cleenseau.md>).
+
+
+

@@ -1,17 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub]
+lintedAt: '2026-10-03T13:42:24-04:00'
+lintVersion: '3.5'
+tags: [person]
 species: dwarf
+gender: male
+name: Vondal Ferrystone
+pronunciation: VON-dahl FAIR-ee-stohn
 affiliations:
 - {org: Ferrystones, type: primary}
 whereabouts: Aslain
-gender: male
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720s
 title: Vondal Ferrystone
 hide_toc: true
 ---
 # Vondal Ferrystone
+:speaker:{ .middle } *(VON-dahl FAIR-ee-stohn)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -23,3 +30,11 @@ hide_toc: true
 
 
 ![Vondal Ferrystone](/taelgarverse/assets/vondal-ferrystone.webp){align="left"; width="200"}
+
+Vondal Ferrystone is a gruff, prickly dwarf of the [Ferrystone Clan](<../../groups/dwarven-clans/ferrystones.md>) living in [Aslain](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/aslain.md>).
+
+
+
+
+
+

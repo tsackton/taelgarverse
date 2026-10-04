@@ -27,6 +27,8 @@ The houses are arranged in two tight concentric circles around a main square, wh
 Beyond the second circle of houses, straddling the [Great South Road](<../../../roads/great-south-road.md>) is a nameless inn, usually just called "the inn in Beury" (or sometimes, jokingly, "Bee's Rest"). The inn is more of a stable and resting spot for caravans before crossing the [boggy wetlands](<east-bog.md>) to [Dallet](<../dallet.md>) than a proper inn, and the food and drink are notably lacking. Many caravans resting here simply camp in the yard. Across the road and a few dozen feet from the inn is a sturdy stone millhouse.
 
 A [small market](<manor-of-beury.md#economy>) is held in the caravan yard once a week, which attracts some of the people from [Asineau](<asineau.md>) and [Ganboa](<ganboa.md>).
+
+Beury traditionally celebrates the festival of the Empty Cauldron on May 12. The festival commemorates a famine after the [Great War](<../../../../../events/1500s/great-war.md>) and a story that [The Father](<../../../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-father.md>) answered an old woman's prayers by filling her empty pot with food. Its central custom is a communal stew made from winter stores and new spring shoots.
 ## Notable Residents
 * [Erick Murtha](<../../../../../people/sembarans/erick-murtha.md>), the lord, and his wife
 * Clare Murtha, his daughter and heir
@@ -46,4 +48,5 @@ _Distances:_
 * to [Cleenseau](<cleenseau/cleenseau.md>), 5 miles
 * to [Dallet](<../dallet.md>), 15 miles
 * to [Rinburg](<../rinburg.md>), 55 miles
+
 

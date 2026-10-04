@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: '2026-08-24T09:25:51-04:00'
+lintedAt: '2026-10-03T20:26:26-04:00'
 lintVersion: '3.5'
 tags: [place]
 typeOf: marine feature
@@ -19,8 +19,6 @@ title: Slate Sea
 
 
 The Slate Sea is the large bay north of the [Mawakel Peninsula](<mawar-confederacy/mawakel-peninsula.md>) along the west coast.
-
-
 
 
 

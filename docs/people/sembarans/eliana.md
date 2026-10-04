@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-gender: female
 species: human
+gender: female
+name: Eliana
 whereabouts: Cleenseau
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Eliana
 hide_toc: true
 ---
@@ -21,3 +26,6 @@ hide_toc: true
 
 
 A midwife who tends to [Underhill](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/underhill.md>).  She is also somewhat of an herbalist with a particular focus on gender care.
+
+
+

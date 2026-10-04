@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Raluhk
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: orc
 subspecies: orog
 died: 1747-06-11
-whereabouts:
-- {type: away, end: 1747-06-11, location: Lonely Watchtower}
+campaignInfo:
+- {campaign: grli, type: killed, date: 1747-06-11}
+name: Raluhk
 affiliations:
 - {org: Grumella's Horde, title: raiding leader, type: member}
-campaignInfo:
-- {campaign: GL, type: killed, date: 1747-06-11}
+whereabouts:
+- {type: away, end: 1747-06-11, location: Lonely Watchtower}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Raluhk
 hide_toc: true
 ---
@@ -32,4 +36,10 @@ hide_toc: true
 
 
 
-Raluhk the Orog was an orc raiding leader associated with [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>). He used the [Lonely Watchtower](<../../gazetteer/northwest-coast/northern-provinces/lonely-watchtower.md>) as a base for raids on caravans traveling toward [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) and was killed there in DR 1747 by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>). 
+Raluhk the Orog was an orc raiding leader associated with [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>). He used the [Lonely Watchtower](<../../gazetteer/northwest-coast/northern-provinces/lonely-watchtower.md>) as a base for raids on caravans traveling toward [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) and was killed there in DR 1747 by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>).
+
+
+
+
+
+

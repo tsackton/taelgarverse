@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-25, type: met}
-name: Vaallinen
-born: 1713
 species: human
 ancestry: Skaer
+campaignInfo:
+- {campaign: dufr, date: 1748-12-25, type: met}
+born: 1713
 gender: male
-pronunciation: va-lin-en
 title: Hakeasa Vaallinen
+name: Vaallinen
+pronunciation: va-lin-en
 whereabouts: Pyhlla
-dm_notes: color
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: color
+POV: 1740s
 hide_toc: true
 ---
 # Hakeasa Vaallinen
@@ -35,3 +39,7 @@ hide_toc: true
 Vaallinen (va-lin-en), a Skaer man with the traditional blue facial tattoos of Skaer priests, is the hakeasa (speaker to the gods) for [Pyhlla](<../../gazetteer/western-green-sea/skaerhem/pyhlla.md>). Born and raised in the region, he is locally known for his connection to the divine. 
 
 ![Vaallinen](/taelgarverse/assets/vaallinen.webp)
+
+
+
+

@@ -18,3 +18,7 @@ title: Elderwood
 
 Once the southern extent of [Ainumarya](<ainumarya.md>); now inhabited by several Deno'qai tribes: [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>), [Baz'aku](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/baz-aku.md>), [Bek'eni](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/bek-eni.md>).
 
+The forest's broad, low foothills have mild, rainy winters. Summer brings regional drying and significantly less rain, though recurring mist, dripping foilage, and general sustained dampness keeps the Elderwood lush through the dry season, even where nearby fields and grassland dry in the summer sun.
+
+
+

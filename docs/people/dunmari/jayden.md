@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
 tags: [person, status/cleanup/metadata]
-campaignInfo:
-- {campaign: dufr, person: Kenzo, type: beaten in staff dancing competition, date: 1748-04-02}
-name: Jayden
-born: 1729
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, person: Kenzo, type: beaten in staff dancing competition, date: 1748-04-02}
+born: 1729
 gender: female
+name: Jayden
 whereabouts:
 - {type: home, location: Karawa}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Jayden
 hide_toc: true
 ---
@@ -33,7 +37,12 @@ hide_toc: true
 
 
 
-A quick and aerobatic Dunmari woman from Karawa. 
+A quick and acrobatic Dunmari woman from Karawa.
 
 
 In April 1748, entered the staff dancing contest prior to the [Festival of Rebirth](<../../gods-and-religions/holidays-and-festivals/dunmari-festivals/festival-of-rebirth.md>), and won second place, beaten only by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>). 
+
+
+
+
+

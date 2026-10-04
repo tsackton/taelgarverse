@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Erick Murtha
-born: 1671
 species: human
 ancestry: Sembaran
+born: 1671
 gender: male
 title: Lord Erick Murtha
+name: Erick Murtha
 affiliations:
 - {place: Manor of Beury}
 whereabouts: Beury
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720s
 hide_toc: true
 ---
 # Lord Erick Murtha
@@ -29,4 +33,8 @@ hide_toc: true
 
 ![Erick Murtha](/taelgarverse/assets/erick-murtha.webp){align="right"; width="320"}The lord of the manorial town of [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>), a vassal of the [Baron of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>). He is dedicated to his manor and well-liked in the region.
 
-His father, Philip Murtha was especially hard-working and as a young man he often struggled to live up to his father's reputation. 
+His father, Philip Murtha, was especially hard-working and as a young man he often struggled to live up to his father's reputation.
+
+
+
+

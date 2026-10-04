@@ -1,15 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-campaignInfo:
-- {campaign: clee, date: 1720-01-03}
-name: Rosalind Essford
-born: 1677
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, date: 1720-01-03}
+born: 1677
 gender: female
-aliases: [Lady Essford, Lady Rosalind Essford, Rosalind]
 title: Lady Rosalind Essford
+name: Rosalind Essford
+aliases: [Lady Essford, Lady Rosalind Essford, Rosalind]
 affiliations:
 - {org: Lord's Council of Cleenseau, type: leader, title: Leader}
 - {org: Cleenseau, type: leader, title: Regent, start: 1719-03-15, end: 1720-02-11}
@@ -23,8 +25,10 @@ whereabouts:
 - {type: away, start: 1720-01-12, end: 1720-01-13, location: Wisford}
 - {type: away, start: 1720-01-13, end: 1720-01-16, location: travelling to Embry}
 - {type: away, start: 1720-01-17, end: 9999, location: Embry}
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 hide_toc: true
 ---
 # Lady Rosalind Essford
@@ -48,7 +52,14 @@ hide_toc: true
 ![Lady Rosalind Essford](/taelgarverse/assets/lady-rosalind-essford.webp){align="right"; width="320"}The daughter of [Wymar](<wymar-essford.md>), short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [Arthur Essford](<arthur-essford.md>) in 1706, and their match has been a good and popular one. 
 
 
-In the late fall of 1719, she lost her three children and their nursemaid to a [unseasonable flood of the Enst](<../../events/1700s/1719/10/tragic-flood-of-the-river-enst.md>).  She enjoys quite music, especially [Robin's](<../pcs/cleenseau/robin-of-abenfyrd.md>) playing, which has been a comfort to her since her children died. 
+In the late fall of 1719, she lost her three children and their nursemaid to a [unseasonable flood of the Enst](<../../events/1700s/1719/10/tragic-flood-of-the-river-enst.md>).  She enjoys quiet music, especially [Robin's](<../pcs/cleenseau/robin-of-abenfyrd.md>) playing, which has been a comfort to her since her children died.
+
+
+
+
+
+
+
 
 
 

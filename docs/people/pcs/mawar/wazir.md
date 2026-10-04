@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text, status/check/mike]
-name: Wazir
-born:
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/text, status/check/mike, status/check/lint]
 species: human
 ancestry: Mawaran
+born:
 gender: male
 player: Mike Sackton
+name: Wazir
 affiliations:
 - {place: Leviathan Inn, title: Owner}
 - {org: Adventurers of Mawar}
 whereabouts: Hamri
+knownTo: [mawar]
 dm_owner: player
 dm_notes: important
+POV: 1740s
 title: Wazir
 hide_toc: true
 ---
@@ -29,8 +33,14 @@ hide_toc: true
 </div>
 
 
-The owner of the Levithan Inn in Hamri, and unofficial guardian of the town. Tinkering and student of the arcane, especially his magical armor he crafted himself. Spent time in Chardon before returning home to Hamri
+The owner of the Leviathan Inn in Hamri, and unofficial guardian of the town. Tinkering and student of the arcane, especially his magical armor he crafted himself. Spent time in Chardon before returning home to Hamri.
 
 ![Wazir](/taelgarverse/assets/wazir.webp)
+
+
+
+
+
+
 
 

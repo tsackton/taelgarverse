@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Petrona
-aliases: [P.]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 gender: female
 died: 1
+name: Petrona
+aliases: [P.]
 whereabouts:
 - {type: away, location: unknown}
-dm_notes: none
+knownTo: [lablost]
 dm_owner: tim
+dm_notes: none
+POV: modern
 title: Petrona
 hide_toc: true
 ---
@@ -27,4 +31,10 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Died unknown
 
 
-Petrona was the lost love of [Jacopo Marcelli](<jacopo-marcelli.md>), the pirate captain whose ghost haunted a private bedchamber in [Perdoli Manor](<../../gazetteer/western-green-sea/cymea/perdoli-manor.md>). 
+Petrona was the lost love of [Jacopo Marcelli](<jacopo-marcelli.md>), the pirate captain whose ghost haunted a private bedchamber in [Perdoli Manor](<../../gazetteer/western-green-sea/cymea/perdoli-manor.md>).
+
+
+
+
+
+

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-09-13T13:45:21-04:00'
 lintVersion: '3.5'
-tags: [person, status/gameupdate/gl]
+tags: [person]
 species: human
 ancestry: Northerner
 gender: female
@@ -16,7 +16,7 @@ whereabouts:
 knownTo: [grli]
 dm_owner: tim
 dm_notes: color
-POV: 1740s
+POV: 1752
 title: Dinia
 hide_toc: true
 ---
@@ -33,11 +33,13 @@ hide_toc: true
 
 
 
-![Dinia](/taelgarverse/assets/dinia.webp){align="right"; width="400"}Dinia is a bard, lore-keeper, guide, and hermit who lives in the mountains near [Blacksilver Peak](<../../gazetteer/northwest-coast/fiamatara-mountains/blacksilver-peak.md>), north of the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>) of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). She keeps and remembers many stories of the past, acting as an informal oral historian of the lost kingdoms, especially [Amani](<../../history/historical-realms/amani.md>), destroyed during and after the [Great War](<../../events/1500s/great-war.md>). 
+![Dinia](/taelgarverse/assets/dinia.webp){align="right"; width="400"}Dinia is a bard, lore-keeper, guide, and hermit. For many years, she lived alone in the mountains near [Blacksilver Peak](<../../gazetteer/northwest-coast/fiamatara-mountains/blacksilver-peak.md>), north of the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>) of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). She keeps and remembers many stories of the past, acting as an informal oral historian of the lost kingdoms, especially [Amani](<../../history/historical-realms/amani.md>), destroyed during and after the [Great War](<../../events/1500s/great-war.md>). 
 
 She is a bent old woman, usually bundled in heavy furs, who moves slowly but deliberately through the high peaks. Her home near Blacksilver Peak is a warm, hidden cave that seems larger inside than outside, a place of food, shelter, stories, and practical warnings against the mountain's dangers. She is strange and old-fashioned in manner, but not vague or helpless; she knows the glacier, the storms, the hidden paths, and the old things that still linger above the tree line.
 
 She is friendly to travelers and enjoys speaking and sharing stories with strangers, though while she offers shelter, guidance, and healing in the high mountains, she also expects those who ask for help to do concrete work in return. 
+
+Recently, she has moved out of the high peaks, and now runs a refuge and hall of stories with [Brelith](<../pcs/silver-tempests/brelith.md>) on the western slopes of the [Fiatara Mountains](<../../gazetteer/northwest-coast/fiamatara-mountains/fiatara-mountains.md>), where those displaced by the dissolution of the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>) and the break with the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) can find safety and peace. 
 
 ## Campaign Interactions
 

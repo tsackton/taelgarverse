@@ -132,7 +132,7 @@ The party decides to investigate the storm from below, attempting to bypass the 
 (DR 1749-05-18, morning)
 The party, led by Milo, decides to sail through the storm using a folding boat, attempting to navigate through the massive waves and violent winds.
 
-- [Milo Thistlefoot](<../../../people/halflings/milo-thistlefoot.md>), with Tilly Brineheart by his side, suggests the party sail through the storm, using their folding boat, and volunteers to captain the mission. The party unfolds the larger version of the folding boat, a 24-foot vessel with a single mast.
+- [Milo Thistlefoot](<../../../people/halflings/milo-thistlefoot.md>), with [Tilly Brineheart](<../../../people/halflings/tilly-brineheart.md>) by his side, suggests the party sail through the storm, using their folding boat, and volunteers to captain the mission. The party unfolds the larger version of the folding boat, a 24-foot vessel with a single mast.
 - The halfling crew, inspired by Milo's impassioned speech, volunteers to help row the boat. Everyone ties themselves to the vessel for safety, and they prepare to face the storm.
 - Wellby studies the storm, recognizing a pattern in the waves that could provide a brief window of opportunity to navigate through. He signals the crew to move during a calmer moment.
 - As they enter the storm, massive waves crash over the boat. Milo steers, while Seeker, despite his exhaustion, uses his knowledge of nature to guide the timing of their movements.

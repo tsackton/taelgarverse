@@ -1,17 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Merash
-born:
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+tags: [person, status/check/lint]
 species: dwarf
 ancestry:
+born:
 gender:
 player: Sara Smith
+name: Merash
+aliases: [Merash Emberfoot]
+affiliations:
+- {org: Dunmar Fellowship, title: Guest}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
-displayDefaults: {aNoDate: Traveled with <affiliations>}
-affiliations:
-- {org: Dunmar Fellowship, title: Guest"}
+POV: 1748
 title: Merash
 hide_toc: true
 ---
@@ -27,3 +32,9 @@ hide_toc: true
 
 
 A dwarven fighter and blacksmith, summoned to aid the [Bahrazel](<../../../../gods-and-religions/gods/embodied-gods/bahrazel/bahrazel.md>) because of a debt owed for a miracle saving her life in a storm at sea.
+
+
+
+
+
+

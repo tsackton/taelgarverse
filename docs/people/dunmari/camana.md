@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, type: attended her funeral, date: 1748-05-05, wParty: '<person:U> <met:U> on <target>'}
-name: Camana
-born: 1721
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, type: attended her funeral, date: 1748-05-05, wParty: '<person:U> <met:U> on <target>'}
+born: 1721
 gender: female
 died: 1748-05-05
+name: Camana
 affiliations: [Havdar's Warband]
 whereabouts:
 - {type: home, location: Eastern Dunmar}
 - {type: away, start: 1748-05-01, end: 1748-05-05, location: Nashtkar}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Camana
 hide_toc: true
 ---
@@ -43,4 +47,10 @@ A Dunmari warrior, archer, and scout. She is associated with [Havdar](<havdar.md
 
 
 In May 1748, she died in battle fighting [Orcs](<../../creatures/species/orcs.md>) affiliated with [Grash](<../other-nonhumans/grash.md>) in the desert west of [Kharsan](<../../gazetteer/greater-dunmar/hara-basin/kharsan.md>). [Havdar](<havdar.md>) gifted her [Flaming Bowstring](<../../campaigns/dunmari-frontier-campaign/treasure/flaming-bowstring.md>) to [Wellby](<../pcs/dunmar-fellowship/wellby.md>) in thanks for the aid of [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in battle. 
+
+
+
+
+
+
 

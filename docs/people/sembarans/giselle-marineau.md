@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-pronunciation: Zhee-zell Mah-ree-no
-gender: female
 species: human
 ancestry: Sembaran
+gender: female
+name: Giselle Marineau
+pronunciation: Zhee-zell Mah-ree-no
 whereabouts: Rinburg
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: undated
 title: Giselle Marineau
 hide_toc: true
 ---
@@ -23,4 +28,8 @@ hide_toc: true
 </div>
 
 
-The Captain of the West Gate of Rinburg. 
+The Captain of the West Gate of Rinburg.
+
+
+
+

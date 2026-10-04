@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: halfling
+ancestry:
 campaignInfo:
 - {campaign: dufr, date: 1748-08-09, type: met}
 - {campaign: dufr, date: 1748-08-21, type: last seen}
-name: Dani Silversong
 born: 1712
-species: halfling
-ancestry:
 gender: female
+name: Dani Silversong
 affiliations:
 - {org: Silversongs, type: primary}
 - {org: Emerald Song, title: Quartermaster}
 whereabouts: Emerald Song
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Dani Silversong
 hide_toc: true
 ---
@@ -36,10 +40,17 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21th, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
+:octicons-location-24:{ .lg .middle } Last seen by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 21st, 1748 in the [Emerald Song](<../../things/ships/emerald-song.md>), [Chardon](<../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>)  
 
 
 Quartermaster and chief trader on the [Emerald Song](<../../things/ships/emerald-song.md>). Dani Silversong serves as the main spokesperson for the family and is the face of the Emerald Song.
 ## Relationships
 - [Ewen Silversong](<ewen-silversong.md>), her grandfather
 - [Harol Silversong](<harol-silversong.md>), her uncle
+
+
+
+
+
+
+

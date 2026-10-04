@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Hakar
-born: 1691
-title: Chief Hakar
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Deno'qai
+born: 1691
+title: Chief Hakar
 gender: male
-whereabouts:
-- {type: home, location: Raha}
+campaignInfo:
+- {campaign: grli, type: met, date: 1747-11-21}
+name: Hakar
 affiliations:
 - {org: Raha, title: chief, type: leader}
-campaignInfo:
-- {campaign: GL, type: met, date: 1747-11-21}
+whereabouts:
+- {type: home, location: Raha}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 hide_toc: true
 ---
 # Chief Hakar
@@ -36,3 +40,9 @@ Hakar is the chief of [Raha](<../../gazetteer/central-highlands/raha.md>), a [De
 He is an older man, in his late 50s, with a graying beard, but still wiry and strong. He tends to dress in buckskin and furs and prefers practical clothes over elaborate dress. 
 
 He is devoted to his village and community and concerned about Chardonian incursions. 
+
+
+
+
+
+

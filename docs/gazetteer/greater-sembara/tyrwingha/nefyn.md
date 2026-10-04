@@ -17,6 +17,9 @@ title: Nefyn
 
 
 A small market town about two hour's walk north from [Clawyn](<clawyn.md>), a quiet place just before the land starts to rise towards the [Mostreve Hills](<../mostreve-hills.md>). Nefyn is known for its wheat is grown here, and it is a little bigger than the surrounding villages, and often hosts the Earl on their circuit, and has two blacksmith's, an inn, and an apothecary, as well as a relatively well attended market on the second and fourth Saturday's of every month.
+
+Its grain and cattle help supply nearby villages, including Clawyn. A dyer also works in the town.
+
 ### Notable People
 * Trefor, the adminstrator of the temple to the Father. Elderly, often called Grandfather Trefor.
 

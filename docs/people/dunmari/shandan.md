@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Shandan
-born: 1692
 species: human
 ancestry: Dunmari
+born: 1692
 gender: male
+name: Shandan
+pronunciation: Shun-dhun
 affiliations:
 - {place: Shandan's Warband}
 whereabouts:
 - {type: home, location: plains of Songara}
-pronunciation: Shun-dhun
+knownTo: []
 dm_owner: none
 dm_notes: none
+POV: 1720s
 title: Shandan
 hide_toc: true
 ---
@@ -30,4 +34,8 @@ hide_toc: true
 </div>
 
 
-A charismatic leader of a Dunmari warband based near [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>). 
+A charismatic leader of a Dunmari warband based near [Songara](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/songara.md>).
+
+
+
+

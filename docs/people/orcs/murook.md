@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1749-12-10, type: met}
-name: Murook
-born: 1716
-activeYear: 1735
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: orc
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1749-12-10, type: met}
+born: 1716
+activeYear: 1735
 gender: female
 title: General Murook
+name: Murook
 affiliations: [Hezguli, People of the Rainbow]
 whereabouts:
 - {type: home, location: Nashtkar}
 - {type: home, start: 1724, location: Xurkhaz}
-dm_notes: color
+knownTo: [dufr]
 dm_owner: none
+dm_notes: color
+POV: 1740s
 hide_toc: true
 ---
 # General Murook
@@ -51,4 +55,11 @@ A formidable [orc](<../../creatures/species/orcs.md>) woman in her prime, with p
 ## Events
 
 - 1724 DR Murook was freed from [Thark](<../../gods-and-religions/gods/embodied-gods/thark.md>)'s chains by Karguk, Chief of [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>)
+
+
+
+
+
+
+
 

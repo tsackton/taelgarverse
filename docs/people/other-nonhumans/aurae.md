@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Aurae
-pronunciation: OUR-ray or ARR-ray
 species: construct
 gender: enby
+name: Aurae
+pronunciation: OUR-ray or ARR-ray
+knownTo: [feywild]
 dm_owner: none
 dm_notes: none
+POV: 1740
 title: Aurae
 hide_toc: true
 ---
@@ -25,4 +29,8 @@ Aurae is a human-sized clockwork and painted-porcelain automaton created as a sy
 
 When they met the [Tollen Misfits](<../pcs/other-pcs/tollen-misfits/tollen-misfits.md>), Aurae chose a name and left the library carried in a makeshift backpack. 
 
-Their current whereabouts are unknown, though upon the destruction of the [27th House](<../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) they became inanimate. 
+Their current whereabouts are unknown, though upon the destruction of the [27th House](<../../gazetteer/extraplanar/feywild/twilight-kingdom/27th-house.md>) they became inanimate.
+
+
+
+

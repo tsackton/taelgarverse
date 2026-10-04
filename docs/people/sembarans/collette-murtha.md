@@ -1,17 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-whereabouts: Beury
-gender: female
-ancestry: Sembaran
 species: human
+ancestry: Sembaran
+gender: female
 born: 1679
-dm_notes: none
+name: Collette Murtha
+pronunciation: koh-LET MUR-thuh
+whereabouts: Beury
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Collette Murtha
 hide_toc: true
 ---
 # Collette Murtha
+:speaker:{ .middle } *(koh-LET MUR-thuh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -24,3 +31,6 @@ hide_toc: true
 
 
 ![Collette Mutha](/taelgarverse/assets/collette-mutha.webp){align="right"; width="320"}The steward and administrator of the temple of The Father in [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>), and the cousin of [Lord Murtha](<erick-murtha.md>).
+
+
+

@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
-name: Kem
 displayDefaults: {prep: true, defArt: the}
-pronunciation: KEM
+tags: [place, status/check/tim]
 typeOf: waterway
+typeOfAlias: river
+name: Kem
+pronunciation: KEM
 whereabouts: Vostok
 dm_owner: none
 dm_notes: none
-typeOfAlias: river
 title: Kem
 ---
 # The Kem
@@ -16,6 +16,12 @@ title: Kem
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -    :octicons-location-24:{ .lg .middle } A river in [Vostok](<vostok.md>), [Greater Sembara](<../greater-sembara.md>)  
 </div>
+
+
+The Kem is a river in [Vostok](<vostok.md>) that receives the [Niva](<niva.md>) and flows into the [Green Sea](<../../green-sea.md>). Its lower valley is one of the principal inhabited areas of southern Vostok.
+
+
+
 
 
 

@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Blanche II
-born: 1570
 species: human
 ancestry: Sembaran
+born: 1570
 gender: female
 died: 1602
 title: Queen Blanche II
+name: Blanche II
 affiliations:
 - {place: Sembara, start: 1600}
 - {place: Tyrwingha, start: 1600}
 - {org: House of Sewick, type: primary}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 hide_toc: true
 ---
 # Queen Blanche II
@@ -29,6 +33,9 @@ hide_toc: true
 
 
 The second child of [Elaine I](<elaine-i.md>) and [Cynan](<cynan.md>). Her son, [Arryn II](<arryn-ii.md>), succeeds her to the united crowns.
+
+
+
 
 
 

@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/gameupdate/dufr]
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
 displayDefaults: {ltPerson: by}
+tags: [group, status/gameupdate/dufr, status/check/lint]
+typeOf: adventuring party
 campaignInfo: []
 name: Dunmar Fellowship
-typeOf: adventuring party
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Dunmar Fellowship
 ---
 # The Dunmar Fellowship
@@ -38,6 +41,13 @@ In the fall of 1748, they were split up due to magical effects. During this time
 Kenzo, Seeker, and Wellby were reunited in the [Feywild](<../../../cosmology/feywild.md>) and traveled with [Caulaus](<guests/caulaus.md>) briefly.
 
 The group was reunited on Nov 15 1748 in Dunmar. 
+
+
+
+
+
+
+
 
 
 

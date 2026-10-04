@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-whereabouts: Tollen
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: kenku
 gender: male
-name: Kecha
 image: '[[kecha-small.png]]'
-dm_notes: important
+name: Kecha
+whereabouts: Tollen
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1749
 title: Kecha
 hide_toc: true
 ---
@@ -23,5 +27,11 @@ hide_toc: true
 
 
 ![Kecha Portrait Final](/taelgarverse/assets/kecha-portrait-final.webp){align="right"; width="400"}Kecha is a young kenku scout, a wanderer and traveler who loves the forests and mountains.  
+
+
+
+
+
+
 
 

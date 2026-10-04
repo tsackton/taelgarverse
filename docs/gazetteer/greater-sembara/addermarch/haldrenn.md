@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-09-28T23:44:57-04:00'
+lintVersion: '3.5'
 tags: [place]
-name: Haldrenn
 typeOf: settlement
+typeOfAlias: village
+population: 72
+name: Haldrenn
+pronunciation: HAL-dren
 whereabouts: Highmoor
 dm_owner: none
 dm_notes: none
-population: 72
-typeOfAlias: village
+POV: 1715
 title: Haldrenn
 ---
 # Haldrenn
+:speaker:{ .middle } *(HAL-dren)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 -  
     :octicons-people-24: pop. 72  
@@ -18,10 +23,10 @@ title: Haldrenn
 </div>
 
 
-Haldrenn is a small, isolated hill village in the [Highmoor](<highmoor.md>), northeast of [Brantor](<brantor.md>) and [Roscombe](<roscombe.md>), sheltered by a windswept ridgeline marked with carved wooden wards. The village clings to the eastern side of the ridge, northwest of the [Umber](<../rivers/wistel-enst-watershed/umber.md>) lowlands, a small collection of turf-roofed houses and ankle-high drystone dykes gathered around a spring-fed well.  Each spring, herders drive shaggy highland cattle up to summer shielings while crofters tend rye and kale on the slope below the village. 
+Haldrenn is a small, isolated hill village in the [Highmoor](<highmoor.md>), northeast of [Brantor](<brantor.md>) and [Roscombe](<roscombe.md>), sheltered by a windswept ridge marked with carved wooden wards. The village clings to the eastern side of the ridge, northwest of the [Umber](<../rivers/wistel-enst-watershed/umber.md>) lowlands, a small collection of turf-roofed houses and stone walls gathered around a spring-fed well.  Each spring, herders drive shaggy highland cattle up to summer shielings, while farmers tend rye and kale on the slope below the village. 
 
 ## Layout
-The main village consists of 11 houses and a small temple to [The Mother](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-mother.md>) around the communal well. To the south, strips of arable land are farmed in rotation, providing rye, barley, and kale for the village; two rowan-fringed orchards are nestled in sheltered hollows. North are the summer pastures. The western hollow, toward [Brantor](<brantor.md>), has a coppiced wood with charcoal clamps.
+The main village consists of 11 houses and a small temple to [The Mother](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-mother.md>) around the communal well. To the south, strips of arable land are farmed in rotation, providing rye, barley, and kale for the village; two rowan-fringed orchards are nestled in sheltered hollows. North are the summer pastures. The western hollow, toward [Brantor](<brantor.md>), has a coppiced wood for charcoal.
 
 ## Customs and Lore
 The people of Haldrenn traditionally place carved wooden wards along the ridgelines, especially to the east, to deter hostile fey. Village stories warn of [Hollow Men](<../../../creatures/fey/hollow-men.md>) and the [Briarheart](<../../../people/extraplanar-powers/archfey/morlaith.md>) and speak of the rituals needed to avert danger. Local tradition treats these customs as part warning and part bargain: a way to keep older fey passages closed against worse powers from beyond the moor.
@@ -31,7 +36,12 @@ The people of Haldrenn traditionally place carved wooden wards along the ridgeli
 ## Notable Events
 - May 07, 1715 DR: A maddening song begins driving cattle and other animals to violence; the farmer [Olay](<../../../people/addermarians/olay.md>) is gored by his own bull.
 - May 17, 1715 DR: [Drou](<../../../people/pcs/addermarch/drou.md>), [Fazoth](<../../../people/pcs/addermarch/fazoth-de-brune.md>), and [Yvan](<../../../people/pcs/addermarch/yvan-greenrabbit.md>) arrive in the village and [help with a lost girl](<../../../campaigns/addermarch-campaign/addermarch-session-11.md>) and a [worg attack](<../../../campaigns/addermarch-campaign/addermarch-session-12.md>). 
-- May 19, 1715 DR: [Drou](<../../../people/pcs/addermarch/drou.md>), [Fazoth](<../../../people/pcs/addermarch/fazoth-de-brune.md>), and [Yvan](<../../../people/pcs/addermarch/yvan-greenrabbit.md>) return to the village, learn more about [Duncan of Haldrenn](<../../../people/addermarians/duncan-of-haldrenn.md>), and investigates his cottage and root cellar.
+- May 19, 1715 DR: [Drou](<../../../people/pcs/addermarch/drou.md>), [Fazoth](<../../../people/pcs/addermarch/fazoth-de-brune.md>), and [Yvan](<../../../people/pcs/addermarch/yvan-greenrabbit.md>) return to the village, learn more about [Duncan of Haldrenn](<../../../people/addermarians/duncan-of-haldrenn.md>), and investigate his cottage and root cellar.
+
+
+
+
+
 
 
 

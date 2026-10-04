@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/text]
-name: Alayah
-born: 1725
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Deno'qai
+born: 1725
 gender: female
+name: Alayah
 whereabouts:
 - {type: home, location: Te'kula village}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1748
 title: Alayah
 hide_toc: true
 ---
@@ -28,6 +32,13 @@ hide_toc: true
 The young Godcaller of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) tribe in the Elderwood. Dreamed of [Rai](<../pcs/great-war/rai.md>) and [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>). 
 
 Gave her [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>) to [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) after [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) defeated the green dragon [Grimbaskal](<../other-nonhumans/mezzar.md>). 
+
+
+
+
+
+
+
 
 
 

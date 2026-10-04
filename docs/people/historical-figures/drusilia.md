@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Drankorian
 gender: female
 died: 1
+name: Drusilia
 affiliations:
 - {org: Occulta Ludum}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: modern
 title: Drusilia
 hide_toc: true
 ---
@@ -27,3 +32,9 @@ hide_toc: true
  
 
 A Drankorian woman, presumably long dead, who at one point lived at the [Edge of Echoes](<../../gazetteer/western-green-sea/cymea/edge-of-echoes.md>).
+
+
+
+
+
+

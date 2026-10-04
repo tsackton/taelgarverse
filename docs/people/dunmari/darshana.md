@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, type: met, date: 1748-07-02}
-name: Darshana
-born: 1699
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-07-02}
+born: 1699
 gender: female
-whereabouts: Tokra
+name: Darshana
 affiliations:
 - {org: Darshana's Caravanserai, title: Owner, type: leader}
+whereabouts: Tokra
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Darshana
 hide_toc: true
 ---
@@ -33,4 +37,10 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 2nd, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
-Owner of the eponymously named caravanserai [Darshana's](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/darshana-s-caravanserai.md>) outside of [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
+Owner of the eponymously named caravanserai [Darshana's](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/darshana-s-caravanserai.md>) outside of [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+
+
+
+
+
+

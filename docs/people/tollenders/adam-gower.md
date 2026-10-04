@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
-name: Adam Gower
-gender: male
 ancestry: Tollender
+gender: male
+name: Adam Gower
 whereabouts: Tollen
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1749
 title: Adam Gower
 hide_toc: true
 ---
@@ -22,4 +26,8 @@ hide_toc: true
 </div>
 
 
-![Adam Gower](/taelgarverse/assets/adam-gower.webp){align="right"; width="300"}Factor, treasurer, and agent for the[Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Tollen
+![Adam Gower](/taelgarverse/assets/adam-gower.webp){align="right"; width="300"}Factor, treasurer, and agent for the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) in Tollen.
+
+
+
+

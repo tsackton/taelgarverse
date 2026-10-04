@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: dufr, date: 1748-07-18, type: met}
-name: Lyle Greenleaf
-born:
 species: halfling
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1748-07-18, type: met}
+born:
 gender: male
+name: Lyle Greenleaf
 affiliations:
 - {org: Greenleafs, type: primary}
 whereabouts:
 - {type: away, start: 1748-07-18, end: 1748-07-18, location: Melavan Caravanserai}
 - {type: away, start: 1748-07-19, location: traveling east to Tokra}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Lyle Greenleaf
 hide_toc: true
 ---
@@ -37,5 +41,8 @@ hide_toc: true
 
 A halfling wanderer, traveling with only his brother. 
 ## Relationships
-- [Alton Greenleaf](<alton-greenleaf.md>), brother and traveling companion. 
+- [Alton Greenleaf](<alton-greenleaf.md>), brother and traveling companion.
+
+
+
 

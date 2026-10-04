@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-title: Sergeant Eveyln Totteridge
-name: Eveyln Totteridge
-born: 1689
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Sembaran
+title: Sergeant Eveyln Totteridge
+born: 1689
 gender: female
+name: Eveyln Totteridge
 affiliations:
 - {org: Army Garrison of Cleenseau, title: Sergeant}
 whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-10-15, end: 1719-10-29, location: Bandit's Way}
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: Dunfry}
-dm_notes: important
+knownTo: [clee]
 dm_owner: mike
+dm_notes: important
+POV: 1720
 hide_toc: true
 ---
 # Sergeant Eveyln Totteridge
@@ -32,4 +36,10 @@ hide_toc: true
 
 
 
-![Eveyln Totteridge](/taelgarverse/assets/eveyln-totteridge.webp){align="right"; width="320"}The sergeant of the [River Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), Evelyn is a talented solider and particularly strong and brutal with her favored weapon, a two-handed waraxe.
+![Eveyln Totteridge](/taelgarverse/assets/eveyln-totteridge.webp){align="right"; width="320"}The sergeant of the [River Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), Evelyn is a talented soldier and particularly strong and brutal with her favored weapon, a two-handed waraxe.
+
+
+
+
+
+

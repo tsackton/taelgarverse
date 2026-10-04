@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: halfling
+ancestry:
 campaignInfo:
 - {campaign: dufr, person: Wellby, date: 1748-09-30, type: met}
 - {campaign: dufr, person: Wellby, date: 1748-10-12, type: last seen}
-name: Lerry Wildheart
 born:
-species: halfling
-ancestry:
 gender: male
+name: Lerry Wildheart
 affiliations:
 - {org: Wave Dancer, title: Quartermaster, start: 1746}
 - {org: Wildhearts, type: primary}
 whereabouts:
 - {type: home, location: Wave Dancer, wHome: 'Sails <home:qr>'}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Lerry Wildheart
 hide_toc: true
 ---
@@ -42,3 +46,9 @@ hide_toc: true
 Lerry Wildheart is the quartermaster of the halfling trading ship the [Wave Dancer](<../../things/ships/wave-dancer.md>), promoted to the role a few years ago. 
 ## Relationships
 - [Corrin Wildheart](<corrin-wildheart.md>), older brother
+
+
+
+
+
+

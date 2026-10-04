@@ -39,7 +39,7 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Met by [Riswynn](<../../dunmar-fellowship/riswynn.md>) on May 31th, 1748 in the [Yuvanti Mountains](<../../../../gazetteer/greater-dunmar/yuvanti-mountains.md>)  
+:octicons-location-24:{ .lg .middle } Met by [Riswynn](<../../dunmar-fellowship/riswynn.md>) on May 31st, 1748 in the [Yuvanti Mountains](<../../../../gazetteer/greater-dunmar/yuvanti-mountains.md>)  
 
 
 Ghemdorn is a satyr paladin, known to travel with [Eva](<eva.md>). 

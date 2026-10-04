@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Frankar
-born: 1714
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: dwarf
 ancestry:
+campaignInfo: []
+born: 1714
 gender: male
 died:
+name: Frankar
 whereabouts:
 - {type: home, start: '', end: 1730, location: Darakan}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: modern
 title: Frankar
 hide_toc: true
 ---
@@ -53,3 +57,10 @@ And the salamander would enter the clock at its center, and crawl about, sealed 
 And depending on the fate of the salamander, he would know his future. If the salamander was crushed, then some crushing weight would come. If it was stabbed, perhaps a heartbreak would come, or perhaps some great insight. Who knows if it really worked.  
   
 The machine was a secret, you see. He hid it carefully from all of us.  We only learned about it one morning, the morning after the night of a great raging storm. We found the machine at the top of the keep, high above the mountain, all in pieces. And by careful study and reconstruction I determined what it was, and what it had been for. Or so we think. Frankar, my beloved little brother Frank, was gone- we do not know where he went, and we have not seen him since. The only clue he left us was a tiny white salamander, burned to a crisp."
+
+
+
+
+
+
+

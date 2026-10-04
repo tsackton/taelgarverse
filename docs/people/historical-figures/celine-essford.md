@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Celine Essford
-born: 1621
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1621
 gender: female
 died: 1699
+name: Celine Essford
 whereabouts:
 - {type: home, location: Cleenseau, start: 1651}
-dm_notes: color
+knownTo: [clee]
 dm_owner: none
+dm_notes: color
+POV: modern
 title: Celine Essford
 hide_toc: true
 ---
@@ -28,3 +32,9 @@ hide_toc: true
 
 
 The wife of [Reginald Essford](<reginald-essford.md>) and mother of [Wymar Essford](<../sembarans/wymar-essford.md>).
+
+
+
+
+
+

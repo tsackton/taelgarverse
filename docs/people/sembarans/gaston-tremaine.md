@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-whereabouts: Cleenseau
-ancestry: Sembaran
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
+ancestry: Sembaran
 born: 1700
-dm_notes: none
+name: Gaston Tremaine
+whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Gaston Tremaine
 hide_toc: true
 ---
@@ -22,4 +27,10 @@ hide_toc: true
 </div>
 
 
-A young farmer who lives in the North Close. His sweetheart, [Henry Blackwell](<henry-blackwell.md>) was killed during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) and he has not taken it well. He only survived due to the quick thinking and timely warning from the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>).
+A young farmer who lives in the North Close. His sweetheart, [Henry Blackwell](<henry-blackwell.md>), was killed during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) and he has not taken it well. He only survived due to the quick thinking and timely warning from the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>).
+
+
+
+
+
+

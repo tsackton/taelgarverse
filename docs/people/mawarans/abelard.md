@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-knownTo: [Mawar]
-name: Abelard
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Mawaran
 gender: male
+name: Abelard
 whereabouts:
 - {type: home, location: Chardonian Empire}
 - {type: home, start: 1737, location: Hamri}
+knownTo: [mawar]
 dm_owner: none
 dm_notes: none
+POV: 1747
 title: Abelard
 hide_toc: true
 ---
@@ -31,5 +34,11 @@ hide_toc: true
 Abelard is a singer, gossip, and general hanger-on. He is known for extravagant stories of distant places, disasters, monsters, and improbable adventures, many of them likely embellished or wholly invented. But he tells his tales with a sharp wit and disarming smile, and his singing voice is strong. 
 
 Abelard gives very little away about himself. He has no obvious steady work, beyond the coin from his performances, yet always seems able to pay his tab. He occasionally disappears for weeks or months at a time, returning with new stories but no clear account of where he has been, answering direct questions with more words than information. 
+
+
+
+
+
+
 
 

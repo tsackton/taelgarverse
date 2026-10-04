@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: Clee, date: 1719-11-28, type: met}
-name: Quetin
-born:
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, date: 1719-11-28, type: met}
+born:
 gender: male
+name: Quetin
 affiliations: [Army of the West]
 whereabouts:
 - {type: home, location: Dunfry}
 - {type: away, start: 1719-11-28, end: 1719-11-30, location: Cleenseau}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1710s
 title: Quetin
 hide_toc: true
 ---
@@ -31,3 +35,9 @@ hide_toc: true
 
 
 Quetin is a messenger and a member of the Army of the West.
+
+
+
+
+
+

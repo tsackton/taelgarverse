@@ -12,7 +12,7 @@ name: Liraene
 pronunciation: Lih-RAY-neh
 whereabouts:
 - {type: home, location: Twilight's Edge}
-- {type: away, start: 1715-05-12, end: 1715-05-18, location: Feywild}
+- {type: away, start: 1715-05-12, end: 1715-05-18, location: Thornweald}
 knownTo: [adma]
 dm_owner: none
 dm_notes: none
@@ -29,17 +29,17 @@ hide_toc: true
     Died May 16th, 1715  
     { .bio }
 
-    Lived in the [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+    Lived in [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
 </div>
 
-:octicons-location-24:{ .lg .middle } Died in the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
+:octicons-location-24:{ .lg .middle } Died in the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)
 
 
 
-:octicons-location-24:{ .lg .middle } Found dead by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 18th, 1715 in the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
+:octicons-location-24:{ .lg .middle } Found dead by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 18th, 1715 in the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
 
 
-A fae from [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>), companion of [Vaelithar](<vaelithar.md>). She died in [Morlaith](<../extraplanar-powers/archfey/morlaith.md>)'s domain, fighting a corrupted Singing Tree beyond the [Nightsong Roots](<../../gazetteer/greater-sembara/addermarch/nightsong-roots.md>).
+A fae from [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>), companion of [Vaelithar](<vaelithar.md>). She died in the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>), [Morlaith](<../extraplanar-powers/archfey/morlaith.md>)'s domain, fighting a corrupted Singing Tree beyond the [Nightsong Roots](<../../gazetteer/greater-sembara/addermarch/nightsong-roots.md>).
 
 
 

@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo:
-- {campaign: DuFr, date: 1748-09-15, type: killed}
-name: Grimbaskal
-born:
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: dragon
 subspecies: green dragon
+campaignInfo:
+- {campaign: dufr, date: 1748-09-15, type: killed}
+born:
 gender: male
-aliases: [Grimbaskal]
 died: 1748-09-15
+name: Grimbaskal
+aliases: [Grimbaskal]
 whereabouts:
 - {type: home, location: Elderwood}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: modern
 title: Grimbaskal
 hide_toc: true
 ---
@@ -35,4 +39,10 @@ hide_toc: true
 
 
 
-Also known as Mezzar. A green dragon who made his lair in the Elderwood, and traveled widely in the guise of an elf, using the name Mezzar and poisoning the minds of the Deno'qai of the Elderwood. 
+Also known as Mezzar. A green dragon who made his lair in the Elderwood, and traveled widely in the guise of an elf, using the name Mezzar and poisoning the minds of the Deno'qai of the Elderwood.
+
+
+
+
+
+

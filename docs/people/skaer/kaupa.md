@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-30, type: met}
-name: Kaupa
-born: 1710
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Skaer
+campaignInfo:
+- {campaign: dufr, date: 1748-12-30, type: met}
+born: 1710
 gender: male
+name: Kaupa
 whereabouts:
 - {type: home, location: Skaerhem}
 - {type: home, start: 1745-04-11, location: Tollen}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1740s
 title: Kaupa
 hide_toc: true
 ---
@@ -37,4 +41,10 @@ hide_toc: true
 
 Kaupa serves as the informal center of the small Skaer community in Tollen, and generally knows, or at least knows someone who knows, all the Skaer who make Tollen their home. 
 
-He is protective of the local Skaer and sees his role, in part, as the person who ensures that the local Skaer community thrives. 
+He is protective of the local Skaer and sees his role, in part, as the person who ensures that the local Skaer community thrives.
+
+
+
+
+
+

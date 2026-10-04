@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
-gender: male
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Urskan
+gender: male
+name: Olen Vrask
 affiliations: [Rodnya Voknaz]
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1749
 title: Olen Vrask
 hide_toc: true
 ---
@@ -22,4 +27,11 @@ hide_toc: true
 
 
 ![Olen Vrask Portrait](/taelgarverse/assets/olen-vrask-portrait.webp){align="right"; width="400"}Olen is a secretary and scribe for [Branek Mirov](<branek-mirov.md>).
+
+
+
+
+
+
+
 

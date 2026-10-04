@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/gameupdate/dufr, testcase, person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-26, type: scryed}
-name: Nayan Sura
-born: 1720
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [status/gameupdate/dufr, testcase, person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, date: 1748-12-26, type: scryed}
+born: 1720
 gender: female
+name: Nayan Sura
 aliases: [Nayan Sura]
 affiliations:
 - {org: Nayan Dynasty, type: primary}
@@ -20,8 +22,10 @@ whereabouts:
 - {type: away, start: 1748-07-22, end: 1748-12-14, location: Central Dunmar}
 - {type: away, start: 1748-12-14, end: 1748-12-22, location: Tokra}
 - {type: away, start: 1748-12-22, end: 1748-12-26, location: plains south of Tokra}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Nayan Sura
 hide_toc: true
 ---
@@ -31,7 +35,7 @@ hide_toc: true
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (she/her), of the [Nayan dynasty](<../../groups/dunmari-dynasties/nayan-dynasty.md>)  
     Born DR 1720 (30 years old)  
-    Samraat of [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>) (since July 22th, 1748)  
+    Samraat of [Eastern Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/eastern-dunmar.md>) (since July 22nd, 1748)  
     { .bio }
 
     Originally from: [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
@@ -64,5 +68,10 @@ Sura is a tall, striking Dunmari woman, with high cheekbones, light brown skin, 
 
 ## Timeline
 _No events found._
+
+
+
+
+
 
 

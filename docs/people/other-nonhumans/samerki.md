@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: killed, boxInfo: '<subspecies> (<species>), <pronouns>', wPast: ''}
-campaignInfo:
-- {campaign: DuFr, type: killed, date: 1748-05-29}
-name: Samerki
-born:
+tags: [person, status/check/lint]
 species: giant
 subspecies: oni
+campaignInfo:
+- {campaign: dufr, type: killed, date: 1748-05-29}
+born:
 gender: male
 died: 1748-05-29
+name: Samerki
 whereabouts:
 - {type: home}
 - {type: home, location: Garamjala Desert}
 - {type: away, start: 1748-02-08, end: 1748-05-29, location: Shakun’s Wellspring}
-dm_notes: color
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: color
+POV: 1740s
 title: Samerki
 hide_toc: true
 ---
@@ -37,4 +41,11 @@ hide_toc: true
 
 
 A servant of [Agata](<../fey/agata.md>). 
+
+
+
+
+
+
+
 

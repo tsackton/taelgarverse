@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: []
-name: Wellby
-born:
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: halfling
 ancestry:
+campaignInfo: []
+born:
 gender: male
 player: David Schwartz
-dm_owner: player
-dm_notes: important
+name: Wellby
 affiliations:
 - {org: Dunmar Fellowship}
 - {org: Goodbarrels, type: primary}
+knownTo: [dufr]
+dm_owner: player
+dm_notes: important
+POV: 1748
 title: Wellby
 hide_toc: true
 ---
@@ -55,7 +59,7 @@ hide_toc: true
 	
 	The Year of Shadowed Dreams (1748 DE): Wellby crosses the mountains as soon as the passes clear, and arrives in [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), meeting [Kenzo](<kenzo.md>), [Seeker](<seeker.md>), [Delwath](<delwath.md>) and [Riswynn](<riswynn.md>) in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) in March.
 
-??? warning "Memories and Dreams from the Halfing Ancestral Mind"
+??? warning "Memories and Dreams from the Halfling Ancestral Mind"
 	
 	*Examining the [Blackened Claw](<../../../groups/hobgoblin-clans/blackened-claw.md>) symbol, [Session 9 (DuFr)](<../../../campaigns/dunmari-frontier-campaign/session-notes/session-9-dufr.md>)*
 	A memory drifting out of the past. A determined group of halflings, organized, with bows and spears. A battle banner bearing this mark, at the front of a large column of hobgoblin troops, maybe 150 years ago. They are too many to face. You turn and see the doubt in the eyes of your troop. Quickly sending the message to scatter and hide and live to fight again. Running, vanishing into the grass….
@@ -89,7 +93,7 @@ hide_toc: true
 	A very brief memory. A clear pool, deep in the woods, the shadows of the forest around you, calm, peace, the twilight above.
 	
 	*Halfling patriarch traveling, [Session 27 (DuFr)](<../../../campaigns/dunmari-frontier-campaign/session-notes/session-27-dufr.md>)*
-	As you examine the painted wooden statue of an old halfling man recovered from [Agata](<../../fey/agata.md>), you kind of you kind of fade back and fall backwards into memory. It's hard to tell how long ago this memory is, but you see a well-defended caravan of five wagons, a whole extended clan of halflings, traveling across the Dunmari scrublands. As you zoom in you sense this is probably the road between [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) and [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>). Sitting in the front of the first wagon is the old halfling man depicted by [Agata](<../../fey/agata.md>)’s statue.
+	As you examine the painted wooden statue of an old halfling man recovered from [Agata](<../../fey/agata.md>), you kind of fade back and fall backwards into memory. It's hard to tell how long ago this memory is, but you see a well-defended caravan of five wagons, a whole extended clan of halflings, traveling across the Dunmari scrublands. As you zoom in you sense this is probably the road between [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) and [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>). Sitting in the front of the first wagon is the old halfling man depicted by [Agata](<../../fey/agata.md>)’s statue.
 
 ??? warning "Wellby's Time in Karawa, Session 32"
 	
@@ -107,7 +111,7 @@ hide_toc: true
 	
 	As you refocus on the image of the map, imagining the noonday sun on a long road, the smell of food cooking on a campfire at night, the slow steady eating away of miles as you walk, the dazzling stars begin to wash away, as if a dirty window were being cleaned. You find yourself on a road. A familiar road, in fact, the road that winds south from [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) to the mountain passes and eventually to [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), the road you set out on now almost a year ago. It is early spring, the birds are singing, the plants just putting out leaves, the mountains still covered in snow. It is a beautiful day to be walking in the world. 
 	
-	You take a step, and the world stretches, shifts. It is as if the world itself shrinks for a moment, or your stretch impossibly large, because with one step you seem to have traveled leagues and leagues, and somehow backwards in time. It is deep winter, and you are south, maybe 100 miles, in the foothills of the great mountains, chilly and wet as a cold rain begins to fall. 
+	You take a step, and the world stretches, shifts. It is as if the world itself shrinks for a moment, or you stretch impossibly large, because with one step you seem to have traveled leagues and leagues, and somehow backwards in time. It is deep winter, and you are south, maybe 100 miles, in the foothills of the great mountains, chilly and wet as a cold rain begins to fall. 
 	
 	You pause for a moment, looking around. To the north, your home: the road back to [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>), the river valleys, forests, and farms of that green country. To the west, the looming sharp peaks of the mountains, snow covered in the depths of winter. To the south, the passes into the plains of north [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). To the east, the desolate wastes of the [Plaguelands](<../../../gazetteer/upper-istaros/plaguelands.md>), where most fear to tread.
 	
@@ -119,7 +123,7 @@ hide_toc: true
 	
 	The silver line of the river winds south, and in the distance along the river, many, perhaps hundreds of miles away (you are not really clear on distances in this strange, shifting land), you see a city, though whether ruined or inhabited is impossible to tell from here. To the north, the river valley continues, the forest seeming to grow darker and deeper, a hint of shadows and movement lurking the far-distance trees. 
 	
-	You turn north, where the forest grows deeper and darker, and take a step. As you step, the world compresses for a moment, and you see the land lain out before you. 
+	You turn north, where the forest grows deeper and darker, and take a step. As you step, the world compresses for a moment, and you see the land laid out before you. 
 	
 	To your left, the way you came, the mountains seem to grow and grow, until they are looming over you, pristine and beautiful, until darkness and alien horrors begin to bubble up from beneath them, all tentacles and beaks and giant floating eyes, spreading across the land for a moment before the world in that direction seems to curl up and burn away with the sound of hammer banging on shields and dwarven and elven voices singing together, a song of war and death. From the song, mountains rise, seeming to grow and grow, until they are looming over you, pristine and beautiful, until darkness and alien horrors begin to bubble up from beneath them.....again and again in a loop, repeating. 
 	
@@ -129,7 +133,7 @@ hide_toc: true
 	
 	Ahead, the darkness grows deeper beneath the woods. Beyond the dark woods, you can see the five rivers of [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) laid out before you, hundreds of miles to the north. You catch a glimpse of familiar roads, of the docks of [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>) and Embry and the smaller ports where you docked many times as a child, still not understanding how you can see detail from hundreds or thousands of miles away. Somehow your eye is drawn to a ship at sea, crossing the [Western Gulf](<../../../gazetteer/greater-sembara/western-gulf.md>), with steady seas and a following wind. You can see the captain of the watch, a grizzled old halfling patriarch, holding the wheel steady and smiling to the wind and the spray, until he turns to look directly at you. 
 	
-	His face turns grim, his smile fades. Behind him, a man stands, probably Drankorian from his features. Sharp eyes, dark hair, a proud, haughty demeanor, old, and strong, and confident. He is wearing a [shimmering cloak](<../../../things/artifacts-of-power/cloak-of-rainbows.md>), carries a [familiar scepter](<../../../things/artifacts-of-power/scepter-of-command.md>) around his waist, and looks down with disgust at the halfling captain. The Drankorian spits out a string of words you cannot clearer hear, and red mist begins to rise up around him. As he chants the mist gets deeper and deeper, filling the ship, filling the sea, stretching across [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) and the world, and you hear the sounds of halflings across the world choking and dying as one. The face of the captain begins to melt away, until there is just a skeleton looking at you. The ship sinks, and your eye is drawn to the [Western Gulf](<../../../gazetteer/greater-sembara/western-gulf.md>), where a ship is sailing with steady seas and following winds, and old halfling patriarch at the wheel, smiling, until he turns to look at you, and speaks:
+	His face turns grim, his smile fades. Behind him, a man stands, probably Drankorian from his features. Sharp eyes, dark hair, a proud, haughty demeanor, old, and strong, and confident. He is wearing a [shimmering cloak](<../../../things/artifacts-of-power/cloak-of-rainbows.md>), carries a [familiar scepter](<../../../things/artifacts-of-power/scepter-of-command.md>) around his waist, and looks down with disgust at the halfling captain. The Drankorian spits out a string of words you cannot clearly hear, and red mist begins to rise up around him. As he chants the mist gets deeper and deeper, filling the ship, filling the sea, stretching across [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>) and the world, and you hear the sounds of halflings across the world choking and dying as one. The face of the captain begins to melt away, until there is just a skeleton looking at you. The ship sinks, and your eye is drawn to the [Western Gulf](<../../../gazetteer/greater-sembara/western-gulf.md>), where a ship is sailing with steady seas and following winds, an old halfling patriarch at the wheel, smiling, until he turns to look at you, and speaks:
 	
 	"You see all the pasts, the maybes and might have beens of the turning of time. Do not despair, for this past is not your past, nor is it your future, it is a branch of time avoided."
 	
@@ -141,7 +145,7 @@ hide_toc: true
 	
 	#### Journey with [Havdar](<../../dunmari/havdar.md>)
 	
-	Wellby travels with [Havdar](<../../dunmari/havdar.md>) and some troops back to [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>), to help collect the treasure buried there. On the journey, [Havdar](<../../dunmari/havdar.md>) is just brimming with excitement about the return of the Nayan [Sura](<../../dunmari/sura.md>). You get an earful of Dunmari politics -- how the old Samraat, Nayan Marathu, was supposed to be just a caretaker, having taken the throne at 60 in DR 1736 (12 years ago) but he starts to bring back the traditional ways, traveling east with the court instead of staying in the palace in [Nayahar](<../../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>), organizing a census of all Dunmari, not just the settled ones in the cities to the west, and even proposing a new capitol, more centrally located between [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) and [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), and in the original Dunmari tradition of being a waypoint and meeting place. It was a time of great hope, and especially because [Sura](<../../dunmari/sura.md>), from a prominent family south of [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), but who was seen as committed to a greater [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) that acknowledged all Dunmari, east and west, had a prominent role in court and was seen as the obvious successor. The court even came to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) one year. This was about 10 years ago, when [Havdar](<../../dunmari/havdar.md>) was in his late teens, and you get the sense he was infatuated with [Sura](<../../dunmari/sura.md>), in addition to his support of her political positions.
+	Wellby travels with [Havdar](<../../dunmari/havdar.md>) and some troops back to [Bas Udda](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/bas-udda.md>), to help collect the treasure buried there. On the journey, [Havdar](<../../dunmari/havdar.md>) is just brimming with excitement about the return of the Nayan [Sura](<../../dunmari/sura.md>). You get an earful of Dunmari politics -- how the old Samraat, Nayan Marathu, was supposed to be just a caretaker, having taken the throne at 60 in DR 1736 (12 years ago) but he starts to bring back the traditional ways, traveling east with the court instead of staying in the palace in [Nayahar](<../../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>), organizing a census of all Dunmari, not just the settled ones in the cities to the west, and even proposing a new capital, more centrally located between [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) and [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), and in the original Dunmari tradition of being a waypoint and meeting place. It was a time of great hope, and especially because [Sura](<../../dunmari/sura.md>), from a prominent family south of [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), but who was seen as committed to a greater [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) that acknowledged all Dunmari, east and west, had a prominent role in court and was seen as the obvious successor. The court even came to [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) one year. This was about 10 years ago, when [Havdar](<../../dunmari/havdar.md>) was in his late teens, and you get the sense he was infatuated with [Sura](<../../dunmari/sura.md>), in addition to his support of her political positions.
 	
 	Then it all fell apart. [Sura](<../../dunmari/sura.md>) vanished, and shortly after Marathu was killed in an [orc](<../../../creatures/species/orcs.md>) ambush, when he personally led the search for [Sura](<../../dunmari/sura.md>). [Sura](<../../dunmari/sura.md>)'s brother, Karnas, who had been general of the southern armies (west of the mountains), ended up as Samraat, but he has been a disaster (according to [Havdar](<../../dunmari/havdar.md>)), ignoring the east and growing rich off Chardonian trade and Chardonian money that seems to flow constantly to [Nayahar](<../../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>). 
 	
@@ -165,15 +169,15 @@ hide_toc: true
 	
 	After leaving [Garret](<../../halflings/garret-tealeaf.md>) at the Red Lily, you ride on [Baxter](<companions/baxter.md>) for the [Lakan Monastery](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>), about five miles distance. Riding across the open plains, in a new place, urging [Baxter](<companions/baxter.md>) forward as you and he skillfully leap across obstacles and dodge between rocks, you think of how far you have traveled in the nearly a year now since you left your family, and how much you have learned and seen.
 	
-	As you ride, you realize you are constantly aware of the world around you, noticing things you would have missed before: the sparrows fliting in the distance, flying away from you and [Baxter](<companions/baxter.md>), the snake slithering away as you ride past, the far-distant hawk on the wind. As the terrain gets steep and you begin climbing towards the road, you dismount, leading [Baxter](<companions/baxter.md>) over the rocky terrain. Then, suddenly, as you turn to climb the final hill, you see out of the corner of your eye a rockslide beginning. Before you are even consciously aware of the danger coming your way, you find yourself dodging for cover, the last months of adventuring clicking together. You catch your breath, the rocks harmlessly falling behind you, and finish your climb, reaching the monastery.
+	As you ride, you realize you are constantly aware of the world around you, noticing things you would have missed before: the sparrows flitting in the distance, flying away from you and [Baxter](<companions/baxter.md>), the snake slithering away as you ride past, the far-distant hawk on the wind. As the terrain gets steep and you begin climbing towards the road, you dismount, leading [Baxter](<companions/baxter.md>) over the rocky terrain. Then, suddenly, as you turn to climb the final hill, you see out of the corner of your eye a rockslide beginning. Before you are even consciously aware of the danger coming your way, you find yourself dodging for cover, the last months of adventuring clicking together. You catch your breath, the rocks harmlessly falling behind you, and finish your climb, reaching the monastery.
 	
-	As you reach the gates, a Dunmari monk in white robes trimmed in blue greats you. "Come, you are expected."
+	As you reach the gates, a Dunmari monk in white robes trimmed in blue greets you. "Come, you are expected."
 
 ??? warning "Letter from Dee Wildcloak to Wellby, Session 61"
 	
 	### Letter from Dee Wildcloak to Wellby, Session 61
 	
-	a short note, writing in the halfling language and addressed to Wellby, in the letter from Dee]
+	a short note, written in the halfling language and addressed to Wellby, in the letter from Dee]
 	
 	Wellby,
 	

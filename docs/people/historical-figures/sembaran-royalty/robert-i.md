@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-name: Robert I
-born: 1660
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1660
 gender: male
 died: 1720-06-15
 title: King Robert I
+name: Robert I
 affiliations:
 - {org: House of Sewick, type: primary}
 - {place: Sembara, start: 1713-09-12}
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: modern
 hide_toc: true
 ---
 # King Robert I
@@ -28,5 +32,11 @@ hide_toc: true
 
 
 A ruler of Sembara, son of [Cece I](<cece-i.md>).  He was never crowned king of Tyrwingha when his mother died, that honor going to his cousin [Elaine II](<elaine-ii.md>). 
+
+
+
+
+
+
 
 

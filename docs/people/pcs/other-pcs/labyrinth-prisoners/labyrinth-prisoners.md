@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
 tags: [group]
-dm_notes: none
-dm_owner: none
 typeOf: adventuring party
+name: Labyrinth Prisoners
+dm_owner: none
+dm_notes: none
+POV: modern
 title: Labyrinth Prisoners
 ---
 # The Labyrinth Prisoners
@@ -20,6 +24,10 @@ The Labyrinth Prisoners were an ad hoc adventuring party formed by four captives
 ## Members
 
 - [Acescale](<acescale.md>), a [lizardfolk](<../../../../creatures/species/lizardfolk.md>) alchemist and gambler from [Latazaro](<../../../../gazetteer/greater-sembara/latazaro.md>)
-- [Gadin](<gaudin.md>), an [elf](<../../../../creatures/species/elves.md>) warlock and smuggler with fey patron
+- [Gadin](<gaudin.md>), an [elf](<../../../../creatures/species/elves.md>) warlock and smuggler with a fey patron
 - [Loria Underbough](<loria-underbough.md>), a [halfling](<../../../../creatures/species/halflings.md>) wanderer and ranger from the [Enst](<../../../../gazetteer/greater-sembara/rivers/wistel-enst-watershed/enst.md>) river valley
 - [Dilon](<dilion.md>), a [human](<../../../../creatures/species/humans.md>) artificer and battlesmith who traveled with [Pikeia](<pikeia.md>) and the [Steampup](<steampup.md>)
+
+
+
+

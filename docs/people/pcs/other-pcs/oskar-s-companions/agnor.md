@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Agnor
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: dwarf
 gender: male
 player: Isaac Sackton
-whereabouts:
-- {type: home, location: Tharn Todor}
+campaignInfo:
+- {campaign: dufr, person: Riswynn, type: met, date: 1748-05-09}
+name: Agnor
 affiliations:
 - {org: Oskar's Companions, title: One}
-campaignInfo:
-- {campaign: DuFr, person: Riswynn, type: met, date: 1748-05-09}
+whereabouts:
+- {type: home, location: Tharn Todor}
+knownTo: [dufr]
 dm_owner: player
 dm_notes: none
+POV: 1740s
 title: Agnor
 hide_toc: true
 ---
@@ -33,4 +37,11 @@ hide_toc: true
 
 
 Agnor is a dwarven warlock from [Tharn Todor](<../../../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), who has occasionally adventured with [Oskar](<oskar.md>) and [Riswynn](<../../dunmar-fellowship/riswynn.md>). His magic is tied to mysterious ancient powers, and he is often accompanied by his familiar, Ravi.
+
+
+
+
+
+
+
 

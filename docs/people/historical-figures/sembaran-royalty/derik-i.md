@@ -1,21 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/review]
-knownTo: [adma]
-name: Derik I
-born: 1396
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/review, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1396
 gender: male
 died: 1462
+title: King Derik I
+name: Derik I
 affiliations:
 - {org: House of Sewick, type: primary}
 - {place: Tyrwingha, start: 1425}
 - {place: Sembara, start: 1429}
 - {place: Duchy of Telham, title: Duke, start: 1429}
-title: King Derik I
-dm_notes: none
+knownTo: [adma, clee]
 dm_owner: none
+dm_notes: none
+POV: modern
 hide_toc: true
 ---
 # King Derik I
@@ -36,6 +39,10 @@ hide_toc: true
 
 The founder of the [House of Sewick](<../../../groups/sembaran-noble-houses/house-of-sewick.md>), he established modern Sembara at the [Treaty of Wisford](<../../../events/1400s/treaty-of-wisford.md>) in the fall of 1429 and reigned over a united Sembara and Tyrwingha until his death in DR 1462.
 
-He had five children, and was succeeded by his second son, [Derik II](<derik-ii.md>).  His third child, Matilda, inherited the Duchy of Telham, and after his reign the Sembaran royalty no longer styled themselves "Dukes of Telham". 
+He had five children, and was succeeded by his second son, [Derik II](<derik-ii.md>).  His third child, Matilda, inherited the Duchy of Telham, and after his reign the Sembaran royalty no longer styled themselves "Dukes of Telham".
+
+
+
+
 
 

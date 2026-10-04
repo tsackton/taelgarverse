@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
 displayDefaults: {aNoDate: Traveled with <affiliations>}
-affiliations:
-- {org: Dunmar Fellowship, title: Guest"}
-name: Spirala
-born:
+tags: [person, status/check/lint]
 species: fey
 subspecies: fairy
+born:
 gender: female
 player: Kate Sackton
+name: Spirala
+affiliations:
+- {org: Dunmar Fellowship, title: Guest}
+knownTo: [dufr]
 dm_owner: player
 dm_notes: important
+POV: 1740s
 title: Spirala
 hide_toc: true
 ---
@@ -26,4 +30,10 @@ hide_toc: true
 </div>
 
 
-A fairy cleric from the fey realm of [Shimmersong](<../../../../gazetteer/extraplanar/feywild/shimmersong.md>), dedicated to light and the [Lightdancer](<../../../extraplanar-powers/archfey/lightdancer.md>)’s SHummer Court. Helped [Seeker](<../seeker.md>) with the wild magic storm and crossing [Amberglow](<../../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), and said goodbye to [Seeker](<../seeker.md>) at [Lastlight Falls](<../../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>).
+A fairy cleric from the fey realm of [Shimmersong](<../../../../gazetteer/extraplanar/feywild/shimmersong.md>), dedicated to light and the [Lightdancer](<../../../extraplanar-powers/archfey/lightdancer.md>)’s Summer Court. Helped [Seeker](<../seeker.md>) with the wild magic storm and crossing [Amberglow](<../../../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>), and said goodbye to [Seeker](<../seeker.md>) at [Lastlight Falls](<../../../../gazetteer/extraplanar/feywild/amberglow/lastlight-falls.md>).
+
+
+
+
+
+

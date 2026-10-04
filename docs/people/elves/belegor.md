@@ -1,23 +1,27 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase]
-campaignInfo:
-- {campaign: dufr, date: 1748-09-30, type: met}
-name: Belegor
-born: 1468
-ka: 36
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, testcase, status/check/lint]
 species: elf
 ancestry:
-pronunciation: beh-leh-GOR
+campaignInfo:
+- {campaign: dufr, date: 1748-09-30, type: met}
+born: 1468
+ka: 36
 gender: male
+timelineDescriptor: Belegor
+name: Belegor
+pronunciation: beh-leh-GOR
 whereabouts:
 - {type: home, start: '', end: 1712, location: Ainumarya}
 - {type: away, start: 1733-01-01, end: '', location: Elderwood}
 - {type: away, start: 1748-08-01, end: '', location: Te'kula village}
 - {type: away, start: 1748-09-30, end: '', location: Te'kula village}
-timelineDescriptor: Belegor
-dm_notes: color
+knownTo: [dufr]
 dm_owner: none
+dm_notes: color
+POV: 1748
 title: Belegor
 hide_toc: true
 ---
@@ -40,7 +44,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on September 30th, 1748 in [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
 
 
-Belegor is a solitary [elf](<../../creatures/species/elves.md>) wanderer, who has travelled across the forests of the western region of Taelgar for many years, not wanting hide in isolation as many of his generation chose after The [Great War](<../../events/1500s/great-war.md>). 
+Belegor is a solitary [elf](<../../creatures/species/elves.md>) wanderer, who has travelled across the forests of the western region of Taelgar for many years, not wanting to hide in isolation as many of his generation chose after The [Great War](<../../events/1500s/great-war.md>).
 ## Overview
 
 Belegor is an [elf](<../../creatures/species/elves.md>) of the 36th ka, the generation that came of age during the [Great War](<../../events/1500s/great-war.md>). He chose to wander in his later years, after fathering children, and is driven by a sense of wanderlust but also melancholy for what was lost. 
@@ -53,4 +57,11 @@ Belegor is a tall, ageless [elf](<../../creatures/species/elves.md>), with mediu
 - Jul 1748 DR. Belegor fled from [Grimbaskal](<../other-nonhumans/mezzar.md>), realizing his deception. 
 - Aug 1748 DR. Belegor sought refuge in a [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) village, hidden in the Elderwood.  
 - Sep 11, 1748 DR. Belegor and the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) meet in the hidden [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) village.
+
+
+
+
+
+
+
 

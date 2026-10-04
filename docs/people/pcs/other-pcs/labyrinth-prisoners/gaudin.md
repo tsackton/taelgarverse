@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Gadin
-aliases: [Gaudin]
-ka: 37
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: elf
+ka: 37
 gender: male
 player: John Leeker
 ddbLink: https://www.dndbeyond.com/characters/112503920
+name: Gadin
+aliases: [Gaudin]
 affiliations:
 - {org: Labyrinth Prisoners, type: primary}
 whereabouts:
 - {type: home, location: west of Sentinel Range}
 - {type: away, start: 1748-10-17, end: 1748-10-19, location: Perdoli Manor}
 - {type: home, start: 1748-10-19, location: Western Green Sea}
-dm_notes: none
+knownTo: [lablost]
 dm_owner: player
+dm_notes: none
+POV: 1748
 title: Gadin
 hide_toc: true
 ---
@@ -37,3 +41,9 @@ Gadin is an [elf](<../../../../creatures/species/elves.md>) warlock from beyond 
 Gadin was captured after leaving the fishing village of [Redes](<../../../../gazetteer/western-green-sea/cymea/redes.md>) to meet a contact about smuggled wine bound for [Tyrwingha](<../../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>). A false cart driver and goblin archers ambushed him on the road, and he was thrown into the same cart as a [halfling woman](<loria-underbough.md>) and a [lizardfolk man](<acescale.md>) before waking in [Perdoli Manor](<../../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>) as one of the [Labyrinth Prisoners](<labyrinth-prisoners.md>).
 
 After escaping the manor, Gadin left with old pirate maps and an eye toward the smuggling routes and hideouts they revealed.
+
+
+
+
+
+

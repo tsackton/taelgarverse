@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-whereabouts: Cleenseau
-ancestry: Sembaran
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
+ancestry: Sembaran
 gender: female
 born: 1680
 died: 1720-01-04
-dm_notes: none
+name: Seraphine Harper
+whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Seraphine Harper
 hide_toc: true
 ---
@@ -25,3 +30,9 @@ hide_toc: true
 
 
 A farmer's wife, killed in a zombie attack, who leaves behind a large family of eight children.
+
+
+
+
+
+

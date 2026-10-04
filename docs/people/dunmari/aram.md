@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Aram
-born: 1717
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo: []
+born: 1717
 gender: male
+name: Aram
 affiliations: [Havdar's Warband]
 whereabouts:
 - {type: home, location: Havdar's Warband}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1740s
 title: Aram
 hide_toc: true
 ---
@@ -31,3 +35,9 @@ hide_toc: true
 
 
 A holy warrior of [Aagir](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/aagir.md>) in [Havdar](<havdar.md>)'s service, and unofficial spiritual leader of [Havdar's Warband](<../../groups/havdar-s-warband.md>).
+
+
+
+
+
+

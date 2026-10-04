@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl]
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/gl, status/check/lint]
 species: stoneborn
-name: Aglath
 gender: male
 born: 1721
+name: Aglath
 affiliations:
 - {org: Silver Tempests, end: 1747-11-22}
 whereabouts:
 - {type: home, start: 1735, end: 1747-01-01, location: Chardon}
 - {type: home, start: 1747-04-08, end: 1747-12-01, location: Voltara}
 - {type: away, start: 1747-11-22, end: 9999, location: Sentinel Range}
+knownTo: [grli]
 dm_owner: tim
 dm_notes: none
+POV: 1747
 title: Aglath
 hide_toc: true
 ---
@@ -22,7 +26,7 @@ hide_toc: true
 
     A [stoneborn](<../../../creatures/species/stoneborn.md>) (he/him)  
     Born DR 1721 (29 years old)  
-    Member of the [Silver Tempests](<silver-tempests.md>) (until November 22th, 1747)  
+    Member of the [Silver Tempests](<silver-tempests.md>) (until November 22nd, 1747)  
     { .bio }
 
     Originally from: Unknown
@@ -35,6 +39,12 @@ Aglath was born in a distant land. What little he remembers of his childhood was
 
 One day, when returning from a day of hard practice, he came home to find his parents dead, covered in blood. He saw two glowing bestial eyes in the distance, which then vanished, and fled immediately in shock and terror, not stopping to learn more. While wandering alone, and struggling to survive, he met a wizard, [Eutus](<../../chardonians/eutus.md>), searching for ancient ruins. This wizard was from the [Great Library](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>) in [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), and befriended Aglath, eventually bringing him back to [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>).
 
-In [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), Aglath was lost for a while, not sure what to do with himself, but met another [Stoneborn](<../../../creatures/species/stoneborn.md>) who encouraged him to join the [Chardonian Legion](<../../../groups/chardonian-organizations/chardonian-legion.md>). After several years training as a solider, the wizard [Eutus](<../../chardonians/eutus.md>) found Aglath and asked him to join the [Great Library](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>) as an adventurer. He agreed, and was sent north to [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) where he soon connected with [Brelith](<brelith.md>), [Aelar](<aelar.md>), [Adrik](<adrik.md>), and [Samso](<samso.md>). 
+In [Chardon](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/chardon.md>), Aglath was lost for a while, not sure what to do with himself, but met another [Stoneborn](<../../../creatures/species/stoneborn.md>) who encouraged him to join the [Chardonian Legion](<../../../groups/chardonian-organizations/chardonian-legion.md>). After several years training as a soldier, the wizard [Eutus](<../../chardonians/eutus.md>) found Aglath and asked him to join the [Great Library](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/great-library.md>) as an adventurer. He agreed, and was sent north to [Voltara](<../../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) where he soon connected with [Brelith](<brelith.md>), [Aelar](<aelar.md>), [Adrik](<adrik.md>), and [Samso](<samso.md>).
 
-After traveling with the [Silver Tempests](<silver-tempests.md>) for almost nine months, Aglath departed the group after meeting the [Deno'qai](<../../../groups/cultures/deno-qai-tribes/deno-qai.md>) of [Raha](<../../../gazetteer/central-highlands/raha.md>), and headed into the [Sentinels](<../../../gazetteer/sentinel-range.md>) to search for meaning and a place to belong. 
+After traveling with the [Silver Tempests](<silver-tempests.md>) for almost nine months, Aglath departed the group after meeting the [Deno'qai](<../../../groups/cultures/deno-qai-tribes/deno-qai.md>) of [Raha](<../../../gazetteer/central-highlands/raha.md>), and headed into the [Sentinels](<../../../gazetteer/sentinel-range.md>) to search for meaning and a place to belong.
+
+
+
+
+
+

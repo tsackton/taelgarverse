@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, type: Read about, date: 1748-07-01, wParty: '<met:x> by <person> on <target> in [[Tokra]], [[Central Dunmar]]'}
-name: Ila
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, type: Read about, date: 1748-07-01, wParty: '<met:x> by <person> on <target> in [[Tokra]], [[Central Dunmar]]'}
 gender: male
 title: Commander Ila
 died: 1657
+name: Ila
 whereabouts:
 - {type: home, prefix: somewhere in, location: Central Dunmar, formatSpecifier: ''}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: modern
 hide_toc: true
 ---
 # Commander Ila
@@ -31,4 +35,10 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Read about by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 1st, 1748 in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), [Central Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/central-dunmar.md>)  
 
 
-The commander of the eastern Dunmari army in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) during and after the [Northern War](<../../events/1600s/northern-war.md>). Later involved in [Exile of Fraternity of the Empty Moon](<../../events/1600s/exile-of-fraternity-of-the-empty-moon.md>). 
+The commander of the eastern Dunmari army in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) during and after the [Northern War](<../../events/1600s/northern-war.md>). Later involved in [Exile of Fraternity of the Empty Moon](<../../events/1600s/exile-of-fraternity-of-the-empty-moon.md>).
+
+
+
+
+
+

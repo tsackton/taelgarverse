@@ -1,25 +1,33 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+lintedAt: '2026-09-28T23:44:57-04:00'
+lintVersion: '3.5'
 displayDefaults: {defArt: ''}
-name: Message Stone
-typeOf: wonderous item
+tags: [object]
+typeOf: wondrous item
 subTypeOf: magic
 ancestry: Drankorian
 rarity:
 image:
 ddbLink: https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone
+name: Message Stone
+knownTo: [adma, dufr]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Message Stone
 ---
 # Message Stone
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
-- :octicons-info-24:{ .lg .middle } __([Drankorian](<../../history/historical-realms/drankorian-empire.md>) magic wonderous item)__  
+- :octicons-info-24:{ .lg .middle } __([Drankorian](<../../history/historical-realms/drankorian-empire.md>) magic wondrous item)__  
     :simple-dungeonsanddragons:{ .middle} [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone) 
 </div>
 
 
-Drankorian message stones are typically polished stone, about the size of a halfling's fist, marked with arcane sigils. They were created in large numbers by Drankorian wizards to help manage the [Drankorian Empire](<../../history/historical-realms/drankorian-empire.md>). Although possible to destroy with dedicated effort, many survived the [Fall of Drankor](<../../events/1000s/1059/fall-of-drankor.md>) and can be scattered across the old territories of the empire. 
+Drankorian message stones are typically polished stone, about the size of a halfling's fist, marked with arcane sigils. They were created in large numbers by Drankorian wizards to help manage the [Drankorian Empire](<../../history/historical-realms/drankorian-empire.md>). Although possible to destroy with dedicated effort, many survived the [Fall of Drankor](<../../events/1000s/1059/fall-of-drankor.md>) and can be scattered across the old territories of the empire.
 
-Each stone is paired at creation with one or more partner stones: when a stone is activated, words spoken into the activated stone can be heard from all partner stones. Drankorian message stones typically have one of three ranges: short range stones work over a range of about 50 miles; standard stones over a range of about 1000 miles; and long range stones can reach anywhere on the same plane of existence as their partner. 
+Each stone is paired at creation with one or more partner stones: when a stone is activated, words spoken into the activated stone can be heard from all partner stones. Drankorian message stones typically have one of three ranges: short range stones work over a range of about 50 miles; standard stones over a range of about 1000 miles; and long range stones can reach anywhere on the same plane of existence as their partner.
+
+
+
+

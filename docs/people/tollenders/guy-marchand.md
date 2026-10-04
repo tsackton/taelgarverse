@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-29, type: met}
-name: Guy Marchand
-born: 1687
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Isinguer
+campaignInfo:
+- {campaign: dufr, date: 1748-12-29, type: met}
+born: 1687
 gender: male
+name: Guy Marchand
 affiliations: [University of Tollen]
 whereabouts:
 - {type: home, start: '', end: '', location: Tollen}
 - {type: home, start: 1687-01-02, location: Nordgate}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1748
 title: Guy Marchand
 hide_toc: true
 ---
@@ -50,4 +54,11 @@ Guy, an aging man in his mid-60s, looks young for his age; he has lived a comfor
 - **Wanderers and Explorers:** While Guy himself doesn't travel, his insatiable curiosity about distant places has made him a friend of many wanderers. He exchanges tales, rumors, and knowledge about far-off lands with them, enriching his mapmaking skills, and making his shop something of a center for rumors and information. 
 - **[Wellby](<../pcs/dunmar-fellowship/wellby.md>):** Guy remembers [Wellby](<../pcs/dunmar-fellowship/wellby.md>) fondly. 
 - **Sarah de Grey:** Sarah frequently dines at Guy's shop, with a few other local Isinguese.
+
+
+
+
+
+
+
 

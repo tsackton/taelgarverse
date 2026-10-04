@@ -19,7 +19,7 @@ title: Lyrics of a New Age
 # Lyrics of a New Age
 :octicons-info-24:{ .lg .middle } **An [Elvish](<../../creatures/species/elves.md>) poem collection, written during the [Drankorian Era](<../../history/history-of-the-drankorian-empire.md>), by [Nelawe](<../../people/elves/nelawe.md>)**  
 
-This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [Nelawe](<../../people/elves/nelawe.md>). This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the traditional poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days before the Riving.
+This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [Nelawe](<../../people/elves/nelawe.md>). This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the traditional poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days before the [Riving](<../../cosmology/planar-concepts/riving.md>).
 
 The most famous poem in this book is *A Lament for Lost Thunder*, an ode to giants of lore:
 

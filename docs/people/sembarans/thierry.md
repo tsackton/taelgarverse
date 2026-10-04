@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-whereabouts: Asineau
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 born: 1684
 gender: male
+name: Thierry
 pronunciation: Tee-eh-ree
-dm_notes: color
+whereabouts: Asineau
+knownTo: [clee]
 dm_owner: none
+dm_notes: color
+POV: 1720
 title: Thierry
 hide_toc: true
 ---
@@ -25,4 +30,10 @@ hide_toc: true
 </div>
 
 
-![Thierry](/taelgarverse/assets/thierry.webp){align="right"; width="320"}A local boatbuilder in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>), he served in the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>) in his younger days. 
+![Thierry](/taelgarverse/assets/thierry.webp){align="right"; width="320"}A local boatbuilder in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>), he served in the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>) in his younger days.
+
+
+
+
+
+

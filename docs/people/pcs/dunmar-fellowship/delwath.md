@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-name: Delwath
-born: 1472
-ka: 36
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: elf
 ancestry:
+campaignInfo:
+born: 1472
+ka: 36
 gender: male
 player: Mike Sackton
-dm_owner: player
-dm_notes: important
+name: Delwath
 affiliations:
 - {org: Dunmar Fellowship, type: primary}
 whereabouts:
 - {type: home, end: 1538, location: Ainumarya}
 - {type: away}
+knownTo: [dufr]
+dm_owner: player
+dm_notes: important
+POV: 1748
 title: Delwath
 hide_toc: true
 ---
@@ -54,11 +58,11 @@ hide_toc: true
 
 ??? warning "Delwath's Backstory"
 	
-	Delwath was born a hundred years before the coming of [Cha'mutte](<../../extraplanar-powers/cha-mutte.md>), and skirmished in some of the minor conflicts of that time, but was never a true combatant. During the cataclysmic battles at the end of the Great Wars, he was aiding a small company of elves as a quartermaster and cook, when they were surrounded and defeated by a great force of hobgoblins, lead by a mysterious cloaked figure who called down bolts of dark lightning and spread from the sky.
+	Delwath was born a hundred years before the coming of [Cha'mutte](<../../extraplanar-powers/cha-mutte.md>), and skirmished in some of the minor conflicts of that time, but was never a true combatant. During the cataclysmic battles at the end of the Great Wars, he was aiding a small company of elves as a quartermaster and cook, when they were surrounded and defeated by a great force of hobgoblins, led by a mysterious cloaked figure who called down bolts of dark lightning and spread from the sky.
 	
 	Although the company was killed to the last elf (save for Delwath), the elven company was still powerful and, in turn, they destroyed the orcish company. In the final duel, the commander of the elven company killed the cloaked figure before succumbing to her wounds.
 	
-	Delwath lay dazed for several days, as rains fell and the sky was torn asunder by the destruction of [Cha'mutte](<../../extraplanar-powers/cha-mutte.md>), in shock and despair. Finally, he recovered enough to start dragging the bodies of the dead from the field, when he noticed a dark circlet upon the arm of the wizard. His curiosity got the better of his, and he touched it, and was instantly pulled into a land of shadow. This realm was a vast open plain, with only dim light and a fading horizon. Vast shadowy mountains arose in all directions, and no matter where Delwath walked, he kept returning to the battlefield in which is comrades died. He time he returned, the he was caught, forced to watch the slaughter, and each time, it seemed, the dying elves died faster, and the [Orcs](<../../../creatures/species/orcs.md>) were more brutal. He was neither hungry, nor tired, nor thirsty, and time passed in strange ways.
+	Delwath lay dazed for several days, as rains fell and the sky was torn asunder by the destruction of [Cha'mutte](<../../extraplanar-powers/cha-mutte.md>), in shock and despair. Finally, he recovered enough to start dragging the bodies of the dead from the field, when he noticed a dark circlet upon the arm of the wizard. His curiosity got the better of him, and he touched it, and was instantly pulled into a land of shadow. This realm was a vast open plain, with only dim light and a fading horizon. Vast shadowy mountains arose in all directions, and no matter where Delwath walked, he kept returning to the battlefield in which his comrades died. Each time he returned, he was caught, forced to watch the slaughter, and each time, it seemed, the dying elves died faster, and the [Orcs](<../../../creatures/species/orcs.md>) were more brutal. He was neither hungry, nor tired, nor thirsty, and time passed in strange ways.
 	
 	After a timeless period, he found he could, if he stretched his will in just the right way, move the shadowy world around him.
 	
@@ -66,9 +70,9 @@ hide_toc: true
 	
 	He appeared, falling from the sky, on the edge of a ruined city (he later learned was called [Kharsan](<../../../gazetteer/greater-dunmar/hara-basin/kharsan.md>)). He reached out with his will, and found himself on the ground, having teleported there.
 	
-	He walked west, and found the Dunmari. For several months he recovered under the care of an elderly herdsman and his unwed daughter, from which he learned what history he could. He was wild and barely spoke at first, but under their care regained some of his old self. After several months, he learned to tame the shadow magic within, and has even heard a voice at times, speaking to him in whispers from far away.
+	He walked west, and found the Dunmari. For several months he recovered under the care of an elderly herdsman and his unwed daughter, from whom he learned what history he could. He was wild and barely spoke at first, but under their care regained some of his old self. After several months, he learned to tame the shadow magic within, and has even heard a voice at times, speaking to him in whispers from far away.
 	
-	What the voice is, he knows not, although he doesn't fully trust it. After after four months, he left his herdsman savior and went west, to seek the Mysteries of [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>), as his nearest, if not best, hope of finding out more about what might be going on. He has been living in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) for the since January, learning what he can about the Mysteries.
+	What the voice is, he knows not, although he doesn't fully trust it. After four months, he left his herdsman savior and went west, to seek the Mysteries of [Shakun](<../../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/shakun.md>), as his nearest, if not best, hope of finding out more about what might be going on. He has been living in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) since January, learning what he can about the Mysteries.
 
 ??? warning "Delwath's Dream of the Shadow Realm, Session 5"
 	
@@ -76,7 +80,7 @@ hide_toc: true
 	
 	As you drift off to sleep, everything fades, and you see before you an androgynous figure, standing, wreathed in shadows. Tendrils of darkness seem to be pouring off of them, pooling at their feet. You cannot tell if they are trapped, or if they are controlling the darkness. When they speak, it is in the voice you have heard since you found a way to leave the shadow realm: "Delwath. You can see me."
 	
-	As they speak your name, you realize they are speaking in Shadowkar, and you can feel that the currents of shadow flowing to you. From their open mouth, a torrent of darkness pours, and you see a wordless scream as blackness rushes towards you. For a moment, the power threatens to overwhelm you, but with effort you are able to stabilize it. A thread of power remains, hanging in the empty space, and you can feel the energy of the shadow realm at the other end. As you concentrate, you can feel power through this thread, you can feel your control over this connection between you and this shadow realm -- channeled through this being -- growing.
+	As they speak your name, you realize they are speaking in Shadowkar, and you can feel the currents of shadow flowing to you. From their open mouth, a torrent of darkness pours, and you see a wordless scream as blackness rushes towards you. For a moment, the power threatens to overwhelm you, but with effort you are able to stabilize it. A thread of power remains, hanging in the empty space, and you can feel the energy of the shadow realm at the other end. As you concentrate, you can feel power through this thread, you can feel your control over this connection between you and this shadow realm -- channeled through this being -- growing.
 	
 	Suddenly as if ripped away by a current, the figure is gone, pulled by a rushing torrent of shadows towards the darkness behind them.
 
@@ -90,13 +94,13 @@ hide_toc: true
 	
 	## The Shadow Voice Returns, [Session 19 (DuFr)](<../../../campaigns/dunmari-frontier-campaign/session-notes/session-19-dufr.md>)
 	
-	As you are drifting off to sleep, the gravely shadow-voice that you have not heard in since you left [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to hunt gnolls begins to whisper in the back of your mind. 
+	As you are drifting off to sleep, the gravelly shadow-voice that you have not heard since you left [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) to hunt gnolls begins to whisper in the back of your mind. 
 	
-	As it begins to speak, the shadows around you seem to grow darker, and you find you can almost perceive something -- a face maybe? -- from the corner of your eye, flickering in and out the shadows. 
+	As it begins to speak, the shadows around you seem to grow darker, and you find you can almost perceive something -- a face maybe? -- from the corner of your eye, flickering in and out of the shadows. 
 	
 	"Delwath."
 	
-	The voice seems to breath a sigh of relief, almost, and then says, almost as if speaking to itself.
+	The voice seems to breathe a sigh of relief, almost, and then says, almost as if speaking to itself.
 	
 	"This land, here, is used to the presence of gods, the paths to the Divine are well-worn in the place."
 	
@@ -125,7 +129,7 @@ hide_toc: true
 	
 	### Closing Affairs
 	
-	Delwath also closes up his affairs in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). His old house was destroyed, and he does not bother to repair it. During the week and the [Feast of Bhishma](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>), he says his goodbyes and give gifts of thanks to a few friends from his time in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). 
+	Delwath also closes up his affairs in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>). His old house was destroyed, and he does not bother to repair it. During the week and the [Feast of Bhishma](<../../../gods-and-religions/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>), he says his goodbyes and gives gifts of thanks to a few friends from his time in [Karawa](<../../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>).
 	
 	### Rumors 
 	
@@ -143,7 +147,7 @@ hide_toc: true
 	
 	It was quite the scandal at the time, and a tragedy, so many people are happy to talk about this. 
 	
-	The story you gather is that, for a long time, rule of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) had been passed down from parent to child among the Samraat's of the Nayan dynasty, breaking with tradition and the natural order of things, for who is to say that the current ruler's child is particularly god-chosen. During the succession crisis of DR 1736, the hereditary line was broken and after much controversy the rule of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) and the divine blessing passed not to a relative, but to Marathu, an elder of one of the clans with territory south of [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). He was a caretaker ruler, and yet did a lot almost at once to reconnect east and west and reestablish some of the traditional Dunmari ways, in particular, setting up a traveling court. 
+	The story you gather is that, for a long time, rule of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) had been passed down from parent to child among the Samraats of the Nayan dynasty, breaking with tradition and the natural order of things, for who is to say that the current ruler's child is particularly god-chosen. During the succession crisis of DR 1736, the hereditary line was broken and after much controversy the rule of [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) and the divine blessing passed not to a relative, but to Marathu, an elder of one of the clans with territory south of [Tokra](<../../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). He was a caretaker ruler, and yet did a lot almost at once to reconnect east and west and reestablish some of the traditional Dunmari ways, in particular, setting up a traveling court. 
 	
 	[Sura](<../../dunmari/sura.md>), from a prominent family from around [Darba](<../../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>), raised in a traditional lifestyle but with cultural and familial ties to the west, was widely seen as being presented and prepared to take over as Samraat on Nayan Marathu's passing. 
 	
@@ -191,7 +195,7 @@ hide_toc: true
 	
 	You find yourself looking down on a swiftly running stream through the forest, filling a natural pool of deep water in the center of a clearing before cascading over rocks. On the edge of the pool, a cairn has been constructed, almost resembling an altar. While it rises to a conical point perhaps 8-10' off the ground, on the side facing away from the pool a flat stone platform forms a table at about waist height. This is the place that [Wellby](<wellby.md>) showed you, except the cairn was not there in [Wellby](<wellby.md>)'s vision. 
 	
-	In front of the cairn, two people are kneeling, perhaps in prayer. Their features keep shifting, one moment young, the next old, changing gender and hairstyle and clothing. But they are clearly human. Beside them, a dead deer lays on the ground, its heart cut out. Another human is standing, holding the freshly butchered heart of the deer, placing it in a fire burning on the stone table. His features seem fixed, and he is praying in a language that you cannot place, but you can understand clearly.
+	In front of the cairn, two people are kneeling, perhaps in prayer. Their features keep shifting, one moment young, the next old, changing gender and hairstyle and clothing. But they are clearly human. Beside them, a dead deer lies on the ground, its heart cut out. Another human is standing, holding the freshly butchered heart of the deer, placing it in a fire burning on the stone table. His features seem fixed, and he is praying in a language that you cannot place, but you can understand clearly.
 	
 	"[Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>), hear my prayer.
 	The fresh blood of the swift, I give to you. Hear my prayer.
@@ -202,7 +206,7 @@ hide_toc: true
 	
 	[Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>), these two souls go north, to find who has hunted us this past season, who is behind the raids of hobgoblins and worse on our northern borders. They must travel unseen for as long as possible. Please help them."
 	
-	As he speaks, he looks directly at you. You can feel the question in his eyes, the desperation, and you can see echoes of his life. Years of peace, living quietly in the forest. A few years ago, the first attacks, hobgoblins from the north. Rarely killing, but taking captives, never to be seen again. Raids getting worse; villages destroyed, whole families gone missing. Food getting scare as people are afraid to hunt. Many turning south, to flee, perhaps try to hide among the elves. The desperation to know, what is it that is beyond the forests, in the inhospitable northern lands of fire and ice? 
+	As he speaks, he looks directly at you. You can feel the question in his eyes, the desperation, and you can see echoes of his life. Years of peace, living quietly in the forest. A few years ago, the first attacks, hobgoblins from the north. Rarely killing, but taking captives, never to be seen again. Raids getting worse; villages destroyed, whole families gone missing. Food getting scarce as people are afraid to hunt. Many turning south, to flee, perhaps try to hide among the elves. The desperation to know, what is it that is beyond the forests, in the inhospitable northern lands of fire and ice? 
 	
 	He waits, eyes turning hopeful as he sees you in the sky, looking at you expectantly, clearly thinking you are [Yezali](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>). You are no longer sure, yourself, who you really are. You can feel the power swelling in you, somehow tinged with the familiar strength you-as-Delwath draw from the shadow realm, but drawn from elsewhere, from some deep, infinite well of mind-boggling everythingness. 
 	
@@ -246,7 +250,7 @@ hide_toc: true
 	
 	Delwath spends the day constructing a rough stone altar, as close to what he saw in the [Dreamworld](<../../../cosmology/dreamworld.md>) as he can, with the available materials and time. He will build this near the arch, such that at sunset the shadow of the arch will fall on the altar. In the mid afternoon, he will summon his shadowspirit, and send it out to hunt. Hawks are in short supply, but your shadow herds an antelope to you, wounded but alive, one you recognize as a swift runner on the open plains to the north, somewhat out of its element in the hot desert.
 	
-	As dusk fails, Delwath will summon a dagger from the shadow realm, and ask the shadows fall onto the altar, he will slay his sacrifice, and cut out the heart, and place it, along with an offering of water, on the altar, and speak:
+	As dusk falls, Delwath will summon a dagger from the shadow realm, and as the shadows fall onto the altar, he will slay his sacrifice, and cut out the heart, and place it, along with an offering of water, on the altar, and speak:
 	
 	Avaiskar, receive my gratitude for your deeds
 	For saving me from an endless prison
@@ -282,7 +286,7 @@ hide_toc: true
 	
 	Stepping out of the flames, a devil, a massive creature, large wings fanning the flames as its wicked spiked tail strikes the running people. Slowly, you become aware of hobgoblins behind you, waiting for your fleeing people. There is no escape. The devil is laughing as it raises its mace, looking directly at you though you should not be visible to the eyes of others, swinging the mace at you. Rather than passing through you harmlessly, it cracks your ribs and you cry out in pain and anger.
 	
-	You shift form again, to a fox, growing larger and larger, matching the devil with the cool silver of moonlight on water, lunging at it even as you feel more and more pieces of you burn away to the fire and the hobgoblins. You leap at the devil's throat, and it is its turn to be surprised as its flesh cracks as you grasp it in your jaws, and hot fire spurts from its neck. You fight in the burning forest, ripping this creature's wings, tearing its flesh, until you stand triumphant on its steaming corpse, exhausting and limping.
+	You shift form again, to a fox, growing larger and larger, matching the devil with the cool silver of moonlight on water, lunging at it even as you feel more and more pieces of you burn away to the fire and the hobgoblins. You leap at the devil's throat, and it is its turn to be surprised as its flesh cracks as you grasp it in your jaws, and hot fire spurts from its neck. You fight in the burning forest, ripping this creature's wings, tearing its flesh, until you stand triumphant on its steaming corpse, exhausted and limping.
 	
 	And yet, the fires still burn, and the sounds of slaughter and crack of dark lightning echo in the distance as the hobgoblin armies massacre your people. You turn, desperate, your form shaky now, flickering from deer to hawk to wolf, outside your control, as you leap at the hobgoblin general. As her vicious blade cuts your skin, you dive at her again and again, ripping her armor to pieces, and then her flesh, and yet still you feel weak, and dizzy, and the song of the world that has accompanied your every thought for time immemorial grows quiet, and slows, and stops. Panting, a wolf now, barely conscious of anything but the flesh of this form, you lunge once more at the general, ripping a dark circlet from its arms as arteries open and blood sprays everywhere. 
 	
@@ -308,3 +312,9 @@ hide_toc: true
 	
 	As the flood of memories ends, you open your eyes. The desert night is clear, the stars are bright. It takes you a moment to come back to yourself, to realize you are not the entity that has called itself [Aaviskar](<../../../gods-and-religions/gods/tanshi/meswati/yezali.md>), that you are Delwath.
 	
+
+
+
+
+
+

@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl]
-name: Yeshara
-pronunciation: yeh-SHAH-rah
-gender: female
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/gl, status/check/lint]
 species: human
 ancestry: Deno'qai
+gender: female
+campaignInfo:
+- {campaign: grli, type: defeated, date: 1748-10-14}
+name: Yeshara
+pronunciation: yeh-SHAH-rah
 affiliations:
 - {type: primary, org: Yo'nari}
 whereabouts:
 - {type: home, location: Cairn Dor}
-campaignInfo:
-- {campaign: GL, type: defeated, date: 1748-10-14}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Yeshara
 hide_toc: true
 ---
@@ -45,5 +49,11 @@ Now, Yeshara rules over the domain of Cairn Dor, where she enforces her vigil ag
 Her subjects, the remnants of the [Yo'nari](<../../groups/cultures/yo-nari.md>), now called the Nurim-Dor, live in fear of sleep. 
 
 Yeshara cannot be killed while Cairn Dor exists, but she can be subdued. If her magic fails, she falls into a slumber that lasts for tens or hundreds of years and puts her domain into stasis while it lasts. 
+
+
+
+
+
+
 
 

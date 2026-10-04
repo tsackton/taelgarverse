@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/stub]
 species: talking fruit bat
 gender: female
 whereabouts: Awakened Jungle

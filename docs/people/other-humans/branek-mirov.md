@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
-affiliations: [Rodnya Voknaz]
-ancestry: Urskan
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
+ancestry: Urskan
 gender: male
 born: 1697
+name: Branek Mirov
+affiliations: [Rodnya Voknaz]
 whereabouts: Voknaz Manor
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1749
 title: Branek Mirov
 hide_toc: true
 ---
@@ -28,4 +33,11 @@ hide_toc: true
 ![Branek Mirov Portrait V2](/taelgarverse/assets/branek-mirov-portrait-v2.webp){align="right"; width="400"}Branek is a powerful wizard and high-ranking member of the [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>), based at the Voknaz Manor, the headquarters of the rodnya. 
 
 He is devoted to the [Rodnya Voknaz](<../../groups/urskan-magical-organizations/rodnya-voknaz.md>), and has dedicated his life to the organization. 
+
+
+
+
+
+
+
 

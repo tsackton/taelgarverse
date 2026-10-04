@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-30, type: met}
-name: Cecilia Lister
-born: 1694
 species: human
 ancestry: Tollender
+campaignInfo:
+- {campaign: dufr, date: 1748-12-30, type: met}
+born: 1694
 gender: female
+name: Cecilia Lister
 affiliations: [Dyer's Guild]
 whereabouts:
 - {type: home, location: Tollen}
-dm_notes: color
+knownTo: [dufr]
 dm_owner: none
+dm_notes: color
+POV: 1748
 title: Cecilia Lister
 hide_toc: true
 ---
@@ -40,3 +44,7 @@ An elegant older woman, very precise, who runs an unmarked but well-known tattoo
 
 
 ![Cecilia Lister Portrait](/taelgarverse/assets/cecilia-lister-portrait.png)
+
+
+
+

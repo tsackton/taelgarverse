@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
 tags: [person, status/gameupdate/gl]
-name: Friend
 species: beast
 subspecies: miniature black bear
+name: Friend
 whereabouts:
 - {type: home, location: Tempest Towers, start: 1747, end: 1751}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Friend
 hide_toc: true
 ---
@@ -24,3 +28,7 @@ hide_toc: true
 
 
 Friend is a magically shrunken black bear companion of [Samso](<samso.md>). Samso found and adopted Friend in the [Crystal Cavern](<../../../gazetteer/northwest-coast/erbalta-plains/crystal-cavern.md>) during the recovery of the [Stonemaster Scroll](<../../../things/magic-items/stonemaster-scroll.md>) in DR 1747.
+
+
+
+

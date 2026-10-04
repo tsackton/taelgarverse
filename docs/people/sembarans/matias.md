@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-born: 1664
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1664
 gender: male
-whereabouts: Asineau
+name: Matias
 affiliations:
 - {org: Asineau Manor Guard, title: Guardsman}
+whereabouts: Asineau
+knownTo: [clee]
 dm_owner: none
 dm_notes: none
+POV: 1719
 title: Matias
 hide_toc: true
 ---
@@ -26,4 +31,10 @@ hide_toc: true
 </div>
 
 
-Matias, an older man, about 55, looking to retire.  He was Lucas Asa's bodyman and valet, as well as a guard, and stayed on by default when Lord Valbert came to the village. He is clearly sick of Lord Valbert, but has nowhere to live other than the manor. He has two grown kids in the village, but you get the sense he is somewhat estranged from them, since his wife died a few years ago.  
+Matias, an older man, about 55, looking to retire.  He was Lucas Asa's bodyman and valet, as well as a guard, and stayed on by default when Lord Valbert came to the village. He is clearly sick of Lord Valbert, but has nowhere to live other than the manor. He has two grown kids in the village, but you get the sense he is somewhat estranged from them, since his wife died a few years ago.
+
+
+
+
+
+

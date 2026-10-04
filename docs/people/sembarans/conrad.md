@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: clee, type: met, person: Viepuck, date: 1719-10-23}
-name: Conrad
-born: 1699
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, type: met, person: Viepuck, date: 1719-10-23}
+born: 1699
 gender: male
+name: Conrad
 whereabouts: Cleenseau
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: 1720
 title: Conrad
 hide_toc: true
 ---
@@ -28,6 +32,11 @@ hide_toc: true
 
 
 ![Conrard Cleenseau](/taelgarverse/assets/conrard-cleenseau.webp){align="right"; width="320"}[Anselm's](<anselm.md>) assistant at the Temple of the Warlord. A young, rather shy man, who looks up to Anselm but has become fascinated by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>). He is the main organizer of the temple's charity, and knows the people of Beggar's Way relatively well. 
+
+
+
+
+
 
 
 

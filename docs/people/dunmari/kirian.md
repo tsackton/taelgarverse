@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo:
-- {campaign: DuFr}
-name: Kirian
-born: 1702
-activeYear: 1722
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr}
+born: 1702
+activeYear: 1722
 gender: male
-whereabouts: Tokra
+name: Kirian
 affiliations:
 - {place: Kirian's, title: Proprietor, start: 1}
-dm_notes: color
+whereabouts: Tokra
+knownTo: [dufr]
 dm_owner: none
+dm_notes: color
+POV: 1740s
 title: Kirian
 hide_toc: true
 ---
@@ -30,12 +34,19 @@ hide_toc: true
 </div>
 
 
-A retired Dunmari solider who spent his early twenties riding in the warband of [Shandan](<shandan.md>), a charismatic soldier, traveling in the [Myraeni Gap](<../../gazetteer/greater-dunmar/myraeni-gap.md>) and elsewhere. Wounded in a skirmish with [Kobolds](<../../creatures/species/kobolds.md>) in DR 1728, and returned to [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
+A retired Dunmari soldier who spent his early twenties riding in the warband of [Shandan](<shandan.md>), a charismatic soldier, traveling in the [Myraeni Gap](<../../gazetteer/greater-dunmar/myraeni-gap.md>) and elsewhere. Wounded in a skirmish with [Kobolds](<../../creatures/species/kobolds.md>) in DR 1728, and returned to [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
 
 Now runs an inn, [Kirian's](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/kirian-s.md>), near the Trader's Market in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
 
 
 [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) listened to his story and collected it for the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>): [Kirian's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/kirian-s-story.md>)
+
+
+
+
+
+
+
 
 
 

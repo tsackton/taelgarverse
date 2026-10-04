@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-name: Kiran
-campaignInfo:
-- {campaign: DuFr}
-born:
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr}
+born:
 gender: male
+name: Kiran
 whereabouts:
 - {type: home, location: plains north of Tokra}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Kiran
 hide_toc: true
 ---
@@ -31,3 +35,10 @@ hide_toc: true
 A member of a family of goat herders that wander across the upper reaches of the [Hara](<../../gazetteer/greater-dunmar/rivers/hara-watershed/hara.md>) river, north of Tokra. 
 
 In 1748, met [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), and his family was gifted a mechanical goat of a strange clockwork design by the dwarf [Seeker](<../pcs/dunmar-fellowship/seeker.md>). 
+
+
+
+
+
+
+

@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-09-29T18:22:03-04:00'
+lintVersion: '3.5'
 tags: [place]
-name: Cleenseau
 typeOf: settlement
 typeOfAlias: town
-whereabouts: Manor of Cleenseau
-pronunciation: Klen-sew
 population: 1189
-dm_notes: color
+name: Cleenseau
+pronunciation: Klen-sew
+whereabouts: Manor of Cleenseau
 dm_owner: mike
+dm_notes: color
+POV: modern
 title: Cleenseau
 ---
 # Cleenseau
@@ -32,25 +35,24 @@ The city walls are shaped like a bean, running north, then curving east before t
 
 * The South Close (A, on the map), between the [River Gate](<river-gate-of-cleenseau.md>), the [Essford Manor](<essford-manor.md>) (B), and the [North Gate](<north-gate-of-cleenseau.md>) is drier during the spring and summer rains, being on slightly higher ground than the rest of the town, and is where the richer peasants and small artisans live. [The Crossroads Inn](<the-crossroads-inn.md>) (F), on the west side of the gate, is also here as is Smith's Way (G), where several smiths ply their trade.
 * The Garrison Quarter (C), in the east, is clustered around the [army garrison](<../../../../../../groups/sembaran-army/army-garrison-of-cleenseau.md>), and is where the wealthiest live
-* The North Close (D), in the north, stretches along the wall from the [North Gate](<north-gate-of-cleenseau.md>) to the [Garrison Gate](<garrison-gate-of-cleenseau.md>) and and is where many of the farmers live. 
+* The North Close (D), in the north, stretches along the wall from the [North Gate](<north-gate-of-cleenseau.md>) to the [Garrison Gate](<garrison-gate-of-cleenseau.md>) and is where many of the farmers live.
 * [Underhill](<underhill.md>) (E on the map), is the poorest neighborhood, and stretches along the base of the [Essford Manor](<essford-manor.md>) hill
 
 Three paths lead through the town:
 
-* A narrow dirt track (known as Char Street) runs along the interior of the southeast wall, lined with a number of small food stalls and shops (H). 
+* A narrow dirt track (known as [Char Street](<char-street.md>)) runs along the interior of the southeast wall, lined with a number of small food stalls and shops (H). 
 * A paved road (Market Road) leads from east to west, between the Market Gate (Cleenseau) and the [North Gate](<north-gate-of-cleenseau.md>), and divides the North Close from the Garrison Quarter and [Underhill](<underhill.md>)
 * A narrow track (Underhill Way) along the edge of the raised [Essford Manor](<essford-manor.md>) provides a shortcut from south to north
 
 In the center of the town, the [Essford Manor](<essford-manor.md>) stands on an acre of raised land surrounded by its own wooden palisade.
 
-Outside [Essford Manor](<essford-manor.md>) is a large plaza where the Temple of the Warlord stands. There are three other holy places in the town: a shrine to the Night Queen inside [Essford Manor](<essford-manor.md>), an unusual shrine to the Wanderer along the banks of the Enst, sponsored by [Selma Wisthelwind](<../../../../../../people/sembarans/selma-wisthelwind.md>) and with many characteristics of a [kestavan](<../../../../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) shrine, and a shrine to the Father inside the garrison. The plaza is also home to a large fountain and cistern, feed from the [Enst](<../../../../rivers/wistel-enst-watershed/enst.md>) by a series of pipes. A further pipe system brings running water to some of the richer houses in the South Close, including the [Essford Manor](<essford-manor.md>) and the [The Crossroads Inn](<the-crossroads-inn.md>). 
+Outside [Essford Manor](<essford-manor.md>) is a large plaza where the Temple of the Warlord stands. There are three other holy places in the town: a shrine to the Night Queen inside [Essford Manor](<essford-manor.md>), an unusual shrine to the Wanderer along the banks of the Enst, sponsored by [Selma Wisthelwind](<../../../../../../people/sembarans/selma-wisthelwind.md>) and with many characteristics of a [kestavan](<../../../../../../gods-and-religions/religions/northern-folk-religions/kestavo.md>) shrine, and a shrine to the Father inside the garrison. The plaza is also home to a large fountain and cistern, fed from the [Enst](<../../../../rivers/wistel-enst-watershed/enst.md>) by a series of pipes. A further pipe system brings running water to some of the richer houses in the South Close, including the [Essford Manor](<essford-manor.md>) and the [The Crossroads Inn](<the-crossroads-inn.md>).
 
-There are four gates into the walled city: the [North Gate](<north-gate-of-cleenseau.md>), the Market Gate (Cleenseau) (in the east), the [Garrison Gate](<garrison-gate-of-cleenseau.md>) (in the east, opening to the garrison  itself), and the [River Gate](<river-gate-of-cleenseau.md>) (in the south, the main gate). All the gates are barred at night and staffed during the day by the lord’s household guard. Passage in and out of the city is unrestricted, but carrying weapons or wearing masks is not allowed save for members of the lord’s household or the [Army of the West](<../../../../../../groups/sembaran-army/army-of-the-west.md>), per the order of the [Essfords](<../../../../../../groups/sembaran-noble-houses/essfords.md>). (There is no standing law in [Sembara](<../../../sembara.md>) preventing commoners from carrying weapons).
+There are four gates into the walled city: the [North Gate](<north-gate-of-cleenseau.md>), the Market Gate (Cleenseau) (in the east), the [Garrison Gate](<garrison-gate-of-cleenseau.md>) (in the east, opening to the garrison  itself), and the [River Gate](<river-gate-of-cleenseau.md>) (in the south, the main gate). ll the gates are barred at night. The [town watch](<lord-s-guard-of-cleenseau.md>) guards the [North Gate](<north-gate-of-cleenseau.md>), Market Gate (Cleenseau), and [River Gate](<river-gate-of-cleenseau.md>), while the [Garrison Gate](<garrison-gate-of-cleenseau.md>) is under military jurisdiction. Passage in and out of the city is unrestricted, but carrying weapons or wearing masks is not allowed save for members of the lord’s household or the [Army of the West](<../../../../../../groups/sembaran-army/army-of-the-west.md>), per the order of the [Essfords](<../../../../../../groups/sembaran-noble-houses/essfords.md>). (There is no standing law in [Sembara](<../../../sembara.md>) preventing commoners from carrying weapons).
 
 On the south bank of the Enst, across the bridge, stands a large ruined garrison, the walls still standing but the roof collapsed, a reminder of a by-gone age when this was a major highway between the [Istabor Alliance](<../../../../../../history/historical-realms/istabor-alliance.md>) and [Sembara](<../../../sembara.md>). 
 
-On the north bank, outside of the walls and west of the town, is a small cluster of single-room huts, often called Beggar's Way (N). It is where the very poorest in the town eek out a living as day laborers.
-`
+On the north bank, outside of the walls and west of the town, is a small cluster of single-room huts, often called Beggar's Way (N). It is where the very poorest in the town eke out a living as day laborers.
 ![Cleenseau Town Map](/taelgarverse/assets/cleenseau-town-map.jpg)
 
 
@@ -62,3 +64,9 @@ On the north bank, outside of the walls and west of the town, is a small cluster
 * to [Fellburn](<../../../heartlands/fellburn.md>), 160 miles along the Great South Road (two weeks on foot, or five days on a good horse)
 * to [Ainwick](<../../../barony-of-ainwick/ainwick.md>), 190 miles through the untracked [Cleenseau Wood](<../cleenseau-wood.md>)
 * to [Valarin](<../../../../duchy-of-maseau/valarin.md>), 130 miles along the Great South Road (two weeks on foot, or four days on a good horse, or about 10 days for the merchant caravans)
+
+
+
+
+
+

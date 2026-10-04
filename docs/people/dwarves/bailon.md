@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Bailon
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: dwarf
 gender: female
-whereabouts: Tharn Todor
 campaignInfo:
-- {campaign: DuFr, person: Riswynn, type: met, date: 1748-05-09}
+- {campaign: dufr, person: Riswynn, type: met, date: 1748-05-09}
+name: Bailon
+whereabouts: Tharn Todor
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Bailon
 hide_toc: true
 ---
@@ -28,3 +32,9 @@ hide_toc: true
 
 
 Bailon is a mine forewoman, working in the deep mines beneath [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). 
+
+
+
+
+
+

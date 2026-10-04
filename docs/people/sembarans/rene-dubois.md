@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-28T16:53:46-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
 name: Rene Dubois
+pronunciation: ruh-NAY dew-BWAH
 whereabouts:
 - {type: home, location: Barony of Brumecliff, end: 1}
 - {type: home, location: Army of the South}
@@ -19,6 +20,7 @@ title: Rene Dubois
 hide_toc: true
 ---
 # Rene Dubois
+:speaker:{ .middle } *(ruh-NAY dew-BWAH)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -31,8 +33,6 @@ hide_toc: true
 
 
 ![Rene the Scout](/taelgarverse/assets/rene-the-scout.webp){align="right"; width="320"}A scout and skirmisher with the Eagle Patrol of the Ninth Company of the [Army of the South](<../../groups/sembaran-army/army-of-the-south.md>), skilled at spotting unusual events.
-
-
 
 
 

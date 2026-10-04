@@ -97,7 +97,7 @@ title: Party Treasure Former
 
 ### Given to Milo and Tilly
 
-The following was given to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart when they departed from [Vindristjarna](<../../things/ships/vindristjarna.md>) in the [Sea of Storms](<../../gazetteer/drankorian-hinterland/sea-of-storms.md>). 
+The following was given to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and [Tilly Brineheart](<../../people/halflings/tilly-brineheart.md>) when they departed from [Vindristjarna](<../../things/ships/vindristjarna.md>) in the [Sea of Storms](<../../gazetteer/drankorian-hinterland/sea-of-storms.md>). 
 
 - 100,000 silver coins and 2,500 gold coins from [Ra'ghemdros' Hoard](<hoards/ra-ghemdros-hoard.md>).
 - 700 silver torcs and bracelets, from [Ra'ghemdros' Hoard](<hoards/ra-ghemdros-hoard.md>)
@@ -116,10 +116,10 @@ The following was given to [Milo Thistlefoot](<../../people/halflings/milo-thist
 Other treasure returned to Milo and Tilly
 
 - An elegant wooden pipe, made of some strange dark wood you have not seen before, carved with the initials M. T., from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>).
-- A silver ring set with a small blue sapphire, engraved, "To my beloved Tilly" on the inside,  from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart.
-- A beautifully crafted brass compass, casing engraved with "Stormdancer". It does not work anymore, from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart.
-- A magic silver rapier, owned by Milo and returned to him, from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart.
-- A strange swirling silvery crystal on a necklace, returned to Tilly, from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and Tilly Brineheart.
+- A silver ring set with a small blue sapphire, engraved, "To my beloved Tilly" on the inside,  from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and [Tilly Brineheart](<../../people/halflings/tilly-brineheart.md>).
+- A beautifully crafted brass compass, casing engraved with "Stormdancer". It does not work anymore, from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and [Tilly Brineheart](<../../people/halflings/tilly-brineheart.md>).
+- A magic silver rapier, owned by Milo and returned to him, from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and [Tilly Brineheart](<../../people/halflings/tilly-brineheart.md>).
+- A strange swirling silvery crystal on a necklace, returned to Tilly, from [Buruli's kingdom](<hoards/merfolk-quest-treasure.md>), returned to [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>) and [Tilly Brineheart](<../../people/halflings/tilly-brineheart.md>).
 ### Given to Followers and Allies
 - Celestial Gem of Protection, originally a [gift](<hoards/gifts-and-purchases.md#gifts>) to [Riswynn](<../../people/pcs/dunmar-fellowship/riswynn.md>), given to [Kethra](<../../people/dwarves/kethra.md>)
 - Ring of Displacement, originally part of [Agata's Treasure](<hoards/agata-s-treasure.md>), given to [Jotha](<../../people/deno-qai/jotha.md>)

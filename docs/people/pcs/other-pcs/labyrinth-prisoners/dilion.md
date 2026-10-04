@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Dilon
-aliases: [Dilion]
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 gender: male
 player: Dylan
 ddbLink: https://www.dndbeyond.com/characters/112552742
+name: Dilon
+aliases: [Dilion]
 affiliations:
 - {org: Labyrinth Prisoners, type: primary}
 whereabouts:
 - {type: away, end: 1748-10-17, location: Lunacosta}
 - {type: away, start: 1748-10-17, end: 1748-10-19, location: Perdoli Manor}
 - {type: away, start: 1748-10-19, end: 9999, location: wandering the roads of the Western Green Sea}
-dm_notes: none
+knownTo: [lablost]
 dm_owner: player
+dm_notes: none
+POV: 1748
 title: Dilon
 hide_toc: true
 ---
@@ -37,3 +41,9 @@ Dilon is a [human](<../../../../creatures/species/humans.md>) artificer and batt
 Dilon was captured while spending a few days in [Lunacosta](<../../../../gazetteer/western-green-sea/cymea/lunacosta.md>), a coastal market town with a river harbor. After dinner at an inn, Kaiko bolted up the upriver road barking; while Dilon chased the dog, goblins shot him, bound him, threw him into a cart, and clubbed him unconscious. He woke in [Perdoli Manor](<../../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>) as one of the [Labyrinth Prisoners](<labyrinth-prisoners.md>).
 
 After escaping the manor, Dilon left with both Kaiko and the steampup, returning to the wilderness with no settled destination.
+
+
+
+
+
+

@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, type: met, date: 1748-11-15}
-name: Melusine
-born:
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: fey
 subspecies: nymph
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-11-15}
+born:
 gender: female
+name: Melusine
 whereabouts: Amberglow
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Melusine
 hide_toc: true
 ---
@@ -30,4 +34,11 @@ hide_toc: true
 
 
 A water nymph in [Amberglow](<../../gazetteer/extraplanar/feywild/amberglow/amberglow.md>). She resides in a small, secluded grotto near a river, overgrown with vines and foliage. 
+
+
+
+
+
+
+
 

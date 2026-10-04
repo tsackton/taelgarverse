@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: clee, type: captured, date: 1719-11-03}
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: executed for his crimes}
-name: Jerome
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, type: captured, date: 1719-11-03}
 gender: male
 born: 1681
 died: 1719-11-09
+name: Jerome
 whereabouts:
 - {type: away, location: Cleenseau, linkText: at, alias: bandit lair upriver of Cleenseau, start: 1719-10-01, end: 1719-11-03}
 - {type: away, location: Cleenseau, start: 1719-11-04, end: 1719-11-09}
+knownTo: [clee]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Jerome
 hide_toc: true
 ---
@@ -33,4 +37,10 @@ hide_toc: true
 
 
 
-A professional outlaw and bandit involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). He was caught by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) and executed under sentence from [Nicholas Wysson](<nicholas-wysson.md>). 
+A professional outlaw and bandit involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). He was caught by the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) and executed under sentence from [Nicholas Wysson](<nicholas-wysson.md>).
+
+
+
+
+
+

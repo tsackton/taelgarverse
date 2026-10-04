@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-title: Lord Akanen
-name: Akanen
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
+title: Lord Akanen
 gender: male
+name: Akanen
+pronunciation: ak-AH-nen
+whereabouts: Medju
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: none
-whereabouts: Medju
-pronunciation: ak-AH-nen
+POV: 1740s
 hide_toc: true
 ---
 # Lord Akanen
@@ -24,6 +28,13 @@ hide_toc: true
 
 
 One of the Spice Lords of Medju, and a collector of rarities, especially the weird, wild, and wonderful. He is especially interested in collecting rare monster parts, and is reasonably well known for this across the [Eastern Green Sea](<../../gazetteer/eastern-green-sea/eastern-green-sea.md>).
+
+
+
+
+
+
+
 
 
 

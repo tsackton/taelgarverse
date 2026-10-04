@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, type: met, date: 1748-07-19}
-name: Amar
-born: 1710
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-07-19}
+born: 1710
 gender: male
+name: Amar
+affiliations:
+- {org: Akela Inn, title: Master, type: leader}
 whereabouts:
 - {type: home, location: Hara River Valley}
 - {type: home, location: Akela Inn}
-affiliations:
-- {org: Akela Inn, title: Master, type: leader}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Amar
 hide_toc: true
 ---
@@ -40,3 +44,10 @@ The innkeeper of the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/c
 
 
 His story was heard by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) on 19 July 1748, and recorded: [Amar's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/amar-s-story.md>).
+
+
+
+
+
+
+

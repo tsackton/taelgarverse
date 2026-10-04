@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-09-28T23:44:57-04:00'
+lintVersion: '3.5'
 tags: [place]
-name: Highmoor
 typeOf: grassland
+typeOfAlias: moor
+name: Highmoor
 whereabouts: Carlinshire
 dm_owner: none
 dm_notes: none
-typeOfAlias: moor
+POV: modern
 title: Highmoor
 ---
 # Highmoor
@@ -23,8 +26,12 @@ Rough cart tracks cross the moor between [Roscombe](<roscombe.md>), [Brantor](<b
 
 [Haldrenn](<haldrenn.md>) is a remote Highmoor village known for cattle, charcoal, and wooden ridge-wards tied to local fey traditions.
 
-[Nightsong Roots](<nightsong-roots.md>) is a fog-filled hollow east of [Haldrenn](<haldrenn.md>), where the roots of a fallen tree form a portal to the [Feywild](<../../../cosmology/feywild.md>).
+[Nightsong Roots](<nightsong-roots.md>) is a fog-filled hollow east of [Haldrenn](<haldrenn.md>), where the roots of a fallen tree form a portal to the [Thornweald](<../../extraplanar/feywild/thornweald.md>) in the [Feywild](<../../../cosmology/feywild.md>).
 
 A cave system in northern Highmoor was turned into a trap-filled lair by goblins in DR 1715, until the [lair was cleared](<../../../campaigns/addermarch-campaign/addermarch-session-05.md>) by the [Addermarch Mercenaries](<../../../people/pcs/addermarch/addermarch-mercenaries.md>) after the goblins captured [Colette du Bois](<../../../people/addermarians/colette-du-bois.md>) and stole an alchemical recipe sought by [Caradoc](<../../../people/addermarians/caradoc.md>).
+
+
+
+
 
 

@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: killed by an ankheg}
-name: Robert
-born: 1685
+tags: [person]
 species: human
 ancestry: Sembaran
+born: 1685
 gender: male
 died: 1719-11-03
+name: Robert
 whereabouts:
 - {type: home}
 - {location: Cleenseau Region, type: home}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Robert
 hide_toc: true
 ---
@@ -30,3 +34,7 @@ hide_toc: true
 
 
 One of the bandits involved in the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>). He died of wounds inflicted by the enraged ankheg outside his hideout.
+
+
+
+

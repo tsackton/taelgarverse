@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, person: Wellby, date: 1748-10-14, type: rescued, format: '<met:u> <person:q> on <target> from <current:3Frq>'}
-name: Nahto
-born: 1700
-activeYear: 1745
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: kenku
 ancestry: Islander
+campaignInfo:
+- {campaign: dufr, person: Wellby, date: 1748-10-14, type: rescued, format: '<met:u> <person:q> on <target> from <current:3Frq>'}
+born: 1700
+activeYear: 1745
 gender: male
+name: Nahto
 whereabouts:
 - {type: home, location: Wahacha}
 - {type: away, start: 1748-10-08, end: 1748-10-14, location: the aboleth lair east of Vermillion Isles}
 - {type: away, start: 1748-10-16, alias: sea elf village in Quanyi, location: Quanyi}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Nahto
 hide_toc: true
 ---
@@ -40,4 +44,10 @@ hide_toc: true
 
 
 In early October 1748, he was captured by a recently awakened aboleth and dragged to its undersea lair with Skoda. He was rescued, along with other captives, by Wellby and his companions on October 14, 1748. However, he suffered from the aboleth's curse, and could no longer survive without frequently being immersed in water. After repairing [Wellby](<../pcs/dunmar-fellowship/wellby.md>)’s [Kenku Glamoured Armor](<../../campaigns/dunmari-frontier-campaign/treasure/kenku-glamoured-armor.md>) to restore its flight function, in gratitude for his rescue, he traveled with other victims of the aboleth to the sea elf village off the coast of Quanyi, where he remains a guest until a cure for the aboleth's curse can be found. 
+
+
+
+
+
+
 

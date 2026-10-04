@@ -26,6 +26,6 @@ title: Stormdancer
 A fast, sleek ship, crewed and equipped for long voyages into the unknown, and captained by a daring adventurer, [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>). 
 
 
-Has not been seen in over a year. Presumed shipwrecked in DR 1749, after [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>), Tilly Brineheart, and half the crew left to investigate the merfolk city of [Omi](<../../gazetteer/faraway-places/omi.md>) and were captured by Buruli, but its exact fate is unknown.
+Has not been seen in over a year. Presumed shipwrecked in DR 1749, after [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>), [Tilly Brineheart](<../../people/halflings/tilly-brineheart.md>), and half the crew left to investigate the merfolk city of [Omi](<../../gazetteer/faraway-places/omi.md>) and were captured by Buruli, but its exact fate is unknown.
 
 

@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl]
-name: Iara
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/gl, status/check/lint]
 species: lizardfolk
 gender: female
+campaignInfo:
+- {campaign: grli, type: met, date: 1747-06-22}
+name: Iara
 whereabouts:
 - {type: home, location: Northwest Coast, end: 1747-06-01}
 - {type: away, start: 1747-06-01, end: 1747-10, location: Voltara}
 - {type: home, start: 1748-03, location: Lake Valandros, alias: a lizardfolk community near Lake Valandros}
-campaignInfo:
-- {campaign: GL, type: met, date: 1747-06-22}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Iara
 hide_toc: true
 ---
@@ -28,9 +32,15 @@ hide_toc: true
 
 
 
-Iara is a lizardfolk woman from an unnamed village west of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). Her village vanished under [mysterious circumstances](<../../events/1700s/lizardfolk-village-disappearances.md>), though she survived and ask for help from [Samso](<../pcs/silver-tempests/samso.md>) and the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>). 
+Iara is a lizardfolk woman from an unnamed village west of [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). Her village vanished under [mysterious circumstances](<../../events/1700s/lizardfolk-village-disappearances.md>), though she survived and asked for help from [Samso](<../pcs/silver-tempests/samso.md>) and the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>).
 
 Later, she moved to the area around [Lake Valandros](<../../gazetteer/greater-chardon/lake-valandros.md>). 
+
+
+
+
+
+
 
 
 

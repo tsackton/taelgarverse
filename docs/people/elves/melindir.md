@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 tags: [person]
+species: elf
 campaignInfo:
 - {campaign: dufr, date: 1748-12-17, type: first met}
-name: Melindir
 ka: 35
-species: elf
 gender: male
+name: Melindir
+pronunciation: meh-LIN-deer
 whereabouts:
 - {type: home, start: '', end: '', location: Orenlas}
 - {type: home, start: '', end: '', location: Tollen}
-pronunciation: meh-LIN-deer
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Melindir
 hide_toc: true
 ---
@@ -36,3 +40,7 @@ hide_toc: true
 Melindir is the Ambassador to [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) for the elven lands of [Orenlas](<../../gazetteer/upper-istaros/orenlas/orenlas.md>).
 
 ![Melindir](/taelgarverse/assets/melindir.webp)
+
+
+
+

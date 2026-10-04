@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: dwarf
 campaignInfo:
 - {campaign: dufr, person: Riswynn, date: 1748-08-09, type: met}
-name: Finellen Silverstone
-species: dwarf
 gender: female
-whereabouts: Darba
+name: Finellen Silverstone
 affiliations:
 - {type: primary, org: Silverstones}
+whereabouts: Darba
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Finellen Silverstone
 hide_toc: true
 ---
@@ -30,3 +34,9 @@ hide_toc: true
 
 
 A dwarven antiquities dealer in [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).
+
+
+
+
+
+

@@ -24,8 +24,8 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [kenku](<../../creatures/species/kenku.md>)  
-    Died January 23th, 1730  
-    [Warrior](<../../gods-and-religions/gods/embodied-gods/bahrazel/azar.md>) of the [Kemeko Monastery](<../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>) (until January 23th, 1730)  
+    Died January 23rd, 1730  
+    [Warrior](<../../gods-and-religions/gods/embodied-gods/bahrazel/azar.md>) of the [Kemeko Monastery](<../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>) (until January 23rd, 1730)  
     { .bio }
 
     Originally from: Unknown

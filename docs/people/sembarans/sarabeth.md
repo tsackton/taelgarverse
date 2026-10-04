@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: clee}
-name: Sarabeth
-born: 1686
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee}
+born: 1686
 gender: female
+name: Sarabeth
 affiliations:
 - {org: Lord's Guard of Cleenseau, title: Guardswoman, start: 1717}
 - {org: Dunfry Regiment, title: Soldier, end: 1716}
 whereabouts:
 - {type: home, location: Dunfry}
 - {type: home, location: Cleenseau}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Sarabeth
 hide_toc: true
 ---
@@ -35,3 +39,7 @@ hide_toc: true
 
 
 A senior guardswoman under [Ysabel](<ysabel.md>) and veteran of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>). She was wounded twice during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).
+
+
+
+

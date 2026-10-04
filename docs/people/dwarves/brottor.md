@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Brottor
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: dwarf
 gender: male
 died: 1748-03-14
+name: Brottor
 whereabouts:
 - {type: home, location: Chardon}
 - {type: away, end: 1748-03-14, location: Goldpeak Mines}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Brottor
 hide_toc: true
 ---
@@ -28,5 +32,11 @@ hide_toc: true
 
 
 Brottor was a dwarven adventurer based in Chardon, and companion of [Alton](<../pcs/silver-tempests/alton.md>) and [Cassia](<../chardonians/cassia.md>). He died in the  [Goldpeak Mines](<../../gazetteer/northwest-coast/fiamatara-mountains/goldpeak-mines.md>) after falling under the aberrant influence of the beholder [Vilaxes](<../other-nonhumans/vilaxes.md>). 
+
+
+
+
+
+
 
 

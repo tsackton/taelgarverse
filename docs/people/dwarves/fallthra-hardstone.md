@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: dwarf
+ancestry:
 campaignInfo:
 - {campaign: dufr, date: 1748-07-01, type: met}
 - {campaign: dufr, date: 1748-07-09, type: last seen}
-name: Fallthra Hardstone
 born:
-species: dwarf
-ancestry:
 gender: female
+name: Fallthra Hardstone
+pronunciation: FAHL-thrah
 affiliations:
 - {org: Hardstones, type: primary}
 whereabouts:
 - {type: home, location: Tokra}
-pronunciation: FAHL-thrah
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Fallthra Hardstone
 hide_toc: true
 ---
@@ -45,4 +49,11 @@ Matriarch of the Hardstone clan; associated with the [Tokra Archives](<../../gaz
 - Sister of [Morkral Hardstone](<morkral-hardstone.md>)
 - Wife of [Delig Hardstone](<delig-hardstone.md>)
 - Colleague of archivists at the Tokra Archives, including [Govir](<../dunmari/govir.md>) and [Ardan](<../dunmari/ardan.md>)
+
+
+
+
+
+
+
 

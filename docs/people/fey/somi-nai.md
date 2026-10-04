@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/metadata, person]
-campaignInfo: []
-name: Somi-nai
-born:
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [status/cleanup/metadata, person, status/check/lint]
 species: elemental
 subspecies: fire elemental
+campaignInfo: []
+born:
 gender: male
+name: Somi-nai
 aliases: [Ember, Sugarra]
 whereabouts:
 - {type: home, location: Azta Lekua}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: modern
 title: Somi-nai
 hide_toc: true
 ---
@@ -35,6 +39,11 @@ Somi-nai manifests as a fiery spirit, pulsating with intense heat and radiating 
 A fire spirit, the essence of the volcano, also called Ember, or Sugarra in the [Lizardfolk](<../../creatures/species/lizardfolk.md>) tongue. A spirit of the jungle itself and of the destructive power and renewing energy of fire and lava and fertile volcanic ash. Powerful with Ohana ki. Fleeing an invasion of his home by the  [Elemental Plane of Fire](<../../cosmology/energy-realms/elemental-plane-of-fire.md>), which was eventually healed by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), [Enari](<../lizardfolk/enari.md>), and [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>).
 
 - In DR 1748, [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>) was thrown out of balance by the presence of [Motua](<../other-nonhumans/motua.md>), a wounded [Gidari](<../../creatures/extraplanar/gidari.md>). Somi-nai fled his home as invaders from the [Elemental Plane of Fire](<../../cosmology/energy-realms/elemental-plane-of-fire.md>) threatened to overwhelm the volcano. The crisis was eventually averted thanks to the intervention of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>), [Enari](<../lizardfolk/enari.md>), and [Izzarak](<../pcs/dunmar-fellowship/guests/izzarak.md>).
+
+
+
+
+
 
 
 

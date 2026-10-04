@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: Clee, type: Fought alongside, date: 1719-10-21, format: '<met:x> <person> on <target> <current:3rq>'}
-name: Adam
-born: 1691
 species: human
+ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, type: Fought alongside, date: 1719-10-21, format: '<met:x> <person> on <target> <current:3rq>'}
+born: 1691
+gender: male
+name: Adam
 affiliations:
 - {org: Army Garrison of Cleenseau, title: Soldier}
-ancestry: Sembaran
-gender: male
 whereabouts:
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-10-21, end: 1719-10-21, location: Cleenseau Wood}
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: Dunfry}
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Adam
 hide_toc: true
 ---
@@ -33,4 +37,8 @@ hide_toc: true
 
 
 
-A solider in the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), who went into the forest with the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) after the spider attacks on [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). He greatly admires [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>).
+A soldier in the [Bridge Patrol](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>), who went into the forest with the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) after the spider attacks on [Taviose](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/taviose.md>). He greatly admires [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>).
+
+
+
+

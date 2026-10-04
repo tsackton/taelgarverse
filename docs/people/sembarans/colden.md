@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: alien fungal entity
 died: 1740-10-07
 gender: male
+name: Colden
 whereabouts: Dandelion House
+knownTo: [feywild]
 dm_owner: none
 dm_notes: none
+POV: 1740
 title: Colden
 hide_toc: true
 ---
@@ -22,4 +27,10 @@ hide_toc: true
 </div>
 
 
-Colden an alien fungal entity posing as [Alden's](<alden.md>) cousin, and bears a resemblance: short and somewhat pudgy, dressed in rough homespun. He helps around [Dandelion House](<../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>), working for [Lord Hulda](<lord-hulda.md>). He was killed by [Lord Hulda](<lord-hulda.md>) when the [Prisoner in the 27th Room](<../other-nonhumans/prisoner-in-the-27th-room.md>) was set free and [disappeared to a strange alien realm](<../../campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-07.md>). 
+Colden is an alien fungal entity posing as [Alden's](<alden.md>) cousin, and bears a resemblance: short and somewhat pudgy, dressed in rough homespun. He helps around [Dandelion House](<../../gazetteer/greater-sembara/sembara/northlands/dandelion-house.md>), working for [Lord Hulda](<lord-hulda.md>). He was killed by [Lord Hulda](<lord-hulda.md>) when the [Prisoner in the 27th Room](<../other-nonhumans/prisoner-in-the-27th-room.md>) was set free and [disappeared to a strange alien realm](<../../campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild-episode-07.md>).
+
+
+
+
+
+

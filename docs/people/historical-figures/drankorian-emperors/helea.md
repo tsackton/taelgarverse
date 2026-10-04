@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Helea
-title: Emperor Helea
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry:
+title: Emperor Helea
 gender: female
-dm_notes: important
+name: Helea
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: modern
 hide_toc: true
 ---
 # Emperor Helea
@@ -21,4 +25,9 @@ hide_toc: true
 
 
 A Drankorian emperor, supposedly assassinated by the [Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>).
+
+
+
+
+
 

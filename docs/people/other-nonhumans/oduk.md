@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: demon
 campaignInfo:
 - {campaign: dufr, date: 1748-04-12, type: Banished back to the Abyss}
-species: demon
 gender: male
+name: Oduk
 whereabouts:
 - {type: home, location: Abyss}
 - {type: away, start: 1748-03-19, end: 1748-04-12, location: Raven's Hold}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: modern
 title: Oduk
 hide_toc: true
 ---
@@ -37,5 +42,11 @@ He was summoned into the material plane, in the abandoned Dunmari stronghold of 
 
 
 
-Later, the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) learned he had been summoned with the aid of the [demonic summoning scroll ](<../../campaigns/dunmari-frontier-campaign/mirror-visions/ivory-scroll-cap-vision.md>)provided by the hag [Agata Dustmother](<../fey/agata.md>) as payment in exchange for the [Scepter of Command](<../../things/artifacts-of-power/scepter-of-command.md>). This was part of a complicated plan by the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>) to sneak into [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) with a flood of refugees, and complete a ritual to summon the madness of [Jinnik](<../../gods-and-religions/gods/high-gods/jinnik.md>) into the material plane using the [Extraplanar Weak Point](<../../cosmology/planar-concepts/extraplanar-weak-point.md>) north of [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), connected to [Pandemonium](<../../cosmology/spiritual-realms/pandemonium.md>), as a focal point. 
+Later, the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) learned he had been summoned with the aid of the [demonic summoning scroll](<../../campaigns/dunmari-frontier-campaign/mirror-visions/ivory-scroll-cap-vision.md>) provided by the hag [Agata Dustmother](<../fey/agata.md>) as payment in exchange for the [Scepter of Command](<../../things/artifacts-of-power/scepter-of-command.md>). This was part of a complicated plan by the [Fraternity of the Empty Moon](<../../groups/fraternity-of-the-empty-moon.md>) to sneak into [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) with a flood of refugees, and complete a ritual to summon the madness of [Jinnik](<../../gods-and-religions/gods/high-gods/jinnik.md>) into the material plane using the [Extraplanar Weak Point](<../../cosmology/planar-concepts/extraplanar-weak-point.md>) north of [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), connected to [Pandemonium](<../../cosmology/spiritual-realms/pandemonium.md>), as a focal point.
+
+
+
+
+
+
 

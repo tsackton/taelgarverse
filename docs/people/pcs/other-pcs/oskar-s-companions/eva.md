@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Eva
 species: elf
 gender: female
 campaignInfo:
-- {campaign: DuFr, person: Riswynn, type: met, date: 1748-05-31}
-whereabouts:
-- {type: away, start: 1748-05-25, end: 1748-06-02, location: Yuvanti Mountains}
+- {campaign: dufr, person: Riswynn, type: met, date: 1748-05-31}
+player: Isaac Sackton
+name: Eva
 affiliations:
 - {org: Oskar's Companions, title: One}
-player: Isaac Sackton
+whereabouts:
+- {type: away, start: 1748-05-25, end: 1748-06-02, location: Yuvanti Mountains}
+knownTo: [dufr]
 dm_owner: player
 dm_notes: none
+POV: 1748
 title: Eva
 hide_toc: true
 ---
@@ -31,7 +35,11 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Met by [Riswynn](<../../dunmar-fellowship/riswynn.md>) on May 31th, 1748 in the [Yuvanti Mountains](<../../../../gazetteer/greater-dunmar/yuvanti-mountains.md>)  
+:octicons-location-24:{ .lg .middle } Met by [Riswynn](<../../dunmar-fellowship/riswynn.md>) on May 31st, 1748 in the [Yuvanti Mountains](<../../../../gazetteer/greater-dunmar/yuvanti-mountains.md>)  
 
 
 Eva is an elven druid, known to travel with [Ghemdorn](<ghemdorn.md>). 
+
+
+
+

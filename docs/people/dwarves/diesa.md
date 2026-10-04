@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Diesa Shockstone
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: dwarf
 gender: female
+campaignInfo:
+- {campaign: grli, type: met, date: 1747-12-05}
+name: Diesa Shockstone
 affiliations:
 - {org: Shockstones, type: primary}
 whereabouts:
 - {type: home, location: Zarkandur}
-campaignInfo:
-- {campaign: GL, type: met, date: 1747-12-05}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Diesa Shockstone
 hide_toc: true
 ---
@@ -28,3 +32,9 @@ hide_toc: true
 
 
 Diesa is a prominent and wealthy dwarf, one of the elite of [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>). She is also [Brelith](<../pcs/silver-tempests/brelith.md>)'s mother and [Osrik](<osrik.md>)'s wife. 
+
+
+
+
+
+

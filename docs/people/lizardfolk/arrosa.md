@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: lizardfolk
+ancestry:
 campaignInfo:
 - {campaign: dufr, person: Kenzo, date: 1748-09-30, type: met}
 - {campaign: dufr, person: Kenzo, date: 1748-11-04, type: last seen}
-name: Arrosa
 born:
 activeYear: 1745
-species: lizardfolk
-ancestry:
 gender: female
+name: Arrosa
 whereabouts: Bedez
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Arrosa
 hide_toc: true
 ---
@@ -36,3 +40,9 @@ hide_toc: true
 
 
 A lizardfolk elder, the matriarch of the village of [Bedez](<../../gazetteer/faraway-places/bedez.md>), in the Kingdom of [Orekatu](<../../gazetteer/faraway-places/orekatu.md>). 
+
+
+
+
+
+

@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1749-01-02, type: met}
-name: Elwis
-born: 1634
-ka: 37
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: elf
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1749-01-02, type: met}
+born: 1634
+ka: 37
 gender: female
+name: Elwis
+pronunciation: EL-wiss
 whereabouts:
 - {type: home, location: Orenlas}
 - {type: away, start: 1744-01-01, end: 1748-08-28, location: Green Sea}
 - {type: away, start: 1748-08-29, end: 9999, location: Tollen}
-pronunciation: EL-wiss
-dm_notes: color
+knownTo: [dufr]
 dm_owner: none
+dm_notes: color
+POV: modern
 title: Elwis
 hide_toc: true
 ---
@@ -42,5 +46,12 @@ Elwis is a female elf and painter from [Orenlas](<../../gazetteer/upper-istaros/
 
 
 She is spending her wandering years traveling around the [Green Sea](<../../gazetteer/green-sea.md>), trying to make new art that hasn't been dreamed before in the history of her people. She has recently come to [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), fascinated by the magical inks of the Dyer's Guild and seeking to use them in painting. 
+
+
+
+
+
+
+
 
 

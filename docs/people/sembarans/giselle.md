@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Sembaran
-whereabouts: Valit
 born: 1686
-dm_notes: color
+name: Giselle
+whereabouts: Valit
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720s
 title: Giselle
 hide_toc: true
 ---
@@ -23,3 +28,7 @@ hide_toc: true
 
 
 ![Giselle](/taelgarverse/assets/giselle.webp){align="right"; width="320"}The secretary and land clerk in [Valit](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/valit.md>).
+
+
+
+

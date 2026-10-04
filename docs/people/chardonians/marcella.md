@@ -33,7 +33,7 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 23th, 1748 in [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>), [Laicon](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/laicon.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 23rd, 1748 in [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>), [Laicon](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/laicon.md>), the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>)  
 
 
 

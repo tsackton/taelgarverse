@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Koldo
-born: 1512
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: lizardfolk
 ancestry:
+born: 1512
 gender: male
+name: Koldo
 whereabouts: Ganboa
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Koldo
 hide_toc: true
 ---
@@ -25,4 +29,11 @@ hide_toc: true
 
 
 ![Lizardfolk Koldo](/taelgarverse/assets/lizardfolk-koldo.webp){align="right"; width="320"}A reclusive druid, very rarely talks to outsiders.
+
+
+
+
+
+
+
 

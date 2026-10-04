@@ -1,17 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: human
 ancestry: Sembaran
-whereabouts: Cleenseau
 gender: male
 born: 1659
-dm_notes: none
+name: Alain LeBouillon
+pronunciation: ah-LAN luh-boo-YON
+whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Alain LeBouillon
 hide_toc: true
 ---
 # Alain LeBouillon
+:speaker:{ .middle } *(ah-LAN luh-boo-YON)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -24,3 +31,6 @@ hide_toc: true
 
 
 An apothecary with a shop in the South Close. He is well known for assisting [Margaret Ashford](<margaret-ashford.md>) in her midwifery by providing brews and remedies for morning sickness and other ailments of pregnancy.
+
+
+

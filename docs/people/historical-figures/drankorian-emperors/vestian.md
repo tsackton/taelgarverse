@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: []
-name: Vestian
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
+campaignInfo: []
 gender: male
 title: Emperor Vestian
-dm_notes: important
+name: Vestian
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: modern
 hide_toc: true
 ---
 # Emperor Vestian
@@ -23,4 +27,9 @@ hide_toc: true
 
 
 A Drankorian emperor, supposedly [Helea](<helea.md>)'s successor.
+
+
+
+
+
 

@@ -1,9 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: giant
-dm_notes: important
+name: Dhrukmir
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1749
 title: Dhrukmir
 hide_toc: true
 ---
@@ -17,4 +22,10 @@ hide_toc: true
 </div>
 
 
-The ruler of [Ulgrathar](<../../gazetteer/greater-chardon/chardonian-empire/alta-tonaro/ulgrathar.md>), obsessed with [chalyte](<../../things/materials/chalyte.md>). 
+The ruler of [Ulgrathar](<../../gazetteer/greater-chardon/chardonian-empire/alta-tonaro/ulgrathar.md>), obsessed with [chalyte](<../../things/materials/chalyte.md>).
+
+
+
+
+
+

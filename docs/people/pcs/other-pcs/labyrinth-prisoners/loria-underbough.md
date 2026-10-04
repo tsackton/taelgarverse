@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Loria Underbough
-aliases: [Loria]
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: halfling
 gender: female
 player: Sara Smith
 ddbLink: https://www.dndbeyond.com/characters/112565720
+name: Loria Underbough
+aliases: [Loria]
 affiliations:
 - {org: Labyrinth Prisoners, type: primary}
 whereabouts:
 - {type: home, end: 1744, location: Enst}
 - {type: away, start: 1748-10-17, end: 1748-10-19, location: Perdoli Manor}
 - {type: away, start: 1748-10-19, location: traveling toward Orenlas}
-dm_notes: none
+knownTo: [lablost]
 dm_owner: player
+dm_notes: none
+POV: 1748
 title: Loria Underbough
 hide_toc: true
 ---
@@ -39,3 +43,9 @@ Loria is shy for a halfling, and was less drawn to the performing side of her fa
 After coming of age, Loria traveled east through [Tyrwingha](<../../../../gazetteer/greater-sembara/tyrwingha/tyrwingha.md>) and the lizardfolk villages of [Latazaro](<../../../../gazetteer/greater-sembara/latazaro.md>), intending to reach [Western Cymea](<../../../../gazetteer/western-green-sea/realms/western-cymea.md>) and then seek a way south toward [Orenlas](<../../../../gazetteer/upper-istaros/orenlas/orenlas.md>). She was captured on a lonely road by goblin raiders and taken to [Perdoli Manor](<../../../../gazetteer/western-green-sea/cymea/perdoli-manor.md>), where she became one of the [Labyrinth Prisoners](<labyrinth-prisoners.md>).
 
 After escaping the manor, Loria left the other prisoners on the mountain road and continued south toward Orenlas.
+
+
+
+
+
+

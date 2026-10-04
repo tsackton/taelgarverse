@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Drankorian
 gender: female
-whereabouts: Drankor
 died: 971
+name: Ysabel of Drankor
 affiliations:
 - {place: Drankorian Empire, start: 965, title: Emperor}
+whereabouts: Drankor
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Ysabel of Drankor
 hide_toc: true
 ---
@@ -26,4 +31,10 @@ hide_toc: true
 </div>
 
 
-Ysabel of Drankor was an ally of [Helea](<helea.md>), and became Emperor after Helea was assassinated by the [Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>). She led the losing side of the [Drankorian Civil War](<../../../events/900s/drankorian-civil-war.md>), leading her to be remembered in later histories as “the Pretender.” 
+Ysabel of Drankor was an ally of [Helea](<helea.md>), and became Emperor after Helea was assassinated by the [Omnis Pura](<../../../groups/drankorian-societies/omnis-pura.md>). She led the losing side of the [Drankorian Civil War](<../../../events/900s/drankorian-civil-war.md>), leading her to be remembered in later histories as “the Pretender.”
+
+
+
+
+
+

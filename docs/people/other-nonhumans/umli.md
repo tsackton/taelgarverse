@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-29, type: met}
-name: Umli the Exile
-born: 1666
-activeYear: 1732
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: stoneborn
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1748-12-29, type: met}
+born: 1666
+activeYear: 1732
 gender: female
+name: Umli the Exile
 aliases: [Umli]
 whereabouts:
-- {type: home, end: 1731, location: Sivnjo Mountains, wOrigin: Exiled from <origin> in <enddate>}
+- {type: home, end: 1731, location: Svinjo Mountains, wOrigin: Exiled from <origin> in <enddate>}
 - {type: home, start: 1732, location: Tollen, wHome: 'Based in <home:r> (for <age>)'}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1740s
 title: Umli the Exile
 hide_toc: true
 ---
@@ -26,7 +30,7 @@ hide_toc: true
     Born DR 1666 (84 years old)  
     { .bio }
 
-    Exiled from the Sivnjo Mountains in DR 1731
+    Exiled from the [Svinjo Mountains](<../../gazetteer/northern-green-sea/svinjo-mountains.md>), the [Northern Green Sea](<../../gazetteer/northern-green-sea/northern-green-sea.md>) in DR 1731
     Based in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) (for 18 years)
 </div>
 
@@ -35,7 +39,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 29th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
-![Umli the Exile Portrait](/taelgarverse/assets/umli-the-exile-portrait.webp){align="right"; width="320"}Umli is tall, imposing stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork and intense obsidian-like eyes. She is a master metalworker and smith, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire. 
+![Umli the Exile Portrait](/taelgarverse/assets/umli-the-exile-portrait.webp){align="right"; width="320"}Umli is a tall, imposing stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork and intense obsidian-like eyes. She is a master metalworker and smith, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire.
 
 Born in the southern [Svinjo Mountains](<../../gazetteer/northern-green-sea/svinjo-mountains.md>), she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) since DR 1732. 
 
@@ -46,6 +50,12 @@ Though loosely affiliated with the [University of Tollen](<../../gazetteer/great
 - Umli is exceedingly private. She never takes visitors in her home/forge, and usually takes her meals alone.
 - Once a week, on Tuesdays, she takes interviews for new students in a dwarven tavern near campus called [The Fire and Stone](<../../gazetteer/greater-sembara/tollen/places/the-fire-and-stone.md>), and will also sometimes speak to clients desiring her skills in smithing then as well. 
 - Once a week, on Fridays, she tests her student's work at her forge. No one is allowed in, but a crowd gathers outside and she takes each item presented to examine. 
+
+
+
+
+
+
 
 
 

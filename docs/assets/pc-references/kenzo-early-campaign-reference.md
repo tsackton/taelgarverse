@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 title: Kenzo Early Campaign Reference
 ---
 # Kenzo — early-campaign character reference

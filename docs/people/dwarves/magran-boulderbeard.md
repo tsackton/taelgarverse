@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
-name: Magran Boulderbeard
-born:
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: dwarf
+born:
+gender: male
+name: Magran Boulderbeard
 affiliations:
 - {type: primary, org: Boulderbeards}
-gender: male
 whereabouts: Tharn Todor
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Magran Boulderbeard
 hide_toc: true
 ---
@@ -27,3 +31,9 @@ hide_toc: true
 A warrior from Tharn Todor who led a large expedition of dwarves into the ruins of [Ardith](<../../gazetteer/central-highlands/dwarven-kingdoms/ardith.md>), and to confront Chardonian interlopers. 
 
 Killed [Inakara](<../other-nonhumans/inakara.md>) and the other denizens of the [dwarven outpost near Raven's Hold](<../../gazetteer/greater-dunmar/hara-basin/dwarven-outpost-raven-s-hold.md>) in late July, 1748.
+
+
+
+
+
+

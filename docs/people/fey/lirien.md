@@ -1,17 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: fey
 gender: female
 died: 1749-05-30
+name: Lirien
 whereabouts:
 - {type: home, end: 1200, location: Redsun Watch}
 - {type: home, location: Everlight's Bloom}
 - {type: away, start: 1749-05-20, end: 1749-05-29, location: traveling across Feywild}
 - {type: away, start: 1749-05-29, end: 1749-05-29, location: Garamjala Desert}
 - {type: away, start: 1749-05-30, end: 1749-05-30, location: Vindristjarna}
-dm_notes: none
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1749
 title: Lirien
 hide_toc: true
 ---
@@ -36,6 +41,13 @@ She is the last Lanternkeeper of [Redsun Watch](<../../gazetteer/extraplanar/fey
 
 
 When the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) brought the [Cloudspinner](<../extraplanar-powers/archfey/cloudspinner.md>) out of [Cha'mutte](<../extraplanar-powers/cha-mutte.md>)'s prison on the [Circular Island](<../../gazetteer/drankorian-hinterland/circular-island.md>), Lirien's [Amberlight](<../../gazetteer/extraplanar/feywild/amberglow/amberlight.md>) flickered to life again, and she left [Everlight's Bloom](<../../gazetteer/extraplanar/feywild/everlight-s-bloom.md>) to search for the [Cloudspinner](<../extraplanar-powers/archfey/cloudspinner.md>). She found [Vindristjarna](<../../things/ships/vindristjarna.md>), but was tragically killed in an attack by minions of [Harrow](<../extraplanar-powers/archfey/harrow.md>) and [Wend](<../extraplanar-powers/archfey/wend.md>). 
+
+
+
+
+
+
+
 
 
 

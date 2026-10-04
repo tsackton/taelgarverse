@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-name: Riswynn
-born:
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint, status/check/ai]
 species: dwarf
 ancestry: Nardith
+campaignInfo:
+born:
 gender: female
 player: Kate Sackton
-dm_owner: player
-dm_notes: important
+name: Riswynn
 affiliations:
 - {org: Dunmar Fellowship, type: primary}
 - {org: Brawnanvils, type: primary}
+knownTo: [dufr]
+dm_owner: player
+dm_notes: important
+POV: 1748
 title: Riswynn
 hide_toc: true
 ---
@@ -35,3 +39,9 @@ hide_toc: true
 - Apr 26, 1748 DR: Riswynn arrives in Tokra.
 - Apr 30, 1748 DR: Riswynn arrives in Askandi.
 - May 05, 1748 DR: Riswynn arrives in Tharn Todor.
+
+
+
+
+
+

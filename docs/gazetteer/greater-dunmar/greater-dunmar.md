@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip]
+tags: [place, status/wip, status/check/ai]
 displayDefaults: {defArt: ''}
 typeOf: region
 whereabouts:
@@ -45,6 +45,9 @@ _See more: {links}_
 
 
 ## Climate
+
+
+
 
 While historically the climate in this region was very different, in the current day this region is split between [hot arid desert and semi-arid scrub](https://geodiode.com/climate/hot-deserts), in the interior east of the [Yuvanti Mountains](<yuvanti-mountains.md>),  and both [tropical](https://geodiode.com/climate/tropical-monsoon-and-tropical-savannah) and [subtropical](https://geodiode.com/climate/humid-subtropical) humid monsoon climates on the coast, especially in [Western Dunmar](<realms/dunmar/western-dunmar/western-dunmar.md>) between the [Yuvanti Mountains](<yuvanti-mountains.md>) and the [Nevos Sea](<../nevos-and-apporia/nevos-sea.md>). 
 

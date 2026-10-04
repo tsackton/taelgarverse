@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: []
-name: Jane of Tollen
-born: 1504
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Tollender
+campaignInfo: []
+born: 1504
 gender: female
+died: 1559
+name: Jane of Tollen
 affiliations:
 - {org: Vostok, type: leader, title: Queen Regent, end: 1551}
 - {org: Sembara, type: leader, title: Queen Regent, end: 1555}
 - {org: Ardlas, type: leader, title: Queen Regent, end: 1555}
 - {org: Lavnoch, type: leader, title: Queen Regent, end: 1555}
 - {org: Breva, type: leader, title: Queen Regent, end: 1555}
-died: 1559
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Jane of Tollen
 hide_toc: true
 ---
@@ -35,3 +39,9 @@ hide_toc: true
 The second wife of [Derik III](<derik-iii.md>), from a powerful and rich merchant family in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>). She was Queen Regent in the immediate aftermath of the Great War, and history has not always been kind to her reign. Many consider her short-sighted and overly concerned with promoting her son, [Bertram I](<bertram-i.md>), at the expense of his older half-siblings, [Reginald](<reginald.md>) and [Hugh](<hugh-of-sewick.md>). Others argue that her intelligence and careful stewardship of the throne prevented further deterioration of Sembara in the aftermath of the [Great War](<../../../events/1500s/great-war.md>).
 
 All agree that she was shrewd, at times spiteful, and always economical. She was known for her dislike of waste: wasted effort, wasted money, wasted time.
+
+
+
+
+
+

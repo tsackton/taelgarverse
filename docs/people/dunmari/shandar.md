@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Shandar
-born:
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo: []
+born:
 gender: male
-dm_notes: important
+name: Shandar
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 title: Shandar
 hide_toc: true
 ---
@@ -26,5 +30,12 @@ hide_toc: true
 
 
 An old Dunmari man who spent many years as [Agata](<../fey/agata.md>)'s table, until [freed](<../../campaigns/dunmari-frontier-campaign/session-notes/session-30-dufr.md>) by the Dunmar Fellowship. 
+
+
+
+
+
+
+
 
 

@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Rene d'Aslain
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 gender: male
-dm_owner: mike
-dm_notes: important
+name: Rene d'Aslain
 affiliations:
 - {org: d'Aslains, type: primary}
+knownTo: [clee]
+dm_owner: mike
+dm_notes: important
+POV: modern
 title: Rene D'Aslain
 hide_toc: true
 ---
@@ -22,4 +26,10 @@ hide_toc: true
 </div>
 
 
-A nephew of [Isabeau D'Aslain](<isabeau-d-aslain.md>) noted for artistic skill. 
+A nephew of [Isabeau D'Aslain](<isabeau-d-aslain.md>) noted for artistic skill.
+
+
+
+
+
+

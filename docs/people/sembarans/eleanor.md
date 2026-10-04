@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-23T23:02:51-04:00'
 lintVersion: '3.5'
-tags: [person, status/gameupdate/clee, status/check/mike, status/check/lint]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: female
@@ -28,9 +28,7 @@ hide_toc: true
 </div>
 
 
-![Eleanor](/taelgarverse/assets/eleanor.webp){align="right"; width="320"}A temple administrator of the Wyrdling, and well-known in the region. Has been mostly bedridden since the spring of 1719. 
-
-
+![Eleanor](/taelgarverse/assets/eleanor.webp){align="right"; width="320"}A temple administrator of the Wyrdling, and well-known in the region. Has been mostly bedridden since the spring of 1719. Eleanor's mother was originally from the [Barony of Vaubonne](<../../gazetteer/greater-sembara/sembara/borderlands/barony-of-vaubonne.md>).
 
 
 

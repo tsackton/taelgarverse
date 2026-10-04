@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: halfling
+ancestry:
 campaignInfo:
 - {campaign: dufr, person: Wellby, date: 1748-09-30, type: met}
 - {campaign: dufr, person: Wellby, date: 1748-10-12, type: last seen}
-name: Wella Brightmoon
 born: 1639
-species: halfling
-ancestry:
 gender: female
+name: Wella Brightmoon
 aliases: [Wella]
 affiliations:
 - {org: Brightmoons, type: primary}
 - {place: Wave Dancer, title: Captain, type: leader, start: 1}
 whereabouts: Wave Dancer
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1748
 title: Wella Brightmoon
 hide_toc: true
 ---
@@ -48,3 +52,9 @@ Although now getting old and stiff and sometimes slow on her feet, she has been 
 - [Rose Brightmoon](<rose-brightmoon.md>), wife
 - [Pearl Brightmoon](<pearl-brightmoon.md>), cousin
 - [Corrin Wildheart](<corrin-wildheart.md>), cousin-in-law
+
+
+
+
+
+

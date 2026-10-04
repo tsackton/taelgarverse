@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/feywild]
-gender: male
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/feywild, status/check/lint]
 species: human
 ancestry: Drankorian
+gender: male
+name: Marcion of Iridel
+knownTo: [dufr, feywild]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Marcion of Iridel
 hide_toc: true
 ---
@@ -22,3 +27,9 @@ hide_toc: true
 Marcion of Iridel was a Drankorian theological and arcane cosmologist. He wrote [The Riven Veil](<../../things/books/the-riven-veil.md>), an ancient Drankorian treatise on the origin of the [Abyss](<../../cosmology/spiritual-realms/abyss.md>), and preserved fragments of [The Unstable Sphere](<../../things/books/the-unstable-sphere.md>), a lost work on [Limbo](<../../cosmology/spiritual-realms/limbo.md>).
 
 Marcion argued that the Abyss arose from the worst impulses of humanity, drawing on the earlier argument of [Chironides the Wanderer](<chironides-the-wanderer.md>).
+
+
+
+
+
+

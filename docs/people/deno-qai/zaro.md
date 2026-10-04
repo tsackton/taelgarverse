@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, type: met, date: 1748-09-06}
-name: Zaro
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Deno'qai
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-09-06}
 gender: male
-whereabouts: Bek'eni village
+name: Zaro
 affiliations:
 - {org: Bek'eni, type: primary}
+whereabouts: Bek'eni village
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Zaro
 hide_toc: true
 ---
@@ -34,6 +38,13 @@ Zaro is an older man, hale and hearty with a commanding voice. He is bald, with 
 
 
 Zaro was a loyal follower of [Mezzar](<../other-nonhumans/mezzar.md>), who he believed to be an elf seeking to return the [Deno'qai](<../../groups/cultures/deno-qai-tribes/deno-qai.md>) to glory and power. His fate after the death of [Grimbaskal](<../other-nonhumans/mezzar.md>) is unknown. 
+
+
+
+
+
+
+
 
 
 

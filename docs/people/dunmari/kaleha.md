@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, type: met, date: 1748-07-01}
-name: Kaleha
-born: 1699
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-07-01}
+born: 1699
 gender: female
 title: Head Priest Kaleha
-whereabouts: Tokra
+name: Kaleha
 affiliations:
 - {place: Tokra, type: leader, start: 1742}
+whereabouts: Tokra
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 hide_toc: true
 ---
 # Head Priest Kaleha
@@ -34,4 +38,11 @@ hide_toc: true
 
 
 The head priest of the primary Dunmari temple in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>), a position that primarily involves serving as the main civil administrator for the city.  She is a fair and talented administrator, dedicated to [Sonkar](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/sonkar.md>).
+
+
+
+
+
+
+
 

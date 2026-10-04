@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Ysabel
-born: 1688
-died: 1720-01-06
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1688
+died: 1720-01-06
 gender: female
+name: Ysabel
 affiliations:
 - {org: Lord's Guard of Cleenseau, title: Sheriff}
 whereabouts:
 - {type: home, location: Cleenseau}
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: 1719
 title: Ysabel
 hide_toc: true
 ---
@@ -32,4 +36,11 @@ hide_toc: true
 ![Ysabel](/taelgarverse/assets/ysabel.webp){align="right"; width="420"} A striking and comely woman with a rough scar running from her eye to her neck. She is the sheriff of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) and leads a part of the [Lord's Guard](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>). She has many opinions about her employers, in particular [Rinault Essford](<rinault-essford.md>), and does not always successfully keep them to herself.
 
 She grew in skill of arms and bravery during an unsettled period in late 1719, but died fighting zombies during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).
+
+
+
+
+
+
+
 

@@ -1,18 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-09-28T23:44:57-04:00'
+lintVersion: '3.5'
 tags: [person]
-knownTo: [adma]
+species: human
 campaignInfo:
 - {campaign: adma, type: discovered as a corpse, date: 1715-05-19}
-name: Geoffrey
-species: human
 died: 1715-05-03
 gender: male
-dm_owner: tim
-dm_notes: important
+name: Geoffrey
 whereabouts:
 - {type: away, start: 1714-09-11, end: 1715-03-15, location: Roscombe}
 - {type: away, start: 1715-05-03, end: 9999, location: Haldrenn}
+knownTo: [adma]
+dm_owner: tim
+dm_notes: important
+POV: 1715
 title: Geoffrey
 hide_toc: true
 ---
@@ -34,7 +37,12 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Discovered as a corpse by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 19th, 1715 in [Haldrenn](<../../gazetteer/greater-sembara/addermarch/haldrenn.md>), [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), [Carlinshire](<../../gazetteer/greater-sembara/addermarch/carlinshire.md>)  
 
 
-Geoffrey, possibly a false name, was an traveler who arrived in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) from [Valcroix](<../../gazetteer/greater-sembara/addermarch/valcroix.md>) in the autumn of 1714, taking a room at [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>) for roughly six months. According to [Bertrand LeBlanc](<../addermarians/bertrand-leblanc.md>) and [Emma Cole](<../addermarians/emma-cole.md>), he kept largely to himself, ate alone with his nose in a book, and made repeated solo excursions into the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), sometimes staying out for a week at a time. Shortly before the spring thaw he outfitted himself with ropes, ladders, and other climbing gear, and left for parts unknown.
+Geoffrey, possibly a false name, was a traveler who arrived in [Roscombe](<../../gazetteer/greater-sembara/addermarch/roscombe.md>) from [Valcroix](<../../gazetteer/greater-sembara/addermarch/valcroix.md>) in the autumn of 1714, taking a room at [The Traveler's Rest](<../../gazetteer/greater-sembara/addermarch/the-traveler-s-rest.md>) for roughly six months. According to [Bertrand LeBlanc](<../addermarians/bertrand-leblanc.md>) and [Emma Cole](<../addermarians/emma-cole.md>), he kept largely to himself, ate alone with his nose in a book, and made repeated solo excursions into the [Highmoor](<../../gazetteer/greater-sembara/addermarch/highmoor.md>), sometimes staying out for a week at a time. Shortly before the spring thaw he outfitted himself with ropes, ladders, and other climbing gear, and left for parts unknown.
 
-In May of DR 1715, his dead body was found by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) in [Duncan of Haldrenn](<../addermarians/duncan-of-haldrenn.md>)'s root cellar. The body showed signs of axe wounds and blunt-force trauma, and the cellar contained ancient coins, a pendant of [The Warlord](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>), and burned scraps of Duncan's notes. Later, Duncan's recovered letters later revealed that Geoffrey had been paid by an unknown patron to search for [serpentine](<../../things/materials/serpentine.md>).
+In May of DR 1715, his dead body was found by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) in [Duncan of Haldrenn](<../addermarians/duncan-of-haldrenn.md>)'s root cellar. The body showed signs of axe wounds and blunt-force trauma, and the cellar contained ancient coins, a pendant of [The Warlord](<../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-warlord.md>), and burned scraps of Duncan's notes. Duncan's recovered letters later revealed that Geoffrey had been paid by an unknown patron to search for [serpentine](<../../things/materials/serpentine.md>).
+
+
+
+
+
 

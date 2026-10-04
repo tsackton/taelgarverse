@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase]
-name: Chenna Goodbarrel
-born: 1688
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, testcase, status/check/lint]
 species: halfling
 ancestry:
+born: 1688
 gender: female
 campaignInfo:
 - {campaign: dufr, person: Wellby, date: 1730, type: met, wParty: '<met:u> <person:q> around <target> <current:2rq>'}
-- {campaign: DuFr, date: 1748-12-30, type: met}
+- {campaign: dufr, date: 1748-12-30, type: met}
+name: Chenna Goodbarrel
 affiliations:
 - {org: Goodbarrels, type: primary}
 - {org: The Singing Fox, title: Proprietor, type: leader}
@@ -16,8 +18,10 @@ whereabouts:
 - {type: home, end: 1725, location: Sembara}
 - {type: home, start: 1725, location: The Singing Fox}
 - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1740s
 title: Chenna Goodbarrel
 hide_toc: true
 ---
@@ -47,6 +51,12 @@ hide_toc: true
 ## Relationships
 - [Harriet Goodbarrel](<harriet-goodbarrel.md>), wife
 - [Wellby](<../pcs/dunmar-fellowship/wellby.md>), a distant relation, something like a third cousin once removed
+
+
+
+
+
+
 
 
 

@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1749-08-07, type: met}
-name: Eztain
-born: 1706
 species: lizardfolk
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1749-08-07, type: met}
+born: 1706
 gender: female
+name: Eztain
 aliases:
+pronunciation: EHZ-tine
 whereabouts:
 - {type: away, start: 1749-08-06, end: 1749-08-07, location: Three Wells}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
-pronunciation: EHZ-tine
+POV: 1749
 title: Eztain
 hide_toc: true
 ---
@@ -37,4 +41,9 @@ hide_toc: true
 
 
 ![Eztain](/taelgarverse/assets/eztain.webp){align="right"; width="400"}Eztain is a lizardfolk warrior, who serves as the representative of various lizardfolk militias and war bands to the [Refounded Alliance of Aurbez](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/refounded-alliance-of-aurbez.md>). She has a predatory grin, and is eager to fight. 
+
+
+
+
+
 

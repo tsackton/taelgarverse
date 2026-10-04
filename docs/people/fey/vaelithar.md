@@ -11,7 +11,7 @@ name: Vaelithar
 pronunciation: VAY-lih-thar
 whereabouts:
 - {type: home, location: Twilight's Edge, startFilter: '2'}
-- {type: away, start: 1715-05-12, end: 1715-05-18, location: Feywild, startFilter: '1'}
+- {type: away, start: 1715-05-12, end: 1715-05-18, location: Thornweald, startFilter: '1'}
 knownTo: [adma]
 dm_owner: none
 dm_notes: none
@@ -27,15 +27,15 @@ hide_toc: true
     A [fae](<../../creatures/fey/fae.md>) (he/him)  
     { .bio }
 
-    Based in the [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>), the [Feywild](<../../cosmology/feywild.md>)
+    Based in [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>), the [Feywild](<../../cosmology/feywild.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Rescued by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 18th, 1715 in the [Feywild](<../../cosmology/feywild.md>)  
+:octicons-location-24:{ .lg .middle } Rescued by the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>) on May 18th, 1715 in the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>)  
 
 
-Vaelithar is a fae from [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>) who escaped the clutches of a corrupted Singing Tree in DR 1715 with the aid of the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>). His companion, [Liraene](<liraene.md>), died before she could be rescued, trapped by the corrupted tree. 
+Vaelithar is a fae from [Twilight's Edge](<../../gazetteer/extraplanar/feywild/twilight-s-edge.md>) who escaped the clutches of a corrupted Singing Tree in the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>) in DR 1715 with the aid of the [Addermarch Mercenaries](<../pcs/addermarch/addermarch-mercenaries.md>). His companion, [Liraene](<liraene.md>), died before she could be rescued, trapped by the corrupted tree.
 
 
 

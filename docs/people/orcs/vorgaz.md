@@ -1,24 +1,28 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: 'killed in battle against [[Grash|Grash''s]] armies'}
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-04, type: met}
-name: Vorgaz
-born: 1707
-activeYear: 1741
+tags: [person, status/check/lint]
 species: orc
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1748-12-04, type: met}
+born: 1707
+activeYear: 1741
 gender: male
 title: Commander Vorgaz
 died: 1748-12-07
+name: Vorgaz
 affiliations:
 - {org: People of the Rainbow, type: primary}
 whereabouts:
 - {type: home, location: Uzgukhar}
 - {type: home, start: 1741-01-01, location: Khumarz}
-dm_notes: color
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: color
+POV: modern
 hide_toc: true
 ---
 # Commander Vorgaz
@@ -39,6 +43,11 @@ hide_toc: true
 
 
 Vorgaz was a skilled [orc](<../../creatures/species/orcs.md>) warrior and the commander of the garrison at [Khumarz](<../../gazetteer/upper-istaros/xurkhaz/khumarz.md>), on the western border of [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), known for his tactical brilliance but lack of political acumen. 
+
+
+
+
+
 
 
 

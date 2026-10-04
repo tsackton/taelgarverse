@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
 tags: [person]
-knownTo: [Mawar]
-name: Reliah
-born:
 species: human
 ancestry: Mawaran
+born:
 gender: female
+name: Reliah
+pronunciation: reh-LEE-ah
 whereabouts: Hamri
+knownTo: [mawar]
 dm_owner: none
 dm_notes: color
-pronunciation: reh-LEE-ah
+POV: 1740s
 title: Reliah
 hide_toc: true
 ---
@@ -27,3 +30,7 @@ hide_toc: true
 
 
 ![Reliah](/taelgarverse/assets/reliah.webp){align="right"; width="300"}Reliah, the twin sister of [Samar](<samar.md>), is an orphaned girl who lives in the Drowned Flats in [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>). [Wazir](<../pcs/mawar/wazir.md>) feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
+
+
+
+

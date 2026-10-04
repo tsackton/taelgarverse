@@ -21,3 +21,5 @@ Skaerhem, called Skaegenland by the Sembarans, is a collection of islands (the S
 ## Geography
 
 The Skaer islands are a volcanic archipelago of many small and medium sized islands in the northwestern corner of the [Green Sea](<../../green-sea.md>). 
+
+

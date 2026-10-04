@@ -29,7 +29,7 @@ hide_toc: true
     Originally from: Unknown
 </div>
 
-:octicons-location-24:{ .lg .middle } Last known location (as of November 23th, 1748): [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
+:octicons-location-24:{ .lg .middle } Last known location (as of November 23rd, 1748): [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>), [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)
 
 
 The cousin of [Hagrim](<hagrim.md>), trapped in [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>) for many years. During that time lost much of his memory and mind, and became known to the people of [Morkalan](<../../gazetteer/extraplanar/shadowfolds/morkalan/morkalan.md>) as the Mad Priest.

@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-whereabouts: Cleenseau
-gender: female
 species: human
 ancestry: Zimka
-dm_notes: none
+gender: female
+name: Elaine
+whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Elaine
 hide_toc: true
 ---
@@ -21,4 +26,8 @@ hide_toc: true
 </div>
 
 
-![Elaine Cleenseau](/taelgarverse/assets/elaine-cleenseau.webp){align="right"; width="320"}One of [Anselm](<anselm.md>) assistants. 
+![Elaine Cleenseau](/taelgarverse/assets/elaine-cleenseau.webp){align="right"; width="320"}One of [Anselm's](<anselm.md>) assistants.
+
+
+
+

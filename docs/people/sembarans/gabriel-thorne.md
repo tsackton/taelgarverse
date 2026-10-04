@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Gabriel Thorne
-born: 1690
 species: human
 ancestry: Sembaran
+born: 1690
 gender: male
-whereabouts: Cleenseau
+name: Gabriel Thorne
 affiliations:
 - {org: Thornes of Cleenseau, type: primary}
-dm_notes: none
+whereabouts: Cleenseau
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Gabriel Thorne
 hide_toc: true
 ---
@@ -27,3 +31,7 @@ hide_toc: true
 
 
 ![Gabriel Thorne](/taelgarverse/assets/gabriel-thorne.webp){align="right"; width="320"}The son of [Gideon Thorne](<gideon-thorne.md>) and husband to [Beatrix](<beatrix-thorne.md>). A yeoman.
+
+
+
+

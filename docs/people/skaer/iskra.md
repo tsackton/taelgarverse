@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, person: Kenzo, date: 1748-12-30, type: courted, format: '<met:U> by <person> on <target>'}
-- {campaign: DuFr, date: 1749-01-05, type: last seen}
-name: Iskra
-born: 1724
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Skaer
+campaignInfo:
+- {campaign: dufr, person: Kenzo, date: 1748-12-30, type: courted, format: '<met:U> by <person> on <target>'}
+- {campaign: dufr, date: 1749-01-05, type: last seen}
+born: 1724
 gender: female
 title: Laivan Iskra
+name: Iskra
 whereabouts:
 - {type: home, location: Pikkua}
 - {type: home, start: 1743, location: Tollen}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: none
+POV: 1748
 hide_toc: true
 ---
 # Laivan Iskra
@@ -46,4 +50,11 @@ She told her story and history to Kenzo while they wandered [Tollen](<../../gaze
 
 
 ![Iskra's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/iskra-s-story.md>)
+
+
+
+
+
+
+
 

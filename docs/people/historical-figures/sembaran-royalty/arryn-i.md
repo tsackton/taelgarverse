@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Arryn I
-born: 1567
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1567
 gender: male
 title: King Arryn I
+died: 1600
+name: Arryn I
 affiliations:
 - {org: House of Sewick, type: primary}
 - {place: Sembara, start: 1592}
 - {place: Tyrwingha, start: 1592}
-died: 1600
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: modern
 hide_toc: true
 ---
 # King Arryn I
@@ -31,4 +35,9 @@ hide_toc: true
 A ruler of Sembara and Tyrwingha. The eldest son of [Elaine I](<elaine-i.md>) and [Cynan](<cynan.md>). As a young prince of Tyrwingha, while on a royal tour with his father, he was an early victim of the [Cursed Cold](<../../../events/1500s/cursed-cold.md>), which left the lower half of his body withered and skeletal. His allegiances were more closely aligned with Tyrwingha than Sembara, and he rarely left his palace in [Tafolwern](<../../../gazetteer/greater-sembara/tyrwingha/tafolwern.md>). He preferred to be seen with heavy blankets covering his lower body, and he was very self-conscious about his injuries.
 
 Rumors persist in Tyrwingha to this day that he never really died, and instead fled to [Twilight's Grace](<../../../gazetteer/extraplanar/feywild/twilight-s-grace/twilight-s-grace.md>) to seek healing.
+
+
+
+
+
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 name: Cleenseau Wood
 typeOf: forest
 whereabouts: Barony of Aveil
@@ -16,4 +16,5 @@ title: Cleenseau Wood
 
 The Wood as it is known locally, is an old growth forest, stretching north of [Cleenseau](<cleenseau/cleenseau.md>) for what is said to be hundreds of miles. The fringes are used for firewood, charcoal gathering, and pig farming, but after a mile or two it becomes wild and trackless. It forms the boundary between the [Barony of Aveil](<../barony-of-aveil.md>), to the east of the wood, the [Barony of Dunfry](<../../western-marches/barony-of-dunfry.md>) and the [Barony of Usbourg](<../../western-marches/barony-of-usbourg.md>) to the west, and the [Barony of Ainwick](<../../barony-of-ainwick/barony-of-ainwick.md>) to the north.
 
-There is evidence of a portal to the fey realm of Duskmire about eight miles inside the wood, although it has not been consistently open.
+
+Although historically, there was a fey poral to the realm of Duskmire about eight miles inside the wood, although it has not been consistently open. Over many years it would sometimes open, and sometimes close. It was consistently open for a significant period from October 1719 - January 1720, and then only very briefly open after the [Undead Attacks in Sembara](<../../../../../events/1700s/1720/01/undead-attacks-in-sembara.md>). It was to all accounts permanently closed by the [Heroes of Cleenseau](<../../../../../people/pcs/cleenseau/heroes-of-cleenseau.md>) in October 1720.

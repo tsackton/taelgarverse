@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: elf
 born: 1712
 ka: 37
-whereabouts: Erelion
-name: Cirdore
-pronunciation: KEER-doh-reh
 gender: male
 campaignInfo:
 - {campaign: dufr, date: 1749-01-15, type: Hosted for dinner}
+name: Cirdore
+pronunciation: KEER-doh-reh
+whereabouts: Erelion
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1749
 title: Cirdore
 hide_toc: true
 ---
@@ -33,3 +37,7 @@ hide_toc: true
 
 
 A poet and historian, curious to speak with outsiders. Young, and not confident in his talents yet.
+
+
+
+

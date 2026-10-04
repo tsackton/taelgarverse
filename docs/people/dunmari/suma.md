@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-name: Suma
-born: 1707
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+born: 1707
 gender: female
+name: Suma
 whereabouts: Karawa
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1740s
 title: Suma
 hide_toc: true
 ---
@@ -33,6 +37,13 @@ Suma is a middle aged woman with dark, curly hair and soft, friendly features. S
 
 In April 1748, she argued for an evacuation of Karawa in the face of rampaging gnolls, caring more about saving the people than the town, arguing that Karawa is made up of its people, not its physical location, and it is their safety that must be defended. With the support of [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), this argument won the day and Suma left for Tokra with many people of Karawa. As of the [Feast of Bhishma](<../../gods-and-religions/holidays-and-festivals/dunmari-festivals/feast-of-bhishma.md>) in June 1748, she is back in Karawa, and pleased about it, having had a hard time in Tokra keeping everyone together, healthy, and safe.
 ## Relationships
-- Suma knows [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), and is grateful to them for what they did for Karawa, for backing her up in discussions with other village leaders when decided what to do about the gnoll attacks, and for returning the blessed goods from the temple in the fort east of Gomat. Gifted a scroll of healing to [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) and curious about its fate. 
+- Suma knows [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), and is grateful to them for what they did for Karawa, for backing her up in discussions with other village leaders when deciding what to do about the gnoll attacks, and for returning the blessed goods from the temple in the fort east of Gomat. Gifted a scroll of healing to [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) and curious about its fate.
+
+
+
+
+
+
+
 
 

@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Gideon Thorne
-born: 1672
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1672
 gender: male
-whereabouts:
-- {type: home, location: Auloutte}
-dm_notes: none
-dm_owner: none
+name: Gideon Thorne
 affiliations:
 - {org: Thornes of Cleenseau, type: primary}
+whereabouts:
+- {type: home, location: Auloutte}
+knownTo: [clee]
+dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Gideon Thorne
 hide_toc: true
 ---
@@ -30,3 +34,9 @@ hide_toc: true
 ![Gideon Thorne](/taelgarverse/assets/gideon-thorne.webp){align="right"; width="320"}A fisherman and the most prominent person in the small hamlet of [Auloutte](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/auloutte.md>). Much of his family lives in the North Close of Cleenseau, including his son [Gabriel Thorne](<gabriel-thorne.md>) and his nephew [Jon Thorne](<jon-thorne.md>). He lives with his two grown daughters and their families, both of whom are also fisherfolk. 
 
 He knows the river well, and is an admirer of the lizardfolk of [Ganboa](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/ganboa.md>). He went with [Rinault](<rinault-essford.md>) on his ill-advised trip searching the river after the [Tragic Flood of the River Enst](<../../events/1700s/1719/10/tragic-flood-of-the-river-enst.md>).
+
+
+
+
+
+

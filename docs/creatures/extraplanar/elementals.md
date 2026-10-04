@@ -1,17 +1,23 @@
 ---
+headerVersion: 2023.11.25
+lintedAt: '2026-09-29T12:34:03-04:00'
+lintVersion: '3.5'
 tags: [creature]
+name: Elementals
 aliases: [elemental, elementals, Elemental]
-dm_notes: important
 dm_owner: tim
+dm_notes: important
+POV: modern
 title: Elementals
 ---
-
 # Elementals
 
+All elementals, from the weakest dust mephit to the great leviathans of the depths, are fundamentally bound and shaped the essence of their native plane. This is most obvious in the familiar creatures native to the Elemental Planes that serve as the conjured allies of wizards and others who summon forth beings of pure elemental energy, who take on the appearance of their elemental type. Creatures native to the Plane of Air take on the shape of clouds and wind; those native to the Plane of Fire appear as flames; those native to the Plane of Earth as stone or dirt; and those native to the Plane of Water as living waves. 
+
+But these are just a fraction of the diversity of elemental forms that inhabit the Elemental Planes, and construct cities and civilizations across these realms. Legends and tales commonly speak of the greater elemental powers -- the [Djinn](<djinn.md>) of the [Elemental Plane of Air](<../../cosmology/energy-realms/elemental-plane-of-air.md>), the [Efreeti](<efreeti.md>) of the [Elemental Plane of Fire](<../../cosmology/energy-realms/elemental-plane-of-fire.md>), the [Marid](<marid.md>) of the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) and the [Dao](<dao.md>) of the[Elemental Plane of Earth](<../../cosmology/energy-realms/elemental-plane-of-earth.md>) -- who possess power and magic to grant boons to those few who have great luck or the power to demand favors. Stranger rumors speak of the great elemental powers -- mighty phoenixes of fire, elder tempests that rage as storms across the sky, leviathans of the deep, and  stone beasts the size of mountains -- that lurk in the hidden parts of the elemental domains. 
+
+Though many mortals of the Material Plane think little of elementals beyond their conjured forms, those who have traveled to the elemental planes will report this is an impoverished view of these creatures. The cities and kingdoms of the Elemental Realms are places of great wonder and beauty, mystery and splendor, danger and knowledge, where much debate rages about the nature of humans and other natives of the Material Plane, and those who would conjure elementals to serve them are discussed as varyingly allies, hapless fools, and the great enemies of the elementals. 
 
 
 
 
-Elementals are creatures of raw elemental energy, natives of the Elemental Realms, ranging in power from minor elementals like mephits, to the proud and noble djinni, to the unfathomable power of leviathans. 
-
-The [Djinn](<elementals.md>), the most famous native creatures on the Plane of Air, need no introduction. Blue-skinned, tall, and muscular humanoids, whose lower legs seem to seamlessly merge with billowing mists, djinni feature prominently in the stories and lore collected in [On Elemental Forms](<../../things/books/on-elemental-forms.md>), and in many other tales and legends. Variously described as mischievous, honorable, and as changeable as the winds, djinni, legends say, can grant great boons or rain storms and destruction down on those who displease them. 

@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-08-06, type: met}
-name: Torgga Redpeak
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: dwarf
+campaignInfo:
+- {campaign: dufr, date: 1748-08-06, type: met}
+gender: female
+name: Torgga Redpeak
 affiliations:
 - {org: Redpeaks, type: primary}
-gender: female
 whereabouts: Darba
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Torgga Redpeak
 hide_toc: true
 ---
@@ -30,3 +34,9 @@ hide_toc: true
 
 
 The matriarch of the Redpeak dwarves of [Darba](<../../gazetteer/greater-dunmar/realms/dunmar/coastal-dunmar/darba/darba.md>).
+
+
+
+
+
+

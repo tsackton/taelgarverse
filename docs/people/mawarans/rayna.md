@@ -1,19 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
 tags: [person]
-knownTo: [Mawar]
-name: Rayna
-born: 1713
 species: human
 ancestry: Mawaran
+born: 1713
 gender: female
+name: Rayna
 whereabouts:
 - {type: home, location: Mawar Confederacy}
 - {type: home, location: Gulf of Chardon}
 - {type: away, location: Hamri, start: 1749-05-26, end: 1749-05-27}
 - {type: away, location: Endless Ocean, start: 1749-05-28, alias: sailing toward Apporia and Omi, format: '<name:x>'}
-dm_notes: none
+knownTo: [mawar]
 dm_owner: none
+dm_notes: none
+POV: 1749
 title: Rayna
 hide_toc: true
 ---
@@ -37,5 +40,9 @@ Rayna is a Mawaran sailor descended from [Ocean Watchers](<../../groups/society-
 Since her youth, Rayna has heard the ocean in songs and visions. Those songs fell silent for years after a nightmare of tearing and loss, then returned in 1749 with a plea to recover a trapped fragment of song from an old shrine of [Guzo the Mariner](<../../gods-and-religions/gods/incorporeal-gods/mawaran-saints/guzo-the-mariner.md>) near [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>).
 
 In May 1749, Rayna came to the [Leviathan Inn](<../../gazetteer/northwest-coast/mawar-confederacy/leviathan-inn.md>) and asked the [Adventurers of Mawar](<../pcs/mawar/adventurers-of-mawar.md>) to find the lost song. After the party recovered the fragment from the [Shrine to Guzo the Mariner](<../../gazetteer/northwest-coast/mawar-confederacy/shrine-to-guzo-the-mariner.md>), she took it westward, sailing toward [Apporia](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>) and the merfolk city of [Omi](<../../gazetteer/faraway-places/omi.md>).
+
+
+
+
 
 

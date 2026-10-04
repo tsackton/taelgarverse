@@ -20,14 +20,14 @@ title: Addermarch Campaign - Session 20
 	*On Earth: Sunday March 8, 2026*
 	*[Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>) and the mine below*
 
-The party defeats the serpentine warlock beneath [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>), recovers [Duncan of Haldrenn](<../../people/addermarians/duncan-of-haldrenn.md>)'s letters and the stolen fey heart, uses [Trueflame](<../../things/materials/trueflame.md>) to destroy the [Serpentine Battleaxe](<../../things/magic-items/serpentine-battleaxe.md>), learns more of the [Avatus wars](<../../events/1300s/serpentine-wars.md>) from a dead ranger, and sets out for [Caradoc](<../../people/addermarians/caradoc.md>)'s to seek a way back into the [Feywild](<../../cosmology/feywild.md>).
+The party defeats the serpentine warlock beneath [Serethwyn Tor](<../../gazetteer/greater-sembara/addermarch/serethwyn-tor.md>), recovers [Duncan of Haldrenn](<../../people/addermarians/duncan-of-haldrenn.md>)'s letters and the stolen fey heart, uses [Trueflame](<../../things/materials/trueflame.md>) to destroy the [Serpentine Battleaxe](<../../things/magic-items/serpentine-battleaxe.md>), learns more of the [Avatus wars](<../../events/1300s/serpentine-wars.md>) from a dead ranger, and sets out for [Caradoc](<../../people/addermarians/caradoc.md>)'s to seek a way back into the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>).
 
 ## Timeline
 
 - May 27, 1715 DR, **late afternoon**: The party defeats the serpentine warlock in the deepest chamber beneath Serethwyn Tor.
 - May 27, 1715 DR, **evening**: They search the chamber, recover Duncan's letters and the stolen fey heart, and use [Trueflame](<../../things/materials/trueflame.md>) to destroy the [Serpentine Battleaxe](<../../things/magic-items/serpentine-battleaxe.md>) and a serpentine pendant.
 - May 27, 1715 DR, **night**: Climbing back out through the mine, they question a dead ranger with _Speak with Dead_, learning more about the [war with Avatus](<../../events/1300s/serpentine-wars.md>) and the lost [Serpentine Register](<../../things/books/serpentine-register.md>), then camp in the upper mine chamber.
-- May 28, 1715 DR, **morning**: The party sets out for [Caradoc](<../../people/addermarians/caradoc.md>)'s, hoping to find a way back into the [Feywild](<../../cosmology/feywild.md>) to return the stolen heart.
+- May 28, 1715 DR, **morning**: The party sets out for [Caradoc](<../../people/addermarians/caradoc.md>)'s, hoping to find a way back into the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>) to return the stolen heart.
 
 ## Cast of Characters
 
@@ -49,7 +49,7 @@ The party defeats the serpentine warlock beneath [Serethwyn Tor](<../../gazettee
 - **Serpentine warlock's lair** - The chamber holding Duncan's corpse, the altar, the heart, and the warlock scraping serpentine from the walls.
 - **Upper mine chamber** - The safer chamber where the party camps after escaping the deeper works.
 - **[Adderfell](<../../gazetteer/greater-sembara/addermarch/adderfell.md>)** - City where Kelvyn serves and where surviving copies of the [Serpentine Register](<../../things/books/serpentine-register.md>) may still exist.
-- **[Feywild](<../../cosmology/feywild.md>)** - The destination to which the party hopes to return the stolen heart.
+- **[Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>)** - The destination to which the party hopes to return the stolen heart.
 
 ## Narrative
 
@@ -67,6 +67,6 @@ That night the party camps again in the upper mine chamber where they had previo
 
 ### Friday, May 28th, 2 Robert I
 
-In the morning, carrying the recovered heart, the party sets out for [Caradoc](<../../people/addermarians/caradoc.md>)'s cottage to seek a path back into the [Feywild](<../../cosmology/feywild.md>) and return what Duncan stole.
+In the morning, carrying the recovered heart, the party sets out for [Caradoc](<../../people/addermarians/caradoc.md>)'s cottage to seek a path back into the [Thornweald](<../../gazetteer/extraplanar/feywild/thornweald.md>) and return what Duncan stole.
 
 

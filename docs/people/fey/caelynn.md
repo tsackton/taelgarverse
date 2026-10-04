@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, type: met, date: 1748-12-17}
-name: Caelynn the Seer
-born:
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: fey
 ancestry:
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-12-17}
+born:
 gender: female
+name: Caelynn the Seer
 whereabouts:
 - {type: home, location: Dreamhaven}
 - {type: home, location: Tollen}
+knownTo: [dufr, clee]
 dm_owner: none
 dm_notes: important
+POV: 1740s
 title: Caelynn the Seer
 hide_toc: true
 ---
@@ -32,7 +36,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 17th, 1748 in the [Free City of Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>)  
 
 
-![Caelynn Portrait](/taelgarverse/assets/caelynn-portrait.png){align="right"; width="400"}Caeylnn, often known as Caelynn the Seer, is a fey woman from across the mountains, from the [Feywild](<../../cosmology/feywild.md>) realm of  [Dreamhaven](<../../gazetteer/extraplanar/feywild/dreamhaven.md>), who has been living in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) for many years. While she does not discuss her history, rumors claim she has made Tollen her home for many centuries, or perhaps even a millenia. She is a mysterious presence, known for prophecy and lore and understanding of dreams, but rarely sharing her vast knowledge without a price of some kind. 
+![Caelynn Portrait](/taelgarverse/assets/caelynn-portrait.png){align="right"; width="400"}Caelynn, often known as Caelynn the Seer, is a fey woman from across the mountains, from the [Feywild](<../../cosmology/feywild.md>) realm of  [Dreamhaven](<../../gazetteer/extraplanar/feywild/dreamhaven.md>), who has been living in [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>) for many years. While she does not discuss her history, rumors claim she has made Tollen her home for many centuries, or perhaps even a millennium. She is a mysterious presence, known for prophecy and lore and understanding of dreams, but rarely sharing her vast knowledge without a price of some kind.
 ## Description
 Caelynn is an elegant elfin woman of ambiguous age, with long silver hair and strikingly vibrant green eyes.  She resides in an unassuming house close to the University. Inside, there's a perpetual feeling of twilight. She often greets guests in a tea room, which boasts a unique circular table, which always seems to have space somehow to accommodate anyone who she invites to sit, while never feeling large. 
 ## Relationships
@@ -54,4 +58,11 @@ Many rumors circulate about Caelynn
 - she only speaks to those who give her a memory in exchange
 - she collects secrets, and will only grant you a boon if you tell her something no one else knows
 - she collects secrets, and will only grant you a boon if you gift her a secret, forgetting it in the process
+
+
+
+
+
+
+
 

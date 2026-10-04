@@ -1,17 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
 tags: [person]
-knownTo: [Mawar]
-name: Caleb
 species: human
 ancestry: Mawaran
 gender: male
 died: 1742
+name: Caleb
 whereabouts:
 - {type: home, location: Mawar Confederacy}
 - {type: home, location: Endless Ocean}
-dm_notes: none
+knownTo: [mawar]
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Caleb
 hide_toc: true
 ---
@@ -31,5 +34,9 @@ hide_toc: true
 Caleb was [Rayna](<rayna.md>)'s maternal grandfather. He raised her for much of her childhood and taught her stories of [Mawar](<../../gazetteer/northwest-coast/mawar-confederacy/mawar-confederacy.md>), the [Ocean Watchers](<../../groups/society-of-ocean-watchers.md>), and the old heritage of the western coast.
 
 When Rayna first began hearing the ocean in visions and songs, Caleb believed she was blessed. After those songs abruptly fell silent, he feared the silence marked some deeper danger. He later died in a shipwreck that Rayna survived.
+
+
+
+
 
 

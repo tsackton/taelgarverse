@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Erdu
-born: 1517
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: lizardfolk
+born: 1517
 gender: male
+name: Erdu
 whereabouts: Ganboa
-dm_notes: color
+knownTo: [clee]
 dm_owner: none
+dm_notes: color
+POV: 1719
 title: Erdu
 hide_toc: true
 ---
@@ -27,4 +31,10 @@ hide_toc: true
 
 
 The death of his brother [Edur](<edur.md>) by giant spiders has further soured his opinion of humans. 
+
+
+
+
+
+
 

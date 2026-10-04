@@ -50,9 +50,9 @@ Inland, Dunmar is dominated by the [Hara Basin](<../../hara-basin/hara-basin.md>
 
 ### Climate
 
-Dunmar is a subtropical country, with hot, dry winters and hot, humid summers. The climate is strongly shaped by the seasonal monsoon rains, which bring moisture from the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>) inland during the summer months, and the [Yuvanti Mountains](<../../yuvanti-mountains.md>), which create a rain shadow over the Garamjala.
+Dunmar is a subtropical country, with warm, dry winters and hot, humid summers. The climate is strongly shaped by the seasonal monsoon rains, which bring moisture from the [Nevos Sea](<../../../nevos-and-apporia/nevos-sea.md>) inland during the summer months, and the [Yuvanti Mountains](<../../yuvanti-mountains.md>), which create a rain shadow over the Garamjala.
 
-The [Nayan Floodplains](<../../nayan-floodplains.md>) and the [Darba Highlands](<../../darba-highlands/darba-highlands.md>) generally are a subtropical humid monsoon climate, with extensive monsoon rains in June, July, August, and September, although the climate of the Darba Highlands tends to be moderated somewhat by the topography, which brings occasional winter rains off the ocean. The [Hara Basin](<../../hara-basin/hara-basin.md>) is drier, with less overall rain and a shorter monsoon season. More rain falls in the west and north, and less in the south and east, so the richest grasslands tend to be the northwestern parts of Dunmar. The eastern and southern edges of the country are desert. 
+The [Nayan Floodplains](<../../nayan-floodplains.md>) and the [Darba Highlands](<../../darba-highlands/darba-highlands.md>) generally are a subtropical humid monsoon climate, with extensive monsoon rains in June, July, August, and September. The climate of the Darba Highlands tends to be moderated somewhat by the topography: the northwestern edges, along the southern face of the [Chataan Mountains](<../../../greater-chardon/chataan-mountains.md>), see occasional winter rains off the ocean. The [Hara Basin](<../../hara-basin/hara-basin.md>) is drier, with less overall rain and a shorter monsoon season. More rain falls in the west and north, and less in the south and east, so the richest grasslands tend to be the northwestern parts of Dunmar. The eastern and southern edges of the country are desert. 
 
 ### Regions
 

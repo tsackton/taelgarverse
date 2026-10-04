@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Tal
-born:
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born:
 gender: male
+name: Tal
 whereabouts:
 - {type: home, start: '', end: 1716, location: Embry}
 - {type: away, start: 1716, end: '', prefix: somewhere on, location: Semb}
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1710s
 title: Tal
 hide_toc: true
 ---
@@ -28,3 +32,9 @@ hide_toc: true
 
 
 An orphan and friend of [Viepuck](<../pcs/cleenseau/viepuck.md>), from [Embry](<../../gazetteer/greater-sembara/sembara/heartlands/embry.md>). He is currently working as a cabin boy and riverboat hand on the [Semb](<../../gazetteer/greater-sembara/rivers/semb-watershed/semb.md>).
+
+
+
+
+
+

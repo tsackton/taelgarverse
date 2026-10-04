@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Annet Bybet
-born: 1692
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1692
 gender: female
+name: Annet Bybet
+pronunciation: AN-et BY-bet
 affiliations:
 - {org: Essfords, title: Chamberlain}
 - {org: Lord's Council of Cleenseau}
@@ -14,12 +17,15 @@ whereabouts:
 - {type: home, location: Ainwick}
 - {type: home, location: Cleenseau}
 - {type: away, location: travelling to Embry, start: 1720-01-03, end: 1720-01-20}
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: 1720s
 title: Annet Bybet
 hide_toc: true
 ---
 # Annet Bybet
+:speaker:{ .middle } *(AN-et BY-bet)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -35,3 +41,6 @@ hide_toc: true
 
 
 ![Annet Bybet](/taelgarverse/assets/annet-bybet.webp){align="right"; width="320"}A cousin of [Arthur Essford](<arthur-essford.md>) and the chamberlain of the [Essford](<../../groups/sembaran-noble-houses/essfords.md>) household.
+
+
+

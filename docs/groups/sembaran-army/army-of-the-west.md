@@ -18,7 +18,7 @@ title: Army of the West
 
 
 
-The Army of the West numbers 4,000 soldiers, divided into a North Watch, Center Watch, and South Watch. The South Watch is the largest at 1,600 soldiers; the North and Center Watches are 1,200 soldiers each. Each watch is in turn divided into two regiments, for a total of six regiments. The Army of the West is commanded by General Ilsa Lemoine, and each watch is commanded by a colonel, and each regiment by a major.
+The Army of the West numbers 4,000 soldiers, divided into a North Watch, Center Watch, and South Watch. The South Watch is the largest at 1,600 soldiers; the North and Center Watches are 1,200 soldiers each. Each watch is in turn divided into two regiments, for a total of six regiments. The Army of the West is commanded by [General Ilsa Lemoine](<../../people/sembarans/ilsa-lemoine.md>), and each watch is commanded by a colonel, and each regiment by a major.
 
 Beneath the regimental level there are either companies, commanded by a captain, usually of 100 soldiers, or garrisons, also commanded  by a captain, of varying sizes.
 
@@ -26,7 +26,7 @@ The Army of the West guards the western borders, and is significant in Dunfry, A
 
 The South Watch's two regiments are the Enst Regiment and the Dunfry Regiment. The Center Watch has two regiments, named just the First and Second Regiments. The North Watch has the Regiment of the Wall and the Regiment of Dunmore. 
 
-The Enst Regiment is responsible for the garrisons along the river, as well as a major garrison in Enford, and is commanded by Major Edmund Hartwell. The Enst Regiment is 800 strong, divided into 5 garrisons and 3 companies
+The Enst Regiment is responsible for the garrisons along the river, as well as a major garrison in Enford, and is commanded by Major [Edmund Hartwell](<../../people/sembarans/edmund-hartwell.md>). The Enst Regiment is 800 strong, divided into 5 garrisons and 3 companies
 
 * The [Army Garrison of Cleenseau](<army-garrison-of-cleenseau.md>), commanded by [Captain Ida Rosfeld](<../../people/sembarans/ida-rosfeld.md>)
 * The Enford Garrison, commanded by Captain Matilda Wycliffe
@@ -43,7 +43,7 @@ The Dunfry Regiment is responsible for the southern wall, and is commanded by [M
 * The Night Watch Garrison, which guards the wall
 * The Third, Fifth, Sixth, and Eighth Companies
 
-The South Watch overall is commanded by Colonel Claude Leclerc. 
+The South Watch overall is commanded by [Claude Leclerc](<../../people/sembarans/claude-leclerc.md>). 
 
 
 

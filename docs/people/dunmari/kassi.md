@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo: []
-name: Kassi
-born: 1695
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo: []
+born: 1695
 gender: female
-whereabouts: Lakan Monastery
+name: Kassi
 affiliations:
 - {org: Lakan Monastery, title: Librarian}
+whereabouts: Lakan Monastery
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1740s
 title: Kassi
 hide_toc: true
 ---
@@ -29,4 +33,11 @@ hide_toc: true
 
 
 The librarian at the Lakan monastery in Tokra. In a relationship with [Basu](<basu.md>).
+
+
+
+
+
+
+
 

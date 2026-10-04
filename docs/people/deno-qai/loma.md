@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo:
-- {campaign: GL, type: met, date: 1747-11-23}
-name: Loma
-born: 1733
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Deno'qai
+campaignInfo:
+- {campaign: grli, type: met, date: 1747-11-23}
+born: 1733
 gender: female
+name: Loma
 whereabouts: Raha
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1747
 title: Loma
 hide_toc: true
 ---
@@ -34,5 +38,11 @@ Loma is a young Deno’qai scout from the village of [Raha](<../../gazetteer/cen
 She is slim, quick on her feet, and wears her red hair long, in tight braids. 
 ## Events
 - Nov 24, 1747 DR - Dec 03, 1747 DR: Guided the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) south from [Raha](<../../gazetteer/central-highlands/raha.md>) toward the [western gates](<../../gazetteer/central-highlands/dwarven-kingdoms/thordun.md>) of [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>). En route the company investigated nearby [elven ruins](<../../gazetteer/central-highlands/tirnessa.md>) and narrowly escaped banshees before continuing on.
+
+
+
+
+
+
 
 

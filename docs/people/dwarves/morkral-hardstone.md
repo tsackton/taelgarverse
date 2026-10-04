@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-name: Morkral Hardstone
-born:
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: dwarf
 ancestry:
+born:
 gender: male
-whereabouts: Tokra
+name: Morkral Hardstone
 affiliations:
 - {org: Hardstones, type: primary}
+whereabouts: Tokra
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 title: Morkral Hardstone
 hide_toc: true
 ---
@@ -26,4 +30,11 @@ hide_toc: true
 
 
 [Fallthra Hardstone](<fallthra-hardstone.md>)'s brother. 
+
+
+
+
+
+
+
 

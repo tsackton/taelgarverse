@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: murdered by bandits}
-name: Gentza
-born: 1681
+tags: [person, status/check/lint]
 species: lizardfolk
+born: 1681
 gender: female
 died: 1719-10-27
+name: Gentza
 whereabouts:
 - {type: home, location: Ganboa}
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1719
 title: Gentza
 hide_toc: true
 ---
@@ -29,7 +33,11 @@ hide_toc: true
 ![Lizardfolk Gentza](/taelgarverse/assets/lizardfolk-gentza.webp){align="right"; width="320"}An apprentice lizardfolk herbalist, said to be skilled at experimenting with remedies. She is a regular at the [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) market where she sells herbal cures to humans, and is always interested in new maladies or remedies for them. She often sells to [Mermin Stonebridge](<../halflings/mermin-stonebridge.md>), a budding halfling merchant.
 
 
-In October of 1719, she was working on a new remedy for stomach aliments in humans, which was unfortunately mostly causing, rather than curing, sickness in her early tests. She was murdered by [François the Bandit](<../sembarans/francois-the-bandit.md>) and his accomplices as part of the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>), when she refused to accept their bribe to misuse a remedy of hers. 
+In October of 1719, she was working on a new remedy for stomach ailments in humans, which was unfortunately mostly causing, rather than curing, sickness in her early tests. She was murdered by [François the Bandit](<../sembarans/francois-the-bandit.md>) and his accomplices as part of the [Attempted Poisoning of Cleenseau](<../../events/1700s/1719/11/attempted-poisoning-of-cleenseau.md>), when she refused to accept their bribe to misuse a remedy of hers.
+
+
+
+
 
 
 

@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl]
-name: Ralvaz
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/gl, status/check/lint]
 species: human
 gender: male
+campaignInfo:
+- {campaign: grli, type: rescued, date: 1747-06-11}
+name: Ralvaz
 whereabouts:
 - {type: home, location: Voltara}
 - {type: away, end: 1747-06-11, location: Lonely Watchtower}
-campaignInfo:
-- {campaign: GL, type: rescued, date: 1747-06-11}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Ralvaz
 hide_toc: true
 ---
@@ -26,4 +30,10 @@ hide_toc: true
 
 
 
-Ralvaz is a mine captain from the chalyte mines near [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). He was caught up in the early raids by [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>) on [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) trade, and was kept as a prisoner at the  [Lonely Watchtower](<../../gazetteer/northwest-coast/northern-provinces/lonely-watchtower.md>) by [Raluhk](<../other-nonhumans/raluhk.md>) until he was rescued by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>). 
+Ralvaz is a mine captain from the chalyte mines near [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>). He was caught up in the early raids by [Grumella's Horde](<../../groups/orc-hordes/grumella-s-horde.md>) on [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) trade, and was kept as a prisoner at the [Lonely Watchtower](<../../gazetteer/northwest-coast/northern-provinces/lonely-watchtower.md>) by [Raluhk](<../other-nonhumans/raluhk.md>) until he was rescued by the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>).
+
+
+
+
+
+

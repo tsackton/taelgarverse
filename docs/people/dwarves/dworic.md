@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: dufr, person: Riswynn, type: met, date: 1748-08-25}
-name: Dworic
-born: 1502
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: dwarf
 ancestry:
+campaignInfo:
+- {campaign: dufr, person: Riswynn, type: met, date: 1748-08-25}
+born: 1502
 gender: male
+name: Dworic
 whereabouts:
 - {type: home, location: Ardith}
 - {type: away, start: 1575-09-19, end: 1748-08-26, location: Bleakhold}
 - {type: away, start: 1748-08-26, end: 1748-10-05, location: Dunmari Basin}
 - {type: home, start: 1748-10-05, location: Nardith}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Dworic
 hide_toc: true
 ---
@@ -39,5 +43,12 @@ A dwarven smith, born in [Ardith](<../../gazetteer/central-highlands/dwarven-kin
 
 In DR 1748, he was freed from [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>) by [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) and her companions, after the [Chalice of the Runepriest](<../../things/artifacts-of-power/chalice-of-the-runepriest.md>) was recovered. He joined the [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>) refugees who traveled with [Riswynn](<../pcs/dunmar-fellowship/riswynn.md>) to [Nardith](<../../gazetteer/greater-dunmar/realms/nardith/nardith.md>), and is now settled there. While time passes differently in the [Shadowfolds](<../../cosmology/demiplanes-and-echo-realms/shadowfolds.md>), the years were hard on those trapped there, and he looks his chronological age. 
 
-He has a nervous habit of sharpening his sword to the point of their being no edge at all, which he has found hard to shake even after being freed from [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>). 
+He has a nervous habit of sharpening his sword to the point of there being no edge at all, which he has found hard to shake even after being freed from [Bleakhold](<../../gazetteer/extraplanar/shadowfolds/morkalan/bleakhold.md>).
+
+
+
+
+
+
+
 

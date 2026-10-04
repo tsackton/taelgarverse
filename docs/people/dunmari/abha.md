@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: human
+ancestry: Dunmari
 campaignInfo:
 - {campaign: dufr, type: met, date: 1749-02-02}
-species: human
 gender: female
-ancestry: Dunmari
+image: abha-v2.jpg
 name: Abha
 affiliations: [Sonkar Mystai]
-image: '[[abha-v2.jpg]]'
 whereabouts:
 - {type: away, start: 1748-11-06, end: 1748-12-01, location: Nayahar}
 - {type: away, start: 1748-12-25, end: 1749-03-02, location: Copper Hills}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1740s
 title: Abha
 hide_toc: true
 ---
@@ -41,3 +45,10 @@ Abha, like [Sonkar](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pant
 
 
 During the [Sibling War](<../../events/1700s/sibling-war.md>), Abha served as an ally and advisor to [Nayan Karnas](<nayan-karnas.md>), using her divine powers to attempt to disentangle the truth, or lies, of rumors of [Agata](<../fey/agata.md>)'s influence on [Sura](<sura.md>). She was increasingly discredited by [Nayan Karnas](<nayan-karnas.md>) as he descended into paranoia, until the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) was able to at least partially get through to him. In the aftermath, she helped negotiate the end of the [Sibling War](<../../events/1700s/sibling-war.md>) between [Nayan Sura](<sura.md>) and [Nayan Karnas](<nayan-karnas.md>). 
+
+
+
+
+
+
+

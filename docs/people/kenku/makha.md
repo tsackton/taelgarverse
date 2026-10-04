@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: dufr, person: Wellby, date: 1748-10-12, type: met}
-name: Makha
-born: 1712
-activeYear: 1740
 species: kenku
 ancestry: Islander
+campaignInfo:
+- {campaign: dufr, person: Wellby, date: 1748-10-12, type: met}
+born: 1712
+activeYear: 1740
 gender: male
-whereabouts: Wahacha
+name: Makha
 pronunciation: MAH-kah
+whereabouts: Wahacha
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 title: Makha
 hide_toc: true
 ---
@@ -39,4 +43,9 @@ Makha knows the people of Wahacha well, including:
 
 - [Nahto](<nahto.md>) and [Skoda](<skoda.md>), a married couple, travelers and wanderers based out of Wahacha
 - [Rufus](<../pcs/dunmar-fellowship/guests/rufus.md>), a monster hunter, who hunts down threats to the island in exchange for food and shelter from the islanders
+
+
+
+
+
 

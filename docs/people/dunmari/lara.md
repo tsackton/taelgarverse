@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-name: Lara
-born: 1688
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
-title: Speaker Lara
 ancestry: Dunmari
+born: 1688
+title: Speaker Lara
 gender: female
+name: Lara
 affiliations:
 - {org: Lakan Mystai, type: leader}
 whereabouts: Lakan Monastery
-dm_notes: color
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: color
+POV: 1740s
 hide_toc: true
 ---
 # Speaker Lara
@@ -28,4 +32,11 @@ hide_toc: true
 
 
 The leader of the [Lakan Mystai](<../../groups/dunmari-mystery-cults/lakan-mystai.md>) in Tokra.
+
+
+
+
+
+
+
 

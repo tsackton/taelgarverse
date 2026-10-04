@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: lizardfolk
+ancestry:
 campaignInfo:
 - {campaign: dufr, person: Kenzo, date: 1748-09-30, type: met}
 - {campaign: dufr, person: Kenzo, date: 1748-11-04, type: last seen}
-name: Elazar
 born: 1665
-species: lizardfolk
-ancestry:
 gender: male
-whereabouts: Bedez
 activeYear: 1735
+name: Elazar
+whereabouts: Bedez
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Elazar
 hide_toc: true
 ---
@@ -41,6 +45,13 @@ hide_toc: true
 
 - 1748 DR. Elazar began to acquire a reputation as far-sighted and wise, after he warned of the troubles of the [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>). 
 - Sep 30, 1748 DR. Elazar met [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) when [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) appeared in [Orekatu](<../../gazetteer/faraway-places/orekatu.md>). Taught [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) the lizardfolk language and introduced him to lizardfolk spiritual practices over the next month.
+
+
+
+
+
+
+
 
 
 

@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-born: 1679
-whereabouts: Taviose
-gender: female
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1679
+gender: female
+name: Phillipa Northwood
+whereabouts: Taviose
+knownTo: [clee]
 dm_owner: none
 dm_notes: none
+POV: 1720
 title: Phillipa Northwood
 hide_toc: true
 ---
@@ -28,3 +33,9 @@ hide_toc: true
 She lives with her wife and their two teenage children and her older brother, who was widowed by the [Cleenseau Spider Attacks](<../../events/1700s/1719/10/cleenseau-spider-attacks.md>). Her niece and her niece's husband live next door. Her oldest child and her son-in-law died in the spider attacks. 
 
 The Northwood family is the largest family in Tavoise, especially after the spider attacks decimated the Moss family, but they have always been poorer, labor-and-leaseholders, not freeholders, and that has not changed.
+
+
+
+
+
+

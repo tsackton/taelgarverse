@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text]
-name: Bertram II
-born: 1537
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1537
 gender: male
 died: 1561-01-17
 title: King Bertram II
+name: Bertram II
 affiliations:
 - {place: Sembara, title: High King, start: 1555}
 - {place: Ardlas, title: High King, start: 1555}
 - {place: Lavnoch, title: High King, start: 1555}
 - {place: Breva, title: High King, start: 1555}
 - {org: House of Sewick, type: primary}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 hide_toc: true
 ---
 # King Bertram II
@@ -31,5 +35,11 @@ hide_toc: true
 
 
 The eldest child of [Reginald](<reginald.md>), he was a ruler of Sembara in the 1550s. 
+
+
+
+
+
+
 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: ['place, status/check/ai']
 typeOf: waterway
 whereabouts: Northern Green Sea
 dm_owner: none

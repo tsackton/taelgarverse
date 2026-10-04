@@ -1,16 +1,23 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-gender: female
-ancestry: Sembaran
 species: human
+ancestry: Sembaran
+gender: female
+name: Emmeline
+pronunciation: EM-uh-line
+whereabouts: Fellburn
+knownTo: []
 dm_owner: none
 dm_notes: none
-whereabouts: Fellburn
-title: Emmeline of Fellburn
+POV: undated
+title: Emmeline
 hide_toc: true
 ---
-# Emmeline of Fellburn
+# Emmeline
+:speaker:{ .middle } *(EM-uh-line)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -22,4 +29,9 @@ hide_toc: true
 
 
 Emmeline of Fellburn is a priest who wrote eloquently about her experience of returning from death and the [Land of the Dead](<../../cosmology/land-of-the-dead.md>).
+
+
+
+
+
 

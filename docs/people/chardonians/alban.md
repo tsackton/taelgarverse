@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-25T09:29:24-04:00'
 lintVersion: '3.5'
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -11,6 +11,7 @@ born: 1719
 gender: male
 died: 1748-03-18
 name: Alban
+pronunciation: AHL-bahn
 affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
@@ -25,6 +26,7 @@ title: Alban
 hide_toc: true
 ---
 # Alban
+:speaker:{ .middle } *(AHL-bahn)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -50,8 +52,6 @@ An adventurer associated with the [Society of the Open Scroll](<../../groups/cha
 
 Traveled with [Dee Wildcloak](<../halflings/dee-wildcloak.md>) and [Dain Goldhammer](<../dwarves/dain-goldhammer.md>) to [Stormcaller Tower](<../../gazetteer/greater-dunmar/hara-basin/stormcaller-tower.md>), where he was killed. 
 ## Chronology
-
-
 
 
 

@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1749-08-06, type: met}
-name: Szoltár
-born:
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: hobgoblin
 ancestry:
+campaignInfo:
+- {campaign: dufr, date: 1749-08-06, type: met}
+born:
 gender: male
+name: Szoltár
 aliases: [Szoltár]
+pronunciation: SOHL-tahr
 whereabouts:
 - {type: away, end: 1749-08-06, location: Plaguelands}
 - {type: away, start: 1749-08-07, end: 9999, location: Mirror of Soul Trapping}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
-pronunciation: SOHL-tahr
+POV: 1749
 title: Szoltár
 hide_toc: true
 ---
@@ -36,4 +40,10 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on August 6th, 1749 in the [Plaguelands](<../../gazetteer/upper-istaros/plaguelands.md>)  
 
 
-![Szoltar](/taelgarverse/assets/szoltar.webp){align="right"; width="400"}A captured solider in the army of the [Empress of Chaos](<empress-of-chaos.md>). 
+![Szoltar](/taelgarverse/assets/szoltar.webp){align="right"; width="400"}A captured soldier in the army of the [Empress of Chaos](<empress-of-chaos.md>).
+
+
+
+
+
+

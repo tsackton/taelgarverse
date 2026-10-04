@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Rothfis
-born:
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+displayDefaults: {aNoDate: Traveled with <affiliations>}
+tags: [person, status/check/lint]
 species: dwarf
 ancestry:
+born:
 gender:
 player: Phil Grayson
-excludePublish: [clee]
-whereabouts: Chardon
-displayDefaults: {aNoDate: Traveled with <affiliations>}
+name: Rothfis
 affiliations:
-- {org: Dunmar Fellowship, title: Guest"}
+- {org: Dunmar Fellowship, title: Guest}
+whereabouts: Chardon
+knownTo: [dufr]
+excludePublish: [clee]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Rothfis
 hide_toc: true
 ---
@@ -29,4 +33,10 @@ hide_toc: true
 </div>
 
 
-A dwarven monk, retired adventurer, and barkeep; owner of a bar in Chardon. Summoned to repay a debt he owned through marriage, from his now ex-wife's clan, the Ironcorns. Not happy about it. 
+A dwarven monk, retired adventurer, and barkeep; owner of a bar in Chardon. Summoned to repay a debt he owed through marriage, from his now ex-wife's clan, the Ironcorns. Not happy about it.
+
+
+
+
+
+

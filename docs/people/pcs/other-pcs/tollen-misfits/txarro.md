@@ -1,17 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: lizardfolk
 gender: male
 born: 1717
 player: Tim Sackton
-dm_owner: player
-dm_notes: none
+name: Txarro
 pronunciation: CHAH-roh
 whereabouts:
 - {type: home, location: Greywash}
 - {type: home, location: Tollen}
 - {type: away, start: 1740-10-05, location: Twilight Kingdom}
+knownTo: [feywild]
+dm_owner: player
+dm_notes: none
+POV: 1740
 title: Txarro
 hide_toc: true
 ---
@@ -31,7 +36,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Last known location (as of October 5th, 1740): the [Twilight Kingdom](<../../../../gazetteer/extraplanar/feywild/twilight-kingdom/twilight-kingdom.md>), the [Feywild](<../../../../cosmology/feywild.md>), [Multiverse](<../../../../cosmology/multiverse.md>)
 
 
-![Txarro](/taelgarverse/assets/txarro.webp){align="right"; width="350"}Txarro was born in a small lizardfolk village along the Greywash. His community was fairly isolated, even from other lizardfolk, in a marshy curve about a day and a half walk from Tollen. The Greywash provided a rich abundance for his village, and has a child and young adult he rarely interacted with other species, preferring to wander upriver along the marshy banks of the river, searching for hidden life among the reeds and rushes. He discovered he had some skill with animals, and could often charm small birds into his hand, or convince the shy mammals of the riverbank to be still in his presence. 
+![Txarro](/taelgarverse/assets/txarro.webp){align="right"; width="350"}Txarro was born in a small lizardfolk village along the Greywash. His community was fairly isolated, even from other lizardfolk, in a marshy curve about a day and a half walk from Tollen. The Greywash provided a rich abundance for his village, and as a child and young adult he rarely interacted with other species, preferring to wander upriver along the marshy banks of the river, searching for hidden life among the reeds and rushes. He discovered he had some skill with animals, and could often charm small birds into his hand, or convince the shy mammals of the riverbank to be still in his presence.
 
 Over the years, he often wandered further and further afield, traveling for days along the Volta and its tributaries, exploring aimlessly, never sure what he was looking for. He learned to observe quietly, coax animals to do his bidding, and even began to sense the flow of extraplanar energy moving through Taelgar, experimenting with channeling the ambient [soulstuff](<../../../../cosmology/planar-concepts/soulstuff.md>) that accretes in small quantities to all sentient things. Slowly, through these experiments, he began to learn a bit of magic, and increasingly spent his time wandering, often venturing a week or more from home, sometimes to the dismay of the elders of his village who wished for him to contribute more productively to the community. 
 
@@ -39,4 +44,10 @@ A year or two ago, everything changed. Exploring several days upriver from Tolle
 
 The experience shook him. In gratitude, he promised to help these travelers however he could, and ended up agreeing to travel with them for the next three months. Three months turned to six, which turned to a year, as he realized he liked these people, and had found in this group of misfits and outcasts a community that had been missing all his life. He decided to move to Tollen and join this group, even though he disliked the noise and crowds of the city. 
 
-This was not a popular decision with his village: the elders and his ancestors did not think it right for him to devote his talents to these strangers and not his own people. His parting was difficult, and some harsh words were said he sometimes regrets. But for now, he continues, searching for something to give his life direction and purpose. 
+This was not a popular decision with his village: the elders and his ancestors did not think it right for him to devote his talents to these strangers and not his own people. His parting was difficult, and some harsh words were said that he sometimes regrets. But for now, he continues, searching for something to give his life direction and purpose.
+
+
+
+
+
+

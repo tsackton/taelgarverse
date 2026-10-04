@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-06-05, type: '[[Session 31 (DuFr)|Freed]] from living wood', format: '<met:x> <person:q> on <target> <current:3Frq>'}
-name: Kaya
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, date: 1748-06-05, type: '[[Session 31 (DuFr)|Freed]] from living wood', format: '<met:x> <person:q> on <target> <current:3Frq>'}
 gender: female
-excludePublish: [clee]
+name: Kaya
 whereabouts:
 - {type: away, start: 1748-06-05, location: Bas Udda}
 - {type: away, start: 1748-06-08, end: 9999, location: Karawa}
-dm_notes: important
+knownTo: [dufr]
+excludePublish: [clee]
 dm_owner: tim
+dm_notes: important
+POV: '1748'
 title: Kaya
 hide_toc: true
 ---
@@ -34,4 +38,11 @@ hide_toc: true
 
 
 A young Dunmari woman, trapped for many, many years as [Agata](<../fey/agata.md>)'s chair. 
+
+
+
+
+
+
+
 

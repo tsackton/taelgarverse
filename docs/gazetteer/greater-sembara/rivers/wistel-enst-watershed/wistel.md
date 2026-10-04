@@ -27,5 +27,5 @@ Major tributaries include:
 * From the [Aine Hills](<../../sembara/aine-hills.md>), numerous small brooks, the most prominent of which are the Wetherburn and the Mereburn
 * the [Bollin](<bollin.md>), with a confluence near [Ainwick](<../../sembara/barony-of-ainwick/ainwick.md>)
 * West of [Gowerbourne](<../../sembara/heartlands/gowerbourne.md>), the [Chemelle](<chemelle.md>) which flows south from the [Aine Hills](<../../sembara/aine-hills.md>), and the [Rindle](<rindle.md>), which flows north from Wisford
-* Between [Gowerbourne](<../../sembara/heartlands/gowerbourne.md>) and [Wisford](<../../sembara/heartlands/wisford.md>): the [Lanting](<lanting.md>), and several small brooks, the most prominent of which are Holling Brook and Ashwell Brook
+* Between [Gowerbourne](<../../sembara/heartlands/gowerbourne.md>) and [Wisford](<../../sembara/heartlands/wisford.md>): the [Lanting](<lanting.md>), and several small brooks, the most prominent of which are Holling Brook and [Ashwell Brook](<../ashwell-brook.md>)
 * East of [Wisford](<../../sembara/heartlands/wisford.md>): the [Brunebeck](<brunebeck.md>), which joins the Wistel at Wisford

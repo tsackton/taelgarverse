@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
-name: Nayan Karnas
-aliases: [Karnas]
-born: 1716
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Dunmari
+born: 1716
 gender: male
 title: Samraat Nayan Karnas
+name: Nayan Karnas
+aliases: [Karnas]
 affiliations:
 - {org: Nayan Dynasty, type: primary}
 - {org: Dunmar, type: leader, start: 1740}
 whereabouts:
 - {type: home, end: 1737, location: Darba}
 - {type: home, start: 1738, location: Nayahar}
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 hide_toc: true
 ---
 # Samraat Nayan Karnas
@@ -36,4 +40,11 @@ hide_toc: true
 
 
 The current Samraat of [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>), of the Nayan dynasty. Brother to [Sura](<sura.md>), whom he thought dead. 
+
+
+
+
+
+
+
 

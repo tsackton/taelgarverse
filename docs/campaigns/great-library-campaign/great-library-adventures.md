@@ -10,6 +10,7 @@ Herein lies the chronicles of the [Silver Tempests](<../../people/pcs/silver-tem
 
 ## Arcs
 
+
 | Arc | Chronicle                                                                                                                                               | Start (DR)   | End (DR)     |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ |
 | 1   | [Chronicles of the Quest for the Elemental Scrolls](<session-notes/great-library-session-notes-arc-1.md>)            | Feb 16, 1747 | Jul 28, 1747 |
@@ -18,6 +19,7 @@ Herein lies the chronicles of the [Silver Tempests](<../../people/pcs/silver-tem
 | 4   | [Chronicles of the Silver Tempests Ascendant](<session-notes/great-library-session-notes-arc-4.md>)                  | Dec 24, 1747 | Aug 25, 1748 |
 | 5   | [Chronicles of the Quest for Answers to Extraplanar Mysteries](<session-notes/great-library-session-notes-arc-5.md>) | Aug 26, 1748 | Jun 29, 1752 |
 | 6   | [Chronicles of Zadkai's Return and the Scouring Wind](<session-notes/great-library-session-notes-arc-6.md>)          | Jun 29, 1752 | —            |
+
 ## The Elemental Scrolls
 *The Silver Tempests get their start as hired hands for the Great Library.*
 
@@ -54,3 +56,10 @@ After months of waiting, clues to the mysterious disappearance of [Urkabi](<../.
 After a few weeks of recovery and research, the [Silver Tempests](<../../people/pcs/silver-tempests/silver-tempests.md>) enter [Cairn Dor](<../../gazetteer/extraplanar/shadowfolds/cairn-dor/cairn-dor.md>), where they learn that the sleeping dreamers sustain the [Shemra Azem](<../../groups/shemra-azem.md>) and keep [Yeshara](<../../people/extraplanar-powers/yeshara.md>) from harm. With the aid of [Joram of Eshlem](<../../people/deno-qai/joram-of-eshlem.md>), the party finds the [Wolf Queen's Stillings](<../../gazetteer/extraplanar/shadowfolds/cairn-dor/wolf-queen-s-stillings.md>), awakens the kidnapped lizardfolk, and causes their [Shemra Azem](<../../groups/shemra-azem.md>) guards to fall before defeating [Yeshara](<../../people/extraplanar-powers/yeshara.md>) herself. But when the wolf-eyed queen falls, the party, the rescued dreamers, and the people of [Cairn Dor](<../../gazetteer/extraplanar/shadowfolds/cairn-dor/cairn-dor.md>) fall into a magical sleep. [Samso](<../../people/pcs/silver-tempests/samso.md>), protected from the enchantment in earth elemental form, wanders the realm alone for years before finally joining his companions in sleep. When the party and the rescued dreamers awaken, they discover that almost four years have passed, though the people of [Cairn Dor](<../../gazetteer/extraplanar/shadowfolds/cairn-dor/cairn-dor.md>) remain asleep. They escape through a portal to [Enderra](<../../gazetteer/greater-chardon/chardonian-empire/apporia/enderra.md>) and escort the surviving lizardfolk, including much of [Samso](<../../people/pcs/silver-tempests/samso.md>)'s family, back to [Urkabi](<../../gazetteer/greater-chardon/chardonian-empire/apporia/urkabi.md>). Along the way, they learn that [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) is in chaos and the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>) have split from the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>). 
 
 This full story is told in the [Chronicles of the Quest for Answers to Extraplanar Mysteries](<session-notes/great-library-session-notes-arc-5.md>).
+
+## The Scouring Wind
+*The Silver Tempests are dragged into conflicts among the djinn of the Elemental Plane of Air*
+
+Upon their return from [Cairn Dor](<../../gazetteer/extraplanar/shadowfolds/cairn-dor/cairn-dor.md>), the Silver Tempests learn that Zadkai has returned, and are asked by [Silverstorm](<../../people/other-nonhumans/silverstorm.md>) to find [Airion's Secret Lair](<../../gazetteer/northwest-coast/airion-s-secret-lair.md>) and learn what Zadkai is seeking there. 
+
+This ongoing story is told in the [Chronicles of the Return of Zadkai and the Scouring Wind](<session-notes/great-library-session-notes-arc-6.md>). 

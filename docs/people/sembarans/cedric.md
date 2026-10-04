@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-23T23:02:51-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/mike, status/check/lint]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1684
@@ -32,8 +32,7 @@ hide_toc: true
 
 A transman who lived in [Underhill](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/underhill.md>), he was killed by a zombie during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) along with his unborn child. He lived at [Tumbledown Farm](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/tumbledown-farm.md>), and was quiet and preferred the company of his husband (a soldier in the [Army Garrison of Cleenseau](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>)) to large groups.
 
-He was found near [Auloutte](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/auloutte.md>) by [Gideon Thorne](<gideon-thorne.md>) and some other fishers.
-
+His body was found near [Auloutte](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/auloutte.md>) by Lucien, a local fisherman with the assistance of [Gideon Thorne](<gideon-thorne.md>).
 
 
 

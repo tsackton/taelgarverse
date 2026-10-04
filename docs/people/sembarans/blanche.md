@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-whereabouts: Beury
-gender: female
-ancestry: Sembaran
 species: human
+ancestry: Sembaran
+gender: female
 born: 1687
-dm_notes: none
+name: Blanche
+whereabouts: Beury
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 title: Blanche
 hide_toc: true
 ---
@@ -23,4 +28,8 @@ hide_toc: true
 </div>
 
 
-![Blanche of Beury](/taelgarverse/assets/blanche-of-beury.webp){align="right"; width="320"}[Lionel's](<lionel-mortagne.md>) right hand, and the magistrate of [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>). 
+![Blanche of Beury](/taelgarverse/assets/blanche-of-beury.webp){align="right"; width="320"}[Lionel's](<lionel-mortagne.md>) right hand, and the magistrate of [Beury](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/beury.md>).
+
+
+
+

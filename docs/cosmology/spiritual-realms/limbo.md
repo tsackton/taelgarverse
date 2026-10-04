@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-08-25T23:38:37-04:00'
 lintVersion: '3.5'
-tags: [place, status/check/mike]
+tags: [place]
 typeOf: plane
 name: Limbo
 whereabouts:
@@ -18,17 +18,18 @@ title: Limbo
 </div>
 
 
+Limbo, the fundamental plane of chaos, is a plane defined by constant, unceasing transformation, a place of disorder where few dare tread and reliable reports are few and far between. Scattered fragments of lost poems and confused ramblings, as recorded by [Gaius Devarro](<../../people/historical-figures/gaius-devarro.md>) in his treatise [On Minds and Chaos](<../../things/books/on-minds-and-chaos.md>), speak of a place of churning chaos where nothing holds its shape for long: stone melts to water, which freezes to fire at a whim, before bursting into diamond that blows away as snow. [Marcion of Iridel](<../../people/historical-figures/marcion-of-iridel.md>), quoting a fragment of a lost work known as [The Unstable Sphere](<../../things/books/the-unstable-sphere.md>), called it "the endless unmaking," suggesting a domain of constant, unceasing, chaotic transformation. 
+
+The fundamentally shifting and chaotic nature of Limbo make travel and exploration of this plane particularly difficult. Marcion recorded that ancient scholars considered Limbo impossible to map in any meaningful way, though this does not mean it is featureless. Gaius Devarro collected many tales of seemingly impossible stable spaces: sanctuaries, of a kind, held solid by acts of impossible concentration by intellects of iron. He describes massive rocks floating like icebergs in empty space, never changing, hollowed out into laboratories of transmutation, and impossible towers that twist in space, stretching to pinnacles of elemental power. No tale collected by Gaius speaks with authority on the content of these sanctuaries, however.
 
 
-Relatively few reliable reports of planar travelers have come from the plane known as Limbo. Scattered fragments of lost poems and confused ramblings, collected by [Gaius Devarro](<../../people/historical-figures/gaius-devarro.md>) in his treatise [On Minds and Chaos](<../../things/books/on-minds-and-chaos.md>), hint at a place of churning chaos, where nothing holds its shape for long; stone melts to water, which freezes to fire at a whim, before bursting into a diamond that blows away as snow. [Marcion of Iridel](<../../people/historical-figures/marcion-of-iridel.md>), quoting a fragment of a lost treatise called the [The Unstable Sphere](<../../things/books/the-unstable-sphere.md>), called it "the endless unmaking," suggesting a domain of constant, unceasing, chaotic transformation. More recently, [Arryn of Tollen](<../../people/other-humans/arryn.md>) complied a series of inferred principles of the nature of Limbo in [Experiments upon the Planar Substance](<../../things/books/experiments-upon-the-planar-substance.md>). 
+More recently, [Arryn of Tollen](<../../people/other-humans/arryn.md>) complied a series of inferred principles of the nature of Limbo in [Experiments upon the Planar Substance](<../../things/books/experiments-upon-the-planar-substance.md>). 
 
+### Origins
 The origins of Limbo defy any explanation, although [Yendalo](<../../people/historical-figures/yendalo.md>) speculated that Limbo may in fact be a shifting wound in reality itself, where the fundamental essences of existence refuse to take any permanent shape.
 
 
-
-
-
-Limbo, the fundamental plane of chaos, is a plane defined by constant, unceasing transformation. As recorded by [Gaius Devarro](<../../people/historical-figures/gaius-devarro.md>) in his treatise [On Minds and Chaos](<../../things/books/on-minds-and-chaos.md>), nothing in Limbo holds its shape for long: stone melts to water, which freezes to fire at a whim, before bursting into diamond that blows away as snow. [Marcion of Iridel](<../../people/historical-figures/marcion-of-iridel.md>), quoting a fragment of a lost work known as [The Unstable Sphere](<../../things/books/the-unstable-sphere.md>), called it "the endless unmaking," suggesting a domain of constant, unceasing, chaotic transformation. The fundamentally shifting and chaotic nature of Limbo make travel and exploration of this plane particularly difficult. Marcion recorded that ancient scholars considered Limbo impossible to map in any meaningful way, though this does not mean it is featureless. Gaius Devarro collected many tales of seemingly impossible stable spaces: sanctuaries, of a kind, held solid by acts of impossible concentration by intellects of iron. He describes massive rocks floating like icebergs in empty space, never changing, hollowed out into laboratories of transmutation, and impossible towers that twist in space, stretching to pinnacles of elemental power. No tale collected by Gaius speaks with authority on the content of these sanctuaries, however.
+One possible account holds that Limbo took recognizable form during the [Riving](<../planar-concepts/riving.md>). [Seeker of Highkeep](<../../people/pcs/dunmar-fellowship/seeker.md>), reporting on the lore gathered in the Impossible Tower, claimed that stories told in Limbo -- by who, or what, is not always clear -- spoke of a great war between chaos and order that raged across the Primordial Cosmos, that ended in defeat when [Limbo](<limbo.md>) was created as a containment vehicle for the essence of chaos. Whether this reflects the plane's true origins, or is a distorted view of the entities that persist in Limbo, is unknown. 
 
 ## Travel and Survival in Limbo
 
@@ -47,8 +48,6 @@ There are no recorded scholarly works that identify any native inhabitants of Li
 Nonetheless, a provocative theory, emerging from the work of [Paulina Nusinius](<../../people/chardonians/paulina-nusinius.md>) shortly after the [Great War](<../../events/1500s/great-war.md>), claimed that while Limbo has no native inhabitants, [Cha'mutte](<../../people/extraplanar-powers/cha-mutte.md>) was in some sense part of Limbo itself, or at least had the power and ability to draw Limbo closer to the Material Plane, strengthening his power through control of planar tides. Paulina claimed that this association explained many otherwise hard-to-reconcile facts, including the substantial reshaping that occurred in regions around the world after Cha'mutte's death. While this theory remains controversial, the adventures of the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) provide some [substantiation](<../../campaigns/dunmari-frontier-campaign/dreams-and-visions/the-last-jade-vision.md>): the essence of Limbo was woven into and central to the prison that Cha'mutte built to hold Apollyon. 
 
 Further, the connection between the Plaguelands and Limbo links Cha'mutte to this plane. Though [Harbek Ferrystone](<../../people/dwarves/harbek-ferrystone.md>)'s predictions in [Planar Tides in Relation to the Dangers of the Plaguelands](<../../things/books/planar-tides-in-relation-to-the-dangers-of-the-plaguelands.md>) failed to predict the [War of the Ashen Horde](<../../events/1700s/1720/war-of-the-ashen-horde.md>), discrediting a direct model of the [Plaguelands](<../../gazetteer/upper-istaros/plaguelands.md>) as Limbo-tainted for several decades, this connection was directly confirmed by the [discoveries](<../../campaigns/dunmari-frontier-campaign/mirror-visions/heartroot-vision.md>) of the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) in the [summer of DR 1749](<../../campaigns/dunmari-frontier-campaign/session-notes/session-134-dufr.md>), during and after the [Battle of Heartroot Vale](<../../events/1700s/1749/battle-of-heartroot-vale.md>). 
-
-
 
 
 

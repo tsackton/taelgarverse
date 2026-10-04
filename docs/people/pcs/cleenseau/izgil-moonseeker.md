@@ -1,22 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-name: Izgil Moonseeker
-born: 1453
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: dwarf
 ancestry:
+born: 1453
 gender: male
 player: Matt Rand
+name: Izgil Moonseeker
+aliases: [Durgil Barzinduk, Izgil]
 affiliations:
 - {org: Gemcrafters, type: primary}
 - {org: Heroes of Cleenseau}
-aliases: [Durgil Barzinduk, Izgil]
-dm_owner: player
-dm_notes: important
 whereabouts:
 - {type: home, end: 1719, location: Nidzahar}
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+knownTo: [clee]
+dm_owner: player
+dm_notes: important
+POV: 1719
 title: Izgil Moonseeker
 hide_toc: true
 ---
@@ -35,7 +39,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Last known location (as of January 16th, 1720): [Champimont](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/champimont.md>), the [Barony of Aveil](<../../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>), [Sembara](<../../../gazetteer/greater-sembara/sembara/sembara.md>)
 
 
-![Izgil Moonseeker](/taelgarverse/assets/izgil-moonseeker.webp){align="right"; width="420"}Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [Gemcrafters](<../../../groups/dwarven-clans/gemcrafters.md>) clan in [Nidzahar](<../../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>).
+![Izgil Moonseeker](/taelgarverse/assets/izgil-moonseeker.webp){align="right"; width="420"}Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has a sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [Gemcrafters](<../../../groups/dwarven-clans/gemcrafters.md>) clan in [Nidzahar](<../../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>).
 
 ??? info "Izgil's Background (For Matt's Eyes Only)"
 	Izgil was born in the year 5586 by the ancient count of the dwarves, or 1453 in the reckoning used by the humans. He was born in the backwater kingdom of [Nidzahar](<../../../gazetteer/central-highlands/dwarven-kingdoms/nidzahar.md>) in the years before the [Great War](<../../../events/1500s/great-war.md>). He never quite fit into the role his family and clan made for him. When he went through his naming ritual he took the name Durgil and earned his thuhr as one of the Travelers, followers of Maganna, and settled into a role of traveling merchant. By 5617, he was traveling amongst the humans, trading minerals and crafted works for food and other fine things from far and wide.  
@@ -68,3 +72,8 @@ hide_toc: true
 ### Items
 | Image | Name | Type | Mechanics |
 | ----- | ---- | ---- | --------- |
+
+
+
+
+

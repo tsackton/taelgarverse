@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: fey
 subspecies: satyr
+name: Ampelos
 whereabouts: Tyrwingha
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: modern
 title: Ampelos
 hide_toc: true
 ---
@@ -21,4 +26,11 @@ hide_toc: true
 
 
 A satyr, fond of humans, wine, and music.
+
+
+
+
+
+
+
 

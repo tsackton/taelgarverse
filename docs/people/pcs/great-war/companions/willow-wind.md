@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Willow Wind
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: fox
 subspecies: spirit
 gender: male
 player: Mike Sackton
+name: Willow Wind
 affiliations:
 - {org: Heroes of the Great War, title: Companion}
+knownTo: []
 dm_owner: mike
 dm_notes: color
+POV: 1540s
 title: Willow Wind
 hide_toc: true
 ---
@@ -25,3 +29,9 @@ hide_toc: true
 
 
 A mystical fox spirit, the companion of [Beryl](<../beryl.md>)
+
+
+
+
+
+

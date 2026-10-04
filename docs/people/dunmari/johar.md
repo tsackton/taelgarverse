@@ -1,18 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo:
-- {campaign: DuFr, date: 1748-06-30, type: first met}
-- {campaign: DuFr, date: 1748-07-16, type: began traveling, format: '<met:U> with <person> on <target> <current:2qr>'}
-- {campaign: DuFr, date: 1748-08-08, type: parted ways, format: '<met:U> with <person> on <target> <current:2qr>'}
-- {campaign: DuFr, date: 1748-10-22, type: scryed, person: Delwath}
-- {campaign: DuFr, date: 1748-11-17, type: reached by Sending, person: Riswynn, format: '<met:tx> cast by <person> on <target> <current:2qr>'}
-- {campaign: DuFr, date: 1749-02-01, type: reunited, format: '<met:t> with <person> on <target> <current:2qr>'}
-name: Johar
-born: 1721
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, date: 1748-06-30, type: first met}
+- {campaign: dufr, date: 1748-07-16, type: began traveling, format: '<met:U> with <person> on <target> <current:2qr>'}
+- {campaign: dufr, date: 1748-08-08, type: parted ways, format: '<met:U> with <person> on <target> <current:2qr>'}
+- {campaign: dufr, date: 1748-10-22, type: scryed, person: Delwath}
+- {campaign: dufr, date: 1748-11-17, type: reached by Sending, person: Riswynn, format: '<met:tx> cast by <person> on <target> <current:2qr>'}
+- {campaign: dufr, date: 1749-02-01, type: reunited, format: '<met:t> with <person> on <target> <current:2qr>'}
+born: 1721
 gender: male
+name: Johar
 whereabouts:
 - {type: home, location: Tokra}
 - {type: away, start: 1748-07-17, end: 1748-08-07, location: dufr}
@@ -22,8 +24,10 @@ whereabouts:
 - {type: away, start: 1748-12-25, end: 1749-02-01, location: Copper Hills}
 - {type: away, start: 1749-02-01, end: 1749-03-02, location: Copper Hills}
 - {type: away, start: 1749-03-02, location: traveling to Tokra}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1748
 title: Johar
 hide_toc: true
 ---
@@ -54,7 +58,7 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22th, 1748 in [Nayahar](<../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22nd, 1748 in [Nayahar](<../../gazetteer/greater-dunmar/realms/dunmar/western-dunmar/nayahar.md>), [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)  
 
 
 
@@ -65,6 +69,12 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Reunited with the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on February 1st, 1749 in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>)  
 
 
-![Johar](/taelgarverse/assets/johar.webp){align="left"; width="450"}Johar is a confidant and close friend of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s from the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). He works in the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), primary interested in documenting the miracles of [Laka](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>), and the history of the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) and the community there. 
+![Johar](/taelgarverse/assets/johar.webp){align="left"; width="450"}Johar is a confidant and close friend of [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>)'s from the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) in [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). He works in the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>), primarily interested in documenting the miracles of [Laka](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/laka.md>), and the history of the [Lakan Monastery](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/lakan-monastery.md>) and the community there.
+
+
+
+
+
+
 
 

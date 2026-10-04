@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Morgaine
-born: 1600
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Tyrwinghan
+born: 1600
 gender: female
 died: 1713
+name: Morgaine
 affiliations:
 - {org: House of Lils, type: primary}
 - {org: Oracle of the Riven, title: the Oracle of the Red, start: 1633}
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 title: Morgaine
 hide_toc: true
 ---
@@ -28,5 +32,9 @@ hide_toc: true
 
 
 One of the founders of the [House of Lils](<../../../groups/sembaran-noble-houses/house-of-lils.md>), originally an [Oracle of the Riven](<../../../groups/oracle-of-the-riven.md>).
+
+
+
+
 
 

@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Isinguer
 gender: female
+name: Aveline of Isingue
+knownTo: []
 dm_owner: none
 dm_notes: color
+POV: modern
 title: Aveline of Isingue
 hide_toc: true
 ---
@@ -19,4 +24,10 @@ hide_toc: true
 </div>
 
 
-Aveline was a painter who lived and worked in [Isingue](<../../gazetteer/upper-istaros/isingue.md>), known for her vibrant and imaginative use of color. 
+Aveline was a painter who lived and worked in [Isingue](<../../gazetteer/upper-istaros/isingue.md>), known for her vibrant and imaginative use of color.
+
+
+
+
+
+

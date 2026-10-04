@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-name: Viepuck
-born: 1706-10-01
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1706-10-01
 gender: male
-dm_owner: player
-dm_notes: important
 player: Chris Kelly
+name: Viepuck
 aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer, Najeer Garay]
 affiliations: [Heroes of Cleenseau]
 whereabouts:
 - {type: home, end: 1719, location: Embry}
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+knownTo: [clee]
+dm_owner: player
+dm_notes: important
+POV: 1719
 title: Viepuck
 hide_toc: true
 ---
@@ -52,7 +56,7 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 	
 	After about 2 years with the thieves, several of the older ringleaders were caught and hanged by the city watch and the group fell apart. Viepuck and [Tal](<../../sembarans/tal.md>) ended up at the [Lord Mayor’s Workhouse](<../../../gazetteer/greater-sembara/sembara/heartlands/lord-mayors-workhouse.md>), a safe enough place for older children. The work was long and hard – making fine clothes, mostly – but it was well-suited to small fingers, and the place provided a solid two meals a day, meat on feast days, and a small stipend of coins each month. Even though the older children stole most of the coins, it was a safe and secure place, such as these things go. A year passed quickly, and [Tal](<../../sembarans/tal.md>) got a job as a cabin boy on a riverboat trading along the [Semb](<../../../gazetteer/greater-sembara/rivers/semb-watershed/semb.md>) and moved on, although they ran into each other for a bit when [Tal](<../../sembarans/tal.md>) was in town now and then.
 	
-	As 4 Robert I dawned, changes came to the [Lord Mayor’s Workhouse](<../../../gazetteer/greater-sembara/sembara/heartlands/lord-mayors-workhouse.md>). A elderly woman with a thick body and stern face took charge, and work slowed down. More and more children were sent out to various ‘external apprenticeships’ and few or none returned. Rumors spread both good and bad: few truly believed that she was able to find so many apprenticeships for orphaned children.
+	As 4 Robert I dawned, changes came to the [Lord Mayor’s Workhouse](<../../../gazetteer/greater-sembara/sembara/heartlands/lord-mayors-workhouse.md>). An elderly woman with a thick body and stern face took charge, and work slowed down. More and more children were sent out to various ‘external apprenticeships’ and few or none returned. Rumors spread both good and bad: few truly believed that she was able to find so many apprenticeships for orphaned children.
 	
 	One day, in the early winter of 6 Robert I, Viepuck was selected for an apprenticeship with a scholar. This turned out to be a formative experience, where he [met his patron and was almost sacrificed to a dark portal](<../../../events/1700s/1718/01/viepuck-s-ritual-experience.md>). He came out of the experience alive, and with a new iridescent sphere reminiscent of a robin's egg, and a new mysterious alien mind watching the world through him.
 	
@@ -82,16 +86,16 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 	 This section lists the disguises Viepuck has used, so I can keep track if nothing else.
 	
 	**Vala Xendra** (she/her)
-	A poorly dressed lower class servant woman from whereever she needs to be. Usually seen carrying a basket or laundry or some other mundane item. In her late teens.
+	A poorly dressed lower class servant woman from wherever she needs to be. Usually seen carrying a basket or laundry or some other mundane item. In her late teens.
 	
 	![Vala Screenshot](/taelgarverse/assets/vala-screenshot.png)
 	
 	**Najeer Garay** (he/him)
-	The son of [Susanne Garay](<../../sembarans/susanne-garay.md>), a cloth merchant from [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>). Richly dressed, but lacking the finery (belt, shoes, jewelry) that would usually be associated with fine clothes. An asipiring merchant, looking to expand his family's cloth trade. Talkative and a little bit pompous. In his mid-20s.
+	The son of [Susanne Garay](<../../sembarans/susanne-garay.md>), a cloth merchant from [Embry](<../../../gazetteer/greater-sembara/sembara/heartlands/embry.md>). Richly dressed, but lacking the finery (belt, shoes, jewelry) that would usually be associated with fine clothes. An aspiring merchant, looking to expand his family's cloth trade. Talkative and a little bit pompous. In his mid-20s.
 	![Najeer Screenshot](/taelgarverse/assets/najeer-screenshot.png)
 	
 	**Treph Hardpick** (he/him)
-	A dwarf, traveler from [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>). A laborer, looking more concerned with the evening's dice-and-drinking than apperances, but not poor per-se. Has a grumpy vibe. On the young side of middle-aged, about 200.
+	A dwarf, traveler from [Nardith](<../../../gazetteer/greater-dunmar/realms/nardith/nardith.md>). A laborer, looking more concerned with the evening's dice-and-drinking than appearances, but not poor per-se. Has a grumpy vibe. On the young side of middle-aged, about 200.
 	
 	![Treph Screenshot](/taelgarverse/assets/treph-screenshot.png)
 	**Sarlana Silversword** (she/her)
@@ -102,3 +106,8 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 ### Items
 | Image | Name | Type | Mechanics |
 | ----- | ---- | ---- | --------- |
+
+
+
+
+

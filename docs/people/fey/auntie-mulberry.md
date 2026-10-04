@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-campaignInfo:
-- {campaign: DuFr, date: 1749-05-31, type: visited}
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 tags: [person]
 species: fey
 subspecies: haregon
+campaignInfo:
+- {campaign: dufr, date: 1749-05-31, type: visited}
 gender: female
+name: Auntie Mulberry
 whereabouts: Emberwine
-dm_notes: color
+knownTo: [dufr]
 dm_owner: none
+dm_notes: color
+POV: 1740s
 title: Auntie Mulberry
 hide_toc: true
 ---
@@ -24,9 +29,13 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Visited by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 31th, 1749 in [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
+:octicons-location-24:{ .lg .middle } Visited by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on May 31st, 1749 in [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>), the [Feywild](<../../cosmology/feywild.md>), [Multiverse](<../../cosmology/multiverse.md>)  
 
 
 ![Auntie Mullbery](/taelgarverse/assets/auntie-mullbery.webp){align="right"; width="400"}Auntie Mulberry is a haregon -- a half-human, half-rabbit humanoid fey -- who lives a quiet life in a cottage in [Emberwine](<../../gazetteer/extraplanar/feywild/emberwine/emberwine.md>). She enjoys talking to travelers, and is generally friendly and welcoming to those who stop by. 
 
-Her cottage often appears larger on the inside than the outside, but whether this is some trick of the light, a quirk of the [Feywild](<../../cosmology/feywild.md>), or her special magic, she will not say. 
+Her cottage often appears larger on the inside than the outside, but whether this is some trick of the light, a quirk of the [Feywild](<../../cosmology/feywild.md>), or her special magic, she will not say.
+
+
+
+

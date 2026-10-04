@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: killed by Deno'qai}
-campaignInfo: []
-name: Zegron
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: giant
 subspecies: fire giant
+campaignInfo: []
 gender: male
 died: 1545
+name: Zegron
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: modern
 title: Zegron
 hide_toc: true
 ---
@@ -24,4 +28,10 @@ hide_toc: true
 </div>
 
 
-A fire giant lieutenant in [Cha'mutte](<../extraplanar-powers/cha-mutte.md>)'s army during the [Great War](<../../events/1500s/great-war.md>), killed by Deno'qai warriors in the Battle of Endless Dark, and bound as a ghost to bring revenge on the [Hobgoblins](<../../creatures/species/hobgoblins.md>) who would not fight. 
+A fire giant lieutenant in [Cha'mutte](<../extraplanar-powers/cha-mutte.md>)'s army during the [Great War](<../../events/1500s/great-war.md>), killed by Deno'qai warriors in the Battle of Endless Dark, and bound as a ghost to bring revenge on the [Hobgoblins](<../../creatures/species/hobgoblins.md>) who would not fight.
+
+
+
+
+
+

@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-gender: female
+lintedAt: '2026-10-03T12:58:09-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: halfling
+gender: female
+name: Pippa Goodbarrow
 affiliations:
 - {org: Goodbarrows, type: primary}
 - {place: Summer's Breeze, title: Captain, type: leader, start: 1}
 whereabouts: Summer's Breeze
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1740s
 title: Pippa Goodbarrow
 hide_toc: true
 ---
@@ -26,5 +31,12 @@ hide_toc: true
 
 ![Pippa Greenbarrow Portrait](/taelgarverse/assets/pippa-greenbarrow-portrait.webp){align="right"; width="400"}Pippa is a cheerful halfling woman, with a warm, welcoming smile, often seen wearing a wide-brimmed hat. She has a love of good food, great ale, and great company, and attracts like-minded crew to her ship, the [Summer's Breeze](<../../things/ships/summer-s-breeze.md>). 
 
-She has no fixed route or typical path, but is welcome is every port along the [Apporian Peninsula](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>) for her genial nature, and her tendency to throw impromptu parties on deck. 
+She has no fixed route or typical path, but is welcome in every port along the [Apporian Peninsula](<../../gazetteer/greater-chardon/chardonian-empire/apporia/apporia.md>) for her genial nature, and her tendency to throw impromptu parties on deck.
+
+
+
+
+
+
+
 

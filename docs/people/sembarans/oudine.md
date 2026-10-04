@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: Clee, date: 1720-01-04, type: met}
-name: Oudine
-born: 1692
-died: 1720-01-04
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, date: 1720-01-04, type: met}
+born: 1692
+died: 1720-01-04
 gender: female
+name: Oudine
 whereabouts:
 - {type: home, location: Cleenseau}
+knownTo: [clee]
 dm_owner: none
 dm_notes: none
+POV: 1720
 title: Oudine
 hide_toc: true
 ---
@@ -30,3 +34,9 @@ hide_toc: true
 
 
 A washerwoman from [Underhill](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/underhill.md>), who died when her baby turned into a zombie and exploded. Some of the people think she has had several children with various different men, and lived at [Tumbledown Farm](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/tumbledown-farm.md>).
+
+
+
+
+
+

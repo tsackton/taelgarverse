@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
 displayDefaults: {boxInfo: '<subspecies:AU> (<species:s>), <pronouns>'}
-campaignInfo:
-- {campaign: dufr, person: Kenzo, type: met, date: 1748-11-06}
-name: Eleuha
+tags: [person, status/check/lint]
 species: fey
 subspecies: dryad
+campaignInfo:
+- {campaign: dufr, person: Kenzo, type: met, date: 1748-11-06}
 gender: female
+name: Eleuha
 whereabouts: Azta Lekua
-dm_notes: none
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1740s
 title: Eleuha
 hide_toc: true
 ---
@@ -29,4 +33,10 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Met by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) on November 6th, 1748 in [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>), [Orekatu](<../../gazetteer/faraway-places/orekatu.md>)  
 
 
-Eleuha is a dryad, who was born and lives in the great jungle of [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>). She is one of the many daughters of the forest who watch over the lands, friend to the spirit of the jungle, [Lengau](<../other-nonhumans/lengau.md>). 
+Eleuha is a dryad, who was born and lives in the great jungle of [Azta Lekua](<../../gazetteer/faraway-places/azta-lekua.md>). She is one of the many daughters of the forest who watch over the lands, friend to the spirit of the jungle, [Lengau](<../other-nonhumans/lengau.md>).
+
+
+
+
+
+

@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T13:42:28-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: elf
+ancestry:
 campaignInfo:
-- {campaign: DuFr, type: heard about him, date: 1749-01-08, wParty: '<person:U> <met> on <target>'}
-name: Elandrial
+- {campaign: dufr, type: heard about him, date: 1749-01-08, wParty: '<person:U> <met> on <target>'}
 born:
 died: 1
 ka:
-species: elf
-ancestry:
 gender: male
+name: Elandrial
+pronunciation: eh-LAN-dree-ahl
+affiliations: [Fides Lucaris]
 whereabouts:
 - {type: away}
-affiliations: [Fides Lucaris]
-pronunciation: eh-LAN-dree-ahl
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: modern
 title: Elandrial
 hide_toc: true
 ---
@@ -37,4 +41,10 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } The [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) heard about him on January 8th, 1749  
 
 
-A elf who was active during the [Drankorian Era](<../../history/history-of-the-drankorian-empire.md>). Participated in attempts to decipher the [Enchiridion of the Occulta Ludum](<../../things/books/enchiridion-of-the-occulta-ludum.md>).
+An elf who was active during the [Drankorian Era](<../../history/history-of-the-drankorian-empire.md>). Participated in attempts to decipher the [Enchiridion of the Occulta Ludum](<../../things/books/enchiridion-of-the-occulta-ludum.md>).
+
+
+
+
+
+

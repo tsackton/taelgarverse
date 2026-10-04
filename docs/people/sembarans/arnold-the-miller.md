@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:37:56-04:00'
+lintVersion: '3.5'
 tags: [person]
-campaignInfo:
-- {campaign: clee, date: 1719-10-29, type: met}
-name: Arnold the Miller
-born: 1669
 species: human
 ancestry: Sembaran
+campaignInfo:
+- {campaign: clee, date: 1719-10-29, type: met}
+born: 1669
 gender: male
+name: Arnold the Miller
 whereabouts: Asineau
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1710s
 title: Arnold the Miller
 hide_toc: true
 ---
@@ -27,4 +31,8 @@ hide_toc: true
 
 
 
-The miller in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>). Overweight, and with a disagreeable personality and slovenly appearance. Hates lizardfolk. 
+The miller in [Asineau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/asineau.md>). Overweight, and with a disagreeable personality and slovenly appearance. Hates lizardfolk.
+
+
+
+

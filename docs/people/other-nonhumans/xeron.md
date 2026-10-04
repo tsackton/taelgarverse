@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Xeron
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: aboleth
+campaignInfo:
+- {campaign: dufr, person: Riswynn, type: discovered, date: 1748-05-10}
+name: Xeron
 whereabouts:
 - {type: home, location: Yuvanti Mountains}
-campaignInfo:
-- {campaign: DuFr, person: Riswynn, type: discovered, date: 1748-05-10}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Xeron
 hide_toc: true
 ---
@@ -28,5 +32,11 @@ hide_toc: true
 
 
 Xeron is an ancient aboleth entombed within the rock beneath the Yuvanti Mountains, near Tharn Todor. The being is believed to have mineralized, and is now more stone than flesh. Reports from explorers indicate it shows no evident interest in meddling with affairs beyond its cavern.
+
+
+
+
+
+
 
 

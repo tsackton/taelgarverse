@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
 displayDefaults: {endStatus: 'killed by [[Casian]]'}
-campaignInfo:
-- {campaign: dufr, date: 1748-07-21, type: met}
-name: Justan
-born: 1723
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+- {campaign: dufr, date: 1748-07-21, type: met}
+born: 1723
 gender: male
 died: 1748-07-23
+name: Justan
 whereabouts:
 - {type: home, location: Varashan}
 - {type: away, start: 1748-05-01, end: 1748-07-23, location: Copper Hills}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: modern
 title: Justan
 hide_toc: true
 ---
@@ -23,7 +27,7 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [Dunmari](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>) [human](<../../creatures/species/humans.md>) (he/him)  
-    b. DR 1723 - d. July 23th, 1748, killed by [Casian](<../chardonians/casian.md>) at age 25 years  
+    b. DR 1723 - d. July 23rd, 1748, killed by [Casian](<../chardonians/casian.md>) at age 25 years  
     { .bio }
 
     Lived on the [Varashan](<../../gazetteer/greater-dunmar/hara-basin/varashan.md>), in [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>)
@@ -33,7 +37,7 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 21th, 1748 in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on July 21st, 1748 in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>)  
 
 
 ![Justan](/taelgarverse/assets/justan.webp){align="right"; width="250"}A Dunmari man, from a family of horse herders traveling on the lands around [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>). 
@@ -42,3 +46,10 @@ hide_toc: true
 In the spring of 1748, his family lost much of their wealth from famine and disease, associated with the Tokra refugee crisis caused by the [Summer Gnoll Raids of 1748](<../../events/1700s/1748/summer-gnoll-raids-of-1748.md>). He left his home and joined with a group of other disillusioned and unsavory Dunmari in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), and began raiding travelers on the Tokra-Darba road. On July 21, 1748, encountered [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) and was intimidated into joining them to fight the rumored dragon (actually wyverns) on the road by [Delwath](<../pcs/dunmar-fellowship/delwath.md>). Survived the wyvern battle only to be killed by [Casian](<../chardonians/casian.md>)'s fireball on July 23rd, 1748. 
 
 His story was heard by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) and collected for the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>): [Justan's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/justan-s-story.md>).
+
+
+
+
+
+
+

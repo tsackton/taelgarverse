@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: '2026-10-03T14:10:06-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
+species: human
+ancestry: Dunmari
 campaignInfo:
 - {campaign: dufr, type: met, date: 1748-07-01}
 - {campaign: dufr, type: last seen, date: 1748-07-09}
-name: Ardan
 born: 1695
-species: human
-ancestry: Dunmari
 title: Chief Archivist Ardan
 gender: male
-whereabouts: Tokra
+name: Ardan
 affiliations:
 - {type: leader, place: Archives, start: 1737}
+whereabouts: Tokra
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1740s
 hide_toc: true
 ---
 # Chief Archivist Ardan
@@ -41,5 +45,12 @@ hide_toc: true
 The middle-aged Dunmari Head Archivist at the [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>). Cautious to a fault and rather uninterested in administration, allowing many basic functions of the [Archives](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/archives.md>) to drift into disorganization and uselessness through lack of attention during his tenure. 
 
 As of mid-July 1748, he has allowed [Govir](<govir.md>) to take over some of the administrative burden at the Archives, at the urging of [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>), and has secured funds for [Govir](<govir.md>) to hire additional scribes and clerks. 
+
+
+
+
+
+
+
 
 

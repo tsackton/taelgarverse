@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Morgana Stoneclaw
-aliases: [Morgana Frostclaw]
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: fey
 subspecies: hag
 gender: female
 died: 1747-12-16
+campaignInfo:
+- {campaign: grli, type: killed, date: 1747-12-16}
+name: Morgana Stoneclaw
+aliases: [Morgana Frostclaw]
 whereabouts:
 - {type: home, location: Yuvanti Mountains, end: 1745}
 - {type: home, start: 1744, location: Vangebekkr, alias: ice caves below Vangebekkr}
-campaignInfo:
-- {campaign: GL, type: killed, date: 1747-12-16}
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: modern
 title: Morgana Stoneclaw
 hide_toc: true
 ---
@@ -36,4 +40,11 @@ Morgana Stoneclaw, later known as Morgana Frostclaw, was a hag of the mountains.
 She fled the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>) in DR 1744, after refusing to swear fealty to [Agata Dustmother](<../fey/agata.md>). She eventually found her way to the [Sentinels](<../../gazetteer/sentinel-range.md>), where she sought power to create a world-shaking event that would make people fear her again. She transformed herself into a hag of ice and frost, and discovered a fragment of elemental power at the heart of a massive glacier. She built a lair beneath the frost giant castle of [Vangebekkr](<../../gazetteer/central-highlands/vangebekkr.md>), after turning the frost giants against each other and establishing dominion over them. 
 
 Morgana, now calling herself Morgana Frostclaw, channeled this power to change the land itself. She willed cold to grow, freezing the peaks and even pressing into the dwarven cities below the mountains, eventually threatening [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>). This brought her to the attention of [Adrik](<../pcs/silver-tempests/adrik.md>) and the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>), who killed her beneath [Vangebekkr](<../../gazetteer/central-highlands/vangebekkr.md>), thus ending [Adrik](<../pcs/silver-tempests/adrik.md>)'s childhood quest for revenge and saving [Am'khazar](<../../gazetteer/central-highlands/dwarven-kingdoms/am-khazar.md>). 
+
+
+
+
+
+
+
 

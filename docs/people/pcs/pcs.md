@@ -1,8 +1,12 @@
 ---
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
 tags: [meta]
+name: Players of Taelgar
 dm_owner: none
 dm_notes: none
-title: PCs
+POV: modern
+title: Players of Taelgar
 ---
 # Players of Taelgar
 
@@ -13,7 +17,7 @@ Among the most famous are the [Heroes of the Great War](<great-war/heroes-of-the
 In the DR 1700s, four groups of adventurers have been most active in Taelgar:
 
 - The [Dunmar Fellowship](<dunmar-fellowship/dunmar-fellowship.md>), a renowned group of adventurers who met in [Karawa](<../../gazetteer/greater-dunmar/realms/dunmar/eastern-dunmar/karawa.md>) in DR 1748, and have since [traveled across much of the world of Taelgar](<../../campaigns/dunmari-frontier-campaign/dunmari-frontier-campaign.md>) in their flying skyship [Vindristjarna](<../../things/ships/vindristjarna.md>). 
-- The [Silver Tempests](<silver-tempests/silver-tempests.md>), whose exploits are [chronicled elsewhere](<../../campaigns/great-library-campaign/great-library-campaign.md>), a group of heroes made a name for themselves in the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>) of the [Drankorian Empire](<../../history/historical-realms/drankorian-empire.md>) in the late DR 1740s. 
+- The [Silver Tempests](<silver-tempests/silver-tempests.md>), whose exploits are [chronicled elsewhere](<../../campaigns/great-library-campaign/great-library-campaign.md>), a group of heroes who made a name for themselves in the [Northern Provinces](<../../gazetteer/northwest-coast/northern-provinces/northern-provinces.md>) of the [Chardonian Empire](<../../gazetteer/greater-chardon/chardonian-empire/chardonian-empire.md>) in the late DR 1740s.
 - The [Heroes of Cleenseau](<cleenseau/heroes-of-cleenseau.md>), a party of heroes who met in [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>) in DR 1719, and have since made a name for themselves as they work to defend the people of southern [Sembara](<../../gazetteer/greater-sembara/sembara/sembara.md>). 
 - The [Addermarch Mercenaries](<addermarch/addermarch-mercenaries.md>), a group of chance-met travelers, whose exploits in the service of [Caradoc](<../addermarians/caradoc.md>) the alchemist are [chronicled elsewhere](<../../campaigns/addermarch-campaign/addermarch-campaign.md>).
 
@@ -24,5 +28,7 @@ Other adventurers include:
 - The [Adventurers of Mawar](<mawar/adventurers-of-mawar.md>), united by their shared home of [Hamri](<../../gazetteer/northwest-coast/mawar-confederacy/hamri.md>), and whose exploits are [told elsewhere](<../../campaigns/mawar-adventures/mawar-adventures.md>).
 - The [companions of Oskar and Riswynn](<other-pcs/oskar-s-companions/oskar-s-companions.md>), who [solved some problems](<../../campaigns/one-shots/oskar-s-adventures/oskar-in-tharn-todor.md>) around [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>) in DR 1748
 - The [prisoners of Grimstone](<other-pcs/labyrinth-prisoners/labyrinth-prisoners.md>), who [escaped](<../../campaigns/one-shots/labyrinths-of-the-lost/labyrinths-of-the-lost.md>) from an abandoned manor in [Western Cymea](<../../gazetteer/western-green-sea/realms/western-cymea.md>).
-- [Izar](<other-pcs/ausson-s-crossing/izar.md>), [Roe DoTorka](<other-pcs/ausson-s-crossing/roe-dotorka.md>), and [Soraine](<other-pcs/ausson-s-crossing/soraine.md>), who investigated a murder in [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>) in DR 1688. 
+- [Izar](<other-pcs/ausson-s-crossing/izar.md>), [Roe DoTorka](<other-pcs/ausson-s-crossing/roe-dotorka.md>), and [Soarine](<other-pcs/ausson-s-crossing/soarine.md>), who investigated a murder in [Ausson's Crossing](<../../gazetteer/upper-istaros/refounded-alliance-of-aurbez/ausson-s-crossing.md>) in DR 1688.
+
+
 

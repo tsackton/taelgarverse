@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T09:44:02-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Samuel
-born: 1705
 species: human
 ancestry: Sembaran
+born: 1705
 gender: male
-whereabouts: Cleenseau
+name: Samuel
 affiliations:
 - {org: Essfords, title: Kitchen Boy}
-dm_notes: none
+whereabouts: Cleenseau
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 title: Samuel
 hide_toc: true
 ---
@@ -28,3 +32,7 @@ hide_toc: true
 
 
 A kitchen boy in [Essford Manor](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/essford-manor.md>), witnessed the birth of [Viepuck's](<../pcs/cleenseau/viepuck.md>) familiar, [Estiasilos](<../pcs/cleenseau/estiasilos.md>).
+
+
+
+

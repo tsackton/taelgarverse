@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: '2026-10-03T17:51:33-04:00'
+lintVersion: '3.5'
 tags: [person]
-name: Baxter
-born:
 species: axebeak
 ancestry:
+born:
 gender:
 player: Dave Schwartz
+name: Baxter
 affiliations:
 - {org: Dunmar Fellowship, title: Companion}
+knownTo: [dufr]
 excludePublish: [clee]
 dm_owner: player
 dm_notes: important
+POV: 1740s
 title: Baxter
 hide_toc: true
 ---
@@ -26,4 +30,8 @@ hide_toc: true
 </div>
 
 
-![Baxter Portrait](/taelgarverse/assets/baxter-portrait.webp){align="right"; width="320"} [Wellby](<../wellby.md>)'s reliable mount, now well-trained in battle and exploration. 
+![Baxter Portrait](/taelgarverse/assets/baxter-portrait.webp){align="right"; width="320"} [Wellby](<../wellby.md>)'s reliable mount, now well-trained in battle and exploration.
+
+
+
+

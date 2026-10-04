@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Odim Mavdyrson
-born: 1500
-died: 1590
+lintedAt: '2026-10-03T14:58:27-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: giant
 subspecies: fire giant
+born: 1500
+died: 1590
 gender: male
-dm_notes: important
+name: Odim Mavdyrson
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: modern
 title: Odim Mavdyrson
 hide_toc: true
 ---
@@ -25,4 +29,10 @@ hide_toc: true
 
 
 
-A fire giant, the son of [Mavdyr](<mavdyr.md>) (who was killed in the [Fire War](<../../events/1500s/fire-war.md>)). Sought [Dwarves](<../../creatures/species/dwarves.md>) for revenge; killed in the process but not before seeing [Hagrim](<../dwarves/hagrim.md>) turn on [Nora](<../dwarves/nora-silverspark.md>). 
+A fire giant, the son of [Mavdyr](<mavdyr.md>) (who was killed in the [Fire War](<../../events/1500s/fire-war.md>)). Sought [Dwarves](<../../creatures/species/dwarves.md>) for revenge; killed in the process but not before seeing [Hagrim](<../dwarves/hagrim.md>) turn on [Nora](<../dwarves/nora-silverspark.md>).
+
+
+
+
+
+

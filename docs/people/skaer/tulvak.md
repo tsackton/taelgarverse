@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1748-12-21, type: met}
-name: Tulvak
-born: 1719
+lintedAt: '2026-10-03T16:58:26-04:00'
+lintVersion: '3.5'
+tags: [person, status/check/lint]
 species: human
 ancestry: Skaer
+campaignInfo:
+- {campaign: dufr, date: 1748-12-21, type: met}
+born: 1719
 gender: male
+name: Tulvak
 whereabouts:
 - {type: home, location: Pyhlla}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1740s
 title: Tulvak
 hide_toc: true
 ---
@@ -28,10 +32,17 @@ hide_toc: true
 
 
 
-:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 21th, 1748 in [Pyhlla](<../../gazetteer/western-green-sea/skaerhem/pyhlla.md>)  
+:octicons-location-24:{ .lg .middle } Met by the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) on December 21st, 1748 in [Pyhlla](<../../gazetteer/western-green-sea/skaerhem/pyhlla.md>)  
 
 
 ![Tulvak](/taelgarverse/assets/tulvak.webp){align="right"; width="400"}Tulvak is a skilled sailor hailing from the island of [Pyhlla](<../../gazetteer/western-green-sea/skaerhem/pyhlla.md>) in [Skaerhem](<../../gazetteer/western-green-sea/skaerhem/skaerhem.md>), in the Western [Green Sea](<../../gazetteer/green-sea.md>). He has for many years served as the ferry captain guiding pilgrims to [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>), and knows the coast of [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>) like the back of his hand. 
 
 
 Tulvak was on [Vetta](<../../gazetteer/western-green-sea/skaerhem/vetta.md>) when [Urgall the Black](<urgall-the-black.md>) attacked in DR 1748. He was the only survivor of that assault, and still questions whether it was fate, or luck, that he was outside pissing when the fireballs began to fly. He fled watching the longhouse burn with all the pilgrims inside, and still carries the trauma of that night. 
+
+
+
+
+
+
+
