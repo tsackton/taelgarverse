@@ -12,7 +12,7 @@ title: Melua
 # Melua
 :speaker:{ .middle } *(meh-LOO-ah)*  
 
-Melua is an ancient kestavo associated with a waterfall on the [Teft](<../../../gazetteer/greater-sembara/rivers/teft-watershed/teft.md>), and possibly connected to the lost village of [Melusa](<../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>).
+Melua is an ancient kestavo associated with a waterfall on the [Teft](<../../../gazetteer/greater-sembara/rivers/teft-watershed/teft.md>), and possibly connected to the lost village of [Melusa](<../../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>).
 
 
 

@@ -21,7 +21,7 @@ _The Downfall - DR 300s_
 _DR 300s - 400s_
 
 
-By the reign of Emperor Anates the burgeoning Drankorian civilization has spread northward and crossed the Mostreve Gap into the Sembaran river valleys and starts to encounter the Zimka, Tollish, and Skaer cultures. Although some sources might describe this as a conquest, in reality Drankorian rule was largely welcomed as a source of order and protection. The Drankorian expansion ends in the north on the banks of the [Volta](<../gazetteer/greater-sembara/rivers/volta-watershed/volta.md>), when the Skaer and Drankorians sign the [Treaty of Marhavn](<../events/400s/402/treaty-of-marhavn.md>). The expansion into [Zimkova](<../gazetteer/greater-sembara/zimkova/zimkova.md>) is more fitful, and modern sources do not record whether the Drankorians were welcomed, resisted, or both. 
+By the reign of Emperor [Anates](<../people/historical-figures/drankorian-emperors/anates.md>) the burgeoning Drankorian civilization has spread northward and crossed the Mostreve Gap into the Sembaran river valleys and starts to encounter the Zimka, Tollish, and Skaer cultures. Although some sources might describe this as a conquest, in reality Drankorian rule was largely welcomed as a source of order and protection. The Drankorian expansion ends in the north on the banks of the [Volta](<../gazetteer/greater-sembara/rivers/volta-watershed/volta.md>), when the Skaer and Drankorians sign the [Treaty of Marhavn](<../events/400s/402/treaty-of-marhavn.md>). The expansion into [Zimkova](<../gazetteer/greater-sembara/zimkova/zimkova.md>) is more fitful, and modern sources do not record whether the Drankorians were welcomed, resisted, or both. 
 
 
 ## Age of Drankor

@@ -25,7 +25,7 @@ hide_toc: true
 </div>
 
 
-Rhiannon Greencloak is a warlock of [Ethlenn](<../extraplanar-powers/archfey/archfey-ethlenn.md>) who led a mixed Sembaran and Tyrwinghan force against skeletons and zombies north of [Eskbridge](<../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>) during the undead rising of DR 1720.
+Rhiannon Greencloak is a warlock of [Ethlenn](<../extraplanar-powers/archfey/archfey-ethlenn.md>) who led a mixed Sembaran and Tyrwinghan force against skeletons and zombies north of [Eskbridge](<../../gazetteer/greater-sembara/sembara/heartlands/eskbridge.md>) during the [undead rising of DR 1720](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).
 
 
 

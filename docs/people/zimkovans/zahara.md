@@ -25,13 +25,13 @@ hide_toc: true
     A [Zimka](<../../groups/cultures/zimka.md>) [human](<../../creatures/species/humans.md>) (they/them)  
     { .bio }
 
-    Originally from: [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), Zefya's Realm
+    Originally from: [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>), [Zeyfa's Realm](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-realm.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of January 29th, 1730): the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>)
 
 
-Zahara is a Zimka dissident from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), the child of [Taquin](<taquin.md>), and the leader and strategist of a small circle of villagers hoping to escape from [Malquin](<../extraplanar-powers/forquarion.md>)'s rule.
+Zahara is a Zimka dissident from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>), the child of [Taquin](<taquin.md>), and the leader and strategist of a small circle of villagers hoping to escape from [Malquin](<../extraplanar-powers/forquarion.md>)'s rule.
 
 
 After [Kalima](<../sembarans/kalima.md>) returned from the labyrinth, Zahara [hid her in the cliffside mines](<../../campaigns/one-shots/into-the-chasm/into-the-chasm-episode-04.md>), uncertain how Malquin would react to a sacrifice returning alive.

@@ -12,7 +12,7 @@ pronunciation: for-KWAH-ree-on
 affiliations:
 - {org: Melusa, type: leader, title: ruler}
 whereabouts:
-- {type: home, location: Zefya's Realm}
+- {type: home, location: Zeyfa's Realm}
 knownTo: [itc]
 POV: 1730
 title: Forquarion
@@ -24,20 +24,20 @@ hide_toc: true
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
     A [fey lord](<../../creatures/fey/fey.md>) (he/him)  
-    Ruler of [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>)  
+    Ruler of [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>)  
     { .bio }
 
-    Based in Zefya's Realm
+    Based in [Zeyfa's Realm](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-realm.md>)
 </div>
 
 
-Forquarion the Frostbinder is a fey lord who rules [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>) from a floating palace of ice. The villagers of Melusa call him Malquin the Vaqar, and regard him as [Zeyfa](<../../gods-and-religions/gods/kestavo/zeyfa.md>)'s lieutenant; some worship him.
+Forquarion the Frostbinder is a fey lord who rules [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>) from a floating palace of ice. The villagers of Melusa call him Malquin the Vaqar, and regard him as [Zeyfa](<../../gods-and-religions/gods/kestavo/zeyfa.md>)'s lieutenant; some worship him.
 
-Forquarion controls the sky above Melusa. The villagers believe that sacrifices into [the labyrinth](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>) restore daylight when darkness falls. He is the master of the labyrinth's beast, which cannot truly die while the labyrinth stands. He calls it "my other" and "my curse," insisting that it must always return to its domain. The nature of their connection remains unknown.
+Forquarion controls the sky above Melusa. The villagers believe that sacrifices into [the labyrinth](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-labyrinth.md>) restore daylight when darkness falls. He is the master of the labyrinth's beast, which cannot truly die while the labyrinth stands. He calls it "my other" and "my curse," insisting that it must always return to its domain. The nature of their connection remains unknown.
 
 ## Appearance and Manner
 
-Tall and humanoid, with pale, icy blue skin, Forquarion carries a sword of ice and vanishes and reappears within his palace. Few speak with him in his place; those that do say his manner shifts abruptly between regal courtesy, confusion, and violent threats. He fears, or assumes, that the outside world is only a dream, and that leaving Zefya's Realm would end his existence, though he remembers moonlight and stars that are absent from this domain.
+Tall and humanoid, with pale, icy blue skin, Forquarion carries a sword of ice and vanishes and reappears within his palace. Few speak with him in his place; those that do say his manner shifts abruptly between regal courtesy, confusion, and violent threats. He fears, or assumes, that the outside world is only a dream, and that leaving [Zeyfa's Realm](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-realm.md>) would end his existence, though he remembers moonlight and stars that are absent from this domain.
 
 
 ## The Chasm Explorers

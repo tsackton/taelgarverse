@@ -24,17 +24,17 @@ hide_toc: true
     A [Zimka](<../../groups/cultures/zimka.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     { .bio }
 
-    Originally from: [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), Zefya's Realm
+    Originally from: [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>), [Zeyfa's Realm](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-realm.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of January 29th, 1730): the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>)
 
 
-Samir is the infant daughter of [Nura](<nura.md>) and [Khaled](<khaled.md>), a Zimka family from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), and the niece of [Kalima](<../sembarans/kalima.md>).
+Samir is the infant daughter of [Nura](<nura.md>) and [Khaled](<khaled.md>), a Zimka family from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>), and the niece of [Kalima](<../sembarans/kalima.md>).
 
 
 
-During the [Chasm Explorers](<../pcs/other-pcs/into-the-chasm/chasm-explorers.md>)' [stay in Melusa in January 1730](<../../campaigns/one-shots/into-the-chasm/into-the-chasm-episode-04.md>), a soul calling itself [Taquin](<taquin.md>) spoke through Samir. It recognized [Zahara](<zahara.md>) as its child and shared memories of falling toward [the labyrinth](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>). Nura believed that an old soul had prevented Samir from becoming her own person, and feared she would not survive. Her fate is not known. 
+During the [Chasm Explorers](<../pcs/other-pcs/into-the-chasm/chasm-explorers.md>)' [stay in Melusa in January 1730](<../../campaigns/one-shots/into-the-chasm/into-the-chasm-episode-04.md>), a soul calling itself [Taquin](<taquin.md>) spoke through Samir. It recognized [Zahara](<zahara.md>) as its child and shared memories of falling toward [the labyrinth](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-labyrinth.md>). Nura believed that an old soul had prevented Samir from becoming her own person, and feared she would not survive. Her fate is not known. 
 
 
 

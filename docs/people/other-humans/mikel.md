@@ -31,7 +31,7 @@ hide_toc: true
 :octicons-location-24:{ .lg .middle } Last known location (as of August 23rd, 1748): [Lake Suwi](<../../gazetteer/northwest-coast/lake-suwi.md>)
 
 
-Mikel, the brother of [Clara of Suwi](<clara.md>), was kidnapped by the [Havoc Host](<../../groups/havoc-host.md>) during the [Havoc Host raids in Suwi](<../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-4.md>). Though the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) destroyed the aboleth behind the Havoc Host attacks, Mikel's later fate is not recorded.
+Mikel, the brother of [Clara of Suwi](<clara.md>), was kidnapped by the [Havoc Host](<../../groups/havoc-host.md>) during the [Havoc Host raids in Suwi](<../../campaigns/great-library-campaign/session-notes/great-library-session-notes-arc-4.md>). Though the [Silver Tempests](<../pcs/silver-tempests/silver-tempests.md>) destroyed the [aboleth](<../../creatures/bestiary/aboleths.md>) behind the Havoc Host attacks, Mikel's later fate is not recorded.
 
 
 

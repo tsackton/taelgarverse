@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place]
 typeOf: waterway
 typeOfAlias: river
 name: Niva
@@ -18,9 +18,7 @@ title: Niva
 </div>
 
 
-The Niva is a river in [Vostok](<vostok.md>) that joins the [Kem](<kem.md>), forming part of the drainage system flowing into the [Green Sea](<../../green-sea.md>).
-
-
+The Niva is a river in [Vostok](<vostok.md>) that joins the [Kem](<kem.md>), and forms part of the large Kem watershed that flows into the [Green Sea](<../../green-sea.md>).
 
 
 

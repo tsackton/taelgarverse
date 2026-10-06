@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/stub]
-name: Aldamírë
+tags: [place, status/check/name]
 typeOf: lake
+name: Aldamírë
+pronunciation: ahl-dah-MEER-eh
 whereabouts: Upper Istaros
 dm_owner: none
 dm_notes: none
-pronunciation: ahl-dah-MEER-eh
 title: Aldamírë
 ---
 # Aldamírë
@@ -16,5 +16,6 @@ title: Aldamírë
 </div>
 
 
+Aldamírë is a large lake in the [Upper Istaros](<../upper-istaros.md>), northwest of the elven forest of [Orenlas](<orenlas.md>).
 
 

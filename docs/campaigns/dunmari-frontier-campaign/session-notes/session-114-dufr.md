@@ -23,20 +23,20 @@ The Dunmar Fellowship secures crucial mementos of trapped souls in Drankor, enco
 ## Session Info
 ### Summary
 - The Dunmar Fellowship plans to free souls trapped in Apollyon's phylactery by securing mementos tied to each soul's identity.
-- They travel through Drankor, evading undead threats and finding Seraphina Appleblossom's tavern, where they secure two mementos.
+- They travel through Drankor, evading undead threats and finding [Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>)'s tavern, where they secure two mementos.
 - After battling spirits at the docks, they retrieve fireworks casing linked to Seraphina.
-- At the Custom House, they recover a shipping manifest related to Khemut of Targu and scrolls detailing Drankorian commerce.
+- At the Custom House, they recover a shipping manifest related to [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>) and scrolls detailing Drankorian commerce.
 - Kenzo finds a scroll identifying Minarith as a faculty member of The [Thalorian](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>), leading to their next mission.
 
 ### Timeline
 - May 22, 1749 DR, evening: The party rests in the Temple of the Eight Divines in Drankor.
-- May 23, 1749 DR, morning: Leaving Wellby to guard the phylactery, the party travels to the docks, and finds [The Laughing Wave](<../../../gazetteer/drankorian-hinterland/drankor/the-laughing-wave.md>), recovering tokens of Seraphina Appleblossom. In the nearby Customs House, they find a shipping manifest connected to Khemut of Targu, and a clue about Minarith. 
+- May 23, 1749 DR, morning: Leaving Wellby to guard the phylactery, the party travels to the docks, and finds [The Laughing Wave](<../../../gazetteer/drankorian-hinterland/drankor/the-laughing-wave.md>), recovering tokens of [Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>). In the nearby Customs House, they find a shipping manifest connected to [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>), and a clue about [Minarith](<../../../people/historical-figures/minarith.md>). 
 - May 23, 1749 DR, midday: The party returns to the Temple of the Eight Divines. 
 
 ## Narrative
 Our session begins as night falls over the[Temple of the Eight Divines](<../../../gazetteer/drankorian-hinterland/drankor/temple-of-the-eight-divines.md>) in [Drankor](<../../../gazetteer/drankorian-hinterland/drankor/drankor.md>). Within the temple’s hallowed walls, the party takes refuge from the encroaching darkness of the ruined city. The divine aura of the temple offers a rare moment of solace as the group contemplates the daunting task ahead: freeing the seven souls trapped within Apollyon’s phylactery and destroying the artifact.
 
-Seeker’s research has confirmed that unraveling the phylactery’s magic requires traveling to the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>), bringing physical mementos tied to each soul, to allow the souls to remember themselves, unraveling [Apollyon's Phylactery](<../../../things/artifacts-of-power/apollyon-s-phylactery.md>). Four such mementos have already been secured: three death masks recovered from the Chapel of the Father and a silver pen nib from Valanthe’s courtyard. The party identifies their remaining targets as Seraphina Appleblossom, a halfling tavern owner near the docks; Khemut of Targu a foreign sailor or traveler likely tied to the docks; and Minarith, an elf of the peronar lineage, about whom little is known.
+Seeker’s research has confirmed that unraveling the phylactery’s magic requires traveling to the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>), bringing physical mementos tied to each soul, to allow the souls to remember themselves, unraveling [Apollyon's Phylactery](<../../../things/artifacts-of-power/apollyon-s-phylactery.md>). Four such mementos have already been secured: three death masks recovered from the Chapel of the Father and a silver pen nib from [Valanthe](<../../../people/historical-figures/valanthe.md>)’s courtyard. The party identifies their remaining targets as [Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>), a halfling tavern owner near the docks; [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>) a foreign sailor or traveler likely tied to the docks; and [Minarith](<../../../people/historical-figures/minarith.md>), an elf of the peronar lineage, about whom little is known.
 
 As the group debates their approach to the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>), various logistical and ethical concerns arise. _Plane Shift_ will require the body of a recently deceased individual whose soul still lingers in the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>), prompting discussions about where such a body might be obtained. The group resolves to prioritize recovering the remaining mementos before finalizing their plan, and as dawn breaks, they fortify themselves with _Heroes’ Feast_ before setting out toward the docks. [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) remains behind to guard the phylactery.
 
@@ -48,25 +48,25 @@ Further south, faint cries for help echo from a ruined building. The voices, spe
 
 ---
 
-Arriving at the docks, they find the area largely in ruins, with only a few structures still standing. They identify the likely location of Seraphina Appleblossom’s tavern, "[The Laughing Wave](<../../../gazetteer/drankorian-hinterland/drankor/the-laughing-wave.md>)," marked by an archway adorned with carvings of curling waves. Inside, an eerie mist fills the space, and sunlight filtering through the ruined walls takes on a reddish hue.
+Arriving at the docks, they find the area largely in ruins, with only a few structures still standing. They identify the likely location of [Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>)’s tavern, "[The Laughing Wave](<../../../gazetteer/drankorian-hinterland/drankor/the-laughing-wave.md>)," marked by an archway adorned with carvings of curling waves. Inside, an eerie mist fills the space, and sunlight filtering through the ruined walls takes on a reddish hue.
 
 As the party explores, a conglomeration of bound spirits materializes, its sorrowful presence suffusing the air. Despite their invisibility, the spirits converge on the group, initiating combat. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)’s _Synaptic Static_ obliterates half the spirits, while [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s precision attacks and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)’s divine radiance dispatch the rest. However, the battle intensifies as a larger, more solid entity of conjoined spirits rises, radiating psychic despair and evoking unsettling memories. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)’s _Sickening Radiance_ reveals the entity, and a combination of [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s relentless strikes and [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>)’s divine power destroys it.
 
-In the aftermath, the party discovers a halfling-sized cooking pot, scorched but intact, radiating faint magic. Identified as a weak memento of Seraphina Appleblossom, the pot is secured before the group turns their attention to the cellar beneath the tavern.
+In the aftermath, the party discovers a halfling-sized cooking pot, scorched but intact, radiating faint magic. Identified as a weak memento of [Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>), the pot is secured before the group turns their attention to the cellar beneath the tavern.
 
-Clearing debris with _Mold Earth_, they uncover a trapdoor leading to a well-preserved cellar. Inside, they find rotted casks and a locked wooden chest containing a cache of silver and gold coins, some bearing the markings of Targu, hinting at Khemut’s connection to the tavern. A stone shelf holds decayed firework casings, resonating strongly with Seraphina's soul.
+Clearing debris with _Mold Earth_, they uncover a trapdoor leading to a well-preserved cellar. Inside, they find rotted casks and a locked wooden chest containing a cache of silver and gold coins, some bearing the markings of Targu, hinting at Khemut’s connection to the tavern. A stone shelf holds decayed firework casings, resonating strongly with [Seraphina's](<../../../people/historical-figures/seraphina-appleblossom.md>) soul.
 
 ---
 
-With six mementos secured, the group debates their next move. Divination magic points them to the Custom House as a promising lead for information on Minarith, and possibly also a place to find a stronger connection to Khemut of Targu. After a short rest to recuperate, they proceed to the Custom House, a partially intact structure overgrown with vegetation. Inside, they find remnants of opulence—metal, glass, and carvings hint at its former grandeur.
+With six mementos secured, the group debates their next move. Divination magic points them to the Custom House as a promising lead for information on [Minarith](<../../../people/historical-figures/minarith.md>), and possibly also a place to find a stronger connection to [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>). After a short rest to recuperate, they proceed to the Custom House, a partially intact structure overgrown with vegetation. Inside, they find remnants of opulence—metal, glass, and carvings hint at its former grandeur.
 
 Deeper within, a large room shrouded in swirling red mist awaits. Shafts of light illuminate a pile of bones and a preserved wooden chest in the far corner. Sensing danger, the party considers their options. [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) casts _Banishment_ on the mist, temporarily dispersing it and allowing the group to act quickly.
 
-The chest, revealed to be a magically preserved cabinet, contains hundreds of scrolls. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) locates a shipping manifest tied to Khemut of Targu and hastily collects additional scrolls marked with sigils or other notable details. As the mist begins to re-form, the group retreats, taking roughly 100 scrolls with them.
+The chest, revealed to be a magically preserved cabinet, contains hundreds of scrolls. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) locates a shipping manifest tied to [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>) and hastily collects additional scrolls marked with sigils or other notable details. As the mist begins to re-form, the group retreats, taking roughly 100 scrolls with them.
 
-Among the recovered scrolls are trade records and manifests detailing [Drankor](<../../../history/historical-realms/drankorian-empire.md>)’s commerce, along with references to three major universities: the [Imperial University](<../../../gazetteer/drankorian-hinterland/drankor/imperial-university.md>), [Valtrius University](<../../../gazetteer/drankorian-hinterland/drankor/valtrius-university.md>), and the [University of the Blessed Waters](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>) (also known as The Thalorian). However, no mention of Minarith is found.
+Among the recovered scrolls are trade records and manifests detailing [Drankor](<../../../history/historical-realms/drankorian-empire.md>)’s commerce, along with references to three major universities: the [Imperial University](<../../../gazetteer/drankorian-hinterland/drankor/imperial-university.md>), [Valtrius University](<../../../gazetteer/drankorian-hinterland/drankor/valtrius-university.md>), and the [University of the Blessed Waters](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>) (also known as The Thalorian). However, no mention of [Minarith](<../../../people/historical-figures/minarith.md>) is found.
 
-[Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s soul sense detects a connection to Minarith still within the mist-filled room. Braving the danger, he re-enters and retrieves a scroll identifying Minarith as a faculty member of the Thalorian. With this crucial lead in hand, the group retreats to the temple to regroup, ready to pursue the next phase of their journey: locating [The Thalorian](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>) and securing a memento of Minarith.
+[Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>)’s soul sense detects a connection to [Minarith](<../../../people/historical-figures/minarith.md>) still within the mist-filled room. Braving the danger, he re-enters and retrieves a scroll identifying [Minarith](<../../../people/historical-figures/minarith.md>) as a faculty member of the Thalorian. With this crucial lead in hand, the group retreats to the temple to regroup, ready to pursue the next phase of their journey: locating [The Thalorian](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>) and securing a memento of [Minarith](<../../../people/historical-figures/minarith.md>).
 
 ## Detailed Summary
 
@@ -74,18 +74,18 @@ Among the recovered scrolls are trade records and manifests detailing [Drankor](
 - The party begins in the temple of the Eight Divines in Drankor as night falls. The holy aura of the temple protects them from the encroaching darkness of the city.
 - The group reflects on their goal to destroy the phylactery by freeing the seven souls trapped within it.
 - Seeker’s research confirmed that a connection to the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>) is required to unravel the phylactery’s magic. Physical mementos tied to each soul are crucial for this process.
-- Four mementos have been secured: three death masks from the Chapel of the Father and a silver pen nib from Valanthe’s courtyard.
+- Four mementos have been secured: three death masks from the Chapel of the Father and a silver pen nib from [Valanthe](<../../../people/historical-figures/valanthe.md>)’s courtyard.
 - The remaining targets are:
-	- Seraphina Appleblossom, a halfling tavern owner near the docks.
-	- Khemut of Targu, a foreign sailor or traveler likely connected to the docks.
-	- Minarith, an elf of the peronar lineage, with little information available.
+	- [Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>), a halfling tavern owner near the docks.
+	- [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>), a foreign sailor or traveler likely connected to the docks.
+	- [Minarith](<../../../people/historical-figures/minarith.md>), an elf of the peronar lineage, with little information available.
 - The party debates the logistics of entering the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>):
 	- Plane Shift requires the body of a recently deceased person whose soul resides in the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>).
 	- They consider potential sources of such a body, including cities like [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>) or sacrifices within Drankor.
 	- Concerns are raised about resource management and the risks of “dying” as part of the plan.
 	- The group prioritizes recovering the remaining mementos before finalizing their approach to the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>).
 - As dawn breaks, the party prepares for the day with another casting of *Heroes’ Feast*, granting temporary bonuses and protection against fear.
-- The party sets their sights on the docks of Drankor, focusing on finding mementos tied to Seraphina Appleblossom and Khemut of Targu
+- The party sets their sights on the docks of Drankor, focusing on finding mementos tied to [Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>) and [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>)
 - The phylactery (a dagger containing Apollyon’s soul) remains guarded by Wellby, who volunteers to stay behind.
 
 
@@ -103,14 +103,14 @@ Among the recovered scrolls are trade records and manifests detailing [Drankor](
 
 ### The Laughing Wave
 - The party reaches the docks area of Drankor, finding it overgrown and largely in ruins. Only the foundations of most buildings remain, with intact structures being rare.
-- They identify the likely location of Seraphina Appleblossom’s tavern, "The Laughing Wave," marked by an archway with stone carvings of curling waves.
+- They identify the likely location of [Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>)’s tavern, "The Laughing Wave," marked by an archway with stone carvings of curling waves.
 - Entering the tavern, the party notices an eerie mist filling the interior. The sunlight outside dims to a reddish hue.
 - A twisted conglomeration of spirits, bound together and floating, dominates the space. The spirits’ presence emanates sorrow and unease.
 - Despite their invisibility, the party’s movement draws the attention of the spirits, which separate into 20 individual entities and converge on the noise, starting a combat. Delwath casting *Synaptic Static*, destroying half the spirits; Kenzo uses precise attacks and aura strikes, stunning and eliminating multiple enemies; Riswynn invokes divine power to sear the undead, banishing many with radiant energy, and Seeker uses of *Erupting Earth* to further thin the enemy ranks.
 - A larger, more solid entity, composed of conjoined spirits but invisible, rises from below. This entity emits psychic despair, causing damage and unsettling memories.
 - Delwath’s *Sickening Radiance* reveals the entity to all, dealing significant radiant damage.
 - Kenzo’s relentless attacks and Riswynn’s holy power ultimately destroy the greater spirit.
-- Searching the tavern reveals a small, halfling-sized cooking pot, heavily scorched but intact. It radiates faint magic and is identified as a weak memento of Seraphina Appleblossom.
+- Searching the tavern reveals a small, halfling-sized cooking pot, heavily scorched but intact. It radiates faint magic and is identified as a weak memento of [Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>).
 - The group secures the cooking pot and prepares to continue their search for the remaining mementos, wary of further dangers lurking in the city.
 
 
@@ -120,8 +120,8 @@ Among the recovered scrolls are trade records and manifests detailing [Drankor](
 - The bowl is identified as decorative, with faint enchantments possibly preserving its paint. It resonates faintly with Seraphina’s essence, but Kenzo’s soul sense points to the cellar as the source of a stronger connection.
 - Using *Mold Earth*, the party clears the trapdoor and descends into the cool, well-preserved cellar.
 - They find remnants of rotted casks and a locked wooden chest, containing 1,000 silver coins and 80 gold coins, with a mix of Drankorian and foreign origins.
-- Several coins bear the markings of Targu, tied to Khemut of Targu's presence in the tavern.
-- The cellar’s stone shelf holds decayed firework casings, strongly resonating with Seraphina Appleblossom’s soul.
+- Several coins bear the markings of Targu, tied to [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>)'s presence in the tavern.
+- The cellar’s stone shelf holds decayed firework casings, strongly resonating with [Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>)’s soul.
 
 
 ### Searching the Custom House
@@ -137,16 +137,16 @@ Among the recovered scrolls are trade records and manifests detailing [Drankor](
 - The party ventures deeper into the Custom House, encountering a large room with intact walls and shafts of light streaming through holes in the roof.
 - The room is dominated by a swirling red mist, occasionally forming into ominous shapes, with a pile of bones and a strangely preserved wooden chest in the far corner.
 - Sensing danger, the group debates whether to engage the mist or attempt to bypass it.
-- Kenzo detects a faint connection to Khemut of Targu from the chest but no immediate link to Minarith, the peronar.
+- Kenzo detects a faint connection to [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>) from the chest but no immediate link to [Minarith](<../../../people/historical-figures/minarith.md>), the peronar.
 - Delwath casts *Banishment* on the mist, successfully dispersing it temporarily.
 - With the mist banished for one minute, the party acts quickly to investigate the chest.
 - The chest is a large, magically preserved cabinet containing hundreds of scrolls.
-- Kenzo locates a specific scroll tied to Khemut of Targu, a shipping manifest for the ship *Selem Shurga*.
+- Kenzo locates a specific scroll tied to [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>), a shipping manifest for the ship *Selem Shurga*.
 - Additional scrolls are hastily collected, focusing on those marked with sigils or other noteworthy details.
 - As the mist begins to re-form, Kenzo and the others retreat from the room, taking approximately 100 scrolls with them.
 - The red mist does not pursue them beyond the room.
-- Among the scrolls are trade records and manifests providing insight into Drankor’s past commerce, including mentions of three major universities: the Imperial University, Valtrius University, and the University of the Blessed Waters (The Thalorian). But there is no mention of Minarith.
-- Kenzo senses a connection to Minarith still in the room with the red mist, and runs back to find it, dodging attacks from the creature, which has returned.
-- Kenzo grabs the scroll and flees. The scroll references Minarith, listed as a faculty member of the [Thalorian](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>), providing a crucial lead for the party.
-- With key information secured, the party decides to return to the temple to regroup and prepare for their next move: locating the Thalorian and finding a memento of Minarith.
+- Among the scrolls are trade records and manifests providing insight into Drankor’s past commerce, including mentions of three major universities: the Imperial University, Valtrius University, and the University of the Blessed Waters (The Thalorian). But there is no mention of [Minarith](<../../../people/historical-figures/minarith.md>).
+- Kenzo senses a connection to [Minarith](<../../../people/historical-figures/minarith.md>) still in the room with the red mist, and runs back to find it, dodging attacks from the creature, which has returned.
+- Kenzo grabs the scroll and flees. The scroll references [Minarith](<../../../people/historical-figures/minarith.md>), listed as a faculty member of the [Thalorian](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>), providing a crucial lead for the party.
+- With key information secured, the party decides to return to the temple to regroup and prepare for their next move: locating the Thalorian and finding a memento of [Minarith](<../../../people/historical-figures/minarith.md>).
 

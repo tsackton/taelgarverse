@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 name: Barony of Aveil
 typeOf: realm
 whereabouts: Sembara
@@ -40,7 +40,7 @@ Most of the settlement in the barony is along the eastern valleys and banks of t
 
 In general, despite its relatively ancient roots, [Aveil](<barony-of-aveil.md>) is a poor barony largely dominated by the powerful [Duchy of Wisford](<../heartlands/duchy-of-wisford.md>) to its west, save for the [Cleenseau Region](<cleenseau-region/cleenseau-region.md>), which tends to see itself as more independent and if anything, more aligned with the powerful [Army of the West](<../../../../groups/sembaran-army/army-of-the-west.md>). [Rinburg](<rinburg.md>), at the head of the navigation of the [Enst](<../../rivers/wistel-enst-watershed/enst.md>) is a wealthy and bustling market town, but as a free city, contributes little to the barony itself. Even the better farmland in the eastern [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>) valley is not as rich as the heartlands of Sembara, and much of the land was pillaged by hobgoblins during the [hobgoblin wars](<../../../../events/1600s/third-hobgoblin-war-sembara.md>). [Veltor](<veltor.md>) never fell, and the [Aveil Ridge](<aveil-ridge.md>), with its many caves, was a redoubt for Sembaran troops resisting the hobgoblins. There are several rich tin mines in the [Aveil Ridge](<aveil-ridge.md>), but they are controlled by the [Duchy of Wisford](<../heartlands/duchy-of-wisford.md>) and contribute little to the wealth of the barony.
 
-There is a maintained road the length of the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>), from [Rinburg](<rinburg.md>) to [Veltor](<veltor.md>), and the Aveil Road which runs north from the tin mines to the [Wistel](<../../rivers/wistel-enst-watershed/wistel.md>).
+The [Old Veltor Road](<../../roads/old-veltor-road.md>) is a maintained road along the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>), from [Rinburg](<rinburg.md>) to [Veltor](<veltor.md>), while the [Aveil Road](<../../roads/aveil-road.md>) runs north from the tin mines to the [Wistel](<../../rivers/wistel-enst-watershed/wistel.md>).
 
 ### Cities in Barony of Aveil
 | Place                          | Region                     | Type Of           | Population |
@@ -49,7 +49,6 @@ There is a maintained road the length of the [Auberonne](<../../rivers/wistel-en
 | [Ashcombe](<ashcombe.md>)                   | the [Barony of Aveil](<barony-of-aveil.md>)    | logging village   | pop. 237   |
 | [Aslain](<aslain.md>) (Ahz-lane)          | the [Barony of Aveil](<barony-of-aveil.md>)    | town              | pop. 1,187 |
 | [Beldor](<beldor.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | mining village    |            |
-| [Cassen](<cassen.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 35    |
 | [Champimont](<champimont.md>) (Sham-PEE-mohn) | the [Barony of Aveil](<barony-of-aveil.md>)    | market town       | pop. 971   |
 | [Ganboa](<cleenseau-region/ganboa.md>) (Gan-bo-a)          | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 62    |
 | [Cranford](<cranford.md>) (Cran-ford)       | the [Barony of Aveil](<barony-of-aveil.md>)    | town              | pop. 654   |
@@ -61,13 +60,14 @@ There is a maintained road the length of the [Auberonne](<../../rivers/wistel-en
 | [Peydon](<peydon.md>) (Pay-dun)           | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 498   |
 | [Rinburg](<rinburg.md>) (Rin-burg)         | the [Barony of Aveil](<barony-of-aveil.md>)    | free city         | pop. 2,341 |
 | [Veltor](<veltor.md>) (Vel-tor)           | the [Barony of Aveil](<barony-of-aveil.md>)    | fortified village | pop. 699   |
+| [Cassen](<cassen.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 35    |
 | [Windlea](<windlea.md>)                    | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 174   |
 | [Asineau](<cleenseau-region/asineau.md>) (Ah-zee-noh)       | the [Manor of Asineau](<cleenseau-region/manor-of-asineau.md>)   | fishing village   | pop. 311   |
 | [Beury](<cleenseau-region/beury.md>) (BUH-ree)            | the [Manor of Beury](<cleenseau-region/manor-of-beury.md>)     | village           | pop. 492   |
 | [Auloutte](<cleenseau-region/auloutte.md>) (OO-loot)         | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | fishing village   | pop. 102   |
 | the [Gastant Farm](<cleenseau-region/gastant-farm.md>)           | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | farmhouse         |            |
-| [Taviose](<cleenseau-region/taviose.md>) (Ta-vi-ose)        | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | village           | pop. 30    |
 | [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>) (Klen-sew)       | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | town              | pop. 1,189 |
+| [Taviose](<cleenseau-region/taviose.md>) (Ta-vi-ose)        | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | village           | pop. 30    |
 | [Valit](<cleenseau-region/valit.md>) (Val-le)             | the [Manor of Valit](<cleenseau-region/manor-of-valit.md>)     | village           | pop. 249   |
 ### Rivers and Landforms 
 | Place                                   | Type Of |

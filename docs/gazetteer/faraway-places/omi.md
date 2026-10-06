@@ -30,7 +30,7 @@ The Jade Garden's true name was the Garden of Names. It was Omi's central sacred
 
 ## Fall of Omi
 
-In DR 1739, the merfolk warlock Buruli turned against Omi. Empowered by [Gazankoa](<../../people/extraplanar-powers/gazankoa.md>), he seized the jade, corrupted the Garden of Names, and opened a portal to the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) in the heart of the city. Creatures and warriors from the Plane of Water flooded through the rift, threatening to spread beyond Omi into the wider seas.
+In DR 1739, the merfolk warlock [Buruli](<../../people/other-nonhumans/buruli.md>) turned against Omi. Empowered by [Gazankoa](<../../people/extraplanar-powers/gazankoa.md>), he seized the jade, corrupted the Garden of Names, and opened a portal to the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>) in the heart of the city. Creatures and warriors from the Plane of Water flooded through the rift, threatening to spread beyond Omi into the wider seas.
 
 The [Sentient Ocean](<../../people/extraplanar-powers/sentient-ocean.md>) sealed Omi inside a protective barrier to stop the corruption from spreading. Many merfolk who had not joined Buruli were trapped inside, enslaved, killed, or dragged back through the portal. Buruli fled to the Plane of Water, leaving guards and a Herald of Gazankoa to hold the [Material Plane](<../../cosmology/material-plane.md>) side of the breach.
 
@@ -40,7 +40,7 @@ When the [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowsh
 
 The [Dunmar Fellowship](<../../people/pcs/dunmar-fellowship/dunmar-fellowship.md>) defeated the Herald of Gazankoa, entered the [Elemental Plane of Water](<../../cosmology/energy-realms/elemental-plane-of-water.md>), rescued [Milo Thistlefoot](<../../people/halflings/milo-thistlefoot.md>), [Tilly Brineheart](<../../people/halflings/tilly-brineheart.md>), and surviving members of the [Stormdancer](<../../things/ships/stormdancer.md>) crew, and recovered the [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>) from Buruli on May 12, 1749 DR. 
 
-The defeat of Buruli and recovery of the jade collapsed the portal in Omi. Since then, [Merfolk](<../../creatures/species/merfolk.md>) have slowly returned and begun to rebuild and restore Omi to its former glory. 
+The defeat of [Buruli](<../../people/other-nonhumans/buruli.md>) and recovery of the jade collapsed the portal in Omi. Since then, [Merfolk](<../../creatures/species/merfolk.md>) have slowly returned and begun to rebuild and restore Omi to its former glory. 
 
 
 

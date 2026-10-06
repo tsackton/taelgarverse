@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/map, status/check/ai]
+tags: [place, status/cleanup/map]
 typeOf: region
 whereabouts: Greater Dunmar
 dm_notes: important
@@ -25,6 +25,7 @@ The [Hara](<../rivers/hara-watershed/hara.md>) is the principal river of the reg
 Monsoon‑driven rains fall primarily June–September, with some year-to-year variation. The rains are strongest in the west and north. The southern and eastern basin lies in deep rain shadow, with patchy or unreliable precipitation. Short green seasons alternate with long, dusty months.
 
 ## Subregions
+
 ![Hara Basin 2](/taelgarverse/assets/hara-basin-2.webp){align="right"; width="600"}In the northwest, the [Songara Plains](<songara-plains.md>) extend in a broad arc from the [Chataan Mountains](<../../greater-chardon/chataan-mountains.md>) to [Songara](<../realms/dunmar/central-dunmar/songara.md>) to the upper reaches of the [Hara](<../rivers/hara-watershed/hara.md>). These plains are wetter and support a more consistent grassland, with vast herds of horses that the Dunmari are famous for. This terrain once extended across much of central and eastern Dunmar, until the upheavals at the end of the Great War. The [Sone](<../rivers/hara-watershed/sone.md>), fed by snowmelt in the Sentinels and the [Chataan Mountains](<../../greater-chardon/chataan-mountains.md>), flows northeast through the [Songara Plains](<songara-plains.md>), until it joins the [Hara](<../rivers/hara-watershed/hara.md>) north of [Tokra](<../realms/dunmar/central-dunmar/tokra/tokra.md>).
 
 The center of the Hara Basin is a region of varied terrain and climate. North of Tokra, the [Varashan](<varashan.md>) occupy a broad swath on both sides of the [Hara](<../rivers/hara-watershed/hara.md>), just south of the confluence with [Thandar](<../rivers/hara-watershed/thandar.md>). This region is not as wet as the [Songara Plains](<songara-plains.md>): nearly all the rain that falls here falls between June and October, during the monsoon season. 

@@ -25,7 +25,7 @@ In the aftermath of the [Downfall](<../events/ancient/the-downfall.md>), the sea
 
 Most people believe that the oldest parts of Tollen -- [Fiskurth](<../gazetteer/greater-sembara/tollen/wards/fiskurth.md>), [Skepwalk](<../gazetteer/greater-sembara/tollen/wards/skepwalk.md>), and [Aesganstrad](<../gazetteer/greater-sembara/tollen/wards/aesganstrad.md>) -- were settled during this era. 
 
-- 402 DR: The [Treaty of Marhavn](<../events/400s/402/treaty-of-marhavn.md>) is signed between Emperor Goristo and the [Skaer](<../gazetteer/western-green-sea/realms/skaer.md>), marking the end of the Skaer Empire in Tollen and the beginning of the Age of Drankor
+- 402 DR: The [Treaty of Marhavn](<../events/400s/402/treaty-of-marhavn.md>) is signed between Emperor [Goristo](<../people/historical-figures/drankorian-emperors/goristo.md>) and the [Skaer](<../gazetteer/western-green-sea/realms/skaer.md>), marking the end of the Skaer Empire in Tollen and the beginning of the Age of Drankor
 
 
 

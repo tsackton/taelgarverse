@@ -51,7 +51,7 @@ Kenzo seizes the opportunity to grab the Crown of Purity, using Seeker’s inspi
 
 ---
 
-With the crown’s influence in hand, Kenzo commands its network of controlled individuals. He orders Marius Cusico, the Chardonian general, to surrender and retreat from [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). Testing his control, he directs the chalyte knight into a meditative pose and issues reforms to Chardonian bureaucrats tied to the chalyte trade, urging societal restructuring and reparations.
+With the crown’s influence in hand, Kenzo commands its network of controlled individuals. He orders [Marius Cusico](<../../../people/chardonians/marius-cusico.md>), the Chardonian general, to surrender and retreat from [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). Testing his control, he directs the chalyte knight into a meditative pose and issues reforms to Chardonian bureaucrats tied to the chalyte trade, urging societal restructuring and reparations.
 
 The party debates the morality of wielding the crown’s power, with concerns about its influence over Kenzo. Riswynn proposes testing its effects, leading to Kenzo relinquishing the crown. When Riswynn attunes to it, Kenzo collapses as the crown drains his life force. The party stabilizes him, but he is unable to reattune to the crown.
 
@@ -103,7 +103,7 @@ Blinded by Wellby’s second arrow, Apollyon transforms into mist, retreating th
 - Kenzo manages to grab the Crown, using Seeker's inspiration to help overcome the Crown's resistance. After a brief moment of struggle, the crown settles on his head.
 - The chalyte knight kneels before Kenzo, recognizing his new authority.
 - Fausto dies as the crown severs its connection, leaving him unable to sustain his life force.
-- Kenzo acts quickly to take over the individuals bound to the Crown's control by Fausto. He orders Marius Cusico, the general in charge of the Chardonian Expeditionary Legions in Dunmar, to surrender and retreat; he commands the chalyte knight into a meditative pose, testing his control; and he orders a number of bureaucrats and Chardonian officials, mostly in the chalyte trade and formerly controlled by Fausto, to try to reform Chardonian society, focusing on reparations and societal restructuring.
+- Kenzo acts quickly to take over the individuals bound to the Crown's control by Fausto. He orders [Marius Cusico](<../../../people/chardonians/marius-cusico.md>), the general in charge of the Chardonian Expeditionary Legions in Dunmar, to surrender and retreat; he commands the chalyte knight into a meditative pose, testing his control; and he orders a number of bureaucrats and Chardonian officials, mostly in the chalyte trade and formerly controlled by Fausto, to try to reform Chardonian society, focusing on reparations and societal restructuring.
 - The party debates the morality and implications of Kenzo’s actions, especially the use of the crown’s mind-control abilities.
 - Concerns arise about the crown’s influence over Kenzo and whether his values will remain intact.
 - Riswynn and others propose methods to test the crown’s impact on Kenzo’s soul, including soul sight and attunement tests.
@@ -124,7 +124,7 @@ Blinded by Wellby’s second arrow, Apollyon transforms into mist, retreating th
 - The party discusses the challenges of entering Apollyon’s tomb, particularly the red mist surrounding the structure.
 - Seeker uses *Clairvoyance* to view the interior of the temple, noting a massive statue of Apollyon, rows of dark pillars, and an altar. The space appears unfinished, with murals and statues in various stages of completion.
 - The red mist does not enter the temple but pools near the base of its steps. It is remembered as a deadly phenomenon tied to Cha'mutte’s magical plague.
-- Wellby receives a message from Sura detailing an unexpected truce: General Marius Cusico has called for an end to hostilities in the [Chardon-Dunmar War](<../../../events/1700s/chardon-dunmar-war.md>). A small contingent of wizards and soldiers refuse to comply, creating potential trouble.
+- Wellby receives a message from Sura detailing an unexpected truce: General [Marius Cusico](<../../../people/chardonians/marius-cusico.md>) has called for an end to hostilities in the [Chardon-Dunmar War](<../../../events/1700s/chardon-dunmar-war.md>). A small contingent of wizards and soldiers refuse to comply, creating potential trouble.
 - The party rests for the night, preparing to enter Apollyon's tomb the next morning.
 
 
@@ -169,7 +169,7 @@ Kenzo seizes the opportunity to grab the Crown of Purity, using Seeker’s inspi
 
 ---
 
-With the crown’s influence in hand, Kenzo commands its network of controlled individuals. He orders Marius Cusico, the Chardonian general, to surrender and retreat from [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). Testing his control, he directs the chalyte knight into a meditative pose and issues reforms to Chardonian bureaucrats tied to the chalyte trade, urging societal restructuring and reparations.
+With the crown’s influence in hand, Kenzo commands its network of controlled individuals. He orders [Marius Cusico](<../../../people/chardonians/marius-cusico.md>), the Chardonian general, to surrender and retreat from [Dunmar](<../../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). Testing his control, he directs the chalyte knight into a meditative pose and issues reforms to Chardonian bureaucrats tied to the chalyte trade, urging societal restructuring and reparations.
 
 The party debates the morality of wielding the crown’s power, with concerns about its influence over Kenzo. Riswynn proposes testing its effects, leading to Kenzo relinquishing the crown. When Riswynn attunes to it, Kenzo collapses as the crown drains his life force. The party stabilizes him, but he is unable to reattune to the crown.
 

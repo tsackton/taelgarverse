@@ -20,7 +20,7 @@ hide_toc: true
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
-    An aboleth  
+    An [aboleth](<../../creatures/bestiary/aboleths.md>)  
     { .bio }
 
     Based in the [Yuvanti Mountains](<../../gazetteer/greater-dunmar/yuvanti-mountains.md>)

@@ -38,4 +38,4 @@ Celyn was a surprise youngest child. His maternal aunt Dilys, Olwen's younger si
 
 #### Celyn's agemates
 
-The [Crowther](<../../../people/tyrwinghans/ellis-crowther.md>) [twins](<../../../people/tyrwinghans/llew-crowther.md>) come from another vineyard-working family. Other young people in the village include Idris, an older bully whose swagger rarely impressed others; Gwawr, a beautiful Black girl who enjoyed the attention she received from boys; Tegan, Gwawr's beloved and a lover of gossip; Cadwgan, a potter's son who courted Tegan; Delwyn, a pretty gay young man; Nesta, recently pregnant; and Rhian, probably at the older end of a slightly younger age group.
+The Crowther twins come from another vineyard-working family. Other young people in the village include Idris, an older bully whose swagger rarely impressed others; Gwawr, a beautiful Black girl who enjoyed the attention she received from boys; Tegan, Gwawr's beloved and a lover of gossip; Cadwgan, a potter's son who courted Tegan; Delwyn, a pretty gay young man; Nesta, recently pregnant; and Rhian, probably at the older end of a slightly younger age group.

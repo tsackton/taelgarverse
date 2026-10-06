@@ -24,13 +24,13 @@ hide_toc: true
     A [Zimka](<../../groups/cultures/zimka.md>) [human](<../../creatures/species/humans.md>) (he/him)  
     { .bio }
 
-    Originally from: [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), Zefya's Realm
+    Originally from: [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>), [Zeyfa's Realm](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-realm.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of January 29th, 1730): the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>)
 
 
-Iskander is an older Zimka man from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), balding and somewhat heavyset. He is an ally of [Zahara](<zahara.md>), and part of their dissident circle of rebels. 
+Iskander is an older Zimka man from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>), balding and somewhat heavyset. He is an ally of [Zahara](<zahara.md>), and part of their dissident circle of rebels. 
 
 
 In January of DR 1730, he helped the [Chasm Explorers](<../pcs/other-pcs/into-the-chasm/chasm-explorers.md>) orchestrate an escape from Melusa. He helped gather  villagers willing to leave, and joined those [evacuated from Melusa](<../../campaigns/one-shots/into-the-chasm/into-the-chasm-episode-06.md>). 

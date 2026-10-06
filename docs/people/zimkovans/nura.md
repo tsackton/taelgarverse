@@ -24,13 +24,13 @@ hide_toc: true
     A [Zimka](<../../groups/cultures/zimka.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     { .bio }
 
-    Originally from: [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), Zefya's Realm
+    Originally from: [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>), [Zeyfa's Realm](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-realm.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of January 29th, 1730): the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>)
 
 
-Nura is a Zimka woman from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), the sister of [Kalima](<../sembarans/kalima.md>), wife of [Khaled](<khaled.md>), and mother of [Samir](<samir.md>). 
+Nura is a Zimka woman from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>), the sister of [Kalima](<../sembarans/kalima.md>), wife of [Khaled](<khaled.md>), and mother of [Samir](<samir.md>). 
 
 
 In January of DR 1730, she and Khaled sheltered the [Chasm Explorers](<../pcs/other-pcs/into-the-chasm/chasm-explorers.md>) when [Kalima](<../sembarans/kalima.md>) [returned from the labyrinth](<../../campaigns/one-shots/into-the-chasm/into-the-chasm-episode-03.md>). She joined those [evacuated from Melusa](<../../campaigns/one-shots/into-the-chasm/into-the-chasm-episode-06.md>) with her family, and later settled with the other rescued Melusans.

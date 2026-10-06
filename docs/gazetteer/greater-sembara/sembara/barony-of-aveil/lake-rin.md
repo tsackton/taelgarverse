@@ -19,7 +19,7 @@ A large lake formed by the confluence of the [Auberonne](<../../rivers/wistel-en
 * Mirabelle, the smallest, on the north west side, near the Enst
 * [Chantefleur](<chantefleur.md>), along the north side, the center of fishing on the lake, with the largest and best docks. A ferry departs from here for Lynthia twice a day. Close to where the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>) flows into the lake
 * Enclaut, closest to [Rinburg](<rinburg.md>), a more of a lakeside resort than a working town, with numerous elegant houses where the wealthy of Rinburg live. 
-* Aubrille, on the south shore, near to Lynthia, in the [Barony of Estrive](<../borderlands/barony-of-estrive.md>). Founded recently, with a energetic young lord.
+* [Aubrille](<../borderlands/aubrille.md>), on the south shore, near to Lynthia, in the [Barony of Estrive](<../borderlands/barony-of-estrive.md>). Founded recently, with a energetic young lord.
 * Lynthia, on the south east shore, near the Enst, also part of the [Barony of Estrive](<../borderlands/barony-of-estrive.md>). A larger market town, and growing rapidly, although no where close to the size of [Rinburg](<rinburg.md>)
 
 The south western shore is reedy and marshy, and a small lizardfolk community -- Getxo -- has settled here recently

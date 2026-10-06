@@ -11,7 +11,7 @@ campaignInfo:
 name: Zeyfa's Labyrinth
 pronunciation: ZAY-fahz LAB-uh-rinth
 whereabouts:
-- {type: primary, location: Zefya's Realm}
+- {type: primary, location: Zeyfa's Realm}
 knownTo: [itc]
 dm_owner: none
 dm_notes: none
@@ -21,11 +21,11 @@ title: Zeyfa's Labyrinth
 # Zeyfa's Labyrinth
 :speaker:{ .middle } *(ZAY-fahz LAB-uh-rinth)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A labyrinth in Zefya's Realm  
+-    :octicons-location-24:{ .lg .middle } A labyrinth in [Zeyfa's Realm](<zeyfa-s-realm.md>)  
 </div>
 
 
-Zeyfa's Labyrinth is an icebound maze inside Zefya's Realm, associated with [Zeyfa](<../../../../gods-and-religions/gods/kestavo/zeyfa.md>), the cruel West Wind of Zimkovan legend. It is associated with a dangerous beast that consumes sacrifices sent into the labyrinth from [Melusa](<melusa.md>), and it said to trap all who enter. No one escapes. 
+Zeyfa's Labyrinth is an icebound maze inside [Zeyfa's Realm](<zeyfa-s-realm.md>), associated with [Zeyfa](<../../../../gods-and-religions/gods/kestavo/zeyfa.md>), the cruel West Wind of Zimkovan legend. It is associated with a dangerous beast that consumes sacrifices sent into the labyrinth from [Melusa](<melusa.md>), and it said to trap all who enter. No one escapes. 
 
 
 

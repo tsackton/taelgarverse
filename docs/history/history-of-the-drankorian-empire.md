@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
 aliases: [Drankorian Era]
 dm_owner: tim
 dm_notes: important
@@ -59,10 +59,18 @@ Corruption and darkness grew in the shadows during the Golden Age. The age of pe
 ## Dominion and Downfall
 _DR 997 - DR 1059_
 
-After the victory of [Omnis Pura](<../groups/drankorian-societies/omnis-pura.md>) in the Drankorian Civil War, the Empire gradually grew darker and darker, until in the end the full might of imperial power was turned to raising [Apollyon](<../people/historical-figures/drankorian-emperors/apollyon.md>) to godhood, only to see defeat at the last second from a magical plague that spread through the heartlands of the empire destroying nearly everyone it touched. 
+After the victory of [Omnis Pura](<../groups/drankorian-societies/omnis-pura.md>) in the Drankorian Civil War, imperial rule grew increasingly oppressive. [Apollyon](<../people/historical-figures/drankorian-emperors/apollyon.md>), who took the throne in DR 1011, intensified the persecution of non-human peoples and religious dissidents, including the systematic slaughter of the peronar. He gathered powerful relics, using the [Cloak of Rainbows](<../things/artifacts-of-power/cloak-of-rainbows.md>) to overcome the divine protections of [Rostaurë](<../gazetteer/drankorian-hinterland/rostaure.md>) and the [Scepter of Command](<../things/artifacts-of-power/scepter-of-command.md>) to compel obedience from his armies. In the end, the full might of imperial power was turned to raising Apollyon to godhood, only for his attempt to end in catastrophe as the [First Plague](<../events/1000s/1059/first-plague.md>) spread through the heartlands of the empire, destroying nearly everyone it touched.
 
 - 1001 DR - 1013 DR: The Dominion Wars, a series of attempted conquests to the east
-- 1059 DR: The destruction of [Drankor](<../gazetteer/drankorian-hinterland/drankor/drankor.md>) by the [First Plague](<../events/1000s/1059/first-plague.md>). 
+- 1011 DR: [Apollyon](<../people/historical-figures/drankorian-emperors/apollyon.md>) becomes emperor of Drankor.
+- 1050 DR: Apollyon attacks the [People of the Rainbow](<../groups/orc-hordes/people-of-the-rainbow.md>) and steals the [Cloak of Rainbows](<../things/artifacts-of-power/cloak-of-rainbows.md>).
+- 1051 DR: Apollyon sacks Estemar and destroys [Rostaurë](<../gazetteer/drankorian-hinterland/rostaure.md>), using the Cloak to overcome the realm's divine protections.
+- 1053 DR: Apollyon creates the [Scepter of Command](<../things/artifacts-of-power/scepter-of-command.md>) on the [Circular Island](<../gazetteer/drankorian-hinterland/circular-island.md>).
+- 1059 DR: The destruction of [Drankor](<../gazetteer/drankorian-hinterland/drankor/drankor.md>) by the [First Plague](<../events/1000s/1059/first-plague.md>).
+
+
+
+
 
 # Rulers
 

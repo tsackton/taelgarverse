@@ -29,7 +29,7 @@ The Dunmar Fellowship liberates seven souls and destroys Apollyon's phylactery, 
 - The group enters the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>) and successfully frees seven souls, destroying the phylactery.
 - Returning to Vindristjarna, they learn Fausto charmed the crew to seek [Pu'aatar](<../../../gazetteer/faraway-places/pu-aatar.md>) and dispel the charm.
 ### Timeline
-- May 23, 1749 DR, afternoon: The party explores the [University of the Blessed Waters](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>), recovering a token associated with Minarith. Seeker teleports the party to [Philosopher's Guild](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>). 
+- May 23, 1749 DR, afternoon: The party explores the [University of the Blessed Waters](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>), recovering a token associated with [Minarith](<../../../people/historical-figures/minarith.md>). Seeker teleports the party to [Philosopher's Guild](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>) in [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>). 
 -  May 23, 1749 DR, late afternoon: The party requests information about the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>) from the [Philosopher's Guild](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>). [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) speaks with [Melindir](<../../../people/elves/melindir.md>). [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) and [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) find a body to use as a material component for _Plane Shift_. 
 - May 23, 1749 DR, evening: The party speaks with the [Philosopher's Guild](<../../../groups/tollen-guilds/ancient-and-honorable-guild-of-philosophers.md>), receiving information about the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>)
 - May 24, 1749 DR, morning: Riswynn uses _Plane Shift_ to bring the party to the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>). The party frees the souls tied to [Apollyon's Phylactery](<../../../things/artifacts-of-power/apollyon-s-phylactery.md>), destroying it. 
@@ -49,13 +49,13 @@ The battle begins as [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) c
 
 ---
 
-Inside the Faculty of Natural History, the ruins of the building tell a story of decay and abandonment. The structure’s floors are unstable, and a tree grows through its center, adding to the treacherous environment. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) senses a faint psychic connection to Minarith in the northwest corner. As they traverse the ruins, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) triggers a roof collapse but escapes with minor injuries. The group carefully climbs over rubble, reaching a row of offices. One, overgrown with vines and debris, bears the unmistakable signs of belonging to Minarith.
+Inside the Faculty of Natural History, the ruins of the building tell a story of decay and abandonment. The structure’s floors are unstable, and a tree grows through its center, adding to the treacherous environment. [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) senses a faint psychic connection to [Minarith](<../../../people/historical-figures/minarith.md>) in the northwest corner. As they traverse the ruins, [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) triggers a roof collapse but escapes with minor injuries. The group carefully climbs over rubble, reaching a row of offices. One, overgrown with vines and debris, bears the unmistakable signs of belonging to [Minarith](<../../../people/historical-figures/minarith.md>).
 
-Inside, they discover a palm-sized wooden and metal bird, intricately carved with silver eyes and a marble body. The bird radiates faint transmutation magic and contains a hidden compartment. Inside the compartment, they find a tightly rolled piece of paper, a note written in Elvish and addressed to Maglar, reading: 
+Inside, they discover a palm-sized wooden and metal bird, intricately carved with silver eyes and a marble body. The bird radiates faint transmutation magic and contains a hidden compartment. Inside the compartment, they find a tightly rolled piece of paper, a note written in Elvish and addressed to [Maglar](<../../../people/historical-figures/maglar.md>), reading: 
 
 *"I hope this message finds you. I am trusting to luck and this magic trinket to bring this note to you. I finally... They're coming. I can hide no longer. I know not what will happen to me, but few, if any, of our people have survived the [Ashen Cloaks](<../../../groups/drankorian-societies/ashen-cloaks.md>). I thought maybe my unimportance might protect me, for who really cares about the study of plants when down the hall there is the study of great magics and fire, and the planes and the gods that can reshape reality themselves. But it was always the case, I guess, that he would never let any of our people survive, and I have nowhere left to flee. Run if you can."
 
-Both the bird and the note resonate strongly with Minarith’s soul, marking them as vital mementos for the ritual to destroy the phylactery.
+Both the bird and the note resonate strongly with [Minarith](<../../../people/historical-figures/minarith.md>)’s soul, marking them as vital mementos for the ritual to destroy the phylactery.
 
 ---
 
@@ -79,17 +79,17 @@ The next morning, Riswynn casts _Plane Shift_, transporting the party to a gray,
 
 The party lays the phylactery dagger on a cloth alongside the seven mementos. Shadowy figures, indistinct and fragmented, emerge and pace in a circular path around the dagger. Their forms lack definition, and their fragmented speech echoes in Drankorian, Elvish, and Common. In turn, the party seeks to free each one from the hold of [Apollyon's Phylactery](<../../../things/artifacts-of-power/apollyon-s-phylactery.md>):
 
-- **Seraphina Appleblossom:** [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) recounts tales of the Laughing Wave tavern, invoking the joy of fireworks on its roof. He bridges her connection to her past, helping her recall her name. Seraphina steps forward, smiling as she departs with the phrase, "There’s always another party to go to."
+- **[Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>):** [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) recounts tales of the Laughing Wave tavern, invoking the joy of fireworks on its roof. He bridges her connection to her past, helping her recall her name. Seraphina steps forward, smiling as she departs with the phrase, "There’s always another party to go to."
 
-- **Minarith:** [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) mimics a curious student, engaging Minarith with botanical questions. His persuasive manner helps the peronar scholar remember his identity. Minarith departs with the words, "I see the stars," bowing gracefully.
+- **[Minarith](<../../../people/historical-figures/minarith.md>):** [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>) mimics a curious student, engaging [Minarith](<../../../people/historical-figures/minarith.md>) with botanical questions. His persuasive manner helps the peronar scholar remember his identity. [Minarith](<../../../people/historical-figures/minarith.md>) departs with the words, "I see the stars," bowing gracefully.
 
-- **Floria of Aphasium:** [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) speaks to Floria’s devotion to family and aiding others. Her heartfelt words evoke memories of Floria’s mission to care for the needy. Floria hears the call of [The Father](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-father.md>) and vanishes, her surroundings subtly shifting.
+- **[Floria of Aphasium](<../../../people/historical-figures/floria-of-aphasium.md>):** [Riswynn](<../../../people/pcs/dunmar-fellowship/riswynn.md>) speaks to Floria’s devotion to family and aiding others. Her heartfelt words evoke memories of Floria’s mission to care for the needy. Floria hears the call of [The Father](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-father.md>) and vanishes, her surroundings subtly shifting.
 
-- **Marius of Drankor:** [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) aligns Marius’s rebellion with his own struggles for justice, connecting with Marius' spirit to rekindle Marius’s sense of purpose. Marius departs, encouraging [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) to "keep fighting."
+- **[Marius of Drankor](<../../../people/historical-figures/marius-of-drankor.md>):** [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) aligns Marius’s rebellion with his own struggles for justice, connecting with Marius' spirit to rekindle Marius’s sense of purpose. Marius departs, encouraging [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) to "keep fighting."
 
-- **Valanthe:** [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) uses humor and his _Vicious Mockery_ spell to help Valanthe recall her satirical plays mocking Apollyon. Her laughter returns, and she departs, thanking the party to "remember my works."
+- **[Valanthe](<../../../people/historical-figures/valanthe.md>):** [Seeker](<../../../people/pcs/dunmar-fellowship/seeker.md>) uses humor and his _Vicious Mockery_ spell to help [Valanthe](<../../../people/historical-figures/valanthe.md>) recall her satirical plays mocking Apollyon. Her laughter returns, and she departs, thanking the party to "remember my works."
 
-- **Khemut of Targu:** [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) invokes maritime sights and sounds, reconnecting Khemut to her life as a sailor. His vivid descriptions prompt her to recall her ship, the Sword of the Wind. She departs, whispering, "The wind, the best part of the ocean."
+- **[Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>):** [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) invokes maritime sights and sounds, reconnecting Khemut to her life as a sailor. His vivid descriptions prompt her to recall her ship, the Sword of the Wind. She departs, whispering, "The wind, the best part of the ocean."
 
 - **[Antonius Patrius](<../../../people/historical-figures/antonius-patrius.md>):** [Delwath](<../../../people/pcs/dunmar-fellowship/delwath.md>)’s descriptions of sacred pilgrimages push Antonius to recall his organizational skills and purpose. Faltering, but guided by one of the [Gidari](<../../../creatures/extraplanar/gidari.md>), he departs hesitantly, as a final snap echoes through the expanse.
 
@@ -111,9 +111,9 @@ Uncertain as to why the ship has turned and traveled so far from [Drankor](<../.
 	- Visiting the Laughing Wave, a halfling tavern once owned by Serafina Apple Blossom.
 	- Fighting undead that cursed them with sorrowful visions of the tavern being raided by gray-cloaked mages.
 	- Discovering a punch bowl and fireworks casings connected to Seraphina’s joyful memories of halflings celebrating on the tavern’s roof.
-	- Finding a foreign coin tied to Khemut of Targu in the tavern’s cellar.
-	- Exploring the Customs House, where they encountered a swirling red mist and recovered important scrolls and a shipping manifest tied to Khemut of Targu’s ship.
-	- Identifying a connection to Minarith, linked to the [University of the Blessed Waters](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>).
+	- Finding a foreign coin tied to [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>) in the tavern’s cellar.
+	- Exploring the Customs House, where they encountered a swirling red mist and recovered important scrolls and a shipping manifest tied to [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>)’s ship.
+	- Identifying a connection to [Minarith](<../../../people/historical-figures/minarith.md>), linked to the [University of the Blessed Waters](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>).
 - Wellby shares news from Sura, indicating that Chardonian forces have begun attacking Dunmar. Sura’s army faces shadowy assassins and advancing legions, creating a dire situation.
 - While concerned about Fausto, a recurring adversary, potentially targeting [Vindristjarna](<../../../things/ships/vindristjarna.md>), and the situation in Dunmar, the group decides to focus on finding the last memento and accessing the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>), reasoning that destroying Apollyon is the most effective way to help Dunmar.
 - [Wellby](<../../../people/pcs/dunmar-fellowship/wellby.md>) uses his magical bow to locate the [University of the Blessed Waters](<../../../gazetteer/drankorian-hinterland/drankor/university-of-the-blessed-waters.md>), firing an arrow that vanishes and reveals a path visible only to him.
@@ -139,14 +139,14 @@ Uncertain as to why the ship has turned and traveled so far from [Drankor](<../.
 
 
 ### The Ruins of the Faculty of Natural History
-- The party enters the dilapidated building labeled "Faculty of Natural History" in Drankorian, which Minarith the peronar was associated with.
-- The structure shows signs of severe decay, with unstable floors and a tree growing through its center. Despite its instability, Kenzo senses a faint psychic connection to Minarith in the northwest corner of the ruins.
+- The party enters the dilapidated building labeled "Faculty of Natural History" in Drankorian, which [Minarith](<../../../people/historical-figures/minarith.md>) the peronar was associated with.
+- The structure shows signs of severe decay, with unstable floors and a tree growing through its center. Despite its instability, Kenzo senses a faint psychic connection to [Minarith](<../../../people/historical-figures/minarith.md>) in the northwest corner of the ruins.
 - As the group traverses the ruins, Wellby triggers a roof collapse but avoids significant injury.
-- The party carefully climbs over the rubble, reaching what appears to have been a row of offices. Kenzo identifies one as Minarith’s, overgrown with vines and debris.
+- The party carefully climbs over the rubble, reaching what appears to have been a row of offices. Kenzo identifies one as [Minarith](<../../../people/historical-figures/minarith.md>)’s, overgrown with vines and debris.
 - Inside the office, they discover a palm-sized wooden and metal bird, partially buried in dirt. The bird is intricately carved, with inlaid silver eyes and a marble body. It exudes faint transmutation magic.
 - The bird contains a hidden compartment, which the party opens to find a tightly rolled piece of paper.
 - The note, written in Elvish and addressed to Maglar, reads: *"I hope this message finds you. I am trusting to luck and this magic trinket to bring this note to you. I finally... They're coming. I can hide no longer. I know not what will happen to me, but few, if any, of our people have survived the [Ashen Cloaks](<../../../groups/drankorian-societies/ashen-cloaks.md>). I thought maybe my unimportance might protect me, for who really cares about the study of plants when down the hall there is the study of great magics and fire, and the planes and the gods that can reshape reality themselves. But it was always the case, I guess, that he would never let any of our people survive, and I have nowhere left to flee. Run if you can."
-- Both the bird and the note are suffused with Minarith’s soul energy, marking them as significant mementos for the ritual to free Apollyon’s bound souls.
+- Both the bird and the note are suffused with [Minarith](<../../../people/historical-figures/minarith.md>)’s soul energy, marking them as significant mementos for the ritual to free Apollyon’s bound souls.
 - With all seven mementos secured, the group teleports to [Tollen](<../../../gazetteer/greater-sembara/tollen/tollen.md>) to locate a recently deceased soul for the Plane Shift spell required to reach the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>).  
 
 
@@ -199,27 +199,27 @@ Uncertain as to why the ship has turned and traveled so far from [Drankor](<../.
 - The air is dry, lifeless, and devoid of weather, contributing to an unsettling stillness.
 - The party retrieves the phylactery dagger and spreads it on a cloth alongside the seven mementos.
 - Seven indistinct, shadowy figures emerge, pacing a circular path around the dagger. Their forms lack definition, and their speech is fragmented in various languages, including Drankorian, Elvish, and Common.
-- Seraphina Appleblossom
+- [Seraphina Appleblossom](<../../../people/historical-figures/seraphina-appleblossom.md>)
 	- Wellby recounts vivid tales of the Laughing Wave tavern and the joy of fireworks on its roof.
 	- Using Insight (natural 20), Wellby bridges her connection to her past, helping her recall her name.
 	- Serafina steps forward, recognizing her identity, and departs with the phrase, "There’s always another party to go to."
-- Minarith
+- [Minarith](<../../../people/historical-figures/minarith.md>)
 	- Delwath engages Minareth with botanical questions, mimicking a curious student to invoke a teaching response.
 	- Using Persuasion (19), Delwath helps Minareth remember their scholarly identity.
 	- Minareth recalls their name and remarks, "I see the stars," before departing with a dignified bow.
-- Floria of Aphasium
+- [Floria of Aphasium](<../../../people/historical-figures/floria-of-aphasium.md>)
 	- Riswynn connects with Floria through her devotion to family and aiding others.
 	- Using Insight, Riswynn’s heartfelt words evoke memories of Gloria’s mission to care for those in need.
 	- Gloria hears the call of [The Father](<../../../gods-and-religions/gods/incorporeal-gods/mos-numena-pantheon/the-father.md>) and departs, her surroundings subtly shifting as she vanishes.
-- Marius of Drankor
+- [Marius of Drankor](<../../../people/historical-figures/marius-of-drankor.md>)
 	- Kenzo speaks of shared struggles against oppression, aligning Marius’s rebellion with his own fight for justice.
 	- Using Insight (18 after reroll), Kenzo helps Marius regain his sense of purpose.
 	- Marius acknowledges his past with a nod and departs, encouraging Kenzo to "keep fighting."
-- Valanthe
+- [Valanthe](<../../../people/historical-figures/valanthe.md>)
 	- Seeker recalls Valanthe’s satirical plays that mocked Apollyon, using humor to restore her sense of identity.
 	- Employing *Vicious Mockery* (19), Seeker’s clever taunts bring laughter to Valente, rekindling her spirit.
 	- Valente departs, thanking Seeker and urging the party to "remember my works."
-- Khemut of Targu
+- [Khemut of Targu](<../../../people/historical-figures/khemut-of-targu.md>)
 	- Wellby invokes the sights, sounds, and freedom of maritime trade to reconnect Kemet to her life as a sailor and merchant.
 	- Using Nature, Wellby’s evocative descriptions prompt Kemet to recall her ship, the Sword of the Wind.
 	- She departs with the whisper, "The wind, the best part of the ocean," as a phantom breeze stirs.

@@ -30,7 +30,7 @@ The party consists of:
 
 [Jrain Fanlish](<jrain-fanlish.md>), a traveler, messenger, and sometimes member of the Mezhai.
 
->In DR 1730, the Chasm Explorers were drawn into [Zeyfa's Labyrinth](<../../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>) while investigating disturbances around the [Great Chasm](<../../../../gazetteer/greater-sembara/zimkova/great-chasm.md>). Their expedition recovered the keystone needed to repair an ancient chasm mechanism and helped willing villagers escape [Melusa](<../../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>).
+>In DR 1730, the Chasm Explorers were drawn into [Zeyfa's Labyrinth](<../../../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-labyrinth.md>) while investigating disturbances around the [Great Chasm](<../../../../gazetteer/greater-sembara/zimkova/great-chasm.md>). Their expedition recovered the keystone needed to repair an ancient chasm mechanism and helped willing villagers escape [Melusa](<../../../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>).
 
 
 

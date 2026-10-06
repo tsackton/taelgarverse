@@ -21,13 +21,13 @@ title: Into the Chasm - Episode 2
 	*Featuring: [Finnan](<../../../people/pcs/other-pcs/into-the-chasm/finnan-oakstride.md>), [Jrain](<../../../people/pcs/other-pcs/into-the-chasm/jrain-fanlish.md>), [Eolo](<../../../people/pcs/other-pcs/into-the-chasm/eolo.md>), [Ekko](<../../../people/pcs/other-pcs/into-the-chasm/ekko.md>), [Justas](<../../../people/pcs/other-pcs/into-the-chasm/justas-rhostrin.md>)*
 	*In Taelgar: Jan 25, 1730 DR*
 	*On Earth: Wednesday, December 3, 2025*
-	*[Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>)*
+	*[Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-labyrinth.md>)*
 
-The party makes their way into [Zeyfa’s Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>), surviving unnatural cold and shifting paths, speaks with a dead man, and emerges into a black‑stone chamber where a terrifying white beast awaits.
+The party makes their way into [Zeyfa’s Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-labyrinth.md>), surviving unnatural cold and shifting paths, speaks with a dead man, and emerges into a black‑stone chamber where a terrifying white beast awaits.
 
 ## Timeline
 
-- Jan 25, 1730 DR, afternoon: The party travels deeper into [Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>). They speak with a dead man, survive the maze's whiteout conditions, and reach the beast's chamber.
+- Jan 25, 1730 DR, afternoon: The party travels deeper into [Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-labyrinth.md>). They speak with a dead man, survive the maze's whiteout conditions, and reach the beast's chamber.
 
 ## Cast of Characters
 
@@ -37,11 +37,11 @@ The party makes their way into [Zeyfa’s Labyrinth](<../../../gazetteer/extrapl
 
 ## Places
 
-- [Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>) (*ZAY-fahz LAB-uh-rinth*; labyrinth in Zefya's Realm): hostile maze of ice, wind, and shifting passages, which the party seeks to flee.
+- [Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-labyrinth.md>) (*ZAY-fahz LAB-uh-rinth*; labyrinth in [Zeyfa's Realm](<../../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-realm.md>)): hostile maze of ice, wind, and shifting passages, which the party seeks to flee.
 
 ## Narrative
 
-Our session begins as the party descends into [Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>), steadying [Kalima](<../../../people/sembarans/kalima.md>) as they enter the first tunnels of the strange, shifting maze. [Kalima](<../../../people/sembarans/kalima.md>) keeps Romil's glowing token close, muttering prayers against the snow, while the [Chasm Explorers](<../../../people/pcs/other-pcs/into-the-chasm/chasm-explorers.md>) press on. The first passages are narrow, snowy, and seem at first glance to be ordinary stone tunnels, albeit covered in ice. But their branches and dead ends defy mapping, and the party begins to feel as if some malevolent presence is pushing them forward.
+Our session begins as the party descends into [Zeyfa's Labyrinth](<../../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-labyrinth.md>), steadying [Kalima](<../../../people/sembarans/kalima.md>) as they enter the first tunnels of the strange, shifting maze. [Kalima](<../../../people/sembarans/kalima.md>) keeps Romil's glowing token close, muttering prayers against the snow, while the [Chasm Explorers](<../../../people/pcs/other-pcs/into-the-chasm/chasm-explorers.md>) press on. The first passages are narrow, snowy, and seem at first glance to be ordinary stone tunnels, albeit covered in ice. But their branches and dead ends defy mapping, and the party begins to feel as if some malevolent presence is pushing them forward.
 
 The tunnels lead to a low, ice-walled room split by a ten-foot fissure, with warm air rising from below. Flexible ice ferns wave in the warm breeze, along the rim. The bottom is not visible, even with magical light; the ferns shudder; a hot breath blows. Kalima's fear sharpens as the room seems to come alive. [Ekko](<../../../people/pcs/other-pcs/into-the-chasm/ekko.md>) flies across; [Eolo](<../../../people/pcs/other-pcs/into-the-chasm/eolo.md>), trying to show off, jumps instead. He slips, crashing through the ferns, barely catching himself on the edge.
 

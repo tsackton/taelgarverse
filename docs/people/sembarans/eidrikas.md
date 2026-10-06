@@ -39,7 +39,7 @@ Eidrikas is a mystic of the [Vejo Vaikai](<../../groups/vejo-vaikai.md>), and [E
 
 In January 1730, he led a group of Vejo Vaikai mystics into the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>) to investigate strange happenings there, under the protection of warriors from [Kemeko Monastery](<../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>). The group lost contact with the surface, and were feared dead. 
 
-When the [Chasm Explorers](<../pcs/other-pcs/into-the-chasm/chasm-explorers.md>) found him later that month, Eidrikas was alive but holding a damaged runic mechanism together with his own body. After they recovered its stolen keystone, he repaired the mechanism and helped carry refugees from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>) out of the chasm, taking the form of a giant swan.
+When the [Chasm Explorers](<../pcs/other-pcs/into-the-chasm/chasm-explorers.md>) found him later that month, Eidrikas was alive but holding a damaged runic mechanism together with his own body. After they recovered its stolen keystone, he repaired the mechanism and helped carry refugees from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>) out of the chasm, taking the form of a giant swan.
 
 
 

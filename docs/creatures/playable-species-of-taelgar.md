@@ -62,7 +62,7 @@ Of all the planes, the [Feywild](<../cosmology/feywild.md>) is the closest and m
 | Changeling | What made you leave the Feywild to adventure on the Material Plane?  | [Playing a Changeling](<mechanics/playing-a-changeling.md>) | 4 + Sylvan         |
 | [Fae](<fey/fae.md>)                     | What made you leave the Feywild to adventure on the Material Plane?  | [Playing a Fae](<mechanics/playing-a-fae.md>)        | 4 + Sylvan         |
 | Fairy          | What made you leave the Feywild to adventure on the Material Plane?  | [Playing a Fairy](<mechanics/playing-a-fairy.md>)      | 4 + Sylvan         |
-| Beastfolk               | What made you leave the Feywild to adventure on the Material Plane?  | [Playing a Beastfolk](<mechanics/playing-a-beastfolk.md>)  | 4 + Sylvan         |
+| [Beastfolk](<fey/beastfolk.md>)               | What made you leave the Feywild to adventure on the Material Plane?  | [Playing a Beastfolk](<mechanics/playing-a-beastfolk.md>)  | 4 + Sylvan         |
 See also: [Fey](<fey/fey.md>).
 
 ## Rare Species

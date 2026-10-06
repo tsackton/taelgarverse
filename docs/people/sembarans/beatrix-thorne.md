@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T09:37:56-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1696
@@ -39,13 +39,11 @@ hide_toc: true
 </div>
 
 
-![Beatrix](/taelgarverse/assets/beatrix.webp){align="right"; width="320"}A soldier in the Bridge Patrol of the [Cleenseau Garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>), she accompanied the [Heroes of Cleenseau](<../pcs/cleenseau/heroes-of-cleenseau.md>) into the [Cleenseau Wood](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau-wood.md>) following a trail of spiders.
+![Beatrix](/taelgarverse/assets/beatrix.webp){align="right"; width="320"}A soldier in the Bridge Patrol of the [Cleenseau Garrison](<../../groups/sembaran-army/army-garrison-of-cleenseau.md>) of the [Army of the West](<../../groups/sembaran-army/army-of-the-west.md>), she distinguished herself during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>) and other troubles around Cleenseau in the fall of 1719.
 
-After her recent marriage to [Gabriel Thorne](<gabriel-thorne.md>), she left the army and joined the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>). She miscarried during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).
+In November 1720, she married [Gabriel Thorne](<gabriel-thorne.md>), after which she left the army and joined the [Lord's Guard of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/lord-s-guard-of-cleenseau.md>). She miscarried during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>). She was made sheriff after the death of [Ysabel](<ysabel.md>) during the [Undead Attacks in Sembara](<../../events/1700s/1720/01/undead-attacks-in-sembara.md>).
 
-Her father-in-law is the chief yeoman of [Auloutte](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/auloutte.md>).
-
-
+Her [father-in-law](<gideon-thorne.md>) is the chief yeoman of [Auloutte](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/auloutte.md>).
 
 
 

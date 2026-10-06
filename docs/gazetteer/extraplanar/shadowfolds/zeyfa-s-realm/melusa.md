@@ -8,7 +8,7 @@ typeOfAlias: village
 ancestry: Zimka
 name: Melusa
 pronunciation: meh-LOO-sah
-whereabouts: Zefya's Realm
+whereabouts: Zeyfa's Realm
 knownTo: [itc]
 POV: 1730
 title: Melusa
@@ -16,11 +16,11 @@ title: Melusa
 # Melusa
 :speaker:{ .middle } *(meh-LOO-sah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
--    :octicons-location-24:{ .lg .middle } A [Zimka](<../../../../groups/cultures/zimka.md>) village in Zefya's Realm  
+-    :octicons-location-24:{ .lg .middle } A [Zimka](<../../../../groups/cultures/zimka.md>) village in [Zeyfa's Realm](<zeyfa-s-realm.md>)  
 </div>
 
 
-Melusa is an isolated [Zimka](<../../../../groups/cultures/zimka.md>) village of 400-500 people in Zefya's Realm, a mist-bound place whose cliffs and floating islands resemble the [Great Chasm](<../../../greater-sembara/zimkova/great-chasm.md>). Its inhabitants speak Old Zimkovan and live under the fey lord [Forquarion](<../../../../people/extraplanar-powers/forquarion.md>), whom they call Malquin the Vaqar.
+Melusa is an isolated [Zimka](<../../../../groups/cultures/zimka.md>) village of 400-500 people in [Zeyfa's Realm](<zeyfa-s-realm.md>), a mist-bound place whose cliffs and floating islands resemble the [Great Chasm](<../../../greater-sembara/zimkova/great-chasm.md>). Its inhabitants speak Old Zimkovan and live under the fey lord [Forquarion](<../../../../people/extraplanar-powers/forquarion.md>), whom they call Malquin the Vaqar.
 
 Most of the village consists of stone houses that cluster on a broad cliffside ledge around a waterfall-fed pool teeming with salmon. Rope bridges connect the village to two floating islands: one supports grazing cattle, the other lush fruit trees and crops. A third island holds Forquarion's palace of ice.
 

@@ -29,16 +29,16 @@ hide_toc: true
     A [Zimka](<../../groups/cultures/zimka.md>) [human](<../../creatures/species/humans.md>) (she/her)  
     { .bio }
 
-    Originally from: [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), Zefya's Realm
+    Originally from: [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>), [Zeyfa's Realm](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-realm.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Last known location (as of January 30th, 1730): the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>)
 
 
-Kalima is a Zimkovan woman from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/melusa.md>), the sister of [Nura](<../zimkovans/nura.md>) and sister-in-law of [Khaled](<../zimkovans/khaled.md>). 
+Kalima is a Zimkovan woman from [Melusa](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/melusa.md>), the sister of [Nura](<../zimkovans/nura.md>) and sister-in-law of [Khaled](<../zimkovans/khaled.md>). 
 
 
-She emerged from the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>) near [Kemeko Monastery](<../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>) in late January 1730, terrified of kenku and speaking Old Zimkovan, somehow associated with the unnatural storms that had plagued the chasm. Shortly after, an unnatural storm swept her back into the labyrinth with the [Chasm Explorers](<../pcs/other-pcs/into-the-chasm/chasm-explorers.md>). With [Finnan Oakstride](<../pcs/other-pcs/into-the-chasm/finnan-oakstride.md>) and [Justas Rhostrin](<../pcs/other-pcs/into-the-chasm/justas-rhostrin.md>) protecting her, she traveled with them through the maze and led them to her family in Melusa. She described her people as descendants of refugees from an ancient catastrophe, forced to appease the West Wind with sacrifices sent into [Zeyfa's Labyrinth](<../../gazetteer/extraplanar/shadowfolds/zefya-s-realm/zeyfa-s-labyrinth.md>).
+She emerged from the [Great Chasm](<../../gazetteer/greater-sembara/zimkova/great-chasm.md>) near [Kemeko Monastery](<../../gazetteer/greater-sembara/zimkova/kemeko-monastery.md>) in late January 1730, terrified of kenku and speaking Old Zimkovan, somehow associated with the unnatural storms that had plagued the chasm. Shortly after, an unnatural storm swept her back into the labyrinth with the [Chasm Explorers](<../pcs/other-pcs/into-the-chasm/chasm-explorers.md>). With [Finnan Oakstride](<../pcs/other-pcs/into-the-chasm/finnan-oakstride.md>) and [Justas Rhostrin](<../pcs/other-pcs/into-the-chasm/justas-rhostrin.md>) protecting her, she traveled with them through the maze and led them to her family in Melusa. She described her people as descendants of refugees from an ancient catastrophe, forced to appease the West Wind with sacrifices sent into [Zeyfa's Labyrinth](<../../gazetteer/extraplanar/shadowfolds/zeyfa-s-realm/zeyfa-s-labyrinth.md>).
 
 In January of DR 1730, she joined those [evacuated from Melusa](<../../campaigns/one-shots/into-the-chasm/into-the-chasm-episode-06.md>). 
 
