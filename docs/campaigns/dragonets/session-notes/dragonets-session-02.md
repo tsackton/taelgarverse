@@ -10,13 +10,13 @@ DR_end:
 players: [Heska, Sculpit, Little Tony, Zeno]
 companions: []
 descTitle: The Hidden Heart
-name: Dragonets - Session 02
+name: Dragonets - Session 2
 POV: undated
 sessionKey: dragonets-session-2
 session-template: dragonets-template.md
-title: Dragonets - Session 02
+title: Dragonets - Session 2
 ---
-# Dragonets - Session 02
+# Dragonets - Session 2
 
 !!! info "The Hidden Heart"
 	*Featuring: Heska, Sculpit, Little Tony, and Zeno*

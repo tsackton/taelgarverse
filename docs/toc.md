@@ -100,8 +100,8 @@ search:
                 - [Wazir's Gloss on the Ciphered Scroll](campaigns/mawar-adventures/notes/wazir-s-gloss-on-the-ciphered-scroll.md)
         - [Dragonets](campaigns/dragonets/dragonets-campaign.md)
             - Session Notes
-                - [Dragonets - Session 02](campaigns/dragonets/session-notes/dragonets-session-02.md)
-                - [Dragonets — Session 1](campaigns/dragonets/session-notes/dragonets-session-01.md)
+                - [Dragonets - Session 1](campaigns/dragonets/session-notes/dragonets-session-01.md)
+                - [Dragonets - Session 2](campaigns/dragonets/session-notes/dragonets-session-02.md)
             - [The Shared Vision of Home](campaigns/dragonets/the-shared-vision-of-home.md)
         - [Lost in the Feywild](campaigns/one-shots/lost-in-the-feywild/lost-in-the-feywild.md)
             - [Player Characters](people/pcs/other-pcs/tollen-misfits/tollen-misfits.md)
