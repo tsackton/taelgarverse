@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="Taelgar II. Two hundred years after the Godfall, a world of terrible wonders.">
+  <title>Taelgar II — After the Godfall</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --night: #100e10;
+      --paper: #e5d9c7;
+      --text: #c9c0b5;
+      --muted: #aca095;
+      --blood: #9d3c49;
+      --red-light: #c4777e;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--night);
+      color: var(--text);
+      font-family: Georgia, "Times New Roman", serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: 8;
+      pointer-events: none;
+      opacity: .055;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.88' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Cpath fill='%23fff' filter='url(%23n)' d='M0 0h180v180H0z'/%3E%3C/svg%3E");
+    }
+    ::selection { color: #fff3dd; background: #733240; }
+    h1, h2, p, figure { margin: 0; }
+    h1, h2 { color: var(--paper); font-weight: 400; }
+    img { display: block; width: 100%; height: auto; }
+    a { color: inherit; }
+    a:focus-visible { outline: 2px solid var(--red-light); outline-offset: 9px; }
+    .svg-defs { position: absolute; width: 0; height: 0; overflow: hidden; }
+    .eyebrow, figcaption, .scroll-cue {
+      font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: .24em;
+      line-height: 1.5;
+      text-transform: uppercase;
+    }
+    .hero {
+      min-height: 800px;
+      min-height: max(780px, 96svh);
+      position: relative;
+      isolation: isolate;
+      overflow: hidden;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      padding: 110px 24px 145px;
+      background: radial-gradient(ellipse at 50% 44%, #30161c55, transparent 63%);
+    }
+    .hero-sigil {
+      position: absolute;
+      z-index: -1;
+      width: min(810px, 108vw);
+      height: auto;
+      top: 45%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: var(--blood);
+    }
+    .hero-content { width: 100%; padding-top: 158px; }
+    .hero .eyebrow { color: var(--red-light); margin-bottom: 24px; }
+    h1 {
+      font-size: clamp(66px, 10.7vw, 150px);
+      line-height: 1;
+      letter-spacing: .075em;
+      padding-left: .075em;
+      text-shadow: 0 3px 45px #000;
+    }
+    h1 span {
+      display: block;
+      font-size: .34em;
+      line-height: 1;
+      letter-spacing: .11em;
+      margin: 19px 0 34px;
+      color: var(--red-light);
+    }
+    .opening {
+      margin: 0 auto;
+      max-width: 530px;
+      font-size: clamp(21px, 2.2vw, 28px);
+      line-height: 1.55;
+      text-wrap: balance;
+      color: var(--paper);
+    }
+    .opening em { font-style: normal; color: #d39193; }
+    .scroll-cue {
+      position: absolute;
+      bottom: 35px;
+      left: 50%;
+      transform: translateX(-50%);
+      text-decoration: none;
+      color: var(--muted);
+      padding: 8px 18px;
+    }
+    .scroll-cue::after {
+      content: "";
+      display: block;
+      width: 1px;
+      height: 37px;
+      margin: 14px auto 0;
+      background: linear-gradient(var(--blood), transparent);
+    }
+    main { overflow: hidden; }
+    .chapter { position: relative; padding: 110px 28px 0; }
+    .reading { max-width: 690px; margin: 0 auto; }
+    .chapter-number { color: var(--red-light); }
+    h2 {
+      font-size: clamp(27px, 3vw, 36px);
+      line-height: 1.3;
+      letter-spacing: -.015em;
+      margin-bottom: 32px;
+      text-wrap: balance;
+    }
+    .prose { font-size: 19px; line-height: 1.88; }
+    .prose p + p { margin-top: 24px; }
+    .prose .lead { font-size: 25px; line-height: 1.55; color: var(--paper); }
+    .prose em { font-style: normal; color: var(--paper); }
+    .landscape { max-width: 1180px; margin: 58px auto 0; }
+    .landscape .image-wrap { position: relative; }
+    .landscape .image-wrap::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      box-shadow: inset 0 0 70px #100e1033;
+      border: 1px solid #d5b59a16;
+    }
+    figcaption { color: var(--muted); padding-top: 16px; letter-spacing: .17em; }
+    .image-pair {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      gap: 28px;
+      max-width: 1180px;
+      margin: 58px auto 0;
+    }
+    .image-pair .landscape { margin: 0; }
+    .broadside { max-width: 960px; }
+    .broadside figcaption {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 16px;
+      font-weight: 400;
+      font-style: italic;
+      line-height: 1.65;
+      letter-spacing: 0;
+      text-transform: none;
+    }
+    .split {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1.06fr);
+      align-items: center;
+      gap: clamp(34px, 6vw, 88px);
+      max-width: 1180px;
+      margin: 0 auto;
+    }
+    .split .prose { font-size: 18px; line-height: 1.85; }
+    .split figure { margin: 0; }
+    .split figure img { aspect-ratio: 1.16; object-fit: cover; object-position: 52% center; }
+    .transition {
+      max-width: 700px;
+      margin: 100px auto 0;
+      padding: 0 28px;
+      text-align: center;
+    }
+    .small-eye { display: block; width: 78px; height: 44px; color: var(--blood); margin: 0 auto 33px; }
+    .transition p { color: var(--paper); font-size: clamp(24px, 3.2vw, 35px); line-height: 1.5; text-wrap: balance; }
+    .dominion { padding-top: 83px; }
+    .chardon { padding-top: 122px; }
+    .chardon .landscape { margin-top: 0; }
+    .chardon-heading { max-width: 1180px; margin: 0 auto 38px; }
+    .chardon-heading h2 { margin-bottom: 0; }
+    .chardon .split { margin-top: 53px; }
+    .chardon .split figure img { aspect-ratio: auto; object-fit: contain; }
+    .chardon .reading { margin-top: 53px; }
+    .chardon .broadside { margin-top: 44px; }
+    .wonders { padding-top: 118px; }
+    .wonders .split { grid-template-columns: minmax(0, 1.06fr) minmax(0, 1fr); }
+    .wonders figure img { object-position: 58% center; }
+    .ending {
+      position: relative;
+      isolation: isolate;
+      text-align: center;
+      padding: 160px 28px 140px;
+      margin-top: 30px;
+    }
+    .ending::before {
+      content: "";
+      position: absolute;
+      z-index: -1;
+      width: min(720px, 92vw);
+      aspect-ratio: 1;
+      border-radius: 50%;
+      left: 50%;
+      top: 47%;
+      transform: translate(-50%, -50%);
+      border: 1px solid #76303a38;
+      box-shadow: 0 0 90px #64202d0d, inset 0 0 90px #64202d0d;
+      background: radial-gradient(ellipse, #08070999 45%, #100e1000 72%);
+    }
+    .ending p { max-width: 860px; margin: auto; font-size: clamp(29px, 4vw, 47px); line-height: 1.45; color: var(--paper); text-wrap: balance; }
+    .ending em { color: #cc898f; font-style: normal; }
+    .ending .last-line { display: block; max-width: 560px; margin: 27px auto 0; font-size: 21px; line-height: 1.75; color: var(--text); }
+    .ending .small-eye { margin-top: 56px; margin-bottom: 0; width: 59px; }
+
+    @media (min-width: 1500px) {
+      .hero { min-height: 920px; }
+    }
+    @media (max-width: 760px) {
+      .hero { min-height: 760px; min-height: max(700px, 94svh); padding: 75px 24px 120px; }
+      .hero-sigil { width: 740px; max-width: none; top: 42%; }
+      .hero-content { padding-top: 130px; }
+      .hero .eyebrow { font-size: 10px; letter-spacing: .21em; }
+      h1 { font-size: clamp(54px, 12vw, 91px); }
+      h1 span { font-size: .45em; margin: 22px 0 30px; }
+      .opening { max-width: 440px; }
+      .chapter { padding: 75px 24px 0; }
+      .prose, .split .prose { font-size: 18px; line-height: 1.8; }
+      .prose .lead { font-size: 23px; }
+      h2 { margin-bottom: 26px; }
+      .landscape { margin-top: 38px; }
+      .image-pair { grid-template-columns: 1fr; gap: 32px; margin-top: 38px; }
+      .split, .wonders .split { grid-template-columns: 1fr; gap: 32px; }
+      .split figure img { aspect-ratio: auto; object-fit: contain; }
+      .wonders .split figure { order: 2; }
+      figcaption { font-size: 10px; letter-spacing: .13em; }
+      .transition { margin-top: 74px; }
+      .chardon-heading { margin-bottom: 28px; }
+      .chardon .reading { margin-top: 33px; }
+      .chardon .split { margin-top: 33px; }
+      .chardon .broadside { margin-top: 33px; }
+      .ending { padding: 95px 25px 95px; margin-top: 0; }
+      .ending .last-line { font-size: 19px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+    }
+    @media print {
+      body { background: #fff; color: #222; }
+      body::before, .hero-sigil, .scroll-cue, .ending::before { display: none; }
+      .hero { min-height: auto; padding: 50px 20px; }
+      .hero-content { padding-top: 0; }
+      h1, h2, .opening, .prose .lead, .prose em, .transition p, .ending p { color: #222; text-shadow: none; }
+      .chapter { padding-top: 45px; }
+      .split, .wonders .split { display: block; }
+      .split figure { margin-top: 25px; }
+      figure { break-inside: avoid; }
+      .ending { padding: 60px 20px; }
+      .ending .last-line { color: #222; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Standalone Taelgar II page. All styling is inline; the eight images
+       are in assets/. The eye and dark circle interpret the supplied holy symbol.
+       noindex is a discovery preference, not an access-control mechanism. -->
+  <svg class="svg-defs" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+    <defs>
+      <g id="eye" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M24 42 C43 44 63 14 83 17 C105 20 122 45 145 42 C123 47 108 70 84 69 C59 69 44 48 24 42Z"/>
+        <path d="M27 42 C10 36 11 22 17 17 M27 44 C10 50 8 63 17 67 M141 42 C159 39 160 24 153 16 M142 45 C159 49 164 63 156 70"/>
+        <path d="M84 32 C93 37 95 49 84 57 C75 51 75 39 84 32Z" fill="currentColor" stroke="none"/>
+      </g>
+      <filter id="worn" x="-8%" y="-8%" width="116%" height="116%">
+        <feTurbulence type="fractalNoise" baseFrequency=".043" numOctaves="3" seed="8" result="noise"/>
+        <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.8" xChannelSelector="R" yChannelSelector="G"/>
+      </filter>
+    </defs>
+  </svg>
+
+  <header class="hero">
+    <svg class="hero-sigil" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+      <circle cx="300" cy="300" r="268" fill="#09090b" stroke="currentColor" stroke-width="2" opacity=".67" filter="url(#worn)"/>
+      <circle cx="300" cy="300" r="274" fill="none" stroke="currentColor" stroke-width=".7" opacity=".21"/>
+      <g transform="translate(216 145)" opacity=".9" filter="url(#worn)"><use href="#eye"/></g>
+    </svg>
+    <div class="hero-content">
+      <p class="eyebrow">After the Godfall</p>
+      <h1 aria-label="Taelgar 2">TAELGAR <span aria-hidden="true">II</span></h1>
+      <p class="opening" data-source>Two hundred years ago, the world ended in <em>fire and darkness.</em></p>
+    </div>
+    <a class="scroll-cue" href="#godfall" aria-label="Begin reading the introduction">Scroll</a>
+  </header>
+
+  <main>
+    <section class="chapter" id="godfall" aria-labelledby="godfall-title">
+      <div class="reading">
+        <h2 id="godfall-title"><span class="chapter-number">I.</span> The Godfall</h2>
+        <div class="prose">
+          <p class="lead" data-source>Lord Cha'mutte won the Great War.</p>
+          <p data-source>His armies reached through the Divine Veil, killed the Embodied Gods, and shattered the Land of the Dead, a moment later known as the Godfall. The Godfall did not fall evenly. The stoneborn became statues where they stood; lizardfolk aged through centuries in a generation; no elf child was ever born again, and the ageless survivors slowly departed a world falling apart they could no longer protect.</p>
+          <p data-source>Dwarven halls beneath the mountains fell dark as runic magic failed, and widespread famine drove a refugee crisis of epic proportions as dwarven cities emptied. Halflings woke to the Quiet, severed from the ancestral mind that had once made strangers kin. Only the orcs received something that could be called a gift: Thark's command vanished from their blood, leaving them free to decide whether freedom could ever justify the crime that purchased it.</p>
+        </div>
+      </div>
+      <figure class="landscape">
+        <div class="image-wrap"><img src="assets/taelgar-2-hearth-compact-stone-silence.png" width="1692" height="930" alt="Travelers shelter beneath a shimmering dome among silent stone figures as a crimson storm fills the sky." loading="lazy" decoding="async"></div>
+        <figcaption>In the silence after the gods</figcaption>
+      </figure>
+    </section>
+
+    <section class="chapter" aria-labelledby="glass-title">
+      <div class="split">
+        <div>
+          <h2 id="glass-title"><span class="chapter-number">II.</span> What Remained</h2>
+          <div class="prose">
+            <p data-source>With the Godfall, divine magic vanished from the world: the prayers of the desperate no longer granted miracles, and sickness and famine spread.</p>
+            <p data-source>In the place of divine miracles, a new magic: <em>chaos glass</em>, crystallized in the wounds left by the Godfall. Dangerous, poisonous, and difficult to control, it could be made to yield heat, motion, or explosive force, but only at risk of catastrophe.</p>
+          </div>
+        </div>
+        <figure>
+          <img src="assets/taelgar-2-chaos-glass-mine.png" width="1709" height="920" alt="Workers and a heavy powered suit excavate a vast industrial mine beneath refinery towers and smoke." loading="lazy" decoding="async">
+          <figcaption>The price of a new magic</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <div class="transition">
+      <svg class="small-eye" viewBox="0 0 174 86" aria-hidden="true" focusable="false"><use href="#eye"/></svg>
+      <p data-source>Out of this chaos and destruction, the world changed.</p>
+    </div>
+
+    <section class="chapter dominion" aria-labelledby="dominion-title">
+      <div class="reading">
+        <h2 id="dominion-title"><span class="chapter-number">III.</span> The Legion-States</h2>
+        <div class="prose">
+          <p data-source>Hobgoblins, who had never relied on gods or divine magic, emerged unbroken and strong. Their battlemages still commanded fire and their armies in the field quickly struck disorganized foes suddenly bereft of their gods. They did not conquer everywhere, but legion-states spread through the wreckage, maintained by the slave camps of those they conquered. The human kingdoms of the west fell before them, or negotiated to survive.</p>
+        </div>
+      </div>
+      <div class="image-pair">
+        <figure class="landscape">
+          <div class="image-wrap"><img src="assets/taelgar-2-hobgoblin-legion-capital.png" width="1536" height="1024" alt="A fortified hobgoblin capital, with regimented streets, an immense citadel, and guarded laborers at the waterfront." loading="lazy" decoding="async"></div>
+          <figcaption>A world remade by conquest</figcaption>
+        </figure>
+        <figure class="landscape">
+          <div class="image-wrap"><img src="assets/taelgar-2-hobgoblin-ration-court.png" width="1536" height="1024" alt="Hobgoblin officials weigh grain and record rations while a guarded crowd waits behind iron railings." loading="lazy" decoding="async"></div>
+          <figcaption>A hobgoblin ration court</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section class="chapter chardon" aria-labelledby="chardon-title">
+      <div class="chardon-heading">
+        <h2 id="chardon-title"><span class="chapter-number">IV.</span> Chardon, Two Centuries Later</h2>
+      </div>
+      <figure class="landscape">
+        <div class="image-wrap"><img src="assets/taelgar-2-chardon-panorama.png" width="1536" height="1024" alt="Chardon's pale towers and a luminous skyship rise above crowded industrial terraces, refineries, and a busy harbor." loading="lazy" decoding="async"></div>
+        <figcaption>The city of wonders</figcaption>
+      </figure>
+      <div class="split">
+        <div class="prose">
+          <p data-source>Two centuries later, the city of Chardon is thriving, ruling over growing colonial empire powered by chalyte and chaos glass. The pale towers and skyships of the city hide the compromises that power its progress: stolen labor from the underclass of refugees, canals poisoned by chaos magic, open treaties with hobgoblin slaver kingdoms, and a hunger for the glitter of progress whatever the cost.</p>
+        </div>
+        <figure>
+          <img src="assets/taelgar-2-chardonian-weapons-proving-ground.png" width="1536" height="1024" alt="Officers watch a weapons demonstration in an industrial dockyard as a glowing weapon strikes an armored target." loading="lazy" decoding="async">
+          <figcaption>A Chardonian weapons proving ground</figcaption>
+        </figure>
+      </div>
+      <div class="reading prose">
+        <p data-source>Beyond Chardon’s ports and defended corridors, the world is a patchwork of hobgoblin domains, isolated settlements, ruined roads, and poisoned wilderness; in eastern Dunmar, rumors tell of sorcerer-kings who rule the last wells.</p>
+      </div>
+      <figure class="landscape broadside">
+        <div class="image-wrap"><img src="assets/taelgar-2-dunmar-refugee-broadside.png" width="1536" height="1024" alt="A red-and-black broadside depicts refugees beneath a broken aqueduct, with a colossal crowned figure looming in a glass-filled desert storm." loading="lazy" decoding="async"></div>
+        <figcaption>Pamphlets passed in secret purport to illustrate the sorcerer-kings of the deserts to the east.</figcaption>
+      </figure>
+    </section>
+
+    <section class="chapter wonders" aria-labelledby="wonders-title">
+      <div class="split">
+        <figure>
+          <img src="assets/taelgar-2-foundry-market.png" width="1536" height="1024" alt="An injured worker and a crowd of laborers in the foundry market, surrounded by patched machinery and the furnace glow of the lower city." loading="lazy" decoding="async">
+          <figcaption>Beneath the pale towers</figcaption>
+        </figure>
+        <div>
+          <h2 id="wonders-title"><span class="chapter-number">V.</span> Terrible Wonders</h2>
+          <div class="prose">
+            <p data-source>This is a world of terrible wonders, where miners excavate chalyte in chaos-powered exoskeletons to power skyships that carry the rich in safety above the world below, while factory workers routinely die in explosions caused by concentrated chaos glass.</p>
+            <p data-source>It is a world where chalyte-powered magitech can achieve remarkable feats, while the cost is never seen by those with money, status, and power.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="ending">
+      <p data-source>It is a world where magic touches everything, <em>but mercy is scarce,</em> <span class="last-line">and those who wield magic and those who pay the cost are rarely the same.</span></p>
+      <svg class="small-eye" viewBox="0 0 174 86" aria-hidden="true" focusable="false"><use href="#eye"/></svg>
+    </div>
+  </main>
+</body>
+</html>

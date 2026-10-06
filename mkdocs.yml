@@ -2,6 +2,11 @@ site_name: TaelgarVerse
 site_url: https://tsackton.github.io/taelgarverse/
 ## Base path for backlinks ##
 base_path: /taelgarverse/
+# Standalone pages bypass the Material theme and generated indexes.
+hooks:
+  - hooks/standalone.py
+watch:
+  - standalone
 theme:
   name: material
   custom_dir: overrides
