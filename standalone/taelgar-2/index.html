@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow, noarchive">
   <meta name="color-scheme" content="dark">
-  <meta name="description" content="Taelgar II. Two hundred years after the Godfall, a world of terrible wonders.">
+  <meta name="description" content="Taelgar II. After the Godfall, a world of terrible wonders.">
   <title>Taelgar II — After the Godfall</title>
   <style>
     :root {
@@ -119,6 +119,7 @@
     main { overflow: hidden; }
     .chapter { position: relative; padding: 110px 28px 0; }
     .reading { max-width: 690px; margin: 0 auto; }
+    .aftermath { margin-top: 53px; }
     .chapter-number { color: var(--red-light); }
     h2 {
       font-size: clamp(27px, 3vw, 36px);
@@ -127,6 +128,7 @@
       margin-bottom: 32px;
       text-wrap: balance;
     }
+    .subhead { margin: 0 0 28px; color: var(--paper); font-size: 20px; line-height: 1.55; font-weight: 400; }
     .prose { font-size: 19px; line-height: 1.88; }
     .prose p + p { margin-top: 24px; }
     .prose .lead { font-size: 25px; line-height: 1.55; color: var(--paper); }
@@ -229,6 +231,7 @@
       h1 span { font-size: .45em; margin: 22px 0 30px; }
       .opening { max-width: 440px; }
       .chapter { padding: 75px 24px 0; }
+      .aftermath { margin-top: 33px; }
       .prose, .split .prose { font-size: 18px; line-height: 1.8; }
       .prose .lead { font-size: 23px; }
       h2 { margin-bottom: 26px; }
@@ -262,11 +265,28 @@
       .ending { padding: 60px 20px; }
       .ending .last-line { color: #222; }
     }
+    .read-more { max-width: 746px; margin: 0 auto; padding: 0 28px 90px; }
+    .read-more h2 { margin-bottom: 24px; font-size: 20px; letter-spacing: 0; }
+    .read-more ul { margin: 0; padding: 0; list-style: none; }
+    .read-more li { color: var(--muted); font-size: 18px; line-height: 1.8; }
+    .read-more li + li { margin-top: 18px; }
+    .read-more a { color: var(--paper); text-decoration-color: var(--blood); text-decoration-thickness: 1px; text-underline-offset: .22em; }
+    .read-more a:hover { color: #cc898f; text-decoration-color: currentColor; }
+    @media (max-width: 760px) {
+      .read-more { padding: 0 24px 65px; }
+    }
+    @media print {
+      .read-more { padding: 0 20px 35px; break-inside: avoid; }
+      .read-more h2, .read-more li, .read-more a { color: #222; }
+      .read-more a { text-decoration-color: currentColor; }
+    }
   </style>
 </head>
 <body>
-  <!-- Standalone Taelgar II page. All styling is inline; the eight images
-       are in assets/. The eye and dark circle interpret the supplied holy symbol.
+  <!-- Revised local presentation mockup. Source: ../Taelgar-2 Intro.md.
+       The source notes are unchanged. All styling is inline;
+       the only external files are the eight images in ../assets/.
+       The eye and dark circle are a vector interpretation of IMG_8662.jpg.
        noindex is a discovery preference, not an access-control mechanism. -->
   <svg class="svg-defs" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
     <defs>
@@ -290,8 +310,8 @@
     </svg>
     <div class="hero-content">
       <p class="eyebrow">After the Godfall</p>
-      <h1 aria-label="Taelgar 2">TAELGAR <span aria-hidden="true">II</span></h1>
-      <p class="opening" data-source>Two hundred years ago, the world ended in <em>fire and darkness.</em></p>
+      <h1 aria-label="Taelgar II">TAELGAR <span aria-hidden="true">II</span></h1>
+      <p class="opening" data-source>Hundreds of years ago, the world ended in <em>fire and darkness.</em></p>
     </div>
     <a class="scroll-cue" href="#godfall" aria-label="Begin reading the introduction">Scroll</a>
   </header>
@@ -300,25 +320,31 @@
     <section class="chapter" id="godfall" aria-labelledby="godfall-title">
       <div class="reading">
         <h2 id="godfall-title"><span class="chapter-number">I.</span> The Godfall</h2>
+        <h3 class="subhead" data-source>The high lord Cha'mutte won the Great War.</h3>
         <div class="prose">
-          <p class="lead" data-source>Lord Cha'mutte won the Great War.</p>
-          <p data-source>His armies reached through the Divine Veil, killed the Embodied Gods, and shattered the Land of the Dead, a moment later known as the Godfall. The Godfall did not fall evenly. The stoneborn became statues where they stood; lizardfolk aged through centuries in a generation; no elf child was ever born again, and the ageless survivors slowly departed a world falling apart they could no longer protect.</p>
-          <p data-source>Dwarven halls beneath the mountains fell dark as runic magic failed, and widespread famine drove a refugee crisis of epic proportions as dwarven cities emptied. Halflings woke to the Quiet, severed from the ancestral mind that had once made strangers kin. Only the orcs received something that could be called a gift: Thark's command vanished from their blood, leaving them free to decide whether freedom could ever justify the crime that purchased it.</p>
+          <p data-source>His armies reached through the Divine Veil, killed the Embodied Gods, and shattered the Land of the Dead, a moment later known as the Godfall.</p>
+<p data-source>The Godfall wreaked havoc and devastation. The stoneborn became statues where they stood; lizardfolk aged through centuries in a generation; no elf child was ever born again, and the ageless survivors slowly departed a world falling apart that they could no longer protect.</p>
+<p data-source>Dwarven kingdoms beneath the mountains fell dark as runic magic failed, and widespread famine drove a refugee crisis of epic proportions as their cities emptied in panic and desperation. Halflings woke to the Quiet, severed from the ancestral mind that had once made strangers kin. Only the orcs received something that could be called a gift: Thark's command vanished from their blood, leaving them free to decide whether freedom could ever justify the crime that purchased it.</p>
         </div>
       </div>
       <figure class="landscape">
-        <div class="image-wrap"><img src="assets/taelgar-2-hearth-compact-stone-silence.png" width="1692" height="930" alt="Travelers gather around a small fire beneath a faint protective dome among silent stone figures, with wagons and ruins disappearing into darkness." loading="lazy" decoding="async"></div>
-        <figcaption>In the silence after the gods</figcaption>
-      </figure>
+          <div class="image-wrap"><img src="assets/taelgar-2-hearth-compact-stone-silence.png" width="1692" height="930" alt="Travelers gather around a small fire beneath a faint protective dome among silent stone figures, with wagons and ruins disappearing into darkness." loading="lazy" decoding="async"></div>
+          <figcaption>In the silence after the gods</figcaption>
+        </figure>
     </section>
+
+    <div class="transition">
+      <svg class="small-eye" viewBox="0 0 174 86" aria-hidden="true" focusable="false"><use href="#eye"/></svg>
+      <p data-source>Out of this chaos and destruction, the world changed.</p>
+    </div>
 
     <section class="chapter" aria-labelledby="glass-title">
       <div class="split">
         <div>
-          <h2 id="glass-title"><span class="chapter-number">II.</span> What Remained</h2>
+          <h2 id="glass-title"><span class="chapter-number">II.</span> What Was Lost, What Remained</h2>
           <div class="prose">
-            <p data-source>With the Godfall, divine magic vanished from the world: the prayers of the desperate no longer granted miracles, and sickness and famine spread.</p>
-            <p data-source>In the place of divine miracles, a new magic: <em>chaos glass</em>, crystallized in the wounds left by the Godfall. Dangerous, poisonous, and difficult to control, it could be made to yield heat, motion, or explosive force, but only at risk of catastrophe.</p>
+            <p data-source>Divine magic vanished from the world. The prayers of the desperate could no longer grant miracles, and sickness and famine spread. The religions of humans failed, as one by one the incorporeal gods fell silent. Gone, trapped, or dead, no one could say. But their loss was keenly felt as the minor miracles of local priests could no longer heal the wounded, bless crops, or sanctify the dead.</p>
+<p data-source>In the place of the divine, a new magic arose: <em>chaos glass</em>, crystallized in the wounds left by the Godfall. Dangerous, poisonous, and difficult to control, it could be made to yield heat, motion, or explosive force, but only at risk of catastrophe.</p>
           </div>
         </div>
         <figure>
@@ -328,14 +354,9 @@
       </div>
     </section>
 
-    <div class="transition">
-      <svg class="small-eye" viewBox="0 0 174 86" aria-hidden="true" focusable="false"><use href="#eye"/></svg>
-      <p data-source>Out of this chaos and destruction, the world changed.</p>
-    </div>
-
     <section class="chapter dominion" aria-labelledby="dominion-title">
       <div class="reading">
-        <h2 id="dominion-title"><span class="chapter-number">III.</span> The Legion-States</h2>
+        <h2 id="dominion-title"><span class="chapter-number">III.</span> The Legion States</h2>
         <div class="prose">
           <p data-source>Hobgoblins, who had never relied on gods or divine magic, emerged unbroken and strong. Their battlemages still commanded fire and their armies in the field quickly struck disorganized foes suddenly bereft of their gods. They did not conquer everywhere, but legion-states spread through the wreckage, maintained by the slave camps of those they conquered. The human kingdoms of the west fell before them, or negotiated to survive.</p>
         </div>
@@ -354,35 +375,40 @@
 
     <section class="chapter chardon" aria-labelledby="chardon-title">
       <div class="chardon-heading">
-        <h2 id="chardon-title"><span class="chapter-number">IV.</span> Chardon, Two Centuries Later</h2>
+        <h2 id="chardon-title"><span class="chapter-number">IV.</span> Chardon, the City of Towers</h2>
       </div>
       <figure class="landscape">
-        <div class="image-wrap"><img src="assets/taelgar-2-chardon-panorama.png" width="1536" height="1024" alt="Chardon's pale towers and a luminous skyship rise above crowded industrial terraces, refineries, and a busy harbor." loading="lazy" decoding="async"></div>
-        <figcaption>The city of wonders</figcaption>
-      </figure>
+          <div class="image-wrap"><img src="assets/taelgar-2-chardon-panorama.png" width="1536" height="1024" alt="Chardon's pale towers and a luminous skyship rise above crowded industrial terraces, refineries, and a busy harbor." loading="lazy" decoding="async"></div>
+          <figcaption>The city of wonders</figcaption>
+        </figure>
       <div class="split">
         <div class="prose">
-          <p data-source>Two centuries later, the city of Chardon is thriving, ruling over growing colonial empire powered by chalyte and chaos glass. The pale towers and skyships of the city hide the compromises that power its progress: stolen labor from the underclass of refugees, canals poisoned by chaos magic, open treaties with hobgoblin slaver kingdoms, and a hunger for the glitter of progress whatever the cost.</p>
+          <p data-source>Now, years later, the city of Chardon is thriving, ruling over a growing colonial empire powered by chalyte and chaos glass.</p>
+          <p data-source>The pale towers and skyships of the city hide the compromises that power its progress: stolen labor from the underclass of refugees, canals poisoned by chaos magic, open treaties with hobgoblin slaver kingdoms, and a hunger for the glitter of progress whatever the cost.</p>
         </div>
         <figure>
-          <img src="assets/taelgar-2-chardonian-weapons-proving-ground.png" width="1536" height="1024" alt="Officers watch a weapons demonstration in an industrial dockyard as a glowing weapon strikes an armored target." loading="lazy" decoding="async">
-          <figcaption>A Chardonian weapons proving ground</figcaption>
+          <img src="assets/taelgar-2-foundry-market.png" width="1536" height="1024" alt="An injured worker and a crowd of laborers in the foundry market, surrounded by patched machinery and the furnace glow of the lower city." loading="lazy" decoding="async">
+          <figcaption>Beneath the pale towers</figcaption>
         </figure>
       </div>
       <div class="reading prose">
-        <p data-source>Beyond Chardon’s ports and defended corridors, the world is a patchwork of hobgoblin domains, isolated settlements, ruined roads, and poisoned wilderness; in eastern Dunmar, rumors tell of sorcerer-kings who rule the last wells.</p>
+        <p data-source>Beyond Chardon’s ports and defended corridors, the world is a patchwork of hobgoblin domains, isolated settlements, ruined roads, and poisoned wilderness, where refugees struggle to eke out a living and those who trade freedom for safety toil in farms for hobgoblin masters.</p>
       </div>
+      <div class="transition">
+      <svg class="small-eye" viewBox="0 0 174 86" aria-hidden="true" focusable="false"><use href="#eye"/></svg>
+      <p data-source>In distant parts of the world, it is said that deserts spread and sorcerer-kings rule the last wells.</p>
+    </div>
       <figure class="landscape broadside">
-        <div class="image-wrap"><img src="assets/taelgar-2-dunmar-refugee-broadside.png" width="1536" height="1024" alt="A red-and-black broadside depicts refugees beneath a broken aqueduct, with a colossal crowned figure looming in a glass-filled desert storm." loading="lazy" decoding="async"></div>
-        <figcaption>Pamphlets passed in secret purport to illustrate the sorcerer-kings of the deserts to the east.</figcaption>
-      </figure>
+          <div class="image-wrap"><img src="assets/taelgar-2-dunmar-refugee-broadside.png" width="1536" height="1024" alt="A red-and-black broadside depicts refugees beneath a broken aqueduct, with a colossal crowned figure looming in a glass-filled desert storm." loading="lazy" decoding="async"></div>
+          <figcaption>Pamphlets passed in secret purport to illustrate distant sorcerer-kings.</figcaption>
+        </figure>
     </section>
 
     <section class="chapter wonders" aria-labelledby="wonders-title">
       <div class="split">
         <figure>
-          <img src="assets/taelgar-2-foundry-market.png" width="1536" height="1024" alt="An injured worker and a crowd of laborers in the foundry market, surrounded by patched machinery and the furnace glow of the lower city." loading="lazy" decoding="async">
-          <figcaption>Beneath the pale towers</figcaption>
+          <img src="assets/taelgar-2-chardonian-weapons-proving-ground.png" width="1536" height="1024" alt="Officers watch a weapons demonstration in an industrial dockyard as a glowing weapon strikes an armored target." loading="lazy" decoding="async">
+          <figcaption>A Chardonian weapons proving ground</figcaption>
         </figure>
         <div>
           <h2 id="wonders-title"><span class="chapter-number">V.</span> Terrible Wonders</h2>
@@ -395,9 +421,16 @@
     </section>
 
     <div class="ending">
-      <p data-source>It is a world where magic touches everything, <em>but mercy is scarce,</em> <span class="last-line">and those who wield magic and those who pay the cost are rarely the same.</span></p>
+      <p data-source>It is a world where magic touches everything, <em>but mercy is scarce,</em> and those who wield magic and those who pay the cost are rarely the same.</p>
       <svg class="small-eye" viewBox="0 0 174 86" aria-hidden="true" focusable="false"><use href="#eye"/></svg>
     </div>
+    <nav class="read-more" aria-labelledby="read-more-title">
+      <h2 id="read-more-title">Read more</h2>
+      <ul role="list">
+        <li><a href="firstborn.html">The Firstborn After the Godfall</a> — What became of the Firstborn peoples when their gods died.</li>
+        <li><a href="world-today.html">The World Today</a> — The people, places, and magic of Taelgar II.</li>
+      </ul>
+    </nav>
   </main>
 </body>
 </html>
