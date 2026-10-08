@@ -1,0 +1,525 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="The fate of the Firstborn species after the Godfall. A Taelgar II setting introduction.">
+  <title>Taelgar II — The Firstborn After the Godfall</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --night: #100e10;
+      --paper: #e5d9c7;
+      --text: #c9c0b5;
+      --muted: #aca095;
+      --blood: #9d3c49;
+      --red-light: #c4777e;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--night);
+      color: var(--text);
+      font-family: Georgia, "Times New Roman", serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: 8;
+      pointer-events: none;
+      opacity: .055;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.88' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Cpath fill='%23fff' filter='url(%23n)' d='M0 0h180v180H0z'/%3E%3C/svg%3E");
+    }
+    ::selection { color: #fff3dd; background: #733240; }
+    h1, h2, p, figure { margin: 0; }
+    h1, h2 { color: var(--paper); font-weight: 400; }
+    img { display: block; width: 100%; height: auto; }
+    a { color: inherit; }
+    a:focus-visible { outline: 2px solid var(--red-light); outline-offset: 9px; }
+    .svg-defs { position: absolute; width: 0; height: 0; overflow: hidden; }
+    .eyebrow, figcaption, .scroll-cue {
+      font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: .24em;
+      line-height: 1.5;
+      text-transform: uppercase;
+    }
+    .hero {
+      min-height: 800px;
+      min-height: max(780px, 96svh);
+      position: relative;
+      isolation: isolate;
+      overflow: hidden;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      padding: 110px 24px 145px;
+      background: radial-gradient(ellipse at 50% 44%, #30161c55, transparent 63%);
+    }
+    .hero-sigil {
+      position: absolute;
+      z-index: -1;
+      width: min(810px, 108vw);
+      height: auto;
+      top: 45%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: var(--blood);
+    }
+    .hero-content { width: 100%; padding-top: 158px; }
+    .hero .eyebrow { color: var(--red-light); margin-bottom: 24px; }
+    h1 {
+      font-size: clamp(66px, 10.7vw, 150px);
+      line-height: 1;
+      letter-spacing: .075em;
+      padding-left: .075em;
+      text-shadow: 0 3px 45px #000;
+    }
+    h1 span {
+      display: block;
+      font-size: .34em;
+      line-height: 1;
+      letter-spacing: .11em;
+      margin: 19px 0 34px;
+      color: var(--red-light);
+    }
+    .opening {
+      margin: 0 auto;
+      max-width: 530px;
+      font-size: clamp(21px, 2.2vw, 28px);
+      line-height: 1.55;
+      text-wrap: balance;
+      color: var(--paper);
+    }
+    .opening em { font-style: normal; color: #d39193; }
+    .scroll-cue {
+      position: absolute;
+      bottom: 35px;
+      left: 50%;
+      transform: translateX(-50%);
+      text-decoration: none;
+      color: var(--muted);
+      padding: 8px 18px;
+    }
+    .scroll-cue::after {
+      content: "";
+      display: block;
+      width: 1px;
+      height: 37px;
+      margin: 14px auto 0;
+      background: linear-gradient(var(--blood), transparent);
+    }
+    main { overflow: hidden; }
+    .chapter { position: relative; padding: 110px 28px 0; }
+    .reading { max-width: 690px; margin: 0 auto; }
+    .aftermath { margin-top: 53px; }
+    .chapter-number { color: var(--red-light); }
+    h2 {
+      font-size: clamp(27px, 3vw, 36px);
+      line-height: 1.3;
+      letter-spacing: -.015em;
+      margin-bottom: 32px;
+      text-wrap: balance;
+    }
+    .subhead { margin: 0 0 28px; color: var(--paper); font-size: 20px; line-height: 1.55; font-weight: 400; }
+    .prose { font-size: 19px; line-height: 1.88; }
+    .prose p + p { margin-top: 24px; }
+    .prose .lead { font-size: 25px; line-height: 1.55; color: var(--paper); }
+    .prose em { font-style: normal; color: var(--paper); }
+    .landscape { max-width: 1180px; margin: 58px auto 0; }
+    .landscape .image-wrap { position: relative; }
+    .landscape .image-wrap::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      box-shadow: inset 0 0 70px #100e1033;
+      border: 1px solid #d5b59a16;
+    }
+    figcaption { color: var(--muted); padding-top: 16px; letter-spacing: .17em; }
+    .image-pair {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+      gap: 28px;
+      max-width: 1180px;
+      margin: 58px auto 0;
+    }
+    .image-pair .landscape { margin: 0; }
+    .broadside { max-width: 960px; }
+    .broadside figcaption {
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 16px;
+      font-weight: 400;
+      font-style: italic;
+      line-height: 1.65;
+      letter-spacing: 0;
+      text-transform: none;
+    }
+    .split {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1.06fr);
+      align-items: center;
+      gap: clamp(34px, 6vw, 88px);
+      max-width: 1180px;
+      margin: 0 auto;
+    }
+    .split .prose { font-size: 18px; line-height: 1.85; }
+    .split figure { margin: 0; }
+    .split figure img { aspect-ratio: auto; object-fit: contain; }
+    .transition {
+      max-width: 700px;
+      margin: 100px auto 0;
+      padding: 0 28px;
+      text-align: center;
+    }
+    .small-eye { display: block; width: 78px; height: 44px; color: var(--blood); margin: 0 auto 33px; }
+    .transition p { color: var(--paper); font-size: clamp(24px, 3.2vw, 35px); line-height: 1.5; text-wrap: balance; }
+    .dominion { padding-top: 83px; }
+    .chardon { padding-top: 122px; }
+    .chardon .landscape { margin-top: 0; }
+    .chardon-heading { max-width: 1180px; margin: 0 auto 38px; }
+    .chardon-heading h2 { margin-bottom: 0; }
+    .chardon .split { margin-top: 53px; }
+    .chardon .split figure img { aspect-ratio: auto; object-fit: contain; }
+    .chardon .reading { margin-top: 53px; }
+    .chardon .broadside { margin-top: 44px; }
+    .wonders { padding-top: 118px; }
+    .wonders .split { grid-template-columns: minmax(0, 1.06fr) minmax(0, 1fr); }
+    .wonders figure img { object-position: 58% center; }
+    .ending {
+      position: relative;
+      isolation: isolate;
+      text-align: center;
+      padding: 160px 28px 140px;
+      margin-top: 30px;
+    }
+    .ending::before {
+      content: "";
+      position: absolute;
+      z-index: -1;
+      width: min(720px, 92vw);
+      aspect-ratio: 1;
+      border-radius: 50%;
+      left: 50%;
+      top: 47%;
+      transform: translate(-50%, -50%);
+      border: 1px solid #76303a38;
+      box-shadow: 0 0 90px #64202d0d, inset 0 0 90px #64202d0d;
+      background: radial-gradient(ellipse, #08070999 45%, #100e1000 72%);
+    }
+    .ending p { max-width: 860px; margin: auto; font-size: clamp(29px, 4vw, 47px); line-height: 1.45; color: var(--paper); text-wrap: balance; }
+    .ending em { color: #cc898f; font-style: normal; }
+    .ending .last-line { display: block; max-width: 560px; margin: 27px auto 0; font-size: 21px; line-height: 1.75; color: var(--text); }
+    .ending .small-eye { margin-top: 56px; margin-bottom: 0; width: 59px; }
+
+    @media (min-width: 1500px) {
+      .hero { min-height: 920px; }
+    }
+    @media (max-width: 760px) {
+      .hero { min-height: 760px; min-height: max(700px, 94svh); padding: 75px 24px 120px; }
+      .hero-sigil { width: 740px; max-width: none; top: 42%; }
+      .hero-content { padding-top: 130px; }
+      .hero .eyebrow { font-size: 10px; letter-spacing: .21em; }
+      h1 { font-size: clamp(54px, 12vw, 91px); }
+      h1 span { font-size: .45em; margin: 22px 0 30px; }
+      .opening { max-width: 440px; }
+      .chapter { padding: 75px 24px 0; }
+      .aftermath { margin-top: 33px; }
+      .prose, .split .prose { font-size: 18px; line-height: 1.8; }
+      .prose .lead { font-size: 23px; }
+      h2 { margin-bottom: 26px; }
+      .landscape { margin-top: 38px; }
+      .image-pair { grid-template-columns: 1fr; gap: 32px; margin-top: 38px; }
+      .split, .wonders .split { grid-template-columns: 1fr; gap: 32px; }
+      .split figure img { aspect-ratio: auto; object-fit: contain; }
+      .wonders .split figure { order: 2; }
+      figcaption { font-size: 10px; letter-spacing: .13em; }
+      .transition { margin-top: 74px; }
+      .chardon-heading { margin-bottom: 28px; }
+      .chardon .reading { margin-top: 33px; }
+      .chardon .split { margin-top: 33px; }
+      .chardon .broadside { margin-top: 33px; }
+      .ending { padding: 95px 25px 95px; margin-top: 0; }
+      .ending .last-line { font-size: 19px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+    }
+    @media print {
+      body { background: #fff; color: #222; }
+      body::before, .hero-sigil, .scroll-cue, .ending::before { display: none; }
+      .hero { min-height: auto; padding: 50px 20px; }
+      .hero-content { padding-top: 0; }
+      h1, h2, .opening, .prose .lead, .prose em, .transition p, .ending p { color: #222; text-shadow: none; }
+      .chapter { padding-top: 45px; }
+      .split, .wonders .split { display: block; }
+      .split figure { margin-top: 25px; }
+      figure { break-inside: avoid; }
+      .ending { padding: 60px 20px; }
+      .ending .last-line { color: #222; }
+    }
+
+    /* Keep this companion page self-contained, with the intro's visual language. */
+    .page-opening {
+      position: relative;
+      isolation: isolate;
+      overflow: hidden;
+      padding: 62px 28px 58px;
+      text-align: center;
+      background: radial-gradient(ellipse at 50% 47%, #30161c55, transparent 65%);
+    }
+    .opening-seal {
+      position: absolute;
+      z-index: -1;
+      width: min(520px, 112vw);
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: var(--blood);
+      pointer-events: none;
+    }
+    .page-wordmark {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+      margin: 0 auto 28px;
+      color: var(--paper);
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: .21em;
+      text-shadow: 0 2px 20px #000;
+    }
+    .page-wordmark::before, .page-wordmark::after {
+      content: "";
+      width: 48px;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, #9d3c4966);
+    }
+    .page-wordmark::after { transform: rotate(180deg); }
+    .page-wordmark span { color: var(--red-light); letter-spacing: .09em; margin-left: -.2em; }
+    .page-opening .small-eye {
+      width: 70px;
+      height: 38px;
+      margin: 0 auto 29px;
+      color: #ad4e5b;
+      filter: url(#worn) drop-shadow(0 0 14px #8b334129);
+    }
+    .page-opening h1 {
+      max-width: 620px;
+      margin: 0 auto;
+      color: var(--paper);
+      font-size: clamp(27px, 3.2vw, 35px);
+      line-height: 1.5;
+      letter-spacing: 0;
+      padding: 0;
+      text-shadow: 0 3px 30px #000;
+      text-wrap: balance;
+    }
+    .page-opening h1 em { color: #cc898f; font-style: normal; }
+    .opening-rule {
+      display: block;
+      width: 1px;
+      height: 38px;
+      margin: 28px auto 0;
+      background: linear-gradient(#9d3c4977, transparent);
+    }
+    .preamble { padding: 42px 28px 0; }
+    .species .image-wrap { position: relative; }
+    .species img { height: auto; aspect-ratio: auto; object-fit: contain; }
+    .orc-shrine { margin-top: 58px; }
+    .source-callout { margin: 52px auto; color: var(--paper); font-size: clamp(24px, 3.2vw, 35px); line-height: 1.5; text-align: center; text-wrap: balance; }
+    .closing-mark { padding: 95px 24px 105px; }
+    .closing-mark .small-eye, .section-mark .small-eye { margin-bottom: 0; width: 59px; }
+    .section-mark { padding: 54px 24px 0; }
+    .section-mark + .species { padding-top: 54px; }
+    @media (max-width: 760px) {
+      .page-opening { padding: 48px 24px 36px; }
+      .opening-seal { width: 440px; max-width: none; }
+      .page-wordmark { font-size: 17px; gap: 12px; }
+      .page-wordmark::before, .page-wordmark::after { width: 30px; }
+      .preamble { padding: 32px 24px 0; }
+      .orc-shrine { margin-top: 38px; }
+      .closing-mark { padding: 65px 24px 75px; }
+      .section-mark { padding-top: 32px; }
+      .section-mark + .species { padding-top: 32px; }
+    }
+    @media print {
+      .page-opening { padding: 40px 20px 15px; background: none; }
+      .opening-seal, .opening-rule { display: none; }
+      .page-opening h1, .page-opening h1 em, .page-wordmark { color: #222; text-shadow: none; }
+      .species .subhead, .source-callout { color: #222; }
+      .image-pair { display: block; }
+      .image-pair figure + figure { margin-top: 25px; }
+      .closing-mark { padding: 35px 20px; }
+      .section-mark { padding-top: 25px; }
+      .section-mark + .species { padding-top: 25px; }
+    }
+    .read-more { max-width: 746px; margin: 0 auto; padding: 0 28px 90px; }
+    .read-more h2 { margin-bottom: 24px; font-size: 20px; letter-spacing: 0; }
+    .read-more ul { margin: 0; padding: 0; list-style: none; }
+    .read-more li { color: var(--muted); font-size: 18px; line-height: 1.8; }
+    .read-more li + li { margin-top: 18px; }
+    .read-more a { color: var(--paper); text-decoration-color: var(--blood); text-decoration-thickness: 1px; text-underline-offset: .22em; }
+    .read-more a:hover { color: #cc898f; text-decoration-color: currentColor; }
+    @media (max-width: 760px) {
+      .read-more { padding: 0 24px 65px; }
+    }
+    @media print {
+      .read-more { padding: 0 20px 35px; break-inside: avoid; }
+      .read-more h2, .read-more li, .read-more a { color: #222; }
+      .read-more a { text-decoration-color: currentColor; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Local standalone companion to index-v2.html.
+       Source: ../Taelgar-2 Species After the Godfall.md; source wording is preserved.
+       Italic section lines are rendered as subheads, including the unclosed dwarf italic.
+       Approved illustrations live in ../assets/. No external stylesheets or scripts. -->
+  <svg class="svg-defs" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+    <defs>
+      <g id="eye" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M24 42 C43 44 63 14 83 17 C105 20 122 45 145 42 C123 47 108 70 84 69 C59 69 44 48 24 42Z"/>
+        <path d="M27 42 C10 36 11 22 17 17 M27 44 C10 50 8 63 17 67 M141 42 C159 39 160 24 153 16 M142 45 C159 49 164 63 156 70"/>
+        <path d="M84 32 C93 37 95 49 84 57 C75 51 75 39 84 32Z" fill="currentColor" stroke="none"/>
+      </g>
+      <filter id="worn" x="-8%" y="-8%" width="116%" height="116%">
+        <feTurbulence type="fractalNoise" baseFrequency=".043" numOctaves="3" seed="8" result="noise"/>
+        <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.8" xChannelSelector="R" yChannelSelector="G"/>
+      </filter>
+    </defs>
+  </svg>
+  <header class="page-opening">
+    <svg class="opening-seal" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+      <circle cx="300" cy="300" r="268" fill="#09090b" stroke="currentColor" stroke-width="1.6" opacity=".67" filter="url(#worn)"/>
+      <circle cx="300" cy="300" r="275" fill="none" stroke="currentColor" stroke-width=".7" opacity=".19"/>
+      <circle cx="300" cy="300" r="258" fill="none" stroke="currentColor" stroke-width=".5" opacity=".08"/>
+    </svg>
+    <p class="page-wordmark" aria-label="Taelgar II">TAELGAR <span>II</span></p>
+    <svg class="small-eye" viewBox="0 0 174 86" aria-hidden="true" focusable="false"><use href="#eye"/></svg>
+    <h1 data-source>The Godfall<br><em>Changed Everything</em></h1>
+    <span class="opening-rule" aria-hidden="true"></span>
+  </header>
+  <main>
+    <div class="preamble" id="the-firstborn"><div class="reading prose"><p data-source>The death of the Firstborn shook the world to its core. Those who once thrived under the magic of their creator gods now faced death and devastation. And yes, freedom of a kind, but at what cost? These are the stories of the fate of the Firstborn species in a world without Firstborn.</p></div></div>
+    <section class="chapter species" id="the-last" aria-labelledby="the-last-title">
+<div class="reading"><h2 id="the-last-title"><span class="chapter-number">I.</span> The Last</h2>
+<h3 class="subhead" data-source>After the Godfall, no new elf is born.</h3><div class="prose"><p data-source>The 36th ka, the generation born to fight Cha'mutte, is the last generation of elves to experience the Dreaming or the Rite of Awakening. Those few who still live remain ageless, but for what purpose? Without Aldanor, the Living Tree, and Elmerca, the Wild Star, the world is barren and increasingly alien.</p></div></div>
+<figure class="landscape">
+  <div class="image-wrap"><img src="assets/taelgar-2-elves-the-last-watch.webp" width="1536" height="1024" alt="A lone elf stands among immense dead redwoods and thorny scrub, casting a branching tree-shaped shadow." loading="lazy" decoding="async"></div>
+  <figcaption>The last watch</figcaption>
+</figure>
+<div class="reading prose aftermath"><p data-source>Some fight hopeless wars. Some guard empty forests for years, watching the trees slowly die in increasing summer drought, as Aldanor's magic no longer sustains the mists that sustain the great trees. But all of them gradually fade or depart by whatever paths remain open to them, and in the centuries after the Godfall, elves are nothing more than a myth of a lost world.</p></div>
+</section>
+<div class="section-mark" aria-hidden="true">
+  <svg class="small-eye" viewBox="0 0 174 86" focusable="false"><use href="#eye"/></svg>
+</div>
+<section class="chapter species" id="the-stony-silence" aria-labelledby="the-stony-silence-title">
+<div class="reading"><h2 id="the-stony-silence-title"><span class="chapter-number">II.</span> The Stony Silence</h2>
+<h3 class="subhead" data-source>The stoneborn are extinct from the moment of the Godfall.</h3><div class="prose"><p data-source>Every stoneborn becomes literal stone when Entamba dies. Mountain villages become fields of statues: people frozen at work, in prayer, embracing children, preparing meals. Some seem to have been struck down instantly, before they even realized the fate that was coming for them. Others, if one looks closely, seem to be turning in fear and alarm, looking towards some distant terror.</p></div></div>
+<div class="image-pair">
+<figure class="landscape">
+  <div class="image-wrap"><img src="assets/taelgar-2-stoneborn-the-interrupted-meal.webp" width="1536" height="1024" alt="A stoneborn parent and child are frozen in stone, reaching toward one another across an unfinished meal in a small mountain cottage." loading="lazy" decoding="async"></div>
+  <figcaption>The interrupted meal</figcaption>
+</figure>
+<figure class="landscape">
+  <div class="image-wrap"><img src="assets/taelgar-2-stoneborn-the-price-of-stone.webp" width="1536" height="1024" alt="Prospectors examine and measure a petrified stoneborn in a deserted mountain settlement." loading="lazy" decoding="async"></div>
+  <figcaption>The price of stone</figcaption>
+</figure>
+</div>
+<div class="reading prose aftermath"><p data-source>Few people visit these strange, haunted necropolises. The weather does not seem to touch them, and some dwarves regard these places as sacred, or whatever passes for sacred in the modern day. Prospectors -- hobgoblin entrepreneurs, Chardonian miners, and sometimes simply those down on their luck and desperate -- sometimes regard them as convenient sources of worked stone, lost treasure, or valuable minerals, and some now even begin to doubt whether they ever once moved.</p></div>
+</section>
+<div class="section-mark" aria-hidden="true">
+  <svg class="small-eye" viewBox="0 0 174 86" focusable="false"><use href="#eye"/></svg>
+</div>
+<section class="chapter species" id="the-great-famine" aria-labelledby="the-great-famine-title">
+<div class="reading"><h2 id="the-great-famine-title"><span class="chapter-number">III.</span> The Great Famine</h2>
+<h3 class="subhead" data-source>With the Godfall, the Bahrâzel die, and the runic magic of the dwarves fails.</h3><div class="prose"><p data-source>The vast underground kingdoms of the dwarves lose their magical light, water, ventilation, and agriculture all at once. The Heart of the Mountain can no longer be reached, and no young dwarf receives a name or a thuhr from the gods.</p>
+<p data-source>Massive famines follow. Great numbers of dwarves flee the mountains, though many never reach the surface. The survivors become one of the largest refugee populations in the post-Godfall world. They fracture, and scatter. Some traditionalists gather together in sheltered valleys, trying to preserve clan and the memories of the dead thuhr, turning inward against the world, dreaming of reclaiming their lost mountain kingdoms against all odds.</p></div></div>
+<div class="image-pair">
+<figure class="landscape">
+  <div class="image-wrap"><img src="assets/taelgar-2-dwarves-the-mountain-goes-dark.webp" width="1536" height="1024" alt="Dwarven families climb toward a tiny opening of daylight, their torches tracing bridges through an otherwise dark underground hall." loading="lazy" decoding="async"></div>
+  <figcaption>The mountain goes dark</figcaption>
+</figure>
+<figure class="landscape">
+  <div class="image-wrap"><img src="assets/taelgar-2-dwarves-the-builders-outside-the-gate.webp" width="1536" height="1024" alt="Hungry dwarves gather below a hobgoblin foreman selecting workers, while dwarven mechanics repair machinery nearby." loading="lazy" decoding="async"></div>
+  <figcaption>Outside the factory gate</figcaption>
+</figure>
+</div>
+<div class="reading prose aftermath"><p data-source>Others wander, traveling in groups large or small, selling their technological skills to whomever they must to survive, a displaced people who help build the industrial age of chaos glass but rarely see its benefits. But many simply try to find a place to settle that will take them in -- a harder task with each passing year as prejudice against poor, dirty dwarves grows and grows, stoked by hobgoblin captains and autocrats.</p></div>
+</section>
+<div class="section-mark" aria-hidden="true">
+  <svg class="small-eye" viewBox="0 0 174 86" focusable="false"><use href="#eye"/></svg>
+</div>
+<section class="chapter species" id="the-endless-quiet" aria-labelledby="the-endless-quiet-title">
+<div class="reading"><h2 id="the-endless-quiet-title"><span class="chapter-number">IV.</span> The Endless Quiet</h2>
+<h3 class="subhead" data-source>Halflings survive the Godfall in body, but their shared ancestral mind is silenced forever</h3><div class="prose"><p data-source>As the First Ones die, halflings across the world stand stunned, in silence, as the Quiet descends upon them all, at once. The ancestral mind that all halflings once shared, and lost together at the Godfall, was not merely a magical ability or, as some outsiders thought, a telepathic trick. It was their history, their stories, their songs, and it made every halfling part of one extended family. Halflings who had always been able to recognize one another as kin suddenly met as strangers.</p></div></div>
+<div class="image-pair">
+<figure class="landscape">
+  <div class="image-wrap"><img src="assets/taelgar-2-halflings-suddenly-strangers.webp" width="1536" height="1024" alt="Two halflings stare at one another in shock while the taller people around them turn toward something in the distance." loading="lazy" decoding="async"></div>
+  <figcaption>Suddenly strangers</figcaption>
+</figure>
+<figure class="landscape">
+  <div class="image-wrap"><img src="assets/taelgar-2-halflings-waiting-for-a-vision-v2.webp" width="1536" height="1024" alt="A gaunt blond male halfling watches dark purple chaos dust rise above an inn table; gray lines mark his hands, and the other patrons ignore him." loading="lazy" decoding="async"></div>
+  <figcaption>Waiting for a vision</figcaption>
+</figure>
+</div>
+<div class="reading prose aftermath"><p data-source>Many halflings now try to replace these lost memories, to fill the emptiness inside them, with something. Some turn to written records, to contracts and account books; some become ruthless bankers and Chardonian financiers. Others try to build family without memory, through vows and mutual aid; or through genealogies and songs and stories. Some turn to chaos glass, drugs, or experimental magic to try to hear the ancestral mind once more: sometimes they hear something. What it is, no one can say for sure.</p></div>
+</section>
+<div class="section-mark" aria-hidden="true">
+  <svg class="small-eye" viewBox="0 0 174 86" focusable="false"><use href="#eye"/></svg>
+</div>
+<section class="chapter species" id="the-long-goodbye" aria-labelledby="the-long-goodbye-title">
+<div class="reading"><h2 id="the-long-goodbye-title"><span class="chapter-number">V.</span> The Long Goodbye</h2>
+<h3 class="subhead" data-source>The Godfall ends the long lives of the lizardfolk, who all grow old at once.</h3><div class="prose"><p data-source>When the Tharzen Anzinakoa die in the Godfall, and the cycle of lizardfolk life is changed forever, they do not simply acquire human lifespans. Instead, their bodies suddenly begin reckoning the years that the magic of the Firstborn had held back.</p></div></div>
+<div class="image-pair">
+<figure class="landscape">
+  <div class="image-wrap"><img src="assets/taelgar-2-lizardfolk-the-weight-of-centuries.webp" width="1536" height="1024" alt="A healthy lizardfolk adult supports a suddenly frail elder in an intact marsh village surrounded by fresh fish, food and green growth." loading="lazy" decoding="async"></div>
+  <figcaption>The weight of centuries</figcaption>
+</figure>
+<figure class="landscape">
+  <div class="image-wrap"><img src="assets/taelgar-2-lizardfolk-growing-old-together.webp" width="1536" height="1024" alt="Frail elderly lizardfolk sit in silence beside empty marsh dwellings, holding one another as their unfinished work lies abandoned." loading="lazy" decoding="async"></div>
+  <figcaption>Growing old together</figcaption>
+</figure>
+</div>
+<div class="reading prose aftermath"><p data-source>Elders age to death within days or months. Mature adults decline over the following years. The youngest survive for several decades, but lizardfolk reproduction and community life were shaped around long lives, low population turnover, and the guidance of elders and ancestors. They cannot adapt quickly enough. Whether reproduction itself also fails, or the last generations simply succumb to ecological collapse is not known, for no one bothers to record the lives of the last lizardfolk communities who spend their last decades watching their entire species grow old together.</p></div>
+</section>
+<div class="section-mark" aria-hidden="true">
+  <svg class="small-eye" viewBox="0 0 174 86" focusable="false"><use href="#eye"/></svg>
+</div>
+<section class="chapter species" id="the-great-unchaining" aria-labelledby="the-great-unchaining-title">
+<div class="reading"><h2 id="the-great-unchaining-title"><span class="chapter-number">VI.</span> The Great Unchaining</h2>
+<h3 class="subhead" data-source>The dead of Thark sets every orc free at once</h3><div class="prose"><p data-source>As one, the orcs awake from a long, terrible nightmare, and see the world with their own eyes for the first time. With Thark dead, every orc gets the choice to decide the meaning of their own life.</p></div></div>
+<div class="split orc-shrine"><figure>
+  <div class="image-wrap"><img src="assets/taelgar-2-orcs-the-liberators-shrine.webp" width="1536" height="1024" alt="Well-dressed orc travelers leave offerings at a black-and-crimson eye shrine beside a maintained hobgoblin road and a steam carriage." loading="lazy" decoding="async"></div>
+  <figcaption>The Liberator’s shrine</figcaption>
+</figure><div class="prose"><p data-source>Some regard Cha'mutte as the Liberator, and build a cult around the person who gave them the first genuine choice their species ever possessed. Others believe that celebrating this gift honors a genocide, and weep for those who died to give them freedom.</p></div></div>
+<div class="reading prose aftermath"><p data-source>The orcs, thrust upon a world in upheaval, are, for the first time, free to adapt and change. Liberator cults build honoring Cha'mutte at crossroads; penitent orc communities travel the world, believing the orcs owe restitution for benefiting from the Godfall; warrior societies freely preserve the old life that is all they ever knew; radical anti-slavery movements become implacable enemies of hobgoblin rule; and mercenary companies led by orcs insist theat choosing to fight and being compelled to fight are fundamentally different.</p></div>
+<figure class="landscape">
+  <div class="image-wrap"><img src="assets/taelgar-2-orcs-breaking-the-chains.webp" width="1536" height="1024" alt="Orcs raid a slaver caravan on a remote desert road, fighting hobgoblin guards while breaking the captives’ chains and opening their wagons." loading="lazy" decoding="async"></div>
+  <figcaption>Breaking the chains</figcaption>
+</figure>
+</section>
+    <div class="closing-mark" aria-hidden="true">
+      <svg class="small-eye" viewBox="0 0 174 86" focusable="false"><use href="#eye"/></svg>
+    </div>
+    <!-- Taelgarverse publishes index-v2.html as index.html beside these companion pages. -->
+    <nav class="read-more" aria-labelledby="read-more-title">
+      <h2 id="read-more-title">Read more</h2>
+      <ul role="list">
+        <li><a href="index.html">Introduction to Taelgar II</a> — The Godfall and the rise of a world of terrible wonders.</li>
+        <li><a href="world-today.html">The World Today</a> — The people, places, and magic of Taelgar II.</li>
+      </ul>
+    </nav>
+  </main>
+</body>
+</html>
