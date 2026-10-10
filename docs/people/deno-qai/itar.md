@@ -12,7 +12,7 @@ pronunciation: ee-TAHR
 affiliations:
 - {org: Bek'eni, type: primary}
 whereabouts:
-- {type: home, location: Bek'eni village, linkText: in the largest}
+- {type: home, location: Talem}
 knownTo: [dufr]
 dm_owner: none
 dm_notes: none
@@ -29,7 +29,7 @@ hide_toc: true
     Born DR 1716 (34 years old)  
     { .bio }
 
-    Based in the largest [Bek'eni village](<../../gazetteer/central-highlands/talem.md>), in the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based in [Talem](<../../gazetteer/central-highlands/talem.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 name: Barony of Aveil
 typeOf: realm
 whereabouts: Sembara
@@ -43,32 +43,35 @@ In general, despite its relatively ancient roots, [Aveil](<barony-of-aveil.md>) 
 The [Old Veltor Road](<../../roads/old-veltor-road.md>) is a maintained road along the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>), from [Rinburg](<rinburg.md>) to [Veltor](<veltor.md>), while the [Aveil Road](<../../roads/aveil-road.md>) runs north from the tin mines to the [Wistel](<../../rivers/wistel-enst-watershed/wistel.md>).
 
 ### Cities in Barony of Aveil
-| Place                          | Region                     | Type Of           | Population |
-| ------------------------------ | -------------------------- | ----------------- | ---------- |
-| [Chantefleur](<chantefleur.md>)                | [Lake Rin](<lake-rin.md>)               | fishing village   | pop. 390   |
-| [Ashcombe](<ashcombe.md>)                   | the [Barony of Aveil](<barony-of-aveil.md>)    | logging village   | pop. 237   |
-| [Aslain](<aslain.md>) (Ahz-lane)          | the [Barony of Aveil](<barony-of-aveil.md>)    | town              | pop. 1,187 |
-| [Beldor](<beldor.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | mining village    |            |
-| [Champimont](<champimont.md>) (Sham-PEE-mohn) | the [Barony of Aveil](<barony-of-aveil.md>)    | market town       | pop. 971   |
-| [Ganboa](<cleenseau-region/ganboa.md>) (Gan-bo-a)          | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 62    |
-| [Cranford](<cranford.md>) (Cran-ford)       | the [Barony of Aveil](<barony-of-aveil.md>)    | town              | pop. 654   |
-| [Dallet](<dallet.md>) (da-LEH)            | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 308   |
-| [Eftly](<eftly.md>)                      | the [Barony of Aveil](<barony-of-aveil.md>)    | village           |            |
-| [Essenmer](<essenmer.md>) (Essen-MER)       | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 540   |
-| [Houille](<houille.md>) (oo-yee)           | the [Barony of Aveil](<barony-of-aveil.md>)    | village           |            |
-| [Maudorville](<maudorville.md>)                | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 448   |
-| [Peydon](<peydon.md>) (Pay-dun)           | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 498   |
-| [Rinburg](<rinburg.md>) (Rin-burg)         | the [Barony of Aveil](<barony-of-aveil.md>)    | free city         | pop. 2,341 |
-| [Veltor](<veltor.md>) (Vel-tor)           | the [Barony of Aveil](<barony-of-aveil.md>)    | fortified village | pop. 699   |
-| [Cassen](<cassen.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 35    |
-| [Windlea](<windlea.md>)                    | the [Barony of Aveil](<barony-of-aveil.md>)    | village           | pop. 174   |
-| [Asineau](<cleenseau-region/asineau.md>) (Ah-zee-noh)       | the [Manor of Asineau](<cleenseau-region/manor-of-asineau.md>)   | fishing village   | pop. 311   |
-| [Beury](<cleenseau-region/beury.md>) (BUH-ree)            | the [Manor of Beury](<cleenseau-region/manor-of-beury.md>)     | village           | pop. 492   |
-| [Auloutte](<cleenseau-region/auloutte.md>) (OO-loot)         | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | fishing village   | pop. 102   |
-| the [Gastant Farm](<cleenseau-region/gastant-farm.md>)           | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | farmhouse         |            |
-| [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>) (Klen-sew)       | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | town              | pop. 1,189 |
-| [Taviose](<cleenseau-region/taviose.md>) (Ta-vi-ose)        | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | village           | pop. 30    |
-| [Valit](<cleenseau-region/valit.md>) (Val-le)             | the [Manor of Valit](<cleenseau-region/manor-of-valit.md>)     | village           | pop. 249   |
+| Place                          | Region                     | Type Of               | Population |
+| ------------------------------ | -------------------------- | --------------------- | ---------- |
+| [Chantefleur](<chantefleur.md>)                | [Lake Rin](<lake-rin.md>)               | fishing village       | pop. 390   |
+| [Enclaut](<enclaut.md>) (ahn-KLOH)         | [Lake Rin](<lake-rin.md>)               | village               |            |
+| [Getxo](<getxo.md>) (GEH-choh)           | [Lake Rin](<lake-rin.md>)               | lizardfolk settlement |            |
+| [Ashcombe](<ashcombe.md>)                   | the [Barony of Aveil](<barony-of-aveil.md>)    | logging village       | pop. 237   |
+| [Aslain](<aslain.md>) (Ahz-lane)          | the [Barony of Aveil](<barony-of-aveil.md>)    | town                  | pop. 1,187 |
+| [Beldor](<beldor.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | mining village        |            |
+| [Cassen](<cassen.md>)                     | the [Barony of Aveil](<barony-of-aveil.md>)    | village               | pop. 35    |
+| [Champimont](<champimont.md>) (Sham-PEE-mohn) | the [Barony of Aveil](<barony-of-aveil.md>)    | market town           | pop. 971   |
+| [Ganboa](<cleenseau-region/ganboa.md>) (Gan-bo-a)          | the [Barony of Aveil](<barony-of-aveil.md>)    | village               | pop. 62    |
+| [Cranford](<cranford.md>) (Cran-ford)       | the [Barony of Aveil](<barony-of-aveil.md>)    | town                  | pop. 654   |
+| [Dallet](<dallet.md>) (da-LEH)            | the [Barony of Aveil](<barony-of-aveil.md>)    | village               | pop. 308   |
+| [Eftly](<eftly.md>)                      | the [Barony of Aveil](<barony-of-aveil.md>)    | village               |            |
+| [Essenmer](<essenmer.md>) (Essen-MER)       | the [Barony of Aveil](<barony-of-aveil.md>)    | village               | pop. 540   |
+| [Houille](<houille.md>) (oo-yee)           | the [Barony of Aveil](<barony-of-aveil.md>)    | village               |            |
+| [Maudorville](<maudorville.md>)                | the [Barony of Aveil](<barony-of-aveil.md>)    | village               | pop. 448   |
+| [Peydon](<peydon.md>) (Pay-dun)           | the [Barony of Aveil](<barony-of-aveil.md>)    | village               | pop. 498   |
+| [Rinburg](<rinburg.md>) (Rin-burg)         | the [Barony of Aveil](<barony-of-aveil.md>)    | free city             | pop. 2,341 |
+| [Veltor](<veltor.md>) (Vel-tor)           | the [Barony of Aveil](<barony-of-aveil.md>)    | fortified village     | pop. 699   |
+| [Windlea](<windlea.md>)                    | the [Barony of Aveil](<barony-of-aveil.md>)    | village               | pop. 174   |
+| [Lynthia](<../borderlands/lynthia.md>) (LIN-thee-ah)      | the [Barony of Estrive](<../borderlands/barony-of-estrive.md>)  | market town           |            |
+| [Asineau](<cleenseau-region/asineau.md>) (Ah-zee-noh)       | the [Manor of Asineau](<cleenseau-region/manor-of-asineau.md>)   | fishing village       | pop. 311   |
+| [Beury](<cleenseau-region/beury.md>) (BUH-ree)            | the [Manor of Beury](<cleenseau-region/manor-of-beury.md>)     | village               | pop. 492   |
+| [Auloutte](<cleenseau-region/auloutte.md>) (OO-loot)         | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | fishing village       | pop. 102   |
+| the [Gastant Farm](<cleenseau-region/gastant-farm.md>)           | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | farmhouse             |            |
+| [Taviose](<cleenseau-region/taviose.md>) (Ta-vi-ose)        | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | village               | pop. 30    |
+| [Cleenseau](<cleenseau-region/cleenseau/cleenseau.md>) (Klen-sew)       | the [Manor of Cleenseau](<cleenseau-region/manor-of-cleenseau.md>) | town                  | pop. 1,189 |
+| [Valit](<cleenseau-region/valit.md>) (Val-le)             | the [Manor of Valit](<cleenseau-region/manor-of-valit.md>)     | village               | pop. 249   |
 ### Rivers and Landforms 
 | Place                                   | Type Of |
 | --------------------------------------- | ------- |

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -10,6 +10,7 @@ campaignInfo:
 gender: female
 image: abha-v2.jpg
 name: Abha
+pronunciation: AH-bhah
 affiliations: [Sonkar Mystai]
 whereabouts:
 - {type: away, start: 1748-11-06, end: 1748-12-01, location: Nayahar}
@@ -22,6 +23,7 @@ title: Abha
 hide_toc: true
 ---
 # Abha
+:speaker:{ .middle } *(AH-bhah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -42,6 +44,8 @@ hide_toc: true
 ![Abha V2](/taelgarverse/assets/abha-v2.webp){align="right"; width="400"}Abha is a [mystai of Sonkar](<../../groups/dunmari-mystery-cults/sonkar-mystai.md>), a truthspeaker who has the divine ability to see the true nature of the world. She is a powerful spellcaster and is often called to resolve difficult or complicated requests for judgement and justice. 
 
 Abha, like [Sonkar](<../../gods-and-religions/gods/incorporeal-gods/dunmari-pantheon/sonkar.md>), sometimes appears cold and distant, but her isolating demeanor masks a deep concern for the world and for [Dunmar](<../../gazetteer/greater-dunmar/realms/dunmar/dunmar.md>). 
+
+
 
 
 During the [Sibling War](<../../events/1700s/sibling-war.md>), Abha served as an ally and advisor to [Nayan Karnas](<nayan-karnas.md>), using her divine powers to attempt to disentangle the truth, or lies, of rumors of [Agata](<../fey/agata.md>)'s influence on [Sura](<sura.md>). She was increasingly discredited by [Nayan Karnas](<nayan-karnas.md>) as he descended into paranoia, until the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) was able to at least partially get through to him. In the aftermath, she helped negotiate the end of the [Sibling War](<../../events/1700s/sibling-war.md>) between [Nayan Sura](<sura.md>) and [Nayan Karnas](<nayan-karnas.md>). 

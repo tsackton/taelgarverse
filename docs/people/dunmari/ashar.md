@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -10,6 +10,7 @@ campaignInfo:
 born: 1688
 gender: male
 name: Ashar
+pronunciation: ah-SHAR
 whereabouts: Tokra
 knownTo: [dufr]
 dm_owner: none
@@ -19,6 +20,7 @@ title: Ashar
 hide_toc: true
 ---
 # Ashar
+:speaker:{ .middle } *(ah-SHAR)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

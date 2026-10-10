@@ -13,10 +13,10 @@ name: Theba
 affiliations:
 - {org: Bek'eni, type: primary}
 whereabouts:
-- {type: home, end: 1748-09-06, location: Bek'eni village}
+- {type: home, end: 1748-09-06, location: Talem}
 - {type: away, start: 1748-09-07, end: 1748-09-09, location: Dunmar Fellowship}
-- {type: away, start: 1748-09-10, end: 1748-09-30, location: Te'kula village}
-- {type: home, start: 1748-10-01, location: Bek'eni village}
+- {type: away, start: 1748-09-10, end: 1748-09-30, location: Neshet}
+- {type: home, start: 1748-10-01, location: Talem}
 knownTo: [dufr]
 dm_owner: none
 dm_notes: important
@@ -32,12 +32,12 @@ hide_toc: true
     Born DR 1717 (33 years old)  
     { .bio }
 
-    Based in [Bek'eni village](<../../gazetteer/central-highlands/talem.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based in [Talem](<../../gazetteer/central-highlands/talem.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 
 
-:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22nd, 1748 in [Bek'eni village](<../../gazetteer/central-highlands/talem.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
+:octicons-location-24:{ .lg .middle } Scryed by [Delwath](<../pcs/dunmar-fellowship/delwath.md>) on October 22nd, 1748 in [Talem](<../../gazetteer/central-highlands/talem.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)  
 
 
 

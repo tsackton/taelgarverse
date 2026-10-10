@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ''}
-tags: [place, status/check/tim]
+tags: [place, status/cleanup/metadata]
 typeOf: settlement
 typeOfAlias: village
 name: Neshet
@@ -21,6 +21,11 @@ title: Neshet
 
 
 
-Neshet is a village of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>) in the [Elderwood](<elderwood.md>). For many years, it was sheltered from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>) in a demiplane created by [Aasimti](<../../gods-and-religions/gods/tanshi/aasimti.md>) through a [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>). It returned to the [Material Plane](<../../cosmology/material-plane.md>) in DR 1748, following Grimbaskal’s defeat.
+
+Neshet is the largest village of the [Te'kula](<../../groups/cultures/deno-qai-tribes/elderwood-tribes/te-kula.md>), in the [Elderwood](<elderwood.md>).
+
+For many years, it was hidden from [Grimbaskal](<../../people/other-nonhumans/mezzar.md>) in a demiplane created by [Aasimti](<../../gods-and-religions/gods/tanshi/aasimti.md>) through a [Jade Piece of Rai's Hand](<../../campaigns/dunmari-frontier-campaign/treasure/jade-piece-of-rai-s-hand.md>). It returned to the [Material Plane](<../../cosmology/material-plane.md>) in DR 1748, following Grimbaskal’s defeat.
+
+
 
 

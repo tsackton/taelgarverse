@@ -17,6 +17,6 @@ title: Redhammers
 
 
 ###  Members
-| Person                         | Info               | Current Location                                     |
-| ------------------------------ | ------------------ | ---------------------------------------------------- |
-| [Eldeth Redhammer](<../../people/dwarves/eldeth-redhammer.md>) (she/her) | [dwarf](<../../creatures/species/dwarves.md>) | [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>) (January 1st, 1750) |
+| Person                                            | Info               | Current Location                                     |
+| ------------------------------------------------- | ------------------ | ---------------------------------------------------- |
+| [Eldeth Redhammer](<../../people/dwarves/eldeth-redhammer.md>) (she/her EL-deth RED-ham-er) | [dwarf](<../../creatures/species/dwarves.md>) | [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>), [Greater Voltara](<../../gazetteer/northwest-coast/northern-provinces/greater-voltara.md>) (January 1st, 1750) |

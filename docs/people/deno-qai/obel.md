@@ -2,16 +2,17 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata]
 species: human
 ancestry: Deno'qai
 campaignInfo: []
 born: 1688
 gender: male
 name: Obel
+pronunciation: oh-BELL
 affiliations:
 - {org: Te'kula, type: primary}
-whereabouts: Te'kula village
+whereabouts: Neshet
 knownTo: [dufr]
 dm_owner: none
 dm_notes: color
@@ -20,6 +21,7 @@ title: Obel
 hide_toc: true
 ---
 # Obel
+:speaker:{ .middle } *(oh-BELL)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -27,7 +29,7 @@ hide_toc: true
     Born DR 1688 (62 years old)  
     { .bio }
 
-    Based in [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based in [Neshet](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 

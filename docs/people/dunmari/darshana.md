@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -10,6 +10,7 @@ campaignInfo:
 born: 1699
 gender: female
 name: Darshana
+pronunciation: DAR-shuh-nuh
 affiliations:
 - {org: Darshana's Caravanserai, title: Owner, type: leader}
 whereabouts: Tokra
@@ -21,6 +22,7 @@ title: Darshana
 hide_toc: true
 ---
 # Darshana
+:speaker:{ .middle } *(DAR-shuh-nuh)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -38,6 +40,8 @@ hide_toc: true
 
 
 Owner of the eponymously named caravanserai [Darshana's](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/darshana-s-caravanserai.md>) outside of [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>).
+
+
 
 
 

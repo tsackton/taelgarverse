@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim, status/check/name]
+tags: [place]
 typeOf: realm
 typeOfAlias: hobgoblin realm
 ancestry: hobgoblin
@@ -17,12 +17,6 @@ title: Reaver Coast
 </div>
 
 
-
-
-The Reaver Coast occupies the eastern point of [Irrla](<irrla.md>), where competing hobgoblin pirate clans raid shipping on the [Green Sea](<../green-sea.md>).
-
-
-
-
+The Reaver Coast occupies the eastern point of [Irrla](<irrla.md>), where competing hobgoblin pirate clans raid shipping on the [Green Sea](<../green-sea.md>). Beginning in the early DR 1740s, the [Skullcleaver Clan](<../../groups/hobgoblin-clans/skullcleaver-clan.md>) has increasingly dominated the territory and control of the Reaver Coast, and begun to support more organized piracy from protected harbors. 
 
 

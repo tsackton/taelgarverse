@@ -1,5 +1,5 @@
 ---
-tags: [creature, status/check/tim]
+tags: [creature, status/wip]
 name: Beastfolk
 dm_owner: joint
 dm_notes: none

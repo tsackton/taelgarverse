@@ -16,4 +16,4 @@ title: Chantefleur
 </div>
 
 
-Chantefleur is a fishing settlement on the north shore of [Lake Rin](<lake-rin.md>), near the mouth of the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>). It has the lake's largest docks and a twice-daily ferry to Lynthia.
+Chantefleur is a fishing settlement on the north shore of [Lake Rin](<lake-rin.md>), near the mouth of the [Auberonne](<../../rivers/wistel-enst-watershed/auberonne.md>). It has the lake's largest docks and a twice-daily ferry to [Lynthia](<../borderlands/lynthia.md>).

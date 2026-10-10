@@ -2,16 +2,17 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person]
 species: human
 ancestry: Deno'qai
 born: 1699
 gender: male
 name: Kaslan
+pronunciation: kahs-LAHN
 affiliations:
 - {org: Ko'zula, type: primary}
 whereabouts:
-- {type: home, start: '', end: '', location: Ko'zula village}
+- {type: home, start: '', end: '', location: Azkar}
 knownTo: [dufr]
 dm_owner: none
 dm_notes: none
@@ -20,6 +21,7 @@ title: Kaslan
 hide_toc: true
 ---
 # Kaslan
+:speaker:{ .middle } *(kahs-LAHN)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -27,7 +29,7 @@ hide_toc: true
     Born DR 1699 (51 years old)  
     { .bio }
 
-    Based the Ko'zula village
+    Based in [Azkar](<../../gazetteer/central-highlands/azkar.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 

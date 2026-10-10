@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -10,6 +10,7 @@ campaignInfo:
 born: 1723
 gender: female
 name: Badya
+pronunciation: bud-YAA
 whereabouts: Karawa
 knownTo: [dufr]
 dm_owner: none
@@ -19,6 +20,7 @@ title: Badya
 hide_toc: true
 ---
 # Badya
+:speaker:{ .middle } *(bud-YAA)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -41,6 +43,8 @@ In December 1747, [Delwath](<../pcs/dunmar-fellowship/delwath.md>) took rooms ab
 
 
 In March 1748, helped tend to the wounded after a giant hyena attack on Karawa. 
+
+
 
 
 

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T12:58:09-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: dwarf
 campaignInfo:
 - {campaign: dufr, person: Seeker, date: 1747-10-14, type: visited}
@@ -10,6 +10,7 @@ campaignInfo:
 born: 1567
 gender: male
 name: Ulfgar Frostbeard
+pronunciation: OOLF-gar FROST-beerd
 affiliations: [Faculty of Metaphysics, University of Chardon, Society of the Open Scroll]
 whereabouts: Chardon
 knownTo: [dufr]
@@ -20,6 +21,7 @@ title: Ulfgar Frostbeard
 hide_toc: true
 ---
 # Ulfgar Frostbeard
+:speaker:{ .middle } *(OOLF-gar FROST-beerd)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

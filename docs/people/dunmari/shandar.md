@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata]
 species: human
 ancestry: Dunmari
 campaignInfo: []
 born:
 gender: male
 name: Shandar
+pronunciation: shahn-DAAR
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
@@ -17,6 +18,7 @@ title: Shandar
 hide_toc: true
 ---
 # Shandar
+:speaker:{ .middle } *(shahn-DAAR)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

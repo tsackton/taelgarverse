@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T12:58:09-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: dwarf
 gender: male
 campaignInfo:
 - {campaign: grli, type: met, date: 1747-12-05}
 name: Osrik Shockstone
+pronunciation: OS-rik SHOK-stohn
 affiliations:
 - {org: Shockstones, type: primary}
 whereabouts:
@@ -20,6 +21,7 @@ title: Osrik Shockstone
 hide_toc: true
 ---
 # Osrik Shockstone
+:speaker:{ .middle } *(OS-rik SHOK-stohn)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -32,8 +34,6 @@ hide_toc: true
 
 
 Osrik is a prominent and wealthy dwarf, one of the elite of [Zarkandur](<../../gazetteer/central-highlands/dwarven-kingdoms/zarkandur.md>). He is also [Brelith](<../pcs/silver-tempests/brelith.md>)'s father and [Diesa](<diesa.md>)'s husband.
-
-
 
 
 

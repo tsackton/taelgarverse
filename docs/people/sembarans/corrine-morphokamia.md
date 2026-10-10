@@ -23,11 +23,11 @@ hide_toc: true
     A [human](<../../creatures/species/humans.md>) (she/her)  
     { .bio }
 
-    Based Enclaut
+    Based in [Enclaut](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/enclaut.md>), [Lake Rin](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/lake-rin.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)
 </div>
 
 
-Corrine Morphokamia is a wizard who studies transformation and lives in Enclaut, beside [Lake Rin](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/lake-rin.md>). She is a trans woman whose interest in transformation began in childhood, when she recognized that her inner self and physical form were distinct. She has ties to [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), but her studies have drawn suspicion around [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>).
+Corrine Morphokamia is a wizard who studies transformation and lives in [Enclaut](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/enclaut.md>), beside [Lake Rin](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/lake-rin.md>). She is a trans woman whose interest in transformation began in childhood, when she recognized that her inner self and physical form were distinct. She has ties to [Tollen](<../../gazetteer/greater-sembara/tollen/tollen.md>), but her studies have drawn suspicion around [Rinburg](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/rinburg.md>).
 
 
 

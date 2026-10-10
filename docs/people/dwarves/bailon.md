@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T12:58:09-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: dwarf
 gender: female
 campaignInfo:
 - {campaign: dufr, person: Riswynn, type: met, date: 1748-05-09}
 name: Bailon
+pronunciation: BYE-lon
 whereabouts: Tharn Todor
 knownTo: [dufr]
 dm_owner: none
@@ -17,6 +18,7 @@ title: Bailon
 hide_toc: true
 ---
 # Bailon
+:speaker:{ .middle } *(BYE-lon)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -32,8 +34,6 @@ hide_toc: true
 
 
 Bailon is a mine forewoman, working in the deep mines beneath [Tharn Todor](<../../gazetteer/greater-dunmar/realms/nardith/tharn-todor.md>). 
-
-
 
 
 

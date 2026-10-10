@@ -89,7 +89,7 @@ Chardon is organized into 21 administrative precincts, as well as a number of un
 
 Precincts I - VII are the inner core of the original Drankorian city, and are enclosed by the walls constructed during the expansion of the city in the 1300s. The modern port is largely congruent with [Precinct VI](<precinct-vi.md>); the university district is [Precinct IV](<precinct-iv.md>); the imperial administrative center is in Precinct I. 
 
-Precincts VIII - XVI form the outer core of the [South Bank](<south-bank.md>), numbered from VIII in the southwest to XVI in the northeast. Precinct VIII is adjacent to the naval arsenal; Precinct X houses the massive Kylos Market.
+Precincts VIII - XVI form the outer core of the [South Bank](<south-bank.md>), numbered from VIII in the southwest to XVI in the northeast. Precinct VIII is adjacent to the naval arsenal; Precinct X houses the massive [Kylos Market](<kylos-market.md>).
 
 Precincts XVII - XXI are on the [North Bank](<north-bank.md>); while Precincts XVIII and XIX are inside the north walls, XVII, XX, and XXI are the administrative units for the northern suburbs, with XVII containing the largest part of the chalyte refineries and the slums of the [Riverside Quarter](<riverside-quarter.md>). 
 

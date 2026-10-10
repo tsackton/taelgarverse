@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata]
 species: human
 ancestry: Dunmari
 campaignInfo: []
 born: 1680
 gender: female
 name: Kisa
+pronunciation: KEE-sah
 whereabouts: Karawa
 knownTo: [dufr]
 dm_owner: none
@@ -18,6 +19,7 @@ title: Kisa
 hide_toc: true
 ---
 # Kisa
+:speaker:{ .middle } *(KEE-sah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -10,6 +10,7 @@ campaignInfo:
 born: 1708
 gender: male
 name: Illyan
+pronunciation: il-YAHN
 whereabouts:
 - {type: away, start: 1748-06-03, end: 1748-12-14, linkText: camped near, location: Tokra, format: '<name:q>'}
 knownTo: [dufr]
@@ -20,6 +21,7 @@ title: Illyan
 hide_toc: true
 ---
 # Illyan
+:speaker:{ .middle } *(il-YAHN)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -38,6 +40,8 @@ hide_toc: true
 
 
 A commander in the army of [Nayan Karnas](<nayan-karnas.md>). Stationed outside [Tokra](<../../gazetteer/greater-dunmar/realms/dunmar/central-dunmar/tokra/tokra.md>) during the [Summer Gnoll Raids of 1748](<../../events/1700s/1748/summer-gnoll-raids-of-1748.md>) and the [Sibling War](<../../events/1700s/sibling-war.md>). Fought in the [Battle of Tokra](<../../events/1700s/1748/12/battle-of-tokra.md>). 
+
+
 
 
 

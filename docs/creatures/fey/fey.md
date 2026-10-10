@@ -1,5 +1,5 @@
 ---
-tags: [creature, status/check/tim]
+tags: [creature]
 aliases: [fey]
 dm_owner: joint
 dm_notes: important

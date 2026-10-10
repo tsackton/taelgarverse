@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: '2026-10-04T19:32:43-04:00'
 lintVersion: '3.5'
 displayDefaults: {boxInfo: '<species:sAU> <(()pronouns())>'}
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: unknown
 gender: female
@@ -43,12 +43,10 @@ Khemut of Targu was a human sailor and tea merchant who sailed aboard the *Selem
 
 During a visit to Drankor in DR 1043, Khemut disappeared after a night of drinking. She was last seen leaving the Bubbling Tankard, where she had been celebrating a bonus from her ship’s quartermaster. She never returned to the *Selem Shurga*.
 
-Khemut remained captive until DR 1053, when she was one of seven people sacrificed by [Apollyon](<drankorian-emperors/apollyon.md>) whose souls were bound into [his phylactery](<../../things/artifacts-of-power/apollyon-s-phylactery.md>). 
+Khemut remained captive until DR 1053, when she was one of seven people sacrificed by [Apollyon](<drankorian-emperors/apollyon.md>) whose souls were bound into [his phylactery](<../../things/artifacts-of-power/apollyon-s-phylactery.md>). Her fate was unknown for many centuries, until the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) ventured to [Drankor](<../../gazetteer/drankorian-hinterland/drankor/drankor.md>) to defeat [Apollyon](<drankorian-emperors/apollyon.md>), and learned of her history. 
 
 
 On May 24, 1749 DR, [Wellby](<../pcs/dunmar-fellowship/wellby.md>) freed her soul in the [Land of the Dead](<../../cosmology/land-of-the-dead.md>) by describing the sights, sounds, and daily work of life at sea, restoring her memories of the *Selem Shurga* and the wind so she could pass on.
-
-
 
 
 

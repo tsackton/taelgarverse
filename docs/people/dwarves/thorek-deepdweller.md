@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T12:58:09-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: dwarf
 born: 1515
 gender: male
 campaignInfo:
 - {campaign: grli, person: Mabist, type: met, date: 1748-10-02}
 name: Thorek Deepdweller
+pronunciation: THOR-ek DEEP-dwel-er
 affiliations:
 - {org: Deepdwellers, type: primary}
 whereabouts:
@@ -21,6 +22,7 @@ title: Thorek Deepdweller
 hide_toc: true
 ---
 # Thorek Deepdweller
+:speaker:{ .middle } *(THOR-ek DEEP-dwel-er)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -34,8 +36,6 @@ hide_toc: true
 
 
 Thorek Deepdweller is an elderly dwarven hermit living outside [Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), devoted to the memory of lost [Enderra](<../../gazetteer/greater-chardon/chardonian-empire/apporia/enderra.md>). Gruff and sorrowful, he preserves old dwarven lore of the [War of the Dark Rift](<../../events/1500s/war-of-the-dark-rift.md>) and the old customs and tales of [Enderra](<../../gazetteer/greater-chardon/chardonian-empire/apporia/enderra.md>).
-
-
 
 
 

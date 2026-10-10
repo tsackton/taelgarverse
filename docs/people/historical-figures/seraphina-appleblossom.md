@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-04T18:12:37-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/ai]
+tags: [person]
 species: halfling
 gender: female
 died: 1053
@@ -44,11 +44,10 @@ Seraphina Appleblossom was a halfling tavern-keeper who owned [The Laughing Wave
 
 During [Apollyon](<drankorian-emperors/apollyon.md>)’s reign, Seraphina initially tried to remain neutral, welcoming dockworkers, fleeing families, and off-duty enforcers alike. Although she hated the spreading cruelty, she hoped that keeping her head down would protect her inn, staff, and patrons.
 
-In DR 1049, she hosted a farewell celebration for halfling families preparing to flee the city. Drawn by the noise and rooftop fireworks, the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>) raided the inn. Seraphina tried to help her guests escape, and for her efforts was captured alongside several others who could not scatter in time. The Laughing Wave was ransacked and abandoned. Seraphina remained captive until DR 1053, when she was one of seven people sacrificed by Apollyon whose souls were bound into [his phylactery](<../../things/artifacts-of-power/apollyon-s-phylactery.md>). 
+In DR 1049, she hosted a farewell celebration for halfling families preparing to flee the city. Drawn by the noise and rooftop fireworks, the [Omnis Pura](<../../groups/drankorian-societies/omnis-pura.md>) raided the inn. Seraphina tried to help her guests escape, and for her efforts was captured alongside several others who could not scatter in time. The Laughing Wave was ransacked and abandoned. Seraphina remained captive until DR 1053, when she was one of seven people sacrificed by Apollyon whose souls were bound into [his phylactery](<../../things/artifacts-of-power/apollyon-s-phylactery.md>). Her fate was unknown for many centuries, until the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) ventured to [Drankor](<../../gazetteer/drankorian-hinterland/drankor/drankor.md>) to defeat [Apollyon](<drankorian-emperors/apollyon.md>), and learned of her history. 
 
 
 On May 24, 1749 DR, [Wellby](<../pcs/dunmar-fellowship/wellby.md>) freed her soul in the [Land of the Dead](<../../cosmology/land-of-the-dead.md>) by recalling the celebrations and rooftop fireworks at [The Laughing Wave](<../../gazetteer/drankorian-hinterland/drankor/the-laughing-wave.md>), helping her remember who she was and pass on.
-
 
 
 

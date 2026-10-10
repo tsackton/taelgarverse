@@ -29,7 +29,7 @@ hide_toc: true
     Born DR 1729 (21 years old)  
     { .bio }
 
-    Originally from: Wickerley
+    Originally from: [Wickerley](<../../../../gazetteer/greater-sembara/sembara/northlands/wickerley.md>), the [Duchy of Telham](<../../../../gazetteer/greater-sembara/sembara/northlands/duchy-of-telham.md>), [Sembara](<../../../../gazetteer/greater-sembara/sembara/sembara.md>)
     Based in the [Free City of Tollen](<../../../../gazetteer/greater-sembara/tollen/tollen.md>)
 </div>
 
@@ -38,7 +38,7 @@ hide_toc: true
 
 
 
-Edric was born in the small village of Wickerley, a good two days' walk north of the [Great South Road](<../../../../gazetteer/greater-sembara/roads/great-south-road.md>), in the [Duchy of Telham](<../../../../gazetteer/greater-sembara/sembara/northlands/duchy-of-telham.md>).  Wickerley is known for very little, although there are two brewers who sell to the surrounding villages, and the barley is said to be at least a bit better than average. It is a poor place, with little excitement and few reasons to stop. The most interesting event in the last hundred years, it is said, was Edric's birth.
+Edric was born in the small village of [Wickerley](<../../../../gazetteer/greater-sembara/sembara/northlands/wickerley.md>), a good two days' walk north of the [Great South Road](<../../../../gazetteer/greater-sembara/roads/great-south-road.md>), in the [Duchy of Telham](<../../../../gazetteer/greater-sembara/sembara/northlands/duchy-of-telham.md>).  Wickerley is known for very little, although there are two brewers who sell to the surrounding villages, and the barley is said to be at least a bit better than average. It is a poor place, with little excitement and few reasons to stop. The most interesting event in the last hundred years, it is said, was Edric's birth.
 
 
 ![Edric](/taelgarverse/assets/edric.webp)

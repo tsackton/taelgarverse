@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T12:58:09-04:00'
 lintVersion: '3.5'
-tags: [person, status/gameupdate/gl, status/check/lint]
+tags: [person, status/gameupdate/gl]
 species: dwarf
 born: 1711
 gender: female
 name: Eldeth Redhammer
+pronunciation: EL-deth RED-ham-er
 affiliations:
 - {type: primary, org: Redhammers}
 whereabouts: Voltara
@@ -18,6 +19,7 @@ title: Eldeth Redhammer
 hide_toc: true
 ---
 # Eldeth Redhammer
+:speaker:{ .middle } *(EL-deth RED-ham-er)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -30,8 +32,6 @@ hide_toc: true
 
 
 Eldeth is a talented, if eccentric, artificer. She is known locally in [Voltara](<../../gazetteer/northwest-coast/northern-provinces/voltara/voltara.md>) as a reputable buyer of gemstones, and is part of a loose community of scholars, wizards, and others attempting to better understand the exact nature of [chalyte](<../../things/materials/chalyte.md>).
-
-
 
 
 

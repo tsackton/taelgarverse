@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata]
 species: human
 ancestry: Dunmari
 campaignInfo: []
 born: 1710
 gender: male
 name: Ikram
+pronunciation: ik-RAAM
 whereabouts: Karawa
 knownTo: [dufr]
 dm_owner: tim
@@ -18,6 +19,7 @@ title: Ikram
 hide_toc: true
 ---
 # Ikram
+:speaker:{ .middle } *(ik-RAAM)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

@@ -16,5 +16,5 @@ title: Ruthin
 
 A moderately sized market town on about a half day's walk east of the [Trellyn](<../rivers/tyrwinghan-watershed/trellyn.md>). There is a temple to the Wyrdling here.
 ### Notable Residents
-* Eirian, a trans woman and acolyte of the Wyrdling. She is known in the region for her gender-affirming herbalist care and is a skilled teacher
+* [Eirian](<../../../people/tyrwinghans/eirian.md>), a trans woman and acolyte of the Wyrdling. She is known in the region for her gender-affirming herbalist care and is a skilled teacher
 

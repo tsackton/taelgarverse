@@ -2,25 +2,26 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person]
 species: human
 ancestry: Deno'qai
-campaignInfo: []
 born: 1734
 gender: male
 name: Zevi
+pronunciation: zeh-VEE
 affiliations:
 - {org: Ko'zula, type: primary}
 whereabouts:
-- {type: home, start: '', end: '', location: Ko'zula village}
+- {type: home, location: Azkar}
 knownTo: [dufr]
 dm_owner: none
-dm_notes: color
+dm_notes: none
 POV: 1748
 title: Zevi
 hide_toc: true
 ---
 # Zevi
+:speaker:{ .middle } *(zeh-VEE)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -28,16 +29,13 @@ hide_toc: true
     Born DR 1734 (16 years old)  
     { .bio }
 
-    Based the Ko'zula village
+    Based in [Azkar](<../../gazetteer/central-highlands/azkar.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 
 Guide who brought [Delwath](<../pcs/dunmar-fellowship/delwath.md>) to the Ko’zula village and later to meet [Aristaea](<../pcs/dunmar-fellowship/guests/aristaea.md>) and [Iascaire](<../pcs/dunmar-fellowship/guests/iascaire.md>).
 
 He is a younger boy, maybe 14 at most, learning the hunting trade.
-
-
-
 
 
 

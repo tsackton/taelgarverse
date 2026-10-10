@@ -14,5 +14,5 @@ Early in the morning on May 1st, 1749, a shimmering gray wall of a strange fog a
 
 By the middle of May, the winds were contained, and the strange gray mist wall was identified as a [Pandemonium](<../../../cosmology/spiritual-realms/pandemonium.md>) [vortex](<../../../cosmology/planar-concepts/elemental-vortex.md>), though the vortex was not fully closed for several weeks after. 
 
-The Kylos Market, though, is never the same and is quietly abandoned. 
+The [Kylos Market](<../../../gazetteer/greater-chardon/chardonian-empire/chardon/kylos-market.md>), though, is never the same and is quietly abandoned. 
 

@@ -37,7 +37,7 @@ hide_toc: true
 
 
 
-An old man with a thick grey beard, a beggar who lived in the ramshackle Beggar's Way outside of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). His body was found in the Cleansing of the Ettercap Lair by [Najeer](<../pcs/cleenseau/viepuck.md>), [Izgil](<../pcs/cleenseau/izgil-moonseeker.md>), [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>), and [Celyn](<../pcs/cleenseau/celyn.md>). He was believed to have been killed by spiders on or around October 14th.
+An old man with a thick grey beard, a beggar who lived in the ramshackle [Beggar's Way](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/beggar-s-way.md>) outside of [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>). His body was found in the ettercap lair by [Najeer](<../pcs/cleenseau/viepuck.md>), [Izgil](<../pcs/cleenseau/izgil-moonseeker.md>), [Robin](<../pcs/cleenseau/robin-of-abenfyrd.md>), and [Celyn](<../pcs/cleenseau/celyn.md>). He was believed to have been killed by spiders on or around October 14th.
 
 
 

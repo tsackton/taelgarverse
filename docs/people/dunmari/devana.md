@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
 - {campaign: dufr, type: mentioned to, date: 1748-03-29, wParty: '<met:U> <person:U> on <target>'}
 gender: male
 name: Devana
+pronunciation: deh-VAH-nah
 whereabouts:
 - {type: home, location: Karawa Desert}
 knownTo: [dufr]
@@ -19,6 +20,7 @@ title: Devana
 hide_toc: true
 ---
 # Devana
+:speaker:{ .middle } *(deh-VAH-nah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -40,6 +42,8 @@ A Dunmari pastoralist.
 
 
 * Mar 15, 1748 DR Devana's family was attacked by marauding axebeaks, supernaturally enraged by an ancient amulet from the Great War, which had been buried inactive for centuries until uncovered by [Arcus](<../chardonians/arcus.md>) in the [old Dunmari fort](<../../gazetteer/greater-dunmar/hara-basin/dunmari-fort-gomat.md>) east of [Gomat](<../../gazetteer/greater-dunmar/hara-basin/gomat.md>). One of his sons and nearly half his animals were killed in this attack (date is approx).
+
+
 
 
 

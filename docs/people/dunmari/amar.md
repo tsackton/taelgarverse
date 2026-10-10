@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -10,6 +10,7 @@ campaignInfo:
 born: 1710
 gender: male
 name: Amar
+pronunciation: uh-mur
 affiliations:
 - {org: Akela Inn, title: Master, type: leader}
 whereabouts:
@@ -23,6 +24,7 @@ title: Amar
 hide_toc: true
 ---
 # Amar
+:speaker:{ .middle } *(uh-mur)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -44,6 +46,8 @@ The innkeeper of the [Akela Inn](<../../gazetteer/greater-dunmar/realms/dunmar/c
 
 
 His story was heard by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) of the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>) on 19 July 1748, and recorded: [Amar's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/amar-s-story.md>).
+
+
 
 
 

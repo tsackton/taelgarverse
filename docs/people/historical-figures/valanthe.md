@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-04T20:08:14-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/ai]
+tags: [person]
 species: elf
 gender: female
 ka: 32
@@ -45,12 +45,10 @@ Under Apollyon’s rule, her art became resistance. Her satirical plays, often p
 
 Apollyon ordered her capture early in his reign. Valanthe evaded his agents through the 1020s using magic and wit, but was betrayed and captured during the Hearth Riots in DR 1031. Taken in chains to the [Circular Island](<../../gazetteer/drankorian-hinterland/circular-island.md>), she remained imprisoned until she was sacrificed in DR 1053, becoming the first of seven souls bound into [Apollyon's Phylactery](<../../things/artifacts-of-power/apollyon-s-phylactery.md>). 
 
-She was considered a martyr by the Radiant Path, and her life was commemorated in the [Book of Martyrs of the Radiant Path](<../../things/books/book-of-martyrs-of-the-radiant-path.md>).
+Her story is recorded in the [Book of Martyrs of the Radiant Path](<../../things/books/book-of-martyrs-of-the-radiant-path.md>), a hidden record and memorial kept by the priests of the [Radiant Path](<../../groups/drankorian-societies/radiant-path.md>) of those disappeared and taken during Apollyon's reign, though her fate was unknown for many centuries, until the [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) ventured to [Drankor](<../../gazetteer/drankorian-hinterland/drankor/drankor.md>) to defeat [Apollyon](<drankorian-emperors/apollyon.md>).
 
 
 On May 24, 1749 DR, [Seeker](<../pcs/dunmar-fellowship/seeker.md>) freed her soul in the [Land of the Dead](<../../cosmology/land-of-the-dead.md>) by mocking Apollyon with *Vicious Mockery*, rekindling her laughter and memories of her satirical works so she could pass on.
-
-
 
 
 

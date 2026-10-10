@@ -1,0 +1,306 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="color-scheme" content="dark">
+  <meta name="description" content="The Elderwood after the Godfall: oak groves, hidden paths, and a place of refuge. A Taelgar II setting chapter.">
+  <title>Taelgar II — The Elderwood</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --night: #100e10;
+      --paper: #e5d9c7;
+      --text: #c9c0b5;
+      --muted: #aca095;
+      --blood: #9d3c49;
+      --red-light: #c4777e;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--night);
+      color: var(--text);
+      font-family: Georgia, "Times New Roman", serif;
+      -webkit-font-smoothing: antialiased;
+    }
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      z-index: 8;
+      pointer-events: none;
+      opacity: .055;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.88' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Cpath fill='%23fff' filter='url(%23n)' d='M0 0h180v180H0z'/%3E%3C/svg%3E");
+    }
+    ::selection { color: #fff3dd; background: #733240; }
+    h1, h2, p, figure { margin: 0; }
+    h1, h2 { color: var(--paper); font-weight: 400; }
+    img { display: block; width: 100%; height: auto; }
+    a { color: inherit; }
+    a:focus-visible { outline: 2px solid var(--red-light); outline-offset: 9px; }
+    .svg-defs { position: absolute; width: 0; height: 0; overflow: hidden; }
+    figcaption {
+      font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+      font-size: 11px;
+      font-weight: 500;
+      letter-spacing: .17em;
+      line-height: 1.5;
+      text-transform: uppercase;
+    }
+    main { overflow: hidden; }
+    .chapter { position: relative; padding: 110px 28px 0; }
+    .reading { max-width: 690px; margin: 0 auto; }
+    .aftermath { margin-top: 53px; }
+    .chapter-number { color: var(--red-light); }
+    h2 {
+      font-size: clamp(27px, 3vw, 36px);
+      line-height: 1.3;
+      letter-spacing: -.015em;
+      margin-bottom: 32px;
+      text-wrap: balance;
+    }
+    .subhead { margin: 0 0 28px; color: var(--paper); font-size: 20px; line-height: 1.55; font-weight: 400; }
+    .prose { font-size: 19px; line-height: 1.88; }
+    .prose p + p { margin-top: 24px; }
+    .prose .lead { font-size: 25px; line-height: 1.55; color: var(--paper); }
+    .prose em { font-style: normal; color: var(--paper); }
+    .landscape { max-width: 1180px; margin: 58px auto 0; }
+    .landscape .image-wrap { position: relative; }
+    .landscape .image-wrap::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      box-shadow: inset 0 0 70px #100e1033;
+      border: 1px solid #d5b59a16;
+    }
+    figcaption { color: var(--muted); padding-top: 16px; letter-spacing: .17em; }
+    .small-eye { display: block; width: 78px; height: 44px; color: var(--blood); margin: 0 auto 33px; }
+    .chapter figure img { aspect-ratio: auto; object-fit: contain; }
+    .camp-figure { margin-top: 0; }
+    @media (max-width: 760px) {
+      .chapter { padding: 75px 24px 0; }
+      .aftermath { margin-top: 33px; }
+      .prose { font-size: 18px; line-height: 1.8; }
+      h2 { margin-bottom: 26px; }
+      .landscape { margin-top: 38px; }
+      .camp-figure { margin-top: 0; }
+      figcaption { font-size: 10px; letter-spacing: .13em; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+    }
+    @media print {
+      :root { color-scheme: light; }
+      body { background: #fff; color: #222; }
+      body::before { display: none; }
+      h1, h2, .prose .lead, .prose em { color: #222; text-shadow: none; }
+      figcaption { color: #555; }
+      .chapter { padding-top: 45px; }
+      figure { break-inside: avoid; }
+      .image-wrap::after { display: none; }
+    }
+    /* Keep this companion page self-contained, with the intro's visual language. */
+    .page-opening {
+      position: relative;
+      isolation: isolate;
+      overflow: hidden;
+      padding: 62px 28px 58px;
+      text-align: center;
+      background: radial-gradient(ellipse at 50% 47%, #30161c55, transparent 65%);
+    }
+    .opening-seal {
+      position: absolute;
+      z-index: -1;
+      width: min(520px, 112vw);
+      height: auto;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: var(--blood);
+      pointer-events: none;
+    }
+    .page-wordmark {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 15px;
+      margin: 0 auto 28px;
+      color: var(--paper);
+      font-size: 20px;
+      line-height: 1.2;
+      letter-spacing: .21em;
+      text-shadow: 0 2px 20px #000;
+    }
+    .page-wordmark::before, .page-wordmark::after {
+      content: "";
+      width: 48px;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, #9d3c4966);
+    }
+    .page-wordmark::after { transform: rotate(180deg); }
+    .page-wordmark span { color: var(--red-light); letter-spacing: .09em; margin-left: -.2em; }
+    .page-opening .small-eye {
+      width: 70px;
+      height: 38px;
+      margin: 0 auto 29px;
+      color: #ad4e5b;
+      filter: url(#worn) drop-shadow(0 0 14px #8b334129);
+    }
+    .page-opening h1 {
+      max-width: 620px;
+      margin: 0 auto;
+      color: var(--paper);
+      font-size: clamp(27px, 3.2vw, 35px);
+      line-height: 1.5;
+      letter-spacing: 0;
+      padding: 0;
+      text-shadow: 0 3px 30px #000;
+      text-wrap: balance;
+    }
+    .page-opening h1 em { color: #cc898f; font-style: normal; }
+    .opening-rule {
+      display: block;
+      width: 1px;
+      height: 38px;
+      margin: 28px auto 0;
+      background: linear-gradient(#9d3c4977, transparent);
+    }
+    .preamble { padding: 42px 28px 0; }
+    .chapter .image-wrap { position: relative; }
+    .chapter img { height: auto; aspect-ratio: auto; object-fit: contain; }
+    .source-callout { margin: 52px auto; color: var(--paper); font-size: clamp(24px, 3.2vw, 35px); line-height: 1.5; text-align: center; text-wrap: balance; }
+    .closing-mark { padding: 95px 24px 105px; }
+    .closing-mark .small-eye, .section-mark .small-eye { margin-bottom: 0; width: 59px; }
+    .section-mark { padding: 54px 24px 0; }
+    .section-mark + .chapter { padding-top: 54px; }
+    @media (max-width: 760px) {
+      .page-opening { padding: 48px 24px 36px; }
+      .opening-seal { width: 440px; max-width: none; }
+      .page-wordmark { font-size: 17px; gap: 12px; }
+      .page-wordmark::before, .page-wordmark::after { width: 30px; }
+      .preamble { padding: 32px 24px 0; }
+      .closing-mark { padding: 65px 24px 75px; }
+      .section-mark { padding-top: 32px; }
+      .section-mark + .chapter { padding-top: 32px; }
+    }
+    @media print {
+      .page-opening { padding: 40px 20px 15px; background: none; }
+      .opening-seal, .opening-rule { display: none; }
+      .page-opening h1, .page-opening h1 em, .page-wordmark { color: #222; text-shadow: none; }
+      .chapter .subhead, .source-callout { color: #222; }
+      .closing-mark { padding: 35px 20px; }
+      .section-mark { padding-top: 25px; }
+      .section-mark + .chapter { padding-top: 25px; }
+    }
+    .read-more { max-width: 746px; margin: 0 auto; padding: 0 28px 90px; }
+    .read-more h2 { margin-bottom: 24px; font-size: 20px; letter-spacing: 0; }
+    .read-more ul { margin: 0; padding: 0; list-style: none; }
+    .read-more li { color: var(--muted); font-size: 18px; line-height: 1.8; }
+    .read-more li + li { margin-top: 18px; }
+    .read-more a { color: var(--paper); text-decoration-color: var(--blood); text-decoration-thickness: 1px; text-underline-offset: .22em; }
+    .read-more a:hover { color: #cc898f; text-decoration-color: currentColor; }
+    @media (max-width: 760px) {
+      .read-more { padding: 0 24px 65px; }
+    }
+    @media print {
+      .read-more { padding: 0 20px 35px; break-inside: avoid; }
+      .read-more h2, .read-more li, .read-more a { color: #222; }
+      .read-more a { text-decoration-color: currentColor; }
+    }
+  
+  </style>
+</head>
+<body>
+  <!-- Source: ../Taelgar-2 The Elderwood.md. Source wording and paragraph order are preserved.
+       Section headings and captions are presentation labels. Approved illustrations live in ../assets/. -->
+  <svg class="svg-defs" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+    <defs>
+      <g id="eye" fill="none" stroke="currentColor" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M24 42 C43 44 63 14 83 17 C105 20 122 45 145 42 C123 47 108 70 84 69 C59 69 44 48 24 42Z"/>
+        <path d="M27 42 C10 36 11 22 17 17 M27 44 C10 50 8 63 17 67 M141 42 C159 39 160 24 153 16 M142 45 C159 49 164 63 156 70"/>
+        <path d="M84 32 C93 37 95 49 84 57 C75 51 75 39 84 32Z" fill="currentColor" stroke="none"/>
+      </g>
+      <filter id="worn" x="-8%" y="-8%" width="116%" height="116%">
+        <feTurbulence type="fractalNoise" baseFrequency=".043" numOctaves="3" seed="8" result="noise"/>
+        <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.8" xChannelSelector="R" yChannelSelector="G"/>
+      </filter>
+    </defs>
+  </svg>
+  <header class="page-opening">
+    <svg class="opening-seal" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
+      <circle cx="300" cy="300" r="268" fill="#09090b" stroke="currentColor" stroke-width="1.6" opacity=".67" filter="url(#worn)"/>
+      <circle cx="300" cy="300" r="275" fill="none" stroke="currentColor" stroke-width=".7" opacity=".19"/>
+      <circle cx="300" cy="300" r="258" fill="none" stroke="currentColor" stroke-width=".5" opacity=".08"/>
+    </svg>
+    <p class="page-wordmark" aria-label="Taelgar II">TAELGAR <span>II</span></p>
+    <svg class="small-eye" viewBox="0 0 174 86" aria-hidden="true" focusable="false"><use href="#eye"/></svg>
+    <h1 data-source>Not every place is under the thumb<br>of <em>oligarchs and fascists.</em></h1>
+    <span class="opening-rule" aria-hidden="true"></span>
+  </header>
+  <main>
+    <div class="preamble"><div class="reading prose">
+      <p data-source>The Elderwood was once a vast forest, a dense wood of massive trees and lush undergrowth. Some say the trees were kept alive by the gods, for after the Godfall the largest trees died under the withering summer heat. But the forest did not die -- it adapted. In place of tall redwoods, a chaparral forest grew, of scrub oak and juniper.</p>
+    </div></div>
+    <section class="chapter" id="oak-groves" aria-labelledby="oak-groves-title">
+      <div class="reading">
+        <h2 id="oak-groves-title"><span class="chapter-number">I.</span> The Oak Groves</h2>
+        <div class="prose"><p data-source>The people of the Elderwood adapted too. Now, they tend the oak groves, gathering acorns each autumn to dry and grind into flour. They plant barley and lentils in hidden valleys with the winter rains, while goats graze the rough hills and pigs fatten on fallen acorns. The summer is now yellow and dry, and often hard and hot, but villages keep hidden stores against the lean months, sharing food and water as they once shared the shelter of the great trees.</p></div>
+      </div>
+    <figure class="landscape">
+      <div class="image-wrap">
+        <img src="assets/taelgar-2-elderwood-acorn-harvest.webp" width="1536" height="1024"
+             alt="An older woman and a younger woman sort acorns into woven baskets beneath an oak, while other villagers gather the harvest beside a donkey and foraging pigs." loading="eager" decoding="async">
+      </div>
+      <figcaption>The work of the oak groves</figcaption>
+    </figure>
+    </section>
+    <div class="section-mark" aria-hidden="true">
+      <svg class="small-eye" viewBox="0 0 174 86" focusable="false"><use href="#eye"/></svg>
+    </div>
+    <section class="chapter" id="hidden-paths" aria-labelledby="hidden-paths-title">
+      <div class="reading">
+        <h2 id="hidden-paths-title"><span class="chapter-number">II.</span> Hidden Paths</h2>
+        <div class="prose"><p data-source>Others too now find their way into the Elderwood: people fleeing the mines and timber yards of Karszeg, deserters, debtors, and families driven from their homes. Some are simply passing through, heading toward distant kin or rumors of safety. Resistance fighters, criminals, and those exiled by the richer kingdoms shelter here too, raiding supply wagons and returning with grain, and stories that grow longer with each telling.</p></div>
+      </div>
+    <figure class="landscape">
+      <div class="image-wrap">
+        <img src="assets/taelgar-2-elderwood-guerrillas.webp" width="1536" height="1024"
+             alt="Human, orc, dwarf, and halfling fighters move warily through tangled oak woodland, carrying pistols and long guns; a spellcaster holds a faintly glowing wand." loading="lazy" decoding="async">
+      </div>
+      <figcaption>Under cover of the Elderwood</figcaption>
+    </figure>
+    </section>
+    <div class="section-mark" aria-hidden="true">
+      <svg class="small-eye" viewBox="0 0 174 86" focusable="false"><use href="#eye"/></svg>
+    </div>
+    <section class="chapter" id="a-place-to-stay" aria-labelledby="a-place-to-stay-title">
+      <div class="reading">
+        <h2 id="a-place-to-stay-title"><span class="chapter-number">III.</span> A Place by the Fire</h2>
+      </div>
+    <figure class="landscape camp-figure">
+      <div class="image-wrap">
+        <img src="assets/taelgar-2-elderwood-spring-camp.webp" width="1536" height="1024"
+             alt="A woman fills a jug at a rocky spring beside a camp of patched tents. Dwarves cook and rest together, a traveler speaks with a resident, and an orc steadies an awning." loading="lazy" decoding="async">
+      </div>
+      <figcaption>Some stay for a season, or a year, or more</figcaption>
+    </figure>
+      <div class="reading prose aftermath"><p data-source>But a stranger who reaches the right door can usually find supper and a place by the fire, and maybe a home. So many stay, for a season or a year, or more, often gathering in camps around dependable water, learning the work of the oak groves.</p></div>
+    </section>
+    <div class="closing-mark" aria-hidden="true">
+      <svg class="small-eye" viewBox="0 0 174 86" focusable="false"><use href="#eye"/></svg>
+    </div>
+    <nav class="read-more" aria-labelledby="read-more-title">
+      <h2 id="read-more-title">See more</h2>
+      <ul role="list">
+        <li><a href="world-today.html">The World Today</a> — The people, places, and magic of Taelgar II.</li>
+        <li><a href="index.html">Introduction to Taelgar II</a> — The Godfall and the rise of a world of terrible wonders.</li>
+      </ul>
+    </nav>
+  </main>
+</body>
+</html>

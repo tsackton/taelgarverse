@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
 displayDefaults: {endStatus: 'killed by [[Casian]]'}
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -12,6 +12,7 @@ born: 1723
 gender: male
 died: 1748-07-23
 name: Justan
+pronunciation: jus-TAHN
 whereabouts:
 - {type: home, location: Varashan}
 - {type: away, start: 1748-05-01, end: 1748-07-23, location: Copper Hills}
@@ -23,6 +24,7 @@ title: Justan
 hide_toc: true
 ---
 # Justan
+:speaker:{ .middle } *(jus-TAHN)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -46,6 +48,8 @@ hide_toc: true
 In the spring of 1748, his family lost much of their wealth from famine and disease, associated with the Tokra refugee crisis caused by the [Summer Gnoll Raids of 1748](<../../events/1700s/1748/summer-gnoll-raids-of-1748.md>). He left his home and joined with a group of other disillusioned and unsavory Dunmari in the [Copper Hills](<../../gazetteer/greater-dunmar/darba-highlands/copper-hills.md>), and began raiding travelers on the Tokra-Darba road. On July 21, 1748, encountered [Dunmar Fellowship](<../pcs/dunmar-fellowship/dunmar-fellowship.md>) and was intimidated into joining them to fight the rumored dragon (actually wyverns) on the road by [Delwath](<../pcs/dunmar-fellowship/delwath.md>). Survived the wyvern battle only to be killed by [Casian](<../chardonians/casian.md>)'s fireball on July 23rd, 1748. 
 
 His story was heard by [Kenzo](<../pcs/dunmar-fellowship/kenzo.md>) and collected for the [Order of the Awakened Soul](<../../groups/dunmari-mystery-cults/order-of-the-awakened-soul.md>): [Justan's Story](<../../campaigns/dunmari-frontier-campaign/collected-stories/justan-s-story.md>).
+
+
 
 
 

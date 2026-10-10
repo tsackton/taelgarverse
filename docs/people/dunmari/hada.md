@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata]
 species: human
 ancestry: Dunmari
 campaignInfo: []
@@ -10,6 +10,7 @@ born: 1719
 gender: male
 died: 1748
 name: Hada
+pronunciation: HAH-dah
 whereabouts: Tokra
 knownTo: [dufr]
 dm_owner: tim
@@ -19,6 +20,7 @@ title: Hada
 hide_toc: true
 ---
 # Hada
+:speaker:{ .middle } *(HAH-dah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

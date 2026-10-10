@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T12:58:09-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: dwarf
 ancestry: Nardith
 campaignInfo:
 - {campaign: dufr, type: met, date: 1748-08-08}
 gender: male
 name: Travok Redpeak
+pronunciation: TRAH-vok RED-peek
 whereabouts:
 - {type: home, location: Tharn Todor}
 - {type: away, start: 1748-08-03, end: 1748-08-10, location: Darba}
@@ -20,6 +21,7 @@ title: Travok Redpeak
 hide_toc: true
 ---
 # Travok Redpeak
+:speaker:{ .middle } *(TRAH-vok RED-peek)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 

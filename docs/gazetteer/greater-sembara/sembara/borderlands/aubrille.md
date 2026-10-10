@@ -18,6 +18,6 @@ title: Aubrille
 </div>
 
 
-Aubrille is a village on the southern shore of [Lake Rin](<../barony-of-aveil/lake-rin.md>), near Lynthia, in the [Barony of Estrive](<barony-of-estrive.md>). It is ruled by an energetic young lord.
+Aubrille is a village on the southern shore of [Lake Rin](<../barony-of-aveil/lake-rin.md>), near [Lynthia](<lynthia.md>), in the [Barony of Estrive](<barony-of-estrive.md>). It is ruled by an energetic young lord.
 
 

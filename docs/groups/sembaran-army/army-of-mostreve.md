@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+tags: [group, status/check/ai]
 name: Army of Mostreve
 typeOf: army
 dm_notes: none
@@ -24,11 +24,11 @@ Legend says that the Color Guard and the Twilight Guard date to ancient days, an
 
 In less troubled times, the three guard companies are established in five garrisons:
 
-* the garrison of Cyfarthfa, north of the [Rhewin](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/rhewin.md>), near the [Tyrwinghan Road](<../../gazetteer/greater-sembara/roads/tyrwinghan-road.md>)
-* the garrison of Garn Tyrn, in the [Maerwyns](<../../gazetteer/greater-sembara/maerwyn-mountains.md>) near the source of the [Daran](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/daran.md>)
-* the Maerwyn Garrison, in the southern [Maerwyns](<../../gazetteer/greater-sembara/maerwyn-mountains.md>) 
-* the [garrison of the Aben](<../../gazetteer/greater-sembara/tyrwingha/aben-garrison.md>), in the [Tyrwinghan Hills](<../../gazetteer/greater-sembara/tyrwingha/tyrwinghan-hills.md>) near the headwaters of the [Aben](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/aben.md>) River 
-* the garrison of Deganwy, in the western [Tyrwinghan Hills](<../../gazetteer/greater-sembara/tyrwingha/tyrwinghan-hills.md>), near the headwaters of the [Llanfen](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/llanfen.md>)
+* the [garrison of Cyfarthfa](<../../gazetteer/greater-sembara/tyrwingha/cyfarthfa-garrison.md>), north of the [Rhewin](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/rhewin.md>), near the [Tyrwinghan Road](<../../gazetteer/greater-sembara/roads/tyrwinghan-road.md>)
+* the [Daran Garrison](<../../gazetteer/greater-sembara/tyrwingha/daran-garrison.md>), near the headwaters of the [Daran](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/daran.md>) in the [Tyrwinghan Hills](<../../gazetteer/greater-sembara/tyrwingha/tyrwinghan-hills.md>), guarding the eastern side of the gap with the [Maerwyns](<../../gazetteer/greater-sembara/maerwyn-mountains.md>)
+* the [Maerwyn Garrison](<../../gazetteer/greater-sembara/tyrwingha/maerwyn-garrison.md>), in the southern [Maerwyns](<../../gazetteer/greater-sembara/maerwyn-mountains.md>), guarding the western side of the gap with the [Tyrwinghan Hills](<../../gazetteer/greater-sembara/tyrwingha/tyrwinghan-hills.md>)
+* the [garrison of the Aben](<../../gazetteer/greater-sembara/tyrwingha/aben-garrison.md>), in the [Maerwyns](<../../gazetteer/greater-sembara/maerwyn-mountains.md>) near the headwaters of the [Aben](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/aben.md>) River
+* the [garrison of Deganwy](<../../gazetteer/greater-sembara/tyrwingha/deganwy-garrison.md>), in the southern [Tyrwinghan Hills](<../../gazetteer/greater-sembara/tyrwingha/tyrwinghan-hills.md>), near the headwaters of the [Llanfen](<../../gazetteer/greater-sembara/rivers/tyrwinghan-watershed/llanfen.md>)
 
 Additionally, an ancient training ground and barracks on the shores of [Tywynn Bay](<../../gazetteer/greater-sembara/tyrwingha/tywynn-bay.md>) still serves as a headquarters and training barracks, especially for the Color Guard. 
 

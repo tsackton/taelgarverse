@@ -20,6 +20,6 @@ The Deepdwellers are a dwarven clan originally from the lost kingdom of [Enderra
 
 ### Members
 
-| Person                          | Info               | Current Location                                                  |
-| ------------------------------- | ------------------ | ----------------------------------------------------------------- |
-| [Thorek Deepdweller](<../../people/dwarves/thorek-deepdweller.md>) (he/him) | [dwarf](<../../creatures/species/dwarves.md>) | [outside Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>) (January 1st, 1750) |
+| Person                                               | Info               | Current Location                                                  |
+| ---------------------------------------------------- | ------------------ | ----------------------------------------------------------------- |
+| [Thorek Deepdweller](<../../people/dwarves/thorek-deepdweller.md>) (he/him THOR-ek DEEP-dwel-er) | [dwarf](<../../creatures/species/dwarves.md>) | [outside Castrella](<../../gazetteer/greater-chardon/chardonian-empire/apporia/castrella.md>), [Cedrano](<../../gazetteer/greater-chardon/chardonian-empire/apporia/cedrano.md>) (January 1st, 1750) |

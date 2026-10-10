@@ -29,7 +29,7 @@ hide_toc: true
     b. DR 1690 - d. November 3rd, 1719, died at age 29 years  
     { .bio }
 
-    Lived in the Beggar's Way, [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>)
+    Lived in the [Beggar's Way](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/beggar-s-way.md>), [Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Died at the [bandit lair upriver of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/cleenseau/cleenseau.md>), in the [Manor of Cleenseau](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/cleenseau-region/manor-of-cleenseau.md>), the [Barony of Aveil](<../../gazetteer/greater-sembara/sembara/barony-of-aveil/barony-of-aveil.md>)

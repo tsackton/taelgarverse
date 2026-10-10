@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, testcase, status/cleanup/metadata, status/check/ai]
+tags: [object, testcase, status/cleanup/text]
 campaignInfo:
 created: 917
 subTypeOf: magical

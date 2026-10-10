@@ -39,8 +39,8 @@ Most of the population is heavily rural living in small farming and herding vill
 
 - [Uzgukhar](<uzgukhar.md>), the capitol, at the confluence of the [Istaros](<../../major-rivers/istaros-watershed/istaros.md>) and [Kulthul](<../../major-rivers/istaros-watershed/kulthul.md>)
 - [Khumarz](<khumarz.md>), a fortified border town on the eastern banks of the [Kulthul](<../../major-rivers/istaros-watershed/kulthul.md>), guarding one of the major fords of the river and serving as the lynchpin of the western defenses of Zurkhaz
-- Drogoloth, a mining town on the western banks of the [Istaros](<../../major-rivers/istaros-watershed/istaros.md>), near the hills and at the furthest point north boats can travel on the [Istaros](<../../major-rivers/istaros-watershed/istaros.md>) before hitting the rapids
-- Gorzum, a peaceful oasis in the middle of the country
+- [Drogoloth](<drogoloth.md>), a mining town on the western banks of the [Istaros](<../../major-rivers/istaros-watershed/istaros.md>), near the hills and at the furthest point north boats can travel on the [Istaros](<../../major-rivers/istaros-watershed/istaros.md>) before hitting the rapids
+- [Gorzum](<gorzum.md>), a peaceful oasis in the middle of the country
 
 
 ## People

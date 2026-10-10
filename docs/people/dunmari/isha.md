@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -10,6 +10,7 @@ campaignInfo:
 born:
 gender: male
 name: Isha
+pronunciation: EE-shah
 whereabouts:
 - {type: away, location: Mirror of Soul Trapping, end: 1748-06-08}
 - {type: home, location: Karawa, start: 1748-06-09}
@@ -21,6 +22,7 @@ title: Isha
 hide_toc: true
 ---
 # Isha
+:speaker:{ .middle } *(EE-shah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -37,6 +39,8 @@ hide_toc: true
 
 
 A Dunmari man trapped for many years in the [Mirror of Soul Trapping](<../../campaigns/dunmari-frontier-campaign/treasure/mirror-of-soul-trapping.md>) by [Agata](<../fey/agata.md>). Missing one eye, with gray hair, incoherent. Most recently under the care of [Cintra](<cintra.md>) after his ordeal. 
+
+
 
 
 

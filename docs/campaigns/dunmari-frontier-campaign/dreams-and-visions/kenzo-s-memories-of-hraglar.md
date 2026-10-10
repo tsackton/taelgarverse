@@ -19,7 +19,7 @@ Brief flashes come to you. A memory of the rage swelling within you. The impoten
 
 Until searing pain, and you can no longer see, and you can feel the angry ghost you forced into the statue looking for you. Sometimes it takes control, and you lash out, the wind and lightning growing strong. Sometimes you fight it off, keep your mind in your dream haven. 
 
-These memories rattle in your mind, and you see them as flashes, somehow knowing they are [Hralgar](<../../../people/giants/hralgar.md>)'s, not yours. You are Jorundr, come to save your friend. But you remember a red mist, spreading across the land. Death, and sickness, and passing beyond the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>) to the home of your ancestors. You feel displaced from time, unstuck, confused. 
+These memories rattle in your mind, and you see them as flashes, somehow knowing they are [Hralgar](<../../../people/giants/hralgar.md>)'s, not yours. You are [Jorundr](<../../../people/giants/jorundr.md>), come to save your friend. But you remember a red mist, spreading across the land. Death, and sickness, and passing beyond the [Land of the Dead](<../../../cosmology/land-of-the-dead.md>) to the home of your ancestors. You feel displaced from time, unstuck, confused. 
 
 Until your mind clears suddenly, and you find yourself standing in [Hralgar](<../../../people/giants/hralgar.md>)'s dreamscape in the mountains, [Kenzo](<../../../people/pcs/dunmar-fellowship/kenzo.md>) once more. 
 

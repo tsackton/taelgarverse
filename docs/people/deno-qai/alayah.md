@@ -2,14 +2,15 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
+tags: [person, status/cleanup/text]
 species: human
 ancestry: Deno'qai
 born: 1725
 gender: female
 name: Alayah
+pronunciation: ah-LAH-yah
 whereabouts:
-- {type: home, location: Te'kula village}
+- {type: home, location: Neshet}
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
@@ -18,6 +19,7 @@ title: Alayah
 hide_toc: true
 ---
 # Alayah
+:speaker:{ .middle } *(ah-LAH-yah)*  
 <div class="grid cards ext-narrow-margin ext-one-column" markdown>
 - :octicons-info-24:{ .lg .middle } __Biographical Information__
 
@@ -25,7 +27,7 @@ hide_toc: true
     Born DR 1725 (25 years old)  
     { .bio }
 
-    Based in [Te'kula village](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
+    Based in [Neshet](<../../gazetteer/central-highlands/neshet.md>), the [Elderwood](<../../gazetteer/central-highlands/elderwood.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 

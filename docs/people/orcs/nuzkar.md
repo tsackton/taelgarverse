@@ -30,7 +30,7 @@ hide_toc: true
     Born DR 1698 (52 years old)  
     { .bio }
 
-    Originally from: Gorzum
+    Originally from: [Gorzum](<../../gazetteer/upper-istaros/xurkhaz/gorzum.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
     Based in [Uzgukhar](<../../gazetteer/upper-istaros/xurkhaz/uzgukhar.md>), [Xurkhaz](<../../gazetteer/upper-istaros/xurkhaz/xurkhaz.md>), the [Garamjala Desert](<../../gazetteer/drankorian-hinterland/garamjala-plateau/garamjala-desert.md>)
 </div>
 

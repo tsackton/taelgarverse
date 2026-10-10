@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: '2026-10-03T14:10:06-04:00'
 lintVersion: '3.5'
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/check/lint]
 species: human
 ancestry: Deno'qai
 campaignInfo: []
@@ -13,7 +13,7 @@ pronunciation: yo-TAH
 affiliations:
 - {org: Ko'zula, type: primary}
 whereabouts:
-- {type: home, end: 1743, location: Ko'zula village}
+- {type: home, end: 1743, location: Azkar}
 - {type: home, start: 1743, end: 1749-03-21, location: Great Northern Forest}
 - {type: away, start: 1749-03-21, end: 9999, location: Vindristjarna}
 knownTo: [dufr]
@@ -32,7 +32,7 @@ hide_toc: true
     Born DR 1719 (31 years old)  
     { .bio }
 
-    Originally from: the Ko'zula village
+    Originally from: [Azkar](<../../gazetteer/central-highlands/azkar.md>), the [Forest of Dreams](<../../gazetteer/central-highlands/forest-of-dreams.md>), [Ainumarya](<../../gazetteer/central-highlands/ainumarya.md>)
 </div>
 
 :octicons-location-24:{ .lg .middle } Currently on [Vindristjarna](<../../things/ships/vindristjarna.md>), in the [Gulf of Chardon](<../../gazetteer/greater-chardon/gulf-of-chardon.md>), the [Endless Ocean](<../../gazetteer/endless-ocean.md>)
